@@ -18,7 +18,7 @@ Billing disputes.—
 
 &emsp;&emsp;(A)
 
-Initiated by motor carriers.—In those cases where a motor carrier (other than a motor carrier providing transportation of household goods or in noncontiguous domestic trade) seeks to collect charges in addition to those billed and collected which are contested by the payor, the carrier may request that the Board determine whether any additional charges over those billed and collected must be paid. A carrier must issue any bill for charges in addition to those originally billed within 180 days of the receipt of the original bill in order to have the right to collect such charges.
+Initiated by motor carriers.—In those cases where a motor carrier (otherthan a motor carrier providing transportation of household goods or in noncontiguous domestic trade) seeks to collect charges in addition to those billed and collected which are contested by the payor, the carrier may request that the Board determine whether any additional charges over those billed and collected must be paid. A carrier must issue any bill for charges in addition to those originally billed within 180 days of the receipt of the original bill in order to have the right to collect such charges.
 
 &emsp;&emsp;(B)
 
@@ -26,23 +26,37 @@ Initiated by shippers.—If a shipper seeks to contest the charges originally bi
 
 &emsp;(4)
 
-Voiding of certain tariffs.—Any tariff on file with the Interstate Commerce Commission on August 26, 1994, and not required to be filed after that date is null and void beginning on that date. Any tariff on file with the Interstate Commerce Commission on the effective date of this section and not required to be filed after that date is null and void beginning on that date.
+Voiding of certain tariffs.—Any tariff on file with the Interstate Commerce Commission on August 26, 1994, and not required to be filed after that date is null and void beginning on that date. Any tariff on file with the Interstate Commerce Commission on January 1, 1996, and not required to be filed after that date is null and void beginning on that date.
 
 (b)
 
-Resolution of Disputes Over Status of Common Carrier or Contract Carrier.—If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on the day before the effective date of this section, and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to the effective date of this section was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
+Resolution of Disputes Over Status of Common Carrier or Contract Carrier.—If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995, and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to January 1, 1996, was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 876.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 876; amended Pub. L. 104–287, §5(30), Oct. 11, 1996, 110 Stat. 3391.)
+
+#### Historical and Revision Notes
+
+I74Pub. L. 104–287, §5(30)(A)
+
+This sets out the effective date of 49:13710.
+
+#### Pub. L. 104–287, §5(30)(B)
+
+This amends 49:13710(b) by setting out the effective date for 49:13710 and for clarity and consistency.
 
 #### References in Text
 
-For the effective date of this section, referred to in subsecs. (a)(4) and (b), as Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
-
-Subchapter II of chapter 105, as in effect on the day before the effective date of this section, referred to in subsec. (b), means subchapter II (§10521 et seq.) of chapter 105 of this title as in effect on the day before Jan. 1, 1996. That subchapter was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105, referred to in subsec. (b), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 10762 and 11101 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+1996—Subsec. (a)(4). Pub. L. 104–287, §5(30)(A), substituted “January 1, 1996,” for “the effective date of this section”.
+
+Subsec. (b). Pub. L. 104–287, §5(30)(B), substituted “December 31, 1995” for “the day before the effective date of this section” and “January 1, 1996,” for “the effective date of this section”.
 
 #### Abolition of Interstate Commerce Commission
 

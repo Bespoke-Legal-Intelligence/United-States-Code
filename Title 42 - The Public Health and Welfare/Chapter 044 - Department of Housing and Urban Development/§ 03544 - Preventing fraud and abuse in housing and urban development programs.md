@@ -18,7 +18,7 @@ As used in this section:
 
 #### (4) Program of the Department of Housing and Urban Development
 
-&emsp;The term “program of the Department of Housing and Urban Development” includes Indian housing programs assisted under title II of the United States Housing Act of 1937 \[42 U.S.C. 1437aa et seq.\].
+&emsp;The term “program of the Department of Housing and Urban Development” includes Indian housing programs assisted under title II <sup>1</sup> of the United States Housing Act of 1937.
 
 #### (b) Applicant and participant consent
 
@@ -78,7 +78,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 An applicant or participant under any program of the Department of Housing and Urban Development may not be required or requested to consent to the release of information by thirdparties as a condition of initial or continuing eligibility for participation in the program unless—
 
-&emsp;(1) the request for consent is made, and the information secured is maintained, in accordance with this section,<sup>1</sup> section 552a of title 5; and
+&emsp;(1) the request for consent is made, and the information secured is maintained, in accordance with this section,<sup>2</sup> section 552a of title 5; and
 
 &emsp;(2) the consent that is requested is appropriately limited, with respect to time and information relevant and necessary to meet the requirements of this section.
 
@@ -86,7 +86,7 @@ An applicant or participant under any program of the Department of Housing and U
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act is classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 The amendments made by subsection (c)(1), referred to in subsec. (d)(2), (3), mean the amendments made by section 904(c)(1) of Pub. L. 100–628, which enacted section 503(i) and amended section 504(a)(2) of this title. See Codification note below.
 
@@ -128,5 +128,7 @@ Section 903(b) of Pub. L. 102–550 directed Secretary of Housing and Urban Deve
 
 This section is referred to in section 1437g of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be “and”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be “and”.</i>
 

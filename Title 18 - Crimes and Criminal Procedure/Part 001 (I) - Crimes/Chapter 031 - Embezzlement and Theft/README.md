@@ -17,28 +17,33 @@
 | [653\.](%C2%A7%2000653%20-%20Disbursing%20officer%20misusing%20public%20funds.md) | Disbursing officer misusing public funds. |
 | [654\.](%C2%A7%2000654%20-%20Officer%20or%20employee%20of%20United%20States%20converting%20property%20of%20another.md) | Officer or employee of United States converting property of another. |
 | [655\.](%C2%A7%2000655%20-%20Theft%20by%20bank%20examiner.md) | Theft by bank examiner. |
-| [656\.](%C2%A7%2000656%20-%20Theft%2C%20embezzlement%2C%20or%20misapplication%20by%20bank%20officer%20or%20employee.md) | Theft, embezzlement <sup>1</sup> or misapplication by bank officer or employee. |
+| [656\.](%C2%A7%2000656%20-%20Theft%2C%20embezzlement%2C%20or%20misapplication%20by%20bank%20officer%20or%20employee.md) | Theft, embezzlement, or misapplication by bank officer or employee. |
+| [657\.](%C2%A7%2000657%20-%20Lending%2C%20credit%20and%20insurance%20institutions.md) | Lending, credit and insurance institutions. |
+| [658\.](%C2%A7%2000658%20-%20Property%20mortgaged%20or%20pledged%20to%20farm%20credit%20agencies.md) | Property mortgaged or pledged to farm credit agencies. |
+| [659\.](%C2%A7%2000659%20-%20Interstate%20or%20foreign%20shipments%20by%20carrier%3B%20State%20prosecutions.md) | Interstate or foreign shipments by carrier; State prosecutions. |
+| [660\.](%C2%A7%2000660%20-%20Carrier%27s%20funds%20derived%20from%20commerce%3B%20State%20prosecutions.md) | Carrier's funds derived from commerce; State prosecutions. |
+| [661\.](%C2%A7%2000661%20-%20Within%20special%20maritime%20and%20territorial%20jurisdiction.md) | Within special maritime and territorial jurisdiction. |
+| [662\.](%C2%A7%2000662%20-%20Receiving%20stolen%20property%20within%20special%20maritime%20and%20territorial%20jurisdiction.md) | Receiving stolen property,<sup>1</sup> within special maritime and territorial jurisdiction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| [657\.](%C2%A7%2000657%20-%20Lending%2C%20credit%20and%20insurance%20institutions.md) | Lending, credit and insurance institutions. |
-| 658\. | Property mortgaged or pledged to farm credit agencies. |
-| 659\. | Interstate or foreign shipments by carrier; State prosecutions. |
-| 660\. | Carrier's funds derived from commerce; State prosecutions. |
-| 661\. | Within special maritime and territorial jurisdiction. |
-| 662\. | Receiving stolen property,<sup>1</sup> within special maritime and territorial jurisdiction. |
-| 663\. | Solicitation or use of gifts. |
-| 664\. | Theft or embezzlement from employee benefit plan. |
-| 665\. | Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations. |
-| 666\. | Theft or bribery concerning programs receiving Federal funds. |
-| 667\. | Theft of livestock. |
-| 668\. | Theft of major artwork. |
+| [663\.](%C2%A7%2000663%20-%20Solicitation%20or%20use%20of%20gifts.md) | Solicitation or use of gifts. |
+| [664\.](%C2%A7%2000664%20-%20Theft%20or%20embezzlement%20from%20employee%20benefit%20plan.md) | Theft or embezzlement from employee benefit plan. |
+| [665\.](%C2%A7%2000665%20-%20Theft%20or%20embezzlement%20from%20employment%20and%20training%20funds%3B%20improper%20inducement%3B%20obstruction%20of%20investigations.md) | Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations. |
+| [666\.](%C2%A7%2000666%20-%20Theft%20or%20bribery%20concerning%20programs%20receiving%20Federal%20funds.md) | Theft or bribery concerning programs receiving Federal funds. |
+| [667\.](%C2%A7%2000667%20-%20Theft%20of%20livestock.md) | Theft of livestock. |
+| [668\.](%C2%A7%2000668%20-%20Theft%20of%20major%20artwork.md) | Theft of major artwork. |
+| [669\.](%C2%A7%2000669%20-%20Theft%20or%20embezzlement%20in%20connection%20with%20health%20care.md) | Theft or embezzlement in connection with health care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–294, title VI, §601(f)(7), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “embezzlement” in item 656.
+
+Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item 669.
 
 1994—Pub. L. 103–322, title XXXII, §320902(d)(1), Sept. 13, 1994, 108 Stat. 2124, added item 668.
 
@@ -161,3 +166,4 @@ Vessel's owner, limitation of liability for embezzlement of merchandise, see sec
 - [&sect; 00666 - Theft or bribery concerning programs receiving Federal funds](%C2%A7%2000666%20-%20Theft%20or%20bribery%20concerning%20programs%20receiving%20Federal%20funds.md)
 - [&sect; 00667 - Theft of livestock](%C2%A7%2000667%20-%20Theft%20of%20livestock.md)
 - [&sect; 00668 - Theft of major artwork](%C2%A7%2000668%20-%20Theft%20of%20major%20artwork.md)
+- [&sect; 00669 - Theft or embezzlement in connection with health care](%C2%A7%2000669%20-%20Theft%20or%20embezzlement%20in%20connection%20with%20health%20care.md)

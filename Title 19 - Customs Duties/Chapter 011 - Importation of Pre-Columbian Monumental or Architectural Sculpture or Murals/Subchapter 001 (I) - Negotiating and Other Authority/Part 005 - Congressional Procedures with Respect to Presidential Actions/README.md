@@ -2,9 +2,7 @@ Part 5—
 
 Congressional Procedures With Respect to Presidential Actions
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be section “5315”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “5315”.</i>
 
 
 ---

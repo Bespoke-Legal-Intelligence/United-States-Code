@@ -20,7 +20,7 @@ Grants under this subchapter may be used in public housing or other federally as
 
 &emsp;(6) programs designed to reduce use of drugs in and around public or other federally assisted low-income housing projects, including drug-abuse prevention, intervention, referral, and treatment programs; and
 
-&emsp;(7) where a public housing agency receives a grant, providing funding to nonprofit public housing resident management corporations and resident councils to develop security and drug abuse prevention programs involving site residents.
+&emsp;(7) where a public housing agency or tribally designated housing entity receives a grant, providing funding to nonprofit resident management corporations and resident councils to develop security and drug abuse prevention programs involving site residents.
 
 #### (b) Other PHA-owned housing
 
@@ -30,13 +30,15 @@ Notwithstanding any other provision of this subchapter, grants under this subcha
 
 &emsp;(2) the public housing agency owning the housing demonstrates, to the satisfaction of the Secretary, that drug-related activity at the housing has a detrimental effect on or about the real property comprising any public or other federally assisted low-income housing.
 
-(Pub. L. 100–690, title V, §5124, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4246; Pub. L. 102–550, title I, §161(c), (d)(2), Oct. 28, 1992, 106 Stat. 3718, 3719.)
+(Pub. L. 100–690, title V, §5124, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4246; Pub. L. 102–550, title I, §161(c), (d)(2), Oct. 28, 1992, 106 Stat. 3718, 3719; Pub. L. 104–330, title VII, §704(2), Oct. 26, 1996, 110 Stat. 4051.)
 
 #### References in Text
 
 The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–330 inserted “or tribally designated housing entity” after “public housing agency” and struck out “public housing” after “nonprofit”.
 
 1992—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, inserted “where a public housing agency receives a grant,” in par. (7), and added subsec. (b).
 
@@ -59,4 +61,8 @@ The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 
 &emsp;“(6) innovative programs designed to reduce use of drugs in and around public housing projects; and
 
 &emsp;“(7) providing funding to nonprofit public housing resident management corporation and tenant councils to develop security and drug abuse prevention programs involving site residents.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 

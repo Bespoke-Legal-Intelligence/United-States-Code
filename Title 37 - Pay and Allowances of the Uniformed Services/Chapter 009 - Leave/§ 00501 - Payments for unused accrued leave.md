@@ -12,7 +12,7 @@
 
 (2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant, or entering into an enlistment, in any uniformed service.
 
-(3) Payment may not be made to a member for any leave he elects to have carried over to a newenlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
+(3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
 (4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
 
@@ -26,15 +26,15 @@
 
 (c) Unused accrued leave for which payment is made under subsection (b) is not considered as service for any purpose.
 
-(d)(1) Payments for unused accrued leave under subsections (b) and (g), in the case of a member who dies while on active duty or in the case of a member or former member who dies after retirement or discharge and before he receives that payment, shall be made in accordance with section 2771 of title 10. In the case of a member who dies while on active duty, payment for unused accrued leave under subsections (b) and (g) shall be based upon the unused accrued leave the member carried forward into the leave year during which he died plus the unused leave that accrued to him during that leave year. Except as provided in paragraph (2), the number of days upon which payment is based is subject to subsection (f).
+(d)(1) Payments for unused accrued leave under subsections (b) and (g), in the case of a member who dies while on active duty or in the case of a member or former member who dies after retirement or discharge and before he receives that payment, shall be made in accordance with section 2771 of title 10. In the case of a member who dies while on active duty, payment for unused accrued leave under subsections (b) and (g) shall be based upon the unused accrued leave the member carried forward into the leave year during which he died plus the unused leave that accrued to him during that leave year.
 
-(2) In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty in support of a contingency operation, the limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection for leave accrued during the contingency operation.
+(2) The limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection.
 
 (e)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.
 
 (2) The Secretary concerned may require that a member of a uniformed service who is discharged before completing six months of active duty because of a failure to serve satisfactorily (as determined by the Secretary concerned) forfeit all accrued leave to his credit at the time of his discharge.
 
-(f) The number of days upon which payment under subsection (b), (d), or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976. For the purposes of this subsection, the number of days upon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
+(f) The number of days upon which payment under subsection (b) or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976. For the purposes of this subsection, the number of days upon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
 
 (g) An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
 
@@ -48,7 +48,7 @@
 
 (h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368.)
 
 Historical and Revision Notes
 
@@ -120,6 +120,12 @@ In subsection (g), the word “retirement” is omitted as covered by the words 
 
 #### Amendments
 
+1996—Subsec. (d)(1). Pub. L. 104–106, §641(a)(1), struck out at end “Except as provided in paragraph (2), the number of days upon which payment is based is subject to subsection (f).”
+
+Subsec. (d)(2). Pub. L. 104–106, §641(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty in support of a contingency operation, the limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection for leave accrued during the contingency operation.”
+
+Subsec. (f). Pub. L. 104–106, §641(b), struck out “, (d),” before “or (g) is based”.
+
 1991—Subsec. (b)(5). Pub. L. 102–190, §637(b), added par. (5).
 
 Subsec. (c). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “subsection (b)”.
@@ -168,7 +174,7 @@ Subsec. (d). Pub. L. 89–718, §65, substituted “60” for “sixty”.
 
 1965—Subsec. (a)(1). Pub. L. 89–151, §1, added subpar. (C).
 
-Subsec. (d). Pub. L. 89–151, §2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
+Subsec. (d). Pub. L. 89–151, §2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title 10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Interstate cooperation; uniform State laws; State compacts
 
-The Administrator shall encourage cooperative activities by the States and local governments for the prevention and control of air pollution; encourage the enactment of improved and, so far as practicable in the light of varying conditions and needs, uniform State and local laws relating to the prevention and control of air pollution; and encourage the making of agreements and compacts between States for the prevention and control of air pollution.
+The Administrator shall encourage cooperative activities by the States and local governments for the prevention and control of air pollution; encourage the enactment of improved and, so far as practicable in the light of varying conditions and needs, uniform State and locallaws relating to the prevention and control of air pollution; and encourage the making of agreements and compacts between States for the prevention and control of air pollution.
 
 #### (b) Federal cooperation
 
@@ -10,7 +10,7 @@ The Administrator shall cooperate with and encourage cooperative activities by a
 
 #### (c) Consent of Congress to compacts
 
-The consent of the Congress is hereby given to two or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, for (1) cooperative effort and mutual assistance for the prevention and control of air pollution and the enforcement of their respective laws relating thereto, and (2) the establishment of such agencies, joint or otherwise, as they may deem desirable for making effective such agreements or compacts. No such agreement or compact shall be binding or obligatory upon any State a party thereto unless and until it has been approved by Congress. It is the intent of Congress that no agreement or compact entered into between States after November 21, 1967, which relates to the control and abatement of air pollution in an air quality control region, shall provide for participation by a State which is not included (inwhole or in part) in such air quality control region.
+The consent of the Congress is hereby given to two or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, for (1) cooperative effort and mutual assistance for the prevention and control of air pollution and the enforcement of their respective laws relating thereto, and (2) the establishment of such agencies, joint or otherwise, as they may deem desirable for making effective such agreements or compacts. No such agreement or compact shall be binding or obligatory upon any State a party thereto unless and until it has been approved by Congress. It is the intent of Congress that no agreement or compact entered into between States after November 21, 1967, which relates to the control and abatement of air pollution in an air quality control region, shall provide for participation by a State which is not included (in whole or in part) in such air quality control region.
 
 (July 14, 1955, ch. 360, title I, §102, formerly §2, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 393; renumbered §102, Oct. 20, 1965, Pub. L. 89–272, title I, §101(3), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485; Dec. 31, 1970, Pub. L. 91–604, §15(c)(2), 84 Stat. 1713.)
 

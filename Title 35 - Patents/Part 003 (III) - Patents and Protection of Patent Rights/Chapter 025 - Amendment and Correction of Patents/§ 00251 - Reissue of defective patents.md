@@ -6,7 +6,7 @@ The Commissioner may issue several reissued patents for distinct and separate pa
 
 The provisions of this title relating to applications for patent shall be applicable to applications for reissue of a patent, except that application for reissue may be made and sworn to by the assignee of the entire interest if the application does not seek to enlarge the scope of the claims of the original patent.
 
-No reissued patent shall be granted enlarging the scope of the claims of the original patentunless applied for within two years from the grant of the original patent.
+No reissued patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent.
 
 (July 19, 1952, ch. 950, 66 Stat. 808.)
 

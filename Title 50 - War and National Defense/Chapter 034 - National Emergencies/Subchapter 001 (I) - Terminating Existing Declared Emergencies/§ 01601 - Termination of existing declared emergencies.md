@@ -1,6 +1,6 @@
 ### §1601. Termination of existing declared emergencies
 
-(a) All powers and authorities possessed by the President, any other officer or employee of theFederal Government, or any executive agency, as defined in section 105 of title 5, as a result of the existence of any declaration of national emergency in effect on September 14, 1976, are terminated two years from September 14, 1976. Such termination shall not affect—
+(a) All powers and authorities possessed by the President, any other officer or employee of the Federal Government, or any executive agency, as defined in section 105 of title 5, as a result of the existence of any declaration of national emergency in effect on September 14, 1976, are terminated two years from September 14, 1976. Such termination shall not affect—
 
 &emsp;(1) any action taken or proceeding pending not finally concluded or determined on such date;
 

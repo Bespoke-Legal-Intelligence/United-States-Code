@@ -6,17 +6,81 @@ In the case of a corporation, gross income does not include any contribution to 
 
 #### (b) Contributions in aid of construction, etc.
 
-For purposes of subsection (a), the term “contribution to the capital of the taxpayer” does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
+For purposes of subsection (a), except as provided in subsection (c), the term “contribution to the capital of the taxpayer” does not include any contribution in aid of construction or any other contribution as a customer or potential customer.
 
-#### (c) Cross references
+#### (c) Special rules for water and sewerage disposal utilities
+
+#### (1) General rule
+
+&emsp;For purposes of this section, the term “contribution to the capital of the taxpayer” includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
+
+&emsp;&emsp;(A) such amount is a contribution in aid of construction,
+
+&emsp;&emsp;(B) in the case of contribution of property other than water or sewerage disposal facilities, such amount meets the requirements of the expenditure rule of paragraph (2), and
+
+&emsp;&emsp;(C) such amount (or any property acquired or constructed with such amount) is not included in the taxpayer's rate base for ratemaking purposes.
+
+#### (2) Expenditure rule
+
+&emsp;An amount meets the requirements of this paragraph if—
+
+&emsp;&emsp;(A) an amount equal to such amount is expended for the acquisition or construction of tangible property described in section 1231(b)—
+
+&emsp;&emsp;&emsp;(i) which is the property for which the contribution was made or is of the same type as such property, and
+
+&emsp;&emsp;&emsp;(ii) which is used predominantly in the trade or business of furnishing water or sewerage disposal services,
+
+&emsp;&emsp;(B) the expenditure referred to in subparagraph (A) occurs before the end of the second taxable year after the year in which such amount was received, and
+
+&emsp;&emsp;(C) accurate records are kept of the amounts contributed and expenditures made, the expenditures to which contributions are allocated, and the year in which the contributions and expenditures are received and made.
+
+#### (3) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Contribution in aid of construction
+
+&emsp;&emsp;The term “contribution in aid of construction” shall be defined by regulations prescribed by the Secretary, except that such term shall not include amounts paid as service charges for starting or stopping services.
+
+#### (B) Predominantly
+
+&emsp;&emsp;The term “predominantly” means 80 percent or more.
+
+#### (C) Regulated public utility
+
+&emsp;&emsp;The term “regulated public utility” has the meaning given such term by section 7701(a)(33), except that such term shall not include any utility which is not required to provide water or sewerage disposal services to members of the general public in its service area.
+
+#### (4) Disallowance of deductions and credits; adjusted basis
+
+&emsp;Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed for, or by reason of, any expenditure which constitutes a contribution in aid of construction to which this subsection applies. The adjusted basis of any property acquired with contributions in aid of construction to which this subsection applies shall be zero.
+
+#### (d) Statute of limitations
+
+If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (c), then—
+
+&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+
+&emsp;&emsp;(A) the amount of the expenditure referred to in subparagraph (A) of subsection (c)(2),
+
+&emsp;&emsp;(B) the taxpayer's intention not to make the expenditures referred to in such subparagraph, or
+
+&emsp;&emsp;(C) a failure to make such expenditure within the period described in subparagraph (B) of subsection (c)(2), and
+
+&emsp;(2) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+
+#### (e) Cross references
 
 &emsp;&emsp;<b>(1) For basis of property acquired by a corporation through a contribution to its capital, see section 362.</b>
 
 &emsp;&emsp;<b>(2) For special rules in the case of contributions of indebtedness, see section 108(e)(6).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 39; Oct. 4, 1976, Pub. L. 94–455, title XXI, §2120(a), 90 Stat. 1912; Nov. 6, 1978, Pub. L. 95–600, title III, §364(a), 92 Stat. 2854; Dec. 24, 1980, Pub. L. 96–589, §2(e)(2), 94 Stat. 3396; July 18, 1984, Pub. L. 98–369, div. A, title I, §163(a), 98 Stat. 697; Oct. 22, 1986, Pub. L. 99–514, title VIII, §824(a), 100 Stat. 2374.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 39; Oct. 4, 1976, Pub. L. 94–455, title XXI, §2120(a), 90 Stat. 1912; Nov. 6, 1978, Pub. L. 95–600, title III, §364(a), 92 Stat. 2854; Dec. 24, 1980, Pub. L. 96–589, §2(e)(2), 94 Stat. 3396; July 18, 1984, Pub. L. 98–369, div. A, title I, §163(a), 98 Stat. 697; Oct. 22, 1986, Pub. L. 99–514, title VIII, §824(a), 100 Stat. 2374; Aug. 20, 1996, Pub. L. 104–188, title I, §1613(a)(1), (2), 110 Stat. 1848–1850.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–188, §1613(a)(2), inserted “except as provided in subsection (c),” before “the term”.
+
+Subsecs. (c) to (e). Pub. L. 104–188, §1613(a)(1), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 1986—Subsec. (b). Pub. L. 99–514, §824(a), added subsec. (b) and struck out former subsec. (b) relating to contributions in aid of construction, containing par. (1) general rule, par. (2) expenditure rule, par. (3) definitions, and par. (4) disallowance of deductions and investment credit; adjusted basis.
 
@@ -46,6 +110,10 @@ Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted “electric energy
 
 1976—Subsecs. (b), (c). Pub. L. 94–455, §2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Effective Date of 1996 Amendment
+
+Section 1613(a)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section\] shall apply to amounts received after June 12, 1996.”
+
 #### Effective Date of 1986 Amendment
 
 Section 824(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(j)(2), Nov. 10, 1988, 102 Stat. 3445, provided that:
@@ -64,7 +132,7 @@ Treatment of certain contributions by transportation authority.—The amendments
 
 “(4)
 
-Treatment of certain partnerships.—In the case of a partnership with a taxable year beginning May 1, 1986, if such partnership realized net capital gain during the period beginning on the 1st day of such taxable year and ending on May 29, 1986, pursuant to an underwriting agreement dated May 6, 1986, then such partnership may elect to treat each asset to which such net capital gain relates as having been distributed to the partners of such partnership in proportion to their distributive share of the capital gain or loss realized by the partnership with respect to such asset and to treat each such asset as having been sold by each partner on the date of the sale of the asset by the partnership. If such an election is made, the consideration received by the partnership in connection with the sale of such assets shall be treated as having been received by the partners in connection with the deemed sale of such assets. In the case of a tiered partnership, for purposes of this paragraph each partnership shall be treated as having realized net capital gain equal to its proportionate share of the net capital gain of each partnership in which it is a partner, and the election provided by this paragraph shall apply to each tier.”
+Treatment of certain partnerships.—In the case of a partnership with a taxable year beginning May 1, 1986, if such partnership realized net capital gain during the period beginning on the 1st day of such taxable year and ending on May 29, 1986, pursuant to an underwriting agreement dated May 6, 1986, then such partnership may elect to treat each asset to which such net capital gain relates as having been distributed tothe partners of such partnership in proportion to their distributive share of the capital gain or loss realized by the partnership with respect to such asset and to treat each such asset as having been sold by each partner on the date of the sale of the asset by the partnership. If such an election is made, the consideration received by the partnership in connection with the sale of such assets shall be treated as having been received by the partners in connection with the deemed sale of such assets. In the case of a tiered partnership, for purposes of this paragraph each partnership shall be treated as having realized net capital gain equal to its proportionate share of the net capital gain of each partnership in which it is a partner, and the election provided by this paragraph shall apply to each tier.”
 
 #### Effective Date of 1984 Amendment
 

@@ -84,7 +84,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(A) the term “small business concern” has the meaning such term has under section 3 of the Small Business Act; and
 
-&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaningsuch term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section.
+&emsp;&emsp;(B) the term “socially and economically disadvantaged individuals” has the meaning such term has under section 8(d) of the Small Business Act and relevant subcontracting regulations promulgated pursuant to that section.
 
 (g)
 
@@ -110,7 +110,7 @@ A prior section 6701, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1010; Pub. L. 9
 
 #### Regulations
 
-Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
+Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue SharingAct \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
 
 #### Section Referred to in Other Sections
 

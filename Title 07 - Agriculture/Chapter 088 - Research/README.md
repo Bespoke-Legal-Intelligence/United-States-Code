@@ -26,10 +26,7 @@
 | (i) | Indemnification. |
 | [5812\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20A%20-%20Best%20Utilization%20of%20Biological%20Applications/%C2%A7%2005812%20-%20Program%20administration.md) | Program administration. |
 | (a) | Duties of Secretary. |
-| (b) | Reports. |
-| (c) | National Sustainable Agriculture Advisory Council. |
-| (d) | Responsibilities of Advisory Council. |
-| (e) | Regional Administrative Councils. |
+| (b) | Regional Administrative Councils. |
 | [5813\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20A%20-%20Best%20Utilization%20of%20Biological%20Applications/%C2%A7%2005813%20-%20Federal-State%20matching%20grant%20program.md) | Federal-State matching grant program. |
 | (a) | Establishment. |
 | (b) | Eligible programs and activities. |
@@ -64,14 +61,14 @@
 
 |  |  |
 | :--- | ---: |
-| [5831\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20C%20-%20Sustainable%20%EF%BF%BD7E%EF%BF%BD7EAgriculture%20%EF%BF%BD7E%EF%BF%BD7ETechnology%20Development%20and%20Transfer%20Program/%C2%A7%2005831%20-%20Technical%20guides%20and%20handbooks.md) | Technical guides and handbooks. |
+| [5831\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20C%20-%20Sustainable%20Agriculture%20Technology%20Development%20and%20Transfer%20Program/%C2%A7%2005831%20-%20Technical%20guides%20and%20handbooks.md) | Technical guides and handbooks. |
 | (a) | Development. |
 | (b) | Consultation and coordination. |
 | (c) | Topics of handbooks and guides. |
 | (d) | Organization and contents. |
 | (e) | Availability. |
 | (f) | Authorization of appropriations. |
-| [5832\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20C%20-%20Sustainable%20%EF%BF%BD7E%EF%BF%BD7EAgriculture%20%EF%BF%BD7E%EF%BF%BD7ETechnology%20Development%20and%20Transfer%20Program/%C2%A7%2005832%20-%20National%20Training%20Program.md) | National Training Program. |
+| [5832\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20C%20-%20Sustainable%20Agriculture%20Technology%20Development%20and%20Transfer%20Program/%C2%A7%2005832%20-%20National%20Training%20Program.md) | National Training Program. |
 | (a) | In general. |
 | (b) | Administration. |
 | (c) | Required training. |
@@ -111,7 +108,7 @@
 | (i) | Orientation and training. |
 | (j) | Comments and recommendations. |
 | (k) | Reports. |
-| (<i>l)</i> | Application of Advisory Committee Act. |
+| (<i>l</i>) | Application of Advisory Committee Act. |
 | [5844\.](Subchapter%20002%20%28II%29%20-%20National%20Genetic%20Resources%20Program/%C2%A7%2005844%20-%20Definitions%20and%20authorization%20of%20appropriations.md) | Definitions and authorization of appropriations. |
 | (a) | Definitions. |
 | (b) | Authorization of appropriations. |
@@ -151,51 +148,17 @@
 
 #### SUBCHAPTER IV—RESEARCH REGARDING PRODUCTION, PREPARATION, PROCESSING, HANDLING, AND STORAGE OF AGRICULTURAL PRODUCTS
 
-|  |  |
-| :--- | ---: |
-| [5871\.](Subchapter%20004%20%28IV%29%20-%20Research%20Regarding%20Production%2C%20Preparation%2C%20Processing%2C%20Handling%2C%20and%20Storage%20of%20Agricultural%20Products/%C2%A7%2005871%20-%20Research%20and%20grant%20program.md) | Research and grant program. |
-| (a) | Research program. |
-| (b) | Competitive grant program. |
-| (c) | Prohibited uses. |
-| (d) | Eligibility requirements. |
-| (e) | Effect on other programs. |
-| (f) | “Agricultural product” defined. |
-| [5872\.](Subchapter%20004%20%28IV%29%20-%20Research%20Regarding%20Production%2C%20Preparation%2C%20Processing%2C%20Handling%2C%20and%20Storage%20of%20Agricultural%20Products/%C2%A7%2005872%20-%20Advisory%20committee%20and%20grant%20process.md) | Advisory committee and grant process. |
-| (a) | Advisory committee. |
-| (b) | Membership. |
-| (c) | Public notice. |
-| (d) | Review of research proposals. |
-| (e) | Basic and applied research. |
-| (f) | Review of completed projects. |
-| (g) | Application of Federal Advisory Committee Act. |
-| [5873\.](Subchapter%20004%20%28IV%29%20-%20Research%20Regarding%20Production%2C%20Preparation%2C%20Processing%2C%20Handling%2C%20and%20Storage%20of%20Agricultural%20Products/%C2%A7%2005873%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| (a) | Report on implementation. |
-| (b) | Reports on research. |
-| [5874\.](Subchapter%20004%20%28IV%29%20-%20Research%20Regarding%20Production%2C%20Preparation%2C%20Processing%2C%20Handling%2C%20and%20Storage%20of%20Agricultural%20Products/%C2%A7%2005874%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization. |
-| (b) | Administrative expenses. |
+|  |
+| :--- |
+| 5871 to 5874. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER V—PLANT AND ANIMAL PEST AND DISEASE CONTROL PROGRAM
 
-|  |  |
-| :--- | ---: |
-| [5881\.](Subchapter%20005%20%28V%29%20-%20Plant%20and%20Animal%20Pest%20and%20Disease%20Control%20Program/%C2%A7%2005881%20-%20Plant%20and%20animal%20pest%20and%20disease%20control%20program.md) | Plant and animal pest and disease control program. |
-| (a) | Integrated pest management research. |
-| (b) | Effect on other laws. |
-| (c) | “Integrated pest management” defined. |
-| [5882\.](Subchapter%20005%20%28V%29%20-%20Plant%20and%20Animal%20Pest%20and%20Disease%20Control%20Program/%C2%A7%2005882%20-%20Pest%20and%20disease%20control%20data%20base%20and%20pesticide%20resistance%20monitoring.md) | Pest and disease control data base and pesticide resistance monitoring. |
-| (a) | Data base required. |
-| (b) | Priorities for research and extension activities. |
-| (c) | Dissemination of information in data base. |
-| (d) | Pesticide resistance monitoring. |
-| (e) | “Pesticide” defined. |
-| [5883\.](Subchapter%20005%20%28V%29%20-%20Plant%20and%20Animal%20Pest%20and%20Disease%20Control%20Program/%C2%A7%2005883%20-%20Research%20on%20exotic%20pests.md) | Research on exotic pests. |
-| (a) | Purpose. |
-| (b) | Research program. |
-| [5884\.](Subchapter%20005%20%28V%29%20-%20Plant%20and%20Animal%20Pest%20and%20Disease%20Control%20Program/%C2%A7%2005884%20-%20Study%20of%20biology%20and%20behavior%20of%20chinch%20bugs%2C%20including%20factors%20leading%20to%20crop%20loss%20and%20development%20of%20improved%20management%20practices.md) | Study of biology and behavior of chinch bugs, including factors leading to crop loss and development of improved management practices. |
-| [5885\.](Subchapter%20005%20%28V%29%20-%20Plant%20and%20Animal%20Pest%20and%20Disease%20Control%20Program/%C2%A7%2005885%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 5881 to 5885. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -207,24 +170,29 @@
 | (a) | Short title. |
 | (b) | Purpose. |
 | (c) | Definitions. |
-| [5902\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005902%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization%20Center.md) | Alternative Agricultural Research and Commercialization Center. |
+| [5902\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005902%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization%20Corporation.md) | Alternative Agricultural Research and Commercialization Corporation. |
 | (a) | Establishment. |
-| (b) | Functions. |
-| (c) | Director. |
-| (d) | Responsibilities of Director. |
-| (e) | Staff. |
-| (f) | Experts and consultants. |
-| [5903\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005903%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization%20Board.md) | Alternative Agricultural Research and Commercialization Board. |
-| (a) | Establishment of Board. |
-| (b) | Members. |
-| (c) | Responsibilities. |
-| (d) | Meetings. |
-| (e) | Term; vacancies. |
-| (f) | Chairperson. |
-| (g) | Committees. |
-| (h) | Compensation. |
-| (i) | Restrictions. |
-| (j) | Authority of Secretary. |
+| (b) | Purpose. |
+| (c) | Place of incorporation. |
+| (d) | Central office. |
+| (e) | Wholly-owned Government corporation. |
+| (f) | General powers. |
+| (g) | Specific powers. |
+| [5903\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005903%20-%20Board%20of%20directors%2C%20employees%2C%20and%20facilities.md) | Board of directors, employees, and facilities. |
+| (a) | In general. |
+| (b) | Members of Corporate Board. |
+| (c) | Responsibilities of Corporate Board. |
+| (d) | Chairperson. |
+| (e) | Executive Director. |
+| (f) | Officers. |
+| (g) | Meetings. |
+| (h) | Term; vacancies. |
+| (i) | Compensation. |
+| (j) | Conflict of interest; financial disclosure. |
+| (k) | Delegation of authority. |
+| (<i>l</i>) | Bylaws. |
+| (m) | Organization. |
+| (n) | Personnel and facilities of Corporation. |
 | [5904\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005904%20-%20Research%20and%20development%20grants%2C%20contracts%2C%20and%20agreements.md) | Research and development grants, contracts, and agreements. |
 | (a) | Eligibility. |
 | (b) | Competitive basis for awards. |
@@ -235,10 +203,9 @@
 | [5905\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005905%20-%20Commercialization%20assistance.md) | Commercialization assistance. |
 | (a) | Assistance authorized. |
 | (b) | Eligible entities. |
-| (c) | Advisory Council. |
-| (d) | Application requirements. |
-| (e) | Priorities. |
-| (f) | Additional criteria. |
+| (c) | Application requirements. |
+| (d) | Priorities. |
+| (e) | Additional criteria. |
 | [5906\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005906%20-%20General%20rules%20regarding%20provision%20of%20assistance.md) | General rules regarding provision of assistance. |
 | (a) | Notice of receipt of applications. |
 | (b) | Monitoring. |
@@ -258,8 +225,17 @@
 | (a) | Establishment. |
 | (b) | Contents of Fund. |
 | (c) | Funding allocations. |
-| (d) | Termination of Fund. |
-| (e) | Authorization of appropriations. |
+| (d) | Authorized administrative expenses. |
+| (e) | Project monitoring. |
+| (f) | Termination of Fund. |
+| (g) | Authorization of appropriations; capitalization. |
+| [5909\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005909%20-%20Procurement%20of%20alternative%20agricultural%20research%20and%20commercialization%20products.md) | Procurement of alternative agricultural research and commercialization products. |
+| (a) | “Executive agency” defined. |
+| (b) | Procurement. |
+| (c) | Set-asides. |
+| (d) | Preferences. |
+| (e) | Notice. |
+| (f) | Eligibility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -295,17 +271,13 @@
 | (f) | Proprietary interests. |
 | (g) | Authorization of appropriations. |
 | [5925\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925%20-%20Specialized%20research%20programs.md) | Specialized research programs. |
-| (a) | Animal lean content research. |
+| (a) | Brown citrus aphid and citrus tristeza virus. |
 | (b) | Ethanol research. |
 | (c) | Aflatoxin research. |
 | (d) | Mesquite research. |
 | (e) | Prickly pear research. |
-| (f) | Immunoassay research. |
-| (g) | Niche market development. |
-| (h) | Scrapie research. |
-| (i) | Deer tick ecology and related research. |
-| (j) | New commercial products from natural plant materials. |
-| (k) | Administrative provisions. |
+| (f) | Deer tick ecology and related research. |
+| (g) | Administrative provisions. |
 | [5926\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005926%20-%20Agricultural%20telecommunications%20program.md) | Agricultural telecommunications program. |
 | (a) | Purpose. |
 | (b) | Objectives. |
@@ -315,14 +287,7 @@
 | (f) | Applications for program production and delivery. |
 | (g) | Limitations on assistance. |
 | (h) | Authorization of appropriations. |
-| [5927\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005927%20-%20Commission%20on%20agricultural%20research%20facilities.md) | Commission on agricultural research facilities. |
-| (a) | Definitions. |
-| (b) | Study Commission established. |
-| (c) | General duties. |
-| (d) | Elements of Study Commission. |
-| (e) | General powers. |
-| (f) | Report. |
-| (g) | Authorization of appropriations. |
+| [5927\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005927%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7864%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201174.md) | Repealed. |
 | [5928\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005928%20-%20National%20centers%20for%20agricultural%20product%20quality%20research.md) | National centers for agricultural product quality research. |
 | (a) | Purposes. |
 | (b) | Characteristics of centers. |
@@ -331,30 +296,32 @@
 | (e) | Limitation on use of funds. |
 | (f) | Definitions. |
 | (g) | Authorization of appropriations. |
-| [5929\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005929%20-%20Turkey%20Research%20Center.md) | Turkey Research Center. |
+| [5929\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005929%20-%20Red%20meat%20safety%20research%20center.md) | Red meat safety research center. |
+| (a) | Establishment of center. |
+| (b) | Eligible research facility described. |
+| (c) | Research conducted. |
+| (d) | Administration of funds. |
+| (e) | Authorization of appropriations. |
 | [5930\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005930%20-%20Reservation%20extension%20agents.md) | Reservation extension agents. |
 | (a) | Establishment. |
 | (b) | Administration and management. |
 | (c) | Advisory committees. |
 | (d) | Staffing. |
 | (e) | Placing of agents. |
-| (f) | Authorization of appropriations. |
-| [5931\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005931%20-%20Special%20grant%20to%20study%20constraints%20on%20agricultural%20trade.md) | Special grant to study constraints on agricultural trade. |
-| (a) | Grant required. |
-| (b) | Joint development. |
-| (c) | Report. |
-| (d) | “Land-grant colleges and universities” defined. |
-| [5932\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005932%20-%20Pilot%20project%20to%20coordinate%20food%20and%20nutrition%20education%20programs.md) | Pilot project to coordinate food and nutrition education programs. |
-| (a) | Pilot project. |
-| (b) | Elements of project. |
-| (c) | Definitions. |
-| (d) | Authorization of appropriations. |
+| (f) | Reduced regulatory burden. |
+| (g) | Authorization of appropriations. |
+| 5931, 5932. Repealed. |  |
 | [5933\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005933%20-%20Assistive%20technology%20program%20for%20farmers%20with%20disabilities.md) | Assistive technology program for farmers with disabilities. |
 | (a) | Special demonstration grants. |
 | (b) | National grant for technical assistance, training, and dissemination. |
 | [5934\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005934%20-%20Research%20on%20honeybee%20diseases.md) | Research on honeybee diseases. |
 | (a) | Sense of Congress. |
 | (b) | Research. |
+| [5935\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005935%20-%20Use%20of%20remote%20sensing%20data%20and%20other%20data%20to%20anticipate%20potential%20food%2C%20feed%2C%20and%20fiber%20shortages%20or%20excesses%20and%20to%20provide%20timely%E2%80%A6.md) | Use of remote sensing data and other data to anticipate potential food, feed, and fiber shortages or excesses and to provide timely information to assist farmers with planting decisions. |
+| (a) | Findings. |
+| (b) | Information development. |
+| (c) | Coordination. |
+| (d) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

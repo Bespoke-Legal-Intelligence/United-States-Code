@@ -16,7 +16,7 @@ Interpretative activities and interpretative facilities for the park (including 
 
 #### (d) Employees and contracts
 
-In addition to the Secretary's authority to employ persons to carry out provisions of thissubchapter in accordance with the civil service laws, and notwithstanding any other provision of law, the Secretary is authorized to—
+In addition to the Secretary's authority to employ persons to carry out provisions of this subchapter in accordance with the civil service laws, and notwithstanding any other provision of law, the Secretary is authorized to—
 
 &emsp;(1) hire employees for such purposes who shall not be subject to the civil service laws, including quotas, and
 
@@ -24,7 +24,7 @@ In addition to the Secretary's authority to employ persons to carry out provisio
 
 #### (e) Native American Samoan personnel
 
-The Secretary shall establish a program to train native American Samoan personnel to function as professional park service employees, to provide services to visitors (including the interpretation of park resources), and operate and maintain park facilities. Notwithstanding any other provision of law, and to the extent practicable the Secretary shall extend a preference for the hiring of native American Samoans to carry out the Secretary's authorities under this subchapter (including both employees and persons operating under contract).
+The Secretary shall establish a program to train native American Samoan personnel tofunction as professional park service employees, to provide services to visitors (including the interpretation of park resources), and operate and maintain park facilities. Notwithstanding any other provision of law, and to the extent practicable the Secretary shall extend a preference for the hiring of native American Samoans to carry out the Secretary's authorities under this subchapter (including both employees and persons operating under contract).
 
 #### (f) Management plan
 

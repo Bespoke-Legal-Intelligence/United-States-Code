@@ -6,7 +6,7 @@ Definition.—In this section, “loaded firearm” means a starter gun or a wea
 
 (b)
 
-General Criminal Penalty.—An individual shall be fined under title 18, imprisoned for not more than one year, or both, if the individual—
+General Criminal Penalty.—An individual shall be fined under title 18, imprisoned for not more than 10 years, or both, if the individual—
 
 &emsp;(1) when on, or attempting to get on, an aircraft in, or intended for operation in, air transportation or intrastate air transportation, has on or about the individual or the property of the individual a concealed dangerous weapon that is or would be accessible to the individual in flight;
 
@@ -16,7 +16,7 @@ General Criminal Penalty.—An individual shall be fined under title 18, impriso
 
 (c)
 
-Criminal Penalty Involving Disregard for Human Life.—An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 5 years, or both.
+Criminal Penalty Involving Disregard for Human Life.—An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 15 years, or both.
 
 (d)
 
@@ -28,11 +28,13 @@ Nonapplication.—Subsection (b)(1) of this section does not apply to—
 
 &emsp;(3) an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 104–132, title VII, §705(b), Apr. 24, 1996, 110 Stat. 1295.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -75,6 +77,12 @@ In subsection (b)(3), the words “bomb or similar” are omitted as surplus.
 In subsection (d)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
 
 In subsection (d)(3), the word “contained” is omitted as surplus.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–132, §705(b)(1), substituted “10 years” for “one year”.
+
+Subsec. (c). Pub. L. 104–132, §705(b)(2), substituted “15 years” for “5 years”.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ The Secretary shall use funds made available to carry out this section for activ
 
 &emsp;(5) research on, and the development of, applications for education of the most advanced and newly emerging technologies which research shall be coordinated, when appropriate, with the Office of Educational Research and Improvement, and other Federal agencies;
 
-&emsp;(6) the development, demonstration, and evaluation of the educational aspects of high performance computing and communications technologies and of the national information infrastructure, in providing professional development for teachers, school librarians, and other educators; enriching academic curricula for elementary and secondary schools; facilitating communications among schools, local educational agencies, libraries, parents, and local communities and in other such areas as the Secretary deems appropriate;
+&emsp;(6) the development, demonstration, and evaluation of the educational aspects of high performance computing and communications technologies and of the national information infrastructure, in providing professional development for teachers, school librarians, and other educators; enriching academic curricula for elementary and secondary schools; facilitating communications among schools, local educational agencies, libraries, parents, andlocal communities and in other such areas as the Secretary deems appropriate;
 
 &emsp;(7) the development, demonstration, and evaluation of applications of existing technology in preschool education, elementary and secondary education, training and lifelong learning, and professional development of educational personnel;
 

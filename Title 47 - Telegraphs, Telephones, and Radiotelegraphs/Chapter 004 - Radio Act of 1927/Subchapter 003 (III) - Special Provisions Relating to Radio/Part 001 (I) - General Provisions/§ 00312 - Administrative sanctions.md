@@ -4,7 +4,7 @@
 
 The Commission may revoke any station license or construction permit—
 
-&emsp;(1) for false statements knowingly made either in the application or in any statement of fact which may be required pursuant to section 308 of this title;
+&emsp;(1) for false statements knowingly made either in the application or in any statement offact which may be required pursuant to section 308 of this title;
 
 &emsp;(2) because of conditions coming to the attention of the Commission which would warrant it in refusing to grant a license or permit on an original application;
 
@@ -24,7 +24,7 @@ Where any person (1) has failed to operate substantially as set forth in a licen
 
 #### (c) Order to show cause
 
-Before revoking a license or permit pursuant to subsection (a) of this section, or issuing a cease and desist order pursuant to subsection (b) of this section, the Commission shall serve upon the licensee, permittee, or person involved an order to show cause why an order of revocation or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters with respect to which the Commission is inquiring and shall call uponsaid licensee, permittee, or person to appear before the Commission at a time and place stated in the order, but in no event less than thirty days after the receipt of such order, and give evidence upon the matter specified therein; except that where safety of life or property is involved, the Commission may provide in the order for a shorter period. If after hearing, or a waiver thereof, the Commission determines that an order of revocation or a cease and desist order should issue, it shall issue such order, which shall include a statement of the findings of the Commission and the grounds and reasons therefor and specify the effective date of the order, and shall cause the same to be served on said licensee, permittee, or person.
+Before revoking a license or permit pursuant to subsection (a) of this section, or issuing a cease and desist order pursuant to subsection (b) of this section, the Commission shall serve upon the licensee, permittee, or person involved an order to show cause why an order of revocation or a cease and desist order should not be issued. Any such order to show cause shall contain a statement of the matters with respect to which the Commission is inquiring and shall call upon said licensee, permittee, or person to appear before the Commission at a time and place stated in the order, but in no event less than thirty days after the receipt of such order, and give evidence upon the matter specified therein; except that where safety of life or property is involved, the Commission may provide in the order for a shorter period. If after hearing, or a waiver thereof, the Commission determines that an order of revocation or a cease and desist order should issue, it shall issue such order, which shall include a statement of the findings of the Commission and the grounds and reasons therefor and specify the effective date of the order, and shall cause the same to be served on said licensee, permittee, or person.
 
 #### (d) Burden of proof
 
@@ -42,13 +42,19 @@ For purposes of this section:
 
 &emsp;(2) The term “repeated”, when used with reference to the commission or omission of any act, means the commission or omission of such act more than once or, if such commission or omission is continuous, for more than one day.
 
-(June 19, 1934, ch. 652, title III, §312, 48 Stat. 1086; July 16, 1952, ch. 879, §10, 66 Stat. 716; Sept. 13, 1960, Pub. L. 86–752, §6, 74 Stat. 893; Feb. 7, 1972, Pub. L. 92–225, title I, §103(a)(2)(A), 86 Stat. 4; Sept. 13, 1982, Pub. L. 97–259, title I, §117, 96 Stat. 1095.)
+#### (g) Limitation on silent station authorizations
+
+If a broadcasting station fails to transmit broadcast signals for any consecutive 12-month period, then the station license granted for the operation of that broadcast station expires at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary.
+
+(June 19, 1934, ch. 652, title III, §312, 48 Stat. 1086; July 16, 1952, ch. 879, §10, 66 Stat. 716; Sept. 13, 1960, Pub. L. 86–752, §6, 74 Stat. 893; Feb. 7, 1972, Pub. L. 92–225, title I, §103(a)(2)(A), 86 Stat. 4; Sept. 13, 1982, Pub. L. 97–259, title I, §117, 96 Stat. 1095; Feb. 8, 1996, Pub. L. 104–104, title IV, §403(<i>l</i>), 110 Stat. 132.)
 
 #### Codification
 
 In subsec. (e), “section 558(c) of title 5” substituted for “section 1008(b) of title 5” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–104 added subsec. (g).
 
 1982—Subsec. (f). Pub. L. 97–259 added subsec. (f).
 

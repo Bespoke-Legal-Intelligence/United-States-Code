@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 1995 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 1996 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -26,9 +26,13 @@ Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(2), May 7, 1991, 105 Stat. 239
 
 Table I<br>(Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
 
-<i>Title 38      Former Sections     </i>
+<i>Title 38</i>
 
-<i>Title 38         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 38</i>
+
+<i>New Sections</i>
 
 1–3
 
@@ -2488,9 +2492,13 @@ Rep.
 
 Table II<br>(Showing Disposition of Former Sections of Title 38 by 1991 Renumbering)
 
-<i>Title 38     Former Sections    </i>
+<i>Title 38</i>
 
-<i>Title 38     Renumbered Sections    </i>
+<i>Former Sections</i>
+
+<i>Title 38</i>
+
+<i>Renumbered Sections</i>
 
 201
 
@@ -5532,7 +5540,7 @@ Pub. L. 85–857, §3, Sept. 2, 1958, 72 Stat. 1262, provided that:
 
 “(b) Forfeitures of benefits under laws administered by the Veterans’ Administration occurring before January 1959 shall continue to be effective.”
 
-#### Continuation of Authority Under Act of July 3, 1930
+#### Continuation of Authority Under Act of July 3, 1930
 
 Pub. L. 85–857, §4, Sept. 2, 1958, 72 Stat. 1262, provided that: “All functions, powers, and duties conferred upon and vested in the President and the Administrator by the Act of July 3, 1930 (46 Stat. 1016) and which were in effect on December 31, 1957, are continued in effect.”
 
@@ -5564,7 +5572,7 @@ Pub. L. 85–857, §8, Sept. 2, 1958, 72 Stat. 1263, provided that: “This Act 
 
 #### Pending Claims
 
-Pub. L. 85–857, §9, Sept. 2, 1958, 72 Stat. 1263, provided that: “A claim for benefits which is pending in the Veterans’ Administration on January 1, 1959, or filed thereafter, shall be adjudicated under the laws in effect on December 31, 1958, with respect to the period beforeJanuary 1, 1959, and, except as provided in section 10, under title 38, United States Code, thereafter.”
+Pub. L. 85–857, §9, Sept. 2, 1958, 72 Stat. 1263, provided that: “A claim for benefits which is pending in the Veterans’ Administration on January 1, 1959, or filed thereafter, shall be adjudicated under the laws in effect on December 31, 1958, with respect to the period before January 1, 1959, and, except as provided in section 10, under title 38, United States Code, thereafter.”
 
 #### Persons Receiving Benefits on December 31, 1958
 
@@ -5632,6 +5640,7 @@ This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; 
 | [<b>13.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20013%20-%20Dependency%20and%20Indemnity%20Compensation%20for%20Service-Connected%20Deaths/README.md) | <b>Dependency and Indemnity Compensation for Service-Connected Deaths</b> | <b>1301</b> |
 | [<b>15.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20015%20-%20Pension%20for%20Non-Service-Connected%20Disability%20or%20Death%20or%20for%20Service/README.md) | <b>Pension for Non-Service-Connected Disability or Death or for Service</b> | <b>1501</b> |
 | [<b>17.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20017%20-%20Hospital%2C%20Nursing%20Home%2C%20Domiciliary%2C%20and%20Medical%20Care/README.md) | <b>Hospital, Nursing Home, Domiciliary, and Medical Care</b> | <b>1701</b> |
+| [<b>18.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans%20Who%20Are%20Born%20with%20Spina%20Bifida/README.md) | <b>Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida</b> | <b>1801</b> |
 | [<b>19.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20019%20-%20Insurance/README.md) | <b>Insurance</b> | <b>1901</b> |
 | [<b>21.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20021%20-%20Specially%20Adapted%20Housing%20for%20Disabled%20Veterans/README.md) | <b>Specially Adapted Housing for Disabled Veterans</b> | <b>2101</b> |
 | [<b>23.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20023%20-%20Burial%20Benefits/README.md) | <b>Burial Benefits</b> | <b>2301</b> |
@@ -5701,6 +5710,8 @@ This title is referred to in title 5 sections 7511, 8347; title 7 section 2012; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
 
 1994—Pub. L. 103–446, title XII, §1201(h)(1), Nov. 2, 1994, 108 Stat. 4688, struck out item for chapter 42 and added identical new item for chapter 42.
 

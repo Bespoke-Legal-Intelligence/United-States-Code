@@ -40,7 +40,7 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Effective Date; Savings Provision
 
-Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as amended by Pub. L. 99–217, §§2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–646, §35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, §2, Dec. 7, 1987, 101 Stat. 1266, provided that:
+Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as amended by Pub. L. 99–217, §§2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–646, §35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, §2, Dec. 7, 1987, 101 Stat. 1266; Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056, provided that:
 
 “(a)(1) This chapter \[see Tables for classification\] shall take effect on the first day of the first calendar month beginning 36 months after the date of enactment \[Oct. 12, 1984\] and shall apply only to offenses committed after the taking effect of this chapter, except that—
 
@@ -76,7 +76,7 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 &emsp;“(G) Any other law relating to a violation of a condition of release or to arrest authority with regard to a person who violates a condition of release.
 
-“(2) Notwithstanding the provisions of section 4202 of title 18, United States Code, as in effect on the day before the effective date of this Act, the term of office of a Commissioner who is in office on the effective date is extended to the end of the five-year period after the effective date of this Act.
+“\[(2) Repealed. Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056.\]
 
 “(3) The United States Parole Commission shall set a release date, for an individual who will be in its jurisdiction the day before the expiration of five years after the effective date of this Act, pursuant to section 4206 of title 18, United States Code. A release date set pursuant to this paragraph shall be set early enough to permit consideration of an appeal of the release date, in accordance with Parole Commission procedures, before the expiration of five years following the effective date of this Act.
 
@@ -92,7 +92,15 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 “(5) Notwithstanding the provisions of section 991 of title 28, United States Code, and sections 4351 and 5002 of title 18, United States Code, the Chairman of the United States Parole Commission or his designee shall be a member of the National Institute of Corrections, and the Chairman of the United States Parole Commission shall be a member of the Advisory Corrections Council and a nonvoting member of the United States Sentencing Commission, ex officio, until the expiration of the five-year period following the effective date of this Act. Notwithstanding the provisions of section 4351 of title 18, during the five-year period the National Institute of Corrections shall have seventeen members, including seven ex officio members. Notwithstanding the provisions of section 991 of title 28, during the five-year period the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members.”
 
+\[Pub. L. 104–232, §3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan \[alternative plan by Attorney General for transfer of United States Parole Commission's functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under section 4201 of this title\] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out above\] (98 Stat. 2032) are repealed.”\]
+
+\[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “ten years” or “ten-year period” are deemed to be references to “fifteen years” or “fifteen-year period”, respectively, see section 2(a) of Pub. L. 104–232, set out as a note under section 4201 of this title.\]
+
 \[Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, provided that: “For the purposes of section 235(b) of Public Law 98–473 \[set out above\] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.”\]
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
 
 #### Short Title of 1987 Amendment
 
@@ -105,6 +113,14 @@ Pub. L. 99–217, §1, Dec. 26, 1985, 99 Stat. 1728, provided that: “This Act 
 #### Short Title
 
 Section 211 of chapter II (§§211–239) of title II of Pub. L. 98–473 provided that: “This chapter \[see Tables for classification\] may be cited as the ‘Sentencing Reform Act of 1984’.”
+
+#### Mandatory Victim Restitution; Promulgation of Regulations by Attorney General
+
+Pub. L. 104–132, title II, §209, Apr. 24, 1996, 110 Stat. 1240, provided that: “Not later than 90 days after the date of enactment of this subtitle \[Apr. 24, 1996\], the Attorney General shall promulgate guidelines, or amend existing guidelines, to carry out this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out above\] and the amendments made by this subtitle and to ensure that—
+
+&emsp;“(1) in all plea agreements negotiated by the United States, consideration is given to requesting that the defendant provide full restitution to all victims of all charges contained in the indictment or information, without regard to the counts to which the defendant actually pleaded; and
+
+&emsp;“(2) orders of restitution made pursuant to the amendments made by this subtitle are enforced to the fullest extent of the law.”
 
 #### Sentencing of Nonviolent and Nonserious Offenders; Sense of Congress
 

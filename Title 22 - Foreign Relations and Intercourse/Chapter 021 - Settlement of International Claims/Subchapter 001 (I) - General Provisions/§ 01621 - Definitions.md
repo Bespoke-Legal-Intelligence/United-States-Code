@@ -16,6 +16,10 @@ For the purposes of this subchapter—
 
 For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of this title.
 
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
 #### Amendments
 
 1955—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.

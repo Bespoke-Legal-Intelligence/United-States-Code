@@ -4,9 +4,9 @@ Section 14, act May 24, 1924, ch. 182, §20, formerly §13, 43 Stat. 143; renumb
 
 Section 15, act May 24, 1924, ch. 182, §21, formerly §14, 43 Stat. 143; renumbered §21 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209; May 3, 1945, ch. 105, §9, 59 Stat. 104, related to assignment of officers for duty in Department of State or any other department or agency of the Government.
 
-Section 16, act May 24, 1924, ch. 182, §21, formerly §14, 43 Stat. 143; renumbered §21 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209; May 3, 1945, ch. 105, §9, 59 Stat. 104, related to assignment to special details.
+Section 16, act May 24, 1924, ch. 182, §21, formerly §14, 43 Stat. 143; renumbered §21 and amended Feb. 23, 1931,ch. 276, §7, 46 Stat. 1209; May 3, 1945, ch. 105, §9, 59 Stat. 104, related to assignment to special details.
 
-Section 17, act May 24, 1924, ch. 182, §22, formerly §15, 43 Stat. 143; renumbered §22 and amended Feb. 23, 1931,ch. 276, §7, 46 Stat. 1210; Mar. 17, 1941, ch. 20, 55 Stat. 44, related to ordering of personnel to United States on statutory leave.
+Section 17, act May 24, 1924, ch. 182, §22, formerly §15, 43 Stat. 143; renumbered §22 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210; Mar. 17, 1941, ch. 20, 55 Stat. 44, related to ordering of personnel to United States on statutory leave.
 
 Section 17a, act May 24, 1924, ch. 182, §22, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1210, related to leave of absence and sick leave.
 

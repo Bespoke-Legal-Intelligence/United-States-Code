@@ -20,7 +20,7 @@
 
 &emsp;(5) The capability to conduct effectively evaluations of the activities of such center.
 
-(d)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health in carrying out their responsibilities under this section, the Assistant Under Secretary forHealth described in section 7306(b)(3) of this title shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of new centers under this section.
+(d)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health in carrying out their responsibilities under this section, the Assistant Under Secretary for Health described in section 7306(b)(3) of this title shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of new centers under this section.
 
 (2) The membership of the panel shall consist of experts in the fields of geriatric and gerontological research, education, and clinical care. Members of the panel shall serve as consultants to the Department for a period of no longer than six months.
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former section 4101 of this title. For the purposes of title III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
+The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former section 4101 of this title. For the purposes oftitle III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -68,7 +68,7 @@ Pub. L. 99–514, §901(d)(4)(A), struck out pars. (3) and (4) which read as fol
 
 1976—Subsecs. (a)(2), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(1)(B). Pub. L. 94–455, §1401(b)(1)(A), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977, and “9 months” would be changed to “1 year” for taxable years beginning after Dec. 31, 1977.
+Subsec. (d)(1)(B). Pub. L. 94–455, §1401(b)(1)(A), (2), provided that “6 months” would be changed to “9months” for taxable years beginning in 1977, and “9 months” would be changed to “1 year” for taxable years beginning after Dec. 31, 1977.
 
 Subsec. (f). Pub. L. 94–455, §§605(a), 1906(b)(13)(A), redesignated subsec. (g) as (f) and struck out “or his delegate” after “Secretary” in pars. (1), (3) and (4)(D). Former subsec. (f), which related to treatment of payments made by guarantors of certain noncorporate obligations, was struck out.
 
@@ -132,7 +132,7 @@ Section 2 of Pub. L. 89–722, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 “(b) If—
 
-&emsp;“(1) the taxpayer before October 22, 1965, claimed a deduction, for a taxable year ending before such date, under section 166(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for an addition to a reserve for bad debts on account of debt obligations describedin section 166(g)(1)(A) of such Code (as amended by the first section of this Act), and
+&emsp;“(1) the taxpayer before October 22, 1965, claimed a deduction, for a taxable year ending before such date, under section 166(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for an addition to a reserve for bad debts on account of debt obligations described in section 166(g)(1)(A) of such Code (as amended by the first section of this Act), and
 
 &emsp;“(2) the assessment of a deficiency of the tax imposed by chapter 1 of such Code for such taxable year and each subsequent taxable year ending before October 22, 1965, is not prevented on December 31, 1966, by the operation of any law or rule of law,
 
@@ -162,5 +162,5 @@ Taxable year for taking deduction, see section 461 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 108, 165, 172, 271, 582, 585, 593, 595, 1351, 1367, 6511 of this title.
+This section is referred to in sections 108, 165, 172, 271, 582, 585, 593, 1351, 1367, 6511 of this title.
 

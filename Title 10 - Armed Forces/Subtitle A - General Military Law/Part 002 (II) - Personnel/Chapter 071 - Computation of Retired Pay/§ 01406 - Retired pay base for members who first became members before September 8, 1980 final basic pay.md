@@ -50,7 +50,7 @@ In general.—In the case of a member whose retired pay is computed under sectio
 
 &nbsp;
 
-| For a member entitled to retired pay under section: | The retired pay base is: |
+| For a member entitled toretired pay under section: | The retired pay base is: |
 | --- | ---: |
 | 3911391839203924 | Monthly basic pay of member's retired grade.<sup>1</sup> |
 |  |  |
@@ -66,11 +66,11 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (d)
 
-Retirement for Members of the Navy and Marine Corps.—In the case of a member whose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
+Retirement for Members of the Navy and Marine Corps.—In the case of a memberwhose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title, the retired pay base or retainer pay base is determined in accordance with the following table.
 
 &nbsp;
 
-| For a member entitled to retired or retainer pay under section: | The retired pay base or retainer pay base is: |
+| For a member entitled toretired or retainer pay under section: | The retired pay base orretainer pay base is: |
 | --- | ---: |
 | 6323  6325(a)6383&nbsp;&nbsp; | Basic pay of the grade in which the member retired.<sup>1</sup> |
 |  |  |
@@ -96,7 +96,7 @@ In general.—In the case of a member whose retired pay is computed under sectio
 
 &nbsp;
 
-| For a member entitled to retired pay under section: | The retired pay base is: |
+| For a member entitled toretired pay under section: | The retired pay base is: |
 | --- | ---: |
 | 8911891889208924 | Monthly basic pay of member's retired grade.<sup>1</sup> |
 |  |  |
@@ -168,6 +168,10 @@ Definitions.—In this subsection:
 
 (Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004.)
 
+#### References in Text
+
+Sections 3962(b) and 8962(b) of this title, referred to in footnotes for tables in subsecs. (b)(1), (c)(1), and (e)(1), were redesignated as sections 3962 and 8962, respectively, of this title by Pub. L. 104–106, div. A, title V, §502(d)(1), Feb. 10, 1996, 110 Stat. 293.
+
 #### Prior Provisions
 
 A prior section 1406 was renumbered section 12738 of this title.
@@ -194,9 +198,9 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Grade on Transfer to Retired Reserve
 
-Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10,United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
+Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 33 section 853<i>o</i>; title 42 section 211.
+This section is referred to in sections 1401, 1401a, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 33 section 853<i>o</i>; title 42 section 211.
 

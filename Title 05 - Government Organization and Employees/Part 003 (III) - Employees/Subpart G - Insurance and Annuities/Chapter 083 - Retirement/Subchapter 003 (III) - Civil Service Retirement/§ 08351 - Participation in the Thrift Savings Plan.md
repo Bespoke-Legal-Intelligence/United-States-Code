@@ -14,13 +14,13 @@
 
 (5)(A) The provisions of section 8435 of this title that require a waiver or consent by the spouse of an employee or Member (or former employee or Member) shall not apply with respect to sums in the Thrift Savings Fund contributed by the employee or Member (or former employee or Member) and earnings in the fund attributable to such sums.
 
-(B) An election, change of election, or modification (relating to the commencement date of a deferred annuity) authorized by subchapter III of chapter 84 of this title shall be effective in the case of a married employee or Member, and a loan may be approved under section 8433(g) of this title in such case, only after the Executive Director notifies the employee's or Member's spouse that the election, change of election, or modification has been made or that the Executive Director has received an application for such loan, as the case may be.
+(B) An election or change of election authorized by subchapter III of chapter 84 of this title shall be effective in the case of a married employee or Member, and a loan or withdrawal may be approved under section 8433(g) and (h) of this title in such case, only after the Executive Director notifies the employee's or Member's spouse that the election or change of election has been made or that the Executive Director has received an application for such loan or withdrawal, as the case may be.
 
 (C) Subparagraph (B) may be waived with respect to a spouse if the employee or Member establishes to the satisfaction of the Executive Director of the Federal Retirement Thrift Investment Board that the whereabouts of such spouse cannot be determined.
 
-(D) Except with respect to the making of loans under section 8433(g), none of the provisions of this paragraph requiring notification to a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
+(D) Except with respect to the making of loans or withdrawals under section 8433(g) or (h), none of the provisions of this paragraph requiring notification to a spouse or former spouse of an employee, Member, former employee, or former Member shall apply in any case in which the nonforfeitable account balance of the employee, Member, former employee, or former Member is $3,500 or less.
 
-(6) Notwithstanding paragraph (4), if an employee or Member separates from Government employment and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b).
+(6) Notwithstanding paragraph (4), if an employee or Member separates from Government employment and such employee's or Member's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
 (7) For the purpose of this section, the term “nonforfeitable account balance” has the same meaning as under section 8401(32).
 
@@ -38,7 +38,7 @@
 
 (e) The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172.)
+(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374.)
 
 #### References in Text
 
@@ -46,7 +46,13 @@ Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), i
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
+1996—Subsec. (b)(5)(B). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(A)\]\], substituted “An election or change of election” for “An election, change of election, or modification (relating to the commencement date of a deferred annuity)”, inserted “or withdrawal” after “and a loan” and “and (h)” after “8433(g)”, substituted “the election or change of election” for “the election, change of election, or modification”, and inserted “or withdrawal” after “for such loan”.
+
+Subsec. (b)(5)(D). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(B)\]\], inserted “or withdrawals” after “of loans” and “or (h)” after “8433(g)”.
+
+Subsec. (b)(6). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(2)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)” before period at end.
+
+1994—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
 
 Subsec. (b)(5). Pub. L. 103–226, §9(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “Section 8433(c) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates entitled to a deferred annuity under this subchapter.”
 
@@ -66,11 +72,11 @@ Subsec. (b)(9), (10). Pub. L. 103–226, §9(a)(3), redesignated pars. (9) and (
 
 Subsec. (b)(11). Pub. L. 103–353 added par. (11).
 
-<b>1992</b>—Subsec. (b)(4). Pub. L. 102–484 inserted “, separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “section 8337 of this title)”.
+1992—Subsec. (b)(4). Pub. L. 102–484 inserted “, separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “section 8337 of this title)”.
 
-<b>1991</b>—Subsecs. (d), (e). Pub. L. 102–183 added subsec. (d) and redesignated former subsec. (d) as (e).
+1991—Subsecs. (d), (e). Pub. L. 102–183 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1990</b>—Subsec. (b)(7)(D). Pub. L. 101–335, §6(b)(1)(B), added subpar. (D).
+1990—Subsec. (b)(7)(D). Pub. L. 101–335, §6(b)(1)(B), added subpar. (D).
 
 Subsec. (b)(8). Pub. L. 101–335, §6(b)(1)(A), added par. (8).
 
@@ -78,11 +84,15 @@ Pub. L. 101–335, §3(b)(1), struck out par. (8) which read as follows: “Sums
 
 Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
-<b>1988</b>—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
+1988—Subsecs. (c), (d). Pub. L. 100–238 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
-Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release frommilitary service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
 Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
 
@@ -119,6 +129,4 @@ Section 206(b) of Pub. L. 99–335, as amended by Pub. L. 99–509, title VI, §
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8432, 8439, 8440, 8440a, 8440d of this title; title 10 section 945; title 22 section 4069; title 50 section 2142.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(8)”.</i>
 

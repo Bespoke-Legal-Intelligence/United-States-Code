@@ -2,9 +2,9 @@
 
 #### (a) Procedures applicable; distribution
 
-(1) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support which has been assigned to such State pursuant to section 602(a)(26) or section 671(a)(17) of this title, the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to the past-due support, shall concurrently send notice to such individual that the withholding has been made (including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund), and shall pay such amount to the State agency (together with notice of the individual's home address) for distribution in accordance with section 657(b)(4) or (d)(3) of this title.
+(1) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support which has been assigned to such State pursuant to section 602(a)(26) <sup>1</sup> or section 671(a)(17) of this title, the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to the past-due support, shall concurrently send notice to such individual that the withholding has been made (including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund), and shall pay such amount to the State agency (together with notice of the individual's home address) for distribution in accordance with section 657 of this title. This subsection may be executed by the disbursing official of the Department of the Treasury.
 
-(2)(A) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support (as that term is defined for purposes of this paragraph under subsection (c) of this section) which such State has agreed to collect under section 654(6) of this title, and that the State agency has sent notice to such individual in accordance with paragraph (3)(A), the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to such past-due support, and shall concurrently send notice to such individual that the withholding has been made, including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund. The Secretary of the Treasury shall pay the amount withheld to the State agency, and the State shall pay to the Secretary of the Treasury any fee imposed by the Secretary of the Treasury to cover the costs of the withholding and any required notification. The State agency shall, subject to paragraph (3)(B), distribute such amount to or on behalf of the child to whom the support was owed.
+(2)(A) Upon receiving notice from a State agency administering a plan approved under this part that a named individual owes past-due support (as that term is defined for purposes of this paragraph under subsection (c) of this section) which such State has agreed to collect under section 654(6) of this title, and that the State agency has sent notice to such individual in accordance with paragraph (3)(A), the Secretary of the Treasury shall determine whether any amounts, as refunds of Federal taxes paid, are payable to such individual (regardless of whether such individual filed a tax return as a married or unmarried individual). If the Secretary of the Treasury finds that any such amount is payable, he shall withhold from such refunds an amount equal to such past-due support, and shall concurrently send notice to such individual that the withholding has been made, including in or with such notice a notification to any other person who may have filed a joint return with such individual of the steps which such other person may take in order to secure his or her proper share of the refund. The Secretary of the Treasury shall pay the amount withheld to the State agency, and the State shall pay to the Secretary of the Treasury any fee imposed by the Secretary of the Treasury to cover the costs of the withholding and any required notification. The State agency shall, subject to paragraph (3)(B), distribute such amount to or on behalf of the child to whom the support was owed. This subsection may be executed by the Secretary of the Department of the Treasury or his designee.
 
 (B) This paragraph shall apply only with respect to refunds payable under section 6402 of the Internal Revenue Code of 1986 after December 31, 1985.
 
@@ -40,13 +40,21 @@
 
 &emsp;(ii) for whom an order of support is in force.
 
-(Aug. 14, 1935, ch. 531, title IV, §464, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2331(a), 95 Stat. 860; amended Aug. 16, 1984, Pub. L. 98–378, §§11(d), 21(a)–(c), 98 Stat. 1318, 1322–1324; Oct. 22, 1986, Pub. L. 99–514, §2, title XVIII, §1883(b)(8), 100 Stat. 2095, 2917; Nov. 5, 1990, Pub. L. 101–508, title V, §5011(a), (b), 104 Stat. 1388–220.)
+(Aug. 14, 1935, ch. 531, title IV, §464, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2331(a), 95 Stat. 860; amended Aug. 16, 1984, Pub. L. 98–378, §§11(d), 21(a)–(c), 98 Stat. 1318, 1322–1324; Oct. 22, 1986, Pub. L. 99–514, §2, title XVIII, §1883(b)(8), 100 Stat. 2095, 2917; Nov. 5, 1990, Pub. L. 101–508, title V, §5011(a), (b), 104 Stat. 1388–220; Apr. 26, 1996, Pub. L. 104–134, title III, §31001(v)(2), 110 Stat. 1321–375; Aug. 22, 1996, Pub. L. 104–193, title III, §302(b)(1), 110 Stat. 2204.)
 
 #### References in Text
+
+Section 602 of this title, referred to in subsec. (a)(1), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (a)(26).
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–134, §31001(v)(2)(1), inserted at end “This subsection may be executed by the disbursing official of the Department of the Treasury.”
+
+Pub. L. 104–193 substituted “section 657” for “section 657(b)(4) or (d)(3)”.
+
+Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by the Secretary of the Department of the Treasury or his designee.”
 
 1990—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
 
@@ -66,6 +74,12 @@ Subsec. (b)(1). Pub. L. 98–378, §21(b)(2), designated existing provisions as 
 
 Subsec. (c)(1). Pub. L. 98–378, §21(c), designated existing provisions as par. (1), inserted reference to par. (2), and added par. (2).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, or earlier at the State's option, see section 302(c) of Pub. L. 104–193, set out as a note under section 657 of this title.
+
+For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Section 5011(c) of Pub. L. 101–508 provided that: “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1991.”
@@ -82,5 +96,7 @@ Section effective Oct. 1, 1981, except as otherwise specifically provided, see s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 654 of this title; title 5 section 552a; title 26 section 6402; title 31 section 3720A.
+This section is referred to in sections 608, 654, 657 of this title; title 5 section 552a; title 26 section 6402.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

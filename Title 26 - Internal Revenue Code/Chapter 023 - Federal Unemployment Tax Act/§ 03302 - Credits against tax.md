@@ -14,7 +14,7 @@
 
 #### (b) Additional credit
 
-In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemploymentcompensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
+In addition to the credit allowed under subsection (a), a taxpayer may credit against the tax imposed by section 3301 for any taxable year an amount, with respect to the unemployment compensation law of each State certified as provided in section 3303 for the 12-month period ending on October 31 of such year, or with respect to any provisions thereof so certified, equal to the amount, if any, by which the contributions required to be paid by him with respect to the taxable year were less than the contributions such taxpayer would have been required to pay if throughout the taxable year he had been subject under such State law to the highest rate applied thereunder in such 12-month period to any person having individuals in his employ, or to a rate of 5.4 percent, whichever rate is lower.
 
 #### (c) Limit on total credits
 
@@ -60,7 +60,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 #### (3) Additional taxes inapplicable where advances are repaid before November 10 of taxable year
 
-&emsp;Paragraph (2) of subsection (c) shall not apply with respect to any State for the taxableyear if (as of the beginning of November 10 of such year) there is no balance of advances referred to in such paragraph.
+&emsp;Paragraph (2) of subsection (c) shall not apply with respect to any State for the taxable year if (as of the beginning of November 10 of such year) there is no balance of advances referred to in such paragraph.
 
 #### (4) Average employer contribution rate
 
@@ -98,7 +98,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;(2) such other person is not an employer for the calendar year in which the acquisition takes place,
 
-> then, for the calendar year in which the acquisition takes place, in addition to the credits allowed under subsections (a) and (b), such employer may credit against the tax imposed by section 3301 for such year an amount equal to the credits which (without regard to subsection (c)) would have been allowable to such other person under subsections (a) and (b) and this subsection for such year, if such other person had been an employer, with respect to remuneration subject to contributions under the unemployment compensation law of a State paid by such other person to the individual or individuals described in paragraph (1).
+> then, for the calendar year in which the acquisition takes place, in addition to the credits allowed under subsections (a) and (b), such employer may credit against the tax imposed by section 3301 for such year an amount equal to the credits which (without regard to subsection (c)) would have been allowable to such other person under subsections (a) and (b) and this subsection for such year, if such other person had been an employer, with respect to remunerationsubject to contributions under the unemployment compensation law of a State paid by such other person to the individual or individuals described in paragraph (1).
 
 #### (f) Limitation on credit reduction
 
@@ -194,7 +194,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (7) Definitions and special rules
 
-&emsp;The definitions and special rules set forth in subsection (d) shall apply to this subsection inthe same manner as they apply to subsection (c).
+&emsp;The definitions and special rules set forth in subsection (d) shall apply to this subsection in the same manner as they apply to subsection (c).
 
 #### (8) Partial limitation
 
@@ -312,7 +312,7 @@ Subsec. (c)(4). Pub. L. 94–45, §302, substituted “July 15, 1975” for “J
 
 Pub. L. 93–618 added par. (4).
 
-1970—Subsec. (a)(1). Pub. L. 91–373, §142(a), substituted “certified as provided in section 3304 for the 12–month period ending on October 31 of such year (10–month period in the case of October 31, 1972)” for “certified for the taxable year as provided in section 3304”.
+1970—Subsec. (a)(1). Pub. L. 91–373, §142(a), substituted “certified as provided in section 3304 for the 12–month period ending on October 31 of such year\(10–month period in the case of October 31, 1972)” for “certified for the taxable year as provided in section 3304”.
 
 Subsec. (b). Pub. L. 91–373, §142(b), changed the certification date from December 31 to October 31, with a provision for a 10–month period in the case of October 31, 1972, and provided for certification based on a 12-month period ending each October 31.
 
@@ -410,7 +410,7 @@ In general.—Notwithstanding section 3303 of the Internal Revenue Code of 1986 
 
 &emsp;“(B)
 
-Requirements.—The requirements of this subparagraph are met for any taxable year with respect to any employee covered by a specific industry provision if the amount of contributions required to be paid for the taxable year to the unemployment fund of the State with respect to such employee are not less than the product of the required rate multiplied by the wages paid by the employer during the taxable year.
+Requirements.—The requirements of this subparagraph are met for any taxable year with respect to any employee covered by a specific industry provision if the amount of contributions required to be paid for the taxable year to the unemployment fund of the State with respect to such employee are not less than the product of the required rate multipliedby the wages paid by the employer during the taxable year.
 
 &emsp;“(C)
 

@@ -21,10 +21,13 @@
 | [3716\.](%C2%A7%2003716%20-%20Tank%20washings.md) | Tank washings. |
 | [3717\.](%C2%A7%2003717%20-%20Marine%20safety%20information%20system.md) | Marine safety information system. |
 | [3718\.](%C2%A7%2003718%20-%20Penalties.md) | Penalties. |
+| [3719\.](%C2%A7%2003719%20-%20Reduction%20of%20oil%20spills%20from%20single%20hull%20non-self-propelled%20tank%20vessels.md) | Reduction of oil spills from non-self-propelled tank vessels.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title IX, §901(c), Oct. 19, 1996, 110 Stat. 3947, added item 3719.
 
 1990—Pub. L. 101–380, title IV, §4115(c), Aug. 18, 1990, 104 Stat. 520, added item 3703a.
 
@@ -37,6 +40,8 @@ The history of Federal authority to carry out a tank vessel safety program begin
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 2102, 3303, 4501, 8501, 8502, 8701, 8702, 8703, 9101, 9102 of this title; title 8 section 1288; title 33 section 1228; title 49 section 5117.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -62,3 +67,4 @@ This chapter is referred to in sections 2102, 3303, 4501, 8501, 8502, 8701, 8702
 - [&sect; 03716 - Tank washings](%C2%A7%2003716%20-%20Tank%20washings.md)
 - [&sect; 03717 - Marine safety information system](%C2%A7%2003717%20-%20Marine%20safety%20information%20system.md)
 - [&sect; 03718 - Penalties](%C2%A7%2003718%20-%20Penalties.md)
+- [&sect; 03719 - Reduction of oil spills from single hull non-self-propelled tank vessels](%C2%A7%2003719%20-%20Reduction%20of%20oil%20spills%20from%20single%20hull%20non-self-propelled%20tank%20vessels.md)

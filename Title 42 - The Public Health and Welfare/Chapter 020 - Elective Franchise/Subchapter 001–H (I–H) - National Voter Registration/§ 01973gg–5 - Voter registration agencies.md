@@ -26,7 +26,7 @@
 
 &emsp;(iii) Acceptance of completed voter registration application forms for transmittal to the appropriate State election official.
 
-(B) If a voter registration agency designated under paragraph (2)(B) provides services to a person with a disability at the person's home,the agency shall provide the services described in subparagraph (A) at the person's home.
+(B) If a voter registration agency designated under paragraph (2)(B) provides services to a person with a disability at the person's home, the agency shall provide the services described in subparagraph (A) at the person's home.
 
 (5) A person who provides service described in paragraph (4) shall not—
 
@@ -94,7 +94,7 @@ Ex. Ord. No. 12926, Sept. 12, 1994, 59 F.R. 47227, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to ensure, as required by section 7(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg) \[42 U.S.C. 1973gg–5(b)\] (“the Act”), that departments, agencies, and other entities of the executive branch of the Federal Government cooperate with the States in carrying out the Act's requirements, it is hereby ordered as follows:
 
-Section 1. <i>Assistance to States</i>. To the greatest extent practicable, departments, agencies, and other entities of the executive branch of the Federal Governmentthat provide, in whole or in part, funding, grants, or assistance for, or with respect to the administration of, any program of public assistance or services to persons with disabilities within the meaning of section 7(a) of the Act shall: (a) provide, to State agencies administering any such program, guidance for the implementation of the requirements of section 7 of the Act, including guidance for use and distribution of voter registration forms in connection with applications for service;
+Section 1. <i>Assistance to States</i>. To the greatest extent practicable, departments, agencies, and other entities of the executive branch of the Federal Government that provide, in whole or in part, funding, grants, or assistance for, or with respect to the administration of, any program of public assistance or services to persons with disabilities within the meaning of section 7(a) of the Act shall: (a) provide, to State agencies administering any such program, guidance for the implementation of the requirements of section 7 of the Act, including guidance for use and distribution of voter registration forms in connection with applications for service;
 
 (b) assist each such State agency administering any such program with the costs of implementation of the Act \[42 U.S.C. 1973gg et seq.\], consistent with legal authority and the availability of funds, and promptly indicate to each State agency the extent to which such assistance will be made available; and
 

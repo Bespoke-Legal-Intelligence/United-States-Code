@@ -26,7 +26,7 @@
 
 &emsp;(2) the term “serious bodily injury” has the meaning given that term in section 1365 of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; May 29, 1976, Pub. L. 94–297, §3, 90 Stat. 585; Nov. 10, 1986, Pub. L. 99–646, §87(c)(2), (3), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(a)(2), (3), 100 Stat. 3663; Sept. 13, 1994, Pub. L. 103–322, title XVII, §170201(a)–(d), title XXXII, §320101(c), title XXXIII, §330016(2)(B), 108 Stat. 2042, 2043, 2108, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 689; May 29, 1976, Pub. L. 94–297, §3, 90 Stat. 585; Nov. 10, 1986, Pub. L. 99–646, §87(c)(2), (3), 100 Stat. 3623; Nov. 14, 1986, Pub. L. 99–654, §3(a)(2), (3), 100 Stat. 3663; Sept. 13, 1994, Pub. L. 103–322, title XVII, §170201(a)–(d), title XXXII, §320101(c), title XXXIII, §330016(2)(B), 108 Stat. 2042, 2043, 2108, 2148; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(7), (12)(B), 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -38,11 +38,15 @@ Phraseology was simplified.
 
 #### Amendments
 
-1994—Pub. L. 103–322, §330016(2)(B), which directed the amendment of this section by striking “fine of not more than” through the immediately following dollar amount each place it appears and inserting “a fine under this title” was executed to subsec. (a)(6) by substituting “a fine under this title” for “fine of not more than $10,000”.
+1996—Pub. L. 104–294, §604(b)(12)(B), repealed Pub. L. 103–322, §320101(c)(1)(A), (2)(A). See 1994 Amendment note below.
 
-Pub. L. 103–322, §320101(c), which directed the amendment of subsec. (c) by substituting “fine under this title” for “fine of not more than $1,000” and “ten years” for “five years” and the amendment of subsec. (e) by substituting “fine under this title” for “fine of not more than $300” and “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(5) and (a)(6), respectively, to reflect the probable intent of Congress and the intervening redesignation of subsecs. (c) and (e) as subsecs. (a)(5) and (a)(6), respectively. See below. Amendment of subsec. (c), by substituting “fine under this title” for “fine of not more than $1,000” is identical to amendment by Pub. L. 103–322, §170201(c)(2). See below.
+Pub. L. 104–294, §604(b)(7), repealed Pub. L. 103–322, §170201(c)(1)–(3). See 1994 Amendment note below.
 
-Pub. L. 103–322, §170201(a)–(d), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, substituted “fine under this title” for “fine of not more than $3,000” in par. (2), substituted “fine under this title” for “fine of not more than $1,000” in par. (3), substituted “fine under this title” for “fine of not more than $500” in par. (4), inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
+1994—Pub. L. 103–322, §330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
+
+Pub. L. 103–322, §320101(c), as amended by Pub. L. 104–294, §604(b)(12)(B), which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(5) and (a)(6), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(5) and (a)(6), respectively. See below.
+
+Pub. L. 103–322, §170201(a)–(d), as amended by Pub. L. 104–294, §604(b)(7), designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (f) as pars. (1) to (6), respectively of subsec. (a) and realigned margins, inserted before period at end of par. (5) “, or if the victim of the assault is an individual who has not attained the age of 16 years, by fine under this title or imprisonment for not more than 1 year, or both”, and added subsecs. (a)(7) and (b).
 
 1986—Subsec. (a). Pub. L. 99–646, §87(c)(2), and Pub. L. 99–654, §3(a)(2), amended subsec. (a) identically, striking out “or rape” after “murder”.
 
@@ -50,9 +54,13 @@ Subsec. (b). Pub. L. 99–646, §87(c)(3), and Pub. L. 99–654, §3(a)(3), amen
 
 1976—Subsec. (f). Pub. L. 94–297 added subsec. (f).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
 #### Effective Date of 1986 Amendments
 
-Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
+Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
 #### Cross References
 

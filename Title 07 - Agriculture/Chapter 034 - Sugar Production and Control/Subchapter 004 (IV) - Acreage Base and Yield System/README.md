@@ -6,7 +6,7 @@ A prior subchapter IV of the Agricultural Act of 1949, Act Oct. 31, 1949, ch. 79
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1441–2, 1444–2, 1444f, 1445b–3a, 2279a of this title.
+This subchapter is referred to in sections 2279a, 7202, 7301 of this title.
 
 
 ---

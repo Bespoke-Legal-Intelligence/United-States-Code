@@ -4,9 +4,9 @@ Sections 270a to 270d of this title do not apply to a contract in an amount that
 
 (Aug. 24, 1935, ch. 642, §5, as added Oct. 13, 1994, Pub. L. 103–355, title IV, §4104(b)(1)(A), 108 Stat. 3341.)
 
-#### Codification
+#### Prior Provisions
 
-Another section 5 of act Aug. 24, 1935, is set out as an Effective Date note under section 270a of this title.
+A prior section 5 of act Aug. 24, 1935, was renumbered section 7 and is set out as an Effective Date note under section 270a of this title.
 
 #### Effective Date
 

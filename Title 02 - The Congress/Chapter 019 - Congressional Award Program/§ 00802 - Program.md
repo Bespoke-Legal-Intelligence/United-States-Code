@@ -34,7 +34,7 @@ The Board shall prepare and submit an annual report to the Congress before April
 
 &emsp;(1) Specific information regarding the methods used to raise funds for the Congressional Award Program and a list of the sources of all money raised by the Board.
 
-&emsp;(2) Detailed information regarding the expenditures made by the Board, including the percentage of funds which are used for administrative expenses.
+&emsp;(2) Detailed information regarding the expenditures made by the Board, including thepercentage of funds which are used for administrative expenses.
 
 &emsp;(3) A description of the programs formulated by the Director under section 804(b)(1) of this title, including an explanation of the operation of such programs and a list of their sponsors.
 

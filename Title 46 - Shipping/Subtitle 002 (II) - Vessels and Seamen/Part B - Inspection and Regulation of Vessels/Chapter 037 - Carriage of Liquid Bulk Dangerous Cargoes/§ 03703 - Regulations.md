@@ -16,9 +16,9 @@
 
 &emsp;(7) the reduction or elimination of discharges during ballasting, deballasting, tank cleaning, cargo handling, or other such activity.
 
-(b) In prescribing regulations under subsection (a) of this section, the Secretary shall consider the types and grades of cargo permitted to be on board a tank vessel.
+(b) In prescribing regulations under subsection (a) of this section, the Secretary shall considerthe types and grades of cargo permitted to be on board a tank vessel.
 
-(c) In prescribing regulations under subsection (a) of this section, the Secretary shall establishprocedures for consulting with, and receiving and considering the views of—
+(c) In prescribing regulations under subsection (a) of this section, the Secretary shall establish procedures for consulting with, and receiving and considering the views of—
 
 &emsp;(1) interested departments, agencies, and instrumentalities of the United States Government;
 
@@ -45,6 +45,78 @@ Historical and Revision Notes
 46:391a(12)
 
 Section 3703 requires the Secretary to issue regulations to implement this section. Specific items are listed to be included within the regulations issued. The regulatory authority must be exercised under the Administrative Procedure Act and, in prescribing these regulations, the Secretary must consider the kinds and grades of cargo carried on board. Furthermore, in addition to any requirements of the Administrative Procedure Act, the Secretary must establish specific consultation procedures for considering the views of various specified interested officials, groups, and individuals. The procedures are intended to provide for consultation as early as possible in the regulatory process.
+
+#### Studies Addressing Various Sources of Oil Spill Risk
+
+Pub. L. 104–324, title IX, §903, Oct. 19, 1996, 110 Stat. 3947, provided that:
+
+“(a)
+
+Study of Group-5
+
+Fuel Oil Spills.—
+
+&emsp;“(1)
+
+Definition.—In this subsection, the term ‘group-5 fuel oil’ means a petroleum-based oil that has a specific gravity of greater than 1.0.
+
+&emsp;“(2)
+
+Coordination of study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the relative environmental and public health risks posed by discharges of group-5 fuel oil.
+
+&emsp;“(3)
+
+Matters to be included.—The study under this subsection shall include a review and analysis of—
+
+&emsp;&emsp;“(A) the specific risks posed to the public health or welfare of the United States, including fish, shellfish and wildlife, public and private property, shorelines, beaches, habitat, and other natural resources under the jurisdiction or control of the United States, as a result of an actual or threatened discharge of group-5 fuel oil from a vessel or facility;
+
+&emsp;&emsp;“(B) cleanup technologies currently available to address actual or threatened discharge of group-5 fuel oil; and
+
+&emsp;&emsp;“(C) any technological and financial barriers that prevent the prompt remediation of discharges of group-5 fuel oil.
+
+&emsp;“(4)
+
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
+
+&emsp;“(5)
+
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+
+“(b)
+
+Study of Automatic Fueling Shutoff Equipment.—
+
+&emsp;“(1)
+
+Coordination of study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct a study of the unintentional or accidental discharge of fuel oil during lightering or fuel loading or off-loading activity.
+
+&emsp;“(2)
+
+Matters to be included.—The study under this subsection shall include a review and analysis of current monitoring and fueling practices to determine the need for automatic fuel shutoff equipment to prevent the accidental discharge of fuel oil, and whether such equipment is needed as a supplement to or replacement of existing preventive equipment or procedures.
+
+&emsp;“(3)
+
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary of Transportation shall submit to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the study under this subsection.
+
+&emsp;“(4)
+
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study conducted under this subsection, that the use of automatic oil shutoff equipment is necessary to prevent the actual or threatened discharge of oil during lightering or fuel loading or off\[-\]loading activity, the Secretary may initiate a rulemaking to take such action as is necessary to abate a threat to public health or the environment.
+
+“(c)
+
+Lightering Study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
+
+#### Existing Tank Vessel Research
+
+Pub. L. 104–324, title XI, §1134, Oct. 19, 1996, 110 Stat. 3985, provided that:
+
+“(a)
+
+Funding.—The Secretary of Transportation shall take steps to allocate funds appropriated for research, development, testing, and evaluation, including the combination of funds from any source available and authorized for this purpose, to ensure that any Government-sponsored project intended to evaluate double hull alternatives that provide equal or greater protection to the marine environment, or interim solutions to remediate potential environmental damage resulting from oil spills from existing tank vessels, commenced prior to the date of enactment of this section \[Oct. 19, 1996\], is fully funded for completion by the end of fiscal year 1997. Any vessel construction or repair necessary to carry out the purpose of this section must be performed in a shipyard located in the United States.
+
+“(b)
+
+Use of Public Vessels.—The Secretary may provide vessels owned by, or demise chartered to, and operated by the Government and not engaged in commercial service, without reimbursement, for use in and the support of projects sponsored by the Government for research, development, testing, evaluation, and demonstration of new or improved technologies that are effective in preventing or mitigating oil discharges and protecting the environment.”
 
 #### Oil Spill Prevention and Response Technology Test and Evaluation Program
 
@@ -106,7 +178,7 @@ Escorts for Certain Tankers.—Not later than 6 months after the date of the ena
 
 “(d)
 
-Tanker Defined.—In this section \[amending section 8502 of this title\] the term ‘tanker’ has the samemeaning the term has in section 2101 of title 46, United States Code.”
+Tanker Defined.—In this section \[amending section 8502 of this title\] the term ‘tanker’ has the same meaning the term has in section 2101 of title 46, United States Code.”
 
 #### Section Referred to in Other Sections
 

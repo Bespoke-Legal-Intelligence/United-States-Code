@@ -1,6 +1,6 @@
 ### §248–1. Rules and regulations for transfer of funds and charges therefor among banks; clearing houses
 
-The Board of Governors of the Federal Reserve System shall make and promulgate from time to time regulations governing the transfer of funds and charges therefor among Federal reserve banks and their branches, and may at its discretion exercise the functions of a clearing house for such Federal reserve banks, or may designate a Federal reserve bank to exercise such functions, and may also require each such bank to exercise the functions of a clearing house for depository institutions.
+The Board of Governors of the Federal Reserve System shall make and promulgate from time to time regulations governing the transfer of funds and charges therefor among Federal reserve banks and their branches, and may at its discretion exercise the functions of a clearing housefor such Federal reserve banks, or may designate a Federal reserve bank to exercise such functions, and may also require each such bank to exercise the functions of a clearing house for depository institutions.
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 268; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Mar. 31, 1980, Pub. L. 96–221, title I, §105(d), 94 Stat. 140.)
 

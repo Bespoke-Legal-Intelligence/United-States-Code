@@ -12,7 +12,9 @@ Detailing Personnel.—The head of a department, agency, or instrumentality may 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -24,5 +26,5 @@ Historical and Revision Notes
 
 Oct. 20, 1972, Pub. L. 92–513, §104(c), 86 Stat. 951.
 
-In subsection (a), the words “he deems” and “his functions under” are omitted as surplus. The words“head of the” are added for consistency in the revised title and with other titles of the United States Code. The words “cooperate with the Secretary and” and “to the Department of Transportation upon request made by the Secretary” are omitted as surplus.
+In subsection (a), the words “he deems” and “his functions under” are omitted as surplus. The words “head of the” are added for consistency in the revised title and with other titles of the United States Code. The words “cooperate with the Secretary and” and “to the Department of Transportation upon request made by the Secretary” are omitted as surplus.
 

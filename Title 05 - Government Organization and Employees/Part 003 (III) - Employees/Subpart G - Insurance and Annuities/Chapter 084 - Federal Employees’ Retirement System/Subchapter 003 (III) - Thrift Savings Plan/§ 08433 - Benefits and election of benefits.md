@@ -2,67 +2,111 @@
 
 (a) An employee or Member who separates from Government employment is entitled to the amount of the balance in the employee's or Member's account (except for the portion of such amount forfeited under section 8432(g) of this title, if any) as provided in this section.
 
-(b) Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
+(b) Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect to withdraw from the Thrift Savings Fund the balance of the employee's or Member's account as—
 
-&emsp;(1) to receive an immediate annuity from the Thrift Savings Fund;
+&emsp;(1) an annuity;
 
-&emsp;(2) to defer the commencement of the payment of an annuity from the Thrift Savings Fund until such date as the employee or Member specifies, but not later than April 1 of the year following the year in which the employee or Member becomes 701/2 years of age;
+&emsp;(2) a single payment;
 
-&emsp;(3) to withdraw the amount of the balance in the employee's or Member's account in the Thrift Savings Fund in one or more substantially equal payments to be made not less frequently than annually and to commence before April 1 of the year following the year in which the employee or Member becomes 701/2 years of age; or
+&emsp;(3) 2 or more substantially equal payments to be made not less frequently than annually; or
 
-&emsp;(4) to transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (c).
+&emsp;(4) any combination of payments as provided under paragraphs (1) through (3) as the Executive Director may prescribe by regulation.
 
-(c)(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
+(c)(1) In addition to the right provided under subsection (b) to withdraw the balance of the account, an employee or Member who separates from Government service and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal of any amount as a single payment in accordance with subsection (b)(2) from the employee's or Member's account.
 
-(2) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (1) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
+(2) An employee or Member may request that the amount withdrawn from the Thrift Savings Fund in accordance with subsection (b)(2) be transferred to an eligible retirement plan.
 
-(d)(1) Subject to paragraph (3)(A) and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter.
+(3) The Executive Director shall make each transfer elected under paragraph (2) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
 
-(2) Subject to paragraph (3)(B) and section 8435(c) of this title, a former employee or Member who has made an election pursuant to subsection (b)(2) may modify the date specified in such election or in a previous modification under this paragraph.
+(4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
 
-(3)(A) A former employee or Member may not change an election under this section on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
+(d)(1) Subject to paragraph (3) <sup>1</sup> and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter.
 
-(B) A modification of a date may not be made under paragraph (2) on or after the date on which an annuity contract is purchased to provide for the annuity involved, and may not specify a date for the commencement of an annuity earlier than 90 days after the date on which the modification is submitted to the Executive Director (or such period shorter than 90 days as the Executive Director may by regulation prescribe).
+(2) A former employee or Member may not change an election under this section on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
 
 (e) If an employee or Member (or former employee or Member) dies without having made an election under this section or after having elected an annuity under this section but before making an election under section 8434 of this title, an amount equal to the value of that individual's account (as of death) shall, subject to any decree, order, or agreement referred to in section 8435(c)(2) of this title be paid in a manner consistent with section 8424(d) of this title.
 
-(f)(1) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.
+(f)(1) Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee's or Member's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.
 
-(2) Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on February 1 of the year following the latest of the year in which—
+(2) Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
 
-&emsp;(A) the employee, Member, former employee, or former Member becomes 65 years of age;
+&emsp;(A) the employee, Member, former employee, or former Member becomes 701/2 years of age; or
 
-&emsp;(B) occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or
+&emsp;(B) the employee, Member, former employee, or former Member separates from Government employment.
 
-&emsp;(C) the employee, Member, former employee, or former Member separates from Government employment.
+(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member under section 8432(a) of this title. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
 
-(g)(1) At any time after December 31, 1987, and before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member under section 8432(a) of this title.
+(2) Loans under this subsection shall be available to all employees and Members on a reasonably equivalent basis, and shall be subject to such other conditions as the Board may by regulation prescribe. The restrictions of section 8477(c)(1) of this title shall not apply to loans made under this subsection.
 
-(2) An application under this subsection may be approved only for—
+(3) A loan may not be made under this subsection to the extent that the loan would be treated as a taxable distribution under section 72(p) of the Internal Revenue Code of 1986.
 
-&emsp;(A) the purchase of a primary residence;
+(4) A loan may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-&emsp;(B) educational expenses;
+(h)(1) An employee or Member may apply, before separation, to the Board for permission to withdraw an amount from the employee's or Member's account based upon—
 
-&emsp;(C) medical expenses; or
+&emsp;(A) the employee or Member having attained age 591/2; or
 
-&emsp;(D) financial hardship.
+&emsp;(B) financial hardship.
 
-(3) Loans under this subsection shall be available to all employees and Members on a reasonably equivalent basis, and shall be subject to such other conditions as the Board may by regulation prescribe. The restrictions of section 8477(c)(1) of this title shall not apply to loans made under this subsection.
+(2) A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only.
 
-(4) A loan may not be made under this subsection to the extent that the loan would be treated as a taxable distribution under section 72(p) of the Internal Revenue Code of 1986.
+(3) A withdrawal under paragraph (1)(B) shall be available only for an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member under section 8432(a) of this title.
 
-(5) A loan may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
+(4) Withdrawals under paragraph (1) shall be subject to such other conditions as the Executive Director may prescribe by regulation.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174.)
+(5) A withdrawal may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374.)
 
 #### References in Text
 
-Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(1) and (g)(4), are classified to sections 72(p) and 402(a)(5)(E), respectively, of Title 26, Internal Revenue Code.
+Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(a)(5)(E), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
+1996—Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
+
+&emsp;“(1) to receive an immediate annuity from the Thrift Savings Fund;
+
+&emsp;“(2) to defer the commencement of the payment of an annuity from the Thrift Savings Fund until such date as the employee or Member specifies, but not later than April 1 of the year following the year in which the employee or Member becomes 701/2 years of age;
+
+&emsp;“(3) to withdraw the amount of the balance in the employee's or Member's account in the Thrift Savings Fund in one or more substantially equal payments to be made not less frequently than annually and to commence before April 1 of the year following the year in which the employee or Member becomes 701/2 years of age; or
+
+&emsp;“(4) to transfer the amount of the balance in the employee's or Member's account to an eligible retirement plan as provided in subsection (c).”
+
+Subsec. (c). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (c) and struck out former subsec. (c) which read as follows:
+
+“(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
+
+“(2) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (1) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.”
+
+Subsec. (d)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(A)\]\], substituted “(3)” for “(3)(A)” after “Subject to paragraph”.
+
+Subsec. (d)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(C)\]\], struck out subpar. (A) designation before “A former employee” and struck out subpar. (B) which read as follows: “A modification of a date may not be made under paragraph (2) on or after the date on which an annuity contract is purchased to provide for the annuity involved, and may not specify a date for the commencement of an annuity earlier than 90 days after the date on which the modification is submitted to the Executive Director (or such period shorter than 90 days as the Executive Director may by regulation prescribe).”
+
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(B)\]\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Subject to paragraph (3)(B) and section 8435(c) of this title, a former employee or Member who has made an election pursuant to subsection (b)(2) may modify the date specified in such election or in a previous modification under this paragraph.”
+
+Subsec. (d)(3). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(B)\]\], redesignated par. (3) as (2).
+
+Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or”.
+
+Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “701/2” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
+
+Subsec. (g)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(A)\]\], struck out “after December 31, 1987, and” after “At any time”, and inserted at end “Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.”
+
+Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(5)(B)\]\], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An application under this subsection may be approved only for—
+
+&emsp;“(A) the purchase of a primary residence;
+
+&emsp;“(B) educational expenses;
+
+&emsp;“(C) medical expenses; or
+
+&emsp;“(D) financial hardship.”
+
+Subsec. (h). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(6)\]\], added subsec. (h).
+
+1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
 
 Subsec. (b)(4). Pub. L. 103–226, §9(i)(3), substituted “subsection (c)” for “subsection (e)”.
 
@@ -100,9 +144,9 @@ Subsec. (i). Pub. L. 103–226, §9(b)(2), redesignated subsec. (i) as (g).
 
 Subsec. (i)(4). Pub. L. 103–353, §5(e)(4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
+1992—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
 
-<b>1990</b>—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
+1990—Subsec. (f)(3)(A). Pub. L. 101–335, §5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
 
 Subsec. (f)(3)(B). Pub. L. 101–335, §5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A modification of a date may not be made under paragraph (2) on or after such date and may not specify a date for the commencement of an annuity earlier than 1 month after the date on which the modification is submitted to the Executive Director.”
 
@@ -114,11 +158,15 @@ Subsec. (h). Pub. L. 101–335, §6(a)(2), amended subsec. (h) generally. Prior 
 
 &emsp;“(3) the employee, Member, former employee, or former Member separates from Government employment.”
 
-<b>1988</b>—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director.”
+1988—Subsec. (i)(3). Pub. L. 100–238 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Loans under this subsection shall be subject to such conditions as the Board may prescribe consistent with section 408(b)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1108(b)(1)). The conditions shall be included in regulations issued by the Executive Director.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applyingamendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
 Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 
@@ -132,13 +180,19 @@ Amendment by Pub. L. 102–484 applicable with respect to separations occurring 
 
 Section 5(d) of Pub. L. 101–335 provided that: “The amendments made by this section \[amending this section and sections 8434, and 8435 of this title\] shall be effective as of April 1, 1987.”
 
-Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
+Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second election period described in section8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 #### Regulations
 
 Section 6(b)(4) of Pub. L. 101–335 provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 
+#### Invalidity of Certain Prior Elections
+
+Section 101(f) \[title VI, §659 \[title II, §203(b)\]\] of Pub. L. 104–208 provided that: “Any election made under section 8433(b)(2) of title 5, United States Code (as in effect before the effective date of this title \[Sept. 30, 1996\]), with respect to an annuity which has not commenced before the implementation date of this title as provided by regulation by the Executive Director in accordance with section 207 of this title \[5 U.S.C. 5545a note\], shall be invalid.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 8351, 8434, 8432b, 8435, 8436, 8437, 8440a, 8440b, 8440c, 8440d of this title; title 22 section 4071j; title 50 section 2154.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (2)”.</i>
 

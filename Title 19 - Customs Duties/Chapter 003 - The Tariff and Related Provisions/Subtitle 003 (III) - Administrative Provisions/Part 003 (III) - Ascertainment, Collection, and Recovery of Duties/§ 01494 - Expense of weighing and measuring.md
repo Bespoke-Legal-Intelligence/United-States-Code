@@ -8,7 +8,7 @@ In all cases in which the invoice or entry does not state the weight, quantity, 
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §494, 42 Stat. 964. That section was superseded by section 494 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-A prior provision requiring merchandise to be weighed, gauged or measured at the expense of theowner, agent or consignee, in cases in which the invoice or entry did not contain the weight, quantity or measure was contained in R.S. §2920, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+A prior provision requiring merchandise to be weighed, gauged or measured at the expense of the owner, agent or consignee, in cases in which the invoice or entry did not contain the weight, quantity or measure was contained in R.S. §2920, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

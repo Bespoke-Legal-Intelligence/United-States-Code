@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;(6) The term “budgetary resources” means—
 
-&emsp;&emsp;(A) with respect to budget year 1991, new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments,or limitations; direct spending authority; and obligation limitations; or
+&emsp;&emsp;(A) with respect to budget year 1991, new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; direct spending authority; and obligation limitations; or
 
 &emsp;&emsp;(B) with respect to budget year 1992, 1993, 1994, or 1995, new budget authority; unobligated balances; direct spending authority; and obligation limitations.
 
@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;(21) The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term “prepayment of a loan” means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term “in advance” shall mean in advance of the slowest payment schedule allowed under such law or contract.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589.)
 
 #### Termination of Section
 
@@ -208,7 +208,7 @@ Sec. 2. <i>Establishment of Direct Spending Targets.</i>
 
 (c) <i>Adjustments</i>. Direct spending targets shall be subsequently adjusted by the Director under Section 6.
 
-Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays for programs covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparison between the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
+Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays for programs covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparisonbetween the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
 
 Sec. 4. <i>Special Direct Spending Message by President</i>. (a) <i>Trigger</i>. In the event that the information submitted under Section 3 indicates—
 
@@ -232,7 +232,7 @@ Sec. 4. <i>Special Direct Spending Message by President</i>. (a) <i>Trigger</i>.
 
 (C) A proposal to make no legislative changes to recoup or eliminate any overage, accompanied by a finding by the President that, because of economic conditions or for other specified reasons, no legislative changes are warranted.
 
-(3) Any proposed legislative change under paragraph (2) to reduce outlays may include reductions in direct spending or in the discretionary spending limits undersection 601 of the Congressional Budget Act of 1974 \[2 U.S.C. 665\].
+(3) Any proposed legislative change under paragraph (2) to reduce outlays may include reductions in direct spending or in the discretionary spending limits under section 601 of the Congressional Budget Act of 1974 \[2 U.S.C. 665\].
 
 Sec. 5. <i>Proposed Special Direct Spending Resolution</i>. If the President recommends reductions consistent with subsection \[Section\] 4 (b)(2)(A) or (B), the special direct spending message shall include the text of a special direct spending resolution implementing the President's recommendations through reconciliation directives instructing the appropriate committees of the House of Representatives and Senate to determine and recommend changes in laws within their jurisdictions to reduce outlays or increase revenues by specified amounts. If the President recommends no reductions pursuant to Section 4 (b)(2)(C), the special direct spending message shall include the text of a special resolution concurring in the President's recommendation of no legislative action.
 
@@ -306,7 +306,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 (ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922).
 
-(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affecttrust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
+(d) <i>Effect on Other Funds</i>. Establishment of and transfers to the Deficit Reduction Fund shall not affect trust fund transfers that may be authorized or required by provisions of the Omnibus Reconciliation Act of 1993 or any other provision of law.
 
 Sec. 3. <i>Requirement for the President To Report Annually on the Status of the Fund</i>. The Director of the Office of Management and Budget shall include in the President's Budget transmitted under section 1105 of title 31, United States Code, information about the Deficit Reduction Fund, including a separate statement of amounts in and Federal debt redeemed by that Fund.
 
@@ -318,7 +318,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Act Referred to in Other Sections
 
-The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 665, 665e of this title; title 7 section 1446; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 38 section 113; title 39 section 2009a; title 42 sections 8621, 11303, 14211; title 48 section 1469a–1.
+The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 665, 665e, 691c of this title; title 7 section 1446; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 38 section 113; title 39 section 2009a; title 42 sections 8621, 11303, 14211; title 48 section 1469a–1.
 
 #### Section Referred to in Other Sections
 

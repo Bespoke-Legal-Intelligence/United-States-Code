@@ -10,7 +10,7 @@ Thereafter, the board of directors of the corporation shall consist of such numb
 
 #### (c) Duties
 
-The board of directors shall be the governing board of the corporation and shall, during the intervals between corporation meetings, be responsible for the general policies and program ofthe corporation. The board shall be responsible for all finances of the corporation.
+The board of directors shall be the governing board of the corporation and shall, during the intervals between corporation meetings, be responsible for the general policies and program of the corporation. The board shall be responsible for all finances of the corporation.
 
 (Aug. 4, 1955, ch. 546, §7, 69 Stat. 488.)
 

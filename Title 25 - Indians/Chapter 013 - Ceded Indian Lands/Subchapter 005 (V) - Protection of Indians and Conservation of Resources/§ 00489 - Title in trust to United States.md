@@ -6,5 +6,5 @@ Title to land acquired by a tribe or tribal corporation with a loan made or insu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 488, 490, 491, 492, 493, 494 of this title.
+This section is referred to in sections 488, 490, 491, 492, 493, 494 of this title; title 7 section 1985.
 

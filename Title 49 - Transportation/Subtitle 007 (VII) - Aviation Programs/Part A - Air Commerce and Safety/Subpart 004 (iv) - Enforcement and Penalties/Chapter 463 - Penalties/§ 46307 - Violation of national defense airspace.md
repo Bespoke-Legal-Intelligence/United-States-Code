@@ -6,7 +6,9 @@ A person that knowingly or willfully violates section 40103(b)(3) of this title 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

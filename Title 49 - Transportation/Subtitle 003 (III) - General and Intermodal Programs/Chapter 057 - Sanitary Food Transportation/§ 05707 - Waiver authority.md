@@ -16,7 +16,9 @@ Publication of Waivers.—The Secretary shall publish in the Federal Register an
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -14,7 +14,7 @@ For purposes of this part, the term “distributable net income” means, with r
 
 #### (3) Capital gains and losses
 
-&emsp;Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extentsuch losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
+&emsp;Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extent such losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
 
 #### (4) Extraordinary dividends and taxable stock dividends
 
@@ -33,6 +33,10 @@ For purposes of this part, the term “distributable net income” means, with r
 &emsp;&emsp;(B) Gross income from sources within the United States shall be determined without regard to section 894 (relating to income exempt under treaty).
 
 &emsp;&emsp;(C) Paragraph (3) shall not apply to a foreign trust. In the case of such a trust, there shall be included gains from the sale or exchange of capital assets, reduced by losses from such sales or exchanges to the extent such losses do not exceed gains from such sales or exchanges.
+
+#### (7) Abusive transactions
+
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part, including regulations to prevent avoidance of such purposes.
 
 > If the estate or trust is allowed a deduction under section 642(c), the amount of the modifications specified in paragraphs (5) and (6) shall be reduced to the extent that the amount of income which is paid, permanently set aside, or to be used for the purposes specified in section 642(c) is deemed to consist of items specified in those paragraphs. For this purpose, such amount shall (in the absence of specific provisions in the governing instrument) be deemed to consist of the same proportion of each class of items of income of the estate or trust as the total of each class bears to the total of all classes.
 
@@ -132,9 +136,63 @@ For purposes of this subchapter, under regulations prescribed by the Secretary, 
 
 &emsp;&emsp;(B) the fiduciary of the estate shall be treated as the trustee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 217; Oct. 16, 1962, Pub. L. 87–834, §7(a), 76 Stat. 985; Oct. 4, 1976, Pub. L. 94–455, title X, §1013(c), (e)(2), 90 Stat. 1615, 1616; Apr. 2, 1980, Pub. L. 96–223, title IV, §404(b)(4), 94 Stat. 306; Aug. 13, 1981, Pub. L. 97–34, title III, §301(b)(4), (6)(B), 95 Stat. 270; Sept. 3, 1982, Pub. L. 97–248, title III, §§302(b)(1), 308(a), 96 Stat. 586, 591; Jan. 12, 1983, Pub. L. 97–448, title I, §103(a)(3), 96 Stat. 2375; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; July 18, 1984, Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), 98 Stat. 597, 598, 975; Oct. 22, 1986, Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), 100 Stat. 2217, 2250, 2713, 2810, 2811; Nov. 10, 1988, Pub. L. 100–647, title I, §1014(d)(3), (4), 102 Stat. 3561; Dec. 19, 1989, Pub. L. 101–239, title VII, §7811(b), (f)(1), 103 Stat. 2406, 2409; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13113(d)(3), 107 Stat. 430.)
+#### (h) Distributions by certain foreign trusts through nominees
+
+For purposes of this part, any amount paid to a United States person which is derived directly or indirectly from a foreign trust of which the payor is not the grantor shall be deemed in the year of payment to have been directly paid by the foreign trust to such United States person.
+
+#### (i) Loans from foreign trusts
+
+For purposes of subparts B, C, and D—
+
+#### (1) General rule
+
+&emsp;Except as provided in regulations, if a foreign trust makes a loan of cash or marketable securities directly or indirectly to—
+
+&emsp;&emsp;(A) any grantor or beneficiary of such trust who is a United States person, or
+
+&emsp;&emsp;(B) any United States person not described in subparagraph (A) who is related to such grantor or beneficiary,
+
+> &emsp;the amount of such loan shall be treated as a distribution by such trust to such grantor or beneficiary (as the case may be).
+
+#### (2) Definitions and special rules
+
+&emsp;For purposes of this subsection—
+
+#### (A) Cash
+
+&emsp;&emsp;The term “cash” includes foreign currencies and cash equivalents.
+
+#### (B) Related person
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A person is related to another person if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b). In applying section 267 for purposes of the preceding sentence, section 267(c)(4) shall be applied as if the family of an individual includes the spouses of the members of the family.
+
+#### (ii) Allocation
+
+&emsp;&emsp;&emsp;If any person described in paragraph (1)(B) is related to more than one person, the grantor or beneficiary to whom the treatment under this subsection applies shall be determined under regulations prescribed by the Secretary.
+
+#### (C) Exclusion of tax-exempts
+
+&emsp;&emsp;The term “United States person” does not include any entity exempt from tax under this chapter.
+
+#### (D) Trust not treated as simple trust
+
+&emsp;&emsp;Any trust which is treated under this subsection as making a distribution shall be treated as not described in section 651.
+
+#### (3) Subsequent transactions regarding loan principal
+
+&emsp;If any loan is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) shall be disregarded for purposes of this title.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 217; Oct. 16, 1962, Pub. L. 87–834, §7(a), 76 Stat. 985; Oct. 4, 1976, Pub. L. 94–455, title X, §1013(c), (e)(2), 90 Stat. 1615, 1616; Apr. 2, 1980, Pub. L. 96–223, title IV, §404(b)(4), 94 Stat. 306; Aug. 13, 1981, Pub. L. 97–34, title III, §301(b)(4), (6)(B), 95 Stat. 270; Sept. 3, 1982, Pub. L. 97–248, title III, §§302(b)(1), 308(a), 96 Stat. 586, 591; Jan. 12, 1983, Pub. L. 97–448, title I, §103(a)(3), 96 Stat. 2375; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; July 18, 1984, Pub. L. 98–369, div. A, title I, §§81(a), 82(a), title VII, §722(h)(3), 98 Stat. 597, 598, 975; Oct. 22, 1986, Pub. L. 99–514, title III, §301(b)(7), title VI, §612(b)(4), title XIV, §1404(b), title XVIII, §1806(a), (c), 100 Stat. 2217, 2250, 2713, 2810, 2811; Nov. 10, 1988, Pub. L. 100–647, title I, §1014(d)(3), (4), 102 Stat. 3561; Dec. 19, 1989, Pub. L. 101–239, title VII, §7811(b), (f)(1), 103 Stat. 2406, 2409; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13113(d)(3), 107 Stat. 430; Aug. 20, 1996, Pub. L. 104–188, title I, §§1904(c)(1), 1906(b), (c)(1), 110 Stat. 1912, 1915.)
 
 #### Amendments
+
+1996—Subsec. (a)(7). Pub. L. 104–188, §1906(b), added par. (7).
+
+Subsec. (h). Pub. L. 104–188, §1904(c)(1), added subsec. (h).
+
+Subsec. (i). Pub. L. 104–188, §1906(c)(1), added subsec. (i).
 
 1993—Subsec. (a)(3). Pub. L. 103–66 inserted at end “The exclusion under section 1202 shall not be taken into account.”
 
@@ -193,6 +251,34 @@ Subsec. (d). Pub. L. 94–455, §1013(e)(2), struck out subsec. (a) which define
 1962—Subsec. (a)(6). Pub. L. 87–834, §7(a)(1), substituted “Income of foreign trust” for “Foreign income” in heading, designated existing provisions as subpar. (A), and added subpars. (B) and (C).
 
 Subsec. (d). Pub. L. 87–834, §7(a)(2), added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Section 1904(d) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—Except as provided by paragraph (2), the amendments made by this section \[amending this section and sections 665, 672, and 901 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].
+
+“(2)
+
+Exception for certain trusts.—The amendments made by this section shall not apply to any trust—
+
+&emsp;“(A) which is treated as owned by the grantor under section 676 or 677 (other than subsection (a)(3) thereof) of the Internal Revenue Code of 1986, and
+
+&emsp;“(B) which is in existence on September 19, 1995.
+
+> The preceding sentence shall not apply to the portion of any such trust attributable to any transfer to such trust after September 19, 1995.”
+
+Section 1906(d)(2), (3) of Pub. L. 104–188 provided that:
+
+“(2)
+
+Abusive transactions.—The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].
+
+“(3)
+
+Loans from trusts.—The amendment made by subsection (c) \[amending this section and section 7872 of this title\] shall apply to loans of cash or marketable securities made after September 19, 1995.”
 
 #### Effective Date of 1993 Amendment
 
@@ -266,7 +352,7 @@ Section 7(j) of Pub. L. 87–834 provided that: “The amendments made by this s
 
 Section 1018(e) of Pub. L. 100–647 provided that: “If—
 
-&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 ormore trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
+&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 or more trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
 
 &emsp;“(2) such trusts would have been required to be so treated but for the amendment made by section 1806(b) of the Reform Act \[Pub. L. 99–514, which amended provisions set out as an Effective Date of 1984 Amendment note above\], and
 
@@ -280,5 +366,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1361, 2056A, 6166 of this title.
+This section is referred to in sections 679, 1361, 2056A, 6166, 7872 of this title.
 

@@ -32,7 +32,7 @@ Subsec. (c) of this section amended section 7902 of Title 5, Government Organiza
 
 #### Amendments
 
-1982—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate and House a report of the activities of Federal agencies under this section.
+1982—Subsec. (b). Pub. L. 97–375 struck out direction that the President transmit annually to the Senate andHouse a report of the activities of Federal agencies under this section.
 
 #### Occupational Safety and Health Programs for Federal Employees
 
@@ -40,5 +40,5 @@ Occupational safety and health programs for Federal employees and continuation o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 410; title 42 section 2297b–11.
+This section is referred to in title 3 section 425; title 39 section 410; title 42 section 2297b–11.
 

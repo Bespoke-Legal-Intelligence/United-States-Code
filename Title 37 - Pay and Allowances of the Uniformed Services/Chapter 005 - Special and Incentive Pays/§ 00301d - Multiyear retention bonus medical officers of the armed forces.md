@@ -16,7 +16,7 @@ Eligible Officers.â€”This section applies to an officer of the armed forces whoâ
 
 &emsp;(3) has at least eight years of creditable service (computed as described in section 302(g) of this title) or has completed any active-duty service commitment incurred for medical education and training; and
 
-&emsp;(4) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
+&emsp;(4) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officerenters into an agreement under subsection (a)).
 
 (c)
 

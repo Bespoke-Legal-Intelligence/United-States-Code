@@ -22,13 +22,17 @@ The Secretary, acting through the program, shall—
 
 &emsp;(3) coordinate the activities of the program with similar activities occurring domestically;
 
-&emsp;(4) make available upon request, without charge and without regard to the country from which such request originates, the genetic material which the program assembles;
+&emsp;(4) unless otherwise prohibited by law, have the right to make available on request, without charge and without regard to the country from which the request originates, the genetic material that the program assembles;
 
 &emsp;(5) expand the types of genetic resources included in the program to develop a comprehensive genetic resources program which includes plants (including silvicultural species), animal, aquatic, insect, microbiological, and other types of genetic resources of importance to food and agriculture, as resources permit; and
 
 &emsp;(6) engage in such other activities as the Secretary determines appropriate and as the resources of the program permit.
 
-(Pub. L. 101–624, title XVI, §1632, Nov. 28, 1990, 104 Stat. 3744.)
+(Pub. L. 101–624, title XVI, §1632, Nov. 28, 1990, 104 Stat. 3744; Pub. L. 104–127, title VIII, §832(a), Apr. 4, 1996, 110 Stat. 1168.)
+
+#### Amendments
+
+1996—Subsec. (d)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “make available upon request, without charge and without regard to the country from which such request originates, the genetic material which the program assembles;”.
 
 #### Section Referred to in Other Sections
 

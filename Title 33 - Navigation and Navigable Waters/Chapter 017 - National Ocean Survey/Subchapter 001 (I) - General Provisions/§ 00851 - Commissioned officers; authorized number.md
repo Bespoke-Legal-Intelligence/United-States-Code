@@ -1,8 +1,8 @@
 ### §851. Commissioned officers; authorized number
 
-There are authorized in the National Oceanic and Atmospheric Administration 439 commissioned officers on the active list.
+There are authorized in the National Oceanic and Atmospheric Administration 299 commissioned officers on the active list as of September 30, 1997.
 
-(Aug. 26, 1994, Pub. L. 103–317, title II, 108 Stat. 1741.)
+(Sept. 30, 1996, Pub. L. 104–208, div. A, title I, §101(a) \[title II\], 110 Stat. 3009, 3009–37.)
 
 #### Codification
 
@@ -11,6 +11,10 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Apr. 26, 1996, Pub. L. 104–134, title I, §101\[(a)\] \[title II\], 110 Stat. 1321, 1321–27; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.
+
+Aug. 26, 1994, Pub. L. 103–317, title II, 108 Stat. 1741.
 
 Oct. 27, 1993, Pub. L. 103–121, title II, 107 Stat. 1170.
 
@@ -148,7 +152,7 @@ Pub. L. 102–567, title VI, §601, Oct. 29, 1992, 106 Stat. 4299, provided that
 
 #### Short Title
 
-Pub. L. 95–63, §1, July 5, 1977, 91 Stat. 265, provided: “That this Act \[enacting sections 857–13 to 857–18 ofthis title, repealing sections 857–6 to 857–12 of this title, and enacting provisions set out as a note under section 857–13 of this title\] may be cited as the ‘National Advisory Committee on Oceans and Atmosphere Act of 1977’.”
+Pub. L. 95–63, §1, July 5, 1977, 91 Stat. 265, provided: “That this Act \[enacting sections 857–13 to 857–18 of this title, repealing sections 857–6 to 857–12 of this title, and enacting provisions set out as a note under section 857–13 of this title\] may be cited as the ‘National Advisory Committee on Oceans and Atmosphere Act of 1977’.”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1965</b>
 
@@ -222,7 +226,7 @@ Establishment of the Administration will mark a significant step forward in the 
 
 The new Administration will bring together a number of allied scientific disciplines that are concerned with the physical environment. The integration will better enable us to look at man's physical environment as a scientific whole and to seek to understand the interactions among air, sea, and earth and between the upper and lower atmosphere. It will facilitate the development of programs dealing with the physical environment and will permit better management of these programs. It will enhance our capability to identify and solve important long-range scientific and technological problems associated with the physical environment. The new Administration will, in consequence, promote a fresh sense of scientific dedication, discovery, and challenge, which are essential if we are to attract scientists and engineers of creativity and talent to Federal employment in this field.
 
-The reorganization plan provides for an Administrator at the head of the Administration, and for a Deputy Administrator, each of whom will be appointed by the President by and with the advice and consent of the Senate. As authorized by the civil service and other laws and regulations, subordinate officers of the Administration will be appointed by the Secretary of Commerce or be assigned by him from among a corps of commissioned officers. The Administration will perform such functions as the Secretary of Commerce may delegate or otherwise assign to it and will be under his direction and control.
+The reorganization plan provides for an Administrator at the head of the Administration, and for a Deputy Administrator, each of whom will be appointed by the President by and with the advice and consent of theSenate. As authorized by the civil service and other laws and regulations, subordinate officers of the Administration will be appointed by the Secretary of Commerce or be assigned by him from among a corps of commissioned officers. The Administration will perform such functions as the Secretary of Commerce may delegate or otherwise assign to it and will be under his direction and control.
 
 Commissioned officers of the Coast and Geodetic Survey will become commissioned officers of the Administration and may serve at the discretion of the Secretary of Commerce throughout the Administration. The reorganization plan authorizes the President at his discretion to fill the Office of Deputy Administrator by appointment, by and with the advice and consent of the Senate, from the active list of commissioned officers of the Administration.
 

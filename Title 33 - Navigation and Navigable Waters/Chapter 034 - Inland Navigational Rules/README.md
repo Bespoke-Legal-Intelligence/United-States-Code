@@ -61,7 +61,7 @@ I74subpart i—conduct of vessels in any condition of visibility
 | (i) | Fishing vessels. |
 | (j) | Power-driven vessels. |
 | (k) | Exemption; maintenance of safety of navigation. |
-| (<i>l)</i> | Exemption; laying, servicing, or picking up submarine cable. |
+| (<i>l</i>) | Exemption; laying, servicing, or picking up submarine cable. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -232,7 +232,7 @@ I74subpart i—conduct of vessels in any condition of visibility
 | (a) | Liability of operator for civil penalty. |
 | (b) | Liability of vessel for civil penalty; seizure of vessel. |
 | (c) | Assessment of civil penalty by Secretary; collection. |
-| (d) | Authority to withhold or revoke clearances. |
+| (d) | Withholding of clearance. |
 | [2073\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002073%20-%20Navigation%20Safety%20Advisory%20Council.md) | Navigation Safety Advisory Council. |
 | (a) | Establishment; membership; Council panels; publication in Federal Register. |
 | (b) | Functions and purpose of Council. |

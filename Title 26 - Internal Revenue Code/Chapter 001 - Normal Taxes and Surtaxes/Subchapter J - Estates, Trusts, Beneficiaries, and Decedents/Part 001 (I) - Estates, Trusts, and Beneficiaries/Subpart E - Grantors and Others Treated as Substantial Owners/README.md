@@ -20,7 +20,7 @@ Subpart E—Grantors and Others Treated as Substantial Owners
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 402, 1312, 1361, 1445, 6654 of this title.
+This subpart is referred to in sections 402, 665, 901, 1312, 1361, 1445, 6048, 6654 of this title.
 
 
 ---

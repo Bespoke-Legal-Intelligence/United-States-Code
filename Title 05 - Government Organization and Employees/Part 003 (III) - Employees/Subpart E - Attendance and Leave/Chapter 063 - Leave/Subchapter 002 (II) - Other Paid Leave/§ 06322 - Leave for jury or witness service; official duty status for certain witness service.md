@@ -1,14 +1,14 @@
 ### §6322. Leave for jury or witness service; official duty status for certain witness service
 
-(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives) or an individual employed by the government of the District of Columbia is entitled to leave, without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance of efficiency rating, during a period of absence with respect to which he is summoned, in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding, to serve—
+(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is entitled to leave, without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance of efficiency rating, during a period of absence with respect to which he is summoned, in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding, to serve—
 
 &emsp;(1) as a juror; or
 
 &emsp;(2) other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
 
-> in the District of Columbia, a State, territory, or possession of the United States including the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, or the Republic of Panama. For the purpose of this subsection, “judicial proceeding” means any action, suit, or other judicial proceeding, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding.
+> in the District of Columbia, a State, territory, or possession of the United States including the Commonwealth of Puerto Rico or the Trust Territory of the Pacific Islands. For the purpose of this subsection, “judicial proceeding” means any action, suit, or other judicial proceeding, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding.
 
-(b) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives) or an individual employed by the government of the District of Columbia is performing official duty during the period with respect to which he is summoned, or assigned by his agency, to—
+(b) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is performing official duty during the period with respect to which he is summoned, or assigned by his agency, to—
 
 &emsp;(1) testify or produce official records on behalf of the United States or the District of Columbia; or
 
@@ -16,7 +16,7 @@
 
 (c) The Office of Personnel Management may prescribe regulations for the administration of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, §1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 94–310, §1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1251, Sept. 27, 1979, 93 Stat. 476.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 91–563, §1(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 94–310, §1, June 15, 1976, 90 Stat. 687; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1251, Sept. 27, 1979, 93 Stat. 476; Pub. L. 104–186, title II, §215(10), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(8), Sept. 23, 1996, 110 Stat. 2869.)
 
 Historical and Revision Notes
 
@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 30n.
 
@@ -34,13 +36,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–70 substituted “the Trust Territory of the Pacific Islands, or the Republic of Panama” for “the Canal Zone, or the Trust Territory of the Pacific Islands”.
+1996—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted “Puerto Rico or” for “Puerto Rico,” and struck out “, or the Republic of Panama” after “Pacific Islands”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–310 substituted “other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
+Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-<b>1970</b>—Pub. L. 91–563 included witness service and official duty status for certain witness service in section catchline.
+1979—Subsec. (a). Pub. L. 96–70 substituted “the Trust Territory of the Pacific Islands, or the Republic of Panama” for “the Canal Zone, or the Trust Territory of the Pacific Islands”.
+
+1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+1976—Subsec. (a)(2). Pub. L. 94–310 substituted “other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
+
+1970—Pub. L. 91–563 included witness service and official duty status for certain witness service in section catchline.
 
 Subsec. (a). Pub. L. 91–563 designated existing provisions as subsec. (a) and expanded such provisions to authorize leave for jury service in courts in the District of Columbia and in territories and possessions of the United States, to permit leave for persons summoned as witnesses in behalf of a party other than the United States, the District of Columbia, or a private party, defined “judicial proceeding”, and excepted individuals whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives.
 
@@ -57,10 +65,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 94–310, set out as a note under section 130b of Title 2, The Congress.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Termination of Trust Territory of the Pacific Islands
 

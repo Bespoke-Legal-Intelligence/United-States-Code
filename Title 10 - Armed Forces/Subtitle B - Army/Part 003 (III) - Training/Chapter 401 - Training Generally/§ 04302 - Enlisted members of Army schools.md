@@ -1,6 +1,6 @@
 ### §4302. Enlisted members of Army: schools
 
-(a) So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Army with the approval of the President, enlisted members of the Army shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Army officers in this instruction.
+(a) So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Army with the approval of the President, enlisted members of the Army shall be permitted to study and receive instruction to increase their military efficiency and to enable them toreturn to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Army officers in this instruction.
 
 (b) Schools for the instruction of enlisted members of the Army in the common branches of education, including United States history shall be maintained at all posts at which members of the Army are stationed. The Secretary may detail members of the Army to carry out this subsection. The commander of each post where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.
 
@@ -26,7 +26,7 @@ June 3, 1916, ch. 134, §27 (last par.), 39 Stat. 186.
 
 R.S. 1231.
 
-In subsection (a), the first 12 words are substituted for 10:1176 (1st 5, and last 18, words). The words “and theSecretary of the Army shall have the power at all times to suspend, increase, or decrease the amount of such instruction offered” are omitted as surplusage.
+In subsection (a), the first 12 words are substituted for 10:1176 (1st 5, and last 18, words). The words “and the Secretary of the Army shall have the power at all times to suspend, increase, or decrease the amount of such instruction offered” are omitted as surplusage.
 
 In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It \* \* \* be the duty”, and “or garrison” are omitted as surplusage.
 

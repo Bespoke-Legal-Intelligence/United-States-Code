@@ -6,13 +6,23 @@ No member bank may extend credit to any of its executive officers, directors, or
 
 #### (2) Preferential terms prohibited
 
-A member bank may extend credit to its executive officers, directors, or principal shareholders, or to any related interest of such a person, only if the extension of credit—
+#### (A) In general
 
-&emsp;(A) is made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions by the bank with persons who are not executive officers, directors, principal shareholders, or employees of the bank;
+&emsp;A member bank may extend credit to its executive officers, directors, or principal shareholders, or to any related interest of such a person, only if the extension of credit—
 
-&emsp;(B) does not involve more than the normal risk of repayment or present other unfavorable features; and
+&emsp;&emsp;(i) is made on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable transactions by the bank with persons who are not executive officers, directors, principal shareholders, or employees of the bank;
 
-&emsp;(C) the bank follows credit underwriting procedures that are not less stringent than those applicable to comparable transactions by the bank with persons who are not executive officers, directors, principal shareholders, or employees of the bank.
+&emsp;&emsp;(ii) does not involve more than the normal risk of repayment or present other unfavorable features; and
+
+&emsp;&emsp;(iii) the bank follows credit underwriting procedures that are not less stringent thanthose applicable to comparable transactions by the bank with persons who are not executive officers, directors, principal shareholders, or employees of the bank.
+
+#### (B) Exception
+
+&emsp;Nothing in this paragraph shall prohibit any extension of credit made pursuant to a benefit or compensation program—
+
+&emsp;&emsp;(i) that is widely available to employees of the member bank; and
+
+&emsp;&emsp;(ii) that does not give preference to any officer, director, or principal shareholder of the member bank, or to any related interest of such person, over other employees of the member bank.
 
 #### (3) Prior approval required
 
@@ -38,7 +48,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (C) Board may make exceptions for certain banks
 
-&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if theBoard determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
+&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
 
 #### (6) Overdrafts by executive officers and directors prohibited
 
@@ -66,7 +76,11 @@ No executive officer, director, or principal shareholder shall knowingly receive
 
 #### (B) Exception
 
-&emsp;The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.
+&emsp;The Board may, by regulation, make exceptions to subparagraph (A) for any executive officer or director of a subsidiary of a company that controls the member bank if—
+
+&emsp;&emsp;(i) the executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank; and
+
+&emsp;&emsp;(ii) the assets of such subsidiary do not exceed 10 percent of the consolidated assets of a company that controls the member bank and such subsidiary (and is not controlled by any other company).
 
 #### (9) Definitions
 
@@ -138,13 +152,21 @@ For purposes of this section:
 
 The Board of Governors of the Federal Reserve System may prescribe such regulations, including definitions of terms, as it determines to be necessary to effectuate the purposes and prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, §22(h), as added Nov. 10, 1978, Pub. L. 95–630, title I, §104, 92 Stat. 3644; amended Oct. 15, 1982, Pub. L. 97–320, title IV, §§410(e), 422, 96 Stat. 1520, 1522; Dec. 19, 1991, Pub. L. 102–242, title III, §306(a)–(h), 105 Stat. 2355, 2357–2359; Oct. 28, 1992, Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), 106 Stat. 3895, 4086; Sept. 23, 1994, Pub. L. 103–325, title III, §334(b), 108 Stat. 2233.)
+(Dec. 23, 1913, ch. 6, §22(h), as added Nov. 10, 1978, Pub. L. 95–630, title I, §104, 92 Stat. 3644; amended Oct. 15, 1982, Pub. L. 97–320, title IV, §§410(e), 422, 96 Stat. 1520, 1522; Dec. 19, 1991, Pub. L. 102–242, title III, §306(a)–(h), 105 Stat. 2355, 2357–2359; Oct. 28, 1992, Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), 106 Stat. 3895, 4086; Sept. 23, 1994, Pub. L. 103–325, title III, §334(b), 108 Stat. 2233; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2211, 110 Stat. 3009–410.)
 
 #### Prior Provisions
 
 A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 653, §3, 48 Stat. 1107, was classified to section 596 of this title, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 #### Amendments
+
+1996—Par. (2)(A). Pub. L. 104–208, §2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
+
+Par. (2)(B). Pub. L. 104–208, §2211(a)(3), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+
+Par. (2)(C). Pub. L. 104–208, §2211(a)(1), redesignated subpar. (C) as cl. (iii) of subpar. (A).
+
+Par. (8)(B). Pub. L. 104–208, §2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
 
 1994—Par. (8). Pub. L. 103–325 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

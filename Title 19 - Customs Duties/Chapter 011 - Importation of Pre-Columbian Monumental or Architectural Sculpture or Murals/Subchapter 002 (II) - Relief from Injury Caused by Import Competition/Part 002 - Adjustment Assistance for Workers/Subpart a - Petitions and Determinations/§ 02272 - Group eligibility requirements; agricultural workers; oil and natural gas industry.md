@@ -14,7 +14,7 @@
 
 &emsp;(2)(A) Any firm, or appropriate subdivision of a firm, that engages in exploration or drilling for oil or natural gas shall be considered to be a firm producing oil or natural gas.
 
-&emsp;(B) Any firm, or appropriate subdivision of a firm, that engages in exploration or drilling for oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
+&emsp;(B) Any firm, or appropriate subdivision of a firm, that engages in exploration or drillingfor oil or natural gas, or otherwise produces oil or natural gas, shall be considered to be producing articles directly competitive with imports of oil and with imports of natural gas.
 
 (Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151.)
 

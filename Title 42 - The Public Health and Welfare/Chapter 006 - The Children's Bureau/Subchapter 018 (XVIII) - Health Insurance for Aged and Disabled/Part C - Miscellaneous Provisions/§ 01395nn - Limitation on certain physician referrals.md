@@ -34,7 +34,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(A) that are furnished—
 
-&emsp;&emsp;&emsp;(i) personally by the referring physician, personally by a physician who is a member of the same group practice as the referring physician, or personally by individualswho are directly supervised by the physician or by another physician in the group practice, and
+&emsp;&emsp;&emsp;(i) personally by the referring physician, personally by a physician who is a member of the same group practice as the referring physician, or personally by individuals who are directly supervised by the physician or by another physician in the group practice, and
 
 &emsp;&emsp;&emsp;(ii)(I) in a building in which the referring physician (or another physician who is a member of the same group practice) furnishes physicians’ services unrelated to the furnishing of designated health services, or
 
@@ -132,7 +132,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;(iii) the lease provides for a term of rental or lease of at least 1 year,
 
-&emsp;&emsp;&emsp;(iv) the rental charges over the term of the lease are set in advance, are consistent with fair market value, and are not determined in a manner that takes into account the volume or value of any referrals or other business generated between the parties,
+&emsp;&emsp;&emsp;(iv) the rental charges over the term of the lease are set in advance, are consistentwith fair market value, and are not determined in a manner that takes into account the volume or value of any referrals or other business generated between the parties,
 
 &emsp;&emsp;&emsp;(v) the lease would be commercially reasonable even if no referrals were made between the parties, and
 
@@ -182,7 +182,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation may be determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medicallynecessary services provided with respect to a specific individual enrolled with the entity.
+&emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the entity.
 
 &emsp;&emsp;&emsp;&emsp;(II) In the case of a plan that places a physician or a physician group at substantial financial risk as determined by the Secretary pursuant to section 1395mm(i)(8)(A)(ii) of this title, the plan complies with any requirements the Secretary may impose pursuant to such section.
 
@@ -202,7 +202,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;(A) the physician is not required to refer patients to the hospital,
 
-&emsp;&emsp;(B) the amount of the remuneration under the arrangement is not determined in a manner that takes into account (directly or indirectly) the volume or value of any referrals by the referring physician, and
+&emsp;&emsp;(B) the amount of the remuneration under the arrangement is not determined in amanner that takes into account (directly or indirectly) the volume or value of any referrals by the referring physician, and
 
 &emsp;&emsp;(C) the arrangement meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -250,7 +250,7 @@ Each entity providing covered items or services for which payment may be made un
 
 &emsp;(2) the names and unique physician identification numbers of all physicians with an ownership or investment interest (as described in subsection (a)(2)(A) of this section), or with a compensation arrangement (as described in subsection (a)(2)(B) of this section), in the entity, or whose immediate relatives have such an ownership or investment interest or who have such a compensation relationship with the entity.
 
-> Such information shall be provided in such form, manner, and at such times as the Secretary shall specify. The requirement of thissubsection shall not apply to designated health services provided outside the United States or to entities which the Secretary determines provides <sup>3</sup> services for which payment may be made under this subchapter very infrequently.
+> Such information shall be provided in such form, manner, and at such times as the Secretary shall specify. The requirement of this subsection shall not apply to designated health services provided outside the United States or to entities which the Secretary determines provides <sup>3</sup> services for which payment may be made under this subchapter very infrequently.
 
 #### (g) Sanctions
 
@@ -310,7 +310,7 @@ For purposes of this section:
 
 #### (3) Fair market value
 
-&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rentalproperty for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
+&emsp;The term “fair market value” means the value in arms length transactions, consistent with the general market value, and, with respect to rentals or leases, the value of rental property for general commercial purposes (not taking into account its intended use) and, in the case of a lease of space, not adjusted to reflect the additional value the prospective lessee or lessor would attribute to the proximity or convenience to the lessor where the lessor is a potential source of patient referrals to the lessee.
 
 #### (4) Group practice
 
@@ -384,7 +384,7 @@ For purposes of this section:
 
 #### References in Text
 
-Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) ofPub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
@@ -462,7 +462,7 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 #### Effective Date of 1990 Amendment
 
-Section 4207(e)(5), formerly 4027(e)(5), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
+Section 4207(e)(5), formerly 4027(e)(5), of Pub. L. 101–508, as renumbered by Pub. L. 103–432, title I,§160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\].”
 
 #### Effective Date
 
@@ -478,11 +478,11 @@ Section 6204(d) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV,
 
 #### GAO Study of Ownership by Referring Physicians
 
-Section 6204(e) of Pub. L. 101–239 directed Comptroller General to conduct a study of ownership of hospitals and other providers of medicare services by referring physicians and, by not later than Feb. 1, 1991, report to Congress on results of such study.
+Section 6204(e) of Pub. L. 101–239 directed Comptroller General to conduct a study of ownership of hospitals and other providers of medicare services by referring physicians and, by not later than Feb. 1, 1991, report to Congress on results of such study, prior to repeal by Pub. L. 104–316, title I, §122(h)(1), Oct. 19, 1996, 110 Stat. 3837.
 
 #### Statistical Summary of Comparative Utilization
 
-Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(A), formerly §4027(e)(4)(A), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, directed Secretary of Health and Human Services, not later than June 30, 1992, to submit to Congress a statistical profile comparing utilization of items and services by medicare beneficiaries served by entities in which the referring physician has a direct or indirect financial interest and by medicare beneficiaries served by other entities, for the States and entities specified in subsec. (f) of this section (other than entities providing clinical laboratory services).
+Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(A), formerly §4027(e)(4)(A), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–316, title I, §122(h)(2), Oct. 19, 1996, 110 Stat. 3837, directed Secretary of Health and Human Services, not later than June 30, 1992, to submit to Congress a statistical profile comparing utilization of items and services by medicare beneficiaries served by entities in which the referring physician has a direct or indirect financial interest and by medicare beneficiaries served by other entities, for the States and entities specified in subsec. (f) of this section (other than entities providing clinical laboratory services).
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2071.
 
@@ -32,9 +34,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1975</b>—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
+1975—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted “Executive Protective Service” for “White House Police”.
 
-<b>1968</b>—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
+1968—Subsec. (b)(1). Pub. L. 90–623 substituted “District of Columbia Council” for “Commissioners of the District of Columbia”.
+
+#### Change of Name
+
+Reference to Executive Protective Service held to refer to United States Secret Service Uniformed Division pursuant to Pub. L. 95–179, set out as a note under section 202 of Title 3, The President.
 
 #### Effective Date of 1968 Amendment
 

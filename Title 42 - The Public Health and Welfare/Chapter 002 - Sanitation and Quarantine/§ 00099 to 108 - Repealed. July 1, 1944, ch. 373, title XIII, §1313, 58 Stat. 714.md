@@ -6,7 +6,7 @@ Section 100, act Feb. 15, 1893, ch. 114, §8, 27 Stat. 452, provided compensatio
 
 Section 101, act June 19, 1906, ch. 3433, §5, 34 Stat. 301, provided for acquisition of quarantine stations. See section 267 of this title.
 
-Section 102, act Feb. 15, 1893, ch. 114, §10, as added Mar. 3, 1901, ch. 836, 31 Stat. 1086, and amended July 1, 1902, ch. 1370, §1, 32 Stat. 712, provided for establishment of quarantine grounds. See sections 267 and 271 of this title.
+Section 102, act Feb. 15, 1893, ch. 114, §10, as added Mar. 3, 1901, ch. 836, 31 Stat. 1086; amended July 1, 1902, ch. 1370, §1, 32 Stat. 712, provided for establishment of quarantine grounds. See sections 267 and 271 of this title.
 
 Section 103, act June 19, 1906, ch. 3433, §1, 34 Stat. 299, provided for control and management of quarantine grounds. See section 267 of this title.
 

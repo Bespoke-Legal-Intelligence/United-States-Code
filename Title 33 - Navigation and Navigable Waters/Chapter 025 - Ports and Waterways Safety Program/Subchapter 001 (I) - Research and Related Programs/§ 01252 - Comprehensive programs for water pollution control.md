@@ -8,7 +8,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, consideration shall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
 
-(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
+(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by theCorps of Engineers, Bureau of Reclamation, or other Federal agencies.
 
 (3) The need for, the value of, and the impact of, storage for water quality control shall be determined by the Administrator, and his views on these matters shall be set forth in any report or presentation to Congress proposing authorization or construction of any reservoir including such storage.
 
@@ -45,42 +45,6 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 #### Transfer of Functions
 
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (b)(6) on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
-
-#### Environmental Dredging
-
-Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639, provided that:
-
-“(a)
-
-Operation and Maintenance of Navigation Projects.—Whenever necessary to meet the requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, may remove, as part of operation and maintenance of a navigation project, contaminated sediments outside the boundaries of and adjacent to the navigation channel.
-
-“(b)
-
-Nonproject Specific.—
-
-&emsp;“(1)
-
-In general.—The Secretary may remove contaminated sediments from the navigable waters of the United States for the purpose of environmental enhancement and water quality improvement if such removal is requested by a non-Federal sponsor and the sponsor agrees to pay 50 percent of the cost of such removal.
-
-&emsp;“(2)
-
-Maximum amount.—The Secretary may not expend more than $10,000,000 in a fiscal year to carry out this subsection.
-
-“(c)
-
-Joint Plan Requirement.—The Secretary may only remove contaminated sediments under subsection (b) in accordance with a joint plan developed by the Secretary and interested Federal, State, and local government officials. Such plan must include an opportunity for public comment, a description of the work to be undertaken, the method to be used for dredged material disposal, the roles and responsibilities of the Secretary and non-Federal sponsors, and identification of sources of funding.
-
-“(d)
-
-Disposal Costs.—Costs of disposal of contaminated sediments removed under this section shall be a non-Federal responsibility.
-
-“(e)
-
-Limitation on Statutory Construction.—Nothing in this section shall be construed to affect the rights and responsibilities of any person under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\].
-
-“(f)
-
-Termination Date.—This section shall not be effective after the last day of the 5-year period beginning on the date of the enactment of this Act \[Nov. 28, 1990\]; except that the Secretary may complete any project commenced under this section on or before such last day.”
 
 #### Executive Order No. 10014
 

@@ -50,7 +50,7 @@ The following rules shall apply with respect to periods of leave near the conclu
 
 #### (1) Leave more than 5 weeks prior to end of term
 
-&emsp;If the eligible employee begins leave under section 2612 of this title more than 5 weeks prior to the end of the academic term, the agency or school may require the employee to continue taking leave until the end of such term, if—
+&emsp;If the eligible employee begins leave under section 2612 of this title more than 5 weeksprior to the end of the academic term, the agency or school may require the employee to continue taking leave until the end of such term, if—
 
 &emsp;&emsp;(A) the leave is of at least 3 weeks duration; and
 

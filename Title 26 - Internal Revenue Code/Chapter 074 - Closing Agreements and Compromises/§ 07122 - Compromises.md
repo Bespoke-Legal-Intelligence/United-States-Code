@@ -14,13 +14,19 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 &emsp;(3) The amount actually paid in accordance with the terms of the compromise.
 
-> Notwithstanding the foregoing provisions of this subsection, no such opinion shall be required with respect to the compromise of any civil case in which the unpaid amount of tax assessed (including any interest, additional amount, addition to the tax, or assessable penalty) is less than $500.
+> Notwithstanding the foregoing provisions of this subsection, no such opinion shall be required with respect to the compromise of any civil case in which the unpaid amount of tax assessed (including any interest, additional amount, addition to the tax, or assessable penalty) is less than $50,000. However, such compromise shall be subject to continuing quality review by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 849; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 849; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; July 30, 1996, Pub. L. 104–168, title V, §503(a), 110 Stat. 1461.)
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–168 substituted “$50,000. However, such compromise shall be subject to continuing quality review by the Secretary.” for “$500.”
+
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 1996 Amendment
+
+Section 503(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
 #### Cross References
 

@@ -48,7 +48,7 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 &emsp;(2) a redemption premium shall not fail to be treated as a distribution (or series of distributions) merely because the stock is callable, and
 
-&emsp;(3) in any case in which a redemption premium is treated as a distribution (or series of distributions), such premium shall be taken into account under principles similar to the principles of section 1272(a).
+&emsp;(3) in any case in which a redemption premium is treated as a distribution (or series of distributions), such premium shall be takeninto account under principles similar to the principles of section 1272(a).
 
 #### (d) Definitions
 
@@ -132,7 +132,7 @@ Subsecs. (e), (f). Pub. L. 101–508, §11801(a)(17), (c)(7)(B), redesignated su
 
 1983—Subsec. (e)(3)(A). Pub. L. 97–448, §103(f)(1), substituted “placed in service qualified long-life public utility property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in subparagraph (A) or (B) of section 1245(a)(3) placed in service by the corporation during such period” for “acquired public utility recovery property having a cost equal to at least 60 percent of the aggregate cost of all tangible property described in section 1245(a)(3) (other than subparagraphs (C) and (D) thereof) acquired by the corporation during such period”.
 
-Subsec. (e)(3)(C)(ii). Pub. L. 97–448, §103(f)(2), substituted definition of “qualified long-life public utility property” for definition of “public utility recovery property” which had been defined as public utility property (within the meaning of section 167(<i>l</i>)(3)(A)) which was recovery property which was 10-year property or 15-year public utility property (within themeaning of section 168), except that any requirement that the property be placed in service after December 31, 1980, did not apply.
+Subsec. (e)(3)(C)(ii). Pub. L. 97–448, §103(f)(2), substituted definition of “qualified long-life public utility property” for definition of “public utility recovery property” which had been defined as public utility property (within the meaning of section 167(<i>l</i>)(3)(A)) which was recovery property which was 10-year property or 15-year public utility property (within the meaning of section 168), except that any requirement that the property be placed in service after December 31, 1980, did not apply.
 
 1981—Subsec. (d)(1). Pub. L. 97–34, §321(b), inserted “(other than subsection (e))” after “this section”.
 

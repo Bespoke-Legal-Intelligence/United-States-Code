@@ -140,27 +140,27 @@ For purposes of this section—
 
 &nbsp;&nbsp;3-year property
 
-3 years&nbsp;
+3 years&nbsp;&nbsp;
 
 &nbsp;&nbsp;5-year property
 
-5 years&nbsp;
+5 years&nbsp;&nbsp;
 
 &nbsp;&nbsp;7-year property
 
-7 years&nbsp;
+7 years&nbsp;&nbsp;
 
 &nbsp;&nbsp;10-year property
 
-10 years&nbsp;
+10 years&nbsp;&nbsp;
 
 &nbsp;&nbsp;15-year and 20-year property
 
-15 years&nbsp;
+15 years&nbsp;&nbsp;
 
-&nbsp;&nbsp;Residential rental property and non-     residential real property
+&nbsp;&nbsp;Residential rental property and nonresi-     dential real property
 
-19 years&nbsp;
+19 years&nbsp;&nbsp;
 
 &nbsp;&nbsp;Any railroad grading or tunnel bore
 
@@ -194,7 +194,7 @@ Under regulations prescribed by the Secretary, rules comparable to the rules of 
 
 #### (h) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposesof this section, including regulations providing for the application of this section in the case of contingent payments.
 
 (Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392.)
 
@@ -228,7 +228,7 @@ Subsec. (g). Pub. L. 99–514, §1807(b)(1), inserted at end “The preceding se
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -318,19 +318,19 @@ In general.—The schedule under this subparagraph is as follows:
 
 &emsp;&emsp;1st 1/5
 
-10&nbsp;
+10&nbsp;&nbsp;
 
 &emsp;&emsp;2nd 1/5
 
-25&nbsp;
+25&nbsp;&nbsp;
 
 &emsp;&emsp;3rd 1/5
 
-45&nbsp;
+45&nbsp;&nbsp;
 
 &emsp;&emsp;4th 1/5
 
-70&nbsp;
+70&nbsp;&nbsp;
 
 &emsp;&emsp;Last 1/5
 

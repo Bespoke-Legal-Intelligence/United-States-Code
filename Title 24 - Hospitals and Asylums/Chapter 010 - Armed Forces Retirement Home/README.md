@@ -39,7 +39,7 @@
 | (c) | Local Boards. |
 | (d) | Chairmen. |
 | (e) | Terms. |
-| (f) | First appointment and designation. |
+| (f) | Early expiration of term. |
 | (g) | Vacancies. |
 | (h) | Compensation. |
 | (i) | Meetings. |
@@ -56,7 +56,7 @@
 | (c) | Term of Director. |
 | (d) | Duties of Directors. |
 | (e) | Staff. |
-| (f) | Initial operation. |
+| (f) | Annual evaluation of Directors. |
 | [418\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Inspection%20by%20Inspector%20General%20of%20Department%20of%20Defense.md) | Inspection by Inspector General of Department of Defense. |
 | [419\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000419%20-%20Retirement%20Home%20Trust%20Fund.md) | Retirement Home Trust Fund. |
 | (a) | Establishment. |
@@ -73,6 +73,12 @@
 | (a) | Authority. |
 | (b) | Employment status. |
 | (c) | “Position” defined. |
+| [422\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000422%20-%20Authority%20to%20accept%20certain%20uncompensated%20services.md) | Authority to accept certain uncompensated services. |
+| (a) | Authority to accept services. |
+| (b) | Requirements and limitations. |
+| (c) | Authority to recruit and train persons providing services. |
+| (d) | Status of persons providing services. |
+| (e) | Reimbursement of incidental expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

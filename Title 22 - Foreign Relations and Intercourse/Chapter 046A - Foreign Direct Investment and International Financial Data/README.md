@@ -9,7 +9,7 @@
 | (c) | Analyses. |
 | [3143\.](%C2%A7%2003143%20-%20Reports%20by%20General%20Accounting%20Office.md) | Reports by General Accounting Office. |
 | (a) | In general. |
-| (b) | Report. |
+| (b) | Reports. |
 | (c) | Other reviews and reports. |
 | (d) | Confidentiality; review by other agencies. |
 | (e) | Right of access. |

@@ -4,7 +4,7 @@
 
 (1) The Secretary shall convene regional meetings to obtain public involvement in the development of proposed regulations under the Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990. Such meetings shall include individuals and representatives of groups involved in vocational education programs under this chapter, such as Federal, State, tribal and local administrators, parents, teachers, members of local boards of education and special populations.
 
-(2) During each meeting described in paragraph (1), the Secretary shall provide for a comprehensive discussion and exchange of information on at least 4 key issues, selected by the Secretary, concerning implementation of the Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990. The Secretary shall take into account information received at such meetings in the development of proposed regulations, and shall publish a summary of such information in the Federal Register together with such proposed regulations.
+(2) During each meeting described in paragraph (1), the Secretary shall provide for a comprehensive discussion and exchange of information on at least 4 key issues, selected by the Secretary, concerning implementation of the Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990. The Secretary shall take into account informationreceived at such meetings in the development of proposed regulations, and shall publish a summary of such information in the Federal Register together with such proposed regulations.
 
 #### (b) Draft regulations
 

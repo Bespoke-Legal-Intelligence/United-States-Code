@@ -2,7 +2,7 @@
 
 #### (a) Obsolescence; best-interests transfers; use of proceeds
 
-The Secretary may not approve an application by a public housing agency for permission, withor without financial assistance under this chapter, to demolish or dispose of a public housing project or a portion of a public housing project unless the Secretary has determined that—
+The Secretary may not approve an application by a public housing agency for permission, with or without financial assistance under this chapter, to demolish or dispose of a public housing project or a portion of a public housing project unless the Secretary has determined that—
 
 &emsp;(1) in the case of an application proposing demolition of a public housing project or a portion of a public housing project, the project or portion of the project is obsolete as to physical condition, location, or other factors, making it unusable for housing purposes, and no reasonable program of modifications is feasible to return the project or portion of the project to useful life; or in the case of an application proposing the demolition of only a portion of a project, the demolition will help to assure the useful life of the remaining portion of the project;
 
@@ -12,7 +12,7 @@ The Secretary may not approve an application by a public housing agency for perm
 
 &emsp;&emsp;(ii) for property other than dwelling units, the property is excess to the needs of a project or the disposition is incidental to, or does not interfere with, continued operation of a project; and
 
-&emsp;&emsp;(B) the net proceeds of the disposition will be used for (i) the payment of development cost for the project and for the retirement of outstanding obligations issued to finance original development or modernization of the project, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition, and (ii) to the extent that any proceeds remain after the application of proceeds in accordance with clause (i), the provision of housing assistance for low-income families through such measures as modernization of low-income housing, or the acquisition, development, or rehabilitation of other properties to operate as low-income housing; or
+&emsp;&emsp;(B) the net proceeds of the disposition will be used for (i) the payment of development cost for the project and for the retirement ofoutstanding obligations issued to finance original development or modernization of the project, which, in the case of scattered-site housing of a public housing agency, shall be in an amount that bears the same ratio to the total of such costs and obligations as the number of units disposed of bears to the total number of units of the project at the time of disposition, and (ii) to the extent that any proceeds remain after the application of proceeds in accordance with clause (i), the provision of housing assistance for low-income families through such measures as modernization of low-income housing, or the acquisition, development, or rehabilitation of other properties to operate as low-income housing; or
 
 &emsp;(3) in the case of an application proposing demolition or disposition of any portion of a public housing project, assisted at any time under section 1437c(j)(2) of this title—
 
@@ -38,21 +38,23 @@ A public housing agency shall not take any action to demolish or dispose of a pu
 
 #### (e) Set-asides for replacement housing
 
-(1) In each of fiscal years 1993 and 1994, the Secretary may reserve from any budget authority appropriated for such year for assistance under section 1437f of this title that is availablefor families not currently receiving such assistance not more than 10 percent of such budget authority for providing replacement housing for units demolished or disposed of pursuant to this section.
+(1) In each of fiscal years 1993 and 1994, the Secretary may reserve from any budget authority appropriated for such year for assistance under section 1437f of this title that is available for families not currently receiving such assistance not more than 10 percent of such budget authority for providing replacement housing for units demolished or disposed of pursuant to this section.
 
 (2) In each of fiscal years 1993 and 1994, the Secretary may reserve from any budget authority appropriated for such year for development of public housing under section 1437c(a)(2) of this title not more than the lesser of 30 percent of such budget authorization or $150,000,000, for providing replacement housing for units demolished or disposed of pursuant to this section.
 
 #### (f) Construction on original site or in same neighborhood
 
-Notwithstanding any other provision of law, replacement housing units for public housing units demolished may be built on the original public housing site or in the same neighborhood if the number of such replacement units is significantly fewer than the number of units demolished.
+Notwithstanding any other provision of law, replacement housing units for public housing units demolished may be built on the original public housing site or in the same neighborhood if the number of such replacement units is significantly fewer than the number of units demolished. No one may rely on the preceding sentence as the basis for reconsidering a final order of a court issued, or a settlement approved, by a court.
 
 #### (g) Applicability to disposition of public housing project in accordance with approved homeownership program
 
 The provisions of this section shall not apply to the disposition of a public housing project in accordance with an approved homeownership program under subchapter II–A of this chapter.
 
-(Sept. 1, 1937, ch. 896, title I, §18, as added Nov. 30, 1983, Pub. L. 98–181, title II, §214(a), 97 Stat. 1184; amended Feb. 5, 1988, Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), 101 Stat. 1824, 1837, 1867; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 28, 1990, Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, 104 Stat. 4159, 4194–4196, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), 106 Stat. 3688, 3693, 3694; July 27, 1995, Pub. L. 104–19, title I, §1002(a), 109 Stat. 235.)
+(Sept. 1, 1937, ch. 896, title I, §18, as added Nov. 30, 1983, Pub. L. 98–181, title II, §214(a), 97 Stat. 1184; amended Feb. 5, 1988, Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), 101 Stat. 1824, 1837, 1867; renumbered title I, June 29, 1988, Pub. L. 100–358, §5, 102 Stat. 681; Nov. 28, 1990, Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, 104 Stat. 4159, 4194–4196, 4236; Oct. 28, 1992, Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), 106 Stat. 3688, 3693, 3694; July 27, 1995, Pub. L. 104–19, title I, §1002(a), 109 Stat. 235; Apr. 26, 1996, Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], 110 Stat. 1321–257, 1321–278; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–134 inserted at end “No one may rely on the preceding sentence as the basis for reconsidering a final order of a court issued, or a settlement approved, by a court.”
 
 1995—Subsec. (b)(1). Pub. L. 104–19, §1002(a)(1), inserted “and” after “housing assistance plan;”.
 
@@ -124,7 +126,7 @@ Subsec. (d). Pub. L. 100–242, §121(d), added subsec. (d) and struck out forme
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for plans for demolition, disposition or conversion to homeownership of public housing approved by Secretary on or before Sept. 30, 1995, provided that no application for replacement housing submitted by public housing agency to implement final court order issued or settlement agreement approved before July 27, 1995, to be affected by such amendment, see section 1002(d) of Pub. L. 104–19, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before,or after Sept. 30, 1995 and on or before Sept. 30, 1997, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Effective Date of 1990 Amendment
 

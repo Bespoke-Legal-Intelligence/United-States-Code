@@ -12,7 +12,7 @@ Each Federal agency shall comply with the guidelines established under this sect
 
 #### Amendments
 
-1992—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement ofelectronic equipment, and defining term “special peripherals”.
+1992—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term “special peripherals”.
 
 1988—Subsec. (a)(1). Pub. L. 100–630, §206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
 

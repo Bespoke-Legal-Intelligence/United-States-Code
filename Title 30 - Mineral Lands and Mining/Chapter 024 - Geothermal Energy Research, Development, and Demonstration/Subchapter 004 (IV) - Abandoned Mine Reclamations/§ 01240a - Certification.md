@@ -6,7 +6,7 @@ The Governor of a State, or the head of a governing body of an Indian tribe, wit
 
 #### (b) Eligible lands, waters, and facilities
 
-If the Secretary has concurred in a State or tribal certification under subsection (a) of this section, for purposes of determining the eligibility of lands and waters for annual grants under section 1232(g)(1) of this title, section 1234 of this title shall not apply, and eligible lands, waters, and facilities shall be those—
+If the Secretary has concurred in a State or tribal certification under subsection (a) of thissection, for purposes of determining the eligibility of lands and waters for annual grants under section 1232(g)(1) of this title, section 1234 of this title shall not apply, and eligible lands, waters, and facilities shall be those—
 
 &emsp;(1) which were mined or processed for minerals or which were affected by such mining or processing, and abandoned or left in an inadequate reclamation status prior to August 3, 1977; and
 

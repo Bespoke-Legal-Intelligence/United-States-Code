@@ -6,7 +6,7 @@ Whenever an attorney general of any State has reason to believe that the interes
 
 #### (b) Notice
 
-The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting suchaction. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
+The State shall serve prior written notice of any civil action under subsection (a) or (f)(2) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
 
 #### (c) Construction
 
@@ -14,7 +14,7 @@ For purposes of bringing any civil action under subsection (a) of this section, 
 
 #### (d) Actions by Commission
 
-Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action under subsection (a) or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+Whenever a civil action has been instituted by or on behalf of the Commission for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission, institute a civil action under subsection (a)or (f)(2) of this section against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
 #### (e) Venue; service of process
 

@@ -38,5 +38,5 @@ Destroying boundary and warning signs, see section 1164 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1164, 1460, 2252, 2266, 3559, 3598, 5032 of this title; title 15 sections 1175, 1243, 1245; title 16 sections 3371, 3377; title 25 sections 1616e–1, 1903, 2801, 3202; title 33 section 1377; title 42 section 10101.
+This section is referred to in sections 1164, 1460, 2252, 2252A, 2266, 3559, 3598, 5032 of this title; title 15 sections 1175, 1243, 1245; title 16 sections 3371, 3377; title 25 sections 1616e–1, 1903, 2801, 3202; title 28 section 1738B; title 33 section 1377; title 42 sections 3796gg–2, 10101.
 

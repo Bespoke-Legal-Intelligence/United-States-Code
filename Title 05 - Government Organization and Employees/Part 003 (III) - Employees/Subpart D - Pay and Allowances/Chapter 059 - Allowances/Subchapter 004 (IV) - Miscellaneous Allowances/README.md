@@ -1,5 +1,41 @@
 ### SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES
 
+#### Reimbursements Relating to Professional Liability Insurance
+
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, provided that:
+
+“(a)
+
+Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses may be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
+
+“(b)
+
+Qualified Employee.—For purposes of this section, the term ‘qualified employee’ means an agency employee whose position is that of—
+
+&emsp;“(1) a law enforcement officer; or
+
+&emsp;“(2) a supervisor or management official.
+
+“(c)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘agency’ means an Executive agency, as defined by section 105 of title 5, United States Code, and any agency of the Legislative Branch of Government including any office or committee of the Senate or the House of Representatives;
+
+&emsp;“(2) the term ‘law enforcement officer’ means an employee, the duties of whose position are primarily the investigation, apprehension, prosecution, or detention of individuals suspected or convicted of offenses against the criminal laws of the United States, including any law enforcement officer under section 8331(20) or 8401(17) of such title 5, or under section 4823 of title 22, United States Code;
+
+&emsp;“(3) the terms ‘supervisor’ and ‘management official’ have the respective meanings given them by section 7103(a) of such title 5, and
+
+&emsp;“(4) the term ‘professional liability insurance’ means insurance which provides coverage for—
+
+&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or other damage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
+
+&emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding.
+
+“(d)
+
+Applicability.—The amendments made by this section \[this note\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and shall apply thereafter.”
+
 
 ---
 

@@ -2,9 +2,9 @@
 
 (a) A Reserve ordered to active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be ordered in his reserve grade. While so serving he continues to be eligible for promotion as a Reserve, if he is otherwise qualified.
 
-(b) To assure that a Reserve on duty under subsection (a) receives periodic refresher training in the categories for which he is qualified, the Secretary concerned may detail him to duty with any armed force, or otherwise as the Secretary sees fit.
+(b) A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), 108 Stat. 2992, 3017.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 30, §678; renumbered §12310 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(7), 108 Stat. 2992, 3017; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §541, 110 Stat. 2521.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,8 @@ In subsection (a), the words “to active duty under section 672(d) of this titl
 Subsection (b) is substituted for 50:962 (less 1st and 2d sentences).
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–201 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “To assure that a Reserve on duty under subsection (a) receives periodic refresher training in the categories for which he is qualified, the Secretary concerned may detail him to duty with any armed force, or otherwise as the Secretary sees fit.”
 
 1994—Pub. L. 103–337, §1662(e)(2), renumbered section 678 of this title as this section.
 

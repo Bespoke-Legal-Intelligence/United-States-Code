@@ -26,7 +26,7 @@ When any property which is seized under the provisions of section 7301 or sectio
 
 #### (C) Disposition of proceeds
 
-&emsp;&emsp;The proceeds of the sale, after deducting the reasonable costs of the seizure and sale,shall be paid to the court to abide its final order, decree, or judgment.
+&emsp;&emsp;The proceeds of the sale, after deducting the reasonable costs of the seizure and sale, shall be paid to the court to abide its final order, decree, or judgment.
 
 #### (5) Form of bond and sureties
 

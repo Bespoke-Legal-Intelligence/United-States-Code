@@ -30,7 +30,7 @@
 
 &emsp;&emsp;The value of any right described in paragraph (1), other than a distribution right which consists of a right to receive a qualified payment, shall be treated as being zero.
 
-#### (B) Valuation of qualified payments
+#### (B) Valuation of certain qualified payments
 
 &emsp;&emsp;If—
 
@@ -39,6 +39,10 @@
 &emsp;&emsp;&emsp;(ii) there are 1 or more liquidation, put, call, or conversion rights with respect to such interest,
 
 > &emsp;&emsp;the value of all such rights shall be determined as if each liquidation, put, call, or conversion right were exercised in the manner resulting in the lowest value being determined for all such rights.
+
+#### (C) Valuation of qualified payments where no liquidation, etc. rights
+
+&emsp;&emsp;In the case of an applicable retained interest which is described in subparagraph (B)(i) but not subparagraph (B)(ii), the value of the distribution right shall be determined without regard to this section.
 
 #### (4) Minimum valuation of junior equity
 
@@ -56,7 +60,7 @@
 
 #### (i) Junior equity interest
 
-&emsp;&emsp;&emsp;The term “junior equity interest” means common stock or, in the case of a partnership, any partnership interest under which the rights as to income and capital are junior to the rights of all other classes of equity interests.
+&emsp;&emsp;&emsp;The term “junior equity interest” means common stock or, in the case of a partnership, any partnership interest under which the rights as to income and capital (or, to the extent provided in regulations, the rights as to either income or capital) are junior to the rights of all other classes of equity interests.
 
 #### (ii) Equity interest
 
@@ -90,6 +94,10 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a limited partnership, the holding of any interest as a general partner.
 
+#### (C) Applicable family member
+
+&emsp;&emsp;For purposes of this subsection, the term “applicable family member” includes any lineal descendant of any parent of the transferor or the transferor's spouse.
+
 #### (c) Distribution and other rights; qualified payments
 
 For purposes of this section—
@@ -108,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “distribution right” does not include—
 
-&emsp;&emsp;&emsp;(i) a right to distributions with respect to any junior equity interest (as defined in subsection (a)(4)(B)(i)),
+&emsp;&emsp;&emsp;(i) a right to distributions with respect to any interest which is junior to the rights of the transferred interest,
 
 &emsp;&emsp;&emsp;(ii) any liquidation, put, call, or conversion right, or
 
@@ -148,7 +156,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified payment” means any dividend payable on a periodic basis under any cumulative preferred stock (or a comparable payment under any partnership interest) to the extent that such dividend (or comparable payment) is determined at a fixed rate.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term “qualified payment” meansany dividend payable on a periodic basis under any cumulative preferred stock (or a comparable payment under any partnership interest) to the extent that such dividend (or comparable payment) is determined at a fixed rate.
 
 #### (B) Treatment of variable rate payments
 
@@ -156,13 +164,13 @@ For purposes of this section—
 
 #### (C) Elections
 
-#### (i) Waiver of qualified payment treatment
+#### (i) In general
 
-&emsp;&emsp;&emsp;A transferor or applicable family member may elect with respect to payments under any interest specified in such election to treat such payments as payments which are not qualified payments.
+&emsp;&emsp;&emsp;Payments under any interest held by a transferor which (without regard to this subparagraph) are qualified payments shall be treated as qualified payments unless the transferor elects not to treat such payments as qualified payments. Payments described in the preceding sentence which are held by an applicable family member shall be treated as qualified payments only if such member elects to treat such payments as qualified payments.
 
 #### (ii) Election to have interest treated as qualified payment
 
-&emsp;&emsp;&emsp;A transferor or any applicable family member may elect to treat any distribution right as a qualified payment, to be paid in the amounts and at the times specified in such election. The preceding sentence shall apply only to the extent that the amounts and times so specified are not inconsistent with the underlying legal instrument giving rise to such right.
+&emsp;&emsp;&emsp;A transferor or applicable family member holding any distribution right which (without regard to this subparagraph) is not a qualified payment may elect to treat such right as a qualified payment, to be paid in the amounts and at the times specified in such election. The preceding sentence shall apply only to the extent that the amounts and times so specified are not inconsistent with the underlying legal instrument giving rise to such right.
 
 #### (iii) Elections irrevocable
 
@@ -172,7 +180,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;If a taxable event occurs with respect to any distribution right to which subsection (a)(3)(B) applied, the following shall be increased by the amount determined under paragraph (2):
+&emsp;If a taxable event occurs with respect to any distribution right to which subsection (a)(3)(B) or (C) applied, the following shall be increased by the amount determined under paragraph (2):
 
 &emsp;&emsp;(A) The taxable estate of the transferor in the case of a taxable event described in paragraph (3)(A)(i).
 
@@ -232,19 +240,19 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) The transfer of such applicable retained interest.
 
-&emsp;&emsp;&emsp;(iii) At the election of the taxpayer, the payment of any qualified payment after the period described in paragraph (2)(C), but only with respect to the period ending on the date of such payment.
+&emsp;&emsp;&emsp;(iii) At the election of the taxpayer, the payment of any qualified payment after the period described in paragraph (2)(C), but only with respect to such payment.
 
 #### (B) Exception where spouse is transferee
 
 #### (i) Deathtime transfers
 
-&emsp;&emsp;&emsp;Subparagraph (A)(i) shall not apply to any interest includible in the gross estate of the transferor if a deduction with respect to such interest is allowable under section 2056 or 2106(a)(3).
+&emsp;&emsp;&emsp;Subparagraph (A)(i) shall not apply to any interest includible in the gross estateof the transferor if a deduction with respect to such interest is allowable under section 2056 or 2106(a)(3).
 
 #### (ii) Lifetime transfers
 
 &emsp;&emsp;&emsp;A transfer to the spouse of the transferor shall not be treated as a taxable event under subparagraph (A)(ii) if such transfer does not result in a taxable gift by reason of—
 
-&emsp;&emsp;&emsp;&emsp;(I) any deduction allowed under section 2523, or
+&emsp;&emsp;&emsp;&emsp;(I) any deduction allowed under section 2523, or the exclusion under section 2503(b), or
 
 &emsp;&emsp;&emsp;&emsp;(II) consideration for the transfer provided by the spouse.
 
@@ -256,11 +264,15 @@ For purposes of this section—
 
 #### (A) Family member treated in same manner as transferor
 
-&emsp;&emsp;For purposes of this subsection, an applicable family member shall be treated in the same manner as the transferor with respect to any distribution right retained by such family member to which subsection (a)(3)(B) applied.
+&emsp;&emsp;For purposes of this subsection, an applicable family member shall be treated in the same manner as the transferor with respect to any distribution right retained by such family member to which subsection (a)(3)(B) or (C) applied.
 
 #### (B) Transfer to applicable family member
 
 &emsp;&emsp;In the case of a taxable event described in paragraph (3)(A)(ii) involving the transfer of an applicable retained interest to an applicable family member (other than the spouse of the transferor), the applicable family member shall be treated in the same manner as the transferor in applying this subsection to distributions accumulating with respect to such interest after such taxable event.
+
+#### (C) Transfer to transferors
+
+&emsp;&emsp;In the case of a taxable event described in paragraph (3)(A)(ii) involving a transfer of an applicable retained interest from an applicable family member to a transferor, this subsection shall continue to apply to the transferor during any period the transferor holds such interest.
 
 #### (5) Transfer to include termination
 
@@ -290,15 +302,9 @@ For purposes of this section—
 
 &emsp;&emsp;(C) the spouse of any such ancestor.
 
-#### (3) Attribution rules
+#### (3) Attribution of indirect holdings and transfers
 
-#### (A) Indirect holdings and transfers
-
-&emsp;&emsp;An individual shall be treated as holding any interest to the extent such interest is held indirectly by such individual through a corporation, partnership, trust, or other entity. If any individual is treated as holding any interest by reason of the preceding sentence, any transfer which results in such interest being treated as no longer held by such individual shall be treated as a transfer of such interest.
-
-#### (B) Control
-
-&emsp;&emsp;For purposes of subsections <sup>1</sup> (b)(1), an individual shall be treated as holding any interest held by the individual's brothers, sisters, or lineal descendants.
+&emsp;An individual shall be treated as holding any interest to the extent such interest is held indirectly by such individual through a corporation, partnership, trust, or other entity. If any individual is treated as holding any interest by reason of the preceding sentence, any transfer which results in such interest being treated as no longer held by such individual shall be treated as a transfer of such interest.
 
 #### (4) Effect of adoption
 
@@ -308,21 +314,67 @@ For purposes of this section—
 
 &emsp;Except as provided in regulations, a contribution to capital or a redemption, recapitalization, or other change in the capital structure of a corporation or partnership shall be treated as a transfer of an interest in such entity to which this section applies if the taxpayer or an applicable family member—
 
-&emsp;&emsp;(A) receives an applicable retained interest in such entity pursuant to such contribution to capital or such redemption, recapitalization, or other change, or
+&emsp;&emsp;(A) receives an applicable retained interest in such entity pursuant to such transaction, or
 
-&emsp;&emsp;(B) under regulations, otherwise holds, immediately after the transfer, an applicable retained interest in such entity.
+&emsp;&emsp;(B) under regulations, otherwise holds, immediately after such transaction, an applicable retained interest in such entity.
 
 > &emsp;This paragraph shall not apply to any transaction (other than a contribution to capital) if the interests in the entity held by the transferor, applicable family members, and members of the transferor's family before and after the transaction are substantially identical.
 
 #### (6) Adjustments
 
-&emsp;Under regulations prescribed by the Secretary, if there is any subsequent transfer, or inclusion in the gross estate, of any applicable retained interest which was valued under the rules of subsection (a), appropriate adjustments shall be made for purposes of chapter 11, 12, or 13 to reflect the increase in the amount of any prior taxable gift made by the transferor or decedent by reason of such valuation.
+&emsp;Under regulations prescribed by the Secretary, if there is any subsequent transfer, or inclusion in the gross estate, of any applicable retained interest which was valued under the rules of subsection (a), appropriate adjustments shall be made for purposes of chapter 11, 12, or 13 to reflect the increase in the amount of any prior taxable gift made by the transferor or decedent by reason of such valuation or to reflect the application of subsection (d).
 
 #### (7) Treatment as separate interests
 
 &emsp;The Secretary may by regulation provide that any applicable retained interest shall be treated as 2 or more separate interests for purposes of this section.
 
-(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–491.)
+(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–491; amended Pub. L. 104–188, title I, §1702(f)(1)–(3)(B), (4)–(5)(B), (6)–(10), Aug. 20, 1996, 110 Stat. 1870–1872.)
+
+#### Amendments
+
+1996—Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(1)(B), inserted “certain” before “qualified” in heading.
+
+Subsec. (a)(3)(C). Pub. L. 104–188, §1702(f)(1)(A), added subpar. (C).
+
+Subsec. (a)(4)(B)(i). Pub. L. 104–188, §1702(f)(2), inserted “(or, to the extent provided in regulations, therights as to either income or capital)” after “income and capital”.
+
+Subsec. (b)(2)(C). Pub. L. 104–188, §1702(f)(3)(A), added subpar. (C).
+
+Subsec. (c)(1)(B)(i). Pub. L. 104–188, §1702(f)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a right to distributions with respect to any junior equity interest (as defined in subsection (a)(4)(B)(i)),”.
+
+Subsec. (c)(3)(C)(i). Pub. L. 104–188, §1702(f)(5)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows:
+
+“(i)
+
+Waiver of qualified payment treatment.—A transferor or applicable family member may elect with respect to payments under any interest specified in such election to treat such payments as payments which are not qualified payments.”
+
+Subsec. (c)(3)(C)(ii). Pub. L. 104–188, §1702(f)(5)(B), amended first sentence generally. Prior to amendment, first sentence read as follows: “A transferor or any applicable family member may elect to treat any distribution right as a qualified payment, to be paid in the amounts and at the times specified in such election.”
+
+Subsec. (d)(1). Pub. L. 104–188, §1702(f)(1)(C), substituted “subsection (a)(3)(B) or (C)” for “subsection (a)(3)(B)”.
+
+Subsec. (d)(3)(A)(iii). Pub. L. 104–188, §1702(f)(6), struck out “the period ending on the date of” after “with respect to”.
+
+Subsec. (d)(3)(B)(ii)(I). Pub. L. 104–188, §1702(f)(7), inserted “or the exclusion under section 2503(b),” after “section 2523,”.
+
+Subsec. (d)(4)(A). Pub. L. 104–188, §1702(f)(1)(C), substituted “subsection (a)(3)(B) or (C)” for “subsection (a)(3)(B)”.
+
+Subsec. (d)(4)(C). Pub. L. 104–188, §1702(f)(9), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 104–188, §1702(f)(3)(B), substituted “Attribution of indirect holdings and transfers” for “Attribution rules” in par. heading, struck out subpar. (A) designation and heading which read “Indirect holdings and transfers”, and struck out subpar. (B) which read as follows:
+
+“(B)
+
+Control.—For purposes of subsections (b)(1), an individual shall be treated as holding any interest held by the individual's brothers, sisters, or lineal descendants.”
+
+Subsec. (e)(5)(A). Pub. L. 104–188, §1702(f)(8)(A), substituted “such transaction” for “such contribution to capital or such redemption, recapitalization, or other change”.
+
+Subsec. (e)(5)(B). Pub. L. 104–188, §1702(f)(8)(B), substituted “such transaction” for “the transfer”.
+
+Subsec. (e)(6). Pub. L. 104–188, §1702(f)(10), inserted “or to reflect the application of subsection (d)” before period at end.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date
 
@@ -354,6 +406,10 @@ Exception.—For purposes of subparagraph (A)(i), with respect to property trans
 
 > shall not be treated as a subsequent transfer.”
 
+#### Time for Election Under Subsection (c)(3)(C)(i)
+
+Section 1702(f)(5)(C) of Pub. L. 104–188 provided that: “The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor's return of the tax imposed by section 2501 of such Code for the first calendar year ending after the date of enactment \[probably means the date of enactment of Pub. L. 104–188, Oct. 20, 1996\].”
+
 #### Study of Methods Used To Distort Valuation of Property for Purposes of Estate and Gift Tax
 
 Section 11602(d) of Pub. L. 101–508 provided that: “The Secretary of the Treasury shall conduct a study of—
@@ -367,6 +423,4 @@ Section 11602(d) of Pub. L. 101–508 provided that: “The Secretary of the Tre
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2702, 2704, 6501 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

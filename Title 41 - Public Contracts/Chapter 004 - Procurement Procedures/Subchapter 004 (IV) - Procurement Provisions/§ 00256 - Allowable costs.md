@@ -62,7 +62,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(K) Costs incurred in making any payment (commonly known as a ‘golden parachute payment’) which is—
 
-&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
+&emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to anemployee upon termination of employment; and
 
 &emsp;&emsp;(ii) is paid to the employee contingent upon, and following, a change in management control over, or ownership of, the contractor or a substantial portion of the contractor's assets.
 
@@ -138,7 +138,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 (3) The Federal Acquisition Regulation shall provide that, to the maximum extent practicable, a contract auditor be present at any negotiation or meeting with the contractor regarding a determination of the allowability of indirect costs of the contractor.
 
-(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
+(4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of theindividual questioned costs that are paid will be reflected in the settlement.
 
 #### (g) Applicability of regulations to subcontractors
 

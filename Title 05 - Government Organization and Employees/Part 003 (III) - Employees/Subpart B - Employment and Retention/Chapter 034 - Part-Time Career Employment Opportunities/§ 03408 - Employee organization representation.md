@@ -6,5 +6,5 @@ If an employee organization has been accorded exclusive recognition with respect
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454 renumbered section 3398 of this title as this section.
+1978—Pub. L. 95–454 renumbered section 3398 of this title as this section.
 

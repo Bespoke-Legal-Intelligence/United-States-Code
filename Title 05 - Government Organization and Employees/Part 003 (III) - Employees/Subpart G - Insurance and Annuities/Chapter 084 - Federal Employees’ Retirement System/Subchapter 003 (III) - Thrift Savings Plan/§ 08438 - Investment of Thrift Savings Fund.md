@@ -10,11 +10,13 @@
 
 &emsp;(4) the term “Government Securities Investment Fund” means the Government Securities Investment Fund established under subsection (b)(1)(A);
 
-&emsp;(5) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
+&emsp;(5) the term “International Stock Index Investment Fund” means the International Stock Index Investment Fund established under subsection (b)(1)(E);
 
-&emsp;(6) the term “plan” means an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3));
+&emsp;(6) the term “net worth” means capital, paid-in and contributed surplus, unassigned surplus, contingency reserves, group contingency reserves, and special reserves;
 
-&emsp;(7) the term “qualified professional asset manager” means—
+&emsp;(7) the term “plan” means an employee benefit plan, as defined in section 3(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(3));
+
+&emsp;(8) the term “qualified professional asset manager” means—
 
 &emsp;&emsp;(A) a bank, as defined in section 202(a)(2) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(2)) which—
 
@@ -46,9 +48,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) a qualified professional asset manager described in subparagraph (A), (B), or (C); or
 
-&emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000; and
+&emsp;&emsp;&emsp;&emsp;(III) a broker or dealer registered under section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78<i>o</i>) that has, on the last day of the broker's or dealer's latest fiscal year ending before the date of a determination for the purpose of this clause, net worth in excess of $750,000;
 
-&emsp;(8) the term “shareholder's or partner's equity”, as used in paragraph (7)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (7)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section.
+&emsp;(9) the term “shareholder's or partner's equity”, as used in paragraph (8)(D) with respect to an investment adviser or a person (as defined in section 8471(4) of this title) who is affiliated with the investment adviser in a manner described in clause (ii)(I) of such paragraph (8)(D), means the equity shown in the most recent balance sheet prepared for such investment adviser or affiliated person, in accordance with generally accepted accounting principles, within 2 years before the date on which the investment adviser's status as a qualified professional asset manager is determined for the purposes of this section; and
+
+&emsp;(10) the term “Small Capitalization Stock Index Investment Fund” means the Small Capitalization Stock Index Investment Fund established under subsection (b)(1)(D).
 
 (b)(1) The Board shall establish—
 
@@ -62,13 +66,25 @@
 
 &emsp;&emsp;(iii) other instruments or obligations selected by qualified professional asset managers,
 
-> &emsp;which return the amount invested and pay interest, at a specified rate or rates, on that amount during a specified period of time; and
+> &emsp;which return the amount invested and pay interest, at a specified rate or rates, on that amount during a specified period of time;
 
-&emsp;(C) a Common Stock Index Investment Fund as provided in paragraph (2).
+&emsp;(C) a Common Stock Index Investment Fund as provided in paragraph (2);
+
+&emsp;(D) a Small Capitalization Stock Index Investment Fund as provided in paragraph (3); and
+
+&emsp;(E) an International Stock Index Investment Fund as provided in paragraph (4).
 
 (2)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which is a reasonably complete representation of the United States equity markets.
 
 (B) The Common Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index selected under subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Common Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+
+(3)(A) The Board shall select an index which is a commonly recognized index comprised of common stock the aggregate market value of which represents the United States equity markets excluding the common stocks included in the Common Stock Index Investment Fund.
+
+(B) The Small Capitalization Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the Small Capitalization Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
+
+(4)(A) The Board shall select an index which is a commonly recognized index comprised of stock the aggregate market value of which is a reasonably complete representation of the international equity markets excluding the United States equity markets.
+
+(B) The International Stock Index Investment Fund shall be invested in a portfolio designed to replicate the performance of the index in subparagraph (A). The portfolio shall be designed such that, to the extent practicable, the percentage of the International Stock Index Investment Fund that is invested in each stock is the same as the percentage determined by dividing the aggregate market value of all shares of that stock by the aggregate market value of all shares of all stocks included in such index.
 
 (c)(1) The Executive Director shall invest the sums available in the Thrift Savings Fund for investment as provided in elections made under subsection (d).
 
@@ -92,7 +108,7 @@
 
 (3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then be held by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
 
-(4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
+(4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury ofthe United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 
 &emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of the public debt limit had been invested under the procedure set forth in paragraph (5), over
 
@@ -106,17 +122,23 @@
 
 &emsp;(B) the term “debt issuance suspension period” means any period for which the Secretary of the Treasury determines for purposes of this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
 
-(h)(1) The Secretary of the Treasury shall report to Congress on the operation and status of the Thrift Savings Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (g) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than 30 days after the first business day after the expiration of such period. The Secretary shall concurrently transmit a copy of such report to the Executive Director and the Comptroller General of the United States.
+(h)(1) The Secretary of the Treasury shall report to Congress on the operation and status of the Thrift Savings Fund during each debt issuance suspension period for which the Secretary is required to take action under paragraph (3) or (4) of subsection (g) of this section. The report shall be submitted as soon as possible after the expiration of such period, but not later than 30 days after the first business day after the expiration of such period. The Secretary shall concurrently transmit a copy of such report to the Executive Director.
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, §2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, §2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, §2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §102\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, §103(i), Oct. 19, 1996, 110 Stat. 3829.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
+1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(1)\]\], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
 
-<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–335, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title I, §102(2)\]\], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
+
+Subsec. (h)(1). Pub. L. 104–316 struck out “and the Comptroller General of the United States” before period at end.
+
+1992—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
+
+1990—Subsec. (b)(1)(A). Pub. L. 101–335, §3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 
 Subsec. (c)(1). Pub. L. 101–335, §3(a)(3), substituted “The” for “Subject to subsection (e), the”.
 
@@ -130,9 +152,13 @@ Subsec. (g). Pub. L. 101–335, §3(a)(1), (5), (6), redesignated subsec. (h) as
 
 Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
 
-<b>1988</b>—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
+1988—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
 
-<b>1987</b>—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
+1987—Subsecs. (h), (i). Pub. L. 100–43 added subsecs. (h) and (i).
+
+#### Effective Date of 1996 Amendment
+
+Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title\] shall take effect on the date of enactment of this Act \[Sept. 30, 1996\], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
 
 #### Effective Date of 1990 Amendment
 

@@ -6,7 +6,9 @@ If at least 2 air carriers make an agreement to operate under or use a single ca
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -22,5 +24,5 @@ The words “quality of transportation” are substituted for “quality of serv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 46301 of this title.
+This section is referred to in section 41110 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the renewal, continuation, or initial according of recognition for units of management officials or supervisors represented by labor organizations which historically or traditionally represent management officials or supervisors in private industry and which hold exclusive recognition for units of such officials or supervisors in any agency on the effective date of this chapter.
 
-(b) Policies, regulations, and procedures established under and decisions issued under Executive Orders 11491, 11616, 11636, 11787, and 11838, or under any other Executive order, as in effect on the effective date of this chapter, shall remain in full force and effect until revised or revoked by the President, or unless superseded by specific provisions of this chapter or by regulations or decisions issued pursuant to this chapter.
+(b) Policies, regulations, and procedures established under and decisions issued under Executive Orders 11491, 11616, 11636, 11787, and 11838, or under any other Executive order, as in effect onthe effective date of this chapter, shall remain in full force and effect until revised or revoked by the President, or unless superseded by specific provisions of this chapter or by regulations or decisions issued pursuant to this chapter.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1215.)
 

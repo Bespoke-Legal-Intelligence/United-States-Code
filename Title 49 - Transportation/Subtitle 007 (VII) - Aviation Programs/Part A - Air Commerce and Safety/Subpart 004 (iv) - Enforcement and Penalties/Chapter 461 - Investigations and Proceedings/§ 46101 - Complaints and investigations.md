@@ -12,7 +12,7 @@ General.—(1) A person may file a complaint in writing with the Secretary of Tr
 
 (3) The Secretary of Transportation or Administrator may dismiss a complaint without a hearing when the Secretary or Administrator is of the opinion that the complaint does not state facts that warrant an investigation or action.
 
-(4) After notice and an opportunity for a hearing and subject to section 40105(b) of this title, the Secretary of Transportation or Administrator shall issue an order to compel compliance with this part if the Secretary or Administrator finds in an investigation under this subsection that a person is violating this part.
+(4) After notice and an opportunity for a hearing and subject to section 40105(b) of this title,the Secretary of Transportation or Administrator shall issue an order to compel compliance with this part if the Secretary or Administrator finds in an investigation under this subsection that a person is violating this part.
 
 (b)
 
@@ -22,7 +22,9 @@ Complaints Against Members of Armed Forces.—The Secretary of Transportation or
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -36,7 +38,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1002(a), (b), 72 Stat. 788.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -52,7 +54,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -64,7 +66,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -78,7 +80,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1002(c), 72 Stat. 789; Feb. 15, 1980, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
@@ -90,7 +92,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1002(c), 72 Stat. 789; Feb. 15, 1980, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 

@@ -26,5 +26,5 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 19 section 3391.
+This section is referred to in title 7 section 917; title 19 section 3391.
 

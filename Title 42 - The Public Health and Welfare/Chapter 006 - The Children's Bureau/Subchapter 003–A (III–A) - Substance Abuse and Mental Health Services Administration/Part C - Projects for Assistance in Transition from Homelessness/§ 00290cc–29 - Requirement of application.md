@@ -6,7 +6,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 &emsp;(2) the agreements are made through certification from the chief executive officer of the State; and
 
-&emsp;(3) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
+&emsp;(3) the application otherwise is in such form, is made in such manner, and contains suchagreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
 
 (July 1, 1944, ch. 373, title V, §529, as added July 22, 1987, Pub. L. 100–77, title VI, §611(3), 101 Stat. 520; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §811(b), 102 Stat. 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §611(b), 102 Stat. 3243; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §511, 104 Stat. 4731.)
 
@@ -20,9 +20,9 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–628 effective Nov. 7, 1988, see section 631 of Pub. L. 100–628, set out as a note under section 254e of this title.
 
-Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 256 of this title.
+Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L. 100–607, set out as a note under section 254e of this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ If—
 
 &emsp;(1) a corporation has a recovery of a foreign expropriation loss to which section 1351 applies, and
 
-&emsp;(2) the portion of the recovery received in money is less than 25 percent of the amount ofsuch recovery (as defined in section 1351(c)) and is not greater than the tax attributable to such recovery,
+&emsp;(2) the portion of the recovery received in money is less than 25 percent of the amount of such recovery (as defined in section 1351(c)) and is not greater than the tax attributable to such recovery,
 
 > the tax attributable to such recovery shall, at the election of the taxpayer, be payable in 10 equal installments on the 15th day of the third month of each of the taxable years following the taxable year of the recovery. Such election shall be made at such time and in such manner as the Secretary may prescribe by regulations. If an election is made under this subsection, the provisions of this subtitle shall apply as though the Secretary were extending the time for payment of such tax.
 
@@ -72,7 +72,7 @@ Subsec. (h). Pub. L. 94–455, §§1902(b)(2)(B), 1906(b)(13)(A), substituted �
 
 1975—Subsec. (e). Pub. L. 93–625, §7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
 
-Subsec. (h). Pub. L. 93–625, §7(d)(3), struck out par. (1) providing a cross reference for payment of interest at4 percent per annum for period of an extension under section 6601(j) of this title, and redesignated pars. (2) and (3) as (1) and (2), respectively.
+Subsec. (h). Pub. L. 93–625, §7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under section 6601(j) of this title, and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
 #### Effective Date of 1976 Amendment
 

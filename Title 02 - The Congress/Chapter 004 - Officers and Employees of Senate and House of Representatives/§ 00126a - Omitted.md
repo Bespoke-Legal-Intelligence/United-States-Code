@@ -1,6 +1,0 @@
-### §126a. Omitted
-
-#### Codification
-
-Section, Pub. L. 86–628, July 12, 1960, 74 Stat. 447, related to appointment of reporters, transcribers and other employees by Official Reporter of Debates of Senate. See sections 61a–11 and 126–1 of this title.
-

@@ -8,7 +8,7 @@ The Secretary is authorized to make grants to rural eligible local educational a
 
 #### (1) Less than $50,000,000
 
-&emsp;If the amount made available to carry out this subpart for any fiscal year is less than$50,000,000, the Secretary shall award grants under this section on a competitive basis.
+&emsp;If the amount made available to carry out this subpart for any fiscal year is less than $50,000,000, the Secretary shall award grants under this section on a competitive basis.
 
 #### (2) Equal to or greater than $50,000,000
 

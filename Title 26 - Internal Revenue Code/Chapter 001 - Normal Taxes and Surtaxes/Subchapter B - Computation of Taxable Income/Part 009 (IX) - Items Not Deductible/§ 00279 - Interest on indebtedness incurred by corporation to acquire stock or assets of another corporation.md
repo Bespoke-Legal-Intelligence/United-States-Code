@@ -54,7 +54,7 @@ For purposes of subsection (b)(4)—
 
 &emsp;&emsp;&emsp;(i) the issuing corporation only, if clause (ii) does not apply, or
 
-&emsp;&emsp;&emsp;(ii) both the issuing corporation and the acquired corporation, in any case where the issuing corporation has acquired control (as defined in section 368(c)), or has acquired substantially all of the properties, of the acquired corporation.
+&emsp;&emsp;&emsp;(ii) both the issuing corporation and the acquired corporation, in any case wherethe issuing corporation has acquired control (as defined in section 368(c)), or has acquired substantially all of the properties, of the acquired corporation.
 
 &emsp;&emsp;(B) The average annual earnings referred to in subparagraph (A) is, for any corporation, the amount of its earnings and profits for any 3-year period ending with the last day of a taxable year of the issuing corporation described in paragraph (1), computed without reduction for—
 
@@ -82,7 +82,7 @@ For purposes of subsection (b)(4)—
 
 &emsp;&emsp;(A) in determining under paragraph (2) the ratio of debt to equity of such corporation (or of the affiliated group of which such corporation is a member), the total indebtedness of such corporation (and the assets of such corporation) shall be reduced by an amount equal to the total indebtedness owed to such corporation which arises out of the banking business of such corporation, or out of the lending or finance business of such corporation, as the case may be;
 
-&emsp;&emsp;(B) in determining under paragraph (4) the annual interest to be paid or incurred bysuch corporation (or by the issuing and acquired corporations referred to in paragraph (4)(B) or by the affiliated group of which such corporation is a member) the amount of such interest (determined without regard to this paragraph) shall be reduced by an amount which bears the same ratio to the amount of such interest as the amount of the reduction for the taxable year under subparagraph (A) bears to the total indebtedness of such corporation; and
+&emsp;&emsp;(B) in determining under paragraph (4) the annual interest to be paid or incurred by such corporation (or by the issuing and acquired corporations referred to in paragraph (4)(B) or by the affiliated group of which such corporation is a member) the amount of such interest (determined without regard to this paragraph) shall be reduced by an amount which bears the same ratio to the amount of such interest as the amount of the reduction for the taxable year under subparagraph (A) bears to the total indebtedness of such corporation; and
 
 &emsp;&emsp;(C) in determining under paragraph (3)(B) the average annual earnings, the amount of the earnings and profits for the 3-year period shall be reduced by the sum of the reductions under subparagraph (B) for such period.
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;(1) Any extension, renewal, or refinancing of an obligation evidencing a preexisting indebtedness shall not be deemed to be the issuance of a new obligation.
 
-&emsp;(2) Any obligation which is corporate acquisition indebtedness of the issuing corporationis also corporate acquisition indebtedness of any corporation which becomes liable for such obligation as guarantor, endorser, or indemnitor or which assumes liability for such obligation in any transaction.
+&emsp;(2) Any obligation which is corporate acquisition indebtedness of the issuing corporation is also corporate acquisition indebtedness of any corporation which becomes liable for such obligation as guarantor, endorser, or indemnitor or which assumes liability for such obligation in any transaction.
 
 #### (i) Certain obligations issued after October 9, 1969
 

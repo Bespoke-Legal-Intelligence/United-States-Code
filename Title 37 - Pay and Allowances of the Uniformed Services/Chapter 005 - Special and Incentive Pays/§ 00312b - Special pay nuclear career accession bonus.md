@@ -2,7 +2,7 @@
 
 (a)(1) Under regulations prescribed by the Secretary of the Navy, an individual who is selected for officer naval nuclear power training and who executes a written agreement to participate in a program of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants may be paid a bonus not to exceed $8,000 upon acceptance by the Secretary of the written agreement. Upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b), shall become fixed.
 
-(2) Under such regulations, and subject to such exceptions, as the Secretary of the Navy may prescribe, an individual who has entered into an agreement with the Secretary under this subsection, who has been paid a bonus under this subsection, and who fails to commence or satisfactorily complete the nuclear power training specified in the agreement shall be required to refund such bonus.
+(2) Under such regulations, and subject to such exceptions, as the Secretary of the Navy mayprescribe, an individual who has entered into an agreement with the Secretary under this subsection, who has been paid a bonus under this subsection, and who fails to commence or satisfactorily complete the nuclear power training specified in the agreement shall be required to refund such bonus.
 
 (b) The Secretary of the Navy shall determine annually the total amount of the bonus to be paid under this section and of that amount the portions that are to be paid—
 
@@ -10,11 +10,15 @@
 
 &emsp;(2) upon successful completion, as a commissioned officer, of training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(c) The provisions of this section shall be effective only in the case of officers who, on or before September 30, 1996, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
+(c) The provisions of this section shall be effective only in the case of officers who, on or before September 30, 1998, have been accepted for training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–579, §2(b), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 97–60, title I, §119, Oct. 14, 1981, 95 Stat. 997; Pub. L. 99–145, title VI, §632(b), title XIII, §1303(b)(4), Nov. 8, 1985, 99 Stat. 644, 740; Pub. L. 101–189, div. A, title VI, §614(b), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(7), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(h), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(f), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(e), Sept. 23, 1996, 110 Stat. 2544.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (c). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -56,7 +60,7 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 632(d) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Section 2(d)(2) of Pub. L. 96–579 provided: “The amendments made by subsection (b)(1) \[amending thissection\] shall apply only with respect to agreements executed under section 312b(a) of title 37, United States Code, executed on or after the first day of the first month following the month in which this section is enacted \[December 1980\].”
+Section 2(d)(2) of Pub. L. 96–579 provided: “The amendments made by subsection (b)(1) \[amending this section\] shall apply only with respect to agreements executed under section 312b(a) of title 37, United States Code, executed on or after the first day of the first month following the month in which this section is enacted \[December 1980\].”
 
 #### Effective Date
 

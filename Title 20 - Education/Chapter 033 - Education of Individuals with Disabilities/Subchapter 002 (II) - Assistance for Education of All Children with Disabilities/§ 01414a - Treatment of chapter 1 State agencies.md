@@ -20,7 +20,7 @@ Section 1411(c)(4) of this title shall not apply with respect to a State agency 
 
 #### References in Text
 
-Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as such subpart was in existence on the day preceding October 20, 1994), referred to in subsec. (a), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as suchsubpart was in existence on the day preceding October 20, 1994), referred to in subsec. (a), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Effective Date
 

@@ -62,7 +62,7 @@ The Secretary may from time to time make such provisions as the Secretary deems 
 
 #### Sec. 7. Administrative Service
 
-In the interest of economy and efficiency the Secretary may from time to time establish central administrative services in the fields of procurement, budgeting, accounting, personnel, library, legal, and other services and activities common to the several agencies of the Department; and the Secretary may effect such transfers within the Department of the personnel employed, the property and records used or held, and the funds available for use in connection with such administrative-service activities as the Secretary may deem necessary for the conduct of any services so established: <i>Provided,</i> That no professional or substantive function vested by law in any officer shall be removed from the jurisdiction of such officer under this section.
+In the interest of economy and efficiency the Secretary may from time to time establish central administrative services in the fields of procurement, budgeting, accounting, personnel, library, legal, and other services and activities common to the several agencies of the Department; and the Secretary may effect such transfers within the Department of the personnel employed, the property and records used or held, and the funds available for use in connection with such administrative-service activities as the Secretary may deem necessary for the conduct of any services so established: <i>Provided</i>, That no professional or substantive function vested by law in any officer shall be removed from the jurisdiction of such officer under this section.
 
 #### Sec. 8. Abolitions
 

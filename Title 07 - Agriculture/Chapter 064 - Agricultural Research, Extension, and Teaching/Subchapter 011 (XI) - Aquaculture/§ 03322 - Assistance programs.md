@@ -2,7 +2,7 @@
 
 #### (a) Research and extension program
 
-The Secretary may develop and implement a cooperative research and extension program to encourage the development, management, and production of important aquatic food species within the several States and territories of the United States and to enhance further the safety of food products derived from the aquaculture industry, in accordance with the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
+The Secretary may develop and implement a cooperative research and extension program toencourage the development, management, and production of important aquatic food species within the several States and territories of the United States and to enhance further the safety of food products derived from the aquaculture industry, in accordance with the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
 
 #### (b) Grants
 
@@ -24,27 +24,25 @@ The Secretary may assist States to formulate aquaculture development plans for t
 
 #### (d) Aquacultural centers
 
-To provide for aquacultural research, development, and demonstration projects having a national or regional application, the Secretary may establish in existing Federal facilities or in cooperation with any of the non-Federal entities specified in subsection (b) of this section up to five aquacultural research, development, and demonstration centers in the United States for the performance of aquacultural research, extension work, and demonstration projects. Funds made available for the operation of such regional centers may be used for the rehabilitation of existing buildings or facilities to house such centers, but may not be used for the construction or acquisition of new buildings or facilities. To the extent practicable, the aquaculture research, development, and demonstration centers established under this subsection shall be geographically located so that they are representative of the regional aquaculture opportunities in the United States. To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segmentsof the domestic aquaculture industry located within that region.
+To provide for aquacultural research, development, and demonstration projects having a national or regional application, the Secretary may establish in existing Federal facilities or in cooperation with any of the non-Federal entities specified in subsection (b) of this section up to five aquacultural research, development, and demonstration centers in the United States for the performance of aquacultural research, extension work, and demonstration projects. Funds made available for the operation of such regional centers may be used for the rehabilitation of existing buildings or facilities to house such centers, but may not be used for the construction or acquisition of new buildings or facilities. To the extent practicable, the aquaculture research, development, and demonstration centers established under this subsection shall be geographically located so that they are representative of the regional aquaculture opportunities in the United States. To the extent practicable, the Secretary shall ensure that equitable efforts are made at these centers in addressing the research needs of those segments of the domestic aquaculture industry located within that region.
 
-#### (e) Reports
-
-Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.
-
-#### (f) Listing of laws on aquaculture
+#### (e) Listing of laws on aquaculture
 
 The interagency aquaculture coordinating group established under section 6(a) of the National Aquaculture Act of 1980 (16 U.S.C. 2805(a)) shall, in consultation with appropriate Federal and State agencies, compile a listing of Federal and State laws, rules, and regulations materially affecting the production, processing, marketing, and transportation of aquaculturally produced commodities and the products thereof. The interagency aquaculture coordinating group shall make such listing available to the public not later than January 1, 1992, and shall update and revise such listing not later than January 1, 1996, to show such laws, rules, and regulations as in effect on that date.
 
-#### (g) Fish disease program
+#### (f) Fish disease program
 
 The Secretary shall implement, in consultation with the Joint Subcommittee on Aquaculture referred to in section 6 of the National Aquaculture Act of 1980 (16 U.S.C. 2805), a fish disease program to include the development of new diagnostic procedures for fish diseases, the determination of the effect of water environment on the development of the fish immune system, and the development of therapeutic, synthetic, or natural systems, for the control of fish diseases.
 
-(Pub. L. 95–113, title XIV, §1475, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, §1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, §1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, §1011(u), Dec. 21, 1995, 109 Stat. 711.)
+(Pub. L. 95–113, title XIV, §1475, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1316; amended Pub. L. 99–198, title XIV, §1429(a), Dec. 23, 1985, 99 Stat. 1555; Pub. L. 101–624, title XVI, §1614(a), Nov. 28, 1990, 104 Stat. 3727; Pub. L. 104–66, title I, §1011(u), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §820(b), Apr. 4, 1996, 110 Stat. 1168.)
 
 #### References in Text
 
 The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 #### Amendments
+
+1996—Subsecs. (e) to (g). Pub. L. 104–127 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out heading and text of former subsec. (e). Text read as follows: “Not later than March 1 of each year, the Secretary shall submit a report to the President, the House Committee on Agriculture, the House Committee on Merchant Marine and Fisheries, the House Committee on Appropriations, the Senate Committee on Agriculture, Nutrition, and Forestry, and the Senate Committee on Appropriations, containing a summary outlining the progress of the Department of Agriculture in meeting the purposes of the programs established under this subchapter.”
 
 1995—Subsec. (e). Pub. L. 104–66 struck out “(1)” before “Not later than” and struck out par. (2) which required Secretary to conduct a study assessing economic impact of animal damage to the United States aquaculture industry.
 
@@ -65,10 +63,6 @@ Subsecs. (f), (g). Pub. L. 101–624, §1614(a)(6), added subsecs. (f) and (g).
 Subsec. (d). Pub. L. 99–198, §1429(a)(3), (4), substituted in first sentence “any of the non-Federal entities specified in subsection (b) of this section” for “State agencies (including State departments of agriculture), and land-grant colleges and universities,” and inserted provision respecting geographic location of aquaculture research, development, and demonstration centers.
 
 Subsec. (e). Pub. L. 99–198, §1429(a)(5), inserted “the House Committee on Merchant Marine and Fisheries,”.
-
-#### Abolition of House Committee on Merchant Marine and Fisheries
-
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Science of House of Representatives in case of provisions relating to marine research by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

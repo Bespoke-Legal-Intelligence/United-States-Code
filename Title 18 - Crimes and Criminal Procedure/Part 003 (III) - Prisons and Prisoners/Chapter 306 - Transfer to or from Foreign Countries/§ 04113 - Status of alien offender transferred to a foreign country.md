@@ -1,10 +1,28 @@
 ### §4113. Status of alien offender transferred to a foreign country
 
-(a) An alien who is deportable from the United States but who has been granted voluntary departure pursuant to section 1252(b) or section 1254(e) of title 8, United States Code, and who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have voluntarily departed from this country.
+(a) An alien who is deportable from the United States but who has been granted voluntary departure pursuant to section 240B of the Immigration and Nationality Act and who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have voluntarily departed from this country.
 
-(b) An alien who is the subject of an order of deportation from the United States pursuant to section 1252 of title 8, United States Code, who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have been deported from this country.
+(b) An alien who is the subject of an order of removal from the United States pursuant to section 240 of the Immigration and Nationality Act who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have been removed from this country.
 
-(c) An alien who is the subject of an order of exclusion and deportation from the United States pursuant to section 1226 of title 8, United States Code, who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have been excluded from admission and deported from the United States.
+(c) An alien who is the subject of an order of removal from the United States pursuant to section 240 of the Immigration and Nationality Act, who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have been excluded from admission and removed from the United States.
 
-(Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1219.)
+(Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1219; amended Pub. L. 104–208, div. C, title III, §308(d)(4)(U), (e)(1)(Q), (2)(I), (g)(3)(B), (5)(A)(iv), Sept. 30, 1996, 110 Stat. 3009–619, 3009–620, 3009–622, 3009–623.)
+
+#### References in Text
+
+Section 240B of the Immigration and Nationality Act, referred to in subsec. (a), is classified to section 1229c of Title 8, Aliens and Nationality.
+
+Section 240 of the Immigration and Nationality Act, referred to in subsecs. (b) and (c), is classified to section 1229a of Title 8.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208, §308(g)(5)(A)(iv)(I), substituted “section 240B of the Immigration and Nationality Act” for “section 1252(b) or section 1254(e) of title 8, United States Code,”.
+
+Subsec. (b). Pub. L. 104–208, §308(g)(5)(A)(iv)(II), substituted “section 240 of the Immigration and Nationality Act” for “section 1252 of title 8, United States Code,”.
+
+Pub. L. 104–208, §308(e)(1)(Q), (2)(I), substituted “removal” for “deportation” and “removed” for “deported”.
+
+Subsec. (c). Pub. L. 104–208, §308(g)(3)(B), substituted “240 of the Immigration and Nationality Act” for “1226 of title 8, United States Code”.
+
+Pub. L. 104–208, §308(d)(4)(U), (e)(2)(I), substituted “removal” for “exclusion and deportation” and “removed” for “deported”.
 

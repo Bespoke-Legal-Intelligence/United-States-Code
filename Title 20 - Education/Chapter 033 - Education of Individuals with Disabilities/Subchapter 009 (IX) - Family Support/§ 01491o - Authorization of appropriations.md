@@ -20,7 +20,7 @@ There are authorized to be appropriated to carry out this subchapter, $10,000,00
 
 #### (2) Special rule
 
-&emsp;The Secretary shall only use funds reserved under paragraph (1) for a fiscal year to carry out section 1491m of this title for such year if the amount of funds reserved under such paragraph for such fiscal year is $700,000 or greater.
+&emsp;The Secretary shall only use funds reserved under paragraph (1) for a fiscal year to carryout section 1491m of this title for such year if the amount of funds reserved under such paragraph for such fiscal year is $700,000 or greater.
 
 (Pub. L. 91–230, title VI, §716, as added Pub. L. 103–382, title III, §315, Oct. 20, 1994, 108 Stat. 3955.)
 

@@ -14,7 +14,7 @@ Every employer who in any fiscal year made—
 
 &emsp;(5) any payment (including reimbursed expenses) pursuant to an agreement or arrangement described in subdivision (4);
 
-> shall file with the Secretary a report, in a form prescribed by him, signed by its president and treasurer or corresponding principal officers showing in detail the date and amount of each such payment, loan, promise, agreement, or arrangement and the name, address, and position, if any, in any firm or labor organization of the person to whom it was made and a full explanation of the circumstances of all such payments, including the terms of any agreement orunderstanding pursuant to which they were made.
+> shall file with the Secretary a report, in a form prescribed by him, signed by its president and treasurer or corresponding principal officers showing in detail the date and amount of each such payment, loan, promise, agreement, or arrangement and the name, address, and position, if any, in any firm or labor organization of the person to whom it was made and a full explanation of the circumstances of all such payments, including the terms of any agreement or understanding pursuant to which they were made.
 
 #### (b) Persuasive activities relating to the right to organize and bargain collectively; supplying information of activities in connection with labor disputes; filing and contents of report of agreement or arrangement
 

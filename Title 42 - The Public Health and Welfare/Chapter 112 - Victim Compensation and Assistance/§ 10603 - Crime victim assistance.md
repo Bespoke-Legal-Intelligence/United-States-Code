@@ -24,9 +24,9 @@
 
 (5) As used in this subsection, the term “base amount” means—
 
-&emsp;(A) $150,000 for fiscal years 1989 through 1991; and
+&emsp;(A) except as provided in subparagraph (B), $500,000; and
 
-&emsp;(B) $200,000 thereafter.
+&emsp;(B) for the territories of the Northern Mariana Islands, Guam, American Samoa, and the Republic of Palau, $200,000, with the Republic of Palau's share governed by the Compact of Free Association between the United States and the Republic of Palau.
 
 #### (b) Eligibility of program; factors; limitation on expending of sums
 
@@ -108,13 +108,19 @@ As used in this section—
 
 &emsp;(5) the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080.)
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244.)
 
 #### References in Text
 
 Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(3) of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–132 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “As used in this subsection, the term ‘base amount’ means—
+
+&emsp;“(A) $150,000 for fiscal years 1989 through 1991; and
+
+&emsp;“(B) $200,000 thereafter.”
 
 1994—Subsec. (a)(5)(B). Pub. L. 103–322, §230208, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “$200,000 thereafter through fiscal year 1995.”
 
@@ -168,7 +174,7 @@ Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–69
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10601, 10603a, 10605 of this title.
+This section is referred to in sections 10601, 10603a, 10603b, 10605 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

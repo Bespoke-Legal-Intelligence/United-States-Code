@@ -22,7 +22,7 @@ The Fund shall approve a State to be a participating State, if—
 
 #### (1) In general
 
-&emsp;A State that is not a participating State, but that has its own capital access program providing portfolio insurance for business loans (based on a separate loss reserve fund for each financial institution), may apply at any time to the Fund to be approved to be a participating State. The Fund shall approve such State to be a participating State, and to be eligible for reimbursements by the Fund pursuant to section 4747 of this title, if the State—
+&emsp;A State that is not a participating State, but that has its own capital access programproviding portfolio insurance for business loans (based on a separate loss reserve fund for each financial institution), may apply at any time to the Fund to be approved to be a participating State. The Fund shall approve such State to be a participating State, and to be eligible for reimbursements by the Fund pursuant to section 4747 of this title, if the State—
 
 &emsp;&emsp;(A) satisfies the requirements of subsections (a) and (b) of this section; and
 
@@ -36,7 +36,7 @@ The Fund shall approve a State to be a participating State, if—
 
 #### (B) Effective date of participation
 
-&emsp;&emsp;If an amended participation agreement that conforms with section 4745 of this titleis required in order to secure participation approval by the Fund, contributions subject to reimbursement under section 4747 of this title shall include only those contributions made to a reserve fund with respect to loans enrolled on or after the date that an amended participation agreement between the participating State and the participating financial institution becomes effective.
+&emsp;&emsp;If an amended participation agreement that conforms with section 4745 of this title is required in order to secure participation approval by the Fund, contributions subject to reimbursement under section 4747 of this title shall include only those contributions made to a reserve fund with respect to loans enrolled on or after the date that an amended participation agreement between the participating State and the participating financial institution becomes effective.
 
 #### (C) Use of accumulated reserve funds
 

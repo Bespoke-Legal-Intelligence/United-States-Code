@@ -34,5 +34,5 @@ Applicability of section to Canal Zone, see section 14 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title.
+This section is referred to in sections 14, 2332b of this title.
 

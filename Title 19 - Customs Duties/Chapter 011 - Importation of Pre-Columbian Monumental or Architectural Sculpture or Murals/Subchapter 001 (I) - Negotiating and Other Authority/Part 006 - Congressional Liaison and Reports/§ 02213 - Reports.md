@@ -104,5 +104,5 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2514, 3533 of this title; title 7 sections 5603, 5711.
+This section is referred to in sections 2514, 3533 of this title.
 

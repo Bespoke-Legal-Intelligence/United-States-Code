@@ -10,9 +10,9 @@ Whoever, being a member or employee of the United States Office of Personnel Man
 
 &emsp;(4) furnishes to an individual any special or secret information for the purpose of improving or injuring the prospects or chances of an individual examined, or to be examined, being appointed, employed, or promoted;
 
-> shall, for each offense, be fined not less than $100 nor more than $1,000 or imprisoned not less than ten days nor more than one year, or both.
+> shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
 
-(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 103–322, title XXXIII, §330010(2), Sept. 13, 1994, 108 Stat. 2143.)
+(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 609; amended Pub. L. 103–322, title XXXIII, §330010(2), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 104–294, title VI, §601(a)(9), Oct. 11, 1996, 110 Stat. 3498.)
 
 Historical and Revision Notes
 
@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 637.
 
@@ -39,6 +41,8 @@ The words “and upon conviction thereof” are omitted as unnecessary because p
 The words “or both” are substituted for “or by both such fine and imprisonment”.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “fined under this title not less than $100” for “fined not less than $100 nor more than $1,000” in concluding provisions.
 
 1994—Pub. L. 103–322 substituted “Office of Personnel Management” for “Civil Service Commission” in introductory provisions and “such Office” for “the Commission” in par. (1).
 

@@ -14,9 +14,9 @@
 
 #### (b) Excess funds; preference
 
-(1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 123/4 percent thereof for the projects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
+(1)(A) Of the amounts appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 the Secretary shall retain an amount equal to 123/4 percent thereof for theprojects described in subparagraphs (A) through (F) of section 701(a)(3) of this title.
 
-(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary has retained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of thissection and allocated to the States in accordance with subsection (c) of this section.
+(B) Any amount appropriated under section 701(a) of this title for a fiscal year in excess of $600,000,000 that remains after the Secretary has retained the applicable amount (if any) under subparagraph (A) shall be retained by the Secretary in accordance with subsection (a) of this section and allocated to the States in accordance with subsection (c) of this section.
 
 (2)(A) Of the amounts retained for the purpose of carrying out activities described in section 701(a)(3)(A), (B), (C), (D) and (E) of this title, the Secretary shall provide preference to qualified applicants which demonstrate that the activities to be carried out with such amounts shall be in areas with a high infant mortality rate (relative to the average infant mortality rate in the United States or in the State in which the area is located).
 
@@ -64,7 +64,7 @@ Subsec. (a)(3). Pub. L. 101–239, §6502(a)(2), inserted “or subsection (b) o
 
 Subsec. (b). Pub. L. 101–239, §6502(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 101–239, §6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for “705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by Pub. L. 101–239, §6502(a)(3), see below.
+Subsec. (c). Pub. L. 101–239, §6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for“705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by Pub. L. 101–239, §6502(a)(3), see below.
 
 Pub. L. 101–239, §6503(c)(1), substituted “an application” for “a description of intended activities and statement of assurances” in introductory provisions.
 
@@ -94,5 +94,5 @@ Amendment by section 6502(a) of Pub. L. 101–239 applicable to appropriations f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300b–6, 701, 703, 704, 706, 708, 709 of this title.
+This section is referred to in sections 300b–6, 701, 703, 704, 706, 708, 709, 710 of this title.
 

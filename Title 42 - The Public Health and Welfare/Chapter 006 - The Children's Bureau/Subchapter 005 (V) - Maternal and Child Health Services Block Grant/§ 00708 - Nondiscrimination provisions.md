@@ -34,7 +34,7 @@ The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub.
 
 A prior section 708, act Aug. 14, 1935, ch. 531, title V, §508, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 926; amended July 10, 1972, Pub. L. 92–345, §2(d), 86 Stat. 457; July 1, 1973, Pub. L. 93–53, §4(a)(6), 87 Stat. 135, related to special project grants for maturity and infant care, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-Provisions similar to those comprising former section 708 were contained in section 531 of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274 (formerly classified to section 729 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 708 were contained in section 531 of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274 (formerly classified to section 729of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
 
@@ -46,5 +46,5 @@ Amendment by Pub. L. 101–239 applicable to appropriations for fiscal years beg
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 705 of this title.
+This section is referred to in sections 705, 710 of this title.
 

@@ -8,7 +8,7 @@ The following requirements shall apply to programs under this chapter:
 
 #### (2) Prohibition on impairment of contracts
 
-&emsp;No such program shall impair existing contracts for services or collective bargainingagreements, and no such program that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
+&emsp;No such program shall impair existing contracts for services or collective bargaining agreements, and no such program that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
 
 #### (3) Prohibition on replacement
 

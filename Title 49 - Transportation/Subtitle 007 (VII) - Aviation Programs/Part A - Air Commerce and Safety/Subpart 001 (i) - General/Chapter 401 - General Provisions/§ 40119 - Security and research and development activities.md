@@ -24,7 +24,9 @@ Transfers of Duties and Powers Prohibited.—Except as otherwise provided by law
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -26,7 +26,7 @@ The regulations prescribed under this section shall set forth factors which are 
 
 #### (2) Notification of inconsistent treatment
 
-&emsp;Except as provided in regulations, paragraph (1) shall not apply to any holder of an interest if such holder on his return discloses that he is treating such interest in a manner inconsistent with the characterization referred to in paragraph (1).
+&emsp;Except as provided in regulations, paragraph (1) shall not apply to any holder of an interestif such holder on his return discloses that he is treating such interest in a manner inconsistent with the characterization referred to in paragraph (1).
 
 #### (3) Regulations
 

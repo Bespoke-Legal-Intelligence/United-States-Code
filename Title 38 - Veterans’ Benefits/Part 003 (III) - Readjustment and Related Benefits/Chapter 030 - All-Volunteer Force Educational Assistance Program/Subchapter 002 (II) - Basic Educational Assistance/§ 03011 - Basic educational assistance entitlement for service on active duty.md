@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least three years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect tothe Coast Guard when it is not operating as a service in the Navy;
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;(2) who, except as provided in subsection (e) of this section, completed the requirements of a secondary school diploma (or equivalency certificate) not later than—
 
@@ -40,7 +40,13 @@
 
 (c)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
 
-(2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy or upon completion of a program of educational assistance under section 2107 of title 10 is not eligible for educational assistance under this section.
+(2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
+
+(3) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon completion of a program of educational assistance under section 2107 of title 10 is not eligible for educational assistance under this section if the individual enters on active duty—
+
+&emsp;(A) before October 1, 1996; or
+
+&emsp;(B) after September 30, 1996, and while participating in such program received more than $2,000 for each year of such participation.
 
 (d)(1) For purposes of this chapter, any period of service described in paragraphs (2) and (3) of this subsection shall not be considered a part of an individual's initial obligated period of active duty.
 
@@ -52,7 +58,7 @@
 
 &emsp;(C) a defective enlistment agreement.
 
-(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section 672, 673, 673b, 674, or 675 <sup>1</sup> of title 10 for a period of less than 2 years.
+(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section 12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
 
 (e) For the purposes of subsection (a)(2) of this section, an individual who was on active duty on August 2, 1990, and who completes the requirements of a secondary school diploma (or equivalency certificate) before October 28, 1994, shall be considered to have completed such requirements within the individual's initial obligated period of active duty.
 
@@ -80,11 +86,7 @@
 
 &emsp;(C) re-enters on a period of active duty.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573, 1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687.)
-
-#### References in Text
-
-Sections 672, 673, 673b, 674, and 675 of title 10, referred to in subsec. (d)(3), were renumbered sections 12301, 12302, 12304, 12306, and 12307, respectively, of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573, 1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528.)
 
 #### Prior Provisions
 
@@ -93,6 +95,12 @@ Prior section 3011 was renumbered section 5111 of this title.
 Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub. L. 86–490, June 8, 1960, 74 Stat. 161, related to the effective date of an award of increased compensation, dependency and indemnity compensation, or pension, prior to repeal by Pub. L. 87–825, §5(a), Oct. 15, 1962, 76 Stat. 950.
 
 #### Amendments
+
+1996—Subsec. (c)(2). Pub. L. 104–201, §556(a)(1), struck out “or upon completion of a program of educational assistance under section 2107 of title 10” after “Coast Guard Academy”.
+
+Subsec. (c)(3). Pub. L. 104–201, §556(a)(2), added par. (3).
+
+Subsec. (d)(3). Pub. L. 104–106 substituted “section 12301, 12302, 12304, 12306, or 12307 of title 10” for “section 672, 673, 673b, 674, or 675 of title 10”.
 
 1994—Subsec. (e). Pub. L. 103–446, §1201(f)(2), substituted “October 28, 1994,” for “the end of the 24-month period beginning on the date of the enactment of this subsection”.
 
@@ -156,11 +164,15 @@ Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which t
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
 #### Effective Date of 1992 Amendment
 
 Section 302(b) of Pub. L. 102–568 provided that: “The amendments made by this section \[amending this section and sections 3012 and 3031 of this title\] shall take effect as of October 28, 1986.”
 
-Section 304(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on June 30, 1985,and apply to the payment of educational assistance for education or training pursued on or after October 1, 1993.”
+Section 304(b) of Pub. L. 102–568 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after October 1, 1993.”
 
 Section 305(b) of Pub. L. 102–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted on October 19, 1984.”
 
@@ -188,7 +200,5 @@ Section 303(b) of Pub. L. 102–568 directed Secretary of each military departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3012, 3013, 3015, 3016, 3017, 3018, 3018A, 3018B, 3021, 3031, 3232, 3462, 4214, 5303A of this title; title 10 section 2006; title 42 section 12603.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 3012, 3013, 3015, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3021, 3031, 3232, 3462, 4214, 5303A of this title; title 10 section 2006; title 42 section 12603.
 

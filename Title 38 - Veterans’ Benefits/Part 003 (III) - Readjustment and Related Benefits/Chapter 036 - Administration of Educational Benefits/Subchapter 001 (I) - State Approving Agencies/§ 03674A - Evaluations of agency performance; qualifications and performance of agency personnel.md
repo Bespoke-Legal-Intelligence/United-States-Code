@@ -2,7 +2,7 @@
 
 (a) The Secretary shall—
 
-&emsp;(1)(A) conduct, in conjunction with State approving agencies, an annual evaluation of eachState approving agency on the basis of standards developed by the Secretary in conjunction with the State approving agencies, and (B) provide each such agency an opportunity to comment on the evaluation;
+&emsp;(1)(A) conduct, in conjunction with State approving agencies, an annual evaluation of each State approving agency on the basis of standards developed by the Secretary in conjunction with the State approving agencies, and (B) provide each such agency an opportunity to comment on the evaluation;
 
 &emsp;(2) take into account the results of annual evaluations carried out under clause (1) when negotiating the terms and conditions of a contract or agreement under section 3674 of this title;
 

@@ -36,7 +36,7 @@ Not later than eighteen months after October 21, 1976, the Administrator shall, 
 
 (II) Any records, reports, or information obtained from any person under subclause (I) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, to which the Administrator has access under this subparagraph is made public, would divulge information entitled to protection under section 1905 of title 18, the Administrator shall consider such information or particular portion thereof confidential in accordance with the purposes of that section, except that such record, report, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter. Any person not subject to the provisions of section 1905 of title 18 who knowingly and willfully divulges or discloses any information entitled to protection under this subparagraph shall, upon conviction, be subject to a fine of not more than $5,000 or to imprisonment not to exceed one year, or both.
 
-(iii) The Administrator may prescribe regulations, under the authority of this chapter, to prevent radiation exposure which presents an unreasonable risk to human health from the use in construction or land reclamation (with or without revegetation) of (I) solid waste from theextraction, beneficiation, and processing of phosphate rock or (II) overburden from the mining of uranium ore.
+(iii) The Administrator may prescribe regulations, under the authority of this chapter, to prevent radiation exposure which presents an unreasonable risk to human health from the use in construction or land reclamation (with or without revegetation) of (I) solid waste from the extraction, beneficiation, and processing of phosphate rock or (II) overburden from the mining of uranium ore.
 
 (iv) Whenever on the basis of any information the Administrator determines that any person is in violation of any requirement of this subparagraph, the Administrator shall give notice to the violator of his failure to comply with such requirement. If such violation extends beyond the thirtieth day after the Administrator's notification, the Administrator may issue an order requiring compliance within a specified time period or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
@@ -126,15 +126,17 @@ A resource recovery facility recovering energy from the mass burning of municipa
 
 &emsp;&emsp;(B) does not accept hazardous wastes identified or listed under this section, and
 
-&emsp;(2) the owner or operator of such facility has established contractual requirements or otherappropriate notification or inspection procedures to assure that hazardous wastes are not received at or burned in such facility.
+&emsp;(2) the owner or operator of such facility has established contractual requirements or other appropriate notification or inspection procedures to assure that hazardous wastes are not received at or burned in such facility.
 
-(Pub. L. 89–272, title II, §3001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2806; amended Pub. L. 96–482, §7, Oct. 21, 1980, 94 Stat. 2336; Pub. L. 98–616, title II, §§221(a), 222, 223(a), Nov. 8, 1984, 98 Stat. 3248, 3251, 3252.)
+(Pub. L. 89–272, title II, §3001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2806; amended Pub. L. 96–482, §7, Oct. 21, 1980, 94 Stat. 2336; Pub. L. 98–616, title II, §§221(a), 222, 223(a), Nov. 8, 1984, 98 Stat. 3248, 3251, 3252; Pub. L. 104–119, §4(1), Mar. 26, 1996, 110 Stat. 833.)
 
 #### Codification
 
 In subsec. (d)(7)(A), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act \[49 App. U.S.C. 1801 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+1996—Subsec. (d)(5). Pub. L. 104–119 made technical amendment to reference in original act which appears in text as reference to this section.
 
 1984—Subsec. (b)(1). Pub. L. 98–616, §222(b), inserted at end “The Administrator, in cooperation with the Agency for Toxic Substances and Disease Registry and the National Toxicology Program, shall also identify or list those hazardous wastes which shall be subject to the provisions of this subchapter solely because of the presence in such wastes of certain constituents (such as identified carcinogens, mutagens, or teratagens) \[sic\] at levels in excess of levels which endanger human health.”
 

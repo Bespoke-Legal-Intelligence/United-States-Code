@@ -2,7 +2,7 @@
 
 #### (a) Recommendations to require availability or acquisition
 
-If the Secretary determines, under section 13257(f) of this title, that a fleet requirement program under section 13257 of this title is not necessary, the Secretary shall so notify the Congress. If the Secretary so notifies the Congress, the Secretary shall, within 2 years after such notification and by rule, prepare and submit to the Congress recommendations for requirements or incentives for—
+If the Secretary determines, under section 13257(f) of this title, that a fleet requirement program under section 13257 of this title is not necessary, the Secretary shall so notify the Congress. If the Secretary so notifies the Congress, the Secretary shall, within 2 years after suchnotification and by rule, prepare and submit to the Congress recommendations for requirements or incentives for—
 
 &emsp;(1) fuel suppliers to make available to the public replacement fuels, including providing for the construction or availability of related fuel delivery systems;
 

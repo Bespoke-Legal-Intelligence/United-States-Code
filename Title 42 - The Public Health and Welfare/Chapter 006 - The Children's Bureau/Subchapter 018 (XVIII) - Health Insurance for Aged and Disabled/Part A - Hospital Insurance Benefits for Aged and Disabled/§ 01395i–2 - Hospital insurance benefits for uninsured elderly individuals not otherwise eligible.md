@@ -8,7 +8,7 @@ Every individual who—
 
 &emsp;(2) is enrolled under part B of this subchapter,
 
-&emsp;(3) is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously duringthe 5 years immediately preceding the month in which he applies for enrollment under this section, and
+&emsp;(3) is a resident of the United States, and is either (A) a citizen or (B) an alien lawfully admitted for permanent residence who has resided in the United States continuously during the 5 years immediately preceding the month in which he applies for enrollment under this section, and
 
 &emsp;(4) is not otherwise entitled to benefits under this part,
 
@@ -20,7 +20,7 @@ An individual may enroll under this section only in such manner and form as may 
 
 #### (c) Period of enrollment; scope of coverage
 
-The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
+The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q ofthis title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
 
 &emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) of this section on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B of this subchapter during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
@@ -58,7 +58,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (2) The Secretary shall, during September of each year <sup>1</sup> determine and promulgate the dollar amount which shall be applicable for premiums for months occurring in the following year. Subject to paragraph (4), the amount of an individual's monthly premium under this section shall be equal to the monthly actuarial rate determined under paragraph (1) for that following year. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1 (or, if it is a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1).
 
-(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him inarriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
+(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
 
 (4)(A) In the case of an individual described in subparagraph (B), the monthly premium for a month shall be reduced by the applicable reduction percent specified in the following table:
 
@@ -76,19 +76,19 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &nbsp;1994
 
-25 percent&nbsp;
+25 percent&nbsp;&nbsp;
 
 &nbsp;1995
 
-30 percent&nbsp;
+30 percent&nbsp;&nbsp;
 
 &nbsp;1996
 
-35 percent&nbsp;
+35 percent&nbsp;&nbsp;
 
 &nbsp;1997
 
-40 percent&nbsp;
+40 percent&nbsp;&nbsp;
 
 &nbsp;1998 or subsequent year
 
@@ -96,7 +96,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(B) An individual described in this subparagraph with respect to a month is an individual who establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
+(B) An individual described in this subparagraph with respect to a month is an individualwho establishes to the satisfaction of the Secretary that, as of the last day of the previous month, the individual—
 
 &emsp;(i) had at least 30 quarters of coverage under subchapter II of this chapter;
 
@@ -152,7 +152,7 @@ Subsec. (d). Pub. L. 100–360, §103, amended subsec. (d) generally. Prior to a
 
 Subsec. (d)(1). Pub. L. 100–485 substituted “during that year” for “during that entire year”.
 
-1987—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignatedpars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
+1987—Subsec. (c)(4) to (7). Pub. L. 100–203, §4009(j)(9), as added by Pub. L. 100–360, §411(b)(8)(D), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which read as follows: “termination of coverage under this section by the filing of notice that the individual no longer wishes to participate in the hospital insurance program shall take effect at the close of the month following the month in which such notice is filed;”.
 
 1986—Subsec. (c)(7). Pub. L. 99–272 added par. (7).
 
@@ -226,7 +226,7 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 
 “(2) The coverage period under the respective program of an individual described in subsection (a) who enrolled in the respective program before the enrollment period described in that subsection shall be retroactively extended to October 1, 1981, if the individual files a request before January 1, 1983, for such retroactive extension and pays the monthly premiums for the months so covered.
 
-“(c)(1) For purposes of section 1839(d) of the Social Security Act \[section 1395r(d) of this title\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of titleXVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
+“(c)(1) For purposes of section 1839(d) of the Social Security Act \[section 1395r(d) of this title\] with respect to the monthly premium for months after September 1981, if an individual described in subsection (a) has enrolled in the insurance program under part B of title XVIII of the Social Security Act \[part B of this subchapter\] at any time before the end of the enrollment period described in subsection (a), any month (before the end of that enrollment period) in which he was not enrolled in that program shall not be treated as a month in which he could have been enrolled in the program.
 
 “(2) Paragraph (1) shall not apply to an individual—
 
@@ -254,7 +254,7 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320b–14, 1395i–2a, 1395p, 1395v, 1395ff, 1395gg, 1396d of this title; title 25 section 1644; title 26 section 6103.
+This section is referred to in sections 1395i–2a, 1395p, 1395v, 1395ff, 1395gg, 1396d of this title; title 25 section 1644; title 26 section 6103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

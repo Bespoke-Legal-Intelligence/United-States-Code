@@ -26,9 +26,15 @@ Considerations.—In selecting a project for a grant to preserve and enhance cap
 
 &emsp;(1) the effect the project will have on the overall national air transportation system capacity;
 
-&emsp;(2) the project benefit and cost; and
+&emsp;(2) the project benefit and cost, including, in the case of a project at a reliever airport, the number of operations projected to be diverted from a primary airport to the reliever airport as a result of the project, as well as the cost savings projected to be realized by users of the local airport system;
 
-&emsp;(3) the financial commitment from non-United States Government sources to preserve or enhance airport capacity.
+&emsp;(3) the financial commitment from non-United States Government sources to preserve or enhance airport capacity;
+
+&emsp;(4) the airport improvement priorities of the States, and regional offices of the Administration, to the extent such priorities are not in conflict with paragraphs (1) and (2);
+
+&emsp;(5) the projected growth in the number of passengers that will be using the airport at which the project will be carried out; and
+
+&emsp;(6) any increase in the number of passenger boardings in the preceding 12-month period at the airport at which the project will be carried out, with priority consideration to be given to projects at airports at which the number of passenger boardings increased by at least 20 percent as compared to the number of passenger boardings in the 12-month period preceding such period.
 
 (e)
 
@@ -44,23 +50,57 @@ General rule.—Subject to paragraph (2), in deciding whether or not to distribu
 
 &emsp;(2)
 
-Required finding.—Paragraph (1) shall apply only when the Secretary finds that the amount of revenues used by the airport for purposes other than capital or operating costs in the airport's fiscal year preceding the date of the application for discretionary funds exceeds the amount of such revenues in the airport's first fiscal year ending after the date of the enactment of this subsection, adjusted by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+Required finding.—Paragraph (1) shall apply only when the Secretary finds that the amount of revenues used by the airport for purposes other than capital or operating costs in the airport's fiscal year preceding the date of the application for discretionary funds exceeds the amount of such revenues in the airport's first fiscal year ending after August 23, 1994, adjusted by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-(f) <sup>1</sup>
+(g)
 
-Minimum Amount To Be Credited.—(1) In a fiscal year, at least $325,000,000 of the amount made available under section 48103 of this title shall be credited to the fund. The amount credited is exclusive of amounts that have been apportioned in a prior fiscal year under section 47114 of this title and that remain available for obligation.
+Minimum Amount To Be Credited.—
 
-(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than $325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals $325,000,000.
+&emsp;(1)
 
-(3) For a fiscal year, the total amount available to reduce to carry out paragraph (2) of this subsection is the total of the amounts determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.
+General rule.—In a fiscal year, there shall be credited to the fund, out of amounts made available under section 48103 of this title, an amount that is at least equal to the sum of—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386.)
+&emsp;&emsp;(A) $148,000,000; plus
+
+&emsp;&emsp;(B) the total amount required from the fund to carry out in the fiscal year letters of intent issued before January 1, 1996, under section 47110(e) of this title or the Airport and Airway Improvement Act of 1982.
+
+> &emsp;The amount credited is exclusive of amounts that have been apportioned in a prior fiscal year under section 47114 of this title and that remain available for obligation.
+
+&emsp;(2)
+
+Reduction of apportionments.—In a fiscal year in which the amount credited under subsection (a) is less than the minimum amount to be credited under paragraph (1), the total amount calculated under paragraph (3) shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals such minimum amount.
+
+&emsp;(3)
+
+Amount of reduction.—For a fiscal year, the total amount available to make a reduction to carry out paragraph (2) is the total of the amounts determined under sections 47114(c)(1)(A), 47114(c)(2), 47114(d), and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.
+
+&emsp;(4)
+
+Special rule.—For a fiscal year in which the amount credited to the fund under this subsection exceeds $300,000,000, the Secretary shall allocate the amount of such excess as follows:
+
+&emsp;&emsp;(A) 1/3 shall be made available to airports for which apportionments are made under section 47114(d) of this title.
+
+&emsp;&emsp;(B) 1/3 shall be made available for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c)(1) of this title.
+
+&emsp;&emsp;(C) 1/3 shall be made available to current or former military airports for which grants may be made under section 47117(e)(1)(B) of this title.
+
+(h)
+
+Priority for Letters of Intent.—In making grants in a fiscal year with funds made available under this section, the Secretary shall fulfill intentions to obligate under section 47110(e).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397.)
+
+#### Amendment of Subsections (f) and (g)
+
+<i>For termination of amendment by section 125 of Pub. L. 104–264, see Effective and Termination Dates of 1996 Amendment note below.</i>
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -98,7 +138,9 @@ In subsection (e), the words “submitted in compliance with this chapter” and
 
 Pub. L. 103–429
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -118,19 +160,53 @@ May 26, 1994, Pub. L. 103–260, §104(b), 108 Stat. 699.
 
 In subsection (f), the text of section 104(b) of the Airport Improvement Program Temporary Extension Act of 1994 (Public Law 103–260, 108 Stat. 699) is omitted as executed.
 
+#### Pub. L. 104–287, §5(81)(A)
+
+This sets out the date of enactment of 49:47115(f), as enacted by section 112(d) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1576).
+
+#### Pub. L. 104–287, §5(81)(B)
+
+This redesignates 49:47115(f), as enacted by section 6(67) of the Act of October 31, 1994 (Public Law 103–429, 108 Stat. 4386), as 49:47115(g).
+
 #### References in Text
 
-The date of the enactment of this subsection, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 103–305, which was approved Aug. 23, 1994.
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (g)(1)(B), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
 #### Amendments
+
+1996—Subsec. (d)(2). Pub. L. 104–264, §145(a)(1), substituted “, including, in the case of a project at a reliever airport, the number of operations projected to be diverted from a primary airport to the reliever airportas a result of the project, as well as the cost savings projected to be realized by users of the local airport system;” for “; and”.
+
+Subsec. (d)(4) to (6). Pub. L. 104–264, §145(a)(2), (3), added pars. (4) to (6).
+
+Subsec. (f). Pub. L. 104–287, §5(81)(B), which directed that subsec. (f), as enacted by Pub. L. 103–429, be redesignated (g), could not be executed because of amendment by Pub. L. 104–264, §122, which struck out that subsec. See below.
+
+Pub. L. 104–264, §§122, 125, temporarily struck out subsec. (f), relating to minimum amount to be credited, which read as follows:
+
+“(f)
+
+Minimum Amount To Be Credited.—(1) In a fiscal year, at least $325,000,000 of the amount made available under section 48103 of this title shall be credited to the fund. The amount credited is exclusive of amounts that have been apportioned in a prior fiscal year under section 47114 of this title and that remain available for obligation.
+
+“(2) In a fiscal year in which the amount credited under subsection (a) of this section is less than $325,000,000, the total amount calculated under paragraph (3) of this subsection shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals $325,000,000.
+
+“(3) For a fiscal year, the total amount available to reduce to carry out paragraph (2) of this subsection is the total of the amounts determined under sections 47114(c)(1)(A) and (2) and (d) and 47117(e) of this title. Each amount shall be reduced by an equal percentage to achieve the reduction.” See Effective and Termination Dates of 1996 Amendment note below.
+
+Subsec. (f)(2). Pub. L. 104–287, §5(81)(A), substituted “August 23, 1994” for “the date of the enactment of this subsection”.
+
+Subsec. (g). Pub. L. 104–264, §§122, 125, temporarily added subsec. (g). See Effective and Termination Dates of 1996 Amendment note below.
+
+Subsec. (h). Pub. L. 104–264, §145(b), added subsec. (h).
 
 1994—Subsec. (f). Pub. L. 103–429 added subsec. (f) relating to minimum amount to be credited.
 
 Pub. L. 103–305 added subsec. (f) relating to consideration of diversion of revenues in awarding discretionary grants.
 
+#### Effective and Termination Dates of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+Amendment by section 122 of Pub. L. 104–264 to cease to be effective Sept. 30, 1998, and on and after such date this section to read as if such amendment had not been enacted, see section 125 of Pub. L. 104–264 set out as a note under section 47114 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47107, 47110, 47114, 47118, 47119 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(g)”.</i>
+This section is referred to in sections 47107, 47109, 47110, 47114, 47117, 47118, 47119 of this title.
 

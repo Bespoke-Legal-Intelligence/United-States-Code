@@ -36,7 +36,7 @@ Level of funding.—If the amount appropriated to carry out parts A and C of tit
 
 &emsp;&emsp;“(B) the amount appropriated to carry out part A of title II of such Act, as in effect on the day before the date of enactment of this Act \[Sept. 7, 1992\], for fiscal year 1992,
 
-> &emsp;the amendment made by section 202 of this Act \[enacting section 1602 of this title\] shall not take effect on July 1, 1993 \[Amendment by section 202 did not take effect July 1, 1993, because the appropriations referred to above for fiscal year 1993 were less than the sum referred to above.\], and section 202 of the JobTraining Partnership Act \[section 1602 of this title\] shall be amended to read as follows: \[For text, see section 1602 of this title.\]
+> &emsp;the amendment made by section 202 of this Act \[enacting section 1602 of this title\] shall not take effect on July 1, 1993 \[Amendment by section 202 did not take effect July 1, 1993, because the appropriations referred to above for fiscal year 1993 were less than the sum referred to above.\], and section 202 of the Job Training Partnership Act \[section 1602 of this title\] shall be amended to read as follows: \[For text, see section 1602 of this title.\]
 
 &emsp;“(2)
 

@@ -4,7 +4,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (1) Closure or close
 
-&emsp;The term “closure or close” means the termination of operations at open dumps on Indian land or Alaska Native land and bringingsuch dumps into compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards and regulations.
+&emsp;The term “closure or close” means the termination of operations at open dumps on Indian land or Alaska Native land and bringing such dumps into compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards and regulations.
 
 #### (2) Director
 
@@ -34,7 +34,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (7) Open dump
 
-&emsp;The term “open dump” means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 6944 <sup>1</sup> of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.) and which is not a facility for disposal of hazardous waste.
+&emsp;The term “open dump” means any facility or site where solid waste is disposed of which is not a sanitary landfill which meets the criteria promulgated under section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944) and which is not a facility for disposal of hazardous waste.
 
 #### (8) Postclosure maintenance
 
@@ -48,7 +48,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 &emsp;The term “solid waste” has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
 
-(Pub. L. 103–399, §3, Oct. 22, 1994, 108 Stat. 4164.)
+(Pub. L. 103–399, §3, Oct. 22, 1994, 108 Stat. 4164; Pub. L. 104–109, §5, Feb. 12, 1996, 110 Stat. 764.)
 
 #### References in Text
 
@@ -56,7 +56,9 @@ The Alaska Native Claims Settlement Act, referred to in pars. (4) and (6), is Pu
 
 The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified principally to chapter 24 (§1151 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of Title 16 and Tables.
 
-The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, Subtitle D of the Act is classified generally to subchapter IV (§6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. Section 6944 of the Act, referred to in par. (7), probably should be a reference to section 4004 of the Act, which is classified to section 6944 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, Subtitle D of the Act is classified generally to subchapter IV (§6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+1996—Par. (7). Pub. L. 104–109 substituted “section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944)” for “section 6944 of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.)”.
 

@@ -16,7 +16,9 @@ Limitation.—A motor private carrier or a motor carrier of migrant workers may 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -10,7 +10,7 @@ Notwithstanding any other provision of this Act, the Secretary shall ensure that
 
 #### (b) Remedial use of funds permitted
 
-In the case of settlement described in subsection (a)(2) of this section, a jurisdiction mayuse funds provided under this Act to carry out housing remedies with eligible activities.
+In the case of settlement described in subsection (a)(2) of this section, a jurisdiction may use funds provided under this Act to carry out housing remedies with eligible activities.
 
 (Pub. L. 101–625, title II, §224, Nov. 28, 1990, 104 Stat. 4113.)
 

@@ -22,7 +22,7 @@
 
 #### (2) For commercial operations
 
-&emsp;(A) There are authorized to be appropriated for the salaries and expenses of the Customs Service that are incurred in commercial operations not less than the following:
+&emsp;(A) There are authorized to be appropriated for the salaries and expenses of the CustomsService that are incurred in commercial operations not less than the following:
 
 &emsp;&emsp;(i) $672,021,000 for fiscal year 1991.
 
@@ -80,7 +80,7 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (e), is Pub. L
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
+1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, andadding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
 1989—Subsec. (b)(1). Pub. L. 101–207, §3(a)(1), (2), substituted “1990” for “1989” and “$418,822,000” for “$440,504,000”.
 
@@ -128,7 +128,7 @@ Pub. L. 99–509, §8102(2), amended subsec. (b) generally. Prior to amendment, 
 
 “(3)(A) No part of any sum that is appropriated under the authority of paragraph (1) may be used for further research and development or acquisition of F–15 avionics for the P–3 aircraft and related equipment until 60 days after the Committee on Ways and Means and the Committee on Finance have received from the Secretary of the Treasury a written comparative assessment of the suitability of the P–3, E–2, or other appropriate aircraft for use by the Customs Service in its air drug interdiction program. Such assessment, which the Secretary may not submit to the Committees until the General Accounting Office study required under paragraph (7) is completed, shall include life cycle costs.
 
-“(B) Acquisition of additional aircraft for use by the Customs Service for its air drug interdiction programafter completion of the assessment required under subparagraph (A) shall be subject to competitive bidding through the use of the normal ‘request for proposal’ process.
+“(B) Acquisition of additional aircraft for use by the Customs Service for its air drug interdiction program after completion of the assessment required under subparagraph (A) shall be subject to competitive bidding through the use of the normal ‘request for proposal’ process.
 
 “(4) No part of any sum that is appropriated under the authority of paragraph (1) may be used to consolidate the drawback liquidation centers within the Customs Service to less than 4 such centers. If a consolidation is undertaken, the Commissioner of Customs shall select the location of the centers after taking into account the drawback volume at, and the geographic dispersion of, the respective centers being considered for consolidation.
 

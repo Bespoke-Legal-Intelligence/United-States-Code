@@ -38,7 +38,7 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 In subsection (a) the word “naval” is omitted as surplusage.
 
-In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 34 U.S.C. 606contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
+In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 34 U.S.C. 606 contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
 #### Cross References
 

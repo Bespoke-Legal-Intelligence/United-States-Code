@@ -50,13 +50,13 @@
 
 #### (D) Adjustment to $90,000 limit where benefit begins after the social security retirement age
 
-&emsp;&emsp;If the retirement income benefit under the plan begins after the social security retirement age, the determination as to whether the $90,000 limitation set forth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by increasing the limitation of paragraph (1)(A) so that such limitation (as so increased) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $90,000 annual benefit beginning at the social security retirement age.
+&emsp;&emsp;If the retirement income benefit under the plan begins after the social security retirement age, the determination as to whether the $90,000 limitation set forth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by theSecretary, by increasing the limitation of paragraph (1)(A) so that such limitation (as so increased) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $90,000 annual benefit beginning at the social security retirement age.
 
 #### (E) Limitation on certain assumptions
 
-&emsp;&emsp;(i) Except as provided in clause (ii), for purposes of adjusting any benefit or limitation under subparagraph (B) or (C), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.
+&emsp;&emsp;(i) For purposes of adjusting any limitation under subparagraph (C) and, except as provided in clause (ii), for purposes of adjusting any benefit under subparagraph (B), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.
 
-&emsp;&emsp;(ii) For purposes of adjusting the benefit or limitation of any form of benefit subject to section 417(e)(3), the applicable interest rate (as defined in section 417(e)(3)) shall be substituted for “5 percent” in clause (i).
+&emsp;&emsp;(ii) For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3), the applicable interest rate (as defined in section 417(e)(3)) shall be substituted for “5 percent” in clause (i).
 
 &emsp;&emsp;(iii) For purposes of adjusting any limitation under subparagraph (D), the interest rate assumption shall not be greater than the lesser of 5 percent or the rate specified in the plan.
 
@@ -99,6 +99,14 @@
 &emsp;&emsp;&emsp;&emsp;(I) as a full-time employee of any police department or fire department which is organized and operated by the State or political subdivision maintaining such defined benefit plan to provide police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
 
 &emsp;&emsp;&emsp;&emsp;(II) as a member of the Armed Forces of the United States.
+
+#### (I) Exemption for survivor and disability benefits provided under governmental plans
+
+&emsp;&emsp;Subparagraph (C) of this paragraph and paragraph (5) shall not apply to—
+
+&emsp;&emsp;&emsp;(i) income received from a governmental plan (as defined in section 414(d)) as a pension, annuity, or similar allowance as the result of the recipient becoming disabled by reason of personal injuries or sickness, or
+
+&emsp;&emsp;&emsp;(ii) amounts received from a governmental plan by the beneficiaries, survivors, or the estate of an employee as the result of the death of the employee.
 
 #### (3) Average compensation for high 3 years
 
@@ -148,7 +156,7 @@
 
 #### (7) Benefits under certain collectively bargained plans
 
-&emsp;For a year, the limitation referred to in paragraph (1)(B) shall not apply to benefitswith respect to a participant under a defined benefit plan—
+&emsp;For a year, the limitation referred to in paragraph (1)(B) shall not apply to benefits with respect to a participant under a defined benefit plan—
 
 &emsp;&emsp;(A) which is maintained for such year pursuant to a collective bargaining agreement between employee representatives and one or more employers,
 
@@ -196,7 +204,17 @@
 
 #### (C) Election
 
-&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)) applied without regard to paragraph (2)(F).
+#### (i) In general
+
+&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)) applied without regard to paragraph (2)(F).
+
+#### (ii) Revocation of election
+
+&emsp;&emsp;&emsp;An election under clause (i) may be revoked not later than the last day of the third plan year beginning after the date of the enactment of this clause. The revocation shall apply to all plan years to which the election applied and to all subsequent plan years. Any amount paid by a plan in a taxable year ending after the revocation shall be includible in income in such taxable year under the rules of this chapter in effect for such taxable year, except that, for purposes of applying the limitations imposed by this section, any portion of such amount which is attributable to any taxable year during which the election was in effect shall be treated as received in such taxable year.
+
+#### (11) Special limitation rule for governmental plans
+
+&emsp;In the case of a governmental plan (as defined in section 414(d)), subparagraph (B) of paragraph (1) shall not apply.
 
 #### (c) Limitation for defined contribution plans
 
@@ -242,7 +260,7 @@
 
 &emsp;&emsp;&emsp;(iii) with respect to whom the employer elects, at such time and in such manner as the Secretary may prescribe, to have this subparagraph apply,
 
-> &emsp;&emsp;the term “participant's compensation” means the compensation the participant would have received for the year if the participant was paid at the rate of compensation paid immediately before becoming permanently and totally disabled. This subparagraph shall apply only if contributions made with respect to amounts treated as compensation under this subparagraph are nonforfeitable when made.
+> &emsp;&emsp;the term “participant's compensation” means the compensation the participant would have received for the year if the participant was paid at the rate of compensation paid immediately before becoming permanently and totally disabled. This subparagraph shall apply only if contributions made with respect to amounts treated as compensation under this subparagraph are nonforfeitable when made. If a defined contribution plan provides for the continuation of contributions on behalf of all participants described in clause (i) for a fixed or determinable period, this subparagraph shall be applied without regard to clauses (ii) and (iii).
 
 #### (4) Special election for section 403(b) contracts purchased by educational organizations, hospitals,,<sup>1</sup> home health service agencies, and certain churches, etc.
 
@@ -396,7 +414,7 @@
 
 &emsp;&emsp;&emsp;(ii) a fraction the numerator of which is 1 and the denominator of which is the number of years beginning before January 1, 1976, during which the employee was an active participant in the plan.
 
-> &emsp;Employee contributions made on or after October 2, 1973, shall be taken into account under subparagraph (B) of the preceding sentence only to the extent that the amount of such contributions does not exceed the maximum amount of contributions permissible under the plan as in effect on October 2, 1973.
+> &emsp;Employee contributions made on or after October 2, 1973, shall be taken into account undersubparagraph (B) of the preceding sentence only to the extent that the amount of such contributions does not exceed the maximum amount of contributions permissible under the plan as in effect on October 2, 1973.
 
 #### (5) Special rules for sections 403(b) and 408
 
@@ -452,7 +470,7 @@
 
 #### (g) Aggregation of plans
 
-The Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts,or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsections (e) and (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
+The Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsections (e) and (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
 
 #### (h) 50 percent control
 
@@ -470,19 +488,15 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (1) Defined benefit plan and defined contribution plan
 
-&emsp;For purposes of this title, the term “defined contribution plan” or “defined benefit plan” means a defined contribution plan (within the meaning of section 414(i)) or a defined benefit plan (within the meaning of section 414(j)), whichever applies, which is—
+&emsp;For purposes of this title, the term “defined contribution plan” or “defined benefit plan”means a defined contribution plan (within the meaning of section 414(i)) or a defined benefit plan (within the meaning of section 414(j)), whichever applies, which is—
 
 &emsp;&emsp;(A) a plan described in section 401(a) which includes a trust which is exempt from tax under section 501(a),
 
 &emsp;&emsp;(B) an annuity plan described in section 403(a),
 
-&emsp;&emsp;(C) an annuity contract described in section 403(b),
+&emsp;&emsp;(C) an annuity contract described in section 403(b), or
 
-&emsp;&emsp;(D) an individual retirement account described in section 408(a),
-
-&emsp;&emsp;(E) an individual retirement annuity described in section 408(b), or
-
-&emsp;&emsp;(F) a simplified employee pension.
+&emsp;&emsp;(D) a simplified employee pension.
 
 #### (2) Contributions to provide cost-of-living protection under defined benefit plans
 
@@ -534,7 +548,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (ii) Key employee
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “key employee” has the meaning given such term by section 416(i)(1), exceptthat in the case of a plan other than a top-heavy plan (within the meaning of section 416(g)), such term shall not include an individual who is a key employee solely by reason of section 416(i)(1)(A)(i).
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “key employee” has the meaning given such term by section 416(i)(1), except that in the case of a plan other than a top-heavy plan (within the meaning of section 416(g)), such term shall not include an individual who is a key employee solely by reason of section 416(i)(1)(A)(i).
 
 #### (<i>l</i>) Treatment of certain medical benefits
 
@@ -550,13 +564,91 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;&emsp;(B) from which benefits described in section 401(h) are payable solely to such participant, his spouse, or his dependents.
 
-(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038.)
+#### (m) Treatment of qualified governmental excess benefit arrangements
+
+#### (1) Governmental plan not affected
+
+&emsp;In determining whether a governmental plan (as defined in section 414(d)) meets the requirements of this section, benefits provided under a qualified governmental excess benefit arrangement shall not be taken into account. Income accruing to a governmental plan (or to a trust that is maintained solely for the purpose of providing benefits under a qualified governmental excess benefit arrangement) in respect of a qualified governmental excess benefit arrangement shall constitute income derived from the exercise of an essential governmental function upon which such governmental plan (or trust) shall be exempt from tax under section 115.
+
+#### (2) Taxation of participant
+
+&emsp;For purposes of this chapter—
+
+&emsp;&emsp;(A) the taxable year or years for which amounts in respect of a qualified governmental excess benefit arrangement are includible in gross income by a participant, and
+
+&emsp;&emsp;(B) the treatment of such amounts when so includible by the participant,
+
+> &emsp;shall be determined as if such qualified governmental excess benefit arrangement were treated as a plan for the deferral of compensation which is maintained by a corporation not exempt from tax under this chapter and which does not meet the requirements for qualification under section 401.
+
+#### (3) Qualified governmental excess benefit arrangement
+
+&emsp;For purposes of this subsection, the term “qualified governmental excess benefit arrangement” means a portion of a governmental plan if—
+
+&emsp;&emsp;(A) such portion is maintained solely for the purpose of providing to participants in the plan that part of the participant's annual benefit otherwise payable under the terms of the plan that exceeds the limitations on benefits imposed by this section,
+
+&emsp;&emsp;(B) under such portion no election is provided at any time to the participant (directly or indirectly) to defer compensation, and
+
+&emsp;&emsp;(C) benefits described in subparagraph (A) are not paid from a trust forming a part of such governmental plan unless such trust is maintained solely for the purpose of providing such benefits.
+
+(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–188, title I, §1434(a), (c), Aug. 20, 1996, 110 Stat. 1807, provided that, applicable to years beginning after Dec. 31, 1997, subsection (c)(3) of this section is amended by adding at end a new subpar. (D) to read as follows:</i>
+
+#### (D) Certain deferrals included
+
+The term “participant's compensation” shall include—
+
+&emsp;(i) any elective deferral (as defined in section 402(g)(3)), and
+
+&emsp;(ii) any amount which is contributed or deferred by the employer at the election of the employee and which is not includible in the gross income of the employee by reason of section 125 or 457.
+
+<i>Pub. L. 104–188, title I, §1452(a), (c)(1)–(6), (d), Nov. 20, 1996, 110 Stat. 1816, provided that, applicable to limitation years beginning after Dec. 31, 1999, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(1) by adding “or” at the end of subpar. (A), by striking “, or” at the end of subpar. (B) and inserting a period, and by striking subpar. (C);</i>
+
+<i>(2) in subsection (b)(5)(B) by striking “and subsection (e)”;</i>
+
+<i>(3) by repealing subsection (e);</i>
+
+<i>(4) in subsection (f)(1) by striking “subsections (b), (c), and (e)” and inserting “subsections (b) and (c)”;</i>
+
+<i>(5) in subsection (g) by striking “subsections (e) and (f)” in last sentence and inserting “subsection (f)”;</i>
+
+<i>(6) in subsection (k)(2)(A) by amending clause (i) to read as follows:</i>
+
+“(i) any contribution made directly by an employee under such an arrangement shall not be treated as an annual addition for purposes of subsection (c), and”; and
+
+<i>(7) in subsection (k)(2)(A)(ii) by striking “subsections (c) and (e)” and inserting “subsection (c)”.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(2)(C), (8), (c)(4)(D)(iii), and (d)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 215(i)(2)(A), 216(<i>l</i>), and 1861(<i>o</i>) of the Social Security Act enacted sections 415(i)(2)(A), 416(<i>l</i>), and 1395x(<i>o</i>) of Title 42, respectively. For complete classification of this Act to the Code, see Tables.
 
+The date of the enactment of this clause, referred to in subsec. (b)(10)(C)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
+
 #### Amendments
+
+1996—Subsec. (b)(2)(E)(i). Pub. L. 104–188, §1449(b)(1), substituted “For purposes of adjusting any limitation under subparagraph (C) and, except as provided in clause (ii), for purposes of adjusting any benefit under subparagraph (B),” for “Except as provided in clause (ii), for purposes of adjusting any benefit or limitation under subparagraph (B) or (C),”.
+
+Subsec. (b)(2)(E)(ii). Pub. L. 104–188, §1449(b)(2), substituted “For purposes of adjusting any benefit under subparagraph (B) for any form of benefit subject to section 417(e)(3),” for “For purposes of adjusting the benefit or limitation of any form of benefit subject to section 417(e)(3),”.
+
+Subsec. (b)(2)(I). Pub. L. 104–188, §1444(c), added subpar. (I).
+
+Subsec. (b)(10)(C). Pub. L. 104–188, §1444(d), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (b)(11). Pub. L. 104–188, §1444(a), added par. (11).
+
+Subsec. (c)(3)(C). Pub. L. 104–188, §1446(a), inserted at end “If a defined contribution plan provides for the continuation of contributions on behalf of all participants described in clause (i) for a fixed or determinable period, this subparagraph shall be applied without regard to clauses (ii) and (iii).”
+
+Subsec. (k)(1)(C) to (F). Pub. L. 104–188, §1704(t)(75), inserted “or” at end of subpar. (C), redesignated subpar. (F) as (D), and struck out former subpars. (D) and (E) which read as follows:
+
+“(D) an individual retirement account described in section 408(a),
+
+“(E) an individual retirement annuity described in section 408(b), or”.
+
+Subsec. (m). Pub. L. 104–188, §1444(b)(1), added subsec. (m).
 
 1994—Subsec. (b)(2)(E). Pub. L. 103–465, §767(b), added cls. (i), (ii), and (v), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and struck out former cl. (i) which read as follows: “For purposes of adjusting any benefit or limitation under subparagraph (B) or (C), the interest rate assumption shall not be less than the greater of 5 percent or the rate specified in the plan.”
 
@@ -690,7 +782,7 @@ Subsec. (e)(6)(C). Pub. L. 98–369, §713(a)(3), added subpar. (C).
 
 Subsec. (k)(1). Pub. L. 98–369, §491(d)(32), struck out subpars. (C) and (H), which included a qualified bond purchase plan described in section 405(a) and an individual retirement bond described in section 409 within the term “defined contribution plan” or “defined benefit plan”, respectively, and redesignated subpars. (D) to (G) as (C) to (F), respectively.
 
-Subsec. (<i>l</i>). Pub. L. 98–369, §528(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 98–369, §528(a), added subsec. (<i>l</i>).
 
 1983—Subsec. (c)(3)(C)(i). Pub. L. 98–21 substituted “section 37(e)(3)” for “section 105(d)(4)”.
 
@@ -722,7 +814,7 @@ Subsec. (d)(3). Pub. L. 97–248, §235(b)(2)(A), added par. (3).
 
 Subsec. (e)(1). Pub. L. 97–248, §235(c)(1), substituted “1.0” for “1.4”.
 
-Subsec. (e)(2)(B). Pub. L. 97–248, §235(c)(2)(A), substituted provisions that for purposes of this subsection, the defined benefit plan fraction for any year has a denominator which is the lesser of the product of 1.25 multiplied by the dollar limitation in effect under subsec. (b)(1)(A) for such year, or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (b)(1)(B) with respect to such individual under the plan for such year, for provisions that such benefit plan fraction had a denominator which was the projected annual benefit of the participant under the plan (determined as of the close of the year) if the plan provided the maximum benefit allowable under subsec. (b).
+Subsec. (e)(2)(B). Pub. L. 97–248, §235(c)(2)(A), substituted provisions that for purposes of this subsection,the defined benefit plan fraction for any year has a denominator which is the lesser of the product of 1.25 multiplied by the dollar limitation in effect under subsec. (b)(1)(A) for such year, or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (b)(1)(B) with respect to such individual under the plan for such year, for provisions that such benefit plan fraction had a denominator which was the projected annual benefit of the participant under the plan (determined as of the close of the year) if the plan provided the maximum benefit allowable under subsec. (b).
 
 Subsec. (e)(3)(B). Pub. L. 97–248, §235(c)(2)(B), substituted provision that the defined contribution plan fraction for any year has a denominator which, determined for such year and for each prior year of service with the employer, is the lesser of either the product of 1.25 multiplied by the dollar limitation in effect under subsec. (c)(1)(A) for such year (determined without regard to subsec. (c)(6)), or the product of 1.4 multiplied by the amount which may be taken into account under subsec. (c)(1)(B) (or subsec. (c)(7) or (8), if applicable) with respect to such individual under such plan for such year, for provision that the denominator of such fraction was the sum of the maximum amount of annual additions to the participant's account which could have been made under subsec. (c) for such year and for each prior year of service with the employer (determined without regard to subsec. (c)(6)).
 
@@ -788,11 +880,39 @@ Subsecs. (g), (i), (j). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his
 
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1434(a) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1997, see section 1434(c) of Pub. L. 104–188, set out as a note under section 414 of this title.
+
+Section 1444(e) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—The amendments made by subsections (a), (b), and (c) \[amending this section and section 457 of this title\] shall apply to years beginning after December 31, 1994. The amendments made by subsection (d) \[amending this section\] shall apply with respect to revocations adopted after the date of the enactment of this Act \[Aug. 20, 1997\].
+
+“(2)
+
+Treatment for years beginning before january 1, 1995.—Nothing in the amendments made by this section shall be construed to imply that a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) fails to satisfy the requirements of section 415 of such Code for any taxable year beginning before January 1, 1995.”
+
+Section 1446(b) of Pub. L. 104–188 provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 1996.”
+
+Section 1449(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 411 of this title\] shall take effect as if included in the provisions of section 767 of the Uruguay Round Agreements Act \[Pub. L. 103–465\].”
+
+Section 1452(d) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 416 and 4980A of this title\] shall apply to limitation years beginning after December 31, 1999.
+
+“(2)
+
+Excess distributions.—The amendment made by subsection (b) \[amending section 4980A of this title\] shall apply to years beginning after December 31, 1996.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 732(b) of Pub. L. 103–465 applicable to years beginning after Dec. 31, 1994, and, to the extent of providing for the rounding of indexed amounts, not applicable to any year to the extent the rounding would require the indexed amount to be reduced below the amount in effect for years beginning in 1994, see section 732(e) of Pub. L. 103–465, set out as a note under section 401 of this title.
 
-Amendment by section 767(b) of Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits and timing of plan amendment, see section 767(d) of Pub. L. 103–465, set out as a note under section 411 of this title.
+Amendment by section 767(b) of Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -1056,6 +1176,10 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 Section 1106(h) of Pub. L. 99–514 provided that: “Notwithstanding any other provision of law, except as provided in regulations prescribed by the Secretary of the Treasury or his delegate, a plan may incorporate by reference the limitations under section 415 of the Internal Revenue Code of 1986.”
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
@@ -1076,7 +1200,7 @@ Section 2004(a)(3) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 45A, 219, 401, 402, 403, 404, 408, 409, 411, 414, 416, 419A, 4973, 4980, 4980A of this title; title 4 section 114; title 5 section 8432; title 29 sections 1002, 1321; title 45 sections 726, 1347.
+This section is referred to in sections 45A, 219, 401, 402, 403, 404, 408, 409, 411, 414, 416, 419A, 457, 4973, 4980, 4980A of this title; title 4 section 114; title 5 section 8432; title 29 sections 1002, 1321; title 45 sections 726, 1347.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

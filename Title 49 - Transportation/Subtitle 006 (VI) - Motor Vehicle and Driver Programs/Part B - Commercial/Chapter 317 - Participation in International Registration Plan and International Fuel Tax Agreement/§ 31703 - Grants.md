@@ -12,7 +12,9 @@ Contractual Obligation.—Approval by the Secretary of a grant with amounts made
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

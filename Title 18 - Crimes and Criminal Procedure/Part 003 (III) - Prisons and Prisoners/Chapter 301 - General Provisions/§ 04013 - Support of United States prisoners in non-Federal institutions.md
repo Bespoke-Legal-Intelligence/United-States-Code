@@ -42,7 +42,7 @@
 
 1994—Pub. L. 103–322, §330011(<i>o</i>), repealed Pub. L. 101–647, §3599. See 1990 Amendment note below.
 
-1990—Subsec. (a). Pub. L. 101–647, §3599, which struck out “(a)” at beginning of text, was repealed by Pub. L. 103–322, §330011(<i>o).</i>
+1990—Subsec. (a). Pub. L. 101–647, §3599, which struck out “(a)” at beginning of text, was repealed by Pub. L. 103–322, §330011(<i>o</i>).
 
 Subsec. (b). Pub. L. 101–647, §1701, added subsec. (b).
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;(A) An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
+&emsp;(A) An organization described in section 501(c)(17) shall not be exempt from taxationunder section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
 
 &emsp;(B) An organization described in section 401(a) which is referred to in section 4975(g) (2) or (3) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after March 1, 1954.
 
@@ -62,7 +62,7 @@ For purposes of subsection (b)(1), a bond, debenture, note, or certificate or ot
 
 Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) to the employer (or to a renewal of such a loan or, if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
 
-&emsp;(1) the employer is prohibited (at the time of such making or renewal) by any law of the United States or regulation thereunder from directly or indirectly pledging, as security for such a loan, a particular class or classes of his assets the value of which (at such time) represents more than one-half of the value of all his assets;
+&emsp;(1) the employer is prohibited (at the time of such making or renewal) by any law of theUnited States or regulation thereunder from directly or indirectly pledging, as security for such a loan, a particular class or classes of his assets the value of which (at such time) represents more than one-half of the value of all his assets;
 
 &emsp;(2) the making or renewal, as the case may be, is approved in writing as an investment which is consistent with the exempt purposes of the trust by a trustee who is independent of the employer, and no other such trustee had previously refused to give such written approval; and
 
@@ -70,7 +70,7 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 > For purposes of paragraph (2), the term “trustee” means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 166; Sept. 2, 1958, Pub. L. 85–866, title I, §30(a), (b), 72 Stat. 1629, 1630; July 14, 1960, Pub. L. 86–667, §2, 74 Stat. 535;Oct. 10, 1962, Pub. L. 87–792, §6, 76 Stat. 827; Dec. 30, 1969, Pub. L. 91–172, title I, §§101(j)(7)–(14), 121(b)(6)(B), 83 Stat. 527, 542; Sept. 2, 1974, Pub. L. 93–406, title II, §2003(b), 88 Stat. 978; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(22), 104 Stat. 1388–521.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 166; Sept. 2, 1958, Pub. L. 85–866, title I, §30(a), (b), 72 Stat. 1629, 1630; July 14, 1960, Pub. L. 86–667, §2, 74 Stat. 535; Oct. 10, 1962, Pub. L. 87–792, §6, 76 Stat. 827; Dec. 30, 1969, Pub. L. 91–172, title I, §§101(j)(7)–(14), 121(b)(6)(B), 83 Stat. 527, 542; Sept. 2, 1974, Pub. L. 93–406, title II, §2003(b), 88 Stat. 978; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(22), 104 Stat. 1388–521.)
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, but with provision for an 
 
 Amendment by section 101(j)(7)–(14) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-Amendment by section 121(b)(6)(B) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by section 121(b)(6)(B) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31,1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1962 Amendment
 

@@ -24,7 +24,7 @@ Each application submitted pursuant to subsection (a) of this section shall incl
 
 #### (d) Sufficient size and scope required
 
-The Secretary shall only award grants under this subpart to applicants having applications which describe projects of sufficient size and scope to contribute to carrying out the purposes of this subpart.
+The Secretary shall only award grants under this subpart to applicants having applicationswhich describe projects of sufficient size and scope to contribute to carrying out the purposes of this subpart.
 
 (Pub. L. 89–329, title V, §564, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 701.)
 

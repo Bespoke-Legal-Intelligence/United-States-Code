@@ -12,5 +12,7 @@ Historical and Revision Notes
 
 7305
 
+..............................................
+
 The requirement for an oath, drawn from a clause which had appeared in 46 U.S.C. 672(g), and administered by the Coast Guard to all applicants, was repealed in a 1980 amendment by section 4 of Public Law 96–378 (94 Stat. 1516). Since no specific comment was made regarding the elimination in 1980 and the agency has continued to administer an oath to all applicants, this provision is being reinstated. The Committee believes the oath will contribute to the discipline and order necessary in the merchant marine.
 

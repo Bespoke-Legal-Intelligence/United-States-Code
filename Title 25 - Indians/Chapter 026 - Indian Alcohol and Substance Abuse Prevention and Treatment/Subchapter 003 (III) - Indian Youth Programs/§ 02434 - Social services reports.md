@@ -6,7 +6,7 @@ The Secretary of the Interior, with respect to the administration of any family 
 
 #### (b) Referral of data
 
-The data compiled pursuant to subsection (a) of this section shall be provided annually to the affected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 <sup>1</sup> of this title.
+The data compiled pursuant to subsection (a) of this section shall be provided annually to theaffected Indian tribe and Tribal Coordinating Committee to assist them in developing or modifying a Tribal Action Plan and shall also be submitted to the Indian Health Service service unit director who will have responsibility for compiling a tribal comprehensive report as provided in section 2477 <sup>1</sup> of this title.
 
 #### (c) Confidentiality
 

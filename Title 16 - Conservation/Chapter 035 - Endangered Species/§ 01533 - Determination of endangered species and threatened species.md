@@ -36,7 +36,7 @@
 
 (3) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
 
-&emsp;(A) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
+&emsp;(A) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species,designate any habitat of such species which is then considered to be critical habitat; and
 
 &emsp;(B) may, from time-to-time thereafter as appropriate, revise such designation.
 
@@ -68,7 +68,7 @@
 
 > &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
-(C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to theSecretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
+(C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to the Secretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
 
 (ii) Any negative finding described in subparagraph (A) and any finding described in subparagraph (B)(i) or (iii) shall be subject to judicial review.
 
@@ -172,7 +172,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 (1) The Secretary shall develop and implement plans (hereinafter in this subsection referred to as “recovery plans”) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans, shall, to the maximum extent practicable—
 
-&emsp;(A) give priority to those endangered species or threatened species, without regard to taxonomic classification, that are most likely to benefit from such plans, particularly thosespecies that are, or may be, in conflict with construction or other development projects or other forms of economic activity;
+&emsp;(A) give priority to those endangered species or threatened species, without regard to taxonomic classification, that are most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other development projects or other forms of economic activity;
 
 &emsp;(B) incorporate in each plan—
 
@@ -246,7 +246,7 @@ Subsec. (b). Pub. L. 97–304, §2(a)(2), completely revised subsec. (b) by, amo
 
 Subsec. (c)(1). Pub. L. 97–304, §2(a)(3)(A), struck out “, and from time to time he may by regulation revise,” after “Federal Register” and inserted provision directing the Secretary to revise from time to time each list published under the authority of this subsection to reflect recent determinations, designations, and revisions made in accordance with subsections (a) and (b) of this section.
 
-Subsec. (c)(2). Pub. L. 97–304, §2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, to conduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
+Subsec. (c)(2). Pub. L. 97–304, §2(a)(3)(B), (C), redesignated par. (4) as (2). Former par. (2), directing the Secretary, within 90 days of the receipt of the petition of an interested person under section 553(e) of title 5, toconduct and publish in the Federal Register a review of the status of any listed or unlisted species proposed to be removed from or added to either of the lists published pursuant to paragraph (1) of this subsection, but only if he made and published a finding that such person had presented substantial evidence which in his judgment warranted such a review, was struck out.
 
 Subsec. (c)(3). Pub. L. 97–304, §2(a)(3)(B), struck out par. (3) which had provided that any list in effect on Dec. 27, 1973, of species of fish or wildlife determined by the Secretary of the Interior, pursuant to the Endangered Species Conservation Act of 1969, to be threatened with extinction be republished to conform to the classification for endangered species or threatened species, as the case might be, provided for in this chapter, but until such republication, any such species so listed was to be deemed an endangered species within the meaning of this chapter, and that the republication of any species pursuant to this paragraph did not require public hearing or comment under section 553 of title 5.
 

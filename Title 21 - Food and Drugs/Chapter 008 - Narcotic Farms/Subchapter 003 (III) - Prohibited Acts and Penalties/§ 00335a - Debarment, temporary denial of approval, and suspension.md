@@ -62,7 +62,7 @@
 
 > &emsp;&emsp;if the Secretary finds, on the basis of the conviction of such individual and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
-&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts thatwere the basis for a conviction for an offense described in subsection (a) of this section or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
+&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) of this section or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
@@ -202,7 +202,7 @@
 
 #### (e) Publication and list of debarred persons
 
-The Secretary shall publish in the Federal Register the name of any person debarred under subsection (a) or (b) of this section, the effective date of the debarment, and the period of the debarment. The Secretary shall also maintain and make available to the public a list, updated no less often than quarterly, of such persons, of the effective dates and minimum periods of such debarments, and of the termination of debarments.
+The Secretary shall publish in the Federal Register the name of any person debarred undersubsection (a) or (b) of this section, the effective date of the debarment, and the period of the debarment. The Secretary shall also maintain and make available to the public a list, updated no less often than quarterly, of such persons, of the effective dates and minimum periods of such debarments, and of the termination of debarments.
 
 #### (f) Temporary denial of approval
 
@@ -262,7 +262,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(B) such person is under an active investigation by a Federal authority in connection with a civil or criminal action involving conduct described in subparagraph (A),
 
-> &emsp;the Secretary shall issue an order suspending the distribution of all drugs the development or approval of which was related to such conduct described in subparagraph (A) or suspending the distribution of all drugs approved under abbreviated drug applications of such person if the Secretary finds that such conduct may have affected the development or approval of a significant number of drugs which the Secretary is unable to identify. The Secretary shall exclude a drug from such order if the Secretary determines that such conduct was not likely to have influenced the safety or efficacy of such drug.
+> &emsp;the Secretary shall issue an order suspending the distribution of all drugs the development or approval of which was related to such conduct described in subparagraph (A) or suspending the distribution of all drugs approved under abbreviated drug applications of such person if the Secretary finds that such conduct may have affected the development or approval of a significant number of drugs which the Secretary is unable to identify. The Secretary shall exclude a drug from such order ifthe Secretary determines that such conduct was not likely to have influenced the safety or efficacy of such drug.
 
 #### (2) Public health waiver
 
@@ -320,7 +320,7 @@ Any application for approval of a drug product shall include—
 
 #### (2) Effective dates
 
-&emsp;Subsection (a) of this section, subparagraph (A) of subsection (b)(2) of this section, andclauses (i) and (ii) of subsection (b)(2)(B) of this section shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b) of this section. Clauses (iii) and (iv) of subsection (b)(2)(B) of this section and subsections (f) and (g) of this section shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g) of this section. Clause (iv) of subsection (b)(2)(B) of this section shall not apply to an action which occurred before June 1, 1992. Subsection (k) of this section shall not apply to applications submitted to the Secretary before June 1, 1992.
+&emsp;Subsection (a) of this section, subparagraph (A) of subsection (b)(2) of this section, and clauses (i) and (ii) of subsection (b)(2)(B) of this section shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b) of this section. Clauses (iii) and (iv) of subsection (b)(2)(B) of this section and subsections (f) and (g) of this section shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g) of this section. Clause (iv) of subsection (b)(2)(B) of this section shall not apply to anaction which occurred before June 1, 1992. Subsection (k) of this section shall not apply to applications submitted to the Secretary before June 1, 1992.
 
 (June 25, 1938, ch. 675, §306, as added May 13, 1992, Pub. L. 102–282, §2, 106 Stat. 150.)
 

@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) is secured by a first or subordinate lien on residential real property (including individual units of condominiums and cooperatives) designed principally for the occupancy of from one to four families, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property; and
 
-&emsp;&emsp;(B)(i) is made in whole or in part by any lender the deposits or accounts of which are insured by any agency of the Federal Government, or is made in whole or in part byany lender which is regulated by any agency of the Federal Government, or
+&emsp;&emsp;(B)(i) is made in whole or in part by any lender the deposits or accounts of which are insured by any agency of the Federal Government, or is made in whole or in part by any lender which is regulated by any agency of the Federal Government, or
 
 &emsp;&emsp;(ii) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by the Secretary or any other officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary or a housing or related program administered by any other such officer or agency; or
 
@@ -24,13 +24,15 @@ For purposes of this chapter—
 
 &emsp;(6) the term “Secretary” means the Secretary of Housing and Urban Development;
 
-&emsp;(7) the term “controlled business arrangement” means an arrangement in which (A) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider; and
+&emsp;(7) the term “affiliated business arrangement” means an arrangement in which (A) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1 percent in a provider of settlement services; and (B) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the selection of that provider; and
 
 &emsp;(8) the term “associate” means one who has one or more of the following relationships with a person in a position to refer settlement business: (A) a spouse, parent, or child of such person; (B) a corporation or business entity that controls, is controlled by, or is under common control with such person; (C) an employer, officer, director, partner, franchisor, or franchisee of such person; or (D) anyone who has an agreement, arrangement, or understanding, with such person, the purpose or substantial effect of which is to enable the person in a position to refer settlement business to benefit financially from the referrals of such business.
 
-(Pub. L. 93–533, §3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, §2, Jan. 2, 1976, 89 Stat. 1157; Pub. L. 98–181, title IV, §461(a), Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, §908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874.)
+(Pub. L. 93–533, §3, Dec. 22, 1974, 88 Stat. 1724; Pub. L. 94–205, §2, Jan. 2, 1976, 89 Stat. 1157; Pub.L. 98–181, title IV, §461(a), Nov. 30, 1983, 97 Stat. 1230; Pub. L. 102–550, title IX, §908(a), (b), Oct. 28, 1992, 106 Stat. 3873, 3874; Pub. L. 104–208, div. A, title II, §2103(c)(1), Sept. 30, 1996, 110 Stat. 3009–400.)
 
 #### Amendments
+
+1996—Par. (7). Pub. L. 104–208 substituted “affiliated business arrangement” for “controlled business arrangement”.
 
 1992—Par. (1)(A). Pub. L. 102–550, §908(b), inserted “or subordinate” after “first” and “, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property” after “families”.
 

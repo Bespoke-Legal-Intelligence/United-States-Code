@@ -2,7 +2,7 @@
 
 #### (a) Minimum levels of capital
 
-The Farm Credit Administration shall cause System institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such System institutions and by using such other methods as the Farm Credit Administration deems appropriate. The Farm Credit Administration may establish such minimum level of capital for a System institution as the Farm Credit Administration, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the System institution.
+The Farm Credit Administration shall cause System institutions to achieve and maintain adequate capital by establishing minimum levels of capital for such System institutions and by using such other methods as the Farm CreditAdministration deems appropriate. The Farm Credit Administration may establish such minimum level of capital for a System institution as the Farm Credit Administration, in its discretion, deems to be necessary or appropriate in light of the particular circumstances of the System institution.
 
 #### (b) Failure to maintain minimum levels; directives; plans for achieving minimum levels; proposals affecting compliance
 
@@ -62,7 +62,7 @@ Ratio of capital to assets.—The standards established under subparagraph (A) s
 
 &emsp;“(D)
 
-Phase-in period.—The standards established under subparagraph (A) shall be phased in during the 5-year period beginning on the date of the enactment of this Act \[Jan. 6, 1988\].
+Phase-in period.—The standards established under subparagraph (A) shall be phased in during the5-year period beginning on the date of the enactment of this Act \[Jan. 6, 1988\].
 
 “(2)
 
@@ -70,7 +70,7 @@ Emergency power not available.—The Farm Credit Administration shall not invoke
 
 “(3)
 
-Prohibitions during transition period.—During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certifiedto issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\], solely because of the failure of such institution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[12 U.S.C. 2278a\].
+Prohibitions during transition period.—During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certified to issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\], solely because of the failure of such institution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[12 U.S.C. 2278a\].
 
 “(4)
 

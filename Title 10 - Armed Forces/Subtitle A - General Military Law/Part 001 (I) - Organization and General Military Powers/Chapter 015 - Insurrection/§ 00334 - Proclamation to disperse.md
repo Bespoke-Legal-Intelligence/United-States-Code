@@ -58,5 +58,5 @@ Proc. No. 3841, Apr. 9, 1968, 33 F.R. 5497, commanded all persons engaged in vio
 
 #### Proc. No. 3842. Obstruction of Justice in the State of Maryland
 
-Proc. No. 3842, Apr. 9, 1968, 33 F.R. 5499, commanded all persons engaged in acts of violence and obstructingthe enforcement of the laws in and about the City of Baltimore to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3842, Apr. 9, 1968, 33 F.R. 5499, commanded all persons engaged in acts of violence and obstructing the enforcement of the laws in and about the City of Baltimore to cease and desist therefrom and to disperse forthwith.
 

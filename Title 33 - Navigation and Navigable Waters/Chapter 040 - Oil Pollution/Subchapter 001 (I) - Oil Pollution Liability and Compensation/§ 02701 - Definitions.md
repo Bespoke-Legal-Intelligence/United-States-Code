@@ -130,7 +130,7 @@ Pub. L. 104–55, §1, Nov. 20, 1995, 109 Stat. 546, provided that: “This Act 
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, §4001, Nov. 29, 1990,104 Stat. 4788, provided that: “This title \[amending section 2761 of this title\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
+Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, §4001, Nov. 29, 1990,104 Stat. 4788, as amended by Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title \[amending section 2761 of this title\] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
 
 #### Short Title
 

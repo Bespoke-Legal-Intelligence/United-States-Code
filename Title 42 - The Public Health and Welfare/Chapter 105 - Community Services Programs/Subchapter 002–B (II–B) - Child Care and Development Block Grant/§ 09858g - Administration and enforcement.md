@@ -14,7 +14,7 @@ The Secretary shall—
 
 #### (1) Review of compliance with State plan
 
-&emsp;The Secretary shall review and monitor State compliance with this subchapter and the plan approved under section 9858c(c) of this title for the State, and shall have the power to terminate payments to the State in accordance with paragraph (2).
+&emsp;The Secretary shall review and monitor State compliance with this subchapter and the plan approved under section 9858c(c) of this title for the State.
 
 #### (2) Noncompliance
 
@@ -26,7 +26,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) in the operation of any program for which assistance is provided under this subchapter there is a failure by the State to comply substantially with any provision of this subchapter;
 
-> &emsp;&emsp;the Secretary shall notify the State of the finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected.
+> &emsp;&emsp;the Secretary shall notify the State of the finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options.
 
 #### (B) Additional sanctions
 
@@ -44,9 +44,17 @@ The Secretary shall—
 
 &emsp;&emsp;(B) imposing sanctions under this section.
 
-(Pub. L. 97–35, title VI, §658I, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–242; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
+(Pub. L. 97–35, title VI, §658I, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–242; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §609, Aug. 22, 1996, 110 Stat. 2284.)
 
 #### Amendments
 
+1996—Subsec. (b)(1). Pub. L. 104–193, §609(1), struck out “, and shall have the power to terminate paymentsto the State in accordance with paragraph (2)” before period at end.
+
+Subsec. (b)(2)(A). Pub. L. 104–193, §609(2), in closing provisions, substituted before period at end “finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options” for “finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected”.
+
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
 

@@ -46,5 +46,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7105, 7123 of this title; title 2 section 1351.
+This section is referred to in sections 7105, 7123 of this title; title 2 section 1351; title 3 section 431.
 

@@ -44,11 +44,13 @@
 
 &emsp;(C) may waive the collection of a fee under section 3729 of this title in any case in which the Secretary determines that such a waiver would be appropriate.
 
-(c) The Secretary may not enter into agreements under subsection (a) after December 31, 1995.
+(c) The Secretary may not enter into agreements under subsection (a) after December 31, 1997.
 
-(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684.)
+(Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
 
 1994—Subsec. (a)(1)(A). Pub. L. 103–446 substituted “section 5902” for “section 3402”.
 
@@ -65,4 +67,8 @@ Pub. L. 102–590, §8(b), substituted “December 31, 1995” for “September 
 Subsec. (c). Pub. L. 102–590, §9(a)(1), redesignated subsec. (b) as (c).
 
 1991—Pub. L. 102–83 renumbered section 1835 of this title as this section.
+
+#### Ratification of Actions During Period of Expired Authority
+
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 

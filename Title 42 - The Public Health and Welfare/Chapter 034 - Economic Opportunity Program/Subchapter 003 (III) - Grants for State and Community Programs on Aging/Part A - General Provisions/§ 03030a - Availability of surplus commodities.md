@@ -28,7 +28,7 @@
 
 (1) Notwithstanding any other provision of law, a State may, for purposes of the programs authorized by this chapter, elect to receive cash payments in lieu of donated foods for all or any portion of its project. In any case in which a State makes such an election, the Secretary of Agriculture shall make cash payments to such State in an amount equivalent in value to the donated foods which the State otherwise would have received if such State had retained its commodity distribution.
 
-(2) When such payments are made, the State agency shall promptly and equitably disburse any cash it receives in lieu of commodities to recipients of grants or contracts. Such disbursements shall only be used by such recipients ofgrants or contracts to purchase United States agricultural commodities and other foods for their nutrition projects.
+(2) When such payments are made, the State agency shall promptly and equitably disburse any cash it receives in lieu of commodities to recipients of grants or contracts. Such disbursements shall only be used by such recipients of grants or contracts to purchase United States agricultural commodities and other foods for their nutrition projects.
 
 (3) Nothing in this subsection shall be construed to authorize the Secretary of Agriculture to require any State to elect to receive cash payments under this subsection.
 
@@ -44,7 +44,7 @@
 
 #### (d) Dissemination of information
 
-In each fiscal year, the Secretary of Agriculture and the Secretary of Health and Human Services shall jointly disseminate to State agencies, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning—
+In each fiscal year, the Secretary of Agriculture and the Secretary of Health and HumanServices shall jointly disseminate to State agencies, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning—
 
 &emsp;(1) the existence of any Federal commodity processing program in which such State agencies, area agencies on aging, and providers may be eligible to participate; and
 
@@ -112,7 +112,7 @@ Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–47
 
 #### Establishment of Maximum Rate of Reimbursement to States for Meals; Availability of Funds
 
-Pub. L. 104–37, title IV, Oct. 21, 1995, 109 Stat. 324, provided in part: “That hereafter notwithstanding any other provision of law, for meals provided pursuant to the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], a maximum rate of reimbursement to States will be established by the Secretary, subject to reduction if obligations would exceed the amount of available funds, with any unobligated funds to remain available only for obligation in the fiscal year beginning October 1, 1996.”
+Pub. L. 104–37, title IV, Oct. 21, 1995, 109 Stat. 324, provided in part: “That hereafter notwithstanding any other provision of law, for meals provided pursuant to the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], a maximum rate of reimbursement to States will be established by the Secretary, subject to reduction if obligations would exceed the amount of available funds, with any unobligated funds to remain available onlyfor obligation in the fiscal year beginning October 1, 1996.”
 
 #### Authorization of Appropriations
 

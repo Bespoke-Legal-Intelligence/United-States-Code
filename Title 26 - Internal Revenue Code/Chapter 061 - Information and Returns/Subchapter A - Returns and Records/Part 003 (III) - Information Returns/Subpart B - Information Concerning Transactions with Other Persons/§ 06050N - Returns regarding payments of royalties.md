@@ -12,9 +12,9 @@ Every person—
 
 #### (b) Statements to be furnished to persons with respect to whom information is furnished
 
-Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
 
-&emsp;(1) the name and address of the person required to make such return, and
+&emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
 &emsp;(2) the aggregate amount of payments to the person required to be shown on such return.
 
@@ -24,7 +24,15 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 Except to the extent otherwise provided in regulations, this section shall not apply to any amount paid to a person described in subparagraph (A), (B), (C), (D), (E), or (F) of section 6049(b)(4).
 
-(Added Pub. L. 99–514, title XV, §1523(a), Oct. 22, 1986, 100 Stat. 2747.)
+(Added Pub. L. 99–514, title XV, §1523(a), Oct. 22, 1986, 100 Stat. 2747; amended Pub. L. 104–168, title XII, §1201(a)(12), July 30, 1996, 110 Stat. 1470.)
+
+#### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date
 

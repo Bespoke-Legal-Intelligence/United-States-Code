@@ -46,7 +46,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) of
 
 #### (f) Current canal operating levels
 
-Nothing in this section shall be construed to require or prohibit the Secretary of the Army or the South Florida Water Management District from maintaining the water level within any project canal below the maximum authorized operating level as of December 13, 1989.
+Nothing in this section shall be construed to require or prohibit the Secretary of the Army orthe South Florida Water Management District from maintaining the water level within any project canal below the maximum authorized operating level as of December 13, 1989.
 
 #### (g) No limitation on other claims
 

@@ -8,8 +8,12 @@
 | [462\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000462%20-%20Administration%20by%20Secretary%20of%20the%20Interior%3B%20powers%20and%20duties%20enumerated.md) | Administration by Secretary of the Interior; powers and duties enumerated. |
 | [463\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000463%20-%20National%20Park%20System%20Advisory%20Board.md) | National Park System Advisory Board. |
 | (a) | Establishment; composition; duties. |
-| (b) | Termination. |
-| (c) | National Park Service Advisory Council. |
+| (b) | Staff; applicability of Federal law. |
+| (c) | Authority of Board. |
+| (d) | Federal Advisory Committee Act. |
+| (e) | Cooperation of Federal agencies; use of mails. |
+| (f) | Termination. |
+| (g) | National Park Service Advisory Council. |
 | [464\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000464%20-%20Cooperation%20with%20governmental%20and%20private%20agencies.md) | Cooperation with governmental and private agencies. |
 | (a) | Authorization. |
 | (b) | Advisory committees. |
@@ -76,6 +80,12 @@
 | (f) | Compensation and per diem. |
 | (g) | Authorities. |
 | (h) | Reports. |
+| [469k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000469k%20-%20American%20Battlefield%20Protection%20Program.md) | American Battlefield Protection Program. |
+| (a) | Short title. |
+| (b) | Purpose. |
+| (c) | Preservation assistance. |
+| (d) | Authorization of appropriations. |
+| (e) | Repeal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -155,7 +165,7 @@
 | (i) | Environmental impact statement. |
 | (j) | Waiver of provisions in event of natural disaster or imminent threat to national security. |
 | (k) | Assistance for adversely affected historic property. |
-| (<i>l)</i> | Documentation of decisions respecting undertakings. |
+| (<i>l</i>) | Documentation of decisions respecting undertakings. |
 | 470h–3. | Lease or exchange of historic property. |
 | (a) | Authorization; consultation with Council. |
 | (b) | Proceeds of lease for administration, etc., of property; deposit of surplus proceeds into Treasury. |
@@ -209,6 +219,7 @@
 | (b) | Transmittal of copies to Congressional committees. |
 | [470u.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470u%20-%20Report%20by%20Secretary%20to%20Council.md) | Report by Secretary to Council. |
 | [470v.](Subchapter%20002%20%28II%29%20-%20National%20Historic%20Preservation/Part%20B%20-%20Advisory%20Council%20on%20Historic%20Preservation/%C2%A7%2000470v%20-%20Exemption%20for%20Federal%20programs%20or%20undertakings%3B%20regulations.md) | Exemption for Federal programs or undertakings; regulations. |
+| 470v–1. | Reimbursements from State and local agencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -232,8 +243,8 @@
 | (e) | Annual Committee report to Secretary and Administrator. |
 | (f) | “Building arts” defined. |
 | 470w–6. | Effective date of regulations. |
-| (a) | Copy to Congress prior to publication in the Federal Register; effective date of final regulations. |
-| (b) | Effective date of final regulation in case of emergency. |
+| (a) | Effective date of final regulations. |
+| (b) | Repealed. |
 | (c) | Disapproval of regulation by resolution of Congress. |
 | (d) | Failure of Congress to adopt resolution of disapproval of regulation. |
 | (e) | Sessions of Congress. |

@@ -8,7 +8,7 @@
 
 &emsp;(2) any employee employed in a nonappropriated fund instrumentality under the jurisdiction of the Armed Forces,
 
-> shall have his basic compensation fixed or adjusted at a wage rate that is not less than theappropriate wage rate provided for in section 206(a)(1) of this title (except that the wage rate provided for in section 206(b) of this title shall apply to any employee who performed services during the workweek in a work place within the Canal Zone), and shall have his overtime compensation set at an hourly rate not less than the overtime rate provided for in section 207(a)(1) of this title.
+> shall have his basic compensation fixed or adjusted at a wage rate that is not less than the appropriate wage rate provided for in section 206(a)(1) of this title (except that the wage rate provided for in section 206(b) of this title shall apply to any employee who performed services during the workweek in a work place within the Canal Zone), and shall have his overtime compensation set at an hourly rate not less than the overtime rate provided for in section 207(a)(1) of this title.
 
 (June 25, 1938, ch. 676, §18, 52 Stat. 1069; Sept. 23, 1966, Pub. L. 89–601, title III, §306, 80 Stat. 841; Sept. 11, 1967, Pub. L. 90–83, §8, 81 Stat. 222.)
 

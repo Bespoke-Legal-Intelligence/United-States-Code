@@ -126,7 +126,7 @@ The limitations on disclosure set forth in subsections (c) and (d) of section 13
 
 #### References in Text
 
-This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372,1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
 
 #### Codification
 

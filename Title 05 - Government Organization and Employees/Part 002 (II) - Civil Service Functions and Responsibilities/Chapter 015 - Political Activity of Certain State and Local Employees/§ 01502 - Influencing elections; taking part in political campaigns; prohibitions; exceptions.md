@@ -28,7 +28,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 118k(a) (less 1st 41 words).
 
@@ -40,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
+1974—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
 
 #### Effective Date of 1974 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Administrator of the Federal Aviation Administration shall prescribe regulations requiring screening of all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.
+General Requirements.—The Administrator of the Federal Aviation Administration shall prescribe regulations requiring screeningof all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.
 
 (b)
 
@@ -20,7 +20,9 @@ Exemptions and Advising Congress on Regulations.—The Administrator—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -54,6 +56,30 @@ In subsection (c)(1), the words “in whole or in part” and “those” are om
 
 In subsection (c)(2), the words “or amendments thereto” and “or amendments” are omitted as surplus.
 
+#### Installation of Advanced Security Equipment; Agreements
+
+Pub. L. 104–264, title III, §305(b), Oct. 9, 1996, 110 Stat. 3252, provided that: “The Administrator is authorized to use noncompetitive or cooperative agreements with air carriers and airport authorities that provide for the Administrator to purchase and assist in installing advanced security equipment for the use of such entities.”
+
+#### Passenger Profiling
+
+Pub. L. 104–264, title III, §307, Oct. 9, 1996, 110 Stat. 3253, provided that: “The Administrator of the Federal Aviation Administration, the Secretary of Transportation, the intelligence community, and the law enforcement community should continue to assist air carriers in developing computer-assisted passenger profiling programs and other appropriate passenger profiling programs which should be used in conjunction with other security measures and technologies.”
+
+#### Authority To Use Certain Funds for Airport Security Programs and Activities
+
+Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, funds referred to in subsection (b) may be used for the improvement of facilities and the purchase and deployment of equipment to enhance and ensure the safety and security of passengers and other persons involved in air travel.
+
+“(b)
+
+Covered Funds.—The following funds may be used under subsection (a):
+
+&emsp;“(1) Project grants made under subchapter I of chapter 471 of title 49, United States Code.
+
+&emsp;“(2) Passenger facility fees collected under section 40117 of title 49, United States Code.”
+
 #### Installation and Use of Explosive Detection Equipment
 
 Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 110, provided in part that: “Not later than thirty days after the date of the enactment of this Act \[June 30, 1989\], the Federal Aviation Administrator shall initiate action, including such rulemaking or other actions as necessary, to require the use of explosive detection equipment that meets minimum performance standards requiring application of technology equivalent to or better than thermal neutron analysis technology at such airports (whether located within or outside the United States) as the Administrator determines that the installation and use of such equipment is necessary to ensure the safety of air commerce. The Administrator shall complete these actions within sixty days of enactment of this Act”.
@@ -64,5 +90,5 @@ Pub. L. 100–649, §2(d), Nov. 10, 1988, 102 Stat. 3817, provided that: “The 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 40119, 44902, 44915, 44938, 46301, 46314, 46316 of this title.
+This section is referred to in sections 106, 40109, 40119, 44902, 44915, 44936, 44938, 46314 of this title.
 

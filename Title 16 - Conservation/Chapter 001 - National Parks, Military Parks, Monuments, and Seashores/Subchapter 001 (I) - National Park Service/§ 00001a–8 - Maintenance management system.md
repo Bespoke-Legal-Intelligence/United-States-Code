@@ -18,27 +18,25 @@ Beginning in fiscal year 1985, the National Park Service shall implement a maint
 
 &emsp;(7) reports and special analyses which compare planned versus actual accomplishments and costs and can be used to evaluate maintenance operations.
 
-#### (b) Reports to Congressional committees; contents
+#### (b) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(F), Nov. 12, 1996, 110 Stat. 4196
 
-The National Park Service shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, at the end of each fiscal year, a copy of a report summarizing the status of implementation of a maintenance management system until such a system has been implemented.
-
-The report shall incorporate the following information:
-
-&emsp;(1) the number of units in the National Park System that have implemented a maintenance management system during the period;
-
-&emsp;(2) contract costs versus management efficiencies achieved;
-
-&emsp;(3) the total amount of dollars spent on contracts for services; and
-
-&emsp;(4) estimation of the total value of benefits achieved through greater management efficiency.
-
-(Pub. L. 98–540, §4, Oct. 24, 1984, 98 Stat. 2719; Pub. L. 103–437, §6(d)(1), Nov. 2, 1994, 108 Stat. 4583.)
+(Pub. L. 98–540, §4, Oct. 24, 1984, 98 Stat. 2719; Pub. L. 103–437, §6(d)(1), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(F), Nov. 12, 1996, 110 Stat. 4196.)
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows:
+
+“The National Park Service shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, at the end of each fiscal year, a copy of a report summarizing the status of implementation of a maintenance management system until such a system has been implemented.
+
+“The report shall incorporate the following information:
+
+&emsp;“(1) the number of units in the National Park System that have implemented a maintenance management system during the period;
+
+&emsp;“(2) contract costs versus management efficiencies achieved;
+
+&emsp;“(3) the total amount of dollars spent on contracts for services; and
+
+&emsp;“(4) estimation of the total value of benefits achieved through greater management efficiency.”
+
 1994—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

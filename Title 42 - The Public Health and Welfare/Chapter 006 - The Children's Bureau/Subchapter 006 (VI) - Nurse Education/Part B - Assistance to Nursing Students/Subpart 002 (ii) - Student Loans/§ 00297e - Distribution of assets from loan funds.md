@@ -4,7 +4,7 @@
 
 After September 30, 1996, and not later than December 31, 1999, there shall be a capital distribution of the balance of the loan fund established under an agreement pursuant to section 297a of this title by each school as follows:
 
-(1) The Secretary shall first be paid an amount which bears the same ratio to such balance insuch fund at the close of September 30, 1999, as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund derived from such Federal capital contributions and from funds deposited therein pursuant to section 297a(b)(2)(B) of this title.
+(1) The Secretary shall first be paid an amount which bears the same ratio to such balance in such fund at the close of September 30, 1999, as the total amount of the Federal capital contributions to such fund by the Secretary pursuant to section 297a(b)(2)(A) of this title bears to the total amount in such fund derived from such Federal capital contributions and from funds deposited therein pursuant to section 297a(b)(2)(B) of this title.
 
 (2) The remainder of such balance shall be paid to the school.
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 96–76, §109(c)(3), substituted “1983” for “1980”
 
 1975—Subsec. (a). Pub. L. 94–63, §§936(d), 941(h)(2), (i)(5), substituted “September 30, 1980” for “June 30, 1977” wherever appearing, struck out “of Health, Education, and Welfare” after “Secretary”, and substituted references to section 835 of the Act for references to section 822, which had previously been translated as section 297a of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
 
-Subsec. (b). Pub. L. 94–63, §§936(d), 941(h)(1), (4)(B), substituted “subpart” for “part”, “September 30, 1980” for “June 30, 1977”, and “December 31, 1980” for “September 30, 1977” and struck out provisions relating to payments from revolving fund established by section 297f(d) of this title.
+Subsec. (b). Pub. L. 94–63, §§936(d), 941(h)(1), (4)(B), substituted “subpart” for “part”, “September 30, 1980”for “June 30, 1977”, and “December 31, 1980” for “September 30, 1977” and struck out provisions relating to payments from revolving fund established by section 297f(d) of this title.
 
 1971—Pub. L. 92–158 substituted “1977” for “1975” wherever appearing.
 
@@ -74,7 +74,7 @@ Amendment by section 941(h)(1), (2), (4)(B), (i)(1), (5) of Pub. L. 94–63 effe
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–751 effective in the case of payments to student loan funds made after Nov. 3, 1966,except in the case of payments pursuant to commitments (made prior to Nov. 3, 1966) to make loans under section 297f of this title as in effect prior to Nov. 3, 1966, see section 6(e)(1) of Pub. L. 89–751, set out as a note under section 297c of this title.
+Amendment by Pub. L. 89–751 effective in the case of payments to student loan funds made after Nov. 3, 1966, except in the case of payments pursuant to commitments (made prior to Nov. 3, 1966) to make loans under section 297f of this title as in effect prior to Nov. 3, 1966, see section 6(e)(1) of Pub. L. 89–751, set out as a note under section 297c of this title.
 
 #### Section Referred to in Other Sections
 

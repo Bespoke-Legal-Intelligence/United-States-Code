@@ -52,7 +52,7 @@ The Secretary shall exclude from the coverage of this chapter any structure whic
 
 #### (i) Manufactured housing construction and safety standards
 
-(1) The Federal manufactured home construction and safety standards established by the Secretary under this section shall include preemptive energy conservation standards in accordance with this subsection.
+(1) The Federal manufactured home construction and safety standards established by theSecretary under this section shall include preemptive energy conservation standards in accordance with this subsection.
 
 (2) The energy conservation standards established under this subsection shall be cost-effective energy conservation performance standards designed to ensure the lowest total of construction and operating costs.
 

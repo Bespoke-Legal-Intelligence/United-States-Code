@@ -2,7 +2,7 @@
 
 #### (a) Notice
 
-Every brewer shall, before commencing or continuing business, file with the officer designated for that purpose by the Secretary a notice in writing, in such form and containing such information as the Secretary shall by regulations prescribe as necessary to protect and insure collection of the revenue.
+Every brewer shall, before commencing or continuing business, file with the officer designatedfor that purpose by the Secretary a notice in writing, in such form and containing such information as the Secretary shall by regulations prescribe as necessary to protect and insure collection of the revenue.
 
 #### (b) Bonds
 

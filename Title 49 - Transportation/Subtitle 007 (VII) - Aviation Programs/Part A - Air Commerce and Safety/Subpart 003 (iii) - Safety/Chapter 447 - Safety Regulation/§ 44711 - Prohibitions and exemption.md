@@ -12,7 +12,7 @@ Prohibitions.—A person may not—
 
 &emsp;&emsp;(B) in violation of a term of the certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title;
 
-&emsp;(3) employ for service related to civil aircraft used in air commerce an airman whodoes not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
+&emsp;(3) employ for service related to civil aircraft used in air commerce an airman who does not have an airman certificate authorizing the airman to serve in the capacity for which the airman is employed;
 
 &emsp;(4) operate as an air carrier without an air carrier operating certificate or in violation of a term of the certificate;
 
@@ -36,7 +36,9 @@ Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -132,5 +134,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
 

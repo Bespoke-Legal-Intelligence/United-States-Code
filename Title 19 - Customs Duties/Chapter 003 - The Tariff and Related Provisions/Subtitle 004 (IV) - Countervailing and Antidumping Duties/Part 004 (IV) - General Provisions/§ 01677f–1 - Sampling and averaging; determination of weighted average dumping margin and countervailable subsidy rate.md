@@ -10,7 +10,7 @@ For purposes of determining the export price (or constructed export price) under
 
 #### (b) Selection of averages and samples
 
-The authority to select averages and statistically valid samples shall rest exclusively withthe administering authority. The administering authority shall, to the greatest extent possible, consult with the exporters and producers regarding the method to be used to select exporters, producers, or types of products under this section.
+The authority to select averages and statistically valid samples shall rest exclusively with the administering authority. The administering authority shall, to the greatest extent possible, consult with the exporters and producers regarding the method to be used to select exporters, producers, or types of products under this section.
 
 #### (c) Determination of dumping margin
 

@@ -6,5 +6,5 @@ Nothing in this chapter shall impair any right of an Indian tribe organized unde
 
 #### References in Text
 
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classifiedgenerally to subchapter V (§461 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 

@@ -10,7 +10,7 @@ Section is also set out in D.C. Code, §8–160.
 
 #### Amendments
 
-1960—Pub. L. 86–764 substituted provisions for erection of a monument or memorial to memory of Theodore Roosevelt by the Secretary of Interior with the approval of the living children of Theodore Roosevelt and authorizing an appropriation therefor for former provision permitting the Roosevelt Memorial Association to undertake such construction.
+1960—Pub. L. 86–764 substituted provisions for erection of a monument or memorial to memory of Theodore Roosevelt by the Secretary of the Interior with the approval of the living children of Theodore Roosevelt and authorizing an appropriation therefor for former provision permitting the Roosevelt Memorial Association to undertake such construction.
 
 1953—Act May 21, 1953, substituted “Theodore Roosevelt Association” for “Roosevelt Memorial Association”.
 

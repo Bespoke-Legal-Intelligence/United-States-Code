@@ -4,9 +4,9 @@
 
 The Farm Credit Administration shall have the following powers, functions, and responsibilities in connection with the institutions of the Farm Credit System and the administration of this chapter:
 
-&emsp;(1) Modify the boundaries of farm credit districts, with due regard for the farm creditneeds of the country, as approved by the Board, with the concurrence of the district banks involved.
+&emsp;(1) Modify the boundaries of farm credit districts, with due regard for the farm credit needs of the country, as approved by the Board, with the concurrence of the district banks involved.
 
-&emsp;(2)(A) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in section 2279a of this title; approve mergers and any related activities as provided for in subchapter VII of this chapter; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors or management agreements when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
+&emsp;(2)(A) Where necessary or appropriate to carry out the policy and objectives of this chapter, issue and approve amendments to Federal charters of institutions of the System; approve change in names of banks operating under this chapter; approve the merger of districts when agreed to by the district bank boards involved and by a majority vote of the voting stockholders and contributors to the guaranty funds of each bank for each of such districts, voting in the same manner as is provided in section 2279a of this title; approve mergers and any related activities as provided for in subchapter VII of this chapter; and approve the consolidation or division of the territories of institutions when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved; and approve consolidations of boards of directors when agreed to by a majority vote of the voting stockholders or contributors to the guaranty fund of each of the institutions involved. In issuing charters and certificates of territory for district-wide mergers of associations where stockholders of one or more associations did not approve the merger, the charter of the new or merged association shall not include the territory of the disagreeing association or associations; charters issued during calendar year 1985 for district-wide new or merged associations which included the territory of a disagreeing association shall be revoked and reissued to exclude such territory, unless subsequently agreed to by the board of directors of such association or associations. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district (including, but not limited to, access to credit and rates of interest on loans and discounts) by a district Farm Credit bank to the association and its member-borrowers. The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations.
 
 &emsp;(B) The Farm Credit Administration shall not issue a charter to, or approve an amendment to the charter of, any institution of the Farm Credit System to operate under subchapter I or II of this chapter that would authorize the institution to exercise lending authority, whether directly or indirectly as an agent of a Farm Credit Bank, in a territory in which the charter of another such institution authorizes the other institution to exercise like authority, whether directly or indirectly as an agent of a Farm Credit Bank, except with the approval of—
 
@@ -26,7 +26,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(C) Subparagraph (B) shall apply only in those geographic areas where, due to the failure of a Federal intermediate credit bank to merge in accordance with section 410(a) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note), the Federal intermediate credit bank or its successor is chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that is not the successor to the Federal intermediate credit bank is chartered to provide long-term credit, in the same geographic territory.
 
-&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
+&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administrationby the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
 
 &emsp;(4) Approve the issuance of obligations of the System under subsections (c) and (d) of section 2153 of this title for the purpose of funding the authorized operations of the institutions of the System, and prescribe collateral therefor.
 
@@ -36,7 +36,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(7) Conduct loan and collateral security review.
 
-&emsp;(8) Regulate the preparation by System institutions and the dissemination to stockholders and investors of information on the financial condition and operations of such institutions, except that the Farm Credit Administration may not require any System institution to disclose in any report to stockholders information concerning the condition or classification of a loan—
+&emsp;(8) Regulate the preparation by System institutions and the dissemination to stockholders and investors of information on the financial condition and operations of such institutions, except that the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and the Farm Credit Administration may not require any System institution to disclose in any report to stockholders information concerning the condition or classification of a loan—
 
 &emsp;&emsp;(A) to a director of the institution—
 
@@ -94,7 +94,7 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 (1) At least thirty days prior to publishing any proposed regulation in the Federal Register, the Farm Credit Administration shall transmit a copy of the regulation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate. The Farm Credit Administration shall also transmit to such committees a copy of any final regulation prior to its publication in the Federal Register. Except as provided in paragraph (2) of this subsection, no final regulation of the Farm Credit Administration shall become effective prior to the expiration of thirty calendar days after it is published in the Federal Register during which either or both Houses of the Congress are in session.
 
-(2) In the case of an emergency, a final regulation of the Farm Credit Administration may become effective without regard to the last sentence of paragraph (1) of this subsection if the Farm Credit Administration notifies in writingthe Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the reasons why it is necessary to make the regulation effective prior to the expiration of the thirty-day period.
+(2) In the case of an emergency, a final regulation of the Farm Credit Administration may become effective without regard to the last sentence of paragraph (1) of this subsection if the Farm Credit Administration notifies in writing the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the reasons why it is necessary to make the regulation effective prior to the expiration of the thirty-day period.
 
 #### (d) Legislative veto of regulations; procedures applicable
 
@@ -110,13 +110,17 @@ The Farm Credit Administration shall not have authority, either direct or indire
 
 (4) Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
-(Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132.)
+(Pub. L. 92–181, title V, §5.17, formerly §5.18, Dec. 10, 1971, 85 Stat. 621; Pub. L. 96–592, title V, §§507, 508, Dec. 24, 1980, 94 Stat. 3449; renumbered §5.17 and amended Pub. L. 99–205, title II, §201(7), Dec. 23, 1985, 99 Stat. 1691; Pub. L. 99–509, title I, §1036, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–233, title II, §207(a)(2), title IV, §417, formerly §414, §418(d), formerly §415(d), §§424(a), 431(e), title VIII, §§802(v), 805(z), Jan. 6, 1988, 101 Stat. 1607, 1653, 1656, 1660, 1713, 1717, renumbered §§417, 418(d), Pub. L. 100–399, title IV, §409(a), Aug. 17, 1988, 102 Stat. 1003; Pub. L. 100–399, title II, §205, title IV, §409(e), title IX, §901(m), (n), Aug. 17, 1988, 102 Stat. 993, 1003, 1008; Pub. L. 101–624, title XVIII, §1843(a)(1), Nov. 28, 1990, 104 Stat. 3836; Pub. L. 102–237, title V, §502(h), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title IV, §401(c), title V, §511, Oct. 28, 1992, 106 Stat. 4128, 4132; Pub. L. 104–105, title II, §§210, 211, Feb. 10, 1996, 110 Stat. 174.)
 
 #### Prior Provisions
 
 A prior section 5.17 of Pub. L. 92–181 was renumbered section 5.16 and is classified to section 2251 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A). Pub. L. 104–105, §210, struck out “or management agreements” after “consolidations of boards of directors” in first sentence.
+
+Subsec. (a)(8). Pub. L. 104–105, §211, inserted “the requirements of the Farm Credit Administration governing the dissemination to stockholders of quarterly reports of System institutions may not be more burdensome or costly than the requirements applicable to national banks, and” after “except that”.
 
 1992—Subsec. (a)(2). Pub. L. 102–552, §401(c), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
@@ -138,7 +142,7 @@ Pub. L. 100–233, §415(d), substituted “section 2279a of this title” for �
 
 Pub. L. 100–233, §414, substituted “. The Farm Credit Administration Board shall ensure that disapproving associations (A) shall not be charged any assessment under this chapter at a rate higher than that charged other like associations in the district, and (B) shall be provided with financial services and assistance on the same basis as other like associations in the district” for “; and the Farm Credit Administration shall ensure that the board of directors of district banks does not discriminate against the disapproving associations in exercising its supervisory authorities. Such associations shall not be (i) charged any assessment under this chapter at a rate higher than that charged other like associations in the district or (ii) discriminated against in the provision of any financial service and assistance”.
 
-Pub. L. 100–233, §431(e)(1), substituted “The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations” for “The Chairman of the Farm Credit Administration Board, after consultation with the respective district board or boards and the board of directors of the Capital Corporation may require two or more banks of the Farm Credit System (other thanCentral Banks for Cooperatives) operating under the same subchapter to merge if the Chairman determines that one of such banks has failed to meet outstanding obligations of such bank.”
+Pub. L. 100–233, §431(e)(1), substituted “The Farm Credit Administration Board, after consultation with the respective boards of directors of the affected banks, may require two or more banks operating under the same or different titles to merge if the Board determines that one of such banks has failed to meet its outstanding obligations” for “The Chairman of the Farm Credit Administration Board, after consultation with the respective district board or boards and the board of directors of the Capital Corporation may require two or more banks of the Farm Credit System (other than Central Banks for Cooperatives) operating under the same subchapter to merge if the Chairman determines that one of such banks has failed to meet outstanding obligations of such bank.”
 
 Subsec. (a)(3). Pub. L. 100–399, §901(m)(3), substituted “Farm Credit Banks under section 2207(b) of this title” for “Federal land banks and Federal intermediate credit banks under section 2207(b) of this title”.
 
@@ -192,6 +196,28 @@ Amendment by section 207(a)(2) of Pub. L. 100–233 effective 15 days after Jan.
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
+#### Regulations
+
+Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shallamend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
+
+#### Regulatory Review
+
+Section 212 of Pub. L. 104–105 provided that:
+
+“(a)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) the Farm Credit Administration, in the role of the Administration as an arms-length safety and soundness regulator, has made considerable progress in reducing the regulatory burden on Farm Credit System institutions;
+
+&emsp;“(2) the efforts of the Farm Credit Administration described in paragraph (1) have resulted in cost savings for Farm Credit System institutions; and
+
+&emsp;“(3) the cost savings described in paragraph (2) ultimately benefit the farmers, ranchers, agricultural cooperatives, and rural residents of the United States.
+
+“(b)
+
+Continuation of Regulatory Review.—The Farm Credit Administration shall continue the comprehensive review of regulations governing the Farm Credit System to identify and eliminate, consistent with law, safety, and soundness, all regulations that are unnecessary, unduly burdensome or costly, or not based on law.”
+
 #### Forbearance and Restructuring for Farm Loans; Farm Credit Administration
 
 Pub. L. 100–387, title III, §313(b), Aug. 11, 1988, 102 Stat. 950, provided that: “It further is the sense of Congress that the Farm Credit Administration should in its oversight of Farm Credit System institutions, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
@@ -201,10 +227,6 @@ Pub. L. 100–387, title III, §313(b), Aug. 11, 1988, 102 Stat. 950, provided t
 &emsp;“(2) expedite the use of credit restructuring and other credit relief mechanisms authorized under the Agricultural Credit Act of 1987 \[Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, see Tables for classification\] and related provisions of law for such farmers and ranchers; and
 
 &emsp;“(3) encourage other lenders participating with Farm Credit System institutions in mutual loan agreements to exercise forbearance before declaring loans to such farmers and ranchers in default.”
-
-#### Regulations
-
-Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
 
 #### Section Referred to in Other Sections
 

@@ -24,9 +24,17 @@
 
 (1) Whoever knowingly certifies, marks, offers for sale, or sells a fastener in violation of this chapter or a regulation under this chapter shall be fined under title 18, or imprisoned not more than 5 years, or both.
 
-(2) Whoever intentionally fails to maintain records relating to a fastener in violation of this chapter or a regulation under this chapter shall be fined under title 18, or imprisoned not more than 5 years, or both.
+(2) Whoever intentionally fails to maintain records relating to a fastener in violation of thischapter or a regulation under this chapter shall be fined under title 18, or imprisoned not more than 5 years, or both.
 
 (3) Whoever negligently fails to maintain records relating to a fastener in violation of this chapter or a regulation under this chapter shall be fined under title 18, or imprisoned not more than 2 years, or both.
 
-(Pub. L. 101–592, §9, Nov. 16, 1990, 104 Stat. 2950.)
+#### (d) Enforcement
+
+The Secretary may designate officers or employees of the Department of Commerce to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
+
+(Pub. L. 101–592, §9, Nov. 16, 1990, 104 Stat. 2950; Pub. L. 104–113, §11(g), Mar. 7, 1996, 110 Stat. 782.)
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–113 added subsec. (d).
 

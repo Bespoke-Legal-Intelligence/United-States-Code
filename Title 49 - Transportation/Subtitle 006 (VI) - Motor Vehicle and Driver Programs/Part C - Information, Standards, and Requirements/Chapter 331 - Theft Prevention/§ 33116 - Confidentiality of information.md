@@ -16,7 +16,9 @@ Withholding Information From Congress.—This section does not authorize informa
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary shall establish the total number of hospital beds and nursing home beds in medical facilities over which the Secretary has direct jurisdiction for the care and treatment of eligible veterans at not more than 125,000 and not less than 100,000. The Secretary shall establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the casualties of such war or national emergency. Of the number of beds authorized pursuant to the preceding sentence, the Secretary shall operate and maintain a total of not less than 90,000 hospital beds and nursing home beds and shall maintain the availability of such additional beds and facilities in addition to the operating bed level as the Secretary considers necessary for such contingency purposes. The President shall include in the Budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31, an amount for medical care and amounts for construction sufficient to enable the Department to operate and maintain a total of not less than 90,000 hospital and nursing home beds in accordance with this paragraph and to maintain the availability of the contingency capacity referred to in the second sentence of this paragraph. The Secretary shall staff and maintain, in such a manner as to ensure the immediate acceptance and timely and complete care of patients, sufficient beds and other treatment capacities to accommodate, and provide such care to, eligible veterans applying for admission and found to be in need of hospital care or medical services.
 
-(2) The Secretary shall maintain the bed and treatment capacities of all Department medical facilities so as to ensure the accessibility and availability of such beds and treatment capacities to eligible veterans in all States and to minimize delays in admissions and in the provision of hospital, nursing home, and domiciliary care, and of medical services furnished pursuant to section 1712 of this title.
+(2) The Secretary shall maintain the bed and treatment capacities of all Department medical facilities so as to ensure the accessibility and availability of such beds and treatment capacities to eligible veterans in all States and to minimize delays in admissions and in the provision of hospital, nursing home, and domiciliary care, and of medical services furnished pursuant to section 1710(a) of this title.
 
 (3)(A) The Under Secretary for Health shall at the end of each fiscal year (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services, and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and make recommendations regarding the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds.
 
@@ -22,65 +22,23 @@
 
 (b) When the Secretary determines, in accordance with regulations which the Secretary shall prescribe, that a Department facility serves a substantial number of veterans with limited English-speaking ability, the Secretary shall establish and implement procedures, upon the recommendation of the Under Secretary for Health, to ensure the identification of sufficient numbers of individuals on such facility's staff who are fluent in both the language most appropriate to such veterans and in English and whose responsibilities shall include providing guidance to such veterans and to appropriate Department staff members with respect to cultural sensitivities and bridging linguistic and cultural differences.
 
-(c)(1) Notwithstanding any other provision of law but except as provided in paragraph (3) of this subsection—
+(c) The Secretary shall include in the materials submitted to Congress each year in support of the budget of the Department for the next fiscal year a report on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees. The report shall—
 
-&emsp;(A) a contract may not be entered into as a result of which an activity at a health-care facility over which the Secretary has direct jurisdiction (hereinafter in this subsection referred to as a “Department health-care facility”) would be converted from an activity performed by Federal employees to an activity performed by employees of a contractor of the Government unless the Under Secretary for Health has determined that such activity is not a direct patient care activity or an activity incident to direct patient care; and
+&emsp;(1) identify those specific activities that are currently performed at a Department facility by more than 10 Department employees which the Secretary proposes to study for possible contracting involving conversion from performance by Department employees to performance by employees of a contractor; and
 
-&emsp;(B) in the case of an activity determined by the Under Secretary for Health under clause (A) of this paragraph to be neither such activity, the Secretary, after considering the advice of the Under Secretary for Health and the results of a study described in paragraph (4) of this subsection, may, in the exercise of the Secretary's sole discretion but subject to paragraph (2) of this subsection, enter into a contract as a result of which the activity would be converted from an activity performed by Federal employees to an activity performed by employees of a contractor of the Government.
+&emsp;(2) identify those specific activities that have been contracted for performance by contractor employees during the prior fiscal year (shown by location, subject, scope of contracts, and savings) and shall describe the effect of such contracts on the quality of delivery of health services during such year.
 
-(2) The Secretary may enter into a contract under the circumstances described in paragraph (1)(B) of this subsection only if responsive bids are received from at least two responsible, financially autonomous bidders and the Secretary determines—
-
-&emsp;(A) based on the study described in paragraph (4) of this subsection with respect to the activity involved, that the cost to the Government of the performance of such activity under such a contract over the first five years of such performance (including the cost to the Government of conducting the study) would be lower by 15 percent or more than the cost of performance of such activity by Federal employees; and
-
-&emsp;(B) that the quantity and quality of health-care services provided to eligible veterans by the Department at the facility at which the activity is carried out would be maintained or enhanced as a result of such a contract.
-
-(3) The provisions of paragraph (1) of this subsection do not apply—
-
-&emsp;(A) to a contract or agreement under chapter 17 or section 8111, 8111A, or 8153 of this title or under section 1535 of title 31; or
-
-&emsp;(B) to a contract under section 513 or 7409 of this title if the Under Secretary for Health determines that such contract is necessary in order to provide services to eligible veterans at a Department health-care facility that could not otherwise be provided at such facility.
-
-(4) A study referred to in paragraph (1)(B) of this subsection is a study that—
-
-&emsp;(A) compares the cost of performing an activity at a Department health-care facility through Federal employees with the cost of performing such activity through a contractor of the Government;
-
-&emsp;(B) is based on an estimate of the most efficient and cost-effective organization for the effective performance of the activity by Federal employees;
-
-&emsp;(C) with respect to the costs of performance of such activity through Federal employees, is based (to the maximum extent feasible) on actual cost factors of the Department for pay and retirement and other fringe benefits for the Federal employees who perform the activity; and
-
-&emsp;(D) takes into account (i) the costs to the Government (including severance pay) that would result from the separation of employees whose Federal employment may be terminated as a result of the Secretary entering into a contract described in paragraph (1)(B) of this subsection, and (ii) all costs to the Government associated with the contracting process.
-
-(5) Prior to conducting a study described in paragraph (4) of this subsection, the Secretary shall (in a timely manner) submit to the appropriate committees of the Congress written notice of a decision to study the activity involved for possible performance by a contractor.
-
-(6) If, after completion of a study described in paragraph (4) of this subsection, a decision ismade to convert performance of the activity involved to contractor performance, the Secretary shall promptly submit to the appropriate committees of the Congress written notice of such decision and a report with respect to such conversion. Each such report shall include—
-
-&emsp;(A) a summary of the study described in paragraph (4) of this subsection with respect to such contract;
-
-&emsp;(B) a certification that the study itself is available to such committees and that the results of the study meet the requirements of paragraph (2)(A) of this subsection;
-
-&emsp;(C) a certification that the requirements of paragraph (2)(B) of this subsection would be met with respect to such contract and a summary of the information that supports such certification;
-
-&emsp;(D) if more than 25 jobs are affected, information showing the potential economic impact on the Federal employees affected and the potential economic impact on the local community and the Government of contracting for performance of such activity; and
-
-&emsp;(E) information showing the amount of the bid accepted for a contract for the performance of the activity and the cost of performance of such activity by Federal employees, together with the total estimated cost which the Government will incur because of the contract.
-
-(7) Paragraphs (1) through (6) shall not be in effect during fiscal years 1995 through 1999.
-
-(8) During the period covered by paragraph (7), whenever an activity at a Department health-care facility is converted from performance by Federal employees to performance by employees of a contractor of the Government, the Secretary shall—
-
-&emsp;(A) require in the contract for the performance of such activity that the contractor, in hiring employees for the performance of the contract, give priority to former employees of the Department who have been displaced by the award of the contract; and
-
-&emsp;(B) provide to such former employees of the Department all possible assistance in obtaining other Federal employment or entrance into job training and retraining programs.
-
-(9) The Secretary shall include in the Secretary's annual report to Congress under section 529 of this title, for each fiscal year covered by paragraph (7), a report on the use during the year covered by the report of contracting-out authority made available by reason of paragraph (7). The Secretary shall include in each such report a description of each use of such authority, together with the rationale for the use of such authority and the effect of the use of such authority on patient care and on employees of the Department.
-
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5001(a)(2), (3), (h) of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–262, §101(e)(4), substituted “section 1710(a)” for “section 1712”.
+
+Subsec. (c). Pub. L. 104–262, §305, amended subsec. (c) generally, substituting provisions consisting of an introductory par. and pars. (1) and (2), relating to reports on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees for provisions consisting of pars. (1) to (9), relating to conversion of activities at health-care facilities from those performed by Federal employees to those performed by Government contractors.
 
 1995—Subsec. (a)(4). Pub. L. 104–66 substituted “subparagraph (C)” for “subparagraph (D)” in subpars. (A) and (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “Whenever the Director of the Office of Management and Budget is required to submit a certification under subparagraph (B) of this paragraph, the Comptroller General shall submit to the appropriate committees of the Congress a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of that subparagraph. The Comptroller General shall submit the report not later than fifteen days after the end of the period specified in such subparagraph for the Director to submit the certification.”
 
@@ -170,7 +128,7 @@ Section 409(a) of Pub. L. 97–306 provided that: “It is the policy of the Uni
 
 &emsp;“(1) shall maintain a comprehensive, nationwide health-care system for the direct provision of quality health-care services to eligible veterans; and
 
-&emsp;“(2) shall operate such system through cost-effective means that are consistent with carrying out fully the functions of the Department of Medicine and Surgery of the Veterans’ Administration under title 38, United States Code.”
+&emsp;“(2) shall operate such system through cost-effective means that are consistent with carrying outfully the functions of the Department of Medicine and Surgery of the Veterans’ Administration under title 38, United States Code.”
 
 #### Section Referred to in Other Sections
 

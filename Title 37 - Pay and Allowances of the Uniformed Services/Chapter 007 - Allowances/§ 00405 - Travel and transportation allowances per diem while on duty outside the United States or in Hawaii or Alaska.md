@@ -2,7 +2,7 @@
 
 (a) Without regard to the monetary limitations of this title, the Secretaries concerned may authorize the payment of a per diem, considering all elements of the cost of living to members of the uniformed services under their jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses, to such a member who is on duty outside of the United States or in Hawaii or Alaska, whether or not he is in a travel status. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.
 
-(b) A station housing allowance may be prescribed under this section for a member who ison duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.
+(b) A station housing allowance may be prescribed under this section for a member who is on duty outside of the United States without regard to costs other than housing costs and may consist of the difference between basic allowance for quarters and applicable housing cost. A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska. A station housing allowance prescribed under this section may be paid in advance.
 
 (c) Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.
 
@@ -80,5 +80,5 @@ Regulations for administration of section, see section 411 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 403, 403a, 406, 411, 420, 1003 of this title; title 2 section 906; title 5 section 4109; title 36 section 121.
+This section is referred to in sections 403, 403a, 406, 411, 420, 1003 of this title; title 2 section 906; title 5 section 4109; title 10 section 2013; title 36 section 121.
 

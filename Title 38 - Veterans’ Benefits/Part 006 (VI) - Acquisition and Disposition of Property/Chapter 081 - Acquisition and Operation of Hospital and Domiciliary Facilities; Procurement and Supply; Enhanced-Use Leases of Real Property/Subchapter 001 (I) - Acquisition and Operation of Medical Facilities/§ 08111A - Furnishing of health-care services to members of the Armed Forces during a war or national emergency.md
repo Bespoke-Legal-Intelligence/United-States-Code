@@ -8,7 +8,7 @@
 
 (2) Hospital care and medical services referred to in paragraph (1) of this subsection are—
 
-&emsp;(A) hospital care and medical services authorized under this title for a veteran and necessary for the care or treatment of a condition for which the veteran is receiving medical services at a Department facility under subsection (f) of section 1712 of this title, in a case in which the delay involved in furnishing such care or services at such Department facility or at any other Department facility reasonably accessible to the veteran would, in the judgment of the Under Secretary for Health, be likely to result in a deterioration of such condition; and
+&emsp;(A) hospital care and medical services authorized under this title for a veteran and necessary for the care or treatment of a condition for which the veteran is receiving medical services at a Department facility under subsection (a) of section 1710 of this title, in a case in which the delay involved in furnishing such care or services at such Department facility or at any other Department facility reasonably accessible to the veteran would, in the judgment of the Under Secretary for Health, be likely to result in a deterioration of such condition; and
 
 &emsp;(B) hospital care for a veteran who—
 
@@ -30,9 +30,11 @@
 
 (f) Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.
 
-(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181.)
 
 #### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–262 substituted “subsection (a) of section 1710” for “subsection (f) of section 1712”.
 
 1992—Subsecs. (b)(2)(A), (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -82,5 +84,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1721, 8110 of this title; title 10 section 1104.
+This section is referred to in section 1721 of this title; title 10 section 1104.
 

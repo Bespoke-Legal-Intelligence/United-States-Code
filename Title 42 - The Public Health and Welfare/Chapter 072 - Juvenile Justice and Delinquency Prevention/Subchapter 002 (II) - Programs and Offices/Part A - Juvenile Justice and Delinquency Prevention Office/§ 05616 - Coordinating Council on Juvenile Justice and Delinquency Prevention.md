@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-(1) There is hereby established, as an independent organization in the executive branch ofthe Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
+(1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
 
 (2)(A) Nine members shall be appointed, without regard to political affiliation, to the Council in accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the United States.
 
@@ -60,11 +60,11 @@ Of sums available to carry out this part, not more than $200,000 shall be availa
 
 #### Amendments
 
-1993—Subsec. (a)(1). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for Nationaland Community Service” for “the Director of the ACTION Agency”.
+1993—Subsec. (a)(1). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
 
 1992—Subsec. (a)(1). Pub. L. 102–586, §2(d)(1)(A), substituted “the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Director of the ACTION Agency, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2)” for “the Director of the Office of Community Services, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director for the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives of such other agencies as the President shall designate”.
 
-Subsec. (a)(2). Pub. L. 102–586, §2(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any individual designated under this section shall be selected from individuals who exercise significant decisionmaking authority in the Federal agency involved.”
+Subsec. (a)(2). Pub. L. 102–586, §2(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any individual designated under this sectionshall be selected from individuals who exercise significant decisionmaking authority in the Federal agency involved.”
 
 Subsec. (c). Pub. L. 102–586, §2(d)(2), designated existing provisions as par. (1), inserted “(in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles,”, “shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and” and “and all Federal programs and activities that detain or care for unaccompanied juveniles”, and added par. (2).
 
@@ -112,7 +112,7 @@ Subsec. (e). Pub. L. 95–115, §3(d)(4), redesignated former par. (3) as entire
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (b) Deductions from railroad retirement annuities or pensions
 
-(1) In the case of an individual who is entitled to receive for a month an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\] (whether or not such individual is also entitled for such month to a monthly insurance benefit under section 402 of this title), his monthly premiums under this part shall (except as provided in subsection (c) of this section) be collected by deducting the amount thereof from such annuity or pension. Such deduction shall be made in such manner and at such times as the Secretary shall by regulations prescribe. Such regulations shall be prescribed only after consultation with the Railroad Retirement Board.
+(1) In the case of an individual who is entitled to receive for a month an annuity under theRailroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\] (whether or not such individual is also entitled for such month to a monthly insurance benefit under section 402 of this title), his monthly premiums under this part shall (except as provided in subsection (c) of this section) be collected by deducting the amount thereof from such annuity or pension. Such deduction shall be made in such manner and at such times as the Secretary shall by regulations prescribe. Such regulations shall be prescribed only after consultation with the Railroad Retirement Board.
 
 (2) The Secretary of the Treasury shall, from time to time, transfer from the Railroad Retirement Account to the Federal Supplementary Medical Insurance Trust Fund the aggregate amount deducted under paragraph (1) for the period to which such transfer relates. Such transfers shall be made on the basis of a certification by the Railroad Retirement Board and shall be appropriately adjusted to the extent that prior transfers were too great or too small.
 
@@ -42,7 +42,7 @@ In the case of an individual who is enrolled under the program established by th
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–485 effective as if included in the enactment of the 
 
 Amendment by section 2354(b)(11) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
-Amendment by section 2663(j)(2)(F)(ii) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of lawinvolved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 2663(j)(2)(F)(ii) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1974 Amendment
 

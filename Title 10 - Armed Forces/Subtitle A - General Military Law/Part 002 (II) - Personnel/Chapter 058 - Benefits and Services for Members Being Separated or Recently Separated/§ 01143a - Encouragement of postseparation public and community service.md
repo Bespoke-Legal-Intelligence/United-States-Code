@@ -6,7 +6,7 @@ In General.—The Secretary of Defense shall implement a program to encourage me
 
 (b)
 
-Personnel Registry.—The Secretary shall maintain a registry of members and former members of the armed forces discharged or released from active duty who request registration for assistance in pursuing public and community service job opportunities. The registry shall include information on the particular job skills, qualifications, and experience of the registered personnel.
+Personnel Registry.—The Secretary shall maintain a registry of members and former members of the armed forces discharged or released from active duty who request registration for assistance in pursuing public and community service job opportunities. The registry shall include information on the particular job skills,qualifications, and experience of the registered personnel.
 
 (c)
 
@@ -130,7 +130,7 @@ Recomputation of Retired Pay.—(1) If a member or former member of the Armed Fo
 
 “(b)
 
-SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section.
+SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section.
 
 “(2) In this subsection, the term ‘Survivor Benefit Plan’ means the plan established under subchapter II of chapter 73 of title 10, United States Code.”
 

@@ -22,7 +22,7 @@ For purposes of section 1441a–2 of this title:
 
 &emsp;&emsp;(B) real property improved with 1- to 4-family or multifamily residential dwellings,
 
-> &emsp;which are located within the jurisdiction of the applicable State housing finance authority or within the geographical area served by the nonprofit entity.
+> &emsp;which are located within the jurisdiction of the applicable State housing finance authorityor within the geographical area served by the nonprofit entity.
 
 #### (4) Net income
 

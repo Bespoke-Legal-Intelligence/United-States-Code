@@ -4,11 +4,9 @@ In this chapter, the following definitions apply:
 
 &emsp;(1) The term “coastal fishery management plan” means a plan for managing a coastal fishery resource, or an amendment to such plan, prepared and adopted by the Commission, that—
 
-&emsp;&emsp;(A) contains information regarding the status of the resource and related fisheries;
+&emsp;&emsp;(A) contains information regarding the status of the resource and related fisheries; and
 
-&emsp;&emsp;(B) specifies conservation and management actions to be taken by the States; and
-
-&emsp;&emsp;(C) recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.
+&emsp;&emsp;(B) specifies conservation and management actions to be taken by the States.
 
 &emsp;(2) The term “coastal fishery resource” means any fishery, any species of fish, or any stock of fish that moves among, or is broadly distributed across, waters under the jurisdiction of two or more States or waters under the jurisdiction of one or more States and the exclusive economic zone.
 
@@ -18,7 +16,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(5) The term “Councils” means Regional Fishery Management Councils established under section 1852 of this title.
 
-&emsp;(6) The term “exclusive economic zone” means the exclusive economic zone of the United States established by Proclamation Number 5030, dated March 10, 1983. For the purposes of this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of that zone is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.
+&emsp;(6) The term “exclusive economic zone” means the exclusive economic zone of the United States established by Proclamation Number 5030, dated March 10, 1983. For the purposes of this chapter, the inner boundary of that zone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of that zone is a line drawn in such a manner that each point on itis 200 nautical miles from the baseline from which the territorial sea is measured.
 
 &emsp;(7) The term “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal life other than marine mammals and birds.
 
@@ -48,7 +46,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(13) The term “State” means Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, Florida, the District of Columbia, or the Potomac River Fisheries Commission.
 
-(Pub. L. 103–206, title VIII, §803, Dec. 20, 1993, 107 Stat. 2448.)
+(Pub. L. 103–206, title VIII, §803, Dec. 20, 1993, 107 Stat. 2448; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §404(a), Oct. 11, 1996, 110 Stat. 3619.)
 
 #### References in Text
 
@@ -57,4 +55,14 @@ Public Law 77–539, referred to in par. (3), is act May 4, 1942, ch. 283, 56 St
 Public Law 81–721, referred to in par. (3), is act Aug. 19, 1950, ch. 763, 64 Stat. 467, which is not classified to the Code.
 
 Proclamation Number 5030, referred to in par. (6), is set out as a note under section 1453 of this title.
+
+#### Amendments
+
+1996—Par. (1). Pub. L. 104–297 inserted “and” after semicolon in subpar. (A), substituted “States.” for “States; and” in subpar. (B), and struck out subpar. (C) which read as follows: “recommends actions to be taken by the Secretary in the exclusive economic zone to conserve and manage the fishery.”
+
+Par. (5). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 

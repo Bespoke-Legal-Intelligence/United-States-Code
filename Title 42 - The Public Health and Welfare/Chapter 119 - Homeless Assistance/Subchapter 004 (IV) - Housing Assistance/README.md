@@ -6,7 +6,7 @@ Pub. L. 101–625, title VIII, §§821, 823, Nov. 28, 1990, 104 Stat. 4331, 4355
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1437d, 1437f, 3535, 11304, 12839, 12899d of this title; title 12 sections 1441a, 1831q.
+This subchapter is referred to in sections 3535, 11304, 12839, 12899d of this title; title 12 sections 1441a, 1831q; title 25 section 4183.
 
 
 ---

@@ -14,7 +14,7 @@ Claim for credit or refund of an overpayment of any tax imposed by this title in
 
 #### (A) Limit where claim filed within 3-year period
 
-&emsp;&emsp;If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the taxpaid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
+&emsp;&emsp;If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the tax paid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
 
 #### (B) Limit where claim not filed within 3-year period
 
@@ -66,7 +66,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the allowance of a credit or refund of an overpayment of tax attributable to a net operating loss carryback or a capital loss carryback is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises), such credit or refund may be allowed or made, if claim therefor is filed within the period provided in subparagraph (A) of this paragraph.
+&emsp;&emsp;&emsp;If the allowance of a credit or refund of an overpayment of tax attributable to anet operating loss carryback or a capital loss carryback is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises), such credit or refund may be allowed or made, if claim therefor is filed within the period provided in subparagraph (A) of this paragraph.
 
 #### (ii) Tentative carryback adjustments
 
@@ -110,7 +110,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (6) Special period of limitation with respect to amounts included in income subsequently recaptured under qualified plan termination
 
-&emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of the recapture, under section 4045 of the Employee Retirement Income SecurityAct of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
+&emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A onaccount of the recapture, under section 4045 of the Employee Retirement Income Security Act of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
 
 #### \[(e) Repealed. Pub. L. 101–508, title XI, §11801(c)(22)(C), Nov. 5, 1990, 104 Stat. 1388–528\]
 
@@ -184,7 +184,7 @@ Subsec. (h)(3). Pub. L. 98–369, §714(p)(2)(G), amended par. (3) generally. Pr
 
 Subsecs. (i), (j). Pub. L. 98–369, §735(c)(14), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to a special rule for certain tread rubber tax credits or refunds.
 
-1982—Subsec. (g). Pub. L. 97–248 substituted “Special rule for claims with respect to partnership items” for “Special rule for partnership items of federally registered partnerships” in heading and, in text, substituted provisions that, in the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsecs. (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter for provisions that (1) in the case of any tax imposed by subtitle A with respect to any person, the period for filing a claim for credit or refund of any overpayment attributable to any partnership item of a federally registered partnership would not expire before the later of (A) the date which was 4 years after the date prescribed by law (including extensions thereof) for filing the partnership return for the partnership taxable year in which the item arose, or (B) if an agreement under the provisions of section 6501(c)(4) extending the period for the assessment of any deficiency attributable to such partnership item was made before the date specified in subpar. (A), the date 6 months after the expiration of such extension, with the amount of the credit or refund allowed to exceed the portion of the tax paid within the period provided in subsec. (b)(2) or (c), whichever was applicable, and (2) for purposes of this subsec., the terms “partnership item” and “federally registered partnership” would have the same meanings as such terms had when used in section 6501(<i>o).</i>
+1982—Subsec. (g). Pub. L. 97–248 substituted “Special rule for claims with respect to partnership items” for “Special rule for partnership items of federally registered partnerships” in heading and, in text, substituted provisions that, in the case of any tax imposed by subtitle A with respect to any person which is attributable to any partnership item (as defined in section 6231(a)(3)), the provisions of section 6227 and subsecs. (c) and (d) of section 6230 shall apply in lieu of the provisions of this subchapter for provisions that (1) in the case of any tax imposed by subtitle A with respect to any person, the period for filing a claim for credit or refund of any overpayment attributable to any partnership item of a federally registered partnership would not expire before the later of (A) the date which was 4 years after the date prescribed by law (including extensions thereof) for filing the partnership return for the partnership taxable year in which the item arose, or (B) if an agreement under the provisions of section 6501(c)(4) extending the period for the assessment of any deficiency attributable to such partnership item was made before the date specified in subpar. (A), the date 6 months after the expiration of such extension, with the amount of the credit or refund allowed to exceed the portion of the tax paid within the period provided in subsec. (b)(2) or (c), whichever was applicable, and (2) for purposes of this subsec., the terms “partnership item” and “federally registered partnership” would have the same meanings as such terms had when used in section 6501(<i>o</i>).
 
 1981—Subsec. (d)(4)(C). Pub. L. 97–34, §331(d)(2)(A), inserted reference to employee stock ownership credit carryback.
 
@@ -312,7 +312,7 @@ Amendment by section 331(d)(2)(A) of Pub. L. 97–34 applicable to taxable years
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–598 effective on first day of first calendar month which begins more than 10 days after Dec. 24, 1980, see section 1(e) of Pub. L. 96–598, set out as a note under section 4071 of this title.
+Amendment by Pub. L. 96–598 effective on first day of first calendar month which begins more than 10 daysafter Dec. 24, 1980, see section 1(e) of Pub. L. 96–598, set out as a note under section 4071 of this title.
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 

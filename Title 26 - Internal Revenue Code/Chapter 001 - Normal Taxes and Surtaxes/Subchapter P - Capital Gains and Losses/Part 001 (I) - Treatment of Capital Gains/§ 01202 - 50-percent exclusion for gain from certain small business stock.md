@@ -138,7 +138,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) activities with respect to in-house research expenses described in section 41(b)(4),
 
-> &emsp;assets used in such activities shall be treated as used in the active conduct of a qualified trade or business. Any determination under this paragraph shall be made without regardto whether a corporation has any gross income from such activities at the time of the determination.
+> &emsp;assets used in such activities shall be treated as used in the active conduct of a qualified trade or business. Any determination under this paragraph shall be made without regard to whether a corporation has any gross income from such activities at the time of the determination.
 
 #### (3) Qualified trade or business
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a corporation with respect to which an election under section 936 is in effect or which has a direct or indirect subsidiary with respect to which such an election is in effect,
 
-&emsp;&emsp;(C) a regulated investment company, real estate investment trust, or REMIC, and
+&emsp;&emsp;(C) a regulated investment company, real estate investment trust, REMIC, or FASIT, and
 
 &emsp;&emsp;(D) a cooperative.
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (f) Stock acquired on conversion of other stock
 
-If any stock in a corporation is acquired solely through the conversion of other stock in such corporation which is qualified small business stock in the hands of the taxpayer—
+If any stock in a corporation is acquired solely through the conversion of other stock in suchcorporation which is qualified small business stock in the hands of the taxpayer—
 
 &emsp;(1) the stock so acquired shall be treated as qualified small business stock in the hands of the taxpayer, and
 
@@ -326,17 +326,25 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867.)
 
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1993, referred to in subsecs. (c)(1) and (d)(1)(A), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
-Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(2)(B)(ii), is classified to section 681(d) of Title 15, Commerce and Trade.
+Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(2)(B)(ii), was classified to section 681(d) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
 #### Prior Provisions
 
 A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(b)(33)(M), 90 Stat. 1802; Nov. 6, 1978, Pub. L. 95–600, title IV, §402(a), 92 Stat. 2867; Apr. 1, 1980, Pub. L. 96–222, title I, §104(a)(2)(A), 94 Stat. 214, authorized deduction for capital gains, prior to repeal by Pub. L. 99–514, title III, §301(a), (c), Oct. 22, 1986, 100 Stat. 2216, 2218, applicable to taxable years beginning after Dec. 31, 1986.
+
+#### Amendments
+
+1996—Subsec. (e)(4)(C). Pub. L. 104–188 substituted “REMIC, or FASIT” for “or REMIC”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
 
 #### Effective Date
 

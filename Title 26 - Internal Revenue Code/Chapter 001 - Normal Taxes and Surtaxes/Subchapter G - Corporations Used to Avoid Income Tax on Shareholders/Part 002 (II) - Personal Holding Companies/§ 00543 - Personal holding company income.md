@@ -32,7 +32,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 &emsp;&emsp;&emsp;(i) the dividends paid during the taxable year (determined under section 562),
 
-&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(c) <sup>1</sup> (as limited by the second sentence of section 563(b)), and
+&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(d) (as limited by the second sentence of section 563(b)), and
 
 &emsp;&emsp;&emsp;(iii) the consent dividends for the taxable year (determined under section 565),
 
@@ -80,7 +80,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 > &emsp;&emsp;equals or exceeds 25 percent of the amount by which the ordinary gross income exceeds the sum of the royalties paid or accrued and the amounts allowable as deductions under section 167 (relating to depreciation) with respect to copyright royalties.
 
-> &emsp;For purposes of this subsection, the term “copyright royalties” means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term “shareholder” shall include any person who owns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
+> &emsp;For purposes of this subsection, the term “copyright royalties” means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue ofany international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term “shareholder” shall include any person who owns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
 
 #### (5) Produced film rents
 
@@ -90,7 +90,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 #### (6) Use of corporate property by shareholder
 
-&emsp;&emsp;(A) Amounts received as compensation (however designated and from whomever received) for the use of, or the right to use, tangible property of the corporation in any case where, at any time during the taxable year, 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for an individualentitled to the use of the property (whether such right is obtained directly from the corporation or by means of a sublease or other arrangement).
+&emsp;&emsp;(A) Amounts received as compensation (however designated and from whomever received) for the use of, or the right to use, tangible property of the corporation in any case where, at any time during the taxable year, 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for an individual entitled to the use of the property (whether such right is obtained directly from the corporation or by means of a sublease or other arrangement).
 
 &emsp;&emsp;(B) Subparagraph (A) shall apply only to a corporation which has personal holding company income in excess of 10 percent of its ordinary gross income.
 
@@ -126,7 +126,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) all gains (other than those referred to in subparagraph (A)) from the sale or other disposition of property described in section 1231(b), and
 
-&emsp;&emsp;(C) in the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), all items of income which would, but for this subparagraph, constitute personal holding company income under any paragraph of subsection (a) other than paragraph (7) thereof: <sup>2</sup>
+&emsp;&emsp;(C) in the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), all items of income which would, but for this subparagraph, constitute personal holding company income under any paragraph of subsection (a) other than paragraph (7) thereof: <sup>1</sup>
 
 #### (2) Adjusted ordinary gross income
 
@@ -170,7 +170,7 @@ For purposes of this part—
 
 #### (D) Certain excluded rents
 
-&emsp;&emsp;From the gross income consisting of compensation described in subparagraph (D) of paragraph (3) subtract the amount allowableas deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to such gross income. The amount subtracted under this subparagraph shall not exceed such gross income.
+&emsp;&emsp;From the gross income consisting of compensation described in subparagraph (D) of paragraph (3) subtract the amount allowable as deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to such gross income. The amount subtracted under this subparagraph shall not exceed such gross income.
 
 #### (3) Adjusted income from rents
 
@@ -226,7 +226,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;The requirements of this paragraph are met if—
 
-&emsp;&emsp;&emsp;(i) the sum of the deductions allowable to the corporation under sections 162, 174, and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
+&emsp;&emsp;&emsp;(i) the sum of the deductions allowable to the corporation under sections 162, 174,and 195 for the taxable year which are properly allocable to the trade or business described in paragraph (2) equals or exceeds 25 percent of the ordinary gross income of such corporation for such taxable year, or
 
 &emsp;&emsp;&emsp;(ii) the average of such deductions for the 5-taxable year period ending with such taxable year equals or exceeds 25 percent of the average ordinary gross income of such corporation for such period.
 
@@ -252,7 +252,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;&emsp;(i) the dividends paid during the taxable year (determined under section 562),
 
-&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(c) <sup>3</sup> (as limited by the second sentence of section 563(b)), and
+&emsp;&emsp;&emsp;(ii) the dividends considered as paid on the last day of the taxable year under section 563(c) <sup>2</sup> (as limited by the second sentence of section 563(b)), and
 
 &emsp;&emsp;&emsp;(iii) the consent dividends for the taxable year (determined under section 565),
 
@@ -288,15 +288,17 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 186; Apr. 22, 1960, Pub. L. 86–435, §1(a), (b), 74 Stat. 77; Feb. 2, 1962, Pub. L. 87–403, §3(c), 76 Stat. 6; Feb. 26, 1964, Pub. L. 88–272, title II, §225(d), (k)(2), 78 Stat. 81, 93; Aug. 22, 1964, Pub. L. 88–484, §3(a), 78 Stat. 598; Nov. 13, 1966, Pub. L. 89–809, title I, §104(h)(2), title II, §206(a), (b), 80 Stat. 1559, 1578, 1579; Oct. 4, 1976, Pub. L. 94–455, title II, §211(a), title XIX, §§1901(b)(32)(D), 1906(b)(13)(A), title XXI, §2106(a), 90 Stat. 1544, 1800, 1834, 1902; Oct. 19, 1976, Pub. L. 94–553, §105(d), 90 Stat. 2599; Sept. 3, 1982, Pub. L. 97–248, title II, §222(e)(6), 96 Stat. 480; July 18, 1984, Pub. L. 98–369, div. A, title VII, §712(i)(3), 98 Stat. 948; Oct. 22, 1986, Pub. L. 99–514, title VI, §645(a)(1), (2), (4), title XVIII, §1899A(18), 100 Stat. 2289, 2291, 2959; Nov. 10, 1988, Pub. L. 100–647, title I, §1010(f)(5), title VI, §6279(a), 102 Stat. 3454, 3754.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 186; Apr. 22, 1960, Pub. L. 86–435, §1(a), (b), 74 Stat. 77; Feb. 2, 1962, Pub. L. 87–403, §3(c), 76 Stat. 6; Feb. 26, 1964, Pub. L. 88–272, title II, §225(d), (k)(2), 78 Stat. 81, 93; Aug. 22, 1964, Pub. L. 88–484, §3(a), 78 Stat. 598; Nov. 13, 1966, Pub. L. 89–809, title I, §104(h)(2), title II, §206(a), (b), 80 Stat. 1559, 1578, 1579; Oct. 4, 1976, Pub. L. 94–455, title II, §211(a), title XIX, §§1901(b)(32)(D), 1906(b)(13)(A), title XXI, §2106(a), 90 Stat. 1544, 1800, 1834, 1902; Oct. 19, 1976, Pub. L. 94–553, §105(d), 90 Stat. 2599; Sept. 3, 1982, Pub. L. 97–248, title II, §222(e)(6), 96 Stat. 480; July 18, 1984, Pub. L. 98–369, div. A, title VII, §712(i)(3), 98 Stat. 948; Oct. 22, 1986, Pub. L. 99–514, title VI, §645(a)(1), (2), (4), title XVIII, §1899A(18), 100 Stat. 2289, 2291, 2959; Nov. 10, 1988, Pub. L. 100–647, title I, §1010(f)(5), title VI, §6279(a), 102 Stat. 3454, 3754; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(6), 110 Stat. 1887.)
 
 #### References in Text
 
 Section 3(a)(4) and (5) of the Securities and Exchange Act of 1934, referred to in subsec. (a)(1)(D), is classified to section 78c(a)(4) and (5) of Title 15, Commerce and Trade.
 
-Section 563(c), referred to in subsecs. (a)(2)(B)(ii) and (d)(5)(A)(ii), was redesignated section 563(d) of this title by Pub. L. 101–239, title VII, §7401(b)(1), Dec. 19, 1989, 103 Stat. 2356.
+Section 563(c), referred to in subsec. (d)(5)(A)(ii), was redesignated section 563(d) of this title by Pub. L. 101–239, title VII, §7401(b)(1), Dec. 19, 1989, 103 Stat. 2356.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(B)(ii). Pub. L. 104–188 substituted “563(d)” for “563(c)”.
 
 1988—Subsec. (a)(1)(D). Pub. L. 100–647, §6279(a), added subpar. (D).
 
@@ -368,7 +370,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certain partial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
+Amendment by Pub. L. 97–248 applicable to distributions after Aug. 31, 1982, with exceptions for certainpartial liquidations, see section 222(f) of Pub. L. 97–248, set out as a note under section 302 of this title.
 
 #### Effective Date of 1976 Amendments
 
@@ -390,7 +392,7 @@ Section 206(c) of Pub. L. 89–809 provided that: “The amendments made by subs
 
 Section 3(b) of Pub. L. 88–484 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) ofPub. L. 88–272, set out as a note under section 316 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -478,9 +480,7 @@ Unincorporated business enterprises electing to be taxed as domestic corporation
 
 This section is referred to in sections 542, 544, 545, 553, 864, 992, 1202, 6501 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The colon probably should be a period.</i>
 
-<i><sup>2</sup></i><i> So in original. The colon probably should be a period.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ In carrying out the provisions of the preceding subsection the Administrator is 
 
 &emsp;(5) establish and maintain research fellowships, in the Environmental Protection Agency and at public or nonprofit private educational institutions or research organizations;
 
-&emsp;(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having related responsibilities, basic data on chemical, physical, and biological effects of varying air quality and other information pertaining to air pollution and the prevention and control thereof;
+&emsp;(6) collect and disseminate, in cooperation with other Federal departments and agencies, and with other public or private agencies, institutions, and organizations having relatedresponsibilities, basic data on chemical, physical, and biological effects of varying air quality and other information pertaining to air pollution and the prevention and control thereof;
 
 &emsp;(7) develop effective and practical processes, methods, and prototype devices for the prevention or control of air pollution; and
 
@@ -70,7 +70,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(B) An evaluation, within 12 months after November 15, 1990, of each of the hazardous air pollutants listed under section 7412(b) of this title, to decide, on the basis of available information, their relative priority for preparation of environmental health assessments pursuant to subparagraph (C). The evaluation shall be based on reasonably anticipated toxicity to humans and exposure factors such as frequency of occurrence as an air pollutant and volume of emissions in populated areas. Such evaluation shall be reviewed by the Interagency Task Force established pursuant to subparagraph (A).
 
-&emsp;(C) Preparation of environmental health assessments for each of the hazardous air pollutants referred to in subparagraph (B), beginning 6 months after the first meeting of the Interagency Task Force and to be completed within 96 months thereafter. No fewer than 24 assessments shall be completed and published annually. The assessments shall be prepared in accordance with guidelines developed by the Administrator in consultation with the Interagency Task Force and the Science Advisory Board of the Environmental Protection Agency. Each such assessment shall include—
+&emsp;(C) Preparation of environmental health assessments for each of the hazardous air pollutants referred to in subparagraph (B), beginning 6 months after the first meeting of the Interagency Task Force and to be completed within 96 months thereafter. No fewer than 24 assessments shall be completed and published annually. The assessments shall be prepared in accordance with guidelines developed by theAdministrator in consultation with the Interagency Task Force and the Science Advisory Board of the Environmental Protection Agency. Each such assessment shall include—
 
 &emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure which pose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
 
@@ -130,7 +130,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
-&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
+&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10\(particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
 &emsp;(2) Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
 
@@ -142,7 +142,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 #### (h) NIEHS studies
 
-(1) The Director of the National Institute of Environmental Health Sciences may conduct aprogram of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
+(1) The Director of the National Institute of Environmental Health Sciences may conduct a program of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
 
 (2) The Director of the National Institute of Environmental Health Sciences shall conduct a program for the education and training of physicians in environmental health.
 
@@ -180,7 +180,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
-&emsp;(C) Publication and maintenance of a National Acid Lakes Registry that tracks the condition and change over time of a statistically representative sample of lakes in regions that are known to be sensitive to surface water acidification.
+&emsp;(C) Publication and maintenance of a National Acid Lakes Registry that tracks thecondition and change over time of a statistically representative sample of lakes in regions that are known to be sensitive to surface water acidification.
 
 &emsp;(D) Submission every two years of a unified budget recommendation to the President for activities of the Federal Government in connection with the research program described in this subsection.
 

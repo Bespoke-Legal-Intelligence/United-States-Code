@@ -24,7 +24,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 &emsp;&emsp;(A) as of the time the contract is issued, and
 
-&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other thanparagraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
+&emsp;&emsp;(B) by applying the rules of section 7702(b)(2) and of section 7702(e) (other than paragraph (2)(C) thereof), except that the death benefit provided for the 1st contract year shall be deemed to be provided until the maturity date without regard to any scheduled reduction after the 1st 7 contract years.
 
 #### (2) Reduction in benefits during 1st 7 years
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (C) Interest returned includible in gross income
 
-&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned asprovided in subparagraph (B) shall be includible in the gross income of the recipient.
+&emsp;&emsp;Notwithstanding the provisions of section 72(e), the amount of any interest returned as provided in subparagraph (B) shall be includible in the gross income of the recipient.
 
 #### (2) Contract year
 
@@ -176,5 +176,5 @@ Special rule for annuity contracts.—In the case of annuity contracts, the amen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 72 of this title.
+This section is referred to in sections 72, 817A of this title.
 

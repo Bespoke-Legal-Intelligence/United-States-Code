@@ -50,7 +50,7 @@ The records required by subsection (a) and a copy of each report required by sub
 
 &emsp;&emsp;<b>For penalty and forfeiture for refusal or neglect to keep records required under this section, or for false entries therein, see sections 5603 and 5615(5).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1361; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(e), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(25), July 26, 1979, 93 Stat. 283; Pub. L. 98–369, div. A, title IV, §454(c)(6), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1361; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(e), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(25), July 26, 1979, 93 Stat.283; Pub. L. 98–369, div. A, title IV, §454(c)(6), July 18, 1984, 98 Stat. 821.)
 
 #### Prior Provisions
 
@@ -76,7 +76,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 637, 63
 
 Subsec. (b). Pub. L. 96–39 redesignated subsec. (c) as (b) and struck out “or (b)” after “subsection (a)”. Former subsec. (b), relating to records of rectifiers and bottlers, was struck out.
 
-Subsec. (c). Pub. L. 96–39 redesignated subsec. (d) as (c), struck out “and (b),” after “subsection (a)”, andsubstituted “subsection (b)” for “subsection (c)”. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 96–39 redesignated subsec. (d) as (c), struck out “and (b),” after “subsection (a)”, and substituted “subsection (b)” for “subsection (c)”. Former subsec. (c) redesignated (b).
 
 Subsecs. (d), (e). Pub. L. 96–39 redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1431, 1704c, 1705, 1731, 1732, 1736a, 1736d, 1736f, 1736f–1, 1736bb–6, 1743 of this title; title 10 section 2681; title 46 App. sections 1241f, 1241u.
+This subchapter is referred to in sections 1431, 1704c, 1731, 1732, 1734, 1736, 1736a, 1736f, 1736f–1, 1743 of this title; title 10 section 2681; title 46 App. sections 1241f, 1241u.
 
 
 ---

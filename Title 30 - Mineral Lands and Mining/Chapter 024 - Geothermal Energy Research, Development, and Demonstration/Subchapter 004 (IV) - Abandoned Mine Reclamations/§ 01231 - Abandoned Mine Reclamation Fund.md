@@ -82,7 +82,7 @@ Subsec. (c)(10) to (12). Pub. L. 101–508, §6002(b)(5), added pars. (10) and (
 
 Subsec. (e). Pub. L. 101–508, §6002(c), added subsec. (e).
 
-1984—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
+1984—Subsec. (c)(1). Pub. L. 98–473 inserted at end “and establishment of self-sustaining, individual State administered programs to insure private propertyagainst damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;”.
 
 #### Effective Date of 1990 Amendment
 
@@ -94,7 +94,7 @@ Section 6013 of Pub. L. 101–508 provided that: “Nothing in this subtitle \[s
 
 #### Abandoned Mine Reclamation Research and Development
 
-Pub. L. 99–509, title III, §3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that: “After the enactment of this Act, the research and demonstration authorities of the Department of the Interior under the provisions ofsection 401(c)(6) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[30 U.S.C. 1231(c)(6)\] shall be transferred to, and carried out by, the Director of the United States Bureau of Mines. Research and demonstration projects under such provision shall be selected by a panel appointed by the Director of the United States Bureau of Mines to be comprised of 9 persons, including 4 representatives of State abandoned mine reclamation programs, 4 representatives of the United States Bureau of Mines, and one representative of the Office of Surface Mining Reclamation and Enforcement.”
+Pub. L. 99–509, title III, §3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that: “After the enactment of this Act, the research and demonstration authorities of the Department of the Interior under the provisions of section 401(c)(6) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[30 U.S.C. 1231(c)(6)\] shall be transferred to, and carried out by, the Director of the United States Bureau of Mines. Research and demonstration projects under such provision shall be selected by a panel appointed by the Director of the United States Bureau of Mines to be comprised of 9 persons, including 4 representatives of State abandoned mine reclamation programs, 4 representatives of the United States Bureau of Mines, and one representative of the Office of Surface Mining Reclamation and Enforcement.”
 
 #### Section Referred to in Other Sections
 

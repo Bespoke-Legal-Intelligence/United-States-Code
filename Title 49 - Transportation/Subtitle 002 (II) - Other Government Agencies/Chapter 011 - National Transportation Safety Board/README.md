@@ -20,6 +20,7 @@
 | [1116\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001116%20-%20Reports%20and%20studies.md) | Reports and studies. |
 | [1117\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001117%20-%20Annual%20report.md) | Annual report. |
 | [1118\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001118%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1119\.](Subchapter%20002%20%28II%29%20-%20Organization%20and%20Administrative/%C2%A7%2001119%20-%20Accident%20and%20safety%20data%20classification%20and%20publication.md) | Accident and safety data classification and publication. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,6 +33,7 @@
 | [1133\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001133%20-%20Review%20of%20other%20agency%20action.md) | Review of other agency action. |
 | [1134\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001134%20-%20Inspections%20and%20autopsies.md) | Inspections and autopsies. |
 | [1135\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001135%20-%20Secretary%20of%20Transportation%27s%20responses%20to%20safety%20recommendations.md) | Secretary of Transportation's responses to safety recommendations. |
+| [1136\.](Subchapter%20003%20%28III%29%20-%20Authority/%C2%A7%2001136%20-%20Assistance%20to%20families%20of%20passengers%20involved%20in%20aircraft%20accidents.md) | Assistance to families of passengers involved in aircraft accidents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -49,7 +51,9 @@
 
 #### Amendments
 
-1994—Pub. L. 103–272, §1(c), (d), July 5, 1994, 108 Stat. 745, added subtitle II (comprised of chapter 11,§§1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§31501–31504) of subtitle VI, as enacted by Pub. L. 103–272, §1(e).
+1996—Pub. L. 104–264, title IV, §407(a)(2), title VII, §702(a)(2), Oct. 9, 1996, 110 Stat. 3258, 3267, added items 1119 and 1136.
+
+1994—Pub. L. 103–272, §1(c), (d), July 5, 1994, 108 Stat. 745, added subtitle II (comprised of chapter 11, §§1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§31501–31504) of subtitle VI, as enacted by Pub. L. 103–272, §1(e).
 
 #### Chapter Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 &emsp;(A) who is assigned to duty inside the United States;
 
-&emsp;(B) who is authorized to receive the basic allowance for quarters at the rate establishedfor a member with dependents solely by reason of the payment of child support by the member; and
+&emsp;(B) who is authorized to receive the basic allowance for quarters at the rate established for a member with dependents solely by reason of the payment of child support by the member; and
 
 &emsp;(C) who is not assigned to a housing facility under the jurisdiction of a uniformed service,
 
@@ -46,21 +46,33 @@
 
 &emsp;&emsp;(B) the member (i) is assigned to duty outside the United States or in Alaska or Hawaii, and (ii) is authorized a station housing allowance under section 405 of this title; or
 
-&emsp;&emsp;(C) the member is assigned to sea duty and elects not to occupy assigned quarters for unaccompanied personnel, unless the member is in a pay grade above E–6;
+&emsp;&emsp;(C) the member is assigned to sea duty and elects not to occupy assigned quarters for unaccompanied personnel, unless the member is in a pay grade above E–4;
 
 &emsp;(3) in the case of a member of a reserve component, while on active duty under a call or order to active duty specifying a period of less than 140 days, unless the call or order to active duty is in support of a contingency operation; or
 
 &emsp;(4) unless the member makes an annual certification (in accordance with such regulations as the Secretary of Defense may prescribe) to the Secretary concerned identifying the housing costs of the member.
 
-(c)(1) The monthly amount of a variable housing allowance under this section for a member of a uniformed service with respect to an area is the difference between (A) the median monthly cost of housing in that area for members of the uniformed services serving in the same pay grade and with the same dependency status as that member, and (B) 80 percent of the median monthly cost of housing in the United States for members of the uniformed services serving in the same pay grade and with the same dependency status as that member.
+(c)(1) The monthly amount of a variable housing allowance under this section for a member of a uniformed service with respect to an area is equal to the greater of the following amounts:
+
+&emsp;(A) An amount equal to the difference between—
+
+&emsp;&emsp;(i) the median monthly cost of housing in that area for members of the uniformed services serving in the same pay grade and with the same dependency status as that member; and
+
+&emsp;&emsp;(ii) 80 percent of the median monthly cost of housing in the United States for members of the uniformed services serving in the same pay grade and with the same dependency status as that member.
+
+&emsp;(B) An amount equal to the difference between—
+
+&emsp;&emsp;(i) the adequate housing allowance floor determined by the Secretary of Defense for all members of the uniformed services in that area entitled to a variable housing allowance under this section; and
+
+&emsp;&emsp;(ii) the monthly basic allowance for quarters for members of the uniformed services serving in the same pay grade and with the same dependency status as that member.
 
 (2) The rates of variable housing allowance shall be reduced as necessary to comply with subsection (d).
 
-(3) The effective date of any adjustment in rates of variable housing allowance because of a redetermination of median monthly costs of housing under this subsection shall be the same as the effective date of the next increase after such redetermination in the basic allowances for quarters.
+(3) The effective date of any adjustment in rates of variable housing allowance because of a redetermination of median monthly costs of housing under paragraph (1)(A) or the minimum amount of a variable housing allowance under paragraph (1)(B) shall be the same as the effective date of the next increase after such redetermination in the basic allowances for quarters. However, so long as a member of a uniformed service retains uninterrupted eligibility to receive a variable housing allowance within an area and the member's certified housing costs are not reduced (as indicated by certifications provided by the member under subsection (b)(4)), the monthly amount of a variable housing allowance under this section for the member within that area may not be reduced as a result of systematic adjustments required by changes in housing costs within that area.
 
 (4) For the purposes of this section, an area shall be considered to be a high housing cost area with respect to a member of a uniformed service whenever the median monthly cost of housing in that area for members of the uniformed services serving in the same pay grade and with the same dependency status as that member exceeds 80 percent of the median monthly cost of housing in the United States for members of the uniformed services serving in the same pay grade and with the same dependency status as that member.
 
-(5) Any reduction required under paragraph (2) and any determination of median monthly costs of housing under this subsection shall be made under regulations prescribed under subsection (e).
+(5) Any reduction required under paragraph (2) and any determination of median monthly costs of housing or minimum amount of a variable housing allowance under this subsection shall be made under regulations prescribed under subsection (e).
 
 (6)(A) The monthly variable housing allowance that would otherwise be paid to a member under this section shall be reduced by an amount equal to one-half of the amount (if any) by which—
 
@@ -74,6 +86,14 @@
 
 &emsp;(ii) the monthly variable housing allowance prescribed for the same grade as such member for the area in which the member is assigned to duty (or in the area in which the dependents of the member reside, as appropriate).
 
+(7)(A) For purposes of paragraph (1)(B)(i), the Secretary of Defense shall establish an adequate housing allowance floor for members of the uniformed services in an area as a selected percentage, not to exceed 85 percent, of the cost of adequate housing in that area based on an index of housing costs selected by the Secretary of Defense from among the following:
+
+&emsp;(i) The fair market rentals established annually by the Secretary of Housing and Urban Development under section 8(c)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(c)(1)).
+
+&emsp;(ii) An index developed in the private sector that the Secretary of Defense determines is comparable to the fair market rentals referred to in clause (i) and is appropriate for use to determine the adequate housing allowance floor.
+
+(B) The Secretary of Defense shall carry out this paragraph in consultation with the Secretary of Transportation, the Secretary of Commerce, and the Secretary of Health and Human Services.
+
 (d)(1) The total amount that may be paid for a fiscal year for the variable housing allowance authorized members of the uniformed services by this section is the product of—
 
 &emsp;(A) the total amount authorized to be paid for such allowance for the preceding fiscal year (as adjusted under paragraph (3)); and
@@ -86,7 +106,7 @@
 
 (2) The military housing cost index is the housing component of the Consumer Price Index (as determined by the Bureau of Labor Statistics of the Department of Labor), as adjusted under regulations prescribed under subsection (e). Such regulations may assign weights to the elements of that housing component other than those assigned by the Secretary of Labor in order more appropriately to reflect the distribution of elements of housing costs of members of the uniformed services.
 
-(3) In making a determination under paragraph (1) for a fiscal year, the amount authorized to be paid for the preceding fiscal year for the variable housing allowance shall be adjusted to reflect changes during the year for which the determination is made in the number, grade distribution, and dependency status of members of the uniformed services entitled to variable housing allowance from the number of such members during the preceding fiscal year. Adjustments under this paragraph shall be made in accordance with regulations prescribed under subsection (e).
+(3) In making a determination under paragraph (1) for a fiscal year, the amount authorized to be paid for the preceding fiscal year for the variable housing allowance shall be adjusted to reflect changes during the year for which the determination is made in the number, grade distribution, and dependency status of members of the uniformed services entitled to variable housing allowance from the number of such members during the preceding fiscal year. In addition, the total amount determined under paragraph (1) shall be adjusted to ensure that sufficient amounts are available to allow payment of any additional amounts of variable housing allowance necessary as a result of the requirements of paragraph (1)(B) of subsection (c) and the second sentence of paragraph (3) of that subsection. Adjustments under this paragraph shall be made in accordance with regulations prescribed under subsection (e).
 
 (e)(1) The Secretary of Defense may prescribe regulations for the administration of this section.
 
@@ -100,9 +120,25 @@
 
 (f) The monthly rate of a variable housing allowance for members of the uniformed services in the same pay grade and dependency status in an area may not be reduced pursuant to subsection (c)(2), a redetermination of median monthly costs of housing under that subsection, or any other law to the extent that the total amount of monthly basic pay, basic allowance for quarters, basic allowance for subsistence, and variable housing allowance for that grade and status is reduced, as a result of such a reduction in variable housing allowance, below the monthly total of those items of pay and allowances for the month preceding the effective date of the most recent increase in the rate of basic pay for that grade.
 
-(Added Pub. L. 98–525, title VI, §602(d)(1), Oct. 19, 1984, 98 Stat. 2534; amended Pub. L. 99–145, title VI, §§602(a)–(d), 604(b), Nov. 8, 1985, 99 Stat. 636–638; Pub. L. 100–26, §8(e)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §602(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §602, Nov. 5, 1990, 104 Stat. 1575; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§603, 604(b), 633, Dec. 5, 1991, 105 Stat. 1373, 1374, 1381; Pub. L. 103–160, div. A, title VI, §604, Nov. 30, 1993, 107 Stat. 1679.)
+(Added Pub. L. 98–525, title VI, §602(d)(1), Oct. 19, 1984, 98 Stat. 2534; amended Pub. L. 99–145, title VI, §§602(a)–(d), 604(b), Nov. 8, 1985, 99 Stat. 636–638; Pub. L. 100–26, §8(e)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §602(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §602, Nov. 5, 1990, 104 Stat. 1575; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§603, 604(b), 633, Dec. 5, 1991, 105 Stat. 1373, 1374, 1381; Pub. L. 103–160, div. A, title VI, §604, Nov. 30, 1993, 107 Stat. 1679; Pub. L. 104–106, div. A, title VI, §605(a)(1), (b), Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §§604(d), 606(a)–(d), Sept. 23, 1996, 110 Stat. 2541, 2542.)
 
 #### Amendments
+
+1996—Subsec. (b)(2)(C). Pub. L. 104–201, §604(d), substituted “E–4” for “E–6”.
+
+Subsec. (c)(1). Pub. L. 104–201, §606(a), added par. (1) and struck out former par. (1) which read as follows: “The monthly amount of a variable housing allowance under this section for a member of a uniformed service with respect to an area is the difference between (A) the median monthly cost of housing in that area for members of the uniformed services serving in the same pay grade and with the same dependency status as that member, and (B) 80 percent of the median monthly cost of housing in the United States for members of the uniformed services serving in the same pay grade and with the same dependency status as that member.”
+
+Subsec. (c)(3). Pub. L. 104–201, §606(d)(1), substituted “paragraph (1)(A) or the minimum amount of a variable housing allowance under paragraph (1)(B)” for “this subsection” in first sentence.
+
+Pub. L. 104–106, §605(a)(1), inserted at end “However, so long as a member of a uniformed service retains uninterrupted eligibility to receive a variable housing allowance within an area and the member's certified housing costs are not reduced (as indicated by certifications provided by the member under subsection (b)(4)), the monthly amount of a variable housing allowance under this section for the member within that area may not be reduced as a result of systematic adjustments required by changes in housing costs within that area.”
+
+Subsec. (c)(5). Pub. L. 104–201, §606(d)(2), inserted “or minimum amount of a variable housing allowance” after “costs of housing”.
+
+Subsec. (c)(7). Pub. L. 104–201, §606(b), added par. (7).
+
+Subsec. (d)(3). Pub. L. 104–201, §606(c), substituted “paragraph (1)(B) of subsection (c) and the second sentence of paragraph (3) of that subsection” for “the second sentence of subsection (c)(3)”.
+
+Pub. L. 104–106, §605(b), inserted after first sentence “In addition, the total amount determined under paragraph (1) shall be adjusted to ensure that sufficient amounts are available to allow payment of any additional amounts of variable housing allowance necessary as a result of the requirements of the second sentence of subsection (c)(3).”
 
 1993—Subsec. (b)(2)(C). Pub. L. 103–160 added subpar. (C).
 
@@ -138,13 +174,21 @@ Subsec. (a)(4). Pub. L. 99–145, §602(a), added par. (4).
 
 Subsec. (b). Pub. L. 99–145, §602(b)(1), substituted “may not be paid” for “is not entitled to” in provisions preceding par. (1).
 
-Subsec. (b)(2). Pub. L. 99–145, §602(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a member with dependents, if the member (A) is assigned to unaccompanied personnel housing of the United States (or an unaccompanied personnel housing facility under the jurisdiction of a uniformed service) appropriate to his grade, rank, or rating and adequate for himself, and (B) is authorized the basic allowance for quarters at the rate established fora member with dependents solely by reason of a court order requiring the member to pay support for dependents; or”
+Subsec. (b)(2). Pub. L. 99–145, §602(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a member with dependents, if the member (A) is assigned to unaccompanied personnel housing of the United States (or an unaccompanied personnel housing facility under the jurisdiction of a uniformed service) appropriate to his grade, rank, or rating and adequate for himself, and (B) is authorized the basic allowance for quarters at the rate established for a member with dependents solely by reason of a court order requiring the member to pay support for dependents; or”
 
 Subsec. (c)(1), (4). Pub. L. 99–145, §602(c)(1), inserted “and with the same dependency status” after “in the same pay grade” wherever appearing.
 
 Subsec. (c)(6). Pub. L. 99–145, §602(c)(2), added par. (6).
 
 Subsec. (e)(1). Pub. L. 99–145, §602(d), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+#### Effective Date of 1996 Amendments
+
+Amendment by section 604(d) of Pub. L. 104–201 effective July 1, 1997, see section 604(e) of Pub. L. 104–201, set out as a note under section 403 of this title.
+
+Section 606(e) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1997, except that the Secretary of Defense may delay implementation of the requirements imposed by the amendments to such later date as the Secretary considers appropriate upon publication of notice to that effect in the Federal Register.”
+
+Section 605(a)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply for fiscal years after fiscal year 1995.”
 
 #### Effective Date of 1991 Amendment
 
@@ -184,7 +228,7 @@ Section 602(f) of Pub. L. 98–525, as amended by Pub. L. 99–145, title VI, §
 
 &emsp;“(ii) the expiration of the four-year period beginning on the date of the enactment of the Department of Defense Authorization Act, 1986 \[Nov. 8, 1985\].
 
-“(C) A member who is entitled to a station housing allowance by reason of subparagraph (A) shall not be entitled to a variable housing allowance, except that such a member serving an unaccompanied tour of duty in Alaska or Hawaii may be paid a variable housing allowance based on the residence of the member's dependents in another State.
+“(C) A member who is entitled to a station housing allowance by reason of subparagraph (A) shall not be entitled to a variable housing allowance, except thatsuch a member serving an unaccompanied tour of duty in Alaska or Hawaii may be paid a variable housing allowance based on the residence of the member's dependents in another State.
 
 “(3) For the period beginning on January 1, 1985, and ending on September 30, 1985, the limitation applicable under subsection (d)(1) of section 403a of title 37, United States Code (as added by subsection (d)), on the total amount that may be paid during a fiscal year for the variable housing allowance authorized members of the uniformed services by that section shall be 15 percent of the median annual costs of housing in the United States for members of the uniformed services as measured during fiscal year 1984. In determining for the purposes of clause (A) of such subsection the total amount authorized to be paid for such allowance for fiscal year 1985, such amount shall be determined as if the amendments made by this section took effect on October 1, 1984.”
 
@@ -214,5 +258,5 @@ Section 1111(b) of Pub. L. 101–510, as amended by Pub. L. 102–25, title III,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 403 of this title; title 2 section 906; title 10 section 7572.
+This section is referred to in section 403 of this title; title 2 section 906; title 10 sections 2882, 7572; title 14 section 686.
 

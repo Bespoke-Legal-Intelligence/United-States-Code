@@ -2,9 +2,9 @@
 
 #### (a) Amount available; formula for computation of payment; improved program integrity and meal quality; use for costs of administration of programs for which allocation made; retention of funds by Secretary
 
-(1) Each fiscal year, the Secretary shall make available to the States for their administrative costs an amount equal to not less than 11/2 percent of the Federal funds expended under sections 4, 11, and 17 of the National School Lunch Act \[42 U.S.C. 1753, 1759a, 1766\] and 1772 and 1773 of this title during the second preceding fiscal year. The Secretary shall allocate the funds so provided in accordance with paragraphs (2), (3), and (4) of this subsection. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
+(1) Each fiscal year, the Secretary shall make available to the States for their administrativecosts an amount equal to not less than 11/2 percent of the Federal funds expended under sections 4, 11, and 17 of the National School Lunch Act \[42 U.S.C. 1753, 1759a, 1766\] and 1772 and 1773 of this title during the second preceding fiscal year. The Secretary shall allocate the funds so provided in accordance with paragraphs (2), (3), and (4) of this subsection. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-(2) The Secretary shall allocate to each State for administrative costs incurred in any fiscal year in connection with the programs authorized under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] or under this chapter, except for the programs authorized under section 13 or 17 of the National School Lunch Act \[42 U.S.C. 1761, 1766\] or under section 1786 of this title, an amount equal to not less than 1 percent and not more than 11/2 percent of the funds expended byeach State under sections 4 and 11 of the National School Lunch Act \[42 U.S.C. 1753, 1759a\] and sections 1772 and 1773 of this title during the second preceding fiscal year. In no case shall the grant available to any State under this subsection be less than the amount such State was allocated in the fiscal year ending September 30, 1981, or $100,000, whichever is larger.
+(2) The Secretary shall allocate to each State for administrative costs incurred in any fiscal year in connection with the programs authorized under the National School Lunch Act \[42 U.S.C. 1751 et seq.\] or under this chapter, except for the programs authorized under section 13 or 17 of the National School Lunch Act \[42 U.S.C. 1761, 1766\] or under section 1786 of this title, an amount equal to not less than 1 percent and not more than 11/2 percent of the funds expended by each State under sections 4 and 11 of the National School Lunch Act \[42 U.S.C. 1753, 1759a\] and sections 1772 and 1773 of this title during the second preceding fiscal year. In no case shall the grant available to any State under this subsection be less than the amount such State was allocated in the fiscal year ending September 30, 1981, or $100,000, whichever is larger.
 
 (3) The Secretary shall allocate to each State for its administrative costs incurred under the program authorized by section 17 of the National School Lunch Act \[42 U.S.C. 1766\] in any fiscal year an amount, based upon funds expended under that program in the second preceding fiscal year, equal to (A) 20 percent of the first $50,000, (B) 10 percent of the next $100,000, (C) 5 percent of the next $250,000, and (D) 21/2 percent of any remaining funds. If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5). The Secretary may adjust any State's allocation to reflect changes in the size of its program.
 
@@ -42,31 +42,23 @@ If any State agency agrees to assume responsibility for the administration of fo
 
 Notwithstanding any other provision of law, funds made available to each State under this section shall remain available for obligation and expenditure by that State during the fiscal year immediately following the fiscal year for which such funds were made available. For each fiscal year the Secretary shall establish a date by which each State shall submit to the Secretary a plan for the disbursement of funds provided under this section for each such year, and the Secretary shall reallocate any unused funds, as evidenced by such plans, to other States as the Secretary considers appropriate.
 
-#### (e) Commodity distribution program
+#### (e) State plan; use of funds
 
-The State may use a portion of the funds available under this section to assist in the administration of the commodity distribution program.
+Each State shall submit to the Secretary for approval by October 1 of the initial fiscal year a plan for the use of State administrative expense funds, including a staff formula for State personnel, system level supervisory and operating personnel, and school level personnel. After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.
 
-#### (f) State plan; use of funds
-
-Each State shall submit to the Secretary for approval by October 1 of each year an annual plan for the use of State administrative expense funds, including a staff formula for State personnel, system level supervisory and operating personnel, and school level personnel.
-
-#### (g) State funding requirement
+#### (f) State funding requirement
 
 Payments of funds under this section shall be made only to States that agree to maintain a level of funding out of State revenues, for administrative costs in connection with programs under this chapter (except section 1786 of this title) and the National School Lunch Act \[42 U.S.C. 1751 et seq.\] (except section 13 of that Act \[42 U.S.C. 1761\]), not less than the amount expended or obligated in fiscal year 1977, and that agree to participate fully in any studies authorized by the Secretary.
 
-#### (h) State participation in study or survey requirement
-
-The Secretary may not provide amounts under this section to a State for administrative costs incurred in any fiscal year unless the State agrees to participate in any study or survey of programs authorized under this chapter or the National School Lunch Act (42 U.S.C. 1751 et seq.) and conducted by the Secretary.
-
-#### (i) Authorization of appropriations
+#### (g) Authorization of appropriations
 
 For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 1998, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
 
-(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737.)
+(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302.)
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsecs. (a)(2), (4), (7), (8), (9)(A), (g), and (h), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The National School Lunch Act, referred to in subsecs. (a)(2), (4), (7), (8), (9)(A) and (f), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Codification
 
@@ -74,7 +66,17 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1994—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B of the National School Lunch Act” for “projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
+1996—Subsec. (e). Pub. L. 104–193, §724(b), substituted “the initial fiscal year a plan” for “each year an annual plan” and inserted at end “After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.”
+
+Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The State may use a portion of the funds available under this section to assist in the administration of the commodity distribution program.”
+
+Subsecs. (f), (g). Pub. L. 104–193, §724(a)(2), redesignated subsecs. (g) and (i) as (f) and (g), respectively. Former subsec. (f) redesignated (e).
+
+Subsec. (h). Pub. L. 104–193, §724(a)(1), struck out subsec. (h) which read as follows: “The Secretary may not provide amounts under this section to a State for administrative costs incurred in any fiscal year unless the State agrees to participate in any study or survey of programs authorized under this chapter or the National School Lunch Act (42 U.S.C. 1751 et seq.) and conducted by the Secretary.”
+
+Subsec. (i). Pub. L. 104–193, §724(a)(2), redesignated subsec. (i) as (g).
+
+1994—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B of the National School Lunch Act” for “projects undersection 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
 
 Subsec. (a)(9). Pub. L. 103–448, §202(a), added par. (9).
 

@@ -16,9 +16,7 @@ To carry out the purposes of subsection (a) of this section, the Secretary is au
 
 &emsp;(4) where necessary to carry out the purposes of this chapter, acquire by lease, purchase, donation, exchange, or transfer, lands, waters, and interests therein which are situated outside the boundary of a unit of the national park system, which property shall be administered as part of the unit: <i>Provided</i>, That any land or interests in land owned by a State or any of its political subdivisions may be acquired only by donation: <i>Provided further</i>, That any land acquisition shall be subject to such statutory limitations, if any, on methods of acquisition and appropriations thereof as may be specifically applicable to such area.
 
-#### (c) Prerequisites for acquisitions
-
-Acquisitions pursuant to subsection (b)(3) and (4) of this section shall not commence prior to sixty days (not counting days on which the Senate or the House of Representatives has adjourned for more than three consecutive days) from the time the Secretary has submitted a detailed proposal for such acquisitions to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+#### (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(A), Nov. 12, 1996, 110 Stat. 4195
 
 #### (d) Appropriation of fees collected and covered into Planning, Development, and Operation of Recreational Facilities appropriation account
 
@@ -36,7 +34,7 @@ Transportation facilities and services provided pursuant to this chapter shall n
 
 No grant of authority in this chapter shall be deemed to expand the exemption of section 10526(a)(9) <sup>1</sup> of title 49.
 
-(Pub. L. 95–344, title III, §302, Aug. 15, 1978, 92 Stat. 478; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584.)
+(Pub. L. 95–344, title III, §302, Aug. 15, 1978, 92 Stat. 478; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(A), Nov. 12, 1996, 110 Stat. 4195.)
 
 #### References in Text
 
@@ -46,11 +44,9 @@ Section 10526(a)(9) of title 49, referred to in subsec. (g), was omitted in the 
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–333 struck out subsec. (c) which read as follows: “Acquisitions pursuant to subsection (b)(3) and (4) of this section shall not commence prior to sixty days (not counting days on which the Senate or the House of Representatives has adjourned for more than three consecutive days) from the time the Secretary has submitted a detailed proposal for such acquisitions to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.”
+
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
-
-#### Change of Name
-
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Section Referred to in Other Sections
 

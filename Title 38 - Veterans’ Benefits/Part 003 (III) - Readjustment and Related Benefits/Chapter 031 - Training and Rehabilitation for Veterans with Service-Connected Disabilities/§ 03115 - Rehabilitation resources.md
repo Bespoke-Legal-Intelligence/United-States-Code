@@ -34,7 +34,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–446, §602(a)(1)(A), struck out “or” after “(including the Department ofVeterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
+1994—Subsec. (a)(1). Pub. L. 103–446, §602(a)(1)(A), struck out “or” after “(including the Department of Veterans Affairs),” and inserted “or of any federally recognized Indian tribe,” after “financial assistance,”.
 
 Subsec. (a)(4). Pub. L. 103–446, §602(a)(1)(B), inserted “any federally recognized Indian tribe,” after “contributions,”.
 
@@ -56,5 +56,5 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3108 of this title.
+This section is referred to in sections 1151, 3108 of this title.
 

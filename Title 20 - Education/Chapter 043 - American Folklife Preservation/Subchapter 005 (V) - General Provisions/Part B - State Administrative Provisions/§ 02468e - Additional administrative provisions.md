@@ -16,7 +16,7 @@ Any project assisted with funds made available under subchapter II of this chapt
 
 (1) Vocational education services and activities authorized in subchapter II of this chapter may include work-site programs such as cooperative vocational education, programs with community-based organizations, work-study, and apprenticeship programs.
 
-(2) Vocational education services and activities described in subchapter II of this chapter may include placement services for students who have successfully completed vocational education programs.
+(2) Vocational education services and activities described in subchapter II of this chaptermay include placement services for students who have successfully completed vocational education programs.
 
 (3) Vocational education services and activities described in subchapter II of this chapter may include programs which involve students in addressing the needs of the community in the production of goods or services which contribute to the community's welfare or which involve the students with other community development planning, institutions, and enterprises.
 

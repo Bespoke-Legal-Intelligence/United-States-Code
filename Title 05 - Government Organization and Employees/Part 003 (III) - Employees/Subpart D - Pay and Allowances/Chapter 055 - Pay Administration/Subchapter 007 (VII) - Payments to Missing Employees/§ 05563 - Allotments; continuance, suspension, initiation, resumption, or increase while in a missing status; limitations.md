@@ -12,7 +12,7 @@
 
 (f) When the head of the agency concerned officially reports that an employee in a missing status is alive, an allotment under subsections (a)–(d) of this section may be paid, subject to section 5562 of this title, until the date the head of the agency concerned receives evidence that the employee is dead or has returned to the controllable jurisdiction of the agency concerned.
 
-(g) When an employee in a missing status is continued in that status under section 5565 of this title, an allotment under subsections (a)–(d) of this section may be continued, increased, or initiated.
+(g) When an employee in a missing status is continued in that status under section 5565 ofthis title, an allotment under subsections (a)–(d) of this section may be continued, increased, or initiated.
 
 (h) When the head of the agency concerned considers it essential for the well-being and protection of the dependents of an employee in active service (other than an employee in a missing status), he may, with or without the consent of the employee and subject to termination on specific request of the employee—
 
@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 

@@ -1,12 +1,22 @@
 ### §12122. Penalties
 
-(a) A person that violates this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $500. Each day of continuing violation is a separate violation.
+(a) A person that violates this chapter or a regulation prescribed under this chapter is liable to the United States Government for a civil penalty of not more than $10,000. Each day of continuing violation is a separate violation.
 
-(b) When the owner of a vessel knowingly falsifies or conceals a material fact, or makes a false statement or representation about the documentation of the vessel, that vessel and its equipment are liable to seizure by and forfeiture to the United States Government.
+(b) A vessel and its equipment are liable to seizure by and forfeiture to the United States Government—
 
-(c) When a certificate of documentation is knowingly and fraudulently used for a vessel,that vessel and its equipment are liable to seizure by and forfeiture to the Government.
+&emsp;(1) when the owner of a vessel or the representative or agent of the owner knowingly falsifies or conceals a material fact, or knowingly makes a false statement or representation about the documentation or when applying for documentation of the vessel;
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590; Pub. L. 99–307, §1(16), May 19, 1986, 100 Stat. 446.)
+&emsp;(2) when a certificate of documentation is knowingly and fraudulently used for a vessel;
+
+&emsp;(3) when a vessel is operated after its endorsement has been denied or revoked under section 12123 of this title;
+
+&emsp;(4) when a vessel is employed in a trade without an appropriate trade endorsement;
+
+&emsp;(5) when a documented vessel with only a recreational endorsement is operated other than for pleasure; or
+
+&emsp;(6) when a documented vessel, other than a vessel with only a recreational endorsement, is placed under the command of a person not a citizen of the United States.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 590; Pub. L. 99–307, §1(16), May 19, 1986, 100 Stat. 446; Pub. L. 104–324, title III, §301(a), (b), Oct. 19, 1996, 110 Stat. 3916.)
 
 Historical and Revision Notes
 
@@ -30,5 +40,15 @@ Section 12122 provides a civil penalty of not more than $500 for each violation 
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–324, §301(a), substituted “$10,000” for “$500”.
+
+Subsec. (b). Pub. L. 104–324, §301(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When the owner of a vessel knowingly falsifies or conceals a material fact, or makes a false statement or representation about the documentation of the vessel, that vessel and its equipment are liable to seizure by and forfeiture to the United States Government.”
+
+Subsec. (c). Pub. L. 104–324, §301(b)(2), struck out subsec. (c) which read as follows: “When a certificate of documentation is knowingly and fraudulently used for a vessel, that vessel and its equipment are liable to seizure by and forfeiture to the Government.”
+
 1986—Subsec. (a). Pub. L. 99–307 inserted provision that each day of continuing violation is a separate violation.
+
+#### Application of Section to Fishing Vessels in California
+
+Citizen of the United States to include an alien lawfully admitted for permanent residence, for purposes of applying subsec. (b) of this section to vessels operating in waters off the coast of California, subject to United States jurisdiction, see section 317 of Pub. L. 101–595, as amended, set out as a note under section 8103 of this title.
 

@@ -24,21 +24,27 @@ Regular Special Pay.—Each of the following officers is entitled to special pay
 
 Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) of this title, an officer described in paragraph (2) may be paid retention special pay of not more than $6,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
 
-(2) An officer referred to in paragraph (1) is an officer of an armed force who—
+(2) An officer referred to in paragraph (1) is an officer of a uniformed service who—
 
 &emsp;(A) is entitled to special pay under subsection (a);
 
 &emsp;(B) has completed any initial active-duty service commitment incurred for education and training; and
 
-&emsp;(C) is determined by the Secretary of the military department concerned to be qualified as an optometrist.
+&emsp;(C) is determined by the Secretary concerned to be qualified as an optometrist.
 
 (3) An officer may not be paid retention special pay under paragraph (1) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
-(4) The Secretary of the military department concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.
+(4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.
 
-(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578.)
+(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544.)
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–201, §614(a)(1)(A), substituted “a uniformed service” for “an armed force” in introductory provisions.
+
+Subsec. (b)(2)(C). Pub. L. 104–201, §614(a)(1)(B), struck out “of the military department” before “concerned to be”.
+
+Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out “of the military department” before “concerned may terminate”.
 
 1990—Pub. L. 101–510 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

@@ -12,7 +12,7 @@
 
 &emsp;(2) identify, by position title, positions which are proposed to be designated as or removed from designation as career reserved positions, and set forth justifications for such proposed actions.
 
-(c) The Office of Personnel Management, in consultation with the Office of Management and Budget, shall review the request of each agency and shall authorize, for each of the 2 fiscal years covered by requests required under subsection (a) of this section, a specific number of Senior Executive Service positions for each agency.
+(c) The Office of Personnel Management, in consultation with the Office of Management andBudget, shall review the request of each agency and shall authorize, for each of the 2 fiscal years covered by requests required under subsection (a) of this section, a specific number of Senior Executive Service positions for each agency.
 
 (d)(1) The Office of Personnel Management may, on a written request of an agency or on its own initiative, make an adjustment in the number of positions authorized for any agency. Each agency request under this paragraph shall be submitted in such form, and shall be based on such factors, as the Office shall prescribe.
 

@@ -26,7 +26,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 &emsp;&emsp;&emsp;(i) any penalty required under section 1359a(d) of title 7; or
 
-&emsp;&emsp;&emsp;(ii) any requirement under Marketing Agreement No. 146, Regulating the Quality of Domestically Produced Peanuts, on peanuts in the domestic market, pursuant to section 1445c–3(f) of title 7.
+&emsp;&emsp;&emsp;(ii) any requirement under Marketing Agreement No. 146, Regulating the Quality of Domestically Produced Peanuts, on peanuts in the domestic market, pursuant to section 1445c–3(f) <sup>1</sup> of title 7.
 
 #### (B) Omitted
 
@@ -68,7 +68,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring thatend-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
+&emsp;The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
 
 &emsp;&emsp;(A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States (referred to in this subsection as “United States-produced wheat”); and
 
@@ -151,6 +151,8 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 #### References in Text
 
 This Act, referred to in subsec. (d)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+
+Section 1445c–3(f) of title 7, referred to in subsec. (d)(1)(A)(ii), was repealed by Pub. L. 104–127, title I, §171(b)(2)(E), Apr. 4, 1996, 110 Stat. 938.
 
 #### Codification
 

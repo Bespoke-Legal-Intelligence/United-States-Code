@@ -1,0 +1,20 @@
+### §2781. Transactions with countries not fully cooperating with United States antiterrorism efforts
+
+#### (a) Prohibited transactions
+
+No defense article or defense service may be sold or licensed for export under this chapter in a fiscal year to a foreign country that the President determines and certifies to Congress, by May 15 of the calendar year in which that fiscal year begins, is not cooperating fully with United States antiterrorism efforts.
+
+#### (b) Waiver
+
+The President may waive the prohibition set forth in subsection (a) of this section with respect to a specific transaction if the President determines that the transaction is important to the national interests of the United States.
+
+(Pub. L. 90–629, ch. 3, §40A, as added Pub. L. 104–132, title III, §330, Apr. 24, 1996, 110 Stat. 1258.)
+
+#### Codification
+
+Another section 40A of Pub. L. 90–629 is classified to section 2785 of this title.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State by section 1(n) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+

@@ -20,9 +20,11 @@
 
 &emsp;(A) in line of duty while performing active duty;
 
-&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service); or
+&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
 
-&emsp;(C) while traveling directly to or from such duty or training.
+&emsp;(C) while traveling directly to or from such duty or training; or
+
+&emsp;(D) in line of duty while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
 
 (2) In the case of a member who receives earned income from nonmilitary employment or self-employment performed in any month in which the member is otherwise entitled to pay and allowances under paragraph (1), the total pay and allowances shall be reduced by the amount of such income. In calculating earned income for the purpose of the preceding sentence, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 
@@ -30,9 +32,11 @@
 
 &emsp;(A) in line of duty while performing active duty;
 
-&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service); or
+&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
 
-&emsp;(C) while traveling directly to or from such duty or training.
+&emsp;(C) while traveling directly to or from such duty or training; or
+
+&emsp;(D) in line of duty while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
 
 (2) The monthly entitlement may not exceed the member's demonstrated loss of earned income from nonmilitary or self-employment. In calculating such loss of income, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 
@@ -50,7 +54,7 @@
 
 (j) A member of the uniformed services who is entitled to medical or dental care under section 1074a of title 10 is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, §506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, §1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, §531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, §604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, §631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, §1676(b)(1), Oct. 5, 1994, 108 Stat. 3019.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, §506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, §1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, §531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, §604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, §631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, §1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, §702(c), Feb. 10, 1996, 110 Stat. 371.)
 
 Historical and Revision Notes
 
@@ -62,11 +66,19 @@ Historical and Revision Notes
 
 204(a)
 
+&nbsp;
+
 204(b)
+
+&nbsp;
 
 204(c)
 
+&nbsp;
+
 204(d)
+
+&nbsp;
 
 204(e)
 
@@ -136,6 +148,10 @@ In subsection (i), the inclusion of the Coast Guard Reserve is based on the auth
 
 #### Amendments
 
+1996—Subsec. (g)(1)(D). Pub. L. 104–106, §702(c)(1), added subpar. (D).
+
+Subsec. (h)(1)(D). Pub. L. 104–106, §702(c)(2), added subpar. (D).
+
 1994—Subsec. (a)(2). Pub. L. 103–337 substituted “10302, 10305, 10502, or 12402” for “3021, 3496, 3541, 8021, 8496, or 8541”.
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
@@ -190,7 +206,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 No increase in allowances while dependent entitled to basic pay, see section 421 of this title.
 
-#### Section Referred to in Other Sections
+Section Referred to in Other Sections
 
 This section is referred to in sections 206, 301, 301a, 304, 316, 411h, 421, 707 of this title; title 5 sections 4102, 8334, 8422; title 22 section 4045; title 50 section 2082.
 

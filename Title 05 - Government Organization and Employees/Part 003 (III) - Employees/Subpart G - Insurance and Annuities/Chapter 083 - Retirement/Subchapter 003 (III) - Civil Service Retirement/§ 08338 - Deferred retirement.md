@@ -18,7 +18,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2258.
 
@@ -38,9 +40,9 @@ This section amends 5 U.S.C. 8338(a) for consistency within the subchapter and t
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+1994—Subsec. (c). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-<b>1983</b>—Subsecs. (c), (d). Pub. L. 98–94 added subsec. (c), and redesignated former subsec. (c) as (d).
+1983—Subsecs. (c), (d). Pub. L. 98–94 added subsec. (c), and redesignated former subsec. (c) as (d).
 
 #### Savings Provisions Deferred Annuities Under Laws Repealed by Pub. L. 90–83
 

@@ -16,7 +16,7 @@
 
 &emsp;Except as otherwise provided in this subsection, a plan meets the requirements of this subsection only if—
 
-&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employeeswhich is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
+&emsp;&emsp;(A) each class of benefits under the plan is provided under a classification of employees which is set forth in the plan and which is found by the Secretary not to be discriminatory in favor of employees who are highly compensated individuals, and
 
 &emsp;&emsp;(B) in the case of each class of benefits, such benefits do not discriminate in favor of employees who are highly compensated individuals.
 
@@ -70,7 +70,7 @@
 
 &emsp;In the case of any organization in existence on July 18, 1984, the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
 
-(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472.)
+(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov.10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472.)
 
 #### Amendments
 

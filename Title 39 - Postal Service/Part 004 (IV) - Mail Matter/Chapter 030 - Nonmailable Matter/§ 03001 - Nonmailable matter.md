@@ -2,7 +2,7 @@
 
 (a) Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1714,<sup>1</sup> 1715, 1716, 1717, 1718,<sup>1</sup> or 1738 of title 18, or section 26 of the Animal Welfare Act is nonmailable.
 
-(b) Except as provided in subsection (c) of this section, nonmailable matter which reaches theoffice of delivery, or which may be seized or detained for violation of law, shall be disposed of as the Postal Service shall direct.
+(b) Except as provided in subsection (c) of this section, nonmailable matter which reaches the office of delivery, or which may be seized or detained for violation of law, shall be disposed of as the Postal Service shall direct.
 
 (c)(1) Matter which—
 
@@ -52,7 +52,7 @@
 
 &emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and contains a seal, insignia, trade or brand name, orany other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
 
@@ -114,7 +114,7 @@ Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act
 
 Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuant to section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
 
-Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 #### Effective Date
 
@@ -124,7 +124,7 @@ Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section 1 of Pub. L. 101–524 provided that: “This Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Deceptive Mailings Prevention Act of 1990’.”
 
-Section 1 of Pub. L. 101–493 provided that: “This Act \[amending this section and enacting provisions set outabove\] may be cited as the ‘Drug and Household Substance Mailing Act of 1990’.”
+Section 1 of Pub. L. 101–493 provided that: “This Act \[amending this section and enacting provisions set out above\] may be cited as the ‘Drug and Household Substance Mailing Act of 1990’.”
 
 #### Short Title of 1983 Amendment
 

@@ -20,6 +20,10 @@ The Farm Credit Act Amendments of 1986, referred to in subsec. (c), is subtitle 
 
 Pub. L. 99–205, title IV, §401, Dec. 23, 1985, 99 Stat. 1709, provided that: “The provisions of titles I, II, III, and VI of this Act \[enacting sections 2152, 2161, 2199, 2200, 2216 to 2216k, 2219, 2219a, 2253, 2261 to 2273 of this title and provisions set out as notes under section 2001 of this title, amending sections 2002, 2012, 2013, 2031, 2033, 2034, 2051, 2052, 2054, 2072 to 2074, 2077, 2078, 2091, 2093 to 2096, 2098, 2122 to 2126, 2132 to 2134, 2151, 2153 to 2156, 2182, 2183, 2201, 2202, 2205, 2206, 2211 to 2213, 2221 to 2223, 2227, 2241 to 2246, 2248 to 2252, and 2254 of this title, and repealing sections 2152, 2247, and 2253 of this title\] shall become effective thirty days after enactment \[Dec. 23, 1985\].”
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–105, §1(a), Feb. 10, 1996, 110 Stat. 162, provided that: “This Act \[enacting sections 2214a, 2219e, 2277a–10a, 2277a–10b, 2279bb–7, and 2279cc of this title, amending sections 2013, 2018, 2020, 2129, 2154a, 2199, 2202a, 2252, 2254, 2277a, 2277a–2, 2277a–4, 2277a–5, 2277a–7, 2277a–8, 2277a–10, 2279aa, 2279aa–1, 2279aa–3, 2279aa–5, 2279aa–6, 2279aa–8, 2279aa–9, 2279aa–11 to 2279aa–13, 2279bb–1 to 2279bb–4 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 1999 of Title 7, Agriculture, repealing section 2279aa–7 of this title, and enacting provisions set out as notes under this section and sections 2013 and 2252 of this title\] may be cited as the ‘Farm Credit System Reform Act of 1996’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–376, §1, Oct. 19, 1994, 108 Stat. 3497, provided that: “This Act \[enacting section 2206a of this title and amending sections 2122, 2128, and 2129 of this title\] may be cited as the ‘Farm Credit System Agricultural Export and Risk Management Act’.”
@@ -50,7 +54,9 @@ Pub. L. 96–592, §1, Dec. 24, 1980, 94 Stat. 3437, provided: “That this Act 
 
 Section 1 of Pub. L. 92–181 provided: “That this Act \[enacting this chapter and provisions set out as notes under this section, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and section 393 of this title, and repealing section 636 et seq. of this title\] may be cited as the ‘Farm Credit Act of 1971’.”
 
-#### Regulations; Effective Dates
+#### Regulations
+
+Pub. L. 104–105, title III, §301, Feb. 10, 1996, 110 Stat. 185, provided that: “The Secretary of Agriculture and the Farm Credit Administration shall promulgate regulations and take other required actions to implement the provisions of this Act \[see Short Title of 1996 Amendment note above\] not later than 90 days after the effective date of this Act \[Feb. 10, 1996\].”
 
 Pub. L. 100–233, title IX, §901, Jan. 6, 1988, 101 Stat. 1717, as amended by Pub. L. 100–399, title VIII, §801, Aug. 17, 1988, 102 Stat. 1006, provided that:
 
@@ -72,7 +78,7 @@ Temporary Retention of Certain Regulations.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided in this subsection, the regulations issued by the FarmCredit Administration before the date of the enactment of this Act \[Jan. 6, 1988\] under provisions amended by this Act shall remain in effect, notwithstanding such amendments, until the Farm Credit Administration issues regulations to implement such amendments, but in no event later than 180 days after such date of enactment.
+In general.—Except as otherwise provided in this subsection, the regulations issued by the Farm Credit Administration before the date of the enactment of this Act \[Jan. 6, 1988\] under provisions amended by this Act shall remain in effect, notwithstanding such amendments, until the Farm Credit Administration issues regulations to implement such amendments, but in no event later than 180 days after such date of enactment.
 
 &emsp;“(2)
 
@@ -104,6 +110,54 @@ Section 5.40(a), formerly §5.26(a), of Pub. L. 92–181, as renumbered by Pub. 
 
 Section 5.43, formerly §5.29, of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “The right to alter, amend, or repeal any provision or all of this Act \[this chapter\] is expressly reserved.”
 
+#### Study on Demand for and Availability of Credit in Rural Areas for Agriculture, Housing, and Rural Development
+
+Pub. L. 104–127, title VI, §650, Apr. 4, 1996, 110 Stat. 1105, provided that:
+
+“(a)
+
+In General.—The Secretary of Agriculture shall conduct a study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the demand for and availability of credit in rural areas for agriculture, housing, and rural development.
+
+“(b)
+
+Purpose.—The purpose of the study shall be to ensure that Congress has current and comprehensive information to consider as Congress deliberates on rural credit needs and the availability of credit to satisfy the needs of rural areas of the United States.
+
+“(c)
+
+Items in Study.—In conducting the study, the Secretary shall base the study on the most current available data and analyze—
+
+&emsp;“(1) rural demand for credit from the Farm Credit System, the ability of the Farm Credit System to meet the demand, and the extent to which the Farm Credit System provides loans to satisfy the demand;
+
+&emsp;“(2) rural demand for credit from the United States banking system, the ability of banks to meet the demand, and the extent to which banks provide loans to satisfy the demand;
+
+&emsp;“(3) rural demand for credit from the Secretary, the ability of the Secretary to meet the demand, and the extent to which the Secretary provides loans to satisfy the demand;
+
+&emsp;“(4) rural demand for credit from other Federal agencies, the ability of the agencies to meet the demand, and the extent to which the agencies provide loans to satisfy the demand;
+
+&emsp;“(5) what measure or measures exist to gauge the overall demand for rural credit, the extent to which rural demand for credit is satisfied, and what the measures have demonstrated;
+
+&emsp;“(6) a comparison of the interest rates and terms charged by the Farm Credit System Farm Credit Banks, production credit associations, and banks for cooperatives with the rates and terms charged by the banks of the United States for credit of comparable risk and maturity;
+
+&emsp;“(7) the advantages and disadvantages of the modernization and expansion proposals of the Farm Credit System on the Farm Credit System, the United States banking system, rural users of credit, local rural communities, and the Federal Government, including—
+
+&emsp;&emsp;“(A) any added risk to the safety and soundness of the Farm Credit System that may result from approval of a proposal; and
+
+&emsp;&emsp;“(B) any positive or adverse impacts on competition between the Farm Credit System and the banks of the United States in providing credit to rural users;
+
+&emsp;“(8) the nature and extent of the unsatisfied rural credit need that the Farm Credit System proposals are supposed to address and what aspects of the present Farm Credit System prevent the Farm Credit System from meeting the need;
+
+&emsp;“(9) the advantages and disadvantages of the proposal by commercial bankers to allow banks access to the Farm Credit System as a funding source on the Farm Credit System, the United States banking system, rural users of credit, local rural communities, and the Federal Government, including—
+
+&emsp;&emsp;“(A) any added risk to the safety and soundness of the Farm Credit System that may result from approval of the proposal; and
+
+&emsp;&emsp;“(B) any positive or adverse impacts on competition between the Farm Credit System and the banks of the United States in providing credit to rural users; and
+
+&emsp;“(10) problems that commercial banks have in obtaining capital for lending in rural areas, how access to Farm Credit System funds would improve the availability of capital in rural areas in ways that cannot be achieved in the system in existence on the date of enactment of this Act \[Apr. 4, 1996\], and the possible effects on the viability of the Farm Credit System of granting banks access to Farm Credit System funds.
+
+“(d)
+
+Interagency Task Force.—In completing the study, the Secretary shall use, among other things, data and information obtained by the interagency task force on rural credit.”
+
 #### GAO Study of Rural Credit Cost and Availability
 
 Pub. L. 101–624, title XVIII, §1842, Nov. 28, 1990, 104 Stat. 3835, directed Comptroller General of the United States to conduct a study relating to cost and availability of credit in rural America and, not later than 2 years after Nov. 28, 1990, submit a report to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
@@ -118,5 +172,5 @@ Pub. L. 99–205, title III, §307, Dec. 23, 1985, 99 Stat. 1709, required each 
 
 #### National Commission on Agricultural Finance
 
-Pub. L. 99–205, title V, §501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure,performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
+Pub. L. 99–205, title V, §501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure, performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
 

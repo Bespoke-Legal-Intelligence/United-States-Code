@@ -1,6 +1,6 @@
 ### §1395j. Establishment of supplementary medical insurance program for aged and disabled
 
-There is hereby established a voluntary insurance program to provide medical insurance benefits in accordance with the provisions of this part for aged and disabled individuals who electto enroll under such program, to be financed from premium payments by enrollees together with contributions from funds appropriated by the Federal Government.
+There is hereby established a voluntary insurance program to provide medical insurance benefits in accordance with the provisions of this part for aged and disabled individuals who elect to enroll under such program, to be financed from premium payments by enrollees together with contributions from funds appropriated by the Federal Government.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1831, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 301; amended Oct. 30, 1972, Pub. L. 92–603, title II, §201(a)(3), 86 Stat. 1371.)
 

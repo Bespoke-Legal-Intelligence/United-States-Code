@@ -26,10 +26,8 @@
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>If the farm land is disposed of—</b> | <b>The applicablepercentage is—</b> |
 | :--- | ---: |
-| &nbsp; | <b>The applicable</b> |
-| <b>If the farm land is disposed of—</b> | <b>percentage is—</b> |
 | Within 5 years after the date it was acquired | 100 percent. |
 | Within the sixth year after it was acquired | 80 percent. |
 | Within the seventh year after it was acquired | 60 percent. |

@@ -10,7 +10,7 @@ In any proceeding before the Tax Court involving a notice of deficiency based in
 
 #### (b) Notification by Secretary
 
-Before mailing the notice of deficiency referred to in subsection (a), the Secretary maysend by certified mail or registered mail a notification informing the taxpayer that the proposed notice of deficiency includes an amount with respect to the accumulated earnings tax imposed by section 531.
+Before mailing the notice of deficiency referred to in subsection (a), the Secretary may send by certified mail or registered mail a notification informing the taxpayer that the proposed notice of deficiency includes an amount with respect to the accumulated earnings tax imposed by section 531.
 
 #### (c) Statement by taxpayer
 

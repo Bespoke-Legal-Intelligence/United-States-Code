@@ -2,7 +2,7 @@
 
 There is authorized to be appropriated for fiscal year 1976 and for each subsequent fiscal year—
 
-&emsp;(1) for the annual contribution of the United States toward the maintenance of the Bureau of the Interparliamentary Union for the promotion of international arbitration, an amount equal to 13.61 per centum of the budget of the Interparliamentary Union for the year with respect to which such contribution is to be made if the American group of the Interparliamentary Union has approved such budget; and
+&emsp;(1) for the annual contribution of the United States toward the maintenance of the Bureau of the Interparliamentary Union for the promotion of international arbitration, an amount equal to 13.61 per centum of the budget of the Interparliamentary Union for the year with respect to which such contribution is to be made if the American group of theInterparliamentary Union has approved such budget; and
 
 &emsp;(2) to assist in meeting the expenses of the American group for such fiscal year, $90,000, or so much thereof as may be necessary.
 

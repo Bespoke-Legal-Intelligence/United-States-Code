@@ -2,11 +2,21 @@
 
 (a)(1) Authority provided by law to improve existing military family housing units and ancillary family housing support facilities is authority to make alterations, additions, expansions, and extensions.
 
-(2) In this section, the term “improvement” includes rehabilitation of a housing unit and maintenance or repair work to be accomplished concurrently with an improvement project.
+(2) In this section, the term “improvement” includes rehabilitation of a housing unit and major maintenance or repair work to be accomplished concurrently with an improvement project. Such term does not include day-to-day maintenance and repair work.
 
-(b)(1) Funds may not be expended for the improvement of any single family housing unit, or for the improvement of two or more housing units that are to be converted into or are to be used as a single family housing unit, if the cost per unit of such improvement will exceed (A) $50,000 multiplied by the area construction cost index as developed by the Department of Defense for the location concerned at the time of contract award, or (B) in the case of improvements necessary to make the unit suitable for habitation by a handicapped person, $60,000 multiplied by such index. The Secretary concerned may waive the limitations contained in the preceding sentence if (i) such Secretary determines that, considering the useful life of the structure to be improved and the useful life of a newlyconstructed unit and the cost of construction and of operation and maintenance of each kind of unit over its useful life, the improvement will be cost-effective, and (ii) a period of 21 days elapses after the date on which the Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.
+(b)(1) Funds may not be expended for the improvement of any single family housing unit, or for the improvement of two or more housing units that are to be converted into or are to be used as a single family housing unit, if the cost per unit of such improvement will exceed (A) $50,000 multiplied by the area construction cost index as developed by the Department of Defense for the location concerned at the time of contract award, or (B) in the case of improvements necessary to make the unit suitable for habitation by a handicapped person, $60,000 multiplied by such index. The Secretary concerned may waive the limitations contained in the preceding sentence if (i) such Secretary determines that, considering the useful life of the structure to be improved and the useful life of a newly constructed unit and the cost of construction and of operation and maintenance of each kind of unit over its useful life, the improvement will be cost-effective, and (ii) a period of 21 days elapses after the date on which the appropriate committees of Congress receive a notice from such Secretary of the proposed waiver, together with an economic analysis demonstrating that the improvement will be cost effective.
 
-(2) In determining the applicability of the limitation contained in paragraph (1), there shall be included as part of the cost of the improvement the cost of repairs undertaken in connection with the improvement and any cost in connection with (A) the furnishing of electricity, gas, water and sewage disposal, (B) the construction or repair of roads and walks, and (C) grading and drainage work.
+(2) In determining the applicability of the limitation contained in paragraph (1), the Secretary concerned shall include as part of the cost of the improvement of the unit or units concerned the following:
+
+&emsp;(A) The cost of major maintenance or repair work undertaken in connection with the improvement.
+
+&emsp;(B) Any cost, other than the cost of activities undertaken beyond a distance of five feet from the unit or units concerned, in connection with—
+
+&emsp;&emsp;(i) the furnishing of electricity, gas, water, and sewage disposal;
+
+&emsp;&emsp;(ii) the construction or repair of roads, drives, and walks; and
+
+&emsp;&emsp;(iii) grading and drainage work.
 
 (3) The limitation contained in the first sentence of paragraph (1) does not apply to a project for the improvement of a family housing unit or units referred to in that sentence if the project (including the amount requested for the project) is identified in the budget materials submitted to Congress by the Secretary of Defense in connection with the submission to Congress of the budget for a fiscal year pursuant to section 1105 of title 31.
 
@@ -28,9 +38,15 @@
 
 (d) This section does not apply to projects authorized for restoration or replacement of housing units that have been damaged or destroyed.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 99–661, div. B, title VII, §2702(c), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, §2305, Dec. 4, 1987, 101 Stat. 1215; Pub. L. 101–189, div. B, title XXVIII, §2804, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 101–510, div. B, title XXVIII, §2812, Nov. 5, 1990, 104 Stat. 1788; Pub. L. 102–484, div. B, title XXVIII, §2802(a), Oct. 23, 1992, 106 Stat. 2605; Pub. L. 103–337, div. B, title XXVIII, §2802, Oct. 5, 1994, 108 Stat. 3050.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 159; amended Pub. L. 99–661, div. B, title VII, §2702(c), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, §2305, Dec. 4, 1987, 101 Stat. 1215; Pub. L. 101–189, div. B, title XXVIII, §2804, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 101–510, div. B, title XXVIII, §2812, Nov. 5, 1990, 104 Stat. 1788; Pub. L. 102–484, div. B, title XXVIII, §2802(a), Oct. 23, 1992, 106 Stat. 2605; Pub. L. 103–337, div. B, title XXVIII, §2802, Oct. 5, 1994, 108 Stat. 3050; Pub. L. 104–106, div. A, title XV, §1502(a)(26), Feb. 10, 1996, 110 Stat. 506; Pub. L. 104–201, div. B, title XXVIII, §2803, Sept. 23, 1996, 110 Stat. 2788.)
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–201, §2803(a), inserted “major” before “maintenance or repair” and “Such term does not include day-to-day maintenance and repair work.” at end.
+
+Subsec. (b)(1). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and of the House of Representatives”.
+
+Subsec. (b)(2). Pub. L. 104–201, §2803(b), added par. (2) and struck out former par. (2) which read as follows: “In determining the applicability of the limitation contained in paragraph (1), there shall be included as part of the cost of the improvement the cost of repairs undertaken in connection with the improvement and any cost in connection with (A) the furnishing of electricity, gas, water and sewage disposal, (B) the construction or repair of roads and walks, and (C) grading and drainage work.”
 
 1994—Subsec. (b)(3). Pub. L. 103–337 added par. (3).
 
@@ -45,10 +61,6 @@
 Subsec. (b)(1). Pub. L. 100–180 substituted “$40,000” for “$30,000”.
 
 1986—Subsec. (b)(1). Pub. L. 99–661 substituted “$30,000” for “an amount specified by law for such purpose”.
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Effective Date
 

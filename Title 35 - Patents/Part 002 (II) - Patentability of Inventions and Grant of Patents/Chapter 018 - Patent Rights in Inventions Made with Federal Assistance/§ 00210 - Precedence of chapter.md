@@ -54,9 +54,9 @@
 
 (d) Nothing in this chapter shall be construed to require the disclosure of intelligence sources or methods or to otherwise affect the authority granted to the Director of Central Intelligence by statute or Executive order for the protection of intelligence sources or methods.
 
-(e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980, as amended by the Federal Technology Transfer Act of 1986, shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
+(e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779.)
 
 #### References in Text
 
@@ -74,9 +74,9 @@ Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
-The Federal Technology Transfer Act of 1986, referred to in subsec. (e), is Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 3701 of Title 15 and Tables.
-
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–113 struck out “, as amended by the Federal Technology Transfer Act of 1986,” after “1980”.
 
 1994—Subsec. (a)(4). Pub. L. 103–272 substituted “section 30168(e) of title 49” for “section 106(c) of the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1395(c); 80 Stat. 721)”.
 

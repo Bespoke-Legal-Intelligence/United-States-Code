@@ -32,19 +32,49 @@ It shall be unlawful for any person to place in any newspaper, magazine, handbil
 
 #### (d) Penalties
 
-Any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine of not more than $30,000, or both; except that if any person commits such a violation after one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine of not more than $60,000, or both.
+(1) Except as provided in paragraph (2), any person who violates this section shall be sentenced to a term of imprisonment of not more than 4 years, a fine of not more than $30,000, or both; except that if any person commits such a violation after one or more prior convictions of him for violation of this section, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 8 years, a fine of not more than $60,000, or both.
+
+(2) Any person who, with the intent to manufacture or to facilitate the manufacture of methamphetamine, violates paragraph (6) or (7) of subsection (a) of this section, shall be sentenced to a term of imprisonment of not more than 10 years, a fine of not more than $30,000, or both; except that if any person commits such a violation after one or more prior convictions of that person—
+
+&emsp;(A) for a violation of paragraph (6) or (7) of subsection (a) of this section;
+
+&emsp;(B) for a felony under any other provision of this subchapter or subchapter II of this chapter; or
+
+&emsp;(C) under any other law of the United States or any State relating to controlled substances or listed chemicals,
+
+> has become final, such person shall be sentenced to a term of imprisonment of not more than 20 years, a fine of not more than $60,000, or both.
 
 #### (e) Additional penalties
 
-In addition to any other applicable penalty, any person convicted of a felony violation of this section relating to the receipt, distribution, or importation of a listed chemical may be enjoined from engaging in any regulated transaction involving a listed chemical for not more than ten years.
+In addition to any other applicable penalty, any person convicted of a felony violation of this section relating to the receipt, distribution, manufacture, exportation, or importation of a listed chemical may be enjoined from engaging in any transaction involving a listed chemical for not more than ten years.
 
-(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988.)
+#### (f) Injunctions
+
+(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section or section 842 of this title.
+
+(2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
+
+(3) Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title.
+
+(4) The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
+
+(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103.)
 
 #### References in Text
 
 Schedules I and II, referred to in subsecs. (a)(1) and (c), are set out in section 812(c) of this title.
 
+The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted “Except as provided in paragraph (2), any person” for “Any person”, and added par. (2).
+
+Subsec. (e). Pub. L. 104–237, §206(b)(1), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
+
+Subsec. (f). Pub. L. 104–237, §206(b)(2), added subsec. (f).
 
 1994—Subsecs. (c) to (e). Pub. L. 103–322 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

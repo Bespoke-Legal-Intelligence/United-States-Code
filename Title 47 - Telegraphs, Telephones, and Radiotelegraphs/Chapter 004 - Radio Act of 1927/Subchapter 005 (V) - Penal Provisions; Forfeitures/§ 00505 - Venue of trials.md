@@ -6,7 +6,7 @@ The trial of any offense under this chapter shall be in the district in which it
 
 #### Federal Rules of Criminal Procedure
 
-Special venue provisions of section as unaffected by rule 18, see Notes of Advisory Committee on Rules setout under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
+Special venue provisions of section as unaffected by rule 18, see Notes of Advisory Committee on Rules set out under rule 18, Title 18, Appendix, Crimes and Criminal Procedure.
 
 #### Cross References
 

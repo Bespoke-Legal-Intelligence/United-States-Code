@@ -22,7 +22,7 @@ Apportioning and Transferring Amounts.—The Secretary shall apportion amounts m
 
 (c)
 
-State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providing transportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other United States Government sources.
+State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providingtransportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other United States Government sources.
 
 (d)
 
@@ -30,7 +30,7 @@ Eligible Capital Expenses.—A recipient of amounts under this section may inclu
 
 (e)
 
-Application of Section 5309.—(1) A grant or loan under subsection (a)(1) of this section issubject to all requirements of a grant or loan under section 5309 of this title, and is deemed to have been made under section 5309.
+Application of Section 5309.—(1) A grant or loan under subsection (a)(1) of this section is subject to all requirements of a grant or loan under section 5309 of this title, and is deemed to have been made under section 5309.
 
 (2) A grant or loan under subsection (a)(2) of this section is subject to requirements similar to those under paragraph (1) of this subsection to the extent the Secretary considers appropriate.
 
@@ -58,7 +58,9 @@ Fares Not Required.—This chapter does not require that elderly individuals and
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -68,7 +70,7 @@ Historical and Revision Notes
 
 49 App.:1612(b) (1st sentence words before cl. (1)), cls. (1) (words before 3d comma), (2) (words before “with such grants”).
 
-July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §16(b) (1st sentence); added Oct. 15, 1970, Pub. L. 91–453, §8, 84 Stat. 967; restated Aug. 13, 1973, Pub. L. 93–87, §301(g), 87 Stat. 295; Dec. 18, 1991, Pub. L. 102–240, §3021(1)–(4), 105 Stat. 2110.
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §16(b) (1st sentence); added Oct. 15, 1970, Pub. L. 91–453, §8, 84 Stat. 967; restated Aug. 13, 1973, Pub. L. 93–87, §301(g), 87 Stat. 295; Dec. 18, 1991, Pub. L. 102–240, §3021(1)– (4), 105 Stat. 2110.
 
 5310(b)
 
@@ -130,7 +132,7 @@ In subsection (e)(1), the words “and is deemed” are substituted for “and b
 
 In subsection (e)(2), the words “insofar as may be appropriate” and “necessary or . . . for purposes of this paragraph” are omitted as surplus.
 
-In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
+In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” toeliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
 
 In subsection (g), the words “not later than 60 days following December 18, 1991” are omitted as obsolete. The words “and agencies” are omitted as surplus.
 

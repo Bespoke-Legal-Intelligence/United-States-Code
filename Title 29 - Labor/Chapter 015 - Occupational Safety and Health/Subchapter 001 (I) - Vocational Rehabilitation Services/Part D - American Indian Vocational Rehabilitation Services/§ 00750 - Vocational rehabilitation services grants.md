@@ -14,7 +14,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 &emsp;(C) contains assurances that the application was developed in consultation with the designated State unit of the State.
 
-(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education orto the Secretary of the Interior shall be considered to be a reference to the Commissioner.
+(2) The provisions of sections 450c, 450d, 450e, and 450f(a) of title 25 shall be applicable to any application submitted under this part. For purposes of this paragraph, any reference in any such provision to the Secretary of Education or to the Secretary of the Interior shall be considered to be a reference to the Commissioner.
 
 (3) Any application approved under this part shall be effective for not less than twelve months or more than 36 months, except as determined otherwise by the Commissioner pursuant to prescribed regulations. The State shall continue to provide vocational rehabilitation services under its State plan to American Indians residing on a reservation whenever such State includes any such American Indians in its State population under section 730(a)(1) of this title.
 
@@ -46,7 +46,7 @@ Subsec. (b)(1)(B). Pub. L. 102–569, §102(p)(11), substituted “American Indi
 
 Subsec. (b)(1)(B). Pub. L. 100–630, §202(i)(2), substituted “American Indians with handicaps” for “handicapped American Indians”.
 
-Subsecs. (c) to (e). Pub. L. 100–630, §202(i)(3), which redesignated subsec. (e) as (c) and struck out subsec. (d), was executed without regard to the purported amendment by Pub. L. 95–602 as the probable intent of Congress. Prior to amendment, subsec. (d) read as follows: “For the purpose of computing the allotment of any State under section 730(a) of this title, the number of American Indians residing on a reservation to be served by a grant under this part shall be subtracted from the population used for such State in section 730(a)(1) of this title as follows:
+Subsecs. (c) to (e). Pub. L. 100–630, §202(i)(3), which redesignated subsec. (e) as (c) and struck out subsec. (d), was executed without regard to the purported amendment by Pub. L. 95–602 as the probable intent of Congress. Prior to amendment, subsec. (d) read as follows:“For the purpose of computing the allotment of any State under section 730(a) of this title, the number of American Indians residing on a reservation to be served by a grant under this part shall be subtracted from the population used for such State in section 730(a)(1) of this title as follows:
 
 &emsp;“(1) 33 percent of such American Indians in the first fiscal year during which such Indians are served by grants under this part;
 

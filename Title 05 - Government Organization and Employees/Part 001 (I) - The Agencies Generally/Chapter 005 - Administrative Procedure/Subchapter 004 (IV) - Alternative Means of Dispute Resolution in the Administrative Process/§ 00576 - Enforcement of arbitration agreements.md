@@ -14,9 +14,5 @@ A prior section 576 was renumbered section 596 of this title.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354 renumbered section 586 of this title as this section.
-
-#### Termination Date; Savings Provision
-
-For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
+1992—Pub. L. 102–354 renumbered section 586 of this title as this section.
 

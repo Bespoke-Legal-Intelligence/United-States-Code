@@ -1,0 +1,64 @@
+### §1881c. Fisheries research
+
+#### (a) In general
+
+The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics and social characteristics of the fisheries.
+
+#### (b) Strategic plan
+
+Within one year after October 11, 1996, and at least every 3 years thereafter, the Secretary shall develop and publish in the Federal Register a strategic plan for fisheries research for the 5 years immediately following such publication. The plan shall—
+
+&emsp;(1) identify and describe a comprehensive program with a limited number of priority objectives for research in each of the areas specified in subsection (c) of this section;
+
+&emsp;(2) indicate goals and timetables for the program described in paragraph (1);
+
+&emsp;(3) provide a role for commercial fishermen in such research, including involvement in field testing;
+
+&emsp;(4) provide for collection and dissemination, in a timely manner, of complete and accurate information concerning fishing activities, catch, effort, stock assessments, and other research conducted under this section; and
+
+&emsp;(5) be developed in cooperation with the Councils and affected States, and provide for coordination with the Councils, affected States, and other research entities.
+
+#### (c) Areas of research
+
+Areas of research are as follows:
+
+&emsp;(1) Research to support fishery conservation and management, including but not limited to, biological research concerning the abundance and life history parameters of stocks of fish, the interdependence of fisheries or stocks of fish, the identification of essential fish habitat, the impact of pollution on fish populations, the impact of wetland and estuarine degradation, and other factors affecting the abundance and availability of fish.
+
+&emsp;(2) Conservation engineering research, including the study of fish behavior and the development and testing of new gear technology and fishing techniques to minimize bycatch and any adverse effects on essential fish habitat and promote efficient harvest of target species.
+
+&emsp;(3) Research on the fisheries, including the social, cultural, and economic relationships among fishing vessel owners, crew, United States fish processors, associated shoreside labor, seafood markets and fishing communities.
+
+&emsp;(4) Information management research, including the development of a fishery information base and an information management system under section 1881 of this title that will permit the full use of information in the support of effective fishery conservation and management.
+
+#### (d) Public notice
+
+In developing the plan required under subsection (a) of this section, the Secretary shall consult with relevant Federal, State, and international agencies, scientific and technical experts, and other interested persons, public and private, and shall publish a proposed plan in the Federal Register for the purpose of receiving public comment on the plan. The Secretary shall ensure that affected commercial fishermen are actively involved in the development of the portion of the plan pertaining to conservation engineering research. Upon final publication in the Federal Register, the plan shall be submitted by the Secretary to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives.
+
+(Pub. L. 94–265, title IV, §404, as added Pub. L. 104–297, title II, §205, Oct. 11, 1996, 110 Stat. 3609.)
+
+#### Prior Provisions
+
+A prior section 404 of Pub. L. 94–265, amended section 1362 of this title and enacted provisions formerly set out as a note under section 1362 of this title, prior to being amended generally by Pub. L. 104–297.
+
+#### Study of Contribution of Bycatch to Charitable Organizations
+
+Section 208 of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+
+“(a)
+
+Study.—The Secretary of Commerce shall conduct a study of the contribution of bycatch to charitable organizations by commercial fishermen. The study shall include determinations of—
+
+&emsp;“(1) the amount of bycatch that is contributed each year to charitable organizations by commercial fishermen;
+
+&emsp;“(2) the economic benefits to commercial fishermen from those contributions; and
+
+&emsp;“(3) the impact on fisheries of the availability of those benefits.
+
+“(b)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary of Commerce shall submit to the Congress a report containing determinations made in the study under subsection (a).
+
+“(c)
+
+Bycatch Defined.—In this section the term ‘bycatch’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802\], as amended by section 102 of this Act.”
+

@@ -16,7 +16,9 @@ Maximum Insured Amount.—The insurance policy on an aircraft insured or reinsur
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -20,7 +20,9 @@ Statements Included in Tariffs.—An air carrier and a carrier subject to subtit
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -42,7 +44,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1003(b), 72 Stat. 791.
 
 &nbsp;
 
-49 App.:155(b) (1)(E).
+49 App.:155(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -59,4 +61,8 @@ In subsection (c), the words “or the Interstate Commerce Commission, as the ca
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 40109, 46301 of this title.
 

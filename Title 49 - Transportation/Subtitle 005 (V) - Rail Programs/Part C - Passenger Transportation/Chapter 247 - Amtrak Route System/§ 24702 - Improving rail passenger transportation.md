@@ -36,17 +36,19 @@ State and Local Speed Restrictions.—Amtrak shall—
 
 (c)
 
-High-Speed Rail Transportation Development.—On reasonable request by a State, political subdivision of a State, regional partnership, private sector representative, or other qualified person, Amtrak shall consult and cooperate to the extent feasible with that person to assist the efforts of that person to achieve high-speed rail transportation through equipment upgrades, grade-crossing safety improvements, and incremental infrastructure improvements on existing rail facilities that Amtrak uses (except the Northeast Corridor facilities). Not later than September 30, 1993, Amtrak shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on its efforts under this subsection.
+High-Speed Rail Transportation Development.—On reasonable request by a State, political subdivision of a State, regional partnership, private sector representative, or other qualified person, Amtrak shall consult and cooperate to the extent feasible with that person to assist the efforts of that person to achieve high-speed rail transportation through equipment upgrades, grade-crossing safety improvements, and incremental infrastructure improvements on existing rail facilities that Amtrak uses (except the Northeast Corridor facilities). Not later than September 30, 1993, Amtrak shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on its efforts under this subsection.
 
 (d)
 
 Routes Connecting Corridors.—Amtrak shall begin or improve appropriate rail passenger transportation on a route between corridors that Amtrak decides is justified because it will increase ridership on trains of Amtrak on the route and in the connecting corridors.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 923.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 923; Pub. L. 104–287, §5(48), Oct. 11, 1996, 110 Stat. 3393.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -74,7 +76,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §813; added Oct. 27, 1992, Pub.
 
 45:657.
 
-In subsection (a), before clause (1), the words “its plan, submitted under section 305(f) of the Rail Passenger Service Act” are substituted for “The Corporation shall, not later than January 1, 1981, develop and submit to the Congress and to the President a comprehensive plan” because of the restatement. In clause (4), the words “on all trains” are omitted as surplus. In clause (6), the words “en route” are omitted as surplus. In clause (7), the words “as soon as practical after September 29, 1979” are omitted as executed. The words “acontinuous reduction in losses associated with” are omitted as surplus. In clause (8), the word “authorities” is substituted for “entities” for consistency in the revised title and with other titles of the United States Code. In clause (9), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131. The words “Administrator of the” are added 2 times because of 49:104 and section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086), respectively.
+In subsection (a), before clause (1), the words “its plan, submitted under section 305(f) of the Rail Passenger Service Act” are substituted for “The Corporation shall, not later than January 1, 1981, develop and submit to the Congress and to the President a comprehensive plan” because of the restatement. In clause (4), the words “on all trains” are omitted as surplus. In clause (6), the words “en route” are omitted as surplus. In clause (7), the words “as soon as practical after September 29, 1979” are omitted as executed. The words “a continuous reduction in losses associated with” are omitted as surplus. In clause (8), the word “authorities” is substituted for “entities” for consistency in the revised title and with other titles of the United States Code. In clause (9), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131. The words “Administrator of the” are added 2 times because of 49:104 and section 1(b) of Reorganization Plan No. 3 of 1970 (eff. Dec. 2, 1970, 84 Stat. 2086), respectively.
 
 In subsection (b)(2)(A), the word “particular” is omitted as surplus.
 
@@ -86,7 +88,7 @@ In subsection (c), the word “written” is omitted as surplus and for consiste
 
 Section 305(f) of the Rail Passenger Service Act, referred to in subsec. (a), is section 305(f) of Pub. L. 91–518, which was classified to section 545(f) of Title 45, Railroads, and was repealed and reenacted as subsec. (a) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 923, 1379.
 
-#### Change of Name
+#### Amendments
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives, in case of provisions of law relating to railroads, railway labor, or railroad retirement and unemployment, by section 1(c)(1) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (c). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
 

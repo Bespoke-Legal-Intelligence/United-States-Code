@@ -26,13 +26,13 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(A) households in which 1 or more individuals are receiving—
 
-&emsp;&emsp;&emsp;(i) aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (other than such aid in the form of foster care in accordance with section 408 <sup>1</sup> of such Act) \[42 U.S.C. 608\];
+&emsp;&emsp;&emsp;(i) assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\];
 
 &emsp;&emsp;&emsp;(ii) supplemental security income payments under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\];
 
 &emsp;&emsp;&emsp;(iii) food stamps under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\]; or
 
-&emsp;&emsp;&emsp;(iv) payments under section 1315, 1521, 1541, or 1542 of title 38, or under section 306of the Veterans’ and Survivors’ Pension Improvement Act of 1978; or
+&emsp;&emsp;&emsp;(iv) payments under section 1315, 1521, 1541, or 1542 of title 38, or under section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978; or
 
 &emsp;&emsp;(B) households with incomes which do not exceed the greater of—
 
@@ -62,7 +62,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(C) assure that the home energy supplier will provide assurances that any agreement entered into with a home energy supplier under this paragraph will contain provisions to assure that no household receiving assistance under this subchapter will be treated adversely because of such assistance under applicable provisions of State law or public regulatory requirements; and
 
-&emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, including providing for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>2</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
+&emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, including providing for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
 
 &emsp;(8) provide assurances that (A) the State will not exclude households described in clause (2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
 
@@ -72,7 +72,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
 
-&emsp;(10) provide that such fiscal control and fund accounting procedures will be established asmay be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the “Single Audit Act”);
+&emsp;(10) provide that such fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the “Single Audit Act”);
 
 &emsp;(11) permit and cooperate with Federal investigations undertaken in accordance with section 8627 of this title;
 
@@ -80,7 +80,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(13) provide an opportunity for a fair administrative hearing to individuals whose claims for assistance under the plan described in subsection (c) of this section are denied or are not acted upon with reasonable promptness;
 
-&emsp;(14) cooperate with the Secretary with respect to data collecting and reporting under section 8629 of this title; and <sup>3</sup>
+&emsp;(14) cooperate with the Secretary with respect to data collecting and reporting under section 8629 of this title; and <sup>2</sup>
 
 &emsp;(15) beginning in fiscal year 1992, provide, in addition to such services as may be offered by State Departments of Public Welfare at the local level, outreach and intake functions for crisis situations and heating and cooling assistance that is administered by additional State and local governmental entities or community-based organizations (such as community action agencies, area agencies on aging, and not-for-profit neighborhood-based organizations), and in States where such organizations do not administer intake functions as of September 30, 1991, preference in awarding grants or contracts for intake services shall be provided to those agencies that administer the low-income weatherization or energy crisis intervention programs; and
 
@@ -116,7 +116,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 > The chief executive officer may revise any plan prepared under this paragraph and shall furnish the revised plan to the Secretary.
 
-(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the State involved in such a manner as will facilitatetimely and meaningful review of, and comment upon, such plan or substantial revision.
+(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the State involved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
 
 (3) Not later than April 1 of each fiscal year the Secretary shall make available to the States a model State plan format that may be used, at the option of each State, to prepare the plan required under paragraph (1) for the next fiscal year.
 
@@ -144,7 +144,7 @@ The State shall repay to the United States amounts found not to have been expend
 
 #### (h) Periodic evaluation of expenditures by Comptroller General
 
-The Comptroller General of the United States shall, from time to time <sup>4</sup> evaluate the expenditures by States of grants under this subchapter in order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
+The Comptroller General of the United States shall, from time to time <sup>3</sup> evaluate the expenditures by States of grants under this subchapterin order to assure that expenditures are consistent with the provisions of this subchapter and to determine the effectiveness of the State in accomplishing the purposes of this subchapter.
 
 #### (i) Certain recipients of supplemental security income ineligible for payments or assistance
 
@@ -178,7 +178,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 > for residential weatherization or other energy-related home repair for low-income households.
 
-(B) For purposes of subparagraph (A), the Secretary may grant a waiver to a State for a fiscal year if the State submits a written request tothe Secretary after March 31 of such fiscal year and if the Secretary determines, after reviewing such request and any public comments, that—
+(B) For purposes of subparagraph (A), the Secretary may grant a waiver to a State for a fiscal year if the State submits a written request to the Secretary after March 31 of such fiscal year and if the Secretary determines, after reviewing such request and any public comments, that—
 
 &emsp;(i)(I) the number of households in the State that will receive benefits, other than weatherization and energy-related home repair, under this subchapter in such fiscal year will not be fewer than the number of households in the State that received benefits, other than weatherization and energy-related home repair, under this subchapter in the preceding fiscal year;
 
@@ -196,13 +196,13 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.) of chapter 7 of this title, respectively. Section 408 of the Social Security Act \[42 U.S.C. 608\] was repealed by Pub. L. 96–272, title I, §101(a)(2)(A), June 17, 1980, 94 Stat. 512. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703,as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans’ Benefits.
 
@@ -220,6 +220,8 @@ In subsec. (b)(6), “August 12, 1981” substituted for “the day before the d
 
 #### Amendments
 
+1996—Subsec. (b)(2)(A)(i). Pub. L. 104–193 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
+
 1995—Subsec. (h). Pub. L. 104–66 struck out “(but not less frequently than every three years),” after “from time to time”.
 
 1994—Subsec. (b). Pub. L. 103–252, §311(c)(4), which directed the transfer of the sentence that immediately precedes par. (15) to appear as a flush sentence immediately after par. (16), was executed by transferring the two sentences that appeared before par. (15) so as to appear as a flush provision immediately after par. (16), to reflect the probable intent of Congress.
@@ -228,7 +230,7 @@ Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after M
 
 Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
-Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State maynot exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
+Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 
 Subsec. (b)(3). Pub. L. 103–252, §§306(b), 311(c)(3), substituted “disabled” for “handicapped” and “and households with high home energy burdens, are made aware” for “are made aware”.
 
@@ -304,11 +306,15 @@ Subsec. (c)(2). Pub. L. 98–558, §605(b)(2), inserted “and each substantial 
 
 Subsec. (d). Pub. L. 98–558, §605(c), in amending subsec. (d) generally, substituted provisions that the State shall expend funds in accordance with the State plan or revisions thereto for former provisions which related to waiver of requirements.
 
-Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that theaudits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
+Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inserted provisions requiring that the audits be made public and that they shall be conducted in accordance with the Comptroller General's standards.
 
 Subsec. (f). Pub. L. 98–558, §605(e), inserted “unless enacted in express limitation of this paragraph”.
 
 Subsec. (h). Pub. L. 98–558, §605(f), inserted “(but not less frequently than every three years)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -358,9 +364,7 @@ This section is referred to in sections 8623, 8626a, 8626b, 8627, 8629 of this t
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

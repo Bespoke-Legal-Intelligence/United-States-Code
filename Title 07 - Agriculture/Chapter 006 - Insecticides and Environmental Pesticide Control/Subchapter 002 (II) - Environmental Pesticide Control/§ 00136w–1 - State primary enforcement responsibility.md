@@ -20,6 +20,10 @@ The Administrator shall have primary enforcement responsibility for those States
 
 (June 25, 1947, ch. 125, §26, as added Sept. 30, 1978, Pub. L. 95–396, §24(2), 92 Stat. 836; amended Oct. 25, 1988, Pub. L. 100–532, title VIII, §801(<i>o</i>), (q)(1)(D), 102 Stat. 2683; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(11), 105 Stat. 1895.)
 
+#### Prior Provisions
+
+A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 33 and is classified to section 136x of this title.
+
 #### Amendments
 
 1991—Subsec. (c). Pub. L. 102–237 substituted “uses” for “use”.

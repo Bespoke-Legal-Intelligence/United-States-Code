@@ -10,7 +10,7 @@ Except as otherwise provided in this Act, the amounts, terms, and conditions of 
 
 #### (c) Compliance by producer; program for diverted acres
 
-Compliance by the producer with acreage allotments, production goals and marketing practices (including marketing quotas when authorized by law), prescribed by the Secretary, may be required as a condition of eligibility for price support. In administering any program for diverted acres the Secretary may make his regulations applicable on an appropriate geographical basis. Such regulations shall be administered (1) in semiarid or other areas where good husbandry requires maintenance of a prudent feed reserve in such manner as to permit, to the extent so required by good husbandry, the production of forage crops for storage and subsequent use eitheron the farm or in feeding operations of the farm operator, and (2) in areas declared to be disaster areas by the President under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], in such manner as will most quickly restore the normal pattern of their agriculture.
+Compliance by the producer with acreage allotments, production goals and marketing practices (including marketing quotas when authorized by law), prescribed by the Secretary, may be required as a condition of eligibility for price support. In administering any program for diverted acres the Secretary may make his regulations applicable on an appropriate geographical basis. Such regulations shall be administered (1) in semiarid or other areas where good husbandry requires maintenance of a prudent feed reserve in such manner as to permit, to the extent so required by good husbandry, the production of forage crops for storage and subsequent use either on the farm or in feeding operations of the farm operator, and (2) in areas declared to be disaster areas by the President under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\], in such manner as will most quickly restore the normal pattern of their agriculture.
 
 #### (d) Time of determining levels
 
@@ -49,6 +49,10 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is
 1954—Subsec. (c). Act Aug. 28, 1954, §206, provided a program for diverted acres.
 
 Subsec. (e). Act Aug. 28, 1954, §207, added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Pub. L. 104–127, title II, §263(c), Apr. 4, 1996, 110 Stat. 974, provided that: “The amendments made by this section \[repealing provisions set out as notes under this section and section 1446 of this title\] shall be effective beginning with the 1996 crops of wheat, feed grains, upland cotton, and rice.”
 
 #### Effective Date of 1991 Amendment
 
@@ -100,7 +104,7 @@ In general.—The amendment made by section 903(3) of this Act \[amending sectio
 
 &emsp;&emsp;&emsp;“(i) the date of enactment of this Act \[Dec. 13, 1991\];
 
-&emsp;&emsp;&emsp;“(ii) October 1, 1990, for food stamp households for which the State agency knew, or had notice, that a member of the household had a plan forachieving self-support as provided under section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
+&emsp;&emsp;&emsp;“(ii) October 1, 1990, for food stamp households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
 
 &emsp;&emsp;&emsp;“(iii) beginning on the date that a fair hearing was requested under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) contesting the denial of an exclusion for food stamp purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
 
@@ -180,7 +184,7 @@ Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act 
 
 Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: “This title \[enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the ‘Dairy Production Stabilization Act of 1983’.”
 
-Pub. L. 98–180, title II, §201, Nov. 29, 1983, 97 Stat. 1143, provided that: “This title \[enacting section 511r of this title, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title\] may be cited as the ‘Tobacco Adjustment Act of 1983’.”
+Pub. L. 98–180, title II, §201, Nov. 29, 1983, 97 Stat. 1143, provided that: “This title \[enacting section 511r of thistitle, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title\] may be cited as the ‘Tobacco Adjustment Act of 1983’.”
 
 Pub. L. 98–88, §1, Aug. 26, 1983, 97 Stat. 494, provided: “That this Act \[amending sections 1308, 1427, 1441, and 1444 of this title, repealing section 1347 of this title, and enacting provisions set out as notes under sections 1342, 1347, and 1444 of this title\] may be cited as the ‘Extra Long Staple Cotton Act of 1983’.”
 
@@ -212,6 +216,10 @@ Pub. L. 98–180, title III, §305, Nov. 29, 1983, 97 Stat. 1152, provided that:
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+
 #### Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict
 
 Pub. L. 102–25, title III, §§381–388, Apr. 6, 1991, 105 Stat. 95–98, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer's crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
@@ -222,135 +230,11 @@ Pub. L. 101–624, title XI, §1148, Nov. 28, 1990, 104 Stat. 3517, directed Sec
 
 #### Options Pilot Program
 
-Pub. L. 101–624, title XI, subtitle E, Nov. 28, 1990, 104 Stat. 3518, as amended by Pub. L. 102–237, title I, §114(a)(2), Dec. 13, 1991, 105 Stat. 1838, provided that:
-
-#### “SEC. 1151. SHORT TITLE.
-
-“This subtitle \[subtitle E (§§1151–1156) of title XI of Pub. L. 101–624\] may be cited as the ‘Options Pilot Program Act of 1990’.
-
-#### “SEC. 1152. PURPOSES.
-
-“It is the purpose of this subtitle to require the Secretary of Agriculture (hereinafter in this subtitle referred to as the ‘Secretary’) to conduct research necessary—
-
-&emsp;“(1) to ascertain whether futures options trading would provide reasonable protection to producers from fluctuations in the value of the commodities they produce;
-
-&emsp;“(2) to ascertain whether producers will accept and fully utilize this method of price protection if information is provided to the producers concerning its proper use; and
-
-&emsp;“(3) to determine the effect widespread adoption of such futures options trading program would have on commodity prices.
-
-#### “SEC. 1153. OPTIONS PILOT PROGRAM.
-
-“(a)
-
-In General.—To determine whether regulated agricultural commodity options trading can be used by producers to obtain protection from fluctuations in the market prices of the commodities they produce and the impact of such trading on the prices of the commodities, the Secretary shall conduct a pilot program for each of the 1991 through 1995 crops of corn and for each of the 1993 through 1995 crops of wheat and soybeans.
-
-“(b)
-
-Counties.—The Secretary shall conduct the pilot program in various counties that produce significant quantities of the 1991 through 1995 crops of corn, and significant quantities of the 1993 through 1995 crops of wheat and soybeans. For the 1991 crop year, the Secretary shall select not less than three counties in each of three major corn-producing States to conduct the pilot program for corn for the crop year. The Secretary may add additional States and counties to the program in succeeding crop years.
-
-“(c)
-
-Brokers.—Trades under the pilot program conducted under this subtitle shall be carried out through registered commodity brokers who choose to participate in the program.
-
-“(d)
-
-Eligible Producer Participants.—The Secretary shall contract with eligible producers who wish to participate in the program and who are located in the counties selected for the pilot program. The contracts shall set forth the terms and conditions for participation in the pilot program, including a provision that the contract may be terminated by any participating producer at any time prior to receiving payments for options contracted for under the pilot program.
-
-#### “SEC. 1154. TERMS AND CONDITIONS.
-
-“(a)
-
-Eligibility Requirements.—
-
-&emsp;“(1)
-
-In general.—To be eligible to participate in the pilot program conducted under this subtitle, a producer shall meet all of the eligibility requirements specified in this subtitle, and the regulations issued pursuant to this subtitle.
-
-&emsp;“(2)
-
-Participation in price support programs.—The regulations shall specify to what degree participation in the price support and production adjustment program established for the applicable crop of the commodity shall be required for participation in the pilot program.
-
-&emsp;“(3)
-
-Additional requirements.—To be eligible to participate in the pilot program, a producer shall—
-
-&emsp;&emsp;“(A) attend not less than one seminar conducted by the Cooperative Extension Service;
-
-&emsp;&emsp;“(B) maintain a separate brokerage account for the purpose of trading futures and options contracts covered by the pilot program; and
-
-&emsp;&emsp;“(C) compile, maintain, and submit (or authorize the compilation, maintenance, and submission) of such documentation as the regulations governing the program may require to permit a proper record to be kept of the results of all cash, futures, or options trading that may be undertaken under the pilot program by the producer.
-
-“(b)
-
-Program Terms and Conditions.—The Secretary shall issue regulations or develop contract forms, or both, that set forth the terms and conditions of the program, and the rights and obligations of all of the parties participating in the program (including producers and registered brokers). At a minimum, the terms and conditions shall include the following:
-
-&emsp;“(1)
-
-Contract months and strike prices.—
-
-&emsp;&emsp;“(A)
-
-In general.—The contract months and options strike prices at which participating producers may buy commodity put options in order to receive payments to cover the premiums on the options for each of the 1991 through 1995 crops of corn, and for each of the 1993 through 1995 crops of wheat and soybeans.
-
-&emsp;&emsp;“(B)
-
-Target price and loan rate strike prices.—The pilot program shall provide—
-
-&emsp;&emsp;&emsp;“(i) a target price strike price for put options that is equivalent to the target price for the commodity involved; and
-
-&emsp;&emsp;&emsp;“(ii) a loan rate strike price that is equivalent to the loan rate for the commodity involved.
-
-&emsp;&emsp;“(C)
-
-Other options strike prices.—Other options strike prices for commodities included in the program may be used if the prices are selected and agreed on by the Secretary and the representatives of the commodity futures trading industry designated in accordance with section 1155(a).
-
-&emsp;“(2)
-
-Eligible portion of crop.—The portion of the crop of an eligible producer that may be used as a basis for acquiring options contracts.
-
-&emsp;“(3)
-
-Put options contracts.—The time when, and the manner in which, put options contracts shall be acquired, held, and liquidated by producers to meet program requirements.
-
-&emsp;“(4)
-
-Program benefits.—
-
-&emsp;&emsp;“(A)
-
-In general.—The program benefits to be offered participating producers shall include the cost of option premiums and payments of not more than 15 cents per bushel to cover transaction fees, interest, and other expenses.
-
-&emsp;&emsp;“(B)
-
-Relative benefits.—The Secretary shall inform participants that their participation is voluntary and that neither the United States, the Commodity Credit Corporation, nor representatives of the futures industry can guarantee that the participants will be better or worse off financially as a result of participation in the pilot program than the participants would be if the participants participated solely in price support and production adjustment programs carried out by the Secretary and the Commodity Credit Corporation.
-
-#### “SEC. 1155. COMMODITY FUTURES TRADING INDUSTRY.
-
-“(a)
-
-Consultation.—The Secretary or the Secretary's designees may consult with representatives of the commodity futures trading industry who are specialists in the trading of futures contracts and futures options contracts, and who are designated by the regulated commodity futures markets that choose to participate in the pilot program.
-
-“(b)
-
-Procedure.—The designations and consultations may be held without regard to the Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 App. U.S.C.\]. Such Act shall not be applicable to the pilot program carried out under this subtitle, or to the meetings of representatives of the commodity futures trading industry with the Secretary or the Secretary's designees relating to this subtitle.
-
-#### “SEC. 1156. COMMODITY CREDIT CORPORATION.
-
-“(a)
-
-In General.—The pilot program established under this subtitle shall be carried out by and through the Commodity Credit Corporation.
-
-“(b)
-
-Funds.—The Corporation shall expend such funds as may be required to conduct the pilot program for futures options contract trading in the manner specified in this subtitle and the regulations issued, and contracts entered into, to carry out this subtitle, except that funds of the Corporation may not be used to carry out this subtitle unless the Secretary, in the sole discretion of the Secretary, determines in advance that such funds shall be used for this purpose.
-
-“(c)
-
-Contracts.—Contracts entered into under this subtitle shall be considered to be program benefit contracts of the Commodity Credit Corporation, and not service or acquisition contracts of the United States.”
+Pub. L. 101–624, title XI, subtitle E, Nov. 28, 1990, 104 Stat. 3518, as amended by Pub. L. 102–237, title I, §114(a)(2), Dec. 13, 1991, 105 Stat. 1838, known as Options Pilot Program Act of 1990, authorized Secretary of Agriculture to conduct pilot program for each of the 1991 through 1995 crops of corn and for each of the 1993 through 1995 crops of wheat and soybeans, to determine whether regulated agricultural commodity options trading could be used by producers to obtain protection from fluctuations in market prices of commodities produced and impact of such trading on prices of the commodities, authorized terms and conditions for participation in pilot program, provided for consultation with representatives of commodity futures trading industry, and provided that the pilot program was to be carried out by and through the Commodity Credit Corporation, prior to repeal by Pub. L. 104–127, title I, §191(i), Apr. 4, 1996, 110 Stat. 942.
 
 #### Hurricane Hugo Forestry Assistance; Cost-Share Assistance
 
-Pub. L. 101–624, title XXII, §2235(b), Nov. 28, 1990, 104 Stat. 3960, directed Secretary of Agriculture to developand implement cost-share program to provide financial assistance to owners of private timber stands that were damaged in 1989 by Hurricane Hugo.
+Pub. L. 101–624, title XXII, §2235(b), Nov. 28, 1990, 104 Stat. 3960, directed Secretary of Agriculture to develop and implement cost-share program to provide financial assistance to owners of private timber stands that were damaged in 1989 by Hurricane Hugo.
 
 #### Appropriations for Forestry Assistance and Double Cropping on Disaster Areas
 
@@ -358,7 +242,7 @@ Pub. L. 101–624, title XXII, §2235(c), Nov. 28, 1990, 104 Stat. 3961, provide
 
 #### Scarce Federal Resources
 
-Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized Secretary of Agriculture, after concurrence of certain Members of Congress, to rank by priority studies or reports authorized by Pub. L. 101–624 and determine which of those studies or reports was to be completed, but directed Secretary to complete at least 12 of the studies or reports.
+Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized Secretary of Agriculture, afterconcurrence of certain Members of Congress, to rank by priority studies or reports authorized by Pub. L. 101–624 and determine which of those studies or reports was to be completed, but directed Secretary to complete at least 12 of the studies or reports.
 
 #### Recordkeeping Improvement
 
@@ -366,7 +250,7 @@ Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provi
 
 #### Readjustment of Support Levels
 
-Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, §1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b).
+Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, §1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, §263(a), Apr. 4, 1996, 110 Stat. 974.
 
 #### Repayment of Advance Deficiency Payments
 
@@ -396,9 +280,9 @@ Pub. L. 97–98, title XI, §1112, Dec. 22, 1981, 95 Stat. 1267, directed Secret
 
 #### Studies in Rice Price Support; Report to Congress; Termination Date
 
-Section 315 of act Aug. 28, 1954, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicableto rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
+Section 315 of act Aug. 28, 1954, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1425, 1428, 1444, 1444b, 1444f, 1445a, 1448 of this title.
+This section is referred to in sections 1425, 1428, 1444, 1444b, 1445a, 1448 of this title.
 

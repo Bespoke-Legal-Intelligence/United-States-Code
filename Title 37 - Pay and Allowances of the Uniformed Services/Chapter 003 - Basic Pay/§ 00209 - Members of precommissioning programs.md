@@ -4,7 +4,7 @@
 
 (b) Except when on active duty, a cadet or midshipman appointed under section 2107 of title 10 is entitled to a monthly subsistence allowance in the amount provided in subsection (a). A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a).
 
-(c) Each cadet or midshipman in the Senior Reserve Officers’ Training Corps, while he is attending training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned, and each applicant for membership in the Senior Reserve Officers’ Training Corps, while he is attending field training or practice cruises to satisfy the requirements of section 2104(b)(6)(B) of title 10 for admission to advanced training, is entitled, while so attending, to pay at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies under section 203(c) of this title.
+(c) Each cadet or midshipman in the Senior Reserve Officers’ Training Corps, while he is attending training or practice cruises under chapter 103 of title 10 if the training or cruise is of at least four weeks duration and must be completed before the cadet or midshipman is commissioned, and each applicant for membership in the Senior Reserve Officers’ Training Corps, while he is attending field training or practice cruises to satisfy the requirements of section 2104(b)(6)(B) of title 10 for admission to advancedtraining, is entitled, while so attending, to pay at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies under section 203(c) of this title.
 
 (d) Except when serving on active duty, a member who is enrolled in a Marine Corps officer candidate program which requires a baccalaureate degree as a prerequisite to being commissioned as an officer and who is not enrolled in a program established under chapter 103 of title 10 or an academy established under chapter 403, 603, or 903 of title 10 may be paid a subsistence allowance at the same rate as that prescribed by subsection (a) for a member of the Senior Reserve Officers’ Training Corps who is selected for advanced training under section 2104 of title 10.
 
@@ -78,7 +78,7 @@ Section 603(b) of Pub. L. 103–337 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to months beginning after August 31, 1995.
 
-“(2) Upon the approval of the Secretary of Defense, the Secretary of a military department may implement such amendments at an earlier date with respect to members of the Senior Reserve Officers’ Training Corps under the jurisdiction of the Secretary if funds are available for the monthly subsistence allowances authorized by such amendments.”
+“(2) Upon the approval of the Secretary of Defense, the Secretary of a military department may implement such amendments at an earlier date with respect to members of the Senior Reserve Officers’ Training Corps under the jurisdiction of the Secretary if funds areavailable for the monthly subsistence allowances authorized by such amendments.”
 
 #### Effective Date of 1988 Amendment
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 89–51 effective Oct. 13, 1964, see section 4 of Pub. L. 8
 
 Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, title VI, §604, July 14, 1976, 90 Stat. 929; Pub. L. 95–79, title VIII, §806, July 30, 1977, 91 Stat. 334; Pub. L. 95–485, title VIII, §803, Oct. 20, 1978, 92 Stat. 1620, which provided that until Sept. 30, 1980, except when on active duty, a member enrolled in a Marine Corps officer candidate program which required a baccalaureate degree as a prerequisite to being commissioned as a regular or reserve officer, and who was not enrolled in a program or an academy established under chapter 103, 403, 603, or 903 of Title 10, Armed Forces, could be paid a subsistence allowance at the same rate as that prescribed by subsec. (a) of this section, was repealed by Pub. L. 96–342, title VIII, §811(b), Sept. 8, 1980, 94 Stat. 1098. See subsec. (d) of this section.
 
-#### Section Referred to in Other Sections
+Section Referred to in Other Sections
 
 This section is referred to in title 10 section 1478; title 14 section 705.
 

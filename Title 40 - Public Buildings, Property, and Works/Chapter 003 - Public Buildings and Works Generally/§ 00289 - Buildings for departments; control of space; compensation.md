@@ -10,7 +10,7 @@ Section 5 of Act February 27, 1929, referred to in text, read as follows: “Tha
 
 #### Codification
 
-Section is based on section 6 of act Feb. 27, 1929, which read: “That the control of assignment of space in (said building or buildings) shall be vested in the Public Buildings Commission, established by section 10 of the Act approved March 1, 1919. Compensation for such occupancy, space, and facilities as are utilized by the Commissioners of the District of Columbia shall be on a rental basis on terms to be fixed by a board consisting of the director of Public Buildings and Public Parks of the National Capital, the engineer commissioner of the District of Columbia, and the Supervising Architect of the Treasury.”
+Section is based on section 6 of act Feb. 27, 1929, which read: “That the control of assignment of space in (said building or buildings) shall be vested in the Public Buildings Commission, established by section 10 of the Act approved March 1, 1919. Compensation for such occupancy, space, and facilities as are utilized by the Commissioners of the District of Columbia shall be ona rental basis on terms to be fixed by a board consisting of the director of Public Buildings and Public Parks of the National Capital, the engineer commissioner of the District of Columbia, and the Supervising Architect of the Treasury.”
 
 Section was formerly classified to section 289a of this title.
 

@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Mar. 27, 1978, Pub. L. 95–250, §106, 92 Stat. 171.
 
-6905(b) (1)–(3)
+6905(b)(1)– (3)
 
 (uncodified).
 

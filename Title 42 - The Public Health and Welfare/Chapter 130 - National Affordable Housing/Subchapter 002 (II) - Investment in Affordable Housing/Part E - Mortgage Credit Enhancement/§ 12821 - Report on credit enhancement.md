@@ -6,7 +6,7 @@ The Comptroller General of the United States shall carry out a study of ways in 
 
 #### (b) Report
 
-Not later than one year after November 28, 1990, the Comptroller General shall submit tothe Congress and the Secretary a report containing any recommendations for legislative or administrative actions needed to improve the availability of mortgage finance for affordable housing. The report shall include, but need not be limited to, an assessment of—
+Not later than one year after November 28, 1990, the Comptroller General shall submit to the Congress and the Secretary a report containing any recommendations for legislative or administrative actions needed to improve the availability of mortgage finance for affordable housing. The report shall include, but need not be limited to, an assessment of—
 
 &emsp;(1) the need for the Department of Housing and Urban Development or other agencies of the United States to provide partial credit enhancement to make financing for affordable housing available efficiently and at the lowest possible cost; and
 

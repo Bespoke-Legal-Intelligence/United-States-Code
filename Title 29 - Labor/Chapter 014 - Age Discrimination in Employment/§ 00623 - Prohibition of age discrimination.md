@@ -82,7 +82,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 (2) Nothing in this section shall be construed to prohibit an employer, employment agency, or labor organization from observing any provision of an employee pension benefit plan to the extent that such provision imposes (without regard to age) a limitation on the amount of benefits that the plan provides or a limitation on the number of years of service or years of participation which are taken into account for purposes of determining benefit accrual under the plan.
 
-(3) In the case of any employee who, as of the end of any plan year under a defined benefitplan, has attained normal retirement age under such plan—
+(3) In the case of any employee who, as of the end of any plan year under a defined benefit plan, has attained normal retirement age under such plan—
 
 &emsp;(A) if distribution of benefits under such plan with respect to such employee has commenced as of the end of such plan year, then any requirement of this subsection for continued accrual of benefits under such plan with respect to such employee during such plan year shall be treated as satisfied to the extent of the actuarial equivalent of in-service distribution of benefits, and
 
@@ -106,7 +106,23 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;(B) The term “compensation” has the meaning provided by section 414(s) of title 26.
 
-#### (j) Omitted
+#### (j) Employment as firefighter or law enforcement officer
+
+It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
+
+&emsp;(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 <sup>1</sup> if the individual was discharged after the date described in such section, and the individual has attained—
+
+&emsp;&emsp;(A) the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
+
+&emsp;&emsp;(B)(i) if the individual was not hired, the age of hiring in effect on the date of such failure or refusal to hire under applicable State or local law enacted after September 30, 1996; or
+
+&emsp;&emsp;(ii) if applicable State or local law was enacted after September 30, 1996, and the individual was discharged, the higher of—
+
+&emsp;&emsp;&emsp;(I) the age of retirement in effect on the date of such discharge under such law; and
+
+&emsp;&emsp;&emsp;(II) age 55; and
+
+&emsp;(2) pursuant to a bona fide hiring or retirement plan that is not a subterfuge to evade the purposes of this chapter.
 
 #### (k) Seniority system or employee benefit plan; compliance
 
@@ -170,15 +186,31 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;&emsp;(B) for which an individual who has attained the later of age 62 or normal retirement age is eligible.
 
-(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287.)
+(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.)
 
 #### References in Text
 
 Subparagraphs (C) and (D) of section 411(b)(2) of title 26, referred to in subsec. (i)(7), were redesignated subpars. (B) and (C) of section 411(b)(2) of Title 26, Internal Revenue Code, by Pub. L. 101–239, title VII, §7871(a)(1), Dec. 19, 1989, 103 Stat. 2435.
 
+Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
+
 The Social Security Act, referred to in subsec. (<i>l</i>)(1)(B)(ii), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (j). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(1)\]\], reenacted subsec. (j) of this section, as in effect immediately before Dec. 31, 1993.
+
+Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], substituted “, the employer has complied with section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996 if the individual was discharged after the date described in such section, and the individual has attained—
+
+&emsp;“(A) the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
+
+&emsp;“(B)(i) if the individual was not hired, the age of hiring in effect on the date of such failure or refusal to hire under applicable State or local law enacted after September 30, 1996; or
+
+&emsp;“(ii) if applicable State or local law was enacted after September 30, 1996, and the individual was discharged, the higher of—
+
+&emsp;&emsp;“(I) the age of retirement in effect on the date of such discharge under such law; and
+
+&emsp;&emsp;“(II) age 55; and” for “and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and”.
 
 1990—Subsec. (f)(2). Pub. L. 101–433, §103(1), added par. (2) and struck out former par. (2) which read as follows: “to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan, which is not a subterfuge to evade the purposes of this chapter, except that no such employee benefit plan shall excuse the failure to hire any individual, and no such seniority system or employee benefit plan shall require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of such individual; or”.
 
@@ -188,7 +220,7 @@ Subsec. (k). Pub. L. 101–433, §103(3), added subsec. (k).
 
 Subsec. (<i>l</i>). Pub. L. 101–521 added cl. (iii) in par. (2)(A), and in par. (2)(D) inserted “and solely in order to make the deduction authorized under this paragraph” after “For purposes of this paragraph” and added cl. (iii).
 
-Pub. L. 101–433, §103(3), added subsec. (<i>l).</i>
+Pub. L. 101–433, §103(3), added subsec. (<i>l</i>).
 
 1989—Subsec. (g). Pub. L. 101–239 struck out subsec. (g) which read as follows:
 
@@ -222,13 +254,25 @@ Subsec. (g)(1). Pub. L. 98–369 inserted “, and any employee's spouse aged 6
 
 1978—Subsec. (f)(2). Pub. L. 95–256 provided that no seniority system or employee benefit plan require or permit the involuntary retirement of any individual specified by section 631(a) of this title because of the age of the individual.
 
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title I, §119\[3\]\] of Pub. L. 104–208 provided that:
+
+“(a)
+
+General Effective Date.—Except as provided in subsection (b), this title \[probably means section 101(a) \[title I, §119\] of Pub. L. 104–208, amending this section and enacting and repealing provisions set out as notes under this section\] and the amendments made by this title shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].
+
+“(b)
+
+Special Effective Date.—The repeal made by section 2(a) and the reenactment made by section 2(b)(1) \[probably means section 101(a) \[title I, §119\[1(a), (b)(1)\]\] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section\] shall take effect on December 31, 1993.”
+
 #### Effective Date of 1990 Amendment
 
 Section 105 of title I of Pub. L. 101–433, as amended by Pub. L. 102–236, §9, Dec. 12, 1991, 105 Stat. 1816, provided that:
 
 “(a)
 
-In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
+In General.—Except as otherwise provided in this section, this title \[amending this section and section 630 of this title and enacting provisions set out asnotes under this section and section 621 of this title\] and the amendments made by this title shall apply only to—
 
 &emsp;“(1) any employee benefit established or modified on or after the date of enactment of this Act \[Oct. 16, 1990\]; and
 
@@ -344,7 +388,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Effect on Existing Causes of Action.—The amendments made by sections 3 and 4 of this Act \[amending this section and section 630 of this title and enacting provisions set out as a note below\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as in effect before January 1, 1987.”
 
-Section 3(b) of Pub. L. 99–592 provided that: “The amendment made by subsection (a) of this section \[amending this section\] is repealed December 31, 1993.”
+Section 3(b) of Pub. L. 99–592 which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
 
 Section 9204 of subtitle C (§§9201–9204) of title IX of Pub. L. 99–509 provided that:
 
@@ -410,9 +454,81 @@ Section 2(b) of Pub. L. 95–256 provided that: “The amendment made by subsect
 
 Section 104 of title I of Pub. L. 101–433 provided that: “Notwithstanding section 9 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 628), the Equal Employment Opportunity Commission may issue such rules and regulations as the Commission may consider necessary or appropriate for carrying out this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\], and the amendments made by this title, only after consultation with the Secretary of the Treasury and the Secretary of Labor.”
 
+#### Construction of 1996 Amendment
+
+Section 101(a) \[title I, §119\[1(c)\]\] of Pub. L. 104–208 provided that: “Nothing in the repeal, reenactment, and amendment made by subsections (a) and (b) \[section 101(a) \[title I, §119\[1(a), (b)\]\] of Pub. L. 104–208, amending this section and repealing provisions set out as a note under this section\] shall be construed to make lawful the failure or refusal to hire, or the discharge of, an individual pursuant to a law that—
+
+&emsp;“(1) was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 \[Sept. 30, 1996\]; and
+
+&emsp;“(2) lowered the age of hiring or retirement, respectively, for firefighters or law enforcement officers that was in effect under applicable State or local law on March 3, 1983.”
+
 #### Transfer of Functions
 
 Functions vested by this section in Secretary of Labor or Civil Service Commission transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+
+#### Study and Guidelines for Performance Tests
+
+Section 101(a) \[title I, §119\[2\]\] of Pub. L. 104–208 provided that:
+
+“(a)
+
+Study.—Not later than 3 years after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary of Health and Human Services, acting through the Director of the National Institute for Occupational Safety and Health (referred to in this section \[probably means section 101(a) \[title I, §119\[2\]\] of Pub. L. 104–208\] as the ‘Secretary’), shall conduct, directly or by contract, a study, and shall submit to the appropriate committees of Congress a report based on the results of the study that shall include—
+
+&emsp;“(1) a list and description of all tests available for the assessment of abilities important for the completion of public safety tasks performed by law enforcement officers and firefighters;
+
+&emsp;“(2) a list of the public safety tasks for which adequate tests described in paragraph (1) do not exist;
+
+&emsp;“(3) a description of the technical characteristics that the tests shall meet to be in compliance with applicable Federal civil rights law and policies;
+
+&emsp;“(4) a description of the alternative methods that are available for determining minimally acceptable performance standards on the tests;
+
+&emsp;“(5) a description of the administrative standards that should be met in the administration, scoring, and score interpretation of the tests; and
+
+&emsp;“(6) an examination of the extent to which the tests are cost-effective, are safe, and comply with the Federal civil rights law and policies.
+
+“(b)
+
+Consultation Requirement; Opportunity for Public Comment.—
+
+&emsp;“(1)
+
+Consultation.—The Secretary shall, during the conduct of the study required by subsection (a), consult with—
+
+&emsp;&emsp;“(A) the Deputy Administrator of the United States Fire Administration;
+
+&emsp;&emsp;“(B) the Director of the Federal Emergency Management Agency;
+
+&emsp;&emsp;“(C) organizations that represent law enforcement officers, firefighters, and employers of the officers and firefighters; and
+
+&emsp;&emsp;“(D) organizations that represent older individuals.
+
+&emsp;“(2)
+
+Public comment.—Prior to issuing the advisory guidelines required in subsection (c), the Secretary shall provide an opportunity for public comment on the proposed advisory guidelines.
+
+“(c)
+
+Advisory Guidelines.—Not later than 4 years after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall develop and issue, based on the results of the study required by subsection (a), advisory guidelines for the administration and use of physical and mental fitness tests to measure the ability and competency of law enforcement officers and firefighters to perform the requirements of the jobs of the officers and firefighters.
+
+“(d)
+
+Job Performance Tests.—
+
+&emsp;“(1)
+
+Identification of tests.—After issuance of the advisory guidelines described in subsection (c), the Secretary shall issue regulations identifying valid, nondiscriminatory job performance tests that shall be used by employers seeking the exemption described in section 4(j) of the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 623(j)\] with respect to firefighters or law enforcement officers who have attained an age of retirement described in such section 4(j).
+
+&emsp;“(2)
+
+Use of tests.—Effective on the date of issuance of the regulations described in paragraph (1), any employer seeking such exemption with respect to a firefighter or law enforcement officer who has attained such age shall provide to each firefighter or law enforcement officer who has attained such age an annual opportunity to demonstrate physical and mental fitness by passing a test described in paragraph (1), in order to continue employment.
+
+“(e)
+
+Development of Standards for Wellness Programs.—Not later than 2 years after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall propose advisory standards for wellness programs for law enforcement officers and firefighters.
+
+“(f)
+
+Authorization of Appropriations.—There is authorized to be appropriated $5,000,000 to carry out this section.”
 
 #### Section Referred to in Other Sections
 

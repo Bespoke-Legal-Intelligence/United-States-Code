@@ -6,7 +6,7 @@ The Director of the Institute shall conduct, or make grants for the conduct of, 
 
 #### (b) Preparation of plan; contents; revision
 
-(1) Within 6 months after November 14, 1986, the Director of the Institute shall prepare and transmit to the Chairman of the Council on Alzheimer's Disease (in this section referred to as the “Council”) a plan for the research to be conducted under subsection (a) of this section. The plan shall—
+(1) Within 6 months after November 14, 1986, the Director of the Institute shall prepare andtransmit to the Chairman of the Council on Alzheimer's Disease (in this section referred to as the “Council”) a plan for the research to be conducted under subsection (a) of this section. The plan shall—
 
 &emsp;(A) provide for research concerning—
 

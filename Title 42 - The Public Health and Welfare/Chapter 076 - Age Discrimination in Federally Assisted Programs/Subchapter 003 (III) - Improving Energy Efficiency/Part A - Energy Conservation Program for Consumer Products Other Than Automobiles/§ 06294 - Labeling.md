@@ -20,7 +20,7 @@
 
 (ii) If the marking and labeling requirements of ASME A112.19.2M–1990 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each fixture and flushometer valve to bear a permanent legible marking indicating the water use of such fixture or flushometer valve.
 
-(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-type white 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
+(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-typewhite 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
 
 (3) The Commission may prescribe a labeling rule under this section applicable to covered products of a type specified in paragraph (19) of section 6292(a) of this title (or a class thereof) if—
 
@@ -84,7 +84,7 @@
 
 > additional information relating to energy consumption, including instructions for the maintenance, use, or repair of the covered product, if the Commission determines that such additional information would assist consumers in making purchasing decisions or in using such product, and that such requirement would not be unduly burdensome to manufacturers.
 
-(6) The Commission may delay the effective date of the requirement specified in paragraph (1)(B) of this subsection applicable to a type or class of covered product, insofar as it requires the disclosure on the label of information respecting range of a measure of energy consumption, for not more than 12 months after the date on which the rule under this section is first applicable to such type or class, if the Commissiondetermines that such information will not be available within an adequate period of time before such date.
+(6) The Commission may delay the effective date of the requirement specified in paragraph (1)(B) of this subsection applicable to a type or class of covered product, insofar as it requires the disclosure on the label of information respecting range of a measure of energy consumption, for not more than 12 months after the date on which the rule under this section is first applicable to such type or class, if the Commission determines that such information will not be available within an adequate period of time before such date.
 
 (7) Paragraphs (1), (2), (3), (5), and (6) of this subsection shall not apply to the covered product specified in paragraphs (13), (14), (15), (16), (17), and (18) of section 6292(a) of this title.
 

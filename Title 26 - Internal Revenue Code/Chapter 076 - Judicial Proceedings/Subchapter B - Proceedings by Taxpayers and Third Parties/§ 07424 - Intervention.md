@@ -18,5 +18,5 @@ Section 114(d) of Pub. L. 89–719 provided that civil actions commenced before 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 3613; title 28 section 2409a.
+This section is referred to in title 28 section 2409a.
 

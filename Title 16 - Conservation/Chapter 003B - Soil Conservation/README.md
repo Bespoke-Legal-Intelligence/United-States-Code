@@ -16,12 +16,9 @@
 | (a) | Repealed. |
 | (b) | Conservation and environmental assistance. |
 | (c) | Apportionment of acreage allotments. |
-| (d) | Conditions affecting payments or grants of aid. |
-| (e) | Distribution of payments among landlords, tenants, and sharecroppers. |
-| (f) | Change between landlord and tenants or sharecroppers affecting landlord's payments. |
+| (d) to (f) Repealed. |  |
 | (g) | Assignment of payments. |
-| 590h–1 to 590h–3. Omitted or Repealed. |  |
-| 590h–4. | Conditions for payments of grants. |
+| 590h–1 to 590h–4. Omitted or Repealed. |  |
 | [590i.](%C2%A7%2000590i%20-%20Surveys%20and%20investigations%3B%20publication%20of%20information.md) | Surveys and investigations; publication of information. |
 | 590i–1, 590i–2. Omitted. |  |
 | [590j.](%C2%A7%2000590j%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
@@ -30,20 +27,9 @@
 | (a) | Market expansion and surplus disposition. |
 | (b) | Advances for premiums. |
 | [590m.](%C2%A7%2000590m%20-%20Execution%20of%20powers%20of%20Secretary%20by%20Production%20and%20Marketing%20Administration.md) | Execution of powers of Secretary by Production and Marketing Administration. |
-| [590n.](%C2%A7%2000590n%20-%20Payments%20reviewable%20only%20by%20Secretary%3B%20form%20of%20certificate.md) | Payments reviewable only by Secretary; form of certificate. |
+| [590n.](%C2%A7%2000590n%20-%20Payments%20reviewable%20only%20by%20Secretary.md) | Payments reviewable only by Secretary. |
 | 590<i>o.</i> | Authorization of appropriations; distribution of appropriated funds. |
-| [590p.](%C2%A7%2000590p%20-%20Limitation%20on%20obligations%20incurred%3B%20Great%20Plains%20conservation%20program.md) | Limitation on obligations incurred; Great Plains conservation program. |
-| (a) | General limitation. |
-| (b) | Contracts with landowners in Great Plains area; purpose; timeliness; land use plans, costs; termination; wheat acreage; authorization of appropriations. |
-| (c) | 1961 agricultural conservation program. |
-| (d) | 1962 agricultural conservation program. |
-| (e) | Changes in cropping systems and land uses; agreements with retired resident landowners; land uses; safeguards; modification of prior agreements; regulations; transfer of funds; authorization of appropriations. |
-| (f) | Use of Commodity Credit Corporation in producer disbursements. |
-| (g) | 1963 agricultural conservation program. |
-| (h) | 1964 and 1965 feed grain crops; acreage diversion program; maximum reserves; authorization of appropriations; regulations; payments in kind; termination or modification of prior agreements. |
-| (i) | 1966 to 1970 feed grain crops; acreage diversion program; maximum reserves; authorization of appropriations; regulations; payments in kind; termination or modification of prior agreements. |
-| (j) | Design of resource management system. |
-| (k) | Collection and maintenance of data. |
+| [590p.](%C2%A7%2000590p%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201006.md) | Repealed. |
 | 590p–1. | Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for assistance upon change of ownership of lands. |
 | [590q.](%C2%A7%2000590q%20-%20Coverage%3B%20%E2%80%9CState%E2%80%9D%20defined%3B%20short%20title.md) | Coverage; “State” defined; short title. |
 | 590q–1. | Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement. |
@@ -64,7 +50,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 sections 624, 1282, 1364, 1385, 1388, 1390, 1392, 2279, 6932, 6962; title 26 section 126.
+This chapter is referred to in title 7 sections 624, 1282, 1364, 1385, 1388, 1390, 1392, 2279; title 26 section 126.
 
 
 ---
@@ -83,7 +69,7 @@ This chapter is referred to in title 7 sections 624, 1282, 1364, 1385, 1388, 139
 - [&sect; 00590h - Payments and grants of aid](%C2%A7%2000590h%20-%20Payments%20and%20grants%20of%20aid.md)
 - [&sect; 00590h&#8211;1, 590h&#8211;2 - Omitted](%C2%A7%2000590h%E2%80%931%2C%20590h%E2%80%932%20-%20Omitted.md)
 - [&sect; 00590h&#8211;3 - Repealed. Pub. L. 88&#8211;534, &sect;2, Aug. 31, 1964, 78 Stat. 743](%C2%A7%2000590h%E2%80%933%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93534%2C%20%C2%A72%2C%20Aug.%2031%2C%201964%2C%2078%20Stat.%20743.md)
-- [&sect; 00590h&#8211;4 - Conditions for payments of grants](%C2%A7%2000590h%E2%80%934%20-%20Conditions%20for%20payments%20of%20grants.md)
+- [&sect; 00590h&#8211;4 - Repealed. Pub. L. 104&#8211;127, title III, &sect;336(a)(2)(G), Apr. 4, 1996, 110 Stat. 1006](%C2%A7%2000590h%E2%80%934%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28a%29%282%29%28G%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201006.md)
 - [&sect; 00590i - Surveys and investigations; publication of information](%C2%A7%2000590i%20-%20Surveys%20and%20investigations%3B%20publication%20of%20information.md)
 - [&sect; 00590i&#8211;1 - Omitted](%C2%A7%2000590i%E2%80%931%20-%20Omitted.md)
 - [&sect; 00590i&#8211;2 - Omitted](%C2%A7%2000590i%E2%80%932%20-%20Omitted.md)
@@ -91,9 +77,9 @@ This chapter is referred to in title 7 sections 624, 1282, 1364, 1385, 1388, 139
 - [&sect; 00590k - Availability of funds](%C2%A7%2000590k%20-%20Availability%20of%20funds.md)
 - [&sect; 00590l - Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation](%C2%A7%2000590l%20-%20Expansion%20of%20domestic%20and%20foreign%20markets%20for%20agricultural%20commodities%3B%20advances%20for%20crop%20insurance%3B%20transfer%20of%20funds%20to%20corporation.md)
 - [&sect; 00590m - Execution of powers of Secretary by Production and Marketing Administration](%C2%A7%2000590m%20-%20Execution%20of%20powers%20of%20Secretary%20by%20Production%20and%20Marketing%20Administration.md)
-- [&sect; 00590n - Payments reviewable only by Secretary; form of certificate](%C2%A7%2000590n%20-%20Payments%20reviewable%20only%20by%20Secretary%3B%20form%20of%20certificate.md)
+- [&sect; 00590n - Payments reviewable only by Secretary](%C2%A7%2000590n%20-%20Payments%20reviewable%20only%20by%20Secretary.md)
 - [&sect; 00590o - Authorization of appropriations; distribution of appropriated funds](%C2%A7%2000590o%20-%20Authorization%20of%20appropriations%3B%20distribution%20of%20appropriated%20funds.md)
-- [&sect; 00590p - Limitation on obligations incurred; Great Plains conservation program](%C2%A7%2000590p%20-%20Limitation%20on%20obligations%20incurred%3B%20Great%20Plains%20conservation%20program.md)
+- [&sect; 00590p - Repealed. Pub. L. 104&#8211;127, title III, &sect;336(b)(1), Apr. 4, 1996, 110 Stat. 1006](%C2%A7%2000590p%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201006.md)
 - [&sect; 00590p&#8211;1 - Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for&#8230;](%C2%A7%2000590p%E2%80%931%20-%20Limitation%20on%20wetlands%20drainage%20assistance%20to%20aid%20wildlife%20preservation%3B%20termination%20of%20limitation%3B%20redetermination%20of%20need%20for%E2%80%A6.md)
 - [&sect; 00590q - Coverage; &#8220;State&#8221; defined; short title](%C2%A7%2000590q%20-%20Coverage%3B%20%E2%80%9CState%E2%80%9D%20defined%3B%20short%20title.md)
 - [&sect; 00590q&#8211;1 - Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement](%C2%A7%2000590q%E2%80%931%20-%20Sale%20and%20distribution%20of%20supplies%2C%20materials%2C%20and%20equipment%20to%20other%20Government%20agencies%3B%20reimbursement.md)

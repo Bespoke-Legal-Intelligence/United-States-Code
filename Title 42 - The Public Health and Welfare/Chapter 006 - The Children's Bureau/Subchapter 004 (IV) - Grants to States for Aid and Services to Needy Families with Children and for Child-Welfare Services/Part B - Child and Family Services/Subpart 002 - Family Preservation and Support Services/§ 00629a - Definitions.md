@@ -40,7 +40,7 @@ As used in this subpart:
 
 #### (6) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) of this title) and any Alaska Native organization (as defined in section 682(i)(7)(A) of this title).
+&emsp;The term “Indian tribe” means any Indian tribe (as defined in section 682(i)(5) <sup>1</sup> of this title) and any Alaska Native organization (as defined in section 682(i)(7)(A) <sup>1</sup> of this title).
 
 #### (b) Other terms
 
@@ -48,7 +48,13 @@ For other definitions of other terms used in this subpart, see section 675 of th
 
 (Aug. 14, 1935, ch. 531, title IV, §431, as added Aug. 10, 1993, Pub. L. 103–66, title XIII, §13711(a)(2), 107 Stat. 650.)
 
+#### References in Text
+
+Section 682 of this title, referred to in subsec. (a)(6), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+
 #### Prior Provisions
 
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

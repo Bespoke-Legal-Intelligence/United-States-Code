@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(iii) the shareholders of the BHC who receive distributions of such property do not have control of such BHC,
 
-> &emsp;&emsp;then, subsection (a) shall not apply to any securities received by a qualified minority shareholder incident to the formation of such BHC. For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.
+> &emsp;&emsp;then, subsection (a) shall not apply to any securities received by a qualified minority shareholder incident to the formation ofsuch BHC. For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.
 
 #### (D) Definitions and special rule
 
@@ -264,7 +264,7 @@ In general.—Except as otherwise provided in this paragraph, the amendments mad
 
 “(B)
 
-Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury orhis delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
+Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
 
 “(C)
 
@@ -272,7 +272,7 @@ Special rule for certain transfers to form bank holding company.—Except as pro
 
 &emsp;“(i) such BHC was formed not later than the 90th day after the date of the last required approval of any regulatory authority to form such BHC, and
 
-&emsp;“(ii) such BHC did not elect (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) not to have the provisions of this subparagraph apply.
+&emsp;“(ii) such BHC did not elect (at such time and in such manner as the Secretary of the Treasury or hisdelegate shall prescribe) not to have the provisions of this subparagraph apply.
 
 “(D)
 

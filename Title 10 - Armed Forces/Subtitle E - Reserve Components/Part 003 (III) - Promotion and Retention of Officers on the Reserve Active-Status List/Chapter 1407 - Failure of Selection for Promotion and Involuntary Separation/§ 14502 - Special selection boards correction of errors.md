@@ -2,7 +2,7 @@
 
 (a)
 
-Officers Not Considered Because of Administrative Error.—(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under section 14101(a) of this title because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with section 14102 of this title and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in section 14103 of this title.
+Officers Not Considered Because of Administrative Error.—(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under section 14101(a) of this title because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such boardshall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with section 14102 of this title and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in section 14103 of this title.
 
 (2) A special selection board convened under this subsection shall consider the record of the officer or former officer as that record would have appeared to the promotion board that should have considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
@@ -46,7 +46,7 @@ Time Limits for Consideration.—The Secretary of Defense may prescribe by regul
 
 Limitation of Other Jurisdiction.—No official or court of the United States shall have power or jurisdiction—
 
-&emsp;(1) over any claim based in any way on the failure of an officer or former officer of the armed forces to be selected for promotion by a selection board convened under chapter 1403 of this title until—
+&emsp;(1) over any claim based in any way on the failure of an officer or former officer of the armed forces to be selected for promotion by aselection board convened under chapter 1403 of this title until—
 
 &emsp;&emsp;(A) the claim has been referred to a special selection board by the Secretary concerned and acted upon by that board; or
 
@@ -65,10 +65,6 @@ Judicial Review.—(1) A court of the United States may review a determination b
 Designation of Boards.—The Secretary of the military department concerned may designate a promotion board convened under section 14101(a) of this title as a special selection board convened under this section. A board so designated may function in both capacities.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2947.)
-
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
 
 #### Prior Provisions
 

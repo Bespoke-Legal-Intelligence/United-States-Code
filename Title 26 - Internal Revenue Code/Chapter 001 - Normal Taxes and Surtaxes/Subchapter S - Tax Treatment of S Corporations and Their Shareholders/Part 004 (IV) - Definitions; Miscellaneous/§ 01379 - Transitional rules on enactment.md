@@ -2,7 +2,7 @@
 
 #### (a) Old elections
 
-Any election made under section 1372(a) (as in effect before the enactment of the Subchapter S Revision Act of 1982) shall be treated as an election made under section 1362.
+Any election made under section 1372(a) (as in effect before the enactment of the Subchapter SRevision Act of 1982) shall be treated as an election made under section 1362.
 
 #### (b) References to prior law included
 

@@ -178,7 +178,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1351, 1352, 1823 of this title; title 15 section 636; title 20 section 1262.
+This chapter is referred to in sections 1351, 1352, 1823 of this title; title 20 section 1262.
 
 
 ---

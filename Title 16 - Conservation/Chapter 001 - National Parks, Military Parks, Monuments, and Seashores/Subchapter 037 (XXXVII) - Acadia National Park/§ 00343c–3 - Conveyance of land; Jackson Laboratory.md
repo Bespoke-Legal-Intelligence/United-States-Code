@@ -12,7 +12,7 @@ Beginning at a stone bound set in the ground in the southeasterly side line of S
 
 &emsp;thence following the same course; namely, south 71 degrees 04 minutes east and always following a southwesterly line of land belonging to the Jackson Laboratory, 183.2 feet to a stone bound set in the ground;
 
-&emsp;thence north 84 degrees 46 minutes east and always following a southeasterly line of land belonging to the Jackson Laboratory, 89.9 feet to a stone bound set in the ground in thenorthwesterly side of an old crossroad leading from the old Campground Road to State Highway Numbered 3;
+&emsp;thence north 84 degrees 46 minutes east and always following a southeasterly line of land belonging to the Jackson Laboratory, 89.9 feet to a stone bound set in the ground in the northwesterly side of an old crossroad leading from the old Campground Road to State Highway Numbered 3;
 
 &emsp;thence north 23 degrees 16 minutes east and following a southeasterly line of land belonging to the Jackson Laboratory, 160.0 feet to an angle in said line;
 

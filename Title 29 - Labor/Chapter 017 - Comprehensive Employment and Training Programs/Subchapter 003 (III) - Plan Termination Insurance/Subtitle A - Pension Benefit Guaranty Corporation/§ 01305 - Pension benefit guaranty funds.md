@@ -2,7 +2,7 @@
 
 #### (a) Establishment of four revolving funds on books of Treasury of the United States
 
-There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (if any), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term “fund” the reference shall be considered to refer to the appropriate fund established under this subsection.
+There are established on the books of the Treasury of the United States for revolving funds to be used by the corporation in carrying out its duties under this subchapter. One of the funds shall be used with respect to basic benefits guaranteed under section 1322 of this title, one of the funds shall be used with respect to basic benefits guaranteed under section 1322a of this title, one of the funds shall be used with respect to nonbasic benefits guaranteed under section 1322 of this title (if any), and the remaining fund shall be used with respect to nonbasic benefits guaranteed under section 1322a of this title (ifany), other than subsection (g)(2) thereof (if any). Whenever in this subchapter reference is made to the term “fund” the reference shall be considered to refer to the appropriate fund established under this subsection.
 
 #### (b) Credits to funds; availability of funds; investment of moneys in excess of current needs
 
@@ -62,7 +62,7 @@ The corporation is authorized to issue to the Secretary of the Treasury notes or
 
 &emsp;(B) earnings on investments of the fund or on assets credited to the fund.
 
-> The fund shall be available for making payments pursuant to the supplemental benefit guarantee program established under section 1322a(g)(2) of this title, including those expenses and other charges determined to be appropriate by the corporation.
+> The fund shall be available for making payments pursuant to the supplemental benefitguarantee program established under section 1322a(g)(2) of this title, including those expenses and other charges determined to be appropriate by the corporation.
 
 (3) The corporation may invest amounts of the fund in such obligations as the corporation considers appropriate.
 
@@ -88,7 +88,7 @@ The corporation is authorized to issue to the Secretary of the Treasury notes or
 
 #### (g) Other use of funds; deposits of repayments
 
-(1) Amounts in any fund established under this section may be used only for the purposes forwhich such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
+(1) Amounts in any fund established under this section may be used only for the purposes for which such fund was established and may not be used to make loans to (or on behalf of) any other fund or to finance any other activity of the corporation.
 
 (2) None of the funds borrowed under subsection (c) of this section may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a) of this section.
 

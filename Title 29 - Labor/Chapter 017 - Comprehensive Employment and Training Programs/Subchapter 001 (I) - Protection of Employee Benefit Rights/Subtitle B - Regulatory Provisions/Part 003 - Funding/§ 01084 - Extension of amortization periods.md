@@ -16,7 +16,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (b) Amendment of plan
 
-(1) No amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under section 1083(a) of this title or an extension of time under subsection (a) of this section is in effect with respect to the plan, or if a plan amendment described in section 1082(c)(8) of this title has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+(1) No amendment of the plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under section 1083(a) of this title or an extension of time under subsection (a) of this section is in effect with respect to the plan, or if a plan amendment described in section 1082(c)(8) of this title has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on orafter the date on which such amendment is adopted.
 
 (2) Paragraph (1) shall not apply to any plan amendment which—
 

@@ -392,7 +392,7 @@ Subsec. (d)(6)(F). Pub. L. 87–64, §106, substituted “prior to 1963 or, if l
 
 1960—Subsec. (b)(1). Pub. L. 86–778, §103(i), excluded Guam and American Samoa from definition of “State”.
 
-Subsec. (c)(6)(C). Pub. L. 86–778, §103(j)(2)(G), substituted “section 410(k)” for “section 410(<i>l)”.</i>
+Subsec. (c)(6)(C). Pub. L. 86–778, §103(j)(2)(G), substituted “section 410(k)” for “section 410(<i>l</i>)”.
 
 Subsec. (d)(3). Pub. L. 86–778, §102(a)(1), authorized certification by an official of the State designated by the Governor for that purpose.
 
@@ -478,7 +478,7 @@ Subsec. (m)(1). Act Sept. 1, 1954, §101(h)(7), substituted “paragraph (1) of 
 
 Subsec. (n). Act Sept. 1, 1954, §101(h)(8), added subsec. (n).
 
-Subsec. (<i>o</i>). Act Sept. 1, 1954, §101(j), added subsec. (<i>l).</i>
+Subsec. (<i>o</i>). Act Sept. 1, 1954, §101(j), added subsec. (<i>l</i>).
 
 1953—Subsec. (m). Act Aug. 15, 1953, added subsec. (m).
 

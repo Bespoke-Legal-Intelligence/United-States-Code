@@ -56,7 +56,7 @@ Each State educational agency receiving a grant under this subpart may enter int
 
 #### Prior Provisions
 
-A prior section 542 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1504; amended Pub. L. 100–50, §16(2), June 3, 1987, 101 Stat. 358, related to allocation of appropriations for leadership in educational administration development program and was classified to section 1109a of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
+A prior section 542 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1504; amended Pub. L. 100–50, §16(2), June 3, 1987, 101 Stat. 358, related to allocation of appropriations for leadership in educational administration developmentprogram and was classified to section 1109a of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
 Another prior section 542 of Pub. L. 89–329, title V, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1462, related to applications for grants for training teachers for handicapped children and was classified to section 1119b–1 of this title, prior to the general revision of this subchapter by Pub. L. 99–498.
 

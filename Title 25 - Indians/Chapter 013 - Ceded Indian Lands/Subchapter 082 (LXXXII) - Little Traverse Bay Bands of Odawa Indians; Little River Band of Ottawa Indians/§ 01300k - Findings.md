@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(3) The Little Traverse Bay Bands of Odawa Indians consists of at least 1,000 eligible members who continue to reside close to their ancestral homeland as recognized in the Little Traverse Reservation in the 1836 Treaty of Washington and 1855 Treaty of Detroit, which area is now known as Emmet and Charlevoix Counties, Michigan.
 
-&emsp;(4) The Little River Band of Ottawa Indians consists of at least 500 eligible members who continue to reside close to their ancestral homeland as recognized in the Manistee Reservation in the 1836 Treaty of Washington andreservation in the 1855 Treaty of Detroit, which area is now known as Manistee and Mason Counties, Michigan.
+&emsp;(4) The Little River Band of Ottawa Indians consists of at least 500 eligible members who continue to reside close to their ancestral homeland as recognized in the Manistee Reservation in the 1836 Treaty of Washington and reservation in the 1855 Treaty of Detroit, which area is now known as Manistee and Mason Counties, Michigan.
 
 &emsp;(5) The Bands filed for reorganization of their existing tribal governments in 1935 under the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”). Federal agents who visited the Bands, including Commissioner of Indian Affairs, John Collier, attested to the continued social and political existence of the Bands and concluded that the Bands were eligible for reorganization. Due to a lack of Federal appropriations to implement the provisions of such Act, the Bands were denied the opportunity to reorganize.
 

@@ -32,7 +32,7 @@
 
 &emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
 
-&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
+&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end ofthe period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
 (2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 
@@ -56,7 +56,7 @@
 
 (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
 
-(g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agenciesand any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
+(g) The Director of the Office of Personnel Management, after consultation with heads of a representative number and variety of agencies and any other consultation which the Director considers appropriate, shall prescribe regulations containing such standards and requirements as the Director considers necessary to provide for reasonable uniformity among programs under this section.
 
 (Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659.)
 

@@ -6,7 +6,7 @@ The Secretary shall vest in the Assistant Secretary for Indian Affairs all funct
 
 #### (b) Direction and supervision of personnel operations
 
-The Director of the Office shall direct and supervise the operations of all personnel directly and substantially involved with provision of education services by the Bureau, including school or institution custodial or maintenance personnel. The Assistant Secretary for Indian Affairs shall provide for the adequate coordination between the affected Bureau Offices and the Office to facilitate the consideration of all contract functions relating to education. Except asrequired by section 2009 of this title, nothing in this Act shall be construed to require the provision of separate support services for Indian education.
+The Director of the Office shall direct and supervise the operations of all personnel directly and substantially involved with provision of education services by the Bureau, including school or institution custodial or maintenance personnel. The Assistant Secretary for Indian Affairs shall provide for the adequate coordination between the affected Bureau Offices and the Office to facilitate the consideration of all contract functions relating to education. Except as required by section 2009 of this title, nothing in this Act shall be construed to require the provision of separate support services for Indian education.
 
 #### (c) Evaluation of programs; services and support functions; technical and coordinating assistance
 
@@ -38,7 +38,7 @@ Education personnel who are under the direction and supervision of the Director 
 
 &emsp;(iv) a system for the conduct of routine preventive maintenance.
 
-(B) The appropriate education line officers shall make arrangements for the maintenance of education facilities with the local supervisors of the Bureau maintenance personnel who are under the authority of the agency superintendent or area directors, respectively. The local supervisors of Bureau maintenance personnel shall take appropriate action to implement the decisions made by the appropriate education line officers, except that no funds under this chapter may be authorized for expenditure unless such appropriate education line officer is assured that the necessary maintenance has been, or will be, provided in a reasonable manner. Subject to the requirements of subsection (b) of this section, nothing in this Act shall be construed to require the provision of separate operations and maintenance personnel for the Office.
+(B) The appropriate education line officers shall make arrangements for the maintenance of education facilities with the local supervisors of the Bureau maintenance personnel who are under the authority of the agency superintendent or area directors, respectively. The local supervisors of Bureau maintenance personnel shall take appropriate action to implement the decisions made by the appropriate education line officers, except that no funds under this chapter may be authorized for expenditure unless such appropriate education line officer is assured that the necessary maintenance has been, orwill be, provided in a reasonable manner. Subject to the requirements of subsection (b) of this section, nothing in this Act shall be construed to require the provision of separate operations and maintenance personnel for the Office.
 
 (3) The requirements of this subsection shall be implemented not later than July 1, 1995.
 

@@ -16,7 +16,7 @@ Subject to the provisions of subsections (a), (b), and (c) of this section, the 
 
 (4) The Secretary of the Interior shall, upon application by a State, issue patents to the State for the lands granted by this section and section 871 of this title, in accordance with section 871a <sup>1</sup> of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
 
-(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by asingle lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
+(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
 
 (6) As used in this subsection, “lease” includes “permit” and “lessor” includes “grantor”.
 
@@ -40,7 +40,7 @@ Subsec. (c). Act May 2, 1932, inserted “reservation” before “application�
 
 #### Effective Date of 1932 Amendment
 
-Section 2 of act May 2, 1932, provided that: “This amendatory Act \[amending this section\] shall take effect as of January 25, 1927; and in any case in which a State has selected lieu lands since such date under the Act approved February 28, 1891 (26 Stat. 796) \[sections 851 and 852 of this title\], and still retains title thereto, such State may, within ninety days after the date of the enactment of this Act \[May 2, 1932\], relinquish to the United States all right, title, and interest in such lands and shall thereupon be entitled to all the benefits of the Act of January 25, 1927 \[sections 870 and 871 of this title\], as amended by this Act.”
+Section 2 of act May 2, 1932, provided that: “This amendatory Act \[amending this section\] shall take effect as of January 25, 1927; and in any case in which a State has selected lieu lands since such date under the Act approved February 28, 1891 (26 Stat. 796) \[sections 851 and 852 of this title\], and still retains title thereto, such State may, within ninety days after the date of the enactment of this Act \[May 2, 1932\], relinquish to the United States all right, title, and interest in such lands and shall thereupon be entitled to all the benefitsof the Act of January 25, 1927 \[sections 870 and 871 of this title\], as amended by this Act.”
 
 #### Admission of Alaska as State
 

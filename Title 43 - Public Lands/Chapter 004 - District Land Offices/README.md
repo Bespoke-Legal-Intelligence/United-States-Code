@@ -18,7 +18,7 @@
 | [92\.](%C2%A7%2000092%20-%20Lists%20furnished%20with%20deposits.md) | Lists furnished with deposits. |
 | [93\.](%C2%A7%2000093%20-%20Deposit%20of%20moneys%20deposited%20by%20unknown%20parties.md) | Deposit of moneys deposited by unknown parties. |
 | [94\.](%C2%A7%2000094%20-%20Reimbursement%20of%20sums%20disbursed%20as%20special%20disbursing%20agents.md) | Reimbursement of sums disbursed as special disbursing agents. |
-| 95 to 98a. Repealed. |  |
+| 95 to 98a. | Repealed. |
 | [99\.](%C2%A7%2000099%20-%20Repayment%20of%20moneys%20deposited%20and%20covered%20into%20Treasury.md) | Repayment of moneys deposited and covered into Treasury. |
 | [100\.](%C2%A7%2000100%20-%20Disqualification.md) | Disqualification. |
 | [101\.](%C2%A7%2000101%20-%20Report%20of%20disqualification%3B%20designation%20of%20officer%20to%20act.md) | Report of disqualification; designation of officer to act. |

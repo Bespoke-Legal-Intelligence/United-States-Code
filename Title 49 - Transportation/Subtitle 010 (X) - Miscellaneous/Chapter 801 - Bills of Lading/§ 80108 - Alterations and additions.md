@@ -6,7 +6,9 @@ An alteration or addition to a bill of lading after its issuance by a common car
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -30,7 +30,7 @@ A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95�
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b)(C). Pub. L. 101–12 substituted “1215” for “1206”.
+1989—Subsec. (b)(C). Pub. L. 101–12 substituted “1215” for “1206”.
 
 #### Effective Date of 1989 Amendment
 

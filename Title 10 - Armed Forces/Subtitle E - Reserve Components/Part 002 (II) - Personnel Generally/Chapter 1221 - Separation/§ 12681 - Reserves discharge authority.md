@@ -1,6 +1,6 @@
 ### §12681. Reserves: discharge authority
 
-Subject to other provisions of this title, reserve commissioned officers may be dischargedat the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
+Subject to other provisions of this title, reserve commissioned officers may be discharged at the pleasure of the President. Other Reserves may be discharged under regulations prescribed by the Secretary concerned.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
 
@@ -40,7 +40,9 @@ Definitions.—In this section:
 
 #### Guard and Reserve Transition Initiatives
 
-Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754, provided that:
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8050\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, annual payments granted under the provisions of section 4416 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2714) \[set out below\] shall be made from appropriations in this Act \[Pub. L. 104–208\] which are available for the pay of reserve component personnel.”
+
+Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712, as amended by Pub. L. 103–35, title II, §202(a)(17), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title V, §561(f)(1)–(3), Nov. 30, 1993, 107 Stat. 1667, 1668; Pub. L. 103–337, div. A, title V, §518(a), (b), Oct. 5, 1994, 108 Stat. 2754; Pub. L. 104–106, div. A, title XV, §1501(d)(3), Feb. 10, 1996, 110 Stat. 500, provided that:
 
 #### “SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
@@ -102,7 +104,7 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 “The protections, preferences, and benefits provided for in regulations prescribed in accordance with this subtitle do not apply with respect to a member of the Selected Reserve who is discharged from a reserve component of the Armed Forces or is transferred from the Selected Reserve to another category of the Ready Reserve, to the Standby Reserve, or to the Retired Reserve—
 
-&emsp;“(1) at the request of the member unless such request was made and approved under a provision ofthis subtitle or section 1331a \[now 12731a\] of title 10, United States Code (as added by section 4417);
+&emsp;“(1) at the request of the member unless such request was made and approved under a provision of this subtitle or section 12731a of title 10, United States Code (as added by section 4417);
 
 &emsp;“(2) because the member no longer meets the qualifications for membership in the Selected Reserve set forth in any provision of law as in effect on the day before the date of the enactment of this Act \[Oct. 23, 1992\];
 
@@ -120,9 +122,9 @@ Uniform Applicability.—The regulations shall apply uniformly to the Army, Navy
 
 “(a)
 
-Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 1331 \[now 12731\] of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
+Temporary Special Authority for Elimination of Officers From Active Status.—(1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in section 12731 of title 10, United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
-“(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given an opportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
+“(2) An officer who is to be eliminated from an active status under this section, shall, if qualified, be given anopportunity to request transfer to the appropriate Retired Reserve and, if the officer requests it, shall be so transferred. If the officer is not transferred to the Retired Reserve, the officer shall, in the discretion of the Secretary concerned, be transferred to the appropriate inactive status list or be discharged.
 
 “(3) A member of the Army National Guard of the United States or the Air National Guard of the United States may not be eliminated from an active status under this section without the consent of the Governor or other appropriate authority of the State or territory, Puerto Rico, or the District of Columbia, whichever is concerned.
 
@@ -130,9 +132,9 @@ Temporary Special Authority for Elimination of Officers From Active Status.—(1
 
 Temporary Special Authority.—During the force reduction transition period, the Secretary concerned may grant a member of the Selected Reserve under the age of 60 years the annual payments provided for under this section if—
 
-&emsp;“(1) as of October 1, 1991, that member has completed at least 20 years of service computed under section 1332 \[now 12732\] of title 10, United States Code, or after that date and before October 1, 1999, such member completes 20 years of service computed under that section;
+&emsp;“(1) as of October 1, 1991, that member has completed at least 20 years of service computed under section 1332 of title 10, United States Code, or after that date and before October 1, 1999, such member completes 20 years of service computed under that section or section 12732;
 
-&emsp;“(2) the member satisfies the requirements of paragraphs (3) and (4) of section 1331(a) \[now 12731(a)\] of title 10, United States Code; and
+&emsp;“(2) the member satisfies the requirements of paragraphs (3) and (4) of section 1331(a) or 12731(a) of title 10, United States Code; and
 
 &emsp;“(3) the member applies for transfer to the Retired Reserve.
 
@@ -146,7 +148,7 @@ Annual Payment Period.—An annual payment granted to a member under this sectio
 
 Computation of Annual Payment.—(1) The annual payment for a member shall be equal to the amount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
 
-“(2)(A) Subject to subparagraph (B) the percent applicable to a member for purposes of paragraph (1) is 5 percent plus 0.5 percent for each full year of service, computed under section 1332 \[now 12732\] of title 10, United States Code, that a member has completed in excess of 20 years before transfer to the Retired Reserve.
+“(2)(A) Subject to subparagraph (B) the percent applicable to a member for purposes of paragraph (1) is 5 percent plus 0.5 percent for each full year of service, computed under section 12732 of title 10, United States Code, that a member has completed in excess of 20 years before transfer to the Retired Reserve.
 
 “(B) The maximum percent applicable under this paragraph is 10 percent.
 
@@ -160,7 +162,7 @@ Applicability Subject to Needs of the Service.—(1) Subject to regulations pres
 
 “(g)
 
-Nonduplication of Benefits.—A member transferred to the Retired Reserve under the authority of section 1331a \[now 12731a\] of title 10, United States Code (as added by section 4417), may not be paid annual payments under this section.
+Nonduplication of Benefits.—A member transferred to the Retired Reserve under the authority of section 12731a of title 10, United States Code (as added by section 4417), may not be paid annual payments under this section.
 
 “(h)
 
@@ -180,13 +182,13 @@ Clerical Amendment.—\[Amended analysis of chapter 67 \[now 1223\] of this titl
 
 “(a)
 
-Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least 6 years of service computed under section 1332 \[now 12732\] of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
+Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least 6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
 
 “(b)
 
 Amount of Separation Pay.—(1) The amount of separation pay which may be paid to a person under this section is 15 percent of the product of—
 
-&emsp;“(A) the years of service credited to that person under section 1333 \[now 12733\] of title 10, United States Code; and
+&emsp;“(A) the years of service credited to that person under section 12733 of title 10, United States Code; and
 
 &emsp;“(B) 62 times the daily equivalent of the monthly basic pay to which the person would have been entitled had the person been serving on active duty at the time of the person's discharge or transfer.
 

@@ -1,6 +1,6 @@
 ### §8702. Certain crew requirements
 
-(a) This section applies to a vessel of at least 100 gross tons except—
+(a) This section applies to a vessel of at least 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title except—
 
 &emsp;(1) a vessel operating only on rivers and lakes (except the Great Lakes);
 
@@ -12,7 +12,7 @@
 
 &emsp;(5) an oceanographic research vessel with respect to scientific personnel;
 
-&emsp;(6) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products; and
+&emsp;(6) a fish processing vessel entered into service before January 1, 1988, and not more than 1,600 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or entered into service after December 31, 1987, and having not more than 16 individuals on board primarily employed in the preparation of fish or fish products; and
 
 &emsp;(7) a fish processing vessel (except a vessel to which clause (6) of this subsection applies) with respect to individuals on board primarily employed in the preparation of fish or fish products or in a support position not related to navigation.
 
@@ -32,7 +32,7 @@
 
 (e) The owner, charterer, managing operator, agent, master, or individual in charge of a vessel operated in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $10,000.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(B), July 17, 1984, 98 Stat. 449; Pub. L. 100–239, §5(e), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 101–380, title IV, §4302(i), Aug. 18, 1990, 104 Stat. 539; Pub. L. 101–595, title VI, §602(e)(2), Nov. 16, 1990, 104 Stat. 2992.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(B), July 17, 1984, 98 Stat. 449; Pub. L. 100–239, §5(e), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 101–380, title IV, §4302(i), Aug. 18, 1990, 104 Stat. 539; Pub. L. 101–595, title VI, §602(e)(2), Nov. 16, 1990, 104 Stat. 2992; Pub. L. 104–324, title VII, §732, Oct. 19, 1996, 110 Stat. 3941.)
 
 Historical and Revision Notes
 
@@ -59,6 +59,10 @@ Subsection (d) prohibits anyone having a rating of less than able seamen from se
 Subsection (e) prescribes the penalty for violation of this section.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–324, §732(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “100 gross tons” in introductory provisions.
+
+Subsec. (a)(6). Pub. L. 104–324, §732(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “1,600 gross tons”.
 
 1990—Subsec. (a)(3). Pub. L. 101–595, §602(e)(2)(A), substituted “vessel (except a fish tender vessel engaged in the Aleutian trade)” for “vessel”.
 

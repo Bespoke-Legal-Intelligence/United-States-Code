@@ -1,24 +1,30 @@
 ### §1712A. Eligibility for readjustment counseling and related mental health services
 
-(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
+(a)(1)(A) Upon the request of any veteran referred to in subparagraph (B), the Secretary shall furnish counseling to the veteran to assist the veteran in readjusting to civilian life. Such counseling may include a general mental and psychological assessment of the veteran to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
 
-(2)(A) The Secretary shall furnish counseling as described in paragraph (1), upon request, to any veteran who served on active duty after May 7, 1975, in an area at a time during which hostilities occurred in such area.
+(B) Subparagraph (A) applies to the following veterans:
 
-(B) For the purposes of subparagraph (A) of this paragraph, the term “hostilities” means an armed conflict in which members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.
+&emsp;(i) Any veteran who served on active duty—
 
-(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis under the conditions specified in section 1712(a)(5)(B) of this title. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1711(b) of this title).
+&emsp;&emsp;(I) in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during the Vietnam era; or
+
+&emsp;&emsp;(II) after May 7, l975, in an area at a time during which hostilities occurred in that area.
+
+&emsp;(ii) Any veteran (other than a veteran covered by clause (i)) who served on active duty during the Vietnam era who seeks or is furnished such counseling before January 1, 2000.
+
+(2)(A) Upon the request of any veteran (other than a veteran covered by paragraph (1)) who served in the active military, naval, or air service in a theater of combat operations (as so determined) during a period of war, or in any other area during a period in which hostilities (as defined in subparagraph (B)) occurred in such area, the Secretary may furnish counseling to the veteran to assist the veteran in readjusting to civilian life.
+
+(B) For the purposes of subparagraph (A), the term “hostilities” means an armed conflict in which the members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.
+
+(b)(1) If, on the basis of the assessment furnished under subsection (a) of this section, a physician or psychologist employed by the Department (or, in areas where no such physician or psychologist is available, a physician or psychologist carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in section 1711(b) of this title).
 
 (2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in section 1701(6)(B) of this title.
 
-(c) Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
-
-&emsp;(1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
-
-&emsp;(2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, or air service and the Department for review of such individual's discharge or release from such service.
+\[(c) Repealed. Pub. L. 104–262, title III, §331(b), Oct. 9, 1996, 110 Stat. 3198.\]
 
 (d) The Under Secretary for Health may provide for such training of professional, paraprofessional, and lay personnel as is necessary to carry out this section effectively, and, in carrying out this section, may utilize the services of paraprofessionals, individuals who are volunteers working without compensation, and individuals who are veteran-students (as described in section 3485 of this title) in initial intake and screening activities.
 
-(e)(1) In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts with private facilities that is available to the Secretary (under sections 1712(a)(1)(B) and 1703(a)(2) of this title) in furnishing medical services to veterans suffering from total service-connected disabilities.
+(e)(1) In furnishing counseling and related mental health services under subsections (a) and (b) of this section, the Secretary shall have available the same authority to enter into contracts with private facilities that is available to the Secretary (under sections 1703(a)(2) and 1710(a)(1)(B) of this title) in furnishing medical services to veterans suffering from total service-connected disabilities.
 
 (2) Before furnishing counseling or related mental health services described in subsections (a) and (b) of this section through a contract facility, as authorized by this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which the counseling or services are to be furnished.
 
@@ -64,7 +70,7 @@
 
 (D) For the purposes of this paragraph, the term “general Department facility” means a Department facility which is not a center and at which readjustment counseling would be furnished in a particular geographic area upon the closure or relocation of a center.
 
-(4) After submitting the plan required by paragraph (3) of this subsection, the Secretary may submit to the committees a revision to such plan in order to modify the proposal set forth in the plan as to any center. Any such revision shall include, with respect to each center addressed in the revision, a description of the Secretary's evaluation of the matters specified in paragraphs (3)(B) and (3)(C) of this subsection.
+(4) After submitting the plan required by paragraph (3) of this subsection, the Secretary may submit to the committees a revision to suchplan in order to modify the proposal set forth in the plan as to any center. Any such revision shall include, with respect to each center addressed in the revision, a description of the Secretary's evaluation of the matters specified in paragraphs (3)(B) and (3)(C) of this subsection.
 
 (5) For purposes of determining a period of time under paragraph (1)(B) of this subsection, if the national plan (or a revision to the national plan) is submitted to the committees during the 121-day period beginning 60 days before and ending 60 days after the final day of a session of the Congress, it shall be deemed to have been submitted on the sixty-first day after the final day of such session.
 
@@ -76,13 +82,31 @@
 
 &emsp;(2) The term “Department general health-care facility” means a health-care facility which is operated by the Department for the furnishing of health-care services under this chapter, not limited to services provided through the program established under this section.
 
-(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 96–22, title I, §103(a)(1), June 13, 1979, 93 Stat. 48, §612A; amended Pub. L. 96–128, title V, §501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, §104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, §101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, §204, title VII, §702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, §107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, §1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, §334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, §14(b)(11), June 13, 1991, 105 Stat. 283; renumbered §1712A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(5), title III, §331, Oct. 9, 1996, 110 Stat. 3180, 3197.)
 
 #### References in Text
 
 Section 102 of the Veterans’ Health Care Amendments of 1983, referred to in subsec. (g)(2)(A), is section 102 of Pub. L. 98–160, title I, Nov. 21, 183, 97 Stat. 994, which was formerly set out below.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–262, §331(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+
+“(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
+
+“(2)(A) The Secretary shall furnish counseling as described in paragraph (1), upon request, to any veteran who served on active duty after May 7, 1975, in an area at a time during which hostilities occurred in such area.
+
+“(B) For the purposes of subparagraph (A) of this paragraph, the term ‘hostilities’ means an armed conflict in which members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.”
+
+Subsec. (b)(1). Pub. L. 104–262, §101(d)(5)(A), struck out “under the conditions specified in section 1712(a)(5)(B) of this title” after “furnished such services on an outpatient basis”.
+
+Subsec. (c). Pub. L. 104–262, §331(b), struck out subsec. (c) which read as follows: “Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
+
+&emsp;“(1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
+
+&emsp;“(2) if pertinent, advise such individual of such individual's rights to apply to the appropriate military, naval, or air service and the Department for review of such individual's discharge or release from such service.”
+
+Subsec. (e)(1). Pub. L. 104–262, §101(d)(5)(B), substituted “sections 1703(a)(2) and 1710(a)(1)(B)” for “sections 1712(a)(1)(B) and 1703(a)(2)”.
 
 1992—Subsecs. (d), (g)(3)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -120,7 +144,7 @@ Subsec. (g). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (h). Pub. L. 102–83, §4(b)(6), struck out subsec. (h) which related to carrying out a pilot program to provide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
+Subsec. (h). Pub. L. 102–83, §4(b)(6), struck out subsec. (h) which related to carrying out a pilot program toprovide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
 
 Subsec. (i). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
@@ -364,9 +388,9 @@ Pub. L. 98–528, title I, §110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pu
 
 “(a)(1) The Chief Medical Director \[now Under Secretary for Health\] of the Department of Veterans Affairs may designate special programs within the Veterans Health Administration for the diagnosis and treatment of post-traumatic-stress disorder (hereinafter in this section referred to as ‘PTSD’).
 
-“(2) The Chief Medical Director \[now Under Secretary for Health\] shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department of Veterans Affairs programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department of Veterans Affairs or the Federal Government) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A \[formerly 612A\] of title 38, United States Code.
+“(2) The Chief Medical Director \[now Under Secretary for Health\] shall direct (A) that (in addition to providing diagnostic and treatment services for PTSD) Department of Veterans Affairs programs designated under paragraph (1) (hereinafter in this section referred to as ‘designated PTSD programs’) carry out activities to promote the education and training of health-care personnel (including health-care personnel not working for the Department of Veterans Affairs or the FederalGovernment) in the causes, diagnosis, and treatment of PTSD, and (B) that (when appropriate) the provision of treatment services under such program be coordinated with the provision of readjustment counseling services under section 1712A \[formerly 612A\] of title 38, United States Code.
 
-“(b)(1) The Chief Medical Director \[now Under Secretary for Health\] shall establish in the VeteransHealth Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Chief Medical Director shall appoint qualified employees of the Administration to serve on the Special Committee.
+“(b)(1) The Chief Medical Director \[now Under Secretary for Health\] shall establish in the Veterans Health Administration a Special Committee on Post-Traumatic-Stress Disorder (hereinafter in this section referred to as the ‘Special Committee’). The Chief Medical Director shall appoint qualified employees of the Administration to serve on the Special Committee.
 
 “(2) The Special Committee shall assess, and carry out a continuing assessment of, the capacity of the Department of Veterans Affairs to provide diagnostic and treatment services for PTSD to veterans eligible for health care furnished by the Department of Veterans Affairs.
 
@@ -404,5 +428,5 @@ Section 103(b) of Pub. L. 96–22, as amended by Pub. L. 102–83, §§5(c)(2), 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1703, 4102A, 4103, 4103A, 4104, 4214 of this title; title 29 section 1721.
+This section is referred to in sections 1703, 4102A, 4103, 4103A, 4104, 4214, 7306 of this title; title 29 section 1721.
 

@@ -10,13 +10,15 @@
 
 (e) The Secretary shall prescribe by regulation the detailed procedures whereby officers in a continuation zone will be selected for continuation on active duty.
 
-(f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Upon approval by the President, the names of the officers selected for continuation on active duty by the board shall be promptly disseminated to the service at large. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
+(f) A board convened under this section shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review the Secretary shall submit the report of the board to the President for his approval. Except as required by the procedures of this section, the proceedings of the board shall not be disclosed to any person not a member of the board.
 
 (g) Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 186; amended Pub. L. 94–546, §1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, §2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(3), Dec. 12, 1989, 103 Stat. 1911.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 186; amended Pub. L. 94–546, §1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, §2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, §203, Oct. 19, 1996, 110 Stat. 3907.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–324 struck out “Upon approval by the President, the names of the officers selected for continuation on active duty by the board shall be promptly disseminated to the service at large.” after “for his approval.”
 
 1989—Subsec. (c). Pub. L. 101–225 substituted “50 percent” for “75 percent”.
 

@@ -26,7 +26,7 @@ The Congress makes the following findings and declarations:
 
 #### References in Text
 
-This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513,Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
 
 #### Effective Date
 
@@ -37,6 +37,12 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 “(b) Parts A, B, E, and F of this title \[Parts A, B, E, and F of this subchapter\], section 702 \[set out as a note under section 321 of this title\], this section, and sections 705 through 709 \[sections 901 to 904 of this title and note set out below\], shall become effective upon enactment \[Oct. 27, 1970\].
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
+
+#### Short Title of 1996 Amendments
+
+Pub. L. 104–305, §1, Oct. 13, 1996, 110 Stat. 3807, provided that: “This Act \[amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Drug-Induced Rape Prevention and Punishment Act of 1996’.”
+
+Pub. L. 104–237, §1(a), Oct. 3, 1996, 110 Stat. 3099, provided that: “This Act \[enacting section 872a of this title, amending sections 802, 814, 830, 841 to 844, 853, 881, 959, and 960 of this title and section 1607 of Title 19, Customs Duties, and enacting provisions set out as notes under this section and sections 802, 872, and 971 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and section 290aa–4 of Title 42, The Public Health and Welfare\] may be cited as the ‘Comprehensive Methamphetamine Control Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -64,7 +70,7 @@ Pub. L. 99–570, §1, Oct. 27, 1986, 100 Stat. 3207, provided that: “This Act
 
 Pub. L. 99–570, title I, §1001, Oct. 27, 1986, 100 Stat. 3207–2, provided that: “This subtitle \[subtitle A (§§1001–1009) of title I of Pub. L. 99–570, amending sections 802, 841, 845, 845a, 848, 881, 960, and 962 of this title, sections 3553 and 3583 of Title 18, Crimes and Criminal Procedure, rule 35 of the Federal Rules of Criminal Procedure, Title 18, Appendix, and section 994 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 841 of this title, sections 3553 and 3583 of Title 18, and rule 35 of the Federal Rules of Criminal Procedure\] may be cited as the ‘Narcotics Penalties and Enforcement Act of 1986’.”
 
-Pub. L. 99–570, title I, §1051, Oct. 27, 1986, 100 Stat. 3207–8, provided that: “This subtitle \[subtitle B (§§1051, 1052) of title I of Pub. L. 99–570, amending section 844 of this title\] may be cited as the ‘Drug Possession Penalty Act of 1986’.”
+Pub. L. 99–570, title I, §1051, Oct. 27, 1986, 100 Stat. 3207–8, provided that: “This subtitle \[subtitle B (§§1051, 1052) of title I of Pub. L. 99–570, amending section 844 ofthis title\] may be cited as the ‘Drug Possession Penalty Act of 1986’.”
 
 Pub. L. 99–570, title I, §1101, Oct. 27, 1986, 100 Stat. 3207–10, provided that: “This subtitle \[subtitle C (§§1101–1105) of title I of Pub. L. 99–570, enacting section 845b of this title and amending sections 841, 845, and 845a of this title\] may be cited as the ‘Juvenile Drug Trafficking Act of 1986’.”
 
@@ -101,6 +107,104 @@ Section 100 of title II of Pub. L. 91–513 provided that: “This title \[enact
 #### Continuation of Orders, Rules, and Regulations
 
 Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
+
+#### Congressional Findings Regarding Methamphetamine Manufacture and Abuse
+
+Pub. L. 104–237, §2, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Congress finds the following:
+
+&emsp;“(1) Methamphetamine is a very dangerous and harmful drug. It is highly addictive and is associated with permanent brain damage in long-term users.
+
+&emsp;“(2) The abuse of methamphetamine has increased dramatically since 1990. This increased use has led to devastating effects on individuals and the community, including—
+
+&emsp;&emsp;“(A) a dramatic increase in deaths associated with methamphetamine ingestion;
+
+&emsp;&emsp;“(B) an increase in the number of violent crimes associated with methamphetamine ingestion; and
+
+&emsp;&emsp;“(C) an increase in criminal activity associated with the illegal importation of methamphetamine and precursor compounds to support the growing appetite for this drug in the United States.
+
+&emsp;“(3) Illegal methamphetamine manufacture and abuse presents an imminent public health threat that warrants aggressive law enforcement action, increased research on methamphetamine and other substance abuse, increased coordinated efforts to prevent methamphetamine abuse, and increased monitoring of the public health threat methamphetamine presents to the communities of the United States.”
+
+#### Support for International Efforts To Control Methamphetamine and Precursors
+
+Pub. L. 104–237, title I, §101, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Attorney General, in consultation with the Secretary of State, shall coordinate international drug enforcement efforts to decrease the movement of methamphetamine and methamphetamine precursors into the United States.”
+
+#### Interagency Methamphetamine Task Force
+
+Pub. L. 104–237, title V, §501, Oct. 3, 1996, 110 Stat. 3111, provided that:
+
+“(a)
+
+Establishment.—There is established a ‘Methamphetamine Interagency Task Force’ (referred to as the ‘interagency task force’) which shall consist of the following members:
+
+&emsp;“(1) The Attorney General, or a designee, who shall serve as chair.
+
+&emsp;“(2) 2 representatives selected by the Attorney General.
+
+&emsp;“(3) The Secretary of Education or a designee.
+
+&emsp;“(4) The Secretary of Health and Human Services or a designee.
+
+&emsp;“(5) 2 representatives of State and local law enforcement and regulatory agencies, to be selected by the Attorney General.
+
+&emsp;“(6) 2 representatives selected by the Secretary of Health and Human Services.
+
+&emsp;“(7) 5 nongovernmental experts in drug abuse prevention and treatment to be selected by the Attorney General.
+
+“(b)
+
+Responsibilities.—The interagency task force shall be responsible for designing, implementing, and evaluating the education and prevention and treatment practices and strategies of the Federal Government with respect to methamphetamine and other synthetic stimulants.
+
+“(c)
+
+Meetings.—The interagency task force shall meet at least once every 6 months.
+
+“(d)
+
+Funding.—The administrative expenses of the interagency task force shall be paid out of existing Department of Justice appropriations.
+
+“(e)
+
+FACA.—The Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\] shall apply to the interagency task force.
+
+“(f)
+
+Termination.—The interagency task force shall terminate 4 years after the date of enactment of this Act \[Oct. 3, 1996\].”
+
+#### Suspicious Orders Task Force
+
+Pub. L. 104–237, title V, §504, Oct. 3, 1996, 110 Stat. 3112, provided that:
+
+“(a)
+
+In General.—The Attorney General shall establish a ‘Suspicious Orders Task Force’ (the ‘Task Force’) which shall consist of—
+
+&emsp;“(1) appropriate personnel from the Drug Enforcement Administration (the ‘DEA’) and other Federal, State, and local law enforcement and regulatory agencies with the experience in investigating and prosecuting illegal transactions of listed chemicals and supplies; and
+
+&emsp;“(2) representatives from the chemical and pharmaceutical industry.
+
+“(b)
+
+Responsibilities.—The Task Force shall be responsible for developing proposals to define suspicious orders of listed chemicals, and particularly to develop quantifiable parameters which can be used by registrants in determining if an order is a suspicious order which must be reported to DEA. The quantifiable parameters to be addressed will include frequency of orders, deviations from prior orders, and size of orders. The Task Force shall also recommend provisions as to what types of payment practices or unusual business practices shall constitute prima facie suspicious orders. In evaluating the proposals, the Task Force shall consider effectiveness, cost and feasibility for industry and government, and other relevant factors.
+
+“(c)
+
+Meetings.—The Task Force shall meet at least two times per year and at such other times as may be determined necessary by the Task Force.
+
+“(d)
+
+Report.—The Task Force shall present a report to the Attorney General on its proposals with regard to suspicious orders and the electronic reporting of suspicious orders within one year of the date of enactment of this Act \[Oct. 3, 1996\]. Copies of the report shall be forwarded to the Committees of the Senate and House of Representatives having jurisdiction over the regulation of listed chemical and controlled substances.
+
+“(e)
+
+Funding.—The administrative expenses of the Task Force shall be paid out of existing Department of Justice funds or appropriations.
+
+“(f)
+
+FACA.—The Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\] shall apply to the Task Force.
+
+“(g)
+
+Termination.—The Task Force shall terminate upon presentation of its report to the Attorney General, or two years after the date of enactment of this Act \[Oct. 3, 1996\], whichever is sooner.”
 
 #### Joint Federal Task Force on Illegal Drug Laboratories
 
@@ -240,11 +344,11 @@ Establishment of a united states-bahamas drug interdiction task force.—(A) The
 
 &emsp;“(2)
 
-Amounts authorized.—There are authorized to be appropriated, in addition to any other amounts authorized to be appropriated in this title \[see section3001 of Pub. L. 99–570 set out above\], $10,000,000 for the following:
+Amounts authorized.—There are authorized to be appropriated, in addition to any other amounts authorized to be appropriated in this title \[see section 3001 of Pub. L. 99–570 set out above\], $10,000,000 for the following:
 
 &emsp;&emsp;“(A) $9,000,000 for 3 drug interdiction pursuit helicopters for use primarily for operations of the United States-Bahamas Drug Interdiction Task Force established under this section; and
 
-&emsp;&emsp;“(B) $1,000,000 to enhance communications capabilities for the operation of a United States- Bahamas Drug Interdiction Task Force established under this section.
+&emsp;&emsp;“(B) $1,000,000 to enhance communications capabilities for the operation of a United States-Bahamas Drug Interdiction Task Force established under this section.
 
 &emsp;“(3)
 
@@ -312,7 +416,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 &emsp;“(3) nine members appointed by the President of the United States.
 
-> At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more than five of the members appointed under paragraph (3) be members of the same political party.
+> At no time shall more than one of the members appointed under paragraph (1), or more than one of themembers appointed under paragraph (2), or more than five of the members appointed under paragraph (3) be members of the same political party.
 
 “(b)
 
@@ -324,7 +428,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(c)
 
-\[Personnel; experts; information from departments and agencies\] (1) The Commission shallhave the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+\[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
 “(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 

@@ -20,9 +20,9 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 &emsp;(2) provide for complete amortization by periodic payments within such term as the Secretary may prescribe;
 
-&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 of title 7, including the authority in section 1929(f)(1) of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
+&emsp;(3) for insuring such loans, the Secretary shall utilize the Agricultural Credit Insurance Fund subject to all the provisions of section 1929 of title 7 and the second and third sentences of section 1928 <sup>1</sup> of title 7, including the authority in section 1929(f)(1) <sup>1</sup> of title 7 to utilize the insurance fund to make, sell, and insure loans which could be insured under this subsection; but the aggregate of the principal amounts of such loans made by the Secretary and not disposed of shall not exceed $10,000,000 outstanding at any one time; and the Secretary may take liens running to the United States though the notes may be held by other lenders;
 
-&emsp;(4) no loan shall be insured under this subsection after September 30, 1994;
+&emsp;(4) no loan shall be insured under this subsection after September 30, 1997;
 
 &emsp;(5) such a loan, when made to a consumer cooperative for cooperative housing purposes, may, notwithstanding any other provision of law, be made upon the condition that any person who is admitted as an eligible member and tenant of the cooperative may not subsequently be deprived of his membership or tenancy by reason of his no longer meeting the income eligibility requirements established by the Secretary; and
 
@@ -32,7 +32,7 @@ The Secretary is authorized to insure and make commitments to insure loans made 
 
 With respect to a loan made or insured under subsection (a) or (b) of this section, the Secretary is authorized to—
 
-&emsp;(1) make or insure an equity loan in the form of a supplemental loan for the purpose of equity takeout to the owner of housing financed with a loan made or insured under this section pursuant to a contract entered into before December 21, 1979, for the purpose of extending the affordability of the housing for low income families or persons and very low-income families or persons for not less than 20 years, except that such loan may not exceed 90 percent of the value of the equity in the project as determined by the Secretary;
+&emsp;(1) make or insure an equity loan in the form of a supplemental loan for the purpose of equity takeout to the owner of housing financed with a loan made or insured under this section pursuant to a contract entered into before December 15, 1989, for the purpose of extending the affordability of the housing for low income families or persons and very low-income families or persons for not less than 20 years, except that such loan may not exceed 90 percent of the value of the equity in the project as determined by the Secretary;
 
 &emsp;(2) transfer and reamortize an existing loan in connection with assistance provided under paragraph (1); and
 
@@ -62,7 +62,9 @@ Amounts made available pursuant to section 1483 of this title shall be available
 
 Notwithstanding the provisions of subsections (a) and (b) of this section, the Secretary may make and insure loans to consumer cooperatives to enable such cooperatives to finance the transfers of memberships in the cooperatives upon such terms and conditions as low- and moderate-income persons can reasonably afford, except that such loans shall not be made upon terms more favorable than are authorized under section 1490a(a) of this title, and that the total loan to a cooperative under this section shall not exceed the value of the property.
 
-#### (h) Repealed. Pub. L. 100–628, title X, §1042, Nov. 7, 1988, 102 Stat. 3273
+#### (h) Project transfers
+
+After August 6, 1996, the ownership or control of a project for which a loan is made or insured under this section may be transferred only if the Secretary determines that such transfer would further the provision of housing and related facilities for low-income families or persons and would be in the best interests of residents and the Federal Government.
 
 #### (i) Limitations on cost increases after approval for project involving newly constructed or substantially rehabilitated units; applicable factors
 
@@ -112,19 +114,23 @@ The Secretary may not (1) deny assistance under this section on the basis that r
 
 (4) In projects financed under this section, units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26 shall not be available for occupancy by persons or families other than persons or families with incomes not in excess of the qualifying income applicable to such units pursuant to subparagraph (A) or (B) of section 42(g)(1) of title 26.
 
-(5) The Secretary shall coordinate the processing of any application for a loan under this section for a project and the processing of any application for assistance under section 1490a(a)(2) of this title with respect to housing units in the same project in an economical and efficient manner. At the time the Secretary enters into a commitment to make or insure a loan under this section the Secretary shall obligate amounts for assistance payments under section 1490a(a)(2) of this title for the project, to the extent that such amounts are available and the Secretary determines such assistance is necessary for the market feasibility of the project.
+(5) The Secretary shall coordinate the processing of any application for a loan under this section for a project and the processing of any application for assistance under section 1490a(a)(2) of this title with respect to housing units in the same project in an economical and efficient manner. At the time the Secretary enters into a commitment to make or insure a loan under this section the Secretary shall obligateamounts for assistance payments under section 1490a(a)(2) of this title for the project, to the extent that such amounts are available and the Secretary determines such assistance is necessary for the market feasibility of the project.
 
 #### (q) Determination of income of person or family occupying financed housing
 
 In determining the income of a person or family occupying housing financed under this section, the Secretary shall consider the value of that person's or family's assets in the same manner as the Secretary of Housing and Urban Development considers such value for the purpose of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\].
 
-#### (r) Operating reserve and equity contribution requirements
+#### (r) Operating reserve and equity contribution requirements; regulations to implement adjustment by negotiated rulemaking procedure
 
-The Secretary—
+(1) the <sup>2</sup> Secretary—
 
-&emsp;(1) may require that the initial operating reserve under this section may be in the form of an irrevocable letter of credit; and
+&emsp;(A) may require that the initial operating reserve under this section may be in the form of an irrevocable letter of credit; and
 
-&emsp;(2) may not require more than a 3 percent contribution to equity, except that the Secretary shall require a 5 percent contribution in the case of a project that is allocated a low-income housing tax credit pursuant to section 42 of title 26.
+&emsp;(B) except as provided in paragraph (2), may require not more than a 3 percent contribution to equity, except that the Secretary shall require a 5 percent contribution in the case of a project that is allocated a low-income housing tax credit pursuant to section 42 of title 26.
+
+(2) The Secretary may adjust the amount of equity contribution to ensure that assistance provided is not more than is necessary to provide affordable housing after taking account of assistance from all Federal, State, and local sources.
+
+(3) Not later than 60 days after August 6, 1996, the Secretary shall issue regulations to implement subsection (r)(2) of this section in accordance with the negotiated rulemaking procedures set forth in subchapter III of chapter 5 of title 5: <i>Provided</i>, That if the negotiated rulemaking is not completed within the designated time, the Secretary shall proceed to promulgate regulations under the rulemaking authority contained in section 557 of title 5.
 
 #### (s) Limitation of fees on loans
 
@@ -152,29 +158,15 @@ No fee other than a late fee may be imposed by or for the Secretary or any other
 
 &emsp;The amount of an equity loan under this subsection shall not exceed the difference between the outstanding principal on debt secured by the project and 90 percent of the appraised value of the project. The appraised value of the project shall be determined by 2 independent appraisers, 1 of whom shall be selected by the Secretary and 1 of whom shall be selected by the owner. If the 2 appraisers fail to agree on the value of the project, the Secretary and the owner shall jointly select a third appraiser whose appraisal shall be binding on the Secretary and the owner. The amount of the equity loan shall not exceed 30 percent of the amount of the original appraised value of the project made or insured under subsection (b) of this section.
 
-#### (4) Reserve account payments
-
-&emsp;For each initial loan made or insured under subsection (b) of this section pursuant to a contract entered into after the date this subsection takes effect, the owner shall make monthly payments from project income to the Secretary for deposit in a reserve account for the project. Such monthly payments shall, in the first year after the loan is made or insured, equal $2 for each unit in the project, and shall increase by $2 annually until the expiration of the 20-year period beginning on the date that the loan was made or insured, except that such initial payments, any accrued payments, and annual increases shall not be required for a unit occupied by a low-income family or individual who is paying more than 30 percent of the family's or individual's adjusted income in rent. The rent on a unit for which payment is made under this paragraph shall be increased by the amount of such payment.
-
-#### (5) Reserve account
-
-&emsp;(A) Payments under paragraph (4) shall be deposited in an interest bearing account that the Secretary shall establish for the project.
-
-&emsp;(B) The Secretary shall make available amounts in the reserve account only for payments of principal and interest on an equity loan under this subsection. Such payments shall be in amounts necessary to ensure that rent payments made by low-income families residing in the housing do not exceed the maximum rent under section 1490a(a)(2)(A) of this title; <sup>1</sup>
-
-&emsp;(C) Any payments to the account, and interest on such payments, not expended in the project from which such payments were made, shall be used in other projects to make payments of principal and interest on an equity loan under this subsection. Such payments shall be in amounts necessary to ensure that rent payments made by low-income families residing in the housing do not exceed the maximum rent under section 1490a(a)(2)(A) of this title.
-
-&emsp;(D) The Secretary shall make payments from accounts under this paragraph only to the extent provided in appropriations Acts.
-
-#### (6) Submission of plan
+#### (4) Submission of plan
 
 &emsp;An owner requesting an equity loan under this subsection shall submit a plan acceptable to the Secretary to ensure that the cost of amortizing an equity loan under paragraph (1) does not result in the displacement of very-low-income tenants or substantially alter the income mix of the tenants in the project.
 
-#### (7) Regulations
+#### (5) Regulations
 
 &emsp;The Secretary shall issue final regulations within 180 days from December 15, 1989.
 
-#### (8) Effective date
+#### (6) Effective date
 
 &emsp;The requirements of this subsection shall apply to any loan obligated under this section on or after December 15, 1989. This subsection shall not require retroactive reserve account payments with respect to any loan that was obligated on or after December 15, 1989, and on or before June 16, 1990, but reserve account payments shall be required for such loans beginning on November 28, 1990.
 
@@ -190,7 +182,7 @@ The Secretary may provide for the assumption or transfer of a loan or loan oblig
 
 #### (1) Authority
 
-&emsp;Except as provided in paragraph (2), the Secretary shall set aside from amounts made available for each State for loans under this section, not less than 9 percent of the amounts available in fiscal years 1993 and 1994. Amounts set aside shall be available only for nonprofit entities in the State, which may not be wholly or partially owned or controlled by a for-profit entity. A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—
+&emsp;Except as provided in paragraph (2), the Secretary shall set aside from amounts made available for each State for loans under this section, not less than 9 percent of the amounts available in fiscal year 1997. Amounts set aside shall be available only for nonprofit entities in the State, which may not be wholly or partially owned or controlled by a for-profit entity. A partnership, that has as its general partner a nonprofit entity or the nonprofit entity's for-profit subsidiary, is eligible to receive funds set aside under this subsection to sponsor a project which is receiving low-income housing tax credits authorized under section 42 of title 26. For the purposes of this subsection, a nonprofit entity is an organization that—
 
 &emsp;&emsp;(A) will own an interest in a project to be financed under this section and will materially participate in the development and the operation of the project;
 
@@ -254,23 +246,17 @@ The Secretary shall—
 
 &emsp;For purposes of this subsection, the term “frail elderly” has the meaning given the term in section 8011(k) of this title.
 
-#### (z) Prohibitions
+#### (z) Equity skimming penalty
 
-#### (1) Remote rural areas
+Whoever, as an owner, agent, or manager, or who is otherwise in custody, control, or possession of property that is security for a loan made or insured under this section willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other fund derived from such property, for any purpose other than to meet actual or necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined not more than $250,000 or imprisoned not more than 5 years, or both.
 
-&emsp;The Secretary may not refuse to make a loan that otherwise complies with the requirements under this section solely because the housing and related facilities involved are located in an area that is excessively rural in character or excessively remote.
-
-#### (2) Essential services
-
-&emsp;In making loans under this section, the Secretary may not provide any preference for any project based on the availability of any particular essential service. For purposes of this paragraph, an essential service shall include post offices (and postal services), grocery stores, pharmacies, schools, and health service facilities (and health services).
-
-#### (3) Geographic location
-
-&emsp;In making loans under this section, the Secretary may not grant or deny approval based on the geographic location of the proposed project if the project is located in a rural area, as such term is defined in section 1490 of this title, except that the Secretary shall give preference to any application for a project that will serve the needs of a rural community located 20 or more miles from an urban area.
-
-(July 15, 1949, ch. 338, title V, §515, as added Sept. 28, 1962, Pub. L. 87–723, §4(b), 76 Stat. 671; amended June 30, 1964, Pub. L. 88–340, 78 Stat. 233; Sept. 2, 1964, Pub. L. 88–560, title V, §501(d) 78 Stat. 796; Aug. 10, 1965, Pub. L. 89–117, title X, §1005(c), 79 Stat. 501; Nov. 3, 1966, Pub. L. 89–754, title VIII, §§804, 805, 80 Stat. 1282; Sept. 30, 1969, Pub. L. 91–78, §1, 83 Stat. 125; Dec. 24, 1969, Pub. L. 91–152, title IV, §413(a), 83 Stat. 398; Dec. 31, 1970, Pub. L. 91–609, title VIII, §803(c), 84 Stat. 1807; Oct. 2, 1973, Pub. L. 93–117, §13(b), 87 Stat. 423; Aug. 22, 1974, Pub. L. 93–383, title V, §§509(b), 510, 88 Stat. 695; June 30, 1977, Pub. L. 95–60, §4(b), 91 Stat. 258; July 31, 1977, Pub. L. 95–80, §4(b), 91 Stat. 340; Oct. 12, 1977, Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, 91 Stat. 1138, 1140, 1141; Sept. 30, 1978, Pub. L. 95–406, §7(b), 92 Stat. 881; Oct. 31, 1978, Pub. L. 95–557, title V, §501(e), 92 Stat. 2111; Sept. 28, 1979, Pub. L. 96–71, §5(b), 93 Stat. 502; Nov. 8, 1979, Pub. L. 96–105, §5(b), 93 Stat. 795; Dec. 21, 1979, Pub. L. 96–153, title V, §501(f), 93 Stat. 1134; Oct. 3, 1980, Pub. L. 96–372, §6(b), 94 Stat. 1364; Oct. 8, 1980, Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), 94 Stat. 1668, 1670; Aug. 13, 1981, Pub. L. 97–35, title III, §351(b), 95 Stat. 420; Oct. 6, 1982, Pub. L. 97–289, §3(a), 96 Stat. 1231; May 26, 1983, Pub. L. 98–35, §3(a), 97 Stat. 198; Oct. 1, 1983, Pub. L. 98–109, §4(a), 97 Stat. 746; Nov. 30, 1983, Pub. L. 98–181, title V, §§511(b), 512, 97 Stat. 1244; Oct. 17, 1984, Pub. L. 98–479, title I, §105(e), 98 Stat. 2227; Oct. 8, 1985, Pub. L. 99–120, §3(a), 99 Stat. 503; Nov. 15, 1985, Pub. L. 99–156, §3(a), 99 Stat. 816; Dec. 26, 1985, Pub. L. 99–219, §3(a), 99 Stat. 1731; Mar. 27, 1986, Pub. L. 99–267, §3(a), 100 Stat. 74; Apr. 7, 1986, Pub. L. 99–272, title III, §3009(a), 100 Stat. 105; May 2, 1986, Pub. L. 99–289, §1(b), 100 Stat. 412; June 24, 1986, Pub. L. 99–345, §1, 100 Stat. 673; Sept. 30, 1986, Pub. L. 99–430, 100 Stat. 986; Sept. 30, 1987, Pub. L. 100–122, §1, 101 Stat. 793; Nov. 5, 1987, Pub. L. 100–154, 101 Stat. 890; Nov. 17, 1987, Pub. L. 100–170, 101 Stat. 914; Dec. 3, 1987, Pub. L. 100–179, 101 Stat. 1018; Dec. 21, 1987, Pub. L. 100–200, 101 Stat. 1327; Feb. 5, 1988, Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Nov. 7, 1988, Pub. L. 100–628, title X, §1042, 102 Stat. 3273; Nov. 3, 1989, Pub. L. 101–137, §7(a), 103 Stat. 825; Dec. 15, 1989, Pub. L. 101–235, title II, §207, title IV, §402, 103 Stat. 2042, 2048; Nov. 28, 1990, Pub. L. 101–625, title VII, §§701(e), 712, 713, 104 Stat. 4282, 4291, 4292; Oct. 28, 1991, Pub. L. 102–142, title VII, §743(a), 105 Stat. 915; Dec. 12, 1991, Pub. L. 102–230, §4, 105 Stat. 1721; Oct. 28, 1992, Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), 106 Stat. 3834, 3836–3839.)
+(July 15, 1949, ch. 338, title V, §515, as added Sept. 28, 1962, Pub. L. 87–723, §4(b), 76 Stat. 671; amended June 30, 1964, Pub. L. 88–340, 78 Stat. 233; Sept. 2, 1964, Pub. L. 88–560, title V, §501(d) 78 Stat. 796; Aug. 10, 1965, Pub. L. 89–117, title X, §1005(c), 79 Stat. 501; Nov. 3, 1966, Pub. L. 89–754, title VIII, §§804, 805, 80 Stat. 1282; Sept. 30, 1969, Pub. L. 91–78, §1, 83 Stat. 125; Dec. 24, 1969, Pub. L. 91–152, title IV, §413(a), 83 Stat. 398; Dec. 31, 1970, Pub. L. 91–609, title VIII, §803(c), 84 Stat. 1807; Oct. 2, 1973, Pub. L. 93–117, §13(b), 87 Stat. 423; Aug. 22, 1974, Pub. L. 93–383, title V, §§509(b), 510, 88 Stat. 695; June 30, 1977, Pub. L. 95–60, §4(b), 91 Stat. 258; July 31, 1977, Pub. L. 95–80, §4(b), 91 Stat. 340; Oct. 12, 1977, Pub. L. 95–128, title V, §§501(b), 507(a)(3), 508, 91 Stat. 1138, 1140, 1141; Sept. 30, 1978, Pub. L. 95–406, §7(b), 92 Stat. 881; Oct. 31, 1978, Pub. L. 95–557, title V, §501(e), 92 Stat. 2111; Sept. 28, 1979, Pub. L. 96–71, §5(b), 93 Stat. 502; Nov. 8, 1979, Pub. L. 96–105, §5(b), 93 Stat. 795; Dec. 21, 1979, Pub. L. 96–153, title V, §501(f), 93 Stat. 1134; Oct. 3, 1980, Pub. L. 96–372, §6(b), 94 Stat. 1364; Oct. 8, 1980, Pub. L. 96–399, title V, §§501(b), 502, 503, 507(c), 94 Stat. 1668, 1670; Aug. 13, 1981, Pub. L. 97–35, title III, §351(b), 95 Stat. 420; Oct. 6, 1982, Pub. L. 97–289, §3(a), 96 Stat. 1231; May 26, 1983, Pub. L. 98–35, §3(a), 97 Stat. 198; Oct. 1, 1983, Pub. L. 98–109, §4(a), 97 Stat. 746; Nov. 30, 1983, Pub. L. 98–181, title V, §§511(b), 512, 97 Stat. 1244; Oct. 17, 1984, Pub. L. 98–479, title I, §105(e), 98 Stat. 2227; Oct. 8, 1985, Pub. L. 99–120, §3(a), 99 Stat. 503; Nov. 15, 1985, Pub. L. 99–156, §3(a), 99 Stat. 816; Dec. 26, 1985, Pub. L. 99–219, §3(a), 99 Stat. 1731; Mar. 27, 1986, Pub. L. 99–267, §3(a), 100 Stat. 74; Apr. 7, 1986, Pub. L. 99–272, title III, §3009(a), 100 Stat. 105; May 2, 1986, Pub. L. 99–289, §1(b), 100 Stat. 412; June 24, 1986, Pub. L. 99–345, §1, 100 Stat. 673; Sept. 30, 1986, Pub. L. 99–430, 100 Stat. 986; Sept. 30, 1987, Pub. L. 100–122, §1, 101 Stat. 793; Nov. 5, 1987, Pub. L. 100–154, 101 Stat. 890; Nov. 17, 1987, Pub. L. 100–170, 101 Stat. 914; Dec. 3, 1987, Pub. L. 100–179, 101 Stat. 1018; Dec. 21, 1987, Pub. L. 100–200, 101 Stat. 1327; Feb. 5, 1988, Pub. L. 100–242, title II, §§242, 263, title III, §§301(e), 306, 307, 316(c), 101 Stat. 1890, 1891, 1893, 1895, 1896, 1898; Nov. 7, 1988, Pub. L. 100–628, title X, §1042, 102 Stat. 3273; Nov. 3, 1989, Pub. L. 101–137, §7(a), 103 Stat. 825; Dec. 15, 1989, Pub. L. 101–235, title II, §207, title IV, §402, 103 Stat. 2042, 2048; Nov. 28, 1990, Pub. L. 101–625, title VII, §§701(e), 712, 713, 104 Stat. 4282, 4291, 4292; Oct. 28, 1991, Pub. L. 102–142, title VII, §743(a), 105 Stat. 915; Dec. 12, 1991, Pub. L. 102–230, §4, 105 Stat. 1721; Oct. 28, 1992, Pub. L. 102–550, title VII, §§701(e), 707(a)–(f)(1), 708(a), 106 Stat. 3834, 3836–3839; Mar. 28, 1996, Pub. L. 104–120, §4(b), (c), 110 Stat. 835; Aug. 6, 1996, Pub. L. 104–180, title VII, §734(a), (c)(1), (2), (3)(C), (d), (e)(2), 110 Stat. 1601–1603.)
 
 #### References in Text
+
+Section 1928 of title 7, referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, §605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similar to provisions formerly contained in the third sentence of such section.
+
+Section 1929(f)(1) of title 7, referred to in subsec. (b)(3), was repealed and section 1929(f)(2) was redesignated section 1929(f)(1) by Pub. L. 104–127, title VII, §744, Apr. 4, 1996, 110 Stat. 1125.
 
 The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -279,6 +265,44 @@ The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715<i>l</i> of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 263 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
 
 #### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–180, §734(a)(1), substituted “September 30, 1997” for “September 30, 1996”.
+
+Pub. L. 104–120, §4(b), substituted “September 30, 1996” for “September 30, 1994”.
+
+Subsec. (c)(1). Pub. L. 104–180, §734(c)(3)(C), substituted “December 15, 1989” for “December 21, 1979”.
+
+Subsec. (h). Pub. L. 104–180, §734(c)(1), added subsec. (h).
+
+Subsec. (r). Pub. L. 104–180, §734(d)(1), added subsec. (r) and struck out former subsec. (r) which read as follows: “The Secretary—
+
+&emsp;“(1) may require that the initial operating reserve under this section may be in the form of an irrevocable letter of credit; and
+
+&emsp;“(2) may not require more than a 3 percent contribution to equity, except that the Secretary shall require a 5 percent contribution in the case of a project that is allocated a low-income housing tax credit pursuant to section 42 of title 26.”
+
+Subsec. (t)(4). Pub. L. 104–180, §734(c)(2), redesignated par. (6) as (4) and struck out heading and text of former par. (4). Text read as follows: “For each initial loan made or insured under subsection (b) of this section pursuant to a contract entered into after the date this subsection takes effect, the owner shall make monthly payments from project income to the Secretary for deposit in a reserve account for the project. Such monthly payments shall, in the first year after the loan is made or insured, equal $2 for each unit in the project, and shall increase by $2 annually until the expiration of the 20-year period beginning on the date that the loan was made or insured, except that such initial payments, any accrued payments, and annual increases shall not be required for a unit occupied by a low-income family or individual who is paying more than 30 percent of the family's or individual's adjusted income in rent. The rent on a unit for which payment is made under this paragraph shall be increased by the amount of such payment.”
+
+Subsec. (t)(5). Pub. L. 104–180, §734(c)(2), redesignated par. (7) as (5) and struck out former par. (5) which read as follows:
+
+“(5)
+
+Reserve account.—
+
+&emsp;“(A) Payments under paragraph (4) shall be deposited in an interest bearing account that the Secretary shall establish for the project.
+
+&emsp;“(B) The Secretary shall make available amounts in the reserve account only for payments of principal and interest on an equity loan under this subsection. Such payments shall be in amounts necessary to ensure that rent payments made by low-income families residing in the housing do not exceed the maximum rent under section 1490a(a)(2)(A) of this title;
+
+&emsp;“(C) Any payments to the account, and interest on such payments, not expended in the project from which such payments were made, shall be used in other projects to make payments of principal and interest on an equity loan under this subsection. Such payments shall be in amounts necessary to ensure that rent payments made by low-income families residing in the housing do not exceed the maximum rent under section 1490a(a)(2)(A) of this title.
+
+&emsp;“(D) The Secretary shall make payments from accounts under this paragraph only to the extent provided in appropriations Acts.”
+
+Subsec. (t)(6) to (8). Pub. L. 104–180, §734(c)(2)(B), redesignated pars. (6) to (8) as (4) to (6), respectively.
+
+Subsec. (w)(1). Pub. L. 104–180, §734(a)(2), substituted “fiscal year 1997” for “fiscal year 1996”.
+
+Pub. L. 104–120, §4(c), substituted “fiscal year 1996” for “fiscal years 1993 and 1994”.
+
+Subsec. (z). Pub. L. 104–180, §734(d)(2), (e)(2), added subsec. (z) and struck out heading and text of former subsec. (z). Text consisted of 3 pars. which denied Secretary authority to refuse to make complying loan solely because facilities were in rural or remote area or to provide preference for project based on availability of particular essential service and required Secretary to give preference to proposed projects serving rural communities 20 or more miles from an urban area.
 
 1992—Subsec. (b)(4). Pub. L. 102–550, §701(e), substituted “1994” for “1992”.
 
@@ -438,7 +462,7 @@ Subsec. (c). Pub. L. 95–128, §508(a), provided that specifically designed equ
 
 Subsec. (d)(1). Pub. L. 95–128, §508(b), defined “housing” to also mean congregate housing facilities for elderly or handicapped persons or families who require some supervision and central services but are otherwise able to care for themselves and authorized such housing for the handicapped to be utilized in conjunction with educational and training facilities.
 
-Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and “elderly families” as families the head of which (or his spouse) is 62 years of age or over.
+Subsec. (d)(3). Pub. L. 95–128, §508(c), substituted definition of “congregate housing” for prior definition of “elderly persons” as persons 62 years of age or over and“elderly families” as families the head of which (or his spouse) is 62 years of age or over.
 
 1974—Subsec. (b)(1). Pub. L. 93–383, §510(a), struck out “$750,000 or” after “exceed” and substituted “less” for “least”.
 
@@ -468,6 +492,10 @@ Subsec. (d)(4). Pub. L. 89–754, §805(c), defined fees and charges as used for
 
 Pub. L. 88–340 substituted “September 30, 1964” for “June 30, 1964” in cl. (5).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
+
 #### Effective Date of 1992 Amendment
 
 Section 708(b) of Pub. L. 102–550 provided that: “The amendment made by subsection (a)(5) \[amending this section\] shall take effect on October 1, 1993, and shall apply to fiscal year 1994 and each fiscal year thereafter.”
@@ -478,11 +506,13 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Regulations
 
-Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agriculture shall issue any regulationsnecessary to carry out the amendment made by paragraph (1) \[amending this section\] not later than the expiration of the 45-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary shall submit a copy of any regulations to be issued under this subsection to the Congress. The requirements of section 534(d) of the Housing Act of 1949 \[42 U.S.C. 1490n(d)\] and subsections (b) and (c) of section 553 of title 5, United States Code, shall apply to any such regulations.”
+Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by paragraph (1) \[amending this section\] not later than the expiration of the 45-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\]. Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary shall submit a copy of any regulations to be issued under this subsection to the Congress. The requirements of section 534(d) of the Housing Act of 1949 \[42 U.S.C. 1490n(d)\] and subsections (b) and (c) of section 553 of title 5, United States Code, shall apply to any such regulations.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490p–1, 1490r, 4851b, 8011 of this title; title 26 section 42; title 40 App. section 207.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011 of this title; title 26 section 42; title 40 App. section 207.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

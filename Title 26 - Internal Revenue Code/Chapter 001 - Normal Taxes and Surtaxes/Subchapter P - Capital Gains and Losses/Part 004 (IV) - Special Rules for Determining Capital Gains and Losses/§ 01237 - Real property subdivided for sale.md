@@ -2,13 +2,13 @@
 
 #### (a) General
 
-Any lot or parcel which is part of a tract of real property in the hands of a taxpayer other than a corporation shall not be deemed to be held primarily for sale to customers in the ordinary course of trade or business at the time of sale solely because of the taxpayer having subdivided such tract for purposes of sale or because of any activity incident to such subdivision or sale, if—
+Any lot or parcel which is part of a tract of real property in the hands of a taxpayer other than a C corporation shall not be deemed to be held primarily for sale to customers in the ordinary course of trade or business at the time of sale solely because of the taxpayer having subdivided such tract for purposes of sale or because of any activity incident to such subdivision or sale, if—
 
 &emsp;(1) such tract, or any lot or parcel thereof, had not previously been held by such taxpayer primarily for sale to customers in the ordinary course of trade or business (unless such tract at such previous time would have been covered by this section) and, in the same taxable year in which the sale occurs, such taxpayer does not so hold any other real property; and
 
 &emsp;(2) no substantial improvement that substantially enhances the value of the lot or parcel sold is made by the taxpayer on such tract while held by the taxpayer or is made pursuant to a contract of sale entered into between the taxpayer and the buyer. For purposes of this paragraph, an improvement shall be deemed to be made by the taxpayer if such improvement was made by—
 
-&emsp;&emsp;(A) the taxpayer or members of his family (as defined in section 267(c)(4)), by a corporation controlled by the taxpayer, or by a partnership which included the taxpayer as a partner; or
+&emsp;&emsp;(A) the taxpayer or members of his family (as defined in section 267(c)(4)), by a corporation controlled by the taxpayer, an S corporation which included the taxpayer as a shareholder, or by a partnership which included the taxpayer as a partner; or
 
 &emsp;&emsp;(B) a lessee, but only if the improvement constitutes income to the taxpayer; or
 
@@ -40,9 +40,13 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 For purposes of this section, the term “tract of real property” means a single piece of real property, except that 2 or more pieces of real property shall be considered a tract if at any time they were contiguous in the hands of the taxpayer or if they would be contiguous except for the interposition of a road, street, railroad, stream, or similar property. If, following the sale or exchange of any lot or parcel from a tract of real property, no further sales or exchanges of any other lots or parcels from the remainder of such tract are made for a period of 5 years, such remainder shall be deemed a tract.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 330; Apr. 27, 1956, ch. 214, §§1, 2, 70 Stat. 118; Sept. 2, 1958, Pub. L. 85–866, title I, §55, 72 Stat. 1645; Jan. 12, 1971, Pub. L. 91–686, §2(a), 84 Stat. 2071; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(138), 1906(b)(13)(A), 90 Stat. 1787, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 330; Apr. 27, 1956, ch. 214, §§1, 2, 70 Stat. 118; Sept. 2, 1958, Pub. L. 85–866, title I, §55, 72 Stat. 1645; Jan. 12, 1971, Pub. L. 91–686, §2(a), 84 Stat. 2071; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(138), 1906(b)(13)(A), 90 Stat. 1787, 1834; Aug. 20, 1996, Pub. L. 104–188, title I, §1314, 110 Stat. 1785.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188, §1314(a), substituted “other than a C corporation” for “other than a corporation” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 104–188, §1314(b), inserted “an S corporation which included the taxpayer as a shareholder,” after “controlled by the taxpayer,”.
 
 1976—Subsec. (b)(3)(B), (C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -57,6 +61,10 @@ Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars
 1956—Subsec. (a). Act Apr. 27, 1956, §1, substituted “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))” for “other than a corporation”.
 
 Subsec. (b)(3). Act Apr. 27, 1956, §2, substituted “water, sewer, or drainage facilities” for “water or sewer facilities” in subpar. (A), and inserted provision at end that requirements of subpars. (B) and (C) do not apply to certain specified property.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) ofPub. L. 104–188, set out as a note under section 641 of this title.
 
 #### Effective Date of 1976 Amendment
 

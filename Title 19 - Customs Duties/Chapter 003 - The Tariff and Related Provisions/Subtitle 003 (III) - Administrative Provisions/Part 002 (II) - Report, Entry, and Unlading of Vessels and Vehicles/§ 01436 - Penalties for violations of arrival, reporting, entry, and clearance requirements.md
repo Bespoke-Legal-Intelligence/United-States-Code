@@ -6,7 +6,7 @@ It is unlawful—
 
 &emsp;(1) to fail to comply with section 1431, 1433, or 1434 of this title or section 91 of title 46, Appendix;
 
-&emsp;(2) to present or transmit, electronically or otherwise, any forged, altered, or false document, paper, information, data or manifest to the Customs Service under section 1431(e),<sup>1</sup> 1433(d), or 1434 of this title or section 91 of title 46, Appendix, without revealing the facts; or <sup>2</sup>
+&emsp;(2) to present or transmit, electronically or otherwise, any forged, altered, or false document, paper, information, data or manifest to the Customs Service under section 1431, 1433(d), or 1434 of this title or section 91 of title 46, Appendix, without revealing the facts;
 
 &emsp;(3) to fail to make entry or to obtain clearance as required by section 1434 or 1644 of this title, section 91 of title 46, Appendix, or section 1644a(b)(1) or (c)(1) of this title; or
 
@@ -24,7 +24,7 @@ In addition to being liable for a civil penalty under subsection (b) of this sec
 
 If any merchandise (other than sea stores or the equivalent for conveyances other than a vessel) is imported or brought into the United States in or aboard a conveyance which was not properly reported or entered, the master, person in charge of a vehicle, or aircraft pilot shall be liable for a civil penalty equal to the value of the merchandise and the merchandise may be seized and forfeited unless properly entered by the importer or consignee. If the merchandise consists of any controlled substance listed in section 1584 of this title, the master, individual in charge of a vehicle, or pilot shall be liable to the penalties prescribed in that section.
 
-(June 17, 1930, ch. 497, title IV, §436, 46 Stat. 711; Aug. 5, 1935, ch. 438, title II, §202, 49 Stat. 521; Oct. 27, 1986, Pub. L. 99–570, title III, §3113(a), 100 Stat. 3207–81; Dec. 8, 1993, Pub. L. 103–182, title VI, §611, 107 Stat. 2170.)
+(June 17, 1930, ch. 497, title IV, §436, 46 Stat. 711; Aug. 5, 1935, ch. 438, title II, §202, 49 Stat. 521; Oct. 27, 1986, Pub. L. 99–570, title III, §3113(a), 100 Stat. 3207–81; Dec. 8, 1993, Pub. L. 103–182, title VI, §611, 107 Stat. 2170; Oct. 11, 1996, Pub. L. 104–295, §21(e)(3), 110 Stat. 3530.)
 
 #### Codification
 
@@ -32,9 +32,11 @@ In subsec. (a)(3), “section 1644a(b)(1) or (c)(1) of this title” substituted
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in R.S. §2834, as amended by act Mar. 3, 1897, ch. 389, §15, 29 Stat. 691, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §436, 42 Stat. 951, and was repealed by section 642 thereof. Section 436 of the 1922 actwas superseded by section 436 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §2834, as amended by act Mar. 3, 1897, ch. 389, §15, 29 Stat. 691, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §436, 42 Stat. 951, and was repealed by section 642 thereof. Section 436 of the 1922 act was superseded by section 436 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–295 substituted “1431” for “1431(e)” and struck out “or” after semicolon at end.
 
 1993—Pub. L. 103–182, §611(2), substituted “entry, and clearance” for “and entry” in section catchline.
 
@@ -51,8 +53,4 @@ Subsec. (a)(2), (3). Pub. L. 103–182, §611(1)(B), (C), amended pars. (2) and 
 “Every master who presents a forged, altered, or false document or paper on making entry of a vessel as required by section 1434 or 1435 of this title, knowing the same to be forged, altered, or false and without revealing the fact, shall, in addition to any forfeiture to which in consequence the vessel may be subject, be liable to a fine of not more than $5,000 nor less than $50 or to imprisonment for not more than two years, or to both such fine and imprisonment.”
 
 1935—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
-
-<i><sup>1</sup></i><i> So in original. Section 1431 of this title does not contain a subsec. (e).</i>
-
-<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

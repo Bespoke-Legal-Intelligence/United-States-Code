@@ -90,7 +90,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53,Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII,§702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,23 @@ Historical and Revision Notes
 
 302(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 302(b)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 302(c)
 
@@ -188,7 +204,7 @@ Pub. L. 101–189, §702(f)(8), inserted heading.
 
 1987—Subsec. (b)(1). Pub. L. 100–180, §716(a)(1), (2), struck out “in an amount not to exceed $8,000” after “incentive special pay” and inserted at end “No payment to an officer under this subsection may exceed $8,000 for any twelve-month period unless the Secretary concerned determines that the officer is qualified and serving in a health profession skill which has been designated by the Secretary concerned as a critically needed wartime skill.”
 
-Subsec. (b)(3). Pub. L. 100–180, §716(a)(3), struck out par. (3) which read as follows: “The amount that maybe paid for incentive special pay under this subsection in any fiscal year may not exceed an amount equal to 6 percent of the total amount paid in such year for special pay under subsection (a) of this section and paragraph (1) of this subsection.”
+Subsec. (b)(3). Pub. L. 100–180, §716(a)(3), struck out par. (3) which read as follows: “The amount that may be paid for incentive special pay under this subsection in any fiscal year may not exceed an amount equal to 6 percent of the total amount paid in such year for special pay under subsection (a) of this section and paragraph (1) of this subsection.”
 
 1986—Subsec. (h)(1)(B). Pub. L. 99–661, §1342(d), amended subpar. (B) generally, substituting “period of less than one year” for “period of not less than one year”.
 
@@ -266,57 +282,13 @@ Pub. L. 100–202, §101(h) \[title II, §208\], Dec. 22, 1987, 101 Stat. 1329�
 
 Section 703(e)–(g) of Pub. L. 101–189, as amended by Pub. L. 102–25, title VII, §705(b), Apr. 6, 1991, 105 Stat. 120, provided that, in the case of an agreement that was executed by a medical officer under section 612 of Pub. L. 100–456, formerly set out below, before Oct. 1, 1989, but that was not accepted by the Secretary concerned solely because of the limitation contained in section 612(h), the Secretary concerned could accept such agreement during the 90-day period beginning on Nov. 29, 1989.
 
-Pub. L. 100–456, div. A, title VI, §612, Sept. 29, 1988, 102 Stat. 1979, as amended by Pub. L. 101–189, div. A, title VII, §703(a)–(d), Nov. 29, 1989, 103 Stat. 1469, 1470, provided that a covered medical officer who, during the period beginning on Jan. 1, 1989, and ending on Sept. 30, 1990, executed a written agreement to remain on active duty for at least two years after completion of anyother active-duty service commitment could, upon acceptance of the written agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+Pub. L. 100–456, div. A, title VI, §612, Sept. 29, 1988, 102 Stat. 1979, as amended by Pub. L. 101–189, div. A, title VII, §703(a)–(d), Nov. 29, 1989, 103 Stat. 1469, 1470, provided that a covered medical officer who, during the period beginning on Jan. 1, 1989, and ending on Sept. 30, 1990, executed a written agreement to remain on active duty for at least two years after completion of any other active-duty service commitment could, upon acceptance of the written agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 #### Special Pay for Critically Short Wartime Health Specialists in Selected Reserve
 
-Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended by Pub. L. 101–510, div. A, title VI, §616, Nov. 5, 1990, 104 Stat. 1578; Pub. L. 103–160, div. A, title VI, §613(g), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(f), Oct. 5, 1994, 108 Stat. 2783, provided that:
+Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended by Pub. L. 101–510, div. A, title VI, §616, Nov. 5, 1990, 104 Stat. 1578; Pub. L. 103–160, div. A, title VI, §613(g), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(f), Oct. 5, 1994, 108 Stat.2783; Pub. L. 104–106, div. A, title XV, §1502(c)(5), Feb. 10, 1996, 110 Stat. 508, which established a pilot test program of special pay for officers of reserve components of the Armed Forces in critically short wartime health care professions who agreed to serve in the Selected Reserve, was repealed and reenacted as section 302g of this title by Pub. L. 104–106, div. A, title VI, §614(a)(1), (c)(1), Feb. 10, 1996, 110 Stat. 360, 361.
 
-“(a)
-
-In General.—(1) An officer of a reserve component of the Armed Forces described in paragraph (2) who executes a written agreement under which the officer agrees to serve in the Selected Reserve of an armed force for a period of not less than one year nor more than three years, beginning on the date the officer accepts the award of special pay under this section, may be paid special pay at an annual rate not to exceed $10,000.
-
-“(2) An officer referred to in paragraph (1) is an officer in a health care profession who is qualified in a specialty designated by regulations as a critically short wartime specialty.
-
-“(3) Special pay under this section shall be paid annually at the beginning of each twelve-month period for which the officer has agreed to serve.
-
-“(b)
-
-Refund Requirement.—An officer who voluntarily terminates service in the Selected Reserve of an armed force before the end of the period for which a payment was made to such officer under this section shall refund to the United States the full amount of the payment made for the period on which the payment was based.
-
-“(c)
-
-Inapplicability of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11, United States Code, that is entered less than 5 years after the termination of an agreement under this section does not discharge the person receiving such special pay from the debt arising under the agreement.
-
-“(d)
-
-Termination of Agreement Authority.—No agreement under this section may be entered into after September 30, 1996.
-
-“(e)
-
-Purpose of Program.—The authority provided under this section shall be used only for the purpose of establishing and conducting a pilot test program to determine the effect that the program provided for in this section has on the retention of officers who are qualified in specialties designated by regulation as critically short wartime specialties.
-
-“(f)
-
-Regulations.—(1) This section shall be administered under regulations prescribed by the Secretary concerned and approved by the Secretary of Defense.
-
-“(2) As used in paragraph (1), the term ‘Secretary concerned’ has the same meaning as provided in section 101(5) of title 37, United States Code.
-
-“(g)
-
-Limitations on Obligations.—The total amount of payments made during fiscal year 1989 as the result of agreements entered into under this section may not exceed $4,000,000.
-
-“(h)
-
-Report.—(1) Not later than September 1, 1988, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a description of the manner in which the pilot test program provided for in this section is to be structured, including the minimum periods of service to be required for various levels of special pay under this section.
-
-“(2) Not later than February 1, 1990, the Secretary also shall submit to such committees an evaluation of the effectiveness of the program and recommendations for its continuation or modification.
-
-“(i)
-
-Effective Date.—The authority to enter into agreements under this section shall take effect 30 days after the date on which the committees referred to in subsection (h)(1) receive the report required by such subsection.”
-
-\[For provisions relating to coverage of period of lapsed authority from Oct. 1, 1993, to Nov. 30, 1993, for payment of special pay under section 613 of Pub. L. 100–456, set out above, see section 613(i) of Pub. L. 103–160, set out as a note under section 301b of this title.\]
+\[Pub. L. 104–106, div. A, title VI, §614(c)(2), Feb. 10, 1996, 110 Stat. 361, provided that: “The provisions of section 613 of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456, formerly set out as a note above\], as in effect on the day before the date of the enactment of this Act \[Feb. 10, 1996\], shall continue to apply to agreements entered into under such section before such date.”\]
 
 #### Preservation of Entitlement for Reserve Medical Officers
 

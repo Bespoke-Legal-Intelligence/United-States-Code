@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title50",
- "package": "USCODE-1995-title50",
+ "package": "USCODE-1996-title50",
  "pieces": [
   {
    "id": "50_",
@@ -325,30 +325,30 @@
   },
   {
    "id": "50_47f",
-   "marks": [],
-   "path": "Chapter 004C - Atomic Weapons and Special Nuclear Materials Information Rewards/§ 00047f - Definitions.md",
-   "printed_pages": [
-    6,
-    6
-   ]
-  },
-  {
-   "id": "50_-ch5",
    "marks": [
     [
      "I",
-     7,
+     18,
      [
       [
-       54,
+       112,
        "[Page 7]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/README.md",
+   "path": "Chapter 004C - Atomic Weapons and Special Nuclear Materials Information Rewards/§ 00047f - Definitions.md",
    "printed_pages": [
     6,
+    7
+   ]
+  },
+  {
+   "id": "50_-ch5",
+   "marks": [],
+   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/README.md",
+   "printed_pages": [
+    7,
     7
    ]
   },
@@ -363,11 +363,18 @@
   },
   {
    "id": "50_51_to_57",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 8]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 001 (I) - Arsenals, Armories, Arms, and War Materials/§ 00051 to 57 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   },
   {
@@ -375,23 +382,16 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 001 (I) - Arsenals, Armories, Arms, and War Materials/§ 00058 - Repealed. Sept. 1, 1954, ch. 1208, title III, §305(d), 68 Stat. 1114.md",
    "printed_pages": [
-    7,
-    7
+    8,
+    8
    ]
   },
   {
    "id": "50_59_to_66",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 8]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 001 (I) - Arsenals, Armories, Arms, and War Materials/§ 00059 to 66 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    7,
+    8,
     8
    ]
   },
@@ -433,36 +433,33 @@
   },
   {
    "id": "50_74_to_81",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 9]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 001 (I) - Arsenals, Armories, Arms, and War Materials/§ 00074 to 81 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
     8,
-    8
+    9
    ]
   },
   {
    "id": "50_82",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       512,
-       "[Page 9]"
-      ]
-     ]
-    ],
-    [
      "L",
-     52,
+     40,
      "[Page 10]",
      true
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 001 (I) - Arsenals, Armories, Arms, and War Materials/§ 00082 - Procurement of ships and material during war.md",
    "printed_pages": [
-    8,
+    9,
     10
    ]
   },
@@ -479,10 +476,14 @@
    "id": "50_86_to_88",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 11]",
-     true
+     "I",
+     4,
+     [
+      [
+       277,
+       "[Page 11]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 001 (I) - Arsenals, Armories, Arms, and War Materials/§ 00086 to 88 - Omitted.md",
@@ -538,30 +539,26 @@
   },
   {
    "id": "50_98",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 12]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098 - Short title.md",
    "printed_pages": [
     11,
-    11
+    12
    ]
   },
   {
    "id": "50_98a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       91,
-       "[Page 12]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098a - Congressional findings and declaration of purpose.md",
    "printed_pages": [
-    11,
+    12,
     12
    ]
   },
@@ -569,10 +566,14 @@
    "id": "50_98b",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 13]",
-     true
+     "I",
+     20,
+     [
+      [
+       244,
+       "[Page 13]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098b - National Defense Stockpile.md",
@@ -585,14 +586,10 @@
    "id": "50_98c",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       91,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098c - Materials constituting the National Defense Stockpile.md",
@@ -606,45 +603,51 @@
    "marks": [
     [
      "L",
-     28,
+     8,
      "[Page 15]",
      true
     ],
     [
-     "I",
-     114,
-     [
-      [
-       103,
-       "[Page 16]"
-      ]
-     ]
+     "L",
+     102,
+     "[Page 16]",
+     true
     ],
     [
      "L",
-     215,
+     188,
      "[Page 17]",
      true
     ],
     [
      "L",
-     336,
+     291,
      "[Page 18]",
      true
     ],
     [
+     "I",
+     410,
+     [
+      [
+       98,
+       "[Page 19]"
+      ]
+     ]
+    ],
+    [
      "L",
-     456,
-     "[Page 19]",
+     544,
+     "[Page 20]",
      true
     ],
     [
      "I",
-     558,
+     624,
      [
       [
-       115,
-       "[Page 20]"
+       988,
+       "[Page 21]"
       ]
      ]
     ]
@@ -652,23 +655,27 @@
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098d - Authority for stockpile operations.md",
    "printed_pages": [
     14,
-    20
+    21
    ]
   },
   {
    "id": "50_98e",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 21]",
-     true
+     "I",
+     38,
+     [
+      [
+       522,
+       "[Page 22]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098e - Stockpile management.md",
    "printed_pages": [
-    20,
-    21
+    21,
+    22
    ]
   },
   {
@@ -676,104 +683,92 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098e–1 - Transferred.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
    "id": "50_98f",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 22]",
-     true
-    ]
-   ],
-   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098f - Special Presidential disposal authority.md",
-   "printed_pages": [
-    21,
-    22
-   ]
-  },
-  {
-   "id": "50_98g",
-   "marks": [
-    [
      "I",
-     50,
+     6,
      [
       [
-       161,
+       94,
        "[Page 23]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098g - Materials development and research.md",
+   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098f - Special Presidential disposal authority.md",
    "printed_pages": [
     22,
     23
    ]
   },
   {
-   "id": "50_98h",
+   "id": "50_98g",
    "marks": [
     [
-     "I",
-     86,
-     [
-      [
-       110,
-       "[Page 24]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 24]",
+     true
     ]
    ],
-   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h - National Defense Stockpile Transaction Fund.md",
+   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098g - Materials development and research.md",
    "printed_pages": [
     23,
     24
    ]
   },
   {
-   "id": "50_98h-1",
+   "id": "50_98h",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       433,
-       "[Page 25]"
-      ]
-     ]
+     "L",
+     90,
+     "[Page 25]",
+     true
     ]
    ],
-   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–1 - Advisory committees.md",
+   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h - National Defense Stockpile Transaction Fund.md",
    "printed_pages": [
     24,
     25
    ]
   },
   {
+   "id": "50_98h-1",
+   "marks": [
+    [
+     "L",
+     50,
+     "[Page 26]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–1 - Advisory committees.md",
+   "printed_pages": [
+    25,
+    26
+   ]
+  },
+  {
    "id": "50_98h-2",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       165,
-       "[Page 26]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 27]",
+     true
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–2 - Reports to Congress.md",
    "printed_pages": [
-    25,
-    26
+    26,
+    27
    ]
   },
   {
@@ -781,8 +776,8 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–3 - Definitions.md",
    "printed_pages": [
-    26,
-    26
+    27,
+    27
    ]
   },
   {
@@ -790,8 +785,8 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–4 - Importation of strategic and critical materials.md",
    "printed_pages": [
-    26,
-    26
+    27,
+    27
    ]
   },
   {
@@ -802,32 +797,36 @@
      12,
      [
       [
-       232,
-       "[Page 27]"
+       321,
+       "[Page 28]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–5 - Biennial report on stockpile requirements.md",
    "printed_pages": [
-    26,
-    27
+    27,
+    28
    ]
   },
   {
    "id": "50_98h-6",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 28]",
-     true
+     "I",
+     16,
+     [
+      [
+       90,
+       "[Page 29]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–6 - Development of domestic sources.md",
    "printed_pages": [
-    27,
-    28
+    28,
+    29
    ]
   },
   {
@@ -835,8 +834,8 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098h–7 - National Defense Stockpile Manager.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
@@ -844,37 +843,33 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00098i - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1570.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    29
    ]
   },
   {
    "id": "50_99",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 30]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00099 - Transferred.md",
    "printed_pages": [
-    28,
-    28
+    29,
+    30
    ]
   },
   {
    "id": "50_100",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       95,
-       "[Page 29]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00100 - Nitrate plants.md",
    "printed_pages": [
-    28,
-    29
+    30,
+    30
    ]
   },
   {
@@ -882,8 +877,8 @@
    "marks": [],
    "path": "Chapter 005 - Arsenals, Armories, Arms, and War Material Generally/Subchapter 003 (III) - Acquisition and Development of Strategic Raw Materials/§ 00100a - Omitted.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    30
    ]
   },
   {
@@ -891,17 +886,24 @@
    "marks": [],
    "path": "Chapter 006 - Willful Destruction, Etc., of War or National-Defense Material/README.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    30
    ]
   },
   {
    "id": "50_101_to_106",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 31]",
+     true
+    ]
+   ],
    "path": "Chapter 006 - Willful Destruction, Etc., of War or National-Defense Material/§ 00101 to 106 - Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    31
    ]
   },
   {
@@ -909,24 +911,17 @@
    "marks": [],
    "path": "Chapter 007 - Interference with Homing Pigeons Owned by United States/README.md",
    "printed_pages": [
-    29,
-    29
+    31,
+    31
    ]
   },
   {
    "id": "50_111_to_113",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 30]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Interference with Homing Pigeons Owned by United States/§ 00111 to 113 - Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862.md",
    "printed_pages": [
-    29,
-    30
+    31,
+    31
    ]
   },
   {
@@ -934,8 +929,8 @@
    "marks": [],
    "path": "Chapter 008 - Explosives; Manufacture, Distribution, Storage, Use, and Possession Regulated/README.md",
    "printed_pages": [
-    30,
-    30
+    31,
+    31
    ]
   },
   {
@@ -943,8 +938,8 @@
    "marks": [],
    "path": "Chapter 008 - Explosives; Manufacture, Distribution, Storage, Use, and Possession Regulated/§ 00121 to 144 - Repealed. Pub. L. 91–452, title XI, §1106(a), Oct. 15, 1970, 84 Stat. 960.md",
    "printed_pages": [
-    30,
-    30
+    31,
+    31
    ]
   },
   {
@@ -952,33 +947,37 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/README.md",
    "printed_pages": [
-    30,
-    30
+    31,
+    31
    ]
   },
   {
    "id": "50_151_to_151f",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       105,
+       "[Page 32]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 009 - Aircraft/§ 00151 to 151f - Omitted.md",
    "printed_pages": [
-    30,
-    30
+    31,
+    32
    ]
   },
   {
    "id": "50_152,_153",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 31]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00152, 153 - Repealed. May 25, 1948, ch. 335, §3(a), (b), 62 Stat. 267.md",
    "printed_pages": [
-    30,
-    31
+    32,
+    32
    ]
   },
   {
@@ -986,8 +985,8 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00154 - Repealed. Oct. 10, 1940, ch. 851, §4, 54 Stat. 1114.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -995,8 +994,8 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00155 - Repealed. May 25, 1948, ch. 335, §3(c), 62 Stat. 267.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -1004,8 +1003,8 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00156, 157 - Omitted.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -1013,8 +1012,8 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00158 to 159 - Transferred.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -1022,8 +1021,8 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00160 - Omitted.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -1031,37 +1030,37 @@
    "marks": [],
    "path": "Chapter 009 - Aircraft/§ 00160a to 160f - Repealed. Pub. L. 85–707, §21(b)(5), July 7, 1958, 72 Stat. 337.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
    "id": "50_-ch10",
-   "marks": [],
-   "path": "Chapter 010 - Helium Gas/README.md",
-   "printed_pages": [
-    31,
-    31
-   ]
-  },
-  {
-   "id": "50_161_to_164",
    "marks": [
     [
      "I",
-     12,
+     21,
      [
       [
-       284,
-       "[Page 32]"
+       60,
+       "[Page 33]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 010 - Helium Gas/README.md",
+   "printed_pages": [
+    32,
+    33
+   ]
+  },
+  {
+   "id": "50_161_to_164",
+   "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00161 to 164 - Omitted.md",
    "printed_pages": [
-    31,
-    32
+    33,
+    33
    ]
   },
   {
@@ -1069,8 +1068,8 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00165 - Repealed. Aug. 26, 1954, ch. 937, title V, §542(a)(13), 68 Stat. 861.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -1078,8 +1077,8 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00166 - Omitted.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -1087,73 +1086,69 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167 - Definitions.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
    "id": "50_167a",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       1002,
-       "[Page 33]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 010 - Helium Gas/§ 00167a - Authority of Secretary.md",
-   "printed_pages": [
-    32,
-    33
-   ]
-  },
-  {
-   "id": "50_167b",
-   "marks": [
-    [
      "L",
-     14,
+     16,
      "[Page 34]",
      true
     ]
    ],
-   "path": "Chapter 010 - Helium Gas/§ 00167b - Production of helium; maintenance and operation of facilities; research.md",
+   "path": "Chapter 010 - Helium Gas/§ 00167a - Authority of Secretary.md",
    "printed_pages": [
     33,
     34
    ]
   },
   {
-   "id": "50_167c",
-   "marks": [],
-   "path": "Chapter 010 - Helium Gas/§ 00167c - Licensing.md",
+   "id": "50_167b",
+   "marks": [
+    [
+     "I",
+     50,
+     [
+      [
+       112,
+       "[Page 35]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 010 - Helium Gas/§ 00167b - Storage, transportation, and withdrawal of crude helium.md",
    "printed_pages": [
     34,
-    34
+    35
+   ]
+  },
+  {
+   "id": "50_167c",
+   "marks": [],
+   "path": "Chapter 010 - Helium Gas/§ 00167c - Fees for storage, transportation, and withdrawal.md",
+   "printed_pages": [
+    35,
+    35
    ]
   },
   {
    "id": "50_167d",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       233,
-       "[Page 35]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 36]",
+     true
     ]
    ],
    "path": "Chapter 010 - Helium Gas/§ 00167d - Sale of helium.md",
    "printed_pages": [
-    34,
-    35
+    35,
+    36
    ]
   },
   {
@@ -1161,17 +1156,17 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167e - Intragovernmental cooperation.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
    "id": "50_167f",
    "marks": [],
-   "path": "Chapter 010 - Helium Gas/§ 00167f - Condemnation proceedings.md",
+   "path": "Chapter 010 - Helium Gas/§ 00167f - Elimination of stockpile.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -1179,24 +1174,28 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167g - Promulgation of rules and regulations.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
    "id": "50_167h",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 36]",
-     true
+     "I",
+     2,
+     [
+      [
+       96,
+       "[Page 37]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Helium Gas/§ 00167h - Administrative procedure.md",
    "printed_pages": [
-    35,
-    36
+    36,
+    37
    ]
   },
   {
@@ -1204,17 +1203,24 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167i - Exclusion from Natural Gas Act provisions.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    37
    ]
   },
   {
    "id": "50_167j",
-   "marks": [],
-   "path": "Chapter 010 - Helium Gas/§ 00167j - Loans and obligations.md",
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 38]",
+     true
+    ]
+   ],
+   "path": "Chapter 010 - Helium Gas/§ 00167j - Land conveyance in Potter County, Texas.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    38
    ]
   },
   {
@@ -1222,8 +1228,8 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167k - Violations; penalties.md",
    "printed_pages": [
-    36,
-    36
+    38,
+    38
    ]
   },
   {
@@ -1231,33 +1237,26 @@
    "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167l - Injunctions.md",
    "printed_pages": [
-    36,
-    36
+    38,
+    38
    ]
   },
   {
    "id": "50_167m",
    "marks": [],
-   "path": "Chapter 010 - Helium Gas/§ 00167m - Individual enterprise in developing helium.md",
+   "path": "Chapter 010 - Helium Gas/§ 00167m - Report on helium.md",
    "printed_pages": [
-    36,
-    36
+    38,
+    38
    ]
   },
   {
    "id": "50_167n",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 37]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Helium Gas/§ 00167n - Reports.md",
    "printed_pages": [
-    36,
-    37
+    38,
+    38
    ]
   },
   {
@@ -1265,8 +1264,8 @@
    "marks": [],
    "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/README.md",
    "printed_pages": [
-    37,
-    37
+    38,
+    38
    ]
   },
   {
@@ -1274,8 +1273,8 @@
    "marks": [],
    "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00171, 171–1 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    37,
-    37
+    38,
+    38
    ]
   },
   {
@@ -1283,8 +1282,8 @@
    "marks": [],
    "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00171a - Omitted.md",
    "printed_pages": [
-    37,
-    37
+    38,
+    38
    ]
   },
   {
@@ -1292,86 +1291,12 @@
    "marks": [],
    "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00171b - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1570.md",
    "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_172,_173",
-   "marks": [],
-   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00172, 173 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_174",
-   "marks": [],
-   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00174 - Omitted.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_175",
-   "marks": [],
-   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00175 - Transferred.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_176",
-   "marks": [],
-   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00176 - Omitted.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_177_to_179",
-   "marks": [],
-   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00177 to 179 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat 641.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_-ch12",
-   "marks": [],
-   "path": "Chapter 012 - Vessels in Territorial Waters of United States/README.md",
-   "printed_pages": [
-    37,
-    37
-   ]
-  },
-  {
-   "id": "50_191",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       88,
-       "[Page 38]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00191 - Regulation of anchorage and movement of vessels during national emergency.md",
-   "printed_pages": [
-    37,
+    38,
     38
    ]
   },
   {
-   "id": "50_191a",
+   "id": "50_172,_173",
    "marks": [
     [
      "L",
@@ -1380,10 +1305,90 @@
      true
     ]
    ],
-   "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00191a - Transfer of Secretary of Transportation's powers to Secretary of Navy when Coast Guard operates as part of Navy.md",
+   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00172, 173 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
     38,
     39
+   ]
+  },
+  {
+   "id": "50_174",
+   "marks": [],
+   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00174 - Omitted.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "50_175",
+   "marks": [],
+   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00175 - Transferred.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "50_176",
+   "marks": [],
+   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00176 - Omitted.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "50_177_to_179",
+   "marks": [],
+   "path": "Chapter 011 - Acquisition of and Expenditures on Land for National-Defense Purposes/§ 00177 to 179 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat 641.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "50_-ch12",
+   "marks": [],
+   "path": "Chapter 012 - Vessels in Territorial Waters of United States/README.md",
+   "printed_pages": [
+    39,
+    39
+   ]
+  },
+  {
+   "id": "50_191",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       261,
+       "[Page 40]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     80,
+     "[Page 41]",
+     true
+    ]
+   ],
+   "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00191 - Regulation of anchorage and movement of vessels during national emergency.md",
+   "printed_pages": [
+    39,
+    41
+   ]
+  },
+  {
+   "id": "50_191a",
+   "marks": [],
+   "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00191a - Transfer of Secretary of Transportation's powers to Secretary of Navy when Coast Guard operates as part of Navy.md",
+   "printed_pages": [
+    41,
+    41
    ]
   },
   {
@@ -1391,8 +1396,8 @@
    "marks": [],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00191b - Repealed. Pub. L. 96–70, title III, §3303(a)(5), Sept. 27, 1979, 93 Stat. 499.md",
    "printed_pages": [
-    39,
-    39
+    41,
+    41
    ]
   },
   {
@@ -1400,17 +1405,24 @@
    "marks": [],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00191c - Repealed. Aug. 4, 1949, ch. 393, §20, 63 Stat. 561.md",
    "printed_pages": [
-    39,
-    39
+    41,
+    41
    ]
   },
   {
    "id": "50_192",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 42]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00192 - Seizure and forfeiture of vessel; fine and imprisonment.md",
    "printed_pages": [
-    39,
-    39
+    41,
+    42
    ]
   },
   {
@@ -1418,8 +1430,8 @@
    "marks": [],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00193 - Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862.md",
    "printed_pages": [
-    39,
-    39
+    42,
+    42
    ]
   },
   {
@@ -1427,24 +1439,17 @@
    "marks": [],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00194 - Enforcement provisions.md",
    "printed_pages": [
-    39,
-    39
+    42,
+    42
    ]
   },
   {
    "id": "50_195",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 40]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00195 - “United States” defined.md",
    "printed_pages": [
-    39,
-    40
+    42,
+    42
    ]
   },
   {
@@ -1452,17 +1457,24 @@
    "marks": [],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00196 - Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters.md",
    "printed_pages": [
-    40,
-    40
+    42,
+    42
    ]
   },
   {
    "id": "50_197",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 43]",
+     true
+    ]
+   ],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00197 - Voluntary purchase or charter agreements.md",
    "printed_pages": [
-    40,
-    40
+    42,
+    43
    ]
   },
   {
@@ -1470,39 +1482,28 @@
    "marks": [
     [
      "I",
-     12,
+     38,
      [
       [
-       276,
-       "[Page 41]"
+       103,
+       "[Page 44]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Vessels in Territorial Waters of United States/§ 00198 - Requisitioned vessels.md",
    "printed_pages": [
-    40,
-    41
+    43,
+    44
    ]
   },
   {
    "id": "50_-ch13",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       51,
-       "[Page 42]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Insurrection/README.md",
    "printed_pages": [
-    41,
-    42
+    44,
+    44
    ]
   },
   {
@@ -1510,8 +1511,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00201 to 204 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    42,
-    42
+    44,
+    44
    ]
   },
   {
@@ -1519,17 +1520,24 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00205 - Suspension of commercial intercourse with State in insurrection.md",
    "printed_pages": [
-    42,
-    42
+    44,
+    44
    ]
   },
   {
    "id": "50_206",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 45]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Insurrection/§ 00206 - Suspension of commercial intercourse with part of State in insurrection.md",
    "printed_pages": [
-    42,
-    42
+    44,
+    45
    ]
   },
   {
@@ -1537,28 +1545,17 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00207 - Persons affected by suspension of commercial intercourse.md",
    "printed_pages": [
-    42,
-    42
+    45,
+    45
    ]
   },
   {
    "id": "50_208",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1444,
-       "[Page 43]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00208 - Licensing or permitting commercial intercourse with State or region in insurrection.md",
    "printed_pages": [
-    42,
-    43
+    45,
+    45
    ]
   },
   {
@@ -1566,8 +1563,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00209 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632.md",
    "printed_pages": [
-    43,
-    43
+    45,
+    45
    ]
   },
   {
@@ -1575,8 +1572,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00210 - Penalties for unauthorized trading, etc.; jurisdiction of prosecutions.md",
    "printed_pages": [
-    43,
-    43
+    45,
+    45
    ]
   },
   {
@@ -1584,17 +1581,28 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00211 - Investigations to detect and prevent frauds and abuses.md",
    "printed_pages": [
-    43,
-    43
+    45,
+    45
    ]
   },
   {
    "id": "50_212",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       181,
+       "[Page 46]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Insurrection/§ 00212 - Confiscation of property employed to aid insurrection.md",
    "printed_pages": [
-    43,
-    43
+    45,
+    46
    ]
   },
   {
@@ -1602,8 +1610,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00213 - Jurisdiction of confiscation proceedings.md",
    "printed_pages": [
-    43,
-    43
+    46,
+    46
    ]
   },
   {
@@ -1611,28 +1619,17 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00214 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    43,
-    43
+    46,
+    46
    ]
   },
   {
    "id": "50_215",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       275,
-       "[Page 44]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00215 - Institution of confiscation proceedings.md",
    "printed_pages": [
-    43,
-    44
+    46,
+    46
    ]
   },
   {
@@ -1640,17 +1637,24 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00216 - Preventing transportation of goods to aid insurrection.md",
    "printed_pages": [
-    44,
-    44
+    46,
+    46
    ]
   },
   {
    "id": "50_217",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 47]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Insurrection/§ 00217 - Trading in captured or abandoned property.md",
    "printed_pages": [
-    44,
-    44
+    46,
+    47
    ]
   },
   {
@@ -1658,28 +1662,17 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00218 - Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632.md",
    "printed_pages": [
-    44,
-    44
+    47,
+    47
    ]
   },
   {
    "id": "50_219",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       207,
-       "[Page 45]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00219 - Removal of customhouse and detention of vessels thereat.md",
    "printed_pages": [
-    44,
-    45
+    47,
+    47
    ]
   },
   {
@@ -1687,17 +1680,28 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00220 - Enforcement of section 219.md",
    "printed_pages": [
-    45,
-    45
+    47,
+    47
    ]
   },
   {
    "id": "50_221",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       106,
+       "[Page 48]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Insurrection/§ 00221 - Closing ports of entry; forfeiture of vessels seeking to enter closed port.md",
    "printed_pages": [
-    45,
-    45
+    47,
+    48
    ]
   },
   {
@@ -1705,8 +1709,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00222 - Transferred.md",
    "printed_pages": [
-    45,
-    45
+    48,
+    48
    ]
   },
   {
@@ -1714,24 +1718,17 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00223 - Forfeiture of vessels owned by citizens of insurrectionary States.md",
    "printed_pages": [
-    45,
-    45
+    48,
+    48
    ]
   },
   {
    "id": "50_224",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 46]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00224 - Refusing clearance to vessels with suspected cargoes; forfeiture for departing without clearance.md",
    "printed_pages": [
-    45,
-    46
+    48,
+    48
    ]
   },
   {
@@ -1739,8 +1736,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00225 - Bond to deliver cargo at destination named in clearance.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
@@ -1748,8 +1745,8 @@
    "marks": [],
    "path": "Chapter 013 - Insurrection/§ 00226 - Protection of liens on condemned vessels.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
@@ -1757,17 +1754,28 @@
    "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/README.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
    "id": "50_301_to_303",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       169,
+       "[Page 49]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00301 to 303 - Repealed. Aug. 9, 1955, ch. 656, title III, §307, 69 Stat. 589.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    49
    ]
   },
   {
@@ -1775,28 +1783,17 @@
    "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00304 to 315 - Repealed. Apr. 1, 1944, ch. 150, 58 Stat. 136.md",
    "printed_pages": [
-    46,
-    46
+    49,
+    49
    ]
   },
   {
    "id": "50_321_to_331",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       120,
-       "[Page 47]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00321 to 331 - Repealed. Aug. 9, 1955, ch. 656, title III, §307, 69 Stat. 589.md",
    "printed_pages": [
-    46,
-    47
+    49,
+    49
    ]
   },
   {
@@ -1804,8 +1801,8 @@
    "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00332 to 340 - Repealed. Apr. 19, 1946, ch. 142, 60 Stat. 96.md",
    "printed_pages": [
-    47,
-    47
+    49,
+    49
    ]
   },
   {
@@ -1813,17 +1810,24 @@
    "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00341 - Repealed. Aug. 9, 1955, ch. 656, title III, §307, 69 Stat. 589.md",
    "printed_pages": [
-    47,
-    47
+    49,
+    49
    ]
   },
   {
    "id": "50_342",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 50]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00342 - Repealed. May 24, 1949, ch. 139, §142, 63 Stat. 109.md",
    "printed_pages": [
-    47,
-    47
+    49,
+    50
    ]
   },
   {
@@ -1831,8 +1835,8 @@
    "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00343 to 347 - Repealed. Apr. 19, 1946, ch. 142, 60 Stat. 96.md",
    "printed_pages": [
-    47,
-    47
+    50,
+    50
    ]
   },
   {
@@ -1840,8 +1844,8 @@
    "marks": [],
    "path": "Chapter 014 - Wartime Voting by Land and Naval Forces/§ 00351 to 355 - Repealed. Aug. 9, 1955, ch. 656, title III, §307, 69 Stat. 589.md",
    "printed_pages": [
-    47,
-    47
+    50,
+    50
    ]
   },
   {
@@ -1849,183 +1853,163 @@
    "marks": [
     [
      "I",
-     5,
+     68,
      [
       [
-       22,
-       "[Page 48]"
+       54,
+       "[Page 51]"
       ]
      ]
     ],
     [
      "I",
-     105,
+     170,
      [
       [
-       39,
-       "[Page 49]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     218,
-     [
-      [
-       36,
-       "[Page 50]"
+       66,
+       "[Page 52]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/README.md",
    "printed_pages": [
-    47,
-    50
+    50,
+    52
    ]
   },
   {
    "id": "50_401",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 51]",
-     true
-    ],
-    [
-     "L",
-     129,
-     "[Page 52]",
-     true
-    ],
-    [
      "I",
-     219,
+     2,
      [
       [
-       148,
+       602,
        "[Page 53]"
       ]
      ]
     ],
     [
-     "I",
-     315,
-     [
-      [
-       108,
-       "[Page 54]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 54]",
+     true
     ],
     [
      "I",
-     443,
+     165,
      [
       [
-       90,
+       527,
        "[Page 55]"
       ]
      ]
     ],
     [
-     "I",
-     537,
-     [
-      [
-       103,
-       "[Page 56]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     732,
-     [
-      [
-       273,
-       "[Page 57]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     814,
-     [
-      [
-       264,
-       "[Page 58]"
-      ]
-     ]
+     "L",
+     255,
+     "[Page 56]",
+     true
     ],
     [
      "L",
-     904,
+     355,
+     "[Page 57]",
+     true
+    ],
+    [
+     "L",
+     485,
+     "[Page 58]",
+     true
+    ],
+    [
+     "L",
+     563,
      "[Page 59]",
      true
     ],
     [
-     "L",
-     990,
-     "[Page 60]",
-     true
-    ],
-    [
      "I",
-     1074,
+     770,
      [
       [
-       103,
-       "[Page 61]"
+       210,
+       "[Page 60]"
       ]
      ]
     ],
     [
+     "L",
+     844,
+     "[Page 61]",
+     true
+    ],
+    [
      "I",
-     1164,
+     934,
      [
       [
-       264,
+       107,
        "[Page 62]"
       ]
      ]
     ],
     [
      "I",
-     1246,
+     1024,
      [
       [
-       680,
+       109,
        "[Page 63]"
       ]
      ]
+    ],
+    [
+     "I",
+     1100,
+     [
+      [
+       421,
+       "[Page 64]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1194,
+     "[Page 65]",
+     true
+    ],
+    [
+     "L",
+     1262,
+     "[Page 66]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/§ 00401 - Congressional declaration of purpose.md",
    "printed_pages": [
-    50,
-    63
+    52,
+    66
    ]
   },
   {
    "id": "50_401a",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       249,
-       "[Page 64]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 67]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/§ 00401a - Definitions.md",
    "printed_pages": [
-    63,
-    64
+    66,
+    67
    ]
   },
   {
@@ -2033,8 +2017,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/README.md",
    "printed_pages": [
-    64,
-    64
+    67,
+    67
    ]
   },
   {
@@ -2042,53 +2026,49 @@
    "marks": [
     [
      "L",
-     34,
-     "[Page 65]",
-     true
-    ],
-    [
-     "I",
-     104,
-     [
-      [
-       485,
-       "[Page 66]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     154,
-     "[Page 67]",
-     true
-    ],
-    [
-     "L",
-     222,
+     54,
      "[Page 68]",
      true
     ],
     [
      "L",
-     280,
+     144,
      "[Page 69]",
      true
     ],
     [
      "I",
-     326,
+     206,
      [
       [
-       309,
+       1210,
        "[Page 70]"
       ]
      ]
+    ],
+    [
+     "L",
+     290,
+     "[Page 71]",
+     true
+    ],
+    [
+     "L",
+     348,
+     "[Page 72]",
+     true
+    ],
+    [
+     "L",
+     402,
+     "[Page 73]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00402 - National Security Council.md",
    "printed_pages": [
-    64,
-    70
+    67,
+    73
    ]
   },
   {
@@ -2099,16 +2079,16 @@
      28,
      [
       [
-       184,
-       "[Page 71]"
+       503,
+       "[Page 74]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00402a - Coordination of counterintelligence activities.md",
    "printed_pages": [
-    70,
-    71
+    73,
+    74
    ]
   },
   {
@@ -2116,49 +2096,40 @@
    "marks": [
     [
      "I",
-     52,
+     62,
      [
       [
-       160,
-       "[Page 72]"
+       138,
+       "[Page 75]"
       ]
      ]
     ],
     [
-     "I",
-     130,
-     [
-      [
-       111,
-       "[Page 73]"
-      ]
-     ]
+     "L",
+     144,
+     "[Page 76]",
+     true
+    ],
+    [
+     "L",
+     224,
+     "[Page 77]",
+     true
     ]
    ],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403 - Central Intelligence Agency.md",
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403 - Office of the Director of Central Intelligence.md",
    "printed_pages": [
-    71,
-    73
+    74,
+    77
    ]
   },
   {
    "id": "50_403-1",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       116,
-       "[Page 74]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–1 - Repealed. Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.md",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–1 - Central Intelligence Agency.md",
    "printed_pages": [
-    73,
-    74
+    77,
+    77
    ]
   },
   {
@@ -2166,53 +2137,59 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–2 - Intelligence Community contracting.md",
    "printed_pages": [
-    74,
-    74
+    77,
+    77
    ]
   },
   {
    "id": "50_403-2a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       188,
+       "[Page 78]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–2a - Construction of intelligence community facilities; Presidential authorization.md",
    "printed_pages": [
-    74,
-    74
+    77,
+    78
    ]
   },
   {
    "id": "50_403-2b",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 75]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–2b - Limitation on construction of facilities to be used primarily by intelligence community.md",
    "printed_pages": [
-    74,
-    75
+    78,
+    78
    ]
   },
   {
    "id": "50_403-3",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       96,
-       "[Page 76]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 79]",
+     true
+    ],
+    [
+     "L",
+     80,
+     "[Page 80]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–3 - Responsibilities of Director of Central Intelligence.md",
    "printed_pages": [
-    75,
-    76
+    78,
+    80
    ]
   },
   {
@@ -2220,29 +2197,29 @@
    "marks": [
     [
      "I",
-     44,
+     34,
      [
       [
-       138,
-       "[Page 77]"
+       92,
+       "[Page 81]"
       ]
      ]
     ],
     [
      "I",
-     138,
+     102,
      [
       [
-       353,
-       "[Page 78]"
+       740,
+       "[Page 82]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–4 - Authorities of Director of Central Intelligence.md",
    "printed_pages": [
-    76,
-    78
+    80,
+    82
    ]
   },
   {
@@ -2250,24 +2227,60 @@
    "marks": [
     [
      "L",
-     48,
-     "[Page 79]",
+     18,
+     "[Page 83]",
      true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–5 - Responsibilities of Secretary of Defense pertaining to National Foreign Intelligence Program.md",
    "printed_pages": [
-    78,
-    79
+    82,
+    83
+   ]
+  },
+  {
+   "id": "50_403-5a",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 84]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–5a - Assistance to United States law enforcement agencies.md",
+   "printed_pages": [
+    83,
+    84
    ]
   },
   {
    "id": "50_403-6",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–6 - Administrative provisions pertaining to defense elements within intelligence community.md",
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 85]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–6 - Appointment of officials responsible for intelligence-related activities.md",
    "printed_pages": [
-    79,
-    79
+    84,
+    85
+   ]
+  },
+  {
+   "id": "50_403-7",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403–7 - Prohibition on using journalists as agents or assets.md",
+   "printed_pages": [
+    85,
+    85
    ]
   },
   {
@@ -2275,8 +2288,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403a - Definitions relating to Central Intelligence Agency.md",
    "printed_pages": [
-    79,
-    79
+    85,
+    85
    ]
   },
   {
@@ -2284,24 +2297,28 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403b - Seal of office of Central Intelligence Agency.md",
    "printed_pages": [
-    79,
-    79
+    85,
+    85
    ]
   },
   {
    "id": "50_403c",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 80]",
-     true
+     "I",
+     12,
+     [
+      [
+       93,
+       "[Page 86]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403c - Procurement authority of Central Intelligence Agency.md",
    "printed_pages": [
-    79,
-    80
+    85,
+    86
    ]
   },
   {
@@ -2309,8 +2326,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403d - Repealed. Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337.md",
    "printed_pages": [
-    80,
-    80
+    86,
+    86
    ]
   },
   {
@@ -2318,39 +2335,39 @@
    "marks": [
     [
      "I",
-     14,
+     12,
      [
       [
-       275,
-       "[Page 81]"
+       363,
+       "[Page 87]"
       ]
      ]
     ],
     [
      "I",
-     36,
+     32,
      [
       [
-       135,
-       "[Page 82]"
+       99,
+       "[Page 88]"
       ]
      ]
     ],
     [
      "I",
-     82,
+     74,
      [
       [
-       159,
-       "[Page 83]"
+       111,
+       "[Page 89]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403e - Central Intelligence Agency personnel; allowances and benefits.md",
    "printed_pages": [
-    80,
-    83
+    86,
+    89
    ]
   },
   {
@@ -2358,19 +2375,19 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       186,
-       "[Page 84]"
+       96,
+       "[Page 90]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403e–1 - Eligibility for incentive awards.md",
    "printed_pages": [
-    83,
-    84
+    89,
+    90
    ]
   },
   {
@@ -2378,15 +2395,15 @@
    "marks": [
     [
      "L",
-     38,
-     "[Page 85]",
+     28,
+     "[Page 91]",
      true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403f - General authorities of Agency.md",
    "printed_pages": [
-    84,
-    85
+    90,
+    91
    ]
   },
   {
@@ -2394,28 +2411,24 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403g - Protection of nature of Agency's functions.md",
    "printed_pages": [
-    85,
-    85
+    91,
+    91
    ]
   },
   {
    "id": "50_403h",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       537,
-       "[Page 86]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 92]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403h - Admission of essential aliens; limitation on number.md",
    "printed_pages": [
-    85,
-    86
+    91,
+    92
    ]
   },
   {
@@ -2423,28 +2436,24 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403i - Repealed. Sept. 1, 1954, ch. 1208, title VI, §601(b), 68 Stat. 1115.md",
    "printed_pages": [
-    86,
-    86
+    92,
+    92
    ]
   },
   {
    "id": "50_403j",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       111,
-       "[Page 87]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 93]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403j - Central Intelligence Agency; appropriations; expenditures.md",
    "printed_pages": [
-    86,
-    87
+    92,
+    93
    ]
   },
   {
@@ -2452,62 +2461,62 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403k - Authority to pay death gratuities.md",
    "printed_pages": [
-    87,
-    87
+    93,
+    93
    ]
   },
   {
    "id": "50_403l",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403l - Authority to accept gifts, devises and bequests.md",
-   "printed_pages": [
-    87,
-    87
-   ]
-  },
-  {
-   "id": "50_403m",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       188,
-       "[Page 88]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403m - Misuse of Agency name, initials, or seal.md",
-   "printed_pages": [
-    87,
-    88
-   ]
-  },
-  {
-   "id": "50_403n",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403n - Special provisions for spouses of Central Intelligence Agency employees applicable to Agency participants in Civil Service Retirement and….md",
-   "printed_pages": [
-    88,
-    88
-   ]
-  },
-  {
-   "id": "50_403o",
    "marks": [
     [
      "L",
      14,
-     "[Page 89]",
+     "[Page 94]",
      true
     ]
    ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403l - Authority to accept gifts, devises and bequests.md",
+   "printed_pages": [
+    93,
+    94
+   ]
+  },
+  {
+   "id": "50_403m",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403m - Misuse of Agency name, initials, or seal.md",
+   "printed_pages": [
+    94,
+    94
+   ]
+  },
+  {
+   "id": "50_403n",
+   "marks": [
+    [
+     "I",
+     36,
+     [
+      [
+       104,
+       "[Page 95]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403n - Special provisions for spouses of Central Intelligence Agency employees applicable to Agency participants in Civil Service Retirement and….md",
+   "printed_pages": [
+    94,
+    95
+   ]
+  },
+  {
+   "id": "50_403o",
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403o - Security personnel at Agency installations.md",
    "printed_pages": [
-    88,
-    89
+    95,
+    95
    ]
   },
   {
@@ -2515,27 +2524,113 @@
    "marks": [
     [
      "L",
-     54,
-     "[Page 90]",
+     40,
+     "[Page 96]",
      true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403p - Health benefits for certain former spouses of Central Intelligence Agency employees.md",
    "printed_pages": [
-    89,
-    90
+    95,
+    96
    ]
   },
   {
    "id": "50_403q",
    "marks": [
     [
+     "L",
+     6,
+     "[Page 97]",
+     true
+    ],
+    [
      "I",
-     18,
+     52,
      [
       [
-       475,
-       "[Page 91]"
+       96,
+       "[Page 98]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       92,
+       "[Page 99]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403q - Inspector General for Agency.md",
+   "printed_pages": [
+    96,
+    99
+   ]
+  },
+  {
+   "id": "50_403r",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 100]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403r - Special annuity computation rules for certain employees’ service abroad.md",
+   "printed_pages": [
+    99,
+    100
+   ]
+  },
+  {
+   "id": "50_403r-1",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403r–1 - Portability of overseas service retirement benefit.md",
+   "printed_pages": [
+    100,
+    100
+   ]
+  },
+  {
+   "id": "50_403s",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 101]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403s - Special rules for disability retirement and death-in-service benefits with respect to certain employees.md",
+   "printed_pages": [
+    100,
+    101
+   ]
+  },
+  {
+   "id": "50_403t",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403t - General Counsel of Central Intelligence Agency.md",
+   "printed_pages": [
+    101,
+    101
+   ]
+  },
+  {
+   "id": "50_404",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       89,
+       "[Page 102]"
       ]
      ]
     ],
@@ -2544,171 +2639,134 @@
      66,
      [
       [
-       139,
-       "[Page 92]"
+       98,
+       "[Page 103]"
       ]
      ]
     ],
     [
      "I",
-     106,
+     120,
      [
       [
-       101,
-       "[Page 93]"
+       218,
+       "[Page 104]"
       ]
      ]
-    ]
-   ],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403q - Inspector General for Agency.md",
-   "printed_pages": [
-    90,
-    93
-   ]
-  },
-  {
-   "id": "50_403r",
-   "marks": [
+    ],
+    [
+     "I",
+     188,
+     [
+      [
+       100,
+       "[Page 105]"
+      ]
+     ]
+    ],
     [
      "L",
-     42,
-     "[Page 94]",
+     216,
+     "[Page 106]",
      true
-    ]
-   ],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403r - Special annuity computation rules for certain employees’ service abroad.md",
-   "printed_pages": [
-    93,
-    94
-   ]
-  },
-  {
-   "id": "50_403r-1",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403r–1 - Portability of overseas service retirement benefit.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "50_403s",
-   "marks": [
-    [
-     "I",
-     48,
-     [
-      [
-       392,
-       "[Page 95]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00403s - Special rules for disability retirement and death-in-service benefits with respect to certain employees.md",
-   "printed_pages": [
-    94,
-    95
-   ]
-  },
-  {
-   "id": "50_404",
-   "marks": [
-    [
-     "L",
-     46,
-     "[Page 96]",
-     true
-    ],
-    [
-     "I",
-     106,
-     [
-      [
-       423,
-       "[Page 97]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     160,
-     [
-      [
-       110,
-       "[Page 98]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     200,
-     [
-      [
-       106,
-       "[Page 99]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404 - Emergency preparedness.md",
    "printed_pages": [
-    95,
-    99
+    101,
+    106
    ]
   },
   {
    "id": "50_404a",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 100]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404a - Annual national security strategy report.md",
    "printed_pages": [
-    99,
-    100
+    106,
+    106
    ]
   },
   {
    "id": "50_404b",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404b - Multiyear national foreign intelligence program.md",
-   "printed_pages": [
-    100,
-    100
-   ]
-  },
-  {
-   "id": "50_404c",
    "marks": [
     [
      "I",
-     32,
+     12,
      [
       [
-       107,
-       "[Page 101]"
+       226,
+       "[Page 107]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404b - Multiyear national foreign intelligence program.md",
+   "printed_pages": [
+    106,
+    107
+   ]
+  },
+  {
+   "id": "50_404c",
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404c - Annual report on United States security arrangements and commitments with other nations.md",
    "printed_pages": [
-    100,
-    101
+    107,
+    107
    ]
   },
   {
    "id": "50_404d",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404d - Annual report on intelligence community activities.md",
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       97,
+       "[Page 108]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404d - Annual report on intelligence.md",
    "printed_pages": [
-    101,
-    101
+    107,
+    108
+   ]
+  },
+  {
+   "id": "50_404d-1",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 109]",
+     true
+    ]
+   ],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404d–1 - Restrictions on intelligence sharing with United Nations.md",
+   "printed_pages": [
+    108,
+    109
+   ]
+  },
+  {
+   "id": "50_404e",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404e - National mission of National Imagery and Mapping Agency.md",
+   "printed_pages": [
+    109,
+    109
+   ]
+  },
+  {
+   "id": "50_404f",
+   "marks": [],
+   "path": "Chapter 015 - National Security/Subchapter 001 (I) - Coordination for National Security/§ 00404f - Collection tasking authority.md",
+   "printed_pages": [
+    109,
+    109
    ]
   },
   {
@@ -2716,28 +2774,24 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/README.md",
    "printed_pages": [
-    101,
-    101
+    109,
+    109
    ]
   },
   {
    "id": "50_405",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       106,
-       "[Page 102]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 110]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00405 - Advisory committees; appointment; compensation of part-time personnel; applicability of other laws.md",
    "printed_pages": [
-    101,
-    102
+    109,
+    110
    ]
   },
   {
@@ -2745,8 +2799,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00406 - Omitted.md",
    "printed_pages": [
-    102,
-    102
+    110,
+    110
    ]
   },
   {
@@ -2754,8 +2808,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00407 - Study or plan of surrender; use of appropriations.md",
    "printed_pages": [
-    102,
-    102
+    110,
+    110
    ]
   },
   {
@@ -2763,37 +2817,37 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00408 - Applicable laws.md",
    "printed_pages": [
-    102,
-    102
+    110,
+    110
    ]
   },
   {
    "id": "50_409",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00409 - Definitions of military departments.md",
-   "printed_pages": [
-    102,
-    102
-   ]
-  },
-  {
-   "id": "50_410",
    "marks": [
     [
      "I",
-     4,
+     12,
      [
       [
-       93,
-       "[Page 103]"
+       112,
+       "[Page 111]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00409 - Definitions of military departments.md",
+   "printed_pages": [
+    110,
+    111
+   ]
+  },
+  {
+   "id": "50_410",
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00410 - “Function” and “Department of Defense” defined.md",
    "printed_pages": [
-    102,
-    103
+    111,
+    111
    ]
   },
   {
@@ -2801,17 +2855,24 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00411 - Authorization of appropriations.md",
    "printed_pages": [
-    103,
-    103
+    111,
+    111
    ]
   },
   {
    "id": "50_412",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 112]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - National Security/Subchapter 002 (II) - Miscellaneous and Conforming Provisions/§ 00412 - Repealing and savings provisions.md",
    "printed_pages": [
-    103,
-    103
+    111,
+    112
    ]
   },
   {
@@ -2819,80 +2880,73 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 003 (III) - Accountability for Intelligence Activities/README.md",
    "printed_pages": [
-    103,
-    103
+    112,
+    112
    ]
   },
   {
    "id": "50_413",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       92,
-       "[Page 104]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 003 (III) - Accountability for Intelligence Activities/§ 00413 - General Congressional oversight provisions.md",
    "printed_pages": [
-    103,
-    104
+    112,
+    112
    ]
   },
   {
    "id": "50_413a",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 105]",
-     true
+     "I",
+     20,
+     [
+      [
+       206,
+       "[Page 113]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 003 (III) - Accountability for Intelligence Activities/§ 00413a - Reporting of intelligence activities other than covert actions.md",
    "printed_pages": [
-    104,
-    105
+    112,
+    113
    ]
   },
   {
    "id": "50_413b",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       90,
-       "[Page 106]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 114]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 003 (III) - Accountability for Intelligence Activities/§ 00413b - Presidential approval and reporting of covert actions.md",
    "printed_pages": [
-    105,
-    106
+    113,
+    114
    ]
   },
   {
    "id": "50_414",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 107]",
-     true
+     "I",
+     48,
+     [
+      [
+       229,
+       "[Page 115]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 003 (III) - Accountability for Intelligence Activities/§ 00414 - Funding of intelligence activities.md",
    "printed_pages": [
-    106,
-    107
+    114,
+    115
    ]
   },
   {
@@ -2900,19 +2954,19 @@
    "marks": [
     [
      "I",
-     42,
+     38,
      [
       [
-       501,
-       "[Page 108]"
+       100,
+       "[Page 116]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 003 (III) - Accountability for Intelligence Activities/§ 00415 - Notice to Congress of certain transfers of defense articles and defense services.md",
    "printed_pages": [
-    107,
-    108
+    115,
+    116
    ]
   },
   {
@@ -2920,8 +2974,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/README.md",
    "printed_pages": [
-    108,
-    108
+    116,
+    116
    ]
   },
   {
@@ -2929,8 +2983,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/§ 00421 - Protection of identities of certain United States undercover intelligence officers, agents, informants, and sources.md",
    "printed_pages": [
-    108,
-    108
+    116,
+    116
    ]
   },
   {
@@ -2938,15 +2992,15 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 109]",
+     12,
+     "[Page 117]",
      true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/§ 00422 - Defenses and exceptions.md",
    "printed_pages": [
-    108,
-    109
+    116,
+    117
    ]
   },
   {
@@ -2954,8 +3008,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/§ 00423 - Report.md",
    "printed_pages": [
-    109,
-    109
+    117,
+    117
    ]
   },
   {
@@ -2963,8 +3017,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/§ 00424 - Extraterritorial jurisdiction.md",
    "printed_pages": [
-    109,
-    109
+    117,
+    117
    ]
   },
   {
@@ -2972,33 +3026,33 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/§ 00425 - Providing information to Congress.md",
    "printed_pages": [
-    109,
-    109
+    117,
+    117
    ]
   },
   {
    "id": "50_426",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 118]",
+     true
+    ]
+   ],
    "path": "Chapter 015 - National Security/Subchapter 004 (IV) - Protection of Certain National Security Information/§ 00426 - Definitions.md",
    "printed_pages": [
-    109,
-    109
+    117,
+    118
    ]
   },
   {
    "id": "50_-ch15-scV",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 110]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 005 (V) - Protection of Operational Files of the Central Intelligence Agency/README.md",
    "printed_pages": [
-    109,
-    110
+    118,
+    118
    ]
   },
   {
@@ -3006,19 +3060,19 @@
    "marks": [
     [
      "I",
-     56,
+     52,
      [
       [
-       140,
-       "[Page 111]"
+       94,
+       "[Page 119]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 005 (V) - Protection of Operational Files of the Central Intelligence Agency/§ 00431 - Exemption of certain operational files from search, review, publication, or disclosure.md",
    "printed_pages": [
-    110,
-    111
+    118,
+    119
    ]
   },
   {
@@ -3026,8 +3080,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 005 (V) - Protection of Operational Files of the Central Intelligence Agency/§ 00432 - Decennial review of exempted operational files.md",
    "printed_pages": [
-    111,
-    111
+    119,
+    119
    ]
   },
   {
@@ -3035,8 +3089,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 006 (VI) - Access to Classified Information/README.md",
    "printed_pages": [
-    111,
-    111
+    119,
+    119
    ]
   },
   {
@@ -3044,231 +3098,231 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       142,
-       "[Page 112]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     72,
-     "[Page 113]",
-     true
-    ],
-    [
-     "I",
-     172,
-     [
-      [
-       314,
-       "[Page 114]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     256,
-     "[Page 115]",
-     true
-    ],
-    [
-     "L",
-     340,
-     "[Page 116]",
-     true
-    ],
-    [
-     "I",
-     408,
-     [
-      [
-       112,
-       "[Page 117]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     446,
-     "[Page 118]",
-     true
-    ],
-    [
-     "I",
-     506,
-     [
-      [
-       164,
-       "[Page 119]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     552,
-     [
-      [
-       373,
+       273,
        "[Page 120]"
       ]
      ]
     ],
     [
-     "I",
-     594,
-     [
-      [
-       328,
-       "[Page 121]"
-      ]
-     ]
+     "L",
+     66,
+     "[Page 121]",
+     true
     ],
     [
      "L",
-     660,
+     160,
      "[Page 122]",
      true
     ],
     [
-     "L",
-     740,
-     "[Page 123]",
-     true
-    ],
-    [
-     "L",
-     828,
-     "[Page 124]",
-     true
-    ],
-    [
-     "L",
-     920,
-     "[Page 125]",
-     true
-    ],
-    [
      "I",
-     982,
+     250,
      [
       [
-       270,
-       "[Page 126]"
+       312,
+       "[Page 123]"
       ]
      ]
     ],
     [
      "I",
-     1034,
+     328,
      [
       [
-       212,
+       470,
+       "[Page 124]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     408,
+     "[Page 125]",
+     true
+    ],
+    [
+     "L",
+     442,
+     "[Page 126]",
+     true
+    ],
+    [
+     "I",
+     502,
+     [
+      [
+       848,
        "[Page 127]"
       ]
      ]
     ],
     [
-     "L",
-     1100,
-     "[Page 128]",
-     true
+     "I",
+     550,
+     [
+      [
+       528,
+       "[Page 128]"
+      ]
+     ]
     ],
     [
      "I",
-     1174,
+     588,
      [
       [
-       479,
+       579,
        "[Page 129]"
       ]
      ]
     ],
     [
      "I",
-     1248,
+     658,
      [
       [
-       104,
+       389,
        "[Page 130]"
       ]
      ]
     ],
     [
      "L",
-     1360,
+     730,
      "[Page 131]",
      true
     ],
     [
      "L",
-     1452,
+     818,
      "[Page 132]",
      true
     ],
     [
      "I",
-     1516,
+     900,
      [
       [
-       222,
+       175,
        "[Page 133]"
       ]
      ]
     ],
     [
+     "L",
+     974,
+     "[Page 134]",
+     true
+    ],
+    [
+     "L",
+     1036,
+     "[Page 135]",
+     true
+    ],
+    [
      "I",
-     1562,
+     1096,
      [
       [
-       109,
-       "[Page 134]"
+       527,
+       "[Page 136]"
       ]
      ]
     ],
     [
      "I",
-     1614,
+     1168,
      [
       [
-       212,
-       "[Page 135]"
+       217,
+       "[Page 137]"
       ]
      ]
+    ],
+    [
+     "I",
+     1240,
+     [
+      [
+       107,
+       "[Page 138]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1328,
+     "[Page 139]",
+     true
+    ],
+    [
+     "I",
+     1442,
+     [
+      [
+       116,
+       "[Page 140]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1514,
+     "[Page 141]",
+     true
+    ],
+    [
+     "I",
+     1560,
+     [
+      [
+       328,
+       "[Page 142]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1612,
+     [
+      [
+       162,
+       "[Page 143]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1680,
+     "[Page 144]",
+     true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 006 (VI) - Access to Classified Information/§ 00435 - Procedures.md",
    "printed_pages": [
-    111,
-    135
+    119,
+    144
    ]
   },
   {
    "id": "50_436",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       91,
-       "[Page 136]"
-      ]
-     ]
-    ],
-    [
      "L",
-     72,
-     "[Page 137]",
+     62,
+     "[Page 145]",
      true
     ]
    ],
    "path": "Chapter 015 - National Security/Subchapter 006 (VI) - Access to Classified Information/§ 00436 - Requests by authorized investigative agencies.md",
    "printed_pages": [
-    135,
-    137
+    144,
+    145
    ]
   },
   {
@@ -3276,8 +3330,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 006 (VI) - Access to Classified Information/§ 00437 - Exceptions.md",
    "printed_pages": [
-    137,
-    137
+    145,
+    145
    ]
   },
   {
@@ -3285,8 +3339,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 006 (VI) - Access to Classified Information/§ 00438 - Definitions.md",
    "printed_pages": [
-    137,
-    137
+    145,
+    145
    ]
   },
   {
@@ -3294,8 +3348,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/README.md",
    "printed_pages": [
-    137,
-    137
+    145,
+    145
    ]
   },
   {
@@ -3303,37 +3357,37 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/§ 00441 - Stay of sanctions.md",
    "printed_pages": [
-    137,
-    137
+    145,
+    145
    ]
   },
   {
    "id": "50_441a",
-   "marks": [],
-   "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/§ 00441a - Extension of stay.md",
-   "printed_pages": [
-    137,
-    137
-   ]
-  },
-  {
-   "id": "50_441b",
    "marks": [
     [
      "I",
      2,
      [
       [
-       322,
-       "[Page 138]"
+       519,
+       "[Page 146]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/§ 00441a - Extension of stay.md",
+   "printed_pages": [
+    145,
+    146
+   ]
+  },
+  {
+   "id": "50_441b",
+   "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/§ 00441b - Reports.md",
    "printed_pages": [
-    137,
-    138
+    146,
+    146
    ]
   },
   {
@@ -3341,8 +3395,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/§ 00441c - Laws subject to stay.md",
    "printed_pages": [
-    138,
-    138
+    146,
+    146
    ]
   },
   {
@@ -3350,8 +3404,8 @@
    "marks": [],
    "path": "Chapter 015 - National Security/Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities/§ 00441d - Application.md",
    "printed_pages": [
-    138,
-    138
+    146,
+    146
    ]
   },
   {
@@ -3359,17 +3413,24 @@
    "marks": [],
    "path": "Chapter 016 - Defense Industrial Reserves/README.md",
    "printed_pages": [
-    138,
-    138
+    146,
+    146
    ]
   },
   {
    "id": "50_451_to_453",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 147]",
+     true
+    ]
+   ],
    "path": "Chapter 016 - Defense Industrial Reserves/§ 00451 to 453 - Transferred.md",
    "printed_pages": [
-    138,
-    138
+    146,
+    147
    ]
   },
   {
@@ -3377,28 +3438,17 @@
    "marks": [],
    "path": "Chapter 016 - Defense Industrial Reserves/§ 00454 - Repealed. Pub. L. 101–510, div. A, title XIII, §1303(a), Nov. 5, 1990, 104 Stat. 1669.md",
    "printed_pages": [
-    138,
-    138
+    147,
+    147
    ]
   },
   {
    "id": "50_455",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 139]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 016 - Defense Industrial Reserves/§ 00455 - Authorization of appropriations.md",
    "printed_pages": [
-    138,
-    139
+    147,
+    147
    ]
   },
   {
@@ -3406,8 +3456,8 @@
    "marks": [],
    "path": "Chapter 016 - Defense Industrial Reserves/§ 00456 to 462 - Omitted.md",
    "printed_pages": [
-    139,
-    139
+    147,
+    147
    ]
   },
   {
@@ -3415,8 +3465,8 @@
    "marks": [],
    "path": "Chapter 017 - Arming American Vessels/README.md",
    "printed_pages": [
-    139,
-    139
+    147,
+    147
    ]
   },
   {
@@ -3424,8 +3474,8 @@
    "marks": [],
    "path": "Chapter 017 - Arming American Vessels/§ 00481 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    139,
-    139
+    147,
+    147
    ]
   },
   {
@@ -3433,8 +3483,8 @@
    "marks": [],
    "path": "Chapter 018 - Air-Warning Screen/README.md",
    "printed_pages": [
-    139,
-    139
+    147,
+    147
    ]
   },
   {
@@ -3442,19 +3492,19 @@
    "marks": [
     [
      "I",
-     20,
+     4,
      [
       [
-       108,
-       "[Page 140]"
+       1116,
+       "[Page 148]"
       ]
      ]
     ]
    ],
    "path": "Chapter 018 - Air-Warning Screen/§ 00491 - Establishment and development of land-based air warning and control installations and facilities; extent of appropriation; procurement of….md",
    "printed_pages": [
-    139,
-    140
+    147,
+    148
    ]
   },
   {
@@ -3462,8 +3512,8 @@
    "marks": [],
    "path": "Chapter 018 - Air-Warning Screen/§ 00492 - Acquisition of land.md",
    "printed_pages": [
-    140,
-    140
+    148,
+    148
    ]
   },
   {
@@ -3471,8 +3521,8 @@
    "marks": [],
    "path": "Chapter 018 - Air-Warning Screen/§ 00493 - Authorization of appropriations.md",
    "printed_pages": [
-    140,
-    140
+    148,
+    148
    ]
   },
   {
@@ -3480,8 +3530,8 @@
    "marks": [],
    "path": "Chapter 018 - Air-Warning Screen/§ 00494 - Supervision and control of project.md",
    "printed_pages": [
-    140,
-    140
+    148,
+    148
    ]
   },
   {
@@ -3489,8 +3539,8 @@
    "marks": [],
    "path": "Chapter 019 - Guided Missiles/README.md",
    "printed_pages": [
-    140,
-    140
+    148,
+    148
    ]
   },
   {
@@ -3498,17 +3548,28 @@
    "marks": [],
    "path": "Chapter 019 - Guided Missiles/§ 00501 - Establishment of long-range proving ground for guided missiles and other weapons; jurisdiction of Secretary of the Air Force; use by all….md",
    "printed_pages": [
-    140,
-    140
+    148,
+    148
    ]
   },
   {
    "id": "50_502",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       101,
+       "[Page 149]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Guided Missiles/§ 00502 - Acquisition of land.md",
    "printed_pages": [
-    140,
-    140
+    148,
+    149
    ]
   },
   {
@@ -3516,28 +3577,17 @@
    "marks": [],
    "path": "Chapter 019 - Guided Missiles/§ 00503 - Authorization of appropriations.md",
    "printed_pages": [
-    140,
-    140
+    149,
+    149
    ]
   },
   {
    "id": "50_504",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       575,
-       "[Page 141]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Guided Missiles/§ 00504 - Delegation of authority by Secretary of Defense; contributions for support.md",
    "printed_pages": [
-    140,
-    141
+    149,
+    149
    ]
   },
   {
@@ -3545,8 +3595,8 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/README.md",
    "printed_pages": [
-    141,
-    141
+    149,
+    149
    ]
   },
   {
@@ -3554,8 +3604,8 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 001 (I) - Construction of Wind-Tunnel Facilities/README.md",
    "printed_pages": [
-    141,
-    141
+    149,
+    149
    ]
   },
   {
@@ -3563,24 +3613,28 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 001 (I) - Construction of Wind-Tunnel Facilities/§ 00511 - Joint development of unitary plan for construction of facilities; construction at educational institutions.md",
    "printed_pages": [
-    141,
-    141
+    149,
+    149
    ]
   },
   {
    "id": "50_512",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 142]",
-     true
+     "I",
+     2,
+     [
+      [
+       456,
+       "[Page 150]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 001 (I) - Construction of Wind-Tunnel Facilities/§ 00512 - Limitation on cost of construction and equipment; vesting of title to facilities.md",
    "printed_pages": [
-    141,
-    142
+    149,
+    150
    ]
   },
   {
@@ -3588,8 +3642,8 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 001 (I) - Construction of Wind-Tunnel Facilities/§ 00513 - Expansion of existing facilities; appropriations; testing of models.md",
    "printed_pages": [
-    142,
-    142
+    150,
+    150
    ]
   },
   {
@@ -3597,8 +3651,8 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 001 (I) - Construction of Wind-Tunnel Facilities/§ 00514 - Expansion of facilities at Carderock, Maryland.md",
    "printed_pages": [
-    142,
-    142
+    150,
+    150
    ]
   },
   {
@@ -3606,8 +3660,8 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 001 (I) - Construction of Wind-Tunnel Facilities/§ 00515 - Reports to Congress.md",
    "printed_pages": [
-    142,
-    142
+    150,
+    150
    ]
   },
   {
@@ -3615,17 +3669,24 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 002 (II) - Air Engineering Development Center/README.md",
    "printed_pages": [
-    142,
-    142
+    150,
+    150
    ]
   },
   {
    "id": "50_521",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 151]",
+     true
+    ]
+   ],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 002 (II) - Air Engineering Development Center/§ 00521 - Establishment; construction, maintenance, and operation of public works and wind tunnels.md",
    "printed_pages": [
-    142,
-    142
+    150,
+    151
    ]
   },
   {
@@ -3633,24 +3694,17 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 002 (II) - Air Engineering Development Center/§ 00522 - Acquisition of lands; advance payments for construction.md",
    "printed_pages": [
-    142,
-    142
+    151,
+    151
    ]
   },
   {
    "id": "50_523",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 143]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 002 (II) - Air Engineering Development Center/§ 00523 - Employment of civilian personnel.md",
    "printed_pages": [
-    142,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3658,8 +3712,8 @@
    "marks": [],
    "path": "Chapter 020 - Wind Tunnels/Subchapter 002 (II) - Air Engineering Development Center/§ 00524 - Authorization of appropriations.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3667,8 +3721,8 @@
    "marks": [],
    "path": "Chapter 021 - Abaca�AE1 Production/README.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3676,8 +3730,8 @@
    "marks": [],
    "path": "Chapter 021 - Abaca�AE1 Production/§ 00541 to 546 - Omitted.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3685,8 +3739,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/README.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3694,8 +3748,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3703,8 +3757,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 001 (I) - General Provisions/§ 00551 to 556 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
@@ -3712,17 +3766,24 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 002 (II) - Apprehension and Restraint/README.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    151
    ]
   },
   {
    "id": "50_561_to_568",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 152]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 002 (II) - Apprehension and Restraint/§ 00561 to 568 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    143,
-    143
+    151,
+    152
    ]
   },
   {
@@ -3730,8 +3791,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 003 (III) - Non-Judicial Punishment/README.md",
    "printed_pages": [
-    143,
-    143
+    152,
+    152
    ]
   },
   {
@@ -3739,8 +3800,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 003 (III) - Non-Judicial Punishment/§ 00571 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    143,
-    143
+    152,
+    152
    ]
   },
   {
@@ -3748,24 +3809,17 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 004 (IV) - Courts-Martial Jurisdiction/README.md",
    "printed_pages": [
-    143,
-    143
+    152,
+    152
    ]
   },
   {
    "id": "50_576_to_581",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 144]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 004 (IV) - Courts-Martial Jurisdiction/§ 00576 to 581 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    143,
-    144
+    152,
+    152
    ]
   },
   {
@@ -3773,8 +3827,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 005 (V) - Appointment and Composition of Courts-Martial/README.md",
    "printed_pages": [
-    144,
-    144
+    152,
+    152
    ]
   },
   {
@@ -3782,8 +3836,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 005 (V) - Appointment and Composition of Courts-Martial/§ 00586 to 593 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    144,
-    144
+    152,
+    152
    ]
   },
   {
@@ -3791,8 +3845,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 006 (VI) - Pretrial Procedure/README.md",
    "printed_pages": [
-    144,
-    144
+    152,
+    152
    ]
   },
   {
@@ -3800,8 +3854,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 006 (VI) - Pretrial Procedure/§ 00601 to 606 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    144,
-    144
+    152,
+    152
    ]
   },
   {
@@ -3809,17 +3863,24 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 007 (VII) - Trial Procedure/README.md",
    "printed_pages": [
-    144,
-    144
+    152,
+    152
    ]
   },
   {
    "id": "50_611_to_629",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     38,
+     "[Page 153]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 007 (VII) - Trial Procedure/§ 00611 to 629 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    144,
-    144
+    152,
+    153
    ]
   },
   {
@@ -3827,8 +3888,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 008 (VIII) - Sentences/README.md",
    "printed_pages": [
-    144,
-    144
+    153,
+    153
    ]
   },
   {
@@ -3836,8 +3897,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 008 (VIII) - Sentences/§ 00636 to 639 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    144,
-    144
+    153,
+    153
    ]
   },
   {
@@ -3845,24 +3906,17 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 009 (IX) - Review of Courts-Martial/README.md",
    "printed_pages": [
-    144,
-    144
+    153,
+    153
    ]
   },
   {
    "id": "50_646_to_663",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 145]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 009 (IX) - Review of Courts-Martial/§ 00646 to 663 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    144,
-    145
+    153,
+    153
    ]
   },
   {
@@ -3870,8 +3924,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 010 (X) - Punitive Articles/README.md",
    "printed_pages": [
-    145,
-    145
+    153,
+    153
    ]
   },
   {
@@ -3879,15 +3933,15 @@
    "marks": [
     [
      "L",
-     74,
-     "[Page 146]",
+     46,
+     "[Page 154]",
      true
     ]
    ],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 010 (X) - Punitive Articles/§ 00671 to 728 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    145,
-    146
+    153,
+    154
    ]
   },
   {
@@ -3895,8 +3949,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 011 (XI) - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    146,
-    146
+    154,
+    154
    ]
   },
   {
@@ -3904,17 +3958,28 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 011 (XI) - Miscellaneous Provisions/§ 00731 to 739 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    146,
-    146
+    154,
+    154
    ]
   },
   {
    "id": "50_740",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       379,
+       "[Page 155]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 011 (XI) - Miscellaneous Provisions/§ 00740 - Omitted.md",
    "printed_pages": [
-    146,
-    146
+    154,
+    155
    ]
   },
   {
@@ -3922,8 +3987,8 @@
    "marks": [],
    "path": "Chapter 022 - Uniform Code of Military Justice/Subchapter 011 (XI) - Miscellaneous Provisions/§ 00741 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, eff. Jan. 1, 1957.md",
    "printed_pages": [
-    146,
-    146
+    155,
+    155
    ]
   },
   {
@@ -3931,24 +3996,17 @@
    "marks": [],
    "path": "Chapter 022A - Representation of Armed Forces Personnel Before Foreign Judicial Tribunals/README.md",
    "printed_pages": [
-    146,
-    146
+    155,
+    155
    ]
   },
   {
    "id": "50_751_to_755",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 147]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022A - Representation of Armed Forces Personnel Before Foreign Judicial Tribunals/§ 00751 to 755 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1570.md",
    "printed_pages": [
-    146,
-    147
+    155,
+    155
    ]
   },
   {
@@ -3956,8 +4014,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/README.md",
    "printed_pages": [
-    147,
-    147
+    155,
+    155
    ]
   },
   {
@@ -3965,8 +4023,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/README.md",
    "printed_pages": [
-    147,
-    147
+    155,
+    155
    ]
   },
   {
@@ -3974,19 +4032,19 @@
    "marks": [
     [
      "I",
-     16,
+     6,
      [
       [
-       279,
-       "[Page 148]"
+       113,
+       "[Page 156]"
       ]
      ]
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00781 - Repealed. Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.md",
    "printed_pages": [
-    147,
-    148
+    155,
+    156
    ]
   },
   {
@@ -3994,28 +4052,24 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00782 - Repealed. Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.md",
    "printed_pages": [
-    148,
-    148
+    156,
+    156
    ]
   },
   {
    "id": "50_783",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       431,
-       "[Page 149]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 157]",
+     true
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00783 - Offenses.md",
    "printed_pages": [
-    148,
-    149
+    156,
+    157
    ]
   },
   {
@@ -4023,8 +4077,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00784, 785 - Repealed. Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.md",
    "printed_pages": [
-    149,
-    149
+    157,
+    157
    ]
   },
   {
@@ -4032,24 +4086,28 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00786, 787 - Repealed. Pub. L. 90–237, §5, Jan. 2, 1968, 81 Stat. 766.md",
    "printed_pages": [
-    149,
-    149
+    157,
+    157
    ]
   },
   {
    "id": "50_788_to_795",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 150]",
-     true
+     "I",
+     8,
+     [
+      [
+       404,
+       "[Page 158]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00788 to 795 - Repealed. Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.md",
    "printed_pages": [
-    149,
-    150
+    157,
+    158
    ]
   },
   {
@@ -4057,8 +4115,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00796 - Effect of subchapter on other criminal laws.md",
    "printed_pages": [
-    150,
-    150
+    158,
+    158
    ]
   },
   {
@@ -4066,8 +4124,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00797 - Security regulations and orders; penalty for violation.md",
    "printed_pages": [
-    150,
-    150
+    158,
+    158
    ]
   },
   {
@@ -4075,24 +4133,37 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00798 - Repealed. Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.md",
    "printed_pages": [
-    150,
-    150
+    158,
+    158
+   ]
+  },
+  {
+   "id": "50_-ch23-scII",
+   "marks": [],
+   "path": "Chapter 023 - Internal Security/Subchapter 002 (II) - Emergency Detention of Suspected Security Risks/README.md",
+   "printed_pages": [
+    158,
+    158
    ]
   },
   {
    "id": "50_811_to_826",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 151]",
-     true
+     "I",
+     8,
+     [
+      [
+       822,
+       "[Page 159]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 023 - Internal Security/Subchapter 001 (I) - Control of Subversive Activities/§ 00811 to 826 - Repealed. Pub. L. 92–128, §2(a), Sept. 25, 1971, 85 Stat. 348.md",
+   "path": "Chapter 023 - Internal Security/Subchapter 002 (II) - Emergency Detention of Suspected Security Risks/§ 00811 to 826 - Repealed. Pub. L. 92–128, §2(a), Sept. 25, 1971, 85 Stat. 348.md",
    "printed_pages": [
-    150,
-    151
+    158,
+    159
    ]
   },
   {
@@ -4100,8 +4171,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/README.md",
    "printed_pages": [
-    151,
-    151
+    159,
+    159
    ]
   },
   {
@@ -4109,8 +4180,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/§ 00831 - Regulations for employment security.md",
    "printed_pages": [
-    151,
-    151
+    159,
+    159
    ]
   },
   {
@@ -4118,24 +4189,24 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 152]",
+     6,
+     "[Page 160]",
      true
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/§ 00832 - Full field investigation and appraisal.md",
    "printed_pages": [
-    151,
-    152
+    159,
+    160
    ]
   },
   {
    "id": "50_833",
    "marks": [],
-   "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/§ 00833 - Termination of employment.md",
+   "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/§ 00833 - Repealed. Pub. L. 104–201, div. A, title XVI, §1633(b)(2), Sept. 23, 1996, 110 Stat. 2751.md",
    "printed_pages": [
-    152,
-    152
+    160,
+    160
    ]
   },
   {
@@ -4143,8 +4214,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/§ 00834 - “Classified information” defined.md",
    "printed_pages": [
-    152,
-    152
+    160,
+    160
    ]
   },
   {
@@ -4152,8 +4223,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 003 (III) - Personnel Security Procedures in National Security Agency/§ 00835 - Nonapplicability of administrative procedure provisions.md",
    "printed_pages": [
-    152,
-    152
+    160,
+    160
    ]
   },
   {
@@ -4161,8 +4232,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 004 (IV) - Communist Control/README.md",
    "printed_pages": [
-    152,
-    152
+    160,
+    160
    ]
   },
   {
@@ -4173,16 +4244,16 @@
      2,
      [
       [
-       1221,
-       "[Page 153]"
+       2072,
+       "[Page 161]"
       ]
      ]
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 004 (IV) - Communist Control/§ 00841 - Findings and declarations of fact.md",
    "printed_pages": [
-    152,
-    153
+    160,
+    161
    ]
   },
   {
@@ -4190,8 +4261,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 004 (IV) - Communist Control/§ 00842 - Proscription of Communist Party, its successors, and subsidiary organizations.md",
    "printed_pages": [
-    153,
-    153
+    161,
+    161
    ]
   },
   {
@@ -4199,24 +4270,28 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 004 (IV) - Communist Control/§ 00843 - Application of Internal Security Act of 1950 to members of Communist Party and other subversive organizations; “Communist Party”….md",
    "printed_pages": [
-    153,
-    153
+    161,
+    161
    ]
   },
   {
    "id": "50_844",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 154]",
-     true
+     "I",
+     16,
+     [
+      [
+       94,
+       "[Page 162]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 004 (IV) - Communist Control/§ 00844 - Determination by jury of membership in Communist Party, participation, or knowledge of purpose.md",
    "printed_pages": [
-    153,
-    154
+    161,
+    162
    ]
   },
   {
@@ -4224,8 +4299,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/README.md",
    "printed_pages": [
-    154,
-    154
+    162,
+    162
    ]
   },
   {
@@ -4233,24 +4308,28 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00851 - Registration of certain persons; filing statement; regulations.md",
    "printed_pages": [
-    154,
-    154
+    162,
+    162
    ]
   },
   {
    "id": "50_852",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 155]",
-     true
+     "I",
+     14,
+     [
+      [
+       230,
+       "[Page 163]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00852 - Exemption from registration.md",
    "printed_pages": [
-    154,
-    155
+    162,
+    163
    ]
   },
   {
@@ -4258,8 +4337,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00853 - Retention of registration statements; public examination; withdrawal.md",
    "printed_pages": [
-    155,
-    155
+    163,
+    163
    ]
   },
   {
@@ -4267,8 +4346,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00854 - Rules, regulations, and forms.md",
    "printed_pages": [
-    155,
-    155
+    163,
+    163
    ]
   },
   {
@@ -4276,37 +4355,33 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00855 - Violations; penalties; deportation.md",
    "printed_pages": [
-    155,
-    155
+    163,
+    163
    ]
   },
   {
    "id": "50_856",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 164]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00856 - Continuing offense.md",
    "printed_pages": [
-    155,
-    155
+    163,
+    164
    ]
   },
   {
    "id": "50_857",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       95,
-       "[Page 156]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00857 - Compliance with other registration statutes.md",
    "printed_pages": [
-    155,
-    156
+    164,
+    164
    ]
   },
   {
@@ -4314,8 +4389,8 @@
    "marks": [],
    "path": "Chapter 023 - Internal Security/Subchapter 005 (V) - Registration of Certain Persons Trained in Foreign Espionage Systems/§ 00858 - Applicability to Canal Zone.md",
    "printed_pages": [
-    156,
-    156
+    164,
+    164
    ]
   },
   {
@@ -4323,8 +4398,8 @@
    "marks": [],
    "path": "Chapter 024 - National Defense Facilities/README.md",
    "printed_pages": [
-    156,
-    156
+    164,
+    164
    ]
   },
   {
@@ -4332,8 +4407,8 @@
    "marks": [],
    "path": "Chapter 024 - National Defense Facilities/§ 00881 to 887 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    156,
-    156
+    164,
+    164
    ]
   },
   {
@@ -4341,8 +4416,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/README.md",
    "printed_pages": [
-    156,
-    156
+    164,
+    164
    ]
   },
   {
@@ -4350,24 +4425,28 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00901 to 905 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    156,
-    156
+    164,
+    164
    ]
   },
   {
    "id": "50_921_to_935",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 157]",
-     true
+     "I",
+     22,
+     [
+      [
+       112,
+       "[Page 165]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00921 to 935 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    156,
-    157
+    164,
+    165
    ]
   },
   {
@@ -4375,8 +4454,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00936 - Repealed. Sept. 3, 1954, ch. 1257, title VII, §702(d), 68 Stat. 1189.md",
    "printed_pages": [
-    157,
-    157
+    165,
+    165
    ]
   },
   {
@@ -4384,8 +4463,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00941 to 956 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    157,
-    157
+    165,
+    165
    ]
   },
   {
@@ -4393,8 +4472,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00961 to 967 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    157,
-    157
+    165,
+    165
    ]
   },
   {
@@ -4402,8 +4481,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00971 to 975 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    157,
-    157
+    165,
+    165
    ]
   },
   {
@@ -4411,8 +4490,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00981, 982 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    157,
-    157
+    165,
+    165
    ]
   },
   {
@@ -4420,19 +4499,19 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       113,
-       "[Page 158]"
+       111,
+       "[Page 166]"
       ]
      ]
     ]
    ],
    "path": "Chapter 025 - Armed Forces Reserve/§ 00991, 992 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    157,
-    158
+    165,
+    166
    ]
   },
   {
@@ -4440,8 +4519,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01001 to 1010 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4449,8 +4528,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01011, 1012 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4458,8 +4537,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01013 - Repealed. Pub. L. 88–110, §1, Sept. 3, 1963, 77 Stat. 134.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4467,8 +4546,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01014 - Omitted.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4476,8 +4555,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01015 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4485,8 +4564,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01016 - Repealed. Pub. L. 87–651, title III, §307A, Sept. 7, 1962, 76 Stat. 526.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4494,8 +4573,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01021 to 1024 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    158,
-    158
+    166,
+    166
    ]
   },
   {
@@ -4503,19 +4582,19 @@
    "marks": [
     [
      "I",
-     16,
+     14,
      [
       [
-       165,
-       "[Page 159]"
+       219,
+       "[Page 167]"
       ]
      ]
     ]
    ],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01041 to 1053 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    158,
-    159
+    166,
+    167
    ]
   },
   {
@@ -4523,8 +4602,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01071 to 1074 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    159,
-    159
+    167,
+    167
    ]
   },
   {
@@ -4532,8 +4611,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01091 to 1093 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    159,
-    159
+    167,
+    167
    ]
   },
   {
@@ -4541,8 +4620,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01111 to 1124 - Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.md",
    "printed_pages": [
-    159,
-    159
+    167,
+    167
    ]
   },
   {
@@ -4550,8 +4629,8 @@
    "marks": [],
    "path": "Chapter 025 - Armed Forces Reserve/§ 01125 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    159,
-    159
+    167,
+    167
    ]
   },
   {
@@ -4559,24 +4638,28 @@
    "marks": [],
    "path": "Chapter 026 - Gifts for Defense Purposes/README.md",
    "printed_pages": [
-    159,
-    159
+    167,
+    167
    ]
   },
   {
    "id": "50_1151_to_1156",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 160]",
-     true
+     "I",
+     8,
+     [
+      [
+       164,
+       "[Page 168]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 026 - Gifts for Defense Purposes/§ 01151 to 1156 - Repealed. Pub. L. 101–403, title II, §202(b), Oct. 1, 1990, 104 Stat. 874.md",
    "printed_pages": [
-    159,
-    160
+    167,
+    168
    ]
   },
   {
@@ -4584,8 +4667,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/README.md",
    "printed_pages": [
-    160,
-    160
+    168,
+    168
    ]
   },
   {
@@ -4593,8 +4676,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01181, 1182 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    160,
-    160
+    168,
+    168
    ]
   },
   {
@@ -4602,8 +4685,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01191 to 1202 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    160,
-    160
+    168,
+    168
    ]
   },
   {
@@ -4611,8 +4694,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01221 to 1227 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    160,
-    160
+    168,
+    168
    ]
   },
   {
@@ -4620,8 +4703,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01231 to 1238 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    160,
-    160
+    168,
+    168
    ]
   },
   {
@@ -4630,14 +4713,14 @@
     [
      "L",
      4,
-     "[Page 161]",
+     "[Page 169]",
      true
     ]
    ],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01241 to 1243 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    160,
-    161
+    168,
+    169
    ]
   },
   {
@@ -4645,8 +4728,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01251 to 1255 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    161,
-    161
+    169,
+    169
    ]
   },
   {
@@ -4654,8 +4737,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01261 to 1264 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    161,
-    161
+    169,
+    169
    ]
   },
   {
@@ -4663,8 +4746,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01265 - Omitted.md",
    "printed_pages": [
-    161,
-    161
+    169,
+    169
    ]
   },
   {
@@ -4672,8 +4755,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01266, 1267 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    161,
-    161
+    169,
+    169
    ]
   },
   {
@@ -4681,8 +4764,8 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01271 to 1279 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    161,
-    161
+    169,
+    169
    ]
   },
   {
@@ -4690,271 +4773,12 @@
    "marks": [],
    "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01281 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
-    161,
-    161
-   ]
-  },
-  {
-   "id": "50_1301_to_1314",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 162]",
-     true
-    ]
-   ],
-   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01301 to 1314 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
-   "printed_pages": [
-    161,
-    162
-   ]
-  },
-  {
-   "id": "50_1331_to_1357",
-   "marks": [],
-   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01331 to 1357 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
-   "printed_pages": [
-    162,
-    162
-   ]
-  },
-  {
-   "id": "50_1381_to_1398",
-   "marks": [
-    [
-     "L",
-     26,
-     "[Page 163]",
-     true
-    ]
-   ],
-   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01381 to 1398 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
-   "printed_pages": [
-    162,
-    163
-   ]
-  },
-  {
-   "id": "50_1399",
-   "marks": [],
-   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01399 - Omitted.md",
-   "printed_pages": [
-    163,
-    163
-   ]
-  },
-  {
-   "id": "50_-ch28",
-   "marks": [],
-   "path": "Chapter 028 - Status of Armed Forces Personnel Appointed to Service Academies/README.md",
-   "printed_pages": [
-    163,
-    163
-   ]
-  },
-  {
-   "id": "50_1411_to_1414",
-   "marks": [],
-   "path": "Chapter 028 - Status of Armed Forces Personnel Appointed to Service Academies/§ 01411 to 1414 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1570.md",
-   "printed_pages": [
-    163,
-    163
-   ]
-  },
-  {
-   "id": "50_-ch29",
-   "marks": [],
-   "path": "Chapter 029 - National Defense Contracts/README.md",
-   "printed_pages": [
-    163,
-    163
-   ]
-  },
-  {
-   "id": "50_1431",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       112,
-       "[Page 164]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     70,
-     [
-      [
-       677,
-       "[Page 165]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     146,
-     [
-      [
-       213,
-       "[Page 166]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 029 - National Defense Contracts/§ 01431 - Authorization; official approval; Congressional action notification of committees of certain proposed obligations, resolution of….md",
-   "printed_pages": [
-    163,
-    166
-   ]
-  },
-  {
-   "id": "50_1432",
-   "marks": [],
-   "path": "Chapter 029 - National Defense Contracts/§ 01432 - Restrictions.md",
-   "printed_pages": [
-    166,
-    166
-   ]
-  },
-  {
-   "id": "50_1433",
-   "marks": [],
-   "path": "Chapter 029 - National Defense Contracts/§ 01433 - Public record; examination of records by Comptroller General; exemptions exceptional conditions; reports to Congress.md",
-   "printed_pages": [
-    166,
-    166
-   ]
-  },
-  {
-   "id": "50_1434",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       284,
-       "[Page 167]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 029 - National Defense Contracts/§ 01434 - Reports to Congress; publication.md",
-   "printed_pages": [
-    166,
-    167
-   ]
-  },
-  {
-   "id": "50_1435",
-   "marks": [],
-   "path": "Chapter 029 - National Defense Contracts/§ 01435 - Effective period.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "50_1436",
-   "marks": [],
-   "path": "Chapter 029 - National Defense Contracts/§ 01436 - Repealed. Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "50_-ch30",
-   "marks": [],
-   "path": "Chapter 030 - Federal Absentee Voting Assistance/README.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "50_1451_to_1454",
-   "marks": [],
-   "path": "Chapter 030 - Federal Absentee Voting Assistance/§ 01451 to 1454 - Transferred.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "50_1461_to_1465",
-   "marks": [],
-   "path": "Chapter 030 - Federal Absentee Voting Assistance/§ 01461 to 1465 - Transferred.md",
-   "printed_pages": [
-    167,
-    167
-   ]
-  },
-  {
-   "id": "50_1471_to_1476",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 168]",
-     true
-    ]
-   ],
-   "path": "Chapter 030 - Federal Absentee Voting Assistance/§ 01471 to 1476 - Transferred.md",
-   "printed_pages": [
-    167,
-    168
-   ]
-  },
-  {
-   "id": "50_-ch31",
-   "marks": [],
-   "path": "Chapter 031 - Advisory Commission on Intergovernmental Relations/README.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "50_1501_to_1509",
-   "marks": [],
-   "path": "Chapter 031 - Advisory Commission on Intergovernmental Relations/§ 01501 to 1509 - Transferred.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "50_-ch32",
-   "marks": [],
-   "path": "Chapter 032 - Chemical and Biological Warfare Program/README.md",
-   "printed_pages": [
-    168,
-    168
-   ]
-  },
-  {
-   "id": "50_1511",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 169]",
-     true
-    ]
-   ],
-   "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01511 - Reports to Congress.md",
-   "printed_pages": [
-    168,
+    169,
     169
    ]
   },
   {
-   "id": "50_1512",
+   "id": "50_1301_to_1314",
    "marks": [
     [
      "L",
@@ -4963,10 +4787,254 @@
      true
     ]
    ],
-   "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01512 - Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors.md",
+   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01301 to 1314 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
    "printed_pages": [
     169,
     170
+   ]
+  },
+  {
+   "id": "50_1331_to_1357",
+   "marks": [],
+   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01331 to 1357 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
+   "printed_pages": [
+    170,
+    170
+   ]
+  },
+  {
+   "id": "50_1381_to_1398",
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 171]",
+     true
+    ]
+   ],
+   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01381 to 1398 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.md",
+   "printed_pages": [
+    170,
+    171
+   ]
+  },
+  {
+   "id": "50_1399",
+   "marks": [],
+   "path": "Chapter 027 - Reserve Officer Personnel Program/§ 01399 - Omitted.md",
+   "printed_pages": [
+    171,
+    171
+   ]
+  },
+  {
+   "id": "50_-ch28",
+   "marks": [],
+   "path": "Chapter 028 - Status of Armed Forces Personnel Appointed to Service Academies/README.md",
+   "printed_pages": [
+    171,
+    171
+   ]
+  },
+  {
+   "id": "50_1411_to_1414",
+   "marks": [],
+   "path": "Chapter 028 - Status of Armed Forces Personnel Appointed to Service Academies/§ 01411 to 1414 - Repealed. Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1570.md",
+   "printed_pages": [
+    171,
+    171
+   ]
+  },
+  {
+   "id": "50_-ch29",
+   "marks": [],
+   "path": "Chapter 029 - National Defense Contracts/README.md",
+   "printed_pages": [
+    171,
+    171
+   ]
+  },
+  {
+   "id": "50_1431",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 172]",
+     true
+    ],
+    [
+     "L",
+     72,
+     "[Page 173]",
+     true
+    ],
+    [
+     "L",
+     148,
+     "[Page 174]",
+     true
+    ]
+   ],
+   "path": "Chapter 029 - National Defense Contracts/§ 01431 - Authorization; official approval; Congressional action notification of committees of certain proposed obligations, resolution of….md",
+   "printed_pages": [
+    171,
+    174
+   ]
+  },
+  {
+   "id": "50_1432",
+   "marks": [],
+   "path": "Chapter 029 - National Defense Contracts/§ 01432 - Restrictions.md",
+   "printed_pages": [
+    174,
+    174
+   ]
+  },
+  {
+   "id": "50_1433",
+   "marks": [],
+   "path": "Chapter 029 - National Defense Contracts/§ 01433 - Public record; examination of records by Comptroller General; exemptions exceptional conditions; reports to Congress.md",
+   "printed_pages": [
+    174,
+    174
+   ]
+  },
+  {
+   "id": "50_1434",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 175]",
+     true
+    ]
+   ],
+   "path": "Chapter 029 - National Defense Contracts/§ 01434 - Reports to Congress; publication.md",
+   "printed_pages": [
+    174,
+    175
+   ]
+  },
+  {
+   "id": "50_1435",
+   "marks": [],
+   "path": "Chapter 029 - National Defense Contracts/§ 01435 - Effective period.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_1436",
+   "marks": [],
+   "path": "Chapter 029 - National Defense Contracts/§ 01436 - Repealed. Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_-ch30",
+   "marks": [],
+   "path": "Chapter 030 - Federal Absentee Voting Assistance/README.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_1451_to_1454",
+   "marks": [],
+   "path": "Chapter 030 - Federal Absentee Voting Assistance/§ 01451 to 1454 - Transferred.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_1461_to_1465",
+   "marks": [],
+   "path": "Chapter 030 - Federal Absentee Voting Assistance/§ 01461 to 1465 - Transferred.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_1471_to_1476",
+   "marks": [],
+   "path": "Chapter 030 - Federal Absentee Voting Assistance/§ 01471 to 1476 - Transferred.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_-ch31",
+   "marks": [],
+   "path": "Chapter 031 - Advisory Commission on Intergovernmental Relations/README.md",
+   "printed_pages": [
+    175,
+    175
+   ]
+  },
+  {
+   "id": "50_1501_to_1509",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       110,
+       "[Page 176]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 031 - Advisory Commission on Intergovernmental Relations/§ 01501 to 1509 - Transferred.md",
+   "printed_pages": [
+    175,
+    176
+   ]
+  },
+  {
+   "id": "50_-ch32",
+   "marks": [],
+   "path": "Chapter 032 - Chemical and Biological Warfare Program/README.md",
+   "printed_pages": [
+    176,
+    176
+   ]
+  },
+  {
+   "id": "50_1511",
+   "marks": [],
+   "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01511 - Repealed. Pub. L. 104–106, div. A, title X, §1061(k), Feb. 10, 1996, 110 Stat. 443.md",
+   "printed_pages": [
+    176,
+    176
+   ]
+  },
+  {
+   "id": "50_1512",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       492,
+       "[Page 177]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01512 - Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors.md",
+   "printed_pages": [
+    176,
+    177
    ]
   },
   {
@@ -4974,17 +5042,28 @@
    "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01512a - Transportation of chemical munitions.md",
    "printed_pages": [
-    170,
-    170
+    177,
+    177
    ]
   },
   {
    "id": "50_1513",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       87,
+       "[Page 178]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01513 - Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and….md",
    "printed_pages": [
-    170,
-    170
+    177,
+    178
    ]
   },
   {
@@ -4992,8 +5071,8 @@
    "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01514 - “United States” defined.md",
    "printed_pages": [
-    170,
-    170
+    178,
+    178
    ]
   },
   {
@@ -5001,28 +5080,17 @@
    "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01515 - Suspension; Presidential authorization.md",
    "printed_pages": [
-    170,
-    170
+    178,
+    178
    ]
   },
   {
    "id": "50_1516",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       89,
-       "[Page 171]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01516 - Delivery systems.md",
    "printed_pages": [
-    170,
-    171
+    178,
+    178
    ]
   },
   {
@@ -5030,17 +5098,24 @@
    "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01517 - Immediate disposal when health or safety are endangered.md",
    "printed_pages": [
-    171,
-    171
+    178,
+    178
    ]
   },
   {
    "id": "50_1518",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 179]",
+     true
+    ]
+   ],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01518 - Disposal; detoxification; report to Congress; emergencies.md",
    "printed_pages": [
-    171,
-    171
+    178,
+    179
    ]
   },
   {
@@ -5048,95 +5123,119 @@
    "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01519 - Lethal binary chemical munitions.md",
    "printed_pages": [
-    171,
-    171
+    179,
+    179
    ]
   },
   {
    "id": "50_1519a",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 172]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01519a - Limitation on procurement of binary chemical weapons.md",
    "printed_pages": [
-    171,
-    172
+    179,
+    179
    ]
   },
   {
    "id": "50_1520",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       209,
+       "[Page 180]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01520 - Use of human subjects for testing of chemical or biological agents by Department of Defense; accounting to Congressional committees with….md",
    "printed_pages": [
-    172,
-    172
+    179,
+    180
    ]
   },
   {
    "id": "50_1521",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       230,
-       "[Page 173]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 181]",
+     true
     ],
     [
      "I",
-     114,
+     136,
      [
       [
-       91,
-       "[Page 174]"
+       89,
+       "[Page 182]"
       ]
      ]
     ],
     [
      "L",
-     186,
-     "[Page 175]",
+     214,
+     "[Page 183]",
      true
     ],
     [
      "I",
-     276,
+     264,
      [
       [
-       112,
-       "[Page 176]"
+       101,
+       "[Page 184]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     340,
+     [
+      [
+       93,
+       "[Page 185]"
       ]
      ]
     ]
    ],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01521 - Destruction of existing stockpile of lethal chemical agents and munitions.md",
    "printed_pages": [
-    172,
-    176
+    180,
+    185
    ]
   },
   {
    "id": "50_1522",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 177]",
-     true
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 186]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     90,
+     [
+      [
+       254,
+       "[Page 187]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01522 - Conduct of chemical and biological defense program.md",
    "printed_pages": [
-    176,
-    177
+    185,
+    187
    ]
   },
   {
@@ -5144,8 +5243,8 @@
    "marks": [],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01523 - Annual report on chemical and biological warfare defense.md",
    "printed_pages": [
-    177,
-    177
+    187,
+    187
    ]
   },
   {
@@ -5153,19 +5252,19 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       279,
-       "[Page 178]"
+       83,
+       "[Page 188]"
       ]
      ]
     ]
    ],
    "path": "Chapter 032 - Chemical and Biological Warfare Program/§ 01524 - Agreements to provide support to vaccination programs of Department of Health and Human Services.md",
    "printed_pages": [
-    177,
-    178
+    187,
+    188
    ]
   },
   {
@@ -5173,8 +5272,8 @@
    "marks": [],
    "path": "Chapter 033 - War Powers Resolution/README.md",
    "printed_pages": [
-    178,
-    178
+    188,
+    188
    ]
   },
   {
@@ -5182,57 +5281,57 @@
    "marks": [
     [
      "L",
-     42,
-     "[Page 179]",
+     34,
+     "[Page 189]",
      true
     ],
     [
      "L",
-     136,
-     "[Page 180]",
+     124,
+     "[Page 190]",
+     true
+    ],
+    [
+     "L",
+     198,
+     "[Page 191]",
      true
     ],
     [
      "I",
-     208,
+     296,
      [
       [
-       106,
-       "[Page 181]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     306,
-     [
-      [
-       107,
-       "[Page 182]"
+       637,
+       "[Page 192]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - War Powers Resolution/§ 01541 - Purpose and policy.md",
    "printed_pages": [
-    178,
-    182
+    188,
+    192
    ]
   },
   {
    "id": "50_1542",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 183]",
-     true
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 193]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 033 - War Powers Resolution/§ 01542 - Consultation; initial and regular consultations.md",
    "printed_pages": [
-    182,
-    183
+    192,
+    193
    ]
   },
   {
@@ -5240,8 +5339,8 @@
    "marks": [],
    "path": "Chapter 033 - War Powers Resolution/§ 01543 - Reporting requirement.md",
    "printed_pages": [
-    183,
-    183
+    193,
+    193
    ]
   },
   {
@@ -5249,8 +5348,8 @@
    "marks": [],
    "path": "Chapter 033 - War Powers Resolution/§ 01544 - Congressional action.md",
    "printed_pages": [
-    183,
-    183
+    193,
+    193
    ]
   },
   {
@@ -5261,16 +5360,16 @@
      4,
      [
       [
-       521,
-       "[Page 184]"
+       147,
+       "[Page 194]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - War Powers Resolution/§ 01545 - Congressional priority procedures for joint resolution or bill.md",
    "printed_pages": [
-    183,
-    184
+    193,
+    194
    ]
   },
   {
@@ -5278,8 +5377,8 @@
    "marks": [],
    "path": "Chapter 033 - War Powers Resolution/§ 01546 - Congressional priority procedures for concurrent resolution.md",
    "printed_pages": [
-    184,
-    184
+    194,
+    194
    ]
   },
   {
@@ -5287,19 +5386,19 @@
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       104,
-       "[Page 185]"
+       663,
+       "[Page 195]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - War Powers Resolution/§ 01546a - Expedited procedures for certain joint resolutions and bills.md",
    "printed_pages": [
-    184,
-    185
+    194,
+    195
    ]
   },
   {
@@ -5307,8 +5406,8 @@
    "marks": [],
    "path": "Chapter 033 - War Powers Resolution/§ 01547 - Interpretation of joint resolution.md",
    "printed_pages": [
-    185,
-    185
+    195,
+    195
    ]
   },
   {
@@ -5316,17 +5415,28 @@
    "marks": [],
    "path": "Chapter 033 - War Powers Resolution/§ 01548 - Separability.md",
    "printed_pages": [
-    185,
-    185
+    195,
+    195
    ]
   },
   {
    "id": "50_-ch34",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       117,
+       "[Page 196]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 034 - National Emergencies/README.md",
    "printed_pages": [
-    185,
-    185
+    195,
+    196
    ]
   },
   {
@@ -5334,28 +5444,17 @@
    "marks": [],
    "path": "Chapter 034 - National Emergencies/Subchapter 001 (I) - Terminating Existing Declared Emergencies/README.md",
    "printed_pages": [
-    185,
-    185
+    196,
+    196
    ]
   },
   {
    "id": "50_1601",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       95,
-       "[Page 186]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 034 - National Emergencies/Subchapter 001 (I) - Terminating Existing Declared Emergencies/§ 01601 - Termination of existing declared emergencies.md",
    "printed_pages": [
-    185,
-    186
+    196,
+    196
    ]
   },
   {
@@ -5363,8 +5462,8 @@
    "marks": [],
    "path": "Chapter 034 - National Emergencies/Subchapter 002 (II) - Declarations of Future National Emergencies/README.md",
    "printed_pages": [
-    186,
-    186
+    196,
+    196
    ]
   },
   {
@@ -5372,8 +5471,8 @@
    "marks": [],
    "path": "Chapter 034 - National Emergencies/Subchapter 002 (II) - Declarations of Future National Emergencies/§ 01621 - Declaration of national emergency by President; publication in Federal Register; effect on other laws; superseding legislation.md",
    "printed_pages": [
-    186,
-    186
+    196,
+    196
    ]
   },
   {
@@ -5381,28 +5480,37 @@
    "marks": [
     [
      "I",
-     26,
+     24,
      [
       [
-       322,
-       "[Page 187]"
+       367,
+       "[Page 197]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - National Emergencies/Subchapter 002 (II) - Declarations of Future National Emergencies/§ 01622 - National emergencies.md",
    "printed_pages": [
-    186,
-    187
+    196,
+    197
+   ]
+  },
+  {
+   "id": "50_-ch34-scIII",
+   "marks": [],
+   "path": "Chapter 034 - National Emergencies/Subchapter 003 (III) - Exercise of Emergency Powers and Authorities/README.md",
+   "printed_pages": [
+    197,
+    197
    ]
   },
   {
    "id": "50_1631",
    "marks": [],
-   "path": "Chapter 034 - National Emergencies/Subchapter 002 (II) - Declarations of Future National Emergencies/§ 01631 - Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress.md",
+   "path": "Chapter 034 - National Emergencies/Subchapter 003 (III) - Exercise of Emergency Powers and Authorities/§ 01631 - Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress.md",
    "printed_pages": [
-    187,
-    187
+    197,
+    197
    ]
   },
   {
@@ -5410,8 +5518,8 @@
    "marks": [],
    "path": "Chapter 034 - National Emergencies/Subchapter 004 (IV) - Accountability and Reporting Requirements of President/README.md",
    "printed_pages": [
-    187,
-    187
+    197,
+    197
    ]
   },
   {
@@ -5419,28 +5527,37 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       185,
-       "[Page 188]"
+       92,
+       "[Page 198]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - National Emergencies/Subchapter 004 (IV) - Accountability and Reporting Requirements of President/§ 01641 - Accountability and reporting requirements of President.md",
    "printed_pages": [
-    187,
-    188
+    197,
+    198
+   ]
+  },
+  {
+   "id": "50_-ch34-scV",
+   "marks": [],
+   "path": "Chapter 034 - National Emergencies/Subchapter 005 (V) - Application to Powers and Authorities of Other Provisions of Law and Actions Taken Thereunder/README.md",
+   "printed_pages": [
+    198,
+    198
    ]
   },
   {
    "id": "50_1651",
    "marks": [],
-   "path": "Chapter 034 - National Emergencies/Subchapter 004 (IV) - Accountability and Reporting Requirements of President/§ 01651 - Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies.md",
+   "path": "Chapter 034 - National Emergencies/Subchapter 005 (V) - Application to Powers and Authorities of Other Provisions of Law and Actions Taken Thereunder/§ 01651 - Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies.md",
    "printed_pages": [
-    188,
-    188
+    198,
+    198
    ]
   },
   {
@@ -5448,8 +5565,8 @@
    "marks": [],
    "path": "Chapter 035 - International Emergency Economic Powers/README.md",
    "printed_pages": [
-    188,
-    188
+    198,
+    198
    ]
   },
   {
@@ -5457,323 +5574,372 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 189]",
+     4,
+     "[Page 199]",
      true
-    ],
-    [
-     "I",
-     96,
-     [
-      [
-       156,
-       "[Page 190]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     202,
-     [
-      [
-       109,
-       "[Page 191]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     292,
-     [
-      [
-       144,
-       "[Page 192]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     374,
-     [
-      [
-       534,
-       "[Page 193]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     494,
-     [
-      [
-       166,
-       "[Page 194]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     572,
-     [
-      [
-       91,
-       "[Page 195]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     644,
-     [
-      [
-       690,
-       "[Page 196]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     722,
-     [
-      [
-       545,
-       "[Page 197]"
-      ]
-     ]
     ],
     [
      "L",
-     768,
-     "[Page 198]",
+     96,
+     "[Page 200]",
+     true
+    ],
+    [
+     "L",
+     202,
+     "[Page 201]",
      true
     ],
     [
      "I",
-     808,
+     304,
      [
       [
-       330,
-       "[Page 199]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     844,
-     [
-      [
-       162,
-       "[Page 200]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     886,
-     [
-      [
-       166,
-       "[Page 201]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     936,
-     [
-      [
-       266,
+       107,
        "[Page 202]"
       ]
      ]
     ],
     [
      "I",
-     972,
+     446,
      [
       [
-       109,
+       303,
        "[Page 203]"
       ]
      ]
     ],
     [
      "I",
-     1046,
+     558,
      [
       [
-       108,
+       106,
        "[Page 204]"
       ]
      ]
     ],
     [
-     "L",
-     1116,
-     "[Page 205]",
-     true
+     "I",
+     646,
+     [
+      [
+       84,
+       "[Page 205]"
+      ]
+     ]
     ],
     [
      "L",
-     1190,
+     740,
      "[Page 206]",
      true
     ],
     [
      "L",
-     1256,
+     836,
      "[Page 207]",
      true
     ],
     [
      "L",
-     1320,
+     928,
      "[Page 208]",
      true
     ],
     [
      "L",
-     1388,
+     1020,
      "[Page 209]",
      true
     ],
     [
      "I",
-     1434,
+     1104,
      [
       [
-       425,
+       107,
        "[Page 210]"
       ]
      ]
     ],
     [
-     "L",
-     1484,
-     "[Page 211]",
-     true
-    ],
-    [
-     "L",
-     1520,
-     "[Page 212]",
-     true
-    ],
-    [
-     "L",
-     1578,
-     "[Page 213]",
-     true
+     "I",
+     1180,
+     [
+      [
+       163,
+       "[Page 211]"
+      ]
+     ]
     ],
     [
      "I",
-     1638,
+     1240,
      [
       [
-       109,
+       272,
+       "[Page 212]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1280,
+     [
+      [
+       847,
+       "[Page 213]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1316,
+     [
+      [
+       491,
        "[Page 214]"
       ]
      ]
     ],
     [
-     "L",
-     1704,
-     "[Page 215]",
-     true
-    ],
-    [
-     "L",
-     1754,
-     "[Page 216]",
-     true
-    ],
-    [
      "I",
-     1810,
+     1360,
      [
       [
        110,
-       "[Page 217]"
+       "[Page 215]"
       ]
      ]
     ],
     [
      "I",
-     1848,
+     1402,
      [
       [
-       441,
-       "[Page 218]"
+       1063,
+       "[Page 216]"
       ]
      ]
     ],
     [
+     "L",
+     1442,
+     "[Page 217]",
+     true
+    ],
+    [
+     "L",
+     1494,
+     "[Page 218]",
+     true
+    ],
+    [
      "I",
-     1910,
+     1570,
      [
       [
-       108,
+       101,
        "[Page 219]"
       ]
      ]
     ],
     [
      "I",
-     1998,
+     1638,
      [
       [
-       150,
+       156,
        "[Page 220]"
       ]
      ]
     ],
     [
      "I",
-     2050,
+     1714,
      [
       [
-       158,
+       105,
        "[Page 221]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     1782,
+     [
+      [
+       160,
+       "[Page 222]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1848,
+     "[Page 223]",
+     true
+    ],
+    [
+     "I",
+     1912,
+     [
+      [
+       208,
+       "[Page 224]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     1948,
+     "[Page 225]",
+     true
+    ],
+    [
+     "I",
+     1994,
+     [
+      [
+       568,
+       "[Page 226]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     2038,
+     "[Page 227]",
+     true
+    ],
+    [
+     "I",
+     2088,
+     [
+      [
+       264,
+       "[Page 228]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     2158,
+     "[Page 229]",
+     true
+    ],
+    [
+     "I",
+     2218,
+     [
+      [
+       360,
+       "[Page 230]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     2272,
+     "[Page 231]",
+     true
+    ],
+    [
+     "I",
+     2324,
+     [
+      [
+       426,
+       "[Page 232]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     2362,
+     [
+      [
+       754,
+       "[Page 233]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     2428,
+     [
+      [
+       108,
+       "[Page 234]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     2516,
+     [
+      [
+       106,
+       "[Page 235]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     2564,
+     [
+      [
+       108,
+       "[Page 236]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     2624,
+     [
+      [
+       1695,
+       "[Page 237]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - International Emergency Economic Powers/§ 01701 - Unusual and extraordinary threat; declaration of national emergency; exercise of Presidential authorities.md",
    "printed_pages": [
-    188,
-    221
+    198,
+    237
    ]
   },
   {
    "id": "50_1702",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 222]",
-     true
+     "I",
+     44,
+     [
+      [
+       272,
+       "[Page 238]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 035 - International Emergency Economic Powers/§ 01702 - Presidential authorities.md",
    "printed_pages": [
-    221,
-    222
+    237,
+    238
    ]
   },
   {
    "id": "50_1703",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 223]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 035 - International Emergency Economic Powers/§ 01703 - Consultation and reports.md",
    "printed_pages": [
-    222,
-    223
+    238,
+    238
    ]
   },
   {
@@ -5781,8 +5947,8 @@
    "marks": [],
    "path": "Chapter 035 - International Emergency Economic Powers/§ 01704 - Authority to issue regulations.md",
    "printed_pages": [
-    223,
-    223
+    238,
+    238
    ]
   },
   {
@@ -5790,17 +5956,28 @@
    "marks": [],
    "path": "Chapter 035 - International Emergency Economic Powers/§ 01705 - Penalties.md",
    "printed_pages": [
-    223,
-    223
+    238,
+    238
    ]
   },
   {
    "id": "50_1706",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       142,
+       "[Page 239]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 035 - International Emergency Economic Powers/§ 01706 - Savings provisions.md",
    "printed_pages": [
-    223,
-    223
+    238,
+    239
    ]
   },
   {
@@ -5808,19 +5985,19 @@
    "marks": [
     [
      "I",
-     10,
+     59,
      [
       [
-       62,
-       "[Page 224]"
+       89,
+       "[Page 240]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/README.md",
    "printed_pages": [
-    223,
-    224
+    239,
+    240
    ]
   },
   {
@@ -5828,8 +6005,8 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/README.md",
    "printed_pages": [
-    224,
-    224
+    240,
+    240
    ]
   },
   {
@@ -5837,107 +6014,102 @@
    "marks": [
     [
      "I",
-     22,
+     54,
      [
       [
-       101,
-       "[Page 225]"
+       98,
+       "[Page 241]"
       ]
      ]
     ],
     [
-     "I",
-     84,
-     [
-      [
-       96,
-       "[Page 226]"
-      ]
-     ]
+     "L",
+     104,
+     "[Page 242]",
+     true
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01801 - Definitions.md",
    "printed_pages": [
-    224,
-    226
+    240,
+    242
    ]
   },
   {
    "id": "50_1802",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 227]",
-     true
+     "I",
+     32,
+     [
+      [
+       609,
+       "[Page 243]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01802 - Electronic surveillance authorization without court order; certification by Attorney General; reports to Congressional committees….md",
    "printed_pages": [
-    226,
-    227
+    242,
+    243
    ]
   },
   {
    "id": "50_1803",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       379,
-       "[Page 228]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 244]",
+     true
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01803 - Designation of judges.md",
    "printed_pages": [
-    227,
-    228
+    243,
+    244
    ]
   },
   {
    "id": "50_1804",
-   "marks": [
-    [
-     "L",
-     42,
-     "[Page 229]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01804 - Applications for court orders.md",
    "printed_pages": [
-    228,
-    229
+    244,
+    244
    ]
   },
   {
    "id": "50_1805",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       99,
-       "[Page 230]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 245]",
+     true
     ],
     [
      "L",
-     84,
-     "[Page 231]",
+     64,
+     "[Page 246]",
      true
+    ],
+    [
+     "I",
+     118,
+     [
+      [
+       158,
+       "[Page 247]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01805 - Issuance of order.md",
    "printed_pages": [
-    229,
-    231
+    244,
+    247
    ]
   },
   {
@@ -5945,15 +6117,15 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 232]",
+     36,
+     "[Page 248]",
      true
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01806 - Use of information.md",
    "printed_pages": [
-    231,
-    232
+    247,
+    248
    ]
   },
   {
@@ -5961,37 +6133,33 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01807 - Report to Administrative Office of the United States Court and to Congress.md",
    "printed_pages": [
-    232,
-    232
+    248,
+    248
    ]
   },
   {
    "id": "50_1808",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       88,
-       "[Page 233]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01808 - Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of….md",
    "printed_pages": [
-    232,
-    233
+    248,
+    248
    ]
   },
   {
    "id": "50_1809",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 249]",
+     true
+    ]
+   ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01809 - Criminal sanctions.md",
    "printed_pages": [
-    233,
-    233
+    248,
+    249
    ]
   },
   {
@@ -5999,8 +6167,8 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01810 - Civil liability.md",
    "printed_pages": [
-    233,
-    233
+    249,
+    249
    ]
   },
   {
@@ -6008,8 +6176,8 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 001 (I) - Electronic Surveillance/§ 01811 - Authorization during time of war.md",
    "printed_pages": [
-    233,
-    233
+    249,
+    249
    ]
   },
   {
@@ -6017,8 +6185,8 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/README.md",
    "printed_pages": [
-    233,
-    233
+    249,
+    249
    ]
   },
   {
@@ -6026,19 +6194,19 @@
    "marks": [
     [
      "I",
-     16,
+     30,
      [
       [
-       98,
-       "[Page 234]"
+       437,
+       "[Page 250]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01821 - Definitions.md",
    "printed_pages": [
-    233,
-    234
+    249,
+    250
    ]
   },
   {
@@ -6046,61 +6214,59 @@
    "marks": [
     [
      "I",
-     24,
+     42,
      [
       [
-       88,
-       "[Page 235]"
+       142,
+       "[Page 251]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01822 - Authorization of physical searches for foreign intelligence purposes.md",
    "printed_pages": [
-    234,
-    235
+    250,
+    251
    ]
   },
   {
    "id": "50_1823",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 236]",
-     true
+     "I",
+     38,
+     [
+      [
+       188,
+       "[Page 252]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01823 - Application for order.md",
    "printed_pages": [
-    235,
-    236
+    251,
+    252
    ]
   },
   {
    "id": "50_1824",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 237]",
-     true
-    ],
-    [
      "I",
-     90,
+     54,
      [
       [
-       222,
-       "[Page 238]"
+       138,
+       "[Page 253]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01824 - Issuance of order.md",
    "printed_pages": [
-    236,
-    238
+    252,
+    253
    ]
   },
   {
@@ -6108,19 +6274,25 @@
    "marks": [
     [
      "I",
-     34,
+     16,
      [
       [
-       1581,
-       "[Page 239]"
+       652,
+       "[Page 254]"
       ]
      ]
+    ],
+    [
+     "L",
+     62,
+     "[Page 255]",
+     true
     ]
    ],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01825 - Use of information.md",
    "printed_pages": [
-    238,
-    239
+    253,
+    255
    ]
   },
   {
@@ -6128,8 +6300,8 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01826 - Congressional oversight.md",
    "printed_pages": [
-    239,
-    239
+    255,
+    255
    ]
   },
   {
@@ -6137,28 +6309,17 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01827 - Penalties.md",
    "printed_pages": [
-    239,
-    239
+    255,
+    255
    ]
   },
   {
    "id": "50_1828",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       232,
-       "[Page 240]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01828 - Civil liability.md",
    "printed_pages": [
-    239,
-    240
+    255,
+    255
    ]
   },
   {
@@ -6166,33 +6327,37 @@
    "marks": [],
    "path": "Chapter 036 - Foreign Intelligence Surveillance/Subchapter 002 (II) - Physical Searches/§ 01829 - Authorization during time of war.md",
    "printed_pages": [
-    240,
-    240
+    255,
+    255
    ]
   },
   {
    "id": "50_-ch37",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       27,
+       "[Page 256]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/README.md",
    "printed_pages": [
-    240,
-    240
+    255,
+    256
    ]
   },
   {
    "id": "50_1901",
-   "marks": [
-    [
-     "L",
-     40,
-     "[Page 241]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01901 - Short title, findings, and purposes.md",
    "printed_pages": [
-    240,
-    241
+    256,
+    256
    ]
   },
   {
@@ -6200,40 +6365,65 @@
    "marks": [
     [
      "L",
-     50,
-     "[Page 242]",
+     22,
+     "[Page 257]",
      true
+    ],
+    [
+     "I",
+     76,
+     [
+      [
+       137,
+       "[Page 258]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01902 - Scholarship, fellowship, and grant program.md",
    "printed_pages": [
-    241,
-    242
+    256,
+    258
    ]
   },
   {
    "id": "50_1903",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 243]",
-     true
+     "I",
+     34,
+     [
+      [
+       93,
+       "[Page 259]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01903 - National Security Education Board.md",
    "printed_pages": [
-    242,
-    243
+    258,
+    259
    ]
   },
   {
    "id": "50_1904",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       652,
+       "[Page 260]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01904 - National Security Education Trust Fund.md",
    "printed_pages": [
-    243,
-    243
+    259,
+    260
    ]
   },
   {
@@ -6241,8 +6431,8 @@
    "marks": [],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01905 - Regulations and administrative provisions.md",
    "printed_pages": [
-    243,
-    243
+    260,
+    260
    ]
   },
   {
@@ -6250,19 +6440,19 @@
    "marks": [
     [
      "I",
-     4,
+     28,
      [
       [
-       183,
-       "[Page 244]"
+       95,
+       "[Page 261]"
       ]
      ]
     ]
    ],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01906 - Annual report.md",
    "printed_pages": [
-    243,
-    244
+    260,
+    261
    ]
   },
   {
@@ -6270,8 +6460,8 @@
    "marks": [],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01907 - General Accounting Office audits.md",
    "printed_pages": [
-    244,
-    244
+    261,
+    261
    ]
   },
   {
@@ -6279,8 +6469,8 @@
    "marks": [],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01908 - Definitions.md",
    "printed_pages": [
-    244,
-    244
+    261,
+    261
    ]
   },
   {
@@ -6288,8 +6478,8 @@
    "marks": [],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01909 - Fiscal year 1992 funding.md",
    "printed_pages": [
-    244,
-    244
+    261,
+    261
    ]
   },
   {
@@ -6297,8 +6487,8 @@
    "marks": [],
    "path": "Chapter 037 - National Security Scholarships, Fellowships, and Grants/§ 01910 - Funding.md",
    "printed_pages": [
-    244,
-    244
+    261,
+    261
    ]
   },
   {
@@ -6306,35 +6496,29 @@
    "marks": [
     [
      "I",
-     9,
+     38,
      [
       [
-       24,
-       "[Page 245]"
+       54,
+       "[Page 262]"
       ]
      ]
     ],
     [
      "I",
-     167,
+     186,
      [
       [
-       31,
-       "[Page 246]"
+       18,
+       "[Page 263]"
       ]
      ]
-    ],
-    [
-     "L",
-     286,
-     "[Page 247]",
-     true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/README.md",
    "printed_pages": [
-    244,
-    247
+    261,
+    263
    ]
   },
   {
@@ -6342,8 +6526,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 001 (I) - Definitions/README.md",
    "printed_pages": [
-    247,
-    247
+    263,
+    263
    ]
   },
   {
@@ -6351,35 +6535,41 @@
    "marks": [
     [
      "L",
-     86,
-     "[Page 248]",
+     16,
+     "[Page 264]",
+     true
+    ],
+    [
+     "L",
+     94,
+     "[Page 265]",
      true
     ],
     [
      "I",
-     146,
+     154,
      [
       [
-       275,
-       "[Page 249]"
+       107,
+       "[Page 266]"
       ]
      ]
     ],
     [
      "I",
-     212,
+     216,
      [
       [
-       220,
-       "[Page 250]"
+       110,
+       "[Page 267]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 001 (I) - Definitions/§ 02001 - Definitions relating to the system.md",
    "printed_pages": [
-    247,
-    250
+    263,
+    267
    ]
   },
   {
@@ -6387,38 +6577,35 @@
    "marks": [
     [
      "I",
-     46,
+     50,
      [
       [
-       97,
-       "[Page 251]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     128,
-     [
-      [
-       236,
-       "[Page 252]"
+       143,
+       "[Page 268]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 001 (I) - Definitions/§ 02002 - Definitions relating to participants and annuitants.md",
    "printed_pages": [
-    250,
-    252
+    267,
+    268
    ]
   },
   {
    "id": "50_-ch38-scII",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 269]",
+     true
+    ]
+   ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/README.md",
    "printed_pages": [
-    252,
-    252
+    268,
+    269
    ]
   },
   {
@@ -6426,8 +6613,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part A - Establishment of System/README.md",
    "printed_pages": [
-    252,
-    252
+    269,
+    269
    ]
   },
   {
@@ -6435,8 +6622,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part A - Establishment of System/§ 02011 - CIARDS system.md",
    "printed_pages": [
-    252,
-    252
+    269,
+    269
    ]
   },
   {
@@ -6444,24 +6631,28 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part A - Establishment of System/§ 02012 - Central Intelligence Agency Retirement and Disability Fund.md",
    "printed_pages": [
-    252,
-    252
+    269,
+    269
    ]
   },
   {
    "id": "50_2013",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 253]",
-     true
+     "I",
+     18,
+     [
+      [
+       92,
+       "[Page 270]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part A - Establishment of System/§ 02013 - Participants in CIARDS system.md",
    "printed_pages": [
-    252,
-    253
+    269,
+    270
    ]
   },
   {
@@ -6469,8 +6660,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part A - Establishment of System/§ 02014 - Annuitants.md",
    "printed_pages": [
-    253,
-    253
+    270,
+    270
    ]
   },
   {
@@ -6478,28 +6669,24 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part B - Contributions/README.md",
    "printed_pages": [
-    253,
-    253
+    270,
+    270
    ]
   },
   {
    "id": "50_2021",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       556,
-       "[Page 254]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 271]",
+     true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part B - Contributions/§ 02021 - Contributions to fund.md",
    "printed_pages": [
-    253,
-    254
+    270,
+    271
    ]
   },
   {
@@ -6507,116 +6694,104 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/README.md",
    "printed_pages": [
-    254,
-    254
+    271,
+    271
    ]
   },
   {
    "id": "50_2031",
    "marks": [
     [
+     "L",
+     34,
+     "[Page 272]",
+     true
+    ],
+    [
+     "L",
+     92,
+     "[Page 273]",
+     true
+    ],
+    [
      "I",
-     30,
+     170,
      [
       [
-       176,
-       "[Page 255]"
+       91,
+       "[Page 274]"
       ]
      ]
     ],
     [
      "I",
-     82,
+     232,
      [
       [
-       349,
-       "[Page 256]"
+       96,
+       "[Page 275]"
       ]
      ]
     ],
     [
-     "I",
-     162,
-     [
-      [
-       93,
-       "[Page 257]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     226,
-     [
-      [
-       95,
-       "[Page 258]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     276,
-     [
-      [
-       284,
-       "[Page 259]"
-      ]
-     ]
+     "L",
+     282,
+     "[Page 276]",
+     true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/§ 02031 - Computation of annuities.md",
    "printed_pages": [
-    254,
-    259
+    271,
+    276
    ]
   },
   {
    "id": "50_2032",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 260]",
-     true
-    ],
-    [
      "I",
-     84,
+     32,
      [
       [
-       273,
-       "[Page 261]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     156,
-     [
-      [
-       116,
-       "[Page 262]"
+       92,
+       "[Page 277]"
       ]
      ]
     ],
     [
      "L",
-     266,
-     "[Page 263]",
+     90,
+     "[Page 278]",
      true
     ],
     [
      "L",
-     382,
-     "[Page 264]",
+     164,
+     "[Page 279]",
+     true
+    ],
+    [
+     "I",
+     276,
+     [
+      [
+       214,
+       "[Page 280]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     388,
+     "[Page 281]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/§ 02032 - Annuities for former spouses.md",
    "printed_pages": [
-    259,
-    264
+    276,
+    281
    ]
   },
   {
@@ -6624,8 +6799,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/§ 02033 - Election of survivor benefits for certain former spouses divorced as of November 15, 1982.md",
    "printed_pages": [
-    264,
-    264
+    281,
+    281
    ]
   },
   {
@@ -6633,39 +6808,35 @@
    "marks": [
     [
      "I",
-     46,
+     52,
      [
       [
-       185,
-       "[Page 265]"
+       94,
+       "[Page 282]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/§ 02034 - Survivor annuity for certain other former spouses.md",
    "printed_pages": [
-    264,
-    265
+    281,
+    282
    ]
   },
   {
    "id": "50_2035",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       138,
-       "[Page 266]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 283]",
+     true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/§ 02035 - Retirement annuity for certain former spouses.md",
    "printed_pages": [
-    265,
-    266
+    282,
+    283
    ]
   },
   {
@@ -6673,8 +6844,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part C - Computation of Annuities/§ 02036 - Survivor annuities for previous spouses.md",
    "printed_pages": [
-    266,
-    266
+    283,
+    283
    ]
   },
   {
@@ -6682,8 +6853,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/README.md",
    "printed_pages": [
-    266,
-    266
+    283,
+    283
    ]
   },
   {
@@ -6691,8 +6862,8 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 267]",
+     22,
+     "[Page 284]",
      true
     ],
     [
@@ -6700,16 +6871,16 @@
      74,
      [
       [
-       95,
-       "[Page 268]"
+       326,
+       "[Page 285]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/§ 02051 - Retirement for disability or incapacity; medical examination; recovery.md",
    "printed_pages": [
-    266,
-    268
+    283,
+    285
    ]
   },
   {
@@ -6720,16 +6891,16 @@
      10,
      [
       [
-       96,
-       "[Page 269]"
+       375,
+       "[Page 286]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/§ 02052 - Death in service.md",
    "printed_pages": [
-    268,
-    269
+    285,
+    286
    ]
   },
   {
@@ -6740,16 +6911,16 @@
      4,
      [
       [
-       144,
-       "[Page 270]"
+       388,
+       "[Page 287]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/§ 02053 - Voluntary retirement.md",
    "printed_pages": [
-    269,
-    270
+    286,
+    287
    ]
   },
   {
@@ -6757,8 +6928,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/§ 02054 - Discontinued service benefits.md",
    "printed_pages": [
-    270,
-    270
+    287,
+    287
    ]
   },
   {
@@ -6766,28 +6937,24 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/§ 02055 - Mandatory retirement.md",
    "printed_pages": [
-    270,
-    270
+    287,
+    287
    ]
   },
   {
    "id": "50_2056",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       188,
-       "[Page 271]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 288]",
+     true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part D - Benefits Accruing to Certain Participants/§ 02056 - Eligibility for annuity.md",
    "printed_pages": [
-    270,
-    271
+    287,
+    288
    ]
   },
   {
@@ -6795,8 +6962,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part E - Lump-Sum Payments/README.md",
    "printed_pages": [
-    271,
-    271
+    288,
+    288
    ]
   },
   {
@@ -6807,16 +6974,16 @@
      50,
      [
       [
-       99,
-       "[Page 272]"
+       383,
+       "[Page 289]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part E - Lump-Sum Payments/§ 02071 - Lump-sum payments.md",
    "printed_pages": [
-    271,
-    272
+    288,
+    289
    ]
   },
   {
@@ -6824,8 +6991,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part F - Period of Service for Annuities/README.md",
    "printed_pages": [
-    272,
-    272
+    289,
+    289
    ]
   },
   {
@@ -6836,16 +7003,16 @@
      14,
      [
       [
-       90,
-       "[Page 273]"
+       229,
+       "[Page 290]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part F - Period of Service for Annuities/§ 02081 - Computation of length of service.md",
    "printed_pages": [
-    272,
-    273
+    289,
+    290
    ]
   },
   {
@@ -6856,8 +7023,8 @@
      48,
      [
       [
-       87,
-       "[Page 274]"
+       130,
+       "[Page 291]"
       ]
      ]
     ],
@@ -6866,22 +7033,22 @@
      112,
      [
       [
-       592,
-       "[Page 275]"
+       639,
+       "[Page 292]"
       ]
      ]
     ],
     [
      "L",
      164,
-     "[Page 276]",
+     "[Page 293]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part F - Period of Service for Annuities/§ 02082 - Prior service credit.md",
    "printed_pages": [
-    273,
-    276
+    290,
+    293
    ]
   },
   {
@@ -6889,8 +7056,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part F - Period of Service for Annuities/§ 02083 - Credit for service while on military leave.md",
    "printed_pages": [
-    276,
-    276
+    293,
+    293
    ]
   },
   {
@@ -6898,8 +7065,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part G - Moneys/README.md",
    "printed_pages": [
-    276,
-    276
+    293,
+    293
    ]
   },
   {
@@ -6907,8 +7074,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part G - Moneys/§ 02091 - Estimate of appropriations needed.md",
    "printed_pages": [
-    276,
-    276
+    293,
+    293
    ]
   },
   {
@@ -6917,14 +7084,14 @@
     [
      "L",
      10,
-     "[Page 277]",
+     "[Page 294]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part G - Moneys/§ 02092 - Investment of moneys in fund.md",
    "printed_pages": [
-    276,
-    277
+    293,
+    294
    ]
   },
   {
@@ -6933,14 +7100,14 @@
     [
      "L",
      76,
-     "[Page 278]",
+     "[Page 295]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part G - Moneys/§ 02093 - Payment of benefits.md",
    "printed_pages": [
-    277,
-    278
+    294,
+    295
    ]
   },
   {
@@ -6948,8 +7115,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part G - Moneys/§ 02094 - Attachment of moneys.md",
    "printed_pages": [
-    278,
-    278
+    295,
+    295
    ]
   },
   {
@@ -6958,14 +7125,14 @@
     [
      "L",
      14,
-     "[Page 279]",
+     "[Page 296]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part G - Moneys/§ 02095 - Recovery of payments.md",
    "printed_pages": [
-    278,
-    279
+    295,
+    296
    ]
   },
   {
@@ -6973,8 +7140,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part H - Retired Participants Recalled, Reinstated, or Reappointed in Agency or Reemployed in Government/README.md",
    "printed_pages": [
-    279,
-    279
+    296,
+    296
    ]
   },
   {
@@ -6982,8 +7149,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part H - Retired Participants Recalled, Reinstated, or Reappointed in Agency or Reemployed in Government/§ 02111 - Recall.md",
    "printed_pages": [
-    279,
-    279
+    296,
+    296
    ]
   },
   {
@@ -6991,8 +7158,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part H - Retired Participants Recalled, Reinstated, or Reappointed in Agency or Reemployed in Government/§ 02112 - Reemployment.md",
    "printed_pages": [
-    279,
-    279
+    296,
+    296
    ]
   },
   {
@@ -7000,8 +7167,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part H - Retired Participants Recalled, Reinstated, or Reappointed in Agency or Reemployed in Government/§ 02113 - Reemployment compensation.md",
    "printed_pages": [
-    279,
-    279
+    296,
+    296
    ]
   },
   {
@@ -7009,8 +7176,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part I - Voluntary Contributions/README.md",
    "printed_pages": [
-    279,
-    279
+    296,
+    296
    ]
   },
   {
@@ -7019,14 +7186,14 @@
     [
      "L",
      28,
-     "[Page 280]",
+     "[Page 297]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part I - Voluntary Contributions/§ 02121 - Voluntary contributions.md",
    "printed_pages": [
-    279,
-    280
+    296,
+    297
    ]
   },
   {
@@ -7034,8 +7201,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part J - Cost-of-Living Adjustment of Annuities/README.md",
    "printed_pages": [
-    280,
-    280
+    297,
+    297
    ]
   },
   {
@@ -7044,14 +7211,14 @@
     [
      "L",
      42,
-     "[Page 281]",
+     "[Page 298]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part J - Cost-of-Living Adjustment of Annuities/§ 02131 - Cost-of-living adjustment of annuities.md",
    "printed_pages": [
-    280,
-    281
+    297,
+    298
    ]
   },
   {
@@ -7059,8 +7226,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part K - Conformity with Civil Service Retirement System/README.md",
    "printed_pages": [
-    281,
-    281
+    298,
+    298
    ]
   },
   {
@@ -7068,8 +7235,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part K - Conformity with Civil Service Retirement System/§ 02141 - Authority to maintain existing areas of conformity between Civil Service and Central Intelligence Agency Retirement and Disability Systems.md",
    "printed_pages": [
-    281,
-    281
+    298,
+    298
    ]
   },
   {
@@ -7078,14 +7245,14 @@
     [
      "L",
      6,
-     "[Page 282]",
+     "[Page 299]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part K - Conformity with Civil Service Retirement System/§ 02142 - Thrift Savings Plan participation.md",
    "printed_pages": [
-    281,
-    282
+    298,
+    299
    ]
   },
   {
@@ -7093,8 +7260,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part K - Conformity with Civil Service Retirement System/§ 02143 - Alternative forms of annuities.md",
    "printed_pages": [
-    282,
-    282
+    299,
+    299
    ]
   },
   {
@@ -7102,8 +7269,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 002 (II) - Central Intelligence Agency Retirement and Disability System/Part K - Conformity with Civil Service Retirement System/§ 02144 - Payments from CIARDS fund for portions of certain Civil Service Retirement System annuities.md",
    "printed_pages": [
-    282,
-    282
+    299,
+    299
    ]
   },
   {
@@ -7111,8 +7278,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/README.md",
    "printed_pages": [
-    282,
-    282
+    299,
+    299
    ]
   },
   {
@@ -7124,15 +7291,15 @@
      [
       [
        269,
-       "[Page 283]"
+       "[Page 300]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02151 - Application of Federal Employees’ Retirement System to Agency employees.md",
    "printed_pages": [
-    282,
-    283
+    299,
+    300
    ]
   },
   {
@@ -7140,8 +7307,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02152 - Special rules relating to section 2013 criteria employees.md",
    "printed_pages": [
-    283,
-    283
+    300,
+    300
    ]
   },
   {
@@ -7153,15 +7320,15 @@
      [
       [
        115,
-       "[Page 284]"
+       "[Page 301]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02153 - Special rules for other employees for service abroad.md",
    "printed_pages": [
-    283,
-    284
+    300,
+    301
    ]
   },
   {
@@ -7170,26 +7337,26 @@
     [
      "L",
      78,
-     "[Page 285]",
+     "[Page 302]",
      true
     ],
     [
      "L",
      138,
-     "[Page 286]",
+     "[Page 303]",
      true
     ],
     [
      "L",
      202,
-     "[Page 287]",
+     "[Page 304]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02154 - Special rules for former spouses.md",
    "printed_pages": [
-    284,
-    287
+    301,
+    304
    ]
   },
   {
@@ -7198,14 +7365,14 @@
     [
      "L",
      16,
-     "[Page 288]",
+     "[Page 305]",
      true
     ]
    ],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02155 - Administrative provisions.md",
    "printed_pages": [
-    287,
-    288
+    304,
+    305
    ]
   },
   {
@@ -7213,8 +7380,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02156 - Regulations.md",
    "printed_pages": [
-    288,
-    288
+    305,
+    305
    ]
   },
   {
@@ -7222,8 +7389,8 @@
    "marks": [],
    "path": "Chapter 038 - Central Intelligence Agency Retirement and Disability/Subchapter 003 (III) - Participation in Federal Employees’ Retirement System/§ 02157 - Transition regulations.md",
    "printed_pages": [
-    288,
-    288
+    305,
+    305
    ]
   },
   {
@@ -7231,8 +7398,8 @@
    "marks": [],
    "path": "Chapter 039 - Spoils of War/README.md",
    "printed_pages": [
-    288,
-    288
+    305,
+    305
    ]
   },
   {
@@ -7240,8 +7407,8 @@
    "marks": [],
    "path": "Chapter 039 - Spoils of War/§ 02201 - Transfers of spoils of war.md",
    "printed_pages": [
-    288,
-    288
+    305,
+    305
    ]
   },
   {
@@ -7249,8 +7416,8 @@
    "marks": [],
    "path": "Chapter 039 - Spoils of War/§ 02202 - Prohibition on transfers to countries which support terrorism.md",
    "printed_pages": [
-    288,
-    288
+    305,
+    305
    ]
   },
   {
@@ -7258,8 +7425,8 @@
    "marks": [],
    "path": "Chapter 039 - Spoils of War/§ 02203 - Report on previous transfers.md",
    "printed_pages": [
-    288,
-    288
+    305,
+    305
    ]
   },
   {
@@ -7271,15 +7438,15 @@
      [
       [
        323,
-       "[Page 289]"
+       "[Page 306]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - Spoils of War/§ 02204 - Definitions.md",
    "printed_pages": [
-    288,
-    289
+    305,
+    306
    ]
   },
   {
@@ -7287,11 +7454,372 @@
    "marks": [],
    "path": "Chapter 039 - Spoils of War/§ 02205 - Construction.md",
    "printed_pages": [
-    289,
-    289
+    306,
+    306
+   ]
+  },
+  {
+   "id": "50_-ch40",
+   "marks": [
+    [
+     "I",
+     91,
+     [
+      [
+       27,
+       "[Page 307]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/README.md",
+   "printed_pages": [
+    306,
+    307
+   ]
+  },
+  {
+   "id": "50_2301",
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 308]",
+     true
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/§ 02301 - Findings.md",
+   "printed_pages": [
+    307,
+    308
+   ]
+  },
+  {
+   "id": "50_2302",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/§ 02302 - Definitions.md",
+   "printed_pages": [
+    308,
+    308
+   ]
+  },
+  {
+   "id": "50_-ch40-scI",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/README.md",
+   "printed_pages": [
+    308,
+    308
+   ]
+  },
+  {
+   "id": "50_2311",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02311 - Response to threats of terrorist use of weapons of mass destruction.md",
+   "printed_pages": [
+    308,
+    308
+   ]
+  },
+  {
+   "id": "50_2312",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       91,
+       "[Page 309]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02312 - Emergency response assistance program.md",
+   "printed_pages": [
+    308,
+    309
+   ]
+  },
+  {
+   "id": "50_2313",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       105,
+       "[Page 310]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02313 - Nuclear, chemical, and biological emergency response.md",
+   "printed_pages": [
+    309,
+    310
+   ]
+  },
+  {
+   "id": "50_2314",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02314 - Chemical-biological emergency response team.md",
+   "printed_pages": [
+    310,
+    310
+   ]
+  },
+  {
+   "id": "50_2315",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02315 - Testing of preparedness for emergencies involving nuclear, radiological, chemical, and biological weapons.md",
+   "printed_pages": [
+    310,
+    310
+   ]
+  },
+  {
+   "id": "50_2316",
+   "marks": [
+    [
+     "L",
+     8,
+     "[Page 311]",
+     true
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02316 - Actions to increase civilian expertise.md",
+   "printed_pages": [
+    310,
+    311
+   ]
+  },
+  {
+   "id": "50_2317",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 001 (I) - Domestic Preparedness/§ 02317 - Rapid response information system.md",
+   "printed_pages": [
+    311,
+    311
+   ]
+  },
+  {
+   "id": "50_-ch40-scII",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 002 (II) - Interdiction of Weapons of Mass Destruction and Related Materials/README.md",
+   "printed_pages": [
+    311,
+    311
+   ]
+  },
+  {
+   "id": "50_2331",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 002 (II) - Interdiction of Weapons of Mass Destruction and Related Materials/§ 02331 - Procurement of detection equipment for United States border security.md",
+   "printed_pages": [
+    311,
+    311
+   ]
+  },
+  {
+   "id": "50_2332",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       94,
+       "[Page 312]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 002 (II) - Interdiction of Weapons of Mass Destruction and Related Materials/§ 02332 - Sense of Congress concerning criminal penalties.md",
+   "printed_pages": [
+    311,
+    312
+   ]
+  },
+  {
+   "id": "50_2333",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 002 (II) - Interdiction of Weapons of Mass Destruction and Related Materials/§ 02333 - International border security.md",
+   "printed_pages": [
+    312,
+    312
+   ]
+  },
+  {
+   "id": "50_-ch40-scIII",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 003 (III) - Control and Disposition of Weapons of Mass Destruction and Related Materials Threatening the United States/README.md",
+   "printed_pages": [
+    312,
+    312
+   ]
+  },
+  {
+   "id": "50_2341",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 003 (III) - Control and Disposition of Weapons of Mass Destruction and Related Materials Threatening the United States/§ 02341 - Elimination of plutonium production.md",
+   "printed_pages": [
+    312,
+    312
+   ]
+  },
+  {
+   "id": "50_-ch40-scIV",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 004 (IV) - Coordination of Policy and Countermeasures Against Proliferation of Weapons of Mass Destruction/README.md",
+   "printed_pages": [
+    312,
+    312
+   ]
+  },
+  {
+   "id": "50_2351",
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 313]",
+     true
+    ],
+    [
+     "L",
+     130,
+     "[Page 314]",
+     true
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 004 (IV) - Coordination of Policy and Countermeasures Against Proliferation of Weapons of Mass Destruction/§ 02351 - National coordinator on nonproliferation.md",
+   "printed_pages": [
+    312,
+    314
+   ]
+  },
+  {
+   "id": "50_2352",
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       138,
+       "[Page 315]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 004 (IV) - Coordination of Policy and Countermeasures Against Proliferation of Weapons of Mass Destruction/§ 02352 - National Security Council Committee on Nonproliferation.md",
+   "printed_pages": [
+    314,
+    315
+   ]
+  },
+  {
+   "id": "50_2353",
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 316]",
+     true
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 004 (IV) - Coordination of Policy and Countermeasures Against Proliferation of Weapons of Mass Destruction/§ 02353 - Comprehensive preparedness program.md",
+   "printed_pages": [
+    315,
+    316
+   ]
+  },
+  {
+   "id": "50_2354",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 004 (IV) - Coordination of Policy and Countermeasures Against Proliferation of Weapons of Mass Destruction/§ 02354 - Termination.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "50_-ch40-scV",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/README.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "50_2361",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/§ 02361 - Sense of Congress concerning contracting policy.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "50_2362",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/§ 02362 - Transfers of allocations among cooperative threat reduction programs.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "50_2363",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/§ 02363 - Sense of Congress concerning assistance to states of former Soviet Union.md",
+   "printed_pages": [
+    316,
+    316
+   ]
+  },
+  {
+   "id": "50_2364",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       89,
+       "[Page 317]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/§ 02364 - Purchase of low-enriched uranium derived from Russian highly enriched uranium.md",
+   "printed_pages": [
+    316,
+    317
+   ]
+  },
+  {
+   "id": "50_2365",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/§ 02365 - Sense of Congress concerning purchase, packaging, and transportation of fissile materials at risk of theft.md",
+   "printed_pages": [
+    317,
+    317
+   ]
+  },
+  {
+   "id": "50_2366",
+   "marks": [],
+   "path": "Chapter 040 - Defense Against Weapons of Mass Destruction/Subchapter 005 (V) - Miscellaneous/§ 02366 - Reports on acquisition of technology relating to weapons of mass destruction and advanced conventional munitions.md",
+   "printed_pages": [
+    317,
+    317
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title50 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title50 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 50 - War and National Defense"
 }

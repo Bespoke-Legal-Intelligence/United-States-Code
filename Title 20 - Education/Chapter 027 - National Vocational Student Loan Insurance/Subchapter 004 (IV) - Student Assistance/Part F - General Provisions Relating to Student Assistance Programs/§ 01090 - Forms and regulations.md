@@ -32,7 +32,7 @@
 
 &emsp;(D) The Secretary shall reimburse all approved contractors at a reasonable predetermined rate for processing such applications, for issuing eligibility reports, and for carrying out other services or requirements that may be prescribed by the Secretary.
 
-&emsp;(E) All approved contractors shall be required to adhere to all editing, processing, and reporting requirements established by the Secretary to ensure consistency.
+&emsp;(E) All approved contractors shall be required to adhere to all editing, processing, andreporting requirements established by the Secretary to ensure consistency.
 
 &emsp;(F) No approved contractor shall enter into exclusive arrangements with guarantors, lenders, secondary markets, or institutions of higher education for the purpose of reselling or sharing of data collected for the multiple data entry process. All data collected under a contract issued by the Secretary pursuant to this paragraph for the multiple data entry process is the exclusive property of the Secretary and may not be transferred to a third party by an approved contractor without the Secretary's express written approval.
 
@@ -54,7 +54,7 @@ Copies of all rules, regulations, guidelines, instructions, and application form
 
 #### (d) Toll-free information
 
-The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing theapplication form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1433(c) of this title.
+The Secretary shall contract for, or establish, and publicize a toll-free telephone service to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing the application form for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. Such service shall also include a service accessible by telecommunications devices for the deaf (TDD's) and shall, in addition to the services provided for in the previous sentence, refer such students to the national clearinghouse on postsecondary education that is authorized under section 1433(c) of this title.
 
 #### (e) Preparer
 
@@ -108,7 +108,7 @@ Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignat
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
-&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
+&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has takena lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 

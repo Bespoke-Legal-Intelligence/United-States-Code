@@ -18,6 +18,7 @@
 | [1044\.](%C2%A7%2001044%20-%20Legal%20assistance.md) | Legal assistance. |
 | [1044a.](%C2%A7%2001044a%20-%20Authority%20to%20act%20as%20notary.md) | Authority to act as notary. |
 | [1044b.](%C2%A7%2001044b%20-%20Military%20powers%20of%20attorney%20requirement%20for%20recognition%20by%20States.md) | Military powers of attorney: requirement for recognition by States. |
+| [1044c.](%C2%A7%2001044c%20-%20Advance%20medical%20directives%20of%20members%20and%20dependents%20requirement%20for%20recognition%20by%20States.md) | Advance medical directives of members and dependents: requirement for recognition by States. |
 | [1045\.](%C2%A7%2001045%20-%20Voluntary%20withholding%20of%20State%20income%20tax%20from%20retired%20or%20retainer%20pay.md) | Voluntary withholding of State income tax from retired or retainer pay. |
 | [1046\.](%C2%A7%2001046%20-%20Overseas%20temporary%20foster%20care%20program.md) | Overseas temporary foster care program. |
 | [1047\.](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md) | Allowance for civilian clothing. |
@@ -40,7 +41,13 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title V, §§531(g)(2), 535(c)(2), title VI, §653(b), title X, §1070(a)(5)(B), (6)(B), title XVI, §1671(b)(9), Oct. 5, 1994, 108 Stat. 2758, 2763, 2795, 2855, 3013, struck out item 1033 “Compensation: Reserve on active duty accepting from any person”, substituted “Protected communications;” for “Communicating with a Member of Congress or Inspector General;” in item 1034, redesignated item 1058 “Dependents of members separated for dependent abuse: transitional compensation” as item 1059 and amended it generally, redesignated item 1058 “Military service of retired members with newly democratic nations: consent of Congress” as item 1060, and added item 1060a.
+1996—Pub. L. 104–106, div. A, title VII, §749(a)(2), Feb. 10, 1996, 110 Stat. 389, added item 1044c.
+
+Pub. L. 104–106, div. A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, made technical correction to Pub. L. 103–337, §531(g)(2). See 1994 Amendment note below.
+
+1994—Pub. L. 103–337, div. A, title V, §531(g)(2), Oct. 5, 1994, 108 Stat. 2758, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(2), Feb. 10, 1996, 110 Stat. 513, substituted “Protected communications;” for “Communicating with a Member of Congress or Inspector General;” in item 1034.
+
+Pub. L. 103–337, div. A, title V, §535(c)(2), title VI, §653(b), title X, §1070(a)(5)(B), (6)(B), title XVI, §1671(b)(9), Oct. 5, 1994, 108 Stat. 2763, 2795, 2855, 3013, struck out item 1033 “Compensation: Reserve on active duty accepting from any person”, redesignated item 1058 “Dependents of members separated for dependent abuse: transitional compensation” as item 1059 and amended it generally, redesignated item 1058 “Military service of retired members with newly democratic nations: consent of Congress” as item 1060, and added item 1060a.
 
 Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, made technical correction to Pub. L. 103–160, §554(a)(2). See 1993 Amendment note below.
 
@@ -117,6 +124,7 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 - [&sect; 01044 - Legal assistance](%C2%A7%2001044%20-%20Legal%20assistance.md)
 - [&sect; 01044a - Authority to act as notary](%C2%A7%2001044a%20-%20Authority%20to%20act%20as%20notary.md)
 - [&sect; 01044b - Military powers of attorney requirement for recognition by States](%C2%A7%2001044b%20-%20Military%20powers%20of%20attorney%20requirement%20for%20recognition%20by%20States.md)
+- [&sect; 01044c - Advance medical directives of members and dependents requirement for recognition by States](%C2%A7%2001044c%20-%20Advance%20medical%20directives%20of%20members%20and%20dependents%20requirement%20for%20recognition%20by%20States.md)
 - [&sect; 01045 - Voluntary withholding of State income tax from retired or retainer pay](%C2%A7%2001045%20-%20Voluntary%20withholding%20of%20State%20income%20tax%20from%20retired%20or%20retainer%20pay.md)
 - [&sect; 01046 - Overseas temporary foster care program](%C2%A7%2001046%20-%20Overseas%20temporary%20foster%20care%20program.md)
 - [&sect; 01047 - Allowance for civilian clothing](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md)

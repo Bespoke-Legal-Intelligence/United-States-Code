@@ -26,7 +26,7 @@
 | (i) | Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision. |
 | (j) | Effective date of land management plans and revisions. |
 | (k) | Development of land management plans. |
-| (<i>l)</i> | Program evaluation; process for estimating long-term costs and benefits; summary of data included in annual report. |
+| (<i>l</i>) | Program evaluation; process for estimating long-term costs and benefits; summary of data included in annual report. |
 | (m) | Establishment of standards to ensure culmination of mean annual increment of growth; silvicultural practices; salvage harvesting; exceptions. |
 | [1605\.](Subchapter%20001%20%28I%29%20-%20Planning/%C2%A7%2001605%20-%20Protection%2C%20use%20and%20management%20of%20renewable%20resources%20on%20non-Federal%20lands%3B%20utilization%20of%20Assessment%2C%20surveys%20and%20Program%20by%20Secretary%20of%E2%80%A6.md) | Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary of Agriculture to assist States, etc. |
 | [1606\.](Subchapter%20001%20%28I%29%20-%20Planning/%C2%A7%2001606%20-%20Budget%20requests%20by%20President%20for%20Forest%20Service%20activities.md) | Budget requests by President for Forest Service activities. |

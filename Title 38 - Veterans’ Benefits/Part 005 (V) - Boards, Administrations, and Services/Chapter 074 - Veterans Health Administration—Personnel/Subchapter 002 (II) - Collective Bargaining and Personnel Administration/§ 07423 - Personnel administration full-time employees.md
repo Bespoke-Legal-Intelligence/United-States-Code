@@ -4,19 +4,17 @@
 
 (b) A person covered by subsection (a) may not do any of the following:
 
-&emsp;(1) Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.
+&emsp;(1) Teach or provide consultative services at any affiliated institution if such teaching or consultation will, because of its nature or duration, conflict with such person's responsibilities under this title.
 
-&emsp;(2) Teach or provide consultative services at any affiliated institution if such teaching or consultation will, because of its nature or duration, conflict with such person's responsibilities under this title.
+&emsp;(2) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professional services rendered by such person while carrying out such person's responsibilities under this title.
 
-&emsp;(3) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professional services rendered by such person while carrying out such person's responsibilities under this title.
+&emsp;(3) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
 
-&emsp;(4) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
+&emsp;(4) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similar fees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
 
-&emsp;(5) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similar fees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
+&emsp;(5) Perform, in the course of carrying out such person's responsibilities under this title, professional services for the purpose of generating money for any fund or account which is maintained by an affiliated institution for the benefit of such institution, or for such person's personal benefit, or both.
 
-&emsp;(6) Perform, in the course of carrying out such person's responsibilities under this title, professional services for the purpose of generating money for any fund or account which is maintained by an affiliated institution for the benefit of such institution, or for such person's personal benefit, or both.
-
-(c) In the case of any fund or account described in subsection (b)(6) that was established before September 1, 1973—
+(c) In the case of any fund or account described in subsection (b)(5) that was established before September 1, 1973—
 
 &emsp;(1) the affiliated institution shall submit semiannually an accounting to the Secretary and to the Comptroller General of the United States with respect to such fund or account and shall maintain such fund or account subject to full public disclosure and audit by the Secretary and the Comptroller General for a period of three years or for such longer period as the Secretary shall prescribe, and
 
@@ -46,17 +44,21 @@
 
 (f) The Secretary may purchase promotional items of nominal value for use in the recruitment of individuals for employment under this chapter. The Secretary shall prescribe guidelines for the administration of the preceding sentence.
 
-(Added and amended Pub. L. 102–40, title II, §202, title IV, §401(b)(3)(A), May 7, 1991, 105 Stat. 201, 230; Pub. L. 102–405, title II, §203, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984.)
+(Added and amended Pub. L. 102–40, title II, §202, title IV, §401(b)(3)(A), May 7, 1991, 105 Stat. 201, 230; Pub. L. 102–405, title II, §203, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 104–262, title III, §347, Oct. 9, 1996, 110 Stat. 3208.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4108(a), (c), and (e) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the UnderSecretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
+
+Subsec. (c). Pub. L. 104–262, §347(b), substituted “subsection (b)(5)” for “subsection (b)(6)” in introductory provisions.
 
 1992—Subsec. (b)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 

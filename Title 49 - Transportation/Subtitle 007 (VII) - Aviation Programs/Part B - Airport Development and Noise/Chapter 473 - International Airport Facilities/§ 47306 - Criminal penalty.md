@@ -6,7 +6,9 @@ A person that knowingly and willfully violates a regulation prescribed by the Se
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -26,7 +26,7 @@ Lead time and stability.—Any standard promulgated or revised under this paragr
 
 (D)
 
-Rebuilding practices.—The Administrator shall study the practice of rebuilding heavy-duty engines and the impact rebuilding has on engine emissions. On the basis of that study and other information available to the Administrator, the Administrator may prescribe requirements to control rebuilding practices, including standards applicable to emissions from any rebuilt heavy-duty engines (whether or not the engine is past its statutory useful life), which in the Administrator's judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare taking costs into account. Any regulation shall take effect after a period the Administrator finds necessary to permit the development and application of the requisite control measures, giving appropriate consideration to the cost of compliance within the period and energy and safety factors.
+Rebuilding practices.—The Administrator shall study the practice of rebuilding heavy-duty engines and the impact rebuilding has on engine emissions. On the basis of that study and other information available to the Administrator, the Administrator may prescribe requirements to control rebuilding practices, including standards applicable to emissions from any rebuilt heavy-duty engines (whether or not the engine is past its statutory useful life), which in the Administrator's judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare taking costs into account. Any regulation shall take effect after a period the Administrator finds necessary to permit the development and application of the requisite control measures, giving appropriate consideration tothe cost of compliance within the period and energy and safety factors.
 
 (E)
 
@@ -50,7 +50,9 @@ Onboard vapor recovery.—Within 1 year after November 15, 1990, the Administrat
 
 Implementation Schedule for Onboard Vapor Recovery Requirements
 
-Model year commencing after standards promulgated
+Model year commencing after
+
+standards promulgated
 
 Percentage\*
 
@@ -94,7 +96,7 @@ After Fifth
 
 &emsp;(C) The term “heavy duty vehicle” means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
 
-(3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Such waiver may be granted only if the Administrator determines—
+(3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Suchwaiver may be granted only if the Administrator determines—
 
 &emsp;(A) that such waiver would not endanger public health,
 
@@ -174,19 +176,7 @@ CO
 
 NO<sub>x</sub>
 
-LDTs (0–3,750 lbs. LVW) and light-duty vehicles
-
-0\.25
-
-3\.4
-
-0\.4\*&nbsp;
-
-0\.31
-
-4\.2
-
-0\.6\*
+LDTs (0–3,750 lbs. LVW) and light-duty vehiclesD0.25D3.4D0.4\* D0.31D4.2D0.6\*
 
 LDTs (3,751–5,750 lbs. LVW)
 
@@ -244,9 +234,7 @@ Useful life period
 
 Standard
 
-5/50,000
-
-0\.08 gpm
+5/50,000D0.08 gpm
 
 10/100,000
 
@@ -290,7 +278,7 @@ after 1996
 
 #### (h) Light-duty trucks of more than 6,000 lbs. GVWR; standards for model years after 1995
 
-Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) of this section applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
+Effective with respect to the model year 1996 and thereafter, the regulations under subsection\(a) of this section applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
 
 table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr
 
@@ -318,21 +306,7 @@ NO<sub>x</sub>
 
 PM
 
-3,751–5,750 lbs. TW
-
-0\.32
-
-4\.4
-
-0\.7\*
-
-0\.46
-
-6\.4
-
-0\.98
-
-0\.10
+3,751–5,750 lbs. TWD0.32D4.4D0.7\*D0.46D6.4D0.98D0.10
 
 Over 5,750 lbs. TW
 
@@ -456,7 +430,7 @@ Percentage
 
 &emsp;(B)(i) If as of June 1, 1997, 6 or more nonattainment areas have a carbon monoxide design value of 9.5 ppm or greater, the regulations under subsection (a)(1) of this section applicable to emissions of carbon monoxide from model year 2002 and later model year light-duty vehicles and light-duty trucks shall contain standards which provide that emissions of carbon monoxide from such vehicles and trucks when operated at 20 degrees Fahrenheit may not exceed 3.4 grams per mile (gpm) in the case of light-duty vehicles and 4.4 grams per mile (gpm) in the case of light-duty trucks up to 6,000 GVWR and a level comparable in stringency in the case of light-duty trucks 6,000 GVWR and above.
 
-&emsp;(ii) In determining for purposes of this subparagraph whether 6 or more nonattainment areas have a carbon monoxide design value of 9.5 ppm or greater, the Administrator shall exclude the areas of Steubenville, Ohio, and Oshkosh, Wisconsin.
+&emsp;(ii) In determining for purposes of this subparagraph whether 6 or more nonattainmentareas have a carbon monoxide design value of 9.5 ppm or greater, the Administrator shall exclude the areas of Steubenville, Ohio, and Oshkosh, Wisconsin.
 
 #### (3) Useful-life for phase I and phase II standards
 
@@ -468,7 +442,7 @@ Percentage
 
 #### (k) Control of evaporative emissions
 
-The Administrator shall promulgate (and from time to time revise) regulations applicable toevaporative emissions of hydrocarbons from all gasoline-fueled motor vehicles—
+The Administrator shall promulgate (and from time to time revise) regulations applicable to evaporative emissions of hydrocarbons from all gasoline-fueled motor vehicles—
 
 &emsp;(1) during operation; and
 
@@ -504,7 +478,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (2) Effective date
 
-&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respect to any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
+&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations formodel year 1994 or 1995 (or both) with respect to any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
 
 #### (3) State inspection
 
@@ -516,7 +490,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 &emsp;&emsp;(A) that any connectors through which the emission control diagnostics system is accessed for inspection, diagnosis, service, or repair shall be standard and uniform on all motor vehicles and motor vehicle engines;
 
-&emsp;&emsp;(B) that access to the emission control diagnostics system through such connectors shall be unrestricted and shall not requireany access code or any device which is only available from a vehicle manufacturer; and
+&emsp;&emsp;(B) that access to the emission control diagnostics system through such connectors shall be unrestricted and shall not require any access code or any device which is only available from a vehicle manufacturer; and
 
 &emsp;&emsp;(C) that the output of the data from the emission control diagnostics system through such connectors shall be usable without the need for any unique decoding information or device.
 
@@ -566,7 +540,7 @@ Section was formerly classified to section 1857f–1 of this title.
 
 1990—Subsec. (a)(3)(A). Pub. L. 101–549, §201(1), added subpar. (A) and struck out former subpar. (A) which related to promulgation of regulations applicable to reduction of emissions from heavy-duty vehicles or engines manufactured during and after model year 1979 in the case of carbon monoxide, hydrocarbons, and oxides of nitrogen, and from vehicles manufactured during and after model year 1981 in the case of particulate matter.
 
-Subsec. (a)(3)(B). Pub. L. 101–549, §201(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “During the period of June 1 through December 31, 1978, in the case of hydrocarbons and carbon monoxide, or during the period of June 1 through December 31, 1980, in the case of oxides of nitrogen, and during each period of June 1 through December 31 of each third year thereafter, the Administrator may, after notice and opportunity for a public hearing promulgate regulations revising any standard prescribed as provided in subparagraph (A)(ii) for any class or category of heavy-duty vehicles or engines. Such standard shall apply only for the period of three model years beginning four model years after the model year in which such revised standard is promulgated. In revising any standard under this subparagraph for any such three model year period, the Administrator shall determine the maximum degree of emission reduction which can be achieved by means reasonably expected to be available for production of such period and shall prescribe a revised emission standard in accordance with such determination. Such revised standard shall require a reduction of emissions from any standard which applies in the previous model year.”
+Subsec. (a)(3)(B). Pub. L. 101–549, §201(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “During the period of June 1 through December 31, 1978, in the case of hydrocarbons and carbon monoxide, or during the period of June 1 through December 31, 1980, in the case of oxides of nitrogen, and during each period of June 1 through December 31 of each third year thereafter, the Administrator may, after notice and opportunity for a public hearing promulgate regulations revising any standard prescribedas provided in subparagraph (A)(ii) for any class or category of heavy-duty vehicles or engines. Such standard shall apply only for the period of three model years beginning four model years after the model year in which such revised standard is promulgated. In revising any standard under this subparagraph for any such three model year period, the Administrator shall determine the maximum degree of emission reduction which can be achieved by means reasonably expected to be available for production of such period and shall prescribe a revised emission standard in accordance with such determination. Such revised standard shall require a reduction of emissions from any standard which applies in the previous model year.”
 
 Subsec. (a)(3)(C). Pub. L. 101–549, §201(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “Action revising any standard for any period may be taken by the Administrator under subparagraph (B) only if he finds—
 
@@ -602,7 +576,7 @@ Subsec. (b)(3). Pub. L. 101–549, §230(4), redesignated par. (6) relating to w
 
 Subsec. (b)(3)(B). Pub. L. 101–549, §230(1), in the par. (3) defining terms for purposes of this part struck out subpar. (B) which defined “light duty vehicles and engines”.
 
-Subsec. (b)(4). Pub. L. 101–549, §230(2), struck out par. (4) which read as follows: “On July 1 of 1971, and of each year thereafter, the Administrator shall report to the Congress with respect to the development of systems necessary to implement the emission standards established pursuant to this section. Such reports shall include information regarding the continuing effects of such air pollutants subject to standards under this section on the public health and welfare, the extent and progress of efforts being made to develop the necessary systems, the costs associated with development and application of such systems, and following such hearings as he may deem advisable, any recommendations for additional congressional action necessary to achieve the purposes of this chapter. In gathering information for the purposes of this paragraph and in connection with any hearing, the provisions of section 7607(a) of this title (relating to subpenas) shall apply.”
+Subsec. (b)(4). Pub. L. 101–549, §230(2), struck out par. (4) which read as follows: “On July 1 of 1971, and of each year thereafter, the Administrator shall report to the Congress with respect to the development of systems necessary to implement the emission standards established pursuant to this section. Such reports shall include information regarding the continuing effects of such air pollutants subject to standards under this section on the public health and welfare, the extent and progress of efforts being made to develop the necessary systems, the costs associated with development and application of such systems, and following such hearings as he may deem advisable, any recommendations for additional congressional action necessary to achieve the purposes of this chapter. In gathering informationfor the purposes of this paragraph and in connection with any hearing, the provisions of section 7607(a) of this title (relating to subpenas) shall apply.”
 
 Subsec. (b)(5). Pub. L. 101–549, §230(3), struck out par. (5) which related to waivers for model years 1981 and 1982 of the effective date of the emissions standard required under par. (1)(A) for carbon monoxide applicable to light-duty vehicles and engines manufactured in those model years.
 

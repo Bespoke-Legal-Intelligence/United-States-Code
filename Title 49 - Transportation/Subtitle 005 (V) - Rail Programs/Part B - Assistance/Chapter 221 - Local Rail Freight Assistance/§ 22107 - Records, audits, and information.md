@@ -14,7 +14,7 @@ Records.—Each recipient of financial assistance through an arrangement under t
 
 (b)
 
-Audits.—The Secretary and the Comptroller General shall make regular financial and performance audits, as provided under chapter 75 of title 31, of activities and transactions assisted under this chapter.
+Audits.—The Secretary shall make regular financial and performance audits, as provided under chapter 75 of title 31, of activities and transactions assisted under this chapter.
 
 (c)
 
@@ -24,11 +24,13 @@ Information.—The Surface Transportation Board shall provide the Secretary with
 
 List of Rail Lines.—Not later than August 1 of each year, each rail carrier subject to part A of subtitle IV of this title shall submit to the Secretary a list of the rail lines of the carrier that carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 898; Pub. L. 104–88, title III, §308(f)(4), (5), Dec. 29, 1995, 109 Stat. 947.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 898; Pub. L. 104–88, title III, §308(f)(4), (5), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–316, title I, §127(c), Oct. 19, 1996, 110 Stat. 3840.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -38,7 +40,7 @@ Historical and Revision Notes
 
 49 App.:1654(k)(1).
 
-Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(k)–(m); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102–106(a), 107–109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1847.
+Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(k)–(m); added Feb. 5, 1976, Pub. L. 94–210, §803, 90 Stat. 130; Nov. 8, 1978, Pub. L. 95–607, §§102–106(a), 107– 109(a), 92 Stat. 3059, 3062; Oct. 12, 1979, Pub. L. 96–86, §115(b), 93 Stat. 662; Aug. 13, 1981, Pub. L. 97–35, §§1191, 1192, 95 Stat. 699; Jan. 14, 1983, Pub. L. 97–468, §501, 96 Stat. 2551; Apr. 7, 1986, Pub. L. 99–272, §4018, 100 Stat. 111; restated Dec. 11, 1989, Pub. L. 101–213, §2(a), (c), 103 Stat. 1843, 1847.
 
 22107(b)
 
@@ -46,7 +48,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(k)–(m); added Feb. 5, 1976,
 
 22107(c)
 
-49 App.:1654(<i>l).</i>
+49 App.:1654(<i>l</i>).
 
 22107(d)
 
@@ -59,6 +61,8 @@ Subsection (b) is substituted for 49 App.:1654(k)(2) and (3) because of 31:ch. 7
 In subsection (d), the words “Not later than” are substituted for “On or before” for clarity. The word “submit” is substituted for “prepare, update, and submit” to eliminate unnecessary words. The words “based on level of usage” are omitted as surplus.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary”.
 
 1995—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
 

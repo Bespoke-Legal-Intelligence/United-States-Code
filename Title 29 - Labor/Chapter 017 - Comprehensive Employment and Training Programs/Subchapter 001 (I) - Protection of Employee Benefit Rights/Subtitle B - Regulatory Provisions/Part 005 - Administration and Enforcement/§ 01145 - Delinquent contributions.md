@@ -1,6 +1,6 @@
 ### §1145. Delinquent contributions
 
-Every employer who is obligated to make contributions to a multiemployer plan under theterms of the plan or under the terms of a collectively bargained agreement shall, to the extent not inconsistent with law, make such contributions in accordance with the terms and conditions of such plan or such agreement.
+Every employer who is obligated to make contributions to a multiemployer plan under the terms of the plan or under the terms of a collectively bargained agreement shall, to the extent not inconsistent with law, make such contributions in accordance with the terms and conditions of such plan or such agreement.
 
 (Pub. L. 93–406, title I, §515, as added Pub. L. 96–364, title III, §306(a), Sept. 26, 1980, 94 Stat. 1295.)
 

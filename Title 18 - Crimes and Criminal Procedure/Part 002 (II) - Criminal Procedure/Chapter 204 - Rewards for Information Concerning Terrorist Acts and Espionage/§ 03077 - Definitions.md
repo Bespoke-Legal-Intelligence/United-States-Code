@@ -40,17 +40,19 @@ As used in this chapter, the term—
 
 &emsp;(8) “act of espionage” means an activity that is a violation of—
 
-&emsp;&emsp;(A) section 793, 794, or 798 of title 18, United States Code; or
+&emsp;&emsp;(A) section 793, 794, or 798 of this title; or
 
 &emsp;&emsp;(B) section 4 of the Subversive Activities Control Act of 1950.
 
-(Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439.)
+(Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, §605(g), Oct. 11, 1996, 110 Stat. 3510.)
 
 #### References in Text
 
 Section 4 of the Subversive Activities Control Act of 1950, referred to in par. (8)(B), is classified to section 783 of Title 50, War and National Defense.
 
 #### Amendments
+
+1996—Par. (8)(A). Pub. L. 104–294 substituted “this title” for “title 18, United States Code”.
 
 1994—Par. (1)(B)(iii). Pub. L. 103–322 substituted “kidnapping” for “kidnaping”.
 

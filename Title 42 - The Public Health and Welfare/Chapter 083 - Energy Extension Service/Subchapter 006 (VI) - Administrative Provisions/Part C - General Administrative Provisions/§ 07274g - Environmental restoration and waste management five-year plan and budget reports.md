@@ -34,7 +34,7 @@
 
 &emsp;(L) Such other matters as the Secretary finds appropriate and in the public interest.
 
-(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
+(5) The Secretary shall consult with the Administrator of the Environmental ProtectionAgency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
 
 (6) The first annual five-year plan issued pursuant to this section shall be issued in 1992.
 

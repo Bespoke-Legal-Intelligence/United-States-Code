@@ -2,17 +2,17 @@
 
 #### (a) Authorization of reward
 
-(1) The Secretary of State may pay a reward to any individual who furnishes information—
+(1) The Secretary of State shall establish and publicize a program under which rewards may be paid to any individual who furnishes information—
 
 &emsp;(A) leading to the arrest or conviction, in any country, of any individual for the commission of an act of international terrorism, or
 
-&emsp;(B) leading to the arrest or conviction, in any country, of any individual for conspiring or attempting to commit an act of international terrorism, or
+&emsp;(B) leading to the arrest or conviction, in any country, of any individual for conspiringor attempting to commit an act of international terrorism, or
 
 &emsp;(C) leading to the prevention, frustration, or favorable resolution of an act of international terrorism,
 
 > if the act of international terrorism is against a United States person or United States property.
 
-(2) For purposes of this subsection, the term “act of international terrorism” includes any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in section 830(8) of the Nuclear Proliferation Prevention Act of 1994) or any nuclear explosive device (as defined in section 830(4) of that Act) by an individual, group, or non-nuclear-weapon state (as defined in section 830(5) of that Act).
+(2) For purposes of this subsection, the term “act of international terrorism” includes any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in section 6305(8) of this title) or any nuclear explosive device (as defined in section 6305(4) of this title) by an individual, group, or non-nuclear-weapon state (as defined in section 6305(5) of this title).
 
 #### (b) Rewards for information relating to international narcoterrorism and drug trafficking
 
@@ -86,15 +86,9 @@ As used in this section—
 
 &emsp;&emsp;(C) any other person living in the individual's household and related to the individual by blood or marriage.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; amended Aug. 27, 1986, Pub. L. 99–399, title V, §502, 100 Stat. 869; Nov. 18, 1988, Pub. L. 100–690, title IV, §4602, 102 Stat. 4287; Dec. 13, 1989, Pub. L. 101–231, §13(a), 103 Stat. 1963; Feb. 16, 1990, Pub. L. 101–246, title X, §1001, 104 Stat. 86; Apr. 30, 1994, Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, 108 Stat. 395, 519.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
+(Aug. 1, 1956, ch. 841, title I, §36, as added Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; amended Aug. 27, 1986, Pub. L. 99–399, title V, §502, 100 Stat. 869; Nov. 18, 1988, Pub. L. 100–690, title IV, §4602, 102 Stat. 4287; Dec. 13, 1989, Pub. L. 101–231, §13(a), 103 Stat. 1963; Feb. 16, 1990, Pub. L. 101–246, title X, §1001, 104 Stat. 86; Apr. 30, 1994, Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, 108 Stat. 395, 519; Apr. 26, 1996, Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], 110 Stat. 1321, 1321–45; renumbered title I, May 2, 1996, Pub. L. 104–140, §1(a), 110 Stat. 1327.)
 
 #### References in Text
-
-Section 830 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (a)(2), is section 830 of Pub. L. 103–236 which is set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
 
 The Controlled Substances Act, referred to in subsec. (i), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
@@ -104,9 +98,11 @@ A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236, §§827, 851, temporarily designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2). See Effective and Termination Dates of 1994 Amendment note below.
+1996—Subsec. (a)(1). Pub. L. 104–134 which directed substitution of “shall establish and publicize a program under which rewards may be paid” for “may pay a reward” in section 36(a)(1) of the State Department Authorities Act of 1956 was executed to subsec. (a)(1) of this section, section 36(a)(1) of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
-Pub. L. 103–236, §133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the UnitedStates” after “United States property” in concluding provisions.
+1994—Subsec. (a). Pub. L. 103–236, §827, designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+
+Pub. L. 103–236, §133(a)(1), struck out “and is primarily outside the territorial jurisdiction of the United States” after “United States property” in concluding provisions.
 
 1990—Subsec. (c). Pub. L. 101–246, which directed amendment of subsec. (c) by substituting “$2,000,000” for “$500,000”, could not be executed because “$500,000” did not appear after execution of the amendment by Pub. L. 101–231. See 1989 Amendment note below.
 
@@ -126,9 +122,9 @@ Subsec. (g). Pub. L. 99–399, §502(a)(1), (b), redesignated former subsec. (f)
 
 Subsecs. (h), (i). Pub. L. 99–399, §502(d), added subsecs. (h) and (i).
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1994 Amendment
 
-Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Avoiding Duplicative Amendments
 

@@ -8,7 +8,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 1993—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in two places.
 
-1992—Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before period at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
+1992—Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” andstruck out before period at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
 
 #### Effective Date
 

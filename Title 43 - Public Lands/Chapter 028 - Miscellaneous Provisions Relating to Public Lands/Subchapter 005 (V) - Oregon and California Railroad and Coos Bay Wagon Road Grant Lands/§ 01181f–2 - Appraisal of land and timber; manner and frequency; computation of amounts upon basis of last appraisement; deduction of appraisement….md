@@ -6,5 +6,5 @@ Appraisals of the land and timber thereon shall be made, in the manner prescribe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1181f–1 of this title.
+This section is referred to in sections 869–4, 1181f–1 of this title.
 

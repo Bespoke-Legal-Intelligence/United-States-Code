@@ -48,7 +48,7 @@ Section 825(a) of Pub. L. 100–456 provided that: “Congress makes the followi
 
 &emsp;&emsp;“(C) to invest a specified amount in domestic businesses of such foreign countries.
 
-> &emsp;Such contractual arrangements, known as ‘offsets’, are a component of international trade and could have an impact on United States defense industry opportunities in domestic and foreign markets.
+> &emsp;Such contractual arrangements, known as ‘offsets’, are a component of international trade and couldhave an impact on United States defense industry opportunities in domestic and foreign markets.
 
 &emsp;“(2) Some United States contractors and subcontractors may be adversely affected by such contractual arrangements.
 

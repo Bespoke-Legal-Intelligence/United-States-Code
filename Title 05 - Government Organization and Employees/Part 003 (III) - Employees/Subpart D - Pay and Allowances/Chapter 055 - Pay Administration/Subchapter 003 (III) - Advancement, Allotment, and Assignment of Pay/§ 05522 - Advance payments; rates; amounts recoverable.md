@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3072.
 
@@ -34,7 +36,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
+1980—Subsec. (a). Pub. L. 96–465, §2303(a), substituted “departure” for “evacuation”, substituted “is officially authorized or ordered” for “is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family”, and added pars. (1) and (2).
 
 Subsec. (b). Pub. L. 96–465, §2303(b), substituted “departure” for “evacuation” after “issuance of the”.
 

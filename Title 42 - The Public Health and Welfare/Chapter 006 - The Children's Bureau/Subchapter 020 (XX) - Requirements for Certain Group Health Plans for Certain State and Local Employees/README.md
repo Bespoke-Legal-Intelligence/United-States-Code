@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1396a, 1396e of this title.
+This subchapter is referred to in sections 300gg–91, 1396a, 1396e of this title; title 29 section 1191b.
 
 
 ---

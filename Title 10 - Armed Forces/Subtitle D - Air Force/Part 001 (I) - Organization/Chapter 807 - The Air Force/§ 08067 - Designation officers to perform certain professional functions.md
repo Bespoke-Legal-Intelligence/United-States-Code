@@ -32,7 +32,11 @@ Act
 
 8067(a)
 
+&nbsp;
+
 8067(b)
+
+&nbsp;
 
 8067(c)
 
@@ -128,5 +132,5 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8036, 8081, 8579, 8848, 16201 of this title.
+This section is referred to in sections 8081, 8579, 16201 of this title.
 

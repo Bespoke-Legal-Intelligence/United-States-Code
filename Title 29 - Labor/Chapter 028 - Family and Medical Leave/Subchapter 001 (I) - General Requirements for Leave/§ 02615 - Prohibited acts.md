@@ -24,5 +24,5 @@ It shall be unlawful for any person to discharge or in any other manner discrimi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2617 of this title; title 2 section 1312.
+This section is referred to in section 2617 of this title; title 2 section 1312; title 3 section 412.
 

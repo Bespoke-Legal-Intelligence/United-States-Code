@@ -1,6 +1,10 @@
 ### §2302. Prohibited personnel practices
 
-(a)(1) For the purpose of this title, “prohibited personnel practice” means any action described in subsection (b) of this section.
+(a)(1) For purposes of this title, “prohibited personnel practice” means the following:
+
+&emsp;(A) Any action described in subsection (b) of this section.
+
+&emsp;(B) Any action or failure to act that is designated as a prohibited personnel action under section 1599c(a) of title 10.
 
 (2) For the purpose of this section—
 
@@ -40,7 +44,7 @@
 
 &emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the Central Imagery Office, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(iii) the General Accounting Office.
 
@@ -58,7 +62,11 @@
 
 &emsp;&emsp;(E) on the basis of marital status or political affiliation, as prohibited under any law, rule, or regulation;
 
-&emsp;(2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action except as provided under section 3303(f);
+&emsp;(2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
+
+&emsp;&emsp;(A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
+
+&emsp;&emsp;(B) an evaluation of the character, loyalty, or suitability of such individual;
 
 &emsp;(3) coerce the political activity of any person (including the providing of any political contribution or service), or take any action against any employee or applicant for employment as a reprisal for the refusal of any person to engage in such political activity;
 
@@ -78,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
-> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
+> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order tobe kept secret in the interest of national defense or the conduct of foreign affairs; or
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
@@ -102,7 +110,7 @@
 
 > This subsection shall not be construed to authorize the withholding of information from the Congress or the taking of any personnel action against an employee who discloses information to the Congress.
 
-(c) The head of each agency shall be responsible for the prevention of prohibited personnelpractices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
+(c) The head of each agency shall be responsible for the prevention of prohibited personnel practices, for the compliance with and enforcement of applicable civil service laws, rules, and regulations, and other aspects of personnel management, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title. Any individual to whom the head of an agency delegates authority for personnel management, or for any aspect thereof, shall be similarly responsible within the limits of the delegation.
 
 (d) This section shall not be construed to extinguish or lessen any effort to achieve equal employment opportunity through affirmative action or any right or remedy available to any employee or applicant for employment in the civil service under—
 
@@ -116,7 +124,7 @@
 
 &emsp;(5) the provisions of any law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741.)
 
 #### References in Text
 
@@ -124,7 +132,13 @@ The civil service laws, referred to in subsec. (c), are set out in this title. S
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–424, §5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
+1996—Subsec. (a)(1). Pub. L. 104–201, §1615(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of this title, ‘prohibited personnel practice’ means any action described in subsection (b) of this section.”
+
+Subsec. (a)(2)(C)(ii). Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+
+Subsec. (b)(2). Pub. L. 104–197 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action except as provided under section 3303(f);”.
+
+1994—Subsec. (a)(2)(A). Pub. L. 103–424, §5(a)(3), in concluding provisions, inserted before semicolon “, and in the case of an alleged prohibited personnel practice described in subsection (b)(8), an employee or applicant for employment in a Government corporation as defined in section 9101 of title 31”.
 
 Subsec. (a)(2)(A)(x), (xi). Pub. L. 103–424, §5(a)(1), (2), added cls. (x) and (xi) and struck out former cl. (x) which read as follows: “any other significant change in duties or responsibilities which is inconsistent with the employee's salary or grade level;”.
 
@@ -140,19 +154,25 @@ Subsec. (a)(2)(C)(ii). Pub. L. 103–359 inserted “the Central Imagery Office,
 
 Subsec. (c). Pub. L. 103–424, §5(d), inserted before period at end of first sentence “, and for ensuring (in consultation with the Office of Special Counsel) that agency employees are informed of the rights and remedies available to them under this chapter and chapter 12 of this title”.
 
-<b>1993</b>—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
+1993—Subsec. (b)(2). Pub. L. 103–94 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
 &emsp;“(A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
 
 &emsp;“(B) an evaluation of the character, loyalty, or suitability of such individual;”.
 
-<b>1992</b>—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
+1992—Subsec. (b)(8)(B). Pub. L. 102–378 substituted “Special Counsel” for “Special Counsel of the Merit Systems Protection Board”.
 
-<b>1990</b>—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+1990—Subsec. (a)(2)(C). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
-<b>1989</b>—Subsec. (b)(8). Pub. L. 101–12, §4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
+1989—Subsec. (b)(8). Pub. L. 101–12, §4(a), in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
 
 Subsec. (b)(9). Pub. L. 101–12, §4(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
+
+#### Effective Date of 1996 Amendments
+
+Amendment by section 1122(a)(1) of Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
+
+Section 315(c) of Pub. L. 104–197 provided that: “This section \[amending this section and section 3303 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Sept. 16, 1996\].”
 
 #### Effective Date of 1993 Amendment; Savings Provision
 
@@ -164,5 +184,5 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 571, 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 22 sections 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
+This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 sections 1599c, 1612; title 22 sections 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331.
 

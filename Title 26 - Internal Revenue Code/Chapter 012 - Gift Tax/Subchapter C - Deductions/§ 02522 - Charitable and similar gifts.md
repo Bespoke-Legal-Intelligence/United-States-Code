@@ -16,7 +16,7 @@ In computing taxable gifts for the calendar year, there shall be allowed as a de
 
 #### (b) Nonresidents
 
-In the case of a nonresident not a citizen of the United States, there shall be allowed as adeduction the amount of all gifts made during such year to or for the use of—
+In the case of a nonresident not a citizen of the United States, there shall be allowed as a deduction the amount of all gifts made during such year to or for the use of—
 
 &emsp;(1) the United States, any State, or any political subdivision thereof, or the District of Columbia, for exclusively public purposes;
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(d)(3) of Pub. L. 91–172 applicable to gifts made after Dec. 31, 1969, except that the amendment of par. (2) of subsec. (c) applicable to gifts made after July 31, 1969, see section 201(g)(4)(D) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(d)(3) of Pub. L. 91–172 applicable to gifts made after Dec. 31, 1969, except thatthe amendment of par. (2) of subsec. (c) applicable to gifts made after July 31, 1969, see section 201(g)(4)(D) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 201(d)(4)(C), (D) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4)(E) of Pub. L. 91–172, set out as a note under section 170 of this title.
 

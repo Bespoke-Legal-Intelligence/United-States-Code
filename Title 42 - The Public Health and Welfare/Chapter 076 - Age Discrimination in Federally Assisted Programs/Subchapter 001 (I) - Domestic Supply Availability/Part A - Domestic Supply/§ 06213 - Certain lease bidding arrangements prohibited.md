@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of rule by Secretary of the Interior
 
-The Secretary of the Interior shall, not later than 30 days after December 22, 1975, prescribe and make effective a rule which prohibits the bidding for any right to develop crude oil, natural gas, and natural gas liquids on any lands located on the Outer Continental Shelf by any person if more than one major oil company, more than one affiliate of a major oil company, or a major oil company and any affiliate of a major oil company, has or have a significant ownership interest in such person. Such rule shall define affiliate relationships and significant ownership interests.
+The Secretary of the Interior shall, not later than 30 days after December 22, 1975, prescribe and make effective a rule which prohibits thebidding for any right to develop crude oil, natural gas, and natural gas liquids on any lands located on the Outer Continental Shelf by any person if more than one major oil company, more than one affiliate of a major oil company, or a major oil company and any affiliate of a major oil company, has or have a significant ownership interest in such person. Such rule shall define affiliate relationships and significant ownership interests.
 
 #### (b) Definitions
 
@@ -44,7 +44,7 @@ The Secretary shall study and report to the Congress, not later than 6 months af
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases and to implementationof alternative bidding systems authorized for award of Federal leases transferred to Secretary of Energy by section 7152(b) of this title. Section 7152(b) of this title repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases and to implementation of alternative bidding systems authorized for award of Federal leases transferred to Secretary of Energy by section 7152(b) of this title. Section 7152(b) of this title repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 #### Section Referred to in Other Sections
 

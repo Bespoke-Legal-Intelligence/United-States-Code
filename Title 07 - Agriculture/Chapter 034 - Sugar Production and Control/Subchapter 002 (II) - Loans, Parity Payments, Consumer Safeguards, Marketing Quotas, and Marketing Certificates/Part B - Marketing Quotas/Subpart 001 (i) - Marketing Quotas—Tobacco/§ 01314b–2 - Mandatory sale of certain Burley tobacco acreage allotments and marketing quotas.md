@@ -2,7 +2,7 @@
 
 #### (a) Sale or forfeiture of marketing quota by institutional farmowners not later than the later of December 1, 1984, or December 1 of year after year in which farm acquired
 
-Any person (including, but not limited to, any governmental entity, public utility, educationalinstitution, or religious institution, but not including any individual) which, on or after July 20, 1982—
+Any person (including, but not limited to, any governmental entity, public utility, educational institution, or religious institution, but not including any individual) which, on or after July 20, 1982—
 
 &emsp;(1) owns a farm for which a Burley tobacco marketing quota is established under this chapter; and
 

@@ -23,9 +23,9 @@
 | [179\.](%C2%A7%2000179%20-%20Election%20to%20expense%20certain%20depreciable%20business%20assets.md) | Election to expense certain depreciable business assets. |
 | [179A.](%C2%A7%2000179A%20-%20Deduction%20for%20clean-fuel%20vehicles%20and%20certain%20refueling%20property.md) | Deduction for clean-fuel vehicles and certain refueling property. |
 | [180\.](%C2%A7%2000180%20-%20Expenditures%20by%20farmers%20for%20fertilizer%2C%20etc.md) | Expenditures by farmers for fertilizer, etc. |
-| \[181, 182. | Repealed.\] |
+| \[181, 182. | Repealed.\] |
 | [183\.](%C2%A7%2000183%20-%20Activities%20not%20engaged%20in%20for%20profit.md) | Activities not engaged in for profit. |
-| \[184, 185. | Repealed.\] |
+| \[184, 185. | Repealed.\] |
 | [186\.](%C2%A7%2000186%20-%20Recoveries%20of%20damages%20for%20antitrust%20violations%2C%20etc.md) | Recoveries of damages for antitrust violations, etc. |
 | \[187 to 189. Repealed.\] |  |
 | [190\.](%C2%A7%2000190%20-%20Expenditures%20to%20remove%20architectural%20and%20transportation%20barriers%20to%20the%20handicapped%20and%20elderly.md) | Expenditures to remove architectural and transportation barriers to the handicapped and elderly. |
@@ -75,7 +75,7 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 
 1977—Pub. L. 95–30, title IV, §402(a)(4), May 23, 1977, 91 Stat. 155, struck out “on-the-job training and” after “certain expenditures for” in item 188.
 
-1976—Pub. L. 94–455, title II, §201(b), title XIX, §§1901(b)(11)(B), 1951(c)(2)(D), title XXI, §§2122(b)(1), 2124(a)(3)(A), Oct. 4, 1976, 90 Stat. 1527, 1795, 1841, 1915, 1917, struck out item 168 “Amortization of emergencyfacilities” and item 187 “Amortization of certain coal mine safety equipment” and added items 189, 190, and 191.
+1976—Pub. L. 94–455, title II, §201(b), title XIX, §§1901(b)(11)(B), 1951(c)(2)(D), title XXI, §§2122(b)(1), 2124(a)(3)(A), Oct. 4, 1976, 90 Stat. 1527, 1795, 1841, 1915, 1917, struck out item 168 “Amortization of emergency facilities” and item 187 “Amortization of certain coal mine safety equipment” and added items 189, 190, and 191.
 
 1971—Pub. L. 92–178, title III, §303(c)(6), Dec. 10, 1971, 85 Stat. 522, added item 188.
 

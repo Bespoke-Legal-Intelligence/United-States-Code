@@ -2,31 +2,7 @@
 
 #### (a) Disclosure to applicant relating to assignment, sale, or transfer of loan servicing
 
-#### (1) In general
-
-&emsp;Each person who makes a federally related mortgage loan shall disclose to each person who applies for any such loan, at the time of application for the loan—
-
-&emsp;&emsp;(A) whether the servicing of any such loan may be assigned, sold, or transferred to any other person at any time while such loan is outstanding;
-
-&emsp;&emsp;(B) at the choice of the person making a federally related mortgage loan—
-
-&emsp;&emsp;&emsp;(i) for each of the most recent 3 calendar years completed (at the time of such application), the percentage (rounded to the nearest quartile) of loans made by such person for which the servicing has been assigned, sold, or transferred as of the end of the most recent calendar year completed, except that—
-
-&emsp;&emsp;&emsp;&emsp;(I) for any loan application during the 12-month period beginning on November 28, 1990, the information disclosed under this subparagraph may be for only the most recent calendar year completed, and for any loan application during the 12-month period beginning 1 year after November 28, 1990, the information disclosed under this subparagraph may be for the most recent 2 calendar years completed; and
-
-&emsp;&emsp;&emsp;&emsp;(II) this subparagraph may not be construed to require the inclusion, in the percentage disclosed, of any loans the servicing of which has been assigned, sold, or transferred by the person making the loan to a transferee servicer that is an affiliate or subsidiary of such person; or
-
-&emsp;&emsp;&emsp;(ii) a statement that the person making the loan has previously assigned, sold, or transferred the servicing of federally related mortgage loans; and
-
-&emsp;&emsp;(C) if the person who makes the loan does not engage in the servicing of any federally related mortgage loans, that there is a present intent on the part of such person (at the time of such application) to assign, sell, or transfer the servicing of such loan to another person.
-
-#### (2) Model disclosure statements
-
-&emsp;Not later than 90 days after November 28, 1990, the Secretary shall develop a model disclosure statement for notification to applicants under paragraph (1) with respect to servicing procedures, transfer practices and requirements, and complaint resolution. The model statement shall provide for the person originating the loan to disclose their capacity to service loans and the best available estimate of the percentage of all loans made by such person for which the servicing will be assigned, sold, or transferred during the 12-month period beginning upon the origination. The estimate shall be expressed as one of the following range of possibilities—between 0 and 25 percent, between 26 and 50 percent, between 51 and 75 percent, or between 76 and 100 percent. This paragraph may not be construed to require the inclusion, in the estimate disclosed, of any loans the servicing of which will be assigned, sold, or transferred by the person originating the loan to a transferee servicer that is an affiliate or subsidiary of such person.
-
-#### (3) Signature of applicant
-
-&emsp;Any disclosure of the information required under paragraph (1) shall not be effective forpurposes of this section unless the disclosure is accompanied by a written statement, in such form as the Secretary shall develop before the expiration of the 90-day period beginning on November 28, 1990, that the applicant has read and understood the disclosure and that is evidenced by the signature of the applicant at the place where such statement appears in the application.
+Each person who makes a federally related mortgage loan shall disclose to each person who applies for the loan, at the time of application for the loan, whether the servicing of the loan may be assigned, sold, or transferred to any other person at any time while the loan is outstanding.
 
 #### (b) Notice by transferor of loan servicing at time of transfer
 
@@ -224,13 +200,15 @@ For purposes of this section:
 
 &emsp;The Secretary shall, by regulations that shall take effect not later than April 20, 1991, establish any requirements necessary to carry out this section. Such regulations shall include the model disclosure statement required under subsection (a)(2) of this section.
 
-(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239.)
+(Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399.)
 
 #### Prior Provisions
 
 A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, related to advanced itemized disclosure of settlement costs by the lender and liability of the lender for failure to comply, prior to repeal by Pub. L. 94–205, §5, Jan. 2, 1976, 89 Stat. 1158.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–208 amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) to (3) relating to requirements for lenders of federally related mortgage loans to disclose to applicants whether servicing of such loan may be assigned, sold, or transferred, directed Secretary to develop model disclosure statement, and required signature of applicant on all such disclosure statements.
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–325 substituted “(B) at the choice of the person making a federally related mortgage loan—
 
@@ -242,5 +220,5 @@ A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, relat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2609, 2610 of this title; title 15 section 1641.
+This section is referred to in sections 2609, 2610, 2614 of this title; title 15 section 1641.
 

@@ -1,0 +1,112 @@
+### §1785. Fossil Forest Research Natural Area
+
+#### (a) Establishment
+
+To conserve and protect natural values and to provide scientific knowledge, education, and interpretation for the benefit of future generations, there is established the Fossil Forest Research Natural Area (referred to in this section as the “Area”), consisting of the approximately 2,770 acres in the Farmington District of the Bureau of Land Management, New Mexico, as generally depicted on a map entitled “Fossil Forest”, dated June 1983.
+
+#### (b) Map and legal description
+
+#### (1) In general
+
+&emsp;As soon as practicable after November 12, 1996, the Secretary of the Interior shall file a map and legal description of the Area with the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+
+#### (2) Force and effect
+
+&emsp;The map and legal description described in paragraph (1) shall have the same force and effect as if included in this Act.
+
+#### (3) Technical corrections
+
+&emsp;The Secretary of the Interior may correct clerical, typographical, and cartographical errors in the map and legal description subsequent to filing the map pursuant to paragraph (1).
+
+#### (4) Public inspection
+
+&emsp;The map and legal description shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior.
+
+#### (c) Management
+
+#### (1) In general
+
+&emsp;The Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall manage the Area—
+
+&emsp;&emsp;(A) to protect the resources within the Area; and
+
+&emsp;&emsp;(B) in accordance with this Act, the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.), and other applicable provisions of law.
+
+#### (2) Mining
+
+#### (A) Withdrawal
+
+&emsp;&emsp;Subject to valid existing rights, the lands within the Area are withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing, geothermal leasing, and mineral material sales.
+
+#### (B) Coal preference rights
+
+&emsp;&emsp;The Secretary of the Interior is authorized to issue coal leases in New Mexico in exchange for any preference right coal lease application within the Area. Such exchanges shall be made in accordance with applicable existing laws and regulations relating to coal leases after a determination has been made by the Secretary that the applicant is entitled to a preference right lease and that the exchange is in the public interest.
+
+#### (C) Oil and gas leases
+
+&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 oftitle 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretary of the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
+
+#### (3) Grazing
+
+&emsp;Livestock grazing on lands within the Area may not be permitted.
+
+#### (d) Inventory
+
+Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventory of all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
+
+#### (e) Management plan
+
+#### (1) In general
+
+&emsp;Not later than 5 years after November 12, 1996, the Secretary of the Interior shall develop and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a management plan that describes the appropriate use of the Area consistent with this Act.
+
+#### (2) Contents
+
+&emsp;The management plan shall include—
+
+&emsp;&emsp;(A) a plan for the implementation of a continuing cooperative program with other agencies and groups for—
+
+&emsp;&emsp;&emsp;(i) laboratory and field interpretation; and
+
+&emsp;&emsp;&emsp;(ii) public education about the resources and values of the Area (including vertebrate fossils);
+
+&emsp;&emsp;(B) provisions for vehicle management that are consistent with the purpose of the Area and that provide for the use of vehicles to the minimum extent necessary to accomplish an individual scientific project;
+
+&emsp;&emsp;(C) procedures for the excavation and collection of fossil remains, including botanical fossils, and the use of motorized and mechanical equipment to the minimum extent necessary to accomplish an individual scientific project; and
+
+&emsp;&emsp;(D) mitigation and reclamation standards for activities that disturb the surface to the detriment of scenic and environmental values.
+
+(Pub. L. 98–603, title I, §103, Oct. 30, 1984, 98 Stat. 3156; Pub. L. 104–333, div. I, title X, §1022(e), Nov. 12, 1996, 110 Stat. 4213.)
+
+#### References in Text
+
+This Act, referred to in subsecs. (b)(2), (c)(1)(B), and (e)(1), is Pub. L. 98–603, Oct. 30, 1984, 98 Stat. 3155, as amended, known as the San Juan Basin Wilderness Protection Act of 1984. For complete classification of this Act to the Code, see Tables.
+
+The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+The mining laws, referred to in subsec. (c)(2)(A), are classified generally to Title 30, Mineral Lands and Mining.
+
+Mineral leasing laws, referred to in subsec. (c)(2)(A), have been defined in sections 351, 505, 530, and 541e of Title 30 to mean acts Oct. 20, 1914, ch. 330, 38 Stat. 741; Feb. 25, 1920, ch. 85, 41 Stat. 437; Apr. 17, 1926, ch. 158, 44 Stat. 301; and Feb. 7, 1927, ch. 66, 44 Stat. 1057. The act of Oct. 20, 1914, was repealed by Pub. L. 86–252, §1, Sept. 9, 1959, 73 Stat. 490. The act of Feb. 25, 1920, is known as the Mineral Leasing Act and is classified generally to chapter 3A (§181 et seq.) of Title 30. The act of Apr. 17, 1926, is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of Title 30. The act of Feb. 7, 1927, is classified principally to subchapter IX (§281 et seq.) of chapter 3A of Title 30. For complete classification of these Acts to the Code, see Tables.
+
+Geothermal leasing laws, referred to in subsec. (c)(2)(A), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+
+#### Codification
+
+November 12, 1996, referred to in subsec. (e)(1), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–333, which amended this section generally, to reflect the probable intent of Congress.
+
+Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1984, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### Amendments
+
+1996—Pub. L. 104–333 amended section generally. Prior to amendment, section read as follows:
+
+“(a) In recognition of its paramount aesthetic, natural, scientific, educational, and paleontological values, the approximately two thousand seven hundred and twenty acre area in the Albuquerque District of the Bureau of Land Management, New Mexico, known as the ‘Fossil Forest’, as generally depicted on a map entitled ‘Fossil Forest’, dated June 1983, is hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing and geothermal leasing and all amendments thereto. The Secretary of the Interior shall administer the area in accordance with the Federal Land Policy and Management Act and shall take such measures as are necessary to ensure that no activities are permitted within the area which would significantly disturb the land surface or impair the area's existing natural, educational, and scientific research values, including paleontological study, excavation, and interpretation.
+
+“(b) Within one year of October 30, 1984, the Secretary of the Interior shall promulgate rules and regulations for the administration of the Fossil Forest area referred to in subsection (a) of this section in accordance with the provisions of this Act and shall file a copy of such rules and regulations with the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
+
+“(c) The Bureau of Land Management is hereby directed to conduct a long-range study of the Fossil Forest to determine how best to manage the area's resource values identified in subsection (a) of this section. Within eight years of October 30, 1984, the Secretary shall forward the study results and management plan for the area to Congress. During the study period and until Congress determines otherwise, the Fossil Forest area shall be managed under the provisions of this Act.”
+
+#### Change of Name
+
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+

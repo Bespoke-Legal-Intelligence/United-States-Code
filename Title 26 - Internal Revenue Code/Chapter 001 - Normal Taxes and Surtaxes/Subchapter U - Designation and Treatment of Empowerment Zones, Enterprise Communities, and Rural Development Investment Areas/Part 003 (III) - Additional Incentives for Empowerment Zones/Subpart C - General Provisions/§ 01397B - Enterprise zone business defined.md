@@ -78,7 +78,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any trade or business consisting of the operation of any facility described in section 144(c)(6)(B), and
 
-&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the preceding taxable year, the sum of—
+&emsp;&emsp;(B) any trade or business the principal activity of which is farming (within the meaning of subparagraphs <sup>1</sup> (A) or (B) of section 2032A(e)(5)), but only if, as of the close of the taxable year, the sum of—
 
 &emsp;&emsp;&emsp;(i) the aggregate unadjusted bases (or, if greater, the fair market value) of the assets owned by the taxpayer which are used in such a trade or business, and
 
@@ -96,7 +96,15 @@ For purposes of this section, the term “nonqualified financial property” mea
 
 &emsp;(2) debt instruments described in section 1221(4).
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 552; amended Pub. L. 104–188, title I, §1703(m), Aug. 20, 1996, 110 Stat. 1877.)
+
+#### Amendments
+
+1996—Subsec. (d)(5)(B). Pub. L. 104–188 struck out “preceding” before “taxable year” in introductory provisions.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Section Referred to in Other Sections
 

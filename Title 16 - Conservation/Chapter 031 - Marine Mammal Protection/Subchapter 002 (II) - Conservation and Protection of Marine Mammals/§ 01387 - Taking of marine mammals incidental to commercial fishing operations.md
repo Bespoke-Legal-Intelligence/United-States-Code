@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(iii) a remote likelihood of or no known incidental mortality or serious injury of marine mammals;
 
-&emsp;(B) after the close of the period for such public comment, publish in the Federal Register a revised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
+&emsp;(B) after the close of the period for such public comment, publish in the Federal Register arevised list of commercial fisheries and an update of information required by subparagraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an authorization and otherwise comply with the requirements of this section; and
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
@@ -82,7 +82,7 @@
 
 (C) The owner and master of a vessel which fails to comply with a take reduction plan shall be subject to the penalties of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title.
 
-(5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated andcoordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
+(5)(A) The Secretary shall develop, in consultation with the appropriate States, affected Regional Fishery Management Councils, and other interested persons, the means by which the granting and administration of authorizations under this section shall be integrated and coordinated, to the maximum extent practicable, with existing fishery licenses, registrations, and related programs.
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
@@ -228,9 +228,9 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determinesare necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
-&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of thissection, in accordance with the procedures in this section for the issuance of such plans and regulations.
+&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
 (9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
@@ -310,7 +310,7 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 As used in this section and section 1371(a)(5)(E) of this title, each of the terms “fishery” and “vessel of the United States” has the same meaning it does in section 1802 of this title.
 
-(Pub. L. 92–522, title I, §118, as added Pub. L. 103–238, §11, Apr. 30, 1994, 108 Stat. 546.)
+(Pub. L. 92–522, title I, §118, as added Pub. L. 103–238, §11, Apr. 30, 1994, 108 Stat. 546; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
@@ -319,6 +319,14 @@ The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (
 Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+1996—Subsecs. (a)(1), (c)(2)(B)(ii), (<i>l</i>). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802 and 1824(b) of this title.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

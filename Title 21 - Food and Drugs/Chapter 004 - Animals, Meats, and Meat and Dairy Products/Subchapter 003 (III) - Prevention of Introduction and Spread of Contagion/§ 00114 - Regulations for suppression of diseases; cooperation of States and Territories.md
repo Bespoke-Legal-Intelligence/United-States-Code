@@ -14,7 +14,7 @@ Substitution of Secretary of Agriculture for Commissioner of Agriculture, see no
 
 #### Extension of Provisions to Live Poultry
 
-Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the provisions of this section to live poultry.
+Act Feb. 7, 1928, ch. 30, 45 Stat. 59, extended the terms and provisions of this section to live poultry.
 
 #### Section Referred to in Other Sections
 

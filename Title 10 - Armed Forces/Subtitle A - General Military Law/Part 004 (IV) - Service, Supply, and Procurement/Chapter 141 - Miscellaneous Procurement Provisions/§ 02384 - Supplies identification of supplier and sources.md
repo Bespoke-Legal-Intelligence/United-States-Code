@@ -10,13 +10,13 @@
 
 &emsp;(C) the source of any technical data delivered under the contract.
 
-(2) The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
+(2) The regulations prescribed pursuant to paragraph (1) do not apply to a contract that requires the delivery of supplies that are commercial items (as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12))).
 
-(3) The regulations prescribed pursuant to paragraph (1) do not apply to a contract for an amount not greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).<sup>1</sup>
+(3) The regulations prescribed pursuant to paragraph (1) do not apply to a contract for an amount not greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))).
 
 (c) Identification of supplies and technical data under this section shall be made in the manner and with respect to the supplies prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 137; Oct. 19, 1984, Pub. L. 98–525, title XII, §1231(a), 98 Stat. 2599; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §928(a)\], 100 Stat. 1783–82, 1783–156, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §928(a)\], 100 Stat. 3341–82, 3341–156; Nov. 14, 1986, Pub. L. 99–661, div. A, title IX, formerly title IV, §928(a), 100 Stat. 3936, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Oct. 13, 1994, Pub. L. 103–355, title IV, §4102(d), title VIII, §8105(b), 108 Stat. 3340, 3392.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 137; Oct. 19, 1984, Pub. L. 98–525, title XII, §1231(a), 98 Stat. 2599; Oct. 18, 1986, Pub. L. 99–500, §101(c) \[title X, §928(a)\], 100 Stat. 1783–82, 1783–156, and Oct. 30, 1986, Pub. L. 99–591, §101(c) \[title X, §928(a)\], 100 Stat. 3341–82, 3341–156; Nov. 14, 1986, Pub. L.99–661, div. A, title IX, formerly title IV, §928(a), 100 Stat. 3936, renumbered title IX, Apr. 21, 1987, Pub. L. 100–26, §3(5), 101 Stat. 273; Oct. 13, 1994, Pub. L. 103–355, title IV, §4102(d), title VIII, §8105(b), 108 Stat. 3340, 3392; Feb. 10, 1996, Pub. L. 104–106, div. D, title XLIII, §4321(b)(12), 110 Stat. 672.)
 
 Historical and Revision Notes
 
@@ -42,6 +42,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+1996—Subsec. (b)(2). Pub. L. 104–106, §4321(b)(12)(A), substituted “items (as” for “items, as” and inserted a closing parenthesis after “403(12))”.
+
+Subsec. (b)(3). Pub. L. 104–106, §4321(b)(12)(B), inserted a closing parenthesis after “403(11))”.
+
 1994—Subsec. (b)(2). Pub. L. 103–355, §8105(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) does not apply to a contract that requires the delivery of supplies that are commercial items sold in substantial quantities to the general public if the contract—
 
 &emsp;“(A) provides for the acquisition of such supplies by the Department of Defense at established catalog or market prices; or
@@ -54,6 +58,10 @@ Subsec. (b)(3). Pub. L. 103–355, §4102(d), added par. (3).
 
 1984—Pub. L. 98–525 amended section generally, substituting “identification of supplier and sources” for “marking with name of contractor” in section catchline, and, in text, substituting provisions designated subsec. (a) and relating to the marking of supplies, providing the national stock number for the supplies furnished, and the contractor's identification number for requirement that each contractor furnishing supplies to a military department mark the supplies with his name in the manner directed by the Secretary of the Department and prohibition of receipt of supplies unless so marked and adding subsecs. (b) and (c).
 
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
@@ -65,6 +73,4 @@ Section 101(c) \[title X, §928(b)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 #### Effective Date of 1984 Amendment
 
 Section 1231(b) of Pub. L. 98–525 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\].”
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 

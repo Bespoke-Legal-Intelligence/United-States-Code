@@ -13,7 +13,7 @@
 | [10602\.](%C2%A7%2010602%20-%20Crime%20victim%20compensation.md) | Crime victim compensation. |
 | (a) | Authority of Director; grants. |
 | (b) | Eligible crime victim compensation programs. |
-| (c) | Repealed. |
+| (c) | Exclusion from income for purposes of means tests. |
 | (d) | Definitions. |
 | (e) | Relationship to certain Federal programs. |
 | [10603\.](%C2%A7%2010603%20-%20Crime%20victim%20assistance.md) | Crime victim assistance. |
@@ -22,6 +22,9 @@
 | (c) | Grants: purposes; distribution; duties of Director; reimbursement by Director. |
 | (d) | Definitions. |
 | [10603a.](%C2%A7%2010603a%20-%20Child%20abuse%20prevention%20and%20treatment%20grants.md) | Child abuse prevention and treatment grants. |
+| [10603b.](%C2%A7%2010603b%20-%20Compensation%20and%20assistance%20to%20victims%20of%20terrorism%20or%20mass%20violence.md) | Compensation and assistance to victims of terrorism or mass violence. |
+| (a) | Victims of acts of terrorism outside United States. |
+| (b) | Victims of terrorism within United States. |
 | [10604\.](%C2%A7%2010604%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | Authority of Director to establish rules and regulations. |
 | (b) | Recordkeeping. |
@@ -45,6 +48,15 @@
 | (c) | Description of services. |
 | (d) | No cause of action or defense. |
 | (e) | Definitions. |
+| [10608\.](%C2%A7%2010608%20-%20Closed%20circuit%20televised%20court%20proceedings%20for%20victims%20of%20crime.md) | Closed circuit televised court proceedings for victims of crime. |
+| (a) | In general. |
+| (b) | Limited access. |
+| (c) | Restrictions. |
+| (d) | Donations. |
+| (e) | Construction. |
+| (f) | “State” defined. |
+| (g) | Rules. |
+| (h) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -57,7 +69,9 @@
 - [&sect; 10602 - Crime victim compensation](%C2%A7%2010602%20-%20Crime%20victim%20compensation.md)
 - [&sect; 10603 - Crime victim assistance](%C2%A7%2010603%20-%20Crime%20victim%20assistance.md)
 - [&sect; 10603a - Child abuse prevention and treatment grants](%C2%A7%2010603a%20-%20Child%20abuse%20prevention%20and%20treatment%20grants.md)
+- [&sect; 10603b - Compensation and assistance to victims of terrorism or mass violence](%C2%A7%2010603b%20-%20Compensation%20and%20assistance%20to%20victims%20of%20terrorism%20or%20mass%20violence.md)
 - [&sect; 10604 - Administrative provisions](%C2%A7%2010604%20-%20Administrative%20provisions.md)
 - [&sect; 10605 - Establishment of Office for Victims of Crime](%C2%A7%2010605%20-%20Establishment%20of%20Office%20for%20Victims%20of%20Crime.md)
 - [&sect; 10606 - Victims&#8217; rights](%C2%A7%2010606%20-%20Victims%E2%80%99%20rights.md)
 - [&sect; 10607 - Services to victims](%C2%A7%2010607%20-%20Services%20to%20victims.md)
+- [&sect; 10608 - Closed circuit televised court proceedings for victims of crime](%C2%A7%2010608%20-%20Closed%20circuit%20televised%20court%20proceedings%20for%20victims%20of%20crime.md)

@@ -6,3 +6,4 @@ Part E—Miscellaneous Programs
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00300d&#8211;51 - Residency training programs in emergency medicine](%C2%A7%2000300d%E2%80%9351%20-%20Residency%20training%20programs%20in%20emergency%20medicine.md)
+- [&sect; 00300d&#8211;52 - State grants for demonstration projects regarding traumatic brain injury](%C2%A7%2000300d%E2%80%9352%20-%20State%20grants%20for%20demonstration%20projects%20regarding%20traumatic%20brain%20injury.md)

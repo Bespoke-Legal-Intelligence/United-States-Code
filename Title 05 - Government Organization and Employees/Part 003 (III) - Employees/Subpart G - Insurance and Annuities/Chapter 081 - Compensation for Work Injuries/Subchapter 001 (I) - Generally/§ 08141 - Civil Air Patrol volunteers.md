@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 803 (less (d)).
 
@@ -46,9 +48,9 @@ Subchapter II of chapter 7 of title 42, referred to in text, is section 401 et s
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(5). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare” in two places.
+1994—Subsec. (b)(5). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare” in two places.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–94, §1258(a)(1), inserted “under 18 years of age” after “Civil Air Patrol Cadet”.
+1983—Subsec. (a). Pub. L. 98–94, §1258(a)(1), inserted “under 18 years of age” after “Civil Air Patrol Cadet”.
 
 Subsec. (b)(1). Pub. L. 98–94, §1258(a)(2), substituted “the rate of basic pay payable for step 1 of grade GS–9 in the General Schedule under section 5332 of this title” for “$300”.
 

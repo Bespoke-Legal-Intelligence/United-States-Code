@@ -116,5 +116,5 @@ Amendment by Pub. L. 102–166 inapplicable to conduct occurring before Nov. 21,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1981a, 12209 of this title; title 2 sections 1202, 1311.
+This section is referred to in sections 1981a, 12209 of this title; title 2 sections 1202, 1311; title 3 section 411.
 

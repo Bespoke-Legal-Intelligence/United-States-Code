@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 948, 950aa–1, 1926–1, 2008 of this title.
+This subchapter is referred to in section 948 of this title.
 
 
 ---
@@ -26,7 +26,7 @@ This subchapter is referred to in sections 948, 950aa–1, 1926–1, 2008 of thi
 - [&sect; 00938 - Full faith and credit of the United States](%C2%A7%2000938%20-%20Full%20faith%20and%20credit%20of%20the%20United%20States.md)
 - [&sect; 00939 - Loan terms and conditions](%C2%A7%2000939%20-%20Loan%20terms%20and%20conditions.md)
 - [&sect; 00940 - Refinancing of rural development loans](%C2%A7%2000940%20-%20Refinancing%20of%20rural%20development%20loans.md)
-- [&sect; 00940a - Privatization program](%C2%A7%2000940a%20-%20Privatization%20program.md)
+- [&sect; 00940a - Repealed. Pub. L. 104&#8211;127, title VII, &sect;780, Apr. 4, 1996, 110 Stat. 1151](%C2%A7%2000940a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7780%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201151.md)
 - [&sect; 00940b - Use of funds](%C2%A7%2000940b%20-%20Use%20of%20funds.md)
 - [&sect; 00940c - Cushion of credit payments program](%C2%A7%2000940c%20-%20Cushion%20of%20credit%20payments%20program.md)
 - [&sect; 00940d - Limitations on authorization of appropriations](%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md)

@@ -10,7 +10,7 @@ The President is requested to extend to the instrumentality established by Taiwa
 
 #### (c) Privileges and immunities
 
-Upon the granting by Taiwan of comparable privileges and immunities with respect to the Institute and its appropriate personnel, the President is authorized to extend with respect to the Taiwan instrumentality and its appropriate personnel, such privileges and immunities (subject to appropriate conditions and obligations) as may be necessary for the effective performance of their functions.
+Upon the granting by Taiwan of comparable privileges and immunities with respect to theInstitute and its appropriate personnel, the President is authorized to extend with respect to the Taiwan instrumentality and its appropriate personnel, such privileges and immunities (subject to appropriate conditions and obligations) as may be necessary for the effective performance of their functions.
 
 (Pub. L. 96–8, §10, Apr. 10, 1979, 93 Stat. 18.)
 

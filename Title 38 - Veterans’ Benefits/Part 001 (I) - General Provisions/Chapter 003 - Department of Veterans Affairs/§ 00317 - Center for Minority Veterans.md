@@ -2,7 +2,7 @@
 
 (a) There is in the Department a Center for Minority Veterans. There is at the head of the Center a Director.
 
-(b) The Director shall be a noncareer appointee in the Senior Executive Service. The Director shall be appointed for a term of six years.
+(b) The Director shall be a career or noncareer appointee in the Senior Executive Service. The Director shall be appointed for a term of six years.
 
 (c) The Director reports directly to the Secretary or the Deputy Secretary concerning the activities of the Center.
 
@@ -26,7 +26,11 @@
 
 &emsp;(9) Publicize the results of medical research which are of particular significance to veterans who are minorities.
 
-&emsp;(10) Perform such other duties consistent with this section as the Secretary shall prescribe.
+&emsp;(10) Advise the Secretary and other appropriate officials on the effectiveness of the Department's efforts to accomplish the goals of section 492B of the Public Health Service Act (42 U.S.C. 289a–2) with respect to the inclusion of minorities in clinical research and on particular health conditions affecting the health of members of minority groups which should be studied as part of the Department's medical research program and promote cooperation between the Department and other sponsors of medical research of potential benefit to veterans who are minorities.
+
+&emsp;(11) Provide support and administrative services to the Advisory Committee on Minority Veterans provided for under section 544 of this title.
+
+&emsp;(12) Perform such other duties consistent with this section as the Secretary shall prescribe.
 
 (e) The Secretary shall ensure that the Director is furnished sufficient resources to enable the Director to carry out the functions of the Center in a timely manner.
 
@@ -38,9 +42,23 @@
 
 &emsp;(3) a report on the activities and significant accomplishments of the Center during the preceding fiscal year.
 
-(Added Pub. L. 103–446, title V, §509(a), Nov. 2, 1994, 108 Stat. 4665.)
+(g) In this section—
+
+&emsp;(1) The term “veterans who are minorities” means veterans who are minority group members.
+
+&emsp;(2) The term “minority group member” has the meaning given such term in section 544(d) of this title.
+
+(Added Pub. L. 103–446, title V, §509(a), Nov. 2, 1994, 108 Stat. 4665; amended Pub. L. 104–275, title V, §501(a)–(c), Oct. 9, 1996, 110 Stat. 3340.)
 
 #### Prior Provisions
 
 Prior section 317, added Pub. L. 102–218, §1(a), Dec. 11, 1991, 105 Stat. 1671; amended Pub. L. 103–446, title XII, §1201(e)(4), Nov. 2, 1994, 108 Stat. 4685, related to Chief Minority Affairs Officer, prior to repeal by Pub. L. 103–446, §509(a).
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
+
+Subsec. (d)(10) to (12). Pub. L. 104–275, §501(b), added pars. (10) and (11) and redesignated former par. (10) as (12).
+
+Subsec. (g). Pub. L. 104–275, §501(c), added subsec. (g).
 

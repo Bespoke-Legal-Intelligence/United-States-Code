@@ -42,7 +42,7 @@ The Governor, in the case of action under subsection (b)(1) of this section, or 
 
 &emsp;(2) enter into contracts to acquire any additional means of emission limitation which the Administrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
 
-&emsp;(3) comply with such schedules (including increments of progress), timetables and other requirements as may be necessary to assurecompliance with the requirements of this chapter.
+&emsp;(3) comply with such schedules (including increments of progress), timetables and other requirements as may be necessary to assure compliance with the requirements of this chapter.
 
 > Requirements under this subsection shall be established simultaneously with, and as a condition of, any action under subsection (b) of this section.
 

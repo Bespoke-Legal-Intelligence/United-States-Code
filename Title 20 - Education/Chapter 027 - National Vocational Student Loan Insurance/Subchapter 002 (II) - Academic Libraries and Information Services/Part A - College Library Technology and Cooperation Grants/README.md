@@ -1,13 +1,9 @@
 Part A—College Library Technology and Cooperation Grants
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1021, 1047 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01029 - College library technology and cooperation grants](%C2%A7%2001029%20-%20College%20library%20technology%20and%20cooperation%20grants.md)
+- [&sect; 01029 - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(e) \[title VII, &sect;708(b)\], Sept. 30, 1996, 110 Stat. 3009&#8211;233, 3009&#8211;312](%C2%A7%2001029%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20VII%2C%20%C2%A7708%28b%29%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93233%2C%203009%E2%80%93312.md)
 - [&sect; 01030 - Omitted](%C2%A7%2001030%20-%20Omitted.md)

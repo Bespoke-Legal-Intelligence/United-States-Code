@@ -292,7 +292,7 @@ Schedule II
 
 Schedule III
 
-(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains anyquantity of the following substances having a stimulant effect on the central nervous system:
+(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
 
 &emsp;(1) Amphetamine, its salts, optical isomers, and salts of its optical isomers.
 
@@ -392,7 +392,7 @@ Any compound, mixture, or preparation containing any of the following limited qu
 
 1986—Subsec. (c). Pub. L. 99–646 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves (except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed); cocaine, its salts, optical and geometric isomers, and salts of isomers; and ecgonine, its derivatives, their salts, isomers, and salts of isomers.”
 
-Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine.”
+Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows:“Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine.”
 
 1984—Subsec. (c). Pub. L. 98–473, §507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
 

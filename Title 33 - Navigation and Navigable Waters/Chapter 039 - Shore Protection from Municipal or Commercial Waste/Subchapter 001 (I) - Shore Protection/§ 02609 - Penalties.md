@@ -10,11 +10,11 @@ A person violating section 2602 of this title is liable to the United States Gov
 
 #### (c) Criminal penalty
 
-Any person that knowingly violates, or that knowingly aids, abets, authorizes, or instigates a violation of this chapter, shall be fined under title 18, imprisoned for not more than 3 years, or both.
+Any person that knowingly violates, or that knowingly aids, abets, authorizes, or instigatesa violation of this chapter, shall be fined under title 18, imprisoned for not more than 3 years, or both.
 
 #### (d) Payments for information
 
-The court, the Secretary of Transportation, or the Administrator, as the case may be, may payup to one-half of a fine or penalty to any person giving information leading to the assessment of the fine or penalty.
+The court, the Secretary of Transportation, or the Administrator, as the case may be, may pay up to one-half of a fine or penalty to any person giving information leading to the assessment of the fine or penalty.
 
 (Pub. L. 100–688, title IV, §4109, Nov. 18, 1988, 102 Stat. 4158.)
 

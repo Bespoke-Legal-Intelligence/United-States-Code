@@ -20,7 +20,7 @@
 
 For the purpose of this part, the term “eligible partnership” means a partnership consisting of—
 
-&emsp;(1) a local educational agency, a subunit of such agency, or a consortium of such agencies,in which not less than 50 percent of the schools served by such agency, subunit, or consortium are eligible to participate in schoolwide programs under section 6314 of this title; or
+&emsp;(1) a local educational agency, a subunit of such agency, or a consortium of such agencies, in which not less than 50 percent of the schools served by such agency, subunit, or consortium are eligible to participate in schoolwide programs under section 6314 of this title; or
 
 &emsp;(2) other partners that—
 

@@ -18,7 +18,7 @@
 
 &emsp;(2) fostering the development and vigorous implementation of policies and procedures, including affirmative action programs, which will facilitate and encourage (A) entry into and advancement in the Foreign Service by persons from all segments of American society, and (B) equal opportunity and fair and equitable treatment for all without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or handicapping condition;
 
-&emsp;(3) providing for more efficient, economical, and equitable personnel administration through a simplified structure of Foreign Service personnel categories and salaries;
+&emsp;(3) providing for more efficient, economical, and equitable personnel administrationthrough a simplified structure of Foreign Service personnel categories and salaries;
 
 &emsp;(4) establishing a statutory basis for participation by the members of the Foreign Service, through their elected representatives, in the formulation of personnel policies and procedures which affect their conditions of employment, and maintaining a fair and effective system for the resolution of individual grievances that will ensure the fullest measure of due process for the members of the Foreign Service;
 
@@ -40,7 +40,7 @@
 
 Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, as amended, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
 
-The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealedby Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
+The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
@@ -72,7 +72,7 @@ Section 1 of Pub. L. 96–465 provided that: “This Act \[enacting this chapter
 
 #### Executive Order No. 11636
 
-Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, §10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
+Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R.61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, §10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
 
 #### Ex. Ord. No. 12292. Conformance of Existing Executive Orders to Changes Resulting From the Foreign Service Act of 1980
 
@@ -110,7 +110,7 @@ Sec. 4. Executive Order No. 10903 is amended as follows:
 
 (3) strike out “Title II of the Act” and insert in lieu thereof “said subchapter”.
 
-(d) In Section 1(c), strike out “section 22 of the Administrative Expenses Act of 1946 (added by section311(a) of the Overseas Differentials and Allowances Act)” and insert in lieu thereof “section 5913 of title 5 of the United States Code”.
+(d) In Section 1(c), strike out “section 22 of the Administrative Expenses Act of 1946 (added by section 311(a) of the Overseas Differentials and Allowances Act)” and insert in lieu thereof “section 5913 of title 5 of the United States Code”.
 
 (e) In Section 1(e):
 

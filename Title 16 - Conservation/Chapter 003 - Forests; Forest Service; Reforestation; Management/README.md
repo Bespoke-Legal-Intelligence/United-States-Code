@@ -37,7 +37,7 @@
 | [556g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000556g%20-%20Reimbursement%20of%20employee%20license%20costs%20and%20certification%20fees.md) | Reimbursement of employee license costs and certification fees. |
 | [557\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000557%20-%20Employees%20of%20Forest%20Service%3B%20subsistence%20furnished%20to%3B%20personal%20equipment%3B%20supplies%2C%20and%20medical%20attention.md) | Employees of Forest Service; subsistence furnished to; personal equipment; supplies, and medical attention. |
 | [557a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000557a%20-%20Field%20season%20contracts%3B%20authority%20to%20make%20prior%20to%20appropriation.md) | Field season contracts; authority to make prior to appropriation. |
-| 557b, 558. Omitted or Repealed. |  |
+| 557b, 558. | Omitted or Repealed. |
 | [558a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558a%20-%20Volunteers%20in%20the%20National%20Forests%20Program.md) | Volunteers in the National Forests Program. |
 | [558b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558b%20-%20Incidental%20expenses%20of%20program%20volunteers.md) | Incidental expenses of program volunteers. |
 | [558c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000558c%20-%20Employment%20status%20of%20volunteers.md) | Employment status of volunteers. |
@@ -61,7 +61,7 @@
 | (b) | Officers of other agencies. |
 | (c) | Acceptance by Forest Service. |
 | [560\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000560%20-%20Use%20of%20timber%20for%20telephone%20lines%20for%20fire%20protection.md) | Use of timber for telephone lines for fire protection. |
-| 560a, 561. Omitted or Repealed. |  |
+| 560a, 561. | Omitted or Repealed. |
 | [562\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562%20-%20Forest%20experiment%20station%20in%20California.md) | Forest experiment station in California. |
 | [562a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562a%20-%20Forest%20experiment%20station%20in%20Ohio%20and%20Mississippi%20Valleys.md) | Forest experiment station in Ohio and Mississippi Valleys. |
 | [562b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000562b%20-%20Forest%20experiment%20station%20in%20Pennsylvania.md) | Forest experiment station in Pennsylvania. |
@@ -72,7 +72,7 @@
 | 565a–2. | Federal employee status of cooperators. |
 | 565a–3. | Agreements otherwise authorized by law. |
 | [565b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000565b%20-%20Transfer%20of%20fire%20lookout%20towers%20and%20other%20improvements%20for%20fire%20control%20to%20States%2C%20political%20subdivisions%20or%20agencies%3B%20reversion.md) | Transfer of fire lookout towers and other improvements for fire control to States, political subdivisions or agencies; reversion. |
-| 566, 566a. Repealed. |  |
+| 566, 566a. | Repealed. |
 | [566b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000566b%20-%20Annual%20appropriations%3B%20limitation%20on%20use%20of%20other%20funds%20for%20the%20purposes%20of%20sections%20564%2C%20565%2C%20and%20566%201.md) | Annual appropriations; limitation on use of other funds for the purposes of sections 564, 565, and 566. |
 | [567\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000567%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93313%2C%20%C2%A716%28a%29%281%29%2C%20formerly%20%C2%A713%28a%29%281%29%2C%20July%201%2C%201978%2C%2092%20Stat.%20374%3B%20renumbered%20%C2%A716%28a%29%281%29%2C%20Pub.%20L.%20101%E2%80%93624%2C%20title%E2%80%A6.md) | Repealed. |
 | [567a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000567a%20-%20Cooperation%20by%20Secretary%20of%20Agriculture%20with%20States%20in%20acquisition%20and%20administration%20of%20State%20forests.md) | Cooperation by Secretary of Agriculture with States in acquisition and administration of State forests. |

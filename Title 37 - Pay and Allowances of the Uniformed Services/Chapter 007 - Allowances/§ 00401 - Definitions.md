@@ -98,7 +98,7 @@ The words “lawful”, “at all times and in all places”, “except as herei
 
 &emsp;&emsp;“(B) is incapable of self-support because of a mental or physical incapacity, and in fact dependent on the member for over one-half of his support; and
 
-&emsp;“(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-half of his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
+&emsp;“(3) his parent (including a stepparent or parent by adoption, and any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age) who is in fact dependent on the member for over one-halfof his support; however, the dependency of such a parent is determined on the basis of an affidavit submitted by the parent, and any other evidence required under regulations prescribed by the Secretary concerned, and he is not considered a dependent of the member claiming the dependence unless—
 
 &emsp;&emsp;“(A) the member has provided over one-half of his support for the period prescribed by the Secretary concerned; or
 
@@ -124,5 +124,5 @@ Section 206 of Pub. L. 93–64 provided that: “This Act \[enacting section 117
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 403b, 411f of this title; title 10 section 2002.
+This section is referred to in sections 403b, 411f of this title; title 10 section 2002; title 31 section 3342.
 

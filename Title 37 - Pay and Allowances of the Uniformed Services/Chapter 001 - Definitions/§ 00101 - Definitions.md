@@ -136,7 +136,7 @@ Aug. 9, 1946, ch. 931, §2 (less (b), (c), (d), (e), (f) (less last 8 words), (g
 
 101(5)
 
-37:32(f) (less last 8   words).
+37:32(f) (less last 8 words).
 
 37:231(f).
 
@@ -314,7 +314,7 @@ Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[
 
 Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
-#### Section Referred to in Other Sections
+Section Referred to in Other Sections
 
-This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531; title 10 sections 1032, 2774; title 20 sections 7703, 7706; title 22 section 4833; title 26 section 6013; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 665.
+This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531; title 10 sections 1032, 2774; title 20 sections 7703, 7706; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 665.
 

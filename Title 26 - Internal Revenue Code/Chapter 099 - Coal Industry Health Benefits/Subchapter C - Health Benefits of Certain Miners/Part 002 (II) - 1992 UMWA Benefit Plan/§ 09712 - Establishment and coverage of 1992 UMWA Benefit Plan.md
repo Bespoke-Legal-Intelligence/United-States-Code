@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(A) annual adjustments of the per beneficiary premium to cover changes in the cost of providing benefits to eligible beneficiaries, and
 
-&emsp;&emsp;(B) adjustments as necessary to the annual prefunding premium to reflect changes in the cost of providing benefits to eligible beneficiaries for whom per beneficiary premiums are not paid.
+&emsp;&emsp;(B) adjustments as necessary to the annual prefunding premium to reflect changes inthe cost of providing benefits to eligible beneficiaries for whom per beneficiary premiums are not paid.
 
 #### (3) Additional liability
 
@@ -100,7 +100,7 @@
 
 #### (4) Joint and several liability
 
-&emsp;A 1988 last signatory operator or last signatory operator described in paragraph (3), andany related person to any such operator, shall be jointly and severally liable with such operator for any amount required to be paid by such operator under this section.
+&emsp;A 1988 last signatory operator or last signatory operator described in paragraph (3), and any related person to any such operator, shall be jointly and severally liable with such operator for any amount required to be paid by such operator under this section.
 
 #### (5) Deductibility
 

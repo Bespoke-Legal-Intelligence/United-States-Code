@@ -6,7 +6,7 @@ The Commission may, for the purpose of carrying out this chapter, hold such hear
 
 #### (b) Obtaining official data
 
-Upon the request of the Moderator of the Commission, the Commission may secure directlyfrom any department or agency of the United States information necessary to enable it to carry out this chapter.
+Upon the request of the Moderator of the Commission, the Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this chapter.
 
 #### (c) Gifts
 

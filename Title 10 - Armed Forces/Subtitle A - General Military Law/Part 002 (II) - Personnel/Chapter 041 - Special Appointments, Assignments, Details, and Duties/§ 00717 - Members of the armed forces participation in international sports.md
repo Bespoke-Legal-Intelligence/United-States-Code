@@ -1,6 +1,6 @@
 ### §717. Members of the armed forces: participation in international sports
 
-(a) The Secretary of Defense, or the Secretary of Transportation with respect to the CoastGuard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in—
+(a) The Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in—
 
 &emsp;(1) Pan-American Games and Olympic Games and qualifying events and preparatory competition for those games; and
 
@@ -20,7 +20,7 @@
 
 (d) Appropriations available to the Department of Defense or to the Department of Transportation, as the case may be, may be used to carry out this section.
 
-(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632.)
+(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117;Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632.)
 
 Historical and Revision Notes<br>1958
 

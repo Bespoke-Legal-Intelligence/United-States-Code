@@ -26,7 +26,7 @@ For purposes of subsection (a), a corporation shall be treated as not being a co
 
 #### (1) In general
 
-&emsp;A corporation meets the requirements of this subsection if, for each prior taxable year beginning after December 31, 1975, such corporation (and any predecessor corporation) did not have gross receipts exceeding $1,000,000. For purposes of the preceding sentence, all corporations which are members of the same controlled group of corporations (within the meaning of section 1563(a)) shall be treated as 1 corporation.
+&emsp;A corporation meets the requirements of this subsection if, for each prior taxable yearbeginning after December 31, 1975, such corporation (and any predecessor corporation) did not have gross receipts exceeding $1,000,000. For purposes of the preceding sentence, all corporations which are members of the same controlled group of corporations (within the meaning of section 1563(a)) shall be treated as 1 corporation.
 
 #### (2) Special rules for family corporations
 
@@ -182,13 +182,13 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (3) Corporation must be engaged in farming
 
-&emsp;This subsection shall apply only in the case of a corporation which was, on October 4, 1976,and at all times thereafter, engaged in the trade or business of farming.
+&emsp;This subsection shall apply only in the case of a corporation which was, on October 4, 1976, and at all times thereafter, engaged in the trade or business of farming.
 
 #### (i) Suspense account for family corporations
 
 #### (1) In general
 
-&emsp;If any family corporation is required by this section to change its method of accounting for any taxable year (hereinafter in this subsection referred to as the “year of the change”), notwithstanding subsection (f), such corporation shall establish a suspense account under this subsection in lieu of taking into account adjustments under section 481(a) with respect to amounts included in the suspense account.
+&emsp;If any family corporation is required by this section to change its method of accounting forany taxable year (hereinafter in this subsection referred to as the “year of the change”), notwithstanding subsection (f), such corporation shall establish a suspense account under this subsection in lieu of taking into account adjustments under section 481(a) with respect to amounts included in the suspense account.
 
 #### (2) Initial opening balance
 
@@ -340,7 +340,7 @@ Special rule for certain corporations.—In the case of a corporation engaged in
 
 &emsp;&emsp;“(I) by employees of the corporation or members of the families (within the meaning of section 267(c)(4) of such Code) of such employees, or
 
-&emsp;&emsp;“(II) by a trust for the benefit of the employees of such corporation which is described in section 401(a) of such Code and which is exempt from taxation under section 501(a) of such Code,
+&emsp;&emsp;“(II) by a trust for the benefit of the employees of such corporation which is described in section401(a) of such Code and which is exempt from taxation under section 501(a) of such Code,
 
 > the amendments made by paragraph (1) shall apply to taxable years beginning after December 31, 1977.”
 

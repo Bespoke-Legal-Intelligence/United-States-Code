@@ -18,7 +18,7 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 #### Prior Provisions
 
-A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, priorto the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 

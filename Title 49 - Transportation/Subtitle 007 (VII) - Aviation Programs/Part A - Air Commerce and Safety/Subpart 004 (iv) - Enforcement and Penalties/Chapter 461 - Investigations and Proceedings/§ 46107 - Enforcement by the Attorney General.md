@@ -6,7 +6,7 @@ Civil Actions To Enforce Section 40106(b).—The Attorney General may bring a ci
 
 (b)
 
-Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator), the Attorney General may bring a civil action in an appropriate court—
+Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried outby the Administrator), the Attorney General may bring a civil action in an appropriate court—
 
 &emsp;(A) to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part; and
 
@@ -22,7 +22,9 @@ Participation of Secretary or Administrator.—On request of the Attorney Genera
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -42,7 +44,7 @@ Aug. 23, 1958, Pub. L. 85–726, §§1007(b) (related to Administrator and CAB),
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -58,13 +60,13 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 &nbsp;
 
 49 App.:1655(c)(1).
 
-In subsection (a), the words “may bring a civil action” are substituted for “may apply” for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The text of 49 App.:1487(a) (words after semicolon related to Attorney General) isomitted as surplus because of 28:1651 and rule 81(b) of the Federal Rules of Civil Procedure.
+In subsection (a), the words “may bring a civil action” are substituted for “may apply” for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The text of 49 App.:1487(a) (words after semicolon related to Attorney General) is omitted as surplus because of 28:1651 and rule 81(b) of the Federal Rules of Civil Procedure.
 
 In subsection (b)(1), before clause (A), the words “Attorney General” are substituted for “any district attorney of the United States to whom the Board or Secretary of Transportation may apply”, and the words “under the direction of the Attorney General” are omitted, because of 28:503 and 509. The words “bring a civil action” are substituted for “institute . . . and to prosecute . . . all necessary proceedings” for consistency in the revised title and with other titles of the Code and rule 2 of the Federal Rules of Civil Procedure. In clauses (A) and (B), the words “prescribed” and “issued” are added for consistency in the revised title and with other titles of the Code. The words “condition, or limitation” are omitted as being included in “term”.
 

@@ -10,5 +10,5 @@ Section 459, acts July 30, 1953, ch. 282, title I, §108, 67 Stat. 231; Aug. 2, 
 
 #### Cancellation of Authorization of Appropriations; Transfer of Unobligated Balance; Repayment of Advances
 
-Act June 27, 1956, ch. 452, title II, 70 Stat. 353, canceled authorization for appropriations contained in section 459 of this title, rescinded unobligated balance of revolving fund authorized by said section and providedthat it was to be covered into Treasury, and canceled obligation of Administrator of Housing and Home Finance Agency to repay Treasury for advances from said fund, together with interest thereon.
+Act June 27, 1956, ch. 452, title II, 70 Stat. 353, canceled authorization for appropriations contained in section 459 of this title, rescinded unobligated balance of revolving fund authorized by said section and provided that it was to be covered into Treasury, and canceled obligation of Administrator of Housing and Home Finance Agency to repay Treasury for advances from said fund, together with interest thereon.
 

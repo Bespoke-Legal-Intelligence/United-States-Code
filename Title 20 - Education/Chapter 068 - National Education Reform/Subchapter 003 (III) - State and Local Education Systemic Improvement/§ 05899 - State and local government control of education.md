@@ -10,7 +10,7 @@ The Congress finds as follows:
 
 &emsp;(3) In Public Law 96–88 the Congress found that in our Federal system the responsibility for education is reserved respectively to the States and the local school systems and other instrumentalities of the States.
 
-&emsp;(4) In Public Law 96–88 the Congress declared the purpose of the Department of Education was to supplement and complement the efforts of States, the local school systems, and otherinstrumentalities of the States, the private sector, public and private educational institutions, public and private nonprofit educational research institutions, community based organizations, parents and schools to improve the quality of education.
+&emsp;(4) In Public Law 96–88 the Congress declared the purpose of the Department of Education was to supplement and complement the efforts of States, the local school systems, and other instrumentalities of the States, the private sector, public and private educational institutions, public and private nonprofit educationalresearch institutions, community based organizations, parents and schools to improve the quality of education.
 
 &emsp;(5) With the establishment of the Department of Education, Congress intended to protect the rights of State and local governments and public and private educational institutions in the areas of educational policies and administration of programs and to strengthen and improve the control of such governments and institutions over their own educational programs and policies.
 
@@ -27,4 +27,6 @@ The Congress agrees and reaffirms that the responsibility for control of educati
 #### References in Text
 
 Public Law 96–88, referred to in subsec. (a), is Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, as amended, known as the Department of Education Organization Act, which is classified principally to chapter 48 (§3401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Department of Education”.</i>
 

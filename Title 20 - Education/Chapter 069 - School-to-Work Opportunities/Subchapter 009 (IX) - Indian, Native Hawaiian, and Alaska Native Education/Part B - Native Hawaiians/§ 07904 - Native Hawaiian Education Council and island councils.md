@@ -20,7 +20,7 @@ The Education Council shall consist of not more than 25 members, including a rep
 
 #### (c) Conditions and terms
 
-At least three-fourths of the members of the Education Council shall be Native Hawaiians.Members of the Education Council shall be appointed for three-year terms.
+At least three-fourths of the members of the Education Council shall be Native Hawaiians. Members of the Education Council shall be appointed for three-year terms.
 
 #### (d) Administrative grant for Education Council
 
@@ -88,7 +88,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

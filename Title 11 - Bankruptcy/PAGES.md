@@ -1,6 +1,6 @@
 # Printed pages - Title 11 - Bankruptcy
 
-GPO's 1995 edition (laws in effect as of 1996-01-16), from its printed page marks. The exact position of
+GPO's 1996 edition (laws in effect as of 1997-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title11.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -8,32 +8,32 @@ from edition to edition; the section files hold the text only.
 | --- | --- |
 | [Title 11 - Bankruptcy](README.md) | 1–9 |
 | [Chapter 001 - General Provisions](Chapter%20001%20-%20General%20Provisions/README.md) | 9 |
-| [&sect; 00101 - Definitions](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000101%20-%20Definitions.md) | 9–21 |
-| [&sect; 00102 - Rules of construction](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000102%20-%20Rules%20of%20construction.md) | 21–22 |
+| [&sect; 00101 - Definitions](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000101%20-%20Definitions.md) | 9–20 |
+| [&sect; 00102 - Rules of construction](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000102%20-%20Rules%20of%20construction.md) | 20–22 |
 | [&sect; 00103 - Applicability of chapters](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000103%20-%20Applicability%20of%20chapters.md) | 22 |
 | [&sect; 00104 - Adjustment of dollar amounts](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000104%20-%20Adjustment%20of%20dollar%20amounts.md) | 22–23 |
 | [&sect; 00105 - Power of court](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000105%20-%20Power%20of%20court.md) | 23–24 |
 | [&sect; 00106 - Waiver of sovereign immunity](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000106%20-%20Waiver%20of%20sovereign%20immunity.md) | 24–25 |
 | [&sect; 00107 - Public access to papers](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000107%20-%20Public%20access%20to%20papers.md) | 25 |
 | [&sect; 00108 - Extension of time](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000108%20-%20Extension%20of%20time.md) | 25–26 |
-| [&sect; 00109 - Who may be a debtor](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000109%20-%20Who%20may%20be%20a%20debtor.md) | 26–29 |
-| [&sect; 00110 - Penalty for persons who negligently or fraudulently prepare bankruptcy petitions](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000110%20-%20Penalty%20for%20persons%20who%20negligently%20or%20fraudulently%20prepare%20bankruptcy%20petitions.md) | 29–30 |
-| [Chapter 003 - Case Administration](Chapter%20003%20-%20Case%20Administration/README.md) | 30 |
+| [&sect; 00109 - Who may be a debtor](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000109%20-%20Who%20may%20be%20a%20debtor.md) | 26–28 |
+| [&sect; 00110 - Penalty for persons who negligently or fraudulently prepare bankruptcy petitions](Chapter%20001%20-%20General%20Provisions/%C2%A7%2000110%20-%20Penalty%20for%20persons%20who%20negligently%20or%20fraudulently%20prepare%20bankruptcy%20petitions.md) | 28–29 |
+| [Chapter 003 - Case Administration](Chapter%20003%20-%20Case%20Administration/README.md) | 29–30 |
 | [Subchapter 001 (I) - Commencement of a Case](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/README.md) | 30 |
 | [&sect; 00301 - Voluntary cases](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000301%20-%20Voluntary%20cases.md) | 30 |
-| [&sect; 00302 - Joint cases](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000302%20-%20Joint%20cases.md) | 30–31 |
-| [&sect; 00303 - Involuntary cases](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000303%20-%20Involuntary%20cases.md) | 31–34 |
-| [&sect; 00304 - Cases ancillary to foreign proceedings](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000304%20-%20Cases%20ancillary%20to%20foreign%20proceedings.md) | 34 |
-| [&sect; 00305 - Abstention](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000305%20-%20Abstention.md) | 34–35 |
-| [&sect; 00306 - Limited appearance](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000306%20-%20Limited%20appearance.md) | 35 |
+| [&sect; 00302 - Joint cases](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000302%20-%20Joint%20cases.md) | 30 |
+| [&sect; 00303 - Involuntary cases](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000303%20-%20Involuntary%20cases.md) | 30–33 |
+| [&sect; 00304 - Cases ancillary to foreign proceedings](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000304%20-%20Cases%20ancillary%20to%20foreign%20proceedings.md) | 33–34 |
+| [&sect; 00305 - Abstention](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000305%20-%20Abstention.md) | 34 |
+| [&sect; 00306 - Limited appearance](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000306%20-%20Limited%20appearance.md) | 34–35 |
 | [&sect; 00307 - United States trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000307%20-%20United%20States%20trustee.md) | 35 |
 | [Subchapter 002 (II) - Officers](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/README.md) | 35 |
-| [&sect; 00321 - Eligibility to serve as trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000321%20-%20Eligibility%20to%20serve%20as%20trustee.md) | 35–36 |
-| [&sect; 00322 - Qualification of trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000322%20-%20Qualification%20of%20trustee.md) | 36 |
+| [&sect; 00321 - Eligibility to serve as trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000321%20-%20Eligibility%20to%20serve%20as%20trustee.md) | 35 |
+| [&sect; 00322 - Qualification of trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000322%20-%20Qualification%20of%20trustee.md) | 35–36 |
 | [&sect; 00323 - Role and capacity of trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000323%20-%20Role%20and%20capacity%20of%20trustee.md) | 36 |
-| [&sect; 00324 - Removal of trustee or examiner](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000324%20-%20Removal%20of%20trustee%20or%20examiner.md) | 36–37 |
-| [&sect; 00325 - Effect of vacancy](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000325%20-%20Effect%20of%20vacancy.md) | 37 |
-| [&sect; 00326 - Limitation on compensation of trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000326%20-%20Limitation%20on%20compensation%20of%20trustee.md) | 37–38 |
+| [&sect; 00324 - Removal of trustee or examiner](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000324%20-%20Removal%20of%20trustee%20or%20examiner.md) | 36 |
+| [&sect; 00325 - Effect of vacancy](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000325%20-%20Effect%20of%20vacancy.md) | 36 |
+| [&sect; 00326 - Limitation on compensation of trustee](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000326%20-%20Limitation%20on%20compensation%20of%20trustee.md) | 36–38 |
 | [&sect; 00327 - Employment of professional persons](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000327%20-%20Employment%20of%20professional%20persons.md) | 38–39 |
 | [&sect; 00328 - Limitation on compensation of professional persons](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000328%20-%20Limitation%20on%20compensation%20of%20professional%20persons.md) | 39–40 |
 | [&sect; 00329 - Debtor's transactions with attorneys](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000329%20-%20Debtor%27s%20transactions%20with%20attorneys.md) | 40 |
@@ -41,36 +41,36 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00331 - Interim compensation](Chapter%20003%20-%20Case%20Administration/Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000331%20-%20Interim%20compensation.md) | 43 |
 | [Subchapter 003 (III) - Administration](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/README.md) | 43 |
 | [&sect; 00341 - Meetings of creditors and equity security holders](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000341%20-%20Meetings%20of%20creditors%20and%20equity%20security%20holders.md) | 43–44 |
-| [&sect; 00342 - Notice](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000342%20-%20Notice.md) | 44–45 |
-| [&sect; 00343 - Examination of the debtor](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000343%20-%20Examination%20of%20the%20debtor.md) | 45 |
-| [&sect; 00344 - Self-incrimination; immunity](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000344%20-%20Self-incrimination%3B%20immunity.md) | 45–46 |
-| [&sect; 00345 - Money of estates](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000345%20-%20Money%20of%20estates.md) | 46 |
+| [&sect; 00342 - Notice](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000342%20-%20Notice.md) | 44 |
+| [&sect; 00343 - Examination of the debtor](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000343%20-%20Examination%20of%20the%20debtor.md) | 44–45 |
+| [&sect; 00344 - Self-incrimination; immunity](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000344%20-%20Self-incrimination%3B%20immunity.md) | 45 |
+| [&sect; 00345 - Money of estates](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000345%20-%20Money%20of%20estates.md) | 45–46 |
 | [&sect; 00346 - Special tax provisions](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000346%20-%20Special%20tax%20provisions.md) | 46–50 |
-| [&sect; 00347 - Unclaimed property](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000347%20-%20Unclaimed%20property.md) | 50–51 |
-| [&sect; 00348 - Effect of conversion](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000348%20-%20Effect%20of%20conversion.md) | 51 |
+| [&sect; 00347 - Unclaimed property](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000347%20-%20Unclaimed%20property.md) | 50 |
+| [&sect; 00348 - Effect of conversion](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000348%20-%20Effect%20of%20conversion.md) | 50–51 |
 | [&sect; 00349 - Effect of dismissal](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000349%20-%20Effect%20of%20dismissal.md) | 51–52 |
 | [&sect; 00350 - Closing and reopening cases](Chapter%20003%20-%20Case%20Administration/Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000350%20-%20Closing%20and%20reopening%20cases.md) | 52 |
 | [Subchapter 004 (IV) - Administrative Powers](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/README.md) | 52 |
-| [&sect; 00361 - Adequate protection](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000361%20-%20Adequate%20protection.md) | 52–56 |
-| [&sect; 00362 - Automatic stay](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000362%20-%20Automatic%20stay.md) | 56–61 |
+| [&sect; 00361 - Adequate protection](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000361%20-%20Adequate%20protection.md) | 52–55 |
+| [&sect; 00362 - Automatic stay](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000362%20-%20Automatic%20stay.md) | 55–61 |
 | [&sect; 00363 - Use, sale, or lease of property](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000363%20-%20Use%2C%20sale%2C%20or%20lease%20of%20property.md) | 61–64 |
-| [&sect; 00364 - Obtaining credit](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000364%20-%20Obtaining%20credit.md) | 64–66 |
-| [&sect; 00365 - Executory contracts and unexpired leases](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000365%20-%20Executory%20contracts%20and%20unexpired%20leases.md) | 66–73 |
+| [&sect; 00364 - Obtaining credit](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000364%20-%20Obtaining%20credit.md) | 64–65 |
+| [&sect; 00365 - Executory contracts and unexpired leases](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000365%20-%20Executory%20contracts%20and%20unexpired%20leases.md) | 65–73 |
 | [&sect; 00366 - Utility service](Chapter%20003%20-%20Case%20Administration/Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000366%20-%20Utility%20service.md) | 73 |
 | [Chapter 005 - Creditors, the Debtor, and the Estate](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/README.md) | 73–74 |
 | [Subchapter 001 (I) - Creditors and Claims](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/README.md) | 74 |
 | [&sect; 00501 - Filing of proofs of claims or interests](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000501%20-%20Filing%20of%20proofs%20of%20claims%20or%20interests.md) | 74–75 |
-| [&sect; 00502 - Allowance of claims or interests](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000502%20-%20Allowance%20of%20claims%20or%20interests.md) | 75–80 |
-| [&sect; 00503 - Allowance of administrative expenses](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000503%20-%20Allowance%20of%20administrative%20expenses.md) | 80–81 |
-| [&sect; 00504 - Sharing of compensation](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000504%20-%20Sharing%20of%20compensation.md) | 81–82 |
-| [&sect; 00505 - Determination of tax liability](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000505%20-%20Determination%20of%20tax%20liability.md) | 82–85 |
-| [&sect; 00506 - Determination of secured status](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000506%20-%20Determination%20of%20secured%20status.md) | 85–86 |
+| [&sect; 00502 - Allowance of claims or interests](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000502%20-%20Allowance%20of%20claims%20or%20interests.md) | 75–79 |
+| [&sect; 00503 - Allowance of administrative expenses](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000503%20-%20Allowance%20of%20administrative%20expenses.md) | 79–81 |
+| [&sect; 00504 - Sharing of compensation](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000504%20-%20Sharing%20of%20compensation.md) | 81 |
+| [&sect; 00505 - Determination of tax liability](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000505%20-%20Determination%20of%20tax%20liability.md) | 81–84 |
+| [&sect; 00506 - Determination of secured status](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000506%20-%20Determination%20of%20secured%20status.md) | 84–86 |
 | [&sect; 00507 - Priorities](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000507%20-%20Priorities.md) | 86–92 |
 | [&sect; 00508 - Effect of distribution other than under this title](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000508%20-%20Effect%20of%20distribution%20other%20than%20under%20this%20title.md) | 92 |
 | [&sect; 00509 - Claims of codebtors](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000509%20-%20Claims%20of%20codebtors.md) | 92–93 |
-| [&sect; 00510 - Subordination](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000510%20-%20Subordination.md) | 93–94 |
-| [Subchapter 002 (II) - Debtor's Duties and Benefits](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/README.md) | 94 |
-| [&sect; 00521 - Debtor's duties](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/%C2%A7%2000521%20-%20Debtor%27s%20duties.md) | 94 |
+| [&sect; 00510 - Subordination](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20001%20%28I%29%20-%20Creditors%20and%20Claims/%C2%A7%2000510%20-%20Subordination.md) | 93 |
+| [Subchapter 002 (II) - Debtor's Duties and Benefits](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/README.md) | 93 |
+| [&sect; 00521 - Debtor's duties](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/%C2%A7%2000521%20-%20Debtor%27s%20duties.md) | 93–94 |
 | [&sect; 00522 - Exemptions](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/%C2%A7%2000522%20-%20Exemptions.md) | 94–100 |
 | [&sect; 00523 - Exceptions to discharge](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/%C2%A7%2000523%20-%20Exceptions%20to%20discharge.md) | 100–107 |
 | [&sect; 00524 - Effect of discharge](Chapter%20005%20-%20Creditors%2C%20the%20Debtor%2C%20and%20the%20Estate/Subchapter%20002%20%28II%29%20-%20Debtor%27s%20Duties%20and%20Benefits/%C2%A7%2000524%20-%20Effect%20of%20discharge.md) | 107–111 |
@@ -194,13 +194,13 @@ from edition to edition; the section files hold the text only.
 | [Subchapter 004 (IV) - Railroad Reorganization](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/README.md) | 209 |
 | [&sect; 01161 - Inapplicability of other sections](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001161%20-%20Inapplicability%20of%20other%20sections.md) | 209 |
 | [&sect; 01162 - Definition](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001162%20-%20Definition.md) | 209 |
-| [&sect; 01163 - Appointment of trustee](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001163%20-%20Appointment%20of%20trustee.md) | 209 |
-| [&sect; 01164 - Right to be heard](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001164%20-%20Right%20to%20be%20heard.md) | 209–210 |
+| [&sect; 01163 - Appointment of trustee](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001163%20-%20Appointment%20of%20trustee.md) | 209–210 |
+| [&sect; 01164 - Right to be heard](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001164%20-%20Right%20to%20be%20heard.md) | 210 |
 | [&sect; 01165 - Protection of the public interest](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001165%20-%20Protection%20of%20the%20public%20interest.md) | 210 |
 | [&sect; 01166 - Effect of subtitle IV of title 49 and of Federal, State, or local regulations](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001166%20-%20Effect%20of%20subtitle%20IV%20of%20title%2049%20and%20of%20Federal%2C%20State%2C%20or%20local%20regulations.md) | 210–211 |
 | [&sect; 01167 - Collective bargaining agreements](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001167%20-%20Collective%20bargaining%20agreements.md) | 211 |
-| [&sect; 01168 - Rolling stock equipment](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001168%20-%20Rolling%20stock%20equipment.md) | 211–212 |
-| [&sect; 01169 - Effect of rejection of lease of railroad line](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001169%20-%20Effect%20of%20rejection%20of%20lease%20of%20railroad%20line.md) | 212–213 |
+| [&sect; 01168 - Rolling stock equipment](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001168%20-%20Rolling%20stock%20equipment.md) | 211–213 |
+| [&sect; 01169 - Effect of rejection of lease of railroad line](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001169%20-%20Effect%20of%20rejection%20of%20lease%20of%20railroad%20line.md) | 213 |
 | [&sect; 01170 - Abandonment of railroad line](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001170%20-%20Abandonment%20of%20railroad%20line.md) | 213–214 |
 | [&sect; 01171 - Priority claims](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001171%20-%20Priority%20claims.md) | 214–215 |
 | [&sect; 01172 - Contents of plan](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/Subchapter%20004%20%28IV%29%20-%20Railroad%20Reorganization/%C2%A7%2001172%20-%20Contents%20of%20plan.md) | 215–216 |
@@ -239,14 +239,14 @@ from edition to edition; the section files hold the text only.
 | [&sect; 01307 - Conversion or dismissal](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20001%20%28I%29%20-%20Officers%2C%20Administration%2C%20and%20the%20Estate/%C2%A7%2001307%20-%20Conversion%20or%20dismissal.md) | 228–229 |
 | [Subchapter 002 (II) - The Plan](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/README.md) | 229 |
 | [&sect; 01321 - Filing of plan](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001321%20-%20Filing%20of%20plan.md) | 229 |
-| [&sect; 01322 - Contents of plan](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001322%20-%20Contents%20of%20plan.md) | 229–230 |
-| [&sect; 01323 - Modification of plan before confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001323%20-%20Modification%20of%20plan%20before%20confirmation.md) | 230–231 |
+| [&sect; 01322 - Contents of plan](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001322%20-%20Contents%20of%20plan.md) | 229–231 |
+| [&sect; 01323 - Modification of plan before confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001323%20-%20Modification%20of%20plan%20before%20confirmation.md) | 231 |
 | [&sect; 01324 - Confirmation hearing](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001324%20-%20Confirmation%20hearing.md) | 231 |
 | [&sect; 01325 - Confirmation of plan](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001325%20-%20Confirmation%20of%20plan.md) | 231–232 |
 | [&sect; 01326 - Payments](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001326%20-%20Payments.md) | 232–233 |
 | [&sect; 01327 - Effect of confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001327%20-%20Effect%20of%20confirmation.md) | 233 |
 | [&sect; 01328 - Discharge](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001328%20-%20Discharge.md) | 233–234 |
-| [&sect; 01329 - Modification of plan after confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001329%20-%20Modification%20of%20plan%20after%20confirmation.md) | 234 |
-| [&sect; 01330 - Revocation of an order of confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001330%20-%20Revocation%20of%20an%20order%20of%20confirmation.md) | 234–235 |
+| [&sect; 01329 - Modification of plan after confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001329%20-%20Modification%20of%20plan%20after%20confirmation.md) | 234–235 |
+| [&sect; 01330 - Revocation of an order of confirmation](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001330%20-%20Revocation%20of%20an%20order%20of%20confirmation.md) | 235 |
 | [Chapter 015 - Repealed](Chapter%20015%20-%20Repealed/README.md) | 235 |
 | [&sect; 01501 to 151326 - Repealed. Pub. L. 99&#8211;554, title II, &sect;231, Oct. 27, 1986, 100 Stat. 3103](Chapter%20015%20-%20Repealed/%C2%A7%2001501%20to%20151326%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93554%2C%20title%20II%2C%20%C2%A7231%2C%20Oct.%2027%2C%201986%2C%20100%20Stat.%203103.md) | 235 |

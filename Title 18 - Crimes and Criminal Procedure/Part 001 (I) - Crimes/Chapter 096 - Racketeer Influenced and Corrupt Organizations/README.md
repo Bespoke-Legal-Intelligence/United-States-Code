@@ -21,7 +21,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3582 of this title; title 7 section 12a.
+This chapter is referred to in sections 3582, 3663 of this title; title 7 section 12a.
 
 
 ---

@@ -30,5 +30,5 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 5384 of this title; title 10 sections 1590, 1601; title 22 section 3965; title 31 section 733; title 38 sections 7404, 7425.
+This section is referred to in sections 3151, 5384 of this title; title 10 section 1606; title 22 section 3965; title 31 section 733; title 38 sections 7404, 7425.
 

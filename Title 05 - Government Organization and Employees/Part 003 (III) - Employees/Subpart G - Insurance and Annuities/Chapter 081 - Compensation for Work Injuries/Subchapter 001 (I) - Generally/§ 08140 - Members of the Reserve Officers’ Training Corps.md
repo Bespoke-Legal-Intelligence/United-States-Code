@@ -12,7 +12,7 @@
 
 (d) The Secretary of the military department concerned shall cooperate fully with the Department of Labor in the prompt investigation and prosecution of a case involving the legal liability of a third party other than the United States.
 
-(e) An individual may not receive disability benefits under this section while on active duty with the armed forces, but these benefits may be reinstated when the individual is released from that active duty.
+(e) An individual may not receive disability benefits under this section while on active dutywith the armed forces, but these benefits may be reinstated when the individual is released from that active duty.
 
 (f) Expenses incurred by a military department in providing hospitalization, medical and surgical care, necessary transportation incident to that hospitalization or medical and surgical care, or in connection with a funeral and burial on behalf of an individual covered by subsection (a) of this section shall be reimbursed by the Secretary of Labor from the Employees’ Compensation Fund in accordance with this subchapter. However, reimbursement may not be made for hospitalization or medical or surgical care provided an individual by a military department in a facility of a military department.
 
@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 802.
 
@@ -44,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456, §633(b)(1)(A), substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
+1988—Subsec. (a). Pub. L. 100–456, §633(b)(1)(A), substituted “who suffers an injury, disability, or death” for “who suffers disability or death from an injury” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 100–456, §633(b)(1)(B), struck out “field” before “training”.
 

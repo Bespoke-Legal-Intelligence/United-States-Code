@@ -74,7 +74,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
-> If there was no incidental taking of marine mammals during the reporting period, a reportstating that fact shall be filed with the Secretary.
+> If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
 
 #### (d) Program for enhancement and verification of information received from vessel owners; confidentiality of information
 
@@ -170,7 +170,7 @@ The Secretary shall design and implement an information management system capabl
 
 #### (i) Utilization of services of State and Federal agencies and private entities
 
-When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by theSecretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
+When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by the Secretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
 
 #### (j) Confidentiality of information; exceptions
 
@@ -238,7 +238,7 @@ For the purposes of this section, the owner of fixed or other commercial fishing
 
 As used in this section—
 
-&emsp;(1) the term “fishery” has the same meaning as it does in section 1802(8) of this title.
+&emsp;(1) the term “fishery” has the same meaning as it does in section 1802(8) <sup>2</sup> of this title.
 
 &emsp;(2) the term “Secretary” means the Secretary of Commerce.
 
@@ -246,13 +246,15 @@ As used in this section—
 
 &emsp;(4) the term “vessel of the United States” has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
 
-(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995, 109 Stat. 390.)
+(Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995, 109 Stat. 390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### References in Text
 
-Section 1802 of this title, referred to in subsec. (<i>o</i>)(4), was subsequently amended, and section 1802(27) no longer defines the term “vessel of the United States”. However, such term is defined elsewhere in that section.
+Section 1802 of this title, referred to in subsec. (<i>o</i>)(1), (4), was subsequently amended, and section 1802(8) and (27) no longer defines the terms “fishery” and “vessel of the United States”. However, such terms are defined elsewhere in that section.
 
 #### Amendments
+
+1996—Subsecs. (a)(1), (b)(2)(B)(ii), (<i>o</i>)(1), (4). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802(8), (27) and 1824(b) of this title.
 
 1995—Pub. L. 104–43 amended directory language of Pub. L. 103–238. See 1994 Amendment note below.
 
@@ -261,6 +263,10 @@ Section 1802 of this title, referred to in subsec. (<i>o</i>)(4), was subsequent
 Pub. L. 103–228 substituted “May 1, 1994.” for “April 1, 1994,”.
 
 1993—Subsec. (a)(1). Pub. L. 103–86 substituted “April 1, 1994” for “October 1, 1993”.
+
+#### Effective Date of 1996 Amendment
+
+Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1995 Amendment
 

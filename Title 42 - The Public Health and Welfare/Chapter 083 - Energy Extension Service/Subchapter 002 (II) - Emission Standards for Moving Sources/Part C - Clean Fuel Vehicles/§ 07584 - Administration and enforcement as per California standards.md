@@ -1,6 +1,6 @@
 ### §7584. Administration and enforcement as per California standards
 
-Where the numerical clean-fuel vehicle standards applicable under this part to vehicles of not more than 8,500 lbs. GVWR are the same as numerical emission standards applicable in California under the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board (“CARB”), such standards shall be administered and enforced by the Administrator—
+Where the numerical clean-fuel vehicle standards applicable under this part to vehicles of not more than 8,500 lbs. GVWR are the same as numerical emission standards applicable in California under the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board (“CARB”), such standards shallbe administered and enforced by the Administrator—
 
 &emsp;(1) in the same manner and with the same flexibility as the State of California administers and enforces corresponding standards applicable under the Low-Emission Vehicle and Clean Fuels Regulations of the California Air Resources Board (“CARB”); and
 

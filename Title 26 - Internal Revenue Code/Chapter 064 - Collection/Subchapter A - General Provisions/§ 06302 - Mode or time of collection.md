@@ -76,7 +76,7 @@ The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes 
 
 #### (g) Deposits of social security taxes and withheld income taxes
 
-If, under regulations prescribed by the Secretary, a person is required to make deposits of taxes imposed by chapters 21 and 24 on the basis of eighth-month periods, such person shall make deposits of such taxes on the 1st banking day after any day on which such person has $100,000 or more of such taxes for deposit.
+If, under regulations prescribed by the Secretary, a person is required to make deposits of taxes imposed by chapters 21, 22, and 24 on the basis of eighth-month periods, such person shall make deposits of such taxes on the 1st banking day after any day on which such person has $100,000 or more of such taxes for deposit.
 
 #### (h) Use of electronic fund transfer system for collection of certain taxes
 
@@ -160,9 +160,13 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;<b>For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), 90 Stat. 1825, 1834; Oct. 28, 1977, Pub. L. 95–147, §3(a), 91 Stat. 1228; Nov. 6, 1978, Pub. L. 95–600, title I, §105(e), 92 Stat. 2776; Apr. 2, 1980, Pub. L. 96–223, title I, §101(c)(2), 94 Stat. 250; July 18, 1984, Pub. L. 98–369, div. A, title X, §1015(c), 98 Stat. 1018; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(G), 102 Stat. 1323; Nov. 10, 1988, Pub. L. 100–647, title VI, §6107(a), 102 Stat. 3712; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), 103 Stat. 2362, 2369, 2379; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), 104 Stat. 1388–437, 1388–470, 1388–528; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13242(d)(15), 107 Stat. 524; Dec. 8, 1993, Pub. L. 103–182, title V, §523(a), 107 Stat. 2161; Dec. 8, 1994, Pub. L. 103–465, title VII, §712(a), (d), 108 Stat. 4999, 5001.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), 90 Stat. 1825, 1834; Oct. 28, 1977, Pub. L. 95–147, §3(a), 91 Stat. 1228; Nov. 6, 1978, Pub. L. 95–600, title I, §105(e), 92 Stat. 2776; Apr. 2, 1980, Pub. L. 96–223, title I, §101(c)(2), 94 Stat. 250; July 18, 1984, Pub. L. 98–369, div. A, title X, §1015(c), 98 Stat. 1018; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(G), 102 Stat. 1323; Nov. 10, 1988, Pub. L. 100–647, title VI, §6107(a), 102 Stat. 3712; Dec. 19, 1989, Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), 103 Stat. 2362, 2369, 2379; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), 104 Stat. 1388–437, 1388–470, 1388–528; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13242(d)(15), 107 Stat. 524; Dec. 8, 1993, Pub. L. 103–182, title V, §523(a), 107 Stat. 2161; Dec. 8, 1994, Pub. L. 103–465, title VII, §712(a), (d), 108 Stat. 4999, 5001; Aug. 20, 1996, Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), 110 Stat. 1869, 1890.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–188, §1704(t)(52), provided that section 11801(c)(22)(A) of Pub. L. 101–508 shall be applied as if “chapters 21” appeared instead of “chapter 21” in the material to be stricken. See 1990 Amendment note below.
+
+Subsec. (g). Pub. L. 104–188, §1702(c)(3), inserted “, 22,” after “chapters 21”.
 
 1994—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
 
@@ -180,7 +184,7 @@ Special rule where due date falls on saturday, sunday, or holiday.—If, but for
 
 Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1990—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of “chapter 21, 31, 32, or 33, or by section 4481” for “chapter 21” and all that follows down through “chapter 37,”, was executed by making the substitution for “chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37” to reflect the probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of “chapter 21, 31, 32, or 33, or by section 4481” for “chapter 21” and all that follows down through “chapter 37,”, was executed by making the substitution for “chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37” to reflect the probable intent of Congress. See 1996 Amendment note above.
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted “communications services and” before “airline” in heading and “section 4251 or” after “imposed by” in text.
 
@@ -217,6 +221,10 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(17), (b)(13)(A), substituted “section
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 1956—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1702(c)(3) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -277,6 +285,10 @@ Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days
 #### Savings Provision
 
 For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Delay of Electronic Fund Transfer Requirement
+
+Section 1809 of Pub. L. 104–188 provided that: “Notwithstanding any other provision of law, the increase in the applicable required percentages for fiscal year 1997 in clauses (i)(IV) and (ii)(IV) of section 6302(h)(2)(C) of the Internal Revenue Code of 1986 shall not take effect before July 1, 1997.”
 
 #### Depositary Schedules
 

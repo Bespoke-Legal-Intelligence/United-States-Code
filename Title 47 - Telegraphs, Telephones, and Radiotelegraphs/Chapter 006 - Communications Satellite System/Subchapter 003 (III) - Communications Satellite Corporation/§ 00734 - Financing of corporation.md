@@ -22,7 +22,7 @@ Not more than an aggregate of 20 per centum of the shares of stock of the corpor
 
 #### (e) Inspection and copying rights
 
-The requirement of section 345(b) <sup>1</sup> of the District of Columbia Business Corporation Act (D.C. Code, sec. 29–345(b)) as to the percentage ofstock which a stockholder must hold in order to have the rights of inspection and copying set forth in that subsection shall not be applicable in the case of holders of the stock of the corporation, and they may exercise such rights without regard to the percentage of stock they hold.
+The requirement of section 345(b) <sup>1</sup> of the District of Columbia Business Corporation Act (D.C. Code, sec. 29–345(b)) as to the percentage of stock which a stockholder must hold in order to have the rights of inspection and copying set forth in that subsection shall not be applicable in the case of holders of the stock of the corporation, and they may exercise such rights without regard to the percentage of stock they hold.
 
 #### (f) Transfer and distribution of shares among authorized carriers
 

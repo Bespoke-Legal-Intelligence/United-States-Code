@@ -26,7 +26,7 @@ Changes in phraseology were also made.
 
 Section 1(b) of the International Banking Act of 1978, referred to in text, is classified to section 3101 of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) ofchapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 4.26 of the Farm Credit Act of 1971, referred to in text, is classified to section 2212 of Title 12.
 

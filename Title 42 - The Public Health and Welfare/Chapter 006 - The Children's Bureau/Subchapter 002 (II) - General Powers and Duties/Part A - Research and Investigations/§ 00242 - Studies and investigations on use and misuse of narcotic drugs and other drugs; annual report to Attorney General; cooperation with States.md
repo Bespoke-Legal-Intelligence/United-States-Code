@@ -18,7 +18,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a), is 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970,see section 704 of Pub. L. 91–513, set out as an Effective Date note under section 801 of Title 21, Food and Drugs.
 
 #### Savings Provision
 
@@ -30,5 +30,5 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Marihuana and Health Reporting
 
-Pub. L. 91–296, title V, June 30, 1970, 84 Stat. 352, as amended by Pub. L. 95–461, §3(a), Oct. 14, 1978, 92 Stat. 1268; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, wasrepealed by Pub. L. 98–24, §2(d), Apr. 26, 1983, 97 Stat. 182.
+Pub. L. 91–296, title V, June 30, 1970, 84 Stat. 352, as amended by Pub. L. 95–461, §3(a), Oct. 14, 1978, 92 Stat. 1268; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, known as the Marihuana and Health Reporting Act, which required the Secretary of Health and Human Services, after consultation with the Surgeon General and other appropriate individuals, to transmit a report to the Congress on or before January 31, 1971, and biennially thereafter (1) containing current information on the health consequences of using marihuana, and (2) containing such recommendations for legislative and administrative action as he may deem appropriate, was repealed by Pub. L. 98–24, §2(d), Apr. 26, 1983, 97 Stat. 182.
 

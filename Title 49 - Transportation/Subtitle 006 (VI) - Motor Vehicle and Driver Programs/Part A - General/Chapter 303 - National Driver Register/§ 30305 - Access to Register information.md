@@ -16,7 +16,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (4) An individual who is employed, or is seeking employment, by a rail carrier as an operator of a locomotive may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer or to the Secretary of Transportation. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(5) An individual who holds, or is applying for, a license or certificate of registry under section 7101 of title 46, or a merchant mariner's document under section 7302 of title 46, may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Secretary of the department in which the Coast Guard is operating. The Secretary may receive the information and shall make the information available to the individual for review and written comment before denying, suspending, or revoking the license, certificate, or document of the individual based on the information and beforeusing the information in an action taken under chapter 77 of title 46. The Secretary may not otherwise divulge or use the information, except for purposes of section 7101, 7302, or 7703 of title 46. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+(5) An individual who holds, or is applying for, a license or certificate of registry under section 7101 of title 46, or a merchant mariner's document under section 7302 of title 46, may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Secretary of the department in which the Coast Guard is operating. The Secretary may receive the information and shall make the information available to the individual for review and written comment before denying, suspending, or revoking the license, certificate, or document of the individual based on the information and before using the information in an action taken under chapter 77 of title 46. The Secretary may not otherwise divulge or use the information, except for purposes of section 7101, 7302, or 7703 of title 46. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (6) An individual may request the chief driver licensing official of a State to obtain information about the individual under subsection (a) of this section—
 
@@ -26,7 +26,11 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 &emsp;(C) to obtain a certified copy of the information.
 
-(7) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
+(7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+
+(8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under paragraph (2) to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
+
+(8) <sup>1</sup> A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
 
 (c)
 
@@ -42,11 +46,13 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -68,7 +74,25 @@ Subsection (d) is substituted for the last 2 sentences (added twice by mistake) 
 
 Act of July 14, 1960, referred to in subsec. (d), is set out as a note under section 30302 of this title.
 
+#### Amendments
+
+1996—Subsec. (b)(7). Pub. L. 104–324, §207(b), added par. (7). Former par. (7), relating to individual seeking employment as pilot, redesignated (8).
+
+Pub. L. 104–264, §502(b), added par. (7). Former par. (7), relating to request, redesignated (8).
+
+Subsec. (b)(8). Pub. L. 104–324, §207(b), redesignated par. (7), relating to individual seeking employment as pilot, as (8).
+
+Pub. L. 104–264, §502(b), redesignated par. (7), relating to request, as (8).
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+Section 502(d) of Pub. L. 104–264 provided that: “The amendments made by this section \[amending this section and sections 44936 and 46301 of this title\] shall apply to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following the date of the enactment of this Act \[Oct. 9, 1996\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 20135, 30301, 30302, 30307 of this title.
+This section is referred to in sections 20135, 30301, 30302, 30307, 44936 of this title; title 14 section 93.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(9)”.</i>
 

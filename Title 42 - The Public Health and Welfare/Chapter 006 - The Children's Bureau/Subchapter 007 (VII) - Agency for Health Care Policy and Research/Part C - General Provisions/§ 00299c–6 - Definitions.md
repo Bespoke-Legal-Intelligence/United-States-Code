@@ -16,9 +16,9 @@ For purposes of this subchapter:
 
 Prior sections 299d to 299j were repealed by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
-Section 299d, act July 1, 1944, ch. 373, title IX, §904, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 928;amended Oct. 15, 1968, Pub. L. 90–574, title I, §104, 82 Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§106, 111(b), 84 Stat. 1299, 1301, authorized Secretary to make grants for establishment and operation of regional medical programs and set forth requirements for grant applications.
+Section 299d, act July 1, 1944, ch. 373, title IX, §904, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 928; amended Oct. 15, 1968, Pub. L. 90–574, title I, §104, 82 Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§106, 111(b), 84 Stat. 1299, 1301, authorized Secretary to make grants for establishment and operation of regional medical programs and set forth requirements for grant applications.
 
-Section 299e, act July 1, 1944, ch. 373, title IX, §905, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 929; amended Oct. 15, 1968, Pub. L. 90–574, title I, §105, 82 Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§107(a), 111(b), title VI, §601(b)(2), (4), 84 Stat. 1299, 1301, 1311; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided for establishment of a National Advisory Council on Regional Medical Programs and its functions.
+Section 299e, act July 1, 1944, ch. 373, title IX, §905, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 929; amended Oct. 15, 1968, Pub. L. 90–574, title I, §105, 82Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§107(a), 111(b), title VI, §601(b)(2), (4), 84 Stat. 1299, 1301, 1311; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided for establishment of a National Advisory Council on Regional Medical Programs and its functions.
 
 Section 299f, act July 1, 1944, ch. 373, title IX, §906, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 930; amended Oct. 30, 1970, Pub. L. 91–515, title I, §111(b), 84 Stat. 1301, authorized Secretary to establish rules and regulations covering terms of approval of grant applications and coordination of programs.
 

@@ -8,11 +8,7 @@
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §3(b)(2), renumbered section 587 of this title as this section.
+1992—Pub. L. 102–354, §3(b)(2), renumbered section 587 of this title as this section.
 
 Subsec. (b). Pub. L. 102–354, §3(b)(3), substituted “section 573” for “section 583”.
-
-#### Termination Date; Savings Provision
-
-For termination of authority under this section, see section 11 of Pub. L. 101–552, set out as a note under section 571 of this title.
 

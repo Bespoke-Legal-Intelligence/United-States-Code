@@ -6,7 +6,7 @@ A State may regulate the sale or use of any federally registered pesticide or de
 
 #### (b) Uniformity
 
-Such State shall not impose or continue in effect any requirements for labeling or packaging in addition to or different from those required under this subchapter.
+Such State shall not impose or continue in effect any requirements for labeling or packagingin addition to or different from those required under this subchapter.
 
 #### (c) Additional uses
 

@@ -17,3 +17,4 @@ This part is referred to in sections 6939b, 9601 of this title; title 33 section
 - [&sect; 00300h&#8211;5 - Regulation of State programs](%C2%A7%2000300h%E2%80%935%20-%20Regulation%20of%20State%20programs.md)
 - [&sect; 00300h&#8211;6 - Sole source aquifer demonstration program](%C2%A7%2000300h%E2%80%936%20-%20Sole%20source%20aquifer%20demonstration%20program.md)
 - [&sect; 00300h&#8211;7 - State programs to establish wellhead protection areas](%C2%A7%2000300h%E2%80%937%20-%20State%20programs%20to%20establish%20wellhead%20protection%20areas.md)
+- [&sect; 00300h&#8211;8 - State ground water protection grants](%C2%A7%2000300h%E2%80%938%20-%20State%20ground%20water%20protection%20grants.md)

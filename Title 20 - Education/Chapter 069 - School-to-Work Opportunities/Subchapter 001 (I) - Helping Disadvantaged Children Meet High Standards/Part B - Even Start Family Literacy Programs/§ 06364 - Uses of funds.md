@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out an Even Start program under this part, a recipient of funds under this part shall use such funds to pay the Federal share of the cost of providing family-centered education programs that involve parents and children, from birth through age seven, in a cooperative effort to help parents become full partners in the education of their children and to assist children in reaching their full potential as learners.
+In carrying out an Even Start program under this part, a recipient of funds under this part shall use such funds to pay the Federal share of the cost of providing intensive family-centered education programs that involve parents and children, from birth through age seven, in a cooperative effort to help parents become full partners in the education of their children and to assist children in reaching their full potential as learners.
 
 #### (b) Federal share limitation
 
@@ -34,7 +34,11 @@ In carrying out an Even Start program under this part, a recipient of funds unde
 
 &emsp;Federal funds provided under this part may not be used for the indirect costs of a program assisted under this part, except that the Secretary may waive this paragraph if an eligible recipient of funds reserved under section 6362(a)(1)(C) of this title demonstrates to the Secretary's satisfaction that such recipient otherwise would not be able to participate in the program assisted under this part.
 
-(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580.)
+(Pub. L. 89–10, title I, §1204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3580;amended Pub. L. 104–134, title I, §101(b) \[title II, §2755(a)\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–151; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134 inserted “intensive” after “cost of providing”.
 
 #### Section Referred to in Other Sections
 

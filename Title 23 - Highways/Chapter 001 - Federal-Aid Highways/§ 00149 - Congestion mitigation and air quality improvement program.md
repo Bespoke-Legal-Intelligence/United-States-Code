@@ -8,7 +8,7 @@ Establishment.—The Secretary shall establish a congestion mitigation and air q
 
 Eligible Projects.—Except as provided in subsection (c), a State may obligate funds apportioned to it under section 104(b)(2) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that was designated as a nonattainment area under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) during any part of fiscal year 1994 and—
 
-&emsp;(1)(A) if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines, on the basis of information published by the Environmental Protection Agency pursuant to section 108(f)(1)(A) of the Clean Air Act (other than clauses (xii) and (xvi) of such section), that the project or program is likely to contribute to—
+&emsp;(1)(A) if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines, on the basis of information published by the EnvironmentalProtection Agency pursuant to section 108(f)(1)(A) of the Clean Air Act (other than clauses (xii) and (xvi) of such section), that the project or program is likely to contribute to—
 
 &emsp;&emsp;(i) the attainment of a national ambient air quality standard; or
 
@@ -32,7 +32,7 @@ States Without a Nonattainment Area.—If a State does not have a nonattainment 
 
 Applicability of Planning Requirements.—Programming and expenditure of funds for projects under this section shall be consistent with the requirements of sections 134 and 135 of this title.
 
-(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562;Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957.)
+(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957.)
 
 #### References in Text
 

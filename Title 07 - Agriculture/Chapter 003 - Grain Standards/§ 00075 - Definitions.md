@@ -128,5 +128,5 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 49 section 10709, 11101.
+This section is referred to in title 49 sections 10709, 11101.
 

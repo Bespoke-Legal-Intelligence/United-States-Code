@@ -34,7 +34,7 @@ In awarding grants pursuant to subsection (a) of this section, the Secretary sha
 
 #### (d) Waiver by Secretary
 
-The Secretary may waive all or any portion of the requirement under subsection (b) of this section upon application of any institution which is eligible for funds under subchapter III of this chapter, pursuant to criteria established by the Secretary by regulation.
+The Secretary may waive all or any portion of the requirement under subsection (b) of this section upon application of any institution which is eligible for funds under subchapter III of thischapter, pursuant to criteria established by the Secretary by regulation.
 
 #### (e) Selection requirements
 

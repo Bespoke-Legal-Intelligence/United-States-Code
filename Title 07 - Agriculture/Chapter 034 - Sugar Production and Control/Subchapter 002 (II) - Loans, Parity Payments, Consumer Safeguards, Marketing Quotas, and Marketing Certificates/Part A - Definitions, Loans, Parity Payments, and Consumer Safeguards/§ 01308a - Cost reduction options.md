@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, whenever the Secretary of Agricultur
 
 #### (b) Reservation of Secretary's right to reopen or change contracts if producer agrees
 
-In the announcement of the specific provisions of any commodity program administered by the Secretary of Agriculture, the Secretary shall include a statement setting forth which, if any, of the actions are to be initially included in the program, and a statement that the Secretary reserves the right to initiate at a later date any action not previously included but authorized by this section, including the right to reopen and change a contract entered into by a producer under the program if the producer voluntarily agrees to the change.
+In the announcement of the specific provisions of any commodity program administered by the Secretary of Agriculture, the Secretary shall include a statement setting forth which, if any, of the actions are to be initially included in the program, and a statement that the Secretary reserves the right to initiate at a later date any action not previously included but authorized bythis section, including the right to reopen and change a contract entered into by a producer under the program if the producer voluntarily agrees to the change.
 
 #### (c) Purchase from other sources of commodities covered by nonrecourse loans
 

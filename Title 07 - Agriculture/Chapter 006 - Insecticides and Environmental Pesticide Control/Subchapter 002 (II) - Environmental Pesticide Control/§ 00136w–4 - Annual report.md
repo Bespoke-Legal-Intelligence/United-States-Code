@@ -6,5 +6,5 @@ The Administrator shall submit an annual report to Congress before February 16 o
 
 #### Studies; Reports and Recommendations to Congressional Committees
 
-Section 27 of Pub. L. 96–396 required the Administrator of the Environmental Protection Agency to report to the Senate Committee on Agriculture, Nutrition, and Forestry and to the House Committee on Agriculture not later than 9 months after Sept. 30, 1978 in respect to fee collection from pesticide registrants, not later than 6 months after Sept. 30, 1978 in respect to pesticide uses, and not later than 9 months after Sept. 30, 1978 in respect to problems of minor uses of pesticides not specifically permitted by labeling.
+Section 27 of Pub. L. 96–396 required the Administrator of the Environmental Protection Agency to report to the Senate Committee on Agriculture, Nutrition, and Forestry and to the House Committee on Agriculture not later than 9 months after Sept. 30, 1978 in respect to fee collection from pesticide registrants, notlater than 6 months after Sept. 30, 1978 in respect to pesticide uses, and not later than 9 months after Sept. 30, 1978 in respect to problems of minor uses of pesticides not specifically permitted by labeling.
 

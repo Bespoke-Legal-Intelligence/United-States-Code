@@ -38,7 +38,7 @@ No interest or other income on any funds made available under this subchapter sh
 
 #### (e) Recoveries
 
-For the purposes of under recovery and over recovery determinations by any Federal agency for any other funds, from whatever source derived, funds received under this subchapter shall not be taken into consideration.
+For the purposes of under recovery and over recovery determinations by any Federal agencyfor any other funds, from whatever source derived, funds received under this subchapter shall not be taken into consideration.
 
 (Pub. L. 102–325, title XIII, §1316, July 23, 1992, 106 Stat. 801.)
 

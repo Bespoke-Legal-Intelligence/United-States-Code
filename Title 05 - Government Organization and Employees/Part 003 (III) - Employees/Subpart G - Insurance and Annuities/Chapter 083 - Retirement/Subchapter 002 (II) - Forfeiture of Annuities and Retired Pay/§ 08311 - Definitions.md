@@ -24,7 +24,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(E) that portion of an annuity awarded under section 228b or 228e of title 45 after September 25, 1961, which would be payable without taking into account military service creditable under section 228c–1 of title 45;
 
-&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent's or survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
+&emsp;&emsp;(F) a retirement benefit, including a disability insurance benefit and a dependent'sor survivor's benefit under subchapter II of chapter 7 of title 42, awarded before September 1, 1954, to an individual or his survivor or beneficiary, insofar as the individual, before September 1, 1954—
 
 &emsp;&emsp;&emsp;(i) was convicted of an offense named by subsection (b) of section 8312 of this title, to the extent provided by that subsection; or
 
@@ -66,7 +66,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2281.
 
@@ -80,7 +82,7 @@ In paragraph (1)(B), the reference to “Resident Commissioner” is omitted as 
 
 In paragraph (1)(C), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, or the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
-In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, theCoast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
+In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
 The definition of “armed forces” in former section 2281(4) is omitted as unnecessary in view of the definition of “armed forces” in section 2101.
 
@@ -96,7 +98,7 @@ Section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504
 
 #### Amendments
 
-<b>1991</b>—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+1991—Pars. (2)(A), (3)(A). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 #### Section Referred to in Other Sections
 

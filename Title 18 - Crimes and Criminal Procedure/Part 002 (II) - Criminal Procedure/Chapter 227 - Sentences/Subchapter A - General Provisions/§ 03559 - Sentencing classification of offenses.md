@@ -50,7 +50,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(B) the term “arson” means an offense that has as its elements maliciously damaging or destroying any building, inhabited structure, vehicle, vessel, or real property by means of fire or an explosive;
 
-&emsp;&emsp;(C) the term “extortion” means an offense that has as its elements the extraction of anything of value from another person bythreatening or placing that person in fear of injury to any person or kidnapping of any person;
+&emsp;&emsp;(C) the term “extortion” means an offense that has as its elements the extraction of anything of value from another person by threatening or placing that person in fear of injury to any person or kidnapping of any person;
 
 &emsp;&emsp;(D) the term “firearms use” means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used was subject to prosecution in a court of the United States or a court of a State, or both;
 
@@ -132,5 +132,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3154, 3582 of this title.
+This section is referred to in sections 3154, 3582 of this title; title 49 section 46502.
 

@@ -22,7 +22,7 @@ Pursuant to an investigation conducted under subsection (b) of this section, a S
 
 #### Amendments
 
-1986—Subsec. (b)(1). Pub. L. 99–425 inserted “evaluations and” after “fiscal year”, inserted “, and especially with respect to compliance with subsections (a) and (b) of section 9904 of this title, and clauses (1) through (11) of subsection (c) of such section” before the period at end of first sentence, and inserted provisions at end relating to identifying the impact that assistance under this chapter has on children, pregnant adolescents, homeless families, and elderly poor, sending reports to evaluated States, submitting State plans of action, and submitting the results of evaluations to committees of Congress.
+1986—Subsec. (b)(1). Pub. L. 99–425 inserted “evaluations and” after “fiscal year”, inserted “, and especially with respect to compliance with subsections (a) and (b) of section 9904 of this title, and clauses (1)through (11) of subsection (c) of such section” before the period at end of first sentence, and inserted provisions at end relating to identifying the impact that assistance under this chapter has on children, pregnant adolescents, homeless families, and elderly poor, sending reports to evaluated States, submitting State plans of action, and submitting the results of evaluations to committees of Congress.
 
 1984—Subsec. (b)(2). Pub. L. 98–558, §205(a)(1), substituted “the Secretary” for “he” before “shall conduct an investigation”.
 
@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 98–558, §205(b), struck out subsec. (d) which related to
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1986 Amendment
 

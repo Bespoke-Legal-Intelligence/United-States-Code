@@ -1,6 +1,12 @@
 ### §5582. Designation of beneficiary; order of precedence
 
-(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe.
+(a) The employing agency shall notify each employee of his right to designate a beneficiary or beneficiaries to receive money due, and of the disposition of money due if a beneficiary is not designated. An employee may change or revoke a designation at any time under regulations promulgated—
+
+&emsp;(1) by the Director of the Office of Personnel Management or his designee, in the case of an employee of an executive agency;
+
+&emsp;(2) jointly by the President pro tempore of the Senate and the Speaker of the House of Representatives, or their designee, in the case of an employee of the legislative branch; and
+
+&emsp;(3) by the Chief Justice of the United States or his or her designee, in the case of an employee of the judicial branch.
 
 (b) In order to facilitate the settlement of the accounts of deceased employees, money due an employee at the time of his death shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and the payment bars recovery by another person of amounts so paid:
 
@@ -16,7 +22,7 @@
 
 &emsp;Sixth, if none of the above, to the person or persons entitled under the laws of the domicile of the employee at the time of his death.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 495.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 495; Pub. L. 104–316, title I, §103(c), Oct. 19, 1996, 110 Stat. 3828.)
 
 Historical and Revision Notes
 
@@ -24,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -43,6 +51,10 @@ Subsection (a) is restated for clarity. The word “officers” is omitted as in
 In subsection (b), so much of the first 35 words of former section 61f as states the application is carried into the definition of “employee” in section 5581(1). The word “officer” is omitted as included in “employee”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–316 substituted “An employee may change or revoke a designation at any time under regulations promulgated—” for “An employee may change or revoke a designation at any time under such regulations as the Comptroller General of the United States may prescribe.” in introductory provisions and added pars. (1) to (3).
 
 #### Section Referred to in Other Sections
 

@@ -14,11 +14,19 @@ Imminent Hazards.—(1) If the Secretary has reason to believe that an imminent 
 
 (2) On request of the Secretary, the Attorney General shall bring an action under paragraph (1) of this subsection.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 780.)
+(c)
+
+Withholding of Clearance.—(1) If any owner, operator, or individual in charge of a vessel is liable for a civil penalty under section 5123 of this title or for a fine under section 5124 of this title, or if reasonable cause exists to believe that such owner, operator, or individual in charge may be subject to such a civil penalty or fine, the Secretary of the Treasury, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91).
+
+(2) Clearance refused or revoked under this subsection may be granted upon the filing of a bond or other surety satisfactory to the Secretary.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 780; Pub. L. 104–324, title III, §312(a), Oct. 19, 1996, 110 Stat. 3920.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -45,6 +53,10 @@ In this section, the words “bring a civil action” are substituted for “bri
 In subsection (a), the text of 49 App.:1808(a) (last sentence words after semicolon) and the words “for equitable relief” in 49 App.:1810(a) are omitted as surplus. The words “enforce this chapter” are substituted for “redress a violation by any person of a provision of this chapter” to eliminate unnecessary words. The words “regulation prescribed or order issued” are substituted for “order or regulation issued” for consistency in the revised title and with other titles of the Code. The words “The court may award appropriate relief, including” are substituted for “Such district courts shall have jurisdiction to determine such actions and may grant such relief as is necessary or appropriate, including mandatory or prohibitive injunctive relief, interim equitable relief, and” to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words “as is necessary” are omitted as surplus.
+
+#### Amendments
+
+1996—Subsec. (c). Pub. L. 104–324 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

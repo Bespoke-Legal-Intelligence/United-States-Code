@@ -74,7 +74,7 @@ For the purpose of subsection (a)(3) of this section, the term “separate and i
 
 &emsp;(1) the members of the postsecondary education governing body of the accrediting agency or association are not elected or selected by the board or chief executive officer of any related, associated, or affiliated trade association or membership organization;
 
-&emsp;(2) among the membership of the board of the accrediting agency or association there shall be one public member (who is not a member of any related trade or membership organization) for each six members of the board, with a minimum of one such public member, and guidelines are established for such members to avoid conflicts of interest;
+&emsp;(2) among the membership of the board of the accrediting agency or association thereshall be one public member (who is not a member of any related trade or membership organization) for each six members of the board, with a minimum of one such public member, and guidelines are established for such members to avoid conflicts of interest;
 
 &emsp;(3) dues to the accrediting agency or association are paid separately from any dues paid to any related, associated, or affiliated trade association or membership organization; and
 
@@ -128,7 +128,7 @@ An institution may not be certified or recertified as an institution of higher e
 
 &emsp;(2) has had its accreditation withdrawn, revoked, or otherwise terminated for cause during the preceding 24 months, unless such withdrawal, revocation, or termination has been rescinded by the same accrediting agency; or
 
-&emsp;(3) has withdrawn from accreditation voluntarily under a show cause or suspension order during the preceding 24 months, unless such order has been rescinded by the same accrediting agency.
+&emsp;(3) has withdrawn from accreditation voluntarily under a show cause or suspension orderduring the preceding 24 months, unless such order has been rescinded by the same accrediting agency.
 
 #### (k) Religious institution rule
 
@@ -158,7 +158,7 @@ The Secretary may only recognize accrediting agencies or associations which accr
 
 (2) The Secretary shall place a priority for review of accrediting agencies or associations on those agencies or associations that accredit institutions of higher education that participate most extensively in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42 and on those agencies or associations which have been the subject of the most complaints or legal actions.
 
-(3) The Secretary shall consider all available relevant information concerning the compliance of the accrediting agency or association with the standards provided for in this section, including any complaints or legal actions against such agency or association. In cases where deficiencies in the performance of an accreditationagency or association with respect to the requirements of this section are noted, the Secretary shall take these deficiencies into account in the approval process. The Secretary shall not, under any circumstances, base decisions on the approval or disapproval of accreditation agencies or associations on standards other than those contained in this section.
+(3) The Secretary shall consider all available relevant information concerning the compliance of the accrediting agency or association with the standards provided for in this section, including any complaints or legal actions against such agency or association. In cases where deficiencies in the performance of an accreditation agency or association with respect to the requirements of this section are noted, the Secretary shall take these deficiencies into account in the approval process. The Secretary shall not, under any circumstances, base decisions on the approval or disapproval of accreditation agencies or associations on standards other than those contained in this section.
 
 (4) The Secretary shall maintain sufficient documentation to support the conclusions reached in the approval process, and, upon disapproval of any accreditation agency or association, shall make publicly available the reason for such disapproval, including reference to the specific standards under this section which have not been fulfilled.
 
@@ -180,7 +180,7 @@ Subsec. (a)(3)(A). Pub. L. 103–208, §2(i)(4), substituted “subparagraph (A)
 
 Subsec. (a)(5). Pub. L. 103–208, §2(i)(5), substituted a semicolon for the period at end of subpar. (L) and inserted after subpar. (L) the following: “except that subparagraphs (G), (H), (I), (J), and (L) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;”.
 
-Subsec. (c). Pub. L. 103–208, §2(i)(6), substituted “as a reliable authority as to the quality of education or training offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42” for “for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42”.
+Subsec. (c). Pub. L. 103–208, §2(i)(6), substituted “as a reliable authority as to the quality of education ortraining offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42” for “for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
 Subsec. (<i>l</i>)(2). Pub. L. 103–208, §2(i)(7), substituted “institution” for “institutution” and “association, described in paragraph (2)(A)(i), (2)(B), or (2)(C) of subsection (a) of this section, leading to the suspension” for “association leading to the suspension”.
 

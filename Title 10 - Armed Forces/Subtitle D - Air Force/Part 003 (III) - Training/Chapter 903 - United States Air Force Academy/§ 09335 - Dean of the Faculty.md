@@ -32,7 +32,7 @@ The word “regular” is deleted \[in sections 9335 and 9336\] to make clear th
 
 #### Amendments
 
-1992—Pub. L. 102–484 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “The Dean has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Air Force, if appointed to that grade by the President, by and withthe advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
+1992—Pub. L. 102–484 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “The Dean has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Air Force, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
 
 1986—Subsec. (b). Pub. L. 99–661 amended subsec. (b) generally, substituting “while serving in such position” for “while serving as such” and “if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed” for “except that his retirement age”.
 

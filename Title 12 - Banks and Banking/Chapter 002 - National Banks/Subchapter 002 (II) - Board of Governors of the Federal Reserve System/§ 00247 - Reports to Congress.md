@@ -18,5 +18,5 @@ Pub. L. 95–369, §3(g), Sept. 17, 1978, 92 Stat. 610, provided that the Board 
 
 #### Effect of International Banking Act of 1978 on International Banks; Report to Congress
 
-Pub. L. 95–369, §3(h), Sept. 17, 1978, 92 Stat. 610, provided that: “As part of its annual report pursuant to section 10 of the Federal Reserve Act \[this section\], the Board shall include its assessment of the effects of theamendments made by this Act \[see Short Title note set out under section 3101 of this title\] on the capitalization and activities of corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act \[sections 601 to 604 and 611 to 631 of this title\], and on commercial banks and the banking system.”
+Pub. L. 95–369, §3(h), Sept. 17, 1978, 92 Stat. 610, provided that: “As part of its annual report pursuant to section 10 of the Federal Reserve Act \[this section\], the Board shall include its assessment of the effects of the amendments made by this Act \[see Short Title note set out under section 3101 of this title\] on the capitalization and activities of corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act \[sections 601 to 604 and 611 to 631 of this title\], and on commercial banks and the banking system.”
 

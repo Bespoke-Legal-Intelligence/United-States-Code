@@ -2,7 +2,7 @@
 
 (a) The adjutant general or an assistant adjutant general of the Army National Guard of a State may, upon being extended Federal recognition, be appointed as a reserve officer of the Army as of the date on which he is so recognized.
 
-(b) The adjutant general or an assistant adjutant general of the Air National Guard of aState may be appointed in the reserve commissioned grade in which Federal recognition in the Air National Guard is extended to him.
+(b) The adjutant general or an assistant adjutant general of the Air National Guard of a State may be appointed in the reserve commissioned grade in which Federal recognition in the Air National Guard is extended to him.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(c)(1), Oct. 5, 1994, 108 Stat. 2990.)
 

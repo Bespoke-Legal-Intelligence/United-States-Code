@@ -1,0 +1,58 @@
+### §104b. Report of disbursements for House of Representatives
+
+#### (a) In general
+
+Not later than 60 days after the last day of each semiannual period, the Chief Administrative Officer of the House of Representatives shall submit to the House of Representatives, with respect to that period, a detailed, itemized report of the disbursements for the operations of the House of Representatives.
+
+#### (b) Contents
+
+The report required by subsection (a) of this section shall include—
+
+&emsp;(1) the name of each person who receives a payment from the House of Representatives;
+
+&emsp;(2) the quantity and price of any item furnished to the House of Representatives;
+
+&emsp;(3) a description of any service rendered to the House of Representatives, together with a statement of the time required for the service, and the name, title, and amount paid to each person who renders the service;
+
+&emsp;(4) a statement of all amounts appropriated to, or received, or expended by the House of Representatives, and any unexpended balances of such amounts;
+
+&emsp;(5) the information submitted to the Comptroller General under section 3523(a) of title 31; and
+
+&emsp;(6) such additional information as may be required by regulation of the Committee on House Oversight of the House of Representatives.
+
+#### (c) Exclusion
+
+Notwithstanding subsection (b) of this section, if a voucher is for payment to an individual for attendance as a witness before a committee of the Congress in executive session, the report for the semiannual period in which the appearance occurs shall show only the date of payment, voucher number, and amount paid. Any information excluded from a report under the preceding sentence shall be included in the report for the next period.
+
+#### (d) House document
+
+Each report under this section shall be printed as a House document.
+
+#### (e) Conforming provision
+
+The provisions of—
+
+&emsp;(1) sections 102, 103, and 104 <sup>1</sup> of this title; and
+
+&emsp;(2) section 104a of this title;
+
+> that require submission and printing of statements and reports are not applicable to the House of Representatives.
+
+#### (f) Effective date
+
+This section shall apply to the semiannual periods of January 1 through June 30 and July 1through December 31 of each year, beginning with the semiannual period in which this section is enacted.
+
+(Pub. L. 104–186, title I, §106, Aug. 20, 1996, 110 Stat. 1722.)
+
+#### References in Text
+
+Section 102 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 104–186, title II, §204(52), Aug. 20, 1996, 110 Stat. 1737.
+
+Sections 103 and 104 of this title, referred to in subsec. (e)(1), were omitted from the Code.
+
+#### Similar Provisions
+
+Provisions similar to those in this section are contained in section 104a of this title, but were made inapplicable to the House of Representatives by subsec. (e) of this section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -68,11 +68,19 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 &emsp;Paragraphs (1) and (2) shall not apply to any cessation resulting from bankruptcy.
 
-(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 548.)
+(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, §1703(n)(7), Aug. 20, 1996, 110 Stat. 1877.)
 
 #### Prior Provisions
 
 A prior section 1394, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895; amended Pub. L. 96–595, §3(a)(6)–(8), Dec. 24, 1980, 94 Stat. 3465, related to rules applicable to distributions of an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
 A prior section 1395, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895, related to adjustment to basis of stock of shareholders, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
+
+#### Amendments
+
+1996—Subsec. (e)(2). Pub. L. 104–188, which directed that par. (2) be amended by striking “(i)” and inserting “(A)” and by striking “(ii)” and inserting “(B)”, could not be executed, because par. (2) contained neither “(i)” nor “(ii)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 

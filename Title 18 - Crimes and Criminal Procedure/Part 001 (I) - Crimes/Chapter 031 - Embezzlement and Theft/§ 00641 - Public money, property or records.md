@@ -4,11 +4,11 @@ Whoever embezzles, steals, purloins, or knowingly converts to his use or the use
 
 Whoever receives, conceals, or retains the same with intent to convert it to his use or gain, knowing it to have been embezzled, stolen, purloined or converted—
 
-Shall be fined under this title or imprisoned not more than ten years, or both; but if the value of such property does not exceed the sum of $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than ten years, or both; but if the value of such property does not exceed the sum of $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 The word “value” means face, par, or market value, or cost price, either wholesale or retail, whichever is greater.
 
-(June 25, 1948, ch. 645, 62 Stat. 725; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 725; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), (L), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -39,6 +39,8 @@ Also, with respect to section 101 of title 18, U.S.C., 1940 ed., this section me
 Changes were made in phraseology.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100” in third par.
 
 1994—Pub. L. 103–322, in third par., substituted “fined under this title” for “fined not more than $10,000” after “Shall be” and for “fined not more than $1,000” after “he shall be”.
 

@@ -1,6 +1,6 @@
 ### §1722. Determination of inability to defray necessary expenses; income thresholds
 
-(a) For the purposes of section 1710(a)(1)(I) of this title, a veteran shall be considered to be unable to defray the expenses of necessary care if—
+(a) For the purposes of section 1710(a)(2)(G) of this title, a veteran shall be considered to be unable to defray the expenses of necessary care if—
 
 &emsp;(1) the veteran is eligible to receive medical assistance under a State plan approved under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.);
 
@@ -14,7 +14,7 @@
 
 &emsp;(B) $20,688 in the case of a veteran with one dependent, plus $1,150 for each additional dependent.
 
-(2) For a calendar year beginning after December 31, 1990, the amounts in effect for purposes ofthis subsection shall be the amounts in effect for the preceding calendar year as adjusted under subsection (c) of this section.
+(2) For a calendar year beginning after December 31, 1990, the amounts in effect for purposes of this subsection shall be the amounts in effect for the preceding calendar year as adjusted under subsection (c) of this section.
 
 (c) Effective on January 1 of each year, the amounts in effect under subsection (b) of this section shall be increased by the percentage by which the maximum rates of pension were increased under section 5312(a) of this title during the preceding calendar year.
 
@@ -38,7 +38,7 @@
 
 &emsp;(2) The term “corpus of the estate of the veteran” includes the corpus of the estates of the veteran's spouse and dependent children, if any.
 
-&emsp;(3) The term “previous year” means the calendar year preceding the year in which the veteran applies for care or services under section 1710(a) or 1712(f) of this title.
+&emsp;(3) The term “previous year” means the calendar year preceding the year in which theveteran applies for care or services under section 1710(a) of this title.
 
 (g) For the purposes of section 1724(c) of this title, the fact that a veteran is—
 
@@ -50,7 +50,7 @@
 
 > shall be accepted as sufficient evidence of such veteran's inability to defray necessary expenses.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180.)
 
 #### Amendment of Section
 
@@ -65,6 +65,10 @@ The Social Security Act, referred to in subsecs. (a)(1) and (g)(1), is act Aug. 
 Prior section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, related to change of program by eligible person, prior to repeal by Pub. L. 92–540, title IV, §402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3691 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–262, §101(d)(9)(A), substituted “section 1710(a)(2)(G)” for “section 1710(a)(1)(I)” in introductory provisions.
+
+Subsec. (f)(3). Pub. L. 104–262, §101(d)(9)(B), struck out “or 1712(f)” before “of this title”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 622 of this title as this section.
 
@@ -174,5 +178,5 @@ Section 19011(c)(3) of Pub. L. 99–272 provided that the first increase under s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1710, 1712 of this title.
+This section is referred to in sections 1705, 1710 of this title.
 

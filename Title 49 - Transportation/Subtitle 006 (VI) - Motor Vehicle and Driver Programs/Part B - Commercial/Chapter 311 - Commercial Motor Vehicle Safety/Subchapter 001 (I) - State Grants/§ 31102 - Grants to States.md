@@ -14,7 +14,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(C) contains satisfactory assurances the State will devote adequate amounts to the administration of the plan and enforcement of the regulations, standards, and orders;
 
-&emsp;(D) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safety programs for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;
+&emsp;(D) provides that the total expenditure of amounts of the State and its political subdivisions (not including amounts of the Government) for commercial motor vehicle safetyprograms for enforcement of commercial motor vehicle size and weight limitations, drug interdiction, and State traffic safety laws and regulations under subsection (c) of this section will be maintained at a level at least equal to the average level of that expenditure for its last 3 full fiscal years before December 18, 1991;
 
 &emsp;(E) provides a right of entry and inspection to carry out the plan;
 
@@ -80,7 +80,9 @@ Continuous Evaluation of Plans.—On the basis of reports submitted by a State m
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

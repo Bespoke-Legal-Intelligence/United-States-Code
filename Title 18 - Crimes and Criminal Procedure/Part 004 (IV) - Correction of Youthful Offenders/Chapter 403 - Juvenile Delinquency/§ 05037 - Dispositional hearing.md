@@ -8,13 +8,13 @@
 
 &emsp;&emsp;(A) the date when the juvenile becomes twenty-one years old; or
 
-&emsp;&emsp;(B) the maximum term that would be authorized by section 3561(b) <sup>1</sup> if the juvenile had been tried and convicted as an adult; or
+&emsp;&emsp;(B) the maximum term that would be authorized by section 3561(c) if the juvenile had been tried and convicted as an adult; or
 
 &emsp;(2) in the case of a juvenile who is between eighteen and twenty-one years old, beyond the lesser of—
 
 &emsp;&emsp;(A) three years; or
 
-&emsp;&emsp;(B) the maximum term that would be authorized by section 3561(b) <sup>1</sup> if the juvenile had been tried and convicted as an adult.
+&emsp;&emsp;(B) the maximum term that would be authorized by section 3561(c) if the juvenile had been tried and convicted as an adult.
 
 > The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.
 
@@ -40,7 +40,7 @@
 
 (d) If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice and hearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys for the juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Sept. 7, 1974, Pub. L. 93–415, title V, §507, 88 Stat. 1136; Oct. 12, 1984, Pub. L. 98–473, title II, §214(a), 98 Stat. 2013; Nov. 10, 1986, Pub. L. 99–646, §21(a), 100 Stat. 3596.)
+(June 25, 1948, ch. 645, 62 Stat. 858; Sept. 7, 1974, Pub. L. 93–415, title V, §507, 88 Stat. 1136; Oct. 12, 1984, Pub. L. 98–473, title II, §214(a), 98 Stat. 2013; Nov. 10, 1986, Pub. L. 99–646, §21(a), 100 Stat. 3596; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(40), 110 Stat. 3509.)
 
 #### Historical and Revision Notes
 
@@ -50,11 +50,9 @@ Reference to section establishing the Board of Parole was omitted as unnecessary
 
 Minor changes were made in phraseology.
 
-#### References in Text
-
-Section 3561(b), referred to in subsec. (b)(1)(B), (2)(B), was redesignated section 3561(c) of this title by Pub. L. 103–322, title XXXII, §320921(a)(1), Sept. 13, 1994, 108 Stat. 2130.
-
 #### Amendments
+
+1996—Subsec. (b)(1)(B), (2)(B). Pub. L. 104–294 substituted “section 3561(c)” for “section 3561(b)”.
 
 1986—Subsec. (a). Pub. L. 99–646, §21(a)(1), substituted “subsection (d)” for “subsection (e)”.
 
@@ -68,6 +66,10 @@ Subsec. (c). Pub. L. 99–646, §21(a)(2)–(4), struck out “by section 3581(b
 
 1974—Pub. L. 93–415 amended section generally, substituting “Dispositional hearing” for “Parole” in section catchline and striking out provisions relating to parole.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Section 21(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendments made by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
@@ -79,6 +81,4 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5032, 5038 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

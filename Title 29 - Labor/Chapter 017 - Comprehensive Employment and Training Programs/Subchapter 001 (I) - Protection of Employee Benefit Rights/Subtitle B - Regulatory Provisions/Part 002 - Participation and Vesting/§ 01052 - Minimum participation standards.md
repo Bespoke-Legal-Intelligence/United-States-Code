@@ -30,7 +30,7 @@
 
 (b)(1) Except as otherwise provided in paragraphs (2), (3), and (4), all years of service with the employer or employers maintaining the plan shall be taken into account in computing the period of service for purposes of subsection (a)(1) of this section.
 
-(2) In the case of any employee who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title) under a plan to which the service requirements of clause (i) of subsection (a)(1)(B) of this section apply, if such employee has not satisfied such requirements,service before such break shall not be required to be taken into account.
+(2) In the case of any employee who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title) under a plan to which the service requirements of clause (i) of subsection (a)(1)(B) of this section apply, if such employee has not satisfied such requirements, service before such break shall not be required to be taken into account.
 
 (3) In computing an employee's period of service for purposes of subsection (a)(1) of this section in the case of any participant who has any 1-year break in service (as defined in section 1053(b)(3)(A) of this title), service before such break shall not be required to be taken into account under the plan until he has completed a year of service (as defined in subsection (a)(3) of this section) after his return.
 
@@ -122,7 +122,7 @@ Amendment by section 7894(c)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1113(e)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1113(e)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, withspecial rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 

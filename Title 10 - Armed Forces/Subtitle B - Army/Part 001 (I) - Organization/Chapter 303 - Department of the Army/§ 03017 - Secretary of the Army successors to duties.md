@@ -46,7 +46,7 @@ Subsection (b) is substituted for 5:181–5(c) and states the effect of section 
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3347 of Title 5.
 

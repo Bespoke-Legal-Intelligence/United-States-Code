@@ -12,3 +12,19 @@
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 103–160, which was approved Nov. 30, 1993.
 
+#### Award of Purple Heart to Persons Wounded While Held as Prisoners of War Before April 25, 1962
+
+Pub. L. 104–106, div. A, title V, §521, Feb. 10, 1996, 110 Stat. 309, provided that:
+
+“(a)
+
+Award of Purple Heart.—For purposes of the award of the Purple Heart, the Secretary concerned (as defined in section 101 of title 10, United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (or while being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive).
+
+“(b)
+
+Standards for Award.—An award of the Purple Heart under subsection (a) shall be made in accordance with the standards in effect on the date of the enactment of this Act \[Feb. 10, 1996\] for the award of the Purple Heart to persons wounded on or after April 25, 1962.
+
+“(c)
+
+Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under section 1128 of title 10, United States Code.”
+

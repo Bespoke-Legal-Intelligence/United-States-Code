@@ -2,7 +2,7 @@
 
 (a) With the approval of the President, the Secretary of the Treasury may sell obligations of the government of a foreign country when the obligations were acquired under—
 
-&emsp;(1) the First Liberty Bond Act and matured before June 16, 1947;
+&emsp;(1) the First Liberty Bond Act and matured before June 16, 1947;
 
 &emsp;(2) the Second Liberty Bond Act and matured before October 16, 1938; or
 

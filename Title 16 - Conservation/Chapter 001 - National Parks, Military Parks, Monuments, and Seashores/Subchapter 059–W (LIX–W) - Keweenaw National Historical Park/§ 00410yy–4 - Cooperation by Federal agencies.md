@@ -6,7 +6,7 @@
 
 &emsp;(2) conduct or support such activities in a manner that—
 
-&emsp;&emsp;(A) to the maximum extent practicable, is consistent with the standards and criteria established pursuant to the general management plan developed pursuant to section 410yy–5 of this title; and
+&emsp;&emsp;(A) to the maximum extent practicable, is consistent with the standards and criteriaestablished pursuant to the general management plan developed pursuant to section 410yy–5 of this title; and
 
 &emsp;&emsp;(B) will not have an adverse effect on the resources of the park; and
 

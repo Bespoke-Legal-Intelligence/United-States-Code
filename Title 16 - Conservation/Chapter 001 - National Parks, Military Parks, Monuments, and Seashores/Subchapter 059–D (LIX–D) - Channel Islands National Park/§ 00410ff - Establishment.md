@@ -18,6 +18,20 @@ In order to protect the nationally significant natural, scenic, wildlife, marine
 
 (Pub. L. 96–199, title II, §201, Mar. 5, 1980, 94 Stat. 74.)
 
+#### Robert J. Lagomarsino Visitor Center
+
+Pub. L. 104–333, div. I, title VIII, §809, Nov. 12, 1996, 110 Stat. 4189, provided that:
+
+“(a)
+
+Designation.—The visitor center at the Channel Islands National Park, California, is designated as the ‘Robert J. Lagomarsino Visitor Center’.
+
+“(b)
+
+Legal References.—Any reference in any law, regulation, document, record, map, or other document of the United States to the visitor center referred to in section 301 \[probably should be “subsection (a)”\] is deemed to be a reference to the ‘Robert J. Lagomarsino Visitor Center’.”
+
+Similar provisions were contained in Pub. L. 104–208, div. A, title I, §101(d) \[title I, §125\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–204.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 410ff–1, 410ff–3 of this title.

@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [4471\.](%C2%A7%2004471%20-%20Imposition%20of%20tax.md) | Imposition of tax. |
-| [4472\.](%C2%A7%2004472%20-%20Definitions.md) | Definitions and special rules.<sup>1</sup> |
+| [4472\.](%C2%A7%2004472%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -19,7 +19,9 @@ Section 4463, act Aug. 16, 1954, ch. 736, 68A Stat. 531, related to administrati
 
 Section 4464, added Pub. L. 92–178, title IV, §402(a), Dec. 10, 1971, 85 Stat. 534, and amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §521(a), Nov. 6, 1978, 92 Stat. 2884, related to credit for State-imposed taxes.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+1996—Pub. L. 104–188, title I, §1704(t)(11), Aug. 20, 1996, 110 Stat. 1888, struck out “and special rules” after “Definitions” in item 4472.
 
 
 ---

@@ -24,7 +24,7 @@ Section effective Feb. 15, 1981, except that subsec. (a), for purposes of implem
 
 #### Establishment of Salary Classes With Titles for Senior Foreign Service
 
-For establishment of salary classes with titles for the Senior Foreign Service, at basic rates of pay equivalent to that established from time to time for the Senior Executive Service under section 5382 of Title 5, Government Organization and Employees, see section 4 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+For establishment of salary classes with titles for the Senior Foreign Service, at basic rates of pay equivalent to that established from time to time for the Senior Executive Service under section 5382 of Title 5, Government Organization and Employees, see section 4 of Ex.Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Section Referred to in Other Sections
 

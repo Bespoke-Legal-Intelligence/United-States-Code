@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 (b) The term “employer” means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
 
-(c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer and includes an agent of such a person;but shall not include an agency of the United States.
+(c) The term “employment agency” means any person regularly undertaking with or without compensation to procure employees for an employer and includes an agent of such a person; but shall not include an agency of the United States.
 
 (d) The term “labor organization” means a labor organization engaged in an industry affecting commerce, and any agent of such an organization, and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization.
 
@@ -30,7 +30,7 @@ For the purposes of this chapter—
 
 (i) The term “State” includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, Wake Island, the Canal Zone, and Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\].
 
-(j) The term “firefighter” means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
+(j) The term “firefighter” means an employee, the duties of whose position are primarily toperform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
 
 (k) The term “law enforcement officer” means an employee, the duties of whose position are primarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, “detention” includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
 
@@ -52,7 +52,7 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7
 
 #### Amendments
 
-1990—Subsec. (<i>l</i>). Pub. L. 101–433 added subsec. (<i>l).</i>
+1990—Subsec. (<i>l</i>). Pub. L. 101–433 added subsec. (<i>l</i>).
 
 1986—Subsecs. (j), (k). Pub. L. 99–592 added subsecs. (j) and (k).
 

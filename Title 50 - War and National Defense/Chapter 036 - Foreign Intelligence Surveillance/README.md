@@ -92,7 +92,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 18 sections 2232, 2511, 2522, 3121; title 47 section 1008.
+This chapter is referred to in title 8 sections 1532, 1534; title 18 sections 2232, 2511, 2522, 3121; title 47 section 1008.
 
 
 ---

@@ -42,7 +42,7 @@ Grant applications for assistance under subsections (d) and (e) of this section 
 
 #### (g) Appeal
 
-If an application for assistance under subsections <sup>1</sup> (d) or (e) of this section is denied, theapplicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
+If an application for assistance under subsections <sup>1</sup> (d) or (e) of this section is denied, the applicant shall have the right to appeal the denial to the Secretary and receive a binding determination within 30 days of the appeal.
 
 (Pub. L. 100–242, title II, §253, as added Pub. L. 102–550, title III, §312, Oct. 28, 1992, 106 Stat. 3766.)
 

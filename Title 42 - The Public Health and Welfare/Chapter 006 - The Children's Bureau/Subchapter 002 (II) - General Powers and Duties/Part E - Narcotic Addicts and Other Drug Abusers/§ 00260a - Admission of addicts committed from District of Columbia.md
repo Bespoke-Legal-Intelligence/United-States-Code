@@ -6,7 +6,7 @@ The Surgeon General is authorized to admit for care and treatment in any hospita
 
 #### (b) Discharge from hospitals; notice; delivery to court
 
-Any person admitted to a hospital of the Service pursuant to subsection (a) of this section shall be discharged therefrom (1) upon order of the Superior Court of the District of Columbia, or (2) when he is found by the Surgeon General to be cured and rehabilitated. When any such person is so discharged, the Surgeon General shall give notice thereof to the Superior Court of the District of Columbia and shall deliver such person to such court for such further action as such court may deem necessary and proper under the provisions of the Act of June 24, 1953 (Public Law 76, Eighty-third Congress) \[D.C. Code, §24–601 et seq.\].
+Any person admitted to a hospital of the Service pursuant to subsection (a) of this section shall be discharged therefrom (1) upon order of the Superior Court of the District of Columbia, or (2) when he is found by the Surgeon General to be cured and rehabilitated. When any such person is so discharged, the Surgeon General shall give notice thereof to the Superior Courtof the District of Columbia and shall deliver such person to such court for such further action as such court may deem necessary and proper under the provisions of the Act of June 24, 1953 (Public Law 76, Eighty-third Congress) \[D.C. Code, §24–601 et seq.\].
 
 #### (c) Authority of Surgeon General and other officers
 

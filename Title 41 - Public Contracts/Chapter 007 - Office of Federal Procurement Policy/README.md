@@ -2,8 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [401\.](%C2%A7%2000401%20-%20Declaration%20of%20policy.md) | Declaration of policy. |
-| [402\.](%C2%A7%2000402%20-%20Congressional%20findings%20and%20purpose.md) | Congressional findings and purpose. |
+| 401, 402. | Repealed. |
 | [403\.](%C2%A7%2000403%20-%20Definitions.md) | Definitions. |
 | [404\.](%C2%A7%2000404%20-%20Establishment%20of%20Office%20of%20Federal%20Procurement%20Policy%3B%20appointment%20of%20Administrator.md) | Establishment of Office of Federal Procurement Policy; appointment of Administrator. |
 | [405\.](%C2%A7%2000405%20-%20Authority%20and%20functions%20of%20the%20Administrator.md) | Authority and functions of the Administrator. |
@@ -26,12 +25,9 @@
 | (d) | Intelligence activities exemption; annual report by Director of Central Intelligence. |
 | (e) | Adverse effect determination by President prior to issuance of regulations; report to Congressional committees; voiding of regulations requirement. |
 | [406\.](%C2%A7%2000406%20-%20Administrative%20powers.md) | Administrative powers. |
-| [407\.](%C2%A7%2000407%20-%20Responsiveness%20to%20Congress.md) | Responsiveness to Congress. |
-| (a) | Annual report on activities. |
-| (b) | Submission of policy matter or regulation to Congressional committees. |
-| (c) | Waiver of notice requirement by President. |
+| [407\.](%C2%A7%2000407%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md) | Repealed. |
 | [408\.](%C2%A7%2000408%20-%20Applicability%20of%20existing%20laws.md) | Applicability of existing laws. |
-| [409\.](%C2%A7%2000409%20-%20Effect%20on%20existing%20regulations.md) | Effect on existing regulations. |
+| [409\.](%C2%A7%2000409%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28c%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md) | Repealed. |
 | [410\.](%C2%A7%2000410%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [411\.](%C2%A7%2000411%20-%20Delegation%20of%20authority%20by%20Administrator.md) | Delegation of authority by Administrator. |
 | [412\.](%C2%A7%2000412%20-%20Comptroller%20General%27s%20access%20to%20information%20from%20Administrator%3B%20rule%20making%20procedure.md) | Comptroller General's access to information from Administrator; rule making procedure. |
@@ -91,26 +87,21 @@
 | (i) | Reports to Congress. |
 | (j) | Effect on other standards and regulations. |
 | (k) | Examinations. |
-| (<i>l)</i> | Authorization of appropriations. |
-| [423\.](%C2%A7%2000423%20-%20Procurement%20integrity.md) | Procurement integrity. |
-| (a) | Prohibited conduct by competing contractors. |
-| (b) | Prohibited conduct by procurement officials. |
-| (c) | Recusal. |
-| (d) | Disclosure to unauthorized persons. |
-| (e) | Certification and enforcement matters. |
-| (f) | Restrictions resulting from procurement activities of procurement officials. |
-| (g) | Contractual penalties. |
-| (h) | Administrative actions. |
-| (i) | Civil penalties. |
-| (j) | Criminal penalties. |
-| (k) | Ethics advice. |
-| (<i>l)</i> | Training. |
-| (m) | Remedies not exclusive. |
-| (n) | No authority to withhold information. |
-| (<i>o)</i> | Implementing regulations and guidelines. |
-| (p) | Definitions. |
+| (<i>l</i>) | Authorization of appropriations. |
+| [423\.](%C2%A7%2000423%20-%20Restrictions%20on%20disclosing%20and%20obtaining%20contractor%20bid%20or%20proposal%20information%20or%20source%20selection%20information.md) | Restrictions on disclosing and obtaining contractor bid or proposal information or source selection information. |
+| (a) | Prohibition on disclosing procurement information. |
+| (b) | Prohibition on obtaining procurement information. |
+| (c) | Actions required of procurement officers when contacted by offerors regarding non-Federal employment. |
+| (d) | Prohibition on former official's acceptance of compensation from contractor. |
+| (e) | Penalties and administrative actions. |
+| (f) | Definitions. |
+| (g) | Limitation on protests. |
+| (h) | Savings provisions. |
 | [424\.](%C2%A7%2000424%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VIII%2C%20%C2%A78303%28b%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203398.md) | Repealed. |
-| [425\.](%C2%A7%2000425%20-%20Nonstandard%20contract%20clauses.md) | Nonstandard contract clauses. |
+| [425\.](%C2%A7%2000425%20-%20Contract%20clauses%20and%20certifications.md) | Contract clauses and certifications. |
+| (a) | Nonstandard contract clauses. |
+| (b) | Construction of certification requirements. |
+| (c) | Prohibition on certification requirements. |
 | [426\.](%C2%A7%2000426%20-%20Federal%20acquisition%20computer%20network%20%28FACNET%29%20architecture.md) | Federal acquisition computer network (FACNET) architecture. |
 | (a) | In general. |
 | (b) | Functions of FACNET. |
@@ -129,14 +120,14 @@
 | (d) | Consideration of offers timely received. |
 | (e) | Special rules for use of simplified acquisition procedures. |
 | (f) | Interim reporting rule. |
+| (g) | Special rules for commercial items. |
 | [428\.](%C2%A7%2000428%20-%20Procedures%20applicable%20to%20purchases%20below%20micro-purchase%20threshold.md) | Procedures applicable to purchases below micro-purchase threshold. |
 | (a) | Requirements. |
 | (b) | Exclusion for micro-purchases. |
-| (c) | Applicability of certain provisions. |
-| (d) | Purchases without competitive quotations. |
-| (e) | Equitable distribution. |
-| (f) | Implementation through FAR. |
-| (g) | Micro-purchase threshold defined. |
+| (c) | Purchases without competitive quotations. |
+| (d) | Equitable distribution. |
+| (e) | Implementation through FAR. |
+| (f) | Micro-purchase threshold defined. |
 | [429\.](%C2%A7%2000429%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20not%20greater%20than%20simplified%20acquisition%20threshold%20in%20Federal%20Acquisition%20Regulation.md) | List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation. |
 | (a) | List of inapplicable provisions of law. |
 | (b) | Covered law. |
@@ -146,6 +137,26 @@
 | (b) | Subcontracts. |
 | (c) | Covered law. |
 | (d) | Petition. |
+| [431\.](%C2%A7%2000431%20-%20Commercially%20available%20off-the-shelf%20item%20acquisitions%20lists%20of%20inapplicable%20laws%20in%20Federal%20Acquisition%20Regulation.md) | Commercially available off-the-shelf item acquisitions: lists of inapplicable laws in Federal Acquisition Regulation. |
+| (a) | Lists of inapplicable provisions of law. |
+| (b) | Covered law. |
+| (c) | “Commercially available off-the-shelf item” defined. |
+| [432\.](%C2%A7%2000432%20-%20Value%20engineering.md) | Value engineering. |
+| (a) | In general. |
+| (b) | “Value engineering” defined. |
+| [433\.](%C2%A7%2000433%20-%20Acquisition%20workforce.md) | Acquisition workforce. |
+| (a) | Applicability. |
+| (b) | Management policies. |
+| (c) | Senior procurement executive authorities and responsibilities. |
+| (d) | Management information systems. |
+| (e) | Applicability to acquisition workforce. |
+| (f) | Career development. |
+| (g) | Qualification requirements. |
+| (h) | Education and training. |
+| [434\.](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md) | Modular contracting for information technology. |
+| (a) | In general. |
+| (b) | Modular contracting described. |
+| (c) | Implementation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -160,17 +171,16 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00401 - Declaration of policy](%C2%A7%2000401%20-%20Declaration%20of%20policy.md)
-- [&sect; 00402 - Congressional findings and purpose](%C2%A7%2000402%20-%20Congressional%20findings%20and%20purpose.md)
+- [&sect; 00401, 402 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4305(a)(2), Feb. 10, 1996, 110 Stat. 665](%C2%A7%2000401%2C%20402%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28a%29%282%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md)
 - [&sect; 00403 - Definitions](%C2%A7%2000403%20-%20Definitions.md)
 - [&sect; 00404 - Establishment of Office of Federal Procurement Policy; appointment of Administrator](%C2%A7%2000404%20-%20Establishment%20of%20Office%20of%20Federal%20Procurement%20Policy%3B%20appointment%20of%20Administrator.md)
 - [&sect; 00405 - Authority and functions of the Administrator](%C2%A7%2000405%20-%20Authority%20and%20functions%20of%20the%20Administrator.md)
 - [&sect; 00405a - Uniform Federal procurement regulations and procedures](%C2%A7%2000405a%20-%20Uniform%20Federal%20procurement%20regulations%20and%20procedures.md)
 - [&sect; 00405b - Conflict of interest standards for individuals providing consulting services](%C2%A7%2000405b%20-%20Conflict%20of%20interest%20standards%20for%20individuals%20providing%20consulting%20services.md)
 - [&sect; 00406 - Administrative powers](%C2%A7%2000406%20-%20Administrative%20powers.md)
-- [&sect; 00407 - Responsiveness to Congress](%C2%A7%2000407%20-%20Responsiveness%20to%20Congress.md)
+- [&sect; 00407 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4305(b), Feb. 10, 1996, 110 Stat. 665](%C2%A7%2000407%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28b%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md)
 - [&sect; 00408 - Applicability of existing laws](%C2%A7%2000408%20-%20Applicability%20of%20existing%20laws.md)
-- [&sect; 00409 - Effect on existing regulations](%C2%A7%2000409%20-%20Effect%20on%20existing%20regulations.md)
+- [&sect; 00409 - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4305(c)(1), Feb. 10, 1996, 110 Stat. 665](%C2%A7%2000409%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74305%28c%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20665.md)
 - [&sect; 00410 - Authorization of appropriations](%C2%A7%2000410%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00411 - Delegation of authority by Administrator](%C2%A7%2000411%20-%20Delegation%20of%20authority%20by%20Administrator.md)
 - [&sect; 00412 - Comptroller General's access to information from Administrator; rule making procedure](%C2%A7%2000412%20-%20Comptroller%20General%27s%20access%20to%20information%20from%20Administrator%3B%20rule%20making%20procedure.md)
@@ -188,12 +198,16 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00420 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2191, Oct. 13, 1994, 108 Stat. 3315](%C2%A7%2000420%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72191%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203315.md)
 - [&sect; 00421 - Federal Acquisition Regulatory Council](%C2%A7%2000421%20-%20Federal%20Acquisition%20Regulatory%20Council.md)
 - [&sect; 00422 - Cost Accounting Standards Board](%C2%A7%2000422%20-%20Cost%20Accounting%20Standards%20Board.md)
-- [&sect; 00423 - Procurement integrity](%C2%A7%2000423%20-%20Procurement%20integrity.md)
+- [&sect; 00423 - Restrictions on disclosing and obtaining contractor bid or proposal information or source selection information](%C2%A7%2000423%20-%20Restrictions%20on%20disclosing%20and%20obtaining%20contractor%20bid%20or%20proposal%20information%20or%20source%20selection%20information.md)
 - [&sect; 00424 - Repealed. Pub. L. 103&#8211;355, title VIII, &sect;8303(b), Oct. 13, 1994, 108 Stat. 3398](%C2%A7%2000424%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VIII%2C%20%C2%A78303%28b%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203398.md)
-- [&sect; 00425 - Nonstandard contract clauses](%C2%A7%2000425%20-%20Nonstandard%20contract%20clauses.md)
+- [&sect; 00425 - Contract clauses and certifications](%C2%A7%2000425%20-%20Contract%20clauses%20and%20certifications.md)
 - [&sect; 00426 - Federal acquisition computer network (FACNET) architecture](%C2%A7%2000426%20-%20Federal%20acquisition%20computer%20network%20%28FACNET%29%20architecture.md)
 - [&sect; 00426a - Federal acquisition computer network implementation](%C2%A7%2000426a%20-%20Federal%20acquisition%20computer%20network%20implementation.md)
 - [&sect; 00427 - Simplified acquisition procedures](%C2%A7%2000427%20-%20Simplified%20acquisition%20procedures.md)
 - [&sect; 00428 - Procedures applicable to purchases below micro-purchase threshold](%C2%A7%2000428%20-%20Procedures%20applicable%20to%20purchases%20below%20micro-purchase%20threshold.md)
 - [&sect; 00429 - List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation](%C2%A7%2000429%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20not%20greater%20than%20simplified%20acquisition%20threshold%20in%20Federal%20Acquisition%20Regulation.md)
 - [&sect; 00430 - List of laws inapplicable to procurements of commercial items in Federal Acquisition Regulation](%C2%A7%2000430%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items%20in%20Federal%20Acquisition%20Regulation.md)
+- [&sect; 00431 - Commercially available off-the-shelf item acquisitions lists of inapplicable laws in Federal Acquisition Regulation](%C2%A7%2000431%20-%20Commercially%20available%20off-the-shelf%20item%20acquisitions%20lists%20of%20inapplicable%20laws%20in%20Federal%20Acquisition%20Regulation.md)
+- [&sect; 00432 - Value engineering](%C2%A7%2000432%20-%20Value%20engineering.md)
+- [&sect; 00433 - Acquisition workforce](%C2%A7%2000433%20-%20Acquisition%20workforce.md)
+- [&sect; 00434 - Modular contracting for information technology](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md)

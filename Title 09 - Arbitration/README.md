@@ -1,5 +1,5 @@
 
-9 U.S.C.<br>United States Code, 1995 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+9 U.S.C.<br>United States Code, 1996 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 9—ARBITRATION
 
@@ -19,33 +19,107 @@
 
 1970—Pub. L. 91–368, §2, July 31, 1970, 84 Stat. 693, added analysis of chapters.
 
-#### Table
+Table<br>Showing where former sections of Title 9 and the laws from which such former sections were derived, have been incorporated in revised Title 9.
 
-#### Showing where former sections of Title 9 and the laws from which such former sections were derived, have been incorporated in revised Title 9.
+<i>Title 9 Former Sections</i>
 
-&nbsp;
+<i>Statutes at Large</i>
 
-| <i>Title 9 Former Sections</i> | <i>Statutes at Large</i> | <i>Title 9 New Sections</i> |
-| :--- | :---: | ---: |
-| 1 | Feb. 12, 1925, ch. 213, §1, 43 Stat. 883 | 1 |
-| 2 | Feb. 12, 1925, ch. 213, §2, 43 Stat. 883 | 2 |
-| 3 | Feb. 12, 1925, ch. 213, §3, 43 Stat. 883 | 3 |
-| 4 | Feb. 12, 1925, ch. 213, §4, 43 Stat. 883 | 4 |
-| 5 | Feb. 12, 1925, ch. 213, §5, 43 Stat. 884 | 5 |
-| 6 | Feb. 12, 1925, ch. 213, §6, 43 Stat. 884 | 6 |
-| 7 | Feb. 12, 1925, ch. 213, §7, 43 Stat. 884 | 7 |
-| 8 | Feb. 12, 1925, ch. 213, §8, 43 Stat. 884 | 8 |
-| 9 | Feb. 12, 1925, ch. 213, §9, 43 Stat. 885 | 9 |
-| 10 | Feb. 12, 1925, ch. 213, §10, 43 Stat. 885 | 10 |
-| 11 | Feb. 12, 1925, ch. 213, §11, 43 Stat. 885 | 11 |
-| 12 | Feb. 12, 1925, ch. 213, §12, 43 Stat. 885 | 12 |
-| 13 | Feb. 12, 1925, ch. 213, §13, 43 Stat. 886 | 13 |
-| 14 | Feb. 12, 1925, ch. 213, §14, 43 Stat. 886 | Rep. |
-| 15 | Feb. 12, 1925, ch. 213, §15, 43 Stat. 886 | 14 |
+<i>Title 9 New Sections</i>
+
+1
+
+Feb. 12, 1925, ch. 213, §1, 43 Stat. 883
+
+1
+
+2
+
+Feb. 12, 1925, ch. 213, §2, 43 Stat. 883
+
+2
+
+3
+
+Feb. 12, 1925, ch. 213, §3, 43 Stat. 883
+
+3
+
+4
+
+Feb. 12, 1925, ch. 213, §4, 43 Stat. 883
+
+4
+
+5
+
+Feb. 12, 1925, ch. 213, §5, 43 Stat. 884
+
+5
+
+6
+
+Feb. 12, 1925, ch. 213, §6, 43 Stat. 884
+
+6
+
+7
+
+Feb. 12, 1925, ch. 213, §7, 43 Stat. 884
+
+7
+
+8
+
+Feb. 12, 1925, ch. 213, §8, 43 Stat. 884
+
+8
+
+9
+
+Feb. 12, 1925, ch. 213, §9, 43 Stat. 885
+
+9
+
+10
+
+Feb. 12, 1925, ch. 213, §10, 43 Stat. 885
+
+10
+
+11
+
+Feb. 12, 1925, ch. 213, §11, 43 Stat. 885
+
+11
+
+12
+
+Feb. 12, 1925, ch. 213, §12, 43 Stat. 885
+
+12
+
+13
+
+Feb. 12, 1925, ch. 213, §13, 43 Stat. 886
+
+13
+
+14
+
+Feb. 12, 1925, ch. 213, §14, 43 Stat. 886
+
+Rep.
+
+15
+
+Feb. 12, 1925, ch. 213, §15, 43 Stat. 886
+
+14
 
 #### Positive Law; Citation
 
-This title has been made positive law by section 1 of act July 30, 1947, ch. 392, 61 Stat. 669, which provided in part that: “title 9 of the United States Code, entitled ‘Arbitration’, is codified and enacted into positive law and may be cited as ‘9 U.S.C., §—’ ”.
+This title has been made positive law by section 1 of act July 30, 1947, ch. 392, 61 Stat. 669, which provided in part that: “title 9 of the United States Code, entitled ‘Arbitration’, is codified and enacted into positive law and may be cited as ‘9 U.S.C., §—’ ”.
 
 #### Repeals
 

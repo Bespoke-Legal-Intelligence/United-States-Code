@@ -12,13 +12,7 @@ In this part—
 
 &emsp;“Director” means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 14093 <sup>1</sup> of this title.
 
-&emsp;“educational expenses” means expenses that are directly attributable to—
-
-&emsp;&emsp;(A) a course of education leading to the award of the baccalaureate degree in legal- or criminal justice-related studies; or
-
-&emsp;&emsp;(B) a course of graduate study legal or criminal justice studies following award of a baccalaureate degree,
-
-> &emsp;including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses.
+&emsp;“educational expenses” means expenses that are directly attributable to a course of education leading to the award of either a baccalaureate or graduate degree in a course of study which, in the judgment of the State or local police force to which the participant will be assigned, includes appropriate preparation for police service including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses.
 
 &emsp;“institution of higher education” has the meaning stated in the first sentence of section 1141(a) of title 20.
 
@@ -28,7 +22,17 @@ In this part—
 
 &emsp;“State Police Corps program” means a State police corps program that meets the requirements of section 14099 of this title.
 
-(Pub. L. 103–322, title XX, §200103, Sept. 13, 1994, 108 Stat. 2049.)
+(Pub. L. 103–322, title XX, §200103, Sept. 13, 1994, 108 Stat. 2049; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §121\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### Amendments
+
+1996—Pub. L. 104–134 amended generally par. defining “education expenses”. Prior to amendment, par. read as follows: “ ‘educational expenses’ means expenses that are directly attributable to—
+
+&emsp;“(A) a course of education leading to the award of the baccalaureate degree in legal- or criminal justice-related studies; or
+
+&emsp;“(B) a course of graduate study legal or criminal justice studies following award of a baccalaureate degree,
+
+> including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses.”
 
 <i><sup>1</sup></i><i> So in original. Section 14093 of this title does not provide for the appointment of a Director.</i>
 

@@ -48,7 +48,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;&emsp;(iii) the exercise of independent judgment in a limited field;
 
-&emsp;&emsp;(B) to perform, under immediate supervision, and with little opportunity for the exercise of independent judgment, simple and elementary work requiring professional, scientific, or technical training; or
+&emsp;&emsp;(B) to perform, under immediate supervision, and with little opportunity for theexercise of independent judgment, simple and elementary work requiring professional, scientific, or technical training; or
 
 &emsp;&emsp;(C) to perform other work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -186,7 +186,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1111.
 
@@ -216,7 +218,7 @@ The General Schedule, referred to in text, is set out under section 5332 of this
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 struck out “18” before “grades” in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
+1990—Pub. L. 101–509 struck out “18” before “grades” in introductory provisions and struck out pars. (16) to (18) which described grades GS–16 to GS–18.
 
 #### Effective Date of 1990 Amendment
 

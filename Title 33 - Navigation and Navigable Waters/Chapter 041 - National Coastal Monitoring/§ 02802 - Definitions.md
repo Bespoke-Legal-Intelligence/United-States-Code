@@ -6,7 +6,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(2) “coastal ecosystem” means a system of interacting biological, chemical, and physical components throughout the water column, water surface, and benthic environment of coastal waters;
 
-&emsp;(3) “coastal water quality” means the physical, chemical and biological parameters thatrelate to the health and integrity of coastal ecosystems;
+&emsp;(3) “coastal water quality” means the physical, chemical and biological parameters that relate to the health and integrity of coastal ecosystems;
 
 &emsp;(4) “coastal water quality monitoring” means a continuing program of measurement, analysis, and synthesis to identify and quantify coastal water quality conditions and trends to provide a technical basis for decisionmaking;
 

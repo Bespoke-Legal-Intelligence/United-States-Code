@@ -1,6 +1,6 @@
 ### §3059A. Special rewards for information relating to certain financial institution offenses
 
-(a)(1) In special circumstances and in the Attorney General's sole discretion, the Attorney General may make payments to persons who furnish information unknown to the Government relating to a possible prosecution under section 215 225,,<sup>1</sup> 287, 656, 657, 1001, 1005, 1006, 1007, 1014, 1032, 1341, 1343, 1344, or 1517 of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States, or to a possible prosecution for conspiracy to commit such an offense.
+(a)(1) In special circumstances and in the Attorney General's sole discretion, the Attorney General may make payments to persons who furnish information unknown to the Government relating to a possible prosecution under section 215, 225, 287, 656, 657, 1001, 1005, 1006, 1007, 1014, 1032, 1341, 1343, 1344, or 1517 of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States, or to a possible prosecution for conspiracy to commit such an offense.
 
 (2) The amount of a payment under paragraph (1) shall not exceed $50,000 and shall be paid from the Financial Institution Information Award Fund established under section 2569 of the Financial Institutions Anti-Fraud Enforcement Act of 1990.
 
@@ -40,7 +40,7 @@
 
 &emsp;(B) compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
 
-(Added Pub. L. 101–647, title XXV, §2587(a), Nov. 29, 1990, 104 Stat. 4904; amended Pub. L. 103–322, title XXXII, §320607, title XXXIII, §330010(10), (17), Sept. 13, 1994, 108 Stat. 2120, 2143, 2144.)
+(Added Pub. L. 101–647, title XXV, §2587(a), Nov. 29, 1990, 104 Stat. 4904; amended Pub. L. 103–322, title XXXII, §320607, title XXXIII, §330010(10), (17), Sept. 13, 1994, 108 Stat. 2120, 2143, 2144; Pub. L. 104–294, title VI, §§601(f)(4), 604(b)(24), Oct. 11, 1996, 110 Stat. 3499, 3508.)
 
 #### References in Text
 
@@ -48,15 +48,21 @@ Section 2569 of the Financial Institutions Anti-Fraud Enforcement Act of 1990, r
 
 #### Amendments
 
+1996—Subsec. (a)(1). Pub. L. 104–294, §601(f)(4), substituted “section 215, 225,” for “section 215 225,,”.
+
+Subsec. (e)(2)(A)(iii). Pub. L. 104–294, §604(b)(24), amended directory language of Pub. L. 103–322, §330010(17). See 1994 Amendment note below.
+
 1994—Subsec. (a)(1). Pub. L. 103–322, §320607, inserted “225,” after “215”, struck out “or” before “1344”, and inserted “, or 1517” after “1344”.
 
 Subsecs. (b), (c). Pub. L. 103–322, §330010(10), substituted “subsection” for “this subsection”.
 
-Subsec. (e)(2)(A)(iii). Pub. L. 103–322, §330010(17), which directed the substitution of “back pay” for “backpay” in subsec. (e)(2)(iii), was executed by making the substitution in subsec. (e)(2)(A)(iii), to reflect the probable intent of Congress.
+Subsec. (e)(2)(A)(iii). Pub. L. 103–322, §330010(17), as amended by Pub. L. 104–294, §604(b)(24), substituted “back pay” for “backpay”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 604(b)(24) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 12 sections 4205, 4209, 4212, 4225, 4229.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “215, 225,”.</i>
 

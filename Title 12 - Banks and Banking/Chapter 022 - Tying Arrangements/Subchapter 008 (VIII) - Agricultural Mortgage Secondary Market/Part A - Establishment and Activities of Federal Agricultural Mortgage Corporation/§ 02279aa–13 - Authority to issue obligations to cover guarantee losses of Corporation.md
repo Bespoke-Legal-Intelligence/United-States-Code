@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Subject to the limitations contained in sections 2279aa–6(b) and 2279aa–10(c) of this title and the requirement of paragraph (2), the Corporation may issue obligations to the Secretary of the Treasury the proceeds of which may be used by the Corporation solely for the purpose of fulfilling the obligations of the Corporation under any guarantee provided by the Corporation under this subchapter.
+&emsp;Subject to the limitations contained in section 2279aa–10(c) of this title and the requirement of paragraph (2), the Corporation may issue obligations to the Secretary of the Treasury the proceeds of which may be used by the Corporation solely for the purpose of fulfilling the obligations of the Corporation under any guarantee provided by the Corporation under this subchapter.
 
 #### (2) Certification
 
 &emsp;The Secretary of the Treasury may purchase obligations of the Corporation under paragraph (1) only if the Corporation certifies to the Secretary that—
 
-&emsp;&emsp;(A) the requirements of sections 2279aa–6(b) and 2279aa–10(c) of this title have been fulfilled; and
+&emsp;&emsp;(A) the requirements of section 2279aa–10(c) of this title have been fulfilled; and
 
 &emsp;&emsp;(B) the proceeds of the sale of such obligations are needed to fulfill the obligations of the Corporation under any guarantee provided by the Corporation under this subchapter.
 
@@ -36,7 +36,7 @@ The aggregate amount of obligations issued by the Corporation under subsection (
 
 #### (1) Authority to use proceeds from sale of Treasury securities
 
-&emsp;For the purpose of purchasing obligations of the Corporation, the Secretary of the Treasury may use as a public debt transaction the proceeds from the sale by the Secretary of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purchases.
+&emsp;For the purpose of purchasing obligations of the Corporation, the Secretary of the Treasurymay use as a public debt transaction the proceeds from the sale by the Secretary of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include such purchases.
 
 #### (2) Treatment of transactions
 
@@ -46,7 +46,11 @@ The aggregate amount of obligations issued by the Corporation under subsection (
 
 There is authorized to be appropriated to the Secretary of the Treasury $1,500,000,000, without fiscal year limitation, to carry out the purposes of this subchapter.
 
-(Pub. L. 92–181, title VIII, §8.13, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1704.)
+(Pub. L. 92–181, title VIII, §8.13, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1704; amended Pub. L. 104–105, title I, §109(b)(2), Feb. 10, 1996, 110 Stat. 165.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–105 substituted “section” for “sections 2279aa–6(b) and” in pars. (1) and (2)(A).
 
 #### Section Referred to in Other Sections
 

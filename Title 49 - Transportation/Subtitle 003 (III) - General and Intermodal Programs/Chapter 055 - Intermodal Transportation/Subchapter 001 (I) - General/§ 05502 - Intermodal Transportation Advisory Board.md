@@ -26,7 +26,9 @@ Duties and Powers.—The Board shall provide recommendations for carrying out th
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -46,7 +46,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 &emsp;&emsp;(A) Any estate, succession, legacy, or inheritance tax imposed by a State or the District of Columbia upon a transfer by the decedent for public, charitable, or religious uses described in section 2055 or 2106(a)(2), and
 
-&emsp;&emsp;(B) any estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country, in respect of any property situated within such foreign country and included in the gross estate of a citizen or resident of the United States, upon a transfer by the decedent for public, charitable, or religious uses described in section 2055.
+&emsp;&emsp;(B) any estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country, in respect of anyproperty situated within such foreign country and included in the gross estate of a citizen or resident of the United States, upon a transfer by the decedent for public, charitable, or religious uses described in section 2055.
 
 > &emsp;The determination under subparagraph (B) of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States. Any election under this paragraph shall be exercised in accordance with regulations prescribed by the Secretary.
 
@@ -62,7 +62,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (B) Cross references
 
-&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State</b><b>death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
+&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
 
 #### (e) Marital rights
 

@@ -22,10 +22,6 @@ A qualified purchaser shall not be precluded from retaining as a property manage
 
 1992—Subsec. (b). Pub. L. 102–550 substituted “4112(c)” for “4112(d)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715z–6 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “4116”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be section “4112(c)”.</i>

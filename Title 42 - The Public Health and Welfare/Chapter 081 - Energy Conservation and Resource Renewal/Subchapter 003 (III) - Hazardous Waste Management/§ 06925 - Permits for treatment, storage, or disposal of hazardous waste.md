@@ -2,7 +2,7 @@
 
 #### (a) Permit requirements
 
-Not later than eighteen months after October 21, 1976, the Administrator shall promulgate regulations requiring each person owning or operating an existing facility or planning to construct a new facility for the treatment, storage, or disposal of hazardous waste identified or listed under this subchapter to have a permit issued pursuant to this section. Such regulations shall take effect on the date provided in section 6930 of this title and upon and after such date the treatment, storage, or disposal of any such hazardous waste and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste is prohibited except in accordance with such a permit. No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated <sup>1</sup> biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.
+Not later than eighteen months after October 21, 1976, the Administrator shall promulgate regulations requiring each person owning or operating an existing facility or planning to construct a new facility for the treatment, storage, or disposal of hazardous waste identified or listed under this subchapter to have a permit issued pursuant to this section. Such regulations shall take effect on the date provided in section 6930 of this title and upon and after such date the treatment, storage, or disposal of any such hazardous waste and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste is prohibited except in accordance with such a permit. No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polychlorinated biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.
 
 #### (b) Requirements of permit application
 
@@ -42,11 +42,11 @@ Upon a determination by the Administrator (or by a State, in the case of a State
 
 &emsp;&emsp;(i) was in existence on November 19, 1980, or
 
-&emsp;&emsp;(ii) is in existence on the effective date of statutory or regulatory changes under this chapter that render the facility subject to the requirement to have a permit under this section,
+&emsp;&emsp;(ii) is in existence on the effective date of statutory or regulatory changes under this chapter that render the facility subject tothe requirement to have a permit under this section,
 
 &emsp;(B) has complied with the requirements of section 6930(a) of this title, and
 
-&emsp;(C) has made an application for a permit under this section <sup>2</sup>
+&emsp;(C) has made an application for a permit under this section,
 
 > shall be treated as having been issued such permit until such time as final administrative disposition of such application is made, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. This paragraph shall not apply to any facility which has been previously denied a permit under this section or if authority to operate the facility under this section has been previously terminated.
 
@@ -74,7 +74,7 @@ Notwithstanding subsection (a) through (e) of this section, any surface coal min
 
 &emsp;(B) shall provide for the receipt and treatment by the facility of only those types and quantities of hazardous waste which the Administrator deems necessary for purposes of determining the efficacy and performance capabilities of the technology or process and the effects of such technology or process on human health and the environment, and
 
-&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including, but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>3</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testing and providing of information to the Administrator with respect to the operation of the facility.
+&emsp;(C) shall include such requirements as the Administrator deems necessary to protect human health and the environment (including, but not limited to, requirements regarding monitoring, operation, insurance or bonding, financial reponsibility,<sup>2</sup> closure, and remedial action), and such requirements as the Administrator deems necessary regarding testing and providing of information to the Administrator with respect to the operation of the facility.
 
 > The Administrator may apply the criteria set forth in this paragraph in establishing the conditions of each permit without separate establishment of regulations implementing such criteria.
 
@@ -86,7 +86,7 @@ Notwithstanding subsection (a) through (e) of this section, any surface coal min
 
 #### (h) Waste minimization
 
-Effective September 1, 1985, it shall be a condition of any permit issued under this section for the treatment, storage, or disposal of hazardous waste on the premises where such waste was generated that the permittee certify, no less often than annually, that—
+Effective September 1, 1985, it shall be a condition of any permit issued under this section for the treatment, storage, or disposal of hazardous waste on the premises where such waste wasgenerated that the permittee certify, no less often than annually, that—
 
 &emsp;(1) the generator of the hazardous waste has a program in place to reduce the volume or quantity and toxicity of such waste to the degree determined by the generator to be economically practicable; and
 
@@ -104,7 +104,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 (3) Paragraph (1) of this subsection shall not apply to any surface impoundment which (A) contains treated waste water during the secondary or subsequent phases of an aggressive biological treatment facility subject to a permit issued under section 1342 of title 33 (or which holds such treated waste water after treatment and prior to discharge); (B) is in compliance with generally applicable ground water monitoring requirements for facilities with permits under subsection (c) of this section; and (C)(i) is part of a facility in compliance with section 1311(b)(2) of title 33, or (ii) in the case of a facility for which no effluent guidelines required under section 1314(b)(2) of title 33 are in effect and no permit under section 1342(a)(1) of title 33 implementing section 1311(b)(2) of title 33 has been issued, is part of a facility in compliance with a permit under section 1342 of title 33, which is achieving significant degradation of toxic pollutants and hazardous constituents contained in the untreated waste stream and which has identified those toxic pollutants and hazardous constituents in the untreated waste stream to the appropriate permitting authority.
 
-(4) The Administrator (or the State, in the case of a State with an authorized program), after notice and opportunity for comment, may modify the requirements of paragraph (1) for any surface impoundment if the owner or operator demonstrates that such surface impoundment is located, designed and operated so as to assure that there will be no migration of any hazardous constitutent <sup>4</sup> into ground water or surface water at any future time. The Administrator or the State shall take into account locational criteria established under section 6924(<i>o</i>)(7) of this title.
+(4) The Administrator (or the State, in the case of a State with an authorized program), after notice and opportunity for comment, may modify the requirements of paragraph (1) for any surface impoundment if the owner or operator demonstrates that such surface impoundment is located, designed and operated so as to assure that there will be no migration of any hazardous constitutent <sup>3</sup> into ground water or surface water at any future time. The Administrator or the State shall take into account locational criteria established under section 6924(<i>o</i>)(7) of this title.
 
 (5) The owner or operator of any surface impoundment potentially subject to paragraph (1) who has reason to believe that on the basis of paragraph (2), (3), or (4) such surface impoundment is not required to comply with the requirements of paragraph (1), shall apply to the Administrator (or the State, in the case of a State with an authorized program) not later than twenty-four months after November 8, 1984, for a determination of the applicability of paragraph (1) (in the case of paragraph (2) or (3)) or for a modification of the requirements of paragraph (1) (in the case of paragraph (4)), with respect to such surface impoundment. Such owner or operator shall provide, with such application, evidence pertinent to such decision, including:
 
@@ -120,7 +120,7 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 &emsp;&emsp;(ii) under paragraph (3), based on analysis of those toxic pollutants and hazardous constituents that are likely to be present in the untreated waste stream, such impoundment satisfies the conditions of paragraph (3).
 
-> In the case of any surface impoundment for which the owner or operator fails to apply under this paragraph within the time provided by this paragraph or paragraph (6), such surface impoundment shall comply with paragraph (1) notwithstanding paragraph (2), (3), or (4). Within twelve months after receipt of such application and evidence and not later than thirty-six months after November 8, 1984, and after notice and opportunity to comment, the Administrator (or, if appropriate, the State) shall advise such owner or operator on the applicability of paragraph (1) to such surface impoundment or as to whether and how the requirements of paragraph (1) shall be modified and applied to such surface impoundment.
+> In the case of any surface impoundment for which the owner or operator fails to apply under this paragraph within the time provided by this paragraph or paragraph (6), such surface impoundment shall comply with paragraph (1) notwithstanding paragraph (2), (3), or (4). Within twelve months after receipt of such application and evidence and not later than thirty-sixmonths after November 8, 1984, and after notice and opportunity to comment, the Administrator (or, if appropriate, the State) shall advise such owner or operator on the applicability of paragraph (1) to such surface impoundment or as to whether and how the requirements of paragraph (1) shall be modified and applied to such surface impoundment.
 
 (6)(A) In any case in which a surface impoundment becomes subject to paragraph (1) after November 8, 1984, due to the promulgation of additional listings or characteristics for the identification of hazardous waste under section 6921 of this title, the period for compliance in paragraph (1) shall be four years after the date of such promulgation, the period for demonstrations under paragraph (4) and for submission of evidence under paragraph (5) shall be not later than twenty-four months after the date of such promulgation, and the period for the Administrator (or if appropriate, the State) to advise such owners or operators under paragraph (5) shall be not later than thirty-six months after the date of promulgation.
 
@@ -160,19 +160,23 @@ The standards concerning ground water monitoring, unsaturated zone monitoring, a
 
 &emsp;(iii) such system utilizes activated sludge treatment in the first portion of secondary treatment.
 
-(C) For the purposes of this subsection, the term “underground source or <sup>5</sup> drinking water”has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
+(C) For the purposes of this subsection, the term “underground source or <sup>3</sup> drinking water” has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act \[42 U.S.C. 300f et seq.\]).
 
 (13) The Administrator may modify the requirements of paragraph (1) in the case of a surface impoundment for which the owner or operator, prior to October 1, 1984, has entered into, and is in compliance with, a consent order, decree, or agreement with the Administrator or a State with an authorized program mandating corrective action with respect to such surface impoundment that provides a degree of protection of human health and the environment which is at a minimum equivalent to that provided by paragraph (1).
 
-(Pub. L. 89–272, title II, §3005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2808; amended Pub. L. 95–609, §7(h), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §§10, 11, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §§211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, 98 Stat. 3240–3243, 3253, 3261.)
+(Pub. L. 89–272, title II, §3005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2808; amended Pub. L. 95–609, §7(h), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §§10, 11, Oct. 21, 1980, 94 Stat. 2338; Pub. L. 98–616, title II, §§211–213(a), (c), 214(a), 215, 224(b), 243(c), Nov. 8, 1984, 98 Stat. 3240–3243, 3253, 3261; Pub. L. 104–119, §4(6), (7), Mar. 26, 1996, 110 Stat. 833.)
 
 #### References in Text
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–119, §4(6), substituted “polychlorinated” for “polycholorinated”.
+
+Subsec. (e)(1)(C). Pub. L. 104–119, §4(7), inserted comma at end of subpar. (C).
 
 1984—Subsec. (a). Pub. L. 98–616, §211, substituted “an existing facility or planning to construct a new” for “a”, inserted “and the construction of any new facility for the treatment, storage, or disposal of any such hazardous waste”, and inserted at end “No permit shall be required under this section in order to construct a facility if such facility is constructed pursuant to an approval issued by the Administrator under section 2605(e) of title 15 for the incineration of polycholorinated \[sic\] biphenyls and any person owning or operating such a facility may, at any time after operation or construction of such facility has begun, file an application for a permit pursuant to this section authorizing such facility to incinerate hazardous waste identified or listed under this subchapter.”
 
@@ -204,13 +208,9 @@ For transfer of certain enforcement functions of Administrator or other official
 
 This section is referred to in sections 6921, 6924, 6926, 6927, 6928, 6933, 6935, 6936, 6937, 6939a, 6945, 6974, 6976, 7429, 9601, 9607, 9620, 9621, 9622 of this title; title 10 section 2702; title 26 sections 4662, 9507.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “polychlorinated”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “responsibility”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “constituent”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “responsibility”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “constituent”.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “of”.</i>
 

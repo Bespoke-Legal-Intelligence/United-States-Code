@@ -2,7 +2,7 @@
 
 #### (a) Year in which included
 
-Prepaid dues income to which this section applies shall be included in gross income for the taxable years during which the liability described in subsection (e)(2) exists.
+Prepaid dues income to which this section applies shall be included in gross income for thetaxable years during which the liability described in subsection (e)(2) exists.
 
 #### (b) Where taxpayer's liability ceases
 

@@ -1,6 +1,6 @@
 ### §§1070d to 1070d–1d. Repealed. Pub. L. 102–325, title IV, §402(a)(1), July 23, 1992, 106 Stat. 482
 
-Section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1336, related to program authority and authorization of appropriations.
+Section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1336, related to program authority and authorization of appropriations.
 
 A prior section 1070d, Pub. L. 89–329, title IV, §417A, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980, 94 Stat. 1407, authorized a program of grants and contracts to assist students from disadvantaged backgrounds, prior to the general revision of this part by Pub. L. 99–498.
 

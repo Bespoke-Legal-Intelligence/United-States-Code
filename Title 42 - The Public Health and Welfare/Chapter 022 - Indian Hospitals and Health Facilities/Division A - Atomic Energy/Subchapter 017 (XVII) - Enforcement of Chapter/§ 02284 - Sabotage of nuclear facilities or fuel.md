@@ -28,5 +28,5 @@ Any person who intentionally and willfully causes or attempts to cause an interr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 2516.
+This section is referred to in title 18 sections 2332b, 2516.
 

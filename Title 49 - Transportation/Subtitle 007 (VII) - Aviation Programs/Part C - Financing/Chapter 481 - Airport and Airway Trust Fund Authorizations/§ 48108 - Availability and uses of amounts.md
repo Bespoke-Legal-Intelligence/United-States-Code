@@ -12,13 +12,15 @@ Limitations on Uses.—(1) Amounts in the Fund may be appropriated only to carry
 
 (c)
 
-Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1996, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
+Limitation on Obligating or Expending Amounts.—In a fiscal year beginning after September 30, 1998, the Secretary of Transportation may obligate or expend an amount appropriated out of the Fund under section 48104 of this title only if a law expressly amends section 48104.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1297; Pub. L. 103–305, title I, §102(c), Aug. 23, 1994, 108 Stat. 1571.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1297; Pub. L. 103–305, title I, §102(c), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §103(c), Oct. 9, 1996, 110 Stat. 3216.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -64,5 +66,11 @@ In subsection (c), the words “be construed as” and “the purposes described
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–264 substituted “1998” for “1996”.
+
 1994—Subsec. (c). Pub. L. 103–305 substituted “1996” for “1995”.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

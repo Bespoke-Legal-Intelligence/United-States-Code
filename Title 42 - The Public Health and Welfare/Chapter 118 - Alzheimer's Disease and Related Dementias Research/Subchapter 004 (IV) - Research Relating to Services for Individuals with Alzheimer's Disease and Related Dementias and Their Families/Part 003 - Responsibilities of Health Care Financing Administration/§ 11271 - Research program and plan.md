@@ -6,7 +6,7 @@ The Administrator of the National Health Care Financing Administration shall con
 
 #### (b) Preparation of plan; contents; revision
 
-(1) Within 6 months after November 14, 1986, the Administrator of the Health Care Financing Administration shall prepare and transmit to the Chairman of the Council a plan for research to be conducted under (a) <sup>1</sup> of this section. The plan shall—
+(1) Within 6 months after November 14, 1986, the Administrator of the Health Care FinancingAdministration shall prepare and transmit to the Chairman of the Council a plan for research to be conducted under (a) <sup>1</sup> of this section. The plan shall—
 
 &emsp;(A) provide for a determination of the types of services required by individuals with Alzheimer's disease and related dementias and their families to allow such individuals to remain living at home or in a community-based setting;
 

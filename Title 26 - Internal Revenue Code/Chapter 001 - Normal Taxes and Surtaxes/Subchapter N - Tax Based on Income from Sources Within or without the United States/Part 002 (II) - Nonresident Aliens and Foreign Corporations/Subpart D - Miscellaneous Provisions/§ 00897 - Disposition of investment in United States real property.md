@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a UnitedStates real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the “first corporation”) holds a controlling interest in a second corporation—
+&emsp;&emsp;Under regulations, for purposes of determining whether any corporation is a United States real property holding corporation, if any corporation (hereinafter in this paragraph referred to as the “first corporation”) holds a controlling interest in a second corporation—
 
 &emsp;&emsp;&emsp;(i) the stock which the first corporation holds in the second corporation shall not be taken into account,
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (C) Constructive ownership rules
 
-&emsp;&emsp;For purposes of determining under paragraph (3) whether any person holds more than 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting “5 percent” for “50 percent”).
+&emsp;&emsp;For purposes of determining under paragraph (3) whether any person holds morethan 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting “5 percent” for “50 percent”).
 
 #### (d) Treatment of distributions by foreign corporations
 
@@ -168,17 +168,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, the term “nonrecognition provision” means any provision of this title for not recognizing gain or loss.
 
-#### (f) Distributions by domestic corporations to foreign shareholders
-
-If a domestic corporation distributes a United States real property interest to a nonresident alien individual or a foreign corporation in a distribution to which section 301 applies, notwithstanding any other provision of this chapter, the basis of such United States real property interest in the hands of such nonresident alien individual or foreign corporation shall not exceed—
-
-&emsp;(1) the adjusted basis of such property before the distribution, increased by
-
-&emsp;(2) the sum of—
-
-&emsp;&emsp;(A) any gain recognized by the distributing corporation on the distribution, and
-
-&emsp;&emsp;(B) any tax paid under this chapter by the distributee on such distribution.
+#### \[(f) Repealed. Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873\]
 
 #### (g) Special rule for sales of interest in partnerships, trusts, and estates
 
@@ -266,9 +256,23 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
+
+“(f)
+
+Distributions by Domestic Corporations to Foreign Shareholders.—If a domestic corporation distributes a United States real property interest to a nonresident alien individual or a foreign corporation in a distribution to which section 301 applies, notwithstanding any other provision of this chapter, the basis of such United States real property interest in the hands of such nonresident alien individual or foreign corporation shall not exceed—
+
+&emsp;“(1) the adjusted basis of such property before the distribution, increased by
+
+&emsp;“(2) the sum of—
+
+&emsp;&emsp;“(A) any gain recognized by the distributing corporation on the distribution, and
+
+&emsp;&emsp;“(B) any tax paid under this chapter by the distributee on such distribution.”
 
 1993—Subsec. (a)(2). Pub. L. 103–66 substituted “Minimum” for “21-percent minimum” in heading and “the taxable excess for purposes of section 55(b)(1)(A) shall not be less than” for “the amount determined under section 55(b)(1)(A) shall not be less than 21 percent of” in subpar. (A).
 
@@ -302,7 +306,11 @@ Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted “Exceptions” for �
 
 Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted “holds a United States real property interest” for “has a permanent establishment in the United States”, in par. (1)(B) substituted “treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest” for “treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities”, in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted “such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders” for “such conditions as may be prescribed by the Secretary”, and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (<i>l</i>).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -314,7 +322,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not incomplete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
@@ -342,7 +350,7 @@ Reporting.—The amendments made by section 1123 \[enacting section 6039C of thi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

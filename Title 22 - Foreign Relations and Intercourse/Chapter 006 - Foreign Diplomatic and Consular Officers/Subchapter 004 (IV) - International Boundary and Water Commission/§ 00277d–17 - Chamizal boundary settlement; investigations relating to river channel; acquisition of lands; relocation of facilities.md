@@ -16,7 +16,7 @@ In connection with the convention between the United States of America and the U
 
 &emsp;&emsp;(1) to perform any or all work involved in said relocations;
 
-&emsp;&emsp;(2) to enter into contracts with the owners of properties to be relocated whereby they undertake to acquire any or all properties needed for said relocations, or undertake to perform any or all work involved in said relocations;
+&emsp;&emsp;(2) to enter into contracts with the owners of properties to be relocated whereby theyundertake to acquire any or all properties needed for said relocations, or undertake to perform any or all work involved in said relocations;
 
 &emsp;&emsp;(3) to convey or exchange properties acquired or improved by the United States under sections 277d–17 to 277d–25 of this title or under said convention, with or without improvements, or to grant term or perpetual easements therein or thereover.
 

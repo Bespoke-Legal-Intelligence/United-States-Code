@@ -46,7 +46,3 @@ As used in this chapter:
 
 Par. (18). Pub. L. 101–624, §1982(2), added par. (18).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1446h of this title.
-

@@ -18,7 +18,7 @@ Upon application by any local public agency carrying out an urban renewal projec
 
 #### References in Text
 
-The Housing Act of 1949, referred to in subsecs. (a) and (b), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsecs. (a) and (b), is act July 15, 1949, ch. 338, 63 Stat. 413, asamended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 #### Amendments
 

@@ -32,6 +32,9 @@
 | (b) | Guidelines for exercise of Presidential authority. |
 | (c) | Quantity change; notification to Congress. |
 | [98c.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098c%20-%20Materials%20constituting%20the%20National%20Defense%20Stockpile.md) | Materials constituting the National Defense Stockpile. |
+| (a) | Contents. |
+| (b) | Transfer and reimbursement. |
+| (c) | Transfer and disposal. |
 | [98d.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098d%20-%20Authority%20for%20stockpile%20operations.md) | Authority for stockpile operations. |
 | (a) | Funds appropriated for acquisitions; proposed stockpile transactions; significant changes therein. |
 | (b) | Disposal. |
@@ -63,8 +66,10 @@
 | 98h–4. | Importation of strategic and critical materials. |
 | 98h–5. | Biennial report on stockpile requirements. |
 | (a) | In general. |
-| (b) | Contents. |
-| (c) | Plans of President. |
+| (b) | National emergency planning assumptions. |
+| (c) | Period within which to replace or replenish materials. |
+| (d) | Effect of alternative mobilization periods. |
+| (e) | Plans of President. |
 | 98h–6. | Development of domestic sources. |
 | (a) | Purchase of materials of domestic origin; processing of materials in domestic facilities. |
 | (b) | Terms and conditions of contracts and commitments. |

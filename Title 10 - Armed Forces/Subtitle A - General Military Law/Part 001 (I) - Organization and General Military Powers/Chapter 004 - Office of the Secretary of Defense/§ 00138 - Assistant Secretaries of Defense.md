@@ -1,6 +1,6 @@
 ### §138. Assistant Secretaries of Defense
 
-(a) There are eleven Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+(a) There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 (b)(1) The Assistant Secretaries shall perform such duties and exercise such powers as the Secretary of Defense may prescribe.
 
@@ -24,7 +24,7 @@
 
 (d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Director of Defense Research and Engineering. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
 
 Historical and Revision Notes
 
@@ -38,9 +38,25 @@ Historical and Revision Notes
 
 136(b)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 136(c)
 
+&nbsp;
+
 136(d)
+
+&nbsp;
 
 136(e)
 
@@ -78,7 +94,7 @@ July 26, 1947, ch. 343, §401; added Aug. 10, 1949, ch. 412, §11 (1st 2 pars.),
 
 In subsection (b)(1), 5 U.S.C. 172(b) (last 13 words of 1st sentence) is omitted as surplusage, since they are only a general description of the powers of the Secretary of Defense under this title. 5 U.S.C. 171c–2 (less 1st sentence) is omitted as covered by 5 U.S.C. 171c(c) (1st 18 words of 2d sentence).
 
-In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences),5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
+In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
 
 #### Codification
 
@@ -111,6 +127,12 @@ Section 138(h) was renumbered successively as section 114(h) and section 113(i) 
 Section 138(i) was renumbered successively as section 114(i) and section 114(d) of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §902(a), substituted “ten” for “eleven”.
+
+Subsec. (b). Pub. L. 104–106, §903(a), (b), which directed the general amendment of subsec. (b), eff. Jan. 31, 1997, designating par. (1) as entire subsec. and striking out pars. (2) to (5), was repealed by Pub. L. 104–201.
+
+Subsec. (d). Pub. L. 104–106, §903(a), (e)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “and the Under Secretaries of Defense” for “the Under Secretaries of Defense, and the Director of Defense Research and Engineering”, was repealed by Pub. L. 104–201.
 
 1994—Subsec. (a). Pub. L. 103–337, §901(a), substituted “eleven” for “ten”.
 
@@ -182,7 +204,7 @@ Section 1212(e) of Pub. L. 98–94 provided that: “The amendments made by this
 
 #### Effective Date of 1967 Amendment
 
-Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see Short Title of 1967 Amendmentnote below\] shall become effective on the first day of the first calendar month following the date of enactment \[Dec. 1, 1967\].”
+Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see Short Title of 1967 Amendment note below\] shall become effective on the first day of the first calendar month following the date of enactment \[Dec. 1, 1967\].”
 
 #### Short Title of 1967 Amendment
 
@@ -190,7 +212,7 @@ Section 1 of Pub. L. 90–168 provided: “That this Act \[amending this section
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 12787, Dec. 31, 1991, 57 F.R. 517, set out as a note under section 3347 of Title 5, Government Organization and Employees.
+For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3347 of Title 5, Government Organization and Employees.
 
 #### Charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict
 

@@ -20,33 +20,25 @@ Minimum Requirements.—The Secretary of Transportation shall prescribe regulati
 
 &emsp;(8) a requirement that each State decide whether the system will be toll free.
 
-&emsp;(9) a requirement for sanctions substantially the same as provided under sections 60120, 60122, and 60123 of this title.
+&emsp;(9) a requirement for sanctions substantially the same as provided under sections 60120 and 60122 of this title.
 
 (b)
 
-Grants.—The Secretary may make a grant to a State under this section to develop and establish a one-call notification system consistent with subsection (a) of this section.
-
-(c)
-
 Marking Facilities.—On notification by an operator of a damage prevention program or by a person planning to carry out demolition, excavation, tunneling, or construction in the vicinity of a pipeline facility, the operator of the facility shall mark accurately, in a reasonable and timely way, the location of the pipeline facilities in the vicinity of the demolition, excavation, tunneling, or construction.
 
-(d)
-
-Apportionment.—When apportioning the amount appropriated to carry out section 60107 of this title among the States, the Secretary—
-
-&emsp;(1) shall consider whether a State has adopted or is seeking adoption of a one-call notification system under this section; and
-
-&emsp;(2) shall withhold part of a payment under section 60107 of this title when the Secretary decides a State has not adopted, or is not seeking adoption of, a one-call notification system.
-
-(e)
+(d) <sup>1</sup>
 
 Relationship to Other Laws.—This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damage caused by an activity described in subsection (a)(2) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -84,7 +76,39 @@ In subsection (c), the words “contractor, excavator, or other” are omitted a
 
 In subsection (d), before clause (1), the words “When apportioning the amount appropriated to carry out” are substituted for “In making allocations under” for consistency with section 60107 of the revised title. In clause (2), the words “shall withhold part of a payment under section 60107 of this title” are substituted for “such State may not receive the full reimbursement under such sections to which it would otherwise be entitled” for clarity and consistency.
 
+#### Pub. L. 104–287
+
+This amends 49:60114(a)(9) to clarify the restatement of 49 App.:1687(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1319), because the requirement for substantially the same sanctions was not intended to include criminal penalties.
+
+#### Amendments
+
+1996—Subsec. (a)(9). Pub. L. 104–287 and Pub. L. 104–304, §20(d)(1), amended par. (9) identically, substituting “60120 and 60122” for “60120, 60122, and 60123”.
+
+Subsec. (b). Pub. L. 104–304, §20(d)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+
+“(b)
+
+Grants.—The Secretary may make a grant to a State under this section to develop and establish a one-call notification system consistent with subsection (a) of this section.”
+
+Subsec. (c). Pub. L. 104–304, §20(d)(3), redesignated subsec. (c) as (b).
+
+Subsecs. (d), (e). Pub. L. 104–304, §20(d)(2), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
+
+“(d)
+
+Apportionment.—When apportioning the amount appropriated to carry out section 60107 of this title among the States, the Secretary—
+
+&emsp;“(1) shall consider whether a State has adopted or is seeking adoption of a one-call notification system under this section; and
+
+&emsp;“(2) shall withhold part of a payment under section 60107 of this title when the Secretary decides a State has not adopted, or is not seeking adoption of, a one-call notification system.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 60105, 60122, 60123, 60125 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “(c)”.</i>
 

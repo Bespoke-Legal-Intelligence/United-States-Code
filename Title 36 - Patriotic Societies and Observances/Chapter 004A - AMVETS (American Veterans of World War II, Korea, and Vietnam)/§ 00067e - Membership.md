@@ -2,7 +2,7 @@
 
 Eligibility for membership in AMVETS and the rights and privileges of members shall, except as provided in this chapter, be as provided in the constitution and bylaws of the organization, and terms of membership and requirements for holding office within the organization shall not be discriminatory on the basis of race, color, religion, sex or national origin.
 
-(July 23, 1947, ch. 298, §6, 61 Stat. 407; Dec. 28, 1950, ch. 1178, 64 Stat. 1122; July 26, 1955, ch. 383,69 Stat. 375; Sept. 14, 1966, Pub. L. 89–576, 80 Stat. 772; Aug. 15, 1977, Pub. L. 95–98, §1(b)(2), 91 Stat. 830; May 31, 1984, Pub. L. 98–304, 98 Stat. 220.)
+(July 23, 1947, ch. 298, §6, 61 Stat. 407; Dec. 28, 1950, ch. 1178, 64 Stat. 1122; July 26, 1955, ch. 383, 69 Stat. 375; Sept. 14, 1966, Pub. L. 89–576, 80 Stat. 772; Aug. 15, 1977, Pub. L. 95–98, §1(b)(2), 91 Stat. 830; May 31, 1984, Pub. L. 98–304, 98 Stat. 220.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out the purposes and provisions of this Act, but no amounts shall be appropriated to carry out after October 1, 1978, any program, function, or activity of the Bureau under this or any other Act unless such sums are specifically authorized to be appropriated as of October 21, 1976 or are authorized to be appropriated in accordance with the provisions of subsection (b) of this section.
+There are authorized to be appropriated such sums as are necessary to carry out the purposes and provisions of this Act, but no amounts shall be appropriated to carry out after October 1, 2002, any program, function, or activity of the Bureau under this or any other Act unless such sums are specifically authorized to be appropriated as of October 21, 1976 or are authorized to be appropriated in accordance with the provisions of subsection (b) of this section.
 
 #### (b) Procedure applicable for authorization of appropriations
 
@@ -16,7 +16,7 @@ Nothing in this section shall apply to the distribution of receipts of the Burea
 
 In exercising the authority to acquire by purchase granted by section 1715(a) of this title, the Secretary may use the Land and Water Conservation Fund to purchase lands which are necessary for proper management of public lands which are primarily of value for outdoor recreation purposes.
 
-(Pub. L. 94–579, title III, §318, Oct. 21, 1976, 90 Stat. 2771.)
+(Pub. L. 94–579, title III, §318, Oct. 21, 1976, 90 Stat. 2771; Pub. L. 104–333, div. I, title III, §310, Nov. 12, 1996, 110 Stat. 4139.)
 
 #### References in Text
 
@@ -25,6 +25,10 @@ This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Sta
 #### Codification
 
 In subsec. (b), “section 1110 of title 31” substituted for “section 607 of the Congressional Budget Act of 1974 \[31 U.S.C. 11c\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–333 substituted “October 1, 2002” for “October 1, 1978”.
 
 #### Section Referred to in Other Sections
 

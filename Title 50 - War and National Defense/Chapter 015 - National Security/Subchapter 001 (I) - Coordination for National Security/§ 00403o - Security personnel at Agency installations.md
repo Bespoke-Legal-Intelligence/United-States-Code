@@ -22,5 +22,5 @@ Provisions of this section were also enacted by the Intelligence Authorization A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 403a, 403e, 403f of this title.
+This section is referred to in sections 403a, 403e, 403f of this title; title 10 section 444.
 

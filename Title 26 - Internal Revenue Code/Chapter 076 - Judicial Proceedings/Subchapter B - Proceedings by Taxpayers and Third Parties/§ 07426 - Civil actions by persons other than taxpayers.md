@@ -104,5 +104,5 @@ Section applicable after Nov. 2, 1966, regardless of when title or lien of Unite
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6503, 6532, 7421 of this title; title 18 section 3613; title 28 sections 1346, 2409a.
+This section is referred to in sections 6503, 6532, 7421 of this title; title 28 sections 1346, 2409a.
 

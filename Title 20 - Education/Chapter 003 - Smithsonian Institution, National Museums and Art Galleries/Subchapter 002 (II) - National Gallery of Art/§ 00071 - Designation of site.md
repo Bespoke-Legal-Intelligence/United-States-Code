@@ -22,13 +22,13 @@ Pub. L. 98–523, Oct. 19, 1984, 98 Stat. 2433, provided: “That at such time a
 
 Pub. L. 96–441, §§1, 3, 4, Oct. 13, 1980, 94 Stat. 1884, provided: “That the bureau of the Smithsonian Institution designated as the National Collection of Fine Arts by section 6(c) of the joint resolution entitled ‘Joint Resolution providing for the construction and maintenance of a National Gallery of Art’, approved March 24, 1937 (20 U.S.C. 71 note), shall be known as the ‘National Museum of American Art’.
 
-“Sec. 3. Any reference in any law, regulation, document, or paper to the National Collection of Fine Arts or the Museum of History and Technology shall on and after the effective date of this Act \[Oct. 13, 1980\] be considered to be a reference to the National Museum of American Art and the National Museum of American History, respectively.
+“Sec. 3. Any reference in any law, regulation, document, or paper to the National Collection of Fine Artsor the Museum of History and Technology shall on and after the effective date of this Act \[Oct. 13, 1980\] be considered to be a reference to the National Museum of American Art and the National Museum of American History, respectively.
 
 “Sec. 4. This Act shall take effect on the day after the date of the enactment of this Act \[Oct. 13, 1980\].”
 
 #### National Collection of Fine Arts
 
-Act Mar. 24, 1937, ch. 50, 50 Stat. 51, sections 1 to 5 of which are incorporated as sections 71, 72 to 74, and 75 of this title, provided in section 6(c) that: “The existingbureau of the Smithsonian Institution now designated as a national gallery of art shall hereafter be known as the National Collection of Fine Arts.”
+Act Mar. 24, 1937, ch. 50, 50 Stat. 51, sections 1 to 5 of which are incorporated as sections 71, 72 to 74, and 75 of this title, provided in section 6(c) that: “The existing bureau of the Smithsonian Institution now designated as a national gallery of art shall hereafter be known as the National Collection of Fine Arts.”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Each institute shall—
 
 #### (c) Grants; matching funds
 
-From the sums appropriated pursuant to subsection (f) of this section, the Secretary shall make grants to each institute to be matched on a basis of no less than one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.
+From the sums appropriated pursuant to subsection (f) of this section, the Secretary shall make grants to each institute to be matched on a basis of no less than 2 non-Federal dollars for every 1 Federal dollar, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.
 
 #### (d) Submission and approval of water research program; requisite assurances
 
@@ -28,23 +28,57 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 #### (f) Authorization of appropriations in general
 
-(1) For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,,<sup>1</sup> such sums to remain available until expended.
+(1) For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000, such sums to remain available until expended.
 
-(2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretaryand available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
+(2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
 
 #### (g) Additional appropriations where research focused on water problems of interstate nature
 
-(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, and 1995 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
+(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for each of fiscal years 1996 through 2000 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
 
 (2) Research funds made available under this subsection shall be made on a competitive basis subject to the merit of the proposal, the need for the information to be produced, and the opportunity such funds will provide for training of water resources scientists or professionals.
 
-(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853.)
+#### (h) Coordination
+
+#### (1) In general
+
+&emsp;To carry out this chapter, the Secretary—
+
+&emsp;&emsp;(A) shall encourage other Federal departments, agencies (including agencies within the Department of the Interior), and instrumentalities to use and take advantage of the expertise and capabilities that are available through the institutes established by this section, on a cooperative or other basis;
+
+&emsp;&emsp;(B) shall encourage cooperation and coordination with other Federal programs concerned with water resources problems and issues;
+
+&emsp;&emsp;(C) may enter into contracts, cooperative agreements, and other transactions without regard to section 5 of title 41;
+
+&emsp;&emsp;(D) may accept funds from other Federal departments, agencies (including agencies within the Department of the Interior), and instrumentalities to pay for and add to grants made, and contracts entered into, by the Secretary;
+
+&emsp;&emsp;(E) may promulgate such regulations as the Secretary considers appropriate; and
+
+&emsp;&emsp;(F) may support a program of internships for qualified individuals at the undergraduate and graduate levels to carry out the educational and training objectives of this chapter.
+
+#### (2) Report
+
+&emsp;The Secretary shall report to Congress annually on coordination efforts with other Federal departments, agencies, and instrumentalities under paragraph (1).
+
+#### (3) Relationship to State rights
+
+&emsp;Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
+
+(Pub. L. 98–242, title I, §104, Mar. 22, 1984, 98 Stat. 98; Pub. L. 101–397, §1(b)–(h), (m), Sept. 28, 1990, 104 Stat. 852, 853; Pub. L. 104–147, §§3–6, May 24, 1996, 110 Stat. 1376.)
 
 #### References in Text
 
 Act approved July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–147, §3, substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
+
+Subsec. (f)(1). Pub. L. 104–147, §4, substituted “of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000” for “of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,”.
+
+Subsec. (g)(1). Pub. L. 104–147, §5, substituted “of $3,000,000 for each of fiscal years 1996 through 2000” for “of $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, and 1995”.
+
+Subsec. (h). Pub. L. 104–147, §6, added subsec. (h).
 
 1990—Subsec. (a). Pub. L. 101–397, §1(b), substituted “Federated States of Micronesia” for “Trust Territory of the Pacific Islands”.
 
@@ -75,6 +109,4 @@ Section 2 of Pub. L. 101–397 provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10304, 10305, 10307 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

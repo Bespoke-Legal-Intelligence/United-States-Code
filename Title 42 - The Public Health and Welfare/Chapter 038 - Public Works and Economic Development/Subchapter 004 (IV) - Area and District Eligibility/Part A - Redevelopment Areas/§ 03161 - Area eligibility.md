@@ -20,11 +20,11 @@ The Secretary shall designate as “redevelopment areas”—
 
 &emsp;(2) those additional areas which have a median family income not in excess of 50 per centum of the national median, as determined by the most recent available statistics for such areas;
 
-&emsp;(3) those additional Federal or State Indian reservations or trust or restricted Indian-owned land areas which the Secretary, after consultation with the Secretary of the Interior or an appropriate State agency, determines manifest the greatest degree of economic distress on the basis of unemployment and income statistics and other appropriate evidence of economic underdevelopment; <i>Provided, however,</i> That uninhabited Federal or State Indian reservations or trust or restricted Indian-owned land areas may be designated where such designation would permit assistance to Indian tribes, with a direct beneficial effect on the economic well-being of Indians;
+&emsp;(3) those additional Federal or State Indian reservations or trust or restricted Indian-owned land areas which the Secretary, after consultation with the Secretary of the Interior or an appropriate State agency, determines manifest the greatest degree of economic distress on the basis of unemployment and income statistics and other appropriate evidence of economic underdevelopment; <i>Provided, however</i>, That uninhabited Federal or State Indian reservations or trust or restricted Indian-owned land areas may be designated where such designation would permit assistance to Indian tribes, with a direct beneficial effect on the economic well-being of Indians;
 
 &emsp;(4) upon request of such areas, those additional areas in which the Secretary determines that the loss, removal, curtailment, or closing of a major source of employment has caused within three years prior to, or threatens to cause within three years after, the date of the request an unusual and abrupt rise in unemployment of such magnitude that the unemployment rate for the area at the time of the request exceeds the national average, or can reasonably be expected to exceed the national average, by 50 per centum or more unless assistance is provided. Notwithstanding any provision of subsection (b) of this section to the contrary, an area designated under the authority of this paragraph may be given a reasonable time after designation in which to submit the overall economic development program required by section 3142(b)(10) of this title;
 
-&emsp;(5) notwithstanding any provisions of this section to the contrary, those additional areas which were designated redevelopment areas under the Area Redevelopment Act \[42 U.S.C. 2501 et seq.\] on or after March 1, 1965: <i>Provided, however,</i> That the continued eligibility of such areas after the first annual review of eligibility conducted in accordance with section 3162 of this title shall be dependent on their qualification for designation under the standards of economic need set forth in subsections (a)(1) through (a)(4) of this section;
+&emsp;(5) notwithstanding any provisions of this section to the contrary, those additional areas which were designated redevelopment areas under the Area Redevelopment Act \[42 U.S.C. 2501 et seq.\] on or after March 1, 1965: <i>Provided, however</i>, That the continued eligibility of such areas after the first annual review of eligibility conducted in accordance with section 3162 of this title shall be dependent on their qualification for designation under the standards of economic need set forth in subsections (a)(1) through (a)(4) of this section;
 
 &emsp;(6) those communities or neighborhoods (defined without regard to political or other subdivisions or boundaries) which the Secretary determines have one of the following conditions:
 
@@ -46,7 +46,7 @@ The Secretary shall designate as “redevelopment areas”—
 
 #### (b) Size and boundaries of redevelopment areas
 
-The size and boundaries of redevelopment areas shall be as determined by the Secretary: <i>Provided, however,</i> That—
+The size and boundaries of redevelopment areas shall be as determined by the Secretary: <i>Provided, however</i>, That—
 
 &emsp;(1) no area shall be designated until it has an approved overall economic development program in accordance with section 3142(b)(10) of this title;
 
@@ -64,7 +64,7 @@ Upon the request of the Secretary, the Secretary of Labor, the Secretary of Agri
 
 #### (d) Designation of areas most nearly qualifying as redevelopment areas in event of failure of any area in State to qualify under preceding subsections
 
-If a State has no area designated under the preceding subsections of this section as a redevelopment area, the Secretary shall designate as a redevelopment area that area in such State which in his opinion most nearly qualifies under such preceding subsections. An area so designated shall have its eligibility terminated in accordance with the provisions of section 3162 of this title if any other area within the same State subsequently has become qualified or been designated under any other subsection of this section other than subsection (a)(6) as of the time of the annual review prescribed by section 3162 of this title: <i>Provided,</i> That the Secretary shall not terminate any designations of an area in a State as a redevelopment area if to do so would result in such State having no redevelopment area.
+If a State has no area designated under the preceding subsections of this section as a redevelopment area, the Secretary shall designate as a redevelopment area that area in such State which in his opinion most nearly qualifies under such preceding subsections. An area so designated shall have its eligibility terminated in accordance with the provisions of section 3162 of this title if any other area within the same State subsequently has become qualified or been designated under any other subsection of this section other than subsection (a)(6) as of the time of the annual review prescribed by section 3162 of this title: <i>Provided</i>, That the Secretary shall not terminate any designations of an area in a State as a redevelopment area if to do so would result in such State having no redevelopment area.
 
 #### (e) “Redevelopment area” defined
 

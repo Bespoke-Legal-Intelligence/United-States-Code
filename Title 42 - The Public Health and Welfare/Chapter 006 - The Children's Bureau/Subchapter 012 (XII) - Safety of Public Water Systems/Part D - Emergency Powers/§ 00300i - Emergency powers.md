@@ -6,11 +6,13 @@ Notwithstanding any other provision of this subchapter the Administrator, upon r
 
 #### (b) Penalties for violations; separate offenses
 
-Any person who violates or fails or refuses to comply with any order issued by the Administrator under subsection (a)(1) of this section may, in an action brought in the appropriate United States district court to enforce such order, be subject to a civil penalty of not to exceed $5,000 for each day in which such violation occurs or failure to comply continues.
+Any person who violates or fails or refuses to comply with any order issued by the Administrator under subsection (a)(1) of this section may, in an action brought in the appropriate United States district court to enforce such order, be subject to a civil penalty of not to exceed $15,000 for each day in which such violation occurs or failure to comply continues.
 
-(July 1, 1944, ch. 373, title XIV, §1431, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1680; amended June 19, 1986, Pub. L. 99–339, title II, §204, 100 Stat. 660.)
+(July 1, 1944, ch. 373, title XIV, §1431, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1680; amended June 19, 1986, Pub. L. 99–339, title II, §204, 100 Stat. 660; Aug. 6, 1996, Pub. L. 104–182, title I, §113(d), 110 Stat. 1636.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–182 substituted “$15,000” for “$5,000”.
 
 1986—Subsec. (a). Pub. L. 99–339, §204(1), (2), inserted “or an underground source of drinking water” after “to enter a public water system” and “including orders requiring the provision of alternative water supplies by persons who caused or contributed to the endangerment,” after “including travelers),”.
 

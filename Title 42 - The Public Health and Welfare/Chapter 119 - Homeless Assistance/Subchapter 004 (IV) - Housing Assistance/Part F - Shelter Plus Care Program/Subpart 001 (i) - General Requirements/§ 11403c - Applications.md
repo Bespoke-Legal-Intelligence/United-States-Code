@@ -22,7 +22,7 @@ The Secretary shall require that an application identify the need for the assist
 
 &emsp;(7) a description of the mechanisms for developing a housing and supportive services plan for each person and for monitoring each person's progress in meeting that plan;
 
-&emsp;(8) reasonable assurances satisfactory to the Secretary that the supportive services will be provided for the full term of the housing assistance under subpart II, III, IV, or V of this part, or a combination; and a certification from the applicant that it will fund the supportive services itself if the planned resources do not become available for any reason;
+&emsp;(8) reasonable assurances satisfactory to the Secretary that the supportive services will be provided for the full term of the housing assistance under subpart II, III, IV, or V of thispart, or a combination; and a certification from the applicant that it will fund the supportive services itself if the planned resources do not become available for any reason;
 
 &emsp;(9) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the unit of general local government within which housing assistance under this part will be provided;
 

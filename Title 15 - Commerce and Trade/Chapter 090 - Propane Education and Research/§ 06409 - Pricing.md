@@ -1,0 +1,10 @@
+### §6409. Pricing
+
+In all cases, the price of propane shall be determined by market forces. Consistent with the antitrust laws, the Council may take no action, nor may any provision of this chapter be interpreted as establishing an agreement to pass along to consumers the cost of the assessment provided for in section 6405 of this title.
+
+(Pub. L. 104–284, §10, Oct. 11, 1996, 110 Stat. 3375.)
+
+#### References in Text
+
+The antitrust laws, referred to in text, are classified generally to chapter 1 (§1 et seq.) of this title.
+

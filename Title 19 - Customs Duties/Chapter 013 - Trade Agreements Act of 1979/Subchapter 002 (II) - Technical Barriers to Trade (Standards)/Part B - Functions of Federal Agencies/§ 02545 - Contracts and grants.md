@@ -26,9 +26,11 @@ Financial assistance extended under this section shall not exceed 75 percent of 
 
 Each recipient of a grant or contract under this section shall make available to the Trade Representative or the Secretary concerned, as the case may be, and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, and record that is pertinent to the funds received under such grant or contract.
 
-(Pub. L. 96–39, title IV, §415, July 26, 1979, 93 Stat. 246; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122.)
+(Pub. L. 96–39, title IV, §415, July 26, 1979, 93 Stat. 246; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 #### Amendments
 
-1993—Pub. L. 103–182 substituted “Trade Representative” for “Special Representative” wherever appearing.
+1996—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
+
+1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 

@@ -1,6 +1,6 @@
 ### §80b–2. Definitions
 
-(a) When used in this subchapter, unless the context otherwise requires—
+(a) When used in this subchapter, unless the context otherwise requires, the following definitions shall apply:
 
 &emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
@@ -58,9 +58,11 @@
 
 &emsp;(24) “Foreign financial regulatory authority” means any (A) foreign securities authority, (B) other governmental body or foreign equivalent of a self-regulatory organization empowered by a foreign government to administer or enforce its laws relating to the regulation of fiduciaries, trusts, commercial lending, insurance, trading in contracts of sale of a commodity for future delivery, or other instruments traded on or subject to the rules of a contract market, board of trade or foreign equivalent, or other financial activities, or (C) membership organization a function of which is to regulate the participation of its members in activities listed above.
 
+&emsp;(25) “Supervised person” means any partner, officer, director (or other person occupying a similar status or performing similar functions), or employee of an investment adviser, or other person who provides investment advice on behalf of the investment adviser and is subject to the supervision and control of the investment adviser.
+
 (b) No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
-(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; June 25, 1959, Pub. L. 86–70, §12(c), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §7(d), 74 Stat. 412; Sept. 13, 1960, Pub. L. 86–750, §1, 74 Stat. 885; July 1, 1966, Pub. L. 89–485, §13(j), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §23, 84 Stat. 1430; Nov. 6, 1978, Pub. L. 95–598, title III, §311, 92 Stat. 2676; Oct. 21, 1980, Pub. L. 96–477, title II, §201, 94 Stat. 2289; Oct. 13, 1982, Pub. L. 97–303, §6, 96 Stat. 1410; Dec. 4, 1987, Pub. L. 100–181, title VII, §701, 101 Stat. 1263; Nov. 15, 1990, Pub. L. 101–550, title II, §206(b), 104 Stat. 2720.)
+(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; June 25, 1959, Pub. L. 86–70, §12(c), 73 Stat. 143; July 12, 1960, Pub. L. 86–624, §7(d), 74 Stat. 412; Sept. 13, 1960, Pub. L. 86–750, §1, 74 Stat. 885; July 1, 1966, Pub. L. 89–485, §13(j), 80 Stat. 243; Dec. 14, 1970, Pub. L. 91–547, §23, 84 Stat. 1430; Nov. 6, 1978, Pub. L. 95–598, title III, §311, 92 Stat. 2676; Oct. 21, 1980, Pub. L. 96–477, title II, §201, 94 Stat. 2289; Oct. 13, 1982, Pub. L. 97–303, §6, 96 Stat. 1410; Dec. 4, 1987, Pub. L. 100–181, title VII, §701, 101 Stat. 1263; Nov. 15, 1990, Pub. L. 101–550, title II, §206(b), 104 Stat. 2720; Oct. 11, 1996, Pub. L. 104–290, title III, §303(c), 110 Stat. 3438.)
 
 #### References in Text
 
@@ -68,7 +70,7 @@ The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act 
 
 The Investment Company Act of 1940, referred to in subsec. (a)(12), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, asamended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(21), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
@@ -77,6 +79,10 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(21), 
 The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, and amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–290, §303(c)(1), substituted “requires, the following definitions shall apply:” for “requires—” in introductory provisions.
+
+Subsec. (a)(25). Pub. L. 104–290, §303(c)(2), added par. (25).
 
 1990—Subsec. (a)(23), (24). Pub. L. 101–550 added pars. (23) and (24).
 
@@ -101,6 +107,10 @@ Subsec. (a)(18). Pub. L. 86–750, §1(b), struck out reference to Philippine Is
 Pub. L. 86–624 struck out reference to Hawaii.
 
 1959—Subsec. (a)(18). Pub. L. 86–70 struck out reference to Alaska.
+
+#### Effective Date of 1996 Amendment
+
+Section 308(a) of title III of Pub. L. 104–290 provided that: “This title \[enacting section 80b–3a of this title, amending this section, sections 80b–3 and 80b–18a of this title, and section 1002 of Title 29, Labor, and enacting provisions set out as notes under sections 80b–3a, 80b–10, and 80b–20 of this title and section 1002 of Title 29\] and the amendments made by this title shall take effect 180 days after the date of enactment of this Act \[Oct. 11, 1996\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -140,5 +150,5 @@ Definition of terms—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6102 of this title; title 5 section 8438.
+This section is referred to in sections 80b–3a, 6102 of this title; title 5 section 8438.
 

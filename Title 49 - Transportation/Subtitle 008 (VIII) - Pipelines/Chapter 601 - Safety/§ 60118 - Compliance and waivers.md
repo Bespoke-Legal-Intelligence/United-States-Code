@@ -2,9 +2,9 @@
 
 (a)
 
-General Requirements.—A person transporting gas or hazardous liquid or owning or operating a pipeline facility shall—
+General Requirements.—A person owning or operating a pipeline facility shall—
 
-&emsp;(1) comply with applicable safety standards prescribed under this chapter, except as provided in this section;
+&emsp;(1) comply with applicable safety standards prescribed under this chapter, except as provided in this section or in section 60126;
 
 &emsp;(2) prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title; and
 
@@ -12,21 +12,23 @@ General Requirements.—A person transporting gas or hazardous liquid or owning 
 
 (b)
 
-Compliance Orders.—The Secretary of Transportation may issue orders directing compliance with this chapter or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.
+Compliance Orders.—The Secretary of Transportation may issue orders directing compliance with this chapter, an order under section 60126, or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.
 
 (c)
 
-Waivers by Secretary.—On application of a person transporting gas or hazardous liquid or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.
+Waivers by Secretary.—On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliancewith any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.
 
 (d)
 
-Waivers by State Authorities.—If a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect, the State authority may waive compliance with a safety standard to which the certification or agreement applies in the same way and to the same extent the Secretary may waivecompliance under subsection (c) of this section. However, the authority must give the Secretary written notice of the waiver at least 60 days before its effective date. If the Secretary makes a written objection before the effective date of the waiver, the waiver is stayed. After notifying the authority of the objection, the Secretary shall provide a prompt opportunity for a hearing. The Secretary shall make the final decision on granting the waiver.
+Waivers by State Authorities.—If a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect, the State authority may waive compliance with a safety standard to which the certification or agreement applies in the same way and to the same extent the Secretary may waive compliance under subsection (c) of this section. However, the authority must give the Secretary written notice of the waiver at least 60 days before its effective date. If the Secretary makes a written objection before the effective date of the waiver, the waiver is stayed. After notifying the authority of the objection, the Secretary shall provide a prompt opportunity for a hearing. The Secretary shall make the final decision on granting the waiver.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -81,6 +83,16 @@ In subsection (b), the word “prescribed” is substituted for “issued” for
 In subsection (c), the words “any part of” are substituted for “in whole or in part” to eliminate unnecessary words. The words “and to such extent” and “he determines that . . . of compliance with such standard” are omitted as surplus.
 
 In subsection (d), the words “to which the certification or agreement applies” are added for clarity. The words “to the granting of the waiver” and “any State agency action granting” are omitted as surplus. The words “shall provide a prompt opportunity for a hearing” are substituted for “shall afford such agency a prompt opportunity to present its request for waiver, with opportunity for hearing” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–304, §13(a)(1), struck out “transporting gas or hazardous liquid or” after “person” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 104–304, §13(a)(2), added par. (1) and struck out former par. (1) which read as follows: “comply with applicable safety standards prescribed under this chapter, except as provided in this section;”.
+
+Subsec. (b). Pub. L. 104–304, §13(b), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation may issue orders directing compliance with this chapter or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.”
+
+Subsec. (c). Pub. L. 104–304, §13(c), substituted “owning” for “transporting gas or hazardous liquid”.
 
 #### Section Referred to in Other Sections
 

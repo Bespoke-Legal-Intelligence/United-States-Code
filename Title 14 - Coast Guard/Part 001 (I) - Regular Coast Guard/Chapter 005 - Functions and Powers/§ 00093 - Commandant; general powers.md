@@ -32,7 +32,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Com
 
 &emsp;(<i>o</i>) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
 
-&emsp;(p) establish, install, abandon, re-establish, reroute, operate, maintain, repair, purchase, or lease such telephone and telegraph lines and cables, together with all facilities, apparatus, equipment, structures, appurtenances, accessories, and supplies used or useful in connection with the installation, operation, maintenance, or repair of such lines and cables, including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration, and acquire such real property rights of way, easements, or attachment privileges as may be required for the installation, operation, and maintenance of such lines, cables, and equipment;
+&emsp;(p) establish, install, abandon, re-establish, reroute, operate, maintain, repair, purchase, or lease such telephone and telegraph lines and cables, together with all facilities, apparatus, equipment, structures, appurtenances, accessories, and supplies used or useful in connection with the installation, operation, maintenance, or repair of such lines and cables, including telephones in residences leased or owned by the Government of the United Stateswhen appropriate to assure efficient response to extraordinary operational contingencies of a limited duration, and acquire such real property rights of way, easements, or attachment privileges as may be required for the installation, operation, and maintenance of such lines, cables, and equipment;
 
 &emsp;(q) establish, install, abandon, reestablish, change the location of, operate, maintain, and repair radio transmitting and receiving stations;
 
@@ -44,11 +44,13 @@ For the purpose of executing the duties and functions of the Coast Guard the Com
 
 &emsp;&emsp;(1) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
 
-&emsp;&emsp;(2) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims; and
+&emsp;&emsp;(2) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
-&emsp;(u) enter into cooperative agreements with other Government agencies and the National Academy of Sciences.
+&emsp;(u) enter into cooperative agreements with other Government agencies and the National Academy of Sciences; and
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Oct. 18, 1976, Pub. L. 94–546, §1(9), 90 Stat. 2519; Dec. 29, 1981, Pub. L. 97–136, §6(d), 95 Stat. 1706; Oct. 2, 1982, Pub. L. 97–276, §143, 96 Stat. 1199; Oct. 12, 1982, Pub. L. 97–295, §2(4), 96 Stat. 1301; Oct. 15, 1982, Pub. L. 97–322, title I, §115(c), 96 Stat. 1586; Dec. 19, 1991, Pub. L. 102–241, §7, 105 Stat. 2212; Dec. 20, 1993, Pub. L. 103–206, title II, §202, title III, §316, 107 Stat. 2420, 2426.)
+&emsp;(v) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Oct. 18, 1976, Pub. L. 94–546, §1(9), 90 Stat. 2519; Dec. 29, 1981, Pub. L. 97–136, §6(d), 95 Stat. 1706; Oct. 2, 1982, Pub. L. 97–276, §143, 96 Stat. 1199; Oct. 12, 1982, Pub. L. 97–295, §2(4), 96 Stat. 1301; Oct. 15, 1982, Pub. L. 97–322, title I, §115(c), 96 Stat. 1586; Dec. 19, 1991, Pub. L. 102–241, §7, 105 Stat. 2212; Dec. 20, 1993, Pub. L. 103–206, title II, §202, title III, §316, 107 Stat. 2420, 2426; Oct. 19, 1996, Pub. L. 104–324, title II, §207(a), 110 Stat. 3908.)
 
 #### Historical and Revision Notes
 
@@ -74,7 +76,7 @@ Subsection (i) is based in part on title 14, U.S.C., §§108, 109, and on title 
 
 Subsection (j) is new and grants power to the Commandant to operate and maintain shore establishments; previously such authority has been inferred from statutes providing for the establishment of shore stations; again such authority is inherent to the functioning of any Service, and this section will provide no greater authority than has been exercised in the past.
 
-Subsection (k) is based on title 14, U.S.C., 1946 ed., §31b (June 6, 1941, ch. 177, 55 Stat. 247 \[which was originally repealed by act June 30, 1949, ch. 288, title VI, §602(a)(28), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583\]). The primary authority is granted to the Commandant as well as to the Secretary inasmuch as such exchange seems to be an operational matter and the items which may be exchanged have been enlarged by the addition of aids to navigation, appliances, equipment, and supplies.
+Subsection (k) is based on title 14, U.S.C., 1946 ed., §31b (June 6, 1941, ch. 177, 55 Stat. 247 \[which was originally repealed by act June 30, 1949, ch. 288, title VI,§602(a)(28), 63 Stat. 399, renumbered Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583\]). The primary authority is granted to the Commandant as well as to the Secretary inasmuch as such exchange seems to be an operational matter and the items which may be exchanged have been enlarged by the addition of aids to navigation, appliances, equipment, and supplies.
 
 Inasmuch as the act cited above applies to the Navy as well as the Coast Guard it is not scheduled for repeal but is being amended by section 13 of this act to eliminate reference to the Coast Guard.
 
@@ -97,6 +99,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, and Tables.
 
 #### Amendments
+
+1996—Subsec. (v). Pub. L. 104–324 added subsec. (v).
 
 1993—Subsec. (t). Pub. L. 103–206, §202, added subsec. (t).
 

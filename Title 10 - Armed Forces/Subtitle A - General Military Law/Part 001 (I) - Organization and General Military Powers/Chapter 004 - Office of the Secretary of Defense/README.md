@@ -17,11 +17,15 @@
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
-| [142\.](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Atomic%20Energy.md) | Assistant to the Secretary of Defense for Atomic Energy. |
+| [142\.](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Nuclear%20and%20Chemical%20and%20Biological%20Defense%20Programs.md) | Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. A, title IX, §904(a)(2), Feb. 10, 1996, 110 Stat. 403, substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in item 142.
+
+Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 401, 402, which directed amendment of analysis, eff. Jan. 31, 1997, by striking out items 133a, 134a, 137, and 142, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
 
 1994—Pub. L. 103–337, div. A, title IX, §903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted “Under Secretary of Defense (Comptroller)” for “Comptroller” in item 135.
 
@@ -91,4 +95,4 @@ This chapter is referred to in title 41 section 421.
 - [&sect; 00140b - Renumbered &sect;423](%C2%A7%2000140b%20-%20Renumbered%20%C2%A7423.md)
 - [&sect; 00140c - Renumbered &sect;130](%C2%A7%2000140c%20-%20Renumbered%20%C2%A7130.md)
 - [&sect; 00141 - Inspector General](%C2%A7%2000141%20-%20Inspector%20General.md)
-- [&sect; 00142 - Assistant to the Secretary of Defense for Atomic Energy](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Atomic%20Energy.md)
+- [&sect; 00142 - Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Nuclear%20and%20Chemical%20and%20Biological%20Defense%20Programs.md)

@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;If the sums available under this part for any fiscal year are insufficient to pay the full amounts that all local educational agencies in States are eligible to receive under sections 6333, 6334, and 6335 of this title for such year, the Secretary shall ratably reduce the allocations to such local educational agencies, subject to subsections (c) and (d) of this section.
+&emsp;If the sums available under this part for any fiscal year are insufficient to pay the fullamounts that all local educational agencies in States are eligible to receive under sections 6333, 6334, and 6335 of this title for such year, the Secretary shall ratably reduce the allocations to such local educational agencies, subject to subsections (c) and (d) of this section.
 
 #### (2) Additional funds
 
@@ -60,7 +60,7 @@ For the purpose of this section and sections 6333 and 6335 of this title, the te
 
 #### References in Text
 
-Sections 1005 and 1006 of part A of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, referred to in subsecs. (a) and (c)(1), mean sections 1005 and 1006 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of thistitle prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Sections 1005 and 1006 of part A of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, as in effect on September 30, 1994, referred to in subsecs. (a) and (c)(1), mean sections 1005 and 1006 of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 141, 146, as amended, which were classified to sections 2711 and 2712, respectively, of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 #### Section Referred to in Other Sections
 

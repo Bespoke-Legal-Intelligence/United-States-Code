@@ -138,5 +138,5 @@ Payments to retiring partner or deceased partner's successor in interest, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 144, 147, 163, 170, 179, 179A, 197, 267, 355, 453, 465, 469, 514, 613A, 631, 706, 736, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1397, 1402, 2701, 5881, 6038A, 7519 of this title; title 42 section 411.
+This section is referred to in sections 42, 144, 147, 163, 170, 179, 179A, 197, 213, 267, 355, 453, 465, 469, 514, 613A, 631, 643, 706, 736, 860L, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1397, 1402, 2701, 5881, 6038A, 7519 of this title; title 2 section 691e; title 42 section 411.
 

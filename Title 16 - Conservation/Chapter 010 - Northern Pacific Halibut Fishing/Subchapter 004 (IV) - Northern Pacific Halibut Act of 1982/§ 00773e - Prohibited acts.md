@@ -12,7 +12,7 @@ It is unlawful—
 
 &emsp;&emsp;(4) to resist a lawful arrest or detention for any act prohibited by this section;
 
-&emsp;&emsp;(5) to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken or retained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter; or
+&emsp;&emsp;(5) to ship, transport, offer for sale, sell, purchase, import, export or have custody, control or possession of, any fish taken orretained in violation of the Convention, this subchapter, or any regulation adopted under this subchapter; or
 
 &emsp;&emsp;(6) to interfere with, delay or prevent, by any means, the apprehension, arrest or detention of another person, knowing that such person has committed any act prohibited by this section.
 
@@ -22,7 +22,7 @@ It is unlawful—
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective</i><i>on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.</i>
+<i>Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b) is amended by substituting “exclusive economic zone or special areas” for “fishery conservation zone”.</i>
 
 #### Effective Date of 1992 Amendment
 

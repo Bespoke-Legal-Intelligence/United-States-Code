@@ -10,7 +10,7 @@ Every person who shall use or engage in, or cause to be used or engaged in, or e
 
 &emsp;(1) shall pay to the United States the sum of $2,000 for each such act, and double the amount of any damage which the United States may have sustained by reason thereof, together with the cost of suit; or
 
-&emsp;(2) shall, if the United States shall so elect, pay to the United States, as liquidated damages, a sum equal to twice the consideration agreed to be given by the United States or any Federal agency to such person or by such person to the United States or any Federal agency, as the case may be; or
+&emsp;(2) shall, if the United States shall so elect, pay to the United States, as liquidated damages, a sum equal to twice the consideration agreed to be given by the United States or anyFederal agency to such person or by such person to the United States or any Federal agency, as the case may be; or
 
 &emsp;(3) shall, if the United States shall so elect, restore to the United States the money or property thus secured and obtained and the United States shall retain as liquidated damages any property, money, or other consideration given to the United States or any Federal agency for such money or property, as the case may be.
 

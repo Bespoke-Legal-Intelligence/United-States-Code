@@ -24,7 +24,7 @@ It is the policy of the Congress to recognize, preserve, and protect the primary
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
-It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and the improvement of water quality to at least the same extent as the United States does under its laws.
+It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and theimprovement of water quality to at least the same extent as the United States does under its laws.
 
 #### (d) Administrator of Environmental Protection Agency to administer chapter
 
@@ -46,7 +46,7 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 #### Codification
 
-The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17,1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
+The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Section 1 of Pub. L. 95–217 provided: “That this Act \[enacting sections 128
 
 #### Short Title
 
-Section 1 of Pub. L. 92–500 provided that: “That this Act \[enacting this chapter, amending section 24 of Title 12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
+Section 1 of Pub. L. 92–500 provided that: “That this Act \[enacting this chapter, amending section 24 of Title12, Banks and Banking, sections 633 and 636 of Title 15, Commerce and Trade, and section 711 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and sections 1281 and 1361 of this title\] may be cited as the ‘Federal Water Pollution Control Act Amendments of 1972’.”
 
 Section 519, formerly section 518, of Act June 30, 1948, ch. 758, title V, as added Oct. 18, 1972, Pub. L. 92–500, §2, 86 Stat. 896, and amended Dec. 27, 1977, Pub. L. 95–217, §2, 91 Stat. 1566, and renumbered §519, Feb. 4, 1987, Pub. L. 100–4, title V, §506, 101 Stat. 76, provided that: “This Act \[this chapter\] may be cited as the ‘Federal Water Pollution Control Act’ (commonly referred to as the Clean Water Act).”
 
@@ -152,7 +152,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 “(4) The Chairman of the Committee shall be selected from among the Committee members described in paragraph (3)(A).
 
-“(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
+“(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who isawarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
 
 “(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by section 5703 of title 5, United States Code.
 
@@ -180,7 +180,7 @@ Reporting Requirements.—Within 3 months after the date of enactment of this Ac
 
 Authorization of Appropriations.—(1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries Program Authorization Act (Public Law 98–210; 97 Stat. 1409), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program.
 
-“(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized underthis section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
+“(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized under this section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
 
 “(f)
 
@@ -226,7 +226,7 @@ Section 6 of Pub. L. 92–500 provided that:
 
 &emsp;“(4) alternative means by which any competitive advantage accruing to the products of any foreign nation as a result of any factor described in paragraph (3) may be (A) accurately and quickly determined, and (B) equalized, for example, by the imposition of a surcharge or duty, on a foreign product in an amount necessary to compensate for such advantage; and
 
-&emsp;“(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure may have in encouraging foreign nations to implement pollution and abatement control programs.
+&emsp;“(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure mayhave in encouraging foreign nations to implement pollution and abatement control programs.
 
 “(b) The Secretary shall make an initial report to the President and Congress within six months after the date of enactment of this section \[Oct. 18, 1972\] of the results of the study and investigation carried out pursuant to this section and shall make additional reports thereafter at such times as he deems appropriate taking into account the development of relevant data, but not less than once every twelve months.”
 

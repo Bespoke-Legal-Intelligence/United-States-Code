@@ -62,7 +62,7 @@ Level I of the Executive Schedule, referred to in subsec. (d)(2), is set out in 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
+1992—Subsec. (a)(2)(E), (F). Pub. L. 102–378, §2(34)(A), added subpars. (E) and (F).
 
 Subsec. (i). Pub. L. 102–378, §2(34)(B), added subsec. (i).
 

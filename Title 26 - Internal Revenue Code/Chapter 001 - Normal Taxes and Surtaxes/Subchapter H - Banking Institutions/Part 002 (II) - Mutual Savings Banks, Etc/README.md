@@ -6,13 +6,14 @@
 | \[592. | Repealed.\] |
 | [593\.](%C2%A7%2000593%20-%20Reserves%20for%20losses%20on%20loans.md) | Reserves for losses on loans. |
 | [594\.](%C2%A7%2000594%20-%20Alternative%20tax%20for%20mutual%20savings%20banks%20conducting%20life%20insurance%20business.md) | Alternative tax for mutual savings banks conducting life insurance business. |
-| [595\.](%C2%A7%2000595%20-%20Foreclosure%20on%20property%20securing%20loans.md) | Foreclosure on property securing loans. |
-| [596\.](%C2%A7%2000596%20-%20Limitation%20on%20dividends%20received%20deduction.md) | Limitation on dividends received deduction. |
+| \[595, 596. | Repealed.\] |
 | [597\.](%C2%A7%2000597%20-%20Treatment%20of%20transactions%20in%20which%20Federal%20financial%20assistance%20provided.md) | Treatment of transactions in which Federal financial assistance provided. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §1616(b)(16), Aug. 20, 1996, 110 Stat. 1857, struck out items 595 “Foreclosure on property securing loans” and 596 “Limitation on dividends received deduction”.
 
 1989—Pub. L. 101–73, title XIV, §1401(b)(1), Aug. 9, 1989, 103 Stat. 549, repealed amendment made by Pub. L. 99–514, §904(b)(2), see 1986 Amendment note below.
 
@@ -43,7 +44,6 @@ This part is referred to in section 1381 of this title.
 - [&sect; 00592 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1901(a)(83), Oct. 4, 1976, 90 Stat. 1778](%C2%A7%2000592%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71901%28a%29%2883%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201778.md)
 - [&sect; 00593 - Reserves for losses on loans](%C2%A7%2000593%20-%20Reserves%20for%20losses%20on%20loans.md)
 - [&sect; 00594 - Alternative tax for mutual savings banks conducting life insurance business](%C2%A7%2000594%20-%20Alternative%20tax%20for%20mutual%20savings%20banks%20conducting%20life%20insurance%20business.md)
-- [&sect; 00595 - Foreclosure on property securing loans](%C2%A7%2000595%20-%20Foreclosure%20on%20property%20securing%20loans.md)
-- [&sect; 00596 - Limitation on dividends received deduction](%C2%A7%2000596%20-%20Limitation%20on%20dividends%20received%20deduction.md)
+- [&sect; 00595, 596 - Repealed. Pub. L. 104&#8211;188, title I, &sect;1616(b)(8), (9), Aug. 20, 1996, 110 Stat. 1857](%C2%A7%2000595%2C%20596%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93188%2C%20title%20I%2C%20%C2%A71616%28b%29%288%29%2C%20%289%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201857.md)
 - [&sect; 00597 - Treatment of transactions in which Federal financial assistance provided](%C2%A7%2000597%20-%20Treatment%20of%20transactions%20in%20which%20Federal%20financial%20assistance%20provided.md)
 - [&sect; 00601 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1901(a)(85), Oct. 4, 1976, 90 Stat. 1778](%C2%A7%2000601%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71901%28a%29%2885%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201778.md)

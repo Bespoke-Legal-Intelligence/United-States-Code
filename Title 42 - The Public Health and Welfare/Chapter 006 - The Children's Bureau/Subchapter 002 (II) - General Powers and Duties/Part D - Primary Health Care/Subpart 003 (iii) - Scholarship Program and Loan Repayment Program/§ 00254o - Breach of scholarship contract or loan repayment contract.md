@@ -26,15 +26,11 @@
 
 (1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) <sup>1</sup> of this title) either to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;t−s&nbsp;
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
-> &nbsp;A=3φ  G7
+### A=3φ  (——)
 
-/—— G7
-
-S
-
-&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;t
+### &nbsp;&nbsp;&nbsp;&nbsp;t
 
 > in which “A” is the amount the United States is entitled to recover, “φ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual's period of obligated service; and “s” is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
@@ -156,103 +152,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i
 
 #### Special Repayment Provisions
 
-Section 204 of Pub. L. 100–177 provided that:
-
-“(a)
-
-Eligible Individuals.—
-
-&emsp;“(1)
-
-In general.—An individual who—
-
-&emsp;&emsp;“(A)(i) breached a written contract entered into under section 338A of the Public Health Service Act (42 U.S.C. 254<i>l</i>) by failing either to begin such individual's service obligation in accordance with section 338C of such Act \[section 254m of this title\] (as redesignated by section 201(2) of this Act) or to complete such service obligation; or
-
-&emsp;&emsp;“(ii) otherwise breached such a contract; and
-
-&emsp;&emsp;“(B) as of November 1, 1987, is liable to the United States under section 338E(b) of such Act (as redesignated by section 201(2) of this Act) \[subsec. (b) of this section\],
-
-> &emsp;shall be relieved of liability to the United States under such section if the individual provides notice to the Secretary in accordance with paragraph (2) and provides service in accordance with a written contract with the Secretary that obligates the individual to provide service in accordance with subsection (b) or (c). The Secretary may exclude an individual from relief from liability under this section for reasons related to the individual's professional competence or conduct.
-
-&emsp;“(2)
-
-Notice by Secretary.—Not later than 90 days after the date of the enactment of this Act \[Dec. 1, 1987\], the Secretary of Health and Human Services shall notify in writing individuals who are described in subsection (a) of the opportunity provided by such subsection to be relieved of liability to the United States under section 338E(b) of the Public Health Service Act \[subsec. (b) of this section\] (as redesignated by section 201(2) of this Act). Notice sent to the last known address of such individual shall constitute sufficient notice for the purposes of this section. The Secretary may require that an individual responding to such notice make an election between service under subsection (b) or subsection (c) and provide that such election shall be binding.
-
-&emsp;“(3)
-
-Notice by individual.—Not later than 180 days after the date of the enactment of this Act \[Dec. 1, 1987\], an individual who receives a notice from the Secretary may notify the Secretary that the individual intends to enter into a written contract with the Secretary to provide service in accordance with subsection (b) or (c). The Secretary may extend the 180-day period for an individual for good cause shown.
-
-&emsp;“(4)
-
-Statute of limitations.—If an individual provides notice under paragraph (3), the statute of limitations established by section 2415 of title 28, United States Code, shall be tolled from the time the Secretary receives such notice until such time as it is determined by the Secretary that such individual will not be relieved of liability to the United States under the Public Health Service Act \[section 201 et seq. of this title\] as provided under this section.
-
-&emsp;“(5)
-
-Placements.—Any individual who enters into a contract under this subsection shall be afforded an opportunity to locate and negotiate a placement in accordance with this section, except that the Secretary shall not be required to identify a placement for any individual in a medical specialty for which the National Health Service Corps has no need.
-
-&emsp;“(6)
-
-Partial service.—The Secretary shall promulgate regulations that provide for the reduction of the liability under section 338F of the Public Health Service Act \[section 254p of this title\] (as redesignated by section 201(2) of this Act) of an individual who breaches a contract entered into under this section to reflect any partial service or partial payment of liability of the individual under this section.
-
-“(b)
-
-Service at Health Manpower Shortage Area Placement Opportunity List Sites.—
-
-&emsp;“(1)
-
-In general.—An individual notified under subsection (a)(2) may enter into a written contract with the Secretary to serve, in accordance with subpart II of part D of title III of the Public Health Service Act (42 U.S.C. 254d et seq.), for the period of such individual's service obligation remaining under section 338C of the Public Health Service Act \[section 254m of this title\] (as redesignated by section 201(2) of this Act) at a site that—
-
-&emsp;&emsp;“(A)(i) is on the Health Manpower Shortage Area Placement Opportunity List created by the Secretary of Health and Human Services for obligated service under section 338C of the Public Health Service Act (as so redesignated) to begin in fiscal year 1988 and to which no individual who is not described in subsection (a)(1) has been assigned by a date determined by the Secretary; or
-
-&emsp;&emsp;“(ii) is on the Health Manpower Shortage Area Placement Opportunity List created by the Secretary of Health and Human Services for obligated service under section 338C of the Public Health Service Act (as so redesignated) to begin in fiscal year 1989; and
-
-&emsp;&emsp;“(B) has agreed to permit the individual to serve at such site.
-
-&emsp;“(2)
-
-Number of sites.—The Secretary shall to the extent practicable, include a total number of sites on the list referred to in paragraph (1) sufficient to provide placement to all obligors under the Scholarship Program scheduled to begin service in fiscal year 1988 or 1989 and all individuals responding to the notice provided under subsection (a) and electing service under paragraph (1).
-
-“(c)
-
-Service at Supplemental Health Manpower Shortage Area Placement Opportunity List Sites.—An individual notified under subsection (a)(2) may enter into a written contract with the Secretary—
-
-&emsp;“(1) to—
-
-&emsp;&emsp;“(A) serve in accordance with subpart II of part D of title III of the Public Health Service Act (42 U.S.C. 254d et seq.) for the period of such individual's service obligation remaining under section 338C of the Public Health Service Act \[section 254m of this title\] (as redesignated by section 201(2) of this Act) at a site that is on a supplemental Health Manpower Shortage Area Placement Opportunity List created by the Secretary of Health and Human Services for obligated service under section 338C of the Public Health Service Act (as so redesignated) and that has agreed to permit the individual to serve at such site; and
-
-&emsp;&emsp;“(B) pay, in accordance with guidelines established by the Secretary of Health and Human Services, to the United States the sum of the amounts paid under subpart II of part D of title III of such Act to or on behalf of the individual reduced by any amount paid, before entering into the contract, by such individual to the Secretary with respect to the individual's indebtedness under such part D \[section 254a–1 et seq. of this title\]; or
-
-&emsp;“(2) to serve in accordance with such subpart II \[section 254d et seq. of this title\] at a site described in paragraph (1) for 150 percent of such individual's remaining service obligation under section 338C of such Act \[section 254m of this title\] (as so redesignated).
-
-“(d)
-
-Creation of Supplemental Health Manpower Shortage Area Placement Opportunity List Sites.—In creating the supplemental Health Manpower Shortage Area Placement Opportunity List for purposes of subsection (c), the Secretary—
-
-&emsp;“(1) shall include any site to which a National Health Service Corps member was previously assigned but which in fiscal year 1988 or 1989 will not have such member or a member of the National Health Service Corps to replace such member unless the Secretary of Health and Human Services determines that such site may reasonably be expected to recruit a health care professional from other than the Corps;
-
-&emsp;“(2) shall include any migrant health center receiving funds under section 329 of the Public Health Service Act (42 U.S.C. 247d) \[section 254b of this title\] or community health center receiving funds under section 330 of such Act (42 U.S.C. 254c) unless the Secretary of Health and Human Services determines that such center has been able to recruit health care professionals from other than the Corps to serve at the center and may reasonably be expected to recruit such health care professionals in the future;
-
-&emsp;“(3) may include any other site selected by the Secretary; and
-
-&emsp;“(4) shall designate the type of health care professional or medical specialist who is eligible to serve at the sites included on the list.
-
-> A site may be included on the supplemental list only if, at the time the list is created, the Secretary determines that the site meets the criteria prescribed by section 332 of such Act (42 U.S.C. 254e).
-
-“(e)
-
-Additional Eligible Individuals.—
-
-&emsp;“(1)
-
-In general.—The Secretary of Health and Human Services may authorize an individual who is not described in subsection (a) and who is to begin to serve the individual's service obligation under section 338C of the Public Health Service Act \[section 254m of this title\] (as redesignated by section 201(2) of this Act) in fiscal year 1988 or 1989 to serve such obligation in accordance with subsection (c) if the Secretary determines that—
-
-&emsp;&emsp;“(A) service by the individual in accordance with subsection (c) would be in the best interests of the National Health Service Corps; and
-
-&emsp;&emsp;“(B) allowing such service would alleviate a substantial hardship for such individual.
-
-&emsp;“(2)
-
-Scholarship training program.—Individuals who have breached a written contract entered into under section 225 of the Public Health Service Act (42 U.S.C. 234) (as such section existed before the amendment made by section 408(b) of the Health Professions Educational Assistance Act of 1976 (Public Law 94–484; 90 Stat. 2281)) by failing to complete their service obligations and who are, as of November 1, 1987, liable to the United States under section 225(f)(1) of the Public Health Service Act (as such section so existed) may be relieved of their liability to the United States under the terms and conditions set forth in this section.”
+Section 204 of Pub. L. 100–177 provided that an individual who breached a written contract entered into under section 254<i>l</i> of this title by failing either to begin such individual's service obligation in accordance with section 254m of this title or to complete such service obligation; or otherwise breached such a contract; and, as of Nov. 1, 1987, was liable to United States under subsec. (b) of this section was to be relieved of liability to United States under such section if the individual provided notice to Secretary and service in accordance with a written contract with the Secretary that obligated the individual to provide service in accordance with section and authorized Secretary to exclude an individual from relief from liability under this section for reasons related to the individual's professional competence or conduct.
 
 #### Existing Proceedings
 

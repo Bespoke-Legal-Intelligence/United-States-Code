@@ -22,7 +22,7 @@ The Secretary of the Treasury is authorized and directed out of the sums covered
 
 &emsp;(3) to make additional payment of not to exceed 25 per centum of the unpaid principal of awards in the principal amount of more than $1,000;
 
-&emsp;(4) after completing the payments prescribed by paragraphs (2) and (3) of this subsection, to make payments, from time to time in ratable proportions, on account of the unpaid principal of all awards in the principal amount of more than $1,000, according to the proportions which the unpaid principal of such awards bear to the total amount in the fund available for distribution at the time such payments are made; and
+&emsp;(4) after completing the payments prescribed by paragraphs (2) and (3) of this subsection, tomake payments, from time to time in ratable proportions, on account of the unpaid principal of all awards in the principal amount of more than $1,000, according to the proportions which the unpaid principal of such awards bear to the total amount in the fund available for distribution at the time such payments are made; and
 
 &emsp;(5) after payment has been made of the principal amounts of all such awards, to make pro rata payments on account of accrued interest on such awards as bear interest.
 
@@ -38,7 +38,7 @@ Except as provided in subsection (f) of this section, the Secretary of the Treas
 
 &emsp;(2) Thereafter, payments from time to time on account of the unpaid principal balance of each remaining award which shall bear to such unpaid principal balance the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid principal balance of all such awards; and
 
-&emsp;(3) Thereafter, payments from time to time on account of the unpaid balance of each award of interest which shall bear to such unpaid balance of interest, the same proportion as the total amount available for distributionat the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
+&emsp;(3) Thereafter, payments from time to time on account of the unpaid balance of each award of interest which shall bear to such unpaid balance of interest, the same proportion as the total amount available for distribution at the time such payments are made bears to the aggregate unpaid balance of interest of all such awards.
 
 #### (f) People's Republic of China; claim payment priorities
 
@@ -52,7 +52,7 @@ Except as provided in subsection (f) of this section, the Secretary of the Treas
 
 (2)(A) For the purpose of computing the payments to be made under paragraph (1) to any claimant which was an incorporated business enterprise on the date of nationalization or other taking of property, the award certified by the Commission under subchapter V of this chapter shall be reduced by the amount of Federal tax benefits derived by such claimant on account of the losses upon which such claim was based, but in no case shall such payments be reduced below the amount paid to such claimant on account of such claim before October 13, 1980. For purposes of this subparagraph, such Federal tax benefits shall be the amount by which the claimant's taxes in any prior taxable year or years under chapters 1, 2A, 2B, 2D, and 2E of the Internal Revenue Code of 1939, or subtitle A of the Internal Revenue Code of 1986, were decreased with respect to the loss or losses upon which the claim was based. The sum of the amounts which would otherwise be payable but for this paragraph which are not paid to any such claimant shall be aggregated, and the Secretary of the Treasury is authorized and directed to make payments out of such aggregated sums in accordance with subparagraph (B).
 
-(B) To the extent that there remain unpaid principal balances on awards to claimants which were, on the date of nationalization or other taking of property, nonprofit organizations operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes (after payments made to such nonprofit organizations pursuant to subparagraphs (A) and (B) of paragraph (1) are taken into account), the Secretary of the Treasury is authorized and directed to make payments from time to time on account of the unpaid principal balance of each remaining award to such nonprofit organizations which bear to such unpaid principal balance the same proportion as the total sums aggregated pursuant to subparagraph (A) at the times such payments are made bear to the aggregate unpaid principal balance of all such awards to nonprofit organizations.
+(B) To the extent that there remain unpaid principal balances on awards to claimants which were, on the date of nationalization or other taking of property, nonprofit organizations operated exclusively for the promotion of social welfare, religious, charitable, or educational purposes (after payments made to such nonprofit organizations pursuant to subparagraphs (A) and (B) of paragraph (1) are taken into account), the Secretary of the Treasury is authorized and directed to make payments from time to time on account of the unpaid principal balance of each remaining award to such nonprofitorganizations which bear to such unpaid principal balance the same proportion as the total sums aggregated pursuant to subparagraph (A) at the times such payments are made bear to the aggregate unpaid principal balance of all such awards to nonprofit organizations.
 
 #### (g) Authority to invest and recover expenses from funds
 
@@ -68,13 +68,17 @@ Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A)
 
 Chapter 2A of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 500 to 511 of former Title 26, Internal Revenue Code. Sections 500 to 511 were repealed by section 7851(a)(1)(A) of Title 26, Internal Revenue Code.
 
-Chapter 2B of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections600 to 605 of former Title 26, Internal Revenue Code. Sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, §202, 59 Stat. 574, eff. with respect to taxable years ending June 30, 1946.
+Chapter 2B of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 600 to 605 of former Title 26, Internal Revenue Code. Sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, §202, 59 Stat. 574, eff. with respect to taxable years ending June 30, 1946.
 
 Chapter 2D of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 700 to 706 of former Title 26, Internal Revenue Code. Sections 700 to 716 were repealed by section 7851(a)(1)(A) of Title 26, Internal Revenue Code.
 
 Chapter 2E of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, §122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, §229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
 Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16, 1954, ch. 736, 68A Stat. 4, as amended, which comprises Subtitle A (§1 et seq.) of Title 26, Internal Revenue Code.
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Amendments
 

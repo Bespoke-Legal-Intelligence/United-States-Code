@@ -32,10 +32,6 @@ Waivers To Ensure Two Below-the-Zone Considerations.—Subject to section 14307(
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2933.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 14305, 14315 of this title; title 32 sections 309, 310.

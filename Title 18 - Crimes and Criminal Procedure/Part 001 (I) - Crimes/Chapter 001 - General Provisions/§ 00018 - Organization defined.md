@@ -1,4 +1,4 @@
-### §18 . Organization defined
+### §18. Organization defined
 
 As used in this title, the term “organization” means a person other than an individual.
 

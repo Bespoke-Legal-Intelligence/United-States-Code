@@ -10,7 +10,7 @@ Notwithstanding any other provision or rule of law, and subject only to the defe
 
 &emsp;(3) any person who by contract, agreement, or otherwise arranged for disposal or treatment, or arranged with a transporter for transport for disposal or treatment, of hazardous substances owned or possessed by such person, by any other party or entity, at any facility or incineration vessel owned or operated by another party or entity and containing such hazardous substances, and
 
-&emsp;(4) any person who accepts or accepted any hazardous substances for transport to disposal or treatment facilities, incineration vessels or sites selected by such person, from which there is a release, or a threatened release which causes the incurrence of response costs, of a hazardous substance, shall be liable for—
+&emsp;(4) any person who accepts or accepted any hazardous substances for transport to disposal or treatment facilities, incineration vessels or sites selected by such person, from whichthere is a release, or a threatened release which causes the incurrence of response costs, of a hazardous substance, shall be liable for—
 
 &emsp;&emsp;(A) all costs of removal or remedial action incurred by the United States Government or a State or an Indian tribe not inconsistent with the national contingency plan;
 
@@ -42,7 +42,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 &emsp;(B) for any other vessel, other than an incineration vessel, $300 per gross ton, or $500,000, whichever is greater;
 
-&emsp;(C) for any motor vehicle, aircraft, hazardous liquid pipeline facility (as defined in section 60101(a)(5) of title 49), or rolling stock, $50,000,000 or such lesser amount as the President shall establish by regulation, but in no event less than $5,000,000 (or, for releases of hazardous substances as defined in section 9601(14)(A) of this title into the navigable waters, $8,000,000). Such regulations shall take into account the size, type, location, storage, and handling capacity and other matters relating to the likelihood of release in each such class and to the economic impact of such limits on each such class; or
+&emsp;(C) for any motor vehicle, aircraft, hazardous liquid pipeline facility (as defined in section 60101(a) of title 49), or rolling stock, $50,000,000 or such lesser amount as the President shall establish by regulation, but in no event less than $5,000,000 (or, for releases of hazardous substances as defined in section 9601(14)(A) of this title into the navigable waters, $8,000,000). Such regulations shall take into account the size, type, location, storage, and handling capacity and other matters relating to the likelihood of release in each such class and to the economic impact of such limits on each such class; or
 
 &emsp;(D) for any incineration vessel or any facility other than those specified in subparagraph (C) of this paragraph, the total of all costs of response plus $50,000,000 for any damages under this subchapter.
 
@@ -54,7 +54,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no person shall be liable under this subchapter for costs or damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the National Contingency Plan (“NCP”) or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any releases of a hazardous substance or the threat thereof. This paragraph shall not preclude liability for costs or damages as the result of negligence on the part of such person.
+&emsp;Except as provided in paragraph (2), no person shall be liable under this subchapter forcosts or damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the National Contingency Plan (“NCP”) or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any releases of a hazardous substance or the threat thereof. This paragraph shall not preclude liability for costs or damages as the result of negligence on the part of such person.
 
 #### (2) State and local governments
 
@@ -74,7 +74,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (1) Natural resources liability
 
-&emsp;In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: <i>Provided, however,</i> That no liability to the United States orState or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
+&emsp;In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: <i>Provided, however</i>, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
 
 #### (2) Designation of Federal and State officials
 
@@ -116,7 +116,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (2) Such transfer of liability shall be effective ninety days after the owner or operator of such facility notifies the Administrator of the Environmental Protection Agency (and the State where it has an authorized program under section 3006(b) of the Solid Waste Disposal Act \[42 U.S.C. 6926(b)\]) that the conditions imposed by this subsection have been satisfied. If within such ninety-day period the Administrator of the Environmental Protection Agency or such State determines that any such facility has not complied with all the conditions imposed by this subsection or that insufficient information has been provided to demonstrate such compliance, the Administrator or such State shall so notify the owner and operator of such facility and the administrator of the Fund established by section 9641 <sup>1</sup> of this title, and the owner and operator of such facility shall continue to be liable with respect to such facility under this section and other law until such time as the Administrator and such State determines that such facility has complied with all conditions imposed by this subsection. A determination by the Administrator or such State that a facility has not complied with all conditions imposed by this subsection or that insufficient information has been supplied to demonstrate compliance, shall be a final administrative action for purposes of judicial review. A request for additional information shall state in specific terms the data required.
 
-(3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care and maintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
+(3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care andmaintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
 
 (4)(A) Not later than one year after December 11, 1980, the Secretary of the Treasury shall conduct a study and shall submit a report thereon to the Congress on the feasibility of establishing or qualifying an optional system of private insurance for postclosure financial responsibility for hazardous waste disposal facilities to which this subsection applies. Such study shall include a specification of adequate and realistic minimum standards to assure that any such privately placed insurance will carry out the purposes of this subsection in a reliable, enforceable, and practical manner. Such a study shall include an examination of the public and private incentives, programs, and actions necessary to make privately placed insurance a practical and effective option to the financing system for the Post-closure Liability Fund provided in subchapter II <sup>1</sup> of this chapter.
 
@@ -204,7 +204,7 @@ Recommendations.—The Comptroller General shall consider options for funding an
 
 &emsp;&emsp;(B) The time that the person referred to in paragraph (1) is provided (by certified or registered mail) written notice of potential liability.
 
-> &emsp;Such lien shall continue until the liability for the costs (or a judgment against the personarising out of such liability) is satisfied or becomes unenforceable through operation of the statute of limitations provided in section 9613 of this title.
+> &emsp;Such lien shall continue until the liability for the costs (or a judgment against the person arising out of such liability) is satisfied or becomes unenforceable through operation of the statute of limitations provided in section 9613 of this title.
 
 #### (3) Notice and validity
 
@@ -218,11 +218,117 @@ Recommendations.—The Comptroller General shall consider options for funding an
 
 All costs and damages for which the owner or operator of a vessel is liable under subsection (a)(1) of this section with respect to a release or threatened release from such vessel shall constitute a maritime lien in favor of the United States on such vessel. Such costs may be recovered in an action in rem in the district court of the United States for the district in which the vessel may be found. Nothing in this subsection shall affect the right of the United States to bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
 
-(Pub. L. 96–510, title I, §107, Dec. 11, 1980, 94 Stat. 2781; Pub. L. 99–499, title I, §§107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§201, 207(c), Oct. 17, 1986, 100 Stat. 1628–1630, 1692, 1693, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–429, §7(e)(2), Oct. 31, 1994, 108 Stat. 4390.)
+#### (n) Liability of fiduciaries
+
+#### (1) In general
+
+&emsp;The liability of a fiduciary under any provision of this chapter for the release or threatened release of a hazardous substance at, from, or in connection with a vessel or facility held in a fiduciary capacity shall not exceed the assets held in the fiduciary capacity.
+
+#### (2) Exclusion
+
+&emsp;Paragraph (1) does not apply to the extent that a person is liable under this chapter independently of the person's ownership of a vessel or facility as a fiduciary or actions taken in a fiduciary capacity.
+
+#### (3) Limitation
+
+&emsp;Paragraphs (1) and (4) do not limit the liability pertaining to a release or threatened release of a hazardous substance if negligence of a fiduciary causes or contributes to the release or threatened release.
+
+#### (4) Safe harbor
+
+&emsp;A fiduciary shall not be liable in its personal capacity under this chapter for—
+
+&emsp;&emsp;(A) undertaking or directing another person to undertake a response action under subsection (d)(1) of this section or under the direction of an on scene coordinator designated under the National Contingency Plan;
+
+&emsp;&emsp;(B) undertaking or directing another person to undertake any other lawful means of addressing a hazardous substance in connection with the vessel or facility;
+
+&emsp;&emsp;(C) terminating the fiduciary relationship;
+
+&emsp;&emsp;(D) including in the terms of the fiduciary agreement a covenant, warranty, or other term or condition that relates to compliance with an environmental law, or monitoring, modifying or enforcing the term or condition;
+
+&emsp;&emsp;(E) monitoring or undertaking 1 or more inspections of the vessel or facility;
+
+&emsp;&emsp;(F) providing financial or other advice or counseling to other parties to the fiduciary relationship, including the settlor or beneficiary;
+
+&emsp;&emsp;(G) restructuring, renegotiating, or otherwise altering the terms and conditions of the fiduciary relationship;
+
+&emsp;&emsp;(H) administering, as a fiduciary, a vessel or facility that was contaminated before the fiduciary relationship began; or
+
+&emsp;&emsp;(I) declining to take any of the actions described in subparagraphs (B) through (H).
+
+#### (5) Definitions
+
+&emsp;As used in this chapter:
+
+#### (A) Fiduciary
+
+&emsp;&emsp;The term “fiduciary”—
+
+&emsp;&emsp;&emsp;(i) means a person acting for the benefit of another party as a bona fide—
+
+&emsp;&emsp;&emsp;&emsp;(I) trustee;
+
+&emsp;&emsp;&emsp;&emsp;(II) executor;
+
+&emsp;&emsp;&emsp;&emsp;(III) administrator;
+
+&emsp;&emsp;&emsp;&emsp;(IV) custodian;
+
+&emsp;&emsp;&emsp;&emsp;(V) guardian of estates or guardian ad litem;
+
+&emsp;&emsp;&emsp;&emsp;(VI) receiver;
+
+&emsp;&emsp;&emsp;&emsp;(VII) conservator;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) committee of estates of incapacitated persons;
+
+&emsp;&emsp;&emsp;&emsp;(IX) personal representative;
+
+&emsp;&emsp;&emsp;&emsp;(X) trustee (including a successor to a trustee) under an indenture agreement, trust agreement, lease, or similar financing agreement, for debt securities, certificates of interest or certificates of participation in debt securities, or other forms of indebtedness as to which the trustee is not, in the capacity of trustee, the lender; or
+
+&emsp;&emsp;&emsp;&emsp;(XI) representative in any other capacity that the Administrator, after providing public notice, determines to be similar to the capacities described in subclauses (I) through (X); and
+
+&emsp;&emsp;&emsp;(ii) does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a person that is acting as a fiduciary with respect to a trust or other fiduciary estate that was organized for the primary purpose of, or is engaged in, actively carrying on a trade or business for profit, unless the trust or other fiduciary estate was created as part of, or to facilitate, 1 or more estate plans or because of the incapacity of a natural person; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a person that acquires ownership or control of a vessel or facility with the objective purpose of avoiding liability of the person or of any other person.
+
+#### (B) Fiduciary capacity
+
+&emsp;&emsp;The term “fiduciary capacity” means the capacity of a person in holding title to a vessel or facility, or otherwise having control of or an interest in the vessel or facility, pursuant to the exercise of the responsibilities of the person as a fiduciary.
+
+#### (6) Savings clause
+
+&emsp;Nothing in this subsection—
+
+&emsp;&emsp;(A) affects the rights or immunities or other defenses that are available under this chapter or other law that is applicable to a person subject to this subsection; or
+
+&emsp;&emsp;(B) creates any liability for a person or a private right of action against a fiduciary or any other person.
+
+#### (7) No effect on certain persons
+
+&emsp;Nothing in this subsection applies to a person if the person—
+
+&emsp;&emsp;(A)(i) acts in a capacity other than that of a fiduciary or in a beneficiary capacity; and
+
+&emsp;&emsp;(ii) in that capacity, directly or indirectly benefits from a trust or fiduciary relationship; or
+
+&emsp;&emsp;(B)(i) is a beneficiary and a fiduciary with respect to the same fiduciary estate; and
+
+&emsp;&emsp;(ii) as a fiduciary, receives benefits that exceed customary or reasonable compensation, and incidental benefits, permitted under other applicable law.
+
+#### (8) Limitation
+
+&emsp;This subsection does not preclude a claim under this chapter against—
+
+&emsp;&emsp;(A) the assets of the estate or trust administered by the fiduciary; or
+
+&emsp;&emsp;(B) a nonemployee agent or independent contractor retained by a fiduciary.
+
+(Pub. L. 96–510, title I, §107, Dec. 11, 1980, 94 Stat. 2781; Pub. L. 99–499, title I, §§107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§201, 207(c), Oct. 17, 1986, 100 Stat. 1628–1630, 1692, 1693, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–429, §7(e)(2), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title II, §2502(a), Sept. 30, 1996, 110 Stat. 3009–462; Pub. L. 104–287, §6(j)(2), Oct. 11, 1996, 110 Stat. 3400.)
 
 #### References in Text
 
-Such amendments, referred to in the last sentence of subsec. (a), probably means the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the “Superfund Amendments and Reauthorization Act of 1986”. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
+Such amendments, referred to in the last sentence of subsec. (a), probably means the amendments made by Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the “Superfund Amendments and Reauthorization Act of1986”. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 Act of March 3, 1851 (46 U.S.C. 183ff), referred to in subsec. (h), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§4282 to 4287 and 4289, and is classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping.
 
@@ -236,11 +342,11 @@ Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in 
 
 The Hazardous and Solid Waste Amendments of 1984, referred to in subsec. (k)(6)(A), (E), is Pub. L. 98–616, Nov. 8, 1984, 98 Stat. 3221. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 6901 of this title and Tables.
 
-#### Codification
-
-In subsec. (c)(1)(C), “section 60101(a)(5) of title 49” substituted for “the Hazardous Liquid Pipeline Safety Act of 1979 \[49 App. U.S.C. 2001 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
-
 #### Amendments
+
+1996—Subsec. (c)(1)(C). Pub. L. 104–287 substituted “section 60101(a) of title 49” for “the Hazardous Liquid Pipeline Safety Act of 1979”.
+
+Subsec. (n). Pub. L. 104–208 added subsec. (n).
 
 1994—Subsec. (c)(1)(C). Pub. L. 103–429 substituted “hazardous liquid pipeline facility” for “pipeline”.
 
@@ -292,13 +398,21 @@ Subsec. (<i>l</i>)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 
 
 Subsec. (m). Pub. L. 99–499, §107(f), added subsec. (m).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 applicable with respect to any claim that has not been finally adjudicated as of Sept. 30, 1996, see section 2505 of Pub. L. 104–208, set out as a note under section 6991b of this title.
+
+#### Recovery of Costs
+
+Pub. L. 104–303, title II, §209, Oct. 12, 1996, 110 Stat. 3681, provided that: “Amounts recovered under section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9607) for any response action taken by the Secretary in support of the civil works program of the Department of the Army and any other amounts recovered by the Secretary from a contractor, insurer, surety, or other person to reimburse the Department of the Army for any expenditure for environmental response activities in support of the Army civil works program shall be credited to the appropriate trust fund account from which the cost of such response action has been paid or will be charged.”
+
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6924, 6939a, 6991b, 6991c, 9601, 9603, 9606, 9608, 9611, 9612, 9613, 9614, 9619, 9620, 9622, 9624, 9651, 9656, 9658 of this title; title 10 section 2703; title 14 section 692; title 16 sections 1437, 1443; title 26 section 9507.
+This section is referred to in sections 6924, 6939a, 6991b, 6991c, 9601, 9603, 9606, 9608, 9611, 9612, 9613, 9614, 9619, 9620, 9622, 9624, 9651, 9656, 9658 of this title; title 14 section 692; title 16 sections 1437, 1443; title 26 section 9507.
 
 <i><sup>1</sup></i><i>See References in Text note below.</i>
 

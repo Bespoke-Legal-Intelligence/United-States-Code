@@ -16,7 +16,7 @@ Section 9887, Pub. L. 97–35, title VI, §670T, as added Pub. L. 100–297, tit
 
 #### Effective Date of Repeal
 
-Repeal effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
+Repeal effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financialassistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
 
 #### Comprehensive Child Development Program; Congressional Statement of Purpose
 

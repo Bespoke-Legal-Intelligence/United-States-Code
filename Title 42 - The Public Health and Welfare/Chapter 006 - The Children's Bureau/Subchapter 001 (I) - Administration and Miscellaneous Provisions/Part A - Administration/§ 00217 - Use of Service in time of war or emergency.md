@@ -1,6 +1,6 @@
 ### §217. Use of Service in time of war or emergency
 
-In time of war, or of emergency proclaimed by the President, he may utilize the Service to such extent and in such manner as shall in his judgment promote the public interest. In time of war, or of emergency involving the national defense proclaimed by the President, he may by Executive order declare the commissioned corps of the Service to be a military service. Upon such declaration, and during the period of such war or such emergency or such part thereof as the President shall prescribe, the commissioned corps (a) shall constitute a branch of the land and naval forces of the United States, (b) shall, to the extent prescribed by regulations of the President, be subject to the Uniform Code of Military Justice \[10 U.S.C. 801 et seq.\], and (c) shall continue to operate as part of the Service except to the extent that the President may direct as Commander in Chief.
+In time of war, or of emergency proclaimed by the President, he may utilize the Service to such extent and in such manner as shall in his judgment promote the public interest. In time of war, or of emergency involving the national defense proclaimed by the President, he may by Executive order declare the commissioned corpsof the Service to be a military service. Upon such declaration, and during the period of such war or such emergency or such part thereof as the President shall prescribe, the commissioned corps (a) shall constitute a branch of the land and naval forces of the United States, (b) shall, to the extent prescribed by regulations of the President, be subject to the Uniform Code of Military Justice \[10 U.S.C. 801 et seq.\], and (c) shall continue to operate as part of the Service except to the extent that the President may direct as Commander in Chief.
 
 (July 1, 1944, ch. 373, title II, §216, 58 Stat. 690; Apr. 27, 1956, ch. 211, §1, 70 Stat. 116.)
 
@@ -38,7 +38,7 @@ Ex. Ord. No. 10362, eff. June 14, 1952, 17 F.R. 5413, amended Ex. Ord. No. 10356
 
 #### Executive Order No. 10367
 
-Ex. Ord. No. 10367, eff. June 30, 1952, 17 F.R. 5929, amended Ex. Ord. No. 10362, and extended from June 30,1952, to July 3, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
+Ex. Ord. No. 10367, eff. June 30, 1952, 17 F.R. 5929, amended Ex. Ord. No. 10362, and extended from June 30, 1952, to July 3, 1952, the period during which the Commissioned Corps of the Public Health Service was subject to the Uniform Code of Military Justice.
 
 #### Cross References
 

@@ -8,7 +8,7 @@
 
 > Appeals shall be processed in accordance with regulations prescribed by the Board.
 
-(b)(1) The Board may hear any case appealed to it or may refer the case to an administrative law judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the casemay be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
+(b)(1) The Board may hear any case appealed to it or may refer the case to an administrative law judge appointed under section 3105 of this title or other employee of the Board designated by the Board to hear such cases, except that in any case involving a removal from the service, the case shall be heard by the Board, an employee experienced in hearing appeals, or an administrative law judge. The Board, administrative law judge, or other employee (as the case may be) shall make a decision after receipt of the written representations of the parties to the appeal and after opportunity for a hearing under subsection (a)(1) of this section. A copy of the decision shall be furnished to each party to the appeal and to the Office of Personnel Management.
 
 (2)(A) If an employee or applicant for employment is the prevailing party in an appeal under this subsection, the employee or applicant shall be granted the relief provided in the decision effective upon the making of the decision, and remaining in effect pending the outcome of any petition for review under subsection (e), unless—
 
@@ -66,7 +66,7 @@
 
 > if the deciding official or officials hearing the cases are of the opinion that the action could result in the appeals’ being processed more expeditiously and would not adversely affect any party.
 
-(g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment by the agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, includingany case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
+(g)(1) Except as provided in paragraph (2) of this subsection, the Board, or an administrative law judge or other employee of the Board designated to hear a case, may require payment by the agency involved of reasonable attorney fees incurred by an employee or applicant for employment if the employee or applicant is the prevailing party and the Board, administrative law judge, or other employee (as the case may be) determines that payment by the agency is warranted in the interest of justice, including any case in which a prohibited personnel practice was engaged in by the agency or any case in which the agency's action was clearly without merit.
 
 (2) If an employee or applicant for employment is the prevailing party and the decision is based on a finding of discrimination prohibited under section 2302(b)(1) of this title, the payment of attorney fees shall be in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(k)).
 
@@ -92,7 +92,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 863 (less 1st 168 words, and less 2d proviso).
 
@@ -114,27 +116,27 @@ The civil service law, referred to in subsecs. (d) and (e)(2), is set out in thi
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
+1992—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
 
-<b>1991</b>—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
+1991—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
 
-<b>1990</b>—Subsec. (c)(1)(A). Pub. L. 101–280 amended Pub. L. 101–194, see 1989 Amendment note below.
+1990—Subsec. (c)(1)(A). Pub. L. 101–280 amended Pub. L. 101–194, see 1989 Amendment note below.
 
 Subsecs. (j), (k). Pub. L. 101–376 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–12 designated existing provisions as par. (1) and added par. (2).
+1989—Subsec. (b). Pub. L. 101–12 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c)(1)(A). Pub. L. 101–194, as amended by Pub. L. 101–280, which directed the substitution of “or a removal from the Senior Executive Service for failure to be recertified under section 3393a of” for “of”, was executed by making the substitution for the second reference to “of” as the probable intent of Congress.
 
-<b>1986</b>—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
+1986—Subsec. (i)(2). Pub. L. 99–386 substituted “fiscal” for “calendar”.
 
-<b>1979</b>—Subsec. (e)(1). Pub. L. 96–54, §2(a)(45)(A), substituted “administrative” for “administration”.
+1979—Subsec. (e)(1). Pub. L. 96–54, §2(a)(45)(A), substituted “administrative” for “administration”.
 
 Subsec. (g)(1). Pub. L. 96–54, §2(a)(45)(B), substituted “(as the case may be)” for “, as the case may be,”.
 
 Subsec. (h). Pub. L. 96–54, §2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
-<b>1978</b>—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
+1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
 
 #### Effective Date of 1990 Amendment
 
@@ -164,5 +166,5 @@ Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 2105, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
+This section is referred to in sections 1212, 2105, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 10 sections 1599c, 1610; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
 

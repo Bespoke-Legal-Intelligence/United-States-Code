@@ -12,15 +12,23 @@
 
 (d) This section may not be construed—
 
-&emsp;(1) as prohibiting an employee of an agency referred to in subsection (a) from seeking information from the Secretary regarding assistance in seeking reemployment from the agency under this chapter, alternative employment in the Federal Government under this chapter, or information relating to the rights and obligations of employee and Federal agencies under this chapter; or
+&emsp;(1) as prohibiting an employee of an agency referred to in subsection (a) from seeking information from the Secretary regarding assistance in seeking reemployment from the agency under this chapter or information relating to the rights and obligations of employees and Federal agencies under this chapter; or
 
 &emsp;(2) as prohibiting such an agency from voluntarily cooperating with or seeking assistance in or of clarification from the Secretary or the Director of the Office of Personnel Management of any matter arising under this chapter.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3167.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, §311(12), Oct. 9, 1996, 110 Stat. 3336.)
 
 #### Prior Provisions
 
 A prior section 4325 was renumbered section 7625 of this title.
+
+#### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–275 struck out “, alternative employment in the Federal Government under this chapter,” before “or information relating to the rights and obligations” and substituted “employees and” for “employee and”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 

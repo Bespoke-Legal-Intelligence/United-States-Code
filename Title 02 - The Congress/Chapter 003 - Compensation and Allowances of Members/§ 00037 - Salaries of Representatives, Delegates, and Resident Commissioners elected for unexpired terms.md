@@ -8,7 +8,3 @@ The salaries of Representatives in Congress, Delegates from Territories, and Res
 
 Resident Commissioner of Puerto Rico, see section 891 et seq. of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 25b of this title.
-

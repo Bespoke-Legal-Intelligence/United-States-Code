@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with the directors of such bank and propose that such bank consider, as an important factor in making loans to borrowing country governments, the history of compliance by such governments with, and the extent to which such governments have honored, agreements entered into by such governments as part of any debt-for-development swap which requires such governments to set aside or otherwise limit the use of real property to conservation purposes.
+The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with the directors of such bank and propose that such bank consider, as an important factor in making loans to borrowing country governments, the history of compliance by such governmentswith, and the extent to which such governments have honored, agreements entered into by such governments as part of any debt-for-development swap which requires such governments to set aside or otherwise limit the use of real property to conservation purposes.
 
 #### (b) Definitions
 

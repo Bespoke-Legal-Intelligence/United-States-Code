@@ -4,7 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [3101\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003101%20-%20Purposes%20of%20agricultural%20research%20and%20extension.md) | Purposes of agricultural research and extension. |
+| [3101\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003101%20-%20Purposes%20of%20agricultural%20research%2C%20extension%2C%20and%20education.md) | Purposes of agricultural research, extension, and education. |
 | [3102\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003102%20-%20Additional%20purposes%20of%20agricultural%20research%20and%20extension.md) | Additional purposes of agricultural research and extension. |
 | [3103\.](Subchapter%20001%20%28I%29%20-%20Findings%2C%20Purposes%2C%20and%20Definitions/%C2%A7%2003103%20-%20Definitions.md) | Definitions. |
 
@@ -15,33 +15,23 @@
 |  |  |
 | :--- | ---: |
 | [3121\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003121%20-%20Responsibilities%20of%20Secretary%20and%20Department%20of%20Agriculture.md) | Responsibilities of Secretary and Department of Agriculture. |
-| [3122\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003122%20-%20Joint%20Council%20on%20Food%20and%20Agricultural%20Sciences.md) | Joint Council on Food and Agricultural Sciences. |
+| [3122\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003122%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7852%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201171.md) | Repealed. |
+| [3123\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123%20-%20National%20Agricultural%20Research%2C%20Extension%2C%20Education%2C%20and%20Economics%20Advisory%20Board.md) | National Agricultural Research, Extension, Education, and Economics Advisory Board. |
 | (a) | Establishment. |
 | (b) | Membership. |
-| (c) | Administrative provisions. |
-| (d) | Primary responsibility. |
-| (e) | Other responsibilities. |
-| (f) | Reports. |
-| [3123\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123%20-%20National%20Agricultural%20Research%20and%20Extension%20Users%20Advisory%20Board.md) | National Agricultural Research and Extension Users Advisory Board. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Chairperson; vice-chairperson. |
-| (d) | Meetings. |
-| (e) | Panels. |
-| (f) | Responsibilities. |
-| (g) | Reports by Advisory Board. |
-| (h) | Report by Secretary. |
-| [3123a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123a%20-%20Agricultural%20Science%20and%20Technology%20Review%20Board.md) | Agricultural Science and Technology Review Board. |
-| (a) | Establishment. |
-| (b) | Membership. |
-| (c) | Technical interpretation and assessments. |
-| (d) | Technology assessment report. |
+| (c) | Duties. |
+| (d) | Consultation. |
+| (e) | Appointment. |
+| (f) | Federal Advisory Committee Act. |
+| (g) | Termination. |
+| [3123a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003123a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7853%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
 | [3124\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124%20-%20Existing%20research%20programs.md) | Existing research programs. |
 | [3124a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003124a%20-%20Federal-State%20partnership%20and%20coordination.md) | Federal-State partnership and coordination. |
 | (a) | Covered programs; statement of purposes. |
 | (b) | Establishment, etc., of cooperative centers. |
 | (c) | Designation of State cooperative institutions; reports; research grants. |
 | (d) | Designation of State agricultural experiment stations and Agricultural Research Service facilities; pilot projects; additional research. |
+| (e) | Applicability of Federal Advisory Committee Act. |
 | [3125\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125%20-%20Annual%20report%20of%20Secretary%20of%20Agriculture%20to%20President%20and%20Congress.md) | Annual report of Secretary of Agriculture to President and Congress. |
 | [3125a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125a%20-%20National%20Agricultural%20Library.md) | National Agricultural Library. |
 | (a) | Purpose. |
@@ -58,26 +48,26 @@
 | (c) | Federal agencies. |
 | (d) | State and local agencies and nonprofit organizations. |
 | (e) | Limitation on authorization of appropriations. |
-| [3125c.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125c%20-%20Education%20program%20regarding%20handling%20of%20agricultural%20chemicals%20and%20agricultural%20chemical%20containers.md) | Education program regarding handling of agricultural chemicals and agricultural chemical containers. |
+| [3125c.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003125c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7859%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201173.md) | Repealed. |
 | [3126\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003126%20-%20Libraries%20and%20information%20network.md) | Libraries and information network. |
 | (a) | Congressional declaration of policy. |
 | (b) | Food and Nutrition and Education Resources Center. |
 | (c) | Authorization of appropriations. |
-| [3127\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003127%20-%20Support%20for%20Joint%20Council%2C%20Advisory%20Board%2C%20and%20Technology%20Board.md) | Support for Joint Council, Advisory Board, and Technology Board. |
+| [3127\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003127%20-%20Support%20for%20Advisory%20Board.md) | Support for Advisory Board. |
 | (a) | Appointment of staff. |
 | (b) | Additional clerical assistance and staff personnel. |
 | (c) | Assistance of outside personnel. |
 | [3128\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003128%20-%20General%20provisions.md) | General provisions. |
-| (a) | Vacancies in Joint Council, Advisory Board, or Technology Board. |
-| (b) | Compensation and expenses of members of Joint Council, Advisory Board, and Technology Board. |
+| (a) | Vacancies in Advisory Board. |
+| (b) | Compensation and expenses of members of Advisory Board. |
 | (c) | Authorization of appropriations. |
-| [3129\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003129%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71601%28f%29%281%29%28C%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203704.md) | Repealed. |
-| [3130\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003130%20-%20Composting%20research%20and%20extension%20program.md) | Composting research and extension program. |
-| (a) | Purpose. |
-| (b) | Composting information. |
-| (c) | Research. |
-| (d) | Composting extension program. |
-| (e) | Farm conservation practice. |
+| [3129\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003129%20-%20Accountability.md) | Accountability. |
+| (a) | Review of information technology systems. |
+| (b) | Monitoring and evaluation system. |
+| (c) | Consistency with other requirements. |
+| (d) | Authorization of appropriations. |
+| [3129a.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003129a%20-%20Federal%20Advisory%20Committee%20Act%20exemption%20for%20competitive%20research%2C%20extension%2C%20and%20education%20programs.md) | Federal Advisory Committee Act exemption for competitive research, extension, and education programs. |
+| [3130\.](Subchapter%20002%20%28II%29%20-%20Coordination%20and%20Planning%20of%20Agricultural%20Research%2C%20Extension%2C%20and%20Teaching/%C2%A7%2003130%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7858%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201173.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -97,8 +87,9 @@
 | (e) | Continuing education. |
 | (f) | Transfers of funds and functions. |
 | (g) | National Food and Agricultural Sciences Teaching Awards. |
-| (h) | Administration. |
-| (i) | Authorization of appropriations. |
+| (h) | Secondary education and 2-year postsecondary education teaching programs. |
+| (i) | Administration. |
+| (j) | Authorization of appropriations. |
 | [3153\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003153%20-%20National%20Agricultural%20Science%20Award.md) | National Agricultural Science Award. |
 | (a) | Establishment. |
 | (b) | Amount and term. |
@@ -109,6 +100,11 @@
 | (a) | Authority of Secretary. |
 | (b) | Set aside of funds for certain grant projects. |
 | (c) | Minority groups. |
+| (d) | Authorization of appropriations. |
+| [3155\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003155%20-%20Policy%20research%20centers.md) | Policy research centers. |
+| (a) | In general. |
+| (b) | Eligible recipients. |
+| (c) | Activities. |
 | (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -124,10 +120,15 @@
 | [3173\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003173%20-%20Research%20by%20Department%20of%20Agriculture.md) | Research by Department of Agriculture. |
 | (a) | Increase in level of support. |
 | (b) | Periodic consultation with administrators of other Federal departments and agencies. |
-| [3174\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003174%20-%20Food%20science%20and%20nutrition%20research%20center.md) | Food science and nutrition research center. |
-| (a) | Establishment of center. |
-| (b) | Research facility described. |
+| [3174\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003174%20-%20Human%20nutrition%20intervention%20and%20health%20promotion%20research%20program.md) | Human nutrition intervention and health promotion research program. |
+| (a) | Authority of Secretary. |
+| (b) | Emphasis of initiative. |
 | (c) | Administration of funds. |
+| (d) | Authorization of appropriations. |
+| [3174a.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003174a%20-%20Pilot%20research%20program%20to%20combine%20medical%20and%20agricultural%20research.md) | Pilot research program to combine medical and agricultural research. |
+| (a) | Findings. |
+| (b) | Pilot research program. |
+| (c) | Agreements. |
 | (d) | Authorization of appropriations. |
 | [3175\.](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/%C2%A7%2003175%20-%20Nutrition%20education%20program.md) | Nutrition education program. |
 | (a) | Establishment. |
@@ -152,14 +153,14 @@
 
 |  |  |
 | :--- | ---: |
-| [3191\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003191%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
+| [3191\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003191%20-%20Purposes%20and%20findings%20relating%20to%20animal%20health%20and%20disease%20research.md) | Purposes and findings relating to animal health and disease research. |
+| (a) | Purposes. |
+| (b) | Findings. |
 | [3192\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003192%20-%20Definitions.md) | Definitions. |
 | [3193\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003193%20-%20Authorization%20to%20Secretary%20of%20Agriculture.md) | Authorization to Secretary of Agriculture. |
 | (a) | Authority to cooperate with, encourage, and assist States. |
 | (b) | Study of animal care delivery system. |
-| [3194\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003194%20-%20Animal%20Health%20Science%20Research%20Advisory%20Board.md) | Animal Health Science Research Advisory Board. |
-| (a) | Establishment and membership. |
-| (b) | Duties. |
+| [3194\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003194%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7854%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
 | [3195\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003195%20-%20Continuing%20animal%20health%20and%20disease%20research%20programs.md) | Continuing animal health and disease research programs. |
 | (a) | Authorization of appropriations. |
 | (b) | Apportionment of appropriated funds. |
@@ -173,6 +174,7 @@
 | (c) | Establishment of annual priority lists for allocation of funds. |
 | (d) | Assignment of priorities for grants. |
 | (e) | Distribution of multiyear grants. |
+| (f) | Applicability of Federal Advisory Committee Act. |
 | [3197\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003197%20-%20Availability%20of%20appropriated%20funds.md) | Availability of appropriated funds. |
 | [3198\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003198%20-%20Withholding%20of%20appropriated%20funds.md) | Withholding of appropriated funds. |
 | [3199\.](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/%C2%A7%2003199%20-%20Requirements%20for%20use%20of%20funds.md) | Requirements for use of funds. |
@@ -202,13 +204,7 @@
 | (f) | Administration; rules and regulations; cooperation by and between institutions. |
 | (g) | Entitlement; unexpended appropriations; reports to Congress. |
 | (h) | Existing legal relationships not impaired or modified. |
-| [3222a.](Subchapter%20006%20%28VI%29%20-%201890%20Land%20Grant%20College%20Funding/%C2%A7%2003222a%20-%20Resident%20instruction%20at%201890%20land-grant%20colleges%2C%20including%20Tuskegee%20University.md) | Resident instruction at 1890 land-grant colleges, including Tuskegee University. |
-| (a) | Purpose. |
-| (b) | Grants. |
-| (c) | Use of grant funds. |
-| (d) | Grant requirements. |
-| (e) | Minority set-aside. |
-| (f) | Authorization of appropriations. |
+| [3222a.](Subchapter%20006%20%28VI%29%20-%201890%20Land%20Grant%20College%20Funding/%C2%A7%2003222a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7855%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
 | [3222b.](Subchapter%20006%20%28VI%29%20-%201890%20Land%20Grant%20College%20Funding/%C2%A7%2003222b%20-%20Grants%20to%20upgrade%20agricultural%20and%20food%20sciences%20facilities%20at%201890%20land-grant%20colleges%2C%20including%20Tuskegee%20University.md) | Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University. |
 | (a) | Purpose. |
 | (b) | Authorization of appropriations. |
@@ -232,55 +228,18 @@
 | (d) | Amount, terms, and conditions. |
 | (e) | Restrictions. |
 | (f) | Rules and regulations. |
-| [3224\.](Subchapter%20006%20%28VI%29%20-%201890%20Land%20Grant%20College%20Funding/%C2%A7%2003224%20-%20Grants%20to%20upgrade%201890%20land-grant%20college%20extension%20facilities.md) | Grants to upgrade 1890 land-grant college extension facilities. |
-| (a) | Congressional declaration of intent. |
-| (b) | Authorization of appropriations. |
-| (c) | Administration of grants program; provision of facilities for extension work. |
-| (d) | Authority of Secretary of Agriculture. |
-| (e) | Overhead costs. |
-| (f) | Rules and regulations. |
+| [3224\.](Subchapter%20006%20%28VI%29%20-%201890%20Land%20Grant%20College%20Funding/%C2%A7%2003224%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7873%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201175.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VII—SOLAR ENERGY RESEARCH AND DEVELOPMENT
-
-#### Part A—Competitive Grant Program
+#### SUBCHAPTER VII—PROGRAMS FOR HISPANIC-SERVING INSTITUTIONS
 
 |  |  |
 | :--- | ---: |
-| [3241\.](Subchapter%20007%20%28VII%29%20-%20Solar%20Energy%20Research%20and%20Development/Part%20A%20-%20Competitive%20Grant%20Program/%C2%A7%2003241%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71601%28f%29%281%29%28D%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203704.md) | Repealed. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part B—Information System and Advisory Committee
-
-|  |
-| :--- |
-| 3251, 3252. Repealed. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part C—Model Farms and Demonstration Projects
-
-|  |
-| :--- |
-| 3261 to 3263. Repealed. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part D—Regional Solar Energy Research and Development Centers
-
-|  |  |
-| :--- | ---: |
-| [3271\.](Subchapter%20007%20%28VII%29%20-%20Solar%20Energy%20Research%20and%20Development/Part%20D%20-%20Regional%20Solar%20Energy%20Research%20and%20Development%20Centers/%C2%A7%2003271%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71601%28f%29%281%29%28D%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203704.md) | Repealed. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part E—Appropriations and Definitions
-
-|  |
-| :--- |
-| 3281, 3282. Repealed. |
+| [3241\.](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic-Serving%20Institutions/%C2%A7%2003241%20-%20Education%20grants%20programs%20for%20Hispanic-serving%20institutions.md) | Education grants programs for Hispanic-serving institutions. |
+| (a) | Grant authority. |
+| (b) | Use of grant funds. |
+| (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -292,13 +251,8 @@
 | (a) | Authority of Secretary. |
 | (b) | Enhancing linkages. |
 | (c) | Provision of specialized or technical services. |
-| [3292\.](Subchapter%20008%20%28VIII%29%20-%20International%20Agricultural%20Research%20and%20Extension/%C2%A7%2003292%20-%20Grants%20to%20States%20for%20international%20trade%20development%20centers.md) | Grants to States for international trade development centers. |
-| (a) | Grant program. |
-| (b) | Location and funding of certain centers. |
-| (c) | Preferences. |
-| (d) | Activities of centers. |
-| (e) | Authorization of appropriations. |
-| [3293\.](Subchapter%20008%20%28VIII%29%20-%20International%20Agricultural%20Research%20and%20Extension/%C2%A7%2003293%20-%20Agricultural%20fellowship%20program%20for%20middle%20income%20countries%20and%20emerging%20democracies.md) | Agricultural fellowship program for middle income countries and emerging democracies. |
+| [3292\.](Subchapter%20008%20%28VIII%29%20-%20International%20Agricultural%20Research%20and%20Extension/%C2%A7%2003292%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7856%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201172.md) | Repealed. |
+| [3293\.](Subchapter%20008%20%28VIII%29%20-%20International%20Agricultural%20Research%20and%20Extension/%C2%A7%2003293%20-%20Agricultural%20fellowship%20program%20for%20middle%20income%20countries%2C%20emerging%20democracies%2C%20and%20emerging%20markets.md) | Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets. |
 | (a) | Establishment. |
 | (b) | Eligible countries. |
 | (c) | Purpose of fellowships. |
@@ -363,9 +317,8 @@
 | (b) | Grants. |
 | (c) | Aquaculture development plans. |
 | (d) | Aquacultural centers. |
-| (e) | Reports. |
-| (f) | Listing of laws on aquaculture. |
-| (g) | Fish disease program. |
+| (e) | Listing of laws on aquaculture. |
+| (f) | Fish disease program. |
 | [3323\.](Subchapter%20011%20%28XI%29%20-%20Aquaculture/%C2%A7%2003323%20-%20Aquaculture%20research%20facilities.md) | Aquaculture research facilities. |
 | (a) | Grant authorized. |
 | (b) | Authorization of appropriations. |
@@ -380,8 +333,7 @@
 | [3331\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003331%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [3332\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003332%20-%20Program%3B%20development%2C%20purposes%2C%20scope%2C%20etc.md) | Program; development, purposes, scope, etc. |
 | [3333\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003333%20-%20Grants%3B%20eligible%20institutions%3B%20amounts.md) | Grants; eligible institutions; amounts. |
-| [3334\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003334%20-%20Reporting%20requirements.md) | Reporting requirements. |
-| [3335\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003335%20-%20Rangeland%20Research%20Advisory%20Board%3B%20establishment%2C%20duration%2C%20etc.md) | Rangeland Research Advisory Board; establishment, duration, etc. |
+| 3334, 3335. Repealed. |  |
 | [3336\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003336%20-%20Authorization%20of%20appropriations%3B%20allocation%20of%20funds.md) | Authorization of appropriations; allocation of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -401,7 +353,7 @@ This chapter is referred to in title 16 sections 1647, 1676.
 - [Subchapter 004 (IV) - National Food and Human Nutrition Research and Extension Program](Subchapter%20004%20%28IV%29%20-%20National%20Food%20and%20Human%20Nutrition%20Research%20and%20Extension%20Program/README.md)
 - [Subchapter 005 (V) - Animal Health and Disease Research](Subchapter%20005%20%28V%29%20-%20Animal%20Health%20and%20Disease%20Research/README.md)
 - [Subchapter 006 (VI) - 1890 Land Grant College Funding](Subchapter%20006%20%28VI%29%20-%201890%20Land%20Grant%20College%20Funding/README.md)
-- [Subchapter 007 (VII) - Solar Energy Research and Development](Subchapter%20007%20%28VII%29%20-%20Solar%20Energy%20Research%20and%20Development/README.md)
+- [Subchapter 007 (VII) - Programs for Hispanic-Serving Institutions](Subchapter%20007%20%28VII%29%20-%20Programs%20for%20Hispanic-Serving%20Institutions/README.md)
 - [Subchapter 008 (VIII) - International Agricultural Research and Extension](Subchapter%20008%20%28VIII%29%20-%20International%20Agricultural%20Research%20and%20Extension/README.md)
 - [Subchapter 009 (IX) - Studies](Subchapter%20009%20%28IX%29%20-%20Studies/README.md)
 - [Subchapter 010 (X) - Funding and Miscellaneous Provisions](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/README.md)

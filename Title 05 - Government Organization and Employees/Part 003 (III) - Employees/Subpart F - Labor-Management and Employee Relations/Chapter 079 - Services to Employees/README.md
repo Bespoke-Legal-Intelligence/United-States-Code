@@ -12,9 +12,9 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–172, §2(b), Dec. 2, 1993, 107 Stat. 1996, added item 7905.
+1993—Pub. L. 103–172, §2(b), Dec. 2, 1993, 107 Stat. 1996, added item 7905.
 
-<b>1986</b>—Pub. L. 99–570, title VI, §6004(b), Oct. 27, 1986, 100 Stat. 3207–159, added item 7904.
+1986—Pub. L. 99–570, title VI, §6004(b), Oct. 27, 1986, 100 Stat. 3207–159, added item 7904.
 
 #### State or Local Government Programs Encouraging Employee Use of Public Transportation; Federal Agency Participation
 

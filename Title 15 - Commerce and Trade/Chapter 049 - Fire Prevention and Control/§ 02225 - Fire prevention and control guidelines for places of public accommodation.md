@@ -38,5 +38,5 @@ Subsec. (d)(3). Pub. L. 102–522, §105(b), added par. (3).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2224, 2225a, 2226 of this title; title 5 sections 5707, 5707a.
+This section is referred to in sections 2224, 2225a, 2226 of this title; title 5 section 5707a.
 

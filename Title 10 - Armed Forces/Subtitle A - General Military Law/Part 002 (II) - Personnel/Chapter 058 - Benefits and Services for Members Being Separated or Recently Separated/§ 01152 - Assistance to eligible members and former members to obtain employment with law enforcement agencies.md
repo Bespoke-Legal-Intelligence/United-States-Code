@@ -2,7 +2,7 @@
 
 (a)
 
-Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of the armed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from active duty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
+Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of the armed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from activeduty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
 
 (b)
 
@@ -36,19 +36,19 @@ Requirement for Appropriation.—No person may be selected to participate in the
 
 (g)
 
-Conditional Expansion of Placement to Include Firefighters.—(1) Subject to paragraph (2), the Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
+Authority To Expand Placement To Include Firefighters.—The Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
 
-(2) The Secretary may implement the expansion authorized by this subsection only if the Secretary certifies to Congress not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995 that such expansion will facilitate personnel transition programs of the Department of Defense. The expansion may be made through a program covered by an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
+(2) <sup>1</sup> The expansion authorized by this subsection may be made through a program covered by an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
 
 (3) A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 
-(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 103–337, which was approved Oct. 5, 1994.
+(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, §1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §575, Sept. 23, 1996, 110 Stat. 2535.)
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–201, in heading, substituted “Authority To Expand Placement To Include Firefighters” for “Conditional Expansion of Placement to Include Firefighters”, in par. (1), substituted “The Secretary may” for “(1) Subject to paragraph (2), the Secretary may”, and in par. (2), struck out “The Secretary may implement the expansion authorized by this subsection only if the Secretary certifies to Congress not later than April 3, 1994, that such expansion will facilitate personnel transition programs of the Department of Defense.” after “(2)” and inserted “authorized by this subsection” after “The expansion”.
+
+Subsec. (g)(2). Pub. L. 104–106 substituted “not later than April 3, 1994,” for “not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995”.
 
 1994—Pub. L. 103–337, §543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
 
@@ -57,4 +57,6 @@ Pub. L. 103–337, §1132(a)(1), substituted “eligible members and former memb
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1142 of this title.
+
+<i><sup>1</sup></i><i> Subsec. (g) does not contain a par. designated (1). See 1996 Amendment note below.</i>
 

@@ -64,10 +64,9 @@ At such time as the President proclaims any modification to the HTS to implement
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>Column A</b> | <b>Column B</b> |
-| Schedule XX subheading: | Rate of duty for column 2 of the HTS: |
+| :--- | ---: |
+| Schedule XX   subheading: | Rate of duty for column 2 of the   HTS: |
 | 0201\.10.50 | 31\.1% |
 | 0201\.20.80 | 31\.1% |
 | 0201\.30.80 | 31\.1% |

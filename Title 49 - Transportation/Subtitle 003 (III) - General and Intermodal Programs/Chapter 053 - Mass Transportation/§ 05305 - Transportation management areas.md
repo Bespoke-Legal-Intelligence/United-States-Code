@@ -10,7 +10,7 @@ Designation.—The Secretary of Transportation shall designate as a transportati
 
 (b)
 
-Transportation Plans and Programs.—Transportation plans and programs in a transportation management area shall be based on a continuing and comprehensive transportationplanning process the metropolitan planning organization carries out in cooperation with the State and mass transportation operators.
+Transportation Plans and Programs.—Transportation plans and programs in a transportation management area shall be based on a continuing and comprehensive transportation planning process the metropolitan planning organization carries out in cooperation with the State and mass transportation operators.
 
 (c)
 
@@ -28,7 +28,7 @@ Project Selection.—(1)(A) In consultation with the State, the metropolitan pla
 
 (e)
 
-Certification.—(1) At least once every 3 years, the Secretary shall ensure and certify that each metropolitan planning organization in each transportation management area is carrying out its responsibilities under applicable laws of the United States. The Secretary may make the certification only if the organization is complying with section 134 of title 23 and other applicable requirements of laws of the United States and the organization and chief executive officer have approved a transportation improvement program for the area.
+Certification.—(1) At least once every 3 years, the Secretary shall ensure and certify that each metropolitan planning organization in each transportation management area is carrying out its responsibilities under applicable laws of the United States. The Secretary may make the certification only if the organization is complying with section 134 of title 23 and other applicable requirements of laws of the UnitedStates and the organization and chief executive officer have approved a transportation improvement program for the area.
 
 (2) If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under section 104(b)(3) of title 23 attributed to the relevant metropolitan area under section 133(d)(3) of title 23 and capital amounts apportioned under section 5336 of this title. If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.
 
@@ -48,7 +48,9 @@ Areas Not Designated Transportation Management Areas.—(1) The Secretary may pr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -62,7 +64,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(i); added Nov. 6, 1978, Pub. L
 
 5305(f)
 
-49 App.:1607(<i>l).</i>
+49 App.:1607(<i>l</i>).
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(j), (<i>l</i>); added Nov. 6, 1978, Pub. L. 95–599, §305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, §310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, §3012, 105 Stat. 2104.
 

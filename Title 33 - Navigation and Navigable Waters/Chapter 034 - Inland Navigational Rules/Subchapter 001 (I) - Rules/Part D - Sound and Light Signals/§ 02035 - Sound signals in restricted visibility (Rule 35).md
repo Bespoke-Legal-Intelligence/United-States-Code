@@ -32,7 +32,7 @@ A vessel aground shall give the bell signal and if required the gong signal pres
 
 #### (h) Vessels of less than 12 meters in length
 
-A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some other efficient sound signal at intervals of not more than 2 minutes.
+A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some otherefficient sound signal at intervals of not more than 2 minutes.
 
 #### (i) Pilot vessels
 

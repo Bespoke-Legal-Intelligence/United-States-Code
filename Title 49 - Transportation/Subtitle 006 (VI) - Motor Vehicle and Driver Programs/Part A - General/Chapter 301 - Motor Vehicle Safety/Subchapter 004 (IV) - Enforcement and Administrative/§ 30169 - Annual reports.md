@@ -28,7 +28,9 @@ Report on Importing Motor Vehicles.—Not later than 18 months after regulations
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -50,5 +52,5 @@ In subsection (a), before clause (1), the words “prepare and”, “comprehens
 
 #### References in Text
 
-Section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, referred to in subsec. (b), is section 2(e)(1)(B) of Pub. L. 100–562, which was set out asa note under section 1397 of Title 15, Commerce and Trade, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, referred to in subsec. (b), is section 2(e)(1)(B) of Pub. L. 100–562, which was set out as a note under section 1397 of Title 15, Commerce and Trade, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 

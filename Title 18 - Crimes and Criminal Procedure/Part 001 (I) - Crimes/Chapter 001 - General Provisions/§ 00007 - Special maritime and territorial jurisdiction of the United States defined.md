@@ -46,6 +46,10 @@ Other minor changes were necessary now that the section defines a term rather th
 
 1952—Par. (5). Act July 12, 1952, added par. (5).
 
+#### Territorial Sea Extending to Twelve Miles Included in Special Maritime and Territorial Jurisdiction
+
+Pub. L. 104–132, title IX, §901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: “The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 \[set out as a note under section 1331 of Title 43, Public Lands\], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code.”
+
 #### Cross References
 
 Laws of States adopted for areas within Federal jurisdiction, see section 13 of this title.

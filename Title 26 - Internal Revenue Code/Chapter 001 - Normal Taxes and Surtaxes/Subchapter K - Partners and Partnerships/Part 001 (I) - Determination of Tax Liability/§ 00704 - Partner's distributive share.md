@@ -58,7 +58,7 @@ A partner's distributive share of partnership loss (including capital loss) shal
 
 #### (2) Distributive share of donee includible in gross income
 
-&emsp;In the case of any partnership interest created by gift, the distributive share of the donee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the share of the donor attributable to the donor's capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
+&emsp;In the case of any partnership interest created by gift, the distributive share of the donee under the partnership agreement shall be includible in his gross income, except to the extent that such share is determined without allowance of reasonable compensation for services rendered to the partnership by the donor, and except to the extent that the portion of such share attributable to donated capital is proportionately greater than the shareof the donor attributable to the donor's capital. The distributive share of a partner in the earnings of the partnership shall not be diminished because of absence due to military service.
 
 #### (3) Purchase of interest by member of family
 
@@ -114,7 +114,7 @@ Amendment by section 213(e) of Pub. L. 94–455 applicable to liabilities incurr
 
 #### Transitional Rule for Limitation on Allowance of Losses
 
-Section 201(b)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Nov. 6, 1978\]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 \[set out as a note under section 709 of this title\].”
+Section 201(b)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Nov. 6, 1978\]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 \[set out as a note under section 709 of this title\].”
 
 #### Cross References
 

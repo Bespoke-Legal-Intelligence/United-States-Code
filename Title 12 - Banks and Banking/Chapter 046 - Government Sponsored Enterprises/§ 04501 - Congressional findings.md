@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) an entity regulating such enterprises should have the authority to establish capital standards, require financial disclosure, prescribe adequate standards for books and records and other internal controls, conduct examinations when necessary, and enforce compliance with the standards and rules that it establishes;
 
-&emsp;(7) the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation have an affirmative obligation to facilitate the financing of affordable housing for low- and moderate-income families in a manner consistent with their overall publicpurposes, while maintaining a strong financial condition and a reasonable economic return; and
+&emsp;(7) the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation have an affirmative obligation to facilitate the financing of affordable housing for low- and moderate-income families in a manner consistent with their overall public purposes, while maintaining a strong financial condition and a reasonable economic return; and
 
 &emsp;(8) the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] should be amended to emphasize that providing for financial safety and soundness of the Federal Home Loan Banks is the primary mission of the Federal Housing Finance Board.
 
@@ -22,7 +22,7 @@ The Congress finds that—
 
 #### References in Text
 
-The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, as amended, which is classified generally to chapter 11 (§1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
+The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, as amended,which is classified generally to chapter 11 (§1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
 
 #### Short Title
 

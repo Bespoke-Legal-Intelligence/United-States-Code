@@ -10,7 +10,7 @@
 
 &emsp;(2) perform such other legal duties as may be directed by the Secretary of the Air Force.
 
-(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is two years, but may be sooner terminated or extended by the President. An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.
+(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years, but may be sooner terminated or extended by the President. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
 
 (2) When there is a vacancy in the office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
@@ -18,7 +18,7 @@
 
 (e) Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Sept. 8, 1980, Pub. L. 96–343, §12(a), (b)(1), 94 Stat. 1130, 1131; renumbered §8037, Oct. 1, 1986, Pub. L. 99–433, title V, §522(f), 100 Stat. 1063; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(c), 108 Stat. 2751.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Sept. 8, 1980, Pub. L. 96–343, §12(a), (b)(1), 94 Stat. 1130, 1131; renumbered §8037, Oct. 1, 1986, Pub. L. 99–433, title V, §522(f), 100 Stat. 1063; Oct. 5, 1994, Pub. L. 103–337, div. A, title V, §504(c), 108 Stat. 2751; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §507(a), 110 Stat. 296.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ R.S. 1199.
 
 June 23, 1874, ch. 458, §2, 18 Stat. 244.
 
-In subsection (a), the words “subject to the provisions of section 741 of Title 50” are omitted as surplusage. The words “but may be sooner terminated, or extended, by the President” are substituted for 10:1840(a) (last 11 words of 1st sentence, and 2d sentence). 10:1840(a) (1st 46 words of 3d sentence) is omitted as surplusage. 10:1840(a) (last sentence) is omitted as executed. The words “by the President, by and with the advice and consent of the Senate”, as they relate to theappointment as a major general in the Regular Air Force, are omitted as covered by section 8284 of this title.
+In subsection (a), the words “subject to the provisions of section 741 of Title 50” are omitted as surplusage. The words “but may be sooner terminated, or extended, by the President” are substituted for 10:1840(a) (last 11 words of 1st sentence, and 2d sentence). 10:1840(a) (1st 46 words of 3d sentence) is omitted as surplusage. 10:1840(a) (last sentence) is omitted as executed. The words “by the President, by and with the advice and consent of the Senate”, as they relate to the appointment as a major general in the Regular Air Force, are omitted as covered by section 8284 of this title.
 
 In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage. The words “at least” are substituted for the words “not less than a total”.
 
@@ -60,11 +60,17 @@ In subsection (c), the Act of June 23, 1874, ch. 458, §2 (words before semicolo
 
 #### Amendments
 
+1996—Subsec. (d)(1). Pub. L. 104–106 substituted “four years” for “two years” and “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.”
+
 1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
 1980—Pub. L. 96–343, §12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
 
 Subsec. (d). Pub. L. 96–343, §12(a), added subsec. (d).
+
+#### Effective Date of 1996 Amendment
+
+Section 507(b) of Pub. L. 104–106 provided that: “The amendments made by subsection (a) \[amending this section\] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act \[Feb. 10, 1996\].”
 
 #### Cross References
 

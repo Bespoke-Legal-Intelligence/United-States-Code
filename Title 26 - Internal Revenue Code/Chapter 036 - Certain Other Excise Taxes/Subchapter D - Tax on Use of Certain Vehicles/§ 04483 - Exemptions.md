@@ -24,7 +24,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 &emsp;&emsp;&emsp;(ii) the owner of such vehicle furnishes such information as the Secretary may by forms or regulations require with respect to the expected use of such vehicle,
 
-> &emsp;&emsp;then the collection of the tax imposed by section 4481 with respect to the use of such vehicle shall be suspended during the taxable period.
+> &emsp;&emsp;then the collection of the tax imposed by section 4481 with respect to the use of suchvehicle shall be suspended during the taxable period.
 
 #### (B) Suspension ceases to apply where use exceeds 5,000 miles
 
@@ -34,7 +34,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 &emsp;If—
 
-&emsp;&emsp;(A) the collection of the tax imposed by section 4481 with respect to any highwaymotor vehicle is suspended under paragraph (1),
+&emsp;&emsp;(A) the collection of the tax imposed by section 4481 with respect to any highway motor vehicle is suspended under paragraph (1),
 
 &emsp;&emsp;(B) such vehicle is not used during the taxable period on public highways for more than 5,000 miles, and
 

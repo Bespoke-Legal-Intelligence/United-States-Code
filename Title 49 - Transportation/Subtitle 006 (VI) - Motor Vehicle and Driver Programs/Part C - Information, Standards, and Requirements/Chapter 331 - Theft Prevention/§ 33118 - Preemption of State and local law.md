@@ -6,7 +6,9 @@ When a motor vehicle theft prevention standard prescribed under section 33102 or
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

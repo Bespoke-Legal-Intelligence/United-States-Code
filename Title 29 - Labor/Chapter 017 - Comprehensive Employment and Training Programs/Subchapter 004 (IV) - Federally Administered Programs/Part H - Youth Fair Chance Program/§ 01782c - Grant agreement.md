@@ -48,7 +48,7 @@ Each such agreement shall—
 
 &emsp;(6) contain assurances that the participating community will undertake outreach and recruitment efforts in the target area to encourage, to the maximum extent possible, participation by the disadvantaged youth who are currently unserved, or underserved, by education and training programs, including targeted measures specifically designed to enlist the participation of youth, particularly males, under the jurisdiction of the child welfare, juvenile justice, and criminal justice systems;
 
-&emsp;(7) provide that the participating community will carry out special efforts to establish coordination with Federal, State, or local programs that serve the target population;
+&emsp;(7) provide that the participating community will carry out special efforts to establishcoordination with Federal, State, or local programs that serve the target population;
 
 &emsp;(8) provide assurances that funds provided under this part for a fiscal year will be used only to pay the Federal share attributable to this part of the cost of programs and services not otherwise available in the target area and will supplement, and not supplant, funding from other local, State, and Federal sources available to youth in the target area during the previous year; and
 

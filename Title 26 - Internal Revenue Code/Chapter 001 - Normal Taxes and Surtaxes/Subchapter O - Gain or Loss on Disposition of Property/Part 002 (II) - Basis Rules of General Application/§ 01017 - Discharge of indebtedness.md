@@ -74,7 +74,7 @@ If—
 
 #### (A) In general
 
-&emsp;&emsp;Any amount which under subsection (b)(2)(D) <sup>2</sup> of section 108 is to be applied to reduce basis and which is attributable to an amount excluded under subsection (a)(1)(C) of section 108—
+&emsp;&emsp;Any amount which under subsection (b)(2)(E) of section 108 is to be applied to reduce basis and which is attributable to an amount excluded under subsection (a)(1)(C) of section 108—
 
 &emsp;&emsp;&emsp;(i) shall be applied only to reduce the basis of qualified property held by the taxpayer, and
 
@@ -118,13 +118,15 @@ If—
 
 &emsp;For purposes of section 1250(b), the determination of what would have been the depreciation adjustments under the straight line method shall be made as if there had been no reduction under this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 301; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(c)(1), 90 Stat. 1834, 1840; Dec. 24, 1980, Pub. L. 96–589, §2(b), 94 Stat. 3394; Oct. 22, 1986, Pub. L. 99–514, title IV, §405(b), title VIII, §822(b)(4), (5), 100 Stat. 2224, 2373; Nov. 10, 1988, Pub. L. 100–647, title I, §1004(a)(5), 102 Stat. 3386; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(12), 104 Stat. 1388–518; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13150(c)(6)–(8), 107 Stat. 448.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 301; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(c)(1), 90 Stat. 1834, 1840; Dec. 24, 1980, Pub. L. 96–589, §2(b), 94 Stat. 3394; Oct. 22, 1986, Pub. L. 99–514, title IV, §405(b), title VIII, §822(b)(4), (5), 100 Stat. 2224, 2373; Nov. 10, 1988, Pub. L. 100–647, title I, §1004(a)(5), 102 Stat. 3386; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(12), 104 Stat. 1388–518; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13150(c)(6)–(8), 107 Stat. 448; Aug. 20, 1996, Pub. L. 104–188, title I, §1703(n)(5), 110 Stat. 1877.)
 
 #### References in Text
 
-Subsection (b)(2)(D) of section 108, referred to in subsecs. (a)(2) and (b)(4)(A), was redesignated subsec. (b)(2)(E) of section 108 by Pub. L. 103–66, title XIII, §13226(b)(1), Aug. 10, 1993, 107 Stat. 488.
+Subsection (b)(2)(D) of section 108, referred to in subsec. (a)(2), was redesignated subsec. (b)(2)(E) of section 108 by Pub. L. 103–66, title XIII, §13226(b)(1), Aug. 10, 1993, 107 Stat. 488.
 
 #### Amendments
+
+1996—Subsec. (b)(4)(A). Pub. L. 104–188 substituted “subsection (b)(2)(E)” for “subsection (b)(2)(D)”.
 
 1993—Subsec. (a)(2). Pub. L. 103–66, §13150(c)(6), substituted “, (b)(5), or (c)(1)” for “or (b)(5)”.
 
@@ -152,6 +154,10 @@ Subsec. (b)(4). Pub. L. 99–514, §405(b), added par. (4).
 
 1976—Pub. L. 94–455, §§1906(b)(13)(A), 1951(c)(1), substituted “section 108” for “section 108(a)” in three places and struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to discharges after Dec. 31, 1992, in taxable years ending after such date, see section 13150(d) of Pub. L. 103–66, set out as a note under section 108 of this title.
@@ -176,9 +182,7 @@ Rules and regulations, see section 7805 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 108, 312 of this title.
+This section is referred to in sections 108, 312, 1033 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,9 @@ No part of an accident or incident report filed by a railroad carrier under sect
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

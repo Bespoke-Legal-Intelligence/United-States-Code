@@ -14,7 +14,7 @@ As used in this subchapter:
 
 #### (2) Qualified individual with a disability
 
-&emsp;The term “qualified individual with a disability” means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of servicesor the participation in programs or activities provided by a public entity.
+&emsp;The term “qualified individual with a disability” means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
 
 (Pub. L. 101–336, title II, §201, July 26, 1990, 104 Stat. 337.)
 
@@ -36,5 +36,5 @@ Exception.—Section 204 \[section 12134 of this title\] shall become effective 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12181, 12209 of this title; title 2 section 1331.
+This section is referred to in sections 12181, 12209 of this title; title 2 section 1331; title 3 section 421.
 

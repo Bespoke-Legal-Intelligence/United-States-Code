@@ -12,7 +12,7 @@ Planning Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 &emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the United States Government) to develop, improve, and carry out emergency plans under the Act will at least equal the average level of expenditure for the last 2 fiscal years; and
 
-&emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of theAct (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
+&emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of the Act (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
 
 (3) A State or Indian tribe receiving a grant under this subsection shall ensure that planning under the grant is coordinated with emergency planning conducted by adjacent States and Indian tribes.
 
@@ -66,7 +66,7 @@ Training Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 (c)
 
-Compliance With Certain Law.—The Secretary of Transportation may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
+Compliance With Certain Law.—The Secretary of Transportation may make a grant to a State under this section in a fiscal year only ifthe State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
 
 (d)
 
@@ -128,11 +128,11 @@ Supplemental Training Grants.—
 
 &emsp;(4) The Secretary may only make a grant to an organization under this subsection in a fiscal year if the organization enters into an agreement with the Secretary to train instructors to conduct hazardous materials response training programs in such fiscal year that will use—
 
-&emsp;&emsp;(A) a course or courses developed or identified under subsection (g); <sup>1</sup> or
+&emsp;&emsp;(A) a course or courses developed or identified under section 5115 of this title; or
 
 &emsp;&emsp;(B) other courses which the Secretary determines are consistent with the objectives of this subsection;
 
-> &emsp;for training individuals with statutory responsibility to respond to accidents and incidents involving hazardous materials. Such agreement also shall provide that training courses shall be open to all such individuals on a nondiscriminatory basis.
+> &emsp;for training individuals with statutory responsibility to respond to accidents and incidentsinvolving hazardous materials. Such agreement also shall provide that training courses shall be open to all such individuals on a nondiscriminatory basis.
 
 &emsp;(5) The Secretary may impose such additional terms and conditions on grants to be made under this subsection as the Secretary determines are necessary to protect the interests of the United States and to carry out the objectives of this subsection.
 
@@ -140,11 +140,15 @@ Supplemental Training Grants.—
 
 Reports.—Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996. Such report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -214,15 +218,23 @@ In subsection (e), the words “A grant under this section is for” are substit
 
 In subsection (h), the words “including coordination of training programs” are omitted as surplus.
 
+#### Pub. L. 104–287, §5(8)
+
+This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
+
 #### References in Text
 
 The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1729, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
 
 #### Amendments
 
+1996—Subsec. (a)(2). Pub. L. 104–287, §6(b), made technical correction to directory language of Pub. L. 103–311, §105(b)(2). See 1994 Amendment note below.
+
+Subsec. (j)(4)(A). Pub. L. 104–287, §5(8), substituted “section 5115 of this title” for “subsection (g)”.
+
 1994—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
 
-Subsec. (a)(2). Pub. L. 103–311, §105(b)(2), which directed the amendment of par. (2) by striking out “the State” the second place it appears, was executed by striking out “the State” the first place it appears, after “only if” in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 103–311, §105(b)(2), as amended by Pub. L. 104–287, §6(b), struck out “the State” after “only if” in introductory provisions.
 
 Pub. L. 103–311, §105(b)(1), inserted “or Indian tribe” after “grant to a State” in introductory provisions.
 
@@ -238,6 +250,10 @@ Subsec. (i)(3). Pub. L. 103–311, §119(d)(3), as amended by Pub. L. 103–429,
 
 Subsecs. (j), (k). Pub. L. 103–311, §119(a), added subsecs. (j) and (k).
 
+#### Effective Date of 1996 Amendment
+
+Section 6(b) of Pub. L. 104–287 provided that the amendment made by that section is effective Aug. 26, 1994.
+
 #### Effective Date of 1994 Amendment
 
 Section 7(c) of Pub. L. 103–429 provided that the amendment made by that section is effective Aug. 26, 1994.
@@ -245,6 +261,4 @@ Section 7(c) of Pub. L. 103–429 provided that the amendment made by that secti
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5108, 5127 of this title.
-
-<i><sup>1</sup></i><i> So in original. Reference to subsection (g) probably should be a reference to section 5115 of this title.</i>
 

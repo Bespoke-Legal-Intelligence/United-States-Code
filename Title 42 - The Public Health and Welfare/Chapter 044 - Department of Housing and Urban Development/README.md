@@ -33,10 +33,10 @@
 | (i) | Foreclosure of property; actions for protection and enforcement of rights; purchase of property; dealing with property after such acquisition; deprivation of State court civil and criminal jurisdiction; impairment of civil rights under State laws; application of section 5 of title 41; annual payments in lieu of local property taxes; sale and exchanges of property; insurance; modification of interest, time for installment payment, and other terms; other covenants, conditions, and provisions. |
 | (j) | Fees and charges. |
 | (k) | Gifts and services, acceptance; taxable status of property; investments; disbursements. |
-| (<i>l)</i> | Consultants; appointment of advisory committees; compensation and travel expenses. |
+| (<i>l</i>) | Consultants; appointment of advisory committees; compensation and travel expenses. |
 | (m) | Occupancy preference in rental housing for military personnel. |
 | (n) | Day care center for children of employees of Department; establishment; fees and charges. |
-| (<i>o)</i> | Agenda of rules or regulations under development or review; transmittal to Congress. |
+| (<i>o</i>) | Agenda of rules or regulations under development or review; transmittal to Congress. |
 | (p) | Cost-benefit analysis of field reorganizations; requirements, contents, etc. |
 | (q) | Waiver of regulations. |
 | (r) | Program evaluation and monitoring. |
@@ -82,7 +82,7 @@
 | (i) | Action to collect penalty. |
 | (j) | Settlement by Secretary. |
 | (k) | Regulations. |
-| (<i>l)</i> | Deposit of penalties. |
+| (<i>l</i>) | Deposit of penalties. |
 | (m) | Definitions. |
 | (n) | Effective date. |
 | [3546\.](%C2%A7%2003546%20-%20Use%20of%20domestic%20products.md) | Use of domestic products. |

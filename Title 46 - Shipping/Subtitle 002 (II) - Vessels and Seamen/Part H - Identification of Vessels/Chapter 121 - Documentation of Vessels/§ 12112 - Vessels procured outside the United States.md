@@ -4,7 +4,7 @@
 
 (b) Subject to limitations the Secretary of Transportation may prescribe, a vessel for which a document is issued under this section may proceed to the United States and engage en route in the foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef. On the vessel's arrival in the United States, the document shall be surrendered as provided by regulations prescribed by the Secretary.
 
-(c) A vessel for which a document is issued under this section is subject to the jursidiction <sup>1</sup> and laws of the United States. However, the Secretary of Transportation may suspend for a period of not more than 6 months, the application of a vessel inspection law carried out by the Secretary or regulations prescribed under that law if the Secretary considers the suspension to be in the public interest.
+(c) A vessel for which a document is issued under this section is subject to the jursidiction <sup>1</sup> and laws of the United States. However, the Secretary of Transportation may suspend for a period of not more than 6 months, the application of a vessel inspection law carried out by the Secretary or regulations prescribed under that lawif the Secretary considers the suspension to be in the public interest.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(11), Dec. 12, 1989, 103 Stat. 1922.)
 

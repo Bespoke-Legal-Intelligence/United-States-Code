@@ -2,7 +2,7 @@
 
 (a)
 
-Cooperative Research Program.—(1) Fifty percent of the amounts made available under section 5338(g)(3) of this title are available for a mass transportation cooperative research program. The Secretary of Transportation shall establish an independent governing board for the program. The board shall recommend mass transportation research, development, and technology transfer activities the Secretary considers appropriate.
+Cooperative Research Program.—(1) Fifty percent of the amounts made available under section 5338(g)(3) of this title are availablefor a mass transportation cooperative research program. The Secretary of Transportation shall establish an independent governing board for the program. The board shall recommend mass transportation research, development, and technology transfer activities the Secretary considers appropriate.
 
 (2) The Secretary may make grants to, and cooperative agreements with, the National Academy of Sciences to carry out activities under this subsection that the Secretary decides are appropriate.
 
@@ -26,7 +26,9 @@ Government's Share.—When there would be a clear and direct financial benefit t
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

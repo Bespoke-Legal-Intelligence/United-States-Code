@@ -1,6 +1,6 @@
 ### §3496. Regulations by President as to commissions, fees of witnesses, counsel and interpreters
 
-The President is authorized to prescribe regulations governing the manner of executing and returning commissions by consular officers under the provisions of sections 3492–3494 of this title and schedules of fees allowable to witnesses, foreign counsel, and interpreters under section 3495 of this title.
+The President is authorized to prescribe regulations governing the manner of executing and returning commissions by consular officersunder the provisions of sections 3492–3494 of this title and schedules of fees allowable to witnesses, foreign counsel, and interpreters under section 3495 of this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 836.)
 

@@ -16,13 +16,15 @@ Changes.—The Secretary of Transportation shall act expeditiously on proposed c
 
 &emsp;(2) the price-making elements used by the Universal Postal Union in prescribing its airmail prices; and
 
-&emsp;(3) the competitive disadvantage to United States flag air carriers resulting from foreign air carriers receiving Universal Postal Unionprices for transporting United States mail and national origin mail of their own countries.
+&emsp;(3) the competitive disadvantage to United States flag air carriers resulting from foreign air carriers receiving Universal Postal Union prices for transporting United States mail and national origin mail of their own countries.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1155.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -42,7 +44,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §406(h)(3); added Jan. 3, 1975, 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 

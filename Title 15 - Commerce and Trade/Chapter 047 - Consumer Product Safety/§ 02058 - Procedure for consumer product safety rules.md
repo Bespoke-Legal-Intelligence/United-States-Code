@@ -16,7 +16,7 @@ A proceeding for the development of a consumer product safety rule shall be comm
 
 &emsp;(6) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary consumer product safety standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (b) Voluntary standard; publication as proposed rule; notice of reliance of Commission on standard
 
@@ -28,7 +28,7 @@ A proceeding for the development of a consumer product safety rule shall be comm
 
 &emsp;(B) it is likely that there will be substantial compliance with such standard,
 
-> the Commission shall terminate any proceeding to promulgate a consumer product safety rule respecting such risk of injury and shall publishin the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
+> the Commission shall terminate any proceeding to promulgate a consumer product safety rule respecting such risk of injury and shall publish in the Federal Register a notice which includes the determination of the Commission and which notifies the public that the Commission will rely on the voluntary standard to eliminate or reduce the risk of injury, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.
 
 #### (c) Publication of proposed rule; preliminary regulatory analysis; contents; transmittal of notice
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 97–35 amended subsec. (c) generally, substituting provisi
 
 Subsec. (d). Pub. L. 97–35 amended subsec. (d) generally, substituting provisions relating to the time for promulgation of the rule in accordance with section 553 of title 5 or withdrawal of the applicable notice for provisions relating to the effective dates for rules and standards and the authority of the Commission to prohibit stockpiling.
 
-Subsec. (e). Pub. L. 97–35 amended subsec. (e) generally, substituting provisions relating to the requirement that the consumer product safety rule express the risk of injury which is to be eliminated or reduced and requiring, that in promulgating the rule, the Commission to consider available product data and the needs of the elderly and handicapped persons for provisions relating to the amendment and revocation of rules.
+Subsec. (e). Pub. L. 97–35 amended subsec. (e) generally, substituting provisions relating to the requirement that the consumer product safety rule express the risk of injury which is to be eliminated or reduced andrequiring, that in promulgating the rule, the Commission to consider available product data and the needs of the elderly and handicapped persons for provisions relating to the amendment and revocation of rules.
 
 Subsecs. (f) to (h). Pub. L. 97–35 added subsecs. (f) to (h).
 

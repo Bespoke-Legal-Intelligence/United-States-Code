@@ -2,7 +2,7 @@
 
 Whoever, with intent to defraud, wears or displays the sign or emblem of the 4–H clubs, consisting of a green four-leaf clover with stem, and the letter H in white or gold on each leaflet, or any insignia in colorable imitation thereof, for the purpose of inducing the belief that he is a member of, associated with, or an agent or representative for the 4–H clubs; or
 
-Whoever, whether an individual, partnership, corporation or association, other than the 4–H clubs and those duly authorized by them, the representatives of the United States Department of Agriculture, the land grant colleges, and persons authorized by the Secretary of Agriculture, uses, within the United States, suchemblem or any sign, insignia, or symbol in colorable imitation thereof, or the words “4–H Club” or “4–H Clubs” or any combination of these or other words or characters in colorable imitation thereof—
+Whoever, whether an individual, partnership, corporation or association, other than the 4–H clubs and those duly authorized by them, the representatives of the United States Department of Agriculture, the land grant colleges, and persons authorized by the Secretary of Agriculture, uses, within the United States, such emblem or any sign, insignia, or symbol in colorable imitation thereof, or the words “4–H Club” or “4–H Clubs” or any combination of these or other words or characters in colorable imitation thereof—
 
 Shall be fined under this title or imprisoned not more than six months, or both.
 

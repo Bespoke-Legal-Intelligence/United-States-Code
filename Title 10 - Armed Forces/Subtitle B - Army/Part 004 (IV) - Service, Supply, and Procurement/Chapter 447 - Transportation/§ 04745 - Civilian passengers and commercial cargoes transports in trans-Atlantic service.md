@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 4745(a)
 
+&nbsp;
+
 4745(b)
 
 10:1367 (less last 20 words).
@@ -24,7 +26,7 @@ Historical and Revision Notes
 
 June 5, 1920, ch. 240 (6th proviso under “Transportation of the Army and Its Supplies”), 41 Stat. 960.
 
-In subsection (a), the words “Federal Maritime Board” are substituted for the words “United States Maritime Commission”, since the functions of thechairman of that commission were transferred to the chairman of the Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273. The words “the same kinds of service” are substituted for the words “the same class of accommodations”. The words “shipments of” and “between the same ports” are omitted as surplusage. (See also third sentence of revision note for section 4746 of this title, below.)
+In subsection (a), the words “Federal Maritime Board” are substituted for the words “United States Maritime Commission”, since the functions of the chairman of that commission were transferred to the chairman of the Board by 1950 Reorganization Plan No. 21, effective May 24, 1950, 64 Stat. 1273. The words “the same kinds of service” are substituted for the words “the same class of accommodations”. The words “shipments of” and “between the same ports” are omitted as surplusage. (See also third sentence of revision note for section 4746 of this title, below.)
 
 #### Amendments
 

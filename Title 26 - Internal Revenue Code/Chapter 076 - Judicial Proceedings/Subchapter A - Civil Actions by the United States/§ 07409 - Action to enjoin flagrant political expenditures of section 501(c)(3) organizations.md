@@ -10,7 +10,7 @@
 
 &emsp;An action may be brought under subsection (a) only if—
 
-&emsp;&emsp;(A) the Internal Revenue Service has notified the organization of its intention to seekan injunction under this section if the making of political expenditures does not immediately cease, and
+&emsp;&emsp;(A) the Internal Revenue Service has notified the organization of its intention to seek an injunction under this section if the making of political expenditures does not immediately cease, and
 
 &emsp;&emsp;(B) the Commissioner of Internal Revenue has personally determined that—
 

@@ -14,7 +14,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (2) Charitable contributions
 
-&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without the deduction of the amounts disallowed under paragraphs (5) and (6) of this subsection or the inclusion in gross income of the amounts includible therein as dividends by reason of the application of the provisions of section 555(b) (relating to the inclusion in gross income of a foreign personal holding company of its distributive share ofthe undistributed foreign personal holding company income of another company in which it is a shareholder).
+&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without the deduction of the amounts disallowed under paragraphs (5) and (6) of this subsection or the inclusion in gross income of the amounts includible therein as dividends by reason of the application of the provisions of section 555(b) (relating to the inclusion in gross income of a foreign personal holding company of its distributive share of the undistributed foreign personal holding company income of another company in which it is a shareholder).
 
 #### (3) Special deductions disallowed
 
@@ -58,7 +58,7 @@ Subsec. (b)(7), (8). Pub. L. 94–455, §1901(b)(32)(G), struck out par. (7) rel
 
 1962—Subsec. (b)(7), (8). Pub. L. 87–403 added pars. (7) and (8).
 
-1958—Subsec. (b)(2). Pub. L. 85–866, §33(a), substituted in first sentence “but in computing such deduction the limitations in section 170(b)(1)(A) and (B) shall apply, and section 170(b)(2) shall not apply” for “but with the limitation in section 170(b)(1)(A) and (B) (in lieu of the limitation in section 170(b)(2))” and in second sentence “the taxable income computed with the adjustments (other than the 5-percent limitation) provided in the first sentence of section 170(b)(2)” for “the taxable income computed with the adjustments provided in section 170(b)(2)”.
+1958—Subsec. (b)(2). Pub. L. 85–866, §33(a), substituted in first sentence “but in computing such deduction thelimitations in section 170(b)(1)(A) and (B) shall apply, and section 170(b)(2) shall not apply” for “but with the limitation in section 170(b)(1)(A) and (B) (in lieu of the limitation in section 170(b)(2))” and in second sentence “the taxable income computed with the adjustments (other than the 5-percent limitation) provided in the first sentence of section 170(b)(2)” for “the taxable income computed with the adjustments provided in section 170(b)(2)”.
 
 Subsec. (b)(3). Pub. L. 85–866, §33(b)(1), substituted “section 248” for “sections 242 and 248”.
 

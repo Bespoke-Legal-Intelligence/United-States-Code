@@ -8,7 +8,7 @@ From the amount appropriated for each fiscal year under section 7714(e) of this 
 
 &emsp;(2)(A) in which the number of children determined under section 7703(a)(1)(C) of this title constituted at least 50 percent of the number of children who were in average daily attendance in the schools of such agency during the preceding school year;
 
-&emsp;(B) in which the number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title constituted at least 50 percent of the number of children who were in average daily attendance in the schools of such agency during the school year preceding the school year for which the determination is made and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation;
+&emsp;(B) in which the number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title constituted at least 50 percent of the number of children who were in average daily attendance in the schools of such agency during the school year preceding the school year for which the determination is made;
 
 &emsp;(C) that receives assistance under section 7703(f) of this title; or
 
@@ -28,11 +28,15 @@ The amount of a payment to each such agency for a fiscal year shall be equal to�
 
 Any local educational agency that receives funds under this section shall use such funds for construction, as defined in section 7713(3) of this title.
 
-(Pub. L. 89–10, title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763.)
+(Pub. L. 89–10, title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763; amended Pub. L. 104–134, title I, §101(d) \[title III, §306(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
-Section 10 of the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Act was in effect on theday preceding October 20, 1994), referred to in subsec. (b)(2), means section 10 of act Sept. 23, 1950, ch. 995, which was classified to section 640 of this title prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965.
+Section 10 of the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (b)(2), means section 10 of act Sept. 23, 1950, ch. 995, which was classified to section 640 of this title prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965.
+
+#### Amendments
+
+1996—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
 
 #### Section Referred to in Other Sections
 

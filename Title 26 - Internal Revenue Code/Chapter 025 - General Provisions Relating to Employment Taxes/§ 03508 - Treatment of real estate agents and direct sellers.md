@@ -28,9 +28,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such person—
 
-&emsp;&emsp;&emsp;(i) is engaged in the trade or business of selling (or soliciting the sale of) consumer products to any buyer on a buy-sell basis, a deposit-commission basis, or any similar basis which the Secretary prescribes by regulations, for resale (by the buyer or any other person) in the home or otherwise than in a permanent retail establishment, or
+&emsp;&emsp;&emsp;(i) is engaged in the trade or business of selling (or soliciting the sale of) consumer products to any buyer on a buy-sell basis, a deposit-commission basis, or any similar basis which the Secretary prescribes by regulations, for resale (by the buyer or any other person) in the home or otherwise than in a permanent retail establishment,
 
-&emsp;&emsp;&emsp;(ii) is engaged in the trade or business of selling (or soliciting the sale of) consumer products in the home or otherwise than in a permanent retail establishment,
+&emsp;&emsp;&emsp;(ii) is engaged in the trade or business of selling (or soliciting the sale of) consumer products in the home or otherwise than in a permanent retail establishment, or
+
+&emsp;&emsp;&emsp;(iii) is engaged in the trade or business of the delivering or distribution of newspapers or shopping news (including any services directly related to such trade or business),
 
 &emsp;&emsp;(B) substantially all the remuneration (whether or not paid in cash) for the performance of the services described in subparagraph (A) is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and
 
@@ -40,7 +42,15 @@ For purposes of this section—
 
 &emsp;This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).
 
-(Added Pub. L. 97–248, title II, §269(a), Sept. 3, 1982, 96 Stat. 551.)
+(Added Pub. L. 97–248, title II, §269(a), Sept. 3, 1982, 96 Stat. 551; amended Pub. L. 104–188, title I, §1118(a), Aug. 20, 1996, 110 Stat. 1764.)
+
+#### Amendments
+
+1996—Subsec. (b)(2)(A). Pub. L. 104–188 added cl. (iii).
+
+#### Effective Date of 1996 Amendment
+
+Section 1118(b) of Pub. L. 104–188 provided that: “The amendments made by this section shall apply to services performed after December 31, 1995.”
 
 #### Effective Date
 

@@ -9,12 +9,17 @@
 | [6305\.](%C2%A7%2006305%20-%20Reports%20of%20investigations.md) | Reports of investigations. |
 | [6306\.](%C2%A7%2006306%20-%20Penalty.md) | Penalty. |
 | [6307\.](%C2%A7%2006307%20-%20Notifications%20to%20Congress.md) | Notifications to Congress. |
+| [6308\.](%C2%A7%2006308%20-%20Information%20barred%20in%20legal%20proceedings.md) | Information barred in legal proceedings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Historical and Revision Notes
 
 Chapter 63 sets forth the scope and procedures for the investigation of marine casualties and incidents that are required to be reported by Chapter 61, as well as the rights of parties involved in a casualty.
+
+#### Amendments
+
+1996—Pub. L. 104–324, title III, §313(b), Oct. 19, 1996, 110 Stat. 3922, added item 6308.
 
 #### Chapter Referred to in Other Sections
 
@@ -32,3 +37,4 @@ This chapter is referred to in sections 6101, 7705 of this title.
 - [&sect; 06305 - Reports of investigations](%C2%A7%2006305%20-%20Reports%20of%20investigations.md)
 - [&sect; 06306 - Penalty](%C2%A7%2006306%20-%20Penalty.md)
 - [&sect; 06307 - Notifications to Congress](%C2%A7%2006307%20-%20Notifications%20to%20Congress.md)
+- [&sect; 06308 - Information barred in legal proceedings](%C2%A7%2006308%20-%20Information%20barred%20in%20legal%20proceedings.md)

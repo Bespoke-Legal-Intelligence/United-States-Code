@@ -22,7 +22,18 @@
 | [838k.](%C2%A7%2000838k%20-%20Bonneville%20Power%20Administration%20bonds.md) | Bonneville Power Administration bonds. |
 | (a) | Issuance and sale; terms and conditions; interest rate; limitation on aggregate principal amount outstanding. |
 | (b) | Payment of principal, premiums, and interest from net proceeds; “net proceeds” defined. |
-| (c) | Purchase and sale by Secretary of Treasury; public debt transactions. |
+| (c) | Purchase and sale by Secretary of the Treasury; public debt transactions. |
+| 838<i>l</i>. | Bonneville Power Administration refinancing. |
+| (a) | Definitions. |
+| (b) | New principal amounts. |
+| (c) | Interest rate for new principal amounts. |
+| (d) | Repayment dates. |
+| (e) | Prepayment limitations. |
+| (f) | Interest rates for new capital investments during construction. |
+| (g) | Interest rates for new capital investments. |
+| (h) | Omitted. |
+| (i) | Contract provisions. |
+| (j) | Savings provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,3 +58,4 @@ This chapter is referred to in sections 839b, 839c, 839d, 839e, 839f of this tit
 - [&sect; 00838i - Bonneville Power Administration fund](%C2%A7%2000838i%20-%20Bonneville%20Power%20Administration%20fund.md)
 - [&sect; 00838j - Investment of excess moneys; deposit of moneys](%C2%A7%2000838j%20-%20Investment%20of%20excess%20moneys%3B%20deposit%20of%20moneys.md)
 - [&sect; 00838k - Bonneville Power Administration bonds](%C2%A7%2000838k%20-%20Bonneville%20Power%20Administration%20bonds.md)
+- [&sect; 00838l - Bonneville Power Administration refinancing](%C2%A7%2000838l%20-%20Bonneville%20Power%20Administration%20refinancing.md)

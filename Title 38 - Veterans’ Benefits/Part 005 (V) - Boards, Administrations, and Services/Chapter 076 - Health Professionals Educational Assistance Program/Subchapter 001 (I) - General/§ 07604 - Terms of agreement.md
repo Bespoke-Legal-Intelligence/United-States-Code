@@ -22,7 +22,7 @@ An agreement between the Secretary and a participant in the Educational Assistan
 
 &emsp;(4) A statement of the damages to which the United States is entitled under this chapter for the participant's breach of the agreement.
 
-&emsp;(5) Such other terms as are required to be included in the agreement under subchapter II, III, or V of this chapter or as the Secretarymay require consistent with the provisions of this chapter.
+&emsp;(5) Such other terms as are required to be included in the agreement under subchapter II, III, or V of this chapter or as the Secretary may require consistent with the provisions of this chapter.
 
 (Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 519, §4304; amended Pub. L. 101–366, title II, §205(c)(3), Aug. 15, 1990, 104 Stat. 441; renumbered §7604 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(3), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(b)(1), (e)(26), Nov. 2, 1994, 108 Stat. 4682, 4686.)
 

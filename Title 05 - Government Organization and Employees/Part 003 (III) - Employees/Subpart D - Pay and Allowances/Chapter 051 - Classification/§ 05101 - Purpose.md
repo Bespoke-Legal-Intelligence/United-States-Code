@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1071.
 
@@ -30,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Other Laws to Chapter 51 and Subchapter III of Chapter 53
 
-References in laws to fix pay in accordance with this chapter and subchapter III of chapter 53 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 \[title III, §302\] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 \[title I, §101(c)(2)\] of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
+References in laws to fix pay in accordance with this chapter and subchapter III of chapter 53 of this title considered to include authority under section 5376 of this title, if applicable, but not to include any authority under section 5304 of this title or section 529 \[title III, §302\] of Pub. L. 101–509, set out as a note under section 5304 of this title, see section 529 \[title I, §101(c)(2)\]of Pub. L. 101–509, set out in a References in Other Laws to GS–16, 17, or 18 Pay Rates; Regulations note under section 5376 of this title.
 
 #### Cross References
 

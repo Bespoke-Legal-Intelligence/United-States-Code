@@ -76,13 +76,19 @@ For rice of the 1959 and 1960 crops, the level of support shall be not less than
 
 &emsp;(7) Where a State is designated under section 1335(e) of this title, as outside the commercial wheat-producing area for any crop of wheat, the level of price support for wheat to cooperators in such State for such crop of wheat shall be 75 per centum of the level of price support to cooperators in the commercial wheat-producing area.
 
-(Oct. 31, 1949, ch. 792, title I, §§101, 104(b)(3), 63 Stat. 1051; July 17, 1952, ch. 933, §§2, 3(1), 66 Stat. 759; Aug. 28, 1954, ch. 1041, title II, §§201, 202, 68 Stat. 899; Apr. 25, 1957, Pub. L. 85–28, 71 Stat. 27; July 2, 1958, Pub. L. 85–497, 72 Stat. 296; Aug. 28, 1958, Pub. L. 85–835, title II, §201, title III, §302(a), 72 Stat. 993, 994; Feb. 20, 1960, Pub. L. 86–389, §2, 74 Stat. 7; Aug. 11, 1968, Pub. L. 90–475, §5, 82 Stat. 702; Feb. 16, 1976, Pub. L. 94–214, title I, §102, 90 Stat. 183; Sept. 29, 1977, Pub. L. 95–113, title VI, §607, title VII, §702, 91 Stat. 940; Dec. 31, 1979, Pub. L. 96–176, 93 Stat. 1290; Mar. 18, 1980, Pub. L. 96–213, §4(a), 94 Stat. 119; Sept. 26, 1980, Pub. L. 96–365, title II, §201(a), 94 Stat. 1319; Dec. 22, 1981, Pub. L. 97–98, title V, §508, title VI, §602, 95 Stat. 1242; Sept. 8, 1982, Pub. L. 97–253, title I, §125, 96 Stat. 771; Aug. 26, 1983, Pub. L. 98–88, §2, 97 Stat. 494; Apr. 10, 1984, Pub. L. 98–258, title IV, §§401, 402, 98 Stat. 135; Dec. 23, 1985, Pub. L. 99–198, title VI, §602, 99 Stat. 1427.)
+(e)
+
+Rice.—The Secretary shall make available to producers of each crop of rice on a farm price support at a level that is not less than 50 percent, or more than 90 percent of the parity price for rice as the Secretary determines will not result in increasing stocks of rice to the Commodity Credit Corporation.
+
+(Oct. 31, 1949, ch. 792, title I, §§101, 104(b)(3), 63 Stat. 1051; July 17, 1952, ch. 933, §§2, 3(1), 66 Stat. 759; Aug. 28, 1954, ch. 1041, title II, §§201, 202, 68 Stat. 899; Apr. 25, 1957, Pub. L. 85–28, 71 Stat. 27; July 2, 1958, Pub. L. 85–497, 72 Stat. 296; Aug. 28, 1958, Pub. L. 85–835, title II, §201, title III, §302(a), 72 Stat. 993, 994; Feb. 20, 1960, Pub. L. 86–389, §2, 74 Stat. 7; Aug. 11, 1968, Pub. L. 90–475, §5, 82 Stat. 702; Feb. 16, 1976, Pub. L. 94–214, title I, §102, 90 Stat. 183; Sept. 29, 1977, Pub. L. 95–113, title VI, §607, title VII, §702, 91 Stat. 940; Dec. 31, 1979, Pub. L. 96–176, 93 Stat. 1290; Mar. 18, 1980, Pub. L. 96–213, §4(a), 94 Stat. 119; Sept. 26, 1980, Pub. L. 96–365, title II, §201(a), 94 Stat. 1319; Dec. 22, 1981, Pub. L. 97–98, title V, §508, title VI, §602, 95 Stat. 1242; Sept. 8, 1982, Pub. L. 97–253, title I, §125, 96 Stat. 771; Aug. 26, 1983, Pub. L. 98–88, §2, 97 Stat. 494; Apr. 10, 1984, Pub. L. 98–258, title IV, §§401, 402, 98 Stat. 135; Dec. 23, 1985, Pub. L. 99–198, title VI, §602, 99 Stat. 1427; Apr. 4, 1996, Pub. L. 104–127, title I, §171(b)(3), 110 Stat. 938.)
 
 #### References in Text
 
 Subsec. (e) of section 1335 of this title, referred to in subsec. (d)(7), was eliminated and other provisions substituted by Pub. L. 87–703, title III, §315, Sept. 27, 1962, 76 Stat. 621.
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–127 added subsec. (e).
 
 1985—Subsec. (i)(1). Pub. L. 99–198 temporarily redesignated existing provisions as subpar. (A) and added subpars. (B) to (D). See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -106,7 +112,7 @@ Pub. L. 98–258, §402(7), substituted “1983 and 1985 crops” for “1983 cr
 
 1982—Subsec. (i)(5)(A). Pub. L. 97–253, §125(1)–(3), substituted “Notwithstanding any other provision of law, except as provided in the third and fourth sentences of this paragraph, the” for “Notwithstanding any other provision of this subsection, the”, following second sentence, inserted provision that for the 1983 crop of rice, the Secretary shall provide for a combination of (i) an acreage limitation program as described under this subparagraph and (ii) a diversion program as described under subpar. (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of 20 per centum, consisting of a reduction of 15 per centum under the acreage limitation program and a reduction of 5 per centum under the diversion program, and that as a condition of eligibility for loans, purchases, and payments on the 1983 crop of rice, the producers on a farm must comply with the terms and conditions of the combined acreage limitation and diversion program, and, following ninth sentence, inserted provision that notwithstanding the other provisions of this subparagraph, the acreage base to be used for the farm under the program for the 1983 crop of rice shall be the same as the acreage base applicable to the farm under the acreage limitation program for the 1982 crop, adjusted to reflect established crop-rotation practices and to reflect such other factors as the Secretary determines should be considered in determining a fair and equitable base.
 
-Subsec. (i)(5)(B). Pub. L. 97–253, §125(4), inserted provision requiring the Secretary to implement a land diversion program for the 1983 crop of rice under which the Secretary shall make crop retirement and conservation payments to producers making a reduction additional to that required under subpar. (A) and devoting an equivalent acreage of cropland to conservation purposes, and provisions for the computation of payments, and establishment of payment rates by the Secretary, as well as payment by the Secretary of not less than 50 per centum of any payments under this subparagraph to 1983 crop producers as soon as practicable after any such producer enters into a land diversioncontract with the Secretary and in advance of any determination of performance, but in no case prior to Oct. 1, 1982, and repayment of advances, with interest, in the event of noncompliance by such producer with such contract.
+Subsec. (i)(5)(B). Pub. L. 97–253, §125(4), inserted provision requiring the Secretary to implement a land diversion program for the 1983 crop of rice under which the Secretary shall make crop retirement and conservation payments to producers making a reduction additional to that required under subpar. (A) and devoting an equivalent acreage of cropland to conservation purposes, and provisions for the computation of payments, and establishment of payment rates by the Secretary, as well as payment by the Secretary of not less than 50 per centum of any payments under this subparagraph to 1983 crop producers as soon as practicable after any such producer enters into a land diversion contract with the Secretary and in advance of any determination of performance, but in no case prior to Oct. 1, 1982, and repayment of advances, with interest, in the event of noncompliance by such producer with such contract.
 
 1981—Subsec. (f). Pub. L. 97–98, §508, substituted provisions authorizing price support for extra long staple cotton for the 1982 crop and each subsequent crop through nonrecourse loans as provided in this subsection and prescribing the level of price support loans available to cooperators if producers have not, or have, disapproved marketing quotas for any crop of extra long staple cotton as specified percentages of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, of such crop at average location in the United States for provisions authorizing price support for extra long staple cotton to cooperators for the 1980 crop and each subsequent crop based on the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton and adjusted by the specified factors, provisions determining the computation of acreage allotments of extra long staple cotton, provisions authorizing the Secretary to establish the price-support payment factor, provisions authorizing the manner and mode of payments authorized under this section, and provisions making operative subsec. (d)(3) of this section upon the disapproval by producers of the national marketing quota established pursuant to section 1347 of this title.
 
@@ -130,7 +136,7 @@ Subsec. (h). Pub. L. 95–113, §702, temporarily added subsec. (h). See Effecti
 
 1976—Subsec. (g). Pub. L. 94–214 temporarily added subsec. (g). See Effective and Termination Dates of 1976 Amendment note below.
 
-1968—Subsec. (f). Pub. L. 90–475 substituted provisions authorizing price support for extra long staple cotton for the 1968 crop and each subsequent crop based on the loan level established for Middling one-inch upland cotton and adjusted by the specified factors, provisions determining the computation of acreage allotments of extra long staple cotton, provisions authorizing the Secretary to establish the price-support payment factor, and provisions authorizing the manner and mode of payments authorized under this section, for provisions authorizing price support for extra long staple cotton for the 1957 crop and each subsequent crop based on the parity price for the 1956 crop and adjusted by certain specified factors, with a minimum price support level of not less than 60 percent of the parity price, and provisions making operative subsec. (d)(3) of this section upon the disapproval by producers of the national marketing quota established pursuant to section 1347 of this title.
+1968—Subsec. (f). Pub. L. 90–475 substituted provisions authorizing price support for extra long staple cotton for the 1968 crop and each subsequent crop based on theloan level established for Middling one-inch upland cotton and adjusted by the specified factors, provisions determining the computation of acreage allotments of extra long staple cotton, provisions authorizing the Secretary to establish the price-support payment factor, and provisions authorizing the manner and mode of payments authorized under this section, for provisions authorizing price support for extra long staple cotton for the 1957 crop and each subsequent crop based on the parity price for the 1956 crop and adjusted by certain specified factors, with a minimum price support level of not less than 60 percent of the parity price, and provisions making operative subsec. (d)(3) of this section upon the disapproval by producers of the national marketing quota established pursuant to section 1347 of this title.
 
 1960—Subsec. (e). Pub. L. 86–389 repealed subsec. (e) which provided that: “Notwithstanding any of the provisions of this Act, section 2 of the Act of July 28, 1945 (59 Stat. 506) shall continue in effect.” See section 1445 of this title.
 
@@ -182,19 +188,17 @@ Section 102 of Pub. L. 94–214 provided that the amendment made by that section
 
 #### Effective Date of 1958 Amendment
 
-Section 104(b)(3) of act Oct. 31, 1949, as added by section 201 of Pub. L. 85–835, provided for repeal of subsec.\(d)(4) of this section effective with 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
+Section 104(b)(3) of act Oct. 31, 1949, as added by section 201 of Pub. L. 85–835, provided for repeal of subsec. (d)(4) of this section effective with 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
 
 Section 302(a) of Pub. L. 85–835 provided in part that the amendment by Pub. L. 85–835 \[amending this section\] is effective beginning with the 1959 crop.
 
-#### Inapplicability to 1991 Through 1995 Crops of Peanuts
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(A) of this title.
 
 Pub. L. 101–624, title VIII, §808, Nov. 28, 1990, 104 Stat. 3478, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1991 through 1995 crops of peanuts.”
 
-#### Inapplicability to 1986 Through 1990 Crops of Peanuts
-
 Section 707 of Pub. L. 99–198 provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1986 through 1990 crops of peanuts.”
-
-#### Inapplicability to 1982 Through 1985 Crops of Peanuts
 
 Section 707 of Pub. L. 97–98 provided that: “Section 101 of the Agricultural Act of 1949 \[this section\] shall not be applicable to the 1982 through 1985 crops of peanuts.”
 
@@ -216,5 +220,5 @@ Pub. L. 87–128, title I, §123, Aug. 8, 1961, 75 Stat. 297, required that pric
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1426, 1427, 1428, 1442, 1444, 1444a, 1444b, 1445, 1445a of this title.
+This section is referred to in sections 1427, 1428, 1442, 1444, 1444a, 1444b, 1445, 1445a, 7301 of this title.
 

@@ -28,7 +28,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 133z.
 
@@ -44,15 +46,15 @@ Section 901(c) of former Title 5, Executive Departments and Government Officers 
 
 #### Amendments
 
-<b>1977</b>—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
+1977—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
+1971—Subsec. (a). Pub. L. 92–179, §1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
 
 Subsec. (c). Pub. L. 92–179, §1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: “That this Act \[amending sections 903 to 906 and 908 to 912 of this title\] may be cited as the ‘Reorganization Act Amendments of 1984’.”
+Pub. L. 98–614, §1, Nov. 8, 1984, 98 Stat. 3192, provided: “That this Act \[amending sections 903 to 906 and 908 to912 of this title\] may be cited as the ‘Reorganization Act Amendments of 1984’.”
 
 #### Short Title of 1977 Amendment
 
@@ -262,7 +264,7 @@ Disbursement
 
 #### Amendments
 
-The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effectedby 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
+The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effected by 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
 
 #### Effective Date
 
@@ -376,7 +378,7 @@ The effective date of this section originally fixed by section 22 of this Ex. Or
 
 Functions Abolished
 
-Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational educationpayments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
+Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational education payments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
 
 #### §19.
 
@@ -386,7 +388,7 @@ Each agency, all the functions of which are transferred to or consolidated with 
 
 The records pertaining to an abolished agency or a function disposed of, disposition of which is not elsewhere herein provided for, shall be transferred to the successor. If there be no successor agency, and such abolished agency be within a department, said records shall be disposed of as the head of such department may direct.
 
-The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extent required, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
+The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extentrequired, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
 
 All personnel employed in connection with the work of an abolished agency or function disposed of shall be separated from the service of the United States, except that the head of any successor agency, subject to my approval, may, within a period of four months after transfer or consolidation, reappoint any of such personnel required for the work of the successor agency without reexamination or loss of civil-service status.
 

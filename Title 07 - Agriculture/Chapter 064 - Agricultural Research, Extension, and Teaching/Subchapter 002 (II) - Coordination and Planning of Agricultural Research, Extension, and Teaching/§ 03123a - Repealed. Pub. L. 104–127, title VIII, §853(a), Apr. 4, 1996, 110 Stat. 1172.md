@@ -1,0 +1,4 @@
+### §3123a. Repealed. Pub. L. 104–127, title VIII, §853(a), Apr. 4, 1996, 110 Stat. 1172
+
+Section, Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 101–624, title XVI, §1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, §402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board.
+

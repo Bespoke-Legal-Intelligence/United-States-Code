@@ -8,13 +8,3 @@ There are hereby authorized to be appropriated not more than $7,100,000 for the 
 
 1974—Pub. L. 93–477 substituted “$7,100,000” for “$1,200,000”.
 
-### SUBCHAPTER LXXIII—DELAWARE
-
-### WATER GAP NATIONAL
-
-### RECREATION AREA
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1274 of this title.
-

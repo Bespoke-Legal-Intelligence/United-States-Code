@@ -34,7 +34,9 @@ Records, Reports, Tests, Information, and Inspection.—(1) Under regulations pr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -120,13 +120,13 @@
 
 &emsp;&emsp;&emsp;(x) property used by the association in the conduct of the business described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;(xi) any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.
+&emsp;&emsp;&emsp;(xi) any regular or residual interest in a REMIC, and any regular interest in a FASIT, but only in the proportion which the assets of such REMIC or FASIT consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC or FASIT are assets described in clauses (i) through (x), the entire interest in the REMIC or FASIT shall qualify.
 
-> &emsp;&emsp;At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieu of the close of the taxable year, computed under regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property's planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall not apply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
+> &emsp;&emsp;At the election of the taxpayer, the percentage specified in this subparagraph shall be applied on the basis of the average assets outstanding during the taxable year, in lieuof the close of the taxable year, computed under regulations prescribed by the Secretary. For purposes of clause (v), if a multifamily structure securing a loan is used in part for nonresidential purposes, the entire loan is deemed a residential real property loan if the planned residential use exceeds 80 percent of the property's planned use (determined as of the time the loan is made). For purposes of clause (v), loans made to finance the acquisition or development of land shall be deemed to be loans secured by an interest in residential real property if, under regulations prescribed by the Secretary, there is reasonable assurance that the property will become residential real property within a period of 3 years from the date of acquisition of such land; but this sentence shall not apply for any taxable year unless, within such 3-year period, such land becomes residential real property. For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).
 
 #### (20) Employee
 
-&emsp;For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, for the purpose of applying the provisions of section 101(b) with respect to employees’ death benefits, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.
+&emsp;For the purpose of applying the provisions of section 79 with respect to group-term life insurance purchased for employees, for the purpose of applying the provisions of sections 104, 105, and 106 with respect to accident and health insurance or accident and health plans, and for the purpose of applying the provisions of subtitle A with respect to contributions to or under a stock bonus, pension, profit-sharing, or annuity plan, and with respect to distributions under such a plan, or by a trust forming part of such a plan, and for purposes of applying section 125 with respect to cafeteria plans, the term “employee” shall include a full-time life insurance salesman who is considered an employee for the purpose of chapter 21, or in the case of services performed before January 1, 1951, who would be considered an employee if his services were performed during 1951.
 
 #### (21) Levy
 
@@ -172,13 +172,25 @@
 
 &emsp;&emsp;(B) a domestic partnership,
 
-&emsp;&emsp;(C) a domestic corporation, and
+&emsp;&emsp;(C) a domestic corporation,
 
-&emsp;&emsp;(D) any estate or trust (other than a foreign estate or foreign trust, within the meaning of section 7701(a)(31)).
+&emsp;&emsp;(D) any estate (other than a foreign estate, within the meaning of paragraph (31)), and
+
+&emsp;&emsp;(E) any trust if—
+
+&emsp;&emsp;&emsp;(i) a court within the United States is able to exercise primary supervision over the administration of the trust, and
+
+&emsp;&emsp;&emsp;(ii) one or more United States fiduciaries have the authority to control all substantial decisions of the trust.
 
 #### (31) Foreign estate or trust
 
-&emsp;The terms “foreign estate” and “foreign trust” mean an estate or trust, as the case may be, the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
+#### (A) Foreign estate
+
+&emsp;&emsp;The term “foreign estate” means an estate the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
+
+#### (B) Foreign trust
+
+&emsp;&emsp;The term “foreign trust” means any trust other than a trust described in subparagraph (E) of paragraph (30).
 
 #### (32) Cooperative bank
 
@@ -410,7 +422,7 @@
 
 &emsp;&emsp;&emsp;(i) such individual is present in the United States on fewer than 183 days during the current year, and
 
-&emsp;&emsp;&emsp;(ii) it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection tosuch foreign country than to the United States.
+&emsp;&emsp;&emsp;(ii) it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection to such foreign country than to the United States.
 
 #### (C) Subparagraph (B) not to apply in certain cases
 
@@ -504,11 +516,11 @@
 
 #### (i) Limitation on teachers and trainees
 
-&emsp;&emsp;&emsp;An individual shall not be treated as an exempt individual by reason of clause (ii)of subparagraph (A) for the current year if, for any 2 calendar years during the preceding 6 calendar years, such person was an exempt person under clause (ii) or (iii) of subparagraph (A). In the case of an individual all of whose compensation is described in section 872(b)(3), the preceding sentence shall be applied by substituting “4 calendar years” for “2 calendar years”.
+&emsp;&emsp;&emsp;An individual shall not be treated as an exempt individual by reason of clause (ii) of subparagraph (A) for the current year if, for any 2 calendar years during the preceding 6 calendar years, such person was an exempt person under clause (ii) or (iii) of subparagraph (A). In the case of an individual all of whose compensation is described in section 872(b)(3), the preceding sentence shall be applied by substituting “4 calendar years” for “2 calendar years”.
 
 #### (ii) Limitation on students
 
-&emsp;&emsp;&emsp;For any calendar year after the 5th calendar year for which an individual was an exempt individual under clause (ii) or (iii) of subparagraph (A), such individual shall not be treated as an exempt individual by reason of clause (iii) of subparagraph (A), unless such individual establishes to the satisfaction of the Secretary that such individual does not intend to permanently reside in the United States and that such individual meets the requirements of subparagraph (D)(ii).
+&emsp;&emsp;&emsp;For any calendar year after the 5th calendar year for which an individual was anexempt individual under clause (ii) or (iii) of subparagraph (A), such individual shall not be treated as an exempt individual by reason of clause (iii) of subparagraph (A), unless such individual establishes to the satisfaction of the Secretary that such individual does not intend to permanently reside in the United States and that such individual meets the requirements of subparagraph (D)(ii).
 
 #### (6) Lawful permanent resident
 
@@ -592,7 +604,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;(D) the service provider does not bear any risk of substantially diminished receipts or substantially increased expenditures if there is nonperformance under the contract,
 
-&emsp;&emsp;(E) the service provider does not use the property concurrently to provide significant services to entities unrelated to the service recipient, and
+&emsp;&emsp;(E) the service provider does not use the property concurrently to provide significantservices to entities unrelated to the service recipient, and
 
 &emsp;&emsp;(F) the total contract price does not substantially exceed the rental value of the property for the contract period.
 
@@ -674,7 +686,7 @@ For purposes of chapter 1—
 
 &emsp;&emsp;(A) such property is operated by or for an organization described in paragraph (3) or (4) of section 501(c), and
 
-&emsp;&emsp;(B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>3</sup> Act of 1990).
+&emsp;&emsp;(B) at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B))\(as in effect on the day before the date of the enactment of the Revenue Reconcilation <sup>3</sup> Act of 1990).
 
 #### (6) Regulations
 
@@ -756,7 +768,7 @@ For purposes of subtitle A, in determining the amount of gain or loss (or deemed
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, a taxable mortgage pool is any entity (other than a REMIC) if—
+&emsp;&emsp;Except as otherwise provided in this paragraph, a taxable mortgage pool is any entity (other than a REMIC or a FASIT) if—
 
 &emsp;&emsp;&emsp;(i) substantially all of the assets of such entity consists of debt obligations (or interests therein) and more than 50 percent of such debt obligations (or interests) consists of real estate mortgages (or interests therein),
 
@@ -856,7 +868,7 @@ The Secretary may prescribe regulations recharacterizing any multiple-party fina
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; June 25, 1959, Pub. L. 86–70, §22(g), (h), 73 Stat. 146; July 12, 1960, Pub. L. 86–624, §18(i), (j), 74 Stat. 416; Sept. 13, 1960, Pub. L. 86–778, title I, §103(t), 74 Stat. 941; Oct. 16, 1962, Pub. L. 87–834, §§6(c), 7(h), 76 Stat. 982, 988; Oct. 23, 1962, Pub. L. 87–870, §5(a), 76 Stat. 1161; Feb. 26, 1964, Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), 78 Stat. 36, 114; Mar. 15, 1966, Pub. L. 89–368, title I, §102(b)(5), 80 Stat. 64; Nov. 13, 1966, Pub. L. 89–809, title I, §103(<i>l</i>)(1), 80 Stat. 1554; June 28, 1968, Pub. L. 90–364, title I, §103(e)(6), 82 Stat. 264; Dec. 30, 1969, Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), 83 Stat. 622, 623, 735; Oct. 31, 1972, Pub. L. 92–606, §1(f)(4), 86 Stat. 1497; Sept. 2, 1974, Pub. L. 93–406, title III, §3043, 88 Stat. 1003; Oct. 4, 1976, Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), 90 Stat. 1688, 1832, 1834, 1835; Nov. 6, 1978, Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), 92 Stat. 2809, 2923; Aug. 13, 1981, Pub. L. 97–34, title VII, §725(c)(4), 95 Stat. 346; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Jan. 12, 1983, Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), 96 Stat. 2400, 2406; Jan. 12, 1983, Pub. L. 97–449, §5(e), 96 Stat. 2442; Jan. 14, 1983, Pub. L. 97–473, title II, §203, 96 Stat. 2611; Aug. 5, 1983, Pub. L. 98–67, title I, §§102(a), 104(d)(1), 97 Stat. 369, 379; Feb. 14, 1984, Pub. L. 98–216, §3(c)(2), 98 Stat. 6; July 18, 1984, Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Oct. 4, 1984, Pub. L. 98–443, §9(q), 98 Stat. 1708; Oct. 22, 1986, Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title VI, §624(a)\], 101 Stat. 1329–390, 1329–429; Nov. 10, 1988, Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Nov. 30, 1989, Pub. L. 101–194, title VI, §602, 103 Stat. 1762; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), 104 Stat. 1388–519, 1388–536; Aug. 14, 1991, Pub. L. 102–90, title III, §314(e), 105 Stat. 470; July 3, 1992, Pub. L. 102–318, title V, §521(b)(43), 106 Stat. 313; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13238, 107 Stat. 508; Aug. 15, 1994, Pub. L. 103–296, title III, §320(a)(3), 108 Stat. 1535; Dec. 29, 1995, Pub. L. 104–88, title III, §304(e), 109 Stat. 944.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; June 25, 1959, Pub. L. 86–70, §22(g), (h), 73 Stat. 146; July 12,1960, Pub. L. 86–624, §18(i), (j), 74 Stat. 416; Sept. 13, 1960, Pub. L. 86–778, title I, §103(t), 74 Stat. 941; Oct. 16, 1962, Pub. L. 87–834, §§6(c), 7(h), 76 Stat. 982, 988; Oct. 23, 1962, Pub. L. 87–870, §5(a), 76 Stat. 1161; Feb. 26, 1964, Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), 78 Stat. 36, 114; Mar. 15, 1966, Pub. L. 89–368, title I, §102(b)(5), 80 Stat. 64; Nov. 13, 1966, Pub. L. 89–809, title I, §103(<i>l</i>)(1), 80 Stat. 1554; June 28, 1968, Pub. L. 90–364, title I, §103(e)(6), 82 Stat. 264; Dec. 30, 1969, Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), 83 Stat. 622, 623, 735; Oct. 31, 1972, Pub. L. 92–606, §1(f)(4), 86 Stat. 1497; Sept. 2, 1974, Pub. L. 93–406, title III, §3043, 88 Stat. 1003; Oct. 4, 1976, Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), 90 Stat. 1688, 1832, 1834, 1835; Nov. 6, 1978, Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), 92 Stat. 2809, 2923; Aug. 13, 1981, Pub. L. 97–34, title VII, §725(c)(4), 95 Stat. 346; Sept. 3, 1982, Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Jan. 12, 1983, Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), 96 Stat. 2400, 2406; Jan. 12, 1983, Pub. L. 97–449, §5(e), 96 Stat. 2442; Jan. 14, 1983, Pub. L. 97–473, title II, §203, 96 Stat. 2611; Aug. 5, 1983, Pub. L. 98–67, title I, §§102(a), 104(d)(1), 97 Stat. 369, 379; Feb. 14, 1984, Pub. L. 98–216, §3(c)(2), 98 Stat. 6; July 18, 1984, Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Oct. 4, 1984, Pub. L. 98–443, §9(q), 98 Stat. 1708; Oct. 22, 1986, Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Dec. 22, 1987, Pub. L. 100–202, §101(m) \[title VI, §624(a)\], 101 Stat. 1329–390, 1329–429; Nov. 10, 1988, Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Nov. 30, 1989, Pub. L. 101–194, title VI, §602, 103 Stat. 1762; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), 104 Stat. 1388–519, 1388–536; Aug. 14, 1991, Pub. L. 102–90, title III, §314(e), 105 Stat. 470; July 3, 1992, Pub. L. 102–318, title V, §521(b)(43), 106 Stat. 313; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13238, 107 Stat. 508; Aug. 15, 1994, Pub. L. 103–296, title III, §320(a)(3), 108 Stat. 1535; Dec. 29, 1995, Pub. L. 104–88, title III, §304(e), 109 Stat. 944; Aug. 20, 1996, Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), 110 Stat. 1790, 1867, 1916.)
 
 #### References in Text
 
@@ -884,13 +896,23 @@ Section 501(b) of the Ethics in Government Act of 1978, referred to in subsec. (
 
 #### Amendments
 
+1996—Subsec. (a)(19)(C)(xi). Pub. L. 104–188, §1621(b)(8), amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: “any regular or residual interest in a REMIC, but only in the proportion which the assets of such REMIC consist of property described in any of the preceding clauses of this subparagraph; except that if 95 percent or more of the assets of such REMIC are assets described in clauses (i) through (x), the entire interest in the REMIC shall qualify.”
+
+Subsec. (a)(20). Pub. L. 104–188, §1402(b)(3), struck out “, for the purpose of applying the provisions of section 101(b) with respect to employees’ death benefits” after “health plans”.
+
+Subsec. (a)(30)(C) to (E). Pub. L. 104–188, §1907(a)(1), struck out “and” at end of subpar. (C), added subpars. (D) and (E), and struck out former subpar. (D) which read as follows: “any estate or trust (other than a foreign estate or foreign trust, within the meaning of section 7701(a)(31)).”
+
+Subsec. (a)(31). Pub. L. 104–188, §1907(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The terms ‘foreign estate’ and ‘foreign trust’ mean an estate or trust, as the case may be, the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.”
+
+Subsec. (i)(2)(A). Pub. L. 104–188, §1621(b)(9), inserted “or a FASIT” after “a REMIC” in introductory provisions.
+
 1995—Subsec. (a)(33)(B). Pub. L. 104–88, §304(e)(1), substituted “Federal Energy Regulatory Commission” for “Federal Power Commission”.
 
 Subsec. (a)(33)(C)(i). Pub. L. 104–88, §304(e)(2), substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
 Subsec. (a)(33)(C)(ii). Pub. L. 104–88, §304(e)(3), substituted “Federal Energy Regulatory Commission” for “Interstate Commerce Commission”.
 
-Subsec. (a)(33)(F). Pub. L. 104–88, §304(e)(4), substituted “a water carrier subject to jurisdiction undersubchapter II of chapter 135 of title 49” for “common carrier by water, subject to the jurisdiction of the Interstate Commerce Commission under subchapter III of chapter 105 of title 49, or subject to the jurisdiction of the Federal Maritime Board under the Intercoastal Shipping Act, 1933”.
+Subsec. (a)(33)(F). Pub. L. 104–88, §304(e)(4), substituted “a water carrier subject to jurisdiction under subchapter II of chapter 135 of title 49” for “common carrier by water, subject to the jurisdiction of the Interstate Commerce Commission under subchapter III of chapter 105 of title 49, or subject to the jurisdiction of the Federal Maritime Board under the Intercoastal Shipping Act, 1933”.
 
 Subsec. (a)(33)(G). Pub. L. 104–88, §304(e)(5), substituted “rail carrier subject to part A of subtitle IV” for “railroad corporation subject to subchapter I of chapter 105”.
 
@@ -908,7 +930,7 @@ Subsec. (a)(33)(H). Pub. L. 104–88, §304(e)(6), substituted “part A of subt
 
 Subsec. (j)(1)(C). Pub. L. 101–508, §11704(a)(34), substituted “(C) subject to section 401(k)(4)(B) and any dollar limitation on the application of section 402(a)(8),” for “(C) subject to, section 401(k)(4)(B), and any dollar limitation on the application of section 402(a)(8),”.
 
-1989—Subsecs. (k), (<i>l</i>). Pub. L. 101–194 added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+1989—Subsecs. (k), (<i>l</i>). Pub. L. 101–194 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 1988—Subsec. (a)(19). Pub. L. 100–647, §1006(t)(25)(A), inserted at end “For purposes of determining whether any interest in a REMIC qualifies under clause (xi), any regular interest in another REMIC held by such REMIC shall be treated as a loan described in a preceding clause under principles similar to the principles of clause (xi); except that, if such REMIC's are part of a tiered structure, they shall be treated as 1 REMIC for purposes of clause (xi).”
 
@@ -1080,6 +1102,20 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 
 Subsec. (a)(10). Pub. L. 86–70, §22(h), substituted “Territory of Hawaii” for “Territories”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1402(b)(3) of Pub. L. 104–188 applicable with respect to decedents dying after Aug. 20, 1996, see section 1402(c) of Pub. L. 104–188, set out as a note under section 101 of this title.
+
+Amendment by section 1621(b)(8), (9) of Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
+
+Section 1907(a)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section\] shall apply—
+
+&emsp;“(A) to taxable years beginning after December 31, 1996, or
+
+&emsp;“(B) at the election of the trustee of a trust, to taxable years ending after the date of the enactment of this Act \[Aug. 20, 1996\].
+
+> Such an election, once made, shall be irrevocable.”
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
@@ -1250,6 +1286,10 @@ For provisions that nothing in amendment by section 11812(b)(13) of Pub. L. 101�
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
@@ -1306,7 +1346,7 @@ Partnership and partner, see section 761 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 168, 246A, 269B, 312, 542, 593, 597, 682, 853, 860F, 865, 881, 884, 904, 958, 988, 993, 1246, 1247, 1249, 1313, 1341, 3405, 6038, 6038A, 6046, 6059, 6694, 7213 of this title; title 4 section 114; title 5 section 8351; title 12 sections 1464, 1467a, 1823; title 18 section 3613; title 22 sections 2314, 2755; title 42 section 1320b–14.
+This section is referred to in sections 56, 118, 168, 246A, 269B, 312, 401, 408, 542, 593, 597, 679, 682, 853, 860F, 865, 877, 881, 884, 904, 958, 988, 993, 1246, 1247, 1249, 1313, 1341, 3405, 6038, 6038A, 6039F, 6046, 6059, 6694, 7213 of this title; title 4 section 114; title 5 section 8351; title 12 sections 1464, 1467a, 1823; title 22 sections 2314, 2755; title 42 section 1320b–14.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

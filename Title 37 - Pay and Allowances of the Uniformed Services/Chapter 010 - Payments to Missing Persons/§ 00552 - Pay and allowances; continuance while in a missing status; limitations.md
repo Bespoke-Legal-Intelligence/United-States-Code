@@ -6,21 +6,21 @@
 
 &emsp;(2) for the period, not to exceed one year, required for his hospitalization and rehabilitation after termination of that status, under regulations prescribed by the Secretaries concerned, with respect to incentive pay, considered to have satisfied the requirements of section 301 of this title so as to entitle him to a continuance of that pay.
 
-> However, a member who is performing full-time training duty or other full-time duty without pay, or inactive-duty training with or without pay, is entitled to the pay and allowances to which he would have been entitled if he had been on active duty with pay. Notwithstanding section 1523 of title 10 or any other provision of law, the promotion of a member while he is in a missing status is fully effective for all purposes, even though the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made.
+> However, a member who is performing full-time training duty or other full-time duty without pay, or inactive-duty training with or without pay, is entitled to the pay and allowances to which he would have been entitled if he had been on active duty with pay. Notwithstanding section 1523 of title 10 or any other provision of law, the promotion of a member while he is in a missing status is fully effective for all purposes.
 
 (b) The expiration of a member's term of service while he is in a missing status does not end his entitlement to pay and allowances under subsection (a). Notwithstanding the death of a member while in a missing status, entitlement to pay and allowances under subsection (a) ends on the date—
 
 &emsp;(1) the Secretary concerned receives evidence that the member is dead; or
 
-&emsp;(2) that his death is prescribed or determined under section 555 of this title.
+&emsp;(2) that his death is prescribed or determined under section 555 of this title or under chapter 76 of title 10.
 
 (c) A member is not entitled to pay and allowances under subsection (a) for a period during which he is officially determined to be absent from his post of duty without authority, and he is indebted to the United States for payments from amounts credited to his account for that period.
 
 (d) A member who is performing full-time training duty or inactive-duty training is entitled to the benefits of this section only when he is officially determined to be in a missing status that results from the performance of duties prescribed by competent authority.
 
-(e) A member in a missing status who is continued in that status under section 555 of this title is entitled to be credited with pay and allowances under subsection (a).
+(e) A member in a missing status who is continued in that status under section 555 of this title or under chapter 76 of title 10 is entitled to be credited with pay and allowances under subsection (a).
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 625; amended Pub. L. 92–169, §1, Nov. 24, 1971, 85 Stat. 489; Pub. L. 92–482, Oct. 12, 1972, 86 Stat. 796; Pub. L. 93–26, §1, Apr. 27, 1973, 87 Stat. 26; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title V, §569(c)(2), Feb. 10, 1996, 110 Stat. 351.)
 
 Historical and Revision Notes
 
@@ -77,6 +77,12 @@ In subsection (d), the words “A member . . . he . . . in a missing status�
 In subsection (e), the words “A member in a missing status” are substituted for “a person missing under the conditions specified in section 2 of this Act” to conform to the definition in revised section 551(2) of this chapter. The words “under subsection (a) of this section” are substituted for “as provided in section 2 of this Act”.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §569(c)(2)(A), substituted “for all purposes” for “for all purposes, eventhough the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made”.
+
+Subsec. (b)(2). Pub. L. 104–106, §569(c)(2)(B), inserted “or under chapter 76 of title 10” before period at end.
+
+Subsec. (e). Pub. L. 104–106, §569(c)(2)(C), inserted “or under chapter 76 of title 10” after “section 555 of this title”.
 
 1991—Subsecs. (b), (c), (e). Pub. L. 102–25 struck out “of this section” after “subsection (a)” wherever appearing.
 

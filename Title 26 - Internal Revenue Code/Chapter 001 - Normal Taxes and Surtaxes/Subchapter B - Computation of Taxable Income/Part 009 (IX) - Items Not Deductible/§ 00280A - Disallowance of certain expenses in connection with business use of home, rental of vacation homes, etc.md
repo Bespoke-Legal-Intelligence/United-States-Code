@@ -14,7 +14,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to a portion of the dwelling unit which is exclusively used on a regular basis—
 
-&emsp;&emsp;(A) the principal place of business for any trade or business of the taxpayer.
+&emsp;&emsp;(A) as the principal place of business for any trade or business of the taxpayer,
 
 &emsp;&emsp;(B) as a place of business which is used by patients, clients, or customers in meeting or dealing with the taxpayer in the normal course of his trade or business, or
 
@@ -24,11 +24,11 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (2) Certain storage use
 
-&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
+&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
 
 #### (3) Rental use
 
-&emsp;Subsection (a) shall not apply to any item which is attributable to the rental of thedwelling unit or portion thereof (determined after the application of subsection (e)).
+&emsp;Subsection (a) shall not apply to any item which is attributable to the rental of the dwelling unit or portion thereof (determined after the application of subsection (e)).
 
 #### (4) Use in providing day care services
 
@@ -68,7 +68,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (6) Treatment of rental to employer
 
-&emsp;Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of the dwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
+&emsp;Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of thedwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
 
 #### (d) Use as residence
 
@@ -98,7 +98,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period iffor such period such dwelling unit is rented, at a fair rental, to any person for use as such person's principal residence.
+&emsp;&emsp;A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period if for such period such dwelling unit is rented, at a fair rental, to any person for use as such person's principal residence.
 
 #### (B) Special rules for rental to person having interest in unit
 
@@ -146,7 +146,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (1) In general
 
-&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
+&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributableto the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
 
 #### (2) Exception for deductions otherwise allowable
 
@@ -190,13 +190,17 @@ Notwithstanding any other provision of this section or section 183, if a dwellin
 
 &emsp;(2) the income derived from such use for the taxable year shall not be included in the gross income of such taxpayer under section 61.
 
-(Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352.)
+(Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889.)
 
 #### References in Text
 
 The date of enactment of the Tax Reduction and Simplification Act of 1977, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 95–30, 91 Stat. 126, which was May 23, 1977.
 
 #### Amendments
+
+1996—Subsec. (c)(1)(A). Pub. L. 104–188, §1704(t)(39), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the principal place of business for any trade or business of the taxpayer.”
+
+Subsec. (c)(2). Pub. L. 104–188, §1113(a), substituted “inventory or product samples” for “inventory”.
 
 1988—Subsec. (c)(5). Pub. L. 100–647 inserted “(or rental activity)” after “trade or business” in subpar. (B)(ii) and inserted at end “Any amount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year.”
 
@@ -214,13 +218,17 @@ Subsec. (f)(4). Pub. L. 97–216 struck out “, etc.” after “section 162(a
 
 Subsec. (d)(2). Pub. L. 97–119, §113(d), inserted in provision following subpar. (C) “, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use by the taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged”.
 
-Subsec. (d)(3), (4). Pub. L. 97–119, §113(a), added par. (3), redesignated former par. (3) as (4) and struck out “to a person other than a member of the family (as defined in section 267(c)(4)) of the taxpayer” after “such unit is rented” in subpar. (B).
+Subsec. (d)(3), (4). Pub. L. 97–119, §113(a), added par. (3), redesignated former par. (3) as (4) and struck out“to a person other than a member of the family (as defined in section 267(c)(4)) of the taxpayer” after “such unit is rented” in subpar. (B).
 
 Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 
 1978—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
 1977—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (1), (2), or (4)” for “paragraph (1) or (2)” in introductory provisions.
+
+#### Effective Date of 1996 Amendment
+
+Section 1113(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
 #### Effective Date of 1988 Amendment
 

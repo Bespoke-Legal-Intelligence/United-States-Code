@@ -24,9 +24,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) derived in the active conduct of a banking business by an institution licensed to do business as a bank in the United States (or, to the extent provided in regulations, by any other corporation),
 
-&emsp;&emsp;(B) derived in the active conduct of an insurance business by a corporation which is predominantly engaged in an insurance business and which would be subject to tax under subchapter L if it were a domestic corporation, or
+&emsp;&emsp;(B) derived in the active conduct of an insurance business by a corporation which is predominantly engaged in an insurance business and which would be subject to tax under subchapter L if it were a domestic corporation,
 
-&emsp;&emsp;(C) which is interest, a dividend, or a rent or royalty, which is received or accrued from a related person (within the meaning of section 954(d)(3)) to the extent such amount is properly allocable (under regulations prescribed by the Secretary) to income of such related person which is not passive income.
+&emsp;&emsp;(C) which is interest, a dividend, or a rent or royalty, which is received or accrued from a related person (within the meaning of section 954(d)(3)) to the extent such amount is properly allocable (under regulations prescribed by the Secretary) to income of such related person which is not passive income, or
+
+&emsp;&emsp;(D) which is foreign trade income of an FSC or export trade income of an export trade corporation (as defined in section 971).
 
 > &emsp;For purposes of subparagraph (C), the term “related person” has the meaning given such term by section 954(d)(3) determined by substituting “foreign corporation” for “controlled foreign corporation” each place it appears in section 954(d)(3).
 
@@ -46,7 +48,7 @@ For purposes of this section—
 
 #### (c) Look-thru in the case of 25-percent owned corporations
 
-If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stock of another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it—
+If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stockof another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it—
 
 &emsp;(1) held its proportionate share of the assets of such other corporation, and
 
@@ -56,13 +58,15 @@ If a foreign corporation owns (directly or indirectly) at least 25 percent (by v
 
 For purposes of this part, the term “passive foreign investment company” does not include any foreign investment company to which section 1247 applies.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1704(r)(1), Aug. 20, 1996, 110 Stat. 1887.)
 
 #### References in Text
 
 Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(3)(A), are classified to sections 78<i>o</i>(a) and 78<i>o</i>–5(a), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(D). Pub. L. 104–188 added subpar. (D).
 
 1993—Subsec. (a). Pub. L. 103–66, §13231(d)(1), substituted in closing provisions “In the case of a controlled foreign corporation (or any other foreign corporation if such corporation so elects), the determination under paragraph (2) shall be based on the adjusted bases (as determined for purposes of computing earnings and profits) of its assets in lieu of their value. Such an election, once made, may be revoked only with the consent of the Secretary.” for “A foreign corporation may elect to have the determination under paragraph (2) based on the adjusted bases of its assets in lieu of their value. Such an election, once made, may be revoked only with the consent of the Secretary.”
 
@@ -82,6 +86,10 @@ Subsec. (b)(2)(C). Pub. L. 100–647, §1012(p)(26)(A), added subpar. (C).
 
 Subsec. (c). Pub. L. 100–647, §1012(p)(2), inserted “(directly or indirectly)” after “foreign corporation owns”.
 
+#### Effective Date of 1996 Amendment
+
+Section 1704(r)(2) of Pub. L. 104–188 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1235 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporations beginning after Sept. 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 13231(e) of Pub. L. 103–66, set out as a note under section 951 of this title.
@@ -96,5 +104,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 532, 542, 956A of this title.
+This section is referred to in sections 532, 542, 672, 1297 of this title.
 

@@ -30,7 +30,9 @@ Conductor Reports.—To assess the operational performance of trains, the Presid
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

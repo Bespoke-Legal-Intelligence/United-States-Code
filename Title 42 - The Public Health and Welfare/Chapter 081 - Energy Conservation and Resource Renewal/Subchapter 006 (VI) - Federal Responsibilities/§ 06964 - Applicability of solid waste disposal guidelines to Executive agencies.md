@@ -20,19 +20,21 @@
 
 (3) Each Executive agency which permits the use of Federal property for purposes of disposal of solid waste shall insure compliance with such guidelines and the purposes of this chapter in the disposal of such waste.
 
-(4) The President or the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate with regard to any unit of the legislative branch of the Federal Government shall prescribe regulations to carry out this subsection.
+(4) The President or the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate with regard to any unit of the legislative branch of the Federal Government shall prescribe regulations to carry out this subsection.
 
 #### (b) Licenses and permits
 
 Each Executive agency which issues any license or permit for disposal of solid waste shall, prior to the issuance of such license or permit, consult with the Administrator to insure compliance with guidelines recommended under section 6907 of this title and the purposes of this chapter.
 
-(Pub. L. 89–272, title II, §6004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2823; amended Pub. L. 95–609, §7(<i>o</i>), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 96–482, §23, Oct. 21, 1980, 94 Stat. 2347.)
+(Pub. L. 89–272, title II, §6004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2823; amended Pub. L. 95–609, §7(<i>o</i>), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 96–482, §23, Oct. 21, 1980, 94 Stat. 2347; Pub. L. 104–186, title II, §222(2), Aug. 20, 1996, 110 Stat. 1751.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3254e of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 
 #### Amendments
+
+1996—Subsec. (a)(4). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 1980—Subsec. (a)(1)(A). Pub. L. 96–482, §23(1), inserted reference to any unit of the legislative branch of the Federal Government.
 
@@ -43,10 +45,6 @@ Subsec. (a)(4). Pub. L. 96–482, §23(3), required House Committee on House Adm
 1978—Subsec. (a)(1). Pub. L. 95–609, §7(<i>o</i>)(1), (2), substituted “management” for “disposal” in two places.
 
 Subsec. (b). Pub. L. 95–609, §7(<i>o</i>)(3), substituted “Administrator” for “Secretary”.
-
-#### Change of Name
-
-Committee on House Administration of House of Representatives treated as referring to Committee on House Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

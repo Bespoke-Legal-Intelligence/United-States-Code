@@ -62,7 +62,7 @@
 
 #### (1) Establishment
 
-&emsp;The Commissioner shall make grants to and enter into contracts with States and public ornonprofit agencies and organizations, including institutions of higher education, to pay all or part of the cost of training in the use of Braille for personnel providing vocational rehabilitation services or educational services to youth and adults who are blind.
+&emsp;The Commissioner shall make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to pay all or part of the cost of training in the use of Braille for personnel providing vocational rehabilitation services or educational services to youth and adults who are blind.
 
 #### (2) Projects
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(D) provide support in the development of the individualized written rehabilitation program;
 
-&emsp;&emsp;(E) provide support and expertise in obtaining information about rehabilitation and independent living programs, services, and resources that are appropriate; and
+&emsp;&emsp;(E) provide support and expertise in obtaining information about rehabilitationand independent living programs, services, and resources that are appropriate; and
 
 &emsp;&emsp;(F) understand the provisions of this chapter, particularly provisions relating to employment, supported employment, and independent living.
 

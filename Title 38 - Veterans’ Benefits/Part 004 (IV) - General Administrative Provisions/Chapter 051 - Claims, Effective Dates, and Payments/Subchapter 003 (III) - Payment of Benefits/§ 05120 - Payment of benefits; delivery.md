@@ -60,3 +60,7 @@ Section 11007(b)(2) of Pub. L. 99–570 provided that: “The amendment made by 
 
 Section 402(c) of Pub. L. 95–117 provided that: “The amendments made by this section \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1977\].”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 31 section 3332.
+

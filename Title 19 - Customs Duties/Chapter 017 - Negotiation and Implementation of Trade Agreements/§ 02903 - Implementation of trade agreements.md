@@ -78,7 +78,7 @@
 
 &emsp;(ii) shall be jointly referred, in the House of Representatives, to the Committee on Ways and Means and the Committee on Rules.
 
-(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration of certain resolutions in the House and Senate) apply to extension disapproval resolutions.
+(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration ofcertain resolutions in the House and Senate) apply to extension disapproval resolutions.
 
 (D) It is not in order for—
 

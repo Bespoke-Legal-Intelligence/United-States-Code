@@ -20,7 +20,9 @@ Major Contraction.—The Secretary may find a reduction of less than 7.5 percent
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

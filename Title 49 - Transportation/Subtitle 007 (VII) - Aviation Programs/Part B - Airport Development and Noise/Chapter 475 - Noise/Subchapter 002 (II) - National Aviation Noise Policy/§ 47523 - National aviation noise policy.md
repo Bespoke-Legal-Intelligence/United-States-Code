@@ -20,7 +20,9 @@ Detailed Economic Analysis.—The policy shall be based on a detailed economic a
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

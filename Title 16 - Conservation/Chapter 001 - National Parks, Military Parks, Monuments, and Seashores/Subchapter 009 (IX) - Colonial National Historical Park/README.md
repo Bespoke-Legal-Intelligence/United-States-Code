@@ -21,3 +21,4 @@
 - [&sect; 00081m - Additional exchange of lands](%C2%A7%2000081m%20-%20Additional%20exchange%20of%20lands.md)
 - [&sect; 00081n - Transfer of lands for State Park](%C2%A7%2000081n%20-%20Transfer%20of%20lands%20for%20State%20Park.md)
 - [&sect; 00081o - Transfer of administrative jurisdiction over land](%C2%A7%2000081o%20-%20Transfer%20of%20administrative%20jurisdiction%20over%20land.md)
+- [&sect; 00081p - Property transfers](%C2%A7%2000081p%20-%20Property%20transfers.md)

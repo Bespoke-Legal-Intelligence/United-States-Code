@@ -70,7 +70,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(C) repowering with a qualifying clean coal technology under section 7651h of this title.
 
-&emsp;(21) The term “commenced” as applied to construction of any new electric utility unit means that an owner or operator has undertaken a continuous program of construction or that an owner or operator has entered into acontractual obligation to undertake and complete, within a reasonable time, a continuous program of construction.
+&emsp;(21) The term “commenced” as applied to construction of any new electric utility unit means that an owner or operator has undertaken a continuous program of construction or that an owner or operator has entered into a contractual obligation to undertake and complete, within a reasonable time, a continuous program of construction.
 
 &emsp;(22) The term “commenced commercial operation” means to have begun to generate electricity for sale.
 

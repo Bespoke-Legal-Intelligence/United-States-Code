@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat.1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Foodand Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 924, 1547, 3559 of this title.
+This section is referred to in sections 924, 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, 1546, 1547, 3559 of this title.
 

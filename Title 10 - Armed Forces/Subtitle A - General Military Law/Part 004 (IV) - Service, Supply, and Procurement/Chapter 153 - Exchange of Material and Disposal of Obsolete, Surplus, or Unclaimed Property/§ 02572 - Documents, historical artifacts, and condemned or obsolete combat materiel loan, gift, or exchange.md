@@ -1,6 +1,6 @@
 ### §2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
 
-(a) The Secretary concerned may lend or give items described in subsection (c) that are notneeded by the military department concerned (or by the Coast Guard, in the case of the Secretary of Transportation), to any of the following:
+(a) The Secretary concerned may lend or give items described in subsection (c) that are not needed by the military department concerned (or by the Coast Guard, in the case of the Secretary of Transportation), to any of the following:
 
 &emsp;(1) A municipal corporation.
 
@@ -16,7 +16,17 @@
 
 &emsp;(7) A post of the Sons of Veterans Reserve.
 
-(b)(1) Subject to paragraph (2), the Secretary concerned may exchange items described in subsection (c) that are not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.
+(b)(1) Subject to paragraph (2), the Secretary concerned may exchange items described in subsection (c) that are not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:
+
+&emsp;(A) Similar items held by any individual, organization, institution, agency, or nation.
+
+&emsp;(B) Conservation supplies, equipment, facilities, or systems.
+
+&emsp;(C) Search, salvage, or transportation services.
+
+&emsp;(D) Restoration, conservation, or preservation services.
+
+&emsp;(E) Educational programs.
 
 (2) The Secretary concerned may not make an exchange under paragraph (1) unless the monetary value of property transferred, or services provided, to the United States under the exchange is not less than the value of the property transferred by the United States. The Secretary concerned may waive the limitation in the preceding sentence in the case of an exchange of property for property in any case in which the Secretary determines that the item to be received by the United States in the exchange will significantly enhance the historical collection of the property administered by the Secretary.
 
@@ -28,7 +38,7 @@
 
 (B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans’ association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Dec. 12, 1980, Pub. L. 96–513, title V, §511(82), 94 Stat. 2927; Sept. 29, 1988, Pub. L. 100–456, div. A, title III, §324(a), 102 Stat. 1954; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §325, 104 Stat. 1531; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, §373, 106 Stat. 2385; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1071, 108 Stat. 2859.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Dec. 12, 1980, Pub. L. 96–513, title V, §511(82), 94 Stat. 2927; Sept. 29, 1988, Pub. L. 100–456, div. A, title III, §324(a), 102 Stat. 1954; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, §325, 104 Stat. 1531; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, §373, 106 Stat. 2385; Oct. 5, 1994, Pub. L. 103–337, div. A, title X, §1071, 108 Stat. 2859; Feb. 10, 1996, Pub. L. 104–106, div. A, title III, §372, 110 Stat. 280.)
 
 Historical and Revision Notes
 
@@ -47,6 +57,8 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–106 substituted “not needed by the armed forces for any of the following items or services if such items or services directly benefit the historical collection of the armed forces:” for “not needed by the armed forces for similar items held by any individual, organization, institution, agency, or nation or for search, salvage, transportation, and restoration services which directly benefit the historical collection of the armed forces.” and added subpars. (A) to (E).
 
 1994—Subsec. (b)(1). Pub. L. 103–337 inserted “transportation,” after “salvage,”.
 

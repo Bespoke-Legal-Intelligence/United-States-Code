@@ -36,7 +36,7 @@
 | (i) | Administration as defense agency. |
 | (j) | Definitions. |
 | (k) | Objects intended for launch, launched, or assembled in outer space. |
-| (<i>l)</i> | Use or manufacture of patented inventions incorporated in space vehicles launched for persons other than United States. |
+| (<i>l</i>) | Use or manufacture of patented inventions incorporated in space vehicles launched for persons other than United States. |
 | [2458\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002458%20-%20Contributions%20awards.md) | Contributions awards. |
 | (a) | Applications; referral to Board; hearing; recommendations; determination by Administrator. |
 | (b) | Apportionment of awards; surrender of claims to compensation; limitation on amount; reports to Congressional committees. |

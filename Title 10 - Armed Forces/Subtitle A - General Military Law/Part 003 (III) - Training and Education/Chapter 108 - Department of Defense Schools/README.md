@@ -15,7 +15,7 @@
 
 1993—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
-1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENTOF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools
 
@@ -23,9 +23,11 @@ Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provid
 
 #### Military Department Affiliation of War College Students
 
-Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667, provided that: “Notwithstanding any other provision of law, for resident classes entering the war colleges after September 30, 1996, the Department of Defense shall require that not less than 20 percent of the total of United States military students at each war college shall be from military departments other than the hosting military department: <i>Provided</i>, That each military department will recognize the attendance at a sister military department war college as the equivalent of attendance at its own war college for promotion and advancement of personnel.”
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8069\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, provided that: “Notwithstanding any other provision of law, for resident classes entering the war colleges after September 30, 1997, the Department of Defense shall require that not less than 20 percent of the total of United States military students at each war college shall be from military departments other than the hosting military department: <i>Provided</i>, That each military department will recognize the attendance at a sister military department war college as the equivalent of attendance at its own war college for promotion and advancement of personnel.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 104–61, title VIII, §8084, Dec. 1, 1995, 109 Stat. 667.
 
 Pub. L. 103–335, title VIII, §8108A, Sept. 30, 1994, 108 Stat. 2646.
 

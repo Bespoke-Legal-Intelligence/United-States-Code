@@ -48,7 +48,7 @@ As used in this part or part B of this subchapter:
 
 &emsp;&emsp;&emsp;(i) if the child has been placed in a foster family home or child-care institution a substantial distance from the home of the parents of the child, or in a State different from the State in which such home is located, sets forth the reasons why such placement is in the best interests of the child, and
 
-&emsp;&emsp;&emsp;(ii) if the child has been placed in foster care outside the State in which the home of the parents of the child is located, requires that, periodically, but not less frequently than every 12 months, a caseworker on the staff of the State agency of the State in which the home of the parents of the child is located, or of the State in which the child has been placed, visit such child in such home or institution and submit a report on such visit to the State agency of the State in which the home of the parents of the child is located,
+&emsp;&emsp;&emsp;(ii) if the child has been placed in foster care outside the State in which the home of the parents of the child is located, requires that, periodically, but not less frequently than every 12 months, a caseworker on the staff of the State agency of the State in which the home of the parentsof the child is located, or of the State in which the child has been placed, visit such child in such home or institution and submit a report on such visit to the State agency of the State in which the home of the parents of the child is located,
 
 &emsp;&emsp;(B) the status of each child is reviewed periodically but no less frequently than once every six months by either a court or by administrative review (as defined in paragraph (6)) in order to determine the continuing necessity for and appropriateness of the placement, the extent of compliance with the case plan, and the extent of progress which has been made toward alleviating or mitigating the causes necessitating placement in foster care, and to project a likely date by which the child may be returned to the home or placed for adoption or legal guardianship,
 
@@ -98,7 +98,7 @@ Section 206(c) of Pub. L. 103–432 provided that: “The amendments made by thi
 
 Section 209(d) of Pub. L. 103–432 provided that: “The amendments made by this section \[amending this section and section 679 of this title\] shall be effective with respect to fiscal years beginning on or after October 1, 1995.”
 
-Amendment by section 265(c) of Pub. L. 103–432 effective as if included in the provision of Pub. L. 101–239 to which the amendment relates, at the time the provision became law, see section 265(d) of Pub. L. 103–432, set out as a note under section 608 of this title.
+Amendment by section 265(c) of Pub. L. 103–432 effective as if included in the provision of Pub. L. 101–239 to which the amendment relates, at the time the provision became law, see section 265(d) of Pub. L. 103–432, set out as a note under section 673 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 100–647 effective Oct. 1, 1988, see section 8104(g)(1) of
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 effective Apr. 1, 1988, see section 9133(c) of Pub. L. 100–203, set out as a note under section 602 of this title.
+Amendment by Pub. L. 100–203 effective Apr. 1, 1988, see section 9133(c) of Pub. L. 100–203, set out as a note under section 672 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -126,7 +126,7 @@ Amendment by section 102(a)(4) of Pub. L. 96–272 effective only with respect t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 622, 625, 626, 627, 629a, 671, 672, 673, 677 of this title.
+This section is referred to in sections 622, 625, 626, 629a, 671, 672, 673, 677 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

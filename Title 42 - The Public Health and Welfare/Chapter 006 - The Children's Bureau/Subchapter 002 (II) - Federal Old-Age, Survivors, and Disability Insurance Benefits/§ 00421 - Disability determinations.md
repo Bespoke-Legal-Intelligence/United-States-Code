@@ -116,7 +116,7 @@ A prior section 421, act Aug. 14, 1935, ch. 531, title II, §221, as added July 
 
 &emsp;“(C) at least 65 percent of all such determinations made by State agencies in any fiscal year after the fiscal year 1982.”
 
-1989—Subsec. (<i>l</i>). Pub. L. 101–239 added subsec. (<i>l).</i>
+1989—Subsec. (<i>l</i>). Pub. L. 101–239 added subsec. (<i>l</i>).
 
 1988—Subsec. (i)(3). Pub. L. 100–647 substituted “semiannually” for “annually”.
 
@@ -206,7 +206,7 @@ Section 311(b) of Pub. L. 96–265 provided that: “The amendment made by subse
 
 Amendment by Pub. L. 90–248 applicable with respect to application for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
-#### Election Under Subsection (<i>l)</i>(1) by Current Recipients
+#### Election Under Subsection (<i>l</i>)(1) by Current Recipients
 
 Section 10306(a)(2) of Pub. L. 101–239 provided that: “Not later than July 1, 1990, the Secretary of Health and Human Services shall provide every individual receiving benefits under title II of the Social Security Act \[this subchapter\] on the basis of disability by reason of blindness an opportunity to make an election under section 221(<i>l</i>)(1) of such Act \[subsec. (<i>l</i>)(1) of this section\] (as added by paragraph (1)).”
 
@@ -310,5 +310,5 @@ Section 304(i) of Pub. L. 96–265 directed Secretary of Health and Human Servic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 405, 423, 425, 1382c, 1383, 1383b of this title; title 7 section 2012; title 30 section 923.
+This section is referred to in sections 401, 405, 423, 425, 1382c, 1383, 1383b of this title; title 7 section 2012; title 30 section 923.
 

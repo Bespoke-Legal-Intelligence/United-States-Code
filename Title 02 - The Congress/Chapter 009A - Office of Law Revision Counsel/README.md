@@ -9,7 +9,7 @@
 | [285d.](%C2%A7%2000285d%20-%20Staff%3B%20Deputy%20Law%20Revision%20Counsel%3B%20delegation%20of%20functions.md) | Staff; Deputy Law Revision Counsel; delegation of functions. |
 | [285e.](%C2%A7%2000285e%20-%20Compensation.md) | Compensation. |
 | [285f.](%C2%A7%2000285f%20-%20Expenditures.md) | Expenditures. |
-| [285g.](%C2%A7%2000285g%20-%20Availability%20of%20contingent%20fund%20of%20House.md) | Availability of contingent fund of House. |
+| [285g.](%C2%A7%2000285g%20-%20Availability%20of%20applicable%20accounts%20of%20House.md) | Availability of applicable accounts of House. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,4 +25,4 @@
 - [&sect; 00285d - Staff; Deputy Law Revision Counsel; delegation of functions](%C2%A7%2000285d%20-%20Staff%3B%20Deputy%20Law%20Revision%20Counsel%3B%20delegation%20of%20functions.md)
 - [&sect; 00285e - Compensation](%C2%A7%2000285e%20-%20Compensation.md)
 - [&sect; 00285f - Expenditures](%C2%A7%2000285f%20-%20Expenditures.md)
-- [&sect; 00285g - Availability of contingent fund of House](%C2%A7%2000285g%20-%20Availability%20of%20contingent%20fund%20of%20House.md)
+- [&sect; 00285g - Availability of applicable accounts of House](%C2%A7%2000285g%20-%20Availability%20of%20applicable%20accounts%20of%20House.md)

@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 633(2)8 (less last sentence).
 
@@ -40,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, §906(a)(16), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
+1978—Pub. L. 95–454, §906(a)(16), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
 
 Pars. (1), (2). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 

@@ -52,7 +52,7 @@ Pars. (15) to (17). Pub. L. 102–242, §202(e)(2), added pars. (15) to (17).
 
 #### Short Title of 1991 Amendment
 
-Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
+Section 201 of Pub. L. 102–242 provided that: “This subtitle \[subtitle A (§§201–215) of title II of Pub. L. 102–242, enacting sections 3109 to 3111 of this title, amending this section and sections 1467a, 1817, 1820, 1842, 2803, 2804, 3102, 3104 to 3108, and 4009 of this title and sections 44, 57a, 1607, 1681s, 1691c, 1692<i>l</i>, and 1693<i>o</i> of Title 15, Commerce and Trade, and enacting provisionsset out as a note under section 3102 of this title\] may be cited as the ‘Foreign Bank Supervision Enhancement Act of 1991’.”
 
 #### Short Title
 
@@ -90,7 +90,7 @@ Sec. 902. The Board of Governors of the Federal Reserve System, the Comptroller 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347d, 1813, 1828, 2804, 4009, 4402 of this title; title 15 sections 57a, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
+This section is referred to in sections 347d, 1813, 1817, 1828, 2804, 4009, 4402 of this title; title 15 sections 57a, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the quotation marks.</i>
 

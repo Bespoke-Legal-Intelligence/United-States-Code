@@ -2,14 +2,14 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 8116, 8351, 8401, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 31 section 9503; title 39 section 1005; title 40 section 214d; title 50 section 2154.
+This subchapter is referred to in sections 8116, 8351, 8402, 8424, 8461, 8471, 8472, 8473, 8474, 8477 of this title; title 10 sections 945, 2467; title 22 sections 4069, 4071h; title 26 sections 3121, 7701; title 28 sections 178, 377, 611, 627; title 31 section 9503; title 39 section 1005; title 40 section 214d; title 50 section 2154.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08431 - Definition](%C2%A7%2008431%20-%20Definition.md)
+- [&sect; 08431 - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(f) \[title VI, &sect;659 \[title II, &sect;206(a)(2)\]\], Sept. 30, 1996, 110 Stat. 3009&#8211;314&#8230;](%C2%A7%2008431%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28f%29%20%5Btitle%20VI%2C%20%C2%A7659%20%5Btitle%20II%2C%20%C2%A7206%28a%29%282%29%5D%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93314%E2%80%A6.md)
 - [&sect; 08432 - Contributions](%C2%A7%2008432%20-%20Contributions.md)
 - [&sect; 08432a - Payment of lost earnings](%C2%A7%2008432a%20-%20Payment%20of%20lost%20earnings.md)
 - [&sect; 08432b - Contributions of persons who perform military service](%C2%A7%2008432b%20-%20Contributions%20of%20persons%20who%20perform%20military%20service.md)

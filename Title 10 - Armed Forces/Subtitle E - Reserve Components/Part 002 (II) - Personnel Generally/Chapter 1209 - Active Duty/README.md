@@ -5,16 +5,11 @@
 | [12301\.](%C2%A7%2012301%20-%20Reserve%20components%20generally.md) | Reserve components generally. |
 | [12302\.](%C2%A7%2012302%20-%20Ready%20Reserve.md) | Ready Reserve. |
 | [12303\.](%C2%A7%2012303%20-%20Ready%20Reserve%3B%20members%20not%20assigned%20to%2C%20or%20participating%20satisfactorily%20in%2C%20units.md) | Ready Reserve: members not assigned to, or participating satisfactorily in, units. |
-| [12304\.](%C2%A7%2012304%20-%20Selected%20Reserve%3B%20order%20to%20active%20duty%20other%20than%20during%20war%20or%20national%20emergency.md) | Selected Reserve: order to active duty other than during war or national emergency.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [12304\.](%C2%A7%2012304%20-%20Selected%20Reserve%3B%20order%20to%20active%20duty%20other%20than%20during%20war%20or%20national%20emergency.md) | Selected Reserve; order to active duty other than during war or national emergency. |
 | [12305\.](%C2%A7%2012305%20-%20Authority%20of%20President%20to%20suspend%20certain%20laws%20relating%20to%20promotion%2C%20retirement%2C%20and%20separation.md) | Authority of President to suspend certain laws relating to promotion, retirement, and separation. |
 | [12306\.](%C2%A7%2012306%20-%20Standby%20Reserve.md) | Standby Reserve. |
 | [12307\.](%C2%A7%2012307%20-%20Retired%20Reserve.md) | Retired Reserve. |
-| [12308\.](%C2%A7%2012308%20-%20Retention%20after%20becoming%20qualified%20for%20retired%20pay.md) | Retention on active duty after becoming qualified for retired pay.<sup>1</sup> |
+| [12308\.](%C2%A7%2012308%20-%20Retention%20after%20becoming%20qualified%20for%20retired%20pay.md) | Retention after becoming qualified for retired pay. |
 | [12309\.](%C2%A7%2012309%20-%20Reserve%20officers%20use%20of%20in%20expansion%20of%20armed%20forces.md) | Reserve officers: use of in expansion of armed forces. |
 | [12310\.](%C2%A7%2012310%20-%20Reserves%20for%20organizing%2C%20administering%2C%20etc.%2C%20reserve%20components.md) | Reserves: for organizing, administering, etc., reserve components. |
 | [12311\.](%C2%A7%2012311%20-%20Active%20duty%20agreements.md) | Active duty agreements. |
@@ -31,6 +26,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+1996—Pub. L. 104–106, div. A, title XV, §1501(b)(16), Feb. 10, 1996, 110 Stat. 496, substituted a semicolon for a colon in item 12304 and struck out “on active duty” after “Retention” in item 12308.
+
 #### Cross References
 
 Non-regular service, recall to active status of member on inactive status list, see section 12735 of this title.
@@ -46,8 +45,6 @@ Retired pay for non-regular service, limitation on active duty, see section 1273
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 672 of this title; title 37 section 205.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

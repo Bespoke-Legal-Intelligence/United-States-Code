@@ -48,7 +48,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;(ii) in their grace period.
 
-(July 1, 1944, ch. 373, title VIII, §835, formerly §822, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 913; amended Aug. 16, 1968, Pub. L. 90–490, title II, §222(a), (c)(2), 82 Stat. 783, 784; Nov. 18, 1971, Pub. L. 92–158, §6(d)(3), (e), 85 Stat. 478; Aug. 23, 1974, Pub. L. 93–385, §3(b), 88 Stat. 741; renumbered §835 and amended July 29, 1975, Pub. L. 94–63, title IX, §§936(a), 941(h)(1)–(3), (i)(1), (2), 89 Stat. 362, 365, 366; Sept. 29, 1979, Pub. L. 96–76, title I, §109(a), 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2757(a), 95 Stat. 931; Aug. 16, 1985, Pub. L. 99–92, §8(a), 99 Stat. 397; Oct. 22, 1985, Pub. L. 99–129, title II, §209(j)(2), 99 Stat. 536; Nov. 4, 1988, Pub. L. 100–607, title VII, §713(a), 102 Stat. 3160.)
+(July 1, 1944, ch. 373, title VIII, §835, formerly §822, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 913; amended Aug. 16, 1968, Pub. L. 90–490, title II, §222(a), (c)(2), 82 Stat. 783, 784; Nov. 18, 1971, Pub. L. 92–158, §6(d)(3), (e), 85 Stat. 478; Aug. 23, 1974, Pub. L. 93–385, §3(b), 88 Stat. 741; renumbered §835 and amended July 29, 1975, Pub.L. 94–63, title IX, §§936(a), 941(h)(1)–(3), (i)(1), (2), 89 Stat. 362, 365, 366; Sept. 29, 1979, Pub. L. 96–76, title I, §109(a), 93 Stat. 579; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2757(a), 95 Stat. 931; Aug. 16, 1985, Pub. L. 99–92, §8(a), 99 Stat. 397; Oct. 22, 1985, Pub. L. 99–129, title II, §209(j)(2), 99 Stat. 536; Nov. 4, 1988, Pub. L. 100–607, title VII, §713(a), 102 Stat. 3160.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substitu
 
 1971—Subsec. (b)(4). Pub. L. 92–158 substituted “full-time or half-time course of study” for “full-time course of study” and “1974” for “1971”.
 
-1968—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of this title,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
+1968—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of this title,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
 
 Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after “fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
 

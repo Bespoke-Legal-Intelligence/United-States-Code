@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;The term “tax shelter” means any investment—
 
-&emsp;&emsp;(A) with respect to which any person could reasonably infer from the representations made, or to be made, in connection with the offering for sale of interests in the investment that the tax shelter ratio for any investor as of the close of any of the first 5 years ending after the date on which such investment is offered for sale may be greater than 2 to 1, and
+&emsp;&emsp;(A) with respect to which any person could reasonably infer from the representations made, or to be made, in connection with theoffering for sale of interests in the investment that the tax shelter ratio for any investor as of the close of any of the first 5 years ending after the date on which such investment is offered for sale may be greater than 2 to 1, and
 
 &emsp;&emsp;(B) which is—
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, the term “investment base” means, with respect to any year, the amount of money and the adjusted basis of other property (reduced byany liability to which such other property is subject) contributed by the investor as of the close of such year.
+&emsp;&emsp;Except as provided in this paragraph, the term “investment base” means, with respect to any year, the amount of money and the adjusted basis of other property (reduced by any liability to which such other property is subject) contributed by the investor as of the close of such year.
 
 #### (B) Certain borrowed amounts excluded
 
@@ -144,7 +144,7 @@ Subsec. (d)(1)(B). Pub. L. 99–514, §1899A(54), substituted “subparagraph”
 
 Amendment by section 201(d)(13) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(13) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(13) of Pub. L. 99–514 not applicable to any property placed in service before Jan.1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Section 1531(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section) interests in which are first offered for sale after December 31, 1986.”
 

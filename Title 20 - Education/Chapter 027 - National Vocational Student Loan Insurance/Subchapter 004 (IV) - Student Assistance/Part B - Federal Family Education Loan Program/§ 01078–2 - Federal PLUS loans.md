@@ -2,7 +2,7 @@
 
 #### (a) Authority to borrow
 
-Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
+Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisionsof this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
 
 #### (b) Limitation based on need
 
@@ -24,7 +24,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (2) Capitalization of interest
 
-&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) of this subsection shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly, or (B) be added to the principal amount of the loan not more frequently than quarterly by the lender.Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the borrower.
+&emsp;Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) of this subsection shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly, or (B) be added to the principal amount of the loan not more frequently than quarterly by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the borrower.
 
 #### (3) Subsidies prohibited
 
@@ -84,7 +84,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### Codification
 
-October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
+October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -148,5 +148,5 @@ Section 10(r)(2) of Pub. L. 100–50 provided that: “An eligible lender who ha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1075, 1077, 1077a, 1078, 1078–8, 1078–10, 1083, 1085, 1087, 1087–0, 1087–1, 1087d,1087e, 1091, 1091b, 1092, 1099a–3 of this title; title 26 section 144; title 42 section 12604.
+This section is referred to in sections 1075, 1077, 1077a, 1078, 1078–8, 1078–10, 1083, 1085, 1087, 1087–0, 1087–1, 1087d, 1087e, 1091, 1091b, 1092, 1099a–3 of this title; title 26 section 144; title 42 section 12604.
 

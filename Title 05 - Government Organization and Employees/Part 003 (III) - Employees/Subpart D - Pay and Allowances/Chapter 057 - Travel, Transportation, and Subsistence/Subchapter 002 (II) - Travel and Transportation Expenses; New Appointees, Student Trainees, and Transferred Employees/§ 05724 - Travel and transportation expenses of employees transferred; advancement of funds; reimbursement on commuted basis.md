@@ -1,8 +1,8 @@
 ### §5724. Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis
 
-(a) Under such regulations as the President may prescribe and when the head of the agency concerned or his designee authorizes or approves, the agency shall pay from Government funds—
+(a) Under regulations prescribed under section 5738 of this title and when the head of the agency concerned or his designee authorizes or approves, the agency shall pay from Government funds—
 
-&emsp;(1) the travel expenses of an employee transferred in the interest of the Government fromone official station or agency to another for permanent duty, and the transportation expenses of his immediate family, or a commutation thereof under section 5704 of this title;
+&emsp;(1) the travel expenses of an employee transferred in the interest of the Government from one official station or agency to another for permanent duty, and the transportation expenses of his immediate family, or a commutation thereof under section 5704 of this title;
 
 &emsp;(2) the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking his household goods and personal effects not in excess of 18,000 pounds net weight; and
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) is eligible to receive an annuity upon such separation (or, in the case of death in service, met the requirements for being considered eligible to receive an annuity, as of date of death) under the provisions of subchapter III of chapter 83 or chapter 84 of this title.
 
-(b) Under such regulations as the President may prescribe, an employee who transports a house trailer or mobile dwelling inside the continental United States, inside Alaska, or between the continental United States and Alaska, for use as a residence, and who otherwise would be entitled to transportation of household goods and personal effects under subsection (a) of this section, is entitled, instead of that transportation, to—
+(b) Under regulations prescribed under section 5738 of this title, an employee who transports a house trailer or mobile dwelling inside the continental United States, inside Alaska, or between the continental United States and Alaska, for use as a residence, and who otherwise would be entitled to transportation of household goods and personal effects under subsection (a) of this section, is entitled, instead of that transportation, to—
 
 &emsp;(1) a reasonable allowance for transportation of the house trailer or mobile dwelling, if the trailer or dwelling is transported by the employee; or
 
@@ -20,23 +20,23 @@
 
 > However, payment under this subsection may not exceed the maximum payment to which the employee otherwise would be entitled under subsection (a) of this section for transportation and temporary storage of his household goods and personal effects in connection with this transfer.
 
-(c) Under such regulations as the President may prescribe, an employee who transfers between points inside the continental United States, instead of being paid for the actual expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects, shall be reimbursed on a commuted basis at the rates per 100 pounds that are fixed by zones in the regulations. The reimbursement may not exceed the amount which would be allowable for the authorized weight allowance. However, under regulations prescribed by the President, payment of actual expenses may be made when the head of the agency determines that payment of actual expenses is more economical to the Government.
+(c) Under regulations prescribed under section 5738 of this title, an employee who transfers between points inside the continental United States, instead of being paid for the actual expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects, shall be reimbursed on a commuted basis at the rates per 100 pounds that are fixed by zones in the regulations. The reimbursement may not exceed the amount which would be allowable for the authorized weight allowance. However, under regulations prescribed under section 5738 of this title, payment of actual expenses may be made when the head of the agency determines that payment of actual expenses is more economical to the Government.
 
 (d) When an employee transfers to a post of duty outside the continental United States, his expenses of travel and transportation to and from the post shall be allowed to the same extent and with the same limitations prescribed for a new appointee under section 5722 of this title.
 
-(e) When an employee transfers from one agency to another, the agency to which he transfers pays the expenses authorized by this section. However, under regulations prescribed by the President, in a transfer from one agency to another because of a reduction in force or transfer of function, expenses authorized by this section and sections 5726(b) and 5727 of this title (other than expenses authorized in connection with a transfer to a foreign country) and by section 5724a(a), (b) of this title may be paid in whole or in part by the agency from which the employee transfers or by the agency to which he transfers, as may be agreed on by the heads of the agencies concerned.
+(e) When an employee transfers from one agency to another, the agency to which he transfers pays the expenses authorized by this section. However, under regulations prescribed under section 5738 of this title, in a transfer from one agency to another because of a reduction in force or transfer of function, expenses authorized by this section and sections 5726(b) and 5727 of this title (other than expenses authorized in connection with a transfer to a foreign country) and by section 5724a(a) through (f) of this title may be paid in whole or in part by the agency from which the employee transfers or by the agency to which he transfers, as may be agreed on by the heads of the agencies concerned.
 
-(f) An advance of funds may be made to an employee under the regulations of the President with the same safeguards required under section 5705 of this title.
+(f) An advance of funds may be made to an employee under regulations prescribed under section 5738 of this title with the same safeguards required under section 5705 of this title.
 
 (g) The allowances authorized by this section do not apply to an employee transferred under the Foreign Service Act of 1980.
 
 (h) When a transfer is made primarily for the convenience or benefit of an employee, including an employee in the Foreign Service of the United States, or at his request, his expenses of travel and transportation and the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking of household goods and personal effects may not be allowed or paid from Government funds.
 
-(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental United States only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the United States for the expenses and allowances is recoverable from the employee as a debt due the United States.
+(i) An agency may pay travel and transportation expenses (including storage of household goods and personal effects) and other relocation allowances under this section and sections 5724a, 5724b, and 5726(c) of this title when an employee is transferred within the continental UnitedStates only after the employee agrees in writing to remain in the Government service for 12 months after his transfer, unless separated for reasons beyond his control that are acceptable to the agency concerned. If the employee violates the agreement, the money spent by the United States for the expenses and allowances is recoverable from the employee as a debt due the United States.
 
 (j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759.)
 
 Historical and Revision Notes<br>1966
 
@@ -46,7 +46,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 73b–1(a), (b).
 
@@ -120,7 +122,19 @@ The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
+1996—Subsecs. (a), (b). Pub. L. 104–201, §1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+
+Subsec. (c). Pub. L. 104–201, §1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
+
+Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+
+Subsec. (e). Pub. L. 104–201, §1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
+
+Pub. L. 104–201, §1723(a)(1)(B), substituted “section 5724a(a) through (f)” for “section 5724a(a), (b)”.
+
+Subsec. (f). Pub. L. 104–201, §1723(b)(2)(B), substituted “under regulations prescribed under section 5738 of this title” for “under the regulations of the President”.
+
+1994—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
 
 &emsp;“(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
@@ -128,13 +142,13 @@ The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465
 
 Subsec. (a)(3)(A). Pub. L. 103–338, §3(a), substituted “November 17, 1988” for “November 27, 1988”.
 
-<b>1992</b>—Subsec. (a)(3)(A). Pub. L. 102–378 substituted “Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 27, 1988)” for “Service”.
+1992—Subsec. (a)(3)(A). Pub. L. 102–378 substituted “Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 27, 1988)” for “Service”.
 
-<b>1988</b>—Subsec. (a)(3). Pub. L. 100–440 added par. (3).
+1988—Subsec. (a)(3). Pub. L. 100–440 added par. (3).
 
 Subsec. (a)(3)(A). Pub. L. 100–566 substituted “during or after the five” for “during the five” and struck out “, and thereafter” after “of this title”.
 
-<b>1983</b>—Subsec. (a)(2). Pub. L. 98–151, §118(a)(2), substituted “18,000” for “11,000”.
+1983—Subsec. (a)(2). Pub. L. 98–151, §118(a)(2), substituted “18,000” for “11,000”.
 
 Subsec. (b)(1). Pub. L. 98–151, §118(a)(3), struck out “not in excess of 20 cents a mile” after “allowance”.
 
@@ -142,9 +156,13 @@ Subsec. (i). Pub. L. 98–151, §118(a)(7)(B), inserted reference to section 572
 
 Subsec. (j). Pub. L. 98–151, §118(a)(4), added subsec. (j).
 
-<b>1980</b>—Subsec. (g). Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22”.
+1980—Subsec. (g). Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22”.
 
-<b>1968</b>—Subsec. (e). Pub. L. 90–623 substituted “section 5724a(a), (b)” for “section 5724(a), (b)”.
+1968—Subsec. (e). Pub. L. 90–623 substituted “section 5724a(a), (b)” for “section 5724(a), (b)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -171,10 +189,6 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 effective as of Sept. 11, 1967, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
-
-#### Delegation of Functions
-
-Authority of President under this section to prescribe regulations provided for in this section (relating to travel and transportation expenses and other matters) delegated to Administrator of General Services, see section 1(6) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
 #### Moving Expenses for Family of Career Appointees Dying in Service Between January 1, 1994, and October 6, 1994
 
@@ -206,9 +220,9 @@ Section 118(b) of Pub. L. 98–151 provided that: “The amendments made by subs
 
 #### Rates of Reimbursement
 
-Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
+Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar.28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3375, 4109, 5723, 5724a, 5724b, 5726 of this title; title 16 section 3378; title 42 sections 290aa, 299c–4; title 50 section 403e.
+This section is referred to in sections 3375, 4109, 5723, 5724a, 5724b, 5726, 5737 of this title; title 16 section 3378; title 42 sections 290aa, 299c–4; title 50 section 403e.
 

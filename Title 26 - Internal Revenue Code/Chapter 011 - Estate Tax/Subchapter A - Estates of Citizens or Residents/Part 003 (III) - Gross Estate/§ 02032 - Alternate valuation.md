@@ -18,7 +18,7 @@ No deduction under this chapter of any item shall be allowed if allowance for su
 
 &emsp;(2) for the purpose of the marital deduction under section 2056, any interest in property passing to the surviving spouse,
 
-> shall be valued as of the date of the decedent's death with adjustment for any difference in value (not due to mere lapse of time or the occurrence or nonoccurrence of a contingency) of the property as of the date 6 months after the decedent's death (substituting, in the case of property distributed by the executor or trustee, or sold, exchanged, or otherwise disposed of, during such 6-month period, the date thereof).
+> shall be valued as of the date of the decedent's death with adjustment for any difference invalue (not due to mere lapse of time or the occurrence or nonoccurrence of a contingency) of the property as of the date 6 months after the decedent's death (substituting, in the case of property distributed by the executor or trustee, or sold, exchanged, or otherwise disposed of, during such 6-month period, the date thereof).
 
 #### (c) Election must decrease gross estate and estate tax
 
@@ -42,7 +42,7 @@ No election may be made under this section with respect to an estate unless such
 
 #### Amendments
 
-1986—Subsec. (c)(2). Pub. L. 99–514 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“the amount of the tax imposed by this chapter (reduced by credits allowable against such tax).”
+1986—Subsec. (c)(2). Pub. L. 99–514 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the tax imposed by this chapter (reduced by credits allowable against such tax).”
 
 1984—Subsec. (c). Pub. L. 98–369, §1023(a), added subsec. (c). Former subsec. (c) redesignated (d).
 

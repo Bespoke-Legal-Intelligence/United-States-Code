@@ -6,9 +6,7 @@ This section may be cited as the “Food for Progress Act of 1985”.
 
 #### (b) Agreements with developing countries and emerging democracies to furnish commodities
 
-(1) In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies, that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President is authorized to enter into agreements with the governments of such countries (including the independent states of the former Soviet Union), or with private voluntary organizations, nonprofit agricultural organizations, cooperatives, or other private entities, to furnish commodities made available pursuant to subsections (e) and (f) of this section. Such agreements may provide for commodities to be furnished on a multiyear basis.
-
-(2) The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.
+In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies, that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President is authorized to enter into agreements with the governments of such countries (including the independent states of the former Soviet Union), or with private voluntary organizations, nonprofit agricultural organizations, cooperatives, intergovernmental organizations, or other private entities, to furnish commodities made available pursuant to subsections (e) and (f) of this section. Such agreements may provide for commodities to be furnished on a multiyear basis.
 
 #### (c) “Commodities” defined
 
@@ -36,35 +34,33 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (2) Notwithstanding any other provision of law, the Commodity Credit Corporation may use funds appropriated to carry out title I of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to commodities made available under that Act \[7 U.S.C. 1691\].
 
-(3) The Commodity Credit Corporation may finance the sale and exportation of commodities, made available under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], which are furnished under this section. Payment for commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 106 <sup>1</sup> of that Act.
+(3) The Commodity Credit Corporation may finance the sale and exportation of commodities, made available under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], which are furnished under this section. Payment for commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 103 of that Act \[7 U.S.C. 1703\].
 
-(4) In the case of commodities made available under the Agricultural Trade Development and Assistance Act of 1954 for purposes of this section, section 203 <sup>1</sup> of that Act \[7 U.S.C. 1723\] shall apply to commodities furnished on a grant basis under this section and sections 402, 403(a), 403(c), and 403(i) of that Act \[7 U.S.C. 1732, 1733(a), (c), (i)\] shall apply to all commodities furnished under this section.
+(4) In the case of commodities made available under the Agricultural Trade Development andAssistance Act of 1954 for purposes of this section, section 406 of that Act \[7 U.S.C. 1736\] shall apply to commodities furnished on a grant basis under this section and sections 402, 403(a), 403(c), and 403(i) of that Act \[7 U.S.C. 1732, 1733(a), (c), (i)\] shall apply to all commodities furnished under this section.
 
-#### (f) Provision to developing countries on grant basis; minimum metric ton amount available; purchase of commodities by Commodity Credit Corporation; funds for implementation; cost of commodities and expenses
+#### (f) Provision to developing countries on grant basis; purchase of commodities by Commodity Credit Corporation; funds for implementation; cost of commodities and expenses
 
 (1) The Commodity Credit Corporation may provide for—
 
 &emsp;(A) grants, or
 
-&emsp;(B) in the case of the independent states of the former Soviet Union, sales on credit terms,
+&emsp;(B) sales on credit terms,
 
 > of commodities made available under section 1431(b) of this title for use in carrying out this section.
 
-(2) Not less than 75,000 metric tons shall be made available pursuant to section 1431(b)(10)(C) of this title to carry out this section unless the President determines there are an insufficient number of eligible recipients.
-
-(3) In carrying out section 1431(b) of this title, the Commodity Credit Corporation may purchase commodities for use under this section if—
+(2) In carrying out section 1431(b) of this title, the Commodity Credit Corporation may purchase commodities for use under this section if—
 
 &emsp;(A) the Commodity Credit Corporation does not hold stocks of such commodities; or
 
 &emsp;(B) Commodity Credit Corporation stocks are insufficient to satisfy commitments made in agreements entered into under this section and such commodities are needed to fulfill such commitments.
 
-(4) No funds of the Commodity Credit Corporation in excess of $30,000,000 (exclusive of the cost of commodities) may be used to carry out this section with respect to commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
+(3) No funds of the Commodity Credit Corporation in excess of $30,000,000 (exclusive of the cost of commodities) may be used for each of fiscal years 1996 through 2002 to carry out this section with respect to commodities made available under section 1431(b) of this title unless authorized in advance in appropriation Acts.
 
-(5) The cost of commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such commodities, shall be in addition to the level of assistance programmed under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] and may not be considered expenditures for international affairs and finance.
+(4) The cost of commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such commodities, shall be in addition to the level of assistance programmed under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] and may not be considered expenditures for international affairs and finance.
 
 #### (g) Maximum amount of metric tons of commodities to be furnished
 
-Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 1995.
+Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.
 
 #### (h) Prohibition on resale of transshipment of commodities
 
@@ -76,47 +72,63 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (j) Agreements for distribution or sale on multiyear basis
 
-In carrying out this section, the President shall, on request and subject to the availability of commodities, approve agreements that provide for commodities to be made available for distribution or sale by the recipient on a multiyear basis if the agreements otherwise meet the requirements of this section.
+In carrying out this section, the President may, on request and subject to the availability of commodities, approve agreements that provide for commodities to be made available for distribution or sale by the recipient on a multiyear basis if the agreements otherwise meet the requirements of this section.
 
 #### (k) Effective and termination dates
 
-This section shall be effective during the period beginning October 1, 1985, and ending December 31, 1995.
+This section shall be effective during the period beginning October 1, 1985, and ending December 31, 2002.
 
 #### (<i>l</i>) Additional assistance in administration of food assistance programs
 
-(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1991 through 1995, use in additionto any amounts or commodities otherwise made available under this section for such activities, not to exceed $10,000,000 of Commodity Credit Corporation funds (or commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs to strengthen private sector agriculture in recipient countries.
+(1) To enhance the development of private sector agriculture in countries receiving assistance under this section the President may, in each of the fiscal years 1996 through 2002, use in addition to any amounts or commodities otherwise made available under this section for such activities, not to exceed $10,000,000 of Commodity Credit Corporation funds (or commodities of an equal value owned by the Corporation), to provide assistance in the administration, sale, and monitoring of food assistance programs, and to provide technical assistance for monetization programs, to strengthen private sector agriculture in recipient countries.
 
 (2) To carry out this subsection, the President may provide agricultural commodities under agreements entered into under this section in a manner that uses the commodity transaction as a means of developing in the recipient countries a competitive private sector that can provide for the importation, transportation, storage, marketing and distribution of such commodities.
 
 (3) The President may use the assistance provided under this subsection and local currencies derived from the sale of commodities under paragraph (2) to design, monitor, and administer activities undertaken with such assistance, for the purpose of strengthening or creating the capacity of recipient country private enterprises to undertake commercial transactions, with the overall goal of increasing potential markets for United States agricultural commodities.
 
-#### (m) Agreements for sale of commodities to independent states of former Soviet Union
+#### (m) Agreements for sale of commodities
 
-In carrying out this section with respect to the independent states of the former Soviet Union, the President shall approve, as determined appropriate by the President, agreements with private voluntary organizations and cooperatives that provide for—
+In carrying out this section, the President shall approve, as determined appropriate by the President, agreements with agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives that provide for—
 
 &emsp;(1) the sale of commodities, including the marketing of these commodities through the private sector; and
 
-&emsp;(2) the use in the independent states of the proceeds generated in the humanitarian and development programs of such private voluntary organizations and cooperatives.
+&emsp;(2) the use of the proceeds generated in the humanitarian and development programs of such agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives.
 
 #### (n) “Independent states of the former Soviet Union” defined
 
 As used in this section, the term “independent states of the former Soviet Union” means the independent states of the former Soviet Union as defined in section 5602(8) of this title.
 
-(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348.)
+(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702;Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974.)
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e), (f)(5), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title I of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
-
-Section 106 of that Act, referred to in subsec. (e)(3), meaning section 106 of the Agricultural Trade Development and Assistance Act of 1954, which was classified to former section 1706 of this title, was omitted in the general revision of this chapter by Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633.
-
-Section 203 of that Act, referred to in subsec. (e)(4), means section 203 of the Agricultural Trade Development and Assistance Act of 1954, which is classified to section 1723 of this title, and was amended generally by Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3638. As amended, section 1723 relates to generation and use of foreign currencies by private voluntary organizations and cooperatives rather than to payment of costs and charges. See section 1736(b) of this title.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (e) and (f)(5), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title I of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Trade Development and Assistance Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–127, §227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
+
+Subsec. (e)(3). Pub. L. 104–127, §265(b), substituted “section 103” for “section 106”.
+
+Subsec. (e)(4). Pub. L. 104–127, §227(2), substituted “section 406” for “section 203”.
+
+Subsec. (f)(1)(B). Pub. L. 104–127, §227(3)(A), struck out “in the case of the independent states of the former Soviet Union,” before “sales on credit terms,”.
+
+Subsec. (f)(2) to (5). Pub. L. 104–127, §227(3)(B)–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to section 1431(b)(10)(C) of this title to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
+
+Subsec. (g). Pub. L. 104–127, §227(4), substituted “2002” for “1995”.
+
+Subsec. (j). Pub. L. 104–127, §227(5), substituted “may” for “shall”.
+
+Subsec. (k). Pub. L. 104–127, §227(6), substituted “2002” for “1995”.
+
+Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
+
+Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
 1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 
@@ -152,7 +164,7 @@ Subsec. (<i>l</i>). Pub. L. 101–624, §1516(9), substituted “December 31, 19
 
 Subsec. (m). Pub. L. 101–624, §1516(10), added subsec. (m).
 
-1988—Subsecs. (k), (<i>l</i>). Pub. L. 100–418 added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+1988—Subsecs. (k), (<i>l</i>). Pub. L. 100–418 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 #### Delegation of Functions
 
@@ -164,7 +176,5 @@ Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1431, 1736a, 1736bb–6 of this title; title 22 sections 5413, 5425.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1431, 1736a of this title; title 22 sections 5413, 5425.
 

@@ -18,11 +18,15 @@ Except as provided in subsection (b) of this section, on the date on which a cou
 
 &emsp;&emsp;(B) an extraordinary challenge committee review under article 1904 of the Agreement is pending, or has been requested;
 
-> &emsp;with respect to a determination which involves a class or kind of merchandise and to which section 1516a(g)(2) of this title applies, such determination shall be reviewable under section 1516a(a) of this title. In the case of a determination to which the provisions of this paragraph apply, the time limits for commencing an action under 1516a(a) <sup>2</sup> of this title shall not begin to run until the date on which the Agreement ceases to be in force with respect to that country.
+> &emsp;with respect to a determination which involves a class or kind of merchandise and to which section 1516a(g)(2) of this title applies, such determination shall be reviewable under section 1516a(a) of this title. In the case of a determination to which the provisions of this paragraph apply, the time limits for commencing an action under section 1516a(a) of this title shall not begin to run until the date on which the Agreement ceases to be in force with respect to that country.
 
-(Pub. L. 103–182, title IV, §415, Dec. 8, 1993, 107 Stat. 2148.)
+(Pub. L. 103–182, title IV, §415, Dec. 8, 1993, 107 Stat. 2148; Pub. L. 104–295, §21(c)(4), Oct. 11, 1996, 110 Stat. 3530.)
 
 #### References in Text
 
-This title, referred to in subsec. (a), is title IV of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2129, which enacted this subchapter, amended sections 1502, 1514, 1516a, 1677, and 1677f of this title and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure, enacted provisions set out as a note under section 3431 of this title, and amended provisions set out as a note under section 2112 of this title.
+This title, referred to in subsec. (a), is title IV of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2129, which enacted this subchapter, amended sections 1502, 1514, 1516a, 1677, and 1677f of this title and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure, enactedprovisions set out as a note under section 3431 of this title, and amended provisions set out as a note under section 2112 of this title.
+
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–295 substituted “action under section 1516a(a)” for “action under 1516a(a)”.
 

@@ -34,7 +34,9 @@ Retaking Property for Military Requirement.—(1) When necessary for a military 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -64,11 +66,9 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1156(a), (b).
 
-June 16, 1948, ch. 473, §§7, 9, 62 Stat. 452, 453.
-
-&nbsp;
-
 49 App.:1655(c)(1).
+
+June 16, 1948, ch. 473, §§7, 9, 62 Stat. 452, 453.
 
 47304(c)(2)
 

@@ -36,9 +36,23 @@ Act
 
 307(a)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 307(b)
 
+&nbsp;
+
+&nbsp;
+
 307(c)
+
+&nbsp;
 
 307(d)
 
@@ -112,7 +126,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Appointment of officers of Army National Guard and Air National Guard as Reserves for service as members of Army National Guard of United States and Air National Guard of United States, see sections 12211 and 12212 of Title 10, Armed Forces.
 
-Extension of recognition upon promotion in Air National Guard of United States without examination, see sections 8365, 8366, and 8376 of Title 10.
+Extension of recognition upon promotion in Army National Guard of United States and Air National Guard of United States without examination, see section 14316 of Title 10.
 
 Suspension of subsec. (e) of this section, see section 111 of this title.
 
@@ -120,5 +134,5 @@ Transfer of officers from Army National Guard of United States and Air Force Nat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 111, 308, 310 of this title; title 10 sections 8365, 8366, 8376, 14301, 14308, 14316.
+This section is referred to in sections 111, 308, 310 of this title; title 10 sections 14301, 14308, 14316.
 

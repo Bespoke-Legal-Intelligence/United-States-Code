@@ -10,7 +10,9 @@ The Administrator of the Federal Aviation Administration shall prescribe—
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,5 +28,5 @@ In this section, before clause (1), the words “and from time to time revise”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
 

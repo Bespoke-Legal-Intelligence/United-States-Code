@@ -1,10 +1,12 @@
 ### §3312. Authorization of appropriations for extension education
 
-Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture $420,000,000 for fiscal year 1991, $430,000,000 for fiscal year 1992, $440,000,000 for fiscal year 1993, $450,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995.
+Notwithstanding any authorization for appropriations for the Cooperative Extension Service in any Act enacted prior to September 29, 1977, there are hereby authorized to be appropriated for the purposes of carrying out the extension programs of the Department of Agriculture $420,000,000 for fiscal year 1991, $430,000,000 for fiscal year 1992, $440,000,000 for fiscal year 1993, $450,000,000 for fiscal year 1994, and $460,000,000 for each of fiscal years 1995 through 1997.
 
-(Pub. L. 95–113, title XIV, §1464, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1438, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV,§1423, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, §1601(b)(4), Nov. 28, 1990, 104 Stat. 3703.)
+(Pub. L. 95–113, title XIV, §1464, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1438, Dec. 22, 1981, 95 Stat. 1314; Pub. L. 99–198, title XIV, §1423, Dec. 23, 1985, 99 Stat. 1552; Pub. L. 101–624, title XVI, §1601(b)(4), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §818, Apr. 4, 1996, 110 Stat. 1167.)
 
 #### Amendments
+
+1996—Pub. L. 104–127 substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995”.
 
 1990—Pub. L. 101–624 substituted “$420,000,000 for fiscal year 1991, $430,000,000 for fiscal year 1992, $440,000,000 for fiscal year 1993, $450,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$370,000,000 for the fiscal year ending September 30, 1986, $380,000,000 for the fiscal year ending September 30, 1987, $390,000,000 for the fiscal year ending September 30, 1988, $400,000,000 for the fiscal year ending September 30, 1989, and $420,000,000 for the fiscal year ending September 30, 1990.”
 

@@ -4,7 +4,7 @@
 
 In the administration of this part the Secretary shall give highest priority—
 
-&emsp;(1) to the identification of and the provision of services to gifted and talented students who may not be identified and served through traditional assessment methods (including economically disadvantaged individuals, individuals of limited-English proficiency, and individuals with disabilities); and
+&emsp;(1) to the identification of and the provision of services to gifted and talented students whomay not be identified and served through traditional assessment methods (including economically disadvantaged individuals, individuals of limited-English proficiency, and individuals with disabilities); and
 
 &emsp;(2) to programs and projects designed to develop or improve the capability of schools in an entire State or region of the Nation through cooperative efforts and participation of State and local educational agencies, institutions of higher education, and other public and private agencies and organizations (including business, industry, and labor), to plan, conduct, and improve programs for the identification of and service to gifted and talented students, such as mentoring and apprenticeship programs.
 

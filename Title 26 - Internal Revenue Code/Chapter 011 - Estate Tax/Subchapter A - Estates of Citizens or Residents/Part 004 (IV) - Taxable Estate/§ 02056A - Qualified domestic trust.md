@@ -56,7 +56,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (C) Special rule where decedent has more than 1 qualified domestic trust
 
-&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, theamount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
+&emsp;&emsp;If there is more than 1 qualified domestic trust with respect to any decedent, the amount of the tax imposed by paragraph (1) with respect to such trusts shall be determined by using the highest rate of tax in effect under section 2001 as of the date of the decedent's death (and the provisions of paragraph (3)(B) shall not apply) unless, pursuant to a designation made by the decedent's executor, there is 1 person—
 
 &emsp;&emsp;&emsp;(i) who is an individual citizen of the United States or a domestic corporation and is responsible for filing all returns of tax imposed under paragraph (1) with respect to such trusts and for paying all tax so imposed, and
 
@@ -106,7 +106,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (A) In general
 
-&emsp;&emsp;If any property remaining in the qualified domestic trust on the date of the death of the surviving spouse is includible in the gross estate of such spouse for purposes of this chapter (or would be includible if such spouse were a citizen or resident of the United States), any benefit which is allowable (or would be allowable if such spouse were a citizen or resident of the United States) with respect to such property to the estate of such spouse under section 2011, 2014, 2032, 2032A, 2055, 2056, or 6166 shall be allowed for purposes of the tax imposed by paragraph (1)(B).
+&emsp;&emsp;If any property remaining in the qualified domestic trust on the date of the death ofthe surviving spouse is includible in the gross estate of such spouse for purposes of this chapter (or would be includible if such spouse were a citizen or resident of the United States), any benefit which is allowable (or would be allowable if such spouse were a citizen or resident of the United States) with respect to such property to the estate of such spouse under section 2011, 2014, 2032, 2032A, 2055, 2056, or 6166 shall be allowed for purposes of the tax imposed by paragraph (1)(B).
 
 #### (B) Section 303
 
@@ -176,7 +176,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
+1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11704(a)(15), substituted “therefor” for “therefore” in concluding provisions.
 
@@ -216,7 +216,7 @@ Subsec. (e). Pub. L. 101–239, §7815(d)(13), added subsec. (e).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11702(g)(2), (4) of Pub. L. 101–508 effective as if included in the provision of theTechnical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by section 11702(g)(2), (4) of Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 Section 11702(g)(3)(B) of Pub. L. 101–508 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 

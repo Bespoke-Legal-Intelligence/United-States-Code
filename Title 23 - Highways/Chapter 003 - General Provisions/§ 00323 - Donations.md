@@ -30,7 +30,7 @@ Credit for Donations of Funds, Materials, or Services.—Nothing in this title o
 
 (d)
 
-Procedures.—A gift or donation in accordance with subsection (a) may be made at any time during the development of a project. Any document executed as part of such donation prior to the approval of an environmental document prepared pursuant to the National Environmental Policy Act of 1969 shall clearly indicate that—
+Procedures.—A gift or donation in accordance with subsection (a) may be made at any time during the development of a project. Any document executed as part of such donationprior to the approval of an environmental document prepared pursuant to the National Environmental Policy Act of 1969 shall clearly indicate that—
 
 &emsp;(1) all alternatives to a proposed alignment will be studied and considered pursuant to such Act;
 

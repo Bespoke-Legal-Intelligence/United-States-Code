@@ -24,11 +24,21 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 #### (c) Control over assets by participant or beneficiary
 
-In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
+(1) In the case of a pension plan which provides for individual accounts and permits a participant or beneficiary to exercise control over the assets in his account, if a participant or beneficiary exercises control over the assets in his account (as determined under regulations of the Secretary)—
 
-&emsp;(1) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
+&emsp;(A) such participant or beneficiary shall not be deemed to be a fiduciary by reason of such exercise, and
 
-&emsp;(2) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant's or beneficiary's exercise of control.
+&emsp;(B) no person who is otherwise a fiduciary shall be liable under this part for any loss, or by reason of any breach, which results from such participant's or beneficiary's exercise of control.
+
+(2) In the case of a simple retirement account established pursuant to a qualified salary reduction arrangement under section 408(p) of title 26, a participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account upon the earliest of—
+
+&emsp;(A) an affirmative election among investment options with respect to the initial investment of any contribution,
+
+&emsp;(B) a rollover to any other simple retirement account or individual retirement plan, or
+
+&emsp;(C) one year after the simple retirement account is established.
+
+> No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
 
 #### (d) Plan terminations
 
@@ -46,7 +56,7 @@ In the case of a pension plan which provides for individual accounts and permits
 
 &emsp;&emsp;(ii) under section 4980(d)(2)(B) of title 26 with respect to the receipt of assets from the terminated plan, and
 
-&emsp;&emsp;(iii) under section 4980(d)(2)(C) of title 26 with respect to the allocation of assets to participants of the qualified replacement plan.
+&emsp;&emsp;(iii) under section 4980(d)(2)(C) of title 26 with respect to the allocation of assets toparticipants of the qualified replacement plan.
 
 (2) For purposes of this subsection—
 
@@ -54,7 +64,7 @@ In the case of a pension plan which provides for individual accounts and permits
 
 &emsp;(B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
 
-(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566.)
+(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799.)
 
 #### References in Text
 
@@ -62,11 +72,17 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–188 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
 1990—Subsec. (a)(1)(D). Pub. L. 101–508, §12002(b)(2)(A), substituted “and subchapter III” for “or subchapter III”.
 
 Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1990 Amendment
 
@@ -80,7 +96,11 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1107, 1344, 1403 of this title.
+This section is referred to in sections 1101, 1105, 1107, 1344, 1403 of this title.
 

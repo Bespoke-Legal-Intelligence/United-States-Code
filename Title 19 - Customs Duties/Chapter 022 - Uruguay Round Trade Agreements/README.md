@@ -42,7 +42,7 @@
 | (a) | Liquidation or reliquidation. |
 | (b) | Requests. |
 | (c) | Entries. |
-| [3523\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%2C%20and%20General%20Provisions%20Relating%20to%2C%20Uruguay%20Round%20Agreements/Part%20B%20-%20Tariff%20Modifications/%C2%A7%2003523%20-%20Duty%20free%20treatment%20for%20octadecyl%20isocyanate%20and%205-Chloro-2-%282%2C4-dichloro-phenoxy%29phenol.md) | Duty free treatment for octadecyl isocyanate and 5�7E�7E�7E-�7E�7E�7EChloro�7E�7E�7E-�7E�7E�7E2�7E�7E�7E-�7E�7E�7E(2,�7E�7E�7E4�7E�7E�7E-�7E�7E�7Edichloro�7E�7E�7E-�7E�7E�7Ephenoxy) phenol. |
+| [3523\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%2C%20and%20General%20Provisions%20Relating%20to%2C%20Uruguay%20Round%20Agreements/Part%20B%20-%20Tariff%20Modifications/%C2%A7%2003523%20-%20Duty%20free%20treatment%20for%20octadecyl%20isocyanate%20and%205-Chloro-2-%282%2C4-dichloro-phenoxy%29phenol.md) | Duty free treatment for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy) phenol. |
 | [3524\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%2C%20and%20General%20Provisions%20Relating%20to%2C%20Uruguay%20Round%20Agreements/Part%20B%20-%20Tariff%20Modifications/%C2%A7%2003524%20-%20Consultation%20and%20layover%20requirements%20for%2C%20and%20effective%20date%20of%2C%20proclaimed%20actions.md) | Consultation and layover requirements for, and effective date of, proclaimed actions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -179,7 +179,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3611\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20B%20-%20Exports/%C2%A7%2003611%20-%20Food%20aid.md) | Food aid. |
+| [3611\.](Subchapter%20004%20%28IV%29%20-%20Agriculture-Related%20Provisions/Part%20B%20-%20Exports/%C2%A7%2003611%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20II%2C%20%C2%A7201%28b%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20951.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

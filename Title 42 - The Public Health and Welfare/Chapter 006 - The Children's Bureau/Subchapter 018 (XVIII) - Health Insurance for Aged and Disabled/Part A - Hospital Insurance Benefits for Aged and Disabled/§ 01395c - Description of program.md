@@ -2,7 +2,7 @@
 
 The insurance program for which entitlement is established by sections 426 and 426–1 of this title provides basic protection against the costs of hospital, related post-hospital, home health services, and hospice care in accordance with this part for (1) individuals who are age 65 or over and are eligible for retirement benefits under subchapter II of this chapter (or would be eligible for such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system, (2) individuals under age 65 who have been entitled for not less than 24 months to benefits under subchapter II of this chapter (or would have been so entitled to such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system on the basis of a disability, and (3) certain individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1811, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291; amended Oct. 30, 1972, Pub. L. 92–603, title II, §201(a)(2), 86 Stat. 1371; June 13, 1978, Pub. L. 95–292, §4(a), 92 Stat. 315; June 9, 1980, Pub. L. 96–265, title I, §103(a)(2), 94 Stat. 444; Oct. 19, 1980, Pub. L. 96–473, §2(b), 94 Stat. 2263; Dec. 5, 1980, Pub. L. 96–499, title IX, §930(a), 94 Stat. 2631; Sept. 3, 1982, Pub. L. 97–248, title I, §122(a)(1), title II, §278(b)(3), 96 Stat. 356, 561; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(C)(i), 100 Stat. 317; July 1, 1988, Pub. L. 100–360, title I, §104(d)(1), 102 Stat. 688; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1811, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 291; amended Oct. 30, 1972, Pub. L. 92–603, title II, §201(a)(2), 86 Stat. 1371; June 13, 1978, Pub. L. 95–292, §4(a), 92 Stat. 315; June 9, 1980, Pub. L. 96–265, title I, §103(a)(2), 94 Stat. 444; Oct. 19, 1980, Pub. L. 96–473, §2(b), 94 Stat. 2263; Dec. 5, 1980, Pub. L. 96–499, title IX, §930(a), 94 Stat.2631; Sept. 3, 1982, Pub. L. 97–248, title I, §122(a)(1), title II, §278(b)(3), 96 Stat. 356, 561; Apr. 7, 1986, Pub. L. 99–272, title XIII, §13205(b)(2)(C)(i), 100 Stat. 317; July 1, 1988, Pub. L. 100–360, title I, §104(d)(1), 102 Stat. 688; Dec. 13, 1989, Pub. L. 101–234, title I, §101(a), 103 Stat. 1979.)
 
 #### Amendments
 
@@ -100,5 +100,5 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 38 section 1729.
+This section is referred to in title 26 section 220; title 38 section 1729.
 

@@ -1,0 +1,8 @@
+### §3714b. Printing
+
+(a) Section 501 of title 44 shall not apply to direct purchase by the Commission for its use of printing, binding, and blank-book work in the Republic of Panama when the Commission determines that such direct purchase is in the best interest of the Government.
+
+(b) This section shall not affect the Commission's authority, under chapter 5 of title 44, to operate a field printing plant.
+
+(Pub. L. 96–70, title I, §1306, as added Pub. L. 104–201, div. C, title XXXV, §3540, Sept. 23, 1996, 110 Stat. 2866.)
+

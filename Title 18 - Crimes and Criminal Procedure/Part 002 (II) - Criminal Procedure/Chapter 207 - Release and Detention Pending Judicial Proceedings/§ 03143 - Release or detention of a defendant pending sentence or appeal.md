@@ -44,7 +44,7 @@ Release or Detention Pending Appeal by the Government.—The judicial officer sh
 
 #### Prior Provisions
 
-A prior section 3143, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(d), 80 Stat. 217,related to additional bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3143, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(d), 80 Stat. 217, related to additional bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
 

@@ -13,7 +13,7 @@ This subchapter is referred to in section 1321 of this title.
 - [&sect; 02702 - Elements of liability](%C2%A7%2002702%20-%20Elements%20of%20liability.md)
 - [&sect; 02703 - Defenses to liability](%C2%A7%2002703%20-%20Defenses%20to%20liability.md)
 - [&sect; 02704 - Limits on liability](%C2%A7%2002704%20-%20Limits%20on%20liability.md)
-- [&sect; 02705 - Interest](%C2%A7%2002705%20-%20Interest.md)
+- [&sect; 02705 - Interest; partial payment of claims](%C2%A7%2002705%20-%20Interest%3B%20partial%20payment%20of%20claims.md)
 - [&sect; 02706 - Natural resources](%C2%A7%2002706%20-%20Natural%20resources.md)
 - [&sect; 02707 - Recovery by foreign claimants](%C2%A7%2002707%20-%20Recovery%20by%20foreign%20claimants.md)
 - [&sect; 02708 - Recovery by responsible party](%C2%A7%2002708%20-%20Recovery%20by%20responsible%20party.md)

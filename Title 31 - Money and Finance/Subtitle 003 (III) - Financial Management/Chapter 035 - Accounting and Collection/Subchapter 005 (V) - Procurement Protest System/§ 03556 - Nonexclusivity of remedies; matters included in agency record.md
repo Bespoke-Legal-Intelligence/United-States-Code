@@ -2,7 +2,11 @@
 
 This subchapter does not give the Comptroller General exclusive jurisdiction over protests, and nothing contained in this subchapter shall affect the right of any interested party to file a protest with the contracting agency or to file an action in a district court of the United States or the United States Court of Federal Claims. In any such action based on a procurement or proposed procurement with respect to which a protest has been filed under this subchapter, the reports required by sections 3553(b)(2) and 3554(e)(1) of this title with respect to such procurement or proposed procurement and any decision or recommendation of the Comptroller General under this subchapter with respect to such procurement or proposed procurement shall be considered to be part of the agency record subject to review.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–320, §12(f), Oct. 19, 1996, 110 Stat. 3876.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–320, §12(f), Oct. 19, 1996, 110 Stat. 3876, provided that, when the bid protest jurisdiction of the district courts of the United States is terminated pursuant to section 12(d) of Pub. L. 104–320 (28 U.S.C. 1491 note), this section is amended by striking “a court of the United States or” in the first sentence.</i>
 
 #### Amendments
 
@@ -15,4 +19,8 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date
 
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Nonexclusivity of GAO Remedies
+
+Section 12(f) of Pub. L. 104–320 provided that: “In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) \[set out as a note under section 1491 of Title 28, Judiciary and Judicial Procedure\], then section 3556 of title 31, United States Code, shall be amended by striking ‘a court of the United States or’ in the first sentence.”
 

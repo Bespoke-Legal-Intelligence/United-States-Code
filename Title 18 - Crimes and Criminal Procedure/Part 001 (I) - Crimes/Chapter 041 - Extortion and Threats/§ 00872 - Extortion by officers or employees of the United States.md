@@ -1,8 +1,8 @@
-### §872 . Extortion by officers or employees of the United States
+### §872. Extortion by officers or employees of the United States
 
-Whoever, being an officer, or employee of the United States or any department or agency thereof, or representing himself to be or assuming to act as such, under color or pretense of office or employment commits or attempts an act of extortion, shall be fined under this title or imprisoned not more than three years, or both; but if the amount so extorted or demanded does not exceed $100, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer, or employee of the United States or any department or agency thereof, or representing himself to be or assuming to act as such, under color or pretense of office or employment commits or attempts an act of extortion, shall be fined under this title or imprisoned not more than three years, or both; but if the amount so extorted or demanded does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 740; Oct. 31, 1951, ch. 655, §24(b), 65 Stat. 720; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (K), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 740; Oct. 31, 1951, ch. 655, §24(b), 65 Stat. 720; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(G), (K), 108 Stat. 2147; Oct. 11, 1996, Pub. L. 104–294, title VI, §606(a), 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,8 @@ Words “or any department or agency” were inserted to eliminate any possible 
 The punishment provided by section 171 of title 18, U.S.C., 1940 ed., of fine of not more than $500 or imprisonment of not more than 1 year, or both, was increased for offenses involving more than $100 to conform to Congressional policy reflected in later Acts. See section 4047(e)(1) of title 26, U.S.C., 1940 ed., Internal Revenue Code, and the punishment provision following paragraph (10) of said subsection.
 
 #### Amendments
+
+1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” after “extortion, shall be” and for “fined not more than $500” after “he shall be”.
 

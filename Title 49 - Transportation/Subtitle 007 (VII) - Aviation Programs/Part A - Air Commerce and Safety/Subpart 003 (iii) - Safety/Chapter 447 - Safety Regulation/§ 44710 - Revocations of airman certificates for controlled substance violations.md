@@ -66,7 +66,9 @@ Waivers.—The Administrator may waive the requirement of subsection (b) of this
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -106,7 +108,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §609(c)(3); added Oct. 19, 1984,
 
 44710(e)(2)
 
-49 App.:1422(b) (2)(C).
+49 App.:1422(b)(2)(C).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §602(b)(2)(C); added Oct. 19, 1984, Pub. L. 98–499, §3, 98 Stat. 2313.
 
@@ -132,5 +134,5 @@ In subsection (e)(2)(B)(ii), the words “judgment of” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 1133, 44701, 44703, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 1133, 44701, 44703, 44711, 45302, 46310, 47531 of this title.
 

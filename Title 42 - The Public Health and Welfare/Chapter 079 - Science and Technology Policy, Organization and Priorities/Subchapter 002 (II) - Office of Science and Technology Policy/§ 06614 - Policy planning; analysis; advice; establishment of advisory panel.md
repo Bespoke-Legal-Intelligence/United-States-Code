@@ -8,7 +8,7 @@
 
 &emsp;(3) gather timely and authoritative information concerning significant developments and trends in science, technology, and in national priorities, both current and prospective, to analyze and interpret such information for the purpose of determining whether such developments and trends are likely to affect achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 
-&emsp;(4) encourage the development and maintenance of an adequate data base for human resources in science, engineering, and technology, including the development of appropriate models to forecast future manpower requirements, and assess the impact of majorgovernmental and public programs on human resources and their utilization;
+&emsp;(4) encourage the development and maintenance of an adequate data base for human resources in science, engineering, and technology, including the development of appropriate models to forecast future manpower requirements, and assess the impact of major governmental and public programs on human resources and their utilization;
 
 &emsp;(5) initiate studies and analyses, including systems analyses and technology assessments, of alternatives available for the resolution of critical and emerging national and international problems amendable to the contributions of science and technology and, insofar as possible, determine and compare probable costs, benefits, and impacts of such alternatives;
 
@@ -20,7 +20,7 @@
 
 &emsp;(9) assess and advise on policies for international cooperation in science and technology which will advance the national and international objectives of the United States;
 
-&emsp;(10) identify and assess emerging and future areas in which science and technology can be used effectively in addressing national and international problems;
+&emsp;(10) identify and assess emerging and future areas in which science and technology can beused effectively in addressing national and international problems;
 
 &emsp;(11) report at least once each year to the President and the Congress on the overall activities and accomplishments of the Office, pursuant to section 6615 of this title;
 
@@ -60,7 +60,7 @@ The Intergovernmental Science, Engineering, and Technology Advisory Panel, estab
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Computer Network Study
 

@@ -8,7 +8,7 @@ Program for Employees of Air Carriers and Foreign Air Carriers.—(1) In the int
 
 (b)
 
-Program for Employees of the Federal Aviation Administration.—(1) The Administrator shall establish a program of preemployment, reasonable suspicion, random, and post-accident testing for the use of a controlled substance in violation of law or a United StatesGovernment regulation for employees of the Administration whose duties include responsibility for safety-sensitive functions and shall establish a program of reasonable suspicion, random, and post-accident testing for the use of alcohol in violation of law or a United States Government regulation for such employees. The Administrator may establish a program of preemployment testing for the use of alcohol for such employees.
+Program for Employees of the Federal Aviation Administration.—(1) The Administrator shall establish a program of preemployment, reasonable suspicion, random, and post-accident testing for the use of a controlled substance in violation of law or a United States Government regulation for employees of the Administration whose duties include responsibility for safety-sensitive functions and shall establish a program of reasonable suspicion, random, and post-accident testing for the use of alcohol in violation of law or a United States Government regulation for such employees. The Administrator may establish a program of preemployment testing for the use of alcohol for such employees.
 
 (2) When the Administrator considers it appropriate in the interest of safety, the Administrator may prescribe regulations for conducting periodic recurring testing of employees of the Administration responsible for safety-sensitive functions for use of alcohol or a controlled substance in violation of law or a Government regulation.
 
@@ -20,7 +20,9 @@ Sanctions.—In prescribing regulations under the programs required by this sect
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

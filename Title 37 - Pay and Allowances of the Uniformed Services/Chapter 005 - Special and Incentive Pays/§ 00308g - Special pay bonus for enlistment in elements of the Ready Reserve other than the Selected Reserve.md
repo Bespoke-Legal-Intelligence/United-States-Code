@@ -1,6 +1,6 @@
 ### §308g. Special pay: bonus for enlistment in elements of the Ready Reserve other than the Selected Reserve
 
-(a) An eligible person who enlists in a combat or combat support skill of an element (otherthan the Selected Reserve) of the Ready Reserve of an armed force for a term of enlistment of not less than six years, and who has not previously served in an armed force, may be paid a bonus as provided in subsection (b).
+(a) An eligible person who enlists in a combat or combat support skill of an element (other than the Selected Reserve) of the Ready Reserve of an armed force for a term of enlistment of not less than six years, and who has not previously served in an armed force, may be paid a bonus as provided in subsection (b).
 
 (b) Eligibility for and the amount and method of payment of a bonus under this section shall be determined in accordance with regulations prescribed under subsection (g), except that the amount of such a bonus may not exceed $1,000.
 
@@ -41,8 +41,4 @@ Section 1011(c) of Pub. L. 98–94 provided that: “The amendments made by subs
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 
 Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L. 98–525 and Individual Ready Reserve Reenlistment Bonuses note above inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 227.
 

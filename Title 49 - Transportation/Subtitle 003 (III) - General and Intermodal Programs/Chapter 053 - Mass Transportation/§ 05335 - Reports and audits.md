@@ -8,7 +8,7 @@ Reporting System and Uniform System of Accounts and Records.—(1) To help meet 
 
 (b)
 
-Quarterly Reports.—Not later than 30 days after the last day of each calendar quarter, the Secretary shall submit to the Committees on Public Works and Transportation and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate a report on—
+Quarterly Reports.—Not later than 30 days after the last day of each calendar quarter, the Secretary shall submit to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate a report on—
 
 &emsp;(1) obligations by State, designated recipient, and applicant made under this chapter during the quarter;
 
@@ -24,7 +24,7 @@ Quarterly Reports.—Not later than 30 days after the last day of each calendar 
 
 (c)
 
-Biennial Needs Report.—In January 1993 and in January of every 2d year after 1993, the Comptroller General shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs ofthe Senate a report containing an evaluation of the extent to which current mass transportation needs are addressed adequately and an estimate of the future mass transportation needs of the United States, including mass transportation needs in rural areas (particularly access to health care facilities). The report shall include—
+Biennial Needs Report.—In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing an evaluation of the extent to which current mass transportation needs are addressed adequately and an estimate of the future mass transportation needs of the United States, including mass transportation needs in rural areas (particularly access to health care facilities). The report shall include—
 
 &emsp;(1) an assessment of needs related to rail modernization, guideway modernization, replacing, rehabilitating, and buying buses and related equipment, constructing bus related facilities, and constructing new fixed guideway systems and extensions to existing fixed guideway systems;
 
@@ -40,7 +40,7 @@ Biennial Needs Report.—In January 1993 and in January of every 2d year after 1
 
 (d)
 
-Biennial Transferability Report.—In January 1993 and in January of every 2d year after 1993, the Comptroller General shall submit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on carrying out section 5307(b)(5) of this title. The report shall—
+Biennial Transferability Report.—In January 1993, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on carrying out section 5307(b)(5) of this title. The report shall—
 
 &emsp;(1) identify, by State, the amount of mass transportation money transferred for non-mass transportation purposes under section 5307(b)(5) of this title during the prior fiscal year;
 
@@ -48,17 +48,21 @@ Biennial Transferability Report.—In January 1993 and in January of every 2d ye
 
 &emsp;(A) the State's ability to meet the mass transportation needs of elderly individuals and individuals with disabilities;
 
-&emsp;&emsp;(B) efforts to meet the objectives of the Clean Air Act (42 U.S.C. 7401 et seq.) and the Americans With <sup>1</sup> Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
+&emsp;&emsp;(B) efforts to meet the objectives of the Clean Air Act (42 U.S.C. 7401 et seq.) and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.); and
 
 &emsp;&emsp;(C) the State's efforts to extend public mass transportation services to unserved rural areas; and
 
 &emsp;(3) examine the relative levels of Government mass transportation assistance and services in urban and rural areas in the fiscal year that ended September 30, 1991, and the extent to which the assistance and service has changed in later fiscal years because of mass transportation resources made available under this chapter and the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1914).
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -86,7 +90,7 @@ July 9, 1964, Pub. L. 88–365, §15(b), 78 Stat. 308; Sept. 8, 1966, Pub. L. 89
 
 49 App.:1603(b)(1).
 
-July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §4(b)(1); added Nov. 6, 1978, Pub. L. 95–599, §303(e), 92 Stat. 2738; restated Apr. 2, 1987, Pub. L. 100–17, §307, 101 Stat. 226; Dec. 18, 1991, Pub. L. 102–240, §3006(h)(1), 105 Stat. 2090.
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §4(b)(1); added Nov. 6, 1978, Pub. L. 95–599, §303(e), 92 Stat. 2738; restated Apr. 2, 1987, Pub. L. 100–17, §307, 101 Stat. 226; Dec. 18, 1991, Pub. L. 102–240, §3006(h) (1), 105 Stat. 2090.
 
 5335(c)
 
@@ -118,6 +122,10 @@ In subsection (b)(6), the words “a status report on”, “a letter of credit 
 
 In subsection (d), before clause (1), the words “the transferability provisions of” are omitted as surplus.
 
+#### Pub. L. 104–287, §5(18)
+
+This amends 49:5335(d)(2)(B) to amend an erroneous cross-reference.
+
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (d)(2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -126,9 +134,17 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (d)(2)(B), i
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d)(3), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
-#### Change of Name
+#### Amendments
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (b). Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+Subsec. (c). Pub. L. 104–316 struck out “and in January of every 2d year after 1993” after “In January 1993” in introductory provisions.
+
+Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+
+Subsec. (d). Pub. L. 104–316 struck out “and in January of every 2d year after 1993” after “In January 1993” in introductory provisions.
+
+Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+
+Subsec. (d)(2)(B). Pub. L. 104–287, §5(18), substituted “Americans with Disabilities Act” for “Americans With Disabilities Act”.
 

@@ -4,7 +4,7 @@
 
 #### (b) Additional funding grants for improvement of child abuse crime information
 
-(1) The Attorney General shall, subject to appropriations and with preference to States that, as of December 20, 1993, have in computerized criminal history files the lowest percentages of charges and dispositions of identifiable childabuse cases, make a grant to each State to be used—
+(1) The Attorney General shall, subject to appropriations and with preference to States that, as of December 20, 1993, have in computerized criminal history files the lowest percentages of charges and dispositions of identifiable child abuse cases, make a grant to each State to be used—
 
 &emsp;(A) for the computerization of criminal history files for the purposes of this subchapter;
 

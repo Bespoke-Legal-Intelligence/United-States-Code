@@ -6,6 +6,7 @@
 | [2852\.](%C2%A7%2002852%20-%20Military%20construction%20projects%20waiver%20of%20certain%20restrictions.md) | Military construction projects: waiver of certain restrictions. |
 | [2853\.](%C2%A7%2002853%20-%20Authorized%20cost%20variations.md) | Authorized cost variations. |
 | [2854\.](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md) | Restoration or replacement of damaged or destroyed facilities. |
+| [2854a.](%C2%A7%2002854a%20-%20Conveyance%20of%20damaged%20or%20deteriorated%20military%20family%20housing%3B%20use%20of%20proceeds.md) | Conveyance of damaged or deteriorated military family housing; use of proceeds. |
 | [2855\.](%C2%A7%2002855%20-%20Law%20applicable%20to%20contracts%20for%20architectural%20and%20engineering%20services%20and%20construction%20design.md) | Law applicable to contracts for architectural and engineering services and construction design. |
 | [2856\.](%C2%A7%2002856%20-%20Limitations%20on%20barracks%20space%20by%20pay%20grade.md) | Limitations on barracks space by pay grade. |
 | [2857\.](%C2%A7%2002857%20-%20Use%20of%20renewable%20forms%20of%20energy%20in%20new%20facilities.md) | Use of renewable forms of energy in new facilities. |
@@ -22,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–106, div. B, title XXVIII, §2818(a)(2), Feb. 10, 1996, 110 Stat. 555, added item 2854a.
 
 1993—Pub. L. 103–160, div. B, title XXVIII, §2803(b), Nov. 30, 1993, 107 Stat. 1885, added item 2866.
 
@@ -46,6 +49,7 @@
 - [&sect; 02852 - Military construction projects waiver of certain restrictions](%C2%A7%2002852%20-%20Military%20construction%20projects%20waiver%20of%20certain%20restrictions.md)
 - [&sect; 02853 - Authorized cost variations](%C2%A7%2002853%20-%20Authorized%20cost%20variations.md)
 - [&sect; 02854 - Restoration or replacement of damaged or destroyed facilities](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md)
+- [&sect; 02854a - Conveyance of damaged or deteriorated military family housing; use of proceeds](%C2%A7%2002854a%20-%20Conveyance%20of%20damaged%20or%20deteriorated%20military%20family%20housing%3B%20use%20of%20proceeds.md)
 - [&sect; 02855 - Law applicable to contracts for architectural and engineering services and construction design](%C2%A7%2002855%20-%20Law%20applicable%20to%20contracts%20for%20architectural%20and%20engineering%20services%20and%20construction%20design.md)
 - [&sect; 02856 - Limitations on barracks space by pay grade](%C2%A7%2002856%20-%20Limitations%20on%20barracks%20space%20by%20pay%20grade.md)
 - [&sect; 02857 - Use of renewable forms of energy in new facilities](%C2%A7%2002857%20-%20Use%20of%20renewable%20forms%20of%20energy%20in%20new%20facilities.md)

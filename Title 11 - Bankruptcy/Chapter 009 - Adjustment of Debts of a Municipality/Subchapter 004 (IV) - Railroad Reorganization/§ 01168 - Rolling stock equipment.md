@@ -4,7 +4,7 @@
 
 &emsp;(A) before the date that is 60 days after the date of commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor that become due on or after the date of commencement of the case under such security agreement, lease, or conditional sale contract; and
 
-&emsp;(B) any default, other than a default of a kind described in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
+&emsp;(B) any default, other than a default of a kind described in section 365(b)(2), under suchsecurity agreement, lease, or conditional sale contract—
 
 &emsp;&emsp;(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period; and
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

@@ -20,7 +20,7 @@ Statements on Places and Schedules.—Every air carrier shall file with the Secr
 
 Designating and Additional Schedules.—The Postal Service may—
 
-&emsp;(1) designate any schedule of an air carrier filed under subsection (b)(3) of this section forthe transportation of mail between the places between which the carrier is authorized by its certificate to transport mail; and
+&emsp;(1) designate any schedule of an air carrier filed under subsection (b)(3) of this section for the transportation of mail between the places between which the carrier is authorized by its certificate to transport mail; and
 
 &emsp;(2) require the carrier to establish additional schedules for the transportation of mail between those places.
 
@@ -42,13 +42,15 @@ Proceedings Preferences.—The Secretary shall give preference to a proceeding u
 
 <i>Pub. L. 103–272, §4(k)(1), July 5, 1994, 108 Stat. 1370, provided that, effective Jan. 1, 1999, subsection (a) of this section is amended by substituting “transportation” for “transportation or between places in Alaska”.</i>
 
-<i>Pub. L. 103–272, §4(k)(3), July 5, 1994, 108 Stat. 1370, as amended by Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389, provided that, effective Jan. 1, 1999, subsection (b) of this section is amended by striking par. (2), redesignating pars. (3) and (4) as (2) and (3), respectively, and in par. (2), as redesignated, substituting “clause (1)” for “clauses (1) and (2)”.</i>
+<i>Pub. L. 103–272, §4(k)(3), July 5, 1994, 108 Stat. 1370, as amended by Pub. L. 103–429, §7(a)(3)(D), Oct. 31, 1994, 108 Stat. 4389, provided that, effective Jan. 1, 1999, subsection (b) of this section is amended by striking par. (2), redesignating pars. (3) and (4) as (2) and (3), re</i><i>spectively, and in par. (2), as redesignated, substituting “clause (1)” for “clauses (1) and (2)”.</i>
 
 Historical and Revision Notes
 
 Pub. L. 103–272, §1(e)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -62,7 +64,7 @@ Aug. 23, 1958, Pub. L. 85–726, §405(b), 72 Stat. 760.
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1375(b)).
+49 App.:1551(a)(4)(A) (related to 49 App.:1375(b)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §405(b)), (b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(c), (e), 98 Stat. 1703, 1704.
 
@@ -72,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §405
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1375(b)), (b)(1)(E).
+49 App.:1551(a)(4)(A) (related to 49 App.:1375(b)), (b)(1)(E).
 
 41902(c)
 
@@ -88,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §405
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1375(b)), (b)(1)(E).
+49 App.:1551(a)(4)(A) (related to 49 App.:1375(b)), (b)(1)(E).
 
 41902(f)
 
@@ -96,7 +98,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(A) (related to §405
 
 &nbsp;
 
-49 App.:1551(a) (4)(A) (related to 49 App.:1375(b)), (b)(1)(E).
+49 App.:1551(a)(4)(A) (related to 49 App.:1375(b)), (b)(1)(E).
 
 In this chapter, the word “places” is substituted for “points” for consistency in the revised title. The words “United States Postal Service” and “Postal Service” are substituted for “Postmaster General” in sections 401, 405, and 406 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 754, 760) because of sections 4(a) and 6(o) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773, 783).
 
@@ -116,7 +118,9 @@ Subsection (f) is substituted for 49 App.:1375(b) (8th sentence) to reflect the 
 
 Pub. L. 103–272, §4(k)(1), (3)
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

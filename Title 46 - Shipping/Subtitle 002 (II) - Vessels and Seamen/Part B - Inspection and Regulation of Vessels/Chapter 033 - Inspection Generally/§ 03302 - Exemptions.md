@@ -6,31 +6,47 @@
 
 &emsp;(2) excluded by this section from another category of section 3301 of this title.
 
-(b) A fishing vessel, including a vessel chartered part-time as a fish tender vessel, is exempt from section 3301(1), (7), (11), and (12) of this title.
+(b) Except as provided in subsection (c)(3) of this section, a fishing vessel <sup>1</sup> including a vessel chartered part-time as a fish tender vessel, is exempt from section 3301(1), (7), (11), and (12) of this title.
 
-(c)(1) A fish processing vessel of not more than 5,000 gross tons is exempt from section 3301(1), (6), (7), (11), and (12) of this title.
+(c)(1) Except as provided in paragraph (3) of this subsection, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title is exempt from section 3301(1), (6), (7), (11), and (12) of this title.
 
-(2) A fish tender vessel of not more than 500 gross tons is exempt from section 3301(1), (6), (7), (11), and (12) of this title.
+(2) Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title is exempt from section 3301(1), (6), (7), (11), and (12) of this title.
 
-(3) A fishing, fish processing, or fish tender vessel of not more than 500 gross tons is exempt from section 3301(1), (6), and (7) of this title if—
+(3)(A) A fishing vessel or fish processing vessel is exempt from section 3301(1), (6), and (7) of this title when transporting cargo (including fisheries-related cargo) to or from a place in Alaska if—
 
-&emsp;(A) when transporting cargo to or from a place in Alaska—
+&emsp;(i) that place does not receive weekly common carrier service by water from a place in the United States;
 
-&emsp;&emsp;(i) that place does not receive weekly common carrier service by water from a place in the United States; or
+&emsp;(ii) that place receives such common carrier service and the cargo is of a type not accepted by that common carrier service; or
 
-&emsp;&emsp;(ii) the cargo is of a type not accepted by that common carrier service; or
+&emsp;(iii) the cargo is proprietary cargo owned by the owner of the vessel or any affiliated entity or subsidiary.
 
-&emsp;(B) in the case of a fish tender vessel, the vessel is not engaged in the Aleutian trade.
+(B) A fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, which is qualified to engage in the Aleutian trade is exempt from section 3301(1), (6), and (7) of this title when transporting cargo (including fisheries-related cargo) to or from a place in Alaska outside the Aleutian trade geographic area if—
+
+&emsp;(i) that place does not receive weekly common carrier service by water from a place in the United States;
+
+&emsp;(ii) that place receives such common carrier service and the cargo is of a type not accepted by that common carrier service; or
+
+&emsp;(iii) the cargo is proprietary cargo owned by the owner of the vessel or any affiliated entity or subsidiary.
+
+(C) In this paragraph, the term “proprietary cargo” means cargo that—
+
+&emsp;(i) is used by the owner of the vessel or any affiliated entity or subsidiary in activities directly related to fishing or the processing of fish;
+
+&emsp;(ii) is consumed by employees of the owner of the vessel or any affiliated entity or subsidiary who are engaged in fishing or in the processing of fish; or
+
+&emsp;(iii) consists of fish or fish products harvested or processed by the owner of the vessel or any affiliated entity or subsidiary.
+
+(D) Notwithstanding the restrictions in subparagraph (B) of this paragraph, vessels qualifying under subparagraph (B) may transport cargo (including fishery-related products) from a place in Alaska receiving weekly common carrier service by water to a final destination in Alaska not receiving weekly service by water from common carriers.
 
 (4) A fish tender vessel is exempt from section 3301(1), (6), and (7) of this title when engaged in the Aleutian trade if the vessel—
 
-&emsp;(A) is not more than 500 gross tons;
+&emsp;(A) is not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
 &emsp;(B) has an incline test performed by a marine surveyor; and
 
 &emsp;(C) has written stability instructions posted on board the vessel.
 
-(d)(1) A motor vessel of less than 150 gross tons, constructed before August 23, 1958, is not subject to inspection under section 3301(1) of this title if the vessel is owned or demise chartered to a cooperative or association that only transports cargo owned by at least one of its members on a nonprofit basis between places within the waters of—
+(d)(1) A motor vessel of less than 150 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, constructed before August 23, 1958, is not subject to inspection under section 3301(1) of this title if the vessel is owned or demise chartered to a cooperative or association that only transports cargo owned by at least one of its members on a nonprofit basis between places within the waters of—
 
 &emsp;(A) southeastern Alaska shoreward of the Boundary Line; or
 
@@ -56,9 +72,9 @@
 
 (h) An offshore supply vessel operating on January 1, 1979, under a certificate of inspection issued by the Secretary, is subject to an inspection standard or requirement only if the standard or requirement could have been prescribed for the vessel under authority existing under law on October 5, 1980.
 
-(i)(1) The Secretary may issue a permit exempting a vessel from any part of the requirements of this part for vessels transporting cargo, including bulk fuel, from one place inAlaska to another place in Alaska only if the vessel—
+(i)(1) The Secretary may issue a permit exempting a vessel from any part of the requirements of this part for vessels transporting cargo, including bulk fuel, from one place in Alaska to another place in Alaska only if the vessel—
 
-&emsp;(A) is not more than 300 gross tons;
+&emsp;(A) is not more than 300 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title;
 
 &emsp;(B) is in a condition that does not present an immediate threat to the safety of life or the environment; and
 
@@ -72,7 +88,7 @@
 
 (5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
 
-(j) Notwithstanding another provision of this chapter, the Secretary is not required to inspect or prescribe regulations for a nautical school vessel of not more than 15 gross tons—
+(j) Notwithstanding another provision of this chapter, the Secretary is not required to inspect or prescribe regulations for a nautical school vessel of not more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;(1) when used in connection with a course of instruction dealing with any aspect of maritime education or study; and
 
@@ -102,7 +118,7 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969.)
 
 Historical and Revision Notes
 
@@ -128,13 +144,37 @@ Section 3302 does three things. It makes clear that a vessel included in one of 
 
 #### Amendments
 
+1996—Subsec. (b). Pub. L. 104–324, §1110(1), substituted “Except as provided in subsection (c)(3) of this section, a fishing vessel” for “A fishing vessel,”.
+
+Subsec. (c)(1). Pub. L. 104–324, §§711(1), 1110(2), substituted “Except as provided in paragraph (3) of this subsection, a fish processing vessel” for “A fish processing vessel” and inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons”.
+
+Subsec. (c)(2). Pub. L. 104–324, §§711(2), 1110(3), substituted “Except as provided in paragraphs (3) and (4) of this subsection, a fish tender vessel” for “A fish tender vessel” and inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Subsec. (c)(3). Pub. L. 104–324, §1110(4), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A fishing, fish processing, or fish tender vessel of not more than 500 gross tons is exempt from section 3301(1), (6), and (7) of this title if—
+
+&emsp;“(A) when transporting cargo to or from a place in Alaska—
+
+&emsp;&emsp;“(i) that place does not receive weekly common carrier service by water from a place in the United States; or
+
+&emsp;&emsp;“(ii) the cargo is of a type not accepted by that common carrier service; or
+
+&emsp;“(B) in the case of a fish tender vessel, the vessel is not engaged in the Aleutian trade.”
+
+Subsec. (c)(4)(A). Pub. L. 104–324, §711(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons”.
+
+Subsec. (d)(1). Pub. L. 104–324, §711(4), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “150 gross tons”.
+
+Subsec. (i)(1)(A). Pub. L. 104–324, §711(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
+
+Subsec. (j). Pub. L. 104–324, §711(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
+
 1993—Subsec. (m). Pub. L. 103–206 added subsec. (m).
 
 1990—Subsec. (c)(3), (4). Pub. L. 101–595, §602(b), added pars. (3) and (4).
 
 Subsec. (j)(2)(B). Pub. L. 101–595, §603(2), substituted “(46 App. U.S.C. 1295c)” for “(46 App. U.S.C. 1295(c))”.
 
-Subsec. (<i>l</i>). Pub. L. 101–595, §303(a), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 101–595, §303(a), added subsec. (<i>l</i>).
 
 1986—Subsec. (i)(5). Pub. L. 99–307, §1(3), substituted “charterer” for “charter”.
 
@@ -172,5 +212,7 @@ Section 403 of Pub. L. 98–364, as amended by Pub. L. 99–36, §3, May 15, 198
 
 #### Offshore Supply Vessels; Transition Period for Compliance With Vessel Inspection Provisions
 
-Section 2(i) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel described in section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
+Section 2(i) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Each offshore supply vessel describedin section 3302(g) of title 46 (as enacted by section 1 of this Act), that was registered with the Secretary of Transportation under section 4426a(7) of the Revised Statutes \[former 46 U.S.C. 404–1(7)\] but that has not been inspected by the Secretary shall be held to be in compliance with all applicable vessel inspection laws pending verification by actual inspection or until one year after the date of enactment of this Act \[Aug. 26, 1983\], whichever is earlier.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -30,14 +30,17 @@
 | [118\.](%C2%A7%2000118%20-%20Scope%20of%20exclusive%20rights%20Use%20of%20certain%20works%20in%20connection%20with%20noncommercial%20broadcasting.md) | Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting. |
 | [119\.](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20superstations%20and%20network%20stations%20for%20private%20home%20viewing.md) | Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing. |
 | [120\.](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md) | Scope of exclusive rights in architectural works. |
+| [121\.](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md) | Limitations on exclusive rights: reproduction for blind or other people with disabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1996—Pub. L. 104–197, title III, §316(b), Sept. 16, 1996, 110 Stat. 2417, added item 121.
+
 1994—Pub. L. 103–465, title V, §514(c), Dec. 8, 1994, 108 Stat. 4981, substituted “Copyright in restored works” for “Copyright in certain motion pictures” in item 104A.
 
-1993—Pub. L. 103–198, §3(a), (b)(2), Dec. 17, 1993, 107 Stat. 2309, renumbered item 116A as 116 and struck out former item 116 “Scope of exclusive rights in nondramatic musical works: Compulsory licenses for public performances by means of coin-operated phonorecord players.”
+1993—Pub. L. 103–198, §3(a), (b)(2), Dec. 17, 1993, 107 Stat. 2309, renumbered item 116A as 116 and struck out former item 116 “Scope of exclusive rights in nondramatic musical works: Compulsory licenses for publicperformances by means of coin-operated phonorecord players.”
 
 Pub. L. 103–182, title III, §334(b), Dec. 8, 1993, 107 Stat. 2115, added item 104A.
 
@@ -87,3 +90,4 @@ This chapter is referred to in section 912 of this title.
 - [&sect; 00118 - Scope of exclusive rights Use of certain works in connection with noncommercial broadcasting](%C2%A7%2000118%20-%20Scope%20of%20exclusive%20rights%20Use%20of%20certain%20works%20in%20connection%20with%20noncommercial%20broadcasting.md)
 - [&sect; 00119 - Limitations on exclusive rights Secondary transmissions of superstations and network stations for private home viewing](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20superstations%20and%20network%20stations%20for%20private%20home%20viewing.md)
 - [&sect; 00120 - Scope of exclusive rights in architectural works](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md)
+- [&sect; 00121 - Limitations on exclusive rights reproduction for blind or other people with disabilities](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md)

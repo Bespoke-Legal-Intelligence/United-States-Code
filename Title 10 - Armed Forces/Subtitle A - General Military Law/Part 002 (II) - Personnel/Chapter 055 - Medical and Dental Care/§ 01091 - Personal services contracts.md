@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may enter into personal services contracts to carry out health care responsibilities in medical treatment facilities of the Department of Defense, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
+Authority.—The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
 
 (b)
 
@@ -16,15 +16,17 @@ Procedures.—(1) The Secretary shall establish by regulation procedures for ent
 
 &emsp;(B) consideration of interested individuals solely on the basis of the qualifications established for the contract and the proposed contract price.
 
-(2) Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 of this title or any other similar requirements of law.
+(2) Upon the establishment of the procedures under paragraph (1), the Secretary may exemptcontracts covered by this section from the competitive contracting requirements specified in section 2304 of this title or any other similar requirements of law.
 
 (d)
 
 Exceptions.—The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688.)
+(Added Pub. L. 98–94, title IX, §932(a)(1), Sept. 24, 1983, 97 Stat. 649; amended Pub. L. 101–510, div. A, title VII, §714, Nov. 5, 1990, 104 Stat. 1584; Pub. L. 103–160, div. A, title VII, §712(a)(1), Nov. 30, 1993, 107 Stat. 1688; Pub. L. 104–106, div. A, title VII, §733(a), Feb. 10, 1996, 110 Stat. 381.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106 inserted “, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy,” after “Secretary of Defense” and substituted “such facilities” for “medical treatment facilities of the Department of Defense”.
 
 1993—Pub. L. 103–160 substituted “Personal services contracts” for “Contracts for direct health care providers” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -34,9 +36,17 @@ Exceptions.—The procedures and exemptions provided under subsection (c) shall 
 
 1990—Subsec. (b). Pub. L. 101–510 substituted “basic pay, special and incentive pays and bonuses, and allowances authorized by chapters 3, 5, and 7 of title 37 for a commissioned officer with comparable professional qualifications” for “basic pay and allowances authorized by chapters 3 and 7 of title 37 for a commissioned officer”.
 
+#### Effective Date of 1996 Amendment
+
+Section 733(c) of Pub. L. 104–106 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as of October 1, 1995.”
+
 #### Effective Date
 
 Section 932(f) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting this section, amending section 201 of Title 37, Pay and Allowances of the Uniformed Services, and repealing sections 4022 and 9022 of this title and section 421 of Title 37\] shall take effect on October 1, 1983. Any contract of employment entered into under the authority of section 4022 or 9022 of title 10, United States Code, before the effective date of this section and which is in effect on such date shall remain in effect in accordance with the terms of such contract.”
+
+#### Ratification of Existing Contracts
+
+Section 733(b) of Pub. L. 104–106 provided that: “Any exercise of authority under section 1091 of title 10, United States Code, to enter into a personal services contract on behalf of the Coast Guard before the effective date of the amendments made by subsection (a) \[Oct. 1, 1995\] is hereby ratified.”
 
 #### Personal Service Contracts To Provide Care
 

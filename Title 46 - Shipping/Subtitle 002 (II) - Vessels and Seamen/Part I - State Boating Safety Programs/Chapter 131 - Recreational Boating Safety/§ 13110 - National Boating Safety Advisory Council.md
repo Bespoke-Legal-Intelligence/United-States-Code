@@ -18,9 +18,9 @@
 
 (d) When attending meetings of the Council, a member of the Council or a panel may be paid at a rate not more than the rate for GS–18. When serving away from home or regular place of business, the member may be allowed travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for individuals employed intermittently in the Government service. A payment under this section does not make a member of the Council an officer or employee of the United States Government for any purpose.
 
-(e) The Council shall terminate on September 30, 1996.
+(e) The Council shall terminate on September 30, 2000.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 598; Pub. L. 99–626, §3(a)(1), (b)(1), (2), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, §20(a), Sept. 28, 1988, 102 Stat. 1846; Pub. L. 102–241, §24, Dec. 19, 1991, 105 Stat. 2217.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 598; Pub. L. 99–626, §3(a)(1), (b)(1), (2), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, §20(a), Sept. 28, 1988, 102 Stat. 1846; Pub. L. 102–241, §24, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(f), Oct. 19, 1996, 110 Stat. 3918.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,8 @@ Historical and Revision Notes
 Section 13110 establishes the National Boating Safety Advisory Council, the membership of the council, and compensation for individuals serving on the council. This council is to be established consistent with the Federal Advisory Committee Act (P.L. 92–463; 5 U.S.C. App.).
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–324 substituted “2000” for “1996”.
 
 1991—Subsec. (e). Pub. L. 102–241 substituted “1996” for “1991”.
 

@@ -78,7 +78,7 @@ Not later than January 1, 1994, the Administrator shall develop and publish a de
 
 #### (1) In general
 
-&emsp;The Administrator may make grants to, or enter cooperative agreements or contracts with, entities described in paragraph (2) forthe establishment of collaborative arrangements for the purpose of conducting assessments of experimental, emerging, existing, or potentially outmoded health care technologies, and for related activities. Such assessments may include controlled clinical trials, large simple trials, and other methodologies that can be conducted in partnership between the public and private sectors or among multiple government agencies.
+&emsp;The Administrator may make grants to, or enter cooperative agreements or contracts with, entities described in paragraph (2) for the establishment of collaborative arrangements for the purpose of conducting assessments of experimental, emerging, existing, or potentially outmoded health care technologies, and for related activities. Such assessments may include controlled clinical trials, large simple trials, and other methodologies that can be conducted in partnership between the public and private sectors or among multiple government agencies.
 
 #### (2) Eligible entities
 

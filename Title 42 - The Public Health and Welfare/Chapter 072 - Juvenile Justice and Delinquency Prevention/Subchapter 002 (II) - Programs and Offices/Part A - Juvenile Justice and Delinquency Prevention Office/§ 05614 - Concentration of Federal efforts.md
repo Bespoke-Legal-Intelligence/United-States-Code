@@ -2,7 +2,7 @@
 
 #### (a) Implementation of policy by Administrator; consultation with Council and Advisory Committee
 
-(1) The Administrator shall develop objectives, priorities, and a long-term plan, and implementoverall policy and a strategy to carry out such plan, for all Federal juvenile delinquency programs and activities relating to prevention, diversion, training, treatment, rehabilitation, evaluation, research, and improvement of the juvenile justice system in the United States. In carrying out the functions of the Administrator, the Administrator shall consult with the Council.
+(1) The Administrator shall develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan, for all Federal juvenile delinquency programs and activities relating to prevention, diversion, training, treatment, rehabilitation, evaluation, research, and improvement of the juvenile justice system in the United States. In carrying out the functions of the Administrator, the Administrator shall consult with the Council.
 
 (2)(A) The plan described in paragraph (1) shall—
 
@@ -58,7 +58,7 @@ All functions of the Administrator under this subchapter shall be coordinated as
 
 (1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
 
-(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include ananalysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
+(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
 
 (3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.
 
@@ -114,7 +114,7 @@ Subsec. (i). Pub. L. 98–473, §622(f), substituted “section” for “subcha
 
 Subsec. (<i>l</i>)(1). Pub. L. 98–473, §622(g)(1), substituted “subsection (d)(1) of this section” for “section 5614(d)(1) of this title” and “subsection (f) of this section” for “section 5614(f) of this title”.
 
-Subsec. (<i>l</i>)(2). Pub. L. 98–473, §622(g)(2), substituted “paragraph (1)” for “subsection (‘<i>l’</i>)” and “subsection (e) of this section” for “section 5614(e) of this title” in two places.
+Subsec. (<i>l</i>)(2). Pub. L. 98–473, §622(g)(2), substituted “paragraph (1)” for “subsection (‘<i>l</i>’)” and “subsection (e) of this section” for “section 5614(e) of this title” in two places.
 
 Subsec. (<i>l</i>)(3). Pub. L. 98–473, §622(g)(3), substituted “the Administrator” for “him” after “transmitted to” and “paragraph (1)” for “subsection (‘<i>l</i>’)”.
 

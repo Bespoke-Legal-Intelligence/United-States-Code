@@ -44,7 +44,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 &emsp;&emsp;<b>(2) For provision giving the Tax Court jurisdiction to award reasonable litigation costs in proceedings to enforce an overpayment determined by such court, see section 7430.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 811; Oct. 23, 1962, Pub. L. 87–870, §4, 76 Stat. 1161; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(47), (48), title IX, §960(b), 83 Stat. 531, 734; Dec. 31, 1970, Pub. L. 91–614, title I, §102(d)(9), 84 Stat. 1842; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(16), 88 Stat. 930; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(vii), title XVI, §1605(b)(9), title XIX, §1906(b)(13)(A), 90 Stat. 1728, 1755, 1834; Nov. 6, 1978, Pub. L. 95–600, title II, §212(b)(2), 92 Stat. 2819; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(6), 94 Stat. 253; Dec. 24, 1980, Pub. L. 96–589, §6(d)(3), 94 Stat. 3408; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(8), (9), 96 Stat. 668; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(J), (K), 102 Stat. 1323; Nov. 10, 1988, Pub. L. 100–647, title VI, §§6244(a), (b)(2), 6246(b)(1), 6247(b)(1), 102 Stat. 3750–3752.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 811; Oct. 23, 1962, Pub. L. 87–870, §4, 76 Stat. 1161; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(47), (48), title IX, §960(b), 83 Stat. 531, 734; Dec. 31, 1970, Pub. L. 91–614, title I, §102(d)(9), 84 Stat. 1842; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(16), 88 Stat. 930; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(2)(F)(vii), title XVI, §1605(b)(9), title XIX, §1906(b)(13)(A), 90 Stat. 1728, 1755, 1834; Nov. 6, 1978, Pub. L. 95–600, title II, §212(b)(2), 92 Stat. 2819; Apr. 2, 1980, Pub. L. 96–223, title I, §101(f)(6), 94 Stat. 253; Dec. 24, 1980, Pub. L. 96–589, §6(d)(3), 94 Stat. 3408; Sept. 3, 1982, Pub. L. 97–248, titleIV, §402(c)(8), (9), 96 Stat. 668; Aug. 23, 1988, Pub. L. 100–418, title I, §1941(b)(2)(J), (K), 102 Stat. 1323; Nov. 10, 1988, Pub. L. 100–647, title VI, §§6244(a), (b)(2), 6246(b)(1), 6247(b)(1), 102 Stat. 3750–3752.)
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Subsec. (b)(2). Pub. L. 97–248, §402(c)(9), substituted “(c), or (d)” for
 
 1980—Subsec. (a). Pub. L. 96–223, §101(f)(6)(A), substituted “certain excise taxes” for “chapter 41, 42, 43, or 44 taxes” and “decedent, of tax imposed” for “decedent, or of tax imposed” and inserted “, or of tax imposed by chapter 45 for the same taxable period” after “to which such petition relates” in provisions preceding par. (1).
 
-Subsec. (b)(1). Pub. L. 96–223, §101(f)(6)(B), substituted “of tax imposed by chapter 41” for “or of tax imposed by chapter 41” and inserted “, or of tax imposed by chapter 45 for the same taxable period” after “to which such petition relates”.
+Subsec. (b)(1). Pub. L. 96–223, §101(f)(6)(B), substituted “of tax imposed by chapter 41” for “or of tax imposed by chapter 41” and inserted “, or of tax imposed by chapter 45 for the same taxable period” after “to which such petition relates”.
 
 Subsec. (c). Pub. L. 96–589 added subsec. (c).
 
@@ -136,7 +136,7 @@ Credit for state death taxes against estate tax, see section 2011 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2011, 2014, 6212, 6213, 6214, 6513, 7463, 7481 of this title.
+This section is referred to in sections 2011, 2014, 6212, 6213, 6214, 6404, 6513, 7463, 7481 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

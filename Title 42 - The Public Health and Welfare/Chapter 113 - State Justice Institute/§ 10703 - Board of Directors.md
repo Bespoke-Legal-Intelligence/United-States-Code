@@ -16,7 +16,7 @@
 
 (4) In addition to those members appointed under paragraph (3), the President shall appoint four members from the public sector to serve on the Board.
 
-(5) The President shall make the initial appointments of members of the Board under this subsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as thecase may be. The Conference of Chief Justices shall submit lists of candidates under paragraph (3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
+(5) The President shall make the initial appointments of members of the Board under this subsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as the case may be. The Conference of Chief Justices shall submit lists of candidates under paragraph (3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
 
 (6) The initial members of the Board of Directors shall be the incorporators of the Institute and shall determine the State in which the Institute is to be incorporated.
 

@@ -74,7 +74,7 @@ The Chief Executive Officer shall—
 
 #### (3) Inapplicability of certain civil service laws
 
-&emsp;The Director, the members of the permanent cadre, and the other staff personnel shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
+&emsp;The Director, the members of the permanent cadre, and the other staff personnel shall beappointed without regard to the provisions of title 5 governing appointments in the competitive service. The rates of pay of such persons may be established without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. In the case of a member of the permanent cadre who was recommended for appointment in accordance with section 12622(a)(2)(A) of this title and is entitled to retired or retainer pay, section 5532 of title 5 shall not apply to reduce the member's retired or retainer pay by reason of the member being paid as a member of the cadre.
 
 #### (4) Voluntary services
 

@@ -108,7 +108,7 @@
 
 #### (h) <sup>2</sup> Annual report and budget
 
-The Commission shall prepare and transmit to the Committee on Environment and PublicWorks of the Senate and the Committee on Public Works and Transportation of the House of Representatives (1) an annual report in January of each calendar year on the operation and management of the space leased by the Commission under subsection (a) of this section and the international cultural and trade center, and (2) a budget for such fiscal year for operation, maintenance, and alteration of such center, including amounts received and projected to be received by the Commission in such fiscal year and expenses incurred and projected to be incurred by the Commission in such fiscal year.
+The Commission shall prepare and transmit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives (1) an annual report in January of each calendar year on the operation and management of the space leased by the Commission under subsection (a) of this section and the international cultural and trade center, and (2) a budget for such fiscal year for operation, maintenance, and alteration of such center, including amounts received and projected to be received by the Commission in such fiscal year and expenses incurred and projected to be incurred by the Commission in such fiscal year.
 
 (Pub. L. 100–113, §8, Aug. 21, 1987, 101 Stat. 744.)
 

@@ -14,5 +14,5 @@ Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 426–2 of this title.
+This section is referred to in sections 426–2, 426h of this title.
 

@@ -14,7 +14,3 @@ Any agreement entered into under section 2112 of this title may include provisio
 
 (Pub. L. 93–618, title I, §108, Jan. 3, 1975, 88 Stat. 1985.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2462 of this title.
-

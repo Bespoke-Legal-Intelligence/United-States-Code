@@ -18,11 +18,13 @@
 
 &emsp;(3) A warrant officer on the warrant officer active-duty list who receives a temporary appointment or a temporary assignment in a grade other than a warrant officer grade or chief warrant officer grade shall retain his position on the warrant officer active-duty list while so serving.
 
-(e) A chief warrant officer may not be considered for promotion to the next higher grade under this chapter until the officer has completed three years of service on active duty in the grade in which the officer is serving.
+(e) A chief warrant officer may not be considered for promotion to the next higher grade under this chapter until the officer has completed two years of service on active duty in the grade in which the officer is serving.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, §1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(2), Oct. 5, 1994, 108 Stat. 2764.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, §1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–201, div. A, title V, §506(a), Sept. 23, 1996, 110 Stat. 2512.)
 
 #### Amendments
+
+1996—Subsec. (e). Pub. L. 104–201 substituted “two years of service” for “three years of service”.
 
 1994—Subsecs. (a), (b). Pub. L. 103–337 substituted “Secretary concerned” for “Secretary of each military department”.
 

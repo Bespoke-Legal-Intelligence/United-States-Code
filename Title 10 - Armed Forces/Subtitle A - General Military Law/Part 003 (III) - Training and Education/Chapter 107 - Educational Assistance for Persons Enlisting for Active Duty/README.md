@@ -16,7 +16,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 227, 2005 of this title; title 20 section 1087vv; title 38 sections 3033, 3222, 3681, 3695, 3697A.
+This chapter is referred to in section 2005 of this title; title 20 section 1087vv; title 38 sections 3033, 3222, 3681, 3695, 3697A.
 
 
 ---

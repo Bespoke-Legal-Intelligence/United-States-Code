@@ -156,9 +156,11 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;<b>For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Sept. 2, 1958, Pub. L. 85–866, title I, §29(c), 72 Stat. 1628; June 25, 1959, Pub. L. 86–69, §3(c), 73 Stat. 139; Oct. 16, 1962, Pub. L. 87–834, §2(d), 76 Stat. 971; Feb. 26, 1964, Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), 78 Stat. 46, 92; Jan. 2, 1968, Pub. L. 90–240, §5(d), 81 Stat. 778; Dec. 30, 1969, Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), 83 Stat. 633, 639, 654; Dec. 10, 1971, Pub. L. 92–178, title VI, §601(c)(3), 85 Stat. 557; Oct. 4, 1976, Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; May 23, 1977, Pub. L. 95–30, title II, §202(d)(3)(A), 91 Stat. 148; Nov. 6, 1978, Pub. L. 95–600, title III, §362(d)(2), 92 Stat. 2851; Apr. 2, 1980, Pub. L. 96–223, title II, §232(b)(2)(B), 94 Stat. 276; Oct. 19, 1980, Pub. L. 96–471, §2(b)(2), 94 Stat. 2253; Dec. 24, 1980, Pub. L. 96–589, §4(g), 94 Stat. 3404; Aug. 13, 1981, Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), 95 Stat. 226, 246, 294; Sept. 3, 1982, Pub. L. 97–248, title II, §224(c)(7), 96 Stat. 489; Jan. 12, 1983, Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), 96 Stat. 2372, 2379; July 18, 1984, Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), 98 Stat. 754, 841; Oct. 22, 1986, Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), 100 Stat. 2179, 2227, 2342, 2833; Dec. 22, 1987, Pub. L. 100–203, title X, §10202(c)(3), 101 Stat. 1330–392; Nov. 10, 1988, Pub. L. 100–647, title I, §1002(a)(13), 102 Stat. 3355; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(10), 103 Stat. 2428; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), 104 Stat. 1388–526, 1388–535; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13302(e), 107 Stat. 556.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Sept. 2, 1958, Pub. L. 85–866, title I, §29(c), 72 Stat. 1628; June 25, 1959, Pub. L. 86–69, §3(c), 73 Stat. 139; Oct. 16, 1962, Pub. L. 87–834, §2(d), 76 Stat. 971; Feb. 26, 1964, Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), 78 Stat. 46, 92; Jan. 2, 1968, Pub. L. 90–240, §5(d), 81 Stat. 778; Dec. 30, 1969, Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), 83 Stat. 633, 639, 654; Dec. 10, 1971, Pub. L. 92–178, title VI, §601(c)(3), 85 Stat. 557; Oct. 4, 1976, Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; May 23, 1977, Pub. L. 95–30, title II, §202(d)(3)(A), 91 Stat. 148; Nov. 6, 1978, Pub. L. 95–600, title III, §362(d)(2), 92 Stat. 2851; Apr. 2, 1980, Pub. L. 96–223, title II, §232(b)(2)(B), 94 Stat. 276; Oct. 19, 1980, Pub. L. 96–471, §2(b)(2), 94 Stat. 2253; Dec. 24, 1980, Pub. L. 96–589, §4(g), 94 Stat. 3404; Aug. 13, 1981, Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), 95 Stat. 226, 246, 294; Sept. 3, 1982, Pub. L. 97–248, title II, §224(c)(7), 96 Stat. 489; Jan. 12, 1983, Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), 96 Stat. 2372, 2379; July 18, 1984, Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), 98 Stat. 754, 841; Oct. 22, 1986, Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), 100 Stat. 2179, 2227, 2342, 2833; Dec. 22, 1987, Pub. L. 100–203, title X, §10202(c)(3), 101 Stat. 1330–392; Nov. 10, 1988, Pub. L. 100–647, title I, §1002(a)(13), 102 Stat. 3355; Dec. 19, 1989, Pub. L. 101–239, title VII, §7841(d)(10), 103 Stat. 2428; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), 104 Stat. 1388–526, 1388–535; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13302(e), 107 Stat. 556; Aug. 20, 1996, Pub. L. 104–188, title I, §1704(t)(26), 110 Stat. 1888.)
 
 #### Amendments
+
+1996—Subsec. (c)(26), (27). Pub. L. 104–188 amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
 
 1993—Subsec. (c)(26). Pub. L. 103–66 added par. (26).
 
@@ -168,13 +170,13 @@ Subsec. (c)(15). Pub. L. 101–508, §11801(c)(10)(A), struck out par. (15) “I
 
 Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) “Method of computing depreciation deduction” which read as follows: “The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.”
 
-1989—Subsec. (c)(26), (27). Pub. L. 101–239, which directed amendment of subsec. (a) by redesignating par. (27) as (26), was executed to subsec. (c) as the probable intent of Congress.
+1989—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
 
 1988—Subsec. (c)(24). Pub. L. 100–647 substituted “depreciation deduction” for “recovery allowance for recovery property” in heading.
 
 1987—Subsec. (c)(8). Pub. L. 100–203 struck out “or 453A” after “section 453” in two places.
 
-1986—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a),the acquiring corporation shall be deemed to have been allowed such deduction.”
+1986—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: “For the purposeof applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
 
 Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
 
@@ -252,7 +254,7 @@ Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted “Treatment of cert
 
 1964—Subsec. (c)(15). Pub. L. 88–272, §225(i)(3), substituted “subsections (b)(7) and (c) of section 545, relating to deductions with respect to payment of certain indebtedness” for “section 545(b)(7), relating to a deduction for payment of certain indebtedness incurred before Jan. 1, 1934”.
 
-Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable yearand in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
+Subsec. (c)(19). Pub. L. 88–272, §209(d)(2), permitted deductions for contributions made in the taxable year and in 4 prior taxable years, instead of one prior taxable year, and provided that each taxable year beginning on or before the distribution or transfer date shall be treated as a prior taxable year with reference to the acquiring corporation's taxable years beginning after such date.
 
 1962—Subsec. (c)(23). Pub. L. 87–834 added par. (23).
 
@@ -452,5 +454,5 @@ Effect on earnings and profits, see section 312 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 45A, 50, 172, 394, 597, 807, 809, 810, 832, 904, 1388, 1396, 1847, 7518 of this title; title 46 App. section 1177.
+This section is referred to in sections 45A, 50, 172, 394, 593, 597, 807, 809, 810, 832, 904, 1388, 1396, 1847, 7518 of this title; title 46 App. section 1177.
 

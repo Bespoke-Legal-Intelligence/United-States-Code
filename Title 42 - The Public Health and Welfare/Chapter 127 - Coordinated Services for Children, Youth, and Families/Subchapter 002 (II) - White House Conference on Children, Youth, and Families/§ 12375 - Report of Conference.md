@@ -18,7 +18,7 @@ Not later than 180 days after submission of the views and comments of the chief 
 
 &emsp;&emsp;(B) the views and comments of the chief executive officers of the States; and
 
-&emsp;&emsp;(C) the recommendations of the Secretary, after taking into consideration the viewsand comments of such officers, for administrative and legislative action necessary to implement the recommendations of the Conference; and
+&emsp;&emsp;(C) the recommendations of the Secretary, after taking into consideration the views and comments of such officers, for administrative and legislative action necessary to implement the recommendations of the Conference; and
 
 &emsp;(2) publish and transmit such report to the President and the chairman of the Committee on Education and Labor of the House of Representatives and chairman of the Committee on Labor and Human Resources of the Senate.
 
@@ -26,5 +26,5 @@ Not later than 180 days after submission of the views and comments of the chief 
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 

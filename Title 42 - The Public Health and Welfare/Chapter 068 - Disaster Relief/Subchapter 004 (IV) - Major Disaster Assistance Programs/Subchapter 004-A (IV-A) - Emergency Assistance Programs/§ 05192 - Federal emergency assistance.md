@@ -30,7 +30,7 @@ In any emergency, the President may—
 
 #### (b) General
 
-Whenever the Federal assistance provided under subsection (a) of this section with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and publichealth and safety, and lessen or avert the threat of a catastrophe.
+Whenever the Federal assistance provided under subsection (a) of this section with respect to an emergency is inadequate, the President may also provide assistance with respect to efforts to save lives, protect property and public health and safety, and lessen or avert the threat of a catastrophe.
 
 (Pub. L. 93–288, title V, §502, as added Pub. L. 100–707, title I, §107(a), Nov. 23, 1988, 102 Stat. 4706.)
 

@@ -28,7 +28,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 (2)(A) No fuel, class of fuels, or fuel additive may be controlled or prohibited by the Administrator pursuant to clause (A) of paragraph (1) except after consideration of all relevant medical and scientific evidence available to him, including consideration of other technologically or economically feasible means of achieving emission standards under section 7521 of this title.
 
-(B) No fuel or fuel additive may be controlled or prohibited by the Administrator pursuant to clause (B) of paragraph (1) except after consideration of available scientific and economic data, including a cost benefit analysis comparing emission control devices or systems which are or will be in general use and require the proposed control or prohibition with emission control devices or systems which are or will be in general use and do not require the proposed control or prohibition. On request of a manufacturer of motor vehicles, motor vehicle engines, fuels, or fuel additives submitted within 10 days of notice of proposed rulemaking, the Administrator shall hold a public hearing and publish findings with respect to any matter he is required to consider under this subparagraph. Such findings shall be published at the time of promulgation of final regulations.
+(B) No fuel or fuel additive may be controlled or prohibited by the Administrator pursuant toclause (B) of paragraph (1) except after consideration of available scientific and economic data, including a cost benefit analysis comparing emission control devices or systems which are or will be in general use and require the proposed control or prohibition with emission control devices or systems which are or will be in general use and do not require the proposed control or prohibition. On request of a manufacturer of motor vehicles, motor vehicle engines, fuels, or fuel additives submitted within 10 days of notice of proposed rulemaking, the Administrator shall hold a public hearing and publish findings with respect to any matter he is required to consider under this subparagraph. Such findings shall be published at the time of promulgation of final regulations.
 
 (C) No fuel or fuel additive may be prohibited by the Administrator under paragraph (1) unless he finds, and publishes such finding, that in his judgment such prohibition will not cause the use of any other fuel or fuel additive which will produce emissions which will endanger the public health or welfare to the same or greater degree than the use of the fuel or fuel additive proposed to be prohibited.
 
@@ -102,7 +102,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (2) Attainment areas
 
-&emsp;The regulations under this subsection shall not make it unlawful for any person to sell, offer for supply, transport, or introduce into commerce gasoline with a Reid Vapor Pressure of 9.0 pounds per square inch (psi) or lower in any area designated under section 7407 of this title as an attainment area. Notwithstanding the preceding sentence, the Administrator may impose a Reid vapor pressure requirement lower than 9.0 pounds per square inch (psi) in any area, formerly an ozone nonattainment area, which has been redesignated as an attainment area.
+&emsp;The regulations under this subsection shall not make it unlawful for any person to sell,offer for supply, transport, or introduce into commerce gasoline with a Reid Vapor Pressure of 9.0 pounds per square inch (psi) or lower in any area designated under section 7407 of this title as an attainment area. Notwithstanding the preceding sentence, the Administrator may impose a Reid vapor pressure requirement lower than 9.0 pounds per square inch (psi) in any area, formerly an ozone nonattainment area, which has been redesignated as an attainment area.
 
 #### (3) Effective date; enforcement
 
@@ -200,7 +200,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (i) VOC emissions
 
-&emsp;&emsp;&emsp;During the high ozone season (as defined by the Administrator), the aggregate emissions of ozone forming volatile organic compounds from baseline vehicles when using the reformulated gasoline shall be 15 percent below the aggregate emissions of ozone forming volatile organic compounds from such vehicles when using baseline gasoline. Effective in calendar year 2000 and thereafter, 25 percent shall be substituted for 15 percent in applying this clause, except that the Administrator may adjust such 25 percent requirement to provide for a lesser or greater reduction based on technological feasibility, considering the cost of achieving such reductions in VOC emissions. No such adjustment shall provide for less than a 20 percent reduction below the aggregate emissions of such air pollutants from such vehicles when using baseline gasoline. The reductions required under this clause shall be on a mass basis.
+&emsp;&emsp;&emsp;During the high ozone season (as defined by the Administrator), the aggregate emissions of ozone forming volatile organic compounds from baseline vehicles when using the reformulated gasoline shall be 15 percent below the aggregate emissions of ozone forming volatile organic compounds from such vehicles when using baseline gasoline. Effective in calendar year 2000 and thereafter, 25 percent shall be substituted for 15 percent in applying this clause, except that the Administrator mayadjust such 25 percent requirement to provide for a lesser or greater reduction based on technological feasibility, considering the cost of achieving such reductions in VOC emissions. No such adjustment shall provide for less than a 20 percent reduction below the aggregate emissions of such air pollutants from such vehicles when using baseline gasoline. The reductions required under this clause shall be on a mass basis.
 
 #### (ii) Toxics
 
@@ -240,7 +240,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 &emsp;(A) Upon the application of the Governor of a State, the Administrator shall apply the prohibition set forth in paragraph (5) in any area in the State classified under subpart 2 of part D of subchapter I of this chapter as a Marginal, Moderate, Serious, or Severe Area (without regard to whether or not the 1980 population of the area exceeds 250,000). In any such case, the Administrator shall establish an effective date for such prohibition as he deems appropriate, not later than January 1, 1995, or 1 year after such application is received, whichever is later. The Administrator shall publish such application in the Federal Register upon receipt.
 
-&emsp;(B) If the Administrator determines, on the Administrator's own motion or on petition of any person, after consultation with the Secretary of Energy, that there is insufficient domestic capacity to produce gasoline certified under this subsection, the Administrator shall, by rule, extend the effective date of such prohibition in Marginal, Moderate, Serious, or Severe Areas referred to in subparagraph (A) for one additional year, and may, by rule, renew such extension for 2 additional one-year periods. The Administrator shall act on any petition submitted under this paragraph within 6 months after receipt of the petition. The Administrator shall issue such extensions for areas with a lower ozone classification before issuing any such extension for areas with a higher classification.
+&emsp;(B) If the Administrator determines, on the Administrator's own motion or on petition of any person, after consultation with the Secretary of Energy, that there is insufficient domestic capacity to produce gasoline certified under this subsection, the Administrator shall, by rule, extend the effective date of such prohibition in Marginal, Moderate, Serious, or Severe Areas referred to in subparagraph (A) for one additional year, and may, by rule, renew such extension for 2 additional one-year periods. The Administrator shall act on any petition submitted under this paragraph within 6 months after receipt of the petition. The Administrator shall issue such extensions forareas with a lower ozone classification before issuing any such extension for areas with a higher classification.
 
 #### (7) Credits
 
@@ -300,9 +300,11 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (i) Summertime
 
-&emsp;&emsp;&emsp;The term “baseline gasoline” means in the case of gasoline sold during the high ozone period (as defined by the Administrator) a gasoline which meets the following specifications:
+&emsp;&emsp;&emsp;The term “baseline gasoline” means in the case of gasoline sold during the highozone period (as defined by the Administrator) a gasoline which meets the following specifications:
 
-&emsp;&emsp;&nbsp;BASELINE GASOLINE FUEL     PROPERTIES
+&emsp;&emsp;&nbsp;BASELINE GASOLINE FUEL
+
+&emsp;&emsp;&nbsp;&nbsp;PROPERTIES
 
 &emsp;&emsp;&nbsp;&nbsp;API Gravity
 
@@ -310,7 +312,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 &emsp;&emsp;&nbsp;&nbsp;Sulfur, ppm
 
-339&nbsp;&nbsp;
+339&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;Benzene, %
 
@@ -326,23 +328,23 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 &emsp;&emsp;&nbsp;&nbsp;IBP, F
 
-91&nbsp;&nbsp;
+91&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;10%, F
 
-128&nbsp;&nbsp;
+128&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;50%, F
 
-218&nbsp;&nbsp;
+218&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;90%, F
 
-330&nbsp;&nbsp;
+330&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;End Point, F
 
-415&nbsp;&nbsp;
+415&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;Aromatics, %
 
@@ -378,7 +380,7 @@ The Administrator may by regulation designate any fuel or fuel additive (includi
 
 #### (D) Covered area
 
-&emsp;&emsp;The 9 ozone nonattainment areas having a 1980 population in excess of 250,000 and having the highest ozone design value during the period 1987 through 1989 shall be “covered areas” for purposes of this subsection. Effective one year after the reclassificationof any ozone nonattainment area as a Severe ozone nonattainment area under section 7511(b) of this title, such Severe area shall also be a “covered area” for purposes of this subsection.
+&emsp;&emsp;The 9 ozone nonattainment areas having a 1980 population in excess of 250,000 and having the highest ozone design value during the period 1987 through 1989 shall be “covered areas” for purposes of this subsection. Effective one year after the reclassification of any ozone nonattainment area as a Severe ozone nonattainment area under section 7511(b) of this title, such Severe area shall also be a “covered area” for purposes of this subsection.
 
 #### (E) Reformulated gasoline
 
@@ -408,7 +410,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;&emsp;(B) if the area is not located in a CMSA, the Metropolitan Statistical Area in which the area is located,
 
-> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide to contain not less than 2.7 percent oxygen by weight (subject to a testing tolerance established by the Administrator). The portion of the year in which the area is prone to high ambient concentrations of carbon monoxide shall be as determined by the Administrator, but shall not be less than 4 months. At the request of a State with respect to any area designated as nonattainment for carbon monoxide, the Administrator may reduce the period specified in the preceding sentence if the State can demonstrate that because of meteorological conditions, a reduced period will assure that there will be no exceedances of the carbon monoxide standard outside of such reduced period. For areas with a carbon monoxide design value of 9.5 ppm or more of <sup>2</sup> November 15, 1990, the revision shall provide that such requirement shall take effect no later than November 1, 1992 (or at such other date during 1992 as the Administrator establishes under the preceding provisions of this paragraph). For other areas, the revision shall provide that such requirement shall take effect no later than November 1 of the third year after the last year of the applicable 2-year period referred to in paragraph (1) (or at such other date during such third year as the Administrator establishes under the preceding provisions of this paragraph) and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
+> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide to contain not less than 2.7 percent oxygen by weight (subject to a testing tolerance established by the Administrator). The portion of the year in which the area is prone to high ambient concentrations of carbon monoxide shall be as determined by the Administrator, but shall not be less than 4 months. At the request of a State with respect to any area designated as nonattainment for carbon monoxide, the Administrator may reduce the period specified in the preceding sentence if the State can demonstrate that because of meteorological conditions, a reduced period will assure that there will be no exceedances of the carbon monoxide standard outside of such reduced period. For areas with a carbon monoxide design value of 9.5 ppm or more of <sup>2</sup> November 15, 1990, the revision shall provide that such requirement shall take effect no later than November 1, 1992 (or at such other date during 1992 as the Administrator establishes under the precedingprovisions of this paragraph). For other areas, the revision shall provide that such requirement shall take effect no later than November 1 of the third year after the last year of the applicable 2-year period referred to in paragraph (1) (or at such other date during such third year as the Administrator establishes under the preceding provisions of this paragraph) and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
 
 #### (3) Waivers
 
@@ -418,7 +420,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;(C)(i) Any person may petition the Administrator to make a finding that there is, or is likely to be, for any area, an inadequate domestic supply of, or distribution capacity for, oxygenated gasoline meeting the requirements of paragraph (2) or fuel additives (oxygenates) necessary to meet such requirements. The Administrator shall act on such petition within 6 months after receipt of the petition.
 
-&emsp;(ii) If the Administrator determines, in response to a petition under clause (i), that there is an inadequate supply or capacity described in clause (i), the Administrator shall delay the effective date of paragraph (2) for 1year. Upon petition, the Administrator may extend such effective date for one additional year. No partial delay or lesser waiver may be granted under this clause.
+&emsp;(ii) If the Administrator determines, in response to a petition under clause (i), that there is an inadequate supply or capacity described in clause (i), the Administrator shall delay the effective date of paragraph (2) for 1 year. Upon petition, the Administrator may extend such effective date for one additional year. No partial delay or lesser waiver may be granted under this clause.
 
 &emsp;(iii) In granting waivers under this subparagraph the Administrator shall consider distribution capacity separately from the adequacy of domestic supply and shall grant such waivers in such manner as will assure that, if supplies of oxygenated gasoline are limited, areas having the highest design value for carbon monoxide will have a priority in obtaining oxygenated gasoline which meets the requirements of paragraph (2).
 
@@ -456,7 +458,7 @@ Section was formerly classified to section 1857f–6c of this title.
 
 #### Prior Provisions
 
-A prior section 211 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 503, provided for a national emissions standards study and was classified to section 1857f–6d of this title, prior to repeal by section 8(a) of Pub. L. 91–604.
+A prior section 211 of act July 14, 1955, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 503, provided for anational emissions standards study and was classified to section 1857f–6d of this title, prior to repeal by section 8(a) of Pub. L. 91–604.
 
 #### Amendments
 
@@ -474,7 +476,7 @@ Subsec. (f)(1). Pub. L. 101–549, §214(a), designated existing provisions as s
 
 Subsec. (f)(3). Pub. L. 101–549, §214(b), substituted reference to paragraph (1)(A) for reference to paragraph (1).
 
-Subsec. (g). Pub. L. 101–549, §215, amended subsec. (g) generally, substituting present provisions for provisions which defined “gasoline”, “refinery”, and “small refinery” and which limited Administrator's authorityto require small refineries to reduce average lead content per gallon of gasoline.
+Subsec. (g). Pub. L. 101–549, §215, amended subsec. (g) generally, substituting present provisions for provisions which defined “gasoline”, “refinery”, and “small refinery” and which limited Administrator's authority to require small refineries to reduce average lead content per gallon of gasoline.
 
 Subsec. (h). Pub. L. 101–549, §216, added subsec. (h).
 
@@ -486,7 +488,7 @@ Subsecs. (k) to (m). Pub. L. 101–549, §219, added subsecs. (k) to (m).
 
 Subsec. (n). Pub. L. 101–549, §220, added subsec. (n).
 
-Subsec. (<i>o</i>). Pub. L. 101–549, §221, added subsec. (<i>o).</i>
+Subsec. (<i>o</i>). Pub. L. 101–549, §221, added subsec. (<i>o</i>).
 
 1977—Subsec. (c)(1)(A). Pub. L. 95–95, §401(e), substituted “if in the judgment of the Administrator any emission product of such fuel or fuel additive causes, or contributes, to air pollution which may reasonably be anticipated to endanger” for “if any emission products of such fuel or fuel additive will endanger”.
 
@@ -552,7 +554,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7416, 7511a, 7511b, 7521, 7524, 7604, 7607, 7617, 7651i of this title.
+This section is referred to in sections 7416, 7511a, 7511b, 7521, 7524, 7604, 7607, 7617, 7651i of this title; title 26 section 4082.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “7625–1”.</i>
 

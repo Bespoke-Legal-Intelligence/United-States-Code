@@ -6,7 +6,9 @@ This chapter does not affect the authority of the Secretary of Transportation to
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -24,7 +24,7 @@ The Commission shall—
 
 &emsp;(11) study and make recommendations on the use of advanced technology in the management and delivery of services and activities conducted under this chapter.
 
-(Pub. L. 97–300, title IV, §473, Oct. 13, 1982, 96 Stat. 1388; Pub. L. 98–524, §4(a)(8), Oct. 19, 1984, 98Stat. 2488; Pub. L. 102–367, title VII, §702(a)(18), Sept. 7, 1992, 106 Stat. 1112.)
+(Pub. L. 97–300, title IV, §473, Oct. 13, 1982, 96 Stat. 1388; Pub. L. 98–524, §4(a)(8), Oct. 19, 1984, 98 Stat. 2488; Pub. L. 102–367, title VII, §702(a)(18), Sept. 7, 1992, 106 Stat. 1112.)
 
 #### Amendments
 

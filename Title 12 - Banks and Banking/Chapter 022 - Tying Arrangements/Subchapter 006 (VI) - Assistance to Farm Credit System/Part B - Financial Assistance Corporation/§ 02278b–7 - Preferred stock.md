@@ -40,5 +40,5 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2202c, 2254, 2278a–4, 2278a–5, 2278b–6 of this title; title 7 section 1999.
+This section is referred to in sections 2202c, 2254, 2278a–4, 2278a–5, 2278b–6 of this title.
 

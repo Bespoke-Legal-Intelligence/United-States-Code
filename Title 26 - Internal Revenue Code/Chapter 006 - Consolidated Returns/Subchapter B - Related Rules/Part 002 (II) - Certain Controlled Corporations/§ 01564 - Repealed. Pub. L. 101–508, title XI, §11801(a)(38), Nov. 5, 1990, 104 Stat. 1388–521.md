@@ -4,7 +4,7 @@ Section, added Pub. L. 91–172, title IV, §401(b)(1), Dec. 30, 1969, 83 Stat. 
 
 #### Savings Provision
 
-For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 ## Subtitle B—Estate and Gift Taxes
 
@@ -16,6 +16,11 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 |  |  |  |
 | :--- | :---: | ---: |
 | <b>11.</b> | <b>Estate tax</b> | <b>2001</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | <b>12.</b> | <b>Gift tax</b> | <b>2501</b> |
 | <b>13.</b> | <b>Tax on generation-skipping transfers</b> | <b>2601</b> |
 | <b>14.</b> | <b>Special valuation rules</b> | <b>2701</b> |

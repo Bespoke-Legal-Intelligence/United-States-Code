@@ -14,6 +14,12 @@ Subpart C—Information Regarding Wages Paid Employees
 
 1964—Pub. L. 88–272, title II, §204(c)(3), Feb. 26, 1964, 78 Stat. 37, added item 6052.
 
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in section 6201 of this title.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
 
 ---
 

@@ -6,7 +6,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;(1) no joint return shall be made if either the husband or wife at any time during the taxable year is a nonresident alien;
 
-&emsp;(2) no joint return shall be made if the husband and wife have different taxable years; except that if such taxable years begin on the same day and end on different days because of the death of either or both, then the joint return may be made with respect to the taxableyear of each. The above exception shall not apply if the surviving spouse remarries before the close of his taxable year, nor if the taxable year of either spouse is a fractional part of a year under section 443(a)(1);
+&emsp;(2) no joint return shall be made if the husband and wife have different taxable years; except that if such taxable years begin on the same day and end on different days because of the death of either or both, then the joint return may be made with respect to the taxable year of each. The above exception shall not apply if the surviving spouse remarries before the close of his taxable year, nor if the taxable year of either spouse is a fractional part of a year under section 443(a)(1);
 
 &emsp;(3) in the case of death of one spouse or both spouses the joint return with respect to the decedent may be made only by his executor or administrator; except that in the case of the death of one spouse the joint return may be made by the surviving spouse with respect to both himself and the decedent if no return for the taxable year has been made by the decedent, no executor or administrator has been appointed, and no executor or administrator is appointed before the last day prescribed by law for filing the return of the surviving spouse. If an executor or administrator of the decedent is appointed after the making of the joint return by the surviving spouse, the executor or administrator may disaffirm such joint return by making, within 1 year after the last day prescribed by law for filing the return of the surviving spouse, a separate return for the taxable year of the decedent with respect to which the joint return was made, in which case the return made by the survivor shall constitute his separate return.
 
@@ -20,15 +20,13 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;The election provided for in paragraph (1) may not be made—
 
-&emsp;&emsp;(A) unless there is paid in full at or before the time of the filing of the joint return the amount shown as tax upon such joint return; or
+&emsp;&emsp;(A) after the expiration of 3 years from the last date prescribed by law for filing the return for such taxable year (determined without regard to any extension of time granted to either spouse); or
 
-&emsp;&emsp;(B) after the expiration of 3 years from the last date prescribed by law for filing the return for such taxable year (determined without regard to any extension of time granted to either spouse); or
+&emsp;&emsp;(B) after there has been mailed to either spouse, with respect to such taxable year, a notice of deficiency under section 6212, if the spouse, as to such notice, files a petition with the Tax Court within the time prescribed in section 6213; or
 
-&emsp;&emsp;(C) after there has been mailed to either spouse, with respect to such taxable year, a notice of deficiency under section 6212, if the spouse, as to such notice, files a petition with the Tax Court within the time prescribed in section 6213; or
+&emsp;&emsp;(C) after either spouse has commenced a suit in any court for the recovery of any part of the tax for such taxable year; or
 
-&emsp;&emsp;(D) after either spouse has commenced a suit in any court for the recovery of any part of the tax for such taxable year; or
-
-&emsp;&emsp;(E) after either spouse has entered into a closing agreement under section 7121 with respect to such taxable year, or after any civil or criminal case arising against either spouse with respect to such taxable year has been compromised under section 7122.
+&emsp;&emsp;(D) after either spouse has entered into a closing agreement under section 7121 with respect to such taxable year, or after any civil or criminal case arising against either spouse with respect to such taxable year has been compromised under section 7122.
 
 #### (3) When return deemed filed
 
@@ -250,9 +248,11 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Sept. 2, 1958, Pub. L. 85–866, title I, §73, 72 Stat. 1660; Dec. 30, 1969, Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), 83 Stat. 675, 676; Jan. 12, 1971, Pub. L. 91–679, §1, 84 Stat. 2063; Dec. 10, 1971, Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), 85 Stat. 510, 511; Jan. 2, 1975, Pub. L. 93–597, §3(a), 88 Stat. 1950; Oct. 4, 1976, Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), 90 Stat. 1612, 1824, 1834; Oct. 20, 1976, Pub. L. 94–569, §3(d), 90 Stat. 2699; Nov. 6, 1978, Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), 92 Stat. 2771, 2919, 2920; Aug. 13, 1981, Pub. L. 97–34, title I, §104(d)(2), 95 Stat. 189; Sept. 3, 1982, Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), 96 Stat. 589, 591; Jan. 12, 1983, Pub. L. 97–448, title III, §307(c), 96 Stat. 2407; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), 98 Stat. 801, 830; Oct. 22, 1986, Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), 100 Stat. 2104, 2782; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(b)(1), 102 Stat. 3568; Dec. 19, 1989, Pub. L. 101–239, title VII, §7721(c)(6), 103 Stat. 2399; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(22), 104 Stat. 1388–519.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Sept. 2, 1958, Pub. L. 85–866, title I, §73, 72 Stat. 1660; Dec. 30, 1969, Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), 83 Stat. 675, 676; Jan. 12, 1971, Pub. L. 91–679, §1, 84 Stat. 2063; Dec. 10, 1971, Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), 85 Stat. 510, 511; Jan. 2, 1975, Pub. L. 93–597, §3(a), 88 Stat. 1950; Oct. 4, 1976, Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), 90 Stat. 1612, 1824, 1834; Oct. 20, 1976, Pub. L. 94–569, §3(d), 90 Stat. 2699; Nov. 6, 1978, Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), 92 Stat. 2771, 2919, 2920; Aug. 13, 1981, Pub. L. 97–34, title I, §104(d)(2), 95 Stat. 189; Sept. 3, 1982, Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), 96 Stat. 589, 591; Jan. 12, 1983, Pub. L. 97–448, title III, §307(c), 96 Stat. 2407; Aug. 5, 1983, Pub. L. 98–67, title I, §102(a), 97 Stat. 369; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), 98 Stat. 801, 830; Oct. 22, 1986, Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), 100 Stat. 2104, 2782; Nov. 10, 1988, Pub. L. 100–647, title I, §1015(b)(1), 102 Stat. 3568; Dec. 19, 1989, Pub. L. 101–239, title VII, §7721(c)(6), 103 Stat. 2399; Nov. 5, 1990, Pub. L. 101–508, title XI, §11704(a)(22), 104 Stat. 1388–519; July 30, 1996, Pub. L. 104–168, title IV, §402(a), 110 Stat. 1459.)
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–168 redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “unless there is paid in full at or before the time of the filing of the joint return the amount shown as tax upon such joint return; or”.
 
 1990—Subsec. (e)(3). Pub. L. 101–508 substituted “section 6662(d)(2)(A)” for “section 6661(b)(2)(A)”.
 
@@ -308,6 +308,10 @@ Subsec. (e). Pub. L. 91–679 added subsec. (e).
 
 1958—Subsec. (b)(2)(C). Pub. L. 85–866 substituted “section 6213” for “such section”.
 
+#### Effective Date of 1996 Amendment
+
+Section 402(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 30, 1996\].”
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
@@ -362,7 +366,7 @@ Amendment by section 102(b)(2) of Pub. L. 95–600 effective with respect to tax
 
 Section 701(u)(15)(E) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this paragraph \[amending this section and section 6401 of this title\]—
 
-&emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerlyI.R.C. 1954, sections 1 et seq. and 1491 et seq. of this title, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
+&emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, sections 1 et seq. and 1491 et seq. of this title, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
 
 &emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid on or after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
@@ -424,5 +428,5 @@ Time for filing return, see section 6072 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 2, 32, 62, 66, 121, 151, 213, 219, 692, 879, 1244, 6017, 6072, 6401, 6501, 6511, 7508, 7701 of this title.
+This section is referred to in sections 1, 2, 32, 62, 66, 121, 151, 213, 692, 879, 1244, 6017, 6072, 6401, 6501, 6511, 7508, 7701 of this title.
 

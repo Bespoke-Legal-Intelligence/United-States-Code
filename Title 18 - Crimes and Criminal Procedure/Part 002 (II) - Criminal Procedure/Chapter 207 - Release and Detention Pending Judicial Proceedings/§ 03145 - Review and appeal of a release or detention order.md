@@ -34,5 +34,5 @@ Reference to United States magistrate or to magistrate deemed to refer to United
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3154, 3156 of this title.
+This section is referred to in sections 3154, 3156 of this title; title 8 section 1535.
 

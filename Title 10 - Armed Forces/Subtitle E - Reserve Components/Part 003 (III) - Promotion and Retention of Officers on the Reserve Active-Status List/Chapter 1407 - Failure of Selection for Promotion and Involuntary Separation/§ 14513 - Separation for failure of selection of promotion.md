@@ -10,10 +10,6 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12646, 14504, 14505, 14506, 14516, 14517, 14701 of this title.

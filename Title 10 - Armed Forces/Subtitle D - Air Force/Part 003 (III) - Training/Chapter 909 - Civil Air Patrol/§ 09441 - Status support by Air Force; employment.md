@@ -20,7 +20,7 @@
 
 &emsp;(5) detail or assign any member of the Air Force or any officer or employee of the Department of the Air Force to any liaison office at the National, State, or Territorial headquarters, and at not more than eight regional headquarters, of the Civil Air Patrol;
 
-&emsp;(6) detail any member of the Air Force or any officer or employee of the Department of the Air Force to any unit or installation of the Civil Air Patrol to assist in the training program of the Civil Air Patrol;
+&emsp;(6) detail any member of the Air Force or any officer or employee of the Department of the Air Force to any unit or installation of theCivil Air Patrol to assist in the training program of the Civil Air Patrol;
 
 &emsp;(7) in time of war, or of national emergency declared after May 27, 1954, by Congress or the President, authorize the payment of travel expenses and allowances, in accordance with subchapter I of chapter 57 of title 5, to members of the Civil Air Patrol while carrying out any mission specifically assigned by the Air Force;
 
@@ -70,7 +70,7 @@ May 26, 1948, ch. 349, 62 Stat. 274, 275; Oct. 31, 1951, ch. 654, §2(5), 65 Sta
 
 In subsection (a), the words “established as” are omitted as executed.
 
-In subsection (b), the words “Materials”, “other equipment”, and “and equip” are omitted as covered by the definition of the word “supplies” in section 101(26) of this title. The words “as he considers to be needed” are substituted for the words “as in the opinion of the Secretary of the Air Force are required”. The words“any member of the Air Force or any employee of the Department of the Air Force” are substituted for the words “military and civilian personnel of the Air Force”. The words “from available stock” and “the requirements of” are omitted as surplusage.
+In subsection (b), the words “Materials”, “other equipment”, and “and equip” are omitted as covered by the definition of the word “supplies” in section 101(26) of this title. The words “as he considers to be needed” are substituted for the words “as in the opinion of the Secretary of the Air Force are required”. The words “any member of the Air Force or any employee of the Department of the Air Force” are substituted for the words “military and civilian personnel of the Air Force”. The words “from available stock” and “the requirements of” are omitted as surplusage.
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Section 1007(b)(2) of Pub. L. 96–342 provided that: “The amendment made by p
 
 #### Civil Air Patrol; Drug Interdiction and Eradication Activities; Reports to Congressional Committees
 
-Pub. L. 100–690, title VII, §7606, Nov. 18, 1988, 102 Stat. 4511, provided that:
+Pub. L. 100–690, title VII, §7606, Nov. 18, 1988, 102 Stat. 4511, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(4), Feb. 10, 1996, 110 Stat. 509, provided that:
 
 “(a)
 
@@ -124,11 +124,11 @@ Regulations.—Within 45 days, the Secretary of the Air Force shall issue such r
 
 “(b)
 
-Reports.—The Secretary of the Air Force shall submit to the Committees on Appropriations and the Committee on Armed Services of the Senate and the House of Representatives \[Committee on Armed Services of the House of Representatives now Committee on National Security\], quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
+Reports.—The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives, quarterly reports which include a detailed description of the activities of the Civil Air Patrol in support of the Federal, State, and local government agencies’ drug interdiction and eradication programs. The first report shall be submitted on the last day of the first quarter ending not less than 150 days after the date of the enactment \[Nov. 18, 1988\].”
 
 #### Participation in Drug Interdiction Efforts
 
-Pub. L. 99–570, title III, §3059, Oct. 27, 1986, 100 Stat. 3207–79, provided that:
+Pub. L. 99–570, title III, §3059, Oct. 27, 1986, 100 Stat. 3207–79, as amended by Pub. L. 104–106, div. A, title XV, §1502(f)(3), Feb. 10, 1996, 110 Stat. 509, provided that:
 
 “(a)
 
@@ -144,7 +144,7 @@ Authorization.—In addition to any other amounts appropriated for the Civil Air
 
 “(c)
 
-Reports.—(1) The Secretary of the Air Force shall submit to the Committees on Appropriations and on Armed Services of the Senate and the House of Representatives \[Committee on Armed Services of the House of Representatives now Committee on National Security\] quarterly reports which contain the following information:
+Reports.—(1) The Secretary of the Air Force shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives quarterly reports which contain the following information:
 
 &emsp;“(A) A description of the manner in which any funds are used under subsection (b).
 

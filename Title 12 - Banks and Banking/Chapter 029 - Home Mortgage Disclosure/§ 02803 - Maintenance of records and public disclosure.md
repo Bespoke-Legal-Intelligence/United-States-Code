@@ -38,7 +38,7 @@ Subject to subsection (h) of this section, the Board shall prescribe a standard 
 
 #### (f) Data disclosure system; operation, etc.
 
-The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitateaccess to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
 #### (g) Exceptions
 
@@ -102,7 +102,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (5) Time of disclosure
 
-&emsp;The disclosure of the loan application register information described in paragraph (1) for any year pursuant to a request under paragraph (1) shall be made—
+&emsp;The disclosure of the loan application register information described in paragraph (1)for any year pursuant to a request under paragraph (1) shall be made—
 
 &emsp;&emsp;(A) in the case of a request made on or before March 1 of the succeeding year, before April 1 of the succeeding year; and
 
@@ -114,7 +114,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (7) Minimizing compliance costs
 
-&emsp;In prescribing regulations under this subsection, the Board shall make every effort tominimize the costs incurred by a depository institution in complying with this subsection and such regulations.
+&emsp;In prescribing regulations under this subsection, the Board shall make every effort to minimize the costs incurred by a depository institution in complying with this subsection and such regulations.
 
 #### (k) Disclosure of statements by depository institutions
 
@@ -162,7 +162,27 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 &emsp;The Federal Financial Institutions Examination Council shall make such changes in the system established pursuant to subsection (f) of this section as may be necessary to carry out the requirements of this subsection.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891.)
+#### (m) Opportunity to reduce compliance burden
+
+#### (1) In general
+
+#### (A) Satisfaction of public availability requirements
+
+&emsp;&emsp;A depository institution shall be deemed to have satisfied the public availability requirements of subsection (a) of this section if the institution compiles the information required under that subsection at the home office of the institution and provides notice at the branch locations specified in subsection (a) of this section that such information is available from the home office of the institution upon written request.
+
+#### (B) Provision of information upon request
+
+&emsp;&emsp;Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a) of this section, the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
+
+#### (2) Form of information
+
+&emsp;In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
+
+&emsp;&emsp;(A) a paper copy of the information requested; or
+
+&emsp;&emsp;(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.
+
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1),Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
 
 #### References in Text
 
@@ -174,9 +194,11 @@ The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch
 
 #### Amendments
 
+1996—Subsec. (m). Pub. L. 104–208 added subsec. (m).
+
 1992—Subsec. (c). Pub. L. 102–550, §932(b), inserted “, other than loan application register information under subsection (j) of this section,” after “under this section”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 102–550, §932(a), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 102–550, §932(a), added subsecs. (j) to (<i>l</i>).
 
 1991—Subsec. (h)(1). Pub. L. 102–242, §212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
 

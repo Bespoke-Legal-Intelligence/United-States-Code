@@ -6,7 +6,7 @@ The Secretary shall establish, within the National Agricultural Library, in coor
 
 #### (b) Functions
 
-The Clearinghouse shall provide and distribute information and data to any industry, organization, or Federal, State, or local government entity, on request, about programs and services provided by Federal, State, and local agencies and private nonprofit organizations and institutions under which individuals residing in, or organizations and State and local government entities operating in, a rural area may be eligible for any kind of assistance, including job training, education, health care, and economic development assistance, and emotional and financial counseling. To the extent possible, the National Agricultural Library shall use telecommunications technology to disseminate information to rural areas.
+The Clearinghouse shall provide and distribute information and data to any industry, organization, or Federal, State, or local government entity, on request, about programs and services provided by Federal, State, and local agencies and private nonprofit organizations and institutions under which individuals residing in, or organizations and State and local government entities operating in, a rural area may be eligible for any kind of assistance, including job training, education, health care, and economic development assistance, and emotional and financialcounseling. To the extent possible, the National Agricultural Library shall use telecommunications technology to disseminate information to rural areas.
 
 #### (c) Federal agencies
 
@@ -18,11 +18,19 @@ The Secretary shall request State and local governments and private nonprofit or
 
 #### (e) Limitation on authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 1995.
+To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 1997.
 
-(Pub. L. 101–624, title XXIII, §2381, Nov. 28, 1990, 104 Stat. 4049.)
+(Pub. L. 101–624, title XXIII, §2381, Nov. 28, 1990, 104 Stat. 4049; Pub. L. 104–127, title VIII, §842, Apr. 4, 1996, 110 Stat. 1170.)
 
 #### Codification
 
 Section was enacted as part of the Rural Economic Development Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+
+#### Amendments
+
+1996—Subsec. (e). Pub. L. 104–127 substituted “1997” for “1995”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 917 of this title.
 

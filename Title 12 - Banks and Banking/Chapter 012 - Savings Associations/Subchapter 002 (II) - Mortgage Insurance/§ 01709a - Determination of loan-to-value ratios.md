@@ -1,6 +1,6 @@
 ### §1709a. Determination of loan-to-value ratios
 
-The Secretary of Housing and Urban Development, in establishing maximum loan-to-value ratios for mortgages insured by him under the National Housing Act \[12 U.S.C. 1701 et seq.\], as amended by sections 101, 102, and 103 of this Act, shall determine that such ratios are in the public interest after taking into consideration (1) the effect of such ratios on the national economy and on conditions in the building industry, and (2) the availability or unavailability of residential mortgage credit assisted under the Servicemen's Readjustment Act of 1944, as amended.
+The Secretary of Housing and Urban Development, in establishing maximum loan-to-value ratios for mortgages insured by him under theNational Housing Act \[12 U.S.C. 1701 et seq.\], as amended by sections 101, 102, and 103 of this Act, shall determine that such ratios are in the public interest after taking into consideration (1) the effect of such ratios on the national economy and on conditions in the building industry, and (2) the availability or unavailability of residential mortgage credit assisted under the Servicemen's Readjustment Act of 1944, as amended.
 
 (Pub. L. 85–104, title I, §104, July 12, 1957, 71 Stat. 296; Pub. L. 90–19, §14(a), May 25, 1967, 81 Stat. 24.)
 

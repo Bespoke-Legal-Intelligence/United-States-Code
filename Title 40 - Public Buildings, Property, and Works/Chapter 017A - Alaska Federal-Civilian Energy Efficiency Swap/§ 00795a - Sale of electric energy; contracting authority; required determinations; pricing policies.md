@@ -10,7 +10,7 @@
 
 &emsp;(4) such sale will result in a reduction in the total consumption of oil or natural gas by the non-Federal person purchasing such electric energy below that consumption which would occur in the absence of such sale.
 
-(b) Federally generated electric energy sold by an agency as provided in subsection (a) of this section shall be priced to recover the fuel costs and variable operation and maintenance costs of the Federal generating facility concerned which costs are attributable to such sale, plus an amount equal to one-half the difference between—
+(b) Federally generated electric energy sold by an agency as provided in subsection (a) of this section shall be priced to recover the fuel costs and variable operation and maintenance costs of the Federal generating facility concerned which costs are attributable to such sale, plus anamount equal to one-half the difference between—
 
 &emsp;(1) the costs of producing the electric energy by coal generation, and
 

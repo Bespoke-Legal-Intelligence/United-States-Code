@@ -14,7 +14,7 @@ Each of the following officers is entitled to special pay at the rate of $100 a 
 
 &emsp;&emsp;(A) of a Reserve component of the Army who is in the Veterinary Corps of the Army;
 
-&emsp;&emsp;(B) of a Reserve component of the Air Force, of the Army or the Air Force withoutspecification of component, or of the National Guard, who is designated as a veterinary officer of the Army or the Air Force, as the case may be; or
+&emsp;&emsp;(B) of a Reserve component of the Air Force, of the Army or the Air Force without specification of component, or of the National Guard, who is designated as a veterinary officer of the Army or the Air Force, as the case may be; or
 
 &emsp;&emsp;(C) who is a veterinary officer of the Reserve Corps of the Public Health Service,
 
@@ -33,6 +33,12 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 303(a)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 303(b)
 

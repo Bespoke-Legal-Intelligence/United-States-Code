@@ -15,7 +15,7 @@
 | (i) | Development of facilities for assembling, processing, transporting, etc. |
 | (j) | Improvement of transportation facilities and rates. |
 | (k) | Collection and dissemination of marketing statistics. |
-| <i>(l)</i> | Development of procurement standards and specifications. |
+| (<i>l</i>) | Development of procurement standards and specifications. |
 | (m) | Promotion of research for handling, storing, preserving, etc. |
 | (n) | General research, services, and activities. |
 | [1622a.](%C2%A7%2001622a%20-%20Authority%20to%20assist%20farmers%20and%20elevator%20operators.md) | Authority to assist farmers and elevator operators. |
@@ -45,7 +45,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 6104 of this title; title 21 section 1033.
+This chapter is referred to in sections 1623a, 6104 of this title; title 21 section 1033.
 
 
 ---

@@ -32,7 +32,7 @@ If any officer authorized to enforce the provisions of this chapter (as provided
 
 #### (d) Jurisdiction of courts
 
-The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam, and any Commonwealth, territory, or possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii. Any such court may, at any time—
+The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands. Any such court may, at any time—
 
 &emsp;(1) enter restraining orders or prohibitions;
 
@@ -44,21 +44,21 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (e) Payment of storage, care, and other costs
 
-(1) Notwithstanding any other provision of law, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, and forfeitures of property for violations of any provisions of this chapter or of any other fishery resource law enforced by the Secretary, including the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.)—
+(1) Notwithstanding any other provision of law, the Secretary or the Secretary of the Treasury may pay from sums received as fines, penalties, and forfeitures of property for violations of any provisions of this chapter or of any other marine resource law enforced by the Secretary, including the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.)—
 
-&emsp;(A) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenance of seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter or any other fishery resource law enforced by the Secretary with respect to that fish or other property;
+&emsp;(A) the reasonable and necessary costs incurred in providing temporary storage, care, and maintenance of seized fish or other property pending disposition of any civil or criminal proceeding alleging a violation of any provision of this chapter or any other marine resource law enforced by the Secretary with respect to that fish or other property;
 
-&emsp;(B) a reward to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other fishery resource law enforced by the Secretary;
+&emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcementproceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
-&emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
+&emsp;(E) claims of parties in interest to property disposed of under section 1612(b) of title 19, as made applicable by section 1860(c) of this title or by any other marine resource law enforced by the Secretary, to seizures made by the Secretary, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and
 
 &emsp;(F) reimbursement to any Federal or State agency, including the Coast Guard, for services performed, or personnel, equipment, or facilities utilized, under any agreement with the Secretary entered into pursuant to subsection (a) of this section, or any similar agreement authorized by law.
 
-(2) Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation.
+(2) Any person found in an administrative or judicial proceeding to have violated this chapter or any other marine resource law enforced by the Secretary shall be liable for the cost incurred in the sale, storage, care, and maintenance of any fish or other property lawfully seized in connection with the violation.
 
 #### (f) Enforcement of Northeast Multispecies Fishery Management Plan
 
@@ -74,7 +74,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (A) Establishment
 
-&emsp;&emsp;The Commander of the First Coast Guard District shall establish an informal fisheries enforcement working group to improve the overall compliance with and effectiveness of the regulations issued under the Northeast Multispecies Fishery Management Plan.
+&emsp;&emsp;The Commander of the First Coast Guard District shall establish an informal fisheriesenforcement working group to improve the overall compliance with and effectiveness of the regulations issued under the Northeast Multispecies Fishery Management Plan.
 
 #### (B) Membership
 
@@ -98,15 +98,19 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;Amounts available to the Secretary under this chapter which are attributable to fines and penalties imposed for violations of the Northeast Multispecies Fishery Management Plan shall be used by the Secretary pursuant to this section to enforce that Plan.
 
-#### (g) Definitions
+#### (g) Enforcement in Pacific Insular Areas
+
+The Secretary, in consultation with the Governors of the Pacific Insular Areas and the Western Pacific Council, shall to the extent practicable support cooperative enforcement agreements between Federal and Pacific Insular Area authorities.
+
+#### (h) Definitions
 
 For purposes of this section—
 
-&emsp;(1) The term “provisions of this chapter” includes (A) any regulation or permit issued pursuant to this chapter, and (B) any provision of, or regulation issued pursuant to, any international fishery agreement under which foreign fishing is authorized by section 1821(b) or (c) of this title, with respect to fishing subject to the exclusive fishery management authority of the United States.
+&emsp;(1) The term “provisions of this chapter” includes (A) any regulation or permit issued pursuant to this chapter, and (B) any provision of, or regulation issued pursuant to, any international fishery agreement under which foreign fishing is authorized by section 1821(b) or (c) of this title, or section 1824(d) of this title, with respect to fishing subject to the exclusive fishery management authority of the United States.
 
 &emsp;(2) The term “violation of any provision of this chapter” includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
 
-(Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316.)
+(Pub. L. 94–265, title III, §311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, §209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, §117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, §301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, §901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, §115, Oct. 11, 1996, 110 Stat. 3599.)
 
 #### Amendment of Subsection (b)(2)
 
@@ -114,11 +118,29 @@ For purposes of this section—
 
 #### References in Text
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions setout as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 The customs laws, referred to in subsec. (e)(1)(E), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–297, §115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
+
+Pub. L. 104–297, §115(a)(1), which directed substitution of “Guam or any” for “Guam, any Commonwealth, territory, or”, was executed by making the substitution for “Guam, and any Commonwealth, territory, or”, to reflect the probable intent of Congress.
+
+Subsec. (e)(1). Pub. L. 104–297, §115(b)(1), substituted “marine resource law” for “fishery resource law” in introductory provisions and in subpars. (A) and (B).
+
+Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted “of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount,” after “reward”.
+
+Subsec. (e)(1)(E). Pub. L. 104–297, §115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: “claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and”.
+
+Subsec. (e)(2). Pub. L. 104–297, §115(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation.”
+
+Subsec. (g). Pub. L. 104–297, §115(d), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 104–297, §115(d), redesignated subsec. (g) as (h).
+
+Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec. (i)(1) by substituting “1821(b) or (c) of this title, or section 1824(d) of this title,” for “1821(b), (c) of this title,”, was executed by making thesubstitution for “1821(b) or (c) of this title” in subsec. (h)(1) to reflect the probable intent of Congress because this section does not contain a subsec. (i).
 
 1992—Subsecs. (f), (g). Pub. L. 102–567 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -152,25 +174,11 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Effective Date
 
-For effective date of this subchapter, see section 312 of Pub. L. 94–265, set out as a note under section 1857 of this title.
+Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
 
 #### Agreement To Make More Effective Enforcement of Domestic Laws and International Agreements
 
-Pub. L. 102–582, title II, §202, Nov. 2, 1992, 106 Stat. 4905, provided that:
-
-“(a)
-
-In General.—Not later than six months after the date of the enactment of this Act \[Nov. 2, 1992\], the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and the Secretary of Defense shall enter into an agreement under section 311(a) of the Magnuson Fishery Conservation and Management Act (16 U.S.C. 1861(a)) in order to make more effective the enforcement of domestic laws and international agreements that conserve and manage the living marine resources of the United States.
-
-“(b)
-
-Terms.—The agreement entered into under subsection (a) shall include—
-
-&emsp;“(1) procedures for identifying and providing the location of vessels that are in violation of domestic laws or international agreements to conserve and manage the living marine resources of the United States;
-
-&emsp;“(2) requirements for the use of the surveillance capabilities of the Department of Defense; and
-
-&emsp;“(3) procedures for communicating vessel locations to the Secretary of Commerce and the Coast Guard.”
+Pub. L. 102–582, title II, §202, Nov. 2, 1992, 106 Stat. 4905, provided that not later than six months after Nov. 2, 1992, the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and the Secretary of Defense were to enter into an agreement under subsec. (a) of this section to make more effective the enforcement of domestic laws and international agreements that conserve and manage living marine resources of the United States.
 
 #### Section Referred to in Other Sections
 

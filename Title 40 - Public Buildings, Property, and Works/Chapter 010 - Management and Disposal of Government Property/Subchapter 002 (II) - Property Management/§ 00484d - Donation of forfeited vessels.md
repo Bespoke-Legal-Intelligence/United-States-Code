@@ -40,6 +40,10 @@ The United States shall not be liable in an action arising out of the transfer o
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
+#### Codification
+
+Section was enacted as part of the Coast Guard Authorization Act of 1986, and not as a part of the Federal Property and Administrative Services Act of 1949, part of which comprises this chapter.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 46 sections 2101, 3305.

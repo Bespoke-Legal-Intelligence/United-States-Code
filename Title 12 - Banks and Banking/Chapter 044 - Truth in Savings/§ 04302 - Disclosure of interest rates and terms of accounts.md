@@ -22,17 +22,11 @@ The Board may, by regulation, exempt advertisements, announcements, or solicitat
 
 #### (c) Disclosure required for on-premises displays
 
-#### (1) In general
+The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
 
-&emsp;The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
+&emsp;(1) the accompanying annual percentage yield; and
 
-&emsp;&emsp;(A) the accompanying annual percentage yield; and
-
-&emsp;&emsp;(B) a statement that the consumer should request further information from an employee of the depository institution concerning the fees and terms applicable to the advertised account.
-
-#### (2) Definition
-
-&emsp;For purposes of paragraph (1), a sign shall only be considered to be displayed on the premises of a depository institution if the sign is designed to be viewed only from the interior of the premises of the depository institution.
+&emsp;(2) a statement that the consumer should request further information from an employee of the depository institution concerning the fees and terms applicable to the advertised account.
 
 #### (d) Misleading descriptions of free or no-cost accounts prohibited
 
@@ -50,9 +44,11 @@ No advertisement, announcement, or solicitation made by any depository instituti
 
 No depository institution or deposit broker shall make any advertisement, announcement, or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
 
-(Pub. L. 102–242, title II, §263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, §957(a), Oct. 28, 1992, 106 Stat. 3896.)
+(Pub. L. 102–242, title II, §263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, §957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, §2604(b), Sept. 30, 1996, 110 Stat. 3009–471.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–208 redesignated par. (1) as entire subsec. (c) and subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (1) heading and heading and text of former par. (2). Text of former par. (2) read as follows: “For purposes of paragraph (1), a sign shall only be considered to be displayed on the premises of a depository institution if the sign is designed to be viewed only from the interior of the premises of the depository institution.”
 
 1992—Subsec. (a). Pub. L. 102–550, §957(a)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 

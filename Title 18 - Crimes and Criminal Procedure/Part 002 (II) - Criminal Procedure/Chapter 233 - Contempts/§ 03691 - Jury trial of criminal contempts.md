@@ -12,7 +12,7 @@ Based on sections 386, 389 of title 28, U.S.C., 1940 ed., Judicial Code and Judi
 
 The first paragraph of this section is completely rewritten from section 386 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary, omitting everything covered and superseded by rules 23 and 42 of the Federal Rules of Criminal Procedure.
 
-The second paragraph of this section is derived from section 389 of title 28, U.S.C., 1940 ed., Judicial Code andJudiciary, omitting directions as to the trial of other contempts which are now covered by rule 42 of the Federal Rules of Criminal Procedure.
+The second paragraph of this section is derived from section 389 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary, omitting directions as to the trial of other contempts which are now covered by rule 42 of the Federal Rules of Criminal Procedure.
 
 Minor changes were made in phraseology.
 

@@ -1,6 +1,6 @@
 ### §2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes
 
-(a) Section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) is not applicable to the procurement by the Department of Defense of automatic data processing equipment or services if the function, operation, or use of the equipment or services—
+(a) For the purposes of the Clinger-Cohen Act of 1996, the term “national security systems” means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which—
 
 &emsp;(1) involves intelligence activities;
 
@@ -14,11 +14,23 @@
 
 (b) Subsection (a)(5) does not include procurement of automatic data processing equipment or services to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
 
-(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291.)
+(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Feb. 10, 1996, 110 Stat. 3009–314, 3009–394.)
+
+#### References in Text
+
+The Clinger-Cohen Act of 1996, referred to in subsec. (a), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–208, §101(f) \[title VIII, §808(c)\], substituted “Clinger-Cohen Act of 1996” for “Information Technology Management Reform Act of 1996”.
+
+Pub. L. 104–106, as amended by Pub. L. 104–201, substituted “For the purposes of the Information Technology Management Reform Act of 1996, the term ‘national security systems’ means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which” for “Section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) is not applicable to the procurement by the Department of Defense of automatic data processing equipment or services if the function, operation, or use of the equipment or services”.
+
 1982—Subsec. (a). Pub. L. 97–295 substituted “(40 U.S.C. 759)” for “(40 U.S.C. 795)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date
 
@@ -44,7 +56,7 @@ Limitation.—No funds available to the Department of Defense or any other Execu
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘defense telecommunications requirements’ means requirements for telecommunications equipment and services that, if procured by the Department of Defense, would be exempt from the requirements of section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) pursuant to section 2315 of title 10, United States Code.
+&emsp;“(1) The term ‘defense telecommunications requirements’ means requirements for telecommunications equipment and services that, if procured by the Department of Defense, would be exempt from the requirements of section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759) pursuant to section 2315 of title 10, United States Code.
 
 &emsp;“(2) The term ‘Executive agency’ has the meaning given such term in section 105 of title 5, United States Code.
 
@@ -54,7 +66,7 @@ Definitions.—In this section:
 
 Effect on Other Law.—Nothing in this section may be construed as modifying or superseding, or as intended to impair or restrict authorities or responsibilities under—
 
-&emsp;“(1) section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759); or
+&emsp;“(1) section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759); or
 
 &emsp;“(2) section 620 of Public Law 103–123 \[107 Stat. 1264\].”
 

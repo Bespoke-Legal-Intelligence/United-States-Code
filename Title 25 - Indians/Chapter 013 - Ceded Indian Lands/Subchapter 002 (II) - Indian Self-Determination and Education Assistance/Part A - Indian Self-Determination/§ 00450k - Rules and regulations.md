@@ -10,11 +10,11 @@
 
 &emsp;(ii) as a single set of regulations in title 25 of the Code of Federal Regulations.
 
-(B) The authority to promulgate regulations set forth in this subchapter shall expire if final regulations are not promulgated within 18 months after October 25, 1994.
+(B) The authority to promulgate regulations set forth in this subchapter shall expire if final regulations are not promulgated within 20 months after October 25, 1994.
 
 #### (b) Conflicting laws and regulations
 
-The provisions of this subchapter shall supersede any conflicting provisions of law (includingany conflicting regulations) in effect on the day before October 25, 1994, and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this subchapter.
+The provisions of this subchapter shall supersede any conflicting provisions of law (including any conflicting regulations) in effect on the day before October 25, 1994, and the Secretary is authorized to repeal any regulation inconsistent with the provisions of this subchapter.
 
 #### (c) Revisions and amendments; procedures applicable
 
@@ -30,7 +30,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 &emsp;(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled “Procedures for Negotiating Proposed Regulations” under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
 
-(B) The tribal participants in the negotiation process referred to in subparagraph (A) shall be nominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
+(B) The tribal participants in the negotiation process referred to in subparagraph (A) shall benominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
 
 (C) The negotiations referred to in subparagraph (B) shall be conducted in a timely manner. Proposed regulations to implement the amendments made by the Indian Self-Determination Contract Reform Act of 1994 shall be published in the Federal Register by the Secretary of the Interior and the Secretary of Health and Human Services not later than 180 days after October 25, 1994.
 
@@ -42,7 +42,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 The Secretary may, with respect to a contract entered into under this subchapter, make exceptions in the regulations promulgated to carry out this subchapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this subchapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 450f of this title.
 
-(Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589.)
+(Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### References in Text
 
@@ -52,9 +52,13 @@ The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec
 
 #### Amendments
 
+1996—Subsec. (a)(2)(B). Pub. L. 104–133 substituted “20 months” for “18 months”.
+
+Subsec. (b). Pub. L. 104–287 repealed Pub. L. 103–437, §10(c)(2)(A). See 1994 Amendment note below.
+
 1994—Subsec. (a). Pub. L. 103–413, §105(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this subchapter: <i>Provided, however</i>, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5.”
 
-Subsec. (b). Pub. L. 103–437, §10(c)(2)(A), which directed that subsec. (b) be repealed, was not executed to reflect the probable intent of Congress, because Pub. L. 103–413, §105(1), amended subsec. (b) generally, and the language which Pub. L. 103–437 sought to repeal (see H.Rept. 103–779, p. 82) was no longer contained therein. See below.
+Subsec. (b). Pub. L. 103–437, §10(c)(2)(A), which directed that subsec. (b) be repealed, was itself repealed by Pub. L. 104–287, §6(e). See Effective Date and Construction of 1996 Amendment note below.
 
 Pub. L. 103–435, which directed substitution of “Committee on Natural Resources” for “Committee on Interior and Insular Affairs” in par. (2), could not be executed because “Committee on Interior and Insular Affairs” did not appear in text subsequent to amendment by Pub. L. 103–413, §105(1). See below.
 
@@ -91,6 +95,10 @@ Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior t
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date and Construction of 1996 Amendment
+
+Section 6(e) of Pub. L. 104–287 provided that: “Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) \[amending this section\], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)), as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted.
 
 #### Section Referred to in Other Sections
 

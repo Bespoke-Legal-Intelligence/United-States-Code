@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Subject to such terms and conditions as the Administrator and the Corporation may establish, the Administrator shall transfer, without compensation, to the Corporation title to the Federal Triangle property for development under this chapter.
+&emsp;Subject to such terms and conditions as the Administrator and the Corporation may establish, the Administrator shall transfer, withoutcompensation, to the Corporation title to the Federal Triangle property for development under this chapter.
 
 #### (2) Duration of transfer
 

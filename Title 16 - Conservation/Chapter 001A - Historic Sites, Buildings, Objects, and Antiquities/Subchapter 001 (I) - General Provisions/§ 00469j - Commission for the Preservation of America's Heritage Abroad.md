@@ -46,7 +46,7 @@ The Commission shall meet at least once every three months.
 
 (1) The Commission or any member it authorizes may, for the purposes of carrying out this section, hold such hearings, sit and act at such times and places, request such attendance, take such testimony, and receive such evidence, as the Commission considers appropriate.
 
-(2) The Commission may appoint such personnel (subject to the provisions of title 5 which govern appointments in the competitive service) and may fix the pay of such personnel (subject to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates) as the Commission deems desirable.
+(2) The Commission may appoint such personnel (subject to the provisions of title 5 whichgovern appointments in the competitive service) and may fix the pay of such personnel (subject to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates) as the Commission deems desirable.
 
 (3) The Commission may procure temporary and intermittent services to the same extent as is authorized by section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–18 of the General Schedule (5 U.S.C. 5332(a)).
 
@@ -68,7 +68,7 @@ The Commission shall transmit an annual report to the President and to each Hous
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g)(2), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (g)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (g)(2), is set out under section 5332 of Title 5.
 

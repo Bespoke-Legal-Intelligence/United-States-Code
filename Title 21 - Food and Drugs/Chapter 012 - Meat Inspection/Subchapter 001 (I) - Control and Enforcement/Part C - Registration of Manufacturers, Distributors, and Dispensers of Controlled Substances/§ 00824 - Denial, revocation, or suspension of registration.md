@@ -26,7 +26,7 @@ Before taking action pursuant to this section, or pursuant to a denial of regist
 
 #### (d) Suspension of registration in cases of imminent danger
 
-The Attorney General may, in his discretion, suspend any registration simultaneously withthe institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 #### (e) Suspension and revocation of quotas
 

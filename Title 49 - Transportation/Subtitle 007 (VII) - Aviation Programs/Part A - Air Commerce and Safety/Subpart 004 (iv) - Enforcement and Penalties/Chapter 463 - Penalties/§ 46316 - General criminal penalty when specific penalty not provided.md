@@ -6,13 +6,17 @@ Criminal Penalty.—Except as provided by subsection (b) of this section, when a
 
 (b)
 
-Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938 of this title.
+Nonapplication.—Subsection (a) of this section does not apply to chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 441 (except section 44109), chapter 445, chapter 447 (except sections 44717–44723), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1240; Pub. L. 104–287, §5(79), Oct. 11, 1996, 110 Stat. 3397.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -26,7 +30,7 @@ Aug. 23, 1958, Pub. L. 85–726, §902(a), 72 Stat. 784; restated July 10, 1962,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -39,6 +43,14 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 In subsection (a), the word “prescribed” is added for consistency in the revised title. The words “condition, or limitation of” are omitted as surplus. The word “Administrator” in section 902(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 784) is retained on authority of 49:106(g). The words “or in section 1474 of this Appendix” are omitted as surplus because 49 App.:1474 is not included in the revised title. The words “shall be deemed guilty of a misdemeanor” are omitted for consistency with title 18. The words “and upon conviction thereof” are omitted as surplus. The words “shall be fined under title 18” are substituted for “shall be subject for the first offense to a fine of not more than $500, and for any subsequent offense to a fine of not more than $2,000” for consistency with title 18.
 
 In subsection (b), reference to 49 App.:ch. 20, subch. VII is omitted as unnecessary because subchapter VII is not restated in this part.
+
+#### Pub. L. 104–287
+
+This amends 49:46316(b) to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
+
+#### Amendments
+
+1996—Subsec. (b). Pub. L. 104–287 substituted “chapter 447 (except sections 44717–44723), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)” for “and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938”.
 
 #### Section Referred to in Other Sections
 

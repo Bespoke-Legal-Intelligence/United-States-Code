@@ -1,6 +1,6 @@
 ### §3719. Reports on debt collection activities
 
-(a) In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency. The report shall contain—
+(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
 
 &emsp;(1) information on—
 
@@ -18,11 +18,11 @@
 
 &emsp;(2) the information described in clause (1) of this subsection for each program or activity the head of the agency carries out; and
 
-&emsp;(3) other information the Director considers necessary to decide whether the head of the agency is acting aggressively to collect the claims of the agency.
+&emsp;(3) other information the Secretary considers necessary to decide whether the head of the agency is acting aggressively to collect the claims of the agency.
 
-(b) The Director shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Director under subsection (a).
+(b) The Secretary shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 104–134, title III, §31001(aa)(3), Apr. 26, 1996, 110 Stat. 1321–380.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,18 @@ Oct. 25, 1982, Pub. L. 97–365, §12, 96 Stat. 1756.
 In subsection (a), before clause (1), the words “of the United States” are omitted as surplus. The words “the head of” are added for consistency in the revised title and with other titles of the United States Code. In clause (1)(C), the words “uncollectible loans and accounts receivable” are added for clarity. In clause (1)(F), the words “Attorney General” are substituted for “Department of Justice” for consistency in the revised title and with other titles of the Code, including 28:503, 509.
 
 In subsection (b), the word “submitted” is substituted for “received by each agency” for clarity.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–134, §31001(aa)(3)(A)(i), amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
+
+Subsec. (a)(3). Pub. L. 104–134, §31001(aa)(3)(A)(ii), substituted “Secretary” for “Director”.
+
+Subsec. (b). Pub. L. 104–134, §31001(aa)(3)(B), which directed that subsec. (b) be amended by substituting “Secretary” for “Director”, was executed by making the substitution to both places where “Director” appeared.
+
+#### Consolidation of Reports
+
+Section 31001(aa)(4) of Pub. L. 104–134 provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
 
 #### Section Referred to in Other Sections
 

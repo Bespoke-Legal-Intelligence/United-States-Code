@@ -38,7 +38,7 @@ Nothing in this part shall be construed to establish a right for a participant t
 
 #### References in Text
 
-The National School Lunch Act, referred to in subsec. (b)(2)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The National School Lunch Act, referred to in subsec. (b)(2)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, asamended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Prior Provisions
 

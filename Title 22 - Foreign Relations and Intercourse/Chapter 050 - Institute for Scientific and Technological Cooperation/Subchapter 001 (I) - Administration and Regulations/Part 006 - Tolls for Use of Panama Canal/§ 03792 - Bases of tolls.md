@@ -28,9 +28,9 @@ Subsec. (b). Pub. L. 102–484, §3521(b)(2), substituted “Panama Canal (inclu
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3683 of this title.
+Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3751, 3793, 3794, 3795 of this title; title 46 section 14302.
+This section is referred to in sections 3751, 3793, 3794 of this title; title 46 section 14302.
 

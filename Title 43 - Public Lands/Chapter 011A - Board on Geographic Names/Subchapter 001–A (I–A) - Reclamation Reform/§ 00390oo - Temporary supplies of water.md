@@ -2,7 +2,7 @@
 
 #### (a) Limitations inapplicable
 
-Neither the ownership limitations of this subchapter nor the ownership limitations of any other provision of Federal reclamation law shallapply to lands which receive only a temporary, not to exceed one year, supply of water made possible as a result of—
+Neither the ownership limitations of this subchapter nor the ownership limitations of any other provision of Federal reclamation law shall apply to lands which receive only a temporary, not to exceed one year, supply of water made possible as a result of—
 
 &emsp;(1) an unusually large water supply not otherwise storable for project purposes; or
 

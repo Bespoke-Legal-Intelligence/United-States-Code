@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 101–237 inserted “of Defense” after third reference t
 
 1988—Subsec. (a). Pub. L. 100–689 substituted “The amount of payment of educational assistance under this chapter is subject to section 1432 of this title. Except” for “Subject to section 1432 of this title and except”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3032 of this title.
-

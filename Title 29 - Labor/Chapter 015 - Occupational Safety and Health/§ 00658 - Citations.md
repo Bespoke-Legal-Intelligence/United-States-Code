@@ -16,5 +16,5 @@ No citation may be issued under this section after the expiration of six months 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 659, 666, 667 of this title; title 2 section 1341.
+This section is referred to in sections 659, 666, 667 of this title; title 2 section 1341; title 3 section 425.
 

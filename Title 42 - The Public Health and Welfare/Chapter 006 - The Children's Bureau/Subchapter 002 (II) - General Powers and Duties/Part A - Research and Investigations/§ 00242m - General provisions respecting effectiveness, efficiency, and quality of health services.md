@@ -18,7 +18,7 @@
 
 #### (b) Grants or contracts; applications, submittal; application peer review group, findings and recommendations; necessity of favorable recommendation; appointments
 
-(1) No grant or contract may be made under section 242b, 242k, or 242<i>l</i> of this title unless an application therefor has been submitted to the Secretary in such form and manner, and containing such information, as the Secretary may by regulation prescribe and unless a peer review group referred to in paragraph (2) has recommended the application for approval.
+(1) No grant or contract may be made under section 242b, 242k, or 242<i>l</i> of this title unless anapplication therefor has been submitted to the Secretary in such form and manner, and containing such information, as the Secretary may by regulation prescribe and unless a peer review group referred to in paragraph (2) has recommended the application for approval.
 
 (2)(A) Each application submitted for a grant or contract under section 242k of this title in an amount exceeding $50,000 of direct costs and for a health services research, evaluation, or demonstration project, or for a grant under section 242k(n) <sup>1</sup> of this title, shall be submitted to a peer review group for an evaluation of the technical and scientific merits of the proposals made in each such application. The Director of the National Center for Health Statistics shall establish such peer review groups as may be necessary to provide for such an evaluation of each such application.
 
@@ -50,7 +50,7 @@ No information, if an establishment or person supplying the information or descr
 
 Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title III, §308, as added July 23, 1974, Pub. L. 93–353, title I, §107(a), 88 Stat. 368; amended Apr. 21, 1976, Pub. L. 94–273, §7(2), 90 Stat. 378; Aug. 1, 1977, Pub. L. 95–83, title I, §104, 91 Stat. 384; Nov. 9, 1978, Pub. L. 95–623, §§2, 6(d), 8(b), 92 Stat. 3443, 3451, 3455; Aug. 13, 1981, Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, 95 Stat. 564, 565, 567; Jan. 4, 1983, Pub. L. 97–414, §8(c), 96 Stat. 2060; Oct. 30, 1984, Pub. L. 98–551, §7, 98 Stat. 2820; Dec. 1, 1987, Pub. L. 100–177, title I, §§106(a), 107, 108, 101 Stat. 988–990;Nov. 18, 1988, Pub. L. 100–690, title II, §2612, 102 Stat. 4235; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(4), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(b)(2), (d), 104 Stat. 2328; Dec. 14, 1993, Pub. L. 103–183, title V, §501(c), 107 Stat. 2237.)
+(July 1, 1944, ch. 373, title III, §308, as added July 23, 1974, Pub. L. 93–353, title I, §107(a), 88 Stat. 368; amended Apr. 21, 1976, Pub. L. 94–273, §7(2), 90 Stat. 378; Aug. 1, 1977, Pub. L. 95–83, title I, §104, 91 Stat. 384; Nov. 9, 1978, Pub. L. 95–623, §§2, 6(d), 8(b), 92 Stat. 3443, 3451, 3455; Aug. 13, 1981, Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, 95 Stat. 564, 565, 567; Jan. 4, 1983, Pub. L. 97–414, §8(c), 96 Stat. 2060; Oct. 30, 1984, Pub. L. 98–551, §7, 98 Stat. 2820; Dec. 1, 1987, Pub. L. 100–177, title I, §§106(a), 107, 108, 101 Stat. 988–990; Nov. 18, 1988, Pub. L. 100–690, title II, §2612, 102 Stat. 4235; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(4), 103 Stat. 2206; Nov. 6, 1990, Pub. L. 101–527, §7(b)(2), (d), 104 Stat. 2328; Dec. 14, 1993, Pub. L. 103–183, title V, §501(c), 107 Stat. 2237.)
 
 #### References in Text
 
@@ -118,7 +118,7 @@ Subsec. (e)(1), (2). Pub. L. 101–239, §6103(e)(4)(E), substituted “section 
 
 Subsec. (f). Pub. L. 101–239, §6103(e)(4)(F), substituted “section 242b or 242k of this title” for “section 242b, 242c, 242k, or 242n of this title”.
 
-Subsec. (g)(1). Pub. L. 101–239, §6103(e)(4)(G)(i), struck out at end “Except as provided in subsection (d) of this section, the Secretary may not restrict the publication and dissemination of data from, and results of projects undertaken by, centers supported under section 242c(d) of this title.”
+Subsec. (g)(1). Pub. L. 101–239, §6103(e)(4)(G)(i), struck out at end “Except as provided in subsection (d) of thissection, the Secretary may not restrict the publication and dissemination of data from, and results of projects undertaken by, centers supported under section 242c(d) of this title.”
 
 Subsec. (g)(2). Pub. L. 101–239, §6103(e)(4)(G)(ii), substituted “sections 242b and 242k of this title” for “sections 242b, 242c, 242k, and 242n of this title”.
 

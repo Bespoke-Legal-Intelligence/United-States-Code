@@ -6,7 +6,7 @@ For the purpose of developing adequate, coordinated, cooperative research and tr
 
 #### Amendments
 
-1978—Pub. L. 95–616, in proviso, substituted “scientific personnel” for “technical personnel” and authorized provision of assistance (including reasonable financial compensation) for the work of researchers on funded fish and wildlife ecology and resource management projects.
+1978—Pub. L. 95–616, in proviso, substituted “scientific personnel” for “technical personnel” and authorized provision of assistance (including reasonable financial compensation) for the work of researchers onfunded fish and wildlife ecology and resource management projects.
 
 #### Transfer of Functions
 

@@ -8,7 +8,7 @@ All goods, wares, articles, and merchandise mined, produced, or manufactured who
 
 #### Prior Provisions
 
-Provisions in the same language as the provisions in this section were made by act Oct. 3, 1913, ch. 16, §IV, I, 38 Stat. 195, superseding similar provisions of previous tariff acts. That subdivision was superseded by act Sept. 21, 1922, ch. 356, title III, §307, 42 Stat. 937, and repealed by section 321 of that act. Section 307 of actSept. 21, 1922, was superseded by section 307 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions in the same language as the provisions in this section were made by act Oct. 3, 1913, ch. 16, §IV, I, 38 Stat. 195, superseding similar provisions of previous tariff acts. That subdivision was superseded by act Sept. 21, 1922, ch. 356, title III, §307, 42 Stat. 937, and repealed by section 321 of that act. Section 307 of act Sept. 21, 1922, was superseded by section 307 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Sense of Congress Requesting President To Instruct Secretary of the Treasury To Enforce Section 1307 Without Delay
 

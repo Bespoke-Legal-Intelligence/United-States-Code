@@ -80,7 +80,7 @@
 | (i) | Conditions of guarantees. |
 | (j) | Breach of conditions. |
 | (k) | Investigation charge. |
-| (<i>l)</i> | Premium charge. |
+| (<i>l</i>) | Premium charge. |
 | (m) | Administrative costs. |
 | (n) | “High-speed rail” defined. |
 | [832\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000832%20-%20Issuance%20of%20notes%20or%20obligations.md) | Issuance of notes or obligations. |

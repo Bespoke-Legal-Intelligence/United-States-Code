@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(H) fission product release and transport from failed fuel;
 
-&emsp;(6) provide for the examination and analysis of any nuclear powerplant fuel, component, or system which the Secretary deems to offer significant benefit in safety analysis and which is made available to the Secretary for a nominal cost, such as $1: <i>Provided, however,</i> That the Secretary shall accept only the number of samples of such fuel, component, or system necessary to carry out such examination and analysis; and
+&emsp;(6) provide for the examination and analysis of any nuclear powerplant fuel, component, or system which the Secretary deems to offer significant benefit in safety analysis and which is made available to the Secretary for a nominal cost, such as $1: <i>Provided, however</i>, That the Secretary shall accept only the number of samples of such fuel, component, or system necessary to carry out such examination and analysis; and
 
 &emsp;(7) identify the aptitudes, training, and manning levels which are necessary to assure reliable operator performance under normal, abnormal, and emergency conditions.
 

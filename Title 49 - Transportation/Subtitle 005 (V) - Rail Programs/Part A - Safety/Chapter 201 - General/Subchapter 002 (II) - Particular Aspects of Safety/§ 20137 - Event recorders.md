@@ -16,7 +16,9 @@ Regulations and Orders.—Not later than December 22, 1989, the Secretary shall 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

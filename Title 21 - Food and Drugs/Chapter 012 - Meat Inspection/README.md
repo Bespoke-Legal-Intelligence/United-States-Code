@@ -18,6 +18,7 @@
 | (c) | Labeling: type styles and sizes; definitions and standards of identity or composition; standards of fill of container; consistency of Federal and Federal-State standards. |
 | (d) | Sales under false or misleading name, other marking or labeling or in containers of misleading form or size; trade names, and other marking, labeling, and containers approved by Secretary. |
 | (e) | Use withholding directive respecting false or misleading marking, labeling, or container; modification of false or misleading matter; hearing; withholding use pending proceedings; finality of Secretary's action; judicial review; application of section 194 of title 7. |
+| (f) | Lamb and mutton. |
 | [608\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000608%20-%20Sanitary%20inspection%20and%20regulation%20of%20slaughtering%20and%20packing%20establishments%3B%20rejection%20of%20adulterated%20meat%20or%20meat%20food%20products.md) | Sanitary inspection and regulation of slaughtering and packing establishments; rejection of adulterated meat or meat food products. |
 | [609\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000609%20-%20Examination%20of%20animals%20and%20food%20products%20thereof%2C%20slaughtered%20and%20prepared%20during%20nighttime.md) | Examination of animals and food products thereof, slaughtered and prepared during nighttime. |
 | [610\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000610%20-%20Prohibited%20acts.md) | Prohibited acts. |
@@ -101,6 +102,16 @@
 | [679\.](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/%C2%A7%2000679%20-%20Application%20of%20Federal%20Food%2C%20Drug%2C%20and%20Cosmetic%20Act.md) | Application of Federal Food, Drug, and Cosmetic Act. |
 | (a) | Authorities under food, drug, and cosmetic provisions unaffected. |
 | (b) | Enforcement proceedings; detainer authority of representatives of Secretary of Health and Human Services. |
+| [679a.](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/%C2%A7%2000679a%20-%20Safe%20Meat%20and%20Poultry%20Inspection%20Panel.md) | Safe Meat and Poultry Inspection Panel. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Secretarial response. |
+| (d) | Composition of panel. |
+| (e) | Nominations. |
+| (f) | Travel expenses. |
+| (g) | Conflicts of interest. |
+| (h) | Exemption. |
+| (i) | Funding. |
 | [680\.](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/%C2%A7%2000680%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

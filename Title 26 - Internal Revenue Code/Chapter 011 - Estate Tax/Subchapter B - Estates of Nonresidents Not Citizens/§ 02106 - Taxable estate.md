@@ -50,7 +50,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (b) Condition of allowance of deductions
 
-No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case ofa nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
+No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 398; Sept. 2, 1958, Pub. L. 85–866, title I, §30(d), 72 Stat. 1631; Sept. 14, 1960, Pub. L. 86–779, §4(c), 74 Stat. 1000; Nov. 13, 1966, Pub. L. 89–809, title I, §108(e), 80 Stat. 1572; Dec. 30, 1969, Pub. L. 91–172, title II, §201(d)(2), (4)(B), 83 Stat. 561; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), 90 Stat. 1727, 1805, 1852; Jan. 14, 1983, Pub. L. 97–473, title II, §202(b)(6), 96 Stat. 2610; Oct. 22, 1986, Pub. L. 99–514, title XIV, §1422(c), 100 Stat. 2717; Dec. 22, 1987, Pub. L. 100–203, title X, §10711(a)(4), 101 Stat. 1330–464; Nov. 10, 1988, Pub. L. 100–647, title V, §5033(c), 102 Stat. 3672; Dec. 19, 1989, Pub. L. 101–239, title VII, §7815(d)(3), 103 Stat. 2415.)
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 89–809 applicable with respect to estates of decedents dy
 
 #### Effective Date of 1960 Amendment
 
-Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by subsections (b) and (c) \[enacting section 2209 of this title and amending this section\] shall apply with respect to estates of decedents dyingafter the date of the enactment of this Act \[Sept. 14, 1960\].”
+Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by subsections (b) and (c) \[enacting section 2209 of this title and amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 

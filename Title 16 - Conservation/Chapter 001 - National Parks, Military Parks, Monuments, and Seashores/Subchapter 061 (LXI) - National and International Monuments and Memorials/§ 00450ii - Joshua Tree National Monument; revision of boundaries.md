@@ -14,7 +14,7 @@ Township 1 south, range 5 east, sections 22 to 27, inclusive, and sections 34 to
 
 &emsp;Thence along the arc of a curve to the right having a radius of 1,400.00 feet a distance of 1.042.74 feet to a point of tangency; thence south 67 degrees 56 minutes 33 seconds east a distance of 94.55 feet to the beginning of a curve; thence along the arc of a curve to the left having a radius of 700.00 feet a distance of 366.52 feet to a point of compound curvature;
 
-&emsp;Thence along the arc of a curve to the left having a radius of 167.60 feet a distance of 240.17 feet to a point of tangency; thence north 0 degrees 02 minutes 55 seconds west a distance of 648.91 feet to the point of beginning containing 57.839 acres, more or less.
+&emsp;Thence along the arc of a curve to the left having a radius of 167.60 feet a distance of 240.17 feet to a point of tangency; thence north 0 degrees 02 minutes 55 seconds west a distanceof 648.91 feet to the point of beginning containing 57.839 acres, more or less.
 
 (Sept. 25, 1950, ch. 1030, §1, 64 Stat. 1033; June 30, 1961, Pub. L. 87–80, 75 Stat. 197.)
 

@@ -8,11 +8,13 @@
 
 &emsp;(1) United States Marshal's Office.
 
-&emsp;(2) The Department of Defense (except for disbursements for departmental pay and expenses in the District of Columbia).
+&emsp;(2) The Department of Defense.
+
+&emsp;(3) The Department of Transportation (with respect to public money available for expenditure by the Coast Guard when it is not operating as a service in the Navy).
 
 (d) On request of the Secretary and with the approval of the head of an executive agency referred to in subsection (c) of this section, facilities of the agency may be used to assist in disbursing public money available for expenditure by another executive agency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949; Pub. L. 103–355, title III, §3067, Oct. 13, 1994, 108 Stat. 3337.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 949; Pub. L. 103–355, title III, §3067, Oct. 13, 1994, 108 Stat. 3337; Pub. L. 104–106, div. A, title IX, §913(a)(1), Feb. 10, 1996, 110 Stat. 410; Pub. L. 104–201, div. A, title X, §1009(a)(1), Sept. 23, 1996, 110 Stat. 2633.)
 
 Historical and Revision Notes
 
@@ -56,9 +58,17 @@ In subsection (c), the text of 31:492–1(1st sentence) is applied only to the l
 
 #### Amendments
 
+1996—Subsec. (c)(2). Pub. L. 104–106 added par. (2) and struck out former par. (2) which read as follows: “The Department of Defense (except for disbursements for departmental pay and expenses in the District of Columbia).”
+
+Subsec. (c)(3). Pub. L. 104–201 added par. (3).
+
 1994—Subsec. (c)(2). Pub. L. 103–355 substituted “The Department of Defense” for “military departments of the Department of Defense”.
 
 #### Reimbursement of Financial Management Service for Postage Expenses
 
 Pub. L. 103–329, title I, §105, Sept. 30, 1994, 108 Stat. 2390, provided that: “Notwithstanding any other provision of law, beginning in fiscal year 1995 and thereafter, the Financial Management Service (FMS) shall be reimbursed, for postage incurred by FMS to make check payments on their behalf, by: the Department of Veterans Affairs, for the mailing of Compensation and Pension benefit payments; the Department of Health and Human Services, for the mailing of Supplemental Security Income payments; and the Office of Personnel Management, for the mailing of Retirement payments. Such reimbursement shall be due beginning with checks mailed on October 1, 1994, and such reimbursement shall occur on a monthly basis.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3716 of this title.
 

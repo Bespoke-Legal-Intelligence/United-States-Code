@@ -17,10 +17,14 @@
 | [93\.](%C2%A7%2000093%20-%20Commandant%3B%20general%20powers.md) | Commandant; general powers. |
 | [94\.](%C2%A7%2000094%20-%20Oceanographic%20research.md) | Oceanographic research. |
 | [95\.](%C2%A7%2000095%20-%20Civilian%20agents%20authorized%20to%20carry%20firearms.md) | Civilian agents authorized to carry firearms. |
+| [96\.](%C2%A7%2000096%20-%20Prohibition%20on%20overhaul%2C%20repair%2C%20and%20maintenance%20of%20Coast%20Guard%20vessels%20in%20foreign%20shipyards.md) | Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards. |
+| [97\.](%C2%A7%2000097%20-%20Procurement%20of%20buoy%20chain.md) | Procurement of buoy chain. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title III, §311(b), title XI, §1128(b), Oct. 19, 1996, 110 Stat. 3920, 3984, added items 96 and 97.
 
 1988—Pub. L. 100–448, §10(b), Sept. 28, 1988, 102 Stat. 1842, added item 95.
 
@@ -54,3 +58,5 @@
 - [&sect; 00093 - Commandant; general powers](%C2%A7%2000093%20-%20Commandant%3B%20general%20powers.md)
 - [&sect; 00094 - Oceanographic research](%C2%A7%2000094%20-%20Oceanographic%20research.md)
 - [&sect; 00095 - Civilian agents authorized to carry firearms](%C2%A7%2000095%20-%20Civilian%20agents%20authorized%20to%20carry%20firearms.md)
+- [&sect; 00096 - Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards](%C2%A7%2000096%20-%20Prohibition%20on%20overhaul%2C%20repair%2C%20and%20maintenance%20of%20Coast%20Guard%20vessels%20in%20foreign%20shipyards.md)
+- [&sect; 00097 - Procurement of buoy chain](%C2%A7%2000097%20-%20Procurement%20of%20buoy%20chain.md)

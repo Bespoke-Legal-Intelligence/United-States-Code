@@ -76,7 +76,7 @@ Amendment by Pub. L. 100–690 applicable to information first provided more tha
 
 #### Effective Date of 1976 Amendments
 
-Section 2(e) of Pub. L. 94–528 provided that: “The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
+Section 2(e) of Pub. L. 94–528 provided that: “The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the dateof the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
 
 Amendment by section 1202(h)(5) of Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
 

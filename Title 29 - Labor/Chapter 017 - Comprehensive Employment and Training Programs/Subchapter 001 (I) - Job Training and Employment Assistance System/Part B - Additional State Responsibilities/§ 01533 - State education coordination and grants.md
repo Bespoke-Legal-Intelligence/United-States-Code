@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) reflect the goals and services described in paragraphs (1), (2), and (3) of subsection (c) of this section; and
 
-&emsp;&emsp;(B) are developed between the State education agency, administrative entities in service delivery areas in the State, and other entities, such as other State agencies, local educational agencies, and alternative service providers (such as community-based and other nonprofit or for-profit organizations).
+&emsp;&emsp;(B) are developed between the State education agency, administrative entities in service delivery areas in the State, and other entities, such as other State agencies,local educational agencies, and alternative service providers (such as community-based and other nonprofit or for-profit organizations).
 
 #### (2) Contents of agreements
 
@@ -80,7 +80,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 &emsp;&emsp;&emsp;(v) the Adult Education Act (20 U.S.C. 1201 et seq.);
 
-&emsp;&emsp;&emsp;(vi) the JOBS program;
+&emsp;&emsp;&emsp;(vi) Repealed. Pub. L. 104–193, title I, §110(n)(4)(A), Aug. 22, 1996, 110 Stat. 2174;
 
 &emsp;&emsp;&emsp;(vii) the Stewart B. McKinney Homeless Assistance Act (Public Law 100–77; 101 Stat. 482) \[42 U.S.C. 11301 et seq.\]; and
 
@@ -104,7 +104,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 &emsp;&emsp;&emsp;(iv) the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\];
 
-&emsp;&emsp;&emsp;(v) the JOBS program;
+&emsp;&emsp;&emsp;(v) Repealed. Pub. L. 104–193, title I, §110(n)(4)(B), Aug. 22, 1996, 110 Stat. 2174;
 
 &emsp;&emsp;&emsp;(vi) the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.);
 
@@ -122,7 +122,7 @@ The State education agency shall submit for inclusion in the Governor's coordina
 
 #### (1) Permitted services
 
-&emsp;Services funded under this section to carry out the projects described in subsection (a)(2) of this section may include education and training, vocational education services, and related services, provided to participants under subchapter II of this chapter. In addition, services funded under this section mayinclude services for offenders, veterans, and other individuals who the Governor determines require special assistance.
+&emsp;Services funded under this section to carry out the projects described in subsection (a)(2) of this section may include education and training, vocational education services, and related services, provided to participants under subchapter II of this chapter. In addition, services funded under this section may include services for offenders, veterans, and other individuals who the Governor determines require special assistance.
 
 #### (2) Limitations on expenditures
 
@@ -152,7 +152,7 @@ If no agreement is reached in accordance with subsection (b) of this section on 
 
 &emsp;Each direct or indirect recipient of funds under this section shall keep records that are sufficient to permit the preparation of reports. Each recipient shall submit such reports to the Secretary, at such intervals as shall be determined by the Secretary.
 
-(Pub. L. 97–300, title I, §123, Oct. 13, 1982, 96 Stat. 1341; Pub. L. 99–496, §§3, 15(e), Oct. 16, 1986, 100 Stat. 1261, 1266; Pub. L. 101–392, §5(a)(1), Sept. 25, 1990, 104 Stat. 758; Pub. L. 102–235, §7, Dec. 12, 1991, 105 Stat. 1808; Pub. L. 102–367, title I, §122, Sept. 7, 1992, 106 Stat. 1038.)
+(Pub. L. 97–300, title I, §123, Oct. 13, 1982, 96 Stat. 1341; Pub. L. 99–496, §§3, 15(e), Oct. 16, 1986, 100 Stat. 1261, 1266; Pub. L. 101–392, §5(a)(1), Sept. 25, 1990, 104 Stat. 758; Pub. L. 102–235, §7, Dec. 12, 1991, 105 Stat. 1808; Pub. L. 102–367, title I, §122, Sept. 7, 1992, 106 Stat. 1038; Pub. L. 104–193, title I, §110(n)(4), Aug. 22, 1996, 110 Stat. 2174.)
 
 #### References in Text
 
@@ -176,6 +176,10 @@ The Emergency Immigrant Education Act of 1984, referred to in subsec. (c)(2)(D)(
 
 #### Amendments
 
+1996—Subsec. (c)(1)(E)(vi). Pub. L. 104–193, §110(n)(4)(A), struck out cl. (vi) which read as follows: “the JOBS program;”.
+
+Subsec. (c)(2)(D)(v). Pub. L. 104–193, §110(n)(4)(B), struck out cl. (v) which read as follows: “the JOBS program;”.
+
 1992—Pub. L. 102–367 amended section generally. Prior to amendment, section related to State education coordination and grants, and provided for allotments for financial assistance to State education agencies for services through cooperative agreements in subsec. (a), provided for matching contributions for cooperative agreements in subsec. (b), required certain proportions for use of funds in subsec. (c), provided alternatives for State governors where no cooperative agreements on use of funds was reached in subsec. (d), and authorized joint funding in subsec. (e).
 
 1991—Subsec. (a)(4). Pub. L. 102–235, §7(a), added par. (4).
@@ -191,6 +195,10 @@ Subsec. (c)(1). Pub. L. 99–496, §15(e), inserted reference to veterans.
 Subsec. (c)(2)(B). Pub. L. 99–496, §3(2)(A), amended first sentence generally, substituting references to clauses (1) and (3) for references to clause (1).
 
 Subsec. (c)(3). Pub. L. 99–496, §3(2)(B), substituted “clauses (1) and (3)” for “clause (1)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 

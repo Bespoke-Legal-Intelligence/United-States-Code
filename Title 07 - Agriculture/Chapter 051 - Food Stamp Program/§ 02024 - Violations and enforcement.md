@@ -28,11 +28,41 @@ Any coupon issuer or any officer, employee, or agent thereof convicted of knowin
 
 #### (g) Forfeiture of property involved in illegal food stamp transactions
 
-The Secretary may subject to forfeiture and denial of property rights any nonfood items, moneys, negotiable instruments, securities, or other things of value that are furnished or intended to be furnished by any person in exchange for coupons, authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to this chapter or the regulations issued under this chapter. Any forfeiture and disposal of property forfeited under this subsection shall be conducted in accordance with procedures contained in regulations issued by the Secretary.
+The Secretary may subject to forfeiture and denial of property rights any nonfood items, moneys, negotiable instruments, securities, or other things of value that are furnished by any person in exchange for coupons, authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to this chapter or the regulations issued under this chapter. Any forfeiture and disposal of property forfeited under this subsection shall be conducted in accordance with procedures contained in regulations issued by the Secretary.
 
-(Pub. L. 88–525, §15, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, §8, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–347, §2, July 12, 1974, 88 Stat. 341; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 975; Pub. L. 96–249, title I, §124, May 26, 1980, 94Stat. 363; Pub. L. 97–98, title XIII, §1324, Dec. 22, 1981, 95 Stat. 1288; Pub. L. 101–624, title XVII, §§1747(a), (c), 1748, 1749, Nov. 28, 1990, 104 Stat. 3796, 3797.)
+#### (h) Criminal forfeiture
+
+#### (1) In general
+
+&emsp;In imposing a sentence on a person convicted of an offense in violation of subsection (b) or (c) of this section, a court shall order, in addition to any other sentence imposed under this section, that the person forfeit to the United States all property described in paragraph (2).
+
+#### (2) Property subject to forfeiture
+
+&emsp;All property, real and personal, used in a transaction or attempted transaction, to commit, or to facilitate the commission of, a violation (other than a misdemeanor) of subsection (b) or (c) of this section, or proceeds traceable to a violation of subsection (b) or (c) of this section, shall be subject to forfeiture to the United States under paragraph (1).
+
+#### (3) Interest of owner
+
+&emsp;No interest in property shall be forfeited under this subsection as the result of any act or omission established by the owner of the interest to have been committed or omitted without the knowledge or consent of the owner.
+
+#### (4) Proceeds
+
+&emsp;The proceeds from any sale of forfeited property and any monies forfeited under this subsection shall be used—
+
+&emsp;&emsp;(A) first, to reimburse the Department of Justice for the costs incurred by the Department to initiate and complete the forfeiture proceeding;
+
+&emsp;&emsp;(B) second, to reimburse the Department of Agriculture Office of Inspector General for any costs the Office incurred in the law enforcement effort resulting in the forfeiture;
+
+&emsp;&emsp;(C) third, to reimburse any Federal or State law enforcement agency for any costs incurred in the law enforcement effort resulting in the forfeiture; and
+
+&emsp;&emsp;(D) fourth, by the Secretary to carry out the approval, reauthorization, and compliance investigations of retail stores and wholesale food concerns under section 2018 of this title.
+
+(Pub. L. 88–525, §15, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, §8, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–347, §2, July 12, 1974, 88 Stat. 341; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 975; Pub. L. 96–249, title I, §124, May 26, 1980, 94 Stat. 363; Pub. L. 97–98, title XIII, §1324, Dec. 22, 1981, 95 Stat. 1288; Pub. L. 101–624, title XVII, §§1747(a), (c), 1748, 1749, Nov. 28, 1990, 104 Stat. 3796, 3797; Pub. L. 104–193, title VIII, §846, Aug. 22, 1996, 110 Stat. 2334.)
 
 #### Amendments
+
+1996—Subsec. (g). Pub. L. 104–193, §846(a), struck out “or intended to be furnished” after “that are furnished”.
+
+Subsec. (h). Pub. L. 104–193, §846(b), added subsec. (h).
 
 1990—Subsec. (b)(1). Pub. L. 101–624, §1748, inserted “if such coupons, authorization cards, or access devices are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall,” after “chapter shall”, and inserted “but less than $5,000,” after “$100 or more” in two places.
 
@@ -66,5 +96,5 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 1956; title 26 section 6109; title 42 section 405.
+This section is referred to in section 2015 of this title; title 18 section 1956; title 26 section 6109; title 42 section 405.
 

@@ -44,11 +44,11 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (3) Payments by Treasury
 
-&emsp;The Secretary of the Treasury, in accordance with section 2278b–8 of this title, shall pay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
+&emsp;The Secretary of the Treasury, in accordance with section 2278b–8 of this title, shallpay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
 
 #### (4) Payment of interest after first 10-year period
 
-&emsp;During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation atsuch times as the Financial Assistance Corporation shall determine.
+&emsp;During each year of the third 5-year period of the 15-year period beginning on the date of the issuance of each obligation under subsection (a) of this section, the Financial Assistance Corporation shall pay all of the interest due on such obligation. During each year of such 5-year period, System banks shall pay the entire amount of interest due on the obligation allocated in the same manner as under paragraph (2)(C). Such payments shall be made to the Financial Assistance Corporation at such times as the Financial Assistance Corporation shall determine.
 
 #### (5) Repayment of Treasury-paid interest
 
@@ -88,13 +88,13 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (F) Associations terminating System status or in liquidation
 
-&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
+&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized asa claim in favor of the bank against the estate of any association undergoing liquidation.
 
 #### (G) Capital requirements
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Until the date that is 5 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), all assessments paid by banks to the Financial Assistance Corporation pursuant to subparagraph (B), and any part of the obligation to pay future assessments to the Financial Assistance Corporation under subparagraph (B) that is recognized as an expense on thebooks of any System bank or association, shall nonetheless be included in the capital of the bank or association for purposes of determining its compliance with regulatory capital requirements.
+&emsp;&emsp;&emsp;Until the date that is 5 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), all assessments paid by banks to the Financial Assistance Corporation pursuant to subparagraph (B), and any part of the obligation to pay future assessments to the Financial Assistance Corporation under subparagraph (B) that is recognized as an expense on the books of any System bank or association, shall nonetheless be included in the capital of the bank or association for purposes of determining its compliance with regulatory capital requirements.
 
 #### (ii) During the final 5 years prior to repayment
 
@@ -150,7 +150,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under subsections (c) and (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note) and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board or the Financial Assistance Corporation under sections 2278a–7(a) and 2278b–4, respectively, of this title, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the obligation equal to—
+&emsp;&emsp;&emsp;In order to enable the Financial Assistance Corporation to repay the obligationsissued to provide assistance under subsections (c) and (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note) and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board or the Financial Assistance Corporation under sections 2278a–7(a) and 2278b–4, respectively, of this title, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the obligation equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average accruing retail loan volume of the bank and its affiliated associations for the preceding 15 years; divided by
 
@@ -200,7 +200,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Evaluation
 
-&emsp;&emsp;&emsp;Not later than 90 days before the maturity of any obligation issued under subsection (a) of this section, the Farm CreditAdministration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
+&emsp;&emsp;&emsp;Not later than 90 days before the maturity of any obligation issued under subsection (a) of this section, the Farm Credit Administration shall complete an evaluation of the general financial condition of each System institution that issued preferred stock under section 2278b–7(a) of this title with respect to such obligation to determine whether such System institution will be able to redeem such stock at par value on the maturity of the obligation, and remain a viable institution capable of providing credit to eligible borrowers at equitable and competitive interest rates.
 
 #### (ii) Availability of evaluation
 
@@ -296,7 +296,7 @@ Subsec. (d)(3)(C). Pub. L. 102–552, §306(1)(C), substituted “banks” for �
 
 Subsec. (d)(4)(A). Pub. L. 102–552, §306(2)(A), inserted “or section 2278a–9(e)(3)(A) of this title”.
 
-Subsec. (d)(4)(B)(i). Pub. L. 102–552, §306(2)(B)(i), inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the paymentof an assessment due under subsection (c)(5)(B) of this section,”.
+Subsec. (d)(4)(B)(i). Pub. L. 102–552, §306(2)(B)(i), inserted heading and struck out former heading “Interest payments”, substituted “bank” for “institution” wherever appearing, and inserted “on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section,”.
 
 Subsec. (d)(4)(B)(ii). Pub. L. 102–552, §306(2)(B)(ii), inserted heading and struck out former heading “Principal payments”.
 

@@ -6,7 +6,7 @@ Except as otherwise provided in this section, amounts received by an employee th
 
 #### (b) Amounts expended for medical care
 
-Except in the case of amounts attributable to (and not in excess of) deductions allowed undersection 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, and his dependents (as defined in section 152). Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
+Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, and his dependents (as defined in section 152). Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
 
 #### (c) Payments unrelated to absence from work
 
@@ -58,7 +58,7 @@ For purposes of this section, the term “employee” does not include an indivi
 
 &emsp;&emsp;&emsp;(i) 70 percent or more of all employees, or 80 percent or more of all the employees who are eligible to benefit under the plan if 70 percent or more of all employees are eligible to benefit under the plan; or
 
-&emsp;&emsp;&emsp;(ii) such employees as qualify under a classification set up by the employer and found by the Secretary not to be discriminatory in favor of highly compensated individuals.
+&emsp;&emsp;&emsp;(ii) such employees as qualify under a classification set up by the employer andfound by the Secretary not to be discriminatory in favor of highly compensated individuals.
 
 #### (B) Exclusion of certain employees
 
@@ -90,7 +90,7 @@ For purposes of this section, the term “employee” does not include an indivi
 
 #### (6) Self-insured medical reimbursement plan
 
-&emsp;The term “self-insured medical reimbursement plan” means a plan of an employer to reimburse employees for expenses referred to insubsection (b) for which reimbursement is not provided under a policy of accident and health insurance.
+&emsp;The term “self-insured medical reimbursement plan” means a plan of an employer to reimburse employees for expenses referred to in subsection (b) for which reimbursement is not provided under a policy of accident and health insurance.
 
 #### (7) Excess reimbursement of highly compensated individual
 
@@ -156,7 +156,7 @@ Subsec. (h)(8). Pub. L. 96–613 and Pub. L. 96–605 made identical amendments 
 
 1978—Subsec. (d)(4). Pub. L. 95–600, §701 (c)(1), redesignated par. (5) as (4). Former par. (4) redesignated (5)(A) and (C).
 
-Subsec. (d)(5). Pub. L. 95–600, §701(c)(1), added heading and subpar. (B), redesignated former par. (4) as subpars. (A) and (C), adding subpar. (C) heading and substituting “section 143(a)” for “section 143”; and redesignatedformer par. (6) as subpar. (D), inserting “defined” in heading.
+Subsec. (d)(5). Pub. L. 95–600, §701(c)(1), added heading and subpar. (B), redesignated former par. (4) as subpars. (A) and (C), adding subpar. (C) heading and substituting “section 143(a)” for “section 143”; and redesignated former par. (6) as subpar. (D), inserting “defined” in heading.
 
 Subsec. (d)(6), (7). Pub. L. 95–600, §701(c)(1), redesignated par. (7) as (6). Former par. (6) redesignated (5)(D).
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 366(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(13)(D), Apr. 1, 1980, 94 Stat. 213, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts reimbursed after December 31, 1979. For purposes of applying such amendment, there shall not be taken into account any amount reimbursed before January 1, 1980.”
+Section 366(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(13)(D), Apr. 1, 1980, 94 Stat. 213,provided that: “The amendment made by this section \[amending this section\] shall apply to amounts reimbursed after December 31, 1979. For purposes of applying such amendment, there shall not be taken into account any amount reimbursed before January 1, 1980.”
 
 Section 701(c)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -234,7 +234,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Revocation of Election
 
-Pub. L. 95–30, title III, §301(c), May 23, 1977, 91 Stat. 151, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any election made under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] for a taxable year beginning in 1976 may be revoked (insuch manner as may be prescribed by regulations) at any time before the expiration of the period for assessing a deficiency with respect to such taxable year (determined without regard to subsection (d) of this section) \[set out below\].”
+Pub. L. 95–30, title III, §301(c), May 23, 1977, 91 Stat. 151, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any election made under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] for a taxable year beginning in 1976 may be revoked (in such manner as may be prescribed by regulations) at any time before the expiration of the period for assessing a deficiency with respect to such taxable year (determined without regard to subsection (d) of this section) \[set out below\].”
 
 #### Period for Assessing Deficiency
 
@@ -280,7 +280,7 @@ Rules and regulations, see section 7805 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 22, 3401, 6039D, 7701, 7871 of this title.
+This section is referred to in sections 22, 213, 3401, 6039D, 7701, 7871 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

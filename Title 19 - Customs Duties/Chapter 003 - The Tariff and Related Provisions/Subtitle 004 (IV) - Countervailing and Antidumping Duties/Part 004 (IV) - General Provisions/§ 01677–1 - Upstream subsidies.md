@@ -26,9 +26,11 @@ The term “upstream subsidy” means any countervailable subsidy, other than an
 
 If the administering authority decides, during the course of a countervailing duty proceeding that an upstream countervailable subsidy is being or has been paid or bestowed regarding the subject merchandise, the administering authority shall include in the amount of any countervailing duty imposed on the merchandise an amount equal to the amount of the competitive benefit referred to in subparagraph (1)(B),<sup>1</sup> except that in no event shall the amount be greater than the amount of the countervailable subsidy determined with respect to the upstream product.
 
-(June 17, 1930, ch. 497, title VII, §771A, as added Oct. 30, 1984, Pub. L. 98–573, title VI, §613(a), 98 Stat. 3035; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(10), 100 Stat. 2922; Dec. 8, 1994, Pub. L. 103–465, title II, §§233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), 108 Stat. 4901, 4916, 4917.)
+(June 17, 1930, ch. 497, title VII, §771A, as added Oct. 30, 1984, Pub. L. 98–573, title VI, §613(a), 98 Stat. 3035; amended Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1886(a)(10), 100 Stat. 2922; Dec. 8, 1994, Pub. L. 103–465, title II, §§233(a)(5)(GG), 268, 270(a)(1)(K), (L), (2)(B), (c)(3), 108 Stat. 4901, 4916, 4917; Oct. 11, 1996, Pub. L. 104–295, §20(b)(2), 110 Stat. 3527.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–295 amended directory language of Pub. L. 103–465, §270(a)(2)(B). See 1994 Amendment note below.
 
 1994—Subsec. (a). Pub. L. 103–465, §268, inserted introductory provisions and struck out former introductory provisions which read as follows: “The term ‘upstream subsidy’ means any subsidy described in section 1677(5)(B)(i), (ii), (iii), or (iv) of this title by the government of a country that—”, and in concluding provisions, inserted “countervailable” before “subsidy”.
 
@@ -36,7 +38,7 @@ Subsec. (a)(1). Pub. L. 103–465, §268(1), added par. (1) and struck out forme
 
 Subsec. (b)(2). Pub. L. 103–465, §270(a)(1)(K), inserted “countervailable” before “subsidy” in two places.
 
-Subsec. (c). Pub. L. 103–465, §270(a)(2)(B), which directed insertion of “countervailable” before “subsidy” in heading of “section 771(A)(c)” of act June 17, 1930, ch. 497, was executed by making insertion in heading of subsec. (c) of this section, which is section 771A of act June 17, 1930, ch. 497, to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 103–465, §270(a)(2)(B), as amended by Pub. L. 104–295, inserted “countervailable” before “subsidy” in heading.
 
 Pub. L. 103–465, §270(a)(1)(L), (c)(3), inserted “countervailable” after “upstream” and substituted “the countervailable subsidy determined” for “subsidization determined”.
 

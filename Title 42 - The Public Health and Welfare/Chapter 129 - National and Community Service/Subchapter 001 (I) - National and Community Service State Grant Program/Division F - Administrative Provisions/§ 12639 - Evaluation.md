@@ -12,7 +12,7 @@ The Corporation shall provide, through grants or contracts, for the continuing e
 
 &emsp;&emsp;(B) each regular component of the Armed Forces (as defined in section 101(a)(4) of title 10);
 
-&emsp;&emsp;(C) each of the reserve components of the Armed Forces (as described in section 216(a) of title 5); <sup>2</sup> and
+&emsp;&emsp;(C) each of the reserve components of the Armed Forces (as described in section 10101 of title 10); and
 
 &emsp;&emsp;(D) the Peace Corps (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.));
 
@@ -118,11 +118,9 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 &emsp;&emsp;(B) with respect to the evaluation covering each subsequent year, not later than 18 months after the first day of each such year.
 
-(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773.)
+(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501.)
 
 #### References in Text
-
-Section 216(a) of title 5, referred to in subsec. (a)(2)(C), was probably meant to be a reference to section 261(a) of Title 10, Armed Forces. Section 261 of Title 10 was repealed by Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(A), Oct. 5, 1994, 108 Stat. 2979. See section 10101 of Title 10.
 
 The Peace Corps Act, referred to in subsecs. (a)(2)(D) and (g)(3), (9), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
@@ -131,6 +129,8 @@ Section 12575 of this title, referred to in subsec. (g)(1), was in the original 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), (9), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(C). Pub. L. 104–106 substituted “section 10101 of title 10” for “section 216(a) of title 5”.
 
 1993—Subsec. (a). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for “Commission” in introductory provisions.
 
@@ -173,6 +173,10 @@ Subsec. (f). Pub. L. 102–384, §9(2), inserted “or post-service benefit” a
 Subsec. (h)(1). Pub. L. 102–384, §9(3)(A), substituted “this section” for “subsection (g) of this section”.
 
 Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows: “The Commission shall keep information acquired under this section confidential.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1993 Amendment
 

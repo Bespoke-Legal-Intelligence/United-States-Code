@@ -7,7 +7,10 @@
 | 80a–1. | Findings and declaration of policy. |
 | (a) | Findings. |
 | (b) | Policy. |
-| 80a–2. | Definitions. |
+| 80a–2. | Definitions; applicability; rulemaking considerations. |
+| (a) | Definitions. |
+| (b) | Applicability to government. |
+| (c) | Consideration of promotion of efficiency, competition, and capital formation. |
 | 80a–3. | Definitions of investment company. |
 | (a) | Definitions. |
 | (b) | Exemption from provisions. |
@@ -136,7 +139,8 @@
 | (c) | Additional requirement for prospectuses relating to periodic payment plan certificates or face-amount certificate. |
 | (d) | Application of other provisions to securities of investment companies, face-amount certificate companies, and open-end companies or unit investment trust. |
 | (e) | Amendment of registration statements relating to securities issued by face-amount certificate companies, open-end management companies or unit investment trusts. |
-| (f) | Effective date of registration statements in cases of securities sold in excess of securities included in effective registration statement. |
+| (f) | Registration of indefinite amount of securities. |
+| (g) | Additional prospectuses. |
 | 80a–25. | Reorganization plans; reports by Commission. |
 | (a) | Filing of reorganization plan and other information with Commission. |
 | (b) | Advisory report by Commission at request of shareholders. |
@@ -147,6 +151,7 @@
 | (b) | Substitution of securities. |
 | (c) | Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued. |
 | (d) | Liquidation of unit investment trust. |
+| (e) | Exemption. |
 | 80a–27. | Periodic payment plans. |
 | (a) | Sale of certificates; restrictions. |
 | (b) | Exemptions. |
@@ -156,6 +161,7 @@
 | (f) | Charges, statement; rules; surrender of certificates; regulations. |
 | (g) | Governing provisions; election. |
 | (h) | Sale of certificates; restrictions. |
+| (i) | Applicability to registered separate account funding variable insurance contracts. |
 | 80a–28. | Face-amount certificate companies. |
 | (a) | Issuance or sale of certificates. |
 | (b) | Asset requirements prior to sale of certificates. |
@@ -169,15 +175,21 @@
 | 80a–29. | Reports and financial statements of investment companies and affiliated persons. |
 | (a) | Annual report by company. |
 | (b) | Semi-annual or quarterly filing of information; copies of periodic or interim reports sent to security holders. |
-| (c) | Reports under this section in lieu of reports under other provisions of law. |
-| (d) | Semi-annual reports to stockholders. |
-| (e) | Certificate of independent public accountants. |
-| (f) | Duties and liabilities of affiliated persons. |
+| (c) | Minimizing reporting burdens. |
+| (d) | Reports under this section in lieu of reports under other provisions of law. |
+| (e) | Semi-annual reports to stockholders. |
+| (f) | Additional information. |
+| (g) | Certificate of independent public accountants. |
+| (h) | Duties and liabilities of affiliated persons. |
+| (g) | Disclosure to church plan participants. |
+| (h) | Notice to Commission. |
 | 80a–30. | Accounts and records. |
-| (a) | Records constituting basis for financial statements; records necessary to record person's transactions with company. |
-| (b) | Examination of records by Commission. |
-| (c) | Uniformity in accounting policies. |
-| (d) | Application for exemption from provisions of section. |
+| (a) | Maintenance of records. |
+| (b) | Examinations of records. |
+| (c) | Limitations on disclosure by Commission. |
+| (d) | Definitions. |
+| (e) | Regulatory authority. |
+| (f) | Exemption authority. |
 | 80a–31. | Accountants and auditors. |
 | (a) | Selection of accountant. |
 | (b) | Selection of controller or other principal accounting officer. |
@@ -190,7 +202,7 @@
 | (a) | Unlawful representation of guarantee by United States or agency thereof. |
 | (b) | Unlawful representation of sponsorship by United States or agency thereof. |
 | (c) | Statement of registration under securities provisions. |
-| (d) | Deceptive or misleading names for investment companies. |
+| (d) | Deceptive or misleading names. |
 | 80a–35. | Breach of fiduciary duty. |
 | (a) | Civil actions by Commission; jurisdiction; allegations; injunctive or other relief. |
 | (b) | Compensation or payments as basis of fiduciary duty; civil actions by Commission or security holder; burden of proof; judicial consideration of director or shareholder approval; persons liable; extent of liability; exempted transactions; jurisdiction; finding restriction. |
@@ -251,10 +263,10 @@
 | (i) | Rules and regulations of Commission. |
 | (j) | Warrants, options, and rights to purchase voting securities; loans to facilitate executive compensation plans. |
 | (k) | Restriction on brokerage commissions. |
-| (<i>l)</i> | Persons subject to brokerage commission restrictions. |
+| (<i>l</i>) | Persons subject to brokerage commission restrictions. |
 | (m) | Receipt of fee or salary from transaction participant. |
 | (n) | Profit-sharing plans. |
-| (<i>o)</i> | Required majority for approval of proposed transactions. |
+| (<i>o</i>) | Required majority for approval of proposed transactions. |
 | 80a–57. | Changes in investment policy. |
 | 80a–58. | Incorporation of subchapter provisions. |
 | 80a–59. | Functions and activities of business development companies. |
@@ -288,6 +300,12 @@
 | (i) | Money penalties in administrative proceedings. |
 | (j) | Authority to enter order requiring accounting and disgorgement. |
 | (k) | Cease-and-desist proceedings. |
+| 80b–3a. | State and Federal responsibilities. |
+| (a) | Advisers subject to State authorities. |
+| (b) | Advisers subject to Commission authority. |
+| (c) | Exemptions. |
+| (d) | Filing depositories. |
+| (e) | State assistance. |
 | 80b–4. | Reports by investment advisers. |
 | 80b–4a. | Prevention of misuse of nonpublic information. |
 | 80b–5. | Investment advisory contracts. |
@@ -295,6 +313,7 @@
 | (b) | Compensation prohibition inapplicable to certain compensation computations. |
 | (c) | Measurement of changes in compensation. |
 | (d) | “Investment advisory contract” defined. |
+| (e) | Exempt persons and transactions. |
 | 80b–6. | Prohibited transactions by investment advisers. |
 | 80b–6a. | Exemptions. |
 | 80b–7. | Material misstatements. |
@@ -329,7 +348,11 @@
 | 80b–16. | Annual reports of Commission. |
 | 80b–17. | Penalties. |
 | 80b–18. | Hiring and leasing authority of Commission. |
-| 80b–18a. | State control of investment advisers. |
+| 80b–18a. | State regulation of investment advisers. |
+| (a) | Jurisdiction of State regulators. |
+| (b) | Dual compliance purposes. |
+| (c) | Limitation on capital and bond requirements. |
+| (d) | National de minimis standard. |
 | 80b–19. | Separability. |
 | 80b–20. | Short title. |
 | 80b–21. | Effective date. |

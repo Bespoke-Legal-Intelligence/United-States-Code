@@ -4,7 +4,7 @@
 
 (b) Personnel of the United Seamen's Service who are performing duties in connection with the cooperation and assistance under subsection (a) may be furnished—
 
-&emsp;(1) transportation, at the expense of the United States, while traveling to and from, and while performing those duties, in the same manner as civilian employees of the armed forces;
+&emsp;(1) transportation, at the expense of the United States, while traveling to and from, and while performing those duties, in the samemanner as civilian employees of the armed forces;
 
 &emsp;(2) meals and quarters, at their expense or at the expense of the United Seamen's Service, except that where civilian employees of the armed forces are quartered without charge, employees of the United Seamen's Service may also be quartered without charge; and
 
@@ -14,7 +14,7 @@
 
 (d) Supplies of the United Seamen's Service, including gifts for the use of merchant seamen, may be transported at the expense of the United States, if it is determined under regulations prescribed under subsection (a) that they are necessary to the cooperation and assistance provided under this section.
 
-(e) Where practicable, the President shall also make arrangements to provide for convertibilityof local currencies for the United Seamen's Service, in connection with its activities under subsection (a).
+(e) Where practicable, the President shall also make arrangements to provide for convertibility of local currencies for the United Seamen's Service, in connection with its activities under subsection (a).
 
 (f) For the purposes of this section, employees of the United Seamen's Service may not be considered as employees of the United States.
 

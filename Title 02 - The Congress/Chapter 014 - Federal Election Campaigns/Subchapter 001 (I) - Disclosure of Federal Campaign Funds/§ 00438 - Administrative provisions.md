@@ -6,7 +6,7 @@ The Commission shall—
 
 &emsp;(1) prescribe forms necessary to implement this Act;
 
-&emsp;(2) prepare, publish, and furnish to all persons required to file reports and statementsunder this Act a manual recommending uniform methods of bookkeeping and reporting;
+&emsp;(2) prepare, publish, and furnish to all persons required to file reports and statements under this Act a manual recommending uniform methods of bookkeeping and reporting;
 
 &emsp;(3) develop a filing, coding, and cross-indexing system consistent with the purposes of this Act;
 
@@ -14,7 +14,7 @@ The Commission shall—
 
 &emsp;(5) keep such designations, reports, and statements for a period of 10 years from the date of receipt, except that designations, reports, and statements that relate solely to candidates for the House of Representatives shall be kept for 5 years from the date of their receipt;
 
-&emsp;(6)(A) compile and maintain a cumulative index of designations, reports, and statements filed under this Act, which index shall be published at regular intervals and made available for purchase directly or by mail;
+&emsp;(6)(A) compile and maintain a cumulative index of designations, reports, and statementsfiled under this Act, which index shall be published at regular intervals and made available for purchase directly or by mail;
 
 &emsp;(B) compile, maintain, and revise a separate cumulative index of reports and statements filed by multi-candidate committees, including in such index a list of multi-candidate committees; and
 
@@ -48,7 +48,7 @@ Any forms prescribed by the Commission under subsection (a)(1) of this section, 
 
 (5)(A) A motion to discharge a committee of the Senate from the consideration of a resolution relating to any such rule, regulation, or form or a motion to proceed to the consideration of such a resolution, is highly privileged and shall be decided without debate.
 
-(B) Whenever a committee of the House of Representatives reports any resolution relatingto any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
+(B) Whenever a committee of the House of Representatives reports any resolution relating to any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
 
 #### (e) Scope of protection for good faith reliance upon rules or regulations
 
@@ -92,13 +92,13 @@ Subsec. (a)(8). Pub. L. 96–187, §109, substituted provisions for rules, regul
 
 Subsec. (a)(9). Pub. L. 96–187, §109, substituted provisions for transmittal to the President and Congress no later than June 1 of each year a report of Commission activities and recommendations for legislation for provisions for reporting apparent violations of law to appropriate law enforcement authorities.
 
-Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the FederalGovernment for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
+Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the Federal Government for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
 
 Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use of payments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internal review of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration of elections, such studies to be published by the Commission and copies made available to the general public.
 
 Subsec. (c). Pub. L. 96–187, §109, substituted provisions exempting from the provisions of section 3512 of title 44 any forms prescribed by the Commission and any information-gathering activities of the Commission for provisions of pars. (1) to (5) relating to prescribing of rules and regulations and approval thereof by either the Senate or the House of Representatives, and definition of “legislative days” and “rule or regulation”.
 
-Subsec. (d)(1). Pub. L. 96–187, §109, substituted provisions for transmittal to Congress of a statement with respect to any rule, regulation or form prior to its prescription, such statement setting forth such rule, etc., and a detailed explanation and justification, for provisions of subpars. (A) to (C) prescribing rules and regulations to carry out the provisions of this subchapter including rules and regulations relating to reports and statements to be filed by a candidate or delegate or Resident Commissioner to Congress, candidate for office of Senator, such reports to be made available to the public by the Clerk and Secretary of the House of Representatives and Senate, respectively.
+Subsec. (d)(1). Pub. L. 96–187, §109, substituted provisions for transmittal to Congress of a statement with respect to any rule, regulation or form prior to its prescription, such statement setting forth such rule, etc.,and a detailed explanation and justification, for provisions of subpars. (A) to (C) prescribing rules and regulations to carry out the provisions of this subchapter including rules and regulations relating to reports and statements to be filed by a candidate or delegate or Resident Commissioner to Congress, candidate for office of Senator, such reports to be made available to the public by the Clerk and Secretary of the House of Representatives and Senate, respectively.
 
 Subsec. (d)(2). Pub. L. 96–187, §109, substituted provisions permitting the Commission to prescribe a rule or regulation in the absence of disapproval by resolution of either House of Congress within 30 legislative days after the date of receipt of such proposed rule or regulation or within 10 legislative days after receipt of such proposed form for provisions that it is the duty of the Clerk and Secretary of the House of Representatives and Senate, respectively, to cooperate with the Commission in carrying out its duties under this Act and to furnish such services and facilities as may be required.
 
@@ -150,7 +150,7 @@ Disapproval of rules and regulations by either House of Congress under subsec. (
 
 #### Annual Reports for Calendar Years Beginning After Dec. 31, 1972
 
-Section 209(a)(2) of Pub. L. 93–443 provided that: “Notwithstanding section 308(a)(7) of the Federal ElectionCampaign Act of 1971 \[subsec. (a)(7) of this section\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
+Section 209(a)(2) of Pub. L. 93–443 provided that: “Notwithstanding section 308(a)(7) of the Federal Election Campaign Act of 1971 \[subsec. (a)(7) of this section\] (relating to an annual report by the supervisory officer), as in effect on the day before the effective date of the amendments made by paragraph (1) of this subsection, no such annual report shall be required with respect to any calendar year beginning after December 31, 1972.”
 
 #### Section Referred to in Other Sections
 

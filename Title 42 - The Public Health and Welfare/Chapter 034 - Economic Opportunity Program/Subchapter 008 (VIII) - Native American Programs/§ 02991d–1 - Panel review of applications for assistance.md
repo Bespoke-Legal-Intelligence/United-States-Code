@@ -8,7 +8,7 @@
 
 &emsp;(B) determining the relative merits of the projects for which such assistance is requested.
 
-(2) To implement the process established under paragraph (1), the Commissioner shall appoint members of review panels from among individuals who are not officers or employees ofthe Administration for Native Americans. In making appointments to such panels, the Commissioner shall give preference to American Indians, Native Hawaiians, other Native American Pacific Islanders (including American Samoan Natives), and Alaska Natives.
+(2) To implement the process established under paragraph (1), the Commissioner shall appoint members of review panels from among individuals who are not officers or employees of the Administration for Native Americans. In making appointments to such panels, the Commissioner shall give preference to American Indians, Native Hawaiians, other Native American Pacific Islanders (including American Samoan Natives), and Alaska Natives.
 
 #### (b) Duties of panel
 
@@ -58,7 +58,7 @@ Subsec. (a)(2). Pub. L. 102–375, §822(21), which directed the substitution of
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date
 

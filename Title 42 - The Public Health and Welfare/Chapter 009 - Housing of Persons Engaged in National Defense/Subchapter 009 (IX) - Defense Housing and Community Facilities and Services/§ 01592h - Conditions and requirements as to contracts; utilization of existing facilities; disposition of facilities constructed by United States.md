@@ -4,7 +4,7 @@ In carrying out this subchapter—
 
 &emsp;(a) notwithstanding any other provisions of this subchapter, so far as is consistent with emergency needs, contracts shall be subject to section 5 of title 41;
 
-&emsp;(b) t�7Eh�7Ee c�7Eo�7Es�7Et�7E-�7Ep�7El�7Eu�7Es�7E-�7Ea�7E-�7Ep�7Ee�7Er�7Ec�7Ee�7En�7Et�7Ea�7Eg�7Ee�7E-�7Eo�7Ef�7E-�7Ec�7Eo�7Es�7Et system of contracting shall not be used, but contracts may be made on a cost-plus-a-fixed-fee basis: <i>Provided,</i> That the fixed fee shall not exceed 6 per centum of the estimated cost;
+&emsp;(b) the cost-plus-a-percentage-of-cost system of contracting shall not be used, but contracts may be made on a cost-plus-a-fixed-fee basis: <i>Provided</i>, That the fixed fee shall not exceed 6 per centum of the estimated cost;
 
 &emsp;(c) wherever practicable, existing private and public community facilities shall be utilized or such facilities shall be extended, enlarged, or equipped in lieu of constructing new facilities; and
 

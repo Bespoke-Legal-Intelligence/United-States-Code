@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To carry out this subchapter, there are authorized to be appropriated $4,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+To carry out this subchapter, there are authorized to be appropriated $4,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1999.
 
 #### (b) Limitations
 
@@ -26,15 +26,17 @@ To carry out this subchapter, there are authorized to be appropriated $4,000,000
 
 #### (4) Technical assistance for protection and advocacy systems
 
-&emsp;If technical assistance to improve the effectiveness of protection and advocacy systems under subchapter III of this chapter is provided under section 6042(c)(5) of this title—
+&emsp;If technical assistance to improve the effectiveness of protection and advocacy systemsunder subchapter III of this chapter is provided under section 6042(c)(5) of this title—
 
 &emsp;&emsp;(A) no funding for the provision of such technical assistance to protection and advocacy systems shall be provided under this subchapter; and
 
 &emsp;&emsp;(B) the amount set aside for technical assistance under section 6082(a)(1)(B) of this title shall be proportionally reduced.
 
-(Pub. L. 88–164, title I, §163, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2684; amended Pub. L. 100–146, title V, §503, Oct. 29, 1987, 101 Stat. 858; Pub. L. 101–496, §22, Oct. 31, 1990, 104 Stat. 1204; Pub. L. 103–230, title V, §504, Apr. 6, 1994, 108 Stat. 331.)
+(Pub. L. 88–164, title I, §163, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2684; amended Pub. L. 100–146, title V, §503, Oct. 29, 1987, 101 Stat. 858; Pub. L. 101–496, §22, Oct. 31, 1990, 104 Stat. 1204; Pub. L. 103–230, title V, §504, Apr. 6, 1994, 108 Stat. 331; Pub. L. 104–183, §5, Aug. 6, 1996, 110 Stat. 1695.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–183 substituted “1995 through 1999” for “1995 and 1996”.
 
 1994—Subsec. (a). Pub. L. 103–230, §504(a), substituted “$4,000,000 for fiscal year 1994” for “$3,650,000 for fiscal year 1991” and “fiscal years 1995 and 1996” for “fiscal years 1992 and 1993”.
 

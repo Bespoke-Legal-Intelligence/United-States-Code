@@ -10,7 +10,7 @@ The Chief Judge of the Ninth Judicial Circuit of the United States may assign a 
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–454, §802(a)–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Court of Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
+1984—Subsec. (a). Pub. L. 98–454, §802(a)–(c), substituted “for the term of ten years” for “for a term of eight years” in first par., and, in second par., substituted “a local court of record” for “the Island Courtof Guam” and inserted “or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands” after “ninth circuit”.
 
 Subsec. (b). Pub. L. 98–454, §802(d), substituted “35” and “37” for “31” and “33” respectively.
 

@@ -46,7 +46,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 > but only if an employee's accrued benefit as of any applicable date is not less than the cash surrender value his insurance contracts would have on such applicable date if the requirements of paragraphs (4), (5), and (6) of section 1081(b) of this title were satisfied.
 
-(G) Notwithstanding the preceding subparagraphs, a defined benefit plan shall be treated as not satisfying the requirements of this paragraph if the participant's accrued benefit is reduced on account of any increase in his age or service. The preceding sentence shall not apply to benefits under the plan commencing before benefits payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] which benefits under the plan—
+(G) Notwithstanding the preceding subparagraphs, a defined benefit plan shall be treated as not satisfying the requirements of this paragraph if the participant's accrued benefit is reduced on account of any increase in his age orservice. The preceding sentence shall not apply to benefits under the plan commencing before benefits payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] which benefits under the plan—
 
 &emsp;(i) do not exceed social security benefits, and
 
@@ -86,7 +86,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 (B) For purposes of this paragraph, except as provided in subparagraph (C), in the case of any employee whose customary employment is less than full time, the calculation of such employee's service on any basis which provides less than a ratable portion of the accrued benefit to which he would be entitled under the plan if his customary employment were full time shall not be treated as made on a reasonable and consistent basis.
 
-(C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulationsprescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
+(C) For purposes of this paragraph, in the case of any employee whose service is less than 1,000 hours during any calendar year, plan year or other 12-consecutive-month period designated by the plan (and not prohibited under regulations prescribed by the Secretary) the calculation of his period of service shall not be treated as not made on a reasonable and consistent basis merely because such service is not taken into account.
 
 (D) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of participation” shall be such period as determined under regulations prescribed by the Secretary.
 
@@ -212,7 +212,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(D) was adopted prior to, or pursuant to a collective bargaining agreement entered into prior to, the date on which the employer became a debtor in a case under title 11 or similar Federal or State law.
 
-(3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100 percent after taking into account the effect of the amendment.
+(3) This subsection shall apply only to plans (other than multiemployer plans) covered under section 1321 of this title for which the funded current liability percentage (within the meaning of section 1082(d)(8) of this title) is less than 100percent after taking into account the effect of the amendment.
 
 (4) For purposes of this subsection, the term “employer” has the meaning set forth in section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title.
 
@@ -274,7 +274,7 @@ Subsec. (b)(1)(H). Pub. L. 99–509, §9202(a)(2), added subpar. (H).
 
 Subsec. (b)(2) to (4). Pub. L. 99–509, §9202(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentencewhich read as follows: “In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal”.
+Subsec. (e). Pub. L. 99–514, §1898(a)(4)(B)(ii), inserted last sentence and struck out former last sentence which read as follows: “In the case of a defined contribution plan, the plan provision required under this subsection may provide that such repayment must be made before the participant has 5 consecutive 1-year breaks in service commencing after such withdrawal”.
 
 Subsec. (g)(1). Pub. L. 99–514, §1898(f)(2), inserted reference to section 1441.
 
@@ -358,7 +358,7 @@ Amendment by section 301(a)(2) of Pub. L. 98–397 not applicable to the termina
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and TerminationDates of 1986 Amendment note under section 623 of this title.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 

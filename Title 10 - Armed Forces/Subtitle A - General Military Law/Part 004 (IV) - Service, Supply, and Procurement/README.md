@@ -34,14 +34,18 @@
 | [<b>161.</b>](Chapter%20161%20-%20Property%20Records%20and%20Report%20of%20Theft%20or%20Loss%20of%20Certain%20Property/README.md) | <b>Property Records and Report of Theft or Loss of Certain Property</b> | <b>2721</b> |
 | [<b>163.</b>](Chapter%20163%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>2731</b> |
 | [<b>165.</b>](Chapter%20165%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>2771</b> |
-| [<b>167.</b>](Chapter%20167%20-%20Defense%20Mapping%20Agency/README.md) | <b>Defense Mapping Agency</b> | <b>2791</b> |
+| <b>\[167.</b> | <b>Repealed.\]</b> |  |
 | [<b>169.</b>](Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md) | <b>Military Construction and Military Family Housing</b> | <b>2801</b> |
-| [<b>171.</b>](Chapter%20171%20-%20Security%20and%20Control%20of%20Supplies/README.md) | <b>Security and Control of Supplies</b> | <b>2891</b> |
+| <b>\[171.</b> | <b>Repealed.\]</b> | <b>2891</b> |
 | [<b>172.</b>](Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md) | <b>Strategic Environmental Research and Development Program</b> | <b>2901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–201, div. A, title XI, §1123(a)(3), Sept. 23, 1996, 110 Stat. 2688, struck out item for chapter 167 “Defense Mapping Agency”.
+
+Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, struck out item for chapter 171 “Security and Control of Supplies”.
 
 1994—Pub. L. 103–355, title VIII, §8101(b), Oct. 13, 1994, 108 Stat. 3389, added item for chapter 140.
 
@@ -117,7 +121,7 @@ Particular provisions relating to—
 - [Chapter 161 - Property Records and Report of Theft or Loss of Certain Property](Chapter%20161%20-%20Property%20Records%20and%20Report%20of%20Theft%20or%20Loss%20of%20Certain%20Property/README.md)
 - [Chapter 163 - Military Claims](Chapter%20163%20-%20Military%20Claims/README.md)
 - [Chapter 165 - Accountability and Responsibility](Chapter%20165%20-%20Accountability%20and%20Responsibility/README.md)
-- [Chapter 167 - Defense Mapping Agency](Chapter%20167%20-%20Defense%20Mapping%20Agency/README.md)
+- [Chapter 167 - Repealed](Chapter%20167%20-%20Repealed/README.md)
 - [Chapter 169 - Military Construction and Military Family Housing](Chapter%20169%20-%20Military%20Construction%20and%20Military%20Family%20Housing/README.md)
-- [Chapter 171 - Security and Control of Supplies](Chapter%20171%20-%20Security%20and%20Control%20of%20Supplies/README.md)
+- [Chapter 171 - Repealed](Chapter%20171%20-%20Repealed/README.md)
 - [Chapter 172 - Strategic Environmental Research and Development Program](Chapter%20172%20-%20Strategic%20Environmental%20Research%20and%20Development%20Program/README.md)

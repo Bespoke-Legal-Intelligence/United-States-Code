@@ -12,7 +12,9 @@ For purposes of section 165(g)(1), where the taxpayer is a bank and owns directl
 
 #### (1) General rule
 
-&emsp;For purposes of this subtitle, in the case of a financial institution referred to in paragraph (2), the sale or exchange of a bond, debenture, note, or certificate or other evidence of indebtedness shall not be considered a sale or exchange of a capital asset. For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.
+&emsp;For purposes of this subtitle, in the case of a financial institution referred to in paragraph (2), the sale or exchange of a bond, debenture, note, or certificate or other evidence of indebtedness shall not be considered a sale or exchange of a capital asset. For purposes of the preceding sentence, any regular or residual interest in a REMIC, and any regular interest in a FASIT,
+
+shall be treated as an evidence of indebtedness.
 
 #### (2) Financial institutions to which paragraph (1) applies
 
@@ -36,13 +38,15 @@ For purposes of section 165(g)(1), where the taxpayer is a bank and owns directl
 
 &emsp;&emsp;In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph (1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 202; Sept. 2, 1958, Pub. L. 85–866, title I, §34, 72 Stat. 1632; Dec. 30, 1969, Pub. L. 91–172, title IV, §433(a), (c), 83 Stat. 623, 624; Oct. 4, 1976, Pub. L. 94–455, title X, §1044(a), title XIV, §1402(b)(1)(G), (2), 90 Stat. 1642, 1732; July 18, 1984, Pub. L. 98–369, div. A, title X, §1001(b)(6), (e), 98 Stat. 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title VI, §671(b)(4), title IX, §901(d)(3), 100 Stat. 2318, 2379; Nov. 10, 1988, Pub. L. 100–647, title I, §1008(d)(3), 102 Stat. 3439; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(25), (c)(11), 104 Stat. 1388–521, 1388–527.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 202; Sept. 2, 1958, Pub. L. 85–866, title I, §34, 72 Stat. 1632; Dec. 30, 1969, Pub. L. 91–172, title IV, §433(a), (c), 83 Stat. 623, 624; Oct. 4, 1976, Pub. L. 94–455, title X, §1044(a), title XIV, §1402(b)(1)(G), (2), 90 Stat. 1642, 1732; July 18, 1984, Pub. L. 98–369, div. A, title X, §1001(b)(6), (e), 98 Stat. 1011, 1012; Oct. 22, 1986, Pub. L. 99–514, title VI, §671(b)(4), title IX, §901(d)(3), 100 Stat. 2318, 2379; Nov. 10, 1988, Pub. L. 100–647, title I, §1008(d)(3), 102 Stat. 3439; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(a)(25), (c)(11), 104 Stat. 1388–521, 1388–527; Aug. 20, 1996, Pub. L. 104–188, title I, §1621(b)(4), 110 Stat. 1867.)
 
 #### References in Text
 
 The Small Business Investment Act of 1958, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–188 inserted “, and any regular interest in a FASIT,” after “REMIC”.
 
 1990—Subsec. (c)(1). Pub. L. 101–508, §11801(c)(11)(A), substituted “paragraph (2)” for “paragraph (5)”.
 
@@ -79,6 +83,10 @@ Subsec. (c)(4). Pub. L. 94–455, §1044(a), added par. (4).
 Subsec. (c). Pub. L. 91–172, §433(a), redesignated existing provisions as par. (1), inserted reference to sections 585, 586 and 593, and added pars. (2) and (3).
 
 1958—Subsec. (c). Pub. L. 85–866 struck out “with interest coupons or in registered form,” before “exceed the gains”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
 
 #### Effective Date of 1988 Amendment
 

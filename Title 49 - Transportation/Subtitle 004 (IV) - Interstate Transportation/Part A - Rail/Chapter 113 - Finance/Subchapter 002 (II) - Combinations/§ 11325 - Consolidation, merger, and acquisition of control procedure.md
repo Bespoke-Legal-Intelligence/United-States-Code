@@ -10,7 +10,7 @@
 
 (b) If the application involves the merger or control of two or more Class I railroads, as defined by the Board, the following conditions apply:
 
-&emsp;(1) Written comments about an application may be filed with the Board within 45 days after notice of the application is published under subsection (a) of this section. Copies of such comments shall be served on the Attorney General and the Secretary of Transportation, who may decide to intervene as a partyto the proceeding. That decision must be made by the 15th day after the date of receipt of the written comments, and if the decision is to intervene, preliminary comments about the application must be sent to the Board by the end of the 15th day after the date of receipt of the written comments.
+&emsp;(1) Written comments about an application may be filed with the Board within 45 days after notice of the application is published under subsection (a) of this section. Copies of such comments shall be served on the Attorney General and the Secretary of Transportation, who may decide to intervene as a party to the proceeding. That decision must be made by the 15th day after the date of receipt of the written comments, and if the decision is to intervene, preliminary comments about the application must be sent to the Board by the end of the 15th day after the date of receipt of the written comments.
 
 &emsp;(2) The Board shall require that applications inconsistent with an application, notice of which was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 90th day after publication of notice under that subsection.
 

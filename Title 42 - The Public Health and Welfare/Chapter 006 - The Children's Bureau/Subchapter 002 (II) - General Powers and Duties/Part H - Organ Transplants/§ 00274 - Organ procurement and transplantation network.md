@@ -30,7 +30,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(D) assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients,
 
-&emsp;(E) adopt and use standards of quality for the acquisition and transportation of donated organs, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
+&emsp;(E) adopt and use standards of quality for the acquisition and transportation of donated organs, including standards for preventing theacquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
 
 &emsp;(F) prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors,
 

@@ -1,6 +1,6 @@
 ### §470. Special instruction at universities
 
-Coast Guard personnel may be assigned for special instruction at private or state colleges or universities, and their expenses, including tuition, books, laboratory equipment and fees,and school supplies, may be defrayed by the Coast Guard.
+Coast Guard personnel may be assigned for special instruction at private or state colleges or universities, and their expenses, including tuition, books, laboratory equipment and fees, and school supplies, may be defrayed by the Coast Guard.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 531.)
 

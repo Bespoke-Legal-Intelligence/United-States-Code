@@ -46,7 +46,7 @@ Functions of all other officers of Department of the Interior and functions of a
 
 #### Restoration of Vacant and Undisposed-of Ceded Lands in Certain Indian Reservations
 
-Pub. L. 85–420, May 19, 1958, 72 Stat. 121, provided: “That all lands now or hereafter classified as vacant and undisposed-of ceded lands (including townsite lots) on the following named Indian reservations are herebyrestored to tribal ownership, subject to valid existing rights:
+Pub. L. 85–420, May 19, 1958, 72 Stat. 121, provided: “That all lands now or hereafter classified as vacant and undisposed-of ceded lands (including townsite lots) on the following named Indian reservations are hereby restored to tribal ownership, subject to valid existing rights:
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Pub. L. 85–420, May 19, 1958, 72 Stat. 121, provided: “That all lands now or
 
 “
 
-Sec. 2. Title to the lands restored to tribal ownership by this Act shall be held by the United States in trust for the respective tribe or tribes, and such lands are hereby added to and made a part of the existing reservations for such tribe or tribes.
+Sec. 2. Title to the lands restored to tribal ownership by this Act shall be held by the United States intrust for the respective tribe or tribes, and such lands are hereby added to and made a part of the existing reservations for such tribe or tribes.
 
 “
 

@@ -5,6 +5,7 @@
 | [9511\.](%C2%A7%2009511%20-%20Definitions.md) | Definitions. |
 | [9512\.](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md) | Contracts for the inclusion or incorporation of defense features. |
 | [9513\.](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md) | Use of military installations by Civil Reserve Air Fleet contractors. |
+| [9514\.](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md) | Indemnification of Department of Transportation for losses covered by defense-related aviation insurance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +29,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
+1996—Pub. L. 104–201, div. A, title X, §1079(a)(2), Sept. 23, 1996, 110 Stat. 2669, added item 9514.
+
 1994—Pub. L. 103–355, title III, §3033(b), Oct. 13, 1994, 108 Stat. 3336, substituted “Use of military installations by Civil Reserve Air Fleet contractors” for “Commitment of aircraft to the Civil Reserve Air Fleet” in item 9513.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(A), Nov. 30, 1993, 107 Stat. 1714, substituted “CIVIL RESERVE AIR FLEET” for “INDUSTRIAL MOBILIZATION, RESEARCH, AND DEVELOPMENT” in chapter heading, struck out subchapter analysis consisting of items for subchapter I “General” and subchapter II “Civil Reserve Air Fleet”, struck out subchapter I heading “GENERAL”, struck out items 9501 “Industrial mobilization: orders; priorities; possession of manufacturing plants; violations”, 9502 “Industrial mobilization: plants; lists; Board on Mobilization of Industries Essential for Military Preparedness”, 9503 “Research and development programs”, 9504 “Procurement for experimental purposes”, 9505 “Procurement of production equipment”, 9506 “Sale, loan, or gift of samples, drawings, and information to contractors”, and 9507 “Sale of ordnance and ordnance stores to designers”, and struck out heading for subchapter II “CIVIL RESERVE AIR FLEET”.
@@ -44,3 +47,4 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 - [&sect; 09511 - Definitions](%C2%A7%2009511%20-%20Definitions.md)
 - [&sect; 09512 - Contracts for the inclusion or incorporation of defense features](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md)
 - [&sect; 09513 - Use of military installations by Civil Reserve Air Fleet contractors](%C2%A7%2009513%20-%20Use%20of%20military%20installations%20by%20Civil%20Reserve%20Air%20Fleet%20contractors.md)
+- [&sect; 09514 - Indemnification of Department of Transportation for losses covered by defense-related aviation insurance](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md)

@@ -74,7 +74,7 @@
 
 &emsp;A written evaluation prepared pursuant to paragraph (1)(B) shall—
 
-&emsp;&emsp;(A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) of this section separately for each metropolitan area in which the institution maintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
+&emsp;&emsp;(A) present the information required by subparagraphs (A) and (B) of subsection (b)(1) of this section separately for each metropolitan area in which the institutionmaintains 1 or more domestic branch offices and separately for the remainder of the nonmetropolitan area of the State if the institution maintains 1 or more domestic branch offices in such nonmetropolitan area; and
 
 &emsp;&emsp;(B) describe how the Federal financial supervisory agency has performed the examination of the institution, including a list of the individual branches examined.
 

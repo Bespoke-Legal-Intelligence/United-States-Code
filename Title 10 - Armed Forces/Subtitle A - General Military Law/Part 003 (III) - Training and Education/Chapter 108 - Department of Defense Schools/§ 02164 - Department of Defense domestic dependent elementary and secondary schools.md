@@ -24,7 +24,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 Eligibility of Dependents of Federal Employees.—(1) A dependent of a Federal employee residing in permanent living quarters on a military installation at any time during the school year may enroll in an educational program provided by the Secretary of Defense pursuant to subsection (a) for dependents residing on such installation.
 
-(2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
+(2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program providedby the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
 
 (B) A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent's educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.
 
@@ -48,6 +48,8 @@ School Boards.—(1) The Secretary of Defense shall provide for the establishmen
 
 (6) A school board need not comply with the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.
 
+(7) The Secretary may provide for reimbursement of a school board member for expenses incurred by the member for travel, transportation, lodging, meals, program fees, activity fees, and other appropriate expenses that the Secretary determines are reasonable and necessary for the performance of school board duties by the member.
+
 (e)
 
 Administration and Staff.—(1) The Secretary of Defense may enter into such arrangements as may be necessary to provide educational programs at the school.
@@ -69,6 +71,28 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 &emsp;(iii) the average compensation for similar positions in not more than three other local educational agencies in the State in which the military installation is located.
 
 (B) In fixing the compensation of employees in schools established in the territories, commonwealths, and possessions pursuant to the authority of this section, the Secretary shall determine the level of compensation required to attract qualified employees. For employees in such schools, the Secretary, without regard to the provisions of title 5, may provide for the tenure, leave, hours of work, and other incidents of employment to be similar to that provided for comparable positions in the public schools of the District of Columbia. For purposes of the first sentence, a school established before the effective date of this section pursuant to authority similar to the authority in this section shall be considered to have been established pursuant to the authority of this section.
+
+(4)(A) The Secretary may, without regard to the provisions of any law relating to the number, classification, or compensation of employees—
+
+&emsp;(i) transfer employees from schools established under this section to schools in the defense dependents’ education system in order to provide the services referred to in subparagraph (B) to such system; and
+
+&emsp;(ii) transfer employees from such system to schools established under this section in order to provide such services to those schools.
+
+(B) The services referred to in subparagraph (A) are the following:
+
+&emsp;(i) Administrative services.
+
+&emsp;(ii) Logistical services.
+
+&emsp;(iii) Personnel services.
+
+&emsp;(iv) Such other services as the Secretary considers appropriate.
+
+(C) Transfers under this paragraph shall extend for such periods as the Secretary considers appropriate. The Secretary shall provide appropriate compensation for employees so transferred.
+
+(D) The Secretary may provide that the transfer of an employee under this paragraph occur without reimbursement of the school or system concerned.
+
+(E) In this paragraph, the term “defense dependents’ education system” means the program established and operated under section 1402(a) of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921(a)).
 
 (f)
 
@@ -94,7 +118,7 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 Reimbursement.—When the Secretary of Defense provides educational services under this section to an individual who is a dependent of an employee of a Federal agency outside the Department of Defense, the head of the other Federal agency shall, upon request of the Secretary of Defense, reimburse the Secretary for those services at rates routinely prescribed by the Secretary for those services. Any payments received by the Secretary under this subsection shall be credited to the account designated by the Secretary for the operation of educational programs under this section.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727.)
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737.)
 
 #### References in Text
 
@@ -105,6 +129,12 @@ The effective date of this section, referred to in subsec. (e)(3)(B), is the dat
 The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Parts B and H of the Act are classified generally to subchapters II (§1411 et seq.) and VIII (§1471 et seq.), respectively, of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+
+#### Amendments
+
+1996—Subsec. (d)(7). Pub. L. 104–201 added par. (7).
+
+Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
 #### Savings Provision
 

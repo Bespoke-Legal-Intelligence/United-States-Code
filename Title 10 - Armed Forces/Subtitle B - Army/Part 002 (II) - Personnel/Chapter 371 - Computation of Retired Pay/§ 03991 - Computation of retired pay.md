@@ -28,7 +28,11 @@ Use of most favorable formula.—If a person would otherwise be entitled to reti
 
 Rounding to next lower dollar.—The amount computed under subsection (a), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 232; Aug. 21, 1957, Pub. L. 85–155, title I, §101(23), 71 Stat. 380; May 20, 1958, Pub. L. 85–422, §§6(1), (8), 11(a)(5), 72 Stat. 129, 131; Sept. 2, 1958, Pub. L. 85–861, §1(101A), 72 Stat. 1489; Oct. 2, 1963, Pub. L. 88–132, §5(h)(2), 77 Stat. 214; Dec. 16, 1967, Pub. L. 90–207, §3(2), 81 Stat. 653; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(c), 94 Stat. 1104; Dec. 12, 1980, Pub. L. 96–513, title V, §§502(21), (22), 512(10), 94 Stat. 2910, 2929; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(7), 923(a)(1), (2)(F), 97 Stat. 641, 642; July 1, 1986, Pub. L. 99–348, title II, §202(a), 100 Stat. 694; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(a)(2), 108 Stat. 2788.)
+(c)
+
+Special Rule for Retired Reserve Enlisted Members Covered by Section 3963.—In the case of a Reserve enlisted member retired under section 3914 of this title whose retired grade is determined under section 3963 of this title and who first became a member of a uniformed service before September 8, 1980, the retired pay base of the member (notwithstanding section 1406(a)(1) of this title) is the amount of the monthly basic pay of the member's retired grade (determined based upon the rates of basic pay applicable on the date of the member's retirement), and that amount shall be used for the purposes of subsection (a)(1)(A) rather than the amount computed under section 1406(c) of this title.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 232; Aug. 21, 1957, Pub. L. 85–155, title I, §101(23), 71 Stat. 380; May 20, 1958, Pub. L. 85–422, §§6(1), (8), 11(a)(5), 72 Stat. 129, 131; Sept. 2, 1958, Pub. L. 85–861, §1(101A), 72 Stat. 1489; Oct. 2, 1963, Pub. L. 88–132, §5(h)(2), 77 Stat. 214; Dec. 16, 1967, Pub. L. 90–207, §3(2), 81 Stat. 653; Sept. 8, 1980, Pub. L. 96–342, title VIII, §813(c), 94 Stat. 1104; Dec. 12, 1980, Pub. L. 96–513, title V, §§502(21), (22), 512(10), 94 Stat. 2910, 2929; Sept. 24, 1983, Pub. L. 98–94, title IX, §§922(a)(7), 923(a)(1), (2)(F), 97 Stat. 641, 642; July 1, 1986, Pub. L. 99–348, title II, §202(a), 100 Stat. 694; Oct. 5, 1994, Pub. L. 103–337, div. A, title VI, §635(a)(2), 108 Stat. 2788; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §532(d)(1), 110 Stat. 2520.)
 
 Historical and Revision Notes<br>1956
 
@@ -52,9 +56,41 @@ R.S. 1274.
 
 Mar. 2, 1907, ch. 2515, §1 (less 1st 35 words, and less proviso), 34 Stat. 1217.
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 3991(A)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 3991(B)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 10:941a(a)(3) (proviso, less applicability to retired grade).
 
@@ -70,7 +106,19 @@ June 3, 1916, ch. 134, §4c (24 words before proviso); added June 4, 1920, ch. 2
 
 3991(C)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 3991(D)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 3991(E)
 
@@ -91,6 +139,26 @@ June 3, 1916, ch. 134, §4c (24 words before proviso); added June 4, 1920, ch. 2
 July 31, 1935, ch. 422, §5 (less 1st 101 words, and less 3d proviso); restated June 13, 1940, ch. 344, §3 (less 1st 45 words, and less 2d proviso), 54 Stat. 380; Aug. 7, 1947, ch. 512, §§514(g), 521(a), 61 Stat. 906, 912; June 29, 1948, ch. 708, §202 (less 1st 105 words), 62 Stat. 1084.
 
 3991 Footnote 2
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 10:156c (less 1st 43, and last 13, words).
 
@@ -114,9 +182,23 @@ Apr. 16, 1947, ch. 38, §108(a) (less 1st 49 words, and less 1st 84 words of las
 
 3991 Footnote 4
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 3991 Footnote 5
 
 \[No source\].
+
+&nbsp;
 
 10:166g(a) (1st proviso).
 
@@ -152,7 +234,7 @@ In the introductory paragraph, the applicability of the rule stated in the third
 
 In formula B, the words “basic pay” are substituted for the words “base and longevity pay” to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “his retired grade” are substituted for the words “permanent grade held at time of retirement” to reflect the right to higher retired grade when qualified under other provisions of law. 10:941a(e) (last proviso of clause (1)) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the active duty pay of all members of the Army is based upon years of service.
 
-In formula C, the computation is based on monthly pay instead of annual pay to conform to the other formulas of the revised section. The words “basic pay” are substituted for the words “active duty base and longevity pay”, and the words “in determining his basic pay” are substituted for the words “for longevity pay purposes”, to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words “Monthly basic pay of member's retired grade” are substituted for the words “the rank upon which they are retired”, in 10:971, and “rank with which retired”, in 10:971b, to reflect their right to advancement on the retired list. 10:971 now applies only when the retiring officer has 30 or more years of service which may be credited in computing his retired pay. 10:971b (2d proviso) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the pay of all members is based upon cumulative years of service. 10:971b (4th proviso) is omitted as executed. 10:971b (last proviso) is omitted, since the distinction between limited and unlimited retired lists was abolished by section 201 of the act of June 29, 1948, ch. 708, 62 Stat. 1084. Sections 3918, 3920, and 3924 are included under this formula, since it achieves the same result as is reached on a basis of 30 years multiplied by 21/2 percent, and simplifies the table.
+In formula C, the computation is based on monthly pay instead of annual pay to conform to the other formulas of the revised section. The words “basic pay” are substituted for the words “active duty base and longevity pay”, and the words “in determining his basic pay” are substituted for the words “for longevity pay purposes”, to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 etseq.). The words “Monthly basic pay of member's retired grade” are substituted for the words “the rank upon which they are retired”, in 10:971, and “rank with which retired”, in 10:971b, to reflect their right to advancement on the retired list. 10:971 now applies only when the retiring officer has 30 or more years of service which may be credited in computing his retired pay. 10:971b (2d proviso) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the pay of all members is based upon cumulative years of service. 10:971b (4th proviso) is omitted as executed. 10:971b (last proviso) is omitted, since the distinction between limited and unlimited retired lists was abolished by section 201 of the act of June 29, 1948, ch. 708, 62 Stat. 1084. Sections 3918, 3920, and 3924 are included under this formula, since it achieves the same result as is reached on a basis of 30 years multiplied by 21/2 percent, and simplifies the table.
 
 In formulas D and E, the words “credited under section 3925” are substituted for the words “active Federal service”, since that revised section makes explicit the service covered. The act of August 10, 1946, ch. 952, §6(c), 60 Stat. 996, is not contained in 10:948. It is also omitted from the revised section as executed. 10:980 now applies only when the retiring enlisted member has at least 30 years of service which may be credited in computing his retired pay. However, as noted above, 10:980 is the only provision of law applicable to cases in which the retiring member has at least 30 years of service. The act of June 16, 1942, ch. 413, §19 (63d through 75th words of 2d par.), 56 Stat. 369, repealed so much of the act of March 2, 1907, ch. 2513, 34 Stat. 1217, as provided allowances for enlisted men on the retired list. The repeal of section 19 of the act of June 16, 1942, by section 531(b)(34) of the Career Compensation Act of 1949, 63 Stat. 839, did not revive that portion of the act of March 2, 1907, which had been repealed by the act of June 16, 1942. Accordingly, the act of March 2, 1907, as thus modified by the act of June 16, 1942, is used as the basis for formula E.
 
@@ -181,6 +263,8 @@ Act
 The amendment reflects section 1(99) of the bill \[amending section 3962 of Title 10\].
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
 1994—Subsec. (a)(1). Pub. L. 103–337, §635(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) contained table which provided two formulas for computing retired pay for cases covered under sections 3911, 3914, 3917, 3918, 3920, and 3924 of this title.
 
@@ -216,7 +300,7 @@ Formula D. Pub. L. 85–422, §6(8), substituted “monthly basic pay to which m
 
 Footnote 1. Pub. L. 85–422, §6(1), struck out provisions which related to inapplicability of section 3962(a), and inserted provisions permitting computation at the highest rates of basic pay applicable to an officer who has served as Chief of Staff while he served in that office.
 
-1957—Pub. L. 85–155 redesignated formulas “B” to “E” of the table as formulas “A” to “D”. Former formula“A”, which related to computation of retirement pay for persons retired under former sections 3881, 3882, and 3912 of this title, was repealed by Pub. L. 85–155.
+1957—Pub. L. 85–155 redesignated formulas “B” to “E” of the table as formulas “A” to “D”. Former formula “A”, which related to computation of retirement pay for persons retired under former sections 3881, 3882, and 3912 of this title, was repealed by Pub. L. 85–155.
 
 #### Effective Date of 1994 Amendment
 

@@ -24,7 +24,7 @@ Subsec. (e). Pub. L. 98–369, §525(a), struck out subsec. (e) which related to
 
 Pub. L. 98–369, §491(d)(34), inserted “or” at end of par. (1), substituted a period for “, or” at end of par. (2), struck out par. (3) which excluded from the value of the gross estate the value of an annuity receivable by any beneficiary, other than the executor, under a retirement bond described in section 409(a), and substituted in provision following par. (2) “or 408(d)(3)” for “405(d)(3), 408(d)(3), or 409(b)(3)(C)”, and substituted “or annuity” for “, annuity, or bond” wherever appearing.
 
-Subsecs. (f), (g). Pub. L. 98–369, §525(a), struck out subsec. (f) which related to lump sum distributions and an exception where the recipient elects not to take 10-year averaging, and subsec. (g) which related to a $100,000 limitation on the exclusions under subsecs. (c) and (e).
+Subsecs. (f), (g). Pub. L. 98–369, §525(a), struck out subsec. (f) which related to lump sum distributions andan exception where the recipient elects not to take 10-year averaging, and subsec. (g) which related to a $100,000 limitation on the exclusions under subsecs. (c) and (e).
 
 1983—Subsec. (f)(1). Pub. L. 97–448, §103(c)(9)(A), designated existing provisions as subpar. (A), substituted “without regard to the third sentence of section 402(e)(4)(A))” for “without regard to the next to the last sentence of section 402(e)(4)(A)” in subpar. (A) as so designated, and added subpar. (B).
 
@@ -44,7 +44,7 @@ Pub. L. 97–34, §311(h)(4), substituted “section 219” for “section 219 o
 
 1980—Subsec. (f)(2). Pub. L. 96–222 substituted “(without the application of paragraph (2) thereof), except to the extent that section 402(e)(4)(J) applies to such distribution” for “without the application of paragraph (2) thereof”.
 
-1978—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))” for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the nextto the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
+1978—Subsec. (c). Pub. L. 95–600, §142(a), substituted “(other than an amount described in subsection (f))” for “(other than a lump sum distribution described in section 402(e)(4), determined without regard to the next to the last sentence of section 402(e)(4)(A))” in provisions preceding par. (1).
 
 Subsec. (e). Pub. L. 95–600, §§156(c)(4), 702(j)(1), inserted “section 403(b)(8) (but only to the extent such contribution is attributed to a distribution from a contract described in subsection (c)(3)),” after “403(a)(4)” and inserted “or 220” after “section 219” wherever appearing in provisions following par. (3).
 
@@ -98,7 +98,7 @@ Irrevocable election.—For purposes of paragraph (2) \[set out above\] and sect
 
 &emsp;“(A) separated from service before January 1, 1985, with respect to paragraph (2), or January 1, 1983, with respect to section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982, and
 
-&emsp;“(B) meets the requirements of such paragraph or such section other than the requirement that there be an irrevocable election, and that the individual be in pay status,
+&emsp;“(B) meets the requirements of such paragraph or such section other than the requirement that therebe an irrevocable election, and that the individual be in pay status,
 
 > shall be treated as having made an irrevocable election and as being in pay status within the time prescribed with respect to a form of benefit if such individual does not change such form of benefit before death.”
 

@@ -16,13 +16,15 @@
 
 &emsp;&emsp;(C) computed correctly on the facts certified; and
 
-&emsp;(3) except for the correctness of computations on a voucher, be held accountable for carrying out clauses (1) and (2) of this subsection.
+&emsp;(3) except for the correctness of computations on a voucher or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,,<sup>1</sup> be held accountable for carrying out clauses (1) and (2) of this subsection.
 
-(b) Subsection (a) of this section does not apply to disbursements of a military department of the Department of Defense, except for disbursements for departmental pay and expenses in the District of Columbia.
+(b) In addition to officers and employees referred to in subsection (a)(1)(B) of this section as having authorization to certify vouchers, members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation.
 
 (c) On request, the Secretary of the Treasury may provide to the appropriate officer or employee of the United States Government a list of persons receiving periodic payments from the Government. When certified and in proper form, the list may be used as a voucher on which the Secretary may disburse money.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951.)
+(d) The head of an executive agency or an officer or employee of an executive agency referred to in subsection (a)(1)(B), as applicable, shall include with each certified voucher submitted to a disbursing official pursuant to this section the taxpayer identifying number of each person to whom payment may be made under the voucher.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 951; Pub. L. 104–106, div. A, title IX, §913(b), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–134, title III, §31001(g)(1)(B), (y), Apr. 26, 1996, 110 Stat. 1321–363, 1321–378; Pub. L. 104–201, div. A, title X, §1009(b), Sept. 23, 1996, 110 Stat. 2634.)
 
 Historical and Revision Notes
 
@@ -60,7 +62,19 @@ In subsection (b), the words “under the jurisdiction” are omitted as surplus
 
 In subsection (c), the words “On and after May 14, 1937” are omitted as executed. The words “Secretary of the Treasury” are substituted for “Division of Disbursement, Treasury Department” in section 1(last proviso of 2d par. on p. 140) of the Act of May 14, 1937, because of section 1(a) of Reorganization Plan No. III of 1940 (eff. June 30, 1940, 54 Stat. 1231) and section 321(c) of the revised title. The word “appropriate” is added for clarity. The words “officer or employee of the United States Government” are substituted for “administrative officers” for consistency in the revised title and with other titles of the United States Code. The words “addressographed or stenciled” and “administratively revised and” are omitted as surplus. The words “disburse public money” are substituted for “make payment” for consistency.
 
+#### Amendments
+
+1996—Subsec. (a)(3). Pub. L. 104–134, §31001(g)(1)(B), inserted “or pursuant to payment intercepts or offsets pursuant to section 3716 or 3720A of this title,” after “voucher”.
+
+Subsec. (b). Pub. L. 104–201 substituted “members of the armed forces may certify vouchers when authorized, in writing, by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation” for “members of the armed forces under the jurisdiction of the Secretary of Defense may certify vouchers when authorized, in writing, by the Secretary to do so”.
+
+Pub. L. 104–106 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Subsection (a) of this section does not apply to disbursements of a military department of the Department of Defense, except for disbursements for departmental pay and expenses in the District of Columbia.”
+
+Subsec. (d). Pub. L. 104–134, §31001(y), added subsec. (d).
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3528 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

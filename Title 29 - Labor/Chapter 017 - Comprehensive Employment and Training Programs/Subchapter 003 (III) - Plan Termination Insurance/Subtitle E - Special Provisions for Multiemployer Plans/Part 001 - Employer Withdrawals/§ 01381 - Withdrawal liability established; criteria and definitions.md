@@ -46,7 +46,7 @@ Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such
 
 “(c)
 
-No Increase in Liability.—The amendments made by this section \[amending sections 1391, 1397, 1399, 1415 and 1461 of this title and provisions set out as a note under section 1385 of this title\] shall not be construed to increase the liability incurred by any employer pursuant to part 1 of subtitle E of title IV of theEmployee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.), as in effect immediately before the amendments made by subsection (b) \[amending sections 1391, 1397, 1399, 1415, and 1461 of this title and provisions set out as a note under section 1385 of this title\], as a result of the complete or partial withdrawal of such employer from a multiemployer plan prior to September 26, 1980.
+No Increase in Liability.—The amendments made by this section \[amending sections 1391, 1397, 1399, 1415 and 1461 of this title and provisions set out as a note under section 1385 of this title\] shall not be construed to increase the liability incurred by any employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.), as in effect immediately before the amendments made by subsection (b) \[amending sections 1391, 1397, 1399, 1415, and 1461 of this title and provisions set out as a note under section 1385 of this title\], as a result of the complete or partial withdrawal of such employer from a multiemployer plan prior to September 26, 1980.
 
 “(d)
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of the Army shall provide that the Assistant Secretary of the Army for Financial Management shall direct and manage financial management activities and operations of the Department of the Army, including ensuring that financial management systems of the Department of the Army comply with subsection (b). The authority of the Assistant Secretary for such direction and management shall include the authority to—
 
-&emsp;(1) supervise and direct the preparation of budget estimates of the Department of the Army and otherwise carry out, with respect to the Department of the Army, the functions specified for the Comptroller of the Department of Defense <sup>1</sup> in section 135(c) of this title;
+&emsp;(1) supervise and direct the preparation of budget estimates of the Department of the Army and otherwise carry out, with respect to the Department of the Army, the functions specified for the Under Secretary of Defense (Comptroller) in section 135(c) of this title;
 
 &emsp;(2) approve and supervise any project to design or enhance a financial management system for the Department of the Army; and
 
@@ -32,9 +32,11 @@
 
 (d) The Assistant Secretary of the Army for Financial Management shall transmit to the Secretary of the Army a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Army financial management.
 
-(Added Pub. L. 100–456, div. A, title VII, §702(a)(2), Sept. 29, 1988, 102 Stat. 1993; amended Pub. L. 103–337, div. A, title X, §1070(a)(15), Oct. 5, 1994, 108 Stat. 2856.)
+(Added Pub. L. 100–456, div. A, title VII, §702(a)(2), Sept. 29, 1988, 102 Stat. 1993; amended Pub. L. 103–337, div. A, title X, §1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, §1503(b)(1), Feb. 10, 1996, 110 Stat. 512.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller of the Department of Defense”.
 
 1994—Subsec. (a)(1). Pub. L. 103–337 substituted “section 135(c)” for “section 137(c)”.
 

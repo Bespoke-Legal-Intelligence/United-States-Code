@@ -8,15 +8,15 @@ Goal.—(1) Except as provided in subsection (d), a goal of 5 percent of the amo
 
 &emsp;(B) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
 
-&emsp;(C) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d–5(3)),<sup>1</sup> which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1)).<sup>1</sup>
+&emsp;(C) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d–5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
 
-(2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges anduniversities in the program provided for by this section.
+(2) The head of the agency shall establish a specific goal within the overall 5 percent goal for the award of prime contracts and subcontracts to historically Black colleges and universities and minority institutions in order to increase the participation of such colleges and universities in the program provided for by this section.
 
-(3) The Federal Acquisition Regulation (issued under section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)) <sup>1</sup> shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
+(3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act (15 U.S.C. 637(d)(4)(B)) in furtherance of the agency's program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
 
 (b)
 
-Amount.—With <sup>2</sup> respect to the Department of Defense, the requirements of subsection (a) for any fiscal year apply to the combined total of the following amounts:
+Amount.—(1) With respect to the Department of Defense, the requirements of subsection (a) for any fiscal year apply to the combined total of the following amounts:
 
 &emsp;(A) Funds obligated for contracts entered into with the Department of Defense for such fiscal year for procurement.
 
@@ -74,7 +74,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;&emsp;(ii) exercise his utmost authority, resourcefulness, and diligence;
 
-&emsp;&emsp;(iii) in the case of the Department of Defense, actively monitor and assess the progress of the military departments, Defense Agencies, and prime contractors of theDepartment of Defense in attaining such goal; and
+&emsp;&emsp;(iii) in the case of the Department of Defense, actively monitor and assess the progress of the military departments, Defense Agencies, and prime contractors of the Department of Defense in attaining such goal; and
 
 &emsp;&emsp;(iv) in the case of the Coast Guard and the National Aeronautics and Space Administration, actively monitor and assess the progress of the prime contractors of the agency in attaining such goal.
 
@@ -82,7 +82,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(2) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency shall make advance payments under section 2307 of this title to contractors described in subsection (a). The Federal Acquisition Regulation shall provide guidance to contracting officers for making advance payments to entities described in subsection (a)(1) under such section.
 
-&emsp;(3) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+&emsp;(3) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns insuch industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
 
 &emsp;(4) To the extent practicable, the head of an agency shall maximize the number of minority small business concerns, historically Black colleges and universities, and minority institutions participating in the program.
 
@@ -124,7 +124,7 @@ Industry Categories.—(1) To the maximum extent practicable, the head of the ag
 
 &emsp;(B) ensure that contracts awarded to attain the goal established by subsection (a) are made across the broadest possible range of industry categories.
 
-(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limitthe contracting activity's use of set asides in awarding contracts in that particular industry category.
+(2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity's use of set asides in awarding contracts in that particular industry category.
 
 (h)
 
@@ -150,6 +150,8 @@ Annual Report.—(1) Not later than December 15 of each year, the head of the ag
 
 &emsp;(C) A description of the percentage of contracts (actions), the total dollar amount (size of action), and the number of different entities relative to the attainment of the goal of subsection (a), separately for Black Americans, Native Americans, Hispanic Americans, Asian Pacific Americans, and other minorities.
 
+&emsp;(D) A detailed description of the infrastructure assistance provided under subsection (c) during the preceding fiscal year and of the plans for providing such assistance during the fiscal year in which the report is submitted.
+
 (j)
 
 Definitions.—In this section:
@@ -164,7 +166,7 @@ Effective Date.—(1) This section applies in the Department of Defense to each 
 
 (2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2000.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672.)
 
 #### References in Text
 
@@ -179,6 +181,14 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
+
+1996—Subsec. (a)(1)(C). Pub. L. 104–106, §4321(b)(8)(A), inserted closing parenthesis after “1135d–5(3))” and “1059c(b)(1))”.
+
+Subsec. (a)(3). Pub. L. 104–106, §4321(b)(8)(B), struck out “(issued under section 25(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c))” after “Acquisition Regulation”.
+
+Subsec. (b). Pub. L. 104–106, §4321(b)(8)(C), inserted “(1)” after “Amount.—”.
+
+Subsec. (i)(3)(D). Pub. L. 104–106, §4321(b)(8)(D), added subpar. (D).
 
 1994—Pub. L. 103–355 amended section generally to extend defense contract goal for small disadvantaged businesses and certain institutions of higher education to Coast Guard and National Aeronautics and Space Administration.
 
@@ -214,7 +224,7 @@ Subsec. (g). Pub. L. 102–484, §801(e)(2), added subsec. (g). Former subsec. (
 
 Subsec. (h). Pub. L. 102–484, §802(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 102–484, §801(f), as amended by Pub. L. 103–35, substituted “Report” for “Reports” in heading, struck out “July 15 of each year, the Secretary of Defense shall submit to Congress a report on the progress toward meeting the goal of subsection (a) during the current fiscal year. (2) Not later than” after “(1) Not later than”, struck out “final” after “Congress a”, and substituted “Secretary toward attaining” for “Secretary with” in former par. (2), redesignated par. (3) as (2) and substituted “report required under paragraph (1) shall” for “reports described in paragraphs (1) and (2) shall each”, redesignated par. (4) as (3) and substituted “report required under paragraph (1)” for “reports required under paragraph (2)”, and struck out par. (5) which read as follows: “The first report required by this subsection shall be submitted between May 1 and May 30, 1987.”
+Pub. L. 102–484, §801(f), as amended by Pub. L. 103–35, substituted “Report” for “Reports” in heading, struckout “July 15 of each year, the Secretary of Defense shall submit to Congress a report on the progress toward meeting the goal of subsection (a) during the current fiscal year. (2) Not later than” after “(1) Not later than”, struck out “final” after “Congress a”, and substituted “Secretary toward attaining” for “Secretary with” in former par. (2), redesignated par. (3) as (2) and substituted “report required under paragraph (1) shall” for “reports described in paragraphs (1) and (2) shall each”, redesignated par. (4) as (3) and substituted “report required under paragraph (1)” for “reports required under paragraph (2)”, and struck out par. (5) which read as follows: “The first report required by this subsection shall be submitted between May 1 and May 30, 1987.”
 
 Pub. L. 102–484, §801(e)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
@@ -223,6 +233,10 @@ Subsec. (i). Pub. L. 102–484, §802(1), redesignated subsec. (h) as (i). Forme
 Pub. L. 102–484, §801(e)(1), redesignated subsec. (h) as (i).
 
 Subsec. (j). Pub. L. 102–484, §802(1), redesignated subsec. (i) as (j).
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1994 Amendment
 
@@ -248,9 +262,5 @@ Section 811(d) of Pub. L. 103–160 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304, 2304a, 2323a of this title; title 15 section 644; title 41 section 428.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(1) With”.</i>
+This section is referred to in sections 2304, 2304e, 2323a of this title; title 15 section 644; title 41 section 428.
 

@@ -22,7 +22,7 @@ This section applies to actions under any of the following authorities:
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expirationof the President's authority under that chapter on Sept. 30, 1981.
 
 #### Section Referred to in Other Sections
 

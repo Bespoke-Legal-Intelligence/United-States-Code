@@ -62,7 +62,7 @@ June 17, 1930, ch. 497, §522(b), 46 Stat. 740.
 
 31:372(c)(2)(2d, last sentences).
 
-In subsection (b), the words “United States money” are substituted for “money of account” for consistency in the chapter. The words “standard coins of the country” are substituted for “values of standard coins in circulation of the various nations of the world” to eliminate unnecessary words. The words “Secretary of the Treasury” are substituted for “Director of theMint” because of the source provisions restated in section 321(c) of the revised title.
+In subsection (b), the words “United States money” are substituted for “money of account” for consistency in the chapter. The words “standard coins of the country” are substituted for “values of standard coins in circulation of the various nations of the world” to eliminate unnecessary words. The words “Secretary of the Treasury” are substituted for “Director of the Mint” because of the source provisions restated in section 321(c) of the revised title.
 
 In subsection (c), the words “on or after June 17, 1930” are omitted as executed.
 

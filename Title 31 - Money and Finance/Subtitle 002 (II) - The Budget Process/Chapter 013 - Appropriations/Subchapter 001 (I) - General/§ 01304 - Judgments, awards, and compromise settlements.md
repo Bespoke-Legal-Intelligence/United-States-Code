@@ -4,7 +4,7 @@
 
 &emsp;(1) payment is not otherwise provided for;
 
-&emsp;(2) payment is certified by the Comptroller General; and
+&emsp;(2) payment is certified by the Secretary of the Treasury; and
 
 &emsp;(3) the judgment, award, or settlement is payable—
 
@@ -18,9 +18,9 @@
 
 (b)(1) Interest may be paid from the appropriation made by this section—
 
-&emsp;(A) on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United States Government, and then only from the date of filing of the transcript of the judgment with the Comptroller General through the day before the date of the mandate of affirmance; or
+&emsp;(A) on a judgment of a district court, only when the judgment becomes final after review on appeal or petition by the United States Government, and then only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance; or
 
-&emsp;(B) on a judgment of the Court of Appeals for the Federal Circuit or the United States Court of Federal Claims under section 2516(b) of title 28, only from the date of filing of the transcript of the judgment with the Comptroller General through the day before the date of the mandate of affirmance.
+&emsp;(B) on a judgment of the Court of Appeals for the Federal Circuit or the United States Court of Federal Claims under section 2516(b) of title 28, only from the date of filing of the transcript of the judgment with the Secretary of the Treasury through the day before the date of the mandate of affirmance.
 
 (2) Interest payable under this subsection in a proceeding reviewed by the Supreme Court is not allowed after the end of the term in which the judgment is affirmed.
 
@@ -38,7 +38,7 @@
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX,§902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843.)
 
 Historical and Revision Notes
 
@@ -78,6 +78,8 @@ Section 2518 of title 28, referred to in subsec. (c)(1), was repealed by Pub. L.
 
 #### Amendments
 
+1996—Subsecs. (a)(2), (b)(1)(A), (B). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+
 1992—Subsec. (b)(1)(B). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 1982—Subsec. (b)(1)(A). Pub. L. 97–258, §2(m)(2)(A), struck out “under section 2411(b) of title 28” after “district court”.
@@ -92,13 +94,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section 2(m) of Pub. L. 97–258 provided that the amendment made by that section is effective Oct. 1, 1982.
 
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2; title 23 section 307; title 28 section 1961; title 32 sections 334, 715; title 40 section 759; title 41 section 612.
+This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2, 838<i>l</i>; title 23 section 307; title 26 section 7435; title 28 sections 1961, 3906; title 32 sections 334, 715; title 41 section 612.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

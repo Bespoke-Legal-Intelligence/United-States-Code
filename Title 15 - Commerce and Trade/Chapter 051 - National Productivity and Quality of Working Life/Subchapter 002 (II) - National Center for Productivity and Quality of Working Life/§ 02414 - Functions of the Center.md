@@ -20,7 +20,7 @@ The Center shall—
 
 &emsp;(4) to identify, study, and review—
 
-&emsp;&emsp;(A) existing Federal, State, and local statutes, regulations, and fiscal policies which adversely affect productivity growth or theeconomic performance of the public and private sectors of the United States;
+&emsp;&emsp;(A) existing Federal, State, and local statutes, regulations, and fiscal policies which adversely affect productivity growth or the economic performance of the public and private sectors of the United States;
 
 &emsp;&emsp;(B) incentives to encourage industry and labor initiatives in the development of methods, techniques, and systems for the improved utilization of technological and human resources in the public and private sectors;
 

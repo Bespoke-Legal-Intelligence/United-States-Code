@@ -22,7 +22,7 @@ A person located in the United States who is a broker or trader for an internati
 
 #### (e) Application of notification requirement to exports of listed chemical; waiver
 
-(1) The Attorney General may by regulation require that the 15-day notification requirement of subsection (a) of this section apply to all exports of a listed chemical to a specified country, regardless of the status of certain customers in such country as regular customers, if the Attorney General finds that such notification is necessary to support effective chemical diversioncontrol programs or is required by treaty or other international agreement to which the United States is a party.
+(1) The Attorney General may by regulation require that the 15-day notification requirement of subsection (a) of this section apply to all exports of a listed chemical to a specified country, regardless of the status of certain customers in such country as regular customers, if the Attorney General finds that such notification is necessary to support effective chemical diversion control programs or is required by treaty or other international agreement to which the United States is a party.
 
 (2) The Attorney General may by regulation waive the 15-day notification requirement for exports of a listed chemical to a specified country if the Attorney General determines that such notification is not required for effective chemical diversion control. If the notification requirement is waived, exporters of the listed chemical shall be required to submit to the Attorney General reports of individual exportations or periodic reports of such exportation of the listed chemical, at such time or times and containing such information as the Attorney General shall establish by regulation.
 
@@ -75,6 +75,16 @@ Section 6053(b) of Pub. L. 100–690 provided that:
 “(6) Each regulated person shall provide to the Attorney General the identity of any regular customer or regular supplier of the regulated person not later than 30 days after the promulgation of the final regulations under paragraph (4). Not later than 60 days after the end of such 30-day period, each regular customer and regular supplier so identified shall be a regular customer or regular supplier for purposes of any applicable exception from the requirement of subsection (a) of such section 1018, unless the the \[sic\] Attorney General otherwise notifies the regulated person in writing.”
 
 Section effective 120 days after Nov. 18, 1988 \[except subsec. (a), see above\], see section 6061 of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 802 of this title.
+
+#### Exception for Iodine to Importation and Exportation Requirements for Listed Chemicals
+
+Pub. L. 104–237, title II, §204(b), Oct. 3, 1996, 110 Stat. 3102, provided that:
+
+“(1) Iodine shall not be subject to the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act (21 U.S.C. 971).
+
+“(2)
+
+Effect of Exception.—The exception made by paragraph (1) shall not limit the authority of the Attorney General to impose the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act (21 U.S.C. 971).”
 
 #### Section Referred to in Other Sections
 

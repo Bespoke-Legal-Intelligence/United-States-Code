@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;The Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—
 
-&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for asale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
+&emsp;&emsp;(A) to supplement the financing of a United States export when there is a reasonable expectation that predatory financing will be provided by another country for a sale by a competitor of the United States exporter with respect to such export and with special attention to matching tied aid and partially untied aid credits extended by other governments—
 
 &emsp;&emsp;&emsp;(i) in violation of the Arrangement; or
 
@@ -70,7 +70,7 @@ The Congress finds that—
 
 #### (1) In general
 
-&emsp;There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred to as the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
+&emsp;There is hereby established within the Bank a fund to be known as the “Tied Aid Credit Fund” (hereinafter in this section referred toas the “Fund”), consisting of such amounts as may be appropriated to the Fund pursuant to the authorization contained in subsection (e) of this section.
 
 #### (2) Expenditures from Fund
 
@@ -156,7 +156,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) financing offers extended for subloans under lines of credit referred to in subparagraph (A) made on or before August 15, 1992, or, in the case of Mexico, on or before December 31, 1992.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Oct. 15, 1986, Pub. L. 99–472, §19, 100 Stat. 1205; amended Dec. 29, 1987, Pub. L. 100–217, 101 Stat. 1454; Aug. 23, 1988, Pub. L. 100–418, title III, §3302(b), 102 Stat. 1383; Dec. 19, 1989, Pub. L. 101–240, title I, §101(b), 103 Stat. 2493; Nov. 5, 1990, Pub. L. 101–513, title V, §562(d), 104 Stat. 2036; renumbered §10 and amended Oct. 21, 1992, Pub. L. 102–429, title I, §§103, 121(c)(4), 106 Stat. 2187, 2199; Jan. 11, 1996, Pub. L. 104–97, §1, 109 Stat. 984.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Oct. 15, 1986, Pub. L. 99–472, §19, 100 Stat. 1205; amended Dec. 29, 1987, Pub. L. 100–217, 101 Stat.1454; Aug. 23, 1988, Pub. L. 100–418, title III, §3302(b), 102 Stat. 1383; Dec. 19, 1989, Pub. L. 101–240, title I, §101(b), 103 Stat. 2493; Nov. 5, 1990, Pub. L. 101–513, title V, §562(d), 104 Stat. 2036; renumbered §10 and amended Oct. 21, 1992, Pub. L. 102–429, title I, §§103, 121(c)(4), 106 Stat. 2187, 2199; Jan. 11, 1996, Pub. L. 104–97, §1, 109 Stat. 984; Feb. 12, 1996, Pub. L. 104–107, title V, §579, 110 Stat. 751.)
 
 #### Prior Provisions
 
@@ -164,9 +164,13 @@ A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–97, §1(a), substituted “1997” for “1995”.
+1996—Subsec. (c)(2). Pub. L. 104–107, §579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by Pub. L. 104–97. See below.
 
-Subsec. (e). Pub. L. 104–97, §1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
+Pub. L. 104–97, §1(a), substituted “1997” for “1995”.
+
+Subsec. (e). Pub. L. 104–107, §579(b), which directed substitution of “1996 and 1997” for “1993, 1994, and 1995”, could not be executed because that language does not appear in text after general amendment by Pub. L. 104–97. See below.
+
+Pub. L. 104–97, §1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
 
 1992—Subsec. (a). Pub. L. 102–429, §103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
 

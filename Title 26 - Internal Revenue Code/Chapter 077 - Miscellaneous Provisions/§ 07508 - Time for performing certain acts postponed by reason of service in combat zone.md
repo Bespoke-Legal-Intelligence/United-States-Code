@@ -164,5 +164,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6504, 6533, 6901 of this title; title 18 section 3613.
+This section is referred to in sections 6504, 6533, 6901 of this title.
 

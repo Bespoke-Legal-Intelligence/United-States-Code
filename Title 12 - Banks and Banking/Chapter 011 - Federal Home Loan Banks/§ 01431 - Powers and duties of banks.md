@@ -28,7 +28,7 @@ The Board shall have full power to require any Federal Home Loan Bank to deposit
 
 #### (f) Rediscount of notes held by other banks; purchase of bonds of other banks
 
-The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home LoanBanks, or to purchase any bonds or debentures issued under this section.
+The Board is authorized and empowered to permit,,<sup>1</sup> to require,<sup>1</sup> Federal Home Loan Banks, upon such terms and conditions as the Board may prescribe, to rediscount the discounted notes of members held by other Federal Home Loan Banks, or to make loans to, or make deposits with, such other Federal Home Loan Banks, or to purchase any bonds or debentures issued under this section.
 
 #### (g) Reserves
 
@@ -36,7 +36,7 @@ Each Federal Home Loan Bank shall at all times have at least an amount equal to 
 
 #### (h) Investment of surplus funds
 
-Such part of the assets of each Federal Home Loan Bank (except reserves and amounts provided for in subsection (g) of this section) as are not required for advances to members, may be invested, to such extent as the bank may deem desirable and subject to such regulations, restrictions, and limitations as may be prescribed by the Board, in obligations of the United States, in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association or the Government National Mortgage Association, in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or section 1455 of this title, in the stock of the Federal National Mortgage Association, in stock, obligations, or other securities of any small business investment company formed pursuant to section 681(d) of title 15, for the purpose of aiding members of the Federal Home Loan Bank System, and in such securities as fiduciary and trust funds may be invested in under the laws of the State in which the Federal Home Loan Bank is located.
+Such part of the assets of each Federal Home Loan Bank (except reserves and amounts provided for in subsection (g) of this section) as are not required for advances to members, may be invested, to such extent as the bank may deem desirable and subject to such regulations, restrictions, and limitations as may be prescribed by the Board, in obligations of the United States, in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association or the Government National Mortgage Association, in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or section 1455 of this title, in the stock of the Federal National Mortgage Association, in stock, obligations, or other securities of any small business investment company formed pursuant to section 681 of title 15, for the purpose of aiding members of the Federal Home Loan Bank System, and in such securities as fiduciary and trust funds may be invested in under the laws of the State in which the Federal Home Loan Bank is located.
 
 #### (i) Treasury purchase of banks’ obligations; exercise of authority
 
@@ -68,7 +68,15 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch.369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Sept. 2, 1964, Pub. L. 88–560, title VII, §701(d)(1), 78 Stat. 800; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807(k), 82 Stat. 545; Dec. 23, 1969, Pub. L. 91–151, title I, §3, 83 Stat. 374; Dec. 31, 1970, Pub. L. 91–609, title IX, §914, 84 Stat. 1815; Aug. 22, 1974, Pub. L. 93–383, title VIII, §805(c)(2), 88 Stat. 727; Oct. 28, 1974, Pub. L. 93–495, title I, §112, 88 Stat. 1506; Dec. 21, 1979, Pub. L. 96–153, title III, §324, 93 Stat. 1121; Mar. 31, 1980, Pub. L. 96–221, title III, §311, 94 Stat. 149; Oct. 15, 1982, Pub. L. 97–320, title I, §125(c), 96 Stat. 1485; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), 103 Stat. 412, 418.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Sept. 2, 1964, Pub. L. 88–560, title VII, §701(d)(1), 78 Stat. 800; Aug. 1, 1968, Pub. L. 90–448, title VIII, §807(k), 82 Stat. 545; Dec. 23, 1969, Pub. L. 91–151, title I, §3, 83 Stat. 374; Dec. 31, 1970, Pub. L. 91–609, title IX, §914, 84 Stat. 1815; Aug. 22, 1974, Pub. L. 93–383, title VIII, §805(c)(2), 88 Stat. 727; Oct. 28, 1974, Pub. L. 93–495, title I, §112, 88 Stat. 1506; Dec. 21, 1979, Pub. L. 96–153, title III, §324, 93 Stat. 1121; Mar. 31, 1980, Pub. L. 96–221, title III, §311, 94 Stat. 149; Oct. 15, 1982, Pub. L. 97–320, title I, §125(c), 96 Stat. 1485; Aug. 9, 1989, Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), 103 Stat. 412, 418; Sept. 30, 1996, Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), 110 Stat. 3009–489, 3009–747.)
+
+#### Amendment of Subsection (k)
+
+<i>Pub. L. 104–208, div. A, title II, §2704(c), (d)(11)(A), Sept. 30, 1996, 110 Stat. 3009–487, 3009–489, provided that, effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, subsection (k) of this section is amended as follows:</i>
+
+<i>(1) in the subsection heading, by striking “SAIF” and inserting “the Deposit Insurance Fund”; and</i>
+
+<i>(2) by striking “Savings Association Insurance Fund” each place such term appears and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -79,6 +87,8 @@ Section 9105 of title 31, referred to in subsec. (j), was amended generally by P
 In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act”, and “section 9105(a)(1)(B) of title 31” and “sections 9107(c)(2) and 9108(d)(1) of title 31” substituted for “the first sentence of section 202 of the Government Corporation Control Act \[31 U.S.C. 857\]” and “the first sentence of subsection (d) of section 303 of the Government Corporation Control Act \[31 U.S.C. 868(d)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+1996—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
 
 1989—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
@@ -129,6 +139,10 @@ Subsec. (i). Pub. L. 93–495 substituted “obligations under this paragraph”
 Subsecs. (i), (j). Act June 27, 1950, §4, added subsecs. (i) and (j).
 
 1934—Subsecs. (i), (j). Act June 27, 1934, among other changes, struck out subsecs. (i) and (j).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 2704(d)(11)(A) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 
 #### Effective Date of 1968 Amendment
 

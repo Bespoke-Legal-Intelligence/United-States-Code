@@ -2,7 +2,7 @@
 
 #### (a) Promulgation and implementation by Secretary for State
 
-The Secretary shall prepare and, subject to the provisions of this section, promulgate and implement a Federal program for a State no later than thirty-four months after August 3, 1977, if such State—
+The Secretary shall prepare and, subject to the provisions of this section, promulgate andimplement a Federal program for a State no later than thirty-four months after August 3, 1977, if such State—
 
 &emsp;(1) fails to submit a State program covering surface coal mining and reclamation operations by the end of the eighteen-month period beginning on August 3, 1977;
 
@@ -14,7 +14,7 @@ The Secretary shall prepare and, subject to the provisions of this section, prom
 
 #### (b) Federal enforcement of State program
 
-In the event that a State has a State program for surface coal mining, and is not enforcing anypart of such program, the Secretary may provide for the Federal enforcement, under the provisions of section 1271 of this title, of that part of the State program not being enforced by such State.
+In the event that a State has a State program for surface coal mining, and is not enforcing any part of such program, the Secretary may provide for the Federal enforcement, under the provisions of section 1271 of this title, of that part of the State program not being enforced by such State.
 
 #### (c) Notice and hearing
 

@@ -28,13 +28,19 @@ Any notice of a proposed procurement policy, regulation, procedure, or form prep
 
 (3) After considering the comments received, the head of the agency waiving the requirements of subsections (a) and (b) of this section under paragraph (1) may issue the final procurement policy, regulation, procedure, or form.
 
-(Pub. L. 93–400, §22, as added Pub. L. 98–577, title III, §302(a), Oct. 30, 1984, 98 Stat. 3076; amended Pub. L. 103–355, title V, §5092, Oct. 13, 1994, 108 Stat. 3362.)
+(Pub. L. 93–400, §22, as added Pub. L. 98–577, title III, §302(a), Oct. 30, 1984, 98 Stat. 3076; amended Pub. L. 103–355, title V, §5092, Oct. 13, 1994, 108 Stat. 3362; Pub. L. 104–106, div. D, title XLIII, §4321(a)(9), Feb. 10, 1996, 110 Stat. 671.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–355, §5092(a), substituted “60 days” for “30 days” and inserted at end “Notwithstanding the preceding sentence, such a policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but in no event may that effective date be less than 30 days after the publication date.”
+1996—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–355, §5092(b). See 1994 Amendment note below.
 
-Subsec. (d). Pub. L. 103–355, §5092(b), which directed amendment of subsec. (d) by designating second sentence as par. (3), was executed by designating second sentence of subsec. (d)(2) as par. (3) to reflect the probable intent of Congress.
+1994—Subsec. (a). Pub. L. 103–355, §5092(a), substituted “60 days” for “30 days” and inserted at end “Notwithstanding the preceding sentence, such a policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but inno event may that effective date be less than 30 days after the publication date.”
+
+Subsec. (d). Pub. L. 103–355, §5092(b), as amended by Pub. L. 104–106, designated second sentence of subsec. (d)(2) as subsec. (d)(3).
+
+#### Effective Date of 1996 Amendment
+
+Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 
 #### Effective Date
 
@@ -42,5 +48,5 @@ Section 302(b) of Pub. L. 98–577 provided that: “The procedures required by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 421 of this title; title 42 section 7256a; title 50 App. section 2159.
+This section is referred to in section 421 of this title; title 38 section 8153; title 42 section 7256a; title 50 App. section 2159.
 

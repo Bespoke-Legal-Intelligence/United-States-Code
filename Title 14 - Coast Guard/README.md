@@ -1,5 +1,5 @@
 
-14 U.S.C.<br>United States Code, 1995 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
+14 U.S.C.<br>United States Code, 1996 Edition<br>Title 14 - COAST GUARD<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 14—COAST GUARD
 
@@ -18,9 +18,13 @@
 
 Table Showing Disposition of All Sections of Former Title 14
 
-<i>Title 14      Former Sections     </i>
+<i>Title 14</i>
 
-<i>Title 14         New Sections        </i>
+<i>Former Sections</i>
+
+<i>Title 14</i>
+
+<i>New Sections</i>
 
 1
 

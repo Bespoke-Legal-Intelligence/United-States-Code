@@ -16,7 +16,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(1) the investment credit determined under section 46,
 
-&emsp;(2) the targeted jobs credit determined under section 51(a),
+&emsp;(2) the work opportunity credit determined under section 51(a),
 
 &emsp;(3) the alcohol fuels credit determined under section 40(a),
 
@@ -32,9 +32,11 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(9) the empowerment zone employment credit determined under section 1396(a),
 
-&emsp;(10) the Indian employment credit as determined under section 45A(a), plus
+&emsp;(10) the Indian employment credit as determined under section 45A(a),
 
-&emsp;(11) the employer social security credit determined under section 45B(a).
+&emsp;(11) the employer social security credit determined under section 45B(a), plus
+
+&emsp;(12) the orphan drug credit determined under section 45C(a).
 
 #### (c) Limitation based on amount of tax
 
@@ -108,7 +110,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;&emsp;&emsp;(ii) to the extent attributable to the regular percentage (as defined in section 46(b)(1) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall be treated as the first credit listed in section 46.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870.)
 
 #### References in Text
 
@@ -125,6 +127,12 @@ A prior section 38, added Pub. L. 87–834, §2(a), Oct. 16, 1962, 76 Stat. 962;
 Another prior section 38 was renumbered section 35 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–188, §1201(e)(1), substituted “work opportunity credit” for “targeted jobs credit”.
+
+Subsec. (b)(12). Pub. L. 104–188, §1205(a)(2), added par. (12).
+
+Subsec. (c)(2)(C). Pub. L. 104–188, §1704(e)(4), amended subpar. (C), as in effect on day before date of enactment of the Revenue Reconciliation Act of 1990 (title XI of Pub. L. 101–508, approved Nov. 5, 1990), by inserting before period at end of first sentence “and without regard to the deduction under section 56(h)”.
 
 1993—Subsec. (b)(7). Pub. L. 103–66, §13302(a)(1), struck out “plus” at end.
 
@@ -204,13 +212,21 @@ Pub. L. 99–514, §231(d)(3)(B), inserted “41(a),” after “40(a),”.
 
 1984—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
+#### Effective Date of 1996 Amendment
+
+Section 1201(g) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 41, 45A, 51, 196, and 1396 of this title\] shall apply to individuals who begin work for the employer after September 30, 1996.”
+
+Amendment by section 1205(a)(2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+
+Section 1702(i) of Pub. L. 104–188 provided that: “Except as otherwise expressly provided, any amendment made by this section \[amending this section, sections 50, 56, 59, 143, 151, 168, 172, 179, 243, 280F, 341, 424, 460, 613A, 805, 832, 861, 897, 1248, 1250, 1367, 1504, 2701, 2702, 2704, 4093, 4975, 5041, 5061, 5354, 6038A, 6302, 6416, 6427, 6501, 6503, 6621, 6724, and 7012 of this title, and provisions set out as a note under section 42 of this title\] shalltake effect as if included in the provision of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, title XI\] to which such amendment relates.”
+
 #### Effective Date of 1993 Amendment
 
 Section 13303 of Pub. L. 103–66 provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 Section 13322(f) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993.”
 
-Section 13443(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993.”
+Section 13443(d) of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat. 1759, provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date.”
 
 #### Effective Date of 1992 Amendment
 
@@ -274,7 +290,7 @@ For provisions that nothing in amendment by section 11813(b)(2) of Pub. L. 101�
 
 #### Credit for Contributions to Certain Community Development Corporations
 
-Section 13311 of Pub. L. 103–66 provided that:
+Section 13311 of Pub. L. 103–66, as amended by Pub. L. 104–188, title I, §1703(n)(13), Aug. 20, 1996, 110 Stat. 1877, provided that:
 
 “(a)
 
@@ -324,7 +340,7 @@ In general.—For purposes of this section, the term ‘selected community devel
 
 &emsp;“(2)
 
-Only 20 corporations may be selected.—The Secretary of Housing and Urban Development may select 20 corporations for purposes of this section, subject to the availability of eligible corporations. Such selections may be made only before July 1, 1994. At least 8 of the operational areas of the corporations selected must be rural areas (as defined by section 1393(a)(3) of such Code).
+Only 20 corporations may be selected.—The Secretary of Housing and Urban Development may select 20 corporations for purposes of this section, subject to the availability of eligible corporations. Such selections may be made only before July 1, 1994. At least 8 of the operational areas of the corporations selected must be rural areas (as defined by section 1393(a)(2) of such Code).
 
 &emsp;“(3)
 
@@ -416,7 +432,7 @@ Special rule.—In the case of the LTV Corporation, in lieu of the requirements 
 
 &emsp;&emsp;&emsp;“(i) shall only be used by the corporation—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have beenobligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to anyindividual with respect to whom the corporation would (but for such involvement) have been obligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) directly in connection with the trade or business of the corporation in the manufacturer or production of steel; and
 
@@ -570,5 +586,5 @@ Section 203(e) of Pub. L. 88–272, not applicable to public utility property to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 39, 40, 41, 42, 43, 44, 45, 45A, 45B, 46, 49, 50, 51, 52, 55, 108, 179, 196, 381, 1274A, 1351, 1396, 4612 of this title.
+This section is referred to in sections 29, 39, 40, 41, 42, 43, 44, 45, 45A, 45B, 45C, 46, 49, 50, 51, 52, 55, 108, 179, 196, 280C, 381, 877, 1274A, 1351, 1396, 4612 of this title.
 

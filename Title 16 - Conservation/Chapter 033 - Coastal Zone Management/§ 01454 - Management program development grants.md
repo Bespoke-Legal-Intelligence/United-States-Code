@@ -1,12 +1,18 @@
 ### §1454. Management program development grants
 
-(a) In fiscal years 1991, 1992, and 1993, the Secretary may make a grant annually to any coastal state without an approved program if the coastal state demonstrates to the satisfaction of the Secretary that the grant will be used to develop a management program consistent with the requirements set forth in section 1455 of this title. The amount of any such grant shall not exceed $200,000 in any fiscal year, and shall require State matching funds according to a 4-to-1 ratio of Federal-to-State contributions. After an initial grant is made to a coastal state pursuant to this subsection, no subsequent grant shall be made to that coastal state pursuant to this subsection unless the Secretary finds that the coastal state is satisfactorily developing its management program. No coastal state is eligible to receive more than two grants pursuant to this subsection.
+(a) In fiscal years 1997, 1998, and 1999, the Secretary may make a grant annually to any coastal state without an approved program if the coastal state demonstrates to the satisfaction of the Secretary that the grant will be used to develop a management program consistent with the requirements set forth in section 1455 of this title. The amount of any such grant shall not exceed $200,000 in any fiscal year, and shall require State matching funds according to a 4-to-1 ratio of Federal-to-State contributions. After an initial grant is made to a coastal state pursuant to this subsection, no subsequent grant shall be made to that coastal state pursuant to this subsection unless the Secretary finds that the coastal state is satisfactorily developing its management program. No coastal state is eligible to receive more than four grants pursuant to this subsection.
 
 (b) Any coastal state which has completed the development of its management program shall submit such program to the Secretary for review and approval pursuant to section 1455 of this title.
 
-(Pub. L. 89–454, title III, §305, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1282; amended Pub. L. 93–612, §1(1), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §4, July 26, 1976, 90 Stat. 1015; Pub. L. 101–508, title VI, §6205, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(1)(A), Nov. 4, 1992, 106 Stat. 5050.)
+(Pub. L. 89–454, title III, §305, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1282; amended Pub. L. 93–612, §1(1), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §4, July 26, 1976, 90 Stat. 1015; Pub. L. 101–508, title VI, §6205, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(1)(A), Nov. 4, 1992, 106 Stat. 5050; Pub. L. 104–150, §2(a), (b)(1), June 3, 1996, 110 Stat. 1380.)
+
+#### Amendment of Section
+
+<i>Pub. L. 104–150, §2(b)(1), (3), June 3, 1996, 110 Stat. 1380, provided that, effective Oct. 1, 1999, this section is amended by striking subsection (a), by striking “(b)”, and by amending section catchline to read as follows: “Submittal of State program for approval”.</i>
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–150, §2(a), substituted “1997, 1998, and 1999” for “1991, 1992, and 1993” and “four grants” for “two grants”.
 
 1992—Pub. L. 102–587 substituted “coastal state” for “coastal State” in last sentence of subsec. (a) and in subsec. (b).
 
@@ -30,7 +36,11 @@ Subsecs. (h), (i). Pub. L. 94–370 added subsec. (h) which incorporated provisi
 
 1975—Subsec. (e). Pub. L. 93–612 inserted proviso relating to the waiver by the Secretary of the 1 per centum minimum requirement upon request by the coastal state.
 
+#### Effective Date of 1996 Amendment
+
+Section 2(b)(3) of Pub. L. 104–150 provided that: “This subsection \[amending this section and section 1456a of this title\] shall take effect on October 1, 1999.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1456a, 1460, 1464 of this title; title 43 sections 1331, 1344.
+This section is referred to in sections 1456a, 1460 of this title; title 43 sections 1331, 1344.
 

@@ -2,7 +2,7 @@
 
 #### (a) Submission of general application; approval by State supervisory authority
 
-In the case of any State which applies, contracts, or submits a plan for participation in any applicable program in which Federal funds are made available for assistance to local educational agencies through, or under the supervision of, the State educational agency of that State, such State shall submit (subject to the provisions of part C of title V of the Elementary and Secondary Education Act of 1965 \[20 U.S.C.7261 et seq.\]) <sup>1</sup> to the Secretary a general application containing the assurances set forth in subsection (b) of this section. Such application may be submitted jointly for all programs covered by the application, or it may be submitted separately for each such program or for groups of programs. Each application submitted under this section must be approved by each official, agency, board, or other entity within the State which, under State law, is primarily responsible for supervision of the activities conducted under each program covered by the application.
+In the case of any State which applies, contracts, or submits a plan for participation in any applicable program in which Federal funds are made available for assistance to local educational agencies through, or under the supervision of, the State educational agency of that State, such State shall submit (subject to the provisions of part C of title V of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7261 et seq.\]) <sup>1</sup> to the Secretary a general application containing the assurances set forth in subsection (b) of this section. Such application may be submitted jointly for all programs covered by the application, or it may be submitted separately for each such program or for groups of programs. Each application submitted under this section must be approved by each official, agency, board, or other entity within the State which, under State law, is primarily responsible for supervision of the activities conducted under each program covered by the application.
 
 #### (b) Assurances
 
@@ -24,7 +24,7 @@ An application submitted under subsection (a) of this section shall set forth as
 
 &emsp;&emsp;(E) the correction of deficiencies in program operations that are identified through monitoring or evaluation;
 
-&emsp;(4) that the State will evaluate the effectiveness of covered programs in meeting their statutory objectives, at such intervals (not less often than once every three years) and in accordance with such procedures as the Secretary may prescribe by regulation, and that the State will cooperate in carrying out any evaluation of each program conducted by or for the Secretary or other Federal official;
+&emsp;(4) that the State will evaluate the effectiveness of covered programs in meeting their statutory objectives, at such intervals (not less often than once every three years) and in accordance with such procedures as the Secretary may prescribe by regulation, and thatthe State will cooperate in carrying out any evaluation of each program conducted by or for the Secretary or other Federal official;
 
 &emsp;(5) that the State will use fiscal control and fund accounting procedures that will ensure proper disbursement of, and accounting for, Federal funds paid to the State under each program;
 
@@ -50,7 +50,7 @@ Each general application submitted under this section shall remain in effect for
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title V of the Act is classified generally to part C (§7261 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title V of the Act is classified generally to part C (§7261 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Codification
 

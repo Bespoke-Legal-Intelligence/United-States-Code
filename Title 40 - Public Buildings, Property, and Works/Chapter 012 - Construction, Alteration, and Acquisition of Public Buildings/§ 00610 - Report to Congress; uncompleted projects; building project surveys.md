@@ -2,7 +2,7 @@
 
 (a) Upon the request of either House of Congress, or any committee thereof, and within a reasonable time, the Administrator shall submit a report showing the location, space, cost, and status, of each public building the construction, alteration, or acquisition of which is to be under authority of this chapter and which was uncompleted as of the date of the request, or as of such other date as the request may designate.
 
-(b) The Administrator and the United States Postal Service are authorized and directed to make such building project surveys as may be requested by resolution by either the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, and within a reasonable time shall make a report thereon to the Congress. Such report shall contain all other information required to be included in a prospectus of the proposed public building project under section 606(a) of this title.
+(b) The Administrator and the United States Postal Service are authorized and directed to make such building project surveys as may be requested by resolution by either the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, andwithin a reasonable time shall make a report thereon to the Congress. Such report shall contain all other information required to be included in a prospectus of the proposed public building project under section 606(a) of this title.
 
 (Pub. L. 86–249, §11, Sept. 9, 1959, 73 Stat. 481; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773; Pub. L. 96–470, title II, §211, Oct. 19, 1980, 94 Stat. 2246; Pub. L. 103–437, §14(b)(2), Nov. 2, 1994, 108 Stat. 4591.)
 

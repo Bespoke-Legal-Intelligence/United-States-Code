@@ -2,7 +2,7 @@
 
 (a)(1) The disability rating of a qualified veteran who begins to engage in a substantially gainful occupation after January 31, 1985, may not be reduced on the basis of the veteran having secured and followed a substantially gainful occupation unless the veteran maintains such an occupation for a period of 12 consecutive months.
 
-(2) For purposes of this section, the term “qualified veteran” means a veteran who has a service-connected disability, or service-connected disabilities, not rated as total but who has been awarded a rating of total disability by reason of inability to secure or follow a substantially gainful occupation as a result of such disability or disabilities.
+(2) For purposes of this section, the term “qualified veteran” means a veteran who has a service-connected disability, or service-connected disabilities, not rated as total but who has been awarded a rating of total disability byreason of inability to secure or follow a substantially gainful occupation as a result of such disability or disabilities.
 
 (b) The Secretary shall make counseling services described in section 3104(a)(2) of this title and placement and postplacement services described in section 3104(a)(5) of this title available to each qualified veteran (whether or not the veteran is participating in a vocational rehabilitation program under chapter 31 of this title).
 

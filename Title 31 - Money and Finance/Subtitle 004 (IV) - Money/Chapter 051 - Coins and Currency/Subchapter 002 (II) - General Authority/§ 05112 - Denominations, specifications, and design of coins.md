@@ -78,7 +78,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 &emsp;(C) have reeded edges.
 
-(2)(A) The Secretary shall sell the coins minted under this subsection to the public at a priceequal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
+(2)(A) The Secretary shall sell the coins minted under this subsection to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
 
 (B) The Secretary shall make bulk sales of the coins minted under this subsection at a reasonable discount.
 
@@ -87,6 +87,8 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 (4)(A) Notwithstanding any other provision of law and subject to subparagraph (B), the Secretary of the Treasury may change the diameter, weight, or design of any coin minted under this subsection or the fineness of the gold in the alloy of any such coin if the Secretary determines that the specific diameter, weight, design, or fineness of gold which differs from that otherwise required by law is appropriate for such coin.
 
 (B) The Secretary may not mint any coin with respect to which a determination has been made by the Secretary under subparagraph (A) before the end of the 30-day period beginning on the date a notice of such determination is published in the Federal Register.
+
+(C) The Secretary may continue to mint and issue coins in accordance with the specifications contained in paragraphs (7), (8), (9), and (10) of subsection (a) and paragraph (1)(A) of this subsection at the same time the Secretary in minting and issuing other bullion and proof gold coins under this subsection in accordance with such program procedures and coin specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
 
 (j)
 
@@ -100,7 +102,39 @@ In general.—Except as provided in paragraph (2), no provision of law governing
 
 Equal employment opportunity.—Paragraph (1) shall not relieve any person entering into a contract with respect to any coin referred to in such paragraph from complying with any law relating to equal employment opportunity.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362.)
+(k) The Secretary may mint and issue bullion and proof platinum coins in accordance with such specifications, designs, varieties, quantities, denominations, and inscriptions as the Secretary, in the Secretary's discretion, may prescribe from time to time.
+
+(m) <sup>1</sup>
+
+Commemorative Coin Program Restrictions.—
+
+&emsp;(1)
+
+Maximum number.—Beginning January 1, 1999, the Secretary may mint and issue commemorative coins under this section during any calendar year with respect to not more than 2 commemorative coin programs.
+
+&emsp;(2)
+
+Mintage levels.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), in carrying out any commemorative coin program, the Secretary shall mint—
+
+&emsp;&emsp;&emsp;(i) not more than 750,000 clad half-dollar coins;
+
+&emsp;&emsp;&emsp;(ii) not more than 500,000 silver one-dollar coins; and
+
+&emsp;&emsp;&emsp;(iii) not more than 100,000 gold five-dollar or ten-dollar coins.
+
+&emsp;&emsp;(B)
+
+Exception.—If the Secretary determines, based on independent, market-based research conducted by a designated recipient organization of a commemorative coin program, that the mintage levels described in subparagraph (A) are not adequate to meet public demand for that commemorative coin, the Secretary may waive one or more of the requirements of subparagraph (A) with respect to that commemorative coin program.
+
+&emsp;&emsp;(C)
+
+Designated recipient organization defined.—For purposes of this paragraph, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349.)
 
 Historical and Revision Notes<br>1982
 
@@ -204,11 +238,11 @@ July 23, 1965, Pub. L. 89–81, 79 Stat. 254, §109; added Dec. 23, 1981, Pub. L
 
 In subsection (a), the words before clause (1) are added because of the restatement. In clause (5), the words “that is 0.835 inch in diameter” are added because the Secretary of the Treasury has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “5 grams” are substituted for “seventy-seven and sixteen-hundredths grains troy” for consistency in the revised chapter. In clause (6), the words “that is 0.75 inch in diameter” are added because the Secretary has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “except as provided under subsection (c) of this section” are added for clarity and because of the restatement. The words “3.11 grams” are substituted for “forty-eight grains” for consistency in the revised chapter.
 
-In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency in the revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
+In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency in the revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated inthe section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
 
 In subsection (c), the words “a different weight and alloy of copper and zinc” are substituted for “such action” for clarity.
 
-In subsection (d)(1), the words “an impression emblematic of liberty” in 31:324 are omitted as obsolete. The words “The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle” are substituted for “and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted”, and the words “The emblem on the obverse side of the dollar is” are substituted for “The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side” in 31:324b–1, to eliminate unnecessary words. The words “Any coins minted afterJuly 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964” in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
+In subsection (d)(1), the words “an impression emblematic of liberty” in 31:324 are omitted as obsolete. The words “The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle” are substituted for “and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted”, and the words “The emblem on the obverse side of the dollar is” are substituted for “The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side” in 31:324b–1, to eliminate unnecessary words. The words “Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964” in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
 
 In subsection (d)(2), the word “Secretary” is substituted for “engraver”, “Director of the Mint”, and “Director of the Mint . . . with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The word “dies” is substituted for “from the original dies already authorized all the working dies required for use in the coinage of the several mints” and “original dies” to eliminate unnecessary words. The word “inscription” is substituted for “legend” for consistency in the section. The words “<i>Provided</i>, That no change be made in the diameter of any coin” are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words “procure services under section 3109 of title 5 in carrying out this paragraph” are substituted for “engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art” to eliminate unnecessary words. The words “who shall be paid for such service from the contingent appropriation for the mint at Philadelphia” are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
 
@@ -225,6 +259,12 @@ The text of 31:399(b)(3) is omitted as unnecessary because of section 5103 of th
 This amends 31:5112(f)(1) to make technical and conforming changes.
 
 #### Amendments
+
+1996—Subsec. (i)(4)(C). Pub. L. 104–208, §101(f) \[title V, §523\], added subpar. (C).
+
+Subsec. (k). Pub. L. 104–208, §101(f) \[title V, §524\], added subsec. (k).
+
+Subsec. (m). Pub. L. 104–208, §101(f) \[title V, §529(a)\], added subsec. (m).
 
 1994—Subsec. (h). Pub. L. 103–272 substituted “section 5103 of this title” for “section 5103 of title 31, United States Code”.
 
@@ -252,6 +292,10 @@ Subsec. (i). Pub. L. 99–185, §2(b), added subsec. (i).
 
 Subsec. (f)(1)(C). Pub. L. 97–452, §1(20)(B), substituted “250th” for “two hundred and fiftieth”.
 
+#### Effective Date of 1996 Amendment
+
+Section 101(f) \[title V, §529(e)\] of Pub. L. 104–208, provided that: “This section \[amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under section 5134 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Sept. 30, 1996\].”
+
 #### Effective Date of 1985 Amendments
 
 Section 3 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986.”
@@ -260,13 +304,81 @@ Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amendi
 
 #### Short Title of 1985 Amendments
 
-Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
+Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notesunder this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
 
+#### Study and Report to Congress of 50 States Commemorative Coin Program
+
+Pub. L. 104–329, title III, §302, Oct. 20, 1996, 110 Stat. 4012, provided that:
+
+“(a)
+
+Study.—The Secretary of the Treasury shall by June 1, 1997 complete a study of the feasibility of a circulating commemorative coin program to commemorate each of the 50 States. The study shall assess likely public acceptance of and consumer demand for different coins that might be issued in connection with such a program (taking into consideration the pace of issuance of coins and the length of such a program), a comparison of the costs of producing coins issued under the program and the revenue that the program would generate, the impact on coin distribution systems, the advantages and disadvantages of different approaches to selecting designs for coins in such a program, and such other factors as the Secretary considers appropriate in deciding upon the feasibility of such a program. No steps taken in order to gather information for this study shall be considered a collection of information within the meaning of section 3502 of title 44, United States Code.
+
+“(b)
+
+Report.—The Secretary shall submit the study required in subsection (a) above, to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing and Urban Affairs of the Senate, simultaneously on its receipt by the Secretary.
+
+“(c) 50-
+
+State Commemorative Coin Program.—The Secretary shall determine by August 1, 1997 whether the results of the study authorized by subsection (a) justify such a program. If the Secretary determines that such a program is justified, then he shall by January 1, 1999, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2) of section 5112, title 31, United States Code, commence a commemorative coin program consisting of the minting and issuance of quarter dollar coins bearing designs, selected in accordance with paragraph (4) of this subsection, which are emblematic of the 50 States. If the Secretary determines that such a commemorative coin program is justified but that it is not practicable to commence the program by January 1, 1999, then he shall notify the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of such impracticability and of the date on which the program will commence.
+
+&emsp;“(1)
+
+Design.—The design for each quarter dollar issued under the program shall be emblematic of 1 of the 50 States. The designs for quarter dollar coins issued during each year of the program shall be emblematic of States which have not previously been commemorated under the program.
+
+&emsp;“(2)
+
+Order of issuance.—Each State will be honored by a coin in the order of that State's admission to the United States.
+
+&emsp;“(3)
+
+Number of coins.—Of the quarter dollar coins issued during each year of the program, the Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollar coins which shall be issued with each of the designs selected for such year.
+
+&emsp;“(4)
+
+Selection of design.—Each of the 50 designs required for quarter dollars issued under the program shall be—
+
+&emsp;&emsp;“(A) selected pursuant to a process, decided upon by the Secretary, on the basis of the study conducted pursuant to subsection (a), which process shall involve, among other things, consultation with appropriate officials of the State being commemorated with such design; and
+
+&emsp;&emsp;“(B) reviewed by the Citizens Commemorative Coin Advisory Committee and the Commission of Fine Arts.
+
+&emsp;“(5)
+
+Treatment as numismatic items.—For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this section shall be considered to be numismatic items.
+
+&emsp;“(6)
+
+Numismatic items.—
+
+&emsp;&emsp;“(A)
+
+Quality of coins.—The Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
+
+&emsp;&emsp;“(B)
+
+Silver coins.—Notwithstanding the provisions of subsection 5112(b) of title 31, United States Code, the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection as the Secretary determines to be appropriate with a content of 90 percent silver and 10 percent copper.
+
+&emsp;&emsp;“(C)
+
+Sources of bullion.—The Secretary may obtain silver for minting coins under paragraph (6)(B) from stockpiles established under the Strategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\].
+
+“(d)
+
+Funding.—Funds used to complete this study shall be offset from funds from the Department of the Treasury.”
+
+#### Deposit of Profits From Sale of Gold to Mint for Commemorative Coin Program
+
+Section 101(f) \[title V, §523\] of Pub. L. 104–208 provided in part: “That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury.”
+
+#### Use of Government Platinum Reserves Stockpiled at Mint
+
+Section 101(f) \[title V, §524\] of Pub. L. 104–208 provided in part: “That the Secretary is authorized to use Government platinum reserves stockpiled at the United States Mint as working inventory and shall ensure that reserves utilized are replaced by the Mint.”
+
 #### Reform of Commemorative Coin Programs
 
-Pub. L. 103–186, title III, Dec. 14, 1993, 107 Stat. 2251, provided that:
+Pub. L. 103–186, title III, Dec. 14, 1993, 107 Stat. 2251, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(b)(4)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–316, title I, §115(h), Oct. 19, 1996, 110 Stat. 3835, provided that:
 
 #### “SEC. 301. SENSE OF CONGRESS RESOLUTION.
 
@@ -306,11 +418,7 @@ Due dates.—Quarterly reports under this subsection shall be due at the end of 
 
 “(b)
 
-Final Report.—Each person who receives, after the date of the enactment of this Act, any surcharge derived from the sale of commemorative coins under any Act of Congress shall submit a final report on the expenditures made by such person from the proceeds of all surcharges received by such person, including information described in subsection (a)(2), before the end of the 1-year period beginning on the last day on which sales of such coins may be made.
-
-#### “SEC. 303. GAO REPORTS TO CONGRESS.
-
-“Before the end of the 1-year period beginning on the last day on which sales of commemorative coins may be made under the Act of Congress which authorized such coins, the Comptroller General of the United States shall submit a financial accounting statement to the Congress on the payment of any surcharges derived from the sale of such coins and the use and expenditure of the proceeds of such surcharges by any recipient (other than a recipient which is an agency or department of the Federal Government) based on the reports filed by such recipient with the Comptroller General in accordance with section 302 and any audit of such recipient which is conducted by the Comptroller General with respect to the use and expenditure of such proceeds.”
+Final Report.—Each person who receives, after the date of the enactment of this Act, any surcharge derived from the sale of commemorative coins under any Act of Congress shall submit a final report on the expenditures made by such person from the proceeds of all surcharges received by such person, including information described in subsection (a)(2), before the end of the 1-year period beginning on the last day on which sales of such coins may be made.”
 
 #### Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt
 
@@ -319,6 +427,10 @@ Section 2(f) of Pub. L. 99–185 provided that an amount equal to the amount by 
 #### Issuance of Gold Coins To Result in No Net Cost to United States
 
 Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
+
+#### Establishment of Programs Pursuant to Recommendations of Citizens Commemorative Coin Advisory Committee; Definitions
+
+Pub. L. 104–329, §2, title I, §§101–108, Oct. 20, 1996, 110 Stat. 4005–4011, directed Secretary of the Treasury, pursuant to recommendations of Citizens Commemorative Coin Advisory Committee, to mint and issue commemorative coins in honor of Dolley Madison, George Washington, Black Revolutionary War Patriots, Franklin Delano Roosevelt, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson, and provided for definitions, for specification and design, legal tender status, sources of bullion for coins for quality, issuance and sale of, coins, together with establishment and distribution of surcharges, and financial assurances respecting payment for such coins at no net cost to the Government, and for general waiver of procurement regulations.
 
 #### Smithsonian Institution Sesquicentennial Commemorative Coins
 
@@ -435,4 +547,6 @@ The possession of gold coins and bullion was prohibited except under Government 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5102, 5111, 5113, 5116, 5132 of this title; title 26 section 408.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (l) has been enacted.</i>
 

@@ -18,7 +18,7 @@
 
 #### (B) Premium rates and coverage
 
-&emsp;&emsp;To the extent applicable, an agricultural structure repaired or restored pursuant to subparagraph (A) shall pay chargeable premium rates established under section 4015 ofthis title at the estimated risk premium rates under section 4014(a)(1) of this title. If resources are available, the Director shall provide technical assistance and counseling, upon request of the owner of the structure, regarding wet flood-proofing and other flood damage reduction measures for agricultural structures. The Director shall not be required to make flood insurance coverage available for such an agricultural structure unless the structure is wet flood-proofed through permanent or contingent measures applied to the structure or its contents that prevent or provide resistance to damage from flooding by allowing flood waters to pass through the structure, as determined by the Director.
+&emsp;&emsp;To the extent applicable, an agricultural structure repaired or restored pursuant to subparagraph (A) shall pay chargeable premium rates established under section 4015 of this title at the estimated risk premium rates under section 4014(a)(1) of this title. If resources are available, the Director shall provide technical assistance and counseling, upon request of the owner of the structure, regarding wet flood-proofing and other flood damage reduction measures for agricultural structures. The Director shall not be required to make flood insurance coverage available for such an agricultural structure unless the structure is wet flood-proofed through permanent or contingent measures applied to the structure or its contents that prevent or provide resistance to damage from flooding by allowing flood waters to pass through the structure, as determined by the Director.
 
 #### (C) Prohibition on disaster relief
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “agricultural structure” means any structure used exclusively in connection with the production, harvesting, storage, raising, or drying of agricultural commodities; and
+&emsp;&emsp;&emsp;(i) the term “agricultural structure” means any structure used exclusively inconnection with the production, harvesting, storage, raising, or drying of agricultural commodities; and
 
 &emsp;&emsp;&emsp;(ii) the term “agricultural commodities” means agricultural commodities and livestock.
 

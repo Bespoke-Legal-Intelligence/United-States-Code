@@ -42,7 +42,7 @@ The board of arbitration shall furnish a certified copy of its award to the resp
 
 #### (g) Compensation of assistants to board of arbitration; expenses; quarters
 
-A board of arbitration may, subject to the approval of the Mediation Board, employ and fixthe compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees, together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board.
+A board of arbitration may, subject to the approval of the Mediation Board, employ and fix the compensation of such assistants as it deems necessary in carrying on the arbitration proceedings. The compensation of such employees, together with their necessary traveling expenses and expenses actually incurred for subsistence, while so employed, and the necessary expenses of boards of arbitration, shall be paid by the Mediation Board.
 
 Whenever practicable, the board shall be supplied with suitable quarters in any Federal building located at its place of meeting or at any place where the board may conduct its proceedings or deliberations.
 

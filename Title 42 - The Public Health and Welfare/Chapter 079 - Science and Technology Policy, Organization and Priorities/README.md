@@ -39,15 +39,15 @@
 
 |  |  |
 | :--- | ---: |
-| [6631\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006631%20-%20Establishment%20of%20Committee.md) | Establishment of Committee. |
-| [6632\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006632%20-%20Membership%20of%20Committee.md) | Membership of Committee. |
+| [6631\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006631%20-%20Establishment%20of%20Committee.md) | Establishment of Committee. |
+| [6632\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006632%20-%20Membership%20of%20Committee.md) | Membership of Committee. |
 | (a) | Composition; appointment. |
 | (b) | Qualifications. |
 | (c) | Chairman; Vice Chairman. |
 | (d) | Compensation. |
-| [6633\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006633%20-%20Federal%20science%2C%20engineering%2C%20and%20technology%20survey%3B%20reports.md) | Federal science, engineering, and technology survey; reports. |
-| [6634\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006634%20-%20Continuation%20of%20Committee.md) | Continuation of Committee. |
-| [6635\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006635%20-%20Staff%20and%20consultant%20support.md) | Staff and consultant report. |
+| [6633\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006633%20-%20Federal%20science%2C%20engineering%2C%20and%20technology%20survey%3B%20reports.md) | Federal science, engineering, and technology survey; reports. |
+| [6634\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006634%20-%20Continuation%20of%20Committee.md) | Continuation of Committee. |
+| [6635\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006635%20-%20Staff%20and%20consultant%20support.md) | Staff and consultant report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -117,6 +117,7 @@ This chapter is referred to in title 30 sections 1602, 1604.
 
 - [Subchapter 001 (I) - National Science, Engineering, and Technology Policy and Priorities](Subchapter%20001%20%28I%29%20-%20National%20Science%2C%20Engineering%2C%20and%20Technology%20Policy%20and%20Priorities/README.md)
 - [Subchapter 002 (II) - Office of Science and Technology Policy](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/README.md)
+- [Subchapter 003 (III) - President's Committee on Science and Technology](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/README.md)
 - [Subchapter 004 (IV) - Federal Coordinating Council for Science, Engineering, and Technology](Subchapter%20004%20%28IV%29%20-%20Federal%20Coordinating%20Council%20for%20Science%2C%20Engineering%2C%20and%20Technology/README.md)
 - [Subchapter 005 (V) - General Provisions](Subchapter%20005%20%28V%29%20-%20General%20Provisions/README.md)
 - [Subchapter 006 (VI) - National Critical Technologies Panel](Subchapter%20006%20%28VI%29%20-%20National%20Critical%20Technologies%20Panel/README.md)

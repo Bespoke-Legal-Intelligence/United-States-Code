@@ -18,7 +18,7 @@ Section 1721 of this title, referred to in subsec. (b), was in the original “s
 
 1992—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1981—Pub. L. 97–94 inserted provision that all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national shale oil reserves, be paid into the Treasury of the United States and disposed of in the samemanner as provided under section 35 of the Act of February 25, 1920, in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act.
+1981—Pub. L. 97–94 inserted provision that all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national shale oil reserves, be paid into the Treasury of the United States and disposed of in the same manner as provided under section 35 of the Act of February 25, 1920, in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act.
 
 #### Effective Date of 1981 Amendment
 

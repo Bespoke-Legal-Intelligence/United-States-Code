@@ -1,6 +1,6 @@
 ### §912. Extension of time for repayment of loans
 
-(a) The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter: <i>Provided, however,</i> That with respect to any loan made under section 904 or 922 of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due, and with respect to any loan made under section 905 of this title, the payment of principalor interest shall not be extended more than two years after such payment shall have become due: <i>And provided further,</i> That the provisions of this section shall not apply to any obligations or the security therefor which may be held by the Reconstruction Finance Corporation under the provisions of section 903 of this title.
+(a) The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter, except that, with respect to any loan made under section 904 or 922 of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due.
 
 (b)(1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
 
@@ -18,9 +18,11 @@
 
 (4) The Secretary shall undertake all reasonable efforts to permit the full amount of deferments authorized by this subsection during each fiscal year.
 
-(May 20, 1936, ch. 432, title I, §12, 49 Stat. 1366; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2344, 104 Stat. 4028; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title I, §12, 49 Stat. 1366; Oct. 28, 1949, ch. 776, §§2, 4(f), 63 Stat. 948; Nov. 28, 1990, Pub. L. 101–624, title XXIII, §2344, 104 Stat. 4028; Oct. 13, 1994, Pub. L. 103–354, title II, §235(a)(13), 108 Stat. 3221; Apr. 4, 1996, Pub. L. 104–127, title VII, §774(b), 110 Stat. 1150.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127 substituted “, except that, with respect to any loan” for “: <i>Provided, however</i>, That with respect to any loan” and struck out “, and with respect to any loan made under section 905 of this title, the payment of principal or interest shall not be extended more than two years after such payment shall have become due: <i>And provided further</i>, That the provisions of this section shall not apply to any obligations or the security therefor which may be held by the Reconstruction Finance Corporation under the provisions of section 903 of this title” after “such payment shall have become due”.
 
 1994—Subsecs. (a), (b)(1), (4). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 

@@ -20,15 +20,11 @@ If, during the 3-year period after the date on which the employee stock ownershi
 
 &emsp;The amount realized taken into account under paragraph (1) shall not exceed that portion allocable to qualified securities acquired in the sale to which section 1042 applied determined as if such securities were disposed of—
 
-&emsp;&emsp;(A) first, from section 133 securities (as defined in section 4978B(e)(2)) acquired during the 3-year period ending on the date of such disposition, beginning with the securities first so acquired.<sup>1</sup>
+&emsp;&emsp;(A) first from qualified securities to which section 1042 applied acquired during the 3-year period ending on the date of the disposition, beginning with the securities first so acquired, and
 
-&emsp;&emsp;(B) second, from section 133 securities (as so defined) acquired before such 3-year period unless such securities (or proceeds from the disposition) have been allocated to accounts of participants or beneficiaries.<sup>1</sup>
+&emsp;&emsp;(B) then from any other employer securities.
 
-&emsp;&emsp;(C) third, from qualified securities to which section 1042 applied acquired during the 3-year period ending on the date of the disposition, beginning with the securities first so acquired, and
-
-&emsp;&emsp;(D) then from any other employer securities.
-
-> &emsp;If subsection (d) or section 4978B(d) applies to a disposition, the disposition shall be treated as made from employer securities in the opposite order of the preceding sentence.
+> &emsp;If subsection (d) applies to a disposition, the disposition shall be treated as made from employer securities in the opposite order of the preceding sentence.
 
 #### (3) Distributions to employees
 
@@ -92,11 +88,23 @@ For purposes of this section—
 
 #### (5) Employer securities
 
-&emsp;The term “employer securities” has the meaning given to such term by section 409(<i>l).</i>
+&emsp;The term “employer securities” has the meaning given to such term by section 409(<i>l</i>).
 
-(Added Pub. L. 98–369, div. A, title V, §545(a), July 18, 1984, 98 Stat. 894; amended Pub. L. 99–514, title XVIII, §1854(e), Oct. 22, 1986, 100 Stat. 2880; Pub., L. 100–203, title X, §10413(b)(1), Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 100–647, title I, §1011B(j)(4), Nov. 10, 1988, 102 Stat. 3492; Pub. L. 101–239, title VII, §7304(a)(2)(C)(ii), Dec. 19, 1989, 103 Stat. 2353.)
+(Added Pub. L. 98–369, div. A, title V, §545(a), July 18, 1984, 98 Stat. 894; amended Pub. L. 99–514, title XVIII, §1854(e), Oct. 22, 1986, 100 Stat. 2880; Pub., L. 100–203, title X, §10413(b)(1), Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 100–647, title I, §1011B(j)(4), Nov. 10, 1988, 102 Stat. 3492; Pub. L. 101–239, title VII, §7304(a)(2)(C)(ii), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 104–188, title I, §1602(b)(4), Aug. 20, 1996, 110 Stat. 1834.)
 
 #### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–188 added subpars. (A) and (B) and closing provisions and struck out former subpars. (A) to (D) and closing provisions which read as follows:
+
+&emsp;“(A) first, from section 133 securities (as defined in section 4978B(e)(2)) acquired during the 3-year period ending on the date of such disposition, beginning with the securities first so acquired.
+
+&emsp;“(B) second, from section 133 securities (as so defined) acquired before such 3-year period unless such securities (or proceeds from the disposition) have been allocated to accounts of participants or beneficiaries.
+
+&emsp;“(C) third, from qualified securities to which section 1042 applied acquired during the 3-year period ending on the date of the disposition, beginning with the securities first so acquired, and
+
+&emsp;“(D) then from any other employer securities.
+
+> If subsection (d) or section 4978B(d) applies to a disposition, the disposition shall be treated as made from employer securities in the opposite order of the preceding sentence.”
 
 1989—Subsec. (b)(2). Pub. L. 101–239 substituted “determined as if such securities were disposed of—”, subpars. (A) to (D), and concluding provision for “(determined as if such securities were disposed of in the order described in section 4978A(e))”.
 
@@ -117,6 +125,10 @@ Subsec. (d)(3). Pub. L. 99–514, §1854(e)(7), added par. (3).
 Subsec. (e)(2). Pub. L. 99–514, §1854(e)(5), substituted “section 1042(c)(1)” for “section 1042(b)(1)”.
 
 Subsec. (e)(3). Pub. L. 99–514, §1854(e)(6), substituted “section 1042(c)(2)” for “section 1042(b)(1)”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -144,7 +156,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1042, 4978B, 4979A of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+This section is referred to in sections 1042, 4979A of this title.
 

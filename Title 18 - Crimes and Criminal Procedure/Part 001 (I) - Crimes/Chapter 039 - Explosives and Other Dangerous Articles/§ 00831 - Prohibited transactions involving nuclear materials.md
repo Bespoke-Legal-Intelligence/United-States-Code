@@ -2,19 +2,19 @@
 
 (a) Whoever, if one of the circumstances described in subsection (c) of this section occurs—
 
-&emsp;(1) without lawful authority, intentionally receives, possesses, uses, transfers, alters, disposes of, or disperses any nuclear material and—
+&emsp;(1) without lawful authority, intentionally receives, possesses, uses, transfers, alters, disposes of, or disperses any nuclear material or nuclear byproduct material and—
 
-&emsp;&emsp;(A) thereby knowingly causes the death of or serious bodily injury to any person or substantial damage to property; or
+&emsp;&emsp;(A) thereby knowingly causes the death of or serious bodily injury to any person or substantial damage to property or to the environment; or
 
-&emsp;&emsp;(B) knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;
+&emsp;&emsp;(B) circumstances exist, or have been represented to the defendant to exist, that are likely to cause the death or serious bodily injury to any person, or substantial damage to property or to the environment;
 
-&emsp;(2) with intent to deprive another of nuclear material, knowingly—
+&emsp;(2) with intent to deprive another of nuclear material or nuclear byproduct material, knowingly—
 
-&emsp;&emsp;(A) takes and carries away nuclear material of another without authority;
+&emsp;&emsp;(A) takes and carries away nuclear material or nuclear byproduct material of another without authority;
 
-&emsp;&emsp;(B) makes an unauthorized use, disposition, or transfer, of nuclear material belonging to another; or
+&emsp;&emsp;(B) makes an unauthorized use, disposition, or transfer, of nuclear material or nuclear byproduct material belonging to another; or
 
-&emsp;&emsp;(C) uses fraud and thereby obtains nuclear material belonging to another;
+&emsp;&emsp;(C) uses fraud and thereby obtains nuclear material or nuclear byproduct material belonging to another;
 
 &emsp;(3) knowingly—
 
@@ -22,13 +22,13 @@
 
 &emsp;&emsp;(B) threatens or places another in fear that any person other than the actor will imminently be subject to bodily injury;
 
-> &emsp;and thereby takes nuclear material belonging to another from the person or presence of any other;
+> &emsp;and thereby takes nuclear material or nuclear byproduct material belonging to another from the person or presence of any other;
 
-&emsp;(4) intentionally intimidates any person and thereby obtains nuclear material belonging to another;
+&emsp;(4) intentionally intimidates any person and thereby obtains nuclear material or nuclear byproduct material belonging to another;
 
 &emsp;(5) with intent to compel any person, international organization, or governmental entity to do or refrain from doing any act, knowingly threatens to engage in conduct described in paragraph (2)(A) or (3) of this subsection;
 
-&emsp;(6) knowingly threatens to use nuclear material to cause death or serious bodily injury to any person or substantial damage to property under circumstances in which the threat may reasonably be understood as an expression of serious purposes;
+&emsp;(6) knowingly threatens to use nuclear material or nuclear byproduct material to cause death or serious bodily injury to any person or substantial damage to property or to the environment under circumstances in which the threat may reasonably be understood as an expression of serious purposes;
 
 &emsp;(7) attempts to commit an offense under paragraph (1), (2), (3), or (4) of this subsection; or
 
@@ -62,11 +62,21 @@
 
 &emsp;(1) the offense is committed in the United States or the special maritime and territorial jurisdiction of the United States, or the special aircraft jurisdiction of the United States (as defined in section 46501 of title 49);
 
-&emsp;(2) the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);
+&emsp;(2) an offender or a victim is—
 
-&emsp;(3) at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and after the conduct required for the offense occurs the defendant is found in the United States, even if the conduct required for the offense occurs outside the United States; or
+&emsp;&emsp;(A) a national of the United States; or
 
-&emsp;(4) the conduct required for the offense occurs with respect to the carriage of a consignment of nuclear material for peaceful purposes by any means of transportation intended to go beyond the territory of the state where the shipment originates beginning with the departure from a facility of the shipper in that state and ending with the arrival at a facility of the receiver within the state of ultimate destination and either of such states is the United States.
+&emsp;&emsp;(B) a United States corporation or other legal entity;
+
+&emsp;(3) after the conduct required for the offense occurs the defendant is found in the United States, even if the conduct required for the offense occurs outside the United States;
+
+&emsp;(4) the conduct required for the offense occurs with respect to the carriage of a consignment of nuclear material or nuclear byproduct material by any means of transportation intended to go beyond the territory of the state where the shipment originates beginning with the departure from a facility of the shipper in that state and ending with the arrival at a facility of the receiver within the state of ultimate destination and either of such states is the United States; or
+
+&emsp;(5) either—
+
+&emsp;&emsp;(A) the governmental entity under subsection (a)(5) is the United States; or
+
+&emsp;&emsp;(B) the threat under subsection (a)(6) is directed at the United States.
 
 (d) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
 
@@ -100,17 +110,19 @@
 
 &emsp;(1) the term “nuclear material” means material containing any—
 
-&emsp;&emsp;(A) plutonium with an isotopic concentration not in excess of 80 percent plutonium 238;
+&emsp;&emsp;(A) plutonium;
 
 &emsp;&emsp;(B) uranium not in the form of ore or ore residue that contains the mixture of isotopes as occurring in nature;
 
-&emsp;&emsp;(C) uranium that contains the isotope 233 or 235 or both in such amount that the abundance ratio of the sum of those isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature; or
+&emsp;&emsp;(C) enriched uranium, defined as uranium that contains the isotope 233 or 235 or both in such amount that the abundance ratio of the sum of those isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature; or
 
 &emsp;&emsp;(D) uranium 233;
 
-&emsp;(2) the term “international organization” means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
+&emsp;(2) the term “nuclear byproduct material” means any material containing any radioactive isotope created through an irradiation process in the operation of a nuclear reactor or accelerator;
 
-&emsp;(3) the term “serious bodily injury” means bodily injury which involves—
+&emsp;(3) the term “international organization” means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs;
+
+&emsp;(4) the term “serious bodily injury” means bodily injury which involves—
 
 &emsp;&emsp;(A) a substantial risk of death;
 
@@ -118,9 +130,9 @@
 
 &emsp;&emsp;(C) protracted and obvious disfigurement; or
 
-&emsp;&emsp;(D) protracted loss or impairment of the function of a bodily member, organ, or mental faculty; and
+&emsp;&emsp;(D) protracted loss or impairment of the function of a bodily member, organ, or mental faculty;
 
-&emsp;(4) the term “bodily injury” means—
+&emsp;(5) the term “bodily injury” means—
 
 &emsp;&emsp;(A) a cut, abrasion, bruise, burn, or disfigurement;
 
@@ -130,15 +142,41 @@
 
 &emsp;&emsp;(D) impairment of a function of a bodily member, organ, or mental faculty; or
 
-&emsp;&emsp;(E) any other injury to the body, no matter how temporary.
+&emsp;&emsp;(E) any other injury to the body, no matter how temporary;
 
-(Added Pub. L. 97–351, §2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, §7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, §5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2148.)
+&emsp;(6) the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
+
+&emsp;(7) the term “United States corporation or other legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States.
+
+(Added Pub. L. 97–351, §2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, §7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, §5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, §502, Apr. 24, 1996, 110 Stat. 1282.)
 
 #### Prior Provisions
 
 A prior section 831, acts June 25, 1948, ch. 645, 62 Stat. 738; Sept. 6, 1960, Pub. L. 86–710, 74 Stat. 808; July 27, 1965, Pub. L. 89–95, 79 Stat. 285; Oct. 17, 1978, Pub. L. 95–473; §2(a)(1)(A), 92 Stat. 1464, defined terms used in this chapter, prior to repeal by Pub. L. 96–129, title II, §216(b), Nov. 30, 1979, 93 Stat. 1015. For savings provisions regarding former section 831, see section 218 of Pub. L. 96–129, set out as a note under former sections 832 to 835 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–132, §502(1)(A), substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
+
+Subsec. (a)(1)(A). Pub. L. 104–132, §502(1)(B)(i), inserted “or to the environment” after “damage to property”.
+
+Subsec. (a)(1)(B). Pub. L. 104–132, §502(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “knows that circumstances exist which are likely to cause the death of or serious bodily injury to any person or substantial damage to property;”.
+
+Subsec. (a)(6). Pub. L. 104–132, §502(1)(C), inserted “or to the environment” after “damage to property”.
+
+Subsec. (c)(2). Pub. L. 104–132, §502(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the defendant is a national of the United States, as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101);”.
+
+Subsec. (c)(3). Pub. L. 104–132, §502(2)(B), struck out “at the time of the offense the nuclear material is in use, storage, or transport, for peaceful purposes, and” before “after the conduct” and struck out “or” at end.
+
+Subsec. (c)(4). Pub. L. 104–132, §502(2)(C), substituted “nuclear material or nuclear byproduct material” for “nuclear material for peaceful purposes” and “; or” for period at end.
+
+Subsec. (c)(5). Pub. L. 104–132, §502(2)(D), added par. (5).
+
+Subsec. (f)(1)(A). Pub. L. 104–132, §502(3)(A)(i), struck out “with an isotopic concentration not in excess of 80 percent plutonium 238” after “plutonium”.
+
+Subsec. (f)(1)(C). Pub. L. 104–132, §502(3)(A)(ii), substituted “enriched uranium, defined as uranium” for “uranium”.
+
+Subsec. (f)(2) to (7). Pub. L. 104–132, §502(3)(B)–(F), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added pars. (6) and (7).
 
 1994—Subsec. (b)(1)(A), (2)(A). Pub. L. 103–322 substituted “fined under this title” for “fine of not more than $250,000”.
 
@@ -150,7 +188,45 @@ Subsec. (c)(1). Pub. L. 103–272 substituted “section 46501 of title 49” fo
 
 Section 1 of Pub. L. 97–351 provided that: “This Act \[enacting this section and amending section 1116 of this title\] may be cited as the ‘Convention on the Physical Protection of Nuclear Material Implementation Act of 1982’.”
 
+#### Findings and Purpose of Title V of Pub. L. 104–132 Relating to Nuclear Materials
+
+Section 501 of title V of Pub. L. 104–132 provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) nuclear materials, including byproduct materials, can be used to create radioactive dispersal devices that are capable of causing serious bodily injury as well as substantial damage to property and to the environment;
+
+&emsp;“(2) the potential use of nuclear materials, including byproduct materials, enhances the threat posed by terrorist activities and thereby has a greater effect on the security interests of the United States;
+
+&emsp;“(3) due to the widespread hazards presented by the threat of nuclear contamination, as well as nuclear bombs, the United States has a strong interest in ensuring that persons who are engaged in the illegal acquisition and use of nuclear materials, including byproduct materials, are prosecuted for their offenses;
+
+&emsp;“(4) the threat that nuclear materials will be obtained and used by terrorist and other criminal organizations has increased substantially since the enactment in 1982 of the legislation that implemented the Convention on the Physical Protection of Nuclear Material, codified at section 831 of title 18, United States Code;
+
+&emsp;“(5) the successful efforts to obtain agreements from other countries to dismantle nuclear weapons have resulted in increased packaging and transportation of nuclear materials, thereby decreasing the security of such materials by increasing the opportunity for unlawful diversion and theft;
+
+&emsp;“(6) the trafficking in the relatively more common, commercially available, and usable nuclear and byproduct materials creates the potential for significant loss of life and environmental damage;
+
+&emsp;“(7) report trafficking incidents in the early 1990's suggest that the individuals involved in trafficking in these materials from Eurasia and Eastern Europe frequently conducted their black market sales of these materials within the Federal Republic of Germany, the Baltic States, the former Soviet Union, Central Europe, and to a lesser extent in the Middle European countries;
+
+&emsp;“(8) the international community has become increasingly concerned over the illegal possession of nuclear and nuclear byproduct materials;
+
+&emsp;“(9) the potentially disastrous ramifications of increased access to nuclear and nuclear byproduct materials pose such a significant threat that the United States must use all lawful methods available to combat the illegal use of such materials;
+
+&emsp;“(10) the United States has an interest in encouraging United States corporations to do business in the countries that comprised the former Soviet Union, and in other developing democracies;
+
+&emsp;“(11) protection of such United States corporations from threats created by the unlawful use of nuclear materials is important to the success of the effort to encourage business ventures in these countries, and to further the foreign relations and commerce of the United States;
+
+&emsp;“(12) the nature of nuclear contamination is such that it may affect the health, environment, and property of United States nationals even if the acts that constitute the illegal activity occur outside the territory of the United States, and are primarily directed toward foreign nationals; and
+
+&emsp;“(13) there is presently no Federal criminal statute that provides adequate protection to United States interests from nonweapons grade, yet hazardous radioactive material, and from the illegal diversion of nuclear materials that are held for other than peaceful purposes.
+
+“(b)
+
+Purpose.—The purpose of this title \[enacting section 2332c of this title, amending this section and sections 175, 177, 178, and 2332a of this title, and enacting provisions set out as notes under section 262 of Title 42, The Public Health and Welfare, and section 1522 of Title 50, War and National Defense\] is to provide Federal law enforcement agencies with the necessary means and the maximum authority permissible under the Constitution to combat the threat of nuclear contamination and proliferation that may result from the illegal possession and use of radioactive materials.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 951, 2516 of this title.
+This section is referred to in sections 951, 1956, 2332b, 2339A, 2516 of this title.
 

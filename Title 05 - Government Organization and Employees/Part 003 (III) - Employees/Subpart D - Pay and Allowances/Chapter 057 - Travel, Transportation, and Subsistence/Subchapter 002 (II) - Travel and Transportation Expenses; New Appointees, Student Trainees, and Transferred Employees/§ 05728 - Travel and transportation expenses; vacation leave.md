@@ -1,10 +1,10 @@
 ### §5728. Travel and transportation expenses; vacation leave
 
-(a) Under such regulations as the President may prescribe, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
+(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
 
-(b) Under such regulations as the President may prescribe, an agency shall pay from its appropriations the expenses of round-trip travel of an employee of the United States appointed by the President, by and with the advice and consent of the Senate, for a term fixed by statute, and of transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment to the post of duty, after he has satisfactorily completed each 2 years of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving at least 2 more years of duty outside the continental United States, Alaska, and Hawaii.
+(b) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee of the United States appointed by the President, by and with the advice and consent of the Senate, for a term fixed by statute, and of transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment to the postof duty, after he has satisfactorily completed each 2 years of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving at least 2 more years of duty outside the continental United States, Alaska, and Hawaii.
 
-(c)(1) Under such regulations as the President may prescribe, an agency may pay, subject to paragraph (3) of this subsection, the expenses described in paragraph (2) of this subsection in any case in which the head of the agency determines that the payment of such expenses is necessary for the purpose of recruiting or retaining an employee for service of a tour of duty at a post of duty in Alaska or Hawaii.
+(c)(1) Under regulations prescribed under section 5738 of this title, an agency may pay, subject to paragraph (3) of this subsection, the expenses described in paragraph (2) of this subsection in any case in which the head of the agency determines that the payment of such expenses is necessary for the purpose of recruiting or retaining an employee for service of a tour of duty at a post of duty in Alaska or Hawaii.
 
 (2) The expenses payable under paragraph (1) of this subsection are the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty in Alaska or Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, incurred after he has satisfactorily completed an agreed period of service in Alaska or Hawaii and in returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty in Alaska or Hawaii under a new written agreement made before departing from the post of duty.
 
@@ -12,7 +12,7 @@
 
 (d) This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 97–253, title III, §351(a), (b), Sept. 8, 1982, 96 Stat. 800.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 97–253, title III, §351(a), (b), Sept. 8, 1982, 96 Stat. 800; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759.)
 
 Historical and Revision Notes
 
@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -40,9 +42,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1982</b>—Subsecs. (a), (b). Pub. L. 97–253, §351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
+1996—Subsecs. (a) to (c)(1). Pub. L. 104–201, §1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+
+1982—Subsecs. (a), (b). Pub. L. 97–253, §351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 97–253, §351(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -57,8 +65,4 @@ Section 351(c), (d) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(m),
 &emsp;“(B) any other consecutive tour of duty following such tour of duty.
 
 “(d) For the purposes of subsection (c), the term ‘employee’ shall have the same meaning as provided in section 5721(2) of title 5, United States Code.”
-
-#### Delegation of Functions
-
-Authority of President under subsecs. (a) and (b) of this section to prescribe regulations provided for in this section relating to payment by an agency from its appropriations of expenses of round trip travel of an employee, and transportation of his immediate family, in described circumstances delegated to Administrator of General Services, see section 1(10) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

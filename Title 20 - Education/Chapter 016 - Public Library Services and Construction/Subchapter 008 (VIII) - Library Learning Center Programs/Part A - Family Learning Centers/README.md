@@ -5,9 +5,4 @@ Part A—Family Learning Centers
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00385 - Statement of purpose](%C2%A7%2000385%20-%20Statement%20of%20purpose.md)
-- [&sect; 00385a - Grants for family learning centers](%C2%A7%2000385a%20-%20Grants%20for%20family%20learning%20centers.md)
-- [&sect; 00385b - Use of funds](%C2%A7%2000385b%20-%20Use%20of%20funds.md)
-- [&sect; 00385c - Application](%C2%A7%2000385c%20-%20Application.md)
-- [&sect; 00385d - Selection of family learning centers](%C2%A7%2000385d%20-%20Selection%20of%20family%20learning%20centers.md)
-- [&sect; 00385e - Authorization of appropriations](%C2%A7%2000385e%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00385 to 385e - Repealed. Pub. L. 104&#8211;208, div. A, title I, &sect;101(e) \[title VII, &sect;708(a)\], Sept. 30, 1996, 110 Stat. 3009&#8211;233, 3009&#8211;312](%C2%A7%2000385%20to%20385e%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7101%28e%29%20%5Btitle%20VII%2C%20%C2%A7708%28a%29%5D%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93233%2C%203009%E2%80%93312.md)

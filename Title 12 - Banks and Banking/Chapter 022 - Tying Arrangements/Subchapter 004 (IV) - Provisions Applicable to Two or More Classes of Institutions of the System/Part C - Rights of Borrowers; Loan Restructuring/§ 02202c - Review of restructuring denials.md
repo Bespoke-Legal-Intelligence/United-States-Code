@@ -44,7 +44,7 @@ With respect to determinations by a special asset group that a loan will not be 
 
 #### (e) Restructuring factors
 
-In determining whether a loan is to be restructured, the National Special Asset Council, eachspecial asset group, and each qualified lender certified under section 2278a–4 of this title shall take into consideration the factors specified in section 2202a(d)(1) of this title.
+In determining whether a loan is to be restructured, the National Special Asset Council, each special asset group, and each qualified lender certified under section 2278a–4 of this title shall take into consideration the factors specified in section 2202a(d)(1) of this title.
 
 (Pub. L. 92–181, title IV, §4.14C, as added Pub. L. 100–233, title I, §102(a), Jan. 6, 1988, 101 Stat. 1578; amended Pub. L. 100–399, title I, §102(h), Aug. 17, 1988, 102 Stat. 990.)
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2279aa–9 of this title.
+This section is referred to in sections 2202a, 2279aa–9 of this title.
 

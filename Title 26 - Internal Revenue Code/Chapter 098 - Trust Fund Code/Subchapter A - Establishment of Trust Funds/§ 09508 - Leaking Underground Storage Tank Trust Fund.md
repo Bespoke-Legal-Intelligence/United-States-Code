@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Leaking Underground Storage Tank Trust Fund”, consisting of such amounts as may beappropriated or credited to such Trust Fund as provided in this section or section 9602(b).
+There is established in the Treasury of the United States a trust fund to be known as the “Leaking Underground Storage Tank Trust Fund”, consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
 
 #### (b) Transfers to Trust Fund
 
@@ -78,7 +78,7 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 1993—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of “4081” for “4091” in last sentence, could not be executed because last sentence did not contain a reference to “4091”.
 
-Pub. L. 103–66, §13163(c), inserted at end “For purposes of this subsection, there shall not be taken into account the taxes imposed by sections 4041 and 4081 ondiesel fuel sold for use or used as fuel in a diesel-powered boat.”
+Pub. L. 103–66, §13163(c), inserted at end “For purposes of this subsection, there shall not be taken into account the taxes imposed by sections 4041 and 4081 on diesel fuel sold for use or used as fuel in a diesel-powered boat.”
 
 Subsec. (b)(2). Pub. L. 103–66, §13242(d)(42)(A), inserted “and diesel fuel” after “gasoline”.
 

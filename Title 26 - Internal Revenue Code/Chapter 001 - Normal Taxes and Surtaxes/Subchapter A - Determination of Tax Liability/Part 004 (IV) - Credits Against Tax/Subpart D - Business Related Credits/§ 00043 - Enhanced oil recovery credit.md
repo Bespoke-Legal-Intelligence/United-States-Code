@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (4) Special rule for certain gas displacement projects
 
-&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treated as a tertiary recovery method under section 193(b)(3).
+&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treatedas a tertiary recovery method under section 193(b)(3).
 
 #### (d) Other rules
 
@@ -126,5 +126,5 @@ Special rule for significant expansion of projects.—For purposes of section 43
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 38, 39, 196 of this title.
+This section is referred to in sections 29, 38, 39, 196, 6501 of this title.
 

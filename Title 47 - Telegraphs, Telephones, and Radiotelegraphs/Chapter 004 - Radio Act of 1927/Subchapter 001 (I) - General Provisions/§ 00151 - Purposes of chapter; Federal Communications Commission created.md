@@ -1,8 +1,8 @@
 ### §151. Purposes of chapter; Federal Communications Commission created
 
-For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
+For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States,without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
 
-(June 19, 1934, ch. 652, title I, §1, 48 Stat. 1064; May 20, 1937, ch. 229, §1, 50 Stat. 189.)
+(June 19, 1934, ch. 652, title I, §1, 48 Stat. 1064; May 20, 1937, ch. 229, §1, 50 Stat. 189; Feb. 8, 1996, Pub. L. 104–104, title I, §104, 110 Stat. 86.)
 
 #### References in Text
 
@@ -10,7 +10,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Amendments
 
+1996—Pub. L. 104–104 inserted “, without discrimination on the basis of race, color, religion, national origin, or sex,” after “to all the people of the United States”.
+
 1937—Act May 20, 1937, inserted “for the purpose of promoting safety of life and property through the use of wire and radio communication”.
+
+#### Stylistic Consistency
+
+Section 101(c) of title I of Pub. L. 104–104 provided that: “The Act \[Communications Act of 1934 (47 U.S.C. 151 et seq.)\] is amended so that—
+
+&emsp;“(1) the designation and heading of each title of the Act shall be in the form and typeface of the designation and heading of this title of this Act \[110 Stat. 61\]; and
+
+&emsp;“(2) the designation and heading of each part of each title of the Act shall be in the form and typeface of the designation and heading of part I of title II of the Act \[110 Stat. 61\], as amended by subsection (a).”
 
 #### Study of Telecommunications and Information Goals
 

@@ -12,7 +12,9 @@ Civil Actions.—A person may bring a civil action to enforce a claim under this
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

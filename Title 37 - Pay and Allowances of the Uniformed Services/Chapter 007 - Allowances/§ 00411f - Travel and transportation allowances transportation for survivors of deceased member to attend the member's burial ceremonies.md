@@ -2,7 +2,7 @@
 
 (a) Under uniform regulations prescribed by the Secretaries concerned, round trip travel and transportation allowances may be provided the dependents of a member who dies while on active duty or inactive duty in order that such dependents may attend the burial ceremonies of the deceased member.
 
-(b)(1) Except as provided in paragraph (2), allowances under this section are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of theUnited States and may not exceed the rates for 2 days.
+(b)(1) Except as provided in paragraph (2), allowances under this section are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for 2 days.
 
 (2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under this section may be provided to and from such place and may be extended to accommodate the time necessary for such travel.
 

@@ -2,7 +2,7 @@
 
 #### (a) Evaluation
 
-The Secretary shall, through grants, contracts or cooperative agreements, provide for the continuing evaluation of the programs assisted under this subchapter in order to determine the effectiveness of such programs in achieving stated goals, the impact of such programs on related programs, and the implications of the design and operation of such programs for the effective delivery of services.
+The Secretary shall, through grants, contracts or cooperative agreements, provide for the continuing evaluation of the programs assisted under this subchapter in order to determine theeffectiveness of such programs in achieving stated goals, the impact of such programs on related programs, and the implications of the design and operation of such programs for the effective delivery of services.
 
 #### (b) Local evaluation and information
 
@@ -26,5 +26,5 @@ Section enacted as part of the Head Start Transition Project Act, and not as par
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 

@@ -11,6 +11,7 @@
 | [3705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003705%20-%20Warranties.md) | Warranties. |
 | [3706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003706%20-%20Escrow%20of%20deposits%20and%20downpayments.md) | Escrow of deposits and downpayments. |
 | [3707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003707%20-%20Adjustable%20rate%20mortgages.md) | Adjustable rate mortgages. |
+| [3708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003708%20-%20Authority%20to%20buy%20down%20interest%20rates%20pilot%20program.md) | Authority to buy down interest rates: pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,6 +46,7 @@
 | [3733\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003733%20-%20Property%20management.md) | Property management. |
 | [3734\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003734%20-%20Annual%20submission%20of%20information%20on%20the%20Loan%20Guaranty%20Revolving%20Fund%20and%20the%20Guaranty%20and%20Indemnity%20Fund.md) | Annual submission of information on the Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund. |
 | [3735\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003735%20-%20Housing%20assistance%20for%20homeless%20veterans.md) | Housing assistance for homeless veterans. |
+| [3736\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003736%20-%20Reporting%20requirements.md) | Reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -79,6 +81,10 @@
 
 #### Amendments
 
+1996—Pub. L. 104–110, title II, §201(a)(2), Feb. 13, 1996, 110 Stat. 770, added item 3736.
+
+Pub. L. 104–106, div. B, title XXVIII, §2822(b)(2), Feb. 10, 1996, 110 Stat. 557, added item 3708.
+
 1992—Pub. L. 102–547, §§3(a)(2), 8(c), Oct. 28, 1992, 106 Stat. 3635, 3640, added item 3707, item for subchapter V, and items 3761 to 3764.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1801 to 1851 as 3701 to 3751, respectively.
@@ -107,7 +113,7 @@ Pub. L. 97–253, title IV, §406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item
 
 1976—Pub. L. 94–324, §2(b), June 30, 1976, 90 Stat. 720, added item 1807.
 
-1974—Pub. L. 93–569, §§7(b), (c), Dec. 31, 1974, 88 Stat. 1866, substituted “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” for “HOME, FARM, AND BUSINESS LOANS” in chapter heading, and struck out items 1812 “Purchase of farms and farm equipment”,1813 “Purchase of business property”, 1814 “Loans to refinance delinquent indebtedness”, and 1822 “Recovery of damages”, from chapter analysis.
+1974—Pub. L. 93–569, §§7(b), (c), Dec. 31, 1974, 88 Stat. 1866, substituted “HOME, CONDOMINIUM, AND MOBILE HOME LOANS” for “HOME, FARM, AND BUSINESS LOANS” in chapter heading, and struck out items 1812 “Purchase of farms and farm equipment”, 1813 “Purchase of business property”, 1814 “Loans to refinance delinquent indebtedness”, and 1822 “Recovery of damages”, from chapter analysis.
 
 1970—Pub. L. 91–506, §7, Oct. 23, 1970, 84 Stat. 1114, added item 1819.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 513, 752, 758 of this title; title 10 sections 2535, 9781; title 29 sections 1511, 1551; title 42 section 12651g; title 49 section 40110.
+This subchapter is referred to in sections 513, 752, 758, 1502 of this title; title 10 sections 2535, 9781; title 29 sections 1511, 1551; title 42 section 12651g; title 49 section 40110.
 
 
 ---
@@ -25,6 +25,7 @@ This subchapter is referred to in sections 513, 752, 758 of this title; title 10
 - [&sect; 00485 - Proceeds from transfer, sale, etc., of property](%C2%A7%2000485%20-%20Proceeds%20from%20transfer%2C%20sale%2C%20etc.%2C%20of%20property.md)
 - [&sect; 00485a - Payment of expenses of sales from proceeds](%C2%A7%2000485a%20-%20Payment%20of%20expenses%20of%20sales%20from%20proceeds.md)
 - [&sect; 00486 - Policies, regulations, and delegations](%C2%A7%2000486%20-%20Policies%2C%20regulations%2C%20and%20delegations.md)
+- [&sect; 00486a - Retention and expenditure of portion of GSA rental payments by departments or agencies](%C2%A7%2000486a%20-%20Retention%20and%20expenditure%20of%20portion%20of%20GSA%20rental%20payments%20by%20departments%20or%20agencies.md)
 - [&sect; 00487 - Surveys of Government property and management practices](%C2%A7%2000487%20-%20Surveys%20of%20Government%20property%20and%20management%20practices.md)
 - [&sect; 00488 - Disposal of property](%C2%A7%2000488%20-%20Disposal%20of%20property.md)
 - [&sect; 00489 - Civil remedies and penalties](%C2%A7%2000489%20-%20Civil%20remedies%20and%20penalties.md)

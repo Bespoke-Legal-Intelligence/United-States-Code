@@ -1,6 +1,6 @@
 ### §6006. Policy toward a transitional Cuban Government
 
-Food, medicine, and medical supplies for humanitarian purposes should be made availablefor Cuba under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] if the President determines and certifies to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that the government in power in Cuba—
+Food, medicine, and medical supplies for humanitarian purposes should be made available for Cuba under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\] if the President determines and certifies to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that the government in power in Cuba—
 
 &emsp;(1) has made a public commitment to hold free and fair elections for a new government within 6 months and is proceeding to implement that decision;
 

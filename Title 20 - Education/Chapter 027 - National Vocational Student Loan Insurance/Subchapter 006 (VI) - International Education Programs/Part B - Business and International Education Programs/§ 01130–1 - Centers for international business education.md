@@ -114,7 +114,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 #### (4) Waiver of non-Federal share
 
-&emsp;In the case of an institution of higher education receiving a grant under this part andconducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
+&emsp;In the case of an institution of higher education receiving a grant under this part and conducting outreach or consortia activities with another institution of higher education in accordance with subsection (c)(2)(E) of this section, the Secretary may waive a portion of the requirements for the non-Federal share required in paragraph (2) equal to the amount provided by the institution of higher education receiving such grant to such other institution of higher education for carrying out such outreach or consortia activities. Any such waiver shall be subject to such terms and conditions as the Secretary deems necessary for carrying out the purposes of this section.
 
 #### (f) Grant conditions
 

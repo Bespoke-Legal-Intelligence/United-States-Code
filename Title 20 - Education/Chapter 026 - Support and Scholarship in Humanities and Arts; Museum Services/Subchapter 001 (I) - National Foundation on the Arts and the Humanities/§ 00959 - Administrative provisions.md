@@ -96,7 +96,7 @@ The income tax, gift tax, and estate tax laws of the United States, referred to 
 
 #### Codification
 
-In subsec. (a)(5), reference to “section 5703 of title 5” substituted for “law (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(5), reference to “section 5703 of title 5” substituted for “law (5 U.S.C. 73b–2)” on authority ofPub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

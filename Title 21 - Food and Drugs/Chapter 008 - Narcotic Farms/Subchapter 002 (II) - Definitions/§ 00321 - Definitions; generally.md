@@ -50,15 +50,27 @@ For the purposes of this chapter—
 
 &emsp;(2) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
-(q) The term “pesticide chemical” means any substance which, alone, in chemical combination or in formulation with one or more other substances, is “a pesticide” within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] as now in force or as hereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities.
+(q)(1) The term “pesticide chemical” means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], including all active and inert ingredients of such pesticide.
+
+(2) The term “pesticide chemical residue” means a residue in or on raw agricultural commodity or processed food of—
+
+&emsp;(A) a pesticide chemical; or
+
+&emsp;(B) any other added substance that is present on or in the commodity or food primarily as a result of the metabolism or other degradation of a pesticide chemical.
+
+(3) Notwithstanding paragraphs (1) and (2), the Administrator may by regulation except a substance from the definition of “pesticide chemical” or “pesticide chemical residue” if—
+
+&emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportation of any raw agricultural commodity or processed food; and
+
+&emsp;(B) the Administrator, after consultation with the Secretary, determines that the substance more appropriately should be regulated under one or more provisions of this chapter other than sections 342(a)(2)(B) and 346a of this title.
 
 (r) The term “raw agricultural commodity” means any food in its raw or natural state, including all fruits that are washed, colored, or otherwise treated in their unpeeled natural form prior to marketing.
 
 (s) The term “food additive” means any substance the intended use of which results or may reasonably be expected to result, directly or indirectly, in its becoming a component or otherwise affecting the characteristics of any food (including any substance intended for use in producing, manufacturing, packing, processing, preparing, treating, packaging, transporting, or holding food; and including any source of radiation intended for any such use), if such substance is not generally recognized, among experts qualified by scientific training and experience to evaluate its safety, as having been adequately shown through scientific procedures (or, in the case as a substance used in food prior to January 1, 1958, through either scientific procedures or experience based on common use in food) to be safe under the conditions of its intended use; except that such term does not include—
 
-&emsp;(1) a pesticide chemical in or on a raw agricultural commodity; or
+&emsp;(1) a pesticide chemical residue in or on a raw agricultural commodity or processed food; or
 
-&emsp;(2) a pesticide chemical to the extent that it is intended for use or is used in the production, storage, or transportation of any raw agricultural commodity; or
+&emsp;(2) a pesticide chemical; or
 
 &emsp;(3) a color additive; or
 
@@ -184,19 +196,33 @@ For the purposes of this chapter—
 
 > Except for purposes of paragraph (g), a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Sept. 6, 1958, Pub. L. 85–929, §2, 72 Stat. 1784; July 12, 1960, Pub. L. 86–618, title I, §101, 74 Stat. 397; Oct. 10, 1962, Pub. L. 87–781, title I, §102(a), title III, §307(a), 76 Stat. 781, 796; July 15, 1965, Pub. L. 89–74, §§3(a), 9(b), 79 Stat. 227, 234; July 13, 1968, Pub. L. 90–399, §102, 82 Stat. 351; Oct. 24, 1968, Pub. L. 90–639, §§1, 4(a), 82 Stat. 1361, 1362; Oct. 27, 1970, Pub. L. 91–513, title II, §701(a), (g), 84 Stat. 1281, 1282; Oct. 21, 1972, Pub. L. 92–516, §3(3), 86 Stat. 998; Apr. 22, 1976, Pub. L. 94–278, title V, §502(a)(2)(A), 90 Stat. 411; May 28, 1976, Pub. L. 94–295, §3(a)(1)(A), (2), 90 Stat. 575; Nov. 23, 1977, Pub. L. 95–203, §4(b)(3), 91 Stat. 1453; Sept. 26, 1980, Pub. L. 96–359, §3, 94 Stat. 1193; Nov. 16, 1988, Pub. L. 100–670, title I, §107(a)(1), 102 Stat. 3984; Nov. 8, 1990, Pub. L. 101–535, §5(b), 104 Stat. 2362; Nov. 28, 1990, Pub. L. 101–629, §16(b), 104 Stat. 4526; May 13, 1992, Pub. L. 102–282, §6, 106 Stat. 161; June 16, 1992, Pub. L. 102–300, §6(a), (b), 106 Stat. 240; Oct. 29, 1992, Pub. L. 102–571, title I, §107(1), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §§3(b), (dd)(1), 4(b), 107 Stat. 775, 779; Oct. 25, 1994, Pub. L. 103–417, §§3(a), (b), 10(a), 108 Stat. 4327, 4332.)
+(gg) The term “processed food” means any food other than a raw agricultural commodity and includes any raw agricultural commodity that has been subject to processing, such as canning, cooking, freezing, dehydration, or milling.
+
+(hh) The term “Administrator” means the Administrator of the United States Environmental Protection Agency.
+
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Sept. 6, 1958, Pub. L. 85–929, §2, 72 Stat. 1784; July 12, 1960, Pub. L. 86–618, title I, §101, 74 Stat. 397; Oct. 10, 1962, Pub. L. 87–781, title I, §102(a), title III, §307(a), 76 Stat. 781, 796; July 15, 1965, Pub. L. 89–74, §§3(a), 9(b), 79 Stat. 227, 234; July 13, 1968, Pub. L. 90–399, §102, 82 Stat. 351; Oct. 24, 1968, Pub. L. 90–639, §§1, 4(a), 82 Stat. 1361, 1362; Oct. 27, 1970, Pub. L. 91–513, title II, §701(a), (g), 84 Stat. 1281, 1282; Oct. 21, 1972, Pub. L. 92–516, §3(3), 86 Stat. 998; Apr. 22, 1976, Pub. L. 94–278, title V, §502(a)(2)(A), 90 Stat. 411; May 28, 1976, Pub. L. 94–295, §3(a)(1)(A), (2), 90 Stat. 575; Nov. 23, 1977, Pub. L. 95–203, §4(b)(3), 91 Stat. 1453; Sept. 26, 1980, Pub. L. 96–359, §3, 94 Stat. 1193; Nov. 16, 1988, Pub. L. 100–670, title I, §107(a)(1), 102 Stat. 3984; Nov. 8, 1990, Pub. L. 101–535, §5(b), 104 Stat. 2362; Nov. 28, 1990, Pub. L. 101–629, §16(b), 104 Stat. 4526; May 13, 1992, Pub. L. 102–282, §6, 106 Stat. 161; June 16, 1992, Pub. L. 102–300, §6(a), (b), 106 Stat. 240; Oct. 29, 1992, Pub. L. 102–571, title I, §107(1), 106 Stat. 4499; Aug. 13, 1993, Pub. L. 103–80, §§3(b), (dd)(1), 4(b), 107 Stat. 775, 779; Oct. 25, 1994, Pub. L. 103–417, §§3(a), (b), 10(a), 108 Stat. 4327, 4332; Aug. 3, 1996, Pub. L. 104–170, title IV, §402, 110 Stat. 1513.)
 
 #### References in Text
 
 The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act of June 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, as amended, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 372a of this title) by act June 25, 1938, ch. 675, §902(a), 52 Stat. 1059, and is covered by this chapter.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q)(1), is act June 25, 1947, ch.125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 The Meat Inspection Act of March 4, 1907, as amended and extended, referred to in par. (s)(4), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 #### Amendments
+
+1996—Par. (q). Pub. L. 104–170, §402(a), amended par. (q) generally. Prior to amendment, par. (q) read as follows: “The term ‘pesticide chemical’ means any substance which, alone, in chemical combination or in formulation with one or more other substances, is ‘a pesticide’ within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act as now in force or as hereafter amended, and which is used in the production, storage, or transportation of raw agricultural commodities.”
+
+Par. (s)(1), (2). Pub. L. 104–170, §402(b), amended subpars. (1) and (2) generally. Prior to amendment, subpars. (1) and (2) read as follows:
+
+“(1) a pesticide chemical in or on a raw agricultural commodity; or
+
+“(2) a pesticide chemical to the extent that it is intended for use or is used in the production, storage, or transportation of any raw agricultural commodity; or”.
+
+Pars. (gg), (hh). Pub. L. 104–170, §402(c), added pars. (gg) and (hh).
 
 1994—Par. (g)(1). Pub. L. 103–417, §10(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “A food for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug under clause (B) solely because the label or labeling contains such a claim.”
 
@@ -296,7 +322,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
-Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section,sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
+Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
 
 Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (w) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
@@ -342,7 +368,7 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 etseq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Savings Provision
 
@@ -380,7 +406,7 @@ Section 2 of Pub. L. 103–417 provided that: “Congress finds that—
 
 &emsp;“(4) healthful diets may mitigate the need for expensive medical procedures, such as coronary bypass surgery or angioplasty;
 
-&emsp;“(5) preventive health measures, including education, good nutrition, and appropriate use of safe nutritional supplements will limit the incidence of chronic diseases, and reduce long-term health care expenditures;
+&emsp;“(5) preventive health measures, including education, good nutrition, and appropriate use of safenutritional supplements will limit the incidence of chronic diseases, and reduce long-term health care expenditures;
 
 &emsp;“(6)(A) promotion of good health and healthy lifestyles improves and extends lives while reducing health care expenditures; and
 
@@ -438,7 +464,7 @@ Appropriations for purpose and administration of pars. (q) and (r) of this secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 343, 346b, 350, 352, 355, 360b, 379e, 802, 825 of this title; title 7 section 136; title 15 sections 1454, 1456, 1471, 2052, 2602; title 18 sections 842, 1365; title 35 section 156; title 42 sections 274e, 287c–11, 289g–2, 300cc–12, 1396r–8; title 49 section 5702.
+This section is referred to in sections 343, 346a, 346b, 350, 352, 355, 360b, 379e, 802, 825 of this title; title 7 section 136; title 15 sections 1454, 1456, 1471, 2052, 2602; title 18 sections 842, 1365; title 35 section 156; title 42 sections 274e, 287c–11, 289g–2, 300cc–12, 1396r–8; title 49 section 5702.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(v)”.</i>
 

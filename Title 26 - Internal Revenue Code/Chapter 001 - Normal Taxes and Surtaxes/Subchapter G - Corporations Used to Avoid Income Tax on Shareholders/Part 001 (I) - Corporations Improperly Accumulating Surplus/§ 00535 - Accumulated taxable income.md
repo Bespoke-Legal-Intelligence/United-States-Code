@@ -10,7 +10,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) Taxes
 
-&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
+&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paidby a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
 
 #### (2) Charitable contributions
 
@@ -138,7 +138,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 &emsp;The term “United States-owned foreign corporation” has the meaning given to such term by section 904(g)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 180; Sept. 2, 1958, Pub. L. 85–866, title I, §31, title II, §205(a), 72Stat. 1631, 1680; Feb. 2, 1962, Pub. L. 87–403, §3(b), 76 Stat. 6; Oct. 16, 1962, Pub. L. 87–834, §9(d)(2), 76 Stat. 1001; Feb. 26, 1964, Pub. L. 88–272, title II, §207(b)(4), 78 Stat. 42; Dec. 30, 1969, Pub. L. 91–172, title IV, §401(b)(2)(C), title V, §512(f)(5), (6), 83 Stat. 602, 641; Mar. 29, 1975, Pub. L. 94–12, title III, §304(a), 89 Stat. 45; Oct. 4, 1976, Pub. L. 94–455, title X, §1033(b)(3), title XIX, §§1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Aug. 13, 1981, Pub. L. 97–34, title II, §232(a), (b)(1), 95 Stat. 250; July 18, 1984, Pub. L. 98–369, div. A, title I, §§58(b), 125(a), 98 Stat. 575, 647; Oct. 22, 1986, Pub. L. 99–514, title XII, §1225(a), title XVIII, §1899A(17), 100 Stat. 2558, 2959; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(18), 104 Stat. 1388–528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 180; Sept. 2, 1958, Pub. L. 85–866, title I, §31, title II, §205(a), 72 Stat. 1631, 1680; Feb. 2, 1962, Pub. L. 87–403, §3(b), 76 Stat. 6; Oct. 16, 1962, Pub. L. 87–834, §9(d)(2), 76 Stat. 1001; Feb. 26, 1964, Pub. L. 88–272, title II, §207(b)(4), 78 Stat. 42; Dec. 30, 1969, Pub. L. 91–172, title IV, §401(b)(2)(C), title V, §512(f)(5), (6), 83 Stat. 602, 641; Mar. 29, 1975, Pub. L. 94–12, title III, §304(a), 89 Stat. 45; Oct. 4, 1976, Pub. L. 94–455, title X, §1033(b)(3), title XIX, §§1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Aug. 13, 1981, Pub. L. 97–34, title II, §232(a), (b)(1), 95 Stat. 250; July 18, 1984, Pub. L. 98–369, div. A, title I, §§58(b), 125(a), 98 Stat. 575, 647; Oct. 22, 1986, Pub. L. 99–514, title XII, §1225(a), title XVIII, §1899A(17), 100 Stat. 2558, 2959; Nov. 5, 1990, Pub. L. 101–508, title XI, §11801(c)(18), 104 Stat. 1388–528.)
 
 #### Amendments
 
@@ -186,7 +186,7 @@ Subsec. (b)(9), (10). Pub. L. 87–403 added pars. (9) and (10).
 
 1958—Subsec. (b)(2). Pub. L. 85–866, §31(a), struck out “the limitation in” after “without regard to”.
 
-Subsec. (b)(6)(B). Pub. L. 85–866, §31(a), substituted “in taxable income the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year (determined without regard to the capital loss carryover provided in section 1212)” for “such excess in taxable income”.
+Subsec. (b)(6)(B). Pub. L. 85–866, §31(a), substituted “in taxable income the excess of the net long-term capital gain for the taxable year over the net short-termcapital loss for such year (determined without regard to the capital loss carryover provided in section 1212)” for “such excess in taxable income”.
 
 Subsec. (c)(2), (3). Pub. L. 85–866, §205(a), substituted “$100,000” for “$60,000”.
 
@@ -224,7 +224,7 @@ Section 305(c) of Pub. L. 94–12 provided that: “The amendments made by secti
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 401(b)(2)(C) of Pub. L. 91–172 applicable with respect to taxable years beginning afterDec. 31, 1969, see section 401(h)(2) of Pub. L. 91–172, set out as a note under section 1561 of this title.
+Amendment by section 401(b)(2)(C) of Pub. L. 91–172 applicable with respect to taxable years beginning after Dec. 31, 1969, see section 401(h)(2) of Pub. L. 91–172, set out as a note under section 1561 of this title.
 
 Amendment by section 512(f)(5), (6) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 

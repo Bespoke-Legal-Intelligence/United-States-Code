@@ -12,7 +12,7 @@ Subject to the extent of amounts made available in appropriations Acts, the amou
 
 The amount referred to in subsection (a)(2) of this section is the product of—
 
-&emsp;(1) an amount equal to the amount appropriated under subsection (a) <sup>1</sup> of section 300ff–50 of this title for the fiscal year involved; and
+&emsp;(1) an amount equal to the amount appropriated under section 300ff–50 of this title for the fiscal year involved; and
 
 &emsp;(2) a percentage equal to the quotient of—
 
@@ -24,7 +24,7 @@ The amount referred to in subsection (a)(2) of this section is the product of—
 
 #### (1) Discretionary grants to certain States
 
-&emsp;After determining the amount of an allotment under this <sup>2</sup> subsection (a) of this section for a fiscal year, the Secretary shall reduce the amount of the allotment of each State by 10 percent. From the amounts available as a result of such reductions, the Secretary shall, on a discretionary basis, make grants to States receiving allotments for the fiscal year involved. Such grants shall be made subject to each of the agreements and assurances required as a condition of receiving grants under section 300ff–41 of this title.
+&emsp;After determining the amount of an allotment under subsection (a) of this section for a fiscal year, the Secretary shall reduce the amount of the allotment of each State by 10 percent. From the amounts available as a result of such reductions, the Secretary shall, on a discretionary basis, make grants to States receiving allotments for the fiscal year involved. Such grants shall be made subject to each of the agreements and assurances required as a condition of receiving grants under section 300ff–41 of this title.
 
 #### (2) Grants to certain political subdivisions
 
@@ -34,13 +34,13 @@ The amount referred to in subsection (a)(2) of this section is the product of—
 
 &emsp;(B) In the case of a State described in subparagraph (A), the Secretary shall, from the amounts made available as a result of reductions under such subparagraph, make a grant each fiscal year to each political subdivision described in such subparagraph that exists in the State if the political subdivision involved agrees that the provisions of subparts II and III will apply to the political subdivision to the same extent and in the same manner as such subparts apply to entities receiving grants under section 300ff–51(a) of this title.
 
-&emsp;(C) Grants under subparagraph (B) for a fiscal year for a political subdivision shall be provided in an amount equal to the amount received by the political subdivision in fiscal year 1990 under the cooperative agreement described in subparagraph (A).
+&emsp;(C) Grants under subparagraph (B) for a fiscal year for a political subdivision shall beprovided in an amount equal to the amount received by the political subdivision in fiscal year 1990 under the cooperative agreement described in subparagraph (A).
 
 #### (d) Disposition of certain funds appropriated for allotments
 
 #### (1) In general
 
-&emsp;Any amounts available pursuant to paragraph (2) shall, in accordance with paragraph (3), be allotted by the Secretary each fiscal year to States receiving payments under section 300ff–41(a) of this title for the fiscal year (other than any State referred to in paragraph\(2)(C)). The Secretary shall make payments, as grants, to each such State from any such allotment for the State for the fiscal year involved.
+&emsp;Any amounts available pursuant to paragraph (2) shall, in accordance with paragraph (3), be allotted by the Secretary each fiscal year to States receiving payments under section 300ff–41(a) of this title for the fiscal year (other than any State referred to in paragraph (2)(C)). The Secretary shall make payments, as grants, to each such State from any such allotment for the State for the fiscal year involved.
 
 #### (2) Specification of amounts
 
@@ -72,19 +72,23 @@ The amount referred to in subsection (a)(2) of this section is the product of—
 
 &emsp;(C) the amount applicable for fiscal year 1993 is 70 percent of the amount specified in subparagraph (A).
 
-(July 1, 1944, ch. 373, title XXVI, §2649, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 604; amended Nov. 3, 1990, Pub. L. 101–502, §6(b), 104 Stat. 1290; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(33), 106 Stat. 3506.)
+(July 1, 1944, ch. 373, title XXVI, §2649, as added Aug. 18, 1990, Pub. L. 101–381, title III, §301(a), 104 Stat. 604; amended Nov. 3, 1990, Pub. L. 101–502, §6(b), 104 Stat. 1290; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(33), 106 Stat. 3506; May 20, 1996, Pub. L. 104–146, §12(c)(6), 110 Stat. 1374.)
 
 #### Amendments
+
+1996—Subsec. (b)(1). Pub. L. 104–146, §12(c)(6)(A), substituted “under section 300ff–50” for “under subsection (a) of section 300ff–50”.
+
+Subsec. (c)(1). Pub. L. 104–146, §12(c)(6)(B), substituted “under subsection (a)” for “under this subsection (a)”.
 
 1992—Subsecs. (b)(2), (c)(2)(A)(ii), (e)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control” wherever appearing.
 
 1990—Subsec. (c). Pub. L. 101–502 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L. 104–146, set out as a note under section 300ff–11 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 300ff–41 of this title.
-
-<i><sup>1</sup></i><i> So in original. Section 300ff–50 of this title does not contain a subsec. (a).</i>
-
-<i><sup>2</sup></i><i> So in original. The word “this” probably should not appear.</i>
 

@@ -18,7 +18,7 @@ The Secretary may amend the provisions of any lease included in a logical mining
 
 #### (5) Leases issued before date of enactment of this Act
 
-Leases issued before the date of enactment of this Act may be included with the consent of all lessees in such logical mining unit, and, if so included, shall be subject to the provisions of this section.
+Leases issued before the date of enactment of this Act may be included with the consent of alllessees in such logical mining unit, and, if so included, shall be subject to the provisions of this section.
 
 #### (6) Lessee required to form unit
 

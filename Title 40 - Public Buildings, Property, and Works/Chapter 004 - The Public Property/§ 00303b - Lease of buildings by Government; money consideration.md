@@ -10,5 +10,5 @@ Lease of real or personal property by Secretary of a military department, sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 303c of this title; title 10 section 2667; title 16 section 20f; title 36 section 493; title 38 sections 8122, 8162, 8201; title 42 sections 1502, 1544, 2473.
+This section is referred to in section 303c of this title; title 10 sections 2667, 2878; title 14 section 685; title 16 sections 17<i>o</i>, 20f; title 20 section 196; title 36 section 493; title 38 sections 8122, 8162, 8201; title 42 sections 1502, 1544, 2473.
 

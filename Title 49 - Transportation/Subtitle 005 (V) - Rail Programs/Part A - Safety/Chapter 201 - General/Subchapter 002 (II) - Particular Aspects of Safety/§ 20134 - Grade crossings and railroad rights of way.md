@@ -18,13 +18,15 @@ Demonstration Projects.—(1) The Secretary shall establish demonstration projec
 
 &emsp;(C) speed bumps or rumble strips installed on the road surfaces at the approaches to grade crossings.
 
-(2) Not later than June 22, 1990, the Secretary shall submit a report on the results of the demonstration projects to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(2) Not later than June 22, 1990, the Secretary shall submit a report on the results of the demonstration projects to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 873; Pub. L. 104–287, §5(48), Oct. 11, 1996, 110 Stat. 3393.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -54,9 +56,9 @@ In subsection (c)(1), before clause (A), and (2), the word “Secretary” is su
 
 In subsection (c)(1), before clause (A), the words “and incidents” are added for consistency in this part.
 
-#### Change of Name
+#### Amendments
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives, in case of provisions of law relating to railroads, railway labor, or railroad retirement and unemployment, by section 1(c)(1) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+1996—Subsec. (c)(2). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
 
 #### Section Referred to in Other Sections
 

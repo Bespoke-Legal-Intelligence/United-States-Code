@@ -28,7 +28,7 @@
 
 #### (3) Drugs provided under State medicaid plans
 
-&emsp;Drugs described in this paragraph are drugs purchased by the entity for which payment is made by the State under the State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+&emsp;Drugs described in this paragraph are drugs purchased by the entity for which payment ismade by the State under the State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (4) “Covered entity” defined
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) A Federally-qualified health center (as defined in section 1905(<i>l</i>)(2)(B) of the Social Security Act \[42 U.S.C. 1396d(<i>l</i>)(2)(B)\]).
 
-&emsp;&emsp;(B) An entity receiving a grant under section 256a of this title.
+&emsp;&emsp;(B) An entity receiving a grant under section 256a <sup>1</sup> of this title.
 
 &emsp;&emsp;(C) A family planning project receiving a grant or contract under section 300 of this title.
 
@@ -104,7 +104,7 @@
 
 #### (C) Criteria
 
-&emsp;&emsp;The Secretary shall make available to all manufacturers of covered outpatient drugs adescription of the criteria for certification under this paragraph.
+&emsp;&emsp;The Secretary shall make available to all manufacturers of covered outpatient drugs a description of the criteria for certification under this paragraph.
 
 #### (D) List of purchasers and dispensers
 
@@ -143,6 +143,8 @@ A manufacturer is deemed to meet the requirements of subsection (a) of this sect
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(1), (3), (4)(L)(i), (5)(A)(i), and (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 256a of this title, referred to in subsec. (a)(4)(B), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 

@@ -4,7 +4,7 @@
 
 #### (1) Capital restoration plan
 
-&emsp;An enterprise that is classified as undercapitalized shall, within the time period provided in section 4622(b) and (d) of this title,submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
+&emsp;An enterprise that is classified as undercapitalized shall, within the time period provided in section 4622(b) and (d) of this title, submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
 
 #### (2) Restriction on capital distributions
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(v) availability of detection devices; and
 
-&emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed ratherthan initiate an investigation after a crime is committed;
+&emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed rather than initiate an investigation after a crime is committed;
 
 &emsp;(3) the term “unscheduled duty” means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
 
@@ -54,7 +54,7 @@
 
 (e)(1) Each criminal investigator receiving availability pay under this section and the appropriate supervisory officer, to be designated by the head of the agency, shall make an annual certification to the head of the agency that the investigator has met, and is expected to meet, the requirements of subsection (d). The head of a law enforcement agency may prescribe regulations necessary to administer this subsection.
 
-(2) Involuntary reduction in pay resulting from a denial of certification under paragraph (1) shall be a reduction in pay for purposes of section 7512(4) of this title.
+(2) Involuntary reduction in pay resulting from a denial of certification under paragraph\(1) shall be a reduction in pay for purposes of section 7512(4) of this title.
 
 (f)(1) A criminal investigator who is eligible for availability pay shall receive such pay during any period such investigator is—
 
@@ -78,7 +78,7 @@
 
 &emsp;(2) treated as part of the basic pay for purposes of—
 
-&emsp;&emsp;(A) sections 5595(c), 8114(e), 8331(3), 8431, and 8704(c); and
+&emsp;&emsp;(A) sections 5595(c), 8114(e), 8331(3), and 8704(c); and
 
 &emsp;&emsp;(B) such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
@@ -86,7 +86,7 @@
 
 (j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
-(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230.)
+(Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378.)
 
 #### References in Text
 
@@ -94,13 +94,19 @@ Title II of Public Law 99–399, referred to in subsec. (a)(2), is title II of P
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted “who” before “is required to” in introductory provisions.
+1996—Subsec. (h)(2)(A). Pub. L. 104–208 struck out “8431,” after “8331(3),”.
+
+1995—Subsec. (a)(2). Pub. L. 104–19, §901(1)(A), inserted “who” before “is required to” in introductory provisions.
 
 Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted “and” at end.
 
 Subsec. (i). Pub. L. 104–19, §902(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
+
+#### Effective Date of 1996 Amendment
+
+Section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208 provided that: “This title \[title II (§§201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 8351, 8401, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 8401 and 8433 of this title, and amending provisions set out as a note under section 5343 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1996\] and withdrawals and elections as provided under the amendments made by this title shall be made at the earliest practicable date as determined by the Executive Director in regulations.”
 
 #### Effective Date of 1995 Amendment
 

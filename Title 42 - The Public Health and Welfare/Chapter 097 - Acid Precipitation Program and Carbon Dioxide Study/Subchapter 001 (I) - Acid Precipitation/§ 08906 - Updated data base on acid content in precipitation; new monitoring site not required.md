@@ -1,6 +1,6 @@
 ### §8906. Updated data base on acid content in precipitation; new monitoring site not required
 
-(a)(1) The National Weather Service of the National Oceanic and Atmospheric Administration shall maintain an updated data base describing the acid content in precipitation in the United States, using information from Federal acid precipitation monitoring sites.
+(a)(1) The National Weather Service of the National Oceanic and Atmospheric Administration shall maintain an updated data base describing the acid content in precipitation in the UnitedStates, using information from Federal acid precipitation monitoring sites.
 
 (2) Such data shall be available to interested parties by Weather Service Forecast Offices in the National Weather Service, or through such other facilities or means as the Assistant Administrator for Weather Services, National Oceanic and Atmospheric Administration, shall direct, for those areas of the United States where and at such time as such information is presently available, within 120 days after November 17, 1988.
 

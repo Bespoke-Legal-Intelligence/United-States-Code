@@ -5,7 +5,7 @@
 | [I.](Part%20001%20%28I%29%20-%20Definition%20of%20Gross%20Income%2C%20Adjusted%20Gross%20Income%2C%20Taxable%20Income%2C%20Etc/README.md) | Definition of gross income, adjusted gross income, taxable income, etc. |
 | [II.](Part%20002%20%28II%29%20-%20Items%20Specifically%20Included%20in%20Gross%20Income/README.md) | Items specifically included in gross income. |
 | [III.](Part%20003%20%28III%29%20-%20Items%20Specifically%20Excluded%20from%20Gross%20Income/README.md) | Items specifically excluded from gross income. |
-| IV. | Determination of marital status.<sup>1</sup> |
+| [IV.](Part%20004%20%28IV%29%20-%20Tax%20Exemption%20Requirements%20for%20State%20and%20Local%20Bonds/README.md) | Determination of marital status.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,9 +39,7 @@
 - [Part 001 (I) - Definition of Gross Income, Adjusted Gross Income, Taxable Income, Etc](Part%20001%20%28I%29%20-%20Definition%20of%20Gross%20Income%2C%20Adjusted%20Gross%20Income%2C%20Taxable%20Income%2C%20Etc/README.md)
 - [Part 002 (II) - Items Specifically Included in Gross Income](Part%20002%20%28II%29%20-%20Items%20Specifically%20Included%20in%20Gross%20Income/README.md)
 - [Part 003 (III) - Items Specifically Excluded from Gross Income](Part%20003%20%28III%29%20-%20Items%20Specifically%20Excluded%20from%20Gross%20Income/README.md)
-- [Subpart A - Private Activity Bonds](Subpart%20A%20-%20Private%20Activity%20Bonds/README.md)
-- [Subpart B - Requirements Applicable to All State and Local Bonds](Subpart%20B%20-%20Requirements%20Applicable%20to%20All%20State%20and%20Local%20Bonds/README.md)
-- [Subpart C - Definitions and Special Rules](Subpart%20C%20-%20Definitions%20and%20Special%20Rules/README.md)
+- [Part 004 (IV) - Tax Exemption Requirements for State and Local Bonds](Part%20004%20%28IV%29%20-%20Tax%20Exemption%20Requirements%20for%20State%20and%20Local%20Bonds/README.md)
 - [Part 005 (V) - Deductions for Personal Exemptions](Part%20005%20%28V%29%20-%20Deductions%20for%20Personal%20Exemptions/README.md)
 - [Part 006 (VI) - Itemized Deductions for Individuals and Corporations](Part%20006%20%28VI%29%20-%20Itemized%20Deductions%20for%20Individuals%20and%20Corporations/README.md)
 - [Part 007 (VII) - Additional Itemized Deductions for Individuals](Part%20007%20%28VII%29%20-%20Additional%20Itemized%20Deductions%20for%20Individuals/README.md)

@@ -1,8 +1,8 @@
 subpart i—guidelines and model curriculum
 
-<i><sup>1</sup></i><i> So in original. Probably should be a reference to section 300ff–86(a) of this title.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “9902(2)”.</i>
+1996—Pub. L. 104–146, §12(c)(9), May 20, 1996, 110 Stat. 1374, made technical amendment to subpart heading.
 
 
 ---

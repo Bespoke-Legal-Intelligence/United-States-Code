@@ -8,29 +8,3 @@ A pipeline carrier providing transportation subject to this part shall provide r
 
 Provisions similar to those in this section were contained in section 10742 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### CHAPTER 157—OPERATIONS OF CARRIERS
-
-### <b>CHAPTER 157—OPERATIONS OF CARRIERS </b><b><sup>1</sup></b>
-
-#### Subchapter A—General Requirements
-
-| Sec. |  |
-| :--- | ---: |
-| 15701\. | Providing transportation and service. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Subchapter B—Operations of Carriers
-
-|  |  |
-| :--- | ---: |
-| 15721\. | Definitions. |
-| 15722\. | Records: form; inspection; preservation. |
-| 15723\. | Reports by carriers, lessors, and associations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 16101, 16102 of this title.
-

@@ -8,7 +8,7 @@ Any person whose property has been levied upon shall have the right to pay the a
 
 #### (1) Period
 
-&emsp;The owners of any real property sold as provided in section 6335, their heirs, executors, or administrators, or any person having any interest therein, or a lien thereon, or any personin their behalf, shall be permitted to redeem the property sold, or any particular tract of such property, at any time within 180 days after the sale thereof.
+&emsp;The owners of any real property sold as provided in section 6335, their heirs, executors, or administrators, or any person having any interest therein, or a lien thereon, or any person in their behalf, shall be permitted to redeem the property sold, or any particular tract of such property, at any time within 180 days after the sale thereof.
 
 #### (2) Price
 
@@ -38,5 +38,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6338 of this title; title 18 section 3613.
+This section is referred to in section 6338 of this title.
 

@@ -50,17 +50,25 @@ As used in this subchapter—
 
 &emsp;(14) The term “component”.
 
-(d) The term “simplified acquisition threshold” has the meaning provided that term in section 403 of this title, except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation, the term means an amount equal to two times the amount specified for that term in section 403 of this title.
+(d)(1) The term “simplified acquisition threshold” has the meaning provided that term in section 403 of this title, except that, in the case of any contract to be awarded and performed, or purchase to be made, outside the United States in support of a contingency operation or a humanitarian or peacekeeping operation, the term means an amount equal to two times the amount specified for that term in section 403 of this title.
+
+(2) In paragraph (1):
+
+&emsp;(A) The term “contingency operation” has the meaning given such term in section 101(a) of title 10.
+
+&emsp;(B) The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
 (e) The term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 421(c)(1) of this title.
 
-(June 30, 1949, ch. 288, title III, §309, 63 Stat. 397; July 12, 1952, ch. 703, §1(h), 66 Stat. 593; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(3), 98 Stat. 1180; Oct. 30, 1984, Pub. L. 98–577, title V, §504(a)(3), (4), 98 Stat. 3086; Oct. 13, 1994, Pub. L. 103–355, title I, §1551, 108 Stat. 3298.)
+(June 30, 1949, ch. 288, title III, §309, 63 Stat. 397; July 12, 1952, ch. 703, §1(h), 66 Stat. 593; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2711(a)(3), 98 Stat. 1180; Oct. 30, 1984, Pub. L. 98–577, title V, §504(a)(3), (4), 98 Stat. 3086; Oct. 13, 1994, Pub. L. 103–355, title I, §1551, 108 Stat. 3298; Sept. 23, 1996, Pub. L. 104–201, div. A, title VIII, §807(b), 110 Stat. 2606.)
 
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is the Federal Property and Administrative Services Act of 1949, approved June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of this Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–201 designated existing provisions as par. (1), inserted “or a humanitarian or peacekeeping operation” after “contingency operation”, and added par. (2).
 
 1994—Subsecs. (c) to (e). Pub. L. 103–355 added subsecs. (c) to (e) and struck out former subsec. (c) which read as follows: “The terms ‘full and open competition’, ‘responsible source’, ‘technical data’, ‘major system’, ‘item’, ‘item of supply’, and ‘supplies’ have the same meanings provided such terms in section 403 of this title.”
 

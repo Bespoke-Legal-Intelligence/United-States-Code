@@ -40,7 +40,7 @@ Submission of Certain Copies to Congress.—When the Board submits to the Presid
 
 (d)
 
-Liaison Committees.—The Chairman may determine the number of committees that areappropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
+Liaison Committees.—The Chairman may determine the number of committees that are appropriate to maintain effective liaison with other departments, agencies, and instrumentalities of the Government, State and local governmental authorities, and independent standard-setting authorities that carry out programs and activities related to transportation safety. The Board may designate representatives to serve on or assist those committees.
 
 (e)
 
@@ -54,7 +54,9 @@ Regulations.—The Board may prescribe regulations to carry out this chapter.
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -66,7 +68,7 @@ Historical and Revision Notes
 
 Jan. 3, 1975, Pub. L. 93–633, §304(a)(1)(A), (b)(1), (3), (4), (7)–(9), 88 Stat. 2168, 2169, 2170; July 19, 1988, Pub. L. 100–372, §4, 102 Stat. 876.
 
-1113(b) (1)(A)
+1113(b)(1)(A)
 
 49 App.:1441(b) (words before semicolon).
 
@@ -80,13 +82,13 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A), (b)(6)(C).
+49 App.:1903(a)(1)(A), (b)(6)(C).
 
-1113(b) (1)(B)
+1113(b)(1)(B)
 
 49 App.:1903(b)(4).
 
-1113(b) (1)(C)
+1113(b)(1)(C)
 
 49 App.:1441(b) (words after semicolon).
 
@@ -96,17 +98,17 @@ Oct. 15, 1966, Pub. L. 89–670, §6(d) (1st sentence), 80 Stat. 938.
 
 &nbsp;
 
-49 App.:1903(a) (1)(A).
+49 App.:1903(a)(1)(A).
 
 &nbsp;
 
-49 App.:1903(b) (6)(A).
+49 App.:1903(b)(6)(A).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(b)(6), 88 Stat. 2170; July 19, 1988, Pub. L. 100–372, §5, 102 Stat. 877.
 
-1113(b) (1)(D)–(I), (2)
+1113(b)(1)(D)–(I), (2)
 
-49 App.:1903(b) (6)(B), (D)–(H).
+49 App.:1903(b)(6)(B), (D)–(H).
 
 1113(c)
 
@@ -122,7 +124,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(b)(6), 88 Stat. 2170; July 19, 1988, Pub. 
 
 1113(f)
 
-49 App.:1903(b) (12).
+49 App.:1903(b)(12).
 
 Jan. 3, 1975, Pub. L. 93–633, §304(b)(12), 88 Stat. 2171; July 19, 1988, Pub. L. 100–372, §4, 102 Stat. 876; Nov. 28, 1990, Pub. L. 101–641, §6, 104 Stat. 4656.
 
@@ -136,7 +138,7 @@ In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is
 
 In subsection (b)(1)(B), the words “make agreements and other transactions” are substituted for “enter into . . . such contracts, leases, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “to carry out this chapter” are substituted for “in the conduct of the functions and the duties of the Board under this chapter” for consistency. The words “with any government entity or any person” are omitted as surplus.
 
-In subsection (b)(1)(C), the words “Department of Transportation and of other” are omitted as surplus. The words “department, agency, or instrumentality of the United States Government” are substituted for “civilian or military agencies and instrumentalities of the Federal Government” in 49 App.:1903(b)(6)(A) for consistency in the revised title and with other titles of the Code. The text of 49 App.:1441(b) (words after semicolon) is omitted as superseded by 49 App.:1903(b)(6)(A).
+In subsection (b)(1)(C), the words “Department of Transportation and of other” are omitted as surplus. The words “department, agency, or instrumentality ofthe United States Government” are substituted for “civilian or military agencies and instrumentalities of the Federal Government” in 49 App.:1903(b)(6)(A) for consistency in the revised title and with other titles of the Code. The text of 49 App.:1441(b) (words after semicolon) is omitted as superseded by 49 App.:1903(b)(6)(A).
 
 In subsection (b)(1)(D), the word “available” is omitted as surplus.
 

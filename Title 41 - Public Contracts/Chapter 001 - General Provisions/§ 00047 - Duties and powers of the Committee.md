@@ -26,7 +26,7 @@ The Committee shall designate a central nonprofit agency or agencies to facilita
 
 (2) The Committee shall prescribe regulations providing that—
 
-&emsp;(A) in the purchase by the Government of commodities produced and offered for sale byqualified nonprofit agencies for the blind or such agencies for other severely handicapped, priority shall be accorded to commodities produced and offered for sale by qualified nonprofit agencies for the blind, and
+&emsp;(A) in the purchase by the Government of commodities produced and offered for sale by qualified nonprofit agencies for the blind or such agencies for other severely handicapped, priority shall be accorded to commodities produced and offered for sale by qualified nonprofit agencies for the blind, and
 
 &emsp;(B) in the purchase by the Government of services offered by nonprofit agencies for the blind or such agencies for other severely handicapped, priority shall, until the end of the calendar year ending December 31, 1976, be accorded to services offered for sale by qualified nonprofit agencies for the blind.
 

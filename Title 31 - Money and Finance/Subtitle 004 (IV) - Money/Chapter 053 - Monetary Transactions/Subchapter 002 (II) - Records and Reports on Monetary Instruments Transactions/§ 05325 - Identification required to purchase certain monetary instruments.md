@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—No financial institution may issue or sell a bank check, cashier's check, traveler's check, or money order to any individual in connection with a transaction or group of such contemporaneous transactions which involves United States coins or currency (or such other monetary instruments as the Secretary may prescribe) in amounts or denominations of $3,000 or more unless—
+In General.—No financial institution may issue or sell a bank check, cashier's check, traveler's check, or money order to any individual in connection with a transaction or group of suchcontemporaneous transactions which involves United States coins or currency (or such other monetary instruments as the Secretary may prescribe) in amounts or denominations of $3,000 or more unless—
 
 &emsp;(1) the individual has a transaction account with such financial institution and the financial institution—
 

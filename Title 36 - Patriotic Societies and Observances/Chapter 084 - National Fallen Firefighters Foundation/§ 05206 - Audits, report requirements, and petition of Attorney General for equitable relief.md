@@ -2,7 +2,7 @@
 
 #### (a) Audits
 
-For purposes of the Act entitled “An Act to provide for audit of accounts of private corporations established under Federal law”, approvedAugust 30, 1964 (36 U.S.C. 1101 et seq.), the Foundation shall be treated as a private corporation established under Federal law.
+For purposes of the Act entitled “An Act to provide for audit of accounts of private corporations established under Federal law”, approved August 30, 1964 (36 U.S.C. 1101 et seq.), the Foundation shall be treated as a private corporation established under Federal law.
 
 #### (b) Report
 

@@ -26,7 +26,7 @@ Within 180 days after December 16, 1974, the Administrator shall list in the Fed
 
 If the Administrator disapproves a State's program (or part thereof) under subsection (b)(2) of this section, if the Administrator determines under subsection (b)(3) of this section that a State no longer meets the requirements of clause (i) or (ii) of subsection (b)(1)(A) of this section, or if a State fails to submit an application or notice before the date of expiration of the period specified in subsection (b)(1) of this section, the Administrator shall by regulation within 90 days after the date of such disapproval, determination, or expiration (as the case may be) prescribe (and may from time to time by regulation revise) a program applicable to such State meeting the requirements of section 300h(b) of this title. Such program may not include requirements which interfere with or impede—
 
-&emsp;(1) the underground injection of brine or other fluids which are brought to the surface in connection with oil or natural gas production or natural gas storage operations, or
+&emsp;(1) the underground injection of brine or other fluids which are brought to the surfacein connection with oil or natural gas production or natural gas storage operations, or
 
 &emsp;(2) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 
@@ -52,5 +52,5 @@ Subsec. (e). Pub. L. 99–339, §302(c), added subsec. (e).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300h, 300h–2, 300h–4, 300j–2, 300j–4 of this title.
+This section is referred to in sections 300h, 300h–2, 300h–4, 300j–2, 6924 of this title.
 

@@ -32,6 +32,10 @@ A prior section 300cc, act July 1, 1944, §2301, was successively renumbered by 
 
 1992—Subsec. (b)(4). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
+#### Limitation on Expenditures for AIDS and HIV Activities
+
+Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: “Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
+
 #### Vaccines for Human Immunodeficiency Virus
 
 Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided that:
@@ -42,7 +46,7 @@ In general.—The Secretary of Health and Human Services, acting through the Nat
 
 “(2)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
+Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce ofthe House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
 
 “(3)
 
@@ -54,7 +58,7 @@ Authorization of appropriations.—For the purpose of carrying out this subsecti
 
 #### Requirement of Certain Research Studies
 
-Section 203 of Pub. L. 100–607 provided that after consultation with Director of National Center for Health Services Research and Health Care Technology Assessment, the Secretary of Health and Human Services, acting through the Director of Centers for Disease Control, was to conduct a study for purpose of determining mortality rates with respect to acquired immune deficiency syndrome among individuals of various groups at risk of such syndrome, among various geographic areas, and among individuals with varying financial resources for payment of health care services, with a report to be submitted to Congress not later than 18months after Nov. 4, 1988, and further directed Secretary to request the National Academy of Sciences and other similar appropriate nonprofit institutions to report to the Secretary findings made by such institutions with respect to the manner in which research on, and the development of, vaccines and drugs for the prevention and treatment of acquired immune deficiency syndrome and related conditions can be enhanced by the establishment of consortia designed to combine and share resources needed for such research and development, consisting of businesses involved in such research and development, of nonprofit research institutions, or of combinations of such businesses and such institutions, and the appropriate participation, if any, of the Federal Government in such consortia, with a report to be submitted to Congress not later than 1 year after Nov. 4, 1988.
+Section 203 of Pub. L. 100–607 provided that after consultation with Director of National Center for Health Services Research and Health Care Technology Assessment, the Secretary of Health and Human Services, acting through the Director of Centers for Disease Control, was to conduct a study for purpose of determining mortality rates with respect to acquired immune deficiency syndrome among individuals of various groups at risk of such syndrome, among various geographic areas, and among individuals with varying financial resources for payment of health care services, with a report to be submitted to Congress not later than 18 months after Nov. 4, 1988, and further directed Secretary to request the National Academy of Sciences and other similar appropriate nonprofit institutions to report to the Secretary findings made by such institutions with respect to the manner in which research on, and the development of, vaccines and drugs for the prevention and treatment of acquired immune deficiency syndrome and related conditions can be enhanced by the establishment of consortia designed to combine and share resources needed for such research and development, consisting of businesses involved in such research and development, of nonprofit research institutions, or of combinations of such businesses and such institutions, and the appropriate participation, if any, of the Federal Government in such consortia, with a report to be submitted to Congress not later than 1 year after Nov. 4, 1988.
 
 #### National Commission on Acquired Immune Deficiency Syndrome
 
@@ -62,11 +66,11 @@ Subtitle D (§§241–249) of title II of Pub. L. 100–607, as amended by Pub. 
 
 #### Ex. Ord. No. 12963. Presidential Advisory Council on HIV/AIDS
 
-Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, provided:
+Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 13009, June 14, 1996, 61 F.R. 39799 \[30799\], provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 30 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 

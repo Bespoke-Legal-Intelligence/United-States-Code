@@ -4,13 +4,13 @@
 
 &emsp;(1) to encourage noncareer service in the uniformed services by eliminating or minimizing the disadvantages to civilian careers and employment which can result from such service;
 
-&emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment of such persons upon their completion of such service under honorable conditions; and
+&emsp;(2) to minimize the disruption to the lives of persons performing service in the uniformed services as well as to their employers, their fellow employees, and their communities, by providing for the prompt reemployment of such persons upon their completion of such service; and
 
 &emsp;(3) to prohibit discrimination against persons because of their service in the uniformed services.
 
 (b) It is the sense of Congress that the Federal Government should be a model employer in carrying out the provisions of this chapter.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(1), Oct. 9, 1996, 110 Stat. 3333.)
 
 #### Prior Provisions
 
@@ -18,9 +18,27 @@ A prior section 4301, applicable to reemployments initiated before the end of th
 
 Another prior section 4301 was renumbered section 7601 of this title.
 
+#### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–275 struck out “under honorable conditions” after “upon their completion of such service”.
+
+#### Effective Date of 1996 Amendment
+
+Section 313 of Pub. L. 104–275 provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle B (§§311–313) of title III of Pub. L. 104–275, amending this section, sections 4303, 4311 to 4313, 4316 to 4318, and 4322 to 4326 of this title, and provisions set out as a note below\] shall take effect as of October 13, 1994.
+
+“(b)
+
+Reorganized Title 10
+
+References.—The amendments made by clause (i), and subclauses (I), (III), and (IV) of clause (ii), of section 311(4)(B) \[amending section 4312 of this title\] shall take effect as of December 1, 1994.”
+
 #### Effective Date
 
-Section 8 of Pub. L. 103–353 provided that:
+Section 8 of Pub. L. 103–353, as amended by Pub. L. 104–275, title III, §312, Oct. 9, 1996, 110 Stat. 3336, provided that:
 
 “(a)
 
@@ -28,9 +46,9 @@ Reemployment.—(1) Except as otherwise provided in this Act \[see Short Title o
 
 “(2) The provisions of chapter 43 of title 38, United States Code, in effect on the day before such date of enactment \[set out as a note preceding this subchapter\], shall continue to apply to reemployments initiated before the end of such 60-day period.
 
-“(3) In determining the number of years of service that may not be exceeded in an employee-employer relationship with respect to which a person seeks reemployment under chapter 43 of title 38, United States Code, as in effect before or after the date of enactment of this Act, there shall be included all years of service without regard to whether the periods of service occurred before or after such date of enactment unless the period of service is exempted by the chapter 43 that is applicable, as provided in paragraphs (1) and (2), to the reemployment concerned.
+“(3) In determining the number of years of service that may not be exceeded in an employee-employer relationship with respect to which a person seeks reemployment under chapter 43 of title 38, United States Code, as in effect before or after the date of enactment of this Act, there shall be included all years of service without regard to whether the periods of service occurred before or after such date of enactment unless the period of service is exempted by the chapter 43 that is applicable, as provided in paragraphs (1) and (2), to the reemployment concerned. Any service begun up to 60 days after the date of the enactment of this Act, which is served up to 60 days after the date of the enactment of this Act pursuant to orders issued under section 502(f) of title 32, United States Code, shall be considered under chapter 43 of title 38, United States Code, as in effect on the day before such date of enactment. Any service pursuant to orders issued under such section 502(f) served after 60 days after the date of the enactment of this Act, regardless of when begun, shall be considered under the amendments made by this Act.
 
-“(4) A person who initiates reemployment under chapter 43 of title 38, United States Code, during or after the 60-day period beginning on the date of enactment of this Act and whose reemployment is made in connection with a period of service in the uniformed services that was initiated before the end of such period shall be deemed to have satisfied the notification requirement of section 4312(a)(1) of title 38, United States Code, as provided in the amendments made by this Act, if the person complied with any applicable notice requirement under chapter 43, United States Code, as in effect on the day before the date of enactment of this Act \[Oct. 13, 1994\].
+“(4) A person who initiates reemployment under chapter 43 of title 38, United States Code, during or after the 60-day period beginning on the date of enactment of this Act and whose reemployment is made in connection with a period of service in the uniformed services that was initiated before the end of such 60-day period shall be deemed to have satisfied the notification requirement of section 4312(a)(1) of title 38, United States Code, as provided in the amendments made by this Act, if the person complied with any applicable notice requirement under chapter 43, United States Code, as in effect on the day before the date of enactment of this Act \[Oct. 13, 1994\].
 
 “(b)
 
@@ -40,7 +58,7 @@ Discrimination.—The provisions of section 4311 of title 38, United States Code
 
 Insurance.—(1) The provisions of section 4316 of title 38, United States Code, as provided in the amendments made by this Act, concerning insurance coverage (other than health) shall become effective with respect to furloughs or leaves of absence initiated on or after the date of enactment of this Act \[Oct. 13, 1994\].
 
-“(2) With respect to the provisions of section 4317 of title 38, United States Code, as provided in the amendments made by this Act, a person on active duty on the date of enactment of this Act, or a family member or personal representative of such person, may, after the date of enactment of this Act, elect to reinstate or continue a health plan as provided in such section 4317. If such an election is made, the health plan shall remainin effect for the remaining portion of the 18-month period that began on the date of such person's separation from civilian employment or the period of the person's service in the uniformed service, whichever is the period of lesser duration.
+“(2) With respect to the provisions of section 4317 of title 38, United States Code, as provided in the amendments made by this Act, a person serving a period of service in the uniformed services on the date of enactment of this Act, or a family member or personal representative of such person, may, after the date of enactment of this Act, elect to reinstate or continue a health plan as provided in such section 4317. If such an election is made, the health plan shall remain in effect for the remaining portion of the 18-month period that began on the date of such person's separation from civilian employment or the period of the person's service in the uniformed service, whichever is the period of lesser duration.
 
 “(d)
 
@@ -50,7 +68,7 @@ Disability.—(1) Section 4313(a)(3) of chapter 43 of title 38, United States Co
 
 “(e)
 
-Investigations and Subpoenas.—The provisions of section 4326 of title 38, United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act \[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under section 4305 of title 38, United States Code \[set out in a note preceding this subchapter\], as of that date.
+Investigations and Subpoenas.—The provisions of section 4326 of title 38, United States Code, as provided in the amendments made by this Act, shall become effective on the date of the enactment of this Act\[Oct. 13, 1994\] and apply to any matter pending with the Secretary of Labor under section 4305 of title 38, United States Code \[set out in a note preceding this subchapter\], as of that date.
 
 “(f)
 
@@ -69,8 +87,4 @@ Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to 
 “(i)
 
 Definition.—For the purposes of this section, the term ‘service in the uniformed services’ shall have the meaning given such term in section 4303(13) of title 38, United States Code, as provided in the amendments made by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 706.
 

@@ -12,11 +12,9 @@
 
 &emsp;&emsp;&emsp;(ii) his pro rata share (determined under section 955(a)(3) as in effect before the enactment of the Tax Reduction Act of 1975) of the corporation's previously excluded subpart F income withdrawn from investment in less developed countries for such year, and
 
-&emsp;&emsp;&emsp;(iii) his pro rata share (determined under section 955(a)(3)) of the corporation's previously excluded subpart F income withdrawn from foreign base company shipping operations for such year;
+&emsp;&emsp;&emsp;(iii) his pro rata share (determined under section 955(a)(3)) of the corporation's previously excluded subpart F income withdrawn from foreign base company shipping operations for such year; and
 
-&emsp;&emsp;(B) the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and
-
-&emsp;&emsp;(C) the amount determined under section 956A with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(3)).
+&emsp;&emsp;(B) the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2)).
 
 #### (2) Pro rata share of subpart F income
 
@@ -60,7 +58,7 @@ If, but for this subsection, an amount would be included in the gross income of 
 
 If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI, §602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2), Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI,§602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2), Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502; Pub. L. 104–188, title I, §1501(a)(1), Aug. 20, 1996, 110 Stat. 1825.)
 
 #### References in Text
 
@@ -68,11 +66,13 @@ The Tax Reduction Act of 1975, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 
 
 #### Amendments
 
+1996—Subsec. (a)(1)(A) to (C). Pub. L. 104–188 inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the amount determined under section 956A with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(3)).”
+
 1993—Subsec. (a)(1)(B). Pub. L. 103–66, §13232(c)(1), substituted “the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and” for “his pro rata share (determined under section 956(a)(2)) of the corporation's increase in earnings invested in United States property for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and”.
 
 Subsec. (a)(1)(C). Pub. L. 103–66, §13231(a), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: “For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during whichthe corporation is a controlled foreign corporation bears to the entire year.”
+Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: “For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year.”
 
 1988—Subsec. (b). Pub. L. 100–647 substituted “section 957(c)” for “section 957(d)”.
 
@@ -93,6 +93,10 @@ Subsec. (a)(1)(A)(ii). Pub. L. 94–12, §602(c)(3), substituted “(determined 
 Subsec. (a)(1)(A)(iii). Pub. L. 94–12, §602(d)(2)(A), added cl. (iii).
 
 Subsec. (a)(3). Pub. L. 94–12, §602(c)(4), (d)(2)(B), substituted “paragraph (i)(A)(iii)” for “paragraph (1)(A)(ii)” and “foreign base company shipping operations” for “less developed countries”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -130,5 +134,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 168, 679, 851, 864, 865, 898, 904, 952, 953, 955, 956, 956A, 958, 959, 960, 961, 962, 970, 989, 993, 999, 1246, 1248, 1293, 1294, 1296, 1297, 6654, 6655 of this title.
+This section is referred to in sections 168, 512, 851, 864, 865, 877, 898, 904, 952, 953, 955, 956, 958, 959, 960, 961, 962, 970, 989, 993, 999, 1246, 1248, 1293, 1294, 1296, 1297, 6654, 6655 of this title.
 

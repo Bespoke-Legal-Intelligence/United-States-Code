@@ -9,10 +9,9 @@
 | [1584\.](%C2%A7%2001584%20-%20Employment%20of%20non-citizens.md) | Employment of non-citizens. |
 | [1585\.](%C2%A7%2001585%20-%20Carrying%20of%20firearms.md) | Carrying of firearms. |
 | [1586\.](%C2%A7%2001586%20-%20Rotation%20of%20career-conditional%20and%20career%20employees%20assigned%20to%20duty%20outside%20the%20United%20States.md) | Rotation of career-conditional and career employees assigned to duty outside the United States. |
-| [1587\.](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities.md) | Employees of nonappropriated fund instrumentalities. |
+| [1587\.](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20reprisals.md) | Employees of nonappropriated fund instrumentalities: reprisals. |
 | [1588\.](%C2%A7%2001588%20-%20Authority%20to%20accept%20certain%20voluntary%20services.md) | Authority to accept certain voluntary services. |
-| [1589\.](%C2%A7%2001589%20-%20Prohibition%20on%20payment%20of%20lodging%20expenses%20when%20adequate%20Government%20quarters%20are%20available.md) | Prohibition on payment of lodging expenses when adequate Government quarters are available. |
-| [1590\.](%C2%A7%2001590%20-%20Management%20of%20civilian%20intelligence%20personnel%20of%20the%20military%20departments.md) | Management of civilian intelligence personnel of the military departments. |
+| \[1589, 1590. Repealed.\] |  |
 | [1591\.](%C2%A7%2001591%20-%20Reimbursement%20for%20travel%20and%20transportation%20expenses%20when%20accompanying%20Members%20of%20Congress.md) | Reimbursement for travel and transportation expenses when accompanying Members of Congress. |
 | [1592\.](%C2%A7%2001592%20-%20Prohibition%20on%20payment%20of%20severance%20pay%20to%20foreign%20nationals%20in%20the%20event%20of%20certain%20overseas%20base%20closures.md) | Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures. |
 | [1593\.](%C2%A7%2001593%20-%20Uniform%20allowance%20civilian%20employees.md) | Uniform allowance: civilian employees. |
@@ -21,14 +20,20 @@
 | [1596\.](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay.md) | Foreign language proficiency: special pay. |
 | [1597\.](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md) | Civilian positions: guidelines for reductions. |
 | [1598\.](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides. |
-| [1599\.](%C2%A7%2001599%20-%20Postemployment%20assistance%20certain%20terminated%20intelligence%20employees.md) | Postemployment assistance: certain terminated intelligence employees. |
+| \[1599. | Renumbered.\] |
 | [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
+| [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
+| [1599c.](%C2%A7%2001599c%20-%20Veterans%E2%80%99%20preference%20requirements%20Department%20of%20Defense%20failure%20to%20comply%20treated%20as%20a%20prohibited%20personnel%20practice.md) | Veterans’ preference requirements: Department of Defense failure to comply treated as a prohibited personnel practice. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1996—Pub. L. 104–93, title V, §505(b), Jan. 6, 1996, 109 Stat. 974, added item 1599a.
+1996—Pub. L. 104–201, div. A, title X, §1074(a)(7), title XVI, §§1604(b), 1614(b)(2), 1615(a)(2), 1633(c)(2), Sept. 23, 1996, 110 Stat. 2659, 2736, 2739, 2741, 2751, struck out items 1589 “Prohibition on payment of lodging expenses when adequate Government quarters are available”, 1590 “Management of civilian intelligence personnel of the military departments”, and 1599 “Postemployment assistance: certain terminated intelligence employees”, struck out “Sec.” at beginning of item 1599a, and added items 1599b and 1599c.
+
+Pub. L. 104–106, div. A, title X, §1040(d)(2), Feb. 10, 1996, 110 Stat. 433, inserted “: reprisals” after “instrumentalities” in item 1587.
+
+Pub. L. 104–93, title V, §505(b), Jan. 6, 1996, 109 Stat. 974, added item 1599a.
 
 1994—Pub. L. 103–359, title VIII, §806(a)(2), Oct. 14, 1994, 108 Stat. 3442, added item 1599.
 
@@ -76,10 +81,9 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 - [&sect; 01584 - Employment of non-citizens](%C2%A7%2001584%20-%20Employment%20of%20non-citizens.md)
 - [&sect; 01585 - Carrying of firearms](%C2%A7%2001585%20-%20Carrying%20of%20firearms.md)
 - [&sect; 01586 - Rotation of career-conditional and career employees assigned to duty outside the United States](%C2%A7%2001586%20-%20Rotation%20of%20career-conditional%20and%20career%20employees%20assigned%20to%20duty%20outside%20the%20United%20States.md)
-- [&sect; 01587 - Employees of nonappropriated fund instrumentalities](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities.md)
+- [&sect; 01587 - Employees of nonappropriated fund instrumentalities reprisals](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20reprisals.md)
 - [&sect; 01588 - Authority to accept certain voluntary services](%C2%A7%2001588%20-%20Authority%20to%20accept%20certain%20voluntary%20services.md)
-- [&sect; 01589 - Prohibition on payment of lodging expenses when adequate Government quarters are available](%C2%A7%2001589%20-%20Prohibition%20on%20payment%20of%20lodging%20expenses%20when%20adequate%20Government%20quarters%20are%20available.md)
-- [&sect; 01590 - Management of civilian intelligence personnel of the military departments](%C2%A7%2001590%20-%20Management%20of%20civilian%20intelligence%20personnel%20of%20the%20military%20departments.md)
+- [&sect; 01589, 1590 - Repealed. Pub. L. 104&#8211;201, div. A, title XVI, &sect;&sect;1614(b)(1), 1633(a), Sept. 23, 1996, 110 Stat. 2739, 2751](%C2%A7%2001589%2C%201590%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A7%C2%A71614%28b%29%281%29%2C%201633%28a%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202739%2C%202751.md)
 - [&sect; 01591 - Reimbursement for travel and transportation expenses when accompanying Members of Congress](%C2%A7%2001591%20-%20Reimbursement%20for%20travel%20and%20transportation%20expenses%20when%20accompanying%20Members%20of%20Congress.md)
 - [&sect; 01592 - Prohibition on payment of severance pay to foreign nationals in the event of certain overseas base closures](%C2%A7%2001592%20-%20Prohibition%20on%20payment%20of%20severance%20pay%20to%20foreign%20nationals%20in%20the%20event%20of%20certain%20overseas%20base%20closures.md)
 - [&sect; 01593 - Uniform allowance civilian employees](%C2%A7%2001593%20-%20Uniform%20allowance%20civilian%20employees.md)
@@ -88,5 +92,7 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 - [&sect; 01596 - Foreign language proficiency special pay](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay.md)
 - [&sect; 01597 - Civilian positions guidelines for reductions](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md)
 - [&sect; 01598 - Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers&#8217; aides](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md)
-- [&sect; 01599 - Postemployment assistance certain terminated intelligence employees](%C2%A7%2001599%20-%20Postemployment%20assistance%20certain%20terminated%20intelligence%20employees.md)
+- [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)
 - [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)
+- [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
+- [&sect; 01599c - Veterans&#8217; preference requirements Department of Defense failure to comply treated as a prohibited personnel practice](%C2%A7%2001599c%20-%20Veterans%E2%80%99%20preference%20requirements%20Department%20of%20Defense%20failure%20to%20comply%20treated%20as%20a%20prohibited%20personnel%20practice.md)

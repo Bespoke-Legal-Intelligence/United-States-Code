@@ -36,7 +36,7 @@ Amendment by section 4211(h)(8) of Pub. L. 100–203 applicable to nursing facil
 
 #### Agreements To Reimburse State Agency for Health Care and Services Provided by Agency to Indians
 
-Pub. L. 94–437, title IV, §402(b), Sept. 30, 1976, 90 Stat. 1409, which authorized Secretary to enter into agreements to reimburse State agencies for health care and services provided in Service facilities to Indians eligible for medical assistance under this subchapter, was repealed by Pub. L. 100–713, title IV, §401(b), Nov. 23,1988, 102 Stat. 4818, applicable to services performed on or after the Nov. 23, 1988.
+Pub. L. 94–437, title IV, §402(b), Sept. 30, 1976, 90 Stat. 1409, which authorized Secretary to enter into agreements to reimburse State agencies for health care and services provided in Service facilities to Indians eligible for medical assistance under this subchapter, was repealed by Pub. L. 100–713, title IV, §401(b), Nov. 23, 1988, 102 Stat. 4818, applicable to services performed on or after the Nov. 23, 1988.
 
 #### Payments Into Special Fund To Improve Indian Health Service Facilities To Achieve Compliance With Conditions and Requirements; Certification of Compliance by Secretary
 

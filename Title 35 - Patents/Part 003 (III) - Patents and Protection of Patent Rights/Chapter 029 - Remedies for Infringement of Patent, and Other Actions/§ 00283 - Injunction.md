@@ -20,5 +20,5 @@ District courts of the United States as having original and exclusive jurisdicti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 154, 157 of this title.
+This section is referred to in sections 154, 157, 287 of this title.
 

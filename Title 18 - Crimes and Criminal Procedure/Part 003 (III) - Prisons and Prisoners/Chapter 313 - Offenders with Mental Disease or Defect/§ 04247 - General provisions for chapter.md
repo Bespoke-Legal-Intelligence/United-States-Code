@@ -18,11 +18,11 @@ Definitions.—As used in this chapter—
 
 (b)
 
-Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered undersection 4245 or 4246, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, or 4246, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, or 4246, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
+Psychiatric or Psychological Examination.—A psychiatric or psychological examination ordered pursuant to this chapter shall be conducted by a licensed or certified psychiatrist or psychologist, or, if the court finds it appropriate, by more than one such examiner. Each examiner shall be designated by the court, except that if the examination is ordered under section 4245 or 4246, upon the request of the defendant an additional examiner may be selected by the defendant. For the purposes of an examination pursuant to an order under section 4241, 4244, or 4245, the court may commit the person to be examined for a reasonable period, but not to exceed thirty days, and under section 4242, 4243, or 4246, for a reasonable period, but not to exceed forty-five days, to the custody of the Attorney General for placement in a suitable facility. Unless impracticable, the psychiatric or psychological examination shall be conducted in the suitable facility closest to the court. The director of the facility may apply for a reasonable extension, but not to exceed fifteen days under section 4241, 4244, or 4245, and not to exceed thirty days under section 4242, 4243, or 4246, upon a showing of good cause that the additional time is necessary to observe and evaluate the defendant.
 
 (c)
 
-Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
+Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to thecounsel for the person examined and to the attorney for the Government, and shall include—
 
 &emsp;(1) the person's history and present symptoms;
 
@@ -100,7 +100,11 @@ Subsec. (e)(1)(B). Pub. L. 100–690, §7044, inserted at end “A copy of each 
 
 1984—Pub. L. 98–473 amended section generally, substituting “General provisions for chapter” for “Alternate procedure of expiration of sentence” in section catchline, and substituting provisions relating to definitions, examinations, reports, etc., as applicable to chapter, for provisions relating to powers and duties regarding alternate procedure on expiration of sentence of prisoner.
 
+#### Cross References
+
+For application of this chapter to persons subject to chapter 47 of Title 10, Armed Forces, see section 876b of Title 10.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4241, 4242, 4243, 4244, 4245, 4246 of this title.
+This section is referred to in sections 4241, 4242, 4243, 4244, 4245, 4246 of this title; title 10 section 876b.
 

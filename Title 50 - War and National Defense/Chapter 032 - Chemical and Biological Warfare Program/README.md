@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1511\.](%C2%A7%2001511%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+| [1511\.](%C2%A7%2001511%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28k%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md) | Repealed. |
 | [1512\.](%C2%A7%2001512%20-%20Transportation%2C%20open%20air%20testing%2C%20and%20disposal%3B%20Presidential%20determination%3B%20report%20to%20Congress%3B%20notice%20to%20Congress%20and%20State%20Governors.md) | Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors. |
 | [1512a.](%C2%A7%2001512a%20-%20Transportation%20of%20chemical%20munitions.md) | Transportation of chemical munitions. |
 | (a) | Prohibition of transportation across State lines. |
@@ -23,7 +23,7 @@
 | (d) | Plan. |
 | (e) | Management organization. |
 | (f) | Identification of funds. |
-| (g) | Annual report. |
+| (g) | Periodic reports. |
 | (h) | Prohibition on acquiring certain lethal chemical agents and munitions. |
 | (i) | Reaffirmation of United States position on first use of chemical agents and munitions. |
 | (j) | Definitions. |
@@ -48,7 +48,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01511 - Reports to Congress](%C2%A7%2001511%20-%20Reports%20to%20Congress.md)
+- [&sect; 01511 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(k), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2001511%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28k%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
 - [&sect; 01512 - Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors](%C2%A7%2001512%20-%20Transportation%2C%20open%20air%20testing%2C%20and%20disposal%3B%20Presidential%20determination%3B%20report%20to%20Congress%3B%20notice%20to%20Congress%20and%20State%20Governors.md)
 - [&sect; 01512a - Transportation of chemical munitions](%C2%A7%2001512a%20-%20Transportation%20of%20chemical%20munitions.md)
 - [&sect; 01513 - Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and&#8230;](%C2%A7%2001513%20-%20Deployment%2C%20storage%2C%20and%20disposal%3B%20notification%20to%20host%20country%20and%20Congress%3B%20international%20law%20violations%3B%20reports%20to%20Congress%20and%E2%80%A6.md)

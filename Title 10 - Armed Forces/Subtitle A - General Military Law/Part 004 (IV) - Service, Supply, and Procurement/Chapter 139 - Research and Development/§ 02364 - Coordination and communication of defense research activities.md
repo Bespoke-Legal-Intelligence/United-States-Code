@@ -2,7 +2,7 @@
 
 (a)
 
-Coordination of Department of Defense Technological Data.—The Secretary of Defense shall promote, monitor, and evaluate programsfor the communication and exchange of technological data—
+Coordination of Department of Defense Technological Data.—The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
 
 &emsp;(1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
 
@@ -20,7 +20,7 @@ Functions of Defense Research Facilities.—The Secretary of Defense shall ensur
 
 &emsp;(4) that technology position papers prepared by Defense research facilities are readily available to all combatant commands and to contractors who submit bids or proposals for Department of Defense contracts; and
 
-&emsp;(5) that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making milestone O, milestone I, and milestone II decisions.
+&emsp;(5) that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
 
 (c)
 
@@ -32,15 +32,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) applied research known as exploratory development.
 
-&emsp;(2) The term “milestone O decision” means the decision made within the Department of Defense that there is a mission need for a new major weapon system and that research and development is to begin to meet such need.
+&emsp;(2) The term “acquisition program decision” has the meaning prescribed by the Secretary of Defense in regulations.”
 
-&emsp;(3) The term “milestone I decision” means the decision by an appropriate official of the Department of Defense selecting a new major weapon system concept and a program for demonstration and validation of such concept.
-
-&emsp;(4) The term “milestone II decision” means the decision by an appropriate official of the Department of Defense approving the full-scale development of a new major weapon system.
-
-(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160.)
+(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390.)
 
 #### Amendments
+
+1996—Subsec. (b)(5). Pub. L. 104–106, §805(1), substituted “acquisition program” for “milestone O, milestone I, and milestone II”.
+
+Subsec. (c)(2) to (4). Pub. L. 104–106, §805(2), added par. (2) and struck out former pars. (2) to (4) which read as follows:
+
+“(2) The term ‘milestone O decision’ means the decision made within the Department of Defense that there is a mission need for a new major weapon system and that research and development is to begin to meet such need.
+
+“(3) The term ‘milestone I decision’ means the decision by an appropriate official of the Department of Defense selecting a new major weapon system concept and a program for demonstration and validation of such concept.
+
+“(4) The term ‘milestone II decision’ means the decision by an appropriate official of the Department of Defense approving the full-scale development of a new major weapon system.”
 
 1987—Pub. L. 100–26, §3(1)(A), made technical amendment to directory language of section 234(c)(1) of Pub. L. 99–661, which enacted this section.
 

@@ -10,7 +10,7 @@ For the purpose of this title, “Congressional employee” means—
 
 &emsp;(4) a member of the Capitol Police;
 
-&emsp;(5) an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Clerk of the House of Representatives;
+&emsp;(5) an employee of a Member of Congress if the pay of the employee is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
 
 &emsp;\[(6) Repealed. Pub. L. 90–83, §1(5)(A), Sept. 11, 1967, 81 Stat. 196.\]
 
@@ -20,7 +20,7 @@ For the purpose of this title, “Congressional employee” means—
 
 &emsp;(9) an employee of the Capitol Guide Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 409; Pub. L. 90–83, §1(5), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–510, title IV, §442(a), Oct. 26, 1970, 84 Stat. 1191; Pub. L. 104–186, title II, §215(1), Aug. 20, 1996, 110 Stat. 1745.)
 
 #### Historical and Revision Notes
 
@@ -56,15 +56,13 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 
 #### Amendments
 
-<b>1970</b>—Par. (9). Pub. L. 91—510 added par. (9).
+1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+
+1970—Par. (9). Pub. L. 91—510 added par. (9).
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of Title 2, The Congress.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Section Referred to in Other Sections
 

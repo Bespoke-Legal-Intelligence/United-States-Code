@@ -40,7 +40,7 @@ Not later than 18 months after the enactment of the Superfund Amendments and Rea
 
 #### (2) Health assessment of water contamination risks
 
-&emsp;In carrying out this subsection, the President shall ensure that the human health risksassociated with the contamination or potential contamination (either directly or as a result of the runoff of any hazardous substance or pollutant or contaminant from sites or facilities) of surface water are appropriately assessed where such surface water is, or can be, used for recreation or potable water consumption. In making the assessment required pursuant to the preceding sentence, the President shall take into account the potential migration of any hazardous substance or pollutant or contaminant through such surface water to downstream sources of drinking water.
+&emsp;In carrying out this subsection, the President shall ensure that the human health risks associated with the contamination or potential contamination (either directly or as a result of the runoff of any hazardous substance or pollutant or contaminant from sites or facilities) of surface water are appropriately assessed where such surface water is, or can be, used for recreation or potable water consumption. In making the assessment required pursuant to the preceding sentence, the President shall take into account the potential migration of any hazardous substance or pollutant or contaminant through such surface water to downstream sources of drinking water.
 
 #### (3) Reevaluation not required
 
@@ -60,7 +60,7 @@ Whenever there has been, after January 1, 1985, a significant release of hazardo
 
 #### (f) Minority contractors
 
-In awarding contracts under this chapter, the President shall consider the availability of qualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
+In awarding contracts under this chapter, the President shall consider the availability of qualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain abrief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
 
 #### (g) Special study wastes
 

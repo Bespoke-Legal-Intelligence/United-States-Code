@@ -22,11 +22,11 @@ Historical and Revision Notes
 
 10:947a (last 11 words).
 
+10:1025.
+
 Aug. 7, 1947, ch. 512, §§514(a)(3) (31st through 42d words; and proviso, as applicable to retired grade), 514(e) (17th through 25th words of clause (1); and 1st proviso of clause (1), as applicable to retired grade), 61 Stat. 893, 902.
 
 &nbsp;
-
-10:1025.
 
 10:1026 (proviso).
 

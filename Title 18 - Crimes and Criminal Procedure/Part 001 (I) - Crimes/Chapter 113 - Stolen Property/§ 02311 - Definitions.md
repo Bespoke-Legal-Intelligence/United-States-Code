@@ -6,7 +6,7 @@ As used in this chapter:
 
 “Cattle” means one or more bulls, steers, oxen, cows, heifers, or calves, or the carcass or carcasses thereof;
 
-“livestock” <sup>1</sup> means any domestic animals raised for home use, consumption, or profit,such as horses, pigs, llamas, goats, fowl, sheep, buffalo, and cattle, or the carcasses thereof.<sup>2</sup>
+“Livestock” means any domestic animals raised for home use, consumption, or profit, such as horses, pigs, llamas, goats, fowl, sheep, buffalo, and cattle, or the carcasses thereof.<sup>1</sup>
 
 “Money” means the legal tender of the United States or of any foreign country, or any counterfeit thereof;
 
@@ -18,7 +18,7 @@ As used in this chapter:
 
 “Value” means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Oct. 4, 1961, Pub. L. 87–371, §1, 75 Stat. 802; Oct. 25, 1984, Pub. L. 98–547, title II, §202, 98 Stat. 2770; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320912, 108 Stat. 2128.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Oct. 4, 1961, Pub. L. 87–371, §1, 75 Stat. 802; Oct. 25, 1984, Pub. L. 98–547, title II, §202, 98 Stat. 2770; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320912, 108 Stat. 2128; Oct. 11, 1996, Pub. L. 104–294, title VI, §604(b)(20), 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -38,11 +38,21 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+1996—Pub. L. 104–294 substituted “Livestock” for “livestock” in third par.
+
 1994—Pub. L. 103–322 inserted definition of “livestock”.
 
 1984—Pub. L. 98–547 inserted “valid or blank motor vehicle title;” in definition of “Securities”.
 
 1961—Pub. L. 87–371 inserted definition of “Tax stamp”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
+
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: “This Act \[amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”
 
 #### Short Title of 1992 Amendment
 
@@ -57,6 +67,20 @@ Section 1501 of chapter XV (§§1501–1503) of title II of Pub. L. 98–473 pro
 #### Short Title of 1982 Amendment
 
 Pub. L. 97–180, §1, May 24, 1982, 96 Stat. 91, provided: “That this Act \[enacting section 2319 of this title and amending section 2318 of this title and section 506 of Title 17, Copyrights\] may be cited as the ‘Piracy and Counterfeiting Amendments Act of 1982’.”
+
+#### Counterfeiting of Trademarked and Copyrighted Merchandise; Congressional Statement of Findings
+
+Pub. L. 104–153, §2, July 2, 1996, 110 Stat. 1386, provided that: “The counterfeiting of trademarked and copyrighted merchandise—
+
+&emsp;“(1) has been connected with organized crime;
+
+&emsp;“(2) deprives legitimate trademark and copyright owners of substantial revenues and consumer goodwill;
+
+&emsp;“(3) poses health and safety threats to United States consumers;
+
+&emsp;“(4) eliminates United States jobs; and
+
+&emsp;“(5) is a multibillion-dollar drain on the United States economy.”
 
 #### Congressional Declaration of Purpose of 1984 Amendment
 
@@ -74,7 +98,5 @@ Section 2 of Pub. L. 98–547 provided that: “It is the purpose of this Act \[
 
 This section is referred to in section 667 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

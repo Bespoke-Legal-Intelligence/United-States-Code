@@ -56,10 +56,10 @@
 | (i) | Packaging materials and containers for retail sale. |
 | (j) | Packing materials and containers for shipment. |
 | (k) | Transshipment. |
-| (<i>l)</i> | Nonqualifying operations. |
+| (<i>l</i>) | Nonqualifying operations. |
 | (m) | Interpretation and application. |
 | (n) | Origin of automatic data processing goods. |
-| (<i>o)</i> | Special rule for certain agricultural products. |
+| (<i>o</i>) | Special rule for certain agricultural products. |
 | (p) | Definitions. |
 | (q) | Presidential proclamation authority. |
 | [3333\.](Subchapter%20002%20%28II%29%20-%20Customs%20Provisions/%C2%A7%2003333%20-%20Drawback.md) | Drawback. |

@@ -64,6 +64,8 @@
 | [415\.](%C2%A7%2000415%20-%20Leases%20of%20restricted%20lands.md) | Leases of restricted lands. |
 | (a) | Authorized purposes; term; approval by Secretary. |
 | (b) | Leases involving Tulalip Tribes. |
+| (c) | Leases involving Hopi Tribe and Hopi Partitioned Lands Accommodation Agreement. |
+| (d) | Definitions. |
 | [415a.](%C2%A7%2000415a%20-%20Lease%20of%20lands%20of%20deceased%20Indians%20for%20benefit%20of%20heirs%20or%20devisees.md) | Lease of lands of deceased Indians for benefit of heirs or devisees. |
 | [415b.](%C2%A7%2000415b%20-%20Advance%20payment%20of%20rent%20or%20other%20consideration.md) | Advance payment of rent or other consideration. |
 | [415c.](%C2%A7%2000415c%20-%20Approval%20of%20leases.md) | Approval of leases. |

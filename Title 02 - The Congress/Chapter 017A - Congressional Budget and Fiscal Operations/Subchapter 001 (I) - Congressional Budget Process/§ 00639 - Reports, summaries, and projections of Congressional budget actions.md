@@ -20,7 +20,7 @@
 
 (2) The Committee on the Budget of each House shall make available to Members of its House summary budget scorekeeping reports. Such reports—
 
-&emsp;(A) shall be made available on at least a monthly basis, but in any case frequentlyenough to provide Members of each House an accurate representation of the current status of congressional consideration of the budget;
+&emsp;(A) shall be made available on at least a monthly basis, but in any case frequently enough to provide Members of each House an accurate representation of the current status of congressional consideration of the budget;
 
 &emsp;(B) shall include, but are not limited to, summaries of tabulations provided under subsection (b)(1) of this section; and
 

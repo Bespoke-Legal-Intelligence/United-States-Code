@@ -64,6 +64,12 @@
 | (c) | Limits on membership. |
 | (d) | Staffing and assistance. |
 | (e) | Public participation and procedural matters. |
+| [1445b.](%C2%A7%2001445b%20-%20Enhancing%20support%20for%20national%20marine%20sanctuaries.md) | Enhancing support for national marine sanctuaries. |
+| (a) | Authority. |
+| (b) | Contract authority. |
+| (c) | Restrictions. |
+| (d) | Property of United States. |
+| (e) | Prohibited activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -88,3 +94,4 @@
 - [&sect; 01444 - Authorization of appropriations](%C2%A7%2001444%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01445 - U.S.S. Monitor artifacts and materials](%C2%A7%2001445%20-%20U.S.S.%20Monitor%20artifacts%20and%20materials.md)
 - [&sect; 01445a - Advisory Councils](%C2%A7%2001445a%20-%20Advisory%20Councils.md)
+- [&sect; 01445b - Enhancing support for national marine sanctuaries](%C2%A7%2001445b%20-%20Enhancing%20support%20for%20national%20marine%20sanctuaries.md)

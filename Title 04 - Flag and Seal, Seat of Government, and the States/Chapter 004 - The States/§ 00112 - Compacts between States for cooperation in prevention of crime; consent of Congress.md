@@ -4,7 +4,7 @@
 
 (b) For the purpose of this section, the term “States” means the several States and Alaska, Hawaii, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and the District of Columbia.
 
-(Added May 24, 1949, ch. 139, §129(b), 63 Stat. 107, §112, formerly §111; amended Aug. 3, 1956, ch. 941, 70 Stat. 1020; Feb. 16, 1962, Pub. L. 87–406, 76 Stat. 9; renumbered §112, Sept. 6, 1966, Pub. L. 89–554, §2(c), 80 Stat. 608.)
+(Added May 24, 1949, ch. 139, §129(b), 63 Stat. 107, §112, formerly §111; amended Aug. 3, 1956, ch. 941, 70 Stat. 1020; Feb. 16, 1962, Pub. L. 87–406, 76 Stat.9; renumbered §112, Sept. 6, 1966, Pub. L. 89–554, §2(c), 80 Stat. 608.)
 
 #### Historical and Revision Note
 

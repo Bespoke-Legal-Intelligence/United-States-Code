@@ -16,7 +16,9 @@ Entry and Inspection.—In carrying out this part, an officer, employee, or agen
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting “2 years of service” for “1 year of service”.
 
-&emsp;&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
+&emsp;&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph\(A) shall be applied by substituting “26” for “21”. This clause shall not apply to any plan to which clause (i) applies.
 
 #### (2) Maximum age conditions
 
@@ -30,7 +30,7 @@
 
 #### (B) Seasonal industries
 
-&emsp;&emsp;In the case of any seasonal industry where the customary period of employment is lessthan 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary of Labor.
+&emsp;&emsp;In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term “year of service” shall be such period as may be determined under regulations prescribed by the Secretary of Labor.
 
 #### (C) Hours of service
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;The hours described in clause (ii) shall be treated as hours of service as provided in this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the period of absence is treatedas hours of service as provided in clause (i); or
+&emsp;&emsp;&emsp;&emsp;(I) only in the year in which the absence from work begins, if a participant would be prevented from incurring a 1-year break in service in such year solely because the period of absence is treated as hours of service as provided in clause (i); or
 
 &emsp;&emsp;&emsp;&emsp;(II) in any other case, in the immediately following year.
 
@@ -192,7 +192,7 @@
 
 &emsp;For purposes of this subsection, there shall be excluded from consideration—
 
-&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
+&emsp;&emsp;(A) employees who are included in a unit of employees covered by an agreement whichthe Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers,
 
 &emsp;&emsp;(B) in the case of a trust established or maintained pursuant to an agreement which the Secretary of Labor finds to be a collective bargaining agreement between air pilots represented in accordance with title II of the Railway Labor Act and one or more employers, all employees not covered by such agreement, and
 
@@ -378,7 +378,7 @@ Amendment by section 3021(a)(13)(B) of Pub. L. 100–647 effective as if include
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, withspecial rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1113(c), (d)(A) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of this title.
 
@@ -530,7 +530,7 @@ Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity 
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-For provisions directing that if any amendments made by section 9203(a)(2) of Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
+For provisions directing that if any amendments made by section 9203(a)(2) of Pub. L. 99–509 require anamendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as a note under section 623 of Title 29, Labor.
 
 #### Section Referred to in Other Sections
 

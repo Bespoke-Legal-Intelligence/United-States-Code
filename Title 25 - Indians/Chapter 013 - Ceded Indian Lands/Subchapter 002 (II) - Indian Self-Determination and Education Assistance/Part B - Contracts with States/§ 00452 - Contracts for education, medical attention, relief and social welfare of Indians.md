@@ -22,7 +22,7 @@ Pub. L. 100–202, §101(g) \[title I\], Dec. 22, 1987, 101 Stat. 1329–213, 13
 
 #### Limitation on Contract Authority
 
-Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 Stat. 1224, 1235, provided that: “notwithstanding any law or regulation, in allocating funds for aid to public schools under the Act of April 16, 1934, as amended \[sections 452 to 457 of this title\], the Secretary shall enter into contracts only for the provision of supplementary educational services for Indian children”.
+Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 Stat. 1224, 1235, provided that: “notwithstanding any law orregulation, in allocating funds for aid to public schools under the Act of April 16, 1934, as amended \[sections 452 to 457 of this title\], the Secretary shall enter into contracts only for the provision of supplementary educational services for Indian children”.
 
 #### Act Referred to in Other Sections
 

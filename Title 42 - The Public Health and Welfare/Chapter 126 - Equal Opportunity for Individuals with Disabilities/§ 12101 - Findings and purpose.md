@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) discrimination against individuals with disabilities persists in such critical areas as employment, housing, public accommodations, education, transportation, communication, recreation, institutionalization, health services, voting, and access to public services;
 
-&emsp;(4) unlike individuals who have experienced discrimination on the basis of race, color, sex, national origin, religion, or age, individuals who have experienced discrimination on thebasis of disability have often had no legal recourse to redress such discrimination;
+&emsp;(4) unlike individuals who have experienced discrimination on the basis of race, color, sex, national origin, religion, or age, individuals who have experienced discrimination on the basis of disability have often had no legal recourse to redress such discrimination;
 
 &emsp;(5) individuals with disabilities continually encounter various forms of discrimination, including outright intentional exclusion, the discriminatory effects of architectural, transportation, and communication barriers, overprotective rules and policies, failure to make modifications to existing facilities and practices, exclusionary qualification standards and criteria, segregation, and relegation to lesser services, programs, activities, benefits, jobs, or other opportunities;
 

@@ -40,7 +40,7 @@ For purposes of this part:
 
 > &emsp;For purposes of this paragraph, the term “manufactured” does not include packaging.
 
-&emsp;(6) The term “process for the review of human drug applications” means the followingactivities of the Secretary with respect to the review of human drug applications and supplements:
+&emsp;(6) The term “process for the review of human drug applications” means the following activities of the Secretary with respect to the review of human drug applications and supplements:
 
 &emsp;&emsp;(A) The activities necessary for the review of human drug applications and supplements.
 
@@ -104,7 +104,7 @@ First Report.—Within 60 days after the end of each fiscal year during which fe
 
 “(b)
 
-Second Report.—Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authorityfor such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year for which the report is made.
+Second Report.—Within 120 days after the end of each fiscal year during which such fees are collected, the Secretary of Health and Human Services shall submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Food and Drug Administration made of the fees collected during such fiscal year for which the report is made.
 
 “(c)
 

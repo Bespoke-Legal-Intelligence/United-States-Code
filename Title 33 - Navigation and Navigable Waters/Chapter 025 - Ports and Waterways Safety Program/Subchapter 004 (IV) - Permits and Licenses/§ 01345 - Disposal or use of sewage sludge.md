@@ -16,7 +16,7 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (1) Regulations
 
-&emsp;The Administrator, after consultation with appropriate Federal and State agencies and other interested persons, shall develop and publish, within one year after December 27, 1977, and from time to time thereafter, regulations providing guidelines for the disposal of sludge and the utilization of sludge for various purposes. Such regulations shall—
+&emsp;The Administrator, after consultation with appropriate Federal and State agencies andother interested persons, shall develop and publish, within one year after December 27, 1977, and from time to time thereafter, regulations providing guidelines for the disposal of sludge and the utilization of sludge for various purposes. Such regulations shall—
 
 &emsp;&emsp;(A) identify uses for sludge, including disposal;
 
@@ -76,7 +76,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 #### (1) Through section 1342 permits
 
-&emsp;Any permit issued under section 1342 of this title to a publicly owned treatment works or any other treatment works treating domestic sewage shall include requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d) of this section, unless such requirements have been included in a permit issued under the appropriate provisions of subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], the Marine Protection, Research, and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Clean Air Act \[42 U.S.C. 7401 et seq.\], or under State permit programs approved by the Administrator, where the Administrator determines that such programs assure compliance with any applicable requirements of this section. Not later than December 15, 1986, the Administrator shall promulgate procedures for approval of State programs pursuant to this paragraph.
+&emsp;Any permit issued under section 1342 of this title to a publicly owned treatment works or any other treatment works treating domestic sewage shall include requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d)of this section, unless such requirements have been included in a permit issued under the appropriate provisions of subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\], part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], the Marine Protection, Research, and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Clean Air Act \[42 U.S.C. 7401 et seq.\], or under State permit programs approved by the Administrator, where the Administrator determines that such programs assure compliance with any applicable requirements of this section. Not later than December 15, 1986, the Administrator shall promulgate procedures for approval of State programs pursuant to this paragraph.
 
 #### (2) Through other permits
 
@@ -98,7 +98,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (f)(1), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended. Part C of the Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
@@ -124,7 +124,7 @@ Subsecs. (d), (e). Pub. L. 95–217, §54(d)(3), added subsecs. (d) and (e).
 
 #### Removal Credits
 
-Section 406(e) of Pub. L. 100–4 provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
+Section 406(e) of Pub. L. 100–4 provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) ofthe Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
 
 &emsp;“(1) those publicly owned treatment works the owner or operator of which received authority to revise pretreatment requirements under section 307(b)(1) of such Act \[33 U.S.C. 1317(b)(1)\] before the date of the enactment of this section \[Feb. 4, 1987\], and
 

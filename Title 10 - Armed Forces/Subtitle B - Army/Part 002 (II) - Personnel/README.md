@@ -10,7 +10,7 @@
 | [<b>331.</b>](Chapter%20331%20-%20Strength/README.md) | <b>Strength</b> | <b>3201</b> |
 | [<b>333.</b>](Chapter%20333%20-%20Enlistments/README.md) | <b>Enlistments</b> | <b>3251</b> |
 | [<b>335.</b>](Chapter%20335%20-%20Appointments%20in%20the%20Regular%20Army/README.md) | <b>Appointments in the Regular Army</b> | <b>3281</b> |
-| [<b>337.</b>](Chapter%20337%20-%20Appointments%20as%20Reserve%20Officers/README.md) | <b>Appointments as Reserve Officers</b> | <b>3351</b> |
+| <b>\[337.</b> | <b>Repealed.\]</b> |  |
 | [<b>339.</b>](Chapter%20339%20-%20Temporary%20Appointments/README.md) | <b>Temporary Appointments</b> | <b>3441</b> |
 | [<b>341.</b>](Chapter%20341%20-%20Active%20Duty/README.md) | <b>Active Duty</b> | <b>3491</b> |
 | [<b>343.</b>](Chapter%20343%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md) | <b>Special Appointments, Assignments, Details, and Duties</b> | <b>3531</b> |
@@ -23,8 +23,8 @@
 | [<b>357.</b>](Chapter%20357%20-%20Decorations%20and%20Awards/README.md) | <b>Decorations and Awards</b> | <b>3741</b> |
 | <b>\[359.</b> | <b>Repealed.\]</b> |  |
 | <b>\[360.</b> | <b>Repealed.\]</b> |  |
-| [<b>361.</b>](Chapter%20361%20-%20Separation%20for%20Various%20Reasons/README.md) | <b>Separation for Various Reasons</b> | <b>3811</b> |
-| [<b>363.</b>](Chapter%20363%20-%20Separation%20or%20Transfer%20to%20Retired%20Reserve/README.md) | <b>Separation or Transfer to Retired Reserve</b> | <b>3841</b> |
+| <b>\[361.</b> | <b>Repealed.\]</b> |  |
+| <b>\[363.</b> | <b>Repealed.\]</b> |  |
 | <b>\[365.</b> | <b>Repealed.\]</b> |  |
 | [<b>367.</b>](Chapter%20367%20-%20Retirement%20for%20Length%20of%20Service/README.md) | <b>Retirement for Length of Service</b> | <b>3911</b> |
 | [<b>369.</b>](Chapter%20369%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>3961</b> |
@@ -35,7 +35,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”. Section 1691(b)(1) of Pub. L. 103–337 provided that the repeal of such chapters is effective Oct. 1, 1996.
+1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
 1980—Pub. L. 96–513, title V, §502(1), Dec. 12, 1980, 94 Stat. 2909, struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
 
@@ -43,7 +43,7 @@
 
 Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 347 “The Uniform”.
 
-1960—Pub. L. 86–616, §§2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
+1960—Pub. L. 86–616, §§2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance ofDuty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
 
 1958—Pub. L. 85–861, §1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “\[No present sections\]” in item for chapter 363.
 
@@ -59,7 +59,7 @@ General military law provisions, see section 501 et seq. of this title.
 - [Chapter 331 - Strength](Chapter%20331%20-%20Strength/README.md)
 - [Chapter 333 - Enlistments](Chapter%20333%20-%20Enlistments/README.md)
 - [Chapter 335 - Appointments in the Regular Army](Chapter%20335%20-%20Appointments%20in%20the%20Regular%20Army/README.md)
-- [Chapter 337 - Appointments as Reserve Officers](Chapter%20337%20-%20Appointments%20as%20Reserve%20Officers/README.md)
+- [Chapter 337 - Repealed](Chapter%20337%20-%20Repealed/README.md)
 - [Chapter 339 - Temporary Appointments](Chapter%20339%20-%20Temporary%20Appointments/README.md)
 - [Chapter 341 - Active Duty](Chapter%20341%20-%20Active%20Duty/README.md)
 - [Chapter 343 - Special Appointments, Assignments, Details, and Duties](Chapter%20343%20-%20Special%20Appointments%2C%20Assignments%2C%20Details%2C%20and%20Duties/README.md)
@@ -72,8 +72,8 @@ General military law provisions, see section 501 et seq. of this title.
 - [Chapter 357 - Decorations and Awards](Chapter%20357%20-%20Decorations%20and%20Awards/README.md)
 - [Chapter 359 - Repealed](Chapter%20359%20-%20Repealed/README.md)
 - [Chapter 360 - Repealed](Chapter%20360%20-%20Repealed/README.md)
-- [Chapter 361 - Separation for Various Reasons](Chapter%20361%20-%20Separation%20for%20Various%20Reasons/README.md)
-- [Chapter 363 - Separation or Transfer to Retired Reserve](Chapter%20363%20-%20Separation%20or%20Transfer%20to%20Retired%20Reserve/README.md)
+- [Chapter 361 - Repealed](Chapter%20361%20-%20Repealed/README.md)
+- [Chapter 363 - Repealed](Chapter%20363%20-%20Repealed/README.md)
 - [Chapter 365 - Repealed](Chapter%20365%20-%20Repealed/README.md)
 - [Chapter 367 - Retirement for Length of Service](Chapter%20367%20-%20Retirement%20for%20Length%20of%20Service/README.md)
 - [Chapter 369 - Retired Grade](Chapter%20369%20-%20Retired%20Grade/README.md)

@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 #### (b) Monitoring of programs for migrant and seasonal employment
 
-The Secretary is directed to take appropriate action to establish administrative proceduresand machinery (including personnel having particular competence in this field) for the selection, administration, monitoring, and evaluation of migrant and seasonal employment and training programs authorized under this chapter.
+The Secretary is directed to take appropriate action to establish administrative procedures and machinery (including personnel having particular competence in this field) for the selection, administration, monitoring, and evaluation of migrant and seasonal employment and training programs authorized under this chapter.
 
 #### (c) Operation through experienced organizations; use of procedures consistent with competitive procurement policies; competition for grants; waiver; goals of programs; recipient performance goals; section programs not exclusive of other kinds of aid
 

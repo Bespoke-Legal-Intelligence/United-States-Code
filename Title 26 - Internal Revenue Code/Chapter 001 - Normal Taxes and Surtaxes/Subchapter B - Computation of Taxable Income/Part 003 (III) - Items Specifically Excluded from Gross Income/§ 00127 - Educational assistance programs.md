@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
 
-> &emsp;but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for,or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies.
+> &emsp;but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for, or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree.
 
 #### (2) Employee
 
@@ -86,15 +86,19 @@ For purposes of this section—
 
 #### (d) Termination
 
-This section shall not apply to taxable years beginning after December 31, 1994.
+This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section.
 
 #### (e) Cross reference
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-(Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420.)
+(Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773.)
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”.
+
+Subsec. (d). Pub. L. 104–188, §1202(a), substituted “May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section.” for “December 31, 1994.”
 
 1993—Subsec. (d). Pub. L. 103–66 substituted “December 31, 1994” for “June 30, 1992”.
 
@@ -147,6 +151,18 @@ Subsec. (c)(8). Pub. L. 98–611, §1(c), added par. (8).
 Subsec. (d). Pub. L. 98–611, §1(a), substituted “December 31, 1985” for “December 31, 1983”.
 
 Subsec. (e). Pub. L. 98–611, §1(d)(3)(B), added subsec. (e).
+
+#### Effective Date of 1996 Amendment
+
+Section 1202(c)(1), (2) of Pub. L. 104–188 provided that:
+
+“(1)
+
+Extension.—The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1994.
+
+“(2)
+
+Graduate education.—The amendment made by subsection (b) \[amending this section\] shall apply with respect to expenses relating to courses beginning after June 30, 1996.”
 
 #### Effective Date of 1993 Amendment
 
@@ -216,17 +232,21 @@ Coordination with section 117(d).—In the case of education described in sectio
 
 #### Effective Date
 
-Section 164(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section and amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply with respect to taxable years beginning after December 31, 1978.”
+Section 164(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section and amending sections 3121, 3306, and 3401 of thistitle and section 409 of Title 42, The Public Health and Welfare\] shall apply with respect to taxable years beginning after December 31, 1978.”
 
 #### Regulations
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Expedited Procedures for Refunds of Overpayments
+
+Section 1202(c)(3) of Pub. L. 104–188 provided that: “The Secretary of the Treasury shall establish expedited procedures for the refund of any overpayment of taxes imposed by the Internal Revenue Code of 1986 which is attributable to amounts excluded from gross income during 1995 or 1996 under section 127 of such Code, including procedures waiving the requirement that an employer obtain an employee's signature where the employer demonstrates to the satisfaction of the Secretary that any refund collected by the employer on behalf of the employee will be paid to the employee.”
+
 #### Special Rule for Certain Taxable Years
 
 Section 103(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992, only amounts paid before July 1, 1992, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13101(a)(2), Aug. 10, 1993, 107 Stat. 420.
 
-Section 7101(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year,prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
+Section 7101(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990, only amounts paid before Oct. 1, 1990, by employer for educational assistance for employee be taken into account in determining amount excluded under this section with respect to such employee for such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11403(c), Nov. 5, 1990, 104 Stat. 1388–473.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
@@ -238,5 +258,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 125, 132, 414, 1397, 3121, 3231, 3306, 3401, 6039D of this title; title 42 section 409.
+This section is referred to in sections 125, 132, 137, 414, 1397, 3121, 3231, 3306, 3401, 6039D of this title; title 42 section 409.
 

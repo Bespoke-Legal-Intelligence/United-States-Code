@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) the date of publication in the Federal Register of—
 
-&emsp;&emsp;&emsp;&emsp;(I) notice of any determination described in clause (ii), (iii), (iv), (v), or (viii) of subparagraph (B) <sup>2</sup>
+&emsp;&emsp;&emsp;&emsp;(I) notice of any determination described in clause (ii), (iii), (iv), (v), or (viii) of subparagraph (B),
 
 &emsp;&emsp;&emsp;&emsp;(II) an antidumping or countervailing duty order based upon any determination described in clause (i) of subparagraph (B), or
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) any interested party seeking review of the determination under paragraph (1), (2), or (3) of this subsection has provided timely notice under subsection (g)(3)(B) of this section.
 
-> &emsp;&emsp;If such an interested party files a summons and complaint under this subsection after dismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
+> &emsp;&emsp;If such an interested party files a summons and complaint under this subsection afterdismissal by the binational panel, and if a request for an extraordinary challenge committee is made with respect to the decision by the binational panel to dismiss—
 
 &emsp;&emsp;&emsp;(I) judicial review under this subsection shall be stayed during consideration by the committee of the request, and
 
@@ -136,7 +136,7 @@
 
 #### (d) Standing
 
-Any interested party who was a party to the proceeding under section 1303 <sup>3</sup> of this title or subtitle IV of this chapter shall have the right to appear and be heard as a party in interest before the United States Court of International Trade. The party filing the action shall notify all such interested parties of the filing of an action under this section, in the form, manner, style, and within the time prescribed by rules of the court.
+Any interested party who was a party to the proceeding under section 1303 <sup>2</sup> of this title or subtitle IV of this chapter shall have the right to appear and be heard as a party in interest before the United States Court of International Trade. The party filing the action shall notify all such interested parties of the filing of an action under this section, in the form, manner, style, and within the time prescribed by rules of the court.
 
 #### (e) Liquidation in accordance with final decision
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 #### (A) Constitutionality of binational panel review system
 
-&emsp;&emsp;An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Implementation Agreement <sup>4</sup> Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
+&emsp;&emsp;An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
 
 #### (B) Other constitutional review
 
@@ -342,7 +342,7 @@ For purposes of this section—
 
 #### (B) Application if subparagraph (A) held unconstitutional
 
-&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions of this subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;In the event that the provisions of subparagraph (A) are held unconstitutional under the provisions of subparagraphs (A) and (H) of paragraph (4), the provisions ofthis subparagraph shall take effect. In such event, the President is authorized on behalf of the United States to accept, as a whole, the decision of a binational panel or extraordinary challenge committee remanding the determination to the administering authority or the Commission within the period specified by the panel or committee. Upon acceptance by the President of such a decision, the administering authority or the Commission shall, within the period specified by the panel or committee, take action not inconsistent with such decision. Any action taken by the President, the administering authority, or the Commission under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (8) Requests for binational panel review
 
@@ -414,7 +414,7 @@ For purposes of this section—
 
 &emsp;&emsp;A request that a final determination be transferred to the Court of International Trade under subparagraph (B) may be made by—
 
-&emsp;&emsp;&emsp;(i) if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA—
+&emsp;&emsp;&emsp;(i) if the United States made an allegation under paragraph 1 of article 1905 of the NAFTA and the operation of article 1904 of the NAFTA was suspended pursuant to paragraph 8(a) of article 1905 of the NAFTA—
 
 &emsp;&emsp;&emsp;&emsp;(I) the government of the relevant country described in subsection (f)(10)(A) or (B) of this section,
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) an interested party that was a party to the proceeding in connection with which panel review was requested, but only if the time for filing notices of appearance in the panel review has not expired.
 
-(June 17, 1930, ch. 497, title IV, §516A, as added July 26, 1979, Pub. L. 96–39, title X, §1001(a), 93 Stat. 300; amended Oct. 10, 1980, Pub. L. 96–417, title VI, §§601(7), 608, 94 Stat. 1744, 1745; Dec. 17, 1980, Pub. L. 96–542, §2, 94 Stat. 3210; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(2), 96 Stat. 49; Oct. 30, 1984, Pub. L. 98–573, title VI, §623(a), 98 Stat. 3040; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(6), 100 Stat. 2925; Sept. 28, 1988, Pub. L. 100–449, title IV, §401, 102 Stat. 1878; Aug. 20, 1990, Pub. L. 101–382, title I, §134(a)(3), 104 Stat. 649; Dec. 8, 1993, Pub. L. 103–182, title IV, §411, 107 Stat. 2140; Dec. 8, 1994, Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), 108 Stat. 4838, 4864, 4917, 4921.)
+(June 17, 1930, ch. 497, title IV, §516A, as added July 26, 1979, Pub. L. 96–39, title X, §1001(a), 93 Stat. 300; amended Oct. 10, 1980, Pub. L. 96–417, title VI, §§601(7), 608, 94 Stat. 1744, 1745; Dec. 17, 1980, Pub. L. 96–542, §2, 94 Stat. 3210; Apr. 2, 1982, Pub. L. 97–164, title I, §163(a)(2), 96 Stat. 49; Oct. 30, 1984, Pub. L. 98–573, title VI, §623(a), 98 Stat. 3040; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1888(6), 100 Stat. 2925; Sept. 28, 1988, Pub. L. 100–449, title IV, §401, 102 Stat. 1878; Aug. 20, 1990, Pub. L. 101–382, title I, §134(a)(3), 104 Stat. 649; Dec. 8, 1993, Pub. L. 103–182, title IV, §411, 107 Stat. 2140; Dec. 8, 1994, Pub. L. 103–465, title I, §129(e), title II, §§220(b), 270(a)(1)(N), 271(b), 108 Stat. 4838, 4864, 4917, 4921; Oct. 11, 1996, Pub. L. 104–295, §§20(a)(1), 21(c)(3), 22, 110 Stat. 3526, 3530, 3531.)
 
 #### References in Text
 
@@ -450,7 +450,7 @@ Section 1303 of this title, referred to in subsec. (d), is defined in section 16
 
 The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
-The United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec. (g)(4)(A), is Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, which is set out as a note under section 2112 of this title. For complete classification of this Act to the Code, see Tables.
+The United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec.\(g)(4)(A), is Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, which is set out as a note under section 2112 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (g)(4)(E), (F), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -459,6 +459,12 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(4)(E), (F), are
 In the original, section 1001(a) of Pub. L. 96–39 directed that this section, designated as section 516A, be added to title V of the Tariff Act of 1930, however, since a title V of the Tariff Act of 1930 has not been enacted, this section was added to title IV of the Tariff Act of 1930 to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(A)(i)(I). Pub. L. 104–295, §20(a)(1), inserted comma after “subparagraph (B)”.
+
+Subsec. (g)(4)(A). Pub. L. 104–295, §22, substituted “Agreement Implementation Act of 1988” for “Implementation Agreement Act of 1988”.
+
+Subsec. (g)(12)(D). Pub. L. 104–295, §21(c)(3), transferred designation “(i)” from heading to before sentence beginning “If the Trade Representative”.
 
 1994—Subsec. (a)(1)(D). Pub. L. 103–465, §220(b)(1), added subpar. (D).
 
@@ -600,7 +606,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendments
 
-Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
+Section 3 of Pub. L. 96–542 provided that: “The amendments made by this Act \[amending this section and provisions set out as a note under section 251 ofTitle 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980.”
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 
@@ -632,7 +638,7 @@ Law to be applied for purposes of such actions.—Notwithstanding the repeal of 
 
 &emsp;“(3)
 
-Certain countervailing and antidumping duty assessments.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determinationshall be subject to review in accordance with the law in effect on the day before the effective date.
+Certain countervailing and antidumping duty assessments.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall apply with respect to the review of the assessment of, or failure to assess, any countervailing duty or antidumping duty on entries subject to a countervailing duty order or antidumping finding if the assessment is made after the effective date. If no assessment of such duty had been made before the effective date that could serve the party seeking review as the basis of a review of the underlying determination, made by the Secretary of the Treasury or the International Trade Commission before the effective date, on which such order, finding, or lack thereof is based, then the underlying determination shall be subject to review in accordance with the law in effect on the day before the effective date.
 
 &emsp;“(4)
 
@@ -658,9 +664,5 @@ This section is referred to in sections 1514, 1675, 1675b, 1676a, 1677f, 1677n, 
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
-
-<i><sup>4</sup></i><i> So in original. The word “Agreement” probably should precede “Implementation”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

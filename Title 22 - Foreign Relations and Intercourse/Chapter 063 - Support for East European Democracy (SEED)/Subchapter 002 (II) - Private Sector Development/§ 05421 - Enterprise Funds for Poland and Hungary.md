@@ -38,7 +38,7 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 &emsp;(A) Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
 
-&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.
+&emsp;(B) A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.:<sup>1</sup> <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the “Advisory Councils”), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
 &emsp;(C) A host country citizen who is not committed to respect for democracy and a free market economy may not serve as a member of the Board of Directors of an Enterprise Fund.
 
@@ -48,7 +48,7 @@ The funds appropriated under subsection (b) of this section may be made availabl
 
 #### (5) Private character of Enterprise Funds
 
-&emsp;Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
+&emsp;Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or membersof the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
 
 #### (e) Grants to Enterprise Funds
 
@@ -130,11 +130,15 @@ The Enterprise Funds shall ensure—
 
 Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
-(Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305.)
+(Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, \[(v)\], Feb. 12, 1996, 110 Stat. 714.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end “: <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the ‘Advisory Councils’), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.”
 
 #### Delegation of Functions
 
@@ -143,4 +147,6 @@ Functions of President under this section delegated to Administrator of United S
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2295b, 5425, 5953 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

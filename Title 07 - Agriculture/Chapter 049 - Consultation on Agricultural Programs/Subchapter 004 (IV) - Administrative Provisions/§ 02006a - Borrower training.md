@@ -18,7 +18,7 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), to be eligible to obtain a direct or guaranteed loan under thischapter, a borrower must obtain management assistance under this section, appropriate to the management ability of the borrower (as determined by the appropriate county committee established pursuant to section 1982 <sup>1</sup> of this title, during the determination of eligibility for the loan).
+&emsp;Subject to paragraph (2), to be eligible to obtain a direct or guaranteed loan under this chapter, a borrower must obtain management assistance under this section, appropriate to the management ability of the borrower (as determined by the appropriate county committee established pursuant to section 1982 <sup>1</sup> of this title, during the determination of eligibility for the loan).
 
 #### (2) Loan conditions
 
@@ -46,7 +46,7 @@ Section 1982 of this title, referred to in subsec. (c)(1), was repealed by Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1942, 1948, 1949, 1981, 2006b of this title.
+This section is referred to in sections 1942, 1949, 1981, 2006b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

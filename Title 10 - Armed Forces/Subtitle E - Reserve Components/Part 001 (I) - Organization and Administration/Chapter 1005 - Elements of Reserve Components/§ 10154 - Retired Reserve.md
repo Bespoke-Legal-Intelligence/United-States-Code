@@ -14,7 +14,7 @@ Provisions similar to those in this section were contained in section 274 of thi
 
 #### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
 
-Section 377 of Pub. L. 103–337 provided that:
+Section 377 of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1501(d)(1), Feb. 10, 1996, 110 Stat. 500, provided that:
 
 “(a)
 
@@ -22,7 +22,7 @@ Authority.—The Secretary of the Navy may issue a military identification card 
 
 “(b)
 
-Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Naval Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title.
+Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Naval Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
 
 “(c)
 
@@ -31,4 +31,6 @@ Effect on Commissary and Exchange Benefits.—The issuance of a military identif
 “(d)
 
 Limitation on Color and Format.—The Secretary shall ensure that the color and format in which a military identification card is issued under subsection (a) is not similar to the color and format in which a military identification card is issued by the Department of Defense to individuals other than members described in subsection (b).”
+
+\[Pub. L. 104–106, §1501(d)(1), which directed the amendment of section 337(b) of Pub. L. 103–337, set out as a note under section 2466 of this title, was executed to section 377(b) of Pub. L. 103–337, set out above, to reflect the probable intent of Congress.\]
 

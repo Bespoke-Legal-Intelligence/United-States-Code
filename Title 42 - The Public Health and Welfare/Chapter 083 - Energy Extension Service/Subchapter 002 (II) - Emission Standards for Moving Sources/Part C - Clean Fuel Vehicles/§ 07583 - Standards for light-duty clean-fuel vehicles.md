@@ -216,43 +216,10 @@ In the case of the 50,000 mile standards and the 100,000 mile standards, for pur
 
 The standards set forth in this subsection shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 6,000 lbs. gross weight rating (GVWR) and less than or equal to 8,500 lbs. GVWR, beginning with model year 1998. For the air pollutants specified in the following table, the clean-fuel vehicle standards under this section shall provide that vehicle exhaust emissions of vehicles within the test weight categories specified in the following table shall not exceed the levels specified in such table.
 
-Clean Fuel Vehicle Emission Standards for Light Duty Trucks Greater Than 6,000
-
-lbs. GVWR<br>Test Weight Category: Up to 3,750 lbs. tw
-
-Pollutant
-
-NMOG
-
-CO
-
-NO<sub>x</sub>
-
-PM\*
-
-HCHO (formaldehyde)
-
-50,000 mile standard
-
-0\.125
-
-3\.4
-
-0\.4\*\*
-
-0\.015
-
-120,000 mile standard
-
-0\.180
-
-5\.0
-
-0\.6&nbsp;
-
-0\.08
-
-0\.022
+| Pollutant | NMOG | CO | NO<sub>x</sub> | PM\* | HCHO (formaldehyde) |
+| :--- | :---: | :---: | :---: | :---: | ---: |
+| 50,000 mile standard | 0\.125 | 3\.4 | 0\.4\*\* |  | 0\.015 |
+| 120,000 mile standard | 0\.180 | 5\.0 | 0\.6&nbsp; | 0\.08 | 0\.022 |
 
 Test Weight Category: Above 3,750 but not above 5,750 lbs. tw
 
@@ -286,41 +253,14 @@ For the 50,000 mile standards and the 120,000 mile standards set forth in the ta
 
 &emsp;In addition to standards for the pollutants referred to in paragraph (1), the standards established under paragraph (1) shall require that vehicle exhaust emissions of NMOG not exceed the levels (expressed in grams per mile) specified in the tables below when the vehicle is operated on the clean alternative fuel for which such vehicle is certified:
 
-NMOG Standards for Flexible- and Dual-Fueled Vehicles When Operating on Clean Alternative Fuel<br>Light-duty Trucks up to 6,000 lbs. GVWR and Light-duty vehicles
-
-Vehicle Type
-
-Column A (50,000 mi.) Standard (gpm)
-
-Column B (100,000 mi.) Standard (gpm)
-
-Beginning MY 1996:
-
-LDT's (0–3,750 lbs. LVW) and light-duty vehicles
-
-0\.125
-
-0\.156
-
-LDT's (3,751–5,750 lbs. LVW)
-
-0\.160
-
-0\.20&nbsp;
-
-Beginning MY 2001:
-
-LDT's (0–3,750 lbs. LVW) and light-duty vehicles
-
-0\.075
-
-0\.090
-
-LDT's (3,751–5,750 lbs. LVW)
-
-0\.100
-
-0\.130
+| Vehicle Type | Column A (50,000 mi.) Standard (gpm) | Column B (100,000 mi.) Standard (gpm) |
+| :--- | :---: | ---: |
+| Beginning MY 1996: |  |  |
+| LDT's (0–3,750 lbs. LVW) and light-duty vehicles | 0\.125 | 0\.156 |
+| LDT's (3,751–5,750 lbs. LVW) | 0\.160 | 0\.20&nbsp; |
+| Beginning MY 2001: |  |  |
+| LDT's (0–3,750 lbs. LVW) and light-duty vehicles | 0\.075 | 0\.090 |
+| LDT's (3,751–5,750 lbs. LVW) | 0\.100 | 0\.130 |
 
 For standards under column A, for purposes of certification under section 7525 of this title, the applicable useful life shall be 50,000 miles.
 
@@ -343,41 +283,14 @@ For standards under column B, for purposes of certification under section 7525 o
 
 &emsp;In addition to the standards referred to in paragraph (1), the standards established under paragraph (1) shall require that vehicle exhaust emissions of NMOG not exceed the levels (expressed in grams per mile) specified in the tables below:
 
-NMOG Standards for Flexible- and Dual-Fueled Vehicles When Operating on Conventional Fuel<br>Light-duty Trucks of up to 6,000 lbs. GVWR and Light-duty vehicles
-
-Vehicle Type
-
-Column A (50,000 mi.) Standard (gpm)
-
-Column B (100,000 mi.) Standard (gpm)
-
-Beginning MY 1996:
-
-LDT's (0–3,750 lbs. LVW) and light-duty vehicles
-
-0\.25
-
-0\.31&nbsp;
-
-LDT's (3,751–5,750 lbs. LVW)
-
-0\.32
-
-0\.40&nbsp;
-
-Beginning MY 2001:
-
-LDT's (0–3,750 lbs. LVW) and light-duty vehicles
-
-0\.125
-
-0\.156
-
-LDT's (3,751–5,750 lbs. LVW)
-
-0\.160
-
-0\.200
+| Vehicle Type | Column A (50,000 mi.) Standard (gpm) | Column B (100,000 mi.) Standard (gpm) |
+| :--- | :---: | ---: |
+| Beginning MY 1996: |  |  |
+| LDT's (0–3,750 lbs. LVW) and light-duty vehicles | 0\.25 | 0\.31&nbsp; |
+| LDT's (3,751–5,750 lbs. LVW) | 0\.32 | 0\.40&nbsp; |
+| Beginning MY 2001: |  |  |
+| LDT's (0–3,750 lbs. LVW) and light-duty vehicles | 0\.125 | 0\.156 |
+| LDT's (3,751–5,750 lbs. LVW) | 0\.160 | 0\.200 |
 
 For standards under column A, for purposes of certification under section 7525 of this title, the applicable useful life shall be 50,000 miles.
 

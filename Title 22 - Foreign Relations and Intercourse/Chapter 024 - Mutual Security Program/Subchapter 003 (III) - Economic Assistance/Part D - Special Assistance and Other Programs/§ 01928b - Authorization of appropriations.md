@@ -18,7 +18,7 @@ Pub. L. 100–202 substituted “annually (1)” for “annually,”, “(2) $10
 
 1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “North Atlantic Treaty Organization Parliamentary Conference” and “North Atlantic Treaty Parliamentary Conference” and “Assembly” for “Conference” in two places, respectively.
 
-1958—Pub. L. 85–477 substituted provisions authorizing an annual contribution towards the maintenance of the Conference of such sum as may be agreed upon but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions madefor that year for maintenance, for provisions which authorized an annual contribution of $6,000 for maintenance.
+1958—Pub. L. 85–477 substituted provisions authorizing an annual contribution towards the maintenance of the Conference of such sum as may be agreed upon but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year for maintenance, for provisions which authorized an annual contribution of $6,000 for maintenance.
 
 #### Permanent Appropriation for Delegation Expenses
 

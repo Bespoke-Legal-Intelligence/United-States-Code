@@ -2,7 +2,7 @@
 
 Appropriations under the control of the Architect of the Capitol shall be available for expenses of travel on official business not to exceed in the aggregate under all funds the sum of $20,000.
 
-(Nov. 19, 1995, Pub. L. 104–53, title I, 109 Stat. 527.)
+(Sept. 16, 1996, Pub. L. 104–197, title I, 110 Stat. 2404.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Nov. 19, 1995, Pub. L. 104–53, title I, 109 Stat. 527.
 
 July 22, 1994, Pub. L. 103–283, title I, 108 Stat. 1434.
 

@@ -13,7 +13,7 @@
 | 473c–3. | Liability of principal for act of agent. |
 | [473d.](%C2%A7%2000473d%20-%20Quality%20tests%20and%20analyses%20by%20Secretary%20for%20breeders%20and%20others%3B%20fees.md) | Quality tests and analyses by Secretary for breeders and others; fees. |
 | [474\.](%C2%A7%2000474%20-%20Powers%20of%20Secretary%20of%20Agriculture%3B%20appropriation.md) | Powers of Secretary of Agriculture; appropriation. |
-| [475\.](%C2%A7%2000475%20-%20Cotton%20crop%20reports.md) | Cotton crop reports. |
+| [475\.](%C2%A7%2000475%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7870%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201175.md) | Repealed. |
 | [476\.](%C2%A7%2000476%20-%20Acreage%20reports.md) | Acreage reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,5 +38,5 @@ This chapter is referred to in section 61a of this title.
 - [&sect; 00473c&#8211;3 - Liability of principal for act of agent](%C2%A7%2000473c%E2%80%933%20-%20Liability%20of%20principal%20for%20act%20of%20agent.md)
 - [&sect; 00473d - Quality tests and analyses by Secretary for breeders and others; fees](%C2%A7%2000473d%20-%20Quality%20tests%20and%20analyses%20by%20Secretary%20for%20breeders%20and%20others%3B%20fees.md)
 - [&sect; 00474 - Powers of Secretary of Agriculture; appropriation](%C2%A7%2000474%20-%20Powers%20of%20Secretary%20of%20Agriculture%3B%20appropriation.md)
-- [&sect; 00475 - Cotton crop reports](%C2%A7%2000475%20-%20Cotton%20crop%20reports.md)
+- [&sect; 00475 - Repealed. Pub. L. 104&#8211;127, title VIII, &sect;870, Apr. 4, 1996, 110 Stat. 1175](%C2%A7%2000475%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VIII%2C%20%C2%A7870%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201175.md)
 - [&sect; 00476 - Acreage reports](%C2%A7%2000476%20-%20Acreage%20reports.md)

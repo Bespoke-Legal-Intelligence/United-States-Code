@@ -36,7 +36,7 @@ In addition to any authority vested in the Institute by other provisions of this
 
 &emsp;(6) accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
-&emsp;(7) enter into contracts, grants or other arrangements, or modifications thereof to carry out the provisions of this section, and such contracts or modifications thereof may be entered into without performance or other bonds, and without regard to section 5 of title41, or any other provision of law relating to competitive bidding;
+&emsp;(7) enter into contracts, grants or other arrangements, or modifications thereof to carry out the provisions of this section, and such contracts or modifications thereof may be entered into without performance or other bonds, and without regard to section 5 of title 41, or any other provision of law relating to competitive bidding;
 
 &emsp;(8) make advance, progress, and other payments which the Director deems necessary under this title without regard to the provisions of section 3324(a) and (b) of title 31; and
 

@@ -22,7 +22,9 @@ Performance of Prior Duties Prohibited.—An individual who served as an airman,
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

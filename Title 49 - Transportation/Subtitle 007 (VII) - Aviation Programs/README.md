@@ -62,16 +62,25 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>481.</b>](Part%20C%20-%20Financing/Chapter%20481%20-%20Airport%20and%20Airway%20Trust%20Fund%20Authorizations/README.md) | <b>Airport and Airway Trust Fund Authorizations</b> | <b>48101</b> |
+| [<b>482.</b>](Part%20C%20-%20Financing/Chapter%20482%20-%20Advance%20Appropriations%20for%20Airport%20and%20Airway%20Trust%20Facilities/README.md) | <b>Advance Appropriations for Airport and Airway Trust Facilities</b> | <b>48201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### PART D—MISCELLANEOUS
+#### PART D—RESERVED
+
+#### PART E—MISCELLANEOUS
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>491.</b>](Part%20D%20-%20Miscellaneous/Chapter%20491%20-%20Buy-American%20Preferences/README.md) | <b>Buy-American Preferences</b> | <b>49101</b> |
+| [<b>501.</b>](Part%20E%20-%20Miscellaneous/Chapter%20501%20-%20Buy-American%20Preferences/README.md) | <b>Buy-American Preferences</b> | <b>50101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+1996—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted “RESERVED” for “MISCELLANEOUS” in item for part D, struck out item for chapter 491 “Buy-American Preferences”, and added items for part E and chapter 501.
+
+Pub. L. 104–264, title II, §277(b), Oct. 9, 1996, 110 Stat. 3248, added item for chapter 482.
 
 
 ---
@@ -81,4 +90,5 @@
 - [Part A - Air Commerce and Safety](Part%20A%20-%20Air%20Commerce%20and%20Safety/README.md)
 - [Part B - Airport Development and Noise](Part%20B%20-%20Airport%20Development%20and%20Noise/README.md)
 - [Part C - Financing](Part%20C%20-%20Financing/README.md)
-- [Part D - Miscellaneous](Part%20D%20-%20Miscellaneous/README.md)
+- [Part D - Reserved](Part%20D%20-%20Reserved/README.md)
+- [Part E - Miscellaneous](Part%20E%20-%20Miscellaneous/README.md)

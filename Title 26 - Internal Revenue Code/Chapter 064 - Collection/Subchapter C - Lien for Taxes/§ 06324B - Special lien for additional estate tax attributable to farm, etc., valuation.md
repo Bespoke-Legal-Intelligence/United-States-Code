@@ -26,7 +26,7 @@ The lien imposed by this section shall arise at the time an election is filed un
 
 To the extent provided in regulations prescribed by the Secretary, the furnishing of security may be substituted for the lien imposed by this section.
 
-(Added Pub. L. 94–455, title XX, §2003(b), Oct. 4, 1976, 90 Stat. 1861; amended Pub. L. 95–600, title VII, §702(r)(4), Nov. 6, 1978, 92 Stat. 2939; Pub. L. 96–222, title I, §108(d), Apr. 1, 1980, 94 Stat. 228; Pub. L. 97–34, title IV, §421(d)(2)(B), Aug. 13, 1981, 95 Stat. 309.)
+(Added Pub. L. 94–455, title XX, §2003(b), Oct. 4, 1976, 90 Stat. 1861; amended Pub. L. 95–600, titleVII, §702(r)(4), Nov. 6, 1978, 92 Stat. 2939; Pub. L. 96–222, title I, §108(d), Apr. 1, 1980, 94 Stat. 228; Pub. L. 97–34, title IV, §421(d)(2)(B), Aug. 13, 1981, 95 Stat. 309.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President is authorized to make a grant to a State for the purpose of making grants to individuals or families adversely affected by a major disaster for meeting disaster-related necessary expenses or serious needs of such individuals or families in those cases where such individuals or families are unable to meet such expenses or needs through assistance under other provisions of this chapter or through other means.
+The President is authorized to make a grant to a State for the purpose of making grants toindividuals or families adversely affected by a major disaster for meeting disaster-related necessary expenses or serious needs of such individuals or families in those cases where such individuals or families are unable to meet such expenses or needs through assistance under other provisions of this chapter or through other means.
 
 #### (b) Cost sharing
 

@@ -60,7 +60,7 @@ Amendment by Pub. L. 99–509 applicable to articles imported, entered for wareh
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–458 effective on first day of first calendar month beginning more than 90 days afterOct. 14, 1978, see section 2(c) of Pub. L. 95–458, set out as a note under section 5042 of this title.
+Amendment by Pub. L. 95–458 effective on first day of first calendar month beginning more than 90 days after Oct. 14, 1978, see section 2(c) of Pub. L. 95–458, set out as a note under section 5042 of this title.
 
 #### Effective Date of 1976 Amendment
 

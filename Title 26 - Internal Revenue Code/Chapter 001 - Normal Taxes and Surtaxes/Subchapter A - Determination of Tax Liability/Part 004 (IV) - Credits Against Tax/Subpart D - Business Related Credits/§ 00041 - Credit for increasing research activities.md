@@ -66,9 +66,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of an employee (within the meaning of section 401(c)(1)), the term “wages” includes the earned income (as defined in section 401(c)(2)) of such employee.
 
-#### (iii) Exclusion for wages to which targeted jobs credit applies
+#### (iii) Exclusion for wages to which work opportunity credit applies
 
-&emsp;&emsp;&emsp;The term “wages” shall not include any amount taken into account in determining the targeted jobs credit under section 51(a).
+&emsp;&emsp;&emsp;The term “wages” shall not include any amount taken into account in determining the work opportunity credit under section 51(a).
 
 #### (3) Contract research expenses
 
@@ -79,6 +79,22 @@ For purposes of this section—
 #### (B) Prepaid amounts
 
 &emsp;&emsp;If any contract research expenses paid or incurred during any taxable year are attributable to qualified research to be conducted after the close of such taxable year, such amount shall be treated as paid or incurred during the period during which the qualified research is conducted.
+
+#### (C) Amounts paid to certain research consortia
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subparagraph (A) shall be applied by substituting “75 percent” for “65 percent” with respect to amounts paid or incurred by the taxpayer to a qualified research consortium for qualified research on behalf of the taxpayer and 1 or more unrelated taxpayers. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related taxpayers.
+
+#### (ii) Qualified research consortium
+
+&emsp;&emsp;&emsp;The term “qualified research consortium” means any organization which—
+
+&emsp;&emsp;&emsp;&emsp;(I) is described in section 501(c)(3) or 501(c)(6) and is exempt from tax under section 501(a),
+
+&emsp;&emsp;&emsp;&emsp;(II) is organized and operated primarily to conduct scientific research, and
+
+&emsp;&emsp;&emsp;&emsp;(III) is not a private foundation.
 
 #### (4) Trade or business requirement disregarded for in-house research expenses of certain startup ventures
 
@@ -112,7 +128,11 @@ For purposes of this section—
 
 #### (i) Taxpayers to which subparagraph applies
 
-&emsp;&emsp;&emsp;The fixed-base percentage shall be determined under this subparagraph if there arefewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.
+&emsp;&emsp;&emsp;The fixed-base percentage shall be determined under this subparagraph if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the first taxable year in which a taxpayer had both gross receipts and qualified research expenses begins after December 31, 1983, or
+
+&emsp;&emsp;&emsp;&emsp;(II) there are fewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.
 
 #### (ii) Fixed-base percentage
 
@@ -144,7 +164,23 @@ For purposes of this section—
 
 &emsp;&emsp;The percentages determined under subparagraphs (A) and (B)(ii) shall be rounded to the nearest 1/100th of 1 percent.
 
-#### (4) Consistent treatment of expenses required
+#### (4) Election of alternative incremental credit
+
+#### (A) In general
+
+&emsp;&emsp;At the election of the taxpayer, the credit determined under subsection (a)(1) shall be equal to the sum of—
+
+&emsp;&emsp;&emsp;(i) 1.65 percent of so much of the qualified research expenses for the taxable year as exceeds 1 percent of the average described in subsection (c)(1)(B) but does not exceed 1.5 percent of such average,
+
+&emsp;&emsp;&emsp;(ii) 2.2 percent of so much of such expenses as exceeds 1.5 percent of such average but does not exceed 2 percent of such average, and
+
+&emsp;&emsp;&emsp;(iii) 2.75 percent of so much of such expenses as exceeds 2 percent of such average.
+
+#### (B) Election
+
+&emsp;&emsp;An election under this paragraph may be made only for the first taxable year of the taxpayer beginning after June 30, 1996. Such an election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
+
+#### (5) Consistent treatment of expenses required
 
 #### (A) In general
 
@@ -154,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;The Secretary may prescribe regulations to prevent distortions in calculating a taxpayer's qualified research expenses or gross receipts caused by a change in accounting methods used by such taxpayer between the current year and a year taken into account in computing such taxpayer's fixed-base percentage.
 
-#### (5) Gross receipts
+#### (6) Gross receipts
 
 &emsp;For purposes of this subsection, gross receipts for any taxable year shall be reduced by returns and allowances made during the taxable year. In the case of a foreign corporation, there shall be taken into account only gross receipts which are effectively connected with the conduct of a trade or business within the United States.
 
@@ -512,7 +548,7 @@ For purposes of this section—
 
 #### (C) Certain reimbursements taken into account in determining fixed-base percentage
 
-&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures withsuch person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
+&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
 
@@ -548,13 +584,19 @@ In the case of an individual who—
 
 #### (1) In general
 
-&emsp;This section shall not apply to any amount paid or incurred after June 30, 1995.
+&emsp;This section shall not apply to any amount paid or incurred—
+
+&emsp;&emsp;(A) after June 30, 1995, and before July 1, 1996, or
+
+&emsp;&emsp;(B) after May 31, 1997.
+
+> &emsp;Notwithstanding the preceding sentence, in the case of a taxpayer making an election under subsection (c)(4) for its first taxable year beginning after June 30, 1996, and before July 1, 1997, this section shall apply to amounts paid or incurred during the first 11 months of such taxable year.
 
 #### (2) Computation of base amount
 
-&emsp;In the case of any taxable year which begins before July 1, 1995, and ends after June 30, 1995, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year before July 1, 1995, bears to the total number of days in such taxable year.
+&emsp;In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774.)
 
 #### Prior Provisions
 
@@ -563,6 +605,24 @@ A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 9
 Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments
+
+1996—Subsec. (b)(2)(D)(iii). Pub. L. 104–188, §1201(e)(1), (4), substituted “work opportunity credit” for “targeted jobs credit” in heading and text.
+
+Subsec. (b)(3)(C). Pub. L. 104–188, §1204(d), added subpar. (C).
+
+Subsec. (c)(3)(B)(i). Pub. L. 104–188, §1204(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The fixed-base percentage shall be determined under this subparagraph if there are fewer than 3 taxable years beginning after December 31, 1983, and before January 1, 1989, in which the taxpayer had both gross receipts and qualified research expenses.”
+
+Subsec. (c)(4) to (6). Pub. L. 104–188, §1204(c), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (h). Pub. L. 104–188, §1204(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—This section shall not apply to any amount paid or incurred after June 30, 1995.
+
+“(2)
+
+Computation of base amount.—In the case of any taxable year which begins before July 1, 1995, and ends after June 30, 1995, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year before July 1, 1995, bears to the total number of days in such taxable year.”
 
 1993—Subsec. (c)(3)(B)(ii). Pub. L. 103–66, §13112(a), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “In a case to which this subparagraph applies, the fixed-base percentage is 3 percent.”
 
@@ -662,9 +722,29 @@ Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting �
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1201(e)(1), (4) of Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
+
+Section 1204(f) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 28 \[now 45C\] of this title\] shall apply to taxable years ending after June 30, 1996.
+
+“(2)
+
+Subsections (c)
+
+and (d).—The amendments made by subsections (c) and (d) \[amending this section\] shall apply to taxable years beginning after June 30, 1996.
+
+“(3)
+
+Estimated tax.—The amendments made by this section shall not be taken into account under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) in determining the amount of any installment required to be paid for a taxable year beginning in 1997.”
+
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13111(a)(1) of Pub. L. 103–66 applicable to taxable years ending after June 30, 1992, see section 13111(c) of Pub. L. 103–66, set out as a note under section 28 of this title.
+Amendment by section 13111(a)(1) of Pub. L. 103–66 applicable to taxable years ending after June 30, 1992, see section 13111(c) of Pub. L. 103–66, set out as a note under section 45C of this title.
 
 Section 13112(c) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1993.”
 
@@ -672,13 +752,13 @@ Amendment by section 13201(b)(3)(C) of Pub. L. 103–66 applicable to taxable ye
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–227 applicable to taxable years ending after Dec. 31, 1991, see section 102(c) of Pub. L. 102–227, set out as a note under section 28 of this title.
+Amendment by Pub. L. 102–227 applicable to taxable years ending after Dec. 31, 1991, see section 102(c) of Pub. L. 102–227, set out as a note under section 45C of this title.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 11101(d)(1)(C) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11101(e) of Pub. L. 101–508, set out as a note under section 1 of this title.
 
-Amendment by section 11402(a) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1989, see section 11402(c) of Pub. L. 101–508, set out as a note under section 28 of this title.
+Amendment by section 11402(a) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1989, see section 11402(c) of Pub. L. 101–508, set out as a note under section 45C of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -748,9 +828,11 @@ Definitions.—For purposes of the preceding sentence, the terms ‘qualified re
 
 Section 7110(a)(2) of Pub. L. 101–239, which set forth the method of determining the amount treated as qualified research expenses for taxable years beginning before Oct. 1, 1990, and ending after Sept. 30, 1990, was repealed by Pub. L. 101–508, title XI, §11402(b)(1), Nov. 5, 1990, 104 Stat. 1388–473.
 
+\[Section 1702(d)(1) of Pub. L. 104–188 provided that: “Notwithstanding section 11402(c) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out as a note under section 45C of this title\], the amendment made by section 11402(b)(1) of such Act \[repealing section 7110(a)(2) of Pub. L. 101–239, formerly set out as a note above\] shall apply to taxable years ending after December 31, 1989.”\]
+
 #### Study and Report on Credit Provided by This Section
 
-Section 4007(b) of Pub. L. 100–647 directed Comptroller General of United States to conduct a study of creditprovided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
+Section 4007(b) of Pub. L. 100–647 directed Comptroller General of United States to conduct a study of credit provided by 26 U.S.C. 41 and submit a report of the study not later than Dec. 31, 1989, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -768,5 +850,5 @@ Section 474(i)(2) of Pub. L. 98–369 provided that: “For purposes of determin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 28, 38, 144, 170, 196, 197, 280C, 409, 936, 1202 of this title.
+This section is referred to in sections 38, 45C, 144, 170, 196, 197, 280C, 409, 936, 1202 of this title.
 

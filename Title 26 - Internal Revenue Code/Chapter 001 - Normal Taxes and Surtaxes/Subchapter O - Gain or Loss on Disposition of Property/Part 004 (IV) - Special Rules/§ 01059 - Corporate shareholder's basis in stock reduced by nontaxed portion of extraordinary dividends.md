@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any reduction in basis under subsection (a)(1) shall occur immediately before any sale or disposition of the stock.
+&emsp;&emsp;Except as provided in subparagraph (B), any reduction in basis under subsection\(a)(1) shall occur immediately before any sale or disposition of the stock.
 
 #### (B) Special rule for computing extraordinary dividend
 
@@ -208,7 +208,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) is not in arrears as to dividends at the time the taxpayer acquires the stock.
 
-&emsp;&emsp;&nbsp;Such term shall not include any dividend payable with respect to any share of stockif the actual rate of return on such stock exceeds 15 percent.
+&emsp;&emsp;&nbsp;Such term shall not include any dividend payable with respect to any share of stock if the actual rate of return on such stock exceeds 15 percent.
 
 #### (ii) Holding period
 

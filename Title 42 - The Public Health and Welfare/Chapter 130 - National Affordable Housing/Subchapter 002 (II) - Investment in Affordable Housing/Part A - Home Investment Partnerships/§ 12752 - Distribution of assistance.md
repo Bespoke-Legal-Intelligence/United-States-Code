@@ -10,7 +10,3 @@ Participating States shall be responsible for distributing assistance throughout
 
 (Pub. L. 101–625, title II, §222, Nov. 28, 1990, 104 Stat. 4112.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 1715z–6.
-

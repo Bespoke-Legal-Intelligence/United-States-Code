@@ -46,7 +46,7 @@ From amounts appropriated under section 6302(b) of this title, the Secretary may
 
 #### (3) Minimum
 
-&emsp;No State shall receive a grant under paragraph (1) in any fiscal year in an amount which is less than $250,000, or one-half of 1 percent of the amount appropriated under section 6302(b) of this title and not reserved under subsections (a), (b), and (c) of this section for such year, whichever is greater.
+&emsp;No State shall receive a grant under paragraph (1) in any fiscal year in an amountwhich is less than $250,000, or one-half of 1 percent of the amount appropriated under section 6302(b) of this title and not reserved under subsections (a), (b), and (c) of this section for such year, whichever is greater.
 
 #### (e) Definitions
 

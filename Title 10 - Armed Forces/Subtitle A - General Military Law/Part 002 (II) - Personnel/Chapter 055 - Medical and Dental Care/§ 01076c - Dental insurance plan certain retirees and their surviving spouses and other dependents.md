@@ -1,0 +1,76 @@
+### §1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents
+
+(a)
+
+Requirement for Plan.—The Secretary of Defense shall establish a dental insurance plan for military retirees, certain unremarried surviving spouses, and dependents in accordance with this section.
+
+(b)
+
+Persons Eligible for Plan.—The following persons are eligible to enroll in the dental insurance plan established under subsection (a):
+
+&emsp;(1) Members of the Armed Forces who are entitled to retired pay.
+
+&emsp;(2) Members of the Retired Reserve who would be entitled to retired pay under chapter 1223 of this title but for being under 60 years of age.
+
+&emsp;(3) Eligible dependents of a member described in paragraph (1) or (2) who are covered by the enrollment of the member in the plan.
+
+&emsp;(4) The unremarried surviving spouse and eligible child dependents of a deceased member—
+
+&emsp;&emsp;(A) who dies while in a status described in paragraph (1) or (2); or
+
+&emsp;&emsp;(B) who is described in section 1448(d)(1) of this title.
+
+(c)
+
+Premiums.—(1) A member enrolled in the dental insurance plan established under subsection (a) shall pay the premiums charged for the insurance coverage.
+
+(2) The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses.
+
+(d)
+
+Benefits Available Under the Plan.—The dental insurance plan established under subsection (a) shall provide benefits for basic dental care and treatment, including diagnostic services, preventative services, basic restorative services (including endodontics), surgical services, and emergency services.
+
+(e)
+
+Coverage.—(1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in the dental insurance plan established under subsection (a).
+
+(2) The dental insurance plan shall provide for voluntary enrollment of participants and shall authorize a member or eligible unremarried surviving spouse to enroll for self only or for self and eligible dependents.
+
+(f)
+
+Termination of Enrollment.—The Secretary shall terminate the enrollment of any enrollee, and any eligible dependents of the enrollee covered by the enrollment, in the dental insurance plan established under subsection (a) upon the occurrence of the following:
+
+&emsp;(1) In the case of an enrollment under subsection (b)(1), termination of the member's entitlement to retired pay.
+
+&emsp;(2) In the case of an enrollment under subsection (b)(2), termination of the member's status as a member of the Retired Reserve.
+
+&emsp;(3) In the case of an enrollment under subsection (b)(4), remarriage of the surviving spouse.
+
+(g)
+
+Continuation of Dependents’ Enrollment Upon Death of Enrollee.—Coverage of a dependent in the dental insurance plan established under subsection (a) under an enrollment of a member or a surviving spouse who dies during the period of enrollment shall continue until the end of that period and may be renewed by (or for) the dependent, so long as the premium paid is sufficient to cover continuation of the dependent's enrollment. The Secretary may terminate coverage of the dependent when the premiums paid are no longer sufficient to cover continuation of the enrollment. The Secretary shall prescribe in regulations under subsection (h) the parties responsible for paying the remaining premiums due on the enrollment and the manner for collection of the premiums.
+
+(h)
+
+Regulations.—The dental insurance plan established under subsection (a) shall be administered under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Transportation.
+
+(i)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
+
+&emsp;(2) The term “eligible child dependent” means a dependent described in subparagraph (D) or (I) of section 1072(2) of this title.
+
+&emsp;(3) The term “retired pay” includes retainer pay.
+
+(Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588.)
+
+#### Implementation of Dental Plan
+
+Section 703(b) of Pub. L. 104–201 provided that: “Beginning not later than October 1, 1997, the Secretary of Defense shall—
+
+&emsp;“(1) offer members of the Armed Forces and other persons described in subsection (b) of section 1076c of title 10, United States Code (as added by subsection (a)(1) of this section), the opportunity to enroll in the dental insurance plan required under that section; and
+
+&emsp;“(2) begin to provide benefits under the plan.”
+

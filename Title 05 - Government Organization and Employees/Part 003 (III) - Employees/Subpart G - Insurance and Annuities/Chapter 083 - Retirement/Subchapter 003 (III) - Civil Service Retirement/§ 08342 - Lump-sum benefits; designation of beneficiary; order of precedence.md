@@ -94,7 +94,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2261.
 
@@ -152,11 +154,11 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508 inserted “or 8334(d)(2)” after “8343a” in second sentence.
+1990—Subsec. (a). Pub. L. 101–508 inserted “or 8334(d)(2)” after “8343a” in second sentence.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–238 amended last sentence of subsec. (a) generally. Prior to amendment, last sentence read as follows: “In applying this subsection with respect to an employee or Member who becomes subject to chapter 84 of this title, entitlement to payment of the lump-sum credit shall be determined without regard to paragraph (1) or (3) if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
+1988—Subsec. (a). Pub. L. 100–238 amended last sentence of subsec. (a) generally. Prior to amendment, last sentence read as follows: “In applying this subsection with respect to an employee or Member who becomes subject to chapter 84 of this title, entitlement to payment of the lump-sum credit shall be determined without regard to paragraph (1) or (3) if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted “, or chapter 84 of this title,” in pars. (1)(B) and (3), substituted “Except as provided in section 8343a of this title, the” for “The” in second sentence, and inserted provisions regarding entitlement by an employee or Member who becomes subject to chapter 84 of this title to payment of a lump-sum credit.
+1986—Subsec. (a). Pub. L. 99–335 inserted “, or chapter 84 of this title,” in pars. (1)(B) and (3), substituted “Except as provided in section 8343a of this title, the” for “The” in second sentence, and inserted provisions regarding entitlement by an employee or Member who becomes subject to chapter 84 of this title to payment of a lump-sum credit.
 
 Subsec. (j)(1)(B). Pub. L. 99–251 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in any case in which there is a former spouse, shall be subject to the terms of a court order or decree issued with respect to such former spouse if—
 
@@ -164,15 +166,15 @@ Subsec. (j)(1)(B). Pub. L. 99–251 amended subpar. (B) generally. Prior to amen
 
 &emsp;“(ii) payment of the lump-sum credit would extinguish entitlement of the former spouse to a survivor annuity under section 8341(h) of this title or to any portion of an annuity under section 8345(j) of this title.”
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–615, §2(5)(A), substituted “Subject to subsection (j) of this section, an” for “An” in provisions preceding par. (1).
+1984—Subsec. (a). Pub. L. 98–615, §2(5)(A), substituted “Subject to subsection (j) of this section, an” for “An” in provisions preceding par. (1).
 
 Subsec. (j). Pub. L. 98–615, §2(5)(B), added subsec. (j).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–346 substituted “such a position” for “such position” in par. (1)(B).
+1982—Subsec. (a). Pub. L. 97–346 substituted “such a position” for “such position” in par. (1)(B).
 
 Pub. L. 97–253, §303(c), substituted provisions that an employee or Member who is separated from the service for at least 31 consecutive days or is transferred to a position in which he is not subject to this subchapter for 31 days, and who files an application with the Office of Personnel Management for payment of a lump-sum credit, is not reemployed in a position subject to this subchapter at the time of filing, and will not be eligible for an annuity within 31 days of filing, is entitled to be paid the lump-sum credit and upon receipt of such payment, all annuity rights based on the service upon which the credit is based are voided until reemployment under this subchapter occurs for provisions that such employee or Member who was separated from the service, or was transferred to a position in which he did not continue subject to this subchapter, was entitled to be paid the lump-sum credit if his separation or transfer occurred and application for payment was filed with the Office of Personnel Management at least 31 days before the earliest commencing date of any annuity for which he was eligible, that the receipt of payment of the lump-sum credit by the individual voided all annuity rights under this subchapter until he was reemployed in the service subject to this subchapter, and that this subsection also applied to an employee or Member separated before October 1, 1956, after completing at least 20 years of civilian service.
 
-<b>1978</b>—Subsecs. (a) to (c), (g). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
+1978—Subsecs. (a) to (c), (g). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
 #### Effective Date of 1990 Amendment
 

@@ -42,7 +42,7 @@ Amendment by Pub. L. 89–719 applicable to contract entered into pursuant to in
 
 #### Effective Date
 
-Section 5 of act Aug. 24, 1935, provided in part: “That this act \[enacting this section and sections 270b to 270d of this title\] shall take effect upon the expiration of sixty days after the date of its enactment \[Aug. 24, 1935\], but shall not apply to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract.” \[Another section 5 of act Aug. 24, 1935, is classified to section 270d–1 of this title\].
+Section 7, formerly §5 of act Aug. 24, 1935, as renumbered by Pub. L. 104–106, div. D, title XLIII, §4321(i)(8), Feb. 10, 1996, 110 Stat. 676, provided in part: “That this act \[enacting this section and sections 270b to 270d of this title\] shall take effect upon the expiration of sixty days after the date of its enactment \[Aug. 24, 1935\], but shall not apply to any contract awarded pursuant to any invitation for bids issued on or before the date it takes effect, or to any persons or bonds in respect of any such contract.”
 
 #### Short Title
 

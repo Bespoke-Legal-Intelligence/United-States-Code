@@ -1,10 +1,14 @@
 ### §3713. Panama Canal emergency authority
 
-If authorizing legislation described in section 3712(c)(1) of this title has not been enacted for a fiscal year, then the Commission may withdraw funds from the Panama Canal Revolving Fund in order to defray emergency expenses and to ensure the continuous, efficient, and safe operation of the Panama Canal, including expenses for capital projects. The authority of this section may not be used for administrative expenses. The authority of this section may be exercised only until authorizing legislation described in section 3712(c)(1) of this title is enacted, or for a period of 24 months after the end of the fiscal year for which such authorizing legislation was last enacted, whichever occurs first. Within 60 days after the end of any calendar quarter in which expenditures are made under this section, the Commission shall report such expenditures to the appropriate committees of the Congress.
+If authorizing legislation described in section 3712(b)(1) of this title has not been enacted for a fiscal year, then the Commission may withdraw funds from the Panama Canal Revolving Fund in order to defray emergency expenses and to ensure the continuous, efficient, and safe operation of the Panama Canal, including expenses for capital projects. The authority of this section may be exercised only until authorizing legislation described in section 3712(b)(1) of this title is enacted, or for a period of 24 months after the end of the fiscal year for which such authorizing legislation was last enacted, whichever occurs first. Within 60 days after the end of any calendar quarter in which expenditures are made under this section, the Commission shall report such expenditures to the appropriate committees of the Congress.
 
-(Pub. L. 96–70, title I, §1303, Sept. 27, 1979, 93 Stat. 478; Pub. L. 100–203, title V, §5423(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–273.)
+(Pub. L. 96–70, title I, §1303, Sept. 27, 1979, 93 Stat. 478; Pub. L. 100–203, title V, §5423(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–273; Pub. L. 104–106, div. C, title XXXV, §3529(2), Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–201, div. C, title XXXV, §3548(b)(2), Sept. 23, 1996, 110 Stat. 2869.)
 
 #### Amendments
+
+1996—Pub. L. 104–201 substituted “section 3712(b)(1)” for “section 3712(c)(1)” in two places.
+
+Pub. L. 104–106 struck out “The authority of this section may not be used for administrative expenses.” after “capital projects.”
 
 1987—Pub. L. 100–203 substituted “authority” for “Fund” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -14,7 +18,7 @@ If authorizing legislation described in section 3712(c)(1) of this title has not
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3683 of this title.
+Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as a note under section 3712 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Reference.—In this section, the term ‘OBRA’ refers to the Omnibus Budget R
 
 “(2)
 
-Effective date.—Except as specifically provided in this section, the amendments made by this section \[amending sections 254<i>o</i>, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5, 1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395<i>l</i>, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealing provisions set out as notes under section 1395<i>l</i> of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
+Effective date.—Except as specifically provided in this section, the amendments made by this section \[amending sections 254<i>o</i>, 294f, 300aa–12, 300aa–15, 300aa–21, 426, 704, 912, 1320a–7, 1320a–7a, 1320a–7b, 1320b–5,1320b–7, 1320b–8, 1320c–3, 1320c–5, 1320c–9, 1395e, 1395h, 1395i–2, 1395i–3, 1395k, 1395<i>l</i>, 1395m, 1395u, 1395w–1, 1395w–2, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395dd, 1395gg, 1395mm, 1395ss, 1395tt, 1395ww, 1395aaa, 1395bbb, 1395ccc, 1396a, 1396b, 1396d, 1396j, 1396n, 1396<i>o</i>, 1396p, 1396r, 1396r–1, 1396r–3, 1396r–4, 1396s, and 1397d of Title 42, The Public Health and Welfare, amending provisions set out as notes under sections 426, 1320a–7a, 1320c–2, 1320c–3, 1395b–1, 1395h, 1395i–3, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–1, 1395x, 1395aa, 1395dd, 1395mm, 1395ss, 1395ww, 1395bbb, 1396a, 1396b, and 1396r of Title 42, and repealing provisions set out as notes under section 1395<i>l</i> of Title 42\], as they relate to a provision in OBRA, shall be effective as if they were included in the enactment of that provision in OBRA.
 
 “(3)
 
@@ -22,7 +22,7 @@ Ratification of enrollment corrections and printed enrollment.—
 
 &emsp;“(A)
 
-In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set outbelow\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
+In general.—Except as provided in subparagraph (B), the enrollment corrections noted in footnotes numbered 9 through 72 of OBRA are hereby ratified and shall be considered to have been enacted as part of OBRA. The printed enrollment of title IV of OBRA \[Pub. L. 100–203, title IV, Dec. 22, 1987, 101 Stat. 1330–39\], as prepared and printed under section 8004 of OBRA \[section 8004 of Pub. L. 100–203, set out below\] (including the footnote corrections described in subparagraph (B) and as incorporating the clarifications described in subparagraph (C)), shall be deemed to constitute title IV of OBRA as enacted.
 
 &emsp;“(B)
 
@@ -39,6 +39,24 @@ Clarifications of illegible matter.—(i) Section 1842(n)(1)(A) of the Social Se
 &emsp;“(ii) Section 1834(a)(7)(B)(i) of the Social Security Act, as inserted by section 4062(b) of OBRA (101 Stat. 1330–103) \[42 U.S.C. 1395m(a)(7)(B)(i)\], is deemed to have a reference to ‘1987’ immediately after ‘December’.”
 
 #### Printed Enrollments Prepared After Enactment
+
+Pub. L. 104–207, Sept. 30, 1996, 110 Stat. 3008, provided that:
+
+#### “SECTION 1. WAIVER OF REQUIREMENT FOR PARCHMENT PRINTING.
+
+“(a)
+
+Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of any appropriation measure of the One Hundred Fourth Congress presented to the President after the enactment of this joint resolution \[Sept. 30, 1996\].
+
+“(b)
+
+Certification of Enrollment by Committee on House Oversight.—The enrollment of any such measure shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.
+
+#### “SEC. 2. APPROPRIATION MEASURE DEFINED.
+
+“For purposes of this joint resolution, the term ‘appropriation measure’ means a bill or joint resolution that includes provisions making general or continuing appropriations for the fiscal year ending September 30, 1997.”
+
+Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
 Pub. L. 104–56, title II, §§201, 202, Nov. 20, 1995, 109 Stat. 553, provided that:
 
@@ -94,7 +112,7 @@ Pub. L. 101–497, Oct. 31, 1990, 104 Stat. 1205, provided that:
 
 “(a)
 
-Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of S. 2830 \[Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359\].
+Waiver.—The provisions of sections 106 and 107 of title 1, United States Code, are waived with respectto the printing (on parchment or otherwise) of the enrollment of S. 2830 \[Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359\].
 
 “(b)
 
@@ -212,7 +230,7 @@ Preparation.—
 
 &emsp;“(1)
 
-In general.—Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill to which sections 106 and 107 of title 1, United States Code, apply.
+In general.—Upon the enactment of a bill following presentment of such bill to the President in the form of a hand enrollment pursuant to the authority of section 1 of this resolution, the Clerk of the House of Representatives shall prepare a printed enrollment of that bill as in the case of a bill towhich sections 106 and 107 of title 1, United States Code, apply.
 
 &emsp;“(2)
 
@@ -244,7 +262,7 @@ Preparation of Printed Enrollment.—(1) Upon the enactment of this Act enrolled
 
 “(b)
 
-Transmittal to President.—A printed enrollment prepared pursuant to subsection (a) shall besigned by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this Act and shall be transmitted to the President.
+Transmittal to President.—A printed enrollment prepared pursuant to subsection (a) shall be signed by the presiding officers of both Houses of Congress as a correct printing of the hand enrollment of this Act and shall be transmitted to the President.
 
 “(c)
 

@@ -6,11 +6,15 @@ The Commission is authorized and directed to monitor the acts of the signatories
 
 #### References in Text
 
-The Final Act of the Conference on Security and Cooperation in Europe, referred to in text, means part four of the Helsinki Declaration which deals with follow-up to the Conference and possible steps to encourage compliance with its purposes and undertakings. The Declaration was signed on August 1, 1975 by the nine members of the European Economic Community and the 35 participants to the Conference included all the European States, both Communist (except Albania) and non-Communist, the United States, Canada, and several non-participating Mediterranean states.
+The Final Act of the Conference on Security and Cooperation in Europe, referred to in text, means partfour of the Helsinki Declaration which deals with follow-up to the Conference and possible steps to encourage compliance with its purposes and undertakings. The Declaration was signed on August 1, 1975 by the nine members of the European Economic Community and the 35 participants to the Conference included all the European States, both Communist (except Albania) and non-Communist, the United States, Canada, and several non-participating Mediterranean states. The Conference on Security and Cooperation in Europe is now called the Organization for Security and Cooperation in Europe.
 
 #### Amendments
 
 1985—Pub. L. 99–7 inserted “human rights and” after “relating to”.
+
+#### Change of Name
+
+The Conference on Security and Cooperation in Europe to be called the Organization for Security and Cooperation in Europe effective Jan. 1, 1995, pursuant to Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591.
 
 #### Effective Date of 1985 Amendment
 

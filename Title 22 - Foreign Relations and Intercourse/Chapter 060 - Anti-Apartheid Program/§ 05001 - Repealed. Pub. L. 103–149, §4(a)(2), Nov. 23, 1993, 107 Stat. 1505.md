@@ -86,7 +86,7 @@ Effective date of repeal of code of conduct requirements.—Sections 1, 3, 203(a
 
 &emsp;“(3)
 
-Conforming amendments.—(A) Section 3 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C.5001\] is amended by striking paragraphs (2) through (4) and paragraphs (7) through (9), by inserting ‘and’ at the end of paragraph (5), and by striking ‘; and’ at the end of paragraph (6) and inserting a period.
+Conforming amendments.—(A) Section 3 of the Comprehensive Anti-Apartheid Act of 1986 \[22 U.S.C. 5001\] is amended by striking paragraphs (2) through (4) and paragraphs (7) through (9), by inserting ‘and’ at the end of paragraph (5), and by striking ‘; and’ at the end of paragraph (6) and inserting a period.
 
 &emsp;“(B) The following provisions of the Foreign Assistance Act of 1961 that were enacted by the Comprehensive Anti-Apartheid Act of 1986 are repealed: subsections (e)(2), (f), and (g) of section 116 (22 U.S.C. 2151n); section 117 (22 U.S.C. 2151<i>o</i>), relating to assistance for disadvantaged South Africans; and section 535 (22 U.S.C. 2346d). Section 116(e)(1) of the Foreign Assistance Act of 1961 is amended by striking ‘(1)’.
 
@@ -176,7 +176,7 @@ Exceptions.—Notwithstanding paragraph (1), assistance may be provided for—
 
 &emsp;&emsp;“(B) South African higher education institutions, particularly those traditionally disadvantaged by apartheid policies; and
 
-&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance would promote the transition to nonracial democracy in South Africa.
+&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance wouldpromote the transition to nonracial democracy in South Africa.
 
 > &emsp;Any determination under subparagraph (C) should be based on consultations with South African individuals and organizations representative of the majority population in South Africa (particularly consultations through the Transitional Executive Council) and consultations with the appropriate congressional committees.
 
@@ -190,7 +190,7 @@ Acts of violence.—An organization that has engaged in armed struggle or other 
 
 &emsp;“(2)
 
-Views inconsistent with democracy and free enterprise.—Assistance provided in accordance withthis section may not be made available to any organization that has espoused views inconsistent with democracy and free enterprise unless such organization is engaged actively and positively in the process of transition to a nonracial democracy and such assistance would advance the United States objective of promoting democracy and free enterprise in South Africa.
+Views inconsistent with democracy and free enterprise.—Assistance provided in accordance with this section may not be made available to any organization that has espoused views inconsistent with democracy and free enterprise unless such organization is engaged actively and positively in the process of transition to a nonracial democracy and such assistance would advance the United States objective of promoting democracy and free enterprise in South Africa.
 
 #### “SEC. 6. UNITED STATES INVESTMENT AND TRADE.
 

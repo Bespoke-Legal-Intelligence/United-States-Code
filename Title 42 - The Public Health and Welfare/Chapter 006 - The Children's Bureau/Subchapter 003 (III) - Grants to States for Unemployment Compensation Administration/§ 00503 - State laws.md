@@ -12,7 +12,7 @@ The Secretary of Labor shall make no certification for payment to any State unle
 
 &emsp;(4) The payment of all money received in the unemployment fund of such State (except for refunds of sums erroneously paid into such fund and except for refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]), immediately upon such receipt, to the Secretary of the Treasury to the credit of the unemployment trust fund <sup>1</sup> established by section 1104 of this title; and
 
-&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided,</i> That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further,</i> That the amounts specified by section 1103(c)(2) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further,</i> That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
+&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
 
 &emsp;(6) The making of such reports, in such form and containing such information, as the Secretary of Labor may from time to time require, and compliance with such provisions as the Secretary of Labor may from time to time find necessary to assure the correctness and verification of such reports; and
 
@@ -36,7 +36,7 @@ Whenever the Secretary of Labor, after reasonable notice and opportunity for hea
 
 &emsp;(2) a failure to comply substantially with any provision specified in subsection (a) of this section;
 
-> the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such denial or failure to comply. Until he is so satisfied he shall make no further certification to the Secretary of the Treasury with respect to such State: <i>Provided,</i> That there shall be no finding under clause (1) until the question of entitlement shall have been decided by the highest judicial authority given jurisdiction under such State law: <i>Provided further,</i> That any costs may be paid with respect to any claimant by a State and included as costs of administration of its law.
+> the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such denial or failure to comply. Until he is so satisfied he shall make no further certification to the Secretary of the Treasury with respect to such State: <i>Provided</i>, That there shall be no finding under clause (1) until the question of entitlement shall have been decided by the highest judicial authority given jurisdiction under such State law: <i>Provided further</i>, That any costs may be paid with respect to any claimant by a State and included as costs of administration of its law.
 
 #### (c) Denial of certification; availability of records to Railroad Retirement Board; cooperation with Federal agencies
 
@@ -82,7 +82,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State food stamp agency.
 
-(C) Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes betreated as if it were paid to the individual as unemployment compensation and paid by the individual to the State food stamp agency to which the uncollected overissuance is owed as repayment of the individual's uncollected overissuance.
+(C) Any amount deducted and withheld under subparagraph (B)(iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by the individual to the State food stamp agency to which the uncollected overissuance is owed as repayment of the individual's uncollected overissuance.
 
 (D) A State food stamp agency to which an uncollected overissuance is owed shall reimburse the State agency charged with the administration of the State unemployment compensation law for the administrative costs incurred by the State agency under this paragraph that are attributable to repayment of uncollected overissuance to the State food stamp agency to which the uncollected overissuance is owed.
 
@@ -112,7 +112,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State agency under section 654(19)(B)(i) of this title, or
 
-&emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) of this title), and
+&emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>2</sup> of this title), and
 
 &emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
 
@@ -126,13 +126,15 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 (4) For purposes of this subsection, the term “State or local child support enforcement agency” means any agency of a State or political subdivision thereof operating pursuant to a plan described in the last sentence of paragraph (1).
 
+(5) A State or local child support enforcement agency may disclose to any agent of the agency that is under contract with the agency to carry out the purposes described in paragraph (1)(B) wage information that is disclosed to an officer or employee of the agency under paragraph (1)(A). Any agent of a State or local child support agency that receives wage information under this paragraph shall comply with the safeguards established pursuant to paragraph (1)(B).
+
 #### (f) Income and eligibility verification system
 
 The State agency charged with the administration of the State law shall provide that information shall be requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1320b–7 of this title.
 
 #### (g) Recovery of unemployment benefit payments
 
-(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply to the recovery of overpayments of regular unemployment compensation paid by such State.
+(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State,and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply to the recovery of overpayments of regular unemployment compensation paid by such State.
 
 (2) Any State may enter into an agreement with the Secretary of Labor under which—
 
@@ -142,11 +144,23 @@ The State agency charged with the administration of the State law shall provide 
 
 (3) For purposes of this subsection, “unemployment benefits” means unemployment compensation, trade adjustment allowances, and other unemployment assistance.
 
-#### (h) Access by Secretary of Health and Human Services to wage and unemployment compensation claims information; suspension by Secretary of Labor of payments to State for noncompliance
+#### (h) Disclosure to Secretary of Health and Human Services of wage and unemployment compensation claims information; suspension by Secretary of Labor of payments to State for noncompliance
 
-(1) The State agency charged with the administration of the State law shall take such actions (in such manner as may be provided in the agreement between the Secretary of Health and Human Services and the Secretary of Labor under section 653(e)(3) of this title) as may be necessary to enable the Secretary of Health and Human Services to obtain prompt access to any wage and unemployment compensation claims information (including any information that might be useful in locating an absent parent or such parent's employer) for use by the Secretary of Health and Human Services, for purposes of section 653 of this title, in carrying out the child support enforcement program under subchapter IV of this chapter.
+(1) The State agency charged with the administration of the State law shall, on a reimbursable basis—
 
-(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirement of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until such Secretary is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, such Secretary shall make no further certification to the Secretary of the Treasury with respect to such State.
+&emsp;(A) disclose quarterly, to the Secretary of Health and Human Services, wage and claim information, as required pursuant to section 653(i)(1) of this title, contained in the records of such agency;
+
+&emsp;(B) ensure that information provided pursuant to subparagraph (A) meets such standards relating to correctness and verification as the Secretary of Health and Human Services, with the concurrence of the Secretary of Labor, may find necessary; and
+
+&emsp;(C) establish such safeguards as the Secretary of Labor determines are necessary to insure that information disclosed under subparagraph (A) is used only for purposes of section 653(i)(1) of this title in carrying out the child support enforcement program under subchapter IV of this chapter.
+
+(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
+
+(3) For purposes of this subsection—
+
+&emsp;(A) the term “wage information” means information regarding wages paid to an individual, the social security account number of such individual, and the name, address, State, and the Federal employer identification number of the employer paying such wages to such individual; and
+
+&emsp;(B) the term “claim information” means information regarding whether an individual is receiving, has received, or has made application for, unemployment compensation, the amount of any such compensation being received (or to be received by such individual), and the individual's current (or most recent) home address.
 
 #### (i) Omitted
 
@@ -164,13 +178,11 @@ The State agency charged with the administration of the State law shall provide 
 
 (2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he shall make no further certification to the Secretary of the Treasury with respect to such State.
 
-(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; May 26, 1980, Pub. L. 96–249, title I, §127(b)(1), 94 Stat. 366; June 9, 1980, Pub. L. 96–265, title IV, §408(b)(1), 94 Stat. 468; Oct. 19, 1980, Pub. L. 96–473, §6(e)(1), 94 Stat. 2265; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2335(b), 95 Stat. 863; Sept. 3, 1982, Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), 96 Stat. 401, 403; Apr. 20, 1983, Pub. L. 98–21, title V, §§515(a), 523(b), 97 Stat. 147, 148; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), 98 Stat. 1149, 1165; Dec. 23, 1985, Pub. L. 99–198, title XV, §1535(b)(3), 99 Stat. 1584; Apr. 7, 1986, Pub. L. 99–272, title XII, §12401(a), 100 Stat. 297; Oct. 13, 1988, Pub. L. 100–485, title I, §124(b)(1), 102 Stat. 2353; Nov. 7, 1988, Pub. L. 100–628, title IX, §904(c)(1)(A), 102 Stat. 3260; July 3, 1992, Pub. L. 102–318, title IV, §401(a)(3), 106 Stat. 298; Nov. 24, 1993, Pub. L. 103–152, §4(a)(1), (b), 107 Stat. 1517; Dec. 8, 1993, Pub. L. 103–182, title V, §507(b)(3), 107 Stat. 2154; Dec. 8, 1994, Pub. L. 103–465, title VII, §702(c)(3), 108 Stat. 4997.)
+(Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; May 26, 1980, Pub. L. 96–249, title I, §127(b)(1), 94 Stat. 366; June 9, 1980, Pub. L. 96–265, title IV, §408(b)(1), 94 Stat. 468; Oct. 19, 1980, Pub. L. 96–473, §6(e)(1), 94 Stat. 2265; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2335(b), 95 Stat. 863; Sept. 3, 1982, Pub. L. 97–248, title I,§§171(b)(3), 175(a)(2), 96 Stat. 401, 403; Apr. 20, 1983, Pub. L. 98–21, title V, §§515(a), 523(b), 97 Stat. 147, 148; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), 98 Stat. 1149, 1165; Dec. 23, 1985, Pub. L. 99–198, title XV, §1535(b)(3), 99 Stat. 1584; Apr. 7, 1986, Pub. L. 99–272, title XII, §12401(a), 100 Stat. 297; Oct. 13, 1988, Pub. L. 100–485, title I, §124(b)(1), 102 Stat. 2353; Nov. 7, 1988, Pub. L. 100–628, title IX, §904(c)(1)(A), 102 Stat. 3260; July 3, 1992, Pub. L. 102–318, title IV, §401(a)(3), 106 Stat. 298; Nov. 24, 1993, Pub. L. 103–152, §4(a)(1), (b), 107 Stat. 1517; Dec. 8, 1993, Pub. L. 103–182, title V, §507(b)(3), 107 Stat. 2154; Dec. 8, 1994, Pub. L. 103–465, title VII, §702(c)(3), 108 Stat. 4997; Aug. 22, 1996, Pub. L. 104–193, title III, §§313(d), 316(g)(3), 110 Stat. 2212, 2219.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 507(e)(2) of Pub. L. 103–182, see Effective and</i><i>Termination Dates of 1993 Amendments note below.</i>
-
-<i>Pub. L. 103–465, title VII, §702(c)(3), (d), Dec. 8, 1994, 108 Stat. 4997, provided that, applicable to payments made after Dec. 31, 1996, subsection (a)(5) of this section is amended by inserting after “health insurance” the following: “, or the withholding of Federal, State, or local individual income tax,”.</i>
+<i>For termination of amendment by section 507(e)(2) of Pub. L. 103–182, see Effective and Termination Dates of 1993 Amendments note below.</i>
 
 #### References in Text
 
@@ -180,13 +192,25 @@ The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–52
 
 Part D of subchapter IV of this chapter, referred to in subsec. (e)(1), is classified to section 651 et seq. of this title.
 
+Section 662 of this title, referred to in subsec. (e)(2)(A)(iii)(III), was repealed by Pub. L. 104–193, title III, §362(b)(1), Aug. 22, 1996, 110 Stat. 2246.
+
 #### Codification
 
 Subsec. (i) of this section, which directed State agencies to disclose to the Department of Housing and Urban Development and to representatives of a public housing agency certain information from State employment records of individuals applying for or participating in any housing program administered by the Department of Housing and Urban Development, and further provided for establishment of safeguards to ensure that such information was used only for purpose of determining eligibility for, or amount of, benefits under a housing program of the Department, as well as penalties for failure to disclose or establish safeguards, was omitted pursuant to paragraph (5) of subsec. (i) which provided that the provisions of subsec. (i) would cease to be effective Oct. 1, 1994.
 
 #### Amendments
 
-1993—Subsec. (a)(5). Pub. L. 103–182, §507(b)(3), (e)(2), temporarily substituted “: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986); and” for “; and” at end. See Effective and Termination Dates of 1993 Amendments note below.
+1996—Subsec. (e)(5). Pub. L. 104–193, §313(d), added par. (5).
+
+Subsec. (h). Pub. L. 104–193, §316(g)(3), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+
+“(1) The State agency charged with the administration of the State law shall take such actions (in such manner as may be provided in the agreement between the Secretary of Health and Human Services and the Secretary of Labor under section 653(e)(3) of this title) as may be necessary to enable the Secretary of Health and Human Services to obtain prompt access to any wage and unemployment compensation claims information (including any information that might be useful in locating an absent parent or such parent's employer) for use by the Secretary of Health and Human Services, for purposes of section 653 of this title, in carrying out the child support enforcement program under subchapter IV of this chapter.
+
+“(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirement of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until such Secretary is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, such Secretary shall make no further certification to the Secretary of the Treasury with respect to such State.”
+
+1994—Subsec. (a)(5). Pub. L. 103–465 inserted “, or the withholding of Federal, State, or local individual income tax,” after “health insurance”.
+
+1993—Subsec. (a)(5). Pub. L. 103–182, §507(b)(3), (e)(2), temporarily substituted “: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986); and” for “; and” at end. See Effective and Termination Dates of 1993 Amendments note below.
 
 Subsec. (a)(10). Pub. L. 103–152, §4(b), added par. (10).
 
@@ -243,6 +267,10 @@ Subsec. (e). Pub. L. 96–473 redesignated former subsec. (d) as added by Pub. L
 Subsec. (c)(2). Act June 20, 1939, substituted “unemployment” for “employment”.
 
 1938—Subsec. (c). Act June 25, 1938, added subsec. (c).
+
+#### Effective Date of 1996 Amendment
+
+For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -320,7 +348,9 @@ Withdrawal as breach of conditions, see note set out under section 363 of Title 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 504, 1103, 3544, 4728 of this title; title 5 section 8506; title 7 section 2020; title 26 section 3306; title 29 section 49d; title 45 section 363.
+This section is referred to in sections 504, 653a, 1103, 3544, 4728 of this title; title 5 section 8506; title 7 section 2020; title 26 section 3306; title 29 section 49d; title 45 section 363.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Unemployment Trust Fund”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

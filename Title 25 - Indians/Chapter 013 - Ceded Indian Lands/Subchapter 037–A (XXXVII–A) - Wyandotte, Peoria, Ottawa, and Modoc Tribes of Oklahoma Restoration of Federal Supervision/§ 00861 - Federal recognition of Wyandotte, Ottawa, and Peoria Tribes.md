@@ -16,7 +16,7 @@ The following Acts are hereby repealed:
 
 #### (c) Tribal rights and privileges; reinstatement and continuation
 
-There are hereby reinstated all rights and privileges of each of the tribes described in subsection (a) of this section and their members under Federal treaty, statute, or otherwise which may have been diminished or lost pursuant to the Act relating to them which is repealed by subsection (b) of this section. Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by each of such tribes or their members now or prior to enactment of such Act, under Federal treaty, statute, or otherwise, which are not inconsistent with the provisions of this subchapter.
+There are hereby reinstated all rights and privileges of each of the tribes described in subsection (a) of this section and their members under Federal treaty, statute, or otherwisewhich may have been diminished or lost pursuant to the Act relating to them which is repealed by subsection (b) of this section. Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by each of such tribes or their members now or prior to enactment of such Act, under Federal treaty, statute, or otherwise, which are not inconsistent with the provisions of this subchapter.
 
 #### (d) Continuation of property or contractual rights or obligations and tax obligations
 

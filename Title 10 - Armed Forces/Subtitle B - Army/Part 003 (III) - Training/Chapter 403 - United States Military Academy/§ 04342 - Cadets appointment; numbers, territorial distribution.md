@@ -20,6 +20,8 @@
 
 &emsp;(9) One cadet from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
+&emsp;(10) One cadet from the Commonwealth of the Northern Marianas <sup>1</sup> Islands, nominated by the resident representative from the commonwealth.
+
 > Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
 (b) In addition, there may be appointed each year at the Academy cadets as follows:
@@ -46,9 +48,9 @@
 
 (e) If the annual quota of cadets under subsection (b)(1), (2), (3) is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.
 
-(f) Each candidate for admission nominated under clauses (3) through (9) of subsection (a) must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
+(f) Each candidate for admission nominated under clauses (3) through (9) of subsection (a)must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
 
-(g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committees on Armed Services of the Senate and House of Representatives, subject to the following:
+(g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives, subject to the following:
 
 &emsp;(1) Cadets chargeable to each nominating authority named in subsection (a)(3) or (4) may not be limited to less than four.
 
@@ -74,7 +76,7 @@
 
 (h) The Secretary of the Army shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Sept. 2, 1958, Pub. L. 85–861, §33(a)(26), 72 Stat. 1565; Sept.14, 1962, Pub. L. 87–663, §1(1), (2), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §1(1), 78 Stat. 148; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(4), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(1), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §1(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §512(13), 94 Stat. 2930; Dec. 24, 1980, Pub. L. 96–600, §2(a), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(a)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(1), (b)(1), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(a)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1672(c)(3), 108 Stat. 3015.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Sept. 2, 1958, Pub. L. 85–861, §33(a)(26), 72 Stat. 1565; Sept. 14, 1962, Pub. L. 87–663, §1(1), (2), 76 Stat. 547; Mar. 3, 1964, Pub. L. 88–276, §1(1), 78 Stat. 148; Oct. 13, 1966, Pub. L. 89–650, §1(1)–(4), 80 Stat. 896; July 5, 1968, Pub. L. 90–374, 82 Stat. 283; Oct. 22, 1968, Pub. L. 90–623, §2(8), 82 Stat. 1314; Sept. 22, 1970, Pub. L. 91–405, title II, §204(c), 84 Stat. 852; Aug. 7, 1972, Pub. L. 92–365, §1(1), 86 Stat. 505; Nov. 29, 1973, Pub. L. 93–171, §1(1)–(4), 87 Stat. 690; Oct. 7, 1975, Pub. L. 94–106, title VIII, §803(b)(1), 89 Stat. 538; Dec. 12, 1980, Pub. L. 96–513, title V, §512(13), 94 Stat. 2930; Dec. 24, 1980, Pub. L. 96–600, §2(a), 94 Stat. 3493; Oct. 14, 1981, Pub. L. 97–60, title II, §203(a)(1), 95 Stat. 1006; Sept. 24, 1983, Pub. L. 98–94, title X, §1005(a)(1), (b)(1), 97 Stat. 660; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Nov. 5, 1990, Pub. L. 101–510, div. A, title V, §532(a)(1), 104 Stat. 1563; Nov. 30, 1993, Pub. L. 103–160, div. A, title V, §531, 107 Stat. 1657; Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1672(c)(3), 108 Stat. 3015; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), 110 Stat. 314, 502.)
 
 Historical and Revision Notes
 
@@ -158,9 +160,13 @@ In subsection (h), the words “or shall hereafter be” are omitted as surplusa
 
 #### References in Text
 
-Section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(1)(B), means section 1331 of this title prior to its renumbering as section 12731 of this title and its general revision by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
+Section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (b)(1)(B), means section 1331 of this title prior to its renumbering as section 12731 of this title and its general revision by Pub. L. 103–337,div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 #### Amendments
+
+1996—Subsec. (a)(10). Pub. L. 104–106, §532(a), added par. (10).
+
+Subsec. (g). Pub. L. 104–106, §1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
 
@@ -218,10 +224,6 @@ Subsec. (c). Pub. L. 87–633, §1(2), inserted references to American Samoa, Gu
 
 1958—Subsec. (c). Pub. L. 85–861 inserted a comma after “district”.
 
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -258,7 +260,7 @@ Pub. L. 102–190, div. A, title V, §511(a)–(d), Dec. 5, 1991, 105 Stat. 1359
 
 “(a)
 
-Reduction in Authorized Strengths.—The authorized strength of the Corps of Cadets of the UnitedStates Military Academy, the Air Force Cadets of the United States Air Force Academy, and the brigade of midshipmen of the United States Naval Academy may not exceed 4,000 for each service academy for class years beginning after 1994.
+Reduction in Authorized Strengths.—The authorized strength of the Corps of Cadets of the United States Military Academy, the Air Force Cadets of the United States Air Force Academy, and the brigade of midshipmen of the United States Naval Academy may not exceed 4,000 for each service academy for class years beginning after 1994.
 
 “(b)
 
@@ -289,4 +291,6 @@ Section 803(c) of Pub. L. 94–106 provided that: “It is the sense of Congress
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4343, 4344 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Mariana”.</i>
 

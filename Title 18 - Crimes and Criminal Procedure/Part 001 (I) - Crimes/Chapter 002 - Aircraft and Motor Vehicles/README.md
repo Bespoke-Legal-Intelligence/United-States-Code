@@ -16,10 +16,6 @@
 
 1994—Pub. L. 103–322, title VI, §§60008(c), 60021(b), Sept. 13, 1994, 108 Stat. 1972, 1980, added items 36 and 37.
 
-<i><sup>1</sup></i><i> So in original. No section 22 has been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
 
 ---
 

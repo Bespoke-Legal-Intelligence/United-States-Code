@@ -68,11 +68,11 @@ Work authorized by this chapter shall be for the purpose of dam safety maintenan
 
 #### (g) Technical assistance
 
-To carry out the purposes of this chapter, the Secretary may obtain technical assistance on anonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenance and Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
+To carry out the purposes of this chapter, the Secretary may obtain technical assistance on a nonreimbursable basis from other departments and agencies. Notwithstanding any such technical assistance, the Dam Safety Maintenanceand Repair Program established under subsection (a) of this section shall be under the direction and control of the Bureau.
 
 #### (h) Contract authority
 
-In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes (under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) \[25 U.S.C. 450 et seq.\]), as amended, to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
+In addition to any other authority established by law, the Secretary is authorized to contract with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) to carry out the Dam Safety Maintenance and Repair Program established under this chapter.
 
 #### (i) Annual report
 
@@ -84,11 +84,15 @@ The Secretary shall submit an annual report on the implementation of this chapte
 
 > The report shall be submitted at the time the budget is required to be submitted under section 1105 of title 31 to the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate.
 
-(Pub. L. 103–302, §4, Aug. 23, 1994, 108 Stat. 1561.)
+(Pub. L. 103–302, §4, Aug. 23, 1994, 108 Stat. 1561; Pub. L. 104–109, §3, Feb. 12, 1996, 110 Stat. 764.)
 
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (h). Pub. L. 104–109 substituted “under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)” for “(under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e))), as amended,”.
 
 #### Change of Name
 

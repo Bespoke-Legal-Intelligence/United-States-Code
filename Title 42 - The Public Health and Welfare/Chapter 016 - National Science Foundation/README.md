@@ -51,7 +51,7 @@
 | (g) | Appointment and assignment of staff; compensation; security requirements. |
 | (h) | Special commissions. |
 | (i) | Committees; survey and advisory functions. |
-| (j) | Annual report to President; submittal to Congress. |
+| (j) | Report to President; submittal to Congress. |
 | (k) | Closed meetings. |
 | (k) | Financial disclosure report for Board members. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |

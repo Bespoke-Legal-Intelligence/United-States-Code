@@ -18,11 +18,9 @@
 | [12009\.](%C2%A7%2012009%20-%20Army%20and%20Air%20Force%20reserve%20components%20temporary%20increases.md) | Army and Air Force reserve components: temporary increases. |
 | [12010\.](%C2%A7%2012010%20-%20Computations%20for%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20rule%20when%20fraction%20occurs%20in%20final%20result.md) | Computations for Naval Reserve and Marine Corps Reserve: rule when fraction occurs in final result. |
 | [12011\.](%C2%A7%2012011%20-%20Authorized%20strengths%20reserve%20officers%20on%20active%20duty%20or%20on%20full-time%20National%20Guard%20duty%20for%20administration%20of%20the%20reserves%20or%20the%E2%80%A6.md) | Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard. |
-| [12012\.](%C2%A7%2012012%20-%20Authorized%20strengths%20senior%20enlisted%20members%20on%20active%20duty%20or%20on%20full-time%20National%20Guard%20duty%20for%20administration%20of%20the%20reserves%20or%E2%80%A6.md) | Authorized strengths: senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or the National Guard.<sup>1</sup> |
+| [12012\.](%C2%A7%2012012%20-%20Authorized%20strengths%20senior%20enlisted%20members%20on%20active%20duty%20or%20on%20full-time%20National%20Guard%20duty%20for%20administration%20of%20the%20reserves%20or%20the%E2%80%A6.md) | Authorized strengths: senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or the National Guard. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -42,4 +40,4 @@
 - [&sect; 12009 - Army and Air Force reserve components temporary increases](%C2%A7%2012009%20-%20Army%20and%20Air%20Force%20reserve%20components%20temporary%20increases.md)
 - [&sect; 12010 - Computations for Naval Reserve and Marine Corps Reserve rule when fraction occurs in final result](%C2%A7%2012010%20-%20Computations%20for%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20rule%20when%20fraction%20occurs%20in%20final%20result.md)
 - [&sect; 12011 - Authorized strengths reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the&#8230;](%C2%A7%2012011%20-%20Authorized%20strengths%20reserve%20officers%20on%20active%20duty%20or%20on%20full-time%20National%20Guard%20duty%20for%20administration%20of%20the%20reserves%20or%20the%E2%80%A6.md)
-- [&sect; 12012 - Authorized strengths senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or&#8230;](%C2%A7%2012012%20-%20Authorized%20strengths%20senior%20enlisted%20members%20on%20active%20duty%20or%20on%20full-time%20National%20Guard%20duty%20for%20administration%20of%20the%20reserves%20or%E2%80%A6.md)
+- [&sect; 12012 - Authorized strengths senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or the&#8230;](%C2%A7%2012012%20-%20Authorized%20strengths%20senior%20enlisted%20members%20on%20active%20duty%20or%20on%20full-time%20National%20Guard%20duty%20for%20administration%20of%20the%20reserves%20or%20the%E2%80%A6.md)

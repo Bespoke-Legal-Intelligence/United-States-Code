@@ -1,9 +1,9 @@
 
-17 U.S.C.<br>United States Code, 1995 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 1996 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
-<i>This title was enacted by act July 30, 1947, ch. 391, 61 Stat. 652, and was revised in its entirety by Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541</i>
+<i>    This title was enacted by act July 30, 1947, ch. 391, 61 Stat. 652, and was revised in its entirety by     Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541</i>
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
@@ -44,9 +44,13 @@
 
 Table I<br>This Table lists the sections of former Title 17, Copyrights, and indicates the sections of Title 17, as enacted in 1947, which covered similar and related subject matter.
 
-<i>Title 17      Former Sections     </i>
+<i>Title 17</i>
 
-<i>Title 17   1947 Revision Sections  </i>
+<i>Former Sections</i>
+
+<i>Title 17</i>
+
+<i>1947 Revision Sections</i>
 
 1
 
@@ -310,9 +314,13 @@ Rep.
 
 Table II<br>This Table lists the sections of former Title 17, Copyrights, and indicates the sections of Title 17, as revised in 1976, which cover similar and related subject matter.
 
-<i>Title 17   1947 Revision Sections  </i>
+<i>Title 17</i>
 
-<i>Title 17         New Sections        </i>
+<i>1947 Revision Sections</i>
+
+<i>Title 17</i>
+
+<i>New Sections</i>
 
 1
 
@@ -598,7 +606,7 @@ Power of the Congress to regulate copyrights, see Const., Art. I, §8, cl. 8.
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 section 179d; title 11 section 101; title 18 sections 2319, 2319A; title 19 section 1337; title 20 sections 1125a, 6622, 8673; title 26 section 543; title 47 sections 542, 544, 605.
+This title is referred to in title 2 section 179p; title 11 section 101; title 18 sections 2319, 2319A; title 19 section 1337; title 20 sections 1125a, 6622, 8673; title 26 section 543; title 47 sections 542, 544, 605.
 
 
 ---

@@ -22,13 +22,13 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(3) describe the significant characteristics of the jurisdiction's housing market, indicating how those characteristics will influence the use of funds made available for rental assistance, production of new units, rehabilitation of old units, or acquisition of existing units;
 
-&emsp;(4) explain whether the cost of housing or the incentives to develop, maintain, or improve affordable housing in the jurisdiction are affected by public policies, particularly bypolicies of the jurisdiction, including tax policies affecting land and other property, land use controls, zoning ordinances, building codes, fees and charges, growth limits, and policies that affect the return on residential investment, and describe the jurisdiction's strategy to remove or ameliorate negative effects, if any, of such policies, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph;
+&emsp;(4) explain whether the cost of housing or the incentives to develop, maintain, or improve affordable housing in the jurisdiction are affected by public policies, particularly by policies of the jurisdiction, including tax policies affecting land and other property, land use controls, zoning ordinances, building codes, fees and charges, growth limits, and policies that affect the return on residential investment, and describe the jurisdiction's strategy to remove or ameliorate negative effects, if any, of such policies, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph;
 
 &emsp;(5) explain the institutional structure, including private industry, nonprofit organizations, and public institutions, through which the jurisdiction will carry out its housing strategy, assessing the strengths and gaps in that delivery system and describing what the jurisdiction will do to overcome those gaps;
 
 &emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
 
-&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
+&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the Stewart B. McKinney Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
 
 &emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuant to subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
 
@@ -126,7 +126,7 @@ Pub. L. 102–550, §220(b)(3), which directed amendment of subsec. (b) by addin
 
 Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding “after paragraph (16), as added by the preceding provisions of this Act”, a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, to reflect the probable intent of Congress.
 
-Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, as (17).
+Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within ajurisdiction with incomes below the poverty line, as (17).
 
 Subsec. (e). Pub. L. 102–550, §1014(4), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -138,7 +138,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437e, 1437f, 1437v, 1437aaa–1, 1437aaa–2, 1439, 1485, 3035i, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
+This section is referred to in sections 1437e, 1437f, 1437v, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 3035i, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

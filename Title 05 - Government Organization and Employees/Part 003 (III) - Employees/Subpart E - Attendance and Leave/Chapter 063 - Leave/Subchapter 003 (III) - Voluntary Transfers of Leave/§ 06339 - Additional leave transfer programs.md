@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) the Federal Bureau of Investigation;
 
-&emsp;&emsp;(E) the Central Imagery Office; and
+&emsp;&emsp;(E) the National Imagery and Mapping Agency; and
 
 &emsp;&emsp;(F) as determined by the President, any Executive agency or unit thereof, the principal function of which is the conduct of foreign intelligence or counterintelligence activities; and
 
@@ -26,9 +26,9 @@
 
 &emsp;&emsp;(D) with respect to the Federal Bureau of Investigation, the Director of the Federal Bureau of Investigation;
 
-&emsp;&emsp;(E) with respect to the Central Imagery Office, the Director of the Central Imagery Office; and
+&emsp;&emsp;(E) with respect to the National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency; and
 
-&emsp;&emsp;(F) with respect to an Executive agency designated under paragraph (1)(F), the head of such Executive agency, and with respectto a unit of an Executive agency designated under paragraph (1)(F), such individual as the President may determine.
+&emsp;&emsp;(F) with respect to an Executive agency designated under paragraph (1)(F), the head of such Executive agency, and with respect to a unit of an Executive agency designated under paragraph (1)(F), such individual as the President may determine.
 
 (b) Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.
 
@@ -42,13 +42,21 @@
 
 (d) The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429.)
+(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1)(E), (F). Pub. L. 103–359, §501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
+1996—Subsec. (a)(1)(E). Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+
+Subsec. (a)(2)(E). Pub. L. 104–201, §1122(a)(2), substituted “National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency” for “Central Imagery Office, the Director of the Central Imagery Office”.
+
+1994—Subsec. (a)(1)(E), (F). Pub. L. 103–359, §501(i)(1), added subpar. (E) and redesignated former subpar. (E) as (F).
 
 Subsec. (a)(2)(E), (F). Pub. L. 103–359, §501(i)(2), added subpar. (E), redesignated former subpar. (E) as (F), and substituted “paragraph (1)(F)” for “paragraph (1)(E)” in two places in subpar. (F).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a), (b)
 
@@ -36,9 +38,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1975</b>—Subsec. (c). Pub. L. 94–183 substituted “of this title” for “of title 5” and “of this title” for “of this chapter”.
+1975—Subsec. (c). Pub. L. 94–183 substituted “of this title” for “of title 5” and “of this title” for “of this chapter”.
 
-<b>1969</b>—Subsec. (c). Pub. L. 91–93 provided for eligibility for a survivor annuity under section 8341(d) or (e)(1) of this title only if the requisite amounts are deducted or deposited with respect to total service period.
+1969—Subsec. (c). Pub. L. 91–93 provided for eligibility for a survivor annuity under section 8341(d) or (e)(1) of this title only if the requisite amounts are deducted or deposited with respect to total service period.
 
 #### Effective Date of 1969 Amendment
 

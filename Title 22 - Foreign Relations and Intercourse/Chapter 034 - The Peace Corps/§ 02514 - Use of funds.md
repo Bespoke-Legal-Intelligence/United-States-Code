@@ -48,7 +48,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Sections 1881 to 1888 of title 7, referred to in subsec. (c), were repealed by Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925. See section 3371 et seq. of Title 5, Government Organization and Employees.
 
-Section 3561 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (d)(6), probably was meant to be a reference to section 3651 of the Revised Statutes, which was classified to section 543 of former Title 31 and which was repealed by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+Section 3561 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (d)(6), probably was meant to be a reference to section 3651 of the Revised Statutes, which was classified to section 543 of former Title 31 and which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 The Foreign Service Act of 1946, referred to in subsec. (d)(11), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980. The Foreign Service Act of 1980 is classified principally to chapter 52 (§3901 et seq.) of this title. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to the Foreign Service Act of 1946, see Table preceding section 801 of this title. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
@@ -72,7 +72,7 @@ Subsec. (d)(4). Pub. L. 89–572, §3(b), substituted “2506(c)” for “2506(
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ In determining whether and to what extent agricultural commodities shall be made
 
 &emsp;(2) demonstrate the capacity to use food assistance effectively;
 
-&emsp;(3) have demonstrated a commitment to policies to promote food security, includingpolicies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
+&emsp;(3) have demonstrated a commitment to policies to promote food security, including policies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
 
 &emsp;(4) have a long-term plan for broad-based, equitable, and sustainable development.
 

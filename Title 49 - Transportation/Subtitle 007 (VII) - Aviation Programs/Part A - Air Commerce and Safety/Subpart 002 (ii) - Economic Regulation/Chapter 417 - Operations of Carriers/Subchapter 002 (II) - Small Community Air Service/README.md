@@ -20,4 +20,4 @@ This subchapter is referred to in sections 329, 40117, 41709, 41714 of this titl
 - [&sect; 41739 - Air carrier obligations](%C2%A7%2041739%20-%20Air%20carrier%20obligations.md)
 - [&sect; 41740 - Joint proposals](%C2%A7%2041740%20-%20Joint%20proposals.md)
 - [&sect; 41741 - Insurance](%C2%A7%2041741%20-%20Insurance.md)
-- [&sect; 41742 - Ending effective date](%C2%A7%2041742%20-%20Ending%20effective%20date.md)
+- [&sect; 41742 - Essential air service authorization](%C2%A7%2041742%20-%20Essential%20air%20service%20authorization.md)

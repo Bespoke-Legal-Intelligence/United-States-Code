@@ -2,19 +2,21 @@
 
 (a)
 
-General.—The Secretary of Transportation shall make available from amounts made available to carry out section 402 of title 23 $4,000,000 for each of the fiscal years ending September 30, 1993, and September 30, 1994 <sup>1</sup> and $2,550,000 for each of fiscal years 1995 and 1996, to carry out this chapter.
+General.—The Secretary of Transportation shall make available from amounts made available to carry out section 402 of title 23 $4,000,000 for each of the fiscal years ending September 30, 1993, and September 30, 1994, and $2,550,000 for each of fiscal years 1995 and 1996, to carry out this chapter.
 
 (b)
 
 Availability of Amounts.—Amounts authorized under this section remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 979; Pub. L. 103–331, title III, §343, Sept. 30, 1994, 108 Stat. 2496; Pub. L. 103–429, §6(25), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–59, title III, §343, Nov. 28, 1995, 109 Stat. 610.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 979; Pub. L. 103–331, title III, §343, Sept. 30, 1994, 108 Stat. 2496; Pub. L. 103–429, §6(25), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–59, title III, §343, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(59), Oct. 11, 1996, 110 Stat. 3394.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -32,7 +34,13 @@ In subsection (a), the text of section 211(a) of the National Driver Register Ac
 
 This amends 49:30308(b) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 979).
 
+#### Pub. L. 104–287
+
+This amends 49:30308 to correct a grammatical error.
+
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–287 inserted a comma after “September 30, 1994”.
 
 1995—Subsec. (a). Pub. L. 104–59 substituted “and $2,550,000 for each of fiscal years 1995 and 1996” for “and $2,550,000 for fiscal year 1995”.
 

@@ -66,6 +66,12 @@ Pub. L. 103–333, title V, §515, Sept. 30, 1994, 108 Stat. 2574, provided that
 
 &emsp;“(3) no funds provided under this or any subsequent appropriation act shall be available for the salary (or any part thereof) of an employee who is reassigned on a temporary detail basis to another position in the employing agency or department or in any other agency or department, unless the detail is independently approved by the head of the employing department or agency.”
 
+Provisions similar to those in section 515 of Pub. L. 103–333 were contained in the following appropriation acts:
+
+Pub. L. 104–208, div. A, title I, §101(e) \[title V, §509\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–269.
+
+Pub. L. 104–134, title I, §101(d) \[title V, §509\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–244; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 10 section 2633; title 40 section 481; title 42 section 9619.

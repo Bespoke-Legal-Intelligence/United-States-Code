@@ -6,7 +6,7 @@ Any decision or proposed policy by the President or the National Aeronautics and
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act,1984, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, 1984, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Amendments
 
@@ -24,7 +24,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. The Department of Transportation is designated as the lead agency within the Federal government for encouraging and facilitating commercial ELV activities by the United States private sector.
 
-Sec. 2. <i>Responsibilities of Lead Agency.</i> The Secretary of Transportation shall, to the extent permitted by law and subject to the availability of appropriations, perform the following functions:
+Sec. 2. <i>Responsibilities of Lead Agency</i>. The Secretary of Transportation shall, to the extent permitted by law and subject to the availability of appropriations, perform the following functions:
 
 (a) act as a focal point within the Federal government for private sector space launch contacts related to commercial ELV operations;
 
@@ -44,7 +44,7 @@ Sec. 2. <i>Responsibilities of Lead Agency.</i> The Secretary of Transportation 
 
 Sec. 3. An interagency group, chaired by the Secretary of Transportation and composed of representatives from the Department of State, the Department of Defense, the Department of Commerce, the Federal Communications Commission, and the National Aeronautics and Space Administration, is hereby established. This group shall meet at the call of the Chair and shall advise and assist the Department of Transportation in performing its responsibilities under this Order.
 
-Sec. 4. <i>Responsibilities of Other Agencies.</i> All executive departments and agencies shall assist the Secretary of Transportation in carrying out this Order. To the extent permitted by law and in consultation with the Secretary of Transportation, they shall:
+Sec. 4. <i>Responsibilities of Other Agencies</i>. All executive departments and agencies shall assist the Secretary of Transportation in carrying out this Order. To the extent permitted by law and in consultation with the Secretary of Transportation, they shall:
 
 (a) provide the Secretary of Transportation with information concerning agency regulatory actions which may affect development of commercial ELV operations;
 

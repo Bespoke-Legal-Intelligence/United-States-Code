@@ -2,21 +2,23 @@
 
 #### (a) In general
 
-Upon receiving a certification from the Secretary of Health, Education, and Welfare, under section 452(b) of the Social Security Act with respect to any individual, the Secretary shall assess and collect the amount certified by the Secretary of Health, Education, and Welfare, in the same manner, with the same powers, and (except as provided in this section) subject to the same limitations as if such amount were a tax imposed by subtitle C the collection of which would be jeopardized by delay, except that—
+Upon receiving a certification from the Secretary of Health and Human Services, under section 452(b) of the Social Security Act with respect to any individual, the Secretary shall assess and collect the amount certified by the Secretary of Health and Human Services, in the same manner, with the same powers, and (except as provided in this section) subject to the same limitations as if such amount were a tax imposed by subtitle C the collection of which would be jeopardized by delay, except that—
 
 &emsp;(1) no interest or penalties shall be assessed or collected,
 
 &emsp;(2) for such purposes, paragraphs (4), (6), and (8) of section 6334(a) (relating to property exempt from levy) shall not apply,
 
-&emsp;(3) there shall be exempt from levy so much of the salary, wages, or other income of an individual as is being withheld therefrom in garnishment pursuant to a judgment entered by a court of competent jurisdiction for the support of his minor children, and
+&emsp;(3) there shall be exempt from levy so much of the salary, wages, or other income of an individual as is being withheld therefrom in garnishment pursuant to a judgment entered by a court of competent jurisdiction for the support of his minor children,
 
-&emsp;(4) in the case of the first assessment against an individual for delinquency under a court or administrative order against such individual for a particular person or persons, the collection shall be stayed for a period of 60 days immediately following notice and demand as described in section 6303.
+&emsp;(4) in the case of the first assessment against an individual for delinquency under a court or administrative order against such individual for a particular person or persons, the collection shall be stayed for a period of 60 days immediately following notice and demand as described in section 6303, and
+
+&emsp;(5) no additional fee may be assessed for adjustments to an amount previously certified pursuant to such section 452(b) with respect to the same obligor.
 
 #### (b) Review of assessments and collections
 
 No court of the United States, whether established under article I or article III of the Constitution, shall have jurisdiction of any action, whether legal or equitable, brought to restrain or review the assessment and collection of amounts by the Secretary under subsection (a), nor shall any such assessment and collection be subject to review by the Secretary in any proceeding. This subsection does not preclude any legal, equitable, or administrative action against the State by an individual in any State court or before any State agency to determine his liability for any amount assessed against him and collected, or to recover any such amount collected from him, under this section.
 
-(Added Pub. L. 93–647, §101(b)(1), Jan. 4, 1975, 88 Stat. 2358; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–35, title XXIII, §2332(g), Aug. 13, 1981, 95 Stat. 862.)
+(Added Pub. L. 93–647, §101(b)(1), Jan. 4, 1975, 88 Stat. 2358; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–35, title XXIII, §2332(g), Aug. 13, 1981, 95 Stat. 862; Pub. L. 104–193, title III, §361(a), Aug. 22, 1996, 110 Stat. 2242.)
 
 #### References in Text
 
@@ -24,13 +26,17 @@ Section 452(b) of the Social Security Act, referred to in subsec. (a), is classi
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–193, §361(a)(4), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 104–193, §361(a)(1)–(3), added par. (5).
+
 1981—Subsec. (a)(4). Pub. L. 97–35 inserted reference to administrative order.
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Change of Name
+#### Effective Date of 1996 Amendment
 
-Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
+Section 361(b) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1997.”
 
 #### Effective Date of 1981 Amendment
 
@@ -38,7 +44,7 @@ Amendment by Pub. L. 97–35 effective, except as otherwise specifically provide
 
 #### Effective Date
 
-Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out as a note under section 651 of title 42, the Public Health and Welfare.
+Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out as a note under section 651 of Title 42, the Public Health and Welfare.
 
 #### Section Referred to in Other Sections
 

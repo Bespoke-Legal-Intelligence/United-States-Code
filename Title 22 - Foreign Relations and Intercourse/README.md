@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 1995 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 1996 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -41,6 +41,7 @@
 | [<b>29A.</b>](Chapter%20029A%20-%20Inter-American%20Cultural%20and%20Trade%20Center/README.md) | <b>Inter-American Cultural and Trade Center</b> | <b>2081</b> |
 | [<b>30.</b>](Chapter%20030%20-%20International%20Cooperation%20in%20Health%20and%20Medical%20Research/README.md) | <b>International Cooperation in Health and Medical Research</b> | <b>2101</b> |
 | [<b>31.</b>](Chapter%20031%20-%20International%20Travel/README.md) | <b>International Travel</b> | <b>2121</b> |
+| [<b>31A.</b>](Chapter%20031A%20-%20National%20Tourism%20Organization/README.md) | <b>National Tourism Organization</b> | <b>2141</b> |
 | <b>32.</b> | <b>Foreign Assistance</b> | <b>2151</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Mutual%20Educational%20and%20Cultural%20Exchange%20Program/README.md) | <b>Mutual Educational and Cultural Exchange Program</b> | <b>2451</b> |
 | [<b>34.</b>](Chapter%20034%20-%20The%20Peace%20Corps/README.md) | <b>The Peace Corps</b> | <b>2501</b> |
@@ -83,8 +84,10 @@
 | [<b>68.</b>](Chapter%20068%20-%20Demilitarization%20of%20Former%20Soviet%20Union/README.md) | <b>Demilitarization of Former Soviet Union</b> | <b>5901</b> |
 | [<b>68A.</b>](Chapter%20068A%20-%20Cooperative%20Threat%20Reduction%20with%20States%20of%20Former%20Soviet%20Union/README.md) | <b>Cooperative Threat Reduction With States of Former Soviet Union</b> | <b>5951</b> |
 | [<b>69.</b>](Chapter%20069%20-%20Cuban%20Democracy/README.md) | <b>Cuban Democracy</b> | <b>6001</b> |
+| [<b>69A.</b>](Chapter%20069A%20-%20Cuban%20Liberty%20and%20Democratic%20Solidarity%20%28LIBERTAD%29/README.md) | <b>Cuban Liberty and Democratic Solidarity (LIBERTAD)</b> | <b>6021</b> |
 | [<b>70.</b>](Chapter%20070%20-%20Mansfield%20Fellowship%20Program/README.md) | <b>Mansfield Fellowship Program</b> | <b>6101</b> |
 | [<b>71.</b>](Chapter%20071%20-%20United%20States%20International%20Broadcasting/README.md) | <b>United States International Broadcasting</b> | <b>6201</b> |
+| [<b>72.</b>](Chapter%20072%20-%20Nuclear%20Proliferation%20Prevention/README.md) | <b>Nuclear Proliferation Prevention</b> | <b>6301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -128,6 +131,7 @@
 - [Chapter 029A - Inter-American Cultural and Trade Center](Chapter%20029A%20-%20Inter-American%20Cultural%20and%20Trade%20Center/README.md)
 - [Chapter 030 - International Cooperation in Health and Medical Research](Chapter%20030%20-%20International%20Cooperation%20in%20Health%20and%20Medical%20Research/README.md)
 - [Chapter 031 - International Travel](Chapter%20031%20-%20International%20Travel/README.md)
+- [Chapter 031A - National Tourism Organization](Chapter%20031A%20-%20National%20Tourism%20Organization/README.md)
 - [Chapter 033 - Mutual Educational and Cultural Exchange Program](Chapter%20033%20-%20Mutual%20Educational%20and%20Cultural%20Exchange%20Program/README.md)
 - [Chapter 034 - The Peace Corps](Chapter%20034%20-%20The%20Peace%20Corps/README.md)
 - [Chapter 035 - Arms Control and Disarmament](Chapter%20035%20-%20Arms%20Control%20and%20Disarmament/README.md)
@@ -167,5 +171,7 @@
 - [Chapter 068 - Demilitarization of Former Soviet Union](Chapter%20068%20-%20Demilitarization%20of%20Former%20Soviet%20Union/README.md)
 - [Chapter 068A - Cooperative Threat Reduction with States of Former Soviet Union](Chapter%20068A%20-%20Cooperative%20Threat%20Reduction%20with%20States%20of%20Former%20Soviet%20Union/README.md)
 - [Chapter 069 - Cuban Democracy](Chapter%20069%20-%20Cuban%20Democracy/README.md)
+- [Chapter 069A - Cuban Liberty and Democratic Solidarity (LIBERTAD)](Chapter%20069A%20-%20Cuban%20Liberty%20and%20Democratic%20Solidarity%20%28LIBERTAD%29/README.md)
 - [Chapter 070 - Mansfield Fellowship Program](Chapter%20070%20-%20Mansfield%20Fellowship%20Program/README.md)
 - [Chapter 071 - United States International Broadcasting](Chapter%20071%20-%20United%20States%20International%20Broadcasting/README.md)
+- [Chapter 072 - Nuclear Proliferation Prevention](Chapter%20072%20-%20Nuclear%20Proliferation%20Prevention/README.md)

@@ -18,7 +18,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 &emsp;(3) whether the recipient country—
 
-&emsp;&emsp;(A) is seeking to acquire unsafeguarded special nuclear material (as defined in section 830(8) of the Nuclear Proliferation Prevention Act of 1994) or a nuclear explosive device (as defined in section 830(4) of that Act);
+&emsp;&emsp;(A) is seeking to acquire unsafeguarded special nuclear material (as defined in section 6305(8) of this title) or a nuclear explosive device (as defined in section 6305(4) of this title);
 
 &emsp;&emsp;(B) is not a State Party to the Treaty on the Non-Proliferation of Nuclear Weapons; or
 
@@ -32,7 +32,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 (2) Each report required by paragraph (1) shall—
 
-&emsp;(A) include a list of all loans considered by the Board <sup>1</sup> of Executive Directors of the institutions listed in subsection (a) of this sectionand shall specify with respect to each such loan—
+&emsp;(A) include a list of all loans considered by the Board <sup>1</sup> of Executive Directors of the institutions listed in subsection (a) of this section and shall specify with respect to each such loan—
 
 &emsp;&emsp;(i) the institution involved;
 
@@ -82,19 +82,11 @@ The United States Executive Directors of the institutions listed in subsection (
 
 The Secretary of the Treasury or his delegate shall consult frequently and in a timely manner with the chairmen and ranking minority members of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate to inform them regarding any prospective changes in policy direction toward countries which have or recently have had poor human rights records.
 
-(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title X, §1004, Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 851 of Pub. L. 103–236, see Effective and Termination Dates of 1994 Amendment note below.</i>
-
-#### References in Text
-
-Section 830 of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (b)(3)(A), is section 830 of Pub. L. 103–236 which is set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+(Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L.97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title X, §1004, Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512.)
 
 #### Amendments
 
-1994—Subsec. (b)(3). Pub. L. 103–236 temporarily amended par. (3) generally. Prior to amendment, par. (3) read as follows: “whether the recipient country has detonated a nuclear device or is not a State Party to the Treaty on Nonproliferation of Nuclear Weapons or both; and”. See Effective and Termination Dates of 1994 Amendment note below.
+1994—Subsec. (b)(3). Pub. L. 103–236 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “whether the recipient country has detonated a nuclear device or is not a State Party to the Treaty on Nonproliferation of Nuclear Weapons or both; and”.
 
 1992—Subsec. (a). Pub. L. 102–511, §1008(a), substituted “the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund,” for “and the African Development Bank,”.
 
@@ -102,7 +94,7 @@ Subsec. (b)(4). Pub. L. 102–511, §1008(b), inserted “Russia and the other i
 
 1990—Subsec. (g). Pub. L. 101–513 struck out “(2)” before “The Secretary” and substituted “of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate” for “specified in paragraph (1)”.
 
-1989—Subsec. (c). Pub. L. 101–240, §541(c), amended subsec. (c) generally, substituting provisions relatingto quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
+1989—Subsec. (c). Pub. L. 101–240, §541(c), amended subsec. (c) generally, substituting provisions relating to quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
 
 Subsec. (d). Pub. L. 101–240, §541(e)(8), struck out at end “The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs.”
 
@@ -124,9 +116,9 @@ Subsec. (g). Pub. L. 96–259, §501(b), added subsec. (g).
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Effective and Termination Dates of 1994 Amendment
+#### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, and ceases to be effective and is repealed on date of enactment of first Foreign Relations Authorization Act enacted after Apr. 30, 1994, and any provision repealed by that amendment shall be reenacted, see sections 831 and 851 of Pub. L. 103–236, set out in the Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment note under section 3201 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -156,7 +148,7 @@ Implementation of United States policy opposing the practice of torture by forei
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 262r, 2799aa–1, 5605 of this title.
+This section is referred to in sections 262r, 2799aa–1, 5605, 6302 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Boards”.</i>
 

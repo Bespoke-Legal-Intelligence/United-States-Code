@@ -18,7 +18,7 @@ It is the purpose of this section to—
 
 &emsp;The amount of each grant awarded pursuant to paragraph (1) shall be computed on the basis of—
 
-&emsp;&emsp;(A) a Federal match in an amount equal to the initial State deposit into each accountestablished pursuant to subsection (c)(2)(B) of this section, except that such Federal match shall not exceed $50 per child; multiplied by
+&emsp;&emsp;(A) a Federal match in an amount equal to the initial State deposit into each account established pursuant to subsection (c)(2)(B) of this section, except that such Federal match shall not exceed $50 per child; multiplied by
 
 &emsp;&emsp;(B) the number of children participating in the program assisted under this part.
 

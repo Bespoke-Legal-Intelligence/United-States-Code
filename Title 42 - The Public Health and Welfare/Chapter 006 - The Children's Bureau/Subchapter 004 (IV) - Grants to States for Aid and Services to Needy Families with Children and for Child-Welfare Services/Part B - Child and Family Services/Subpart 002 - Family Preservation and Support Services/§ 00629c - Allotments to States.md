@@ -12,7 +12,7 @@ From the amount described in section 629(b) of this title for any fiscal year th
 
 #### (1) In general
 
-&emsp;From the amount described in section 629(b) of this title for any fiscal year that remains after applying section 629(d) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the food stamp percentage of the State for the fiscal year.
+&emsp;From the amount described in section 629(b) of this title for any fiscal year that remainsafter applying section 629(d) of this title and subsection (b) of this section for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in subsection (b) of this section an amount equal to such remaining amount multiplied by the food stamp percentage of the State for the fiscal year.
 
 #### (2) “Food stamp percentage” defined
 

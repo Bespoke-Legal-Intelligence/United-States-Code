@@ -14,11 +14,59 @@ Model disclosure forms and clauses shall be adopted by the Board after notice du
 
 #### (d) Effective dates of regulations containing new disclosure requirements
 
-Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosures previously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
+Any regulation of the Board, or any amendment or interpretation thereof, requiring any disclosure which differs from the disclosurespreviously required by this part, part D, or part E of this subchapter or by any regulation of the Board promulgated thereunder shall have an effective date of that October 1 which follows by at least six months the date of promulgation, except that the Board may at its discretion take interim action by regulation, amendment, or interpretation to lengthen the period of time permitted for creditors or lessors to adjust their forms to accommodate new requirements or shorten the length of time for creditors or lessors to make such adjustments when it makes a specific finding that such action is necessary to comply with the findings of a court or to prevent unfair or deceptive disclosure practices. Notwithstanding the previous sentence, any creditor or lessor may comply with any such newly promulgated disclosure requirements prior to the effective date of the requirements.
 
-(Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194.)
+#### (f) <sup>1</sup> Exemption authority
+
+#### (1) In general
+
+&emsp;The Board may exempt, by regulation, from all or part of this subchapter any class of transactions, other than transactions involving any mortgage described in section 1602(aa) of this title, for which, in the determination of the Board, coverage under all or part of this subchapter does not provide a meaningful benefit to consumers in the form of useful information or protection.
+
+#### (2) Factors for consideration
+
+&emsp;In determining which classes of transactions to exempt in whole or in part under paragraph (1), the Board shall consider the following factors and publish its rationale at the time a proposed exemption is published for comment:
+
+&emsp;&emsp;(A) The amount of the loan and whether the disclosures, right of rescission, and other provisions provide a benefit to the consumers who are parties to such transactions, as determined by the Board.
+
+&emsp;&emsp;(B) The extent to which the requirements of this subchapter complicate, hinder, or make more expensive the credit process for the class of transactions.
+
+&emsp;&emsp;(C) The status of the borrower, including—
+
+&emsp;&emsp;&emsp;(i) any related financial arrangements of the borrower, as determined by the Board;
+
+&emsp;&emsp;&emsp;(ii) the financial sophistication of the borrower relative to the type of transaction; and
+
+&emsp;&emsp;&emsp;(iii) the importance to the borrower of the credit, related supporting property, and coverage under this subchapter, as determined by the Board;
+
+&emsp;&emsp;(D) whether the loan is secured by the principal residence of the consumer; and
+
+&emsp;&emsp;(E) whether the goal of consumer protection would be undermined by such an exemption.
+
+#### (g) Waiver for certain borrowers
+
+#### (1) In general
+
+&emsp;The Board, by regulation, may exempt from the requirements of this subchapter certain credit transactions if—
+
+&emsp;&emsp;(A) the transaction involves a consumer—
+
+&emsp;&emsp;&emsp;(i) with an annual earned income of more than $200,000; or
+
+&emsp;&emsp;&emsp;(ii) having net assets in excess of $1,000,000 at the time of the transaction; and
+
+&emsp;&emsp;(B) a waiver that is handwritten, signed, and dated by the consumer is first obtained from the consumer.
+
+#### (2) Adjustments by the Board
+
+&emsp;The Board, at its discretion, may adjust the annual earned income and net asset requirements of paragraph (1) for inflation.
+
+(Pub. L. 90–321, title I, §105, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI, §605, Mar. 31, 1980, 94 Stat. 170; Pub. L. 103–325, title I, §152(e)(2)(A), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 104–208, div. A, title II, §§2102(b), 2104, Sept. 30, 1996, 110 Stat. 3009–399, 3009–401.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–208, §2102(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 104–208, §2104, added subsec. (g).
 
 1994—Subsec. (a). Pub. L. 103–325 substituted “Except in the case of a mortgage referred to in section 1602(aa) of this title, these” for “These” in second sentence.
 
@@ -27,4 +75,6 @@ Any regulation of the Board, or any amendment or interpretation thereof, requiri
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (e) has been enacted.</i>
 

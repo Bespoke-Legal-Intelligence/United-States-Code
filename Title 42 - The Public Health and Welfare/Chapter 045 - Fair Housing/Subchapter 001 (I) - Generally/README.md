@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1437<i>l</i>, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 3535, 3608a, 3616a, 4621, 5304, 5306, 5307, 6727, 8013, 11386, 11394, 12181, 12754, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603 of this title; title 12 sections 1701q, 1708, 4545; title 15 section 1691e; title 23 section 117; title 31 section 6711; title 49 section 70304.
+This subchapter is referred to in sections 1437<i>l</i>, 1437v, 1437w, 1437aaa–1, 1437aaa–2, 3535, 3608a, 3616a, 4621, 5304, 5306, 5307, 6727, 8013, 11386, 11394, 12181, 12754, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603 of this title; title 12 sections 1701q, 1708, 4545; title 15 section 1691e; title 23 section 117; title 25 section 4131; title 31 section 6711; title 49 section 70304.
 
 
 ---
@@ -24,6 +24,7 @@ This subchapter is referred to in sections 1437<i>l</i>, 1437v, 1437w, 1437aaa�
 - [&sect; 03612 - Enforcement by Secretary](%C2%A7%2003612%20-%20Enforcement%20by%20Secretary.md)
 - [&sect; 03613 - Enforcement by private persons](%C2%A7%2003613%20-%20Enforcement%20by%20private%20persons.md)
 - [&sect; 03614 - Enforcement by Attorney General](%C2%A7%2003614%20-%20Enforcement%20by%20Attorney%20General.md)
+- [&sect; 03614&#8211;1 - Incentives for self-testing and self-correction](%C2%A7%2003614%E2%80%931%20-%20Incentives%20for%20self-testing%20and%20self-correction.md)
 - [&sect; 03614a - Rules to implement subchapter](%C2%A7%2003614a%20-%20Rules%20to%20implement%20subchapter.md)
 - [&sect; 03615 - Effect on State laws](%C2%A7%2003615%20-%20Effect%20on%20State%20laws.md)
 - [&sect; 03616 - Cooperation with State and local agencies administering fair housing laws; utilization of services and personnel; reimbursement; written&#8230;](%C2%A7%2003616%20-%20Cooperation%20with%20State%20and%20local%20agencies%20administering%20fair%20housing%20laws%3B%20utilization%20of%20services%20and%20personnel%3B%20reimbursement%3B%20written%E2%80%A6.md)

@@ -54,7 +54,7 @@ If the Assistant Secretary finds that any State has failed to carry out this sub
 
 #### Prior Provisions
 
-A prior section 3058b, Pub. L. 89–73, title VII, §704, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat. 1789, related to older Americans personal health education and training program, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
+A prior section 3058b, Pub. L. 89–73, title VII, §704, as added Pub. L. 98–459, title VII, §701, Oct. 9, 1984, 98 Stat.1789, related to older Americans personal health education and training program, prior to repeal by Pub. L. 100–175, title I, §181, title VII, §701(a), (b), Nov. 29, 1987, 101 Stat. 964, 983, effective Oct. 1, 1987, with certain exceptions.
 
 A prior section 703 of Pub. L. 89–73 was classified to section 3045b of this title prior to repeal by Pub. L. 95–478.
 

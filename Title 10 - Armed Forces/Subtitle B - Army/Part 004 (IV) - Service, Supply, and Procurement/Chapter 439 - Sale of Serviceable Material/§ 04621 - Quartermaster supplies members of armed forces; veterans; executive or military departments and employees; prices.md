@@ -1,6 +1,6 @@
 ### §4621. Quartermaster supplies: members of armed forces; veterans; executive or military departments and employees; prices
 
-(a) The branch, office, or officer designated by the Secretary of the Army shall procure and sell, for cash or credit—
+(a) The Secretary of the Army shall procure and sell, for cash or credit—
 
 &emsp;(1) articles specified by the Secretary of the Army or a person designated by him, to members of the Army; and
 
@@ -8,15 +8,15 @@
 
 > An account of sales on credit shall be kept and the amount due reported to any branch, office, or officer designated by the Secretary. Except for articles and items acquired through the use of working capital funds under section 2208 of this title, sales of articles shall be at cost, and sales of individual clothing and equipment shall be at average current prices, including overhead, as determined by the Secretary.
 
-(b) The branch, office, or officer designated by the Secretary shall sell subsistence supplies to members of other armed forces at the prices at which like property is sold to members of the Army.
+(b) The Secretary shall sell subsistence supplies to members of other armed forces at the prices at which like property is sold to members of the Army.
 
-(c) The branch, office, or officer designated by the Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Army.
+(c) The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Army.
 
 (d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
 
 (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Army honorably or under honorable conditions, at the prices at which like articles are sold to members of the Army. This subsection does not modify section 772 or 773 of this title.
 
-(f) Whenever, under regulations to be prescribed by the Secretary, subsistence supplies are furnished to any branch of the Army or sold to employees of any executive department other than the Department of Defense, payment shall be made in cash.
+(f) Whenever, under regulations to be prescribed by the Secretary, subsistence supplies are furnished to any branch of the Army or sold to employees of any executive department other than the Department of Defense, payment shall be made in cash or by commercial credit.
 
 (g) The Secretary may, by regulation, provide for the procurement and sale of stores designated by him to such civilian officers and employees of the United States, and such other persons, as he considers proper—
 
@@ -28,7 +28,7 @@
 
 (h) Appropriations for subsistence of the Army may be applied to the purchase of subsistence supplies for sale to members of the Army on active duty for the use of themselves and their families.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 257; Sept. 7, 1962, Pub. L. 87–651, title I, §118, 76 Stat. 513; Dec. 12, 1980, Pub. L. 96–513, title V, §512(17), 94 Stat. 2930; Dec. 4, 1987, Pub. L. 100–180, div. A, title III, §313(c), 101 Stat. 1074; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 257; Sept. 7, 1962, Pub. L. 87–651, title I, §118, 76 Stat. 513; Dec. 12, 1980, Pub. L. 96–513, title V, §512(17), 94 Stat. 2930; Dec. 4, 1987, Pub. L. 100–180, div. A, title III, §313(c), 101 Stat. 1074; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1621(a)(1), 103 Stat. 1602; Feb. 10, 1996, Pub. L. 104–106, div. A, title III, §375(b)(1), 110 Stat. 283.)
 
 Historical and Revision Notes<br>1956
 
@@ -41,6 +41,12 @@ Act
 <i>Source (Statutes at Large)</i>
 
 4621(a)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 4621(b)
 
@@ -64,9 +70,13 @@ R.S. 1144; June 28, 1950, ch. 383, §402(a), 64 Stat. 272.
 
 4621(d)
 
+&nbsp;
+
 4621(e)
 
 4621(f)
+
+&nbsp;
 
 4621(g)
 
@@ -136,7 +146,7 @@ In subsections (c) and (d), the words “other armed forces” are substituted f
 
 In subsection (d), the words “other than subsistence supplies” are inserted, since the sale of subsistence supplies is covered by subsection (c).
 
-In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy \* \* \* or Marine Corps”, omitted from the 1952 Edition of the United States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall \* \* \* be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
+In subsection (e), the words “a person who has been discharged” are substituted for the words “discharged officers and enlisted men”. The words “Navy \* \* \* or Marine Corps”, omitted from the 1952 Edition of theUnited States Code, are inserted to conform to the source statute. The words “may buy” are substituted for the words “shall \* \* \* be permitted to purchase”. The words “at the prices at which like property is sold” are substituted for the words “at the same price as charged”. The word “member” is substituted for the words “officers and enlisted men”. The words “while undergoing such care and treatment” are omitted as surplusage.
 
 In subsection (f), the words “person who has been discharged” are substituted for the words “former members \* \* \* who have been separated therefrom”. The words “at the prices at which like articles are sold to members” are inserted to conform to the last sentence of subsection (a) and subsection (e).
 
@@ -151,6 +161,12 @@ In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act o
 The change corrects an internal reference.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–106, §375(b)(1)(A), substituted “The Secretary of the Army” for “The branch, office, or officer designated by the Secretary of the Army”.
+
+Subsecs. (b), (c). Pub. L. 104–106, §375(b)(1)(B), substituted “The Secretary” for “The branch, office, or officer designated by the Secretary”.
+
+Subsec. (f). Pub. L. 104–106, §375(b)(1)(C), inserted “or by commercial credit” before period at end.
 
 1989—Subsec. (d). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

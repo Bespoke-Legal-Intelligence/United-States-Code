@@ -126,7 +126,7 @@ Amendment by section 1877(c) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Section 736 of subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369 provided that: “Except as otherwiseprovided in this subtitle, any amendment made by this subtitle \[amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\] shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates.”
+Section 736 of subtitle C (§§731–736) of title VII of div. A of Pub. L. 98–369 provided that: “Except as otherwise provided in this subtitle, any amendment made by this subtitle \[amending this section and sections 48, 1366, 4052, 4053, 4071 to 4073, 4081, 4082, 4216, 4218, 4221 to 4223, 4227, 4481, 6401, 6412, 6416, 6427, 6511, and 9502 of this title, repealing sections 4061 to 4063 of this title, and amending provisions set out as notes under sections 4061 and 4081 of this title\] shall take effect as if included in the provisions of the Highway Revenue Act of 1982 \[Pub. L. 97–424\] to which such amendment relates.”
 
 #### Effective Date
 

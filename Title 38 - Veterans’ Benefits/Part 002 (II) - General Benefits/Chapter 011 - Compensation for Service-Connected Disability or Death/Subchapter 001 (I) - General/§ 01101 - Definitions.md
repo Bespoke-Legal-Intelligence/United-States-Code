@@ -182,7 +182,7 @@ Limitation on Fiscal Year 1994
 
 Cost-of-Living Adjustment for Certain DIC Recipients.—(1) During fiscal year 1994, the amount of any increase in any of the rates of dependency and indemnity compensation in effect under section 1311(a)(3) of title 38, United States Code, will not exceed 50 percent of the new law increase, rounded down (if not an even dollar amount) to the next lower dollar.
 
-“(2) For purposes of paragraph (1), the new law increase is the amount by which the rate of dependencyand indemnity compensation provided for recipients under section 1311(a)(1) of such title is increased for fiscal year 1994.”
+“(2) For purposes of paragraph (1), the new law increase is the amount by which the rate of dependency and indemnity compensation provided for recipients under section 1311(a)(1) of such title is increased for fiscal year 1994.”
 
 Pub. L. 101–508, title VIII, §8005, Nov. 5, 1990, 104 Stat. 1388–343, provided that:
 
@@ -192,7 +192,7 @@ Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustm
 
 “(b)
 
-Increase Payable as of January 1992.—The amount of compensation or dependency and indemnity compensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month by the amount equal to the amount of the monthly increase provided for that individual's benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
+Increase Payable as of January 1992.—The amount of compensation or dependency and indemnitycompensation payable to any individual for the month of January 1992 who is entitled to such benefits as of January 1, 1992, shall be increased for such month by the amount equal to the amount of the monthly increase provided for that individual's benefit level as of January 1, 1991, pursuant to the adjustments described in subsection (a).”
 
 #### Benefits and Services for Former Prisoners of War; Implementation of Programs; Records for Disposition of Claims; Definition
 

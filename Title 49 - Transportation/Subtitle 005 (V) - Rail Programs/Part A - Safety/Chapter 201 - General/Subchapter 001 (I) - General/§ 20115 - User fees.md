@@ -46,7 +46,9 @@ Expiration.—This section expires on September 30, 1995.
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

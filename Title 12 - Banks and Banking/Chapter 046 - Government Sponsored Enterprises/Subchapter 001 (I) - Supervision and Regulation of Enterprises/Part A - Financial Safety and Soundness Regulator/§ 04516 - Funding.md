@@ -2,7 +2,7 @@
 
 #### (a) Annual assessments
 
-The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient toprovide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.
+The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.
 
 #### (b) Allocation of annual assessment to enterprises
 
@@ -12,7 +12,7 @@ The Director may, to the extent provided in appropriation Acts, establish and co
 
 #### (2) Timing of payment
 
-&emsp;The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made.
+&emsp;The annual assessment shall be payable semiannually for each fiscal year, on October 1 and April 1.
 
 #### (3) “Total assets” defined
 
@@ -58,11 +58,15 @@ There is established in the Treasury of the United States a fund to be known as 
 
 &emsp;The annual plans, forecasts, and reports required under this subsection shall be included (A) in the Budget of the United States in the appropriate form, and (B) in the congressional justifications of the Department of Housing and Urban Development for each fiscal year in a form determined by the Secretary.
 
-(Pub. L. 102–550, title XIII, §1316, Oct. 28, 1992, 106 Stat. 3947.)
+(Pub. L. 102–550, title XIII, §1316, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 104–134, title I, §101(e) \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–288; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (f)(2), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (b)(2). Pub. L. 104–134 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made.”
 
 #### Non-Reduction of First Annual Assessment
 

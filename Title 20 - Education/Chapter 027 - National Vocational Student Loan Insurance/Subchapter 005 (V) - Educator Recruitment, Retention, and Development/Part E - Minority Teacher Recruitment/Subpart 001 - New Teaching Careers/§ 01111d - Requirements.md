@@ -2,7 +2,7 @@
 
 #### (a) General requirements
 
-An eligible recipient of a grant under this subpart shall require that any paraprofessional who receives student financial assistance under this subpart and who becomes a fully certified or licensed teacher enter into an agreement under which the paraprofessional shall—
+An eligible recipient of a grant under this subpart shall require that any paraprofessional whoreceives student financial assistance under this subpart and who becomes a fully certified or licensed teacher enter into an agreement under which the paraprofessional shall—
 
 &emsp;(1) within the 10-year period after completing the postsecondary education for which the assistance was provided, act as an educational professional or a paraprofessional in the local educational agency that is a consortium member of the eligible recipient providing such assistance, or, if no teaching position is offered by such local educational agency, in a shortage area school approved by the State for a period of not less than one year for each full-time academic year or equivalent for which the assistance was received;
 

@@ -12,7 +12,7 @@ Except as provided in subsections (b), (c), and (d) of this section, there are a
 
 #### (b) Exemptions
 
-There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this title not to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
+There are authorized to be appropriated to the Secretary to assist him and the Endangered Species Committee in carrying out their functions under sections <sup>1</sup> 1536(e), (g), and (h) of this titlenot to exceed $600,000 for each of fiscal years 1988, 1989, 1990, 1991, and 1992.
 
 #### (c) Convention implementation
 
@@ -40,7 +40,7 @@ Par. (2). Pub. L. 95–632 substituted provision authorizing appropriations of n
 
 1976—Par. (1). Pub. L. 94–325, §1(1), redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
 
-Par. (2). Pub. L. 94–325, §1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation forthe fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
+Par. (2). Pub. L. 94–325, §1(2), redesignated par. (B) as (2), inserted provisions authorizing appropriation for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $2,000,000 for fiscal year 1974, and not to exceed $1,500,000 for fiscal year 1975.
 
 #### Section Referred to in Other Sections
 

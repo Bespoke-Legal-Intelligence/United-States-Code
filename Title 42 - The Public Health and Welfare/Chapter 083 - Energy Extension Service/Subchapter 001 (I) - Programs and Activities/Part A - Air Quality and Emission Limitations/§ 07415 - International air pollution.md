@@ -28,7 +28,7 @@ Section was formerly classified to section 1857d of this title.
 
 1970—Subsec. (a). Pub. L. 91–604, §4(b)(2), inserted “and which is covered by subsection (b) or (c) of this section” after “persons”.
 
-Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as (b)(1), (2), and (3), substituted “Administrator” for “Secretary” wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
+Subsec. (b). Pub. L. 91–604, §§4(b)(3), (4), (5), 15(c)(2), redesignated former subsec. (d)(1)(A), (B), and (C) as\(b)(1), (2), and (3), substituted “Administrator” for “Secretary” wherever appearing, and added subsec. (b)(4). Former subsec. (b), which related to the encouragement of municipal, State, and interstate action to abate air pollution, was struck out.
 
 Subsec. (c). Pub. L. 91–604, §§4(b)(3), (6), 15(c)(2), redesignated former subsec. (d)(1)(D) as (c) and substituted “Administrator” for “Secretary” and “Secretary of Health, Education, and Welfare” wherever appearing and “subsection” for “subparagraph” wherever appearing. Former subsec. (c), which related to the procedure for the promulgation of State air quality standards, was struck out.
 
@@ -46,7 +46,7 @@ Subsec. (k). Pub. L. 91–604, §4(b)(3), (10), substituted provisions relating 
 
 1967—Subsec. (b). Pub. L. 90–148 substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
-Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2)provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 90–148 redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f) and amended.
 

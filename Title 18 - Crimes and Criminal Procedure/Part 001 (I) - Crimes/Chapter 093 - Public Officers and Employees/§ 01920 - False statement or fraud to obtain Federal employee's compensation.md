@@ -1,8 +1,8 @@
 ### §1920. False statement or fraud to obtain Federal employee's compensation
 
-Whoever knowingly and willfully falsifies, conceals, or covers up a material fact, or makes a false, fictitious, or fraudulent statement or representation, or makes or uses a false statement or report knowing the same to contain any false, fictitious, or fraudulent statement or entry in connection with the application for or receipt of compensation or other benefit or payment under subchapter I or III of chapter 81 of title 5, shall be guilty of perjury, and on conviction thereof shall be punished by a fine of not more than $250,000, or by imprisonment for not more than 5 years, or both; but if the amount of the benefits falsely obtained does not exceed $1,000, such person shall be punished by a fine of not more than $100,000, or by imprisonment for not more than 1 year, or both.
+Whoever knowingly and willfully falsifies, conceals, or covers up a material fact, or makes a false, fictitious, or fraudulent statement or representation, or makes or uses a false statement or report knowing the same to contain any false, fictitious, or fraudulent statement or entry in connection with the application for or receipt of compensation or other benefit or payment under subchapter I or III of chapter 81 of title 5, shall be guilty of perjury, and on conviction thereof shall be punished by a fine under this title, or by imprisonment for not more than 5 years, or both; but if the amount of the benefits falsely obtained does not exceed $1,000, such person shall be punished by a fine under this title, or by imprisonment for not more than 1 year, or both.
 
-(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–333, title I, §101(b)(1), Sept. 30, 1994, 108 Stat. 2547.)
+(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–333, title I, §101(b)(1), Sept. 30, 1994, 108 Stat. 2547; Pub. L. 104–294, title VI, §601(a)(10), Oct. 11, 1996, 110 Stat. 3498.)
 
 Historical and Revision Notes
 
@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 789.
 
@@ -28,7 +30,13 @@ Minor changes in phraseology are made to conform to the style of title 18.
 
 #### Amendments
 
-1994—Pub. L. 103–333 substituted “False statement or fraud to obtain Federal employee's compensation” for“False statement to obtain Federal employees’ compensation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever makes, in an affidavit or report required by section 8106 of title 5 or in a claim for compensation under subchapter I of chapter 81 of title 5, a statement, knowing it to be false, is guilty of perjury and shall be fined under this title or imprisoned not more than one year, or both.”
+1996—Pub. L. 104–294 substituted “fine under this title” the first place it appears for “fine of not more than $250,000” and “fine under this title” the second place it appears for “fine of not more than $100,000”.
+
+1994—Pub. L. 103–333 substituted “False statement or fraud to obtain Federal employee's compensation” for “False statement to obtain Federal employees’ compensation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever makes, in an affidavit or report required by section 8106 of title 5 or in a claim for compensation under subchapter I of chapter 81 of title 5, a statement, knowing it to be false, is guilty of perjury and shall be fined under this title or imprisoned not more than one year, or both.”
 
 Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 8148.
 

@@ -4,6 +4,10 @@ This chapter may be cited as the “Fair Labor Standards Act of 1938”.
 
 (June 25, 1938, ch. 676, §1, 52 Stat. 1060.)
 
+#### Short Title of 1996 Amendment
+
+Pub. L. 104–188, \[title II\], §2104(a), Aug. 20, 1996, 110 Stat. 1928, provided that: “This section \[amending section 206 of this title\] may be cited as the ‘Minimum Wage Increase Act of 1996’.”
+
 #### Short Title of 1995 Amendment
 
 Pub. L. 104–26, §1, Sept. 6, 1995, 109 Stat. 264, provided that: “This Act \[amending section 207 of this title and enacting provisions set out as a note under section 207 of this title\] may be cited as the ‘Court Reporter Fair Labor Amendments of 1995’.”
@@ -42,7 +46,7 @@ Act Aug. 8, 1956, ch. 1035, §1, 70 Stat. 1118, provided: “That this Act \[ame
 
 #### Short Title of 1955 Amendment
 
-Act Aug. 12, 1955, ch. 867, §1, 69 Stat. 711, provided: “That this Act \[amending sections 204–206, 208, and 210 of this title and enacting provisions set out as notes under sections 204, 206, and 208 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1955’.”
+Act Aug. 12, 1955, ch. 867, §1, 69 Stat. 711, provided: “That this Act \[amending sections 204–206, 208, and 210of this title and enacting provisions set out as notes under sections 204, 206, and 208 of this title\] may be cited as the ‘Fair Labor Standards Amendments of 1955’.”
 
 #### Short Title of 1949 Amendment
 

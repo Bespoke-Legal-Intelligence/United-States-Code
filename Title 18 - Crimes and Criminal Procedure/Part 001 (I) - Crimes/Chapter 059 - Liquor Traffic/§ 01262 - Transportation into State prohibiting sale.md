@@ -6,7 +6,7 @@ Shall (1) If such liquor is not accompanied by such permits, or licenses therefo
 
 In the enforcement of this section, the definition of intoxicating liquor contained in the laws of the respective States, Territories, Districts, or Possessions shall be applied, but only to the extent that sales of such intoxicating liquor (except for scientific, sacramental, medicinal, and mechanical purposes) are prohibited therein.
 
-(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, §32, 63 Stat. 94; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3540, 104 Stat. 4925; Sept. 13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, §32, 63 Stat. 94; Nov. 29, 1990, Pub. L. 101–647, title XXXV, §3540, 104 Stat. 4925; Sept.13, 1994, Pub. L. 103–322, title XXXIII, §330016(1)(H), 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

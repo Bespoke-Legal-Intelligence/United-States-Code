@@ -30,7 +30,7 @@
 
 &emsp;(A) shall cease to refer veterans to such facility; and
 
-&emsp;(B) may, with the permission of the veteran (or the person or entity authorized by law togive permission on behalf of the veteran), assist in removing a veteran from such facility.
+&emsp;(B) may, with the permission of the veteran (or the person or entity authorized by law to give permission on behalf of the veteran), assist in removing a veteran from such facility.
 
 > Regulations prescribed to carry out this paragraph shall provide for reasonable notice and, upon request made on behalf of the facility, a hearing before any action authorized by this paragraph is taken.
 
@@ -50,7 +50,7 @@
 
 Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–54 struck out “(1)” after “(a)” and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) as subpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
+Pub. L. 102–54 struck out “(1)” after “(a)” and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) assubpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing and “Secretary's” for “Administrator's” in two places.
 

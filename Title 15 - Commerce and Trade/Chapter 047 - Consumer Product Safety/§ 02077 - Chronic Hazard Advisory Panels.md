@@ -12,7 +12,7 @@ Each Panel shall consist of 7 members appointed by the Commission from a list of
 
 &emsp;(2) who have demonstrated the ability to critically assess chronic hazards and risks to human health presented by the exposure of humans to toxic substances or as demonstrated by the exposure of animals to such substances.
 
-> The President of the National Academy of Sciences shall nominate for each Panel a number of individuals equal to three times the number of members to be appointed to the Panel.
+> The President of the National Academy of Sciences shall nominate for each Panel a number ofindividuals equal to three times the number of members to be appointed to the Panel.
 
 #### (c) Chairman and Vice Chairman; election; term
 
@@ -36,7 +36,7 @@ Each Panel shall request information and disclose information to the public, as 
 
 #### (h) Information from other Federal departments and agencies
 
-(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industryand other private sources as it may require to carry out its responsibilities.
+(1) Notwithstanding any statutory restriction on the authority of agencies and departments of the Federal Government to share information, such agencies and departments shall provide the Panel with such information and data as each Panel, through the Commission, may request to carry out its duties under section 2080 of this title. Each Panel may request information, through the Commission, from States, industry and other private sources as it may require to carry out its responsibilities.
 
 (2) Section 2055 of this title shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 

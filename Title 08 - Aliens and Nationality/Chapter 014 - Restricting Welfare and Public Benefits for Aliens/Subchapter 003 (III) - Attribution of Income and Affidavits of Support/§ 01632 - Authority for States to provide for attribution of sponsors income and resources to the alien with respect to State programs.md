@@ -1,0 +1,46 @@
+### §1632. Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs
+
+#### (a) Optional application to State programs
+
+Except as provided in subsection (b) of this section, in determining the eligibility and the amount of benefits of an alien for any State public benefits (as defined in section 1622(c) <sup>1</sup> of this title), the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
+
+&emsp;(1) the income and resources of any individual who executed an affidavit of support pursuant to section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) on behalf of such alien, and
+
+&emsp;(2) the income and resources of the spouse (if any) of the individual.
+
+#### (b) Exceptions
+
+Subsection (a) of this section shall not apply with respect to the following State public benefits:
+
+&emsp;(1) Assistance described in section 1621(b)(1) of this title.
+
+&emsp;(2) Short-term, non-cash, in-kind emergency disaster relief.
+
+&emsp;(3) Programs comparable to assistance or benefits under the National School Lunch Act \[42 U.S.C. 1751 et seq.\].
+
+&emsp;(4) Programs comparable to assistance or benefits under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\].
+
+&emsp;(5) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
+
+&emsp;(6) Payments for foster care and adoption assistance.
+
+&emsp;(7) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General of a State, after consultation with appropriate agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
+
+(Pub. L. 104–193, title IV, §422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, §551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679.)
+
+#### References in Text
+
+Section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208.
+
+The National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+
+The Child Nutrition Act of 1966, referred to in subsec. (b)(4), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+
+#### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–208 inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–208 applicable to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days, and not later than 90 days after the date the Attorney General formulates the form for such affidavits, see section 551(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment; Promulgation of Form note under section 1183a of this title.
+

@@ -62,7 +62,7 @@ The United States Warehouse Act, referred to in subsec. (j), is part C of act Au
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (<i>l</i>)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (<i>l).</i>
+1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (<i>l</i>)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (<i>l</i>).
 
 1993—Subsec. (c)(2). Pub. L. 103–156, §4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
 

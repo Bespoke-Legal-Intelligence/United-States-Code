@@ -76,7 +76,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;<b>(3) For release and notice of release of levy, see section 6343.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 783; Nov. 2, 1966, Pub. L. 89–719, title I, §104(a), 80 Stat. 1135; Dec. 10, 1971, Pub. L. 92–178, title II, §211(a), 85 Stat. 520; Oct. 4, 1976, Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), 90 Stat. 1710, 1711, 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §349(a), 96 Stat. 639; July 18, 1984, Pub. L. 98–369, div. A, title VII, §714(<i>o</i>), 98 Stat. 964; Nov. 10, 1988, Pub. L. 100–647, title VI, §6236(a), (b), (d), 102 Stat. 3737, 3739.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 783; Nov. 2, 1966, Pub. L. 89–719, title I, §104(a), 80 Stat. 1135; Dec. 10, 1971, Pub. L. 92–178, title II, §211(a), 85 Stat. 520; Oct. 4, 1976, Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), 90Stat. 1710, 1711, 1834; Sept. 3, 1982, Pub. L. 97–248, title III, §349(a), 96 Stat. 639; July 18, 1984, Pub. L. 98–369, div. A, title VII, §714(<i>o</i>), 98 Stat. 964; Nov. 10, 1988, Pub. L. 100–647, title VI, §6236(a), (b), (d), 102 Stat. 3737, 3739.)
 
 #### Amendments
 
@@ -166,5 +166,5 @@ Punishment for removing, depositing, or concealing goods or commodities, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6332, 6335, 6651, 6656, 6851, 6861, 6862, 7206, 7429 of this title; title 18 section 3613.
+This section is referred to in sections 6332, 6335, 6651, 6656, 6851, 6861, 6862, 7206, 7429 of this title.
 

@@ -186,7 +186,7 @@ Subsec. (c)(1). Pub. L. 98–369, §211(b)(19)(B), struck out provision that for
 
 Subsec. (b). Pub. L. 94–455, §1052(c)(5), struck out subsec. (b) which provided for a special rule for application of foreign tax credit when overall limitation applies.
 
-Subsec. (b)(1). Pub. L. 94–455, §1031(b)(4), struck out “and if for the taxable year an election under section904(b)(1) (relating to election of overall limitation on foreign tax credit) is in effect” after “section 921)”.
+Subsec. (b)(1). Pub. L. 94–455, §1031(b)(4), struck out “and if for the taxable year an election under section 904(b)(1) (relating to election of overall limitation on foreign tax credit) is in effect” after “section 921)”.
 
 Subsec. (b)(3)(C). Pub. L. 94–455, §1901(b)(1)(Y), struck out subpar. (C) which defined “consolidated taxable income”.
 
@@ -286,7 +286,7 @@ In general.—If—
 
 &emsp;&emsp;“(II) there is an unrecaptured amount with respect to such disposition,
 
-> &emsp;the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which the amendment made by paragraph (1) applies shall betaken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
+> &emsp;the portion of such unrecaptured amount allocable to stock disposed of in a disposition to which the amendment made by paragraph (1) applies shall be taken into account as negative basis. To the extent permitted by the Secretary of the Treasury or his delegate, the preceding sentence shall not apply to the extent the taxpayer elects to reduce its basis in indebtedness of the corporation with respect to which there would have been an excess loss account.
 
 &emsp;“(ii)
 

@@ -1,6 +1,6 @@
 ### §541f. Disbursement of moneys
 
-All moneys received under the provisions of this chapter shall be paid into the Treasury ofthe United States and distributed in the same manner as provided in section 191 of this title and sections 437, 438, and 439 <sup>1</sup> of title 48.
+All moneys received under the provisions of this chapter shall be paid into the Treasury of the United States and distributed in the same manner as provided in section 191 of this title and sections 437, 438, and 439 <sup>1</sup> of title 48.
 
 (Aug. 11, 1955, ch. 795, §7, 69 Stat. 681.)
 

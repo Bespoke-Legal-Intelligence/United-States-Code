@@ -32,7 +32,7 @@ For the purposes of this chapter—
 
 #### (6) Depository institution
 
-&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title.
+&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter <sup>1</sup> as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board.
 
 #### (7) Interest
 
@@ -42,13 +42,17 @@ For the purposes of this chapter—
 
 &emsp;The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
 
-(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232.)
+(Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, §2604(c), Sept. 30, 1996, 110 Stat. 3009–471.)
 
 #### References in Text
 
 Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this title by Pub. L. 102–242, title III, §301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
 
+This chapter, referred to in par. (6), was in the original “this title”, and was translated as meaning “this subtitle”, which is subtitle F of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which enacted this chapter, to reflect the probable intent of Congress.
+
 #### Amendments
+
+1996—Par. (6). Pub. L. 104–208 inserted before period at end “, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board”.
 
 1994—Par. (1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘account’ means any account offered to 1 or more individuals or an unincorporated nonbusiness association of individuals by a depository institution into which a customer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.”
 

@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 133z–11.
 
@@ -24,9 +26,9 @@ Section 903(c) of this chapter, referred to in text, means section 903(c) of thi
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–614 substituted “a joint resolution of the Congress” for “a resolution of either House of Congress”, and “the Congress approves” for “the     does not favor”.
+1984—Pub. L. 98–614 substituted “a joint resolution of the Congress” for “a resolution of either House of Congress”, and “the Congress approves” for “the     does not favor”.
 
-<b>1977</b>—Pub. L. 95–17 substituted “sections 908 through 912 of this title” for “sections 908–913 of this title” and provision that the blank spaces are to be appropriately filled for provision that the first blank space is to be filled with the name of the resolving House and the other blank spaces are to be appropriately filled and inserted provision that “resolution” includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter.
+1977—Pub. L. 95–17 substituted “sections 908 through 912 of this title” for “sections 908–913 of this title” and provision that the blank spaces are to be appropriately filled for provision that the first blank space is to be filled with the name of the resolving House and the other blank spaces are to be appropriately filled and inserted provision that “resolution” includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter.
 
 #### Section Referred to in Other Sections
 

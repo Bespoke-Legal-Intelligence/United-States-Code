@@ -14,7 +14,7 @@
 
 &emsp;(E) not more than $25,000,000 may be made available for Project PEACE; and
 
-&emsp;(F) not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 of title 10.
+&emsp;(F) not more than $10,000,000 may be made available for the Volunteers Investing in Peace and Security (VIPS) program under chapter 89 <sup>1</sup> of title 10.
 
 (2), (3) Omitted.
 
@@ -25,6 +25,8 @@
 #### References in Text
 
 Sections 108 and 109 of Public Law 102–229 (105 Stat. 1708), referred to in subsec. (a)(1), are not classified to the Code.
+
+Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by Pub. L. 104–106, div. A, title X, §1061(a)(1), Feb. 10, 1996, 110 Stat. 442.
 
 #### Codification
 

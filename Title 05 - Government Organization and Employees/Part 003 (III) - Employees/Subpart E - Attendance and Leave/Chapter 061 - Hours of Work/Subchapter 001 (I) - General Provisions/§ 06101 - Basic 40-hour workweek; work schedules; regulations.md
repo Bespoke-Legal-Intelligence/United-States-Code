@@ -42,7 +42,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a), (b)
 
@@ -110,11 +112,11 @@ In subsection (b)(2), the words “head of an agency” are substituted for “h
 
 #### Amendments
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (c). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-<b>1975</b>—Subsec. (a)(4). Pub. L. 94–183 substituted “educational” for “education”.
+1975—Subsec. (a)(4). Pub. L. 94–183 substituted “educational” for “education”.
 
-<b>1972</b>—Subsec. (a)(1). Pub. L. 92–392 defined “employee” to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees “except as specifically provided under this paragraph”.
+1972—Subsec. (a)(1). Pub. L. 92–392 defined “employee” to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees “except as specifically provided under this paragraph”.
 
 #### Termination Date of 1982 Amendment
 

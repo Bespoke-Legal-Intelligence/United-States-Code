@@ -1,4 +1,4 @@
-### §1696 . Private express for letters and packets
+### §1696. Private express for letters and packets
 
 (a) Whoever establishes any private express for the conveyance of letters or packets, or in any manner causes or provides for the conveyance of the same by regular trips or at stated periods over any post route which is or may be established by law, or from any city, town, or place to any other city, town, or place, between which the mail is regularly carried, shall be fined not more than $500 or imprisoned not more than six months, or both.
 

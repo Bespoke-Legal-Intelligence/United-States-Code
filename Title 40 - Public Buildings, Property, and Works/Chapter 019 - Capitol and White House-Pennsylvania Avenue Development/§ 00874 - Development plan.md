@@ -62,5 +62,5 @@ Pub. L. 96–515, title V, §505, Dec. 12, 1980, 94 Stat. 3005, provided that th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 872, 875, 876, 885, 1104 of this title.
+This section is referred to in sections 875, 876, 885, 1104 of this title.
 

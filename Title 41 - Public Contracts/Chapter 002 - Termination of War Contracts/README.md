@@ -67,11 +67,7 @@
 | (b) | Procedure. |
 | (c) | Jurisdiction. |
 | [115\.](%C2%A7%2000115%20-%20Personal%20financial%20liability%20of%20contracting%20officers.md) | Personal financial liability of contracting officers. |
-| [116\.](%C2%A7%2000116%20-%20Functions%20of%20General%20Accounting%20Office.md) | Functions of General Accounting Office. |
-| (a) | Review of terminated settlements; limitations. |
-| (b) | Certification of fraudulent settlements to Department of Justice. |
-| (c) | Reports to Congress. |
-| (d) | Jurisdiction of Comptroller General. |
+| [116\.](%C2%A7%2000116%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93316%2C%20title%20I%2C%20%C2%A7121%28a%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203836.md) | Repealed. |
 | [117\.](%C2%A7%2000117%20-%20Defective%2C%20informal%2C%20and%20quasi%20contracts.md) | Defective, informal, and quasi contracts. |
 | (a) | Lack of formalized contract. |
 | (b) | Technical defects or omissions. |
@@ -127,7 +123,7 @@ This chapter is referred to in title 5 sections 551, 701.
 - [&sect; 00113 - Appeals](%C2%A7%2000113%20-%20Appeals.md)
 - [&sect; 00114 - Court of Federal Claims](%C2%A7%2000114%20-%20Court%20of%20Federal%20Claims.md)
 - [&sect; 00115 - Personal financial liability of contracting officers](%C2%A7%2000115%20-%20Personal%20financial%20liability%20of%20contracting%20officers.md)
-- [&sect; 00116 - Functions of General Accounting Office](%C2%A7%2000116%20-%20Functions%20of%20General%20Accounting%20Office.md)
+- [&sect; 00116 - Repealed. Pub. L. 104&#8211;316, title I, &sect;121(a), Oct. 19, 1996, 110 Stat. 3836](%C2%A7%2000116%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93316%2C%20title%20I%2C%20%C2%A7121%28a%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203836.md)
 - [&sect; 00117 - Defective, informal, and quasi contracts](%C2%A7%2000117%20-%20Defective%2C%20informal%2C%20and%20quasi%20contracts.md)
 - [&sect; 00118 - Administration](%C2%A7%2000118%20-%20Administration.md)
 - [&sect; 00119 - Fraudulent claims, vouchers, statements, etc.; jurisdiction](%C2%A7%2000119%20-%20Fraudulent%20claims%2C%20vouchers%2C%20statements%2C%20etc.%3B%20jurisdiction.md)

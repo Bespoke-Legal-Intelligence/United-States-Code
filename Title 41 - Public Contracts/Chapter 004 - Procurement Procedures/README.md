@@ -48,7 +48,8 @@
 | (e) | Offer requests to potential sources. |
 | (f) | Justification for use of noncompetitive procedures. |
 | (g) | Simplified procedures for small purchases. |
-| (h) | Merit-based award of contracts. |
+| (h) | Efficient implementation of requirement. |
+| (i) | Merit-based award of contracts. |
 | 253a. | Planning and solicitation requirements. |
 | (a) | Preparation; planning; specifications in solicitation. |
 | (b) | Contents of solicitation. |
@@ -61,10 +62,14 @@
 | (c) | Opening of bids; promptness of award; written notice. |
 | (d) | Discussions with offerors; written notification. |
 | (e) | Post-award debriefings. |
-| (f) | Antitrust violations. |
-| (g) | Planning for future competition. |
-| (h) | Protest file. |
-| (i) | Agency actions on protests. |
+| (f) | Preaward debriefings. |
+| (g) | Summary of debriefing. |
+| (h) | Alternative dispute resolution. |
+| (i) | Antitrust violations. |
+| (j) | Planning for future competition. |
+| (k) | Protest file. |
+| (<i>l</i>) | Agency actions on protests. |
+| (m) | Prohibition on release of contractor proposals. |
 | 253c. | Encouragement of new competition. |
 | (a) | “Qualification requirement” defined. |
 | (b) | Agency head; functions; prior to enforcement of qualification requirement. |
@@ -117,6 +122,12 @@
 | 253<i>l.</i> | Severable services contracts for periods crossing fiscal years. |
 | (a) | Authority. |
 | (b) | Obligation of funds. |
+| 253m. | Design-build selection procedures. |
+| (a) | Authorization. |
+| (b) | Criteria for use. |
+| (c) | Procedures described. |
+| (d) | Solicitation to state number of offerors to be selected for phase-two requests for competitive proposals. |
+| (e) | Requirement for guidance and regulations. |
 | 254\. | Contract requirements. |
 | (a) | Contracts awarded using procedures other than sealed-bid procedures. |
 | (b) | Barred contracts; fee limitation; determination of use; advance notification. |
@@ -124,13 +135,12 @@
 | 254b. | Cost or pricing data: truth in negotiations. |
 | (a) | Required cost or pricing data and certification. |
 | (b) | Exceptions. |
-| (c) | Restrictions on additional authority to require cost or pricing data or other information. |
-| (d) | Additional exception provisions regarding commercial items. |
+| (c) | Cost or pricing data on below-threshold contracts. |
+| (d) | Submission of other information. |
 | (e) | Price reductions for defective cost or pricing data. |
 | (f) | Interest and penalties for certain overpayments. |
 | (g) | Right of United States to examine contractor records. |
-| (h) | Required regulations. |
-| (i) | Definitions. |
+| (h) | Definitions. |
 | 254c. | Multiyear contracts. |
 | (a) | Authority. |
 | (b) | Termination clause. |
@@ -141,7 +151,7 @@
 | (a) | Agency authority. |
 | (b) | Subpoena power. |
 | (c) | Comptroller General authority. |
-| (d) | Limitation on preaward audits relating to indirect costs. |
+| (d) | Limitation on audits relating to indirect costs. |
 | (e) | Limitation. |
 | (f) | Inapplicability to certain contracts. |
 | (g) | Form of original record storage. |
@@ -167,7 +177,7 @@
 | (i) | Penalties for submission of cost known as not allowable. |
 | (j) | Contractor to have burden of proof. |
 | (k) | Proceeding costs not allowable. |
-| (<i>l)</i> | “Covered contract” defined. |
+| (<i>l</i>) | “Covered contract” defined. |
 | 256a. | Waiver of liquidated damages. |
 | 257\. | Administrative determinations. |
 | (a) | Conclusiveness; delegation of powers. |
@@ -188,7 +198,7 @@
 | 264\. | Relationship of commercial item provisions to other provisions of law. |
 | (a) | Applicability of subchapter. |
 | (b) | List of laws inapplicable to contracts for acquisition of commercial items. |
-| 264a. | Definitions. |
+| 264a. | Definitions relating to procurement of commercial items. |
 | 264b. | Preference for acquisition of commercial items. |
 | (a) | Preference. |
 | (b) | Implementation. |

@@ -14,6 +14,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>31.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20031%20-%20General/README.md) | <b>General</b> | <b>3101</b> |
+| [<b>32.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20032%20-%20Management%20of%20Vessels/README.md) | <b>Management of vessels</b> | <b>3201</b> |
 | [<b>33.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20033%20-%20Inspection%20Generally/README.md) | <b>Inspection generally</b> | <b>3301</b> |
 | [<b>35.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20035%20-%20Carriage%20of%20Passengers/README.md) | <b>Carriage of passengers</b> | <b>3501</b> |
 | [<b>37.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20037%20-%20Carriage%20of%20Liquid%20Bulk%20Dangerous%20Cargoes/README.md) | <b>Carriage of liquid bulk dangerous cargoes</b> | <b>3701</b> |
@@ -118,6 +119,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–324, title VI, §602(b), Oct. 19, 1996, 110 Stat. 3930, added item 32.
 
 1992—Pub. L. 102–587, title V, §5304, Nov. 4, 1992, 106 Stat. 5083, added item 47.
 

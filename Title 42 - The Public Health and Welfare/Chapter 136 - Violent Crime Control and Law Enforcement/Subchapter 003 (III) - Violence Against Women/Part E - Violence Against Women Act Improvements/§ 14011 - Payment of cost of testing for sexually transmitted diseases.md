@@ -6,7 +6,7 @@
 
 #### (1) Court order
 
-&emsp;The victim of an offense of the type referred to in subsection (a) <sup>1</sup> of this section may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendant given to the victim or the defendant must be accompanied by appropriate counseling.
+&emsp;The victim of an offense of the type referred to in subsection (a) <sup>1</sup> of this section may obtain an order in the district court of the United States for the district in which charges are brought against the defendant charged with the offense, after notice to the defendant and an opportunity to be heard, requiring that the defendant be tested for the presence of the etiologic agent for acquired immune deficiency syndrome, and that the results of the test be communicated to the victim and the defendant. Any test result of the defendantgiven to the victim or the defendant must be accompanied by appropriate counseling.
 
 #### (2) Showing required
 
@@ -20,7 +20,7 @@
 
 #### (3) Follow-up testing
 
-&emsp;The court may order follow-up tests and counseling under paragraph (b)(1) <sup>2</sup> if the initial test was negative. Such follow-up tests and counseling shall be performed at the request of the victim on dates that occur six months and twelve months following the initial test.
+&emsp;The court may order follow-up tests and counseling under paragraph (1) if the initial test was negative. Such follow-up tests and counseling shall be performed at the request of the victim on dates that occur six months and twelve months following the initial test.
 
 #### (4) Termination of testing requirements
 
@@ -40,21 +40,27 @@
 
 #### (c) Penalties for intentional transmission of HIV
 
-Not later than 6 months after September 13, 1994, the United States Sentencing Commission shall conduct a study and prepare and submit to the committees <sup>3</sup> on the Judiciary of the Senate and the House of Representatives a report concerning recommendations for the revision of sentencing guidelines that relate to offenses in which an HIV infected individual engages in sexual activity if the individual knows that he or she is infected with HIV and intends, through such sexual activity, to expose another to HIV.
+Not later than 6 months after September 13, 1994, the United States Sentencing Commission shall conduct a study and prepare and submit to the committees <sup>2</sup> on the Judiciary of the Senate and the House of Representatives a report concerning recommendations for the revision of sentencing guidelines that relate to offenses in which an HIV infected individual engages in sexual activity if the individual knows that he or she is infected with HIV and intends, through such sexual activity, to expose another to HIV.
 
-(Pub. L. 103–322, title IV, §40503, Sept. 13, 1994, 108 Stat. 1946.)
+(Pub. L. 103–322, title IV, §40503, Sept. 13, 1994, 108 Stat. 1946; Pub. L. 104–294, title VI, §604(b)(1), Oct. 11, 1996, 110 Stat. 3506.)
 
 #### Codification
 
 Section is comprised of section 40503 of Pub. L. 103–322. Subsec. (a) of section 40503 of Pub. L. 103–322 amended section 10607 of this title.
 
+#### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–294 substituted “paragraph (1)” for “paragraph (b)(1)”.
+
 #### Change of Name
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+
 <i><sup>1</sup></i><i> See Codification note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

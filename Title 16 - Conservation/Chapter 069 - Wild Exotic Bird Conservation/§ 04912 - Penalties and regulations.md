@@ -4,7 +4,7 @@
 
 #### (1) Civil penalties
 
-&emsp;(A) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) <sup>1</sup> of this title or any permit issued under section 4911 of this title may be assessed a civil penalty by the Secretary of not more than $25,000 for each violation.
+&emsp;(A) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) <sup>1</sup> of this title or any permit issued undersection 4911 of this title may be assessed a civil penalty by the Secretary of not more than $25,000 for each violation.
 
 &emsp;(B) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(3) <sup>2</sup> of this title may be assessed a civil penalty by the Secretary of not more than $12,000 for each such violation.
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) <sup>1</sup> of this title or any permit issued under section 4911 of this title shall be fined under title 18 or imprisoned for not more than 2 years, or both.
 
-&emsp;(B) Any person who knowingly violates section 4910(a)(3) <sup>2</sup> of this title shall be finedunder title 18, imprisoned not more than 6 months, or both.
+&emsp;(B) Any person who knowingly violates section 4910(a)(3) <sup>2</sup> of this title shall be fined under title 18, imprisoned not more than 6 months, or both.
 
 #### (b) District court jurisdiction
 

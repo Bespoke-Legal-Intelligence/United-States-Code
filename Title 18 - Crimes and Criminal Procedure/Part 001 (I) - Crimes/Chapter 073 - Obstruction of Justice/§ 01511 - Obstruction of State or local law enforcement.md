@@ -44,7 +44,7 @@ Section 801 of title VIII of Pub. L. 91–452 provided that: “The Congress fin
 
 #### Priority of State Laws
 
-Section 811 of title VIII of Pub. L. 91–452 provided that: “No provision of this title \[enacting this section and section 1955 of this title, amending section 2516 of this title, and enacting provisions set out as notes under this section and section 1955 of this title\] indicates an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
+Section 811 of title VIII of Pub. L. 91–452 provided that: “No provision of this title \[enacting this section and section 1955 of this title, amending section 2516 of this title, and enacting provisions set out as notes under this section and section 1955 of this title\] indicates an intent on the part of the Congress to occupythe field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
 
 #### Section Referred to in Other Sections
 

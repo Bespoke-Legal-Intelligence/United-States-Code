@@ -24,7 +24,7 @@ Each member of the Council shall serve for a 3-year term without regard to title
 
 &emsp;&emsp;&emsp;(ii) national organizations with an interest in young individuals, families, early childhood development, elementary and secondary education, business, labor, minorities, and the general public;
 
-&emsp;&emsp;(B) six members who are representatives of public, State or local agencies that serve children, youth and their families and include representatives of child welfare and child mental health agencies; and
+&emsp;&emsp;(B) six members who are representatives of public, State or local agencies that servechildren, youth and their families and include representatives of child welfare and child mental health agencies; and
 
 &emsp;&emsp;(C) six members who are cabinet-level representatives of Federal agencies that have responsibility for programs relating to children, youth and families.
 
@@ -142,7 +142,7 @@ Subsec. (p). Pub. L. 103–252, §402(a)(3), substituted “1998” for “1995�
 
 #### Change of Name
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ The President may authorize the Commission to cooperate with another nation and 
 
 &emsp;(6) research and development relating to the foregoing:
 
-> <i>Provided, however,</i> That no such cooperation shall involve the communication of Restricted Data relating to the design or fabrication of atomic weapons: <i>And provided further,</i> That the cooperation is undertaken pursuant to an agreement for cooperation entered into in accordance with section 2153 of this title, or is undertaken pursuant to an agreement existing on August 30, 1954.
+> <i>Provided, however</i>, That no such cooperation shall involve the communication of Restricted Data relating to the design or fabrication of atomic weapons: <i>And provided further</i>, That the cooperation is undertaken pursuant to an agreement for cooperation entered into in accordance with section 2153 of this title, or is undertaken pursuant to an agreement existing on August 30, 1954.
 
 #### (b) By Department of Defense
 
@@ -30,21 +30,21 @@ The President may authorize the Department of Defense, with the assistance of th
 
 &emsp;(4) the development of compatible delivery systems for atomic weapons;
 
-> whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however,</i> That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
+> whenever the President determines that the proposed cooperation and the proposed communication of the Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation or organization is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
 
 #### (c) Exchange of information concerning atomic weapons; research, development, or design, of military reactors
 
 In addition to the cooperation authorized in subsections (a) and (b) of this section, the President may authorize the Commission, with the assistance of the Department of Defense, to cooperate with another nation and—
 
-&emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided,</i> That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
+&emsp;(1) to exchange with that nation Restricted Data concerning atomic weapons: <i>Provided</i>, That communication of such Restricted Data to that nation is necessary to improve its atomic weapon design, development, or fabrication capability and provided that nation has made substantial progress in the development of atomic weapons; and
 
 &emsp;(2) to communicate or exchange with that nation Restricted Data concerning research, development, or design, of military reactors,
 
-> whenever the President determines that the proposed cooperation and the communication of the proposed Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however,</i> That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
+> whenever the President determines that the proposed cooperation and the communication of the proposed Restricted Data will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title.
 
 #### (d) By Department of Energy
 
-(1) In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, uponmaking such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
+(1) In addition to the cooperation authorized in subsections (a), (b), and (c) of this section, the President may, upon making a determination described in paragraph (2), authorize the Department of Energy, with the assistance of the Department of Defense, to cooperate with another nation to communicate to that nation such Restricted Data, and the President may, upon making such determination, authorize the Department of Defense, with the assistance of the Department of Energy, to cooperate with another nation to communicate to that nation such data removed from the Restricted Data category under section 2162 of this title, as is necessary for—
 
 &emsp;(A) the support of a program for the control of and accounting for fissile material and other weapons material;
 
@@ -90,7 +90,15 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Authority vested in President by subsecs. (b) and (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(2) and (3) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
 
+#### Prohibition on Inspections
+
+Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, provided that:
+
+“(1) The Secretary of Energy may not allow an inspection of a nuclear weapons facility by the International Atomic Energy Agency until the Secretary certifies to Congress that no restricted data will be revealed during such inspection.
+
+“(2) For purposes of paragraph (1), the term ‘restricted data’ has the meaning provided by section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2014, 2153, 2153a, 2153f, 2154, 2159, 2160 of this title.
+This section is referred to in sections 2014, 2153, 2153a, 2153f, 2154, 2159, 2160 of this title; title 10 section 2536.
 

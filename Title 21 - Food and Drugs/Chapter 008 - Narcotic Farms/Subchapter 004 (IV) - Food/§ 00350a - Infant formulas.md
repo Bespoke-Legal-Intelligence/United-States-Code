@@ -20,7 +20,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) of this section before the distribution of such batch,
 
-&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
+&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent ofsuch manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
 
 &emsp;(iii) in-process controls including, where necessary, testing required by good manufacturing practices designed to prevent adulteration of each batch of infant formula, and
 
@@ -62,7 +62,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 (B)(i) Records required under subparagraph (A) with respect to an infant formula shall be retained for at least one year after the expiration of the shelf life of such infant formula. Except as provided in clause (ii), such records shall be made available to the Secretary for review and duplication upon request of the Secretary.
 
-(ii) A manufacturer need only provide written assurances to the Secretary that the regularly scheduled audits required by paragraph (2)(B)(iv)are being conducted by the manufacturer, and need not make available to the Secretary the actual written reports of such audits.
+(ii) A manufacturer need only provide written assurances to the Secretary that the regularly scheduled audits required by paragraph (2)(B)(iv) are being conducted by the manufacturer, and need not make available to the Secretary the actual written reports of such audits.
 
 #### (c) Registration of persons distributing new infant formula
 
@@ -134,7 +134,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(B) who otherwise has an unusual medical or dietary problem,
 
-> is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturer of an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
+> is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturerof an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
 
 (2) The Secretary may by regulation establish terms and conditions for the exemption of an infant formula from the requirements of subsections (a), (b), and (c) of this section. An exemption of an infant formula under paragraph (1) may be withdrawn by the Secretary if such formula is not in compliance with applicable terms and conditions prescribed under this paragraph.
 
@@ -150,53 +150,53 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 NUTRIENTS
 
-| Nutrient | &nbsp; | Minimum <sup>a</sup>G1 | Maximum <sup>a</sup>G1 |
+| Nutrient | &nbsp; | Minimum <sup>a</sup> | Maximum <sup>a</sup> |
 | :--- | :---: | :---: | ---: |
-| Protein (gm) | 1\.8 <sup>b</sup>G1 |  | &nbsp;4.5. |
+| Protein (gm) | 1\.8 <sup>b</sup> |  | &nbsp;4.5. |
 | Fat: |  |  |  |
 | gm | 3\.3 |  | &nbsp;6.0. |
 | percent cal | 30\.0 |  | &nbsp;54.0. |
-| Essential fatty   acids   (linoeate): |  |  |  |
+| Essential fatty acids   (linoeate): |  |  |  |
 | percent cal | 2\.7 |  |  |
 | mg | 300\.0 |  |  |
 | Vitamins: |  |  |  |
-| A (IU) | 250\.0 | (75 g)<sup>c</sup>G1 | 750\.0 (225 g).<sup>c</sup>G1 |
+| A (IU) | 250\.0 | (75 µg)<sup>c</sup> | 750\.0 (225 µg).<sup>c</sup> |
 | D (IU) | 40\.0 |  | 100\.0. |
-| K (g) | 4\.0 |  |  |
+| K (µg) | 4\.0 |  |  |
 | E (IU) | 0\.7 | (with 0.7 IU/gm linoleic acid) |  |
 | C (ascorbic acid) (mg) | 8\.0 |  |  |
-| B<b>1</b>G1 (thiamine) (g) | 40\.0 |  |  |
-| B<b>2</b>G1 (riboflavin) (g) | 60\.0 |  |  |
-| B<b>6</b>G1 (pyridoxine) (g) | 35\.0 | (with 15 g/gm of protein in formula) |  |
-| B<b>12</b>G1 (g) | 0\.15 |  |  |
-| Niacin (g) | 250\.0 |  |  |
-| Folic acid (g) | 4\.0 |  |  |
-| Pantothenic acid (g) | 300\.0 |  |  |
-| Biotin (g) | 1\.5 <sup>d</sup>G1 |  |  |
-| Choline (mg) | 7\.0 <sup>d</sup>G1 |  |  |
-| Inositol (mg) | 4\.0 <sup>d</sup>G1 |  |  |
+| B<b>1</b> (thiamine) (µg) | 40\.0 |  |  |
+| B<b>2</b> (riboflavin) (µg) | 60\.0 |  |  |
+| B<b>6</b> (pyridoxine) (µg) | 35\.0 | (with 15 µg/gm of protein in formula) |  |
+| B<b>12</b> (µg) | 0\.15 |  |  |
+| Niacin (µg) | 250\.0 |  |  |
+| Folic acid (µg) | 4\.0 |  |  |
+| Pantothenic acid (µg) | 300\.0 |  |  |
+| Biotin (µg) | 1\.5 <sup>d</sup> |  |  |
+| Choline (mg) | 7\.0 <sup>d</sup> |  |  |
+| Inositol (mg) | 4\.0 <sup>d</sup> |  |  |
 | Minerals: |  |  |  |
-| Calcium (mg) | 50\.0 <sup>e</sup>G1 |  |  |
-| Phosphorus (mg) | 25\.0 <sup>e</sup>G1 |  |  |
+| Calcium (mg) | 50\.0 <sup>e</sup> |  |  |
+| Phosphorus (mg) | 25\.0 <sup>e</sup> |  |  |
 | Magnesium (mg) | 6\.0 |  |  |
 | Iron (mg) | 0\.15 |  |  |
-| Iodine (g) | 5\.0 |  |  |
+| Iodine (µg) | 5\.0 |  |  |
 | Zinc (mg) | 0\.5 |  |  |
-| Copper (g) | 60\.0 |  |  |
-| Manganese (g) | 5\.0 |  |  |
+| Copper (µg) | 60\.0 |  |  |
+| Manganese (µg) | 5\.0 |  |  |
 | Sodium (mg) | 20\.0 |  | &nbsp;60.0. |
 | Potassium (mg) | 80\.0 |  | 200\.0. |
 | Chloride (mg) | 55\.0 |  | 150\.0. |
 
-<sup>a</sup>G1 Stated per 100 kilocalories.
+<sup>a</sup> Stated per 100 kilocalories.
 
-<sup>b</sup>G1 The source of protein shall be at least nutritionally equivalent to casein.
+<sup>b</sup> The source of protein shall be at least nutritionally equivalent to casein.
 
-<sup>c</sup>G1 Retinol equivalents.
+<sup>c</sup> Retinol equivalents.
 
-<sup>d</sup>G1 Required to be included in this amount only in formulas which are not milk-based.
+<sup>d</sup> Required to be included in this amount only in formulas which are not milk-based.
 
-<sup>e</sup>G1 Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0.
+<sup>e</sup> Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0.
 
 (June 25, 1938, ch. 675, §412, as added Sept. 26, 1980, Pub. L. 96–359, §2, 94 Stat. 1190; amended Oct. 27, 1986, Pub. L. 99–570, title IV, §4014(a), (b)(1), 100 Stat. 3207–116, 3207–120; Aug. 13, 1993, Pub. L. 103–80, §3(<i>l</i>), 107 Stat. 777.)
 

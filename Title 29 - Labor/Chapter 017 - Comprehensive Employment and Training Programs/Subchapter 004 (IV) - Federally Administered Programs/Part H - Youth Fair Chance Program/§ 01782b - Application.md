@@ -38,7 +38,7 @@ Participating communities that have the highest concentrations of poverty, as de
 
 &emsp;&emsp;(H) include a description of a system of common intake procedures or sites, individualized assessment, and case management to be used by the program;
 
-&emsp;&emsp;(I) demonstrate how the participating community will make use of the resources, expertise, and commitment of such programs and service providers as—
+&emsp;&emsp;(I) demonstrate how the participating community will make use of the resources,expertise, and commitment of such programs and service providers as—
 
 &emsp;&emsp;&emsp;(i) community-based organizations providing vocational skills, literacy skills, remedial education, and general equivalency preparation, including community-based organizations serving youth with limited-English proficiency;
 

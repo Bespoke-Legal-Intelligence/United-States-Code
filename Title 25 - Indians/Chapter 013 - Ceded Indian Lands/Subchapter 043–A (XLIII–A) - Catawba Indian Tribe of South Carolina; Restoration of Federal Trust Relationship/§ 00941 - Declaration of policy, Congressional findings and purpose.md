@@ -60,7 +60,7 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 Section 17 of Pub. L. 103–116 provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
 
-\[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted onbehalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
+\[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted on behalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
 
 #### Short Title
 

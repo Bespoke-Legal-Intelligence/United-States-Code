@@ -12,7 +12,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -34,9 +36,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
+1992—Subsec. (b). Pub. L. 102–378 substituted “section 3104(c)” for “section 3104(a)(7) of this title”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 #### Effective Date of 1978 Amendment
 

@@ -48,7 +48,7 @@
 
 #### (A) Publication of regulations
 
-&emsp;&emsp;Before designating any area as an enterprise zone, the Secretary shall prescribe by regulation not later than 4 months following February 5, 1988, after consultation with the officials described in paragraph (1)(B)—
+&emsp;&emsp;Before designating any area as an enterprise zone, the Secretary shall prescribe byregulation not later than 4 months following February 5, 1988, after consultation with the officials described in paragraph (1)(B)—
 
 &emsp;&emsp;&emsp;(i) the procedures for nominating an area under paragraph (1)(A);
 
@@ -96,7 +96,7 @@
 
 #### (2) Revocation of designation
 
-&emsp;The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation ofan area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
+&emsp;The Secretary, after consultation with the officials described in subsection (a)(1)(B) of this section and a hearing on the record involving officials of the State or local government involved, may revoke the designation of an area if the Secretary determines that the local government or the State in which it is located is not complying substantially with the State and local commitments pursuant to subsection (d) of this section.
 
 #### (c) Area and eligibility requirements
 
@@ -172,7 +172,7 @@
 
 #### (3) Recognition of past efforts
 
-&emsp;In evaluating courses of action agreed to by any State or local government, the Secretaryshall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
+&emsp;In evaluating courses of action agreed to by any State or local government, the Secretary shall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
 
 #### (4) Prohibition of assistance for business relocations
 

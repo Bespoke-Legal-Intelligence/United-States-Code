@@ -84,7 +84,7 @@ Subsec. (b)(1). Pub. L. 103–66, §14002(b), amended par. (1) generally. Prior 
 
 #### Effective Date
 
-Section 607 of title VI of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 102–66, title XIV, §14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that: “This title \[enacting this subchapter\] shall take effect upon its date of enactment \[Nov. 5, 1990\] and shall apply to fiscal years 1991 to 1998.”
+Section 607 of title VI of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–607; amended by Pub. L. 102–66, title XIV, §14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that: “This title \[enacting this subchapter\] shall take effect upon its date of enactment \[Nov. 5, 1990\] and shall apply to fiscal years 1991 to 1998.”
 
 #### Downward Adjustments in Discretionary Spending Limits
 
@@ -92,7 +92,7 @@ Pub. L. 104–19, title II, §2003, July 27, 1995, 109 Stat. 247, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665d, 665e, 900, 903 of this title; title 12 sections 4718, 4750; title 22 sections 5853, 5859a; title 42 sections 14211, 14212.
+This section is referred to in sections 665d, 665e, 691a, 691c, 900, 903 of this title; title 12 sections 4718, 4750; title 22 section 5853; title 42 sections 14211, 14212.
 
 <i><sup>1</sup></i><i> Subsec. (b) enacted without a par. (2).</i>
 

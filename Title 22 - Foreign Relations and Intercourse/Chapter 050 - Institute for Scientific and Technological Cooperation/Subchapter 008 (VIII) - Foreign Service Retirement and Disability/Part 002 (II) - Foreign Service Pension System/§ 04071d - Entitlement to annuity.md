@@ -32,7 +32,7 @@
 
 (5) A former participant entitled to a deferred annuity under section 8413(b) of title 5 shall not be subject to section 8415(f)(1) of such title 5 if the former participant has 20 years of service creditable under this part and is at least 50 years of age as of the date on which the annuity is to commence.
 
-(6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part rather than under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
+(6)(A) The amount of a survivor annuity for a widow or widower of a participant or former participant shall be 50 percent of an annuity computed for the deceased under this part ratherthan under section 8415 of such title 5 (as stated in sections 8442(a)(1), (b)(1)(B), and (c)(2) of such title).
 
 (B) Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an “assumed FSRDS annuity” rather than an “assumed CSRS annuity” as stated in such section. For the purpose of this subparagraph, the term “assumed FSRDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under part I of this subchapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
 
@@ -60,7 +60,7 @@ Subsec. (b)(2). Pub. L. 99–556, §406(b), amended par. (2) by substituting sub
 
 “(A) for all service earned while a participant in this System, at the rate stated in section 8415(d) of title 5; and
 
-“(B) for all service earned while a participant in another retirement system creditable under section4071c(d) of this title, at the rate which would have been applicable to the individual had that individual remained a participant in the other system; and
+“(B) for all service earned while a participant in another retirement system creditable under section 4071c(d) of this title, at the rate which would have been applicable to the individual had that individual remained a participant in the other system; and
 
 “(C) for all volunteer service creditable under section 4071c(c) of this title, at the rate stated in section 8415(a) of title 5.”
 

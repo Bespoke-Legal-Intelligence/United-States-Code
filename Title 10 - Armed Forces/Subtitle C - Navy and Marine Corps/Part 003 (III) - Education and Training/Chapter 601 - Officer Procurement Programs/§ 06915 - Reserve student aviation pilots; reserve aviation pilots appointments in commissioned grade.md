@@ -54,7 +54,7 @@ In subsection (h) the words “of the Naval Reserve or the Marine Corps Reserve�
 
 1980—Subsecs. (f) to (i). Pub. L. 96–513 redesignated subsecs. (g), (h), and (i) as (f), (g), and (h), respectively.
 
-1962—Subsec. (f). Pub. L. 87–649 repealed subsec. (f) which provided that while on active duty, an aviation pilot of the Naval Reserve or the Marine Corps Reserve is entitled to the pay of an enlisted member in paygrade E–5 or that of his grade, whichever is greater. See section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+1962—Subsec. (f). Pub. L. 87–649 repealed subsec. (f) which provided that while on active duty, an aviation pilot of the Naval Reserve or the Marine Corps Reserve is entitled to the pay of an enlisted member in pay grade E–5 or that of his grade, whichever is greater. See section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1980 Amendment
 

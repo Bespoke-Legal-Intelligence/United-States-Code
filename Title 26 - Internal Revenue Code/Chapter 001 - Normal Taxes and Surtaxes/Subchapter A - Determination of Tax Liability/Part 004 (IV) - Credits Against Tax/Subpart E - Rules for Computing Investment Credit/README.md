@@ -30,6 +30,8 @@ Subpart E—Rules for Computing Investment Credit
 
 This subpart is referred to in section 53 of this title.
 
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+
 
 ---
 

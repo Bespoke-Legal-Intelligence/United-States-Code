@@ -12,5 +12,5 @@ Section inapplicable to lease-purchase contracts, see section 356 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 356 of this title; title 15 section 2076; title 19 section 2081; title 26 section 7608; title 42 sections 242b, 282, 285a–2, 285b–3, 299c–4, 300cc–41, 1532, 2473.
+This section is referred to in section 356 of this title; title 8 section 1363a; title 15 section 2076; title 19 section 2081; title 26 section 7608; title 42 sections 242b, 282, 285a–2, 285b–3, 299c–4, 300cc–41, 1532, 2473.
 

@@ -2,7 +2,7 @@
 
 #### (a) Lands to be taken in trust
 
-The Secretary shall accept any real property located in Placer County, California, for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary if, at the time of such conveyance or transfer, there are no adverse legal claims on such property, including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to the authority of the Secretary under the Act of June 18, 1934 (25 U.S.C. 461 et seq.).
+The Secretary may accept any real property located in Placer County, California, for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary if, at the time of such conveyance or transfer, there are no adverse legal claims on such property, including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to the authority of the Secretary under the Act of June 18, 1934 (25 U.S.C. 461 et seq.).
 
 #### (b) Former trust lands of Auburn Rancheria
 
@@ -12,11 +12,15 @@ Subject to the conditions specified in this section, real property eligible for 
 
 Subject to the conditions imposed by this section, any real property conveyed or transferred under this section shall be taken in the name of the United States in trust for the Tribe or, as applicable, an individual member of the Tribe, and shall be part of the Tribe's reservation.
 
-(Pub. L. 103–434, title II, §204, Oct. 31, 1994, 108 Stat. 4534.)
+(Pub. L. 103–434, title II, §204, Oct. 31, 1994, 108 Stat. 4534; Pub. L. 104–122, Mar. 29, 1996, 110 Stat. 876.)
 
 #### References in Text
 
 Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–122 substituted “may” for “shall” in first sentence.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,20 @@
+### §5738. Regulations
+
+(a)(1) Except as specifically provided in this subchapter, the Administrator of General Services shall prescribe regulations necessary for the administration of this subchapter.
+
+(2) The Administrator of General Services shall include in the regulations authority for the head of an agency or his designee to waive any limitation of this subchapter or in any implementing regulation for any employee relocating to or from a remote or isolated location who would suffer hardship if the limitation were not waived. A waiver of a limitation under authority provided in the regulations pursuant to this paragraph shall be effective notwithstanding any other provision of this subchapter.
+
+(b) In prescribing regulations for the implementation of section 5724b of this title, the Administrator of General Services shall consult with the Secretary of the Treasury.
+
+(c) The Secretary of Defense shall prescribe regulations necessary for the implementation of section 5735 of this title.
+
+(Added Pub. L. 104–201, div. A, title XVII, §1722, Sept. 23, 1996, 110 Stat. 2758.)
+
+#### Effective Date
+
+Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an EffectiveDate of 1996 Amendment note under section 5722 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5722, 5723, 5724, 5724a, 5724b, 5724c, 5726, 5727, 5728, 5729, 5731, 5737 of this title.
+

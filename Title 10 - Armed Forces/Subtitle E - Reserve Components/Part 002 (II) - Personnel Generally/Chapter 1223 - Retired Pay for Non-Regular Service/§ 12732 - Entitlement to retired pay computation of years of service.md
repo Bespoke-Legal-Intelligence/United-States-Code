@@ -38,7 +38,7 @@
 
 > &emsp;&emsp;if that service conformed to required standards and qualifications.
 
-&emsp;&emsp;(B) One point for each attendance at a drill or period of equivalent instruction that wasprescribed for that year by the Secretary concerned and conformed to the requirements prescribed by law, including attendance under section 502 of title 32.
+&emsp;&emsp;(B) One point for each attendance at a drill or period of equivalent instruction that was prescribed for that year by the Secretary concerned and conformed to the requirements prescribed by law, including attendance under section 502 of title 32.
 
 &emsp;&emsp;(C) Points at the rate of 15 a year for membership—
 
@@ -48,7 +48,9 @@
 
 &emsp;&emsp;&emsp;(iii) in any other category covered by subsection (a)(1) except a regular component.
 
-> &emsp;For the purpose of clauses (A), (B), and (C), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
+&emsp;&emsp;(D) Points credited for the year under section 2126(b) of this title.
+
+> &emsp;For the purpose of clauses (A), (B), (C), and (D), service in the National Guard shall be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
@@ -70,7 +72,7 @@
 
 &emsp;(7) Service in any status other than that as commissioned officer, warrant officer, nurse, flight officer, aviation midshipman, appointed aviation cadet, or enlisted member, and that described in clauses (I) and (J) of subsection (a)(1).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Sept. 2, 1958, Pub. L. 85–861, §33(a)(9), 72 Stat. 1565; Aug. 25, 1959, Pub. L. 86–197, §1(1)–(3), 73 Stat. 425; Oct. 8, 1964, Pub. L. 88–636, §1, 78 Stat. 1034; Dec. 26, 1974, Pub. L. 93–545, §1, 88 Stat. 1741; Dec. 12, 1980, Pub. L. 96–513, title V, §511(48), 94 Stat. 2924; renumbered §12732 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3000.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Sept. 2, 1958, Pub. L. 85–861, §33(a)(9), 72 Stat. 1565; Aug. 25, 1959, Pub. L. 86–197, §1(1)–(3), 73 Stat. 425; Oct. 8, 1964, Pub. L. 88–636, §1, 78 Stat. 1034; Dec. 26, 1974, Pub. L. 93–545, §1, 88 Stat. 1741; Dec. 12, 1980, Pub. L. 96–513, title V, §511(48), 94 Stat. 2924; renumbered §12732 and amended Oct. 5, 1994, Pub. L. 103–337, div. A, title XVI, §1662(j)(1), 108 Stat. 2998, 3000; Sept. 23, 1996, Pub. L. 104–201, div. A, title V, §543(b)(1), 110 Stat. 2522.)
 
 Historical and Revision Notes<br>1956
 
@@ -144,7 +146,7 @@ Subsection (a) consolidates the provisions of 10:1036a and 1036e(b)–(d), and 3
 
 In subsection (a)(1)(A)–(F), the requirement that the service must have been satisfactory is omitted as executed, since all service before July 1, 1949, has been found to have been satisfactory by the Secretaries concerned.
 
-In subsection (a)(1)(A), the words “the armed forces” are substituted for clauses (1), (2), (5)–(7), (9), (10), and (13)–(16), of 10:1036e(c) and 34:440m(c), and so much of clause (8) of 10:1036e(c) and 34:440m(c) as relates to the Naval Reserve and the Naval Reserve Force as constituted after February 28, 1925, since the service covered by those clauses when added to service in the regular components, comprises all service in the armed forces.
+In subsection (a)(1)(A), the words “the armed forces” are substituted for clauses (1), (2), (5)–(7), (9), (10), and (13)–(16), of 10:1036e(c) and 34:440m(c), and so much ofclause (8) of 10:1036e(c) and 34:440m(c) as relates to the Naval Reserve and the Naval Reserve Force as constituted after February 28, 1925, since the service covered by those clauses when added to service in the regular components, comprises all service in the armed forces.
 
 In subsection (a)(1)(B)–(C), the words “June 15” are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established the National Guard of the United States as a reserve component of the Army.
 
@@ -156,7 +158,7 @@ In subsection (a)(2)(A) and (B), specific reference is made to National Guard se
 
 In subsection (a)(2)(C), the words “other than active Federal service” are omitted, since the points for membership are not reduced by active duty (see opinion of the Judge Advocate General of the Army (JAGA, 1953/2016, 3 Mar. 1953)).
 
-In subsections (a) and (b), the words “active service” are substituted for the words “active Federal service” for uniformity of expression. In clause (5), the words “transferred thereto after completion of 16 or more years of active naval service” are omitted, since other authorized fleet reserve categories have not been usedand authority for them is omitted from this revised title as unnecessary.
+In subsections (a) and (b), the words “active service” are substituted for the words “active Federal service” for uniformity of expression. In clause (5), the words “transferred thereto after completion of 16 or more years of active naval service” are omitted, since other authorized fleet reserve categories have not been used and authority for them is omitted from this revised title as unnecessary.
 
 Subsection (b)(1)–(4) is inserted because of 10:1036e(e) and (f) and 34:440m(e) and (f), which state that the service enumerated in those clauses may not be considered in determining eligibility for retired pay under this chapter. Clause (5) is based on the exclusions in 34:440m(c)(8)–(9).
 
@@ -173,6 +175,8 @@ Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
 #### Amendments
+
+1996—Subsec. (a)(2). Pub. L. 104–201 added cl. (D) and substituted “(C), and (D)” for “and (C)” in concluding provisions.
 
 1994—Pub. L. 103–337 renumbered section 1332 of this title as this section, substituted “Entitlement to retired pay: computation of years of service” for “Computation of years of service in determining entitlement to retired pay” as section catchline, and amended text generally, making changes in style, references to other sections and Acts, and the service in the Public Health Service and the National Oceanic and Atmospheric Administration that may be included in the computation of years of service in subsec. (a).
 
@@ -208,6 +212,24 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33 (g) of Pub
 
 Section 3 of Pub. L. 86–197 provided that: “This Act \[amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title\] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act \[Aug. 25, 1959\].”
 
+#### Tracking System and Recommendations to Congress Relating to Award of Retirement Points
+
+Section 531(b), (c) of Pub. L. 104–201 provided that:
+
+“(b)
+
+Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending section 12733 of this title\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
+
+“(c)
+
+Recommendations to Congress.—The Secretary shall submit to Congress, not later than one year after the date of the enactment of this Act \[Sept. 23, 1996\], the recommendations of the Secretary with regard to the adoption of the following Reserve retirement initiatives recommended in the August 1988 report of the Sixth Quadrennial Review of Military Compensation:
+
+&emsp;“(1) Elimination of membership points under subparagraph (C) of section 12732(a)(2) of title 10, United States Code, in conjunction with a decrease from 50 to 35 in the number of points required for a satisfactory year under that section.
+
+&emsp;“(2) Limitation to 60 in any year on the number of points that may be credited under subparagraph (B) of section 12732(a)(2) of such title at two points per day.
+
+&emsp;“(3) Limitation to 360 in any year on the total number of retirement points countable for purposes of section 12733 of such title.”
+
 #### Coast Guard Women's Reserve; Constructive Service Credit: Retirement Benefits; Retroactive Pay
 
 Pub. L. 87–482, June 12, 1962, 76 Stat. 95, provided: “That any person who was a member of the Coast Guard Women's Reserve and who served on active duty therein for at least one year prior to July 25, 1947; who was separated therefrom under honorable conditions; and who also had membership therein for any period between November 1, 1949, and July 1, 1956, shall be deemed to have served on inactive duty with the Coast Guard Women's Reserve from July 25, 1947, to November 1, 1949, in the grade or rating satisfactorily held on active duty prior to July 25, 1947.
@@ -242,5 +264,5 @@ Uniform allowance, see section 416 of Title 37, Pay and Allowances of the Unifor
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1063, 1176, 1209, 1482, 3850, 6389, 6391, 8850, 12308, 12642, 12646, 12731, 12731a, 12733, 14704 of this title; title 5 section 3329.
+This section is referred to in sections 1063, 1176, 1209, 1482, 2126, 6389, 12308, 12642, 12646, 12731, 12731a, 12733, 14704 of this title; title 5 section 3329.
 

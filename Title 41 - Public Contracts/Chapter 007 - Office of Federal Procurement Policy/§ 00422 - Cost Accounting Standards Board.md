@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) one of whom shall be particularly knowledgeable about cost accounting problems and systems.
 
-(2)(A) The term of office of each of the members of the Board, other than the Administrator for Federal Procurement Policy, shall be 4 years, except that—
+(2)(A) The term of office of each of the members of the Board, other than the Administratorfor Federal Procurement Policy, shall be 4 years, except that—
 
 &emsp;(i) of the initial members, two shall be appointed for terms of two years, one shall be appointed for a term of three years, and one shall be appointed for a term of four years;
 
@@ -38,7 +38,7 @@ The Administrator may appoint, fix the compensation, and remove additional emplo
 
 #### (d) Detailed and temporary personnel
 
-(1) The Board may use, without reimbursement, any personnel of a Federal agency (withthe consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
+(1) The Board may use, without reimbursement, any personnel of a Federal agency (with the consent of the head of the agency concerned) to serve on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
 
 (2) The Administrator, after consultation with the Board, may procure temporary and intermittent services under section 3109(b) of title 5 of personnel for the purpose of serving on advisory committees and task forces to assist the Board in carrying out the functions and responsibilities of the Board under this section.
 
@@ -54,11 +54,9 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (B) Subparagraph (A) does not apply to the following contracts or subcontracts:
 
-&emsp;(i) Contracts or subcontracts where the price negotiated is based on established catalog or market prices of commercial items sold in substantial quantities to the general public.
+&emsp;(i) Contracts or subcontracts for the acquisition of commercial items.
 
 &emsp;(ii) Contracts or subcontracts where the price negotiated is based on prices set by law or regulation.
-
-&emsp;(iii) Any other firm fixed-price contract or subcontract (without cost incentives) for commercial items.
 
 (C) In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
@@ -92,7 +90,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 &emsp;(D) publish a notice of such proposed rulemaking in the Federal Register and provide all parties affected a period of not less than 60 days after such publication to submit their views and comments.
 
-(2) Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines a longer period is necessary. Implementation dates for contractors and subcontractors shall be determined by the Board, but in no event shall such dates be later than the beginning of the second fiscal year of the contractoror subcontractor after the standard becomes effective. Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall be accompanied by prefatory comments and by illustrations, if necessary.
+(2) Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall have the full force and effect of law, and shall become effective within 120 days after publication in the Federal Register in final form, unless the Board determines a longer period is necessary. Implementation dates for contractors and subcontractors shall be determined by the Board, but in no event shall such dates be later than the beginning of the second fiscal year of the contractor or subcontractor after the standard becomes effective. Rules, regulations, cost accounting standards, and modifications thereof promulgated or amended under this section shall be accompanied by prefatory comments and by illustrations, if necessary.
 
 (3) The functions exercised under this section are excluded from the operation of sections 551, 553 through 559, and 701 through 706 of title 5.
 
@@ -126,13 +124,13 @@ The Board shall report to the Congress not later than one year after November 17
 
 #### (k) Examinations
 
-For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
+For the purpose of determining whether a contractor or subcontractor has complied with costaccounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
 
 #### (<i>l</i>) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 93–400, §26, as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 102 Stat. 4058; amended Pub. L. 103–355, title II, §2453, title VIII, §8301(d), Oct. 13, 1994, 108 Stat. 3326, 3397.)
+(Pub. L. 93–400, §26, as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 102 Stat. 4058; amended Pub. L. 103–355, title II, §2453, title VIII, §8301(d), Oct. 13, 1994, 108 Stat. 3326, 3397; Pub. L. 104–106, div. D, title XLII, §4205, title XLIII, §4321(h)(4), Feb. 10, 1996, 110 Stat. 656, 675.)
 
 #### References in Text
 
@@ -148,9 +146,19 @@ The Inspector General Act of 1978, referred to in subsec. (k), is Pub. L. 95–4
 
 #### Amendments
 
+1996—Subsec. (f)(2)(B)(i). Pub. L. 104–106, §4205(1), added cl. (i) and struck out former cl. (i) which read as follows: “Contracts or subcontracts where the price negotiated is based on established catalog or market prices of commercial items sold in substantial quantities to the general public.”
+
+Subsec. (f)(2)(B)(iii). Pub. L. 104–106, §4205(2), struck out cl. (iii) which read as follows: “Any other firm fixed-price contract or subcontract (without cost incentives) for commercial items.”
+
+Subsec. (f)(3). Pub. L. 104–106, §4321(h)(4), substituted “The Administrator” for “Not later than 180 days after November 17, 1988, the Administrator”.
+
 1994—Subsec. (f)(2). Pub. L. 103–355, §8301(d), designated existing provisions as subpar. (A), substituted a period for “, other than contracts or subcontracts where the price negotiated is based on (A) established catalog or market prices of commercial items sold in substantial quantities to the general public, or (B) prices set by law or regulation”, and added subpars. (B) and (C).
 
-Subsec. (f)(3). Pub. L. 103–355, §2453, substituted “The Administrator” for “Not later than 180 days after November 17, 1988, the Administrator”.
+Subsec. (f)(3). Pub. L. 103–355, §2453, which directed substitution of “The Administrator” for “Not later than 180 days after the date of the enactment of this section, the Administrator”, could not be executed because those words did not appear in the original.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -40,9 +40,9 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
+1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
-<b>1986</b>—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
 
 #### Clarification Relating to Consideration of Pre-1987 Service as an Air Traffic Controller for Retirement Purposes
 

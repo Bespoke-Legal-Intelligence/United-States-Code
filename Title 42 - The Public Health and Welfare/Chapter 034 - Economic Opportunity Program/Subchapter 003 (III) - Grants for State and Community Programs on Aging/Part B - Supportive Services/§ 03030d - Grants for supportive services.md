@@ -38,7 +38,7 @@
 
 &emsp;(13) crime prevention services and victim assistance programs for older individuals;
 
-&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identifyand meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health, employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
+&emsp;(14) a program, to be known as “Senior Opportunities and Services”, designed to identify and meet the needs of low-income older individuals in one or more of the following areas: (A) development and provision of new volunteer services; (B) effective referral to existing health, employment, housing, legal, consumer, transportation, and other services; (C) stimulation and creation of additional services and programs to remedy gaps and deficiencies in presently existing services and programs; and (D) such other services as the Assistant Secretary may determine are necessary or especially appropriate to meet the needs of low-income older individuals and to assure them greater self-sufficiency;
 
 &emsp;(15) services for the prevention of abuse of older individuals in accordance with subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title;
 
@@ -52,7 +52,7 @@
 
 &emsp;(20) services designed to provide information and training for individuals who are or may become guardians or representative payees of older individuals, including information on the powers and duties of guardians and representative payees and on alternatives to guardianships;
 
-&emsp;(21) services to encourage and facilitate regular interaction between school-age children and older individuals, including visits in long-term care facilities, multipurpose senior centers, and other settings; or
+&emsp;(21) services to encourage and facilitate regular interaction between school-age childrenand older individuals, including visits in long-term care facilities, multipurpose senior centers, and other settings; or
 
 &emsp;(22) any other services;
 

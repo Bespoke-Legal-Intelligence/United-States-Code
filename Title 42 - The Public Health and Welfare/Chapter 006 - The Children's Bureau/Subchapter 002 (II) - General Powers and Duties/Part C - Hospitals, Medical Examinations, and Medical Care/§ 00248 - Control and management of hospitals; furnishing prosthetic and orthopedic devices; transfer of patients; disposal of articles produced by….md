@@ -16,7 +16,7 @@ The Surgeon General, pursuant to regulations, shall—
 
 #### Amendments
 
-1978—Subsec. (a). Pub. L. 95–622 struck out “, and tobacco” after “orthopedic devices”.
+1978—Subsec. (a). Pub. L. 95–622 struck out “, and tobacco” after “orthopedic devices”.
 
 1948—Subsec. (a). Act June 25, 1948, §2(a), amended subsec. (a) generally, continuing authority of Service to furnish tobacco to patients being treated by it.
 
@@ -28,7 +28,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan.30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,9 @@
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -38,7 +40,7 @@ Oct. 15, 1966, Pub. L. 89–670, §2(a), (b)(1), 80 Stat. 931.
 
 In subsections (a) and (b), the introductory declaratory words are omitted as surplus.
 
-In subsection (a), the words “national objectives of” are inserted for clarity. The words “United States” aresubstituted for “Nation” and “Nation's”, respectively, for consistency. The word “contribute” is substituted for “conducive” because the substituted word is more commonly used. The word “those” is substituted for “utilization”.
+In subsection (a), the words “national objectives of” are inserted for clarity. The words “United States” are substituted for “Nation” and “Nation's”, respectively, for consistency. The word “contribute” is substituted for “conducive” because the substituted word is more commonly used. The word “those” is substituted for “utilization”.
 
 In subsection (b)(2), the word “greatest” is substituted for “maximum” for consistency.
 

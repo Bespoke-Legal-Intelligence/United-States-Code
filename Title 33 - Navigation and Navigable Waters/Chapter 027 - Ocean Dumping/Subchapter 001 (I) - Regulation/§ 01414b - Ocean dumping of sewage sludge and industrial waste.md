@@ -286,7 +286,7 @@
 
 &emsp;&emsp;(ii) for providing assistance to any person in the State who was not required to pay such penalties for construction of treatment works (as defined in section 212 of the Federal Water Pollution Control Act \[33 U.S.C. 1292\]) which are publicly owned.
 
-&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this sectionwhich are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
+&emsp;(B) Amounts paid to a State as penalties pursuant to subsection (d)(2)(D) of this section which are not used in accordance with subparagraph (A) shall be deposited into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act. Amounts deposited into such a fund pursuant to this subparagraph—
 
 &emsp;&emsp;(i) shall not be used by the State to provide assistance to the person who paid such amounts;
 
@@ -364,7 +364,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, shall design a program for monitoring environmental conditions—
+&emsp;The Administrator, in cooperation with the Under Secretary of Commerce for Oceans andAtmosphere, shall design a program for monitoring environmental conditions—
 
 &emsp;&emsp;(A) at the Apex site (as that term is defined in section 1414a of this title);
 

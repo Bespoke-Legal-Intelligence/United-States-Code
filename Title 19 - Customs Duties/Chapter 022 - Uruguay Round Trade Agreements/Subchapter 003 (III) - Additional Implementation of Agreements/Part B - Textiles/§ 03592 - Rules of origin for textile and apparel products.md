@@ -16,7 +16,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;&emsp;&emsp;(i) the constituent staple fibers are spun in that country, territory, or possession, or
 
-&emsp;&emsp;&emsp;(ii) the continuous filament is extruded in that country, territory, or possession,<sup>1</sup>
+&emsp;&emsp;&emsp;(ii) the continuous filament is extruded in that country, territory, or possession;
 
 &emsp;&emsp;(C) the product is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, or yarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in that country, territory, or possession; or
 
@@ -44,7 +44,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;&emsp;(i) shall not be included in the dutiable value of such article, and
 
-&emsp;&emsp;(ii) may be applied toward determining the percentage referred to in General Note 7(b)(i)(B) of the HTS, subject to the limitation provided in that note.
+&emsp;&emsp;(ii) may be applied toward determining the percentage referred to in General Note7(b)(i)(B) of the HTS, subject to the limitation provided in that note.
 
 &emsp;(B) No article (except a textile or apparel product) assembled in whole of components described in subparagraph (A), or of such components and components that are products of the United States, in a beneficiary country as defined in General Note 7(a) of the HTS shall be treated as a foreign article, or as subject to duty if—
 
@@ -72,9 +72,13 @@ This section shall apply to goods entered, or withdrawn from warehouse, for cons
 
 > The origin of goods to which this section does not apply shall be determined in accordance with the applicable rules in effect on July 20, 1994.
 
-(Pub. L. 103–465, title III, §334, Dec. 8, 1994, 108 Stat. 4949.)
+(Pub. L. 103–465, title III, §334, Dec. 8, 1994, 108 Stat. 4949; Pub. L. 104–295, §20(c)(9), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### References in Text
 
 The customs laws, referred to in subsec. (b)(1), (5), are classified generally to this title.
+
+#### Amendments
+
+1996—Subsec. (b)(1)(B)(ii). Pub. L. 104–295 substituted “possession;” for “possession,”.
 

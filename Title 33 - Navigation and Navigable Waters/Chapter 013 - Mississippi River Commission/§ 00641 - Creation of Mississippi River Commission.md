@@ -18,5 +18,5 @@ The Missouri River Commission was created by act July 5, 1884, ch. 229, §1, 23 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 642, 647, 653 of this title.
+This section is referred to in sections 642, 647, 653, 653a of this title.
 

@@ -1,6 +1,6 @@
 ### §5508. Rank of line and staff corps officers of the Navy and officers of the Marine Corps
 
-Except for an officer entitled to a rank higher than his grade, line and staff corps officers of the Navy serving in the same grade and officers of the Marine Corps serving in the corresponding grade rank among themselves according to their respective dates of rank in grade whether or not they are on an active-duty list.
+Except for an officer entitled to a rank higher than his grade, line and staff corps officers ofthe Navy serving in the same grade and officers of the Marine Corps serving in the corresponding grade rank among themselves according to their respective dates of rank in grade whether or not they are on an active-duty list.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 317; Dec. 8, 1967, Pub. L. 90–179, §4, 81 Stat. 547; Dec. 12, 1980, Pub. L. 96–513, title V, §503(27), 94 Stat. 2913.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility of Members of Ready Reserve.—(1) A member of the Ready Reserve who satisfactorily completes 50 or more points creditable under section 1332(a)(2) <sup>1</sup> of this title in a calendar year shall be eligible to use commissary stores of the Department of Defense. The Secretary concerned shall authorize the member to have 12 days of eligibility for any calendar year that the member qualifies for eligibility under this subsection.
+Eligibility of Members of Ready Reserve.—(1) A member of the Ready Reserve who satisfactorily completes 50 or more points creditable under section 12732(a)(2) of this title in a calendar year shall be eligible to use commissary stores of the Department of Defense. The Secretary concerned shall authorize the member to have 12 days of eligibility for any calendar year that the member qualifies for eligibility under this subsection.
 
 (2) Paragraph (1) shall apply without regard to whether, during the calendar year, the member receives compensation for the duty or training performed by the member or performs active duty for training.
 
@@ -14,13 +14,11 @@ Limitation.—A member may not use commissary stores by reason of this section f
 
 Regulations.—The Secretary concerned shall prescribe regulations, subject to the approval of the Secretary of Defense, to carry out this section.
 
-(Added Pub. L. 99–661, div. A, title VI, §656(a)(1), Nov. 14, 1986, 100 Stat. 3891, §1052; renumbered §1063, Pub. L. 100–370, §1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, §321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, §365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382.)
-
-#### References in Text
-
-Section 1332 of this title, referred to in subsec. (a)(1), was renumbered section 12732 of this title and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000. As so renumbered and amended the provisions of section 1332(a)(2) are now contained in section 12732(a)(2) of this title.
+(Added Pub. L. 99–661, div. A, title VI, §656(a)(1), Nov. 14, 1986, 100 Stat. 3891, §1052; renumbered §1063, Pub. L. 100–370, §1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, §321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, §365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 104–106, div. A, title XV, §1501(c)(9), Feb. 10, 1996, 110 Stat. 499.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–106 substituted “section 12732(a)(2)” for “section 1332(a)(2)”.
 
 1992—Pub. L. 102–484, §365(c)(1), substituted “eligibility for members of the Ready Reserve” for “eligibility attributable to active duty for training” in section catchline.
 
@@ -31,6 +29,10 @@ Eligibility of Members of Ready Reserve.—A member of the Ready Reserve who per
 1990—Subsec. (a). Pub. L. 101–510 substituted “Eligibility of members of Ready Reserve” for “Period for use of eligibility” in heading and amended text generally. Prior to amendment, text read as follows: “If under regulations establishing eligibility for use of commissary stores, a member of the armed forces accrues eligibility to use commissary stores of the Department of Defense by reason of the performance of active duty for training, the Secretary concerned shall authorize the member to have one year from the date on which the member performs active duty for training to use a day of eligibility for using commissary stores attributable to the performance of that duty.”
 
 1988—Pub. L. 100–370 renumbered section 1052 of this title as this section.
+
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1992 Amendment
 
@@ -47,6 +49,4 @@ Section 656(c) of Pub. L. 99–661 provided that: “Section 1052 \[now 1063\] o
 #### Commissary and Exchange Privileges for Survivors of Certain Reservists
 
 Pub. L. 99–145, title III, §308, Nov. 8, 1985, 99 Stat. 618, which required the Secretary of Defense to prescribe regulations to allow dependents of certain deceased members of the uniformed services to use commissary and exchange stores on the same basis as dependents of members of the uniformed services who die while on active duty for a period of more than 30 days, was repealed and restated in section 1061 of this title by Pub. L. 100–370, §1(c)(1), (4), July 19, 1988, 102 Stat. 841.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

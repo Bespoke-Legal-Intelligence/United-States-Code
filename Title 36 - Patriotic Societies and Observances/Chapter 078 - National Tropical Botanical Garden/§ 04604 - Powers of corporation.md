@@ -16,7 +16,7 @@ The corporation shall have the following powers:
 
 &emsp;(g) to transfer, convey, lease, sublease, mortgage, encumber, and otherwise alienate real, personal, or mixed property; and <sup>1</sup>
 
-&emsp;(h) to borrow money for the purposes of the corporation, issue bonds or other evidences of indebtedness therefor, and secure the same bymortgage, deed of trust, pledge, or otherwise, subject in every case to all applicable provisions of the Federal and State laws or to the laws of the District of Columbia; and
+&emsp;(h) to borrow money for the purposes of the corporation, issue bonds or other evidences of indebtedness therefor, and secure the same by mortgage, deed of trust, pledge, or otherwise, subject in every case to all applicable provisions of the Federal and State laws or to the laws of the District of Columbia; and
 
 &emsp;(i) to do any and all acts and things necessary and proper to carry out the objects and purposes of the corporation.
 

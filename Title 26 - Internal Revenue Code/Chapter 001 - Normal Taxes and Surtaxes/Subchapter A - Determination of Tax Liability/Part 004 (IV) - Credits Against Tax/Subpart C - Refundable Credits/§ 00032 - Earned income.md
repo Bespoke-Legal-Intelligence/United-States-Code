@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the credit percentage of the earned income amount, over
 
-&emsp;&emsp;(B) the phaseout percentage of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
+&emsp;&emsp;(B) the phaseout percentage of so much of the modified adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
 
 #### (b) Percentages and amounts
 
@@ -62,29 +62,13 @@ For purposes of subsection (a)—
 
 &emsp;The earned income amount and the phaseout amount shall be determined as follows:
 
-#### (A) In general
-
-&emsp;&emsp;In the case of taxable years beginning after 1994:
-
 &nbsp;
 
 | In the case of an eligible individual with: | The earned income amount is: | The phaseout amount is: |
 | :--- | :---: | ---: |
-| 1 qualifying child | $6,000 | $11,000 |
-| 2 or more qualifying children | $8,425 | $11,000 |
-| No qualifying children | $4,000 | &nbsp;$5,000 |
-
-#### (B) Transitional amounts
-
-&emsp;&emsp;In the case of a taxable year beginning in 1994:
-
-&nbsp;
-
-| In the case of an eligible individual with: | The earned income amount is: | The phaseout amount is: |
-| :--- | :---: | ---: |
-| 1 qualifying child | $7,750 | $11,000 |
-| 2 or more qualifying children | $8,425 | $11,000 |
-| No qualifying children | $4,000 | &nbsp;$5,000 |
+| 1 qualifying child | $6,330 | $11,610 |
+| 2 or more qualifying children | $8,890 | $11,610 |
+| No qualifying children | $4,220 | &nbsp;$5,280 |
 
 #### (c) Definitions and special rules
 
@@ -102,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such individual's principal place of abode is in the United States for more than one-half of such taxable year,
 
-&emsp;&emsp;&emsp;&emsp;(II) such individual (or, if the individual is married, either the individual or the individual's spouse) has attained age25 but not attained age 65 before the close of the taxable year, and
+&emsp;&emsp;&emsp;&emsp;(II) such individual (or, if the individual is married, either the individual or the individual's spouse) has attained age 25 but not attained age 65 before the close of the taxable year, and
 
 &emsp;&emsp;&emsp;&emsp;(III) such individual is not a dependent for whom a deduction is allowable under section 151 to another taxpayer for any taxable year beginning in the same calendar year as such taxable year.
 
@@ -114,7 +98,7 @@ For purposes of this section—
 
 #### (C) 2 or more eligible individuals
 
-&emsp;&emsp;If 2 or more individuals would (but for this subparagraph and after application of subparagraph (B)) be treated as eligible individuals with respect to the same qualifying child for taxable years beginning in the same calendar year, only the individual with the highest adjusted gross income for such taxable years shall be treated as an eligible individual with respect to such qualifying child.
+&emsp;&emsp;If 2 or more individuals would (but for this subparagraph and after application of subparagraph (B)) be treated as eligible individuals with respect to the same qualifying child for taxable years beginning in the same calendar year, only the individual with the highest modified adjusted gross income for such taxable years shall be treated as an eligible individual with respect to such qualifying child.
 
 #### (D) Exception for individual claiming benefits under section 911
 
@@ -124,13 +108,21 @@ For purposes of this section—
 
 &emsp;&emsp;The term “eligible individual” shall not include any individual who is a nonresident alien individual for any portion of the taxable year unless such individual is treated for such taxable year as a resident of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
 
+#### (F) Identification number requirement
+
+&emsp;&emsp;The term “eligible individual” does not include any individual who does not include on the return of tax for the taxable year—
+
+&emsp;&emsp;&emsp;(i) such individual's taxpayer identification number, and
+
+&emsp;&emsp;&emsp;(ii) if the individual is married (within the meaning of section 7703), the taxpayer identification number of such individual's spouse.
+
 #### (2) Earned income
 
 &emsp;(A) The term “earned income” means—
 
 &emsp;&emsp;(i) wages, salaries, tips, and other employee compensation, plus
 
-&emsp;&emsp;(ii) the amount of the taxpayer's net earnings from self-employment for the taxable year (within the meaning of section 1402(a)), but such net earnings shall be determined with regard to the deduction allowed to the taxpayer by section 164(f).
+&emsp;&emsp;(ii) the amount of the taxpayer's net earnings from self-employment for the taxable year (within the meaning of section 1402(a)),but such net earnings shall be determined with regard to the deduction allowed to the taxpayer by section 164(f).
 
 &emsp;(B) For purposes of subparagraph (A)—
 
@@ -198,7 +190,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the taxpayer includes the name,age, and TIN of each qualifying child (without regard to this subparagraph) on the return of tax for the taxable year.
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met if the taxpayer includes the name, age, and TIN of each qualifying child (without regard to this subparagraph) on the return of tax for the taxable year.
 
 #### (ii) Other methods
 
@@ -211,6 +203,32 @@ For purposes of this section—
 #### (4) Treatment of military personnel stationed outside the United States
 
 &emsp;For purposes of paragraphs (1)(A)(ii)(I) and (3)(E), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty (as defined in section 1034(h)(3)) with the Armed Forces of the United States.
+
+#### (5) Modified adjusted gross income
+
+#### (A) In general
+
+&emsp;&emsp;The term “modified adjusted gross income” means adjusted gross income determined without regard to the amounts described in subparagraph (B).
+
+#### (B) Certain amounts disregarded
+
+&emsp;&emsp;An amount is described in this subparagraph if it is—
+
+&emsp;&emsp;&emsp;(i) the amount of losses from sales or exchanges of capital assets in excess of gains from such sales or exchanges to the extent such amount does not exceed the amount under section 1211(b)(1),
+
+&emsp;&emsp;&emsp;(ii) the net loss from estates and trusts,
+
+&emsp;&emsp;&emsp;(iii) the excess (if any) of amounts described in subsection (i)(2)(C)(ii) over the amounts described in subsection (i)(2)(C)(i) (relating to nonbusiness rents and royalties), and
+
+&emsp;&emsp;&emsp;(iv) 50 percent of the net loss from the carrying on of trades or businesses, computed separately with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) trades or businesses (other than farming) conducted as sole proprietorships,
+
+&emsp;&emsp;&emsp;&emsp;(II) trades or businesses of farming conducted as sole proprietorships, and
+
+&emsp;&emsp;&emsp;&emsp;(III) other trades or businesses.
+
+> &emsp;&emsp;For purposes of clause (iv), there shall not be taken into account items which are attributable to a trade or business which consists of the performance of services by the taxpayer as an employee.
 
 #### (d) Married individuals
 
@@ -232,7 +250,7 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 
 &emsp;&emsp;(A) for earned income between $0 and the amount of earned income at which the credit is phased out under subsection (b), and
 
-&emsp;&emsp;(B) for adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of adjusted gross income at which the credit is phased out under subsection (b).
+&emsp;&emsp;(B) for modified adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of modified adjusted gross income at which the credit is phased out under subsection (b).
 
 #### (g) Coordination with advance payments of earned income credit
 
@@ -252,7 +270,7 @@ The credit allowed under this section for the taxable year shall be reduced by t
 
 #### (1) In general
 
-&emsp;No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,350.
+&emsp;No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,200.
 
 #### (2) Disqualified income
 
@@ -260,7 +278,7 @@ The credit allowed under this section for the taxable year shall be reduced by t
 
 &emsp;&emsp;(A) interest or dividends to the extent includible in gross income for the taxable year,
 
-&emsp;&emsp;(B) interest received or accrued during the taxable year which is exempt from tax imposed by this chapter, and
+&emsp;&emsp;(B) interest received or accrued during the taxable year which is exempt from tax imposed by this chapter,
 
 &emsp;&emsp;(C) the excess (if any) of—
 
@@ -270,21 +288,37 @@ The credit allowed under this section for the taxable year shall be reduced by t
 
 &emsp;&emsp;&emsp;&emsp;(I) the deductions (other than interest) which are clearly and directly allocable to such gross income, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) interest deductions properly allocable to such gross income.
+&emsp;&emsp;&emsp;&emsp;(II) interest deductions properly allocable to such gross income,
+
+&emsp;&emsp;(D) the capital gain net income (as defined in section 1222) of the taxpayer for such taxable year, and
+
+&emsp;&emsp;(E) the excess (if any) of—
+
+&emsp;&emsp;&emsp;(i) the aggregate income from all passive activities for the taxable year (determined without regard to any amount included in earned income under subsection (c)(2) or described in a preceding subparagraph), over
+
+&emsp;&emsp;&emsp;(ii) the aggregate losses from all passive activities for the taxable year (as so determined).
+
+> &emsp;For purposes of subparagraph (E), the term “passive activity” has the meaning given such term by section 469.
 
 #### (j) Inflation adjustments
 
 #### (1) In general
 
-&emsp;In the case of any taxable year beginning after 1994, each dollar amount contained in subsection (b)(2)(A) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning after 1996, each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3), for the calendar year in which the taxable year begins, by substituting “calendar year 1993” for “calendar year 1992”.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof.
 
 #### (2) Rounding
 
-&emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10 (or, if such dollar amount is a multiple of $5, such dollar amount shall be increased to the next higher multiple of $10).
+#### (A) In general
+
+&emsp;&emsp;If any dollar amount in subsection (b)(2), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
+
+#### (B) Disqualified income threshold amount
+
+&emsp;&emsp;If the dollar amount in subsection (i)(1), after being increased under paragraph (1), is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
 
 #### (k) Coordination with certain means-tested programs
 
@@ -302,11 +336,15 @@ For purposes of—
 
 > any refund made to an individual (or the spouse of an individual) by reason of this section, and any payment made to such individual (or such spouse) by an employer under section 3507, shall not be treated as income (and shall not be taken into account in determining resources for the month of its receipt and the following month).
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95.)
+#### (<i>l</i>) Identification numbers
 
-#### Earned Income Credit Adjustment for Tax Years Beginning in 1996
+Solely for purposes of subsections (c)(1)(F) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
-<i>For adjustment of earned income credit under this section for tax years beginning in 1996, see section 3.03 of Revenue Procedure 95–53, set out as a note under section 1 of this title.</i>
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352.)
+
+#### Earned Income Credit Adjustment for Tax Years Beginning in 1997
+
+<i>For adjustment of earned income credit under this section for tax years beginning in 1997, see section 3.03 of Revenue Procedure 96–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -320,11 +358,45 @@ Sections 221(d)(3), 235, and 236 of the National Housing Act, referred to in sub
 
 The Food Stamp Act of 1977, referred to in subsec. (k)(5), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
+Section 205(c)(2)(B)(i) of the Social Security Act, referred to in subsec. (<i>l</i>), is classified to section 405(c)(2)(B)(i) of Title 42, The Public Health and Welfare.
+
 #### Prior Provisions
 
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(2)(B). Pub. L. 104–193, §910(a), inserted “modified” before “adjusted gross income”.
+
+Subsec. (b)(2). Pub. L. 104–193, §909(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) setting out tables for determining the earned income amount for taxable years beginning after 1994 and for taxable years beginning in 1994.
+
+Subsec. (c)(1)(C). Pub. L. 104–193, §910(a), inserted “modified” before “adjusted gross income”.
+
+Subsec. (c)(1)(F). Pub. L. 104–193, §451(a), added subpar. (F).
+
+Subsec. (c)(5). Pub. L. 104–193, §910(b), added par. (5).
+
+Subsec. (f)(2)(B). Pub. L. 104–193, §910(a), inserted “modified” before “adjusted gross income” in two places.
+
+Subsec. (i)(1). Pub. L. 104–193, §909(a)(1), substituted “$2,200” for “$2,350”.
+
+Subsec. (i)(2). Pub. L. 104–193, §909(b), added subpars. (D) and (E) and concluding provisions.
+
+Subsec. (j). Pub. L. 104–193, §909(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—In the case of any taxable year beginning after 1994, each dollar amount contained in subsection (b)(2)(A) shall be increased by an amount equal to—
+
+&emsp;“(A) such dollar amount, multiplied by
+
+&emsp;“(B) the cost-of-living adjustment determined under section 1(f)(3), for the calendar year in which the taxable year begins, by substituting ‘calendar year 1993’ for ‘calendar year 1992’.
+
+“(2)
+
+Rounding.—If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10 (or, if such dollar amount is a multiple of $5, such dollar amount shall be increased to the next higher multiple of $10).”
+
+Subsec. (<i>l</i>). Pub. L. 104–193, §451(b), added subsec. (<i>l</i>).
 
 1995—Subsecs. (i) to (k). Pub. L. 104–7 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
@@ -362,7 +434,7 @@ Subsec. (i)(2), (3). Pub. L. 103–66, §13131(c), redesignated par. (3) as (2) 
 
 1990—Subsec. (a). Pub. L. 101–508, §11111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of an eligible individual, there is allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 14 percent of so much of the earned income for the taxable year as does not exceed $5,714.”
 
-Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read “Limitation” and amended subsec. (b) generally. Prior to amendment, subsec. (b)read as follows: “The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
+Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read “Limitation” and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
 
 &emsp;“(1) the maximum credit allowable under subsection (a) to any taxpayer, over
 
@@ -468,6 +540,30 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 1996 Amendment
+
+Section 451(d) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section and section 6213 of this title\] shall apply with respect to returns the due date for which (without regard to extensions) is more than 30 days after the date of the enactment of this Act \[Aug. 22, 1996\].”
+
+Section 909(c) of Pub. L. 104–193 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.
+
+“(2)
+
+Advance payment individuals.—In the case of any individual who on or before June 26, 1996, has in effect an earned income eligibility certificate for the individual's taxable year beginning in 1996, the amendments made by this section shall apply to taxable years beginning after December 31, 1996.”
+
+Section 910(c) of Pub. L. 104–193 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.
+
+“(2)
+
+Advance payment individuals.—In the case of any individual who on or before June 26, 1996, has in effect an earned income eligibility certificate for the individual's taxable year beginning in 1996, the amendments made by this section shall apply to taxable years beginning after December 31, 1996.”
+
 #### Effective Date of 1995 Amendment
 
 Section 4(b) of Pub. L. 104–7 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
@@ -572,5 +668,5 @@ Section 2(d) of Pub. L. 94–164, as amended by Pub. L. 94–455, title IV, §40
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 86, 129, 995, 3507, 6051, 6211 of this title; title 2 section 905; title 42 sections 502, 602, 1382a, 1382b.
+This section is referred to in sections 86, 129, 995, 3507, 6051, 6211, 6213 of this title; title 2 section 905; title 42 sections 502, 602, 1382a, 1382b.
 

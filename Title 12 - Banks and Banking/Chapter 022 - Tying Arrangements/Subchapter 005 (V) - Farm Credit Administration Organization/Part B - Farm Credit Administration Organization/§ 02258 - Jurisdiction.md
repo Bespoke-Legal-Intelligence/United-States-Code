@@ -10,5 +10,5 @@ A prior section 5.23 of Pub. L. 92–181 was renumbered section 5.22 and is clas
 
 #### Amendments
 
-1975—Pub. L. 94–184 struck out provisions prohibiting district court jurisdiction on the basis of incorporation under this Act or prior Federal law, and prohibiting jurisdiction except in cases by or against the United States or one of its officers, or against a person over whom State courts have no jurisdiction and except incases by or against a receiver or conservator appointed under this chapter.
+1975—Pub. L. 94–184 struck out provisions prohibiting district court jurisdiction on the basis of incorporation under this Act or prior Federal law, and prohibiting jurisdiction except in cases by or against the United States or one of its officers, or against a person over whom State courts have no jurisdiction and except in cases by or against a receiver or conservator appointed under this chapter.
 

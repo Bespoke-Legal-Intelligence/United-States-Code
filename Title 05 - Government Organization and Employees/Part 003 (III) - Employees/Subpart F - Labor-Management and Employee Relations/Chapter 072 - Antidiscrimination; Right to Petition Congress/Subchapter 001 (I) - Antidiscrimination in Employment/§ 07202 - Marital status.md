@@ -1,6 +1,6 @@
 ### §7202. Marital status
 
-(a) The President may prescribe rules which shall prohibit, as nearly as conditions of goodadministration warrant, discrimination because of marital status in an Executive agency or in the competitive service.
+(a) The President may prescribe rules which shall prohibit, as nearly as conditions of good administration warrant, discrimination because of marital status in an Executive agency or in the competitive service.
 
 (b) Regulations prescribed under any provision of this title, or under any other provision of law, granting benefits to employees, shall provide the same benefits for a married female employee and her spouse and children as are provided for a married male employee and his spouse and children.
 
@@ -14,7 +14,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 633(2)6 (less 1st sentence).
 
@@ -26,9 +28,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–454, renumbered section 7152 of this title as this section.
+1978—Pub. L. 95–454, renumbered section 7152 of this title as this section.
 
-<b>1971</b>—Pub. L. 92–187 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+1971—Pub. L. 92–187 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Cross References
 

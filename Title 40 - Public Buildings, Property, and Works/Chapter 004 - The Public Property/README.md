@@ -28,11 +28,11 @@
 | [308\.](%C2%A7%2000308%20-%20Releasing%20property%20from%20attachment.md) | Releasing property from attachment. |
 | [309\.](%C2%A7%2000309%20-%20Payment.md) | Payment. |
 | [310\.](%C2%A7%2000310%20-%20Abandoned%20property.md) | Abandoned property. |
-| 311, 311a. Repealed. |  |
+| 311, 311a. | Repealed. |
 | [311b.](%C2%A7%2000311b%20-%20Disposition%20of%20unfit%20horses%20and%20mules.md) | Disposition of unfit horses and mules. |
 | 312 to 313a. Repealed or Omitted. |  |
 | [314\.](%C2%A7%2000314%20-%20Sale%20of%20war%20supplies%2C%20lands%2C%20and%20buildings.md) | Sale of war supplies, lands, and buildings. |
-| 314a, 315. Omitted. |  |
+| 314a, 315. | Omitted. |
 | [316\.](%C2%A7%2000316%20-%20Disposition%20of%20securities.md) | Disposition of securities. |
 | [317\.](%C2%A7%2000317%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93118%2C%20Sept.%206%2C%201963%2C%2077%20Stat.%20152.md) | Repealed. |
 | [318\.](%C2%A7%2000318%20-%20Special%20police.md) | Special police. |

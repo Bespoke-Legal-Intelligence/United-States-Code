@@ -12,6 +12,36 @@ General.—In carrying out this part, the Administrator of the Federal Aviation 
 
 (b)
 
+Purchase of Housing Units.—
+
+&emsp;(1)
+
+Authority.—In carrying out this part, the Administrator may purchase a housing unit (including a condominium or a housing unit in a building owned by a cooperative) that is located outside the contiguous United States if the cost of the unit is $300,000 or less.
+
+&emsp;(2)
+
+Adjustments for inflation.—For fiscal years beginning after September 30, 1997, the Administrator may adjust the dollar amount specified in paragraph (1) to take into account increases in local housing costs.
+
+&emsp;(3)
+
+Continuing obligations.—Notwithstanding section 1341 of title 31, the Administrator may purchase a housing unit under paragraph (1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
+
+&emsp;(4)
+
+Certification to congress.—The Administrator may purchase a housing unit under paragraph (1) only if, at least 30 days before completing the purchase, the Administrator transmits to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+
+&emsp;&emsp;(A) a description of the housing unit and its price;
+
+&emsp;&emsp;(B) a certification that the price does not exceed the median price of housing units in the area; and
+
+&emsp;&emsp;(C) a certification that purchasing the housing unit is the most cost-beneficial means of providing necessary accommodations in carrying out this part.
+
+&emsp;(5)
+
+Payment of fees.—The Administrator may pay, when due, fees resulting from the purchase of a housing unit under this subsection from any amounts made available to the Administrator.
+
+(c)
+
 Duties and Powers.—When carrying out subsection (a) of this section, the Administrator of the Federal Aviation Administration—
 
 &emsp;(1) is the senior procurement executive referred to in section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) for approving the justification for using procedures other than competitive procedures, as required under section 303(f)(1)(B)(iii) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(B)(iii)); and
@@ -30,13 +60,15 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;&emsp;(F) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,7 +112,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, §303(g); added Oct. 31, 1992, Pu
 
 In this section, the word “Administrator” in section 303(a)–(d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 747) is retained on authority of 49:106(g).
 
-In subsection (a), before clause (1), the words “In carrying out this part” are added for clarity. The words “on behalf of the United States . . . where appropriate” are omitted as surplus. In clause (1), the words “madeby the Congress”, “by purchase, condemnation . . . or otherwise”, and “easements through or other” are omitted as surplus. In clause (2), the words “by sale, lease, or otherwise” and “real or personal” are omitted as surplus. In clause (3), the word “renovate” is omitted as surplus. The words “and to purchase or otherwise acquire real property required therefor” are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
+In subsection (a), before clause (1), the words “In carrying out this part” are added for clarity. The words “on behalf of the United States . . . where appropriate” are omitted as surplus. In clause (1), the words “made by the Congress”, “by purchase, condemnation . . . or otherwise”, and “easements through or other” are omitted as surplus. In clause (2), the words “by sale, lease, or otherwise” and “real or personal” are omitted as surplus. In clause (3), the word “renovate” is omitted as surplus. The words “and to purchase or otherwise acquire real property required therefor” are omitted as surplus because of the authority of the Administrator to acquire real property under clause (1) of this subsection.
 
 In subsection (b)(1), the words “procedures other than competitive procedures” are substituted for “noncompetitive procedures” for consistency with subsection (b)(2)(D) of this section and 41:253(f).
 
@@ -96,17 +128,33 @@ This amends 49:40110(a) to clarify the restatement of 49 App.:1344(a)(1)–(3) b
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(F), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2)(F), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
+
+1996—Subsecs. (b), (c). Pub. L. 104–264 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1994—Subsec. (a). Pub. L. 103–429, §6(48), in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
 
 Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted “notwithstanding section 1341(a)(1) of title 31,” before “lease”.
 
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Assessment of Acquisition Management System
+
+Section 251 of Pub. L. 104–264 provided that: “Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
+
+Pub. L. 104–205, title III, §351, Sept. 30, 1996, 110 Stat. 2979, provided that: “Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
+
+&emsp;“(a) take such action as may be necessary to provide for an independent assessment of the acquisition management system of the Federal Aviation Administration that includes a review of any efforts of the Administrator in promoting and encouraging the use of full and open competition as the preferred method of procurement with respect to any contract that involves an amount greater than $50,000,000; and
+
+&emsp;“(b) submit to the Congress a report on the findings of that independent assessment: <i>Provided</i>, That for purposes of this section, the term ‘full and open competition’ has the meaning provided that term in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
 
 #### Acquisition Management System for Federal Aviation Administration
 
@@ -128,7 +176,7 @@ Pub. L. 104–50, title III, §348, Nov. 15, 1995, 109 Stat. 460, provided that:
 
 &emsp;“(6) Subchapter V of chapter 35 of title 31, relating to the procurement protest system.
 
-&emsp;“(7) The Brooks Automatic Data Processing Act (40 U.S.C. 759).
+&emsp;“(7) The Brooks Automatic Data Processing Act (\[former\] 40 U.S.C. 759).
 
 &emsp;“(8) The Federal Acquisition Regulation and any laws not listed in (a) through (e) of this section providing authority to promulgate regulations in the Federal Acquisition Regulation.
 

@@ -54,5 +54,5 @@ Collection and Maintenance of Data.—The Secretary shall collect and maintain d
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437d, 1437<i>l</i>, 1437t, 1437u, 1437dd, 3533 of this title; title 12 section 1831q.
+This section is referred to in sections 1437d, 1437<i>l</i>, 1437t, 1437u, 3533 of this title; title 12 section 1831q.
 

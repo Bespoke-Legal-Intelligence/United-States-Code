@@ -10,7 +10,7 @@
 | 92 to 96. | Repealed. |
 | [97\.](%C2%A7%2000097%20-%20State%20health%20laws%20observed%20by%20United%20States%20officers.md) | State health laws observed by United States officers. |
 | [98\.](%C2%A7%2000098%20-%20Vessels%20for%20quarantine%20officers.md) | Vessels for quarantine officers. |
-| 99 to 111. Repealed. |  |
+| 99 to 111. | Repealed. |
 | [112\.](%C2%A7%2000112%20-%20Removal%20of%20revenue%20officers%20from%20port%20during%20epidemic.md) | Removal of revenue officers from port during epidemic. |
 | 113, 114. | Repealed. |
 

@@ -47,8 +47,9 @@
 | [566\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000566%20-%20Conduct%20of%20committee%20activity.md) | Conduct of committee activity. |
 | [567\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000567%20-%20Termination%20of%20committee.md) | Termination of committee. |
 | [568\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000568%20-%20Services%2C%20facilities%2C%20and%20payment%20of%20committee%20member%20expenses.md) | Services, facilities, and payment of committee member expenses. |
-| [569\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000569%20-%20Role%20of%20the%20Administrative%20Conference%20of%20the%20United%20States%20and%20other%20entities.md) | Role of the Administrative Conference of the United States and other entities. |
+| [569\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000569%20-%20Encouraging%20negotiated%20rulemaking.md) | Encouraging negotiated rulemaking. |
 | [570\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000570%20-%20Judicial%20review.md) | Judicial review. |
+| [570a.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000570a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -67,8 +68,9 @@
 | [579\.](Subchapter%20004%20%28IV%29%20-%20Alternative%20Means%20of%20Dispute%20Resolution%20in%20the%20Administrative%20Process/%C2%A7%2000579%20-%20Arbitration%20proceedings.md) | Arbitration proceedings. |
 | [580\.](Subchapter%20004%20%28IV%29%20-%20Alternative%20Means%20of%20Dispute%20Resolution%20in%20the%20Administrative%20Process/%C2%A7%2000580%20-%20Arbitration%20awards.md) | Arbitration awards. |
 | [581\.](Subchapter%20004%20%28IV%29%20-%20Alternative%20Means%20of%20Dispute%20Resolution%20in%20the%20Administrative%20Process/%C2%A7%2000581%20-%20Judicial%20Review%201.md) | Judicial review. |
-| [582\.](Subchapter%20004%20%28IV%29%20-%20Alternative%20Means%20of%20Dispute%20Resolution%20in%20the%20Administrative%20Process/%C2%A7%2000582%20-%20Compilation%20of%20information.md) | Compilation of information. |
+| \[582. | Repealed.\] |
 | [583\.](Subchapter%20004%20%28IV%29%20-%20Alternative%20Means%20of%20Dispute%20Resolution%20in%20the%20Administrative%20Process/%C2%A7%2000583%20-%20Support%20services.md) | Support services. |
+| [584\.](Subchapter%20004%20%28IV%29%20-%20Alternative%20Means%20of%20Dispute%20Resolution%20in%20the%20Administrative%20Process/%C2%A7%2000584%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,37 +87,33 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Table of sections for subchapter III repealed effective six years after Nov. 29, 1990, see section 5 of Pub. L. 101–648, as amended, set out as an Effective Date of Repeal; Savings Provision note under section 561 of this title.</i>
-
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–354, §4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
+1996—Pub. L. 104–320, §§4(b)(2), 10(b), 11(b)(2), (d)(2), Oct. 19, 1996, 110 Stat. 3871, 3873, 3874, in item 569 substituted “Encouraging negotiated rulemaking” for “Role of the Administrative Conference of the United States and other entities”, added items 570a and 584, and struck out item 582 “Compilation of information”.
 
-<b>1990</b>—Pub. L. 101–648, §§3(b), 5, Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure, and repealed that heading and those items effective six years after Nov. 29, 1990.
+1992—Pub. L. 102–354, §4, Aug. 26, 1992, 106 Stat. 945, substituted headings of subchapters III, IV, and V and items 561 to 570, 571 to 583, and 591 to 596 for former heading of subchapter III and former items 571 to 576 relating to Administrative Conference of the United States, former heading of subchapter IV and former items 581 to 593 relating to alternative means of dispute resolution in the administrative process, and former heading of subchapter IV and former items 581 to 590 relating to negotiated rulemaking procedure.
 
-Pub. L. 101–552, §§4(c), 11, Nov. 15, 1990, 104 Stat. 2745, temporarily added heading of subchapter IV and items 581 to 593 \[renumbered 571 to 583\] relating to alternative means of dispute resolution. See Termination Date; Savings Provision note set out under section 571 of this title as added by Pub. L. 101–552.
+1990—Pub. L. 101–648, §3(b), Nov. 29, 1990, 104 Stat. 4976, added heading of subchapter IV and items 581 to 590 relating to negotiated rulemaking procedure.
 
-<b>1986</b>—Pub. L. 99–470, §2(b), Oct. 14, 1986, 100 Stat. 1198, substituted “Authorization of appropriations” for “Appropriations” in item 576.
+Pub. L. 101–552, §4(c), Nov. 15, 1990, 104 Stat. 2745, added heading of subchapter IV and items 581 to 593 \[renumbered 571 to 583\] relating to alternative means of dispute resolution.
 
-<b>1985</b>—Pub. L. 99–80, §6, Aug. 5, 1985, 99 Stat. 186, revived item 504 and repealed Pub. L. 96–481, title II, §203(c), Oct. 21, 1980, 94 Stat. 2327, which provided for the repeal, effective Oct. 1, 1984, of item 504.
+1986—Pub. L. 99–470, §2(b), Oct. 14, 1986, 100 Stat. 1198, substituted “Authorization of appropriations” for “Appropriations” in item 576.
 
-<b>1980</b>—Pub. L. 96–481, title II, §203(a)(2), (c), Oct. 21, 1980, 94 Stat. 2327, added item 504 “Costs and fees of parties”, and repealed that item effective Oct. 1, 1984.
+1985—Pub. L. 99–80, §6, Aug. 5, 1985, 99 Stat. 186, revived item 504 and repealed Pub. L. 96–481, title II, §203(c), Oct. 21, 1980, 94 Stat. 2327, which provided for the repeal, effective Oct. 1, 1984, of item 504.
 
-<b>1976</b>—Pub. L. 94–409, §3(b), Sept. 13, 1976, 90 Stat. 1246, added item 552b.
+1980—Pub. L. 96–481, title II, §203(a)(2), (c), Oct. 21, 1980, 94 Stat. 2327, added item 504 “Costs and fees of parties”, and repealed that item effective Oct. 1, 1984.
 
-<b>1974</b>—Pub. L. 93–579, §4, Dec. 31, 1974, 88 Stat. 1905, added item 552a.
+1976—Pub. L. 94–409, §3(b), Sept. 13, 1976, 90 Stat. 1246, added item 552b.
 
-<b>1967</b>—Pub. L. 90–83, §1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
+1974—Pub. L. 93–579, §4, Dec. 31, 1974, 88 Stat. 1905, added item 552a.
+
+1967—Pub. L. 90–83, §1(1)(B), Sept. 11, 1967, 81 Stat. 195, added item 500.
 
 Pub. L. 90–23, §2, June 5, 1967, 81 Stat. 56, substituted “Public information; agency rules, opinions, orders, records and proceedings” for “Publication of information, rules, opinions, orders, and public records” in item 552.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 2 section 437d; title 12 sections 1467a, 1730a, 1786, 1818, 2266, 4582, 4633; title 15 sections 77s, 637, 687e, 1691b, 1715, 2703, 3803; title 16 section 460aa–3; title 20 sections 1066, 7711; title 21 sections 342, 343; title 25 sections 450<i>l</i>, 954; title 29 sections 1579, 1861; title 30 section 811; title 39 sections 204, 410, 3001, 3603; title 42 sections 1760, 9613, 11504; title 43 section 1740; title 44 section 3507; title 45 sections 1116, 1212; title 46 App. section 1241p.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

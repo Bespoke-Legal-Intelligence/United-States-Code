@@ -46,7 +46,9 @@ Foreign Air Transportation.—(1) The Administrator shall take all possible step
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -83,4 +85,8 @@ In subsection (a), before clause (1), the text of section 405 of the Department 
 In subsection (c)(1), the word “Administrator” is substituted for “Federal Aviation Administration” for consistency in the revised title.
 
 In subsection (d)(1), before clause (A), the words “governments of foreign countries” are substituted for “foreign governments” for consistency in the revised title and with other titles of the United States Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 46301, 46316 of this title.
 

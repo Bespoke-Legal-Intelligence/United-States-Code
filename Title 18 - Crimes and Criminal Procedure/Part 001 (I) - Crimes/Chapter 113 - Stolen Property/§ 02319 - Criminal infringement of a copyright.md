@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 102–561, §2, substituted “ ‘phonorecord’ ” for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1956 of this title; title 17 sections 109, 506.
+This section is referred to in sections 1956, 1961, 2320 of this title; title 17 sections 109, 506; title 49 section 80302.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “least”.</i>
 

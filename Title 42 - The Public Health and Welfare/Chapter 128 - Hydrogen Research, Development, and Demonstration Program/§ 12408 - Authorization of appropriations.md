@@ -1,12 +1,28 @@
 ### §12408. Authorization of appropriations
 
-There is hereby authorized to be appropriated to carry out the purposes of this chapter (in addition to any amounts made available for such purposes to other Acts)—
+There is hereby authorized to be appropriated to carry out the purposes of this chapter (in addition to any amounts made available for such purposes under other Acts)—
 
 &emsp;(1) $3,000,000 for the fiscal year 1992;
 
-&emsp;(2) $7,000,000 for the fiscal year 1993; and
+&emsp;(2) $7,000,000 for the fiscal year 1993;
 
-&emsp;(3) $10,000,000 for the fiscal year 1994.
+&emsp;(3) $10,000,000 for the fiscal year 1994;
 
-(Pub. L. 101–566, §109, Nov. 15, 1990, 104 Stat. 2801.)
+&emsp;(4) $14,500,000 for fiscal year 1996;
+
+&emsp;(5) $20,000,000 for fiscal year 1997;
+
+&emsp;(6) $25,000,000 for fiscal year 1998;
+
+&emsp;(7) $30,000,000 for fiscal year 1999;
+
+&emsp;(8) $35,000,000 for fiscal year 2000; and
+
+&emsp;(9) $40,000,000 for fiscal year 2001.
+
+(Pub. L. 101–566, §109, Nov. 15, 1990, 104 Stat. 2801; Pub. L. 104–271, title I, §106, Oct. 9, 1996, 110 Stat. 3306.)
+
+#### Amendments
+
+1996—Pub. L. 104–271 substituted “under other Acts” for “to other Acts” in introductory provisions and added pars. (4) to (9).
 

@@ -1,8 +1,12 @@
 ### §97. Proposals or bids for contracts to be preserved
 
-In all lettings of contracts in connection with the Indian Service, the proposals or bids received shall be filed and preserved; and an abstract of all bids or proposals received for the supplies or services embraced in any contract shall be attached to, and filed with, the said contract when the same is filed in the General Accounting Office.
+In all lettings of contracts in connection with the Indian Service, the proposals or bids received shall be filed and preserved..<sup>1</sup>
 
-(Aug. 15, 1876, ch. 289, §3, 19 Stat. 199; July 31, 1894, ch. 174, §4, 28 Stat. 205; June 21, 1906, ch. 3504, 34 Stat. 328; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24.)
+(Aug. 15, 1876, ch. 289, §3, 19 Stat. 199; June 21, 1906, ch. 3504, 34 Stat. 328; Oct. 19, 1996, Pub. L. 104–316, title I, §112(b), 110 Stat. 3833.)
+
+#### Amendments
+
+1996—Pub. L. 104–316 substituted a period for “; and an abstract of all bids or proposals received for the supplies or services embraced in any contract shall be attached to, and filed with, the said contract when the same is filed in the office of the Second Comptroller of the Treasury”.
 
 #### Transfer of Functions
 
@@ -12,5 +16,5 @@ Effective Jan. 1, 1947, Procurement Division of Department of the Treasury chang
 
 Function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by any agency transferred to a Procurement Division in Department of the Treasury by Ex. Ord. No. 6166, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
-“General Accounting Office” substituted in text for “office of the Second Comptroller of the Treasury” pursuant to act July 31, 1894, and act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
+<i><sup>1</sup></i><i> So in original.</i>
 

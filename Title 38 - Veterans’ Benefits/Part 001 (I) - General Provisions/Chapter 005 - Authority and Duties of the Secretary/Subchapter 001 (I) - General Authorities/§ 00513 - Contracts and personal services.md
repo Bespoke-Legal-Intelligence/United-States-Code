@@ -8,7 +8,3 @@ The Secretary may, for purposes of all laws administered by the Department, acce
 
 Provisions similar to those in this section were contained in section 213 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8110 of this title.
-

@@ -38,7 +38,9 @@ Minimum Requirements.—Basic essential air service shall include at least the f
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -60,5 +62,5 @@ In subsection (b), before clause (1), the words “Basic essential air service�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41110, 41731, 46301 of this title.
+This section is referred to in sections 41110, 41731 of this title.
 

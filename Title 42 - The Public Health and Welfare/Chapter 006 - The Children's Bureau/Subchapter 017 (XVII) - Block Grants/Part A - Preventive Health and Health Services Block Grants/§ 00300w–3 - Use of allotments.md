@@ -34,7 +34,7 @@ A State may not use amounts paid to it under section 300wâ€“2 of this title toâ€
 
 &emsp;(5) provide financial assistance to any entity other than a public or nonprofit private entity.
 
-> Except as provided in subsection (a)(1)(E) of this section, the Secretary may waive the limitation contained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this part.
+> Except as provided in subsection (a)(1)(E) of this section, the Secretary may waive the limitationcontained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this part.
 
 #### (c) Transfer of funds
 

@@ -1,10 +1,14 @@
 ### §5551. Lump-sum payment for accumulated and accrued leave on separation
 
-(a) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is separated from the service or elects to receive a lump-sum payment for leave under section 5552 of this title, is entitled to receive a lump-sum payment for accumulated and current accrued annual or vacation leave to which he is entitled by statute. The lump-sum payment shall equal the pay (excluding any differential under section 5925 and any allowance under section 5928) the employee or individual would have received had he remained in the service until expiration of the period of the annual or vacation leave. The lump-sum payment is considered pay for taxation purposes only. The period of leave used forcalculating the lump-sum payment shall not be extended due to any holiday occurring after separation. For the purposes of this subsection, movement to employment described in section 2105(c) shall not be deemed separation from the service in the case of an employee whose annual leave is transferred under section 6308(b).
+(a) An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, who is separated from the service or elects to receive a lump-sum payment for leave under section 5552 of this title, is entitled to receive a lump-sum payment for accumulated and current accrued annual or vacation leave to which he is entitled by statute. The lump-sum payment shall equal the pay (excluding any differential under section 5925 and any allowance under section 5928) the employee or individual would have received had he remained in the service until expiration of the period of the annual or vacation leave. The lump-sum payment is considered pay for taxation purposes only. The period of leave used for calculating the lump-sum payment shall not be extended due to any holiday occurring after separation. For the purposes of this subsection, movement to employment described in section 2105(c) shall not be deemed separation from the service in the case of an employee whose annual leave is transferred under section 6308(b).
 
 (b) The accumulated and current accrued annual leave to which an officer excepted from subchapter I of chapter 63 of this title by section 6301(2)(x)–(xiii) of this title, is entitled immediately before the date he is excepted under that section shall be liquidated by a lump-sum payment in accordance with subsection (a) of this section or subchapter VIII of this chapter, except that the payment is based on the rate of pay which he was receiving, immediately before the date on which section 6301(2)(x)–(xiii) of this title became applicable to him.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 93–181, §1, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–499, title IV, §402(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 101–508, title VII, §7202(g), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 102–138, title I, §147(b)(1), Oct. 28, 1991, 105 Stat. 669.)
+(c)(1) Annual leave that is restored to an employee of the Department of Defense under section 6304(d) of this title by reason of the operation of paragraph (3) of such section and remains unused upon the transfer of the employee to a position described in paragraph (2) shall be liquidated by payment of a lump-sum for such leave to the employee upon the transfer.
+
+(2) A position referred to in paragraph (1) is a position in a department or agency of the Federal Government outside the Department of Defense or a Department of Defense position that is not located at a Department of Defense installation being closed or realigned as described in section 6304(d)(3) of this title.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 93–181, §1, Dec. 14, 1973, 87 Stat. 705; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 96–499, title IV, §402(a), Dec. 5, 1980, 94 Stat. 2605; Pub. L. 101–508, title VII, §7202(g), Nov. 5, 1990, 104 Stat. 1388–336; Pub. L. 102–138, title I, §147(b)(1), Oct. 28, 1991, 105 Stat. 669; Pub. L. 104–201, div. A, title XVI, §1611(a), Sept. 23, 1996, 110 Stat. 2738.)
 
 Historical and Revision Notes
 
@@ -12,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -38,17 +44,23 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–138 inserted “(excluding any differential under section 5925 and any allowance under section 5928)” after “pay” in second sentence.
+1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508 inserted at end “For the purposes of this subsection, movement to employment described in section 2105(c) shall not be deemed separation from the service in the case of an employee whose annual leave is transferred under section 6308(b).”
+1991—Subsec. (a). Pub. L. 102–138 inserted “(excluding any differential under section 5925 and any allowance under section 5928)” after “pay” in second sentence.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–499 provided that the period of leave used for calculating the lump-sum payment was not to be extended due to any holiday occurring after separation.
+1990—Subsec. (a). Pub. L. 101–508 inserted at end “For the purposes of this subsection, movement to employment described in section 2105(c) shall not be deemed separation from the service in the case of an employee whose annual leave is transferred under section 6308(b).”
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)” in two places.
+1980—Subsec. (a). Pub. L. 96–499 provided that the period of leave used for calculating the lump-sum payment was not to be extended due to any holiday occurring after separation.
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–181 struck out exception clause that the lump-sum payment may not exceed pay for a period of annual or vacation leave in excess of 30 days or the number of days carried over to his credit at the beginning of the leave year in which entitlement to payment occurs, whichever is greater.
+1978—Subsec. (b). Pub. L. 95–519 substituted “6301(2)(x)–(xiii)” for “6301(2)(x)–(xii)” in two places.
+
+1973—Subsec. (a). Pub. L. 93–181 struck out exception clause that the lump-sum payment may not exceed pay for a period of annual or vacation leave in excess of 30 days or the number of days carried over to his credit at the beginning of the leave year in which entitlement to payment occurs, whichever is greater.
 
 Subsec. (b). Pub. L. 93–181 struck out second exception clause that the payment is made without regard to the limitation in subsec. (a) of this section on the amount of leave compensable.
+
+#### Effective Date of 1996 Amendment
+
+Section 1611(b) of Pub. L. 104–201 provided that: “Subsection (c) of section 5551 of title 5, United States Code (as added by subsection (a)), shall apply with respect to transfers described in such subsection (c) that take effect on or after the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 #### Effective Date of 1991 Amendment
 

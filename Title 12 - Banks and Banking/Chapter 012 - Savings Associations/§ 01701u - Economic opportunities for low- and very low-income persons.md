@@ -52,7 +52,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42, operating assistance provided pursuant to section 1437g of title 42, and modernization grants provided pursuant to section 1437<i>l</i> of title 42, to business concerns that provide economic opportunities for low- and very low-income persons.
+&emsp;&emsp;The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42, operating assistance provided pursuant to section 1437g of title 42, and modernizationgrants provided pursuant to section 1437<i>l</i> of title 42, to business concerns that provide economic opportunities for low- and very low-income persons.
 
 #### (B) Priority
 

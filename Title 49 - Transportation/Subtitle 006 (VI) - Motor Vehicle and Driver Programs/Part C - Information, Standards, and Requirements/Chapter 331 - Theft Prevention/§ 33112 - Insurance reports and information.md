@@ -80,7 +80,9 @@ Consultation.—In carrying out this section, the Secretary shall consult with p
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -142,7 +144,7 @@ In subsection (g), the words “by regulation or otherwise” are omitted as sur
 
 In subsection (h), the words “the police” are substituted for “including Federal, State, and local police” to eliminate unnecessary words.
 
-In subsection (i), the words “In carrying out this section” are added for clarity. The words “public and private agencies and associations” are substituted for “such State and insurance regulatory agencies and other agencies and associations, both public and private” to eliminate unnecessary words.
+In subsection (i), the words “In carrying out this section” are added for clarity. The words “public and private agencies and associations” are substituted for “such State and insurance regulatory agencies andother agencies and associations, both public and private” to eliminate unnecessary words.
 
 #### Section Referred to in Other Sections
 

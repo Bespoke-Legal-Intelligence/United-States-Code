@@ -1,6 +1,6 @@
 ### §1925. Report to Congress
 
-It shall be the duty of the Department of Justice to make a report to the Congress at the end of each fiscal year and to furnish the Congress with a list of the names of all those upon whom the President shall have conferred either of such medals.
+It shall be the duty of the Department of Justice to make a report to the Congress at the endof each fiscal year and to furnish the Congress with a list of the names of all those upon whom the President shall have conferred either of such medals.
 
 (Aug. 3, 1950, ch. 520, §5, 64 Stat. 398.)
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title24",
- "package": "USCODE-1995-title24",
+ "package": "USCODE-1996-title24",
  "pieces": [
   {
    "id": "24_",
@@ -1784,14 +1784,10 @@
    "id": "24_411",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       88,
-       "[Page 32]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 32]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00411 - Establishment of Armed Forces Retirement Home.md",
@@ -1802,26 +1798,26 @@
   },
   {
    "id": "24_412",
-   "marks": [],
-   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00412 - Residents of Retirement Home.md",
-   "printed_pages": [
-    32,
-    32
-   ]
-  },
-  {
-   "id": "24_413",
    "marks": [
     [
      "L",
-     6,
+     58,
      "[Page 33]",
      true
     ]
    ],
-   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413 - Services provided residents.md",
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00412 - Residents of Retirement Home.md",
    "printed_pages": [
     32,
+    33
+   ]
+  },
+  {
+   "id": "24_413",
+   "marks": [],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00413 - Services provided residents.md",
+   "printed_pages": [
+    33,
     33
    ]
   },
@@ -1830,7 +1826,7 @@
    "marks": [
     [
      "L",
-     50,
+     38,
      "[Page 34]",
      true
     ]
@@ -1845,12 +1841,18 @@
    "id": "24_415",
    "marks": [
     [
+     "L",
+     66,
+     "[Page 35]",
+     true
+    ],
+    [
      "I",
-     68,
+     136,
      [
       [
-       278,
-       "[Page 35]"
+       161,
+       "[Page 36]"
       ]
      ]
     ]
@@ -1858,26 +1860,15 @@
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00415 - Composition and operation of Retirement Home Board.md",
    "printed_pages": [
     34,
-    35
+    36
    ]
   },
   {
    "id": "24_416",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       226,
-       "[Page 36]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00416 - Duties of Retirement Home Board.md",
    "printed_pages": [
-    35,
+    36,
     36
    ]
   },
@@ -1886,10 +1877,10 @@
    "marks": [
     [
      "I",
-     40,
+     24,
      [
       [
-       180,
+       140,
        "[Page 37]"
       ]
      ]
@@ -1912,11 +1903,22 @@
   },
   {
    "id": "24_419",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       137,
+       "[Page 38]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00419 - Retirement Home Trust Fund.md",
    "printed_pages": [
     37,
-    37
+    38
    ]
   },
   {
@@ -1924,34 +1926,48 @@
    "marks": [
     [
      "I",
-     4,
+     34,
      [
       [
-       90,
-       "[Page 38]"
+       383,
+       "[Page 39]"
       ]
      ]
-    ],
-    [
-     "L",
-     58,
-     "[Page 39]",
-     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00420 - Disposition of effects of deceased persons; unclaimed property.md",
    "printed_pages": [
-    37,
+    38,
     39
    ]
   },
   {
    "id": "24_421",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       105,
+       "[Page 40]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00421 - Payment of residents for services.md",
    "printed_pages": [
     39,
-    39
+    40
+   ]
+  },
+  {
+   "id": "24_422",
+   "marks": [],
+   "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 001 (I) - Establishment and Operation of Retirement Home/§ 00422 - Authority to accept certain uncompensated services.md",
+   "printed_pages": [
+    40,
+    40
    ]
   },
   {
@@ -1959,28 +1975,24 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/README.md",
    "printed_pages": [
-    39,
-    39
+    40,
+    40
    ]
   },
   {
    "id": "24_431",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       112,
-       "[Page 40]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 41]",
+     true
     ]
    ],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 002 (II) - Transitional Provisions/§ 00431 - Transfer of trust funds relating to Naval Home and Soldiers’ and Airmen's Home.md",
    "printed_pages": [
-    39,
-    40
+    40,
+    41
    ]
   },
   {
@@ -1988,8 +2000,8 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/README.md",
    "printed_pages": [
-    40,
-    40
+    41,
+    41
    ]
   },
   {
@@ -1997,11 +2009,11 @@
    "marks": [],
    "path": "Chapter 010 - Armed Forces Retirement Home/Subchapter 003 (III) - Authorization of Appropriations/§ 00441 - Authorization of appropriations for United States Soldiers’ and Airmen's Home.md",
    "printed_pages": [
-    40,
-    40
+    41,
+    41
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-1995-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-1996-title24 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 24 - Hospitals and Asylums"
 }

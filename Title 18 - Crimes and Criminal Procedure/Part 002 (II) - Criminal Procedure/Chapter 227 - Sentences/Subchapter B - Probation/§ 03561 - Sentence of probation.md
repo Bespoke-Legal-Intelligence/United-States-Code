@@ -12,7 +12,7 @@ In General.—A defendant who has been found guilty of an offense may be sentenc
 
 (b)
 
-Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any relative defendant, child, or former child of the defendant,<sup>1</sup> or any other relative of the defendant.
+Domestic Violence Offenders.—A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
 
 (c)
 
@@ -24,13 +24,15 @@ Authorized Terms.—The authorized terms of probation are—
 
 &emsp;(3) for an infraction, not more than one year.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 99–646, §10(a), Nov. 10, 1986, 100 Stat. 3593; Pub. L. 100–182, §7, Dec. 7, 1987, 101 Stat. 1267; Pub. L. 103–322, title XXVIII, §280004, title XXXII, §320921(a), Sept. 13, 1994, 108 Stat. 2096, 2130.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 99–646, §10(a), Nov. 10, 1986, 100 Stat. 3593; Pub. L. 100–182, §7, Dec. 7, 1987, 101 Stat. 1267; Pub. L. 103–322, title XXVIII, §280004, title XXXII, §320921(a), Sept. 13, 1994, 108 Stat. 2096, 2130; Pub. L. 104–294, title VI, §604(c)(1), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### Prior Provisions
 
 For a prior section 3561, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–294 struck out “or any relative defendant, child, or former child of the defendant,” before “or any other relative of the defendant”.
 
 1994—Subsec. (a)(3). Pub. L. 103–322, §280004, inserted before period at end “that is not a petty offense”.
 
@@ -39,6 +41,10 @@ Subsecs. (b), (c). Pub. L. 103–322, §320921(a), added subsec. (b) and redesig
 1987—Subsec. (a)(1). Pub. L. 100–182 inserted “and the defendant is an individual” after “Class B felony”.
 
 1986—Subsec. (a). Pub. L. 99–646 struck out at end “The liability of a defendant for any unexecuted fine or other punishment imposed as to which probation is granted shall be fully discharged by the fulfillment of the terms and conditions of probation.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -55,6 +61,4 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3563, 3583, 5037 of this title.
-
-<i><sup>1</sup></i><i> So in original. The words “or any relative defendant, child, or former child of the defendant,” probably should not appear.</i>
 

@@ -1,14 +1,16 @@
 ### §1736b. Expiration date
 
-No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 1995.
+No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2002.
 
-(July 10, 1954, ch. 469, title IV, §408, as added Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1537; amended Dec. 20, 1975, Pub. L. 94–161, title II, §211, 89 Stat. 854; Aug. 3, 1977, Pub. L. 95–88, title II, §213, 91 Stat. 551; Sept. 29, 1977, Pub. L. 95–113, title XII, §1207, 91 Stat. 957; Oct. 19, 1980, Pub. L. 96–470, title II, §213, 94 Stat. 2246; Dec. 22, 1981, Pub. L. 97–98, title XII, §1215, 95 Stat. 1282; Aug. 8, 1985, Pub. L. 99–83, title X, §1006, 99 Stat. 271; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3653.)
+(July 10, 1954, ch. 469, title IV, §408, as added Nov. 11, 1966, Pub. L. 89–808, §2(E), 80 Stat. 1537; amended Dec. 20, 1975, Pub. L. 94–161, title II, §211, 89 Stat. 854; Aug. 3, 1977, Pub. L. 95–88, title II, §213, 91 Stat. 551; Sept. 29, 1977, Pub. L. 95–113, title XII, §1207, 91 Stat. 957; Oct. 19, 1980, Pub. L. 96–470, title II, §213, 94 Stat. 2246; Dec. 22, 1981, Pub. L. 97–98, title XII, §1215, 95 Stat. 1282; Aug. 8, 1985, Pub. L. 99–83, title X, §1006, 99 Stat. 271; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3653; Apr. 4, 1996, Pub. L. 104–127, title II, §217, 110 Stat. 957.)
 
 #### Prior Provisions
 
 Provisions covering the termination date for agreements to finance sales under subchapter II and programs of assistance under subchapter III were covered by section 1736c of this title prior to amendment of that section by Pub. L. 101–624, and by sections 1709, 1724 of this title prior to the amendment of those sections by Pub. L. 89–808.
 
 #### Amendments
+
+1996—Pub. L. 104–127 substituted “2002” for “1995”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Presidential reports to Congress concerning activities carried out under this chapter, a global assessment of food production and needs and planned programming of food assistance, and a comparative cross-country evaluation of programs conducted under portions of this chapter, provisions requiring the Secretary to issue revised regulations governing operations of subchapter II of this chapter, and provisions relating to the delivery of bagged commodities.
 

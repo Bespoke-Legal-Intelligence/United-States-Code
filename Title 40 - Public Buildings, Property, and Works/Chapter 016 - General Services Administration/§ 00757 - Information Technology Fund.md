@@ -2,17 +2,17 @@
 
 #### (a) Establishment; content; costs and capital requirements
 
-(1) There is established on the books of the Treasury and Information Technology Fund (hereinafter referred to as the “Fund”), which shall be available without fiscal year limitation. There are authorized to be appropriated to the Fund such sums as may be required. For purposes of subsection (b) of this section, the Fund shall consist of—
+(1) There is established on the books of the Treasury and <sup>1</sup> Information Technology Fund (hereinafter referred to as the “Fund”), which shall be available without fiscal year limitation. There are authorized to be appropriated to the Fund such sums as may be required. For purposes of subsection (b) of this section, the Fund shall consist of—
 
 &emsp;(A) the capital and assets of the Federal telecommunications fund established under this section (as in effect on December 31, 1986), which are in such fund on January 1, 1987;
 
-&emsp;(B) the capital and assets which are in the automatic data processing fund established under section 759 of this title (as in effect on December 31, 1986) which are in such fund on January 1, 1987; and
+&emsp;(B) the capital and assets which are in the automatic data processing fund established under section 759 <sup>2</sup> of this title (as in effect on December 31, 1986) which are in such fund on January 1, 1987; and
 
-&emsp;(C) the supplies and equipment transferred to the Administrator under sections 759 and 486(f) of this title, subject to any liabilities assumed with respect to such supplies and equipment.
+&emsp;(C) the supplies and equipment transferred to the Administrator under sections 759 <sup>2</sup> and 486(f) of this title, subject to any liabilities assumed with respect to such supplies and equipment.
 
 (2) The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall submit plans concerning such requirements and such other information as may be requested for the review and approval of the Director of the Office of Management and Budget. Any change to the cost and capital requirements of the Fund for a fiscal year shall be made in the same manner as provided by this section for the initial fiscal year determination. If approved by the Director, the Administrator shall establish rates to be charged agencies provided, or to be provided, information technology resources through the Fund consistent with such approvals. Such cost and capital requirements may include funds—
 
-&emsp;(A) needed for the purchase (if the Administrator has determined that purchase is theleast costly alternative of information processing and transmission equipment, software, systems, and operating facilities necessary for the provision of such services;
+&emsp;(A) needed for the purchase (if the Administrator has determined that purchase is the least costly alternative <sup>3</sup> of information processing and transmission equipment, software, systems, and operating facilities necessary for the provision of such services;
 
 &emsp;(B) resulting from operations of the Fund, including the net proceeds of disposal of excess or surplus personal property and receipts from carriers and others for loss or damage to property; and
 
@@ -24,7 +24,7 @@
 
 The Fund shall—
 
-&emsp;(1) assume all of the liabilities, obligations, and commitments of the funds described in subparagraphs (A) and (B) of subsection (a)(1) of this section; and
+&emsp;(1) assume all of the liabilities, obligations, and commitments of the funds described insubparagraphs (A) and (B) of subsection (a)(1) of this section; and
 
 &emsp;(2) be available for expenses, including personal services and other costs, and for procurement (by lease, purchase, transfer, or otherwise) for efficiently providing information technology resources to Federal agencies and for the efficient management, coordination, operation, and utilization of such resources.
 
@@ -58,9 +58,13 @@ A report on the operation of the Fund shall be made annually by the Administrato
 
 #### (f) Information technology resources
 
-For purposes of this section, the term “information technology resources” includes any service or equipment which had been acquired or provided under this section or section 759 of this title, including other information processing and transmission equipment, software, systems, operating facilities, supplies, and services related thereto, and maintenance and repair thereof.
+For purposes of this section, the term “information technology resources” includes any service or equipment which had been acquired or provided under this section or section 759 <sup>4</sup> of this title, including other information processing and transmission equipment, software, systems, operating facilities, supplies, and services related thereto, and maintenance and repair thereof.
 
 (June 30, 1949, ch. 288, title I, §110, as added Oct. 23, 1962, Pub. L. 87–847, 76 Stat. 1117; amended Oct. 18, 1986, Pub. L. 99–500, §101(m) \[title VIII, §821(a)(1)\], 100 Stat. 1783–308, 1783–340, and Oct. 30, 1986, Pub. L. 99–591, §101(m) \[title VIII, §821(a)(1)\], 100 Stat. 3341–308, 3341–340; Nov. 3, 1989, Pub. L. 101–136, title IV, §25, 103 Stat. 808.)
+
+#### References in Text
+
+Section 759 of this title, referred to in subsecs. (a)(1)(B), (C) and (f), was repealed by Pub. L. 104–106, div. E, title LI, §5101, Feb. 10, 1996, 110 Stat. 680.
 
 #### Codification
 
@@ -85,4 +89,12 @@ The definitions in section 472 of this title apply to this chapter.
 #### Section Referred to in Other Sections
 
 This section is referred to in title 44 section 3504.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

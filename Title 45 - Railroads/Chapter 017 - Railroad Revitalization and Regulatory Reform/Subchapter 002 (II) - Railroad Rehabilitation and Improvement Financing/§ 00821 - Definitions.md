@@ -8,13 +8,13 @@ As used in this subchapter, the term—
 
 &emsp;(3) “facilities” means—
 
-&emsp;&emsp;(A) track, roadbed, and related structures, including rail, ties, ballast, other track materials, grading, tunnels, bridges, trestles, culverts, elevated structures, stations, officebuildings used for operating purposes only, repair shops, enginehouses, and public improvements used or useable for rail service operations;
+&emsp;&emsp;(A) track, roadbed, and related structures, including rail, ties, ballast, other track materials, grading, tunnels, bridges, trestles, culverts, elevated structures, stations, office buildings used for operating purposes only, repair shops, enginehouses, and public improvements used or useable for rail service operations;
 
 &emsp;&emsp;(B) communication and power transmission systems, including electronic, microwave, wireless, communication, and automatic data processing systems, electrical transmission systems, powerplants, power transmission systems, powerplant machinery and equipment, structures, and facilities for the transmission of electricity for use by railroads;
 
 &emsp;&emsp;(C) signals, including signals and interlockers;
 
-&emsp;&emsp;(D) terminal or yard facilities, including trailer-on-flat-car and container-on-flat-car terminals, express or railroad terminal and switching facilities, and services to express companies and railroads and their shippers, including ferries, tugs, carfloats, and related shoreside facilities designed for the transportation of equipment by water; or
+&emsp;&emsp;(D) terminal or yard facilities, including trailer-on-flat-car and container-on-flat-car terminals, express or railroad terminal and switching facilities, and services to expresscompanies and railroads and their shippers, including ferries, tugs, carfloats, and related shoreside facilities designed for the transportation of equipment by water; or
 
 &emsp;&emsp;(E) shop or repair facilities or any other property used or capable of being used in rail freight transportation services or in connection with such services or for originating, terminating, improving, and expediting the movement of equipment;
 

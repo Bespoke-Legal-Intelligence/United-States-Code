@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Agreements under this subchapter may provide that the Secretary shall use payments made in local currencies by the recipient country in accordance with this section.
+Agreements under this subchapter may provide that the Secretary shall use payments made in local currencies by the developing country or private entity in accordance with this section.
 
 #### (b) Special account
 
@@ -10,11 +10,11 @@ Foreign currencies received by the Secretary under this subchapter shall be depo
 
 #### (c) Activities
 
-The proceeds from the payments referred to in subsection (a) of this section may be used in the recipient country for the following:
+The proceeds from the payments referred to in subsection (a) of this section may be used in the appropriate developing country for the following:
 
 #### (1) Trade development
 
-&emsp;To carry out programs to help develop markets for United States agricultural commodities on a mutually beneficial basis in the recipient country.
+&emsp;To carry out programs to help develop markets for United States agricultural commodities on a mutually beneficial basis in the appropriate developing country.
 
 #### (2) Agricultural development
 
@@ -30,7 +30,7 @@ The proceeds from the payments referred to in subsection (a) of this section may
 
 #### (3) Agricultural business development loans
 
-&emsp;To make loans to United States business entities (including cooperatives) and branches, subsidiaries, or affiliates of such entities for agricultural business development and agricultural trade expansion in such recipient countries.
+&emsp;To make loans to United States business entities (including cooperatives) and branches, subsidiaries, or affiliates of such entities for agricultural business development and agricultural trade expansion in such appropriate developing countries.
 
 #### (4) Agricultural facilities loans
 
@@ -38,15 +38,15 @@ The proceeds from the payments referred to in subsection (a) of this section may
 
 #### (5) Trade promotion
 
-&emsp;To promote agricultural trade development, under procedures established by the Secretary, by making loans or through other activities (including trade fairs) that the Secretary determines to be appropriate.
+&emsp;To promote agricultural trade development, under procedures established by the Secretary,by making loans or through other activities (including trade fairs) that the Secretary determines to be appropriate.
 
 #### (6) Private sector agricultural trade development
 
-&emsp;To conduct private sector agricultural trade development activities in the recipient country, as determined appropriate by the Secretary.
+&emsp;To conduct private sector agricultural trade development activities in the appropriate developing country, as determined appropriate by the Secretary.
 
 #### (7) Research
 
-&emsp;To conduct research in agriculture, forestry, and aquaculture, including collaborative research which is mutually beneficial to the United States and the recipient country.
+&emsp;To conduct research in agriculture, forestry, and aquaculture, including collaborative research which is mutually beneficial to the United States and the appropriate developing country.
 
 #### (8) United States obligations
 
@@ -62,9 +62,13 @@ The proceeds from the payments referred to in subsection (a) of this section may
 
 &emsp;Any department or agency of the Federal Government other than the Department of Agriculture using any such local currencies for a purpose for which funds have been appropriated shall reimburse the Commodity Credit Corporation in an amount equivalent to the dollar value of the currencies used.
 
-(July 10, 1954, ch. 469, title I, §104, 68 Stat. 456; Aug. 26, 1954, ch. 937, title V, §544(h), (i), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 564, 565; amended Aug. 3, 1956, ch. 933, §2, 70 Stat. 988; Aug. 13, 1957, Pub. L. 85–128, §1(4), 71 Stat. 345; Aug. 26, 1954, ch. 937, title V, §544(c), as added Aug. 14, 1957, Pub. L. 85–141, §11(b)(2), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. V, §502(<i>l</i>), 72 Stat. 275; Sept. 6, 1958, Pub. L. 85–931, §3, 72 Stat. 1790; July 24, 1959, Pub. L. 86–108, ch. VII, §701(d), 73 Stat. 258; Sept. 21, 1959, Pub. L. 86–341, title I, §§4–9, 73 Stat. 606, 607; Aug. 8, 1961, Pub. L. 87–128, title II, §201(3), 75 Stat. 306; Sept. 4, 1961, Pub. L. 87–195, pt. III, §612(b), pt. IV, §704, 75 Stat. 443, 463; Oct. 18, 1962, Pub. L. 87–839, §2, 76 Stat. 1074; Dec. 16, 1963, Pub. L. 88–205, pt. III, §301(d)(2), 77 Stat. 386; Oct. 8, 1964, Pub. L. 88–638, §§1(6)–(10), 2, 78 Stat. 1035–1038; Aug. 4, 1965, Pub. L. 89–106, §5, 79 Stat. 432; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1528; July 29, 1968, Pub. L. 90–436, §§2(a), 3, 6, 82 Stat. 450, 451; Nov. 30, 1970, Pub. L. 91–524, title VII, §702, 84 Stat. 1379; Dec. 20, 1975, Pub. L. 94–161, title II, §204, 89 Stat. 852; Aug. 14, 1979, Pub. L. 96–53, title I, §121, 93 Stat. 366; Dec. 29, 1981, Pub. L. 97–113, title IV, §§401(5), 402, 95 Stat. 1537; Aug. 23, 1988, Pub. L. 100–418, title IV, §4401, 102 Stat. 1400; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3635.)
+(July 10, 1954, ch. 469, title I, §104, 68 Stat. 456; Aug. 26, 1954, ch. 937, title V, §544(h), (i), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 564, 565; amended Aug. 3, 1956, ch. 933, §2, 70 Stat. 988; Aug. 13, 1957, Pub. L. 85–128, §1(4), 71 Stat. 345; Aug. 26, 1954, ch. 937, title V, §544(c), as added Aug. 14, 1957, Pub. L. 85–141, §11(b)(2), 71 Stat. 365; June 30, 1958, Pub. L. 85–477, ch. V, §502(<i>l</i>), 72 Stat. 275; Sept. 6, 1958, Pub. L. 85–931, §3, 72 Stat. 1790; July 24, 1959, Pub. L. 86–108, ch. VII, §701(d), 73 Stat. 258; Sept. 21, 1959, Pub. L. 86–341, title I, §§4–9, 73 Stat. 606, 607; Aug. 8, 1961, Pub. L. 87–128, title II, §201(3), 75 Stat. 306; Sept. 4, 1961, Pub. L. 87–195, pt. III, §612(b), pt. IV, §704, 75 Stat. 443, 463; Oct. 18, 1962, Pub. L. 87–839, §2, 76 Stat. 1074; Dec. 16, 1963, Pub. L. 88–205, pt. III, §301(d)(2), 77 Stat. 386; Oct. 8, 1964, Pub. L. 88–638, §§1(6)–(10), 2, 78 Stat. 1035–1038; Aug. 4, 1965, Pub. L. 89–106, §5, 79 Stat. 432; Nov. 11, 1966, Pub. L. 89–808, §2(B), 80 Stat. 1528; July 29, 1968, Pub. L. 90–436, §§2(a), 3, 6, 82 Stat. 450, 451; Nov. 30, 1970, Pub. L. 91–524, title VII, §702, 84 Stat. 1379; Dec. 20, 1975, Pub. L. 94–161, title II, §204, 89 Stat. 852; Aug. 14, 1979, Pub. L. 96–53, title I, §121, 93 Stat. 366; Dec. 29, 1981, Pub. L. 97–113, title IV, §§401(5), 402, 95 Stat. 1537; Aug. 23, 1988, Pub. L. 100–418, title IV, §4401, 102 Stat. 1400; Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3635; Apr. 4, 1996, Pub. L. 104–127, title II, §205, 110 Stat. 953.)
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–127, §205(1), substituted “developing country or private entity” for “recipient country”.
+
+Subsec. (c). Pub. L. 104–127, §205(2), substituted “appropriate developing country” for “recipient country” in introductory provisions and pars. (1), (6), and (7), and “appropriate developing countries” for “recipient countries” in par. (3).
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to use local currencies received as payments to pay United States obligations, for agricultural market development, for educational and cultural exchange, for scientific activities, for purchase of real property abroad, for purchase of foreign books, periodicals, etc., for United States libraries, to meet emergency relief requirements, for loans to United States businesses for trade expansion and to firms for development of facilities increasing market for commodities, for loans to recipients to improve food production and marketing, to purchase goods and services for other friendly countries, to pay for food production assistance programs, for sale for dollars to United States citizens, to pay for animal and plant pest control, and provisions relating to application of section 1306 of title 31, and to use of currencies of which United States has amounts in excess of needs for next two fiscal years.
 
@@ -106,7 +110,7 @@ Subsec. (c). Pub. L. 89–808 reenacted existing provisions.
 
 Subsec. (d). Pub. L. 89–808 redesignated subsec. (q) as (d). Former subsec. (d) redesignated (g).
 
-Subsec. (e). Pub. L. 89–808 substituted provisions for use of foreign currencies to maximum extent and for due consideration to be given to the continued expansion of markets for United States agricultural commodities or products thereof in proviso for former provisions for availability of such currencies to maximum usable extent and for manufacture or production of any commodity to be marketed in competition with United States agricultural commodities or products thereof in the proviso, authorized loans to cooperatives and for private home construction in foreign countries, struckout introductory phrase for uses of such currencies “For promoting balanced economic development and trade among nations”, and that loans be mutually agreeable to the agency and the country making the agreement, and inserted “intended” in proviso.
+Subsec. (e). Pub. L. 89–808 substituted provisions for use of foreign currencies to maximum extent and for due consideration to be given to the continued expansion of markets for United States agricultural commodities or products thereof in proviso for former provisions for availability of such currencies to maximum usable extent and for manufacture or production of any commodity to be marketed in competition with United States agricultural commodities or products thereof in the proviso, authorized loans to cooperatives and for private home construction in foreign countries, struck out introductory phrase for uses of such currencies “For promoting balanced economic development and trade among nations”, and that loans be mutually agreeable to the agency and the country making the agreement, and inserted “intended” in proviso.
 
 Subsec. (f). Pub. L. 89–808 redesignated subsec. (g) as (f), provided for promotion of agricultural development, establishment of procedures by the President, use of funds in any other manner than loans as determined by the President to be in the national interest, assistance to programs of recipient countries designed to promote, increase, or improve food production, processing, distribution, or marketing in food-deficit countries friendly to the United States, and utilization for such purpose to extent practicable the services of registered and approved nonprofit voluntary agencies, prohibited use of funds to promote religious activities, and struck out provisions for loans made through established banking facilities of the friendly nation from which the foreign currency was obtained or in any other manner which the President may deem to be appropriate and authorization for acceptance of strategic materials, services, or foreign currencies in payment of such loans. Former subsec. (f) redesignated (a).
 
@@ -188,7 +192,7 @@ Pub. L. 86–341, §9, inserted proviso in closing provisions limiting availabil
 
 Subsec. (k). Pub. L. 85–477 added subsec. (k).
 
-Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 85–931, §3(b), added subsecs. (<i>l</i>) to (<i>o).</i>
+Subsecs. (<i>l</i>) to (<i>o</i>). Pub. L. 85–931, §3(b), added subsecs. (<i>l</i>) to (<i>o</i>).
 
 1957—Subsec. (e). Pub. L. 85–128 provided that not more than 25 percent of the currencies received pursuant to each agreement be available through the Export-Import Bank for loans mutually agreeable to said bank and the country with which the agreement is made for business development in such countries and for loans to domestic or foreign firms for facilities to aid markets for United States agricultural products, provided no such loans be made for the manufacture of products to be exported to United States in competition with United States products or for manufacture or production of any commodity to be marketed in competition with United States agricultural commodities or products thereof, and that foreign currencies may be accepted in repayment of such loans.
 
@@ -206,7 +210,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1966 Amendment
 

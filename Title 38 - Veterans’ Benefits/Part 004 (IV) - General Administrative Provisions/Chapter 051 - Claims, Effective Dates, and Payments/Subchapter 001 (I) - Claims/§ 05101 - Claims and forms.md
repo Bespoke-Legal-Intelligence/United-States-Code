@@ -34,13 +34,33 @@ Pub. L. 102–40, §402(d)(1), substituted “5105” for “3005”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
+#### Pilot Program for Use of Contract Physicians for Disability Examinations
+
+Pub. L. 104–275, title V, §504, Oct. 9, 1996, 110 Stat. 3341, provided that:
+
+“(a)
+
+Authority.—The Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, mayconduct a pilot program under this section under which examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits may be made by persons other than employees of the Department of Veterans Affairs. Any such examination shall be performed pursuant to contracts entered into by the Under Secretary for Benefits with those persons.
+
+“(b)
+
+Limitation.—The Secretary may carry out the pilot program under this section through not more than 10 regional offices of the Department of Veterans Affairs.
+
+“(c)
+
+Source of Funds.—Payments for contracts under the pilot program under this section shall be made from amounts available to the Secretary of Veterans Affairs for payment of compensation and pensions.
+
+“(d)
+
+Report to Congress.—Not later than three years after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall submit to the Congress a report on the effect of the use of the authority provided by subsection (a) on the cost, timeliness, and thoroughness of medical disability examinations.”
+
 #### Expedited Treatment of Remanded Claims
 
 Pub. L. 103–446, title III, §302, Nov. 2, 1994, 108 Stat. 4658, provided that: “The Secretary of Veterans Affairs shall take such actions as may be necessary to provide for the expeditious treatment, by the Board of Veterans’ Appeals and by the regional offices of the Veterans Benefits Administration, of any claim that has been remanded by the Board of Veterans’ Appeals or by the United States Court of Veterans Appeals for additional development or other appropriate action.”
 
 #### Veterans’ Claims Adjudication Commission
 
-Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, provided that:
+Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L. 104–275, title V, §503(a), Oct. 9, 1996, 110 Stat. 3341, provided that:
 
 #### “SEC. 401. ESTABLISHMENT OF COMMISSION.
 
@@ -138,7 +158,7 @@ Cooperation of Secretary.—Upon the request of the chairman of the commission, 
 
 Reports.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 2, 1994\], the commission shall submit to the Secretary and to the Committees on Veterans’ Affairs of the Senate and House of Representatives a preliminary report on the study required under subsection (c). The report shall contain the preliminary findings and conclusions of the commission with respect to the evaluation and assessment required under the study.
 
-“(2) Not later than 18 months after such date, the commission shall submit to the Secretary and to such committees a report on such study. The report shall include the following:
+“(2) Not later than December 31, 1996, the commission shall submit to the Secretary and to such committees a report on such study. The report shall include the following:
 
 &emsp;“(A) The findings and conclusions of the commission, including its findings and conclusions with respect to the matters referred to in subsection (c).
 

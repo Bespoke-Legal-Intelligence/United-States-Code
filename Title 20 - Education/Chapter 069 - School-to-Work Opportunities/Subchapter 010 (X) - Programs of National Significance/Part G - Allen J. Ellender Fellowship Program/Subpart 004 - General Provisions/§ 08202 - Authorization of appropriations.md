@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to carry out the provisions of subparts 1, 2, and 3 of this part $4,400,000 for fiscal year 1995 and suchsums as may be necessary of <sup>1</sup> each of the four succeeding fiscal years.
+There are authorized to be appropriated to carry out the provisions of subparts 1, 2, and 3 of this part $4,400,000 for fiscal year 1995 and such sums as may be necessary of <sup>1</sup> each of the four succeeding fiscal years.
 
 #### (b) Special rule
 

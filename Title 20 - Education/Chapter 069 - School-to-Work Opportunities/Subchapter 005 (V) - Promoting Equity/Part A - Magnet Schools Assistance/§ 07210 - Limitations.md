@@ -10,7 +10,7 @@ A local educational agency may expend for planning not more than 50 percent of t
 
 #### (c) Amount
 
-No local educational agency or consortium awarded a grant under this part shall receivemore than $4,000,000 under this part in any one fiscal year.
+No local educational agency or consortium awarded a grant under this part shall receive more than $4,000,000 under this part in any one fiscal year.
 
 #### (d) Timing
 

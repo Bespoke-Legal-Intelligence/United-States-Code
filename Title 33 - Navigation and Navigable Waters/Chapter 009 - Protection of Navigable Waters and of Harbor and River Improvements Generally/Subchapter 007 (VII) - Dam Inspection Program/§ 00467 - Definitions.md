@@ -1,0 +1,108 @@
+### §467. Definitions
+
+In this subchapter, the following definitions apply:
+
+#### (1) Board
+
+&emsp;The term “Board” means a National Dam Safety Review Board established under section 467f(h) of this title.
+
+#### (2) Dam
+
+&emsp;The term “dam”—
+
+&emsp;&emsp;(A) means any artificial barrier that has the ability to impound water, wastewater, or any liquid-borne material, for the purpose of storage or control of water, that—
+
+&emsp;&emsp;&emsp;(i) is 25 feet or more in height from—
+
+&emsp;&emsp;&emsp;&emsp;(I) the natural bed of the stream channel or watercourse measured at the downstream toe of the barrier; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if the barrier is not across a stream channel or watercourse, from the lowest elevation of the outside limit of the barrier;
+
+&emsp;&emsp;&nbsp;to the maximum water storage elevation; or
+
+&emsp;&emsp;&emsp;(ii) has an impounding capacity for maximum storage elevation of 50 acre-feet or more; but
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) a levee; or
+
+&emsp;&emsp;&emsp;(ii) a barrier described in subparagraph (A) that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is 6 feet or less in height regardless of storage capacity; or
+
+&emsp;&emsp;&emsp;&emsp;(II) has a storage capacity at the maximum water storage elevation that is 15 acre-feet or less regardless of height;
+
+&emsp;&emsp;&nbsp;unless the barrier, because of the location of the barrier or another physical characteristic of the barrier, is likely to pose a significant threat to human life or property if the barrier fails (as determined by the Director).
+
+#### (3) Director
+
+&emsp;The term “Director” means the Director of FEMA.
+
+#### (4) Federal agency
+
+&emsp;The term “Federal agency” means a Federal agency that designs, finances, constructs, owns, operates, maintains, or regulates the construction, operation, or maintenance of a dam.
+
+#### (5) Federal Guidelines for Dam Safety
+
+&emsp;The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
+
+#### (6) FEMA
+
+&emsp;The term “FEMA” means the Federal Emergency Management Agency.
+
+#### (7) Hazard reduction
+
+&emsp;The term “hazard reduction” means the reduction in the potential consequences to life and property of dam failure.
+
+#### (8) ICODS
+
+&emsp;The term “ICODS” means the Interagency Committee on Dam Safety established by section 467e of this title.
+
+#### (9) Program
+
+&emsp;The term “Program” means the national dam safety program established under section 467f of this title.
+
+#### (10) State
+
+&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+#### (11) State dam safety agency
+
+&emsp;The term “State dam safety agency” means a State agency that has regulatory authority over the safety of non-Federal dams.
+
+#### (12) State dam safety program
+
+&emsp;The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(f) of this title.
+
+#### (13) United States
+
+&emsp;The term “United States”, when used in a geographical sense, means all of the States.
+
+(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685.)
+
+#### Prior Provisions
+
+A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, §1201(a), Nov. 17, 1986, 100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, §215(c)(1).
+
+A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
+
+#### Short Title of 1986 Amendment
+
+Section 1206 of title XII of Pub. L. 99–662 provided that: “This title \[enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
+
+#### Short Title
+
+Section 1 of Pub. L. 92–367, as added by Pub. L. 104–303, title II, §215(c)(1), Oct. 12, 1996, 110 Stat. 3685, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Dam Safety Program Act’.”
+
+#### Congressional Statement of Purpose; National Dam Safety Program
+
+Section 215(a) of Pub. L. 104–303 provided that: “The purpose of this section \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] is to reduce the risks to life and property from dam failure in the United States through the establishment and maintenance of an effective national dam safety program to bring together the expertise and resources of the Federal and non-Federal communities in achieving national dam safety hazard reduction. It is not the intent of this section to preempt any other Federal or State authorities nor is it the intent of this section to mandate State participation in the grant assistance program to be established under this section.”
+
+#### Effect on Other Dam Safety Programs
+
+Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 25 section 3802.
+

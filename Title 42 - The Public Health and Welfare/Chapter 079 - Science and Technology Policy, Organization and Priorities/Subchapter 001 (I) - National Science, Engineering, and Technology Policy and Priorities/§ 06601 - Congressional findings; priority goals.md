@@ -4,7 +4,7 @@
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
-&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development,to incorporate scientific and technological knowledge in the national decisionmaking process;
+&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
 
 &emsp;(3) the scientific and technological capabilities of the United States, when properly fostered, applied, and directed, can effectively assist in improving the quality of life, in anticipating and resolving critical and emerging international, national, and local problems, in strengthening the Nation's international economic position, and in furthering its foreign policy objectives;
 
@@ -60,21 +60,21 @@ Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1
 
 (b) The abolition of the Intergovernmental Science, Engineering, and Technology Advisory Panel, the President's Committee on Science and Technology, and the Federal Coordinating Council for Science, Engineering and Technology (established in accordance with Titles II, III, and IV of the Act) \[sections 6611 et seq., 6631 et seq., and 6651 of this title\] and the transfer of their functions (Sections 205(b)(1), 303(a) and (b)(1), and 401 of the Act, 42 U.S.C. 6614(b)(1), 6633 (a) and (b)(1), and 6651(e)) to the President of the United States of America, provided by Section 5A of Reorganization Plan No. 1 of 1977 \[set out in Appendix of Title 5, Government Organization and Employees\], are hereby effective.
 
-Sec. 2. (a) The intergovernmental science, engineering, and technology functions under Section 205(b)(1) of the Act (42 U.S.C. 6614(b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy; <i>Except that,</i> the responsibility for fostering any policies to facilitate the transfer and utilization of research and development results is delegated to the Director of the Office of Management and Budget.
+Sec. 2. (a) The intergovernmental science, engineering, and technology functions under Section 205(b)(1) of the Act (42 U.S.C. 6614(b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy; <i>Except that</i>, the responsibility for fostering any policies to facilitate the transfer and utilization of research and development results is delegated to the Director of the Office of Management and Budget.
 
-(b) The functions vested by subsection (a) of this Section in the Director of the Office of Management and Budget shall be performed in accord with the Director'sresponsibilities under the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 42 U.S.C. 4201 et seq.) \[31 U.S.C. 6501 et seq.\]. The Director of the Office of Science and Technology Policy shall advise the Director of the Office of Management and Budget with respect to the needs of State, regional, and local governments which may be assisted by the utilization of science, engineering, and technology research and development results.
+(b) The functions vested by subsection (a) of this Section in the Director of the Office of Management and Budget shall be performed in accord with the Director's responsibilities under the Intergovernmental Cooperation Act of 1968 (82 Stat. 1098, 42 U.S.C. 4201 et seq.) \[31 U.S.C. 6501 et seq.\]. The Director of the Office of Science and Technology Policy shall advise the Director of the Office of Management and Budget with respect to the needs of State, regional, and local governments which may be assisted by the utilization of science, engineering, and technology research and development results.
 
 (c) The functions vested by subsection (a) of this Section in the Director of the Office of Science and Technology Policy shall be performed in coordination with the Director of the Office of Management and Budget and with others as designated by the President.
 
 (d) \[Revoked by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379.\]
 
-Sec. 3. The Federal science, engineering, and technology functions under Section 303 (a) and (b)(1) of the Act (42 U.S.C. 6633 (a) and (b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy: <i>Except that,</i> those functions concerned with reorganization, including Federal–State liaison, are delegated to the Director of the Office of Management and Budget, who shall be provided advice and assistance thereon by the Director of the Office of Science and Technology Policy.
+Sec. 3. The Federal science, engineering, and technology functions under Section 303 (a) and (b)(1) of the Act (42 U.S.C. 6633 (a) and (b)(1)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy: <i>Except that</i>, those functions concerned with reorganization, including Federal–State liaison, are delegated to the Director of the Office of Management and Budget, who shall be provided advice and assistance thereon by the Director of the Office of Science and Technology Policy.
 
 Sec. 4. The science, engineering, and technology and related activities functions under Section 401(e) of the Act (42 U.S.C. 6651(e)), which were transferred to the President (see Section 1(b) of this Order), are delegated to the Director of the Office of Science and Technology Policy.
 
 Sec. 5. There is hereby established the Federal Coordinating Council for Science, Engineering, and Technology. The Council shall be composed of the Director of the Office of Science and Technology Policy, who shall be Chairman, and representatives of such other Executive agencies designated by the Chairman. The head of an agency so designated shall designate an appropriate individual to serve on the Council. The Council shall advise and assist the Director of the Office of Science and Technology Policy in the performance of those functions delegated under Section 4 of this Order.
 
-Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order are hereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
+Sec. 6. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, reassigned, or redelegated by this Order arehereby transferred to the Director of the Office of Management and Budget, the Director of the Office of Science and Technology Policy, or the Director of the National Science Foundation, as appropriate.
 
 Sec. 7. The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
@@ -186,7 +186,7 @@ Term of the President's Committee of Advisors on Science and Technology extended
 
 #### Ex. Ord. No. 12975. Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission
 
-Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, provided:
+Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -198,13 +198,13 @@ Section 1. <i>Review of Policies and Procedures</i>. (a) Each executive branch d
 
 Sec. 2. <i>Research Ethics</i>. Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall, to the extent practicable and appropriate, develop professional and public educational programs to enhance activities related to human subjects protection, provide forums for addressing ongoing and emerging issues in human subjects research, and familiarize professionals engaged in nonfederally-funded research with the ethical considerations associated with conducting research involving human subjects. Where appropriate, such professional and educational programs should be organized and conducted with the participation of medical schools, universities, scientific societies, voluntary health organizations, or other interested parties.
 
-Sec. 3. <i>Establishment of National Bioethics Advisory Commission</i>. (a) There is hereby established a National Bioethics Advisory Commission (“NBAC”). NBAC shall be composed of not more than 15 members to be appointed by the President. NBAC shall be subject to the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Sec. 3. <i>Establishment of National Bioethics Advisory Commission</i>. (a) There is hereby established a National Bioethics Advisory Commission (“NBAC”). NBAC shall be composed of not more than 18 members to be appointed by the President. NBAC shall be subject to the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 (b) The President shall designate a Chairperson from among the members of NBAC.
 
 Sec. 4. <i>Functions</i>. (a) NBAC shall provide advice and make recommendations to the National Science and Technology Council and to other appropriate government entities regarding the following matters:
 
-(1) the appropriateness of departmental, agency, or other governmental programs, policies, assignments, missions, guidelines, and regulations as they relate tobioethical issues arising from research on human biology and behavior; and
+(1) the appropriateness of departmental, agency, or other governmental programs, policies, assignments, missions, guidelines, and regulations as they relate to bioethical issues arising from research on human biology and behavior; and
 
 (2) applications, including the clinical applications, of that research.
 
@@ -230,7 +230,7 @@ Sec. 6. <i>Administration</i>. (a) The heads of executive departments and agenci
 
 (b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
 
-(c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Health and Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
+(c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Healthand Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
 
 (d) Members of NBAC shall be compensated in accordance with Federal law. Members of NBAC may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 

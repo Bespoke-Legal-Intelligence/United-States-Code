@@ -12,7 +12,7 @@
 
 (c) For purposes of this section, a grant is a new grant unless the work provided for in the grant is a continuation of the work performed by the specified entity under a preceding grant.
 
-(d) This section shall not apply with respect to any grant that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
+(d) This section shall not apply with respect to any grant that calls upon the National Academyof Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
 (Added Pub. L. 103–355, title VII, §7203(a)(2), Oct. 13, 1994, 108 Stat. 3380.)
 

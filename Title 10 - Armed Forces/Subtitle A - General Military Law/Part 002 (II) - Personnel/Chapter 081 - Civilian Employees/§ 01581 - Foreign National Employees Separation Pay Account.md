@@ -16,7 +16,7 @@ Payments From Account.—Amounts in the account shall remain available for expen
 
 (d)
 
-Deobligated Funds.—Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
+Deobligated Funds.—Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidatingamounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
 
 (e)
 

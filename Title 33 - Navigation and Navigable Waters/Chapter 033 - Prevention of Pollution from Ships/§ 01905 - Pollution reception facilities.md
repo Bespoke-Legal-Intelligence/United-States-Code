@@ -8,31 +8,49 @@
 
 #### (b) Traffic considerations
 
-In determining the adequacy of reception facilities required by the MARPOL Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
+In determining the adequacy of reception facilities required by the MARPOL Protocol or the Antarctic Protocol at a port or terminal, and in establishing regulations under subsection (a) of this section, the Secretary may consider, among other things, the number and types of ships or seagoing ships using the port or terminal, including their principal trades.
 
 #### (c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary
 
 (1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
 
-(2) If reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
+(2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
+
+(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
+
+(C) The Secretary may, with respect to certificates issued under this paragraph prior to October 19, 1996, prescribe by regulation differing periods of validity for such certificates.
 
 (3) A certificate issued under this subsection—
 
-&emsp;(A) is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and
+&emsp;(A) is valid for the 5-year period beginning on the date of issuance of the certificate, except that if—
+
+&emsp;&emsp;(i) the charge for operation of the port or terminal is transferred to a person or entity other than the person or entity that is the operator on the date of issuance of the certificate—
+
+&emsp;&emsp;&emsp;(I) the certificate shall expire on the date that is 30 days after the date of the transfer; and
+
+&emsp;&emsp;&emsp;(II) the new operator shall be required to submit an application for a certificate before a certificate may be issued for the port or terminal; or
+
+&emsp;&emsp;(ii) the certificate is suspended or revoked by the Secretary, the certificate shall cease to be valid; and
 
 &emsp;(B) shall be available for inspection upon the request of the master, other person in charge, or agent of a ship using or intending to use the port or terminal.
 
 (4) The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by the Secretary in the manner prescribed by regulation.
 
-#### (d) Publication in Federal Register; list of certificated ports or terminals
+#### (d) Publication of list of certificated ports or terminals
 
-The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.
+(1) The Secretary shall maintain a list of ports or terminals with respect to which a certificate issued under this section—
+
+&emsp;(A) is in effect; or
+
+&emsp;(B) has been revoked or suspended.
+
+(2) The Secretary shall make the list referred to in paragraph (1) available to the general public.
 
 #### (e) Entry; denial
 
-(1) Except in the case of force majeure, the Secretary shall deny entry to a seagoing ship required by the Convention to retain onboard while at sea, residues and mixtures containing oil or noxious liquid substances, if—
+(1) Except in the case of force majeure, the Secretary shall deny entry to a seagoing ship required by the Convention or the Antarctic Protocol to retain onboard while at sea, residues and mixtures containing oil or noxious liquid substances, if—
 
-&emsp;(A) the port or terminal is one required by Annexes I and II of the Convention or regulations hereunder to have adequate reception facilities; and
+&emsp;(A) the port or terminal is one required by Annexes I and II of the Convention or Article 9 of Annex IV to the Antarctic Protocol or regulations hereunder to have adequate reception facilities; and
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 
@@ -40,11 +58,27 @@ The Secretary shall periodically cause to be published in the Federal Register a
 
 #### (f) Surveys
 
-The Secretary is authorized to conduct surveys of existing reception facilities in the United States to determine measures needed to comply with the MARPOL Protocol.
+(1) The Secretary is authorized to conduct surveys of existing reception facilities in the United States to determine measures needed to comply with the MARPOL Protocol or the Antarctic Protocol.
 
-(Pub. L. 96–478, §6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, §2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, §201(1), Dec. 12, 1989, 103 Stat. 1910.)
+(2)(A) <sup>1</sup> Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
+
+(Pub. L. 96–478, §6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, §2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, §201(1), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, §201(d), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 104–324, title VIII, §801, Oct. 19, 1996, 110 Stat. 3943.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–227, §201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+
+Subsec. (c)(2). Pub. L. 104–324, §801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
+
+Subsec. (c)(3)(A). Pub. L. 104–324, §801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
+
+Subsec. (d). Pub. L. 104–324, §801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
+
+Subsec. (e)(1). Pub. L. 104–227, §201(d)(2), (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
+
+Subsec. (f). Pub. L. 104–324, §801(b), designated existing provisions as par. (1) and added par. (2)(A).
+
+Pub. L. 104–227, §201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
 1989—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
 
@@ -60,7 +94,7 @@ Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior 
 
 > The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
 
-Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
+Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1)and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
 
 #### Effective Date of 1987 Amendment
 
@@ -73,4 +107,6 @@ Subsecs. (a), (c), and (f) of this section effective Oct. 21, 1980, see section 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1902 of this title.
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -12,7 +12,7 @@
 
 (b)(1)(A) If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall fix a reasonable time for abatement of the violation, specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
 
-(B) The Secretary shall, not later than 60 days after the date of enactment of this subparagraph, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
+(B) The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
 
 &emsp;(i) specify those serious recordkeeping violations for which an enforcement action shall be initiated, including instances in which the falsification of records of duty status or drivers’ medical certificates is required or permitted, and such other recordkeeping violations as the Secretary determines to be serious; and
 
@@ -74,11 +74,13 @@ Violations pertaining to cdls.—Any person who knowingly and willfully violates
 
 (13) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under section 31132 of this title.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -91,6 +93,8 @@ Historical and Revision Notes
 Oct. 15, 1966, Pub. L. 89–670, §6(f)(2), 80 Stat. 940.
 
 The section is included because 49:1655(f)(2) gave the same administrative powers exercised by the Interstate Commerce Commission under certain sections of title 49 to the Secretary of Transportation to carry out duties transferred to the Secretary by 49:1655(e). See the revision notes for section 501 of the revised title for an explanation of the transfer under 49:1655(f)(2). The powers of the Commission have been codified in subtitle IV of the revised title. The comparable provisions of title 49 that are represented by the section may be found as follows:
+
+&nbsp;
 
 | <i>Section 521</i> | <i>49 U.S. Code</i> | <i>Revised Section</i> |
 | :--- | :---: | ---: |
@@ -105,11 +109,11 @@ Subsection (b) does not apply to motor carriers of migrant workers and motor pri
 
 #### References in Text
 
-The date of enactment of this subparagraph, referred to in subsec. (b)(1)(B), means the date of enactment of Pub. L. 101–500, which was approved Nov. 3, 1990.
-
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(11), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+1996—Subsec. (b)(1)(B). Pub. L. 104–287 substituted “November 3, 1990” for “the date of enactment of this subparagraph” in introductory provisions.
 
 1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 

@@ -8,7 +8,7 @@ Each State that receives assistance under this subchapter shall establish and ma
 
 #### (1) Council appointments
 
-&emsp;The members of the Council of a State shall be appointed by the Governor of the State from among the residents of that State. The Governor shall select members of the Council, at his or her discretion, after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the request of the Governor, coordinate Council and public input to the Governor regarding all recommendations. To the extent feasible, the membership of the Council shall be geographically representative of the State and reflect the diversity of the State with respect to race and ethnicity.
+&emsp;The members of the Council of a State shall be appointed by the Governor of the State from among the residents of that State. The Governor shall select members of the Council, at his or her discretion, after soliciting recommendations from organizations representing a broad range of individuals with developmental disabilities and individuals interested in individuals with developmental disabilities, including the non-State agency members of the Council. The Council may, at the request of the Governor, coordinate Council and publicinput to the Governor regarding all recommendations. To the extent feasible, the membership of the Council shall be geographically representative of the State and reflect the diversity of the State with respect to race and ethnicity.
 
 #### (2) Membership rotation
 
@@ -32,7 +32,7 @@ Each State that receives assistance under this subchapter shall establish and ma
 
 &emsp;&emsp;(iii) immediate relatives or guardians of adults with mentally impairing developmental disabilities who cannot advocate for themselves; and
 
-&emsp;&emsp;(B) not employees of a State agency that receives funds or provides services under this subchapter, and who are not managing employees (as defined in section 1126(b) of the Social Security Act \[42 U.S.C.1320a–5(b)\]) of any other entity that receives funds or provides services under this subchapter.
+&emsp;&emsp;(B) not employees of a State agency that receives funds or provides services under this subchapter, and who are not managing employees (as defined in section 1126(b) of the Social Security Act \[42 U.S.C. 1320a–5(b)\]) of any other entity that receives funds or provides services under this subchapter.
 
 #### (5) Composition of membership with developmental disabilities
 
@@ -142,7 +142,7 @@ A Council, through Council members, staff, consultants, contractors, or subgrant
 
 #### (9) Staff hiring and supervision
 
-&emsp;A Council shall, consistent with State law, recruit and hire a Director of the Council, should the position of Director become vacant, and supervise and annually evaluate the Director. The Director shall hire, supervise, and annually evaluate the staff of the Council. Council recruitment and hiring of staff shall be consistent with Federal and State nondiscrimination laws. Dismissal of personnelshall be consistent with State law and personnel policies.
+&emsp;A Council shall, consistent with State law, recruit and hire a Director of the Council, should the position of Director become vacant, and supervise and annually evaluate the Director. The Director shall hire, supervise, and annually evaluate the staff of the Council. Council recruitment and hiring of staff shall be consistent with Federal and State nondiscrimination laws. Dismissal of personnel shall be consistent with State law and personnel policies.
 
 #### (10) Staff assignments
 
@@ -246,7 +246,7 @@ Not later than January 1, 1990, each Council shall complete the reviews, analyse
 
 #### (1) Comprehensive review and analysis
 
-&emsp;Each Council shall conduct a comprehensive review and analysis of the eligibility for services provided, and the extent, scope, and effectiveness of, services provided and functions performed by, all State agencies (including agencies that provide public assistance) that affect or that potentially affect the ability of individuals with developmental disabilities to achieve the goals of independence, productivity, and integration and inclusion into the community, including individuals with developmental disabilities attributable to physical impairment, mental impairment, or a combination of physical and mental impairments.
+&emsp;Each Council shall conduct a comprehensive review and analysis of the eligibility for services provided, and the extent, scope, and effectiveness of, services provided and functions performed by, all State agencies (including agencies that provide public assistance) that affect or that potentially affect the ability of individuals with developmental disabilities to achieve the goals of independence, productivity, and integration and inclusion into the community, including individuals with developmental disabilities attributable to physicalimpairment, mental impairment, or a combination of physical and mental impairments.
 
 #### (2) Consumer satisfaction
 

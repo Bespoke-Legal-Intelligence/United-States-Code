@@ -19,9 +19,8 @@
 | (a) | Estuarine monitoring. |
 | (b) | Navy home port monitoring. |
 | (c) | Navy research of ecological effects. |
-| (d) | Report. |
-| (e) | Assistance to States. |
-| (f) | Five-year report. |
+| (d) | Assistance to States. |
+| (e) | Five-year report. |
 | [2407\.](%C2%A7%2002407%20-%20Alternative%20antifouling%20research.md) | Alternative antifouling research. |
 | (a) | Research. |
 | (b) | Report. |

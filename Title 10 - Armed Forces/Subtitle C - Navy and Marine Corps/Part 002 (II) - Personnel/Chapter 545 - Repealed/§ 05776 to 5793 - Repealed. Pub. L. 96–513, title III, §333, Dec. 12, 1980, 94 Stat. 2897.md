@@ -18,7 +18,7 @@ Section 5783, act Aug. 10, 1956, ch. 1041, 70A Stat. 364, related to permanent p
 
 Section 5784, act Aug. 10, 1956, ch. 1041, 70A Stat. 365, related to temporary promotions of ensigns in Navy to grade of lieutenant (junior grade) and second lieutenants in Marine Corps to grade of first lieutenant. See section 603 of this title.
 
-Section 5785, acts Aug. 10, 1956, ch. 1041, 70A Stat. 365; Sept. 2, 1958, Pub. L. 85–861, §33(a)(29), 72 Stat. 1566; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized President to suspend any of the provisions of former sections 5751 to 5784 of this title relating to officers in Navy or Marine Corps except women officers appointed under former section 5590 of this title. See section 644 of this title.
+Section 5785, acts Aug. 10, 1956, ch. 1041, 70A Stat. 365; Sept. 2, 1958, Pub. L. 85–861, §33(a)(29), 72 Stat. 1566; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized President to suspend any of the provisions of former sections 5751 to 5784 of this title relating to officers in Navy or Marine Corps except women officers appointed under former section 5590 of this title. See section 123(a), (b) of this title.
 
 Section 5786, acts Aug. 10, 1956, ch. 1041, 70A Stat. 366; Nov. 8, 1967, Pub. L. 90–130, §1(19)(Z), 81 Stat. 379; Sept. 19, 1978, Pub. L. 95–377, §6(a), 92 Stat. 721, specified certain categories of officers as ineligible for promotion and provided that officers serving in grades to which they were appointed for periods of limited duration or to which they were temporarily appointed were to be considered for purposes of former sections 5751 to 5785 of this title as serving in the grade they would have held were it not for such temporary appointments. See section 641 of this title.
 
@@ -34,7 +34,7 @@ Section 5787d, added Pub. L. 95–377, §4(a), Sept. 19, 1978, 92 Stat. 720; ame
 
 Section 5788, acts Aug. 10, 1956, ch. 1041, 70A Stat. 367; Sept. 7, 1962, Pub. L. 87–649, §14c(32), 76 Stat. 501, related to eligibility for promotion of Navy ensigns and Marine Corps second lieutenants. See section 619 of this title.
 
-Section 5789, act Aug. 10, 1956, ch. 1041, 70A Stat. 367, authorized promotion of officers in the line of the Navyor of the Marine Corps upon receipt of the thanks of Congress. See section 619 et seq. of this title.
+Section 5789, act Aug. 10, 1956, ch. 1041, 70A Stat. 367, authorized promotion of officers in the line of the Navy or of the Marine Corps upon receipt of the thanks of Congress. See section 619 et seq. of this title.
 
 Section 5790, act Aug. 10, 1956, ch. 1041, 70A Stat. 368, authorized advancement in rank of officers of Navy or of Marine Corps by not more than 30 numbers on lineal list for conduct in battle or extraordinary heroism. See section 619 et seq. of this title.
 

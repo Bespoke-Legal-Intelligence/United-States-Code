@@ -50,5 +50,5 @@ Adjustments for—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 111, 535, 542, 545, 546, 547, 556, 563, 882, 936, 992, 6683 of this title.
+This section is referred to in sections 26, 30A, 111, 535, 542, 545, 546, 547, 556, 563, 882, 936, 992, 6683 of this title.
 

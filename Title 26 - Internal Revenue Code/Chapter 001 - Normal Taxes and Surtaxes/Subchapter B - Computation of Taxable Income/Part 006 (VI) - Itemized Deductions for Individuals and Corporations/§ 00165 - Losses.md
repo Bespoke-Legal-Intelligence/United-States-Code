@@ -132,7 +132,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (1) In general
 
-&emsp;Nothing in subsection (a) or in any other provision of law shall be construed to provide a deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance of such obligation was subject to tax under section 4701).
+&emsp;Nothing in subsection (a) or in any other provision of law shall be construed to provide a deduction for any loss sustained on any registration-required obligation unless such obligation is in registered form (or the issuance ofsuch obligation was subject to tax under section 4701).
 
 #### (2) Definitions
 
@@ -282,7 +282,7 @@ Pub. L. 98–369, §711(c)(1), amended par. (2) by redesignating subpar. (B) as 
 
 Subsec. (j)(3). Pub. L. 98–369, §42(a)(4), substituted “section 1287” for “subsection (d) of section 1232”.
 
-Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §1051(a), added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §1051(a), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 1982—Subsec. (c)(3). Pub. L. 97–248, §203(b), inserted “except as provided in subsection (h),” before “losses of property” and struck out provisions that a loss described in this paragraph would be allowed only to the extent that the amount of loss to such individual arising from each casualty, or from each theft, exceeded $100, that, for purposes of the $100 limitation, a husband and wife making a joint return under section 6013 for the taxable year in which the loss was allowed as a deduction would be treated as one individual, and that no loss described in this paragraph would be allowed if, at the time of filing the return, such loss had been claimed for estate tax purposes in the estate tax return.
 
@@ -398,7 +398,7 @@ Section 1(c) of title I of Pub. L. 85–866, as amended by Pub. L. 99–514, §2
 
 &emsp;“(2) amendments made by this title to subtitle F of such Code (relating to procedure and administration) \[enacting sections 7513 and 7514 of this title and amending sections 6013, 6015, 6212, 6325, 6338, 6339, 6501, 6504, 6511, 6601, 6652, 6653, 6851, 6871, 7213, 7324, 7325, and 7422 of this title\] shall take effect as of August 17, 1954, and such subtitle, as so amended, shall apply as provided in section 7851 of the Internal Revenue Code of 1986”.
 
-Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to taxable years beginning afterSept. 2, 1958, see section 57(d) of Pub. L. 85–866, set out as a note under section 243 of this title.
+Amendment by section 57(c)(1) of Pub. L. 85–866 applicable with respect to taxable years beginning after Sept. 2, 1958, see section 57(d) of Pub. L. 85–866, set out as a note under section 243 of this title.
 
 #### Transitional Rule for 1984 Amendment
 
@@ -434,7 +434,7 @@ In general.—Except as otherwise provided in this subsection—
 
 &emsp;&emsp;“(A) The provisions of this section shall apply to taxable years ending on or after March 4, 1991, but only with respect to FSLIC assistance not credited before March 4, 1991.
 
-&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of any net operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
+&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of any net operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in thepreceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
 
 &emsp;“(2)
 
@@ -506,7 +506,7 @@ Adjusted basis not to exceed adjusted basis at beginning of 60-month period.—T
 
 &emsp;“(3)
 
-Deregulation month.—For purposes of this section, the term ‘deregulation month’ means the month in which the Secretary of the Treasury or hisdelegate determines that a Federal law has been enacted which deregulates the freight forwarding industry.
+Deregulation month.—For purposes of this section, the term ‘deregulation month’ means the month in which the Secretary of the Treasury or his delegate determines that a Federal law has been enacted which deregulates the freight forwarding industry.
 
 “(c)
 
@@ -608,7 +608,7 @@ Application of Section.—This section shall apply to any individual—
 
 &emsp;&emsp;“(A) received income in the form of cancellation of a disaster loan under section 7 of the Small Business Act \[section 636 of Title 15, Commerce and Trade\] or an emergency loan under subtitle C of the Consolidated Farm and Rural Development Act \[section 1961 et seq. of Title 7, Agriculture\], or
 
-&emsp;&emsp;“(B) received income in the form of compensation (not taken into account in computing the amount of the deduction) for such loss in settlement of anyclaim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster, and
+&emsp;&emsp;“(B) received income in the form of compensation (not taken into account in computing the amount of the deduction) for such loss in settlement of any claim of the taxpayer against a person for that person's liability in tort for the damage or destruction of that taxpayer's property in connection with the disaster, and
 
 &emsp;“(3) who elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to take the benefits of this section.
 
@@ -636,7 +636,7 @@ Phaseout Where Adjusted Gross Income Exceeds $15,000.—If for the taxable year 
 
 “(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim therefor is filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable to such election) may, nevertheless, be made if made within one year after such date.”
+Statute of Limitations.—If refund or credit of any overpayment of income tax resulting from an election made under this section is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law, or rule of law, refund or credit of such overpayment (to the extent attributable to such election) may, nevertheless, be made or allowed if claim thereforis filed within one year after such date. If the taxpayer makes an election under this section and if assessment of any deficiency for any taxable year resulting from such election is prevented on the date of the enactment of this Act \[Oct. 4, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, such assessment (to the extent attributable to such election) may, nevertheless, be made if made within one year after such date.”
 
 #### Refund or Credit of Overpayment; Time for Filing Claim; Interest
 

@@ -25,10 +25,10 @@
 | (i) | Travel. |
 | (j) | Commission staff. |
 | (k) | Duties of Commission. |
-| (<i>l)</i> | Powers of Commission. |
+| (<i>l</i>) | Powers of Commission. |
 | (m) | Commission report. |
 | (n) | Authorization of appropriations. |
-| (<i>o)</i> | Termination. |
+| (<i>o</i>) | Termination. |
 | [3506\.](%C2%A7%2003506%20-%20Tribal%20government%20energy%20assistance%20program.md) | Tribal government energy assistance program. |
 | (a) | Financial assistance. |
 | (b) | Conditions. |

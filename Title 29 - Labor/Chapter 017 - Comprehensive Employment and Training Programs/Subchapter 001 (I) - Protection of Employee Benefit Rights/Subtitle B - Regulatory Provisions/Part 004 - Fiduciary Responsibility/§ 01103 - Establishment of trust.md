@@ -2,7 +2,7 @@
 
 #### (a) Benefit plan assets to be held in trust; authority of trustees
 
-Except as provided in subsection (b) of this section, all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either namedin the trust instrument or in the plan instrument described in section 1102(a) of this title or appointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that—
+Except as provided in subsection (b) of this section, all assets of an employee benefit plan shall be held in trust by one or more trustees. Such trustee or trustees shall be either named in the trust instrument or in the plan instrument described in section 1102(a) of this title or appointed by a person who is a named fiduciary, and upon acceptance of being named or appointed, the trustee or trustees shall have exclusive authority and discretion to manage and control the assets of the plan, except to the extent that—
 
 &emsp;(1) the plan expressly provides that the trustee or trustees are subject to the direction of a named fiduciary who is not a trustee, in which case the trustees shall be subject to proper directions of such fiduciary which are made in accordance with the terms of the plan and which are not contrary to this chapter, or
 
@@ -44,7 +44,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 &emsp;(i) if such contribution or payment is made by an employer to a plan (other than a multiemployer plan) by a mistake of fact, paragraph (1) shall not prohibit the return of such contribution to the employer within one year after the payment of the contribution, and
 
-&emsp;(ii) if such contribution or payment is made by an employer to a multiemployer plan by a mistake of fact or law (other than a mistake relating to whether the plan is described in section 401(a) of title 26 or the trust which is part of such plan is exempt from taxation under section 501(a) of title 26), paragraph (1) shall not prohibit the return of such contribution or payment to the employer within 6 months after the plan administrator determines that the contribution was made by such a mistake.
+&emsp;(ii) if such contribution or payment is made by an employer to a multiemployer plan by a mistake of fact or law (other than a mistakerelating to whether the plan is described in section 401(a) of title 26 or the trust which is part of such plan is exempt from taxation under section 501(a) of title 26), paragraph (1) shall not prohibit the return of such contribution or payment to the employer within 6 months after the plan administrator determines that the contribution was made by such a mistake.
 
 (B) If a contribution is conditioned on initial qualification of the plan under section 401 or 403(a) of title 26, and if the plan receives an adverse determination with respect to its initial qualification, then paragraph (1) shall not prohibit the return of such contribution to the employer within one year after such determination, but only if the application for the determination is made by the time prescribed by law for filing the employer's return for the taxable year in which such plan was adopted, or such later date as the Secretary of the Treasury may prescribe.
 
@@ -58,7 +58,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
 
-(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV,§§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004.)
+(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004.)
 
 #### References in Text
 

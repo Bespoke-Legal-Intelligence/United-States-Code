@@ -6,7 +6,7 @@ Definition.—In this section, “State” includes the District of Columbia, a 
 
 (b)
 
-Prohibitions.—Except as provided in subsection (c) of this section and section 40117 of this title, a State or political subdivision of a State may not levy or collect a tax, fee, head charge, or other charge on—
+Prohibitions.—Except as provided in subsection (c) of this section and section 40117 of this title, a State, a political subdivision of a State, and any person that has purchased or leased an airport under section 47134 of this title may not levy or collect a tax, fee, head charge, or other charge on—
 
 &emsp;(1) an individual traveling in air commerce;
 
@@ -30,7 +30,7 @@ Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In th
 
 &emsp;(C) “assessment jurisdiction” means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
 
-&emsp;(D) “commercial and industrial property” means property (except transportation property and land used primarily for agriculture or timber growing) devoted to a commercial orindustrial use and subject to a property tax levy.
+&emsp;(D) “commercial and industrial property” means property (except transportation property and land used primarily for agriculture or timber growing) devoted to a commercial or industrial use and subject to a property tax levy.
 
 (2)(A) A State, political subdivision of a State, or authority acting for a State or political subdivision may not do any of the following acts because those acts unreasonably burden and discriminate against interstate commerce:
 
@@ -40,7 +40,7 @@ Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In th
 
 &emsp;(iii) levy or collect an ad valorem property tax on air carrier transportation property at a tax rate greater than the tax rate applicable to commercial and industrial property in the same assessment jurisdiction.
 
-&emsp;(iv) Levy <sup>1</sup> or collect a tax, fee, or charge, first taking effect after the date of the enactment of this clause, exclusively upon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
+&emsp;(iv) levy or collect a tax, fee, or charge, first taking effect after August 23, 1994, exclusively upon any business located at a commercial service airport or operating as a permittee of such an airport other than a tax, fee, or charge wholly utilized for airport or aeronautical purposes.
 
 (B) Subparagraph (A) of this paragraph does not apply to an in lieu tax completely used for airport and aeronautical purposes.
 
@@ -74,11 +74,15 @@ Pay of Air Carrier Employees.—(1) In this subsection—
 
 &emsp;(B) The State or political subdivision of the State in which the employee's scheduled flight time would have been more than 50 percent of the employee's total scheduled flight time for the calendar year had the employee been engaged full time in the performance of regularly assigned duties on the carrier's aircraft.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1111; Pub. L. 103–305, title I, §112(e), title II, §208, Aug. 23, 1994, 108 Stat. 1576, 1588.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1111; Pub. L. 103–305, title I, §112(e), title II, §208, Aug. 23, 1994, 108 Stat. 1576, 1588; Pub. L. 104–264, title I, §149(b), Oct. 9, 1996, 110 Stat. 3226; Pub. L. 104–287, §5(66), Oct. 11, 1996, 110 Stat. 3395.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -86,7 +90,7 @@ Historical and Revision Notes
 
 40116(a)
 
-49 App.:1513(d) (2)(E).
+49 App.:1513(d)(2)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1113(d); added Sept. 3, 1982, Pub. L. 97–248, §532(b), 96 Stat. 701.
 
@@ -144,19 +148,27 @@ In subsection (f)(1)(C), the words “of a State” are added for clarity.
 
 In subsection (f)(2), before clause (A), the words “as such an employee” are omitted as surplus.
 
-#### References in Text
+#### Pub. L. 104–287
 
-The date of the enactment of this clause, referred to in subsec. (d)(2)(A)(iv), is the date of enactment of Pub. L. 103–305, which was approved Aug. 23, 1994.
+This amends 49:40116(d)(2)(A)(iv) to conform to the style of title 49 and to set out the effective date for this clause.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–264, in introductory provisions, substituted “a State, a” for “a State or” and inserted “, and any person that has purchased or leased an airport under section 47134 of this title” after “of a State”.
+
+Subsec. (d)(2)(A)(iv). Pub. L. 104–287, which directed substitution of “August 23, 1994” for “the date of enactment of this clause”, was executed by making the substitution for “the date of the enactment of this clause” to reflect the probable intent of Congress.
+
+Pub. L. 104–287 substituted “levy” for “Levy”.
 
 1994—Subsec. (d)(2)(A)(iv). Pub. L. 103–305, §112(e), added cl. (iv).
 
 Subsec. (f)(3). Pub. L. 103–305, §208, added par. (3).
 
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46301, 46316 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+This section is referred to in sections 46301, 46316, 47134 of this title.
 

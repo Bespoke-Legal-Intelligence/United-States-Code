@@ -20,7 +20,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(1) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that no employee shall be employed more than one thousand and forty hours during any period of twenty-six consecutive weeks; or
 
-&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours worked per week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximum workweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours workedper week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximum workweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(3) by an independently owned and controlled local enterprise (including an enterprise with more than one bulk storage establishment) engaged in the wholesale or bulk distribution of petroleum products if—
 
@@ -64,7 +64,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(1) in the case of an employee employed at piece rates, is computed at piece rates not less than one and one-half times the bona fide piece rates applicable to the same work when performed during nonovertime hours; or
 
-&emsp;(2) in the case of an employee performing two or more kinds of work for which differenthourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
+&emsp;(2) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
 
 &emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
 
@@ -94,7 +94,7 @@ No public agency shall be deemed to have violated subsection (a) of this section
 
 #### (<i>l</i>) Employment in domestic service in one or more households
 
-No employer shall employ any employee in domestic service in one or more households for a workweek longer than forty hours unless such employee receives compensation for such employment in accordance with subsection (a) of this section.
+No employer shall employ any employee in domestic service in one or more households for a workweek longer than forty hours unless suchemployee receives compensation for such employment in accordance with subsection (a) of this section.
 
 #### (m) Employment in tobacco industry
 
@@ -170,7 +170,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 &emsp;(B) the hours spent performing such duties are outside of the hours such employee performs other work (including hours for which the agency requires the employee's attendance) pursuant to the employment relationship with such public agency.
 
-> For purposes of this section, the amount paid such employee in accordance with subparagraph\(A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
+> For purposes of this section, the amount paid such employee in accordance with subparagraph (A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
 
 (7) For purposes of this subsection—
 
@@ -218,13 +218,13 @@ Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in s
 
 1989—Subsec. (q). Pub. L. 101–157 added subsec. (q).
 
-1985—Subsec. (<i>o</i>). Pub. L. 99–150, §2(a), added subsec. (<i>o).</i>
+1985—Subsec. (<i>o</i>). Pub. L. 99–150, §2(a), added subsec. (<i>o</i>).
 
 Subsec. (p). Pub. L. 99–150, §3(a)–(c)(1), added subsec. (p).
 
 1974—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
 
-Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and“five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
+Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
 
 Subsec. (j). Pub. L. 93–259, §12(b), extended provision excepting from being considered a subsec. (a) violation agreements or undertakings between employers and employees respecting consecutive work period and overtime compensation to agreements between employers engaged in operation of an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises and employees respecting consecutive work period and overtime compensation.
 
@@ -236,7 +236,7 @@ Pub. L. 93–259, §6(c)(1)(B), substituted “232 hours” for “240 hours”,
 
 Pub. L. 93–259, §6(c)(1)(A), added subsec. (k), effective Jan. 1, 1975.
 
-Subsec. (<i>l</i>). Pub. L. 93–259, §7(b)(2), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 93–259, §7(b)(2), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 93–259, §9(a), added subsec. (m).
 
@@ -356,7 +356,7 @@ Action by employee to recover unpaid overtime compensation and liquidated damage
 
 American Samoa employees not subject to provisions of this section, see section 213 of this title.
 
-Employees performing services within foreign country or certain territory under jurisdiction of United States as not subject to provisions of this section, see section 213 of this title.
+Employees performing services within foreign country or certain territory under jurisdiction of UnitedStates as not subject to provisions of this section, see section 213 of this title.
 
 Forty-hour workweek for employees covered by Walsh-Healey Act, see section 35 of Title 41, Public Contracts.
 
@@ -374,7 +374,7 @@ Walsh-Healey Act inapplicable to employees entering into agreements with employe
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 203, 211, 213, 214, 215, 216, 216b, 218, 2611, 2617 of this title; title 2 section 1313; title 5 sections 5542, 5543, 5544, 6123, 6128; title 41 sections 35, 355.
+This section is referred to in sections 203, 211, 213, 214, 215, 216, 216b, 218, 2611, 2617 of this title; title 2 section 1313; title 3 section 413; title 5 sections 5542, 5543, 5544, 6123, 6128; title 41 sections 35, 355.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

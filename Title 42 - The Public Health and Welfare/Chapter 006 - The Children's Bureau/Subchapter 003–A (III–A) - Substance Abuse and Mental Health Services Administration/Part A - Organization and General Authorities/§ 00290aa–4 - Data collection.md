@@ -72,6 +72,10 @@ Another prior section 505 of act July 1, 1944, which was classified to section 2
 
 Subsec. (c)(2). Pub. L. 101–93, §3(b)(2), substituted “this subsection” for “this section”.
 
+#### Public Health Monitoring of Methamphetamine Abuse
+
+Pub. L. 104–237, title V, §502, Oct. 3, 1996, 110 Stat. 3112, provided that: “The Secretary of Health and Human Services shall develop a public health monitoring program to monitor methamphetamine abuse in the United States. The program shall include the collection and dissemination of data related to methamphetamine abuse which can be used by public health officials in policy development.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300x–9, 300x–35, 300x–53 of this title.

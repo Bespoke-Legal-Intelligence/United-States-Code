@@ -14,7 +14,7 @@ Minor changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 214 of this title was redesignated section 210.
+A prior section 214 of this title was renumbered section 210.
 
 #### Amendments
 

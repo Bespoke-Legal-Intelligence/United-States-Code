@@ -1,0 +1,4 @@
+### §12671. Repealed. Pub. L. 104–210, §1(a)(1), Oct. 1, 1996, 110 Stat. 3011
+
+Section, Pub. L. 101–610, title IV, §401, Nov. 16, 1990, 104 Stat. 3183, stated sense of Congress concerning State enactment of model Good Samaritan Food Donation Act.
+

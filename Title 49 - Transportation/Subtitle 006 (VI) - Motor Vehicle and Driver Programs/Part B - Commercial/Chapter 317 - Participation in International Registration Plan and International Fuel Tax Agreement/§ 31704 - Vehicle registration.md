@@ -6,7 +6,9 @@ After September 30, 1996, a State that is not participating in the International
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

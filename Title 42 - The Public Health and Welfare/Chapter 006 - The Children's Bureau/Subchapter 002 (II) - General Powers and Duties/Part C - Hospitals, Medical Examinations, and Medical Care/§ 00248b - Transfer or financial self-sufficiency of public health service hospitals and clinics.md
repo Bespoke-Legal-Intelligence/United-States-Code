@@ -6,7 +6,7 @@ The Secretary of Health and Human Services (hereinafter in this subtitle referre
 
 #### (b) Proposals for transfer or financial self-sufficiency
 
-Not later than July 1, 1981, the Secretary shall notify each Service hospital and other station, and the chief executive officer of each State and of each locality in which such a hospital or other station is located, that the Secretary will accept proposals for the transfer of each such hospital and station from the Service to a public (including Federal) or nonprofit private entityor for the achievement of financial self-sufficiency of each such hospital and station not later than September 30, 1982. No such proposal shall be considered by the Secretary if it is submitted later than September 1, 1981.
+Not later than July 1, 1981, the Secretary shall notify each Service hospital and other station, and the chief executive officer of each State and of each locality in which such a hospital or other station is located, that the Secretary will accept proposals for the transfer of each such hospital and station from the Service to a public (including Federal) or nonprofit private entity or for the achievement of financial self-sufficiency of each such hospital and station not later than September 30, 1982. No such proposal shall be considered by the Secretary if it is submitted later than September 1, 1981.
 
 #### (c) Evaluation of proposals
 
@@ -68,7 +68,7 @@ Section 985 of Pub. L. 97–35 provided that:
 
 “(b) The purposes of this subtitle \[enacting this section, amending sections 201, 249, and 254e of this title, and enacting provisions set out as notes under section 249 of this title\] are—
 
-&emsp;“(1) to provide for the prompt and orderly closure by October 31, 1981, of Public Health Service hospitals and clinics which cannot reasonably be transferred to State, local, or private operation or become financially self-sufficient and for the transfer or achievement of financial self-sufficiency by September 30, 1982, of those hospitals and clinics which can be so transferred or which can achieve such financial self-sufficiency, and
+&emsp;“(1) to provide for the prompt and orderly closure by October 31, 1981, of Public Health Service hospitalsand clinics which cannot reasonably be transferred to State, local, or private operation or become financially self-sufficient and for the transfer or achievement of financial self-sufficiency by September 30, 1982, of those hospitals and clinics which can be so transferred or which can achieve such financial self-sufficiency, and
 
 &emsp;“(2) to provide for transitional assistance for merchant seamen whose entitlement to receive free care through Public Health Service hospitals and clinics is repealed and who are hospitalized at the end of fiscal year 1981 and require continuing hospitalization.”
 

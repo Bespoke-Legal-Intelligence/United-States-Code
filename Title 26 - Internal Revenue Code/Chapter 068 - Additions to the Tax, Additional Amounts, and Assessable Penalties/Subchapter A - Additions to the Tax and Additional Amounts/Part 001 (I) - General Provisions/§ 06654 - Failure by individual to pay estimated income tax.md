@@ -46,9 +46,8 @@ For purposes of this section—
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>  In the case of the following    required installments:</b> | <b>The due date is:</b> |
 | :--- | ---: |
-| <b>In the case of the following required installments:</b> | <b>The due date is:</b> |
 | &nbsp;&nbsp;1st | April 15 |
 | &nbsp;&nbsp;2nd | June 15 |
 | &nbsp;&nbsp;3rd | September 15 |
@@ -126,15 +125,15 @@ For purposes of this section—
 
 &emsp;&emsp;1st
 
-22\.5&nbsp;
+22\.5&nbsp;&nbsp;
 
 &emsp;&emsp;2nd
 
-45&nbsp;
+45&nbsp;&nbsp;
 
 &emsp;&emsp;3rd
 
-67\.5&nbsp;
+67\.5&nbsp;&nbsp;
 
 &emsp;&emsp;4th
 
@@ -150,7 +149,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any amounts required to be included in gross income under section 936(h) or 951(a)\(and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+&emsp;&emsp;&emsp;Any amounts required to be included in gross income under section 936(h) or 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
 
 #### (ii) Prior year safe harbor
 
@@ -250,7 +249,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the individual's gross income from farming or fishing (including oyster farming) for the taxable year is at least 662/3 percent of the total gross income from all sources for the taxable year, or
 
-&emsp;&emsp;(B) such individual's gross income from farming or fishing (including oyster farming) shown on the return of the individual for the preceding taxable year is at least 662/3 percent of the total gross income from all sources shown on such return.
+&emsp;&emsp;(B) such individual's gross income from farming or fishing (including oyster farming) shown on the return of the individual for the preceding taxable year is at least 662/3percent of the total gross income from all sources shown on such return.
 
 #### (j) Special rules for nonresident aliens
 
@@ -266,9 +265,8 @@ In the case of a nonresident alien described in section 6072(c):
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
+| <b>  In the case of the following    required installments:</b> | <b>The due date is:</b> |
 | :--- | ---: |
-| <b>In the case of the following required installments:</b> | <b>The due date is:</b> |
 | &nbsp;&nbsp;1st | June 15 |
 | &nbsp;&nbsp;2nd | September 15 |
 | &nbsp;&nbsp;3rd | January 15 of the following taxable year. |
@@ -293,11 +291,11 @@ In the case of a nonresident alien described in section 6072(c):
 
 &emsp;&emsp;1st
 
-45&nbsp;
+45&nbsp;&nbsp;
 
 &emsp;&emsp;2nd
 
-67\.5&nbsp;
+67\.5&nbsp;&nbsp;
 
 &emsp;&emsp;3rd
 
@@ -397,7 +395,7 @@ Subsec. (j). Pub. L. 99–514, §1841, added subsec. (j). Former subsec. (j) red
 
 Subsec. (j)(3)(B). Pub. L. 99–514, §1541(b)(3), which directed the amendment of the table in subpar. (B) by substituting “45” for “40”, “65.5” for “60”, and “90” for “80”, could not be executed because the higher figures appear in the text as enacted by section 1841 of Pub. L. 99–514.
 
-Subsec. (k). Pub. L. 99–514, §1841, redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 99–514, §1841, redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 99–514, §1404(a), as amended by Pub. L. 100–647, §1014(d)(1), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “This section shall not apply to any estate or trust.”
 
@@ -423,7 +421,7 @@ Subsec. (h). Pub. L. 98–369 amended subsec. (h) generally, substituting provis
 
 Subsec. (i). Pub. L. 98–369 amended subsec. (i) generally, substituting provisions relating to special rules for farmers and fishermen for provisions relating to short taxable year. See subsec. (j)(2) of this section.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 98–369, in amending section generally, added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 98–369, in amending section generally, added subsecs. (j) to (<i>l</i>).
 
 1983—Subsec. (e)(1). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
@@ -433,7 +431,7 @@ Subsec. (g)(3)(B). Pub. L. 97–448, §201(j)(3), amended subpar. (B) generally.
 
 Pub. L. 97–448, §106(a)(4)(C), inserted “or 6430” after “section 6429”.
 
-1982—Subsec. (e)(1). Pub. L. 97–248, §§307(a)(14), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (1) is amended by inserting “, interest, dividends, and patronage dividends” after “tax withheld at source on wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\]shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsec. (e)(1). Pub. L. 97–248, §§307(a)(14), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, par. (1) is amended by inserting “, interest, dividends, and patronage dividends” after “tax withheld at source on wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 Subsec. (g). Pub. L. 97–248, §328(a)(2), substituted “(f), and (h)” for “and (f)”.
 
@@ -513,9 +511,9 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 100–203, title X, §10303(a), Dec. 22, 1987, 101 Stat. 1330–430, provided that: “Notwithstanding section 1541(c) of the Tax Reform Act of 1986 \[section 1541(c) ofPub. L. 99–514, set out below\], the amendments made by section 1541 of such Act \[amending this section\] shall apply only to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10303(a), Dec. 22, 1987, 101 Stat. 1330–430, provided that: “Notwithstanding section 1541(c) of the Tax Reform Act of 1986 \[section 1541(c) of Pub. L. 99–514, set out below\], the amendments made by section 1541 of such Act \[amending this section\] shall apply only to taxable years beginning after December 31, 1987.”
 
-Amendment by section 1404(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, set out as a note under section 643 of this title.
+Amendment by section 1404(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 1404(d) of Pub. L. 99–514, set out as a note under section 643 of this title.
 
 Amendment by section 1511(c)(14) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
@@ -603,9 +601,13 @@ Section 103(b) of Pub. L. 89–368 provided that: “The amendments made by subs
 
 Section 2 of Pub. L. 87–682 provided that: “The amendments made by the first section of this Act \[amending this section and sections 6015, 6073, and 6153 of this title\] shall apply only with respect to taxable years beginning after December 31, 1962.”
 
+#### Underpayments of Estimated Tax for 1996
+
+Pub. L. 104–188, title I, §1102, Aug. 20, 1996, 110 Stat. 1758, provided that: “No addition to the tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 (relating to failure to pay estimated tax) with respect to any underpayment of an installment required to be paid before the date of the enactment of this Act \[Aug. 20, 1996\] to the extent such underpayment was created or increased by any provision ofthis title \[title I (§§1101–1954) of Pub. L. 104–188, see Tables for classification\].”
+
 #### Waiver of Estimated Penalties for 1993 Underpayments Attributable to Revenue Reconciliation Act of 1993
 
-Section 13001(d) of Pub. L. 103–66 provided that: “No addition to tax shall be made under section 6654 or 6655of the Internal Revenue Code of 1986 for any period before April 16, 1994 (March 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of this chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\].”
+Section 13001(d) of Pub. L. 103–66 provided that: “No addition to tax shall be made under section 6654 or 6655 of the Internal Revenue Code of 1986 for any period before April 16, 1994 (March 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of this chapter \[chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification\].”
 
 #### Waiver of Estimated Tax Penalties for Underpayments Attributable to Section 420(b)(4)(B) of This Title
 
@@ -653,5 +655,5 @@ Willful failure to pay estimated income tax, crime respecting, see section 7203 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460, 3510, 6201, 6601, 6621, 6622, 6651, 6658, 6665, 7203 of this title; title 42 section 430.
+This section is referred to in sections 167, 460, 3510, 6201, 6601, 6621, 6622, 6651, 6658, 6665, 7203 of this title; title 42 section 430.
 

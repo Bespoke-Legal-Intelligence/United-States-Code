@@ -6,7 +6,7 @@ The President may enroll in the Peace Corps for service abroad qualified citizen
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
-Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances as the President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
+Volunteers shall be provided with such living, travel, and leave allowances, and such housing, transportation, supplies, equipment, subsistence, and clothing as the President may determine to be necessary for their maintenance and to insure their health and their capacity to serve effectively. Supplies or equipment provided volunteers to insure their capacity to serve effectively may be transferred to the government or to other entities of the country or area with which they have been serving, when no longer necessary for such purpose, and when such transfers would further the purposes of this chapter. Transportation and travel allowances may also be provided, in such circumstances asthe President may determine, for applicants for enrollment to or from places of training and places of enrollment, and for former volunteers from places of termination to their homes in the United States.
 
 #### (c) Readjustment allowances
 
@@ -16,7 +16,7 @@ Volunteers shall be entitled to receive a readjustment allowance at a rate not l
 
 #### (e) Health care
 
-Volunteers shall receive such health care during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment whohave accepted an invitation to begin a period of training under section 2507(a) of this title shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter.
+Volunteers shall receive such health care during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive such immunization and dental care preparatory to their service, and former volunteers shall receive such health examinations within six months after termination of their service, as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter.
 
 #### (f) Retirement and other credits based upon length of service
 
@@ -46,7 +46,7 @@ Upon enrollment in the Peace Corps, every volunteer shall take the oath prescrib
 
 #### (k) Counseling programs for returned volunteers
 
-In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
+In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the Presidentmay, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
 
 #### (<i>l</i>) Legal expenses of defendant in judicial or administrative proceedings
 
@@ -124,7 +124,7 @@ Subsec. (f). Repealed, as applicable to the Civil Service Retirement Act, as ame
 
 Subsec. (h). Repealed, as applicable to act June 4, 1954, chapter 264, section 5 (5 U.S.C. 73b-5), by Pub. L. 89–554, and now covered by section 5732 of Title 5.
 
-Subsec. (<i>l</i>). Pub. L. 89–572 added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 89–572 added subsec. (<i>l</i>).
 
 1965—Subsec. (c). Pub. L. 89–134, §2(a), provided that, for purposes of the Internal Revenue Code of 1954, a volunteer is deemed to be paid and to receive readjustment allowance to which he is entitled after December 31, 1964, when the amount is transferred from funds made available under this chapter to the fund from which the readjustment allowance is paid.
 
@@ -136,7 +136,7 @@ Subsec. (h). Pub. L. 89–134, §2(d), extended check cashing and currency excha
 
 1963—Subsec. (b). Pub. L. 88–200, §2(a), inserted provision for transfer of supplies and equipment.
 
-Subsec. (c). Pub. L. 88–200, §2(b), substituted “a readjustment allowance” for “termination payments” infirst sentence, the second sentence reading “The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States” for “The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine” and “readjustment allowance” for “termination payment” in third sentence.
+Subsec. (c). Pub. L. 88–200, §2(b), substituted “a readjustment allowance” for “termination payments” in first sentence, the second sentence reading “The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States” for “The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine” and “readjustment allowance” for “termination payment” in third sentence.
 
 Subsec. (f)(2). Pub. L. 88–200, §2(c), substituted “readjustment allowances” for “termination payments.”
 
@@ -196,7 +196,7 @@ Definitions.—For purposes of this section—
 
 #### Legal Expenses Incurred Prior to Sept. 13, 1966
 
-Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
+Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in subsection (a) \[adding subsec. (<i>l</i>)to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 
@@ -208,7 +208,7 @@ Section 1. Under such regulations as the Office of Personnel Management may pres
 
 Sec. 2. The head of any agency in the Executive Branch having an established merit system in the excepted service may appoint in such service any person who is certified by the Director of the Peace Corps as having served satisfactorily as a Volunteer or Volunteer Leader under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\] and who passes such examination as such agency head may prescribe.
 
-Sec. 3. Certificates of satisfactory service for the purposes of this order shall be issued only to persons who have completed a full term of service (approximately two years) under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\]: <i>Provided</i>, That such certificates may be issued to persons who have completed a lesser period of satisfactory serviceif, in the judgment of the Director of the Peace Corps, (1) their service was of sufficient duration to demonstrate their capability to complete satisfactorily a full term, and (2) their failure to complete a full term was due to circumstances beyond their control.
+Sec. 3. Certificates of satisfactory service for the purposes of this order shall be issued only to persons who have completed a full term of service (approximately two years) under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\]: <i>Provided</i>, That such certificates may be issued to persons who have completed a lesser period of satisfactory service if, in the judgment of the Director of the Peace Corps, (1) their service was of sufficient duration to demonstrate their capability to complete satisfactorily a full term, and (2) their failure to complete a full term was due to circumstances beyond their control.
 
 Sec. 4. Any appointment under this order shall be effected within a period of one year after completion of the appointee's service under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\]: <i>Provided</i>, That such period may be extended to not more than three years in the case of persons who, following such service, are engaged in military service, in the pursuit of studies at a recognized institution of higher learning, or in other activities which, in the view of the appointing authority, warrant an extension of such period.
 
@@ -216,7 +216,7 @@ Sec. 5. Any law, Executive Order, or regulation which would disqualify an applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2505, 2509 of this title; title 5 sections 8142, 8332, 8334, 8422; title 26 sections 912, 3401; title 42 section 409.
+This section is referred to in sections 2505, 2509 of this title; title 5 sections 8142, 8332, 8334, 8422; title 26 sections 912, 3401, 9801; title 29 section 1181; title 42 sections 300gg, 409.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

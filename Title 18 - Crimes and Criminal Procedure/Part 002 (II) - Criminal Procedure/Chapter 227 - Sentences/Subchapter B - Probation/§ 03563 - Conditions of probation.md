@@ -8,13 +8,21 @@ Mandatory Conditions.—The court shall provide, as an explicit condition of a s
 
 &emsp;(2) for a felony, that the defendant also abide by at least one condition set forth in subsection (b)(2), (b)(3), or (b)(13), unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b);
 
-&emsp;(3) for a felony, a misdemeanor, or an infraction, that the defendant not unlawfully possess a controlled substance; and <sup>1</sup>
+&emsp;(3) for a felony, a misdemeanor, or an infraction, that the defendant not unlawfully possess a controlled substance;
 
-&emsp;(4) for a felony, a misdemeanor, or an infraction, that the defendant refrain from any unlawful use of a controlled substance and submit to one drug test within 15 days of release on probation and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance, but the condition stated in this paragraph may be ameliorated or suspended by the court for any individual defendant if the defendant's presentence report or other reliable sentencing information indicates a low risk of future substance abuse by the defendant.<sup>2</sup>
+&emsp;(4) for a domestic violence crime as defined in section 3561(b) by a defendant convicted of such an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant;
 
-&emsp;(4) <sup>3</sup> for a domestic violence crime as defined in section 3561(b) by a defendant convicted of such an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.
+&emsp;(5) for a felony, a misdemeanor, or an infraction, that the defendant refrain from any unlawful use of a controlled substance and submit to one drug test within 15 days of release on probation and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance, but the condition stated in this paragraph may be ameliorated or suspended by the court for any individual defendant if the defendant's presentence report or other reliable sentencing information indicates a low risk of future substance abuse by the defendant;
 
-> If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation. The results of a drug test administered in accordance with paragraph (4) <sup>4</sup> shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).<sup>4</sup>
+&emsp;(6) that the defendant—
+
+&emsp;&emsp;(A) make restitution in accordance with sections 2248, 2259, 2264, 2327, 3663, 3663A, and 3664; and
+
+&emsp;&emsp;(B) pay the assessment imposed in accordance with section 3013; and
+
+&emsp;(7) that the defendant will notify the court of any material change in the defendant's economic circumstances that might affect the defendant's ability to pay restitution, fines, or special assessments.
+
+> If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation. The results of a drug test administered in accordance with paragraph\(4) <sup>1</sup> shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).<sup>1</sup>
 
 (b)
 
@@ -22,45 +30,45 @@ Discretionary Conditions.—The court may provide, as further conditions of a se
 
 &emsp;(1) support his dependents and meet other family responsibilities;
 
-&emsp;(2) pay a fine imposed pursuant to the provisions of subchapter C;
+&emsp;(2) make restitution to a victim of the offense under section 3556 (but not subject to the limitation of section 3663(a) or 3663A(c)(1)(A));
 
-&emsp;(3) make restitution to a victim of the offense under sections 3663 and 3664 (but not subject to the limitations of section 3663(a));
+&emsp;(3) give to the victims of the offense the notice ordered pursuant to the provisions of section 3555;
 
-&emsp;(4) give to the victims of the offense the notice ordered pursuant to the provisions of section 3555;
+&emsp;(4) work conscientiously at suitable employment or pursue conscientiously a course of study or vocational training that will equip him for suitable employment;
 
-&emsp;(5) work conscientiously at suitable employment or pursue conscientiously a course of study or vocational training that will equip him for suitable employment;
+&emsp;(5) refrain, in the case of an individual, from engaging in a specified occupation, business, or profession bearing a reasonably direct relationship to the conduct constituting the offense, or engage in such a specified occupation, business, or profession only to a stated degree or under stated circumstances;
 
-&emsp;(6) refrain, in the case of an individual, from engaging in a specified occupation, business, or profession bearing a reasonably direct relationship to the conduct constituting the offense, or engage in such a specified occupation, business, or profession only to a stated degree or under stated circumstances;
+&emsp;(6) refrain from frequenting specified kinds of places or from associating unnecessarily with specified persons;
 
-&emsp;(7) refrain from frequenting specified kinds of places or from associating unnecessarily with specified persons;
+&emsp;(7) refrain from excessive use of alcohol, or any use of a narcotic drug or other controlled substance, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), without a prescription by a licensed medical practitioner;
 
-&emsp;(8) refrain from excessive use of alcohol, or any use of a narcotic drug or other controlled substance, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), without a prescription by a licensed medical practitioner;
+&emsp;(8) refrain from possessing a firearm, destructive device, or other dangerous weapon;
 
-&emsp;(9) refrain from possessing a firearm, destructive device, or other dangerous weapon;
+&emsp;(9) undergo available medical, psychiatric, or psychological treatment, including treatment for drug or alcohol dependency, as specified by the court, and remain in a specified institution if required for that purpose;
 
-&emsp;(10) undergo available medical, psychiatric, or psychological treatment, including treatment for drug or alcohol dependency, as specified by the court, and remain in a specified institution if required for that purpose;
+&emsp;(10) remain in the custody of the Bureau of Prisons during nights, weekends, or other intervals of time, totaling no more than the lesser of one year or the term of imprisonment authorized for the offense, during the first year of the term of probation;
 
-&emsp;(11) remain in the custody of the Bureau of Prisons during nights, weekends, or other intervals of time, totaling no more than the lesser of one year or the term of imprisonment authorized for the offense, during the first year of the term of probation;
+&emsp;(11) reside at, or participate in the program of, a community corrections facility (including a facility maintained or under contract to the Bureau of Prisons) for all or part of the term of probation;
 
-&emsp;(12) reside at, or participate in the program of, a community corrections facility (including a facility maintained or under contract to the Bureau of Prisons) for all or part of the term of probation;
+&emsp;(12) work in community service as directed by the court;
 
-&emsp;(13) work in community service as directed by the court;
+&emsp;(13) reside in a specified place or area, or refrain from residing in a specified place or area;
 
-&emsp;(14) reside in a specified place or area, or refrain from residing in a specified place or area;
+&emsp;(14) remain within the jurisdiction of the court, unless granted permission to leave by the court or a probation officer;
 
-&emsp;(15) remain within the jurisdiction of the court, unless granted permission to leave by the court or a probation officer;
+&emsp;(15) report to a probation officer as directed by the court or the probation officer;
 
-&emsp;(16) report to a probation officer as directed by the court or the probation officer;
+&emsp;(16) permit a probation officer to visit him at his home or elsewhere as specified by the court;
 
-&emsp;(17) permit a probation officer to visit him at his home or elsewhere as specified by the court;
+&emsp;(17) answer inquiries by a probation officer and notify the probation officer promptly of any change in address or employment;
 
-&emsp;(18) answer inquiries by a probation officer and notify the probation officer promptly of any change in address or employment;
+&emsp;(18) notify the probation officer promptly if arrested or questioned by a law enforcement officer;
 
-&emsp;(19) notify the probation officer promptly if arrested or questioned by a law enforcement officer;
+&emsp;(19) remain at his place of residence during nonworking hours and, if the court finds it appropriate, that compliance with this condition be monitored by telephonic or electronic signaling devices, except that a condition under this paragraph may be imposed only as an alternative to incarceration;
 
-&emsp;(20) remain at his place of residence during nonworking hours and, if the court finds it appropriate, that compliance with this condition be monitored by telephonic or electronic signaling devices, except that a condition under this paragraph may be imposed only as an alternative to incarceration;
+&emsp;(20) comply with the terms of any court order or order of an administrative process pursuant to the law of a State, the District of Columbia, or any other possession or territory of the United States, requiring payments by the defendant for the support and maintenance of a child or of a child and the parent with whom the child is living;
 
-&emsp;(21) comply with the terms of any court order or order of an administrative process pursuant to the law of a State, the District of Columbia, or any other possession or territory of the United States, requiring payments by the defendant for the support and maintenance of a child or of a child and the parent with whom the child is living; or
+&emsp;(21) be ordered deported by a United States district court, or United States magistrate judge, pursuant to a stipulation entered into by the defendant and the United States under section 238(d)(5) of the Immigration and Nationality Act, except that, in the absence of a stipulation, the United States district court or a United States magistrate judge, may order deportation as a condition of probation, if, after notice and hearing pursuant to such section, the Attorney General demonstrates by clear and convincing evidence that the alien is deportable; or
 
 &emsp;(22) satisfy such other conditions as the court may impose.
 
@@ -70,13 +78,13 @@ Modifications of Conditions.—The court may modify, reduce, or enlarge the cond
 
 (d)
 
-Written Statement of Conditions.—The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clear and specific to serve as a guide for the defendant's conduct and for such supervision as is required.
+Written Statement of Conditions.—The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clearand specific to serve as a guide for the defendant's conduct and for such supervision as is required.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1993; amended Pub. L. 99–646, §§11(a), 12(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§10, 18, Dec. 7, 1987, 101 Stat. 1267, 1270; Pub. L. 100–690, title VII, §§7086, 7110, 7303(a)(1), 7305(a), Nov. 18, 1988, 102 Stat. 4408, 4419, 4464, 4465; Pub. L. 101–647, title XXXV, §3584, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 102–521, §3, Oct. 25, 1992, 106 Stat. 3404; Pub. L. 103–322, title II, §20414(b), title XXVIII, §280002, title XXXII, §320921(b), Sept. 13, 1994, 108 Stat. 1830, 2096, 2130; Pub. L. 104–132, title II, §203, Apr. 24, 1996, 110 Stat. 1227; Pub. L. 104–208, div. C, title III, §§308(g)(10)(E), 374(b), Sept. 30, 1996, 110 Stat. 3009–625, 3009–647; Pub. L. 104–294, title VI, §601(k), Oct. 11, 1996, 110 Stat. 3501.)
 
 #### References in Text
 
-Paragraph (4), referred to in concluding provisions of subsec. (a), probably means the paragraph (4) of subsec. (a) which was added by section 20414(b)(3) of Pub. L. 103–322.
+Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to section 1228(d)(5) of Title 8, Aliens and Nationality.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to this title.
 
@@ -85,6 +93,28 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3551 of this title.
 
 #### Amendments
+
+1996—Subsec. (a)(3) to (5). Pub. L. 104–294 transferred pars. (4) and (5) to appear in numerical order and directed amendment of subsec. (a) by striking “and” at end of par. (3), substituting “; and” for period at end of first par. (4), and redesignating second par. (4) as (5), which could not be executed due to prior amendment by Pub. L. 104–132, §203(1)(A)–(D). See below.
+
+Pub. L. 104–132, §203(1)(A)–(D), struck out “and” at end of par. (3), redesignated second par. (4), relating to conditions of probation concerning drug use and testing, as (5), and substituted semicolon for period at end of pars. (4) and (5).
+
+Subsec. (a)(6), (7). Pub. L. 104–132, §203(1)(E), added pars. (6) and (7).
+
+Subsec. (b)(2). Pub. L. 104–132, §203(2)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “make restitution to a victim of the offense under sections 3663 and 3664 (but not subject to the limitations of section 3663(a));”.
+
+Pub. L. 104–132, §203(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “pay a fine imposed pursuant to the provisions of subchapter C;”.
+
+Subsec. (b)(3) to (20). Pub. L. 104–132, §203(2)(B), redesignated pars. (4) to (21) as (3) to (20), respectively. Former par. (3) redesignated (2).
+
+Subsec. (b)(21). Pub. L. 104–208, §374(b), added par. (21). Former par. (21) redesignated (22).
+
+Pub. L. 104–208, §308(g)(10)(E), substituted “238(d)(5)” for “242A(d)(5)”.
+
+Pub. L. 104–132, §203(2)(B), redesignated par. (22) as (21). Former par. (21) redesignated (20).
+
+Subsec. (b)(22). Pub. L. 104–208, §374(b), redesignated par. (21) as (22).
+
+Pub. L. 104–132, §203(b)(2), redesignated par. (22) as (21).
 
 1994—Subsec. (a). Pub. L. 103–322, §20414(b)(4), inserted at end of concluding provisions “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).”
 
@@ -96,7 +126,7 @@ Pub. L. 103–322, §§20414(b)(2), 320921(b)(2), amended par. (3) identically, 
 
 Subsec. (a)(4). Pub. L. 103–322, §320921(b)(3), added par. (4) relating to attendance at a rehabilitation program in the case of conviction of a domestic violence crime.
 
-Pub. L. 103–322, §20414(b)(3), which directed adding at end of subsec. (a) a par. (4) relating to submission to periodic drug testing in the case of conviction of a felony, misdemeanor, or infraction, was executed by inserting this par. after par. (3) to reflect the probable intent of Congress.
+Pub. L. 103–322, §20414(b)(3), added at end of subsec. (a) par. (4) relating to conditions of probation concerning drug use and testing.
 
 1992—Subsec. (b)(21), (22). Pub. L. 102–521 added par. (21) and redesignated former par. (21) as (22).
 
@@ -104,7 +134,7 @@ Pub. L. 103–322, §20414(b)(3), which directed adding at end of subsec. (a) a 
 
 Subsec. (b)(3). Pub. L. 101–647, §3584(2), substituted “under sections 3663 and 3664” for “pursuant to the provisions of section 3663 and 3664” and “section 3663(a)” for “3663(a)”.
 
-1988—Subsec. (a)(2). Pub. L. 100–690, §7086, inserted “, unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event thecourt shall impose one or more of the other conditions set forth under subsection (b)”.
+1988—Subsec. (a)(2). Pub. L. 100–690, §7086, inserted “, unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b)”.
 
 Subsec. (a)(3). Pub. L. 100–690, §7303(a)(1), added par. (3).
 
@@ -120,9 +150,13 @@ Subsec. (c). Pub. L. 100–182, §10, struck out comma after “The court may”
 
 Subsec. (c). Pub. L. 99–646, §12(a), struck out “, after a hearing” after “court may” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to revocation or modification of probation” after “pursuant to”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
+
 #### Effective Date of 1988 Amendment
 
-Section 7303(d) of Pub. L. 100–690 provided that: “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation, supervised release, or parole begins after December 31, 1988.”
+Section 7303(d) of Pub. L. 100–690 provided that: “The amendments made by this section \[amending this section and sections 3565, 3583, 4209, and 4214 of this title\] shall apply with respect to persons whose probation,supervised release, or parole begins after December 31, 1988.”
 
 #### Effective Date of 1987 Amendment
 
@@ -142,11 +176,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 This section is referred to in sections 3565, 3583, 3608, 3742, 5037 of this title; title 28 section 994.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(5)”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(5)”.</i>
 

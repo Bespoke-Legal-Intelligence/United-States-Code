@@ -28,7 +28,9 @@ Regulations.—In consultation with the Secretary, the Attorney General shall pr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,7 +54,7 @@ In subsection (b)(1)(B), the words “or derivative thereof” are omitted as un
 
 In subsection (b)(2)(A)(i), the words “has not been informed under the procedures prescribed” are substituted for “has not received a determination under” for clarity and consistency in the revised chapter. In clause (ii), the words “has not otherwise established whether” are substituted for “to otherwise determine whether” for clarity.
 
-In subsection (b)(2)(B), the words “When a carrier transfers a motor vehicle for which the carrier has notestablished whether the vehicle has been reported as stolen, the carrier shall provide written certification to the transferee that the carrier has not established whether the vehicle has been reported as stolen” are substituted for “except that such carrier shall provide a written certification of such lack of determination” for clarity and because of the restatement.
+In subsection (b)(2)(B), the words “When a carrier transfers a motor vehicle for which the carrier has not established whether the vehicle has been reported as stolen, the carrier shall provide written certification to the transferee that the carrier has not established whether the vehicle has been reported as stolen” are substituted for “except that such carrier shall provide a written certification of such lack of determination” for clarity and because of the restatement.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a) Whoever being engaged in the business of betting or wagering knowingly uses a wire communication facility for the transmission in interstate or foreign commerce of bets or wagers or information assisting in the placing of bets or wagers on any sporting event or contest, or for the transmission of a wire communication which entitles the recipient to receive money or credit as a result of bets or wagers, or for information assisting in the placing of bets or wagers, shall be fined under this title or imprisoned not more than two years, or both.
 
-(b) Nothing in this section shall be construed to prevent the transmission in interstate or foreign commerce of information for use in news reporting of sporting events or contests, or for the transmission of information assisting in the placing of bets or wagers on a sporting event or contest from a State or foreign country where betting on that sporting event or contest is legalinto a State or foreign country in which such betting is legal.
+(b) Nothing in this section shall be construed to prevent the transmission in interstate or foreign commerce of information for use in news reporting of sporting events or contests, or for the transmission of information assisting in the placing of bets or wagers on a sporting event or contest from a State or foreign country where betting on that sporting event or contest is legal into a State or foreign country in which such betting is legal.
 
 (c) Nothing contained in this section shall create immunity from criminal prosecution under any laws of any State.
 
@@ -30,5 +30,5 @@ Wire or oral communications, authorization for interception, to provide evidence
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1961, 2516 of this title.
+This section is referred to in sections 1961, 2516 of this title; title 8 section 1101.
 

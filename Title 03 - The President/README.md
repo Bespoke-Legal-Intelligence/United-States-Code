@@ -1,5 +1,5 @@
 
-3 U.S.C.<br>United States Code, 1995 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
+3 U.S.C.<br>United States Code, 1996 Edition<br>Title 3 - THE PRESIDENT<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 3—THE PRESIDENT
 
@@ -8,7 +8,7 @@
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/README.md) | <b>Presidential Elections and Vacancies</b> | <b>1</b> |
-| [<b>2.</b>](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md) | <b>Office and Compensation of President</b> | <b>101</b> |
+| <b>2.</b> | <b>Office and Compensation of President</b> | <b>101</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/README.md) | <b>Protection of the President; the White House Police </b><b><sup>1</sup></b> | <b>201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,12 +16,15 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>4.</b>](Chapter%20004%20-%20Delegation%20of%20Functions/README.md) | <b>Delegation of Functions</b> | <b>301</b> |
+| [<b>5.</b>](Chapter%20005%20-%20Extension%20of%20Certain%20Rights%20and%20Protections%20to%20Presidential%20Offices/README.md) | <b>Extension of Certain Rights and Protections to Presidential Offices</b> | <b>401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, ch. 655, §4, 65 Stat. 711, added heading of chapter 4.
+1996—Pub. L. 104–331, §2(c), Oct. 26, 1996, 110 Stat. 4068, added item for chapter 5.
+
+1951—Act Oct. 31, 1951, ch. 655, §4, 65 Stat. 711, added item for chapter 4.
 
 #### Positive Law; Citation
 
@@ -43,7 +46,9 @@ Table Showing Disposition of All Sections of Former Title 3
 
 <i>Title 3 Former Sections</i>
 
-<i>    Revised Statutes         Statutes at Large    </i>
+<i>Revised Statutes</i>
+
+<i>Statutes at Large</i>
 
 <i>Title 3 New Sections</i>
 
@@ -133,7 +138,7 @@ R.S. §140
 
 11
 
-Oct. 19, 1888, ch. 1216, §1, 25 Stat. 613
+Oct. 19, 1888, ch. 1216, §1, 25 Stat. 613.
 
 11a
 
@@ -147,7 +152,7 @@ May 29, 1928, ch. 859, §5, 45 Stat. 946
 
 12
 
-June 5, 1934, ch. 390, §6(b), 48 Stat. 879
+June 5, 1934, ch. 390, §6(b), 48 Stat. 879.
 
 11c
 
@@ -155,7 +160,7 @@ May 29, 1928, ch. 859, §6, 45 Stat. 946
 
 13
 
-June 5, 1934, ch. 390, §6(c), 48 Stat. 879
+June 5, 1934, ch. 390, §6(c), 48 Stat. 879.
 
 12
 
@@ -169,7 +174,7 @@ R.S. §141
 
 13
 
-Oct. 19, 1888, ch. 1216, §2, 25 Stat. 613
+Oct. 19, 1888, ch. 1216, §2, 25 Stat. 613.
 
 14
 
@@ -195,7 +200,7 @@ Feb. 3, 1887, ch. 90, §4, 24 Stat. 373
 
 15
 
-June 5, 1934, ch. 390, §7, 48 Stat. 879
+June 5, 1934, ch. 390, §7, 48 Stat. 879.
 
 18
 
@@ -239,7 +244,7 @@ July 18, 1947, ch. 264, §1(a-f), 61 Stat. 380, 381
 
 19
 
-July 26, 1947, ch. 343, §311, 61 Stat. 509
+July 26, 1947, ch. 343, §311, 61 Stat. 509.
 
 41
 
@@ -247,7 +252,7 @@ R.S. §152
 
 101
 
-June 5, 1934, ch. 390, §1, 48 Stat. 879
+June 5, 1934, ch. 390, §1, 48 Stat. 879.
 
 42
 
@@ -255,7 +260,7 @@ R.S. §153
 
 102
 
-Mar. 4, 1909, ch. 297, §1, 35 Stat. 859
+Mar. 4, 1909, ch. 297, §1, 35 Stat. 859.
 
 43
 
@@ -271,9 +276,9 @@ R.S. §154
 
 104
 
-Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993
+Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993.
 
-Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301
+Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.
 
 Aug. 2, 1946, ch. 753, §601(a), 60 Stat. 850.
 
@@ -295,53 +300,53 @@ June 12, 1922, ch. 218, 42 Stat. 636
 
 107
 
-Feb. 13, 1923, ch. 72, 42 Stat. 1227
+Feb. 13, 1923, ch. 72, 42 Stat. 1227.
 
-June 7, 1924, ch. 292, §1, 43 Stat. 521
+June 7, 1924, ch. 292, §1, 43 Stat. 521.
 
 Mar. 3, 1925, ch. 468, §1, 43 Stat. 1198, 1199.
 
-Apr. 22, 1926, ch. 171, §1, 44 Stat. 305
+Apr. 22, 1926, ch. 171, §1, 44 Stat. 305.
 
-Feb. 11, 1927, ch. 104, §1, 44 Stat. 1069
+Feb. 11, 1927, ch. 104, §1, 44 Stat. 1069.
 
-May 16, 1928, ch. 580, §1, 45 Stat. 573
+May 16, 1928, ch. 580, §1, 45 Stat. 573.
 
-Feb. 20, 1929, ch. 270, §1, 45 Stat. 1230
+Feb. 20, 1929, ch. 270, §1, 45 Stat. 1230.
 
-Apr. 19, 1930, ch. 201, §1, 46 Stat. 229
+Apr. 19, 1930, ch. 201, §1, 46 Stat. 229.
 
-Feb. 23, 1931, ch. 281, §1, 46 Stat. 1355
+Feb. 23, 1931, ch. 281, §1, 46 Stat. 1355.
 
-June 30, 1932, ch. 330, §1, 47 Stat. 452
+June 30, 1932, ch. 330, §1, 47 Stat. 452.
 
-June 16, 1933, ch. 101, §1, 48 Stat. 284
+June 16, 1933, ch. 101, §1, 48 Stat. 284.
 
-Mar. 28, 1934, ch. 102, §1, 48 Stat. 509
+Mar. 28, 1934, ch. 102, §1, 48 Stat. 509.
 
-Feb. 2, 1935, ch. 3, §1, 49 Stat. 6
+Feb. 2, 1935, ch. 3, §1, 49 Stat. 6.
 
-Mar. 19, 1936, ch. 156, §1, 49 Stat. 1148
+Mar. 19, 1936, ch. 156, §1, 49 Stat. 1148.
 
-June 28, 1937, ch. 396, §1, 50 Stat. 350
+June 28, 1937, ch. 396, §1, 50 Stat. 350.
 
-May 23, 1938, ch. 259, §1, 52 Stat. 411
+May 23, 1938, ch. 259, §1, 52 Stat. 411.
 
-Mar. 16, 1939, ch. 11, §1, 53 Stat 524
+Mar. 16, 1939, ch. 11, §1, 53 Stat 524.
 
-Apr. 8, 1940, ch. 107, §1, 54 Stat. 112
+Apr. 8, 1940, ch. 107, §1, 54 Stat. 112.
 
-Apr. 5, 1941, ch. 40, §1, 55 Stat. 93
+Apr. 5, 1941, ch. 40, §1, 55 Stat. 93.
 
-June 27, 1942, ch. 450, §1, 56 Stat. 392
+June 27, 1942, ch. 450, §1, 56 Stat. 392.
 
 June 26, 1943, ch. 145, §101, 57 Stat. 169.
 
 June 27, 1944, ch. 286, §101, 58 Stat. 361.
 
-May 3, 1945, ch. 106, §101, 59 Stat. 106
+May 3, 1945, ch. 106, §101, 59 Stat. 106.
 
-Mar. 28, 1946, ch. 113, §101, 60 Stat. 61
+Mar. 28, 1946, ch. 113, §101, 60 Stat. 61.
 
 47
 
@@ -399,7 +404,7 @@ Sept. 14, 1922, ch. 308, §1, 42 Stat. 841
 
 202
 
-May 14, 1930, ch. 277, §1, 46 Stat. 328
+May 14, 1930, ch. 277, §1, 46 Stat. 328.
 
 62
 
@@ -407,13 +412,13 @@ Sept. 14, 1922, ch. 308, §2, 42 Stat. 841
 
 203
 
-May 14, 1930, ch. 277, §2, 46 Stat. 328
+May 14, 1930, ch. 277, §2, 46 Stat. 328.
 
-May 28, 1935, ch. 154, 49 Stat. 304
+May 28, 1935, ch. 154, 49 Stat. 304.
 
-Apr. 22, 1940, ch. 133, 54 Stat. 156
+Apr. 22, 1940, ch. 133, 54 Stat. 156.
 
-June 9, 1947, ch. 102, 61 Stat. 132
+June 9, 1947, ch. 102, 61 Stat. 132.
 
 62a
 
@@ -433,7 +438,7 @@ Sept. 14, 1922, ch. 308, §3, 42 Stat. 842
 
 204
 
-May 14, 1930, ch. 277, §3, 46 Stat. 328
+May 14, 1930, ch. 277, §3, 46 Stat. 328.
 
 64
 
@@ -459,7 +464,7 @@ Sept. 14, 1922, ch. 308, §7, 42 Stat. 843
 
 208
 
-May 14, 1930, ch. 277, §4, 46 Stat. 329
+May 14, 1930, ch. 277, §4, 46 Stat. 329.
 
 
 ---
@@ -467,6 +472,6 @@ May 14, 1930, ch. 277, §4, 46 Stat. 329
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Chapter 001 - Presidential Elections and Vacancies](Chapter%20001%20-%20Presidential%20Elections%20and%20Vacancies/README.md)
-- [Chapter 002 - Office and Compensation of President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md)
 - [Chapter 003 - Protection of the President; United States Secret Service Uniformed Division](Chapter%20003%20-%20Protection%20of%20the%20President%3B%20United%20States%20Secret%20Service%20Uniformed%20Division/README.md)
 - [Chapter 004 - Delegation of Functions](Chapter%20004%20-%20Delegation%20of%20Functions/README.md)
+- [Chapter 005 - Extension of Certain Rights and Protections to Presidential Offices](Chapter%20005%20-%20Extension%20of%20Certain%20Rights%20and%20Protections%20to%20Presidential%20Offices/README.md)

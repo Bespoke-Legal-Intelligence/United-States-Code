@@ -4,7 +4,7 @@
 
 The Secretary of Agriculture shall provide leadership within the executive branch for, and shall assume responsibility for coordinating, a nationwide rural development program using the services of executive branch departments and agencies, including, but not limited to, the agencies, bureaus, offices, and services of the Department of Agriculture, in coordination with rural development programs of State and local governments.
 
-#### (b) Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative efforts with Federal departments and agencies; public hearings and comments
+#### (b) Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments
 
 (1) The Secretary shall conduct a systematic review of Federal programs affecting rural areas to (A) determine whether such areas are benefiting from such programs in an equitable proportion to the benefits received by urban areas and (B) identify any factors that may restrict accessibility to such programs in rural areas or limit participation in such programs.
 
@@ -12,7 +12,17 @@ The Secretary of Agriculture shall provide leadership within the executive branc
 
 (3) The Secretary shall develop a process through which multistate, State, substate, and local rural development needs, goals, objectives, plans, and recommendations can be received and assessed on a continuing basis. Such process may include the use of those rural development experts, advisors, and consultants that the Secretary deems appropriate, as well as the establishment of temporary advisory committees under the terms of the Federal Advisory Committee Act.
 
-(4) The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.
+(4)
+
+Cooperative agreements.—
+
+&emsp;(A)
+
+In general.—Notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements with other Federal agencies, State and local governments, and any other organization or individual to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas, including the establishment and financing of interagency groups, if the Secretary determines that the objectives of the agreement will serve the mutual interest of the parties in rural development activities.
+
+&emsp;(B)
+
+Cooperators.—Each cooperator, including each Federal agency, to the extent that funds are otherwise available, may participate in any cooperative agreement or working group established pursuant to this paragraph by contributing funds or other resources to the Secretary to carry out the agreement or functions of the group.
 
 (5) The Secretary may hold public hearings and receive comments on any matter that the Secretary determines may have a significant impact on rural development or the economic development of rural communities.
 
@@ -62,13 +72,17 @@ The Secretary shall ensure the effective implementation of the rural development
 
 &emsp;(6) simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
 
-(Pub. L. 92–419, title VI, §607, as added Pub. L. 96–355, §2, Sept. 24, 1980, 94 Stat. 1171.)
+(Pub. L. 92–419, title VI, §607, as added Pub. L. 96–355, §2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, §759A, Apr. 4, 1996, 110 Stat. 1138.)
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended,which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+
+#### Amendments
+
+1996—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
 
 #### Effective Date
 
@@ -77,6 +91,22 @@ Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[en
 #### Transfer of Functions
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
+
+#### Simplified, Uniform Application for Assistance From All Federal Rural Development Programs
+
+Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
+
+&emsp;“(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
+
+&emsp;“(2) Subtitle G of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5901–5908, 5177a, 950aaa–2, and 3125b).
+
+&emsp;“(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237:\[;\] 7 U.S.C. \[former\] 5930 note).
+
+&emsp;“(4) Section 1323(b) of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1932 note).
+
+&emsp;“(5) Title V and section 603(c) of the Rural Development Act of 1972 (7 U.S.C. 2661–2669 and 2204a(c)).
+
+&emsp;“(6) Sections 5 and 311 and title IV of the Rural Electrification Act of 1936 (7 U.S.C. \[former\] 905, \[former\] 940a, and 941–950b).”
 
 #### Executive Order No. 12720
 

@@ -3,8 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2381\.](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md) | Contracts: regulations for bids. |
-| \[2382. | Repealed.\] |
-| [2383\.](%C2%A7%2002383%20-%20Procurement%20of%20critical%20aircraft%20and%20ship%20spare%20parts%20quality%20control.md) | Procurement of critical aircraft and ship spare parts: quality control. |
+| \[2382, 2383. Repealed.\] |  |
 | [2384\.](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md) | Supplies: identification of supplier and sources. |
 | [2384a.](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md) | Supplies: economic order quantities. |
 | [2385\.](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md) | Arms and ammunition: immunity from taxation. |
@@ -20,15 +19,12 @@
 | [2394a.](%C2%A7%2002394a%20-%20Procurement%20of%20energy%20systems%20using%20renewable%20forms%20of%20energy.md) | Procurement of energy systems using renewable forms of energy. |
 | [2395\.](%C2%A7%2002395%20-%20Availability%20of%20appropriations%20for%20procurement%20of%20technical%20military%20equipment%20and%20supplies.md) | Availability of appropriations for procurement of technical military equipment and supplies. |
 | [2396\.](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20and%20pay%20and%20supplies%20of%20armed%20forces%20of%E2%80%A6.md) | Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, and pay and supplies of armed forces of friendly foreign countries. |
-| [2397\.](%C2%A7%2002397%20-%20Employees%20or%20former%20employees%20of%20defense%20contractors%20reports.md) | Employees or former employees of defense contractors: reports. |
-| [2397a.](%C2%A7%2002397a%20-%20Requirements%20relating%20to%20private%20employment%20contacts%20between%20certain%20Department%20of%20Defense%20procurement%20officials%20and%20defense%20contractors.md) | Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors. |
-| [2397b.](%C2%A7%2002397b%20-%20Certain%20former%20Department%20of%20Defense%20procurement%20officials%20limitations%20on%20employment%20by%20contractors.md) | Certain former Department of Defense procurement officials: limitations on employment by contractors. |
-| [2397c.](%C2%A7%2002397c%20-%20Defense%20contractors%20requirements%20concerning%20former%20Department%20of%20Defense%20officials.md) | Defense contractors: requirements concerning former Department of Defense officials. |
+| \[2397 to 2397c. Repealed.\] |  |
 | [2398\.](%C2%A7%2002398%20-%20Procurement%20of%20gasohol%20as%20motor%20vehicle%20fuel.md) | Procurement of gasohol as motor vehicle fuel. |
 | [2399\.](%C2%A7%2002399%20-%20Operational%20test%20and%20evaluation%20of%20defense%20acquisition%20programs.md) | Operational test and evaluation of defense acquisition programs. |
 | [2400\.](%C2%A7%2002400%20-%20Low-rate%20initial%20production%20of%20new%20systems.md) | Low-rate initial production of new systems. |
 | [2401\.](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%20and%20aircraft.md) | Requirement for authorization by law of certain contracts relating to vessels and aircraft. |
-| [2401a.](%C2%A7%2002401a%20-%20Lease%20of%20vessels%2C%20aircraft%2C%20and%20vehicles.md) | Lease of vessels, aircraft, and vehicles. |
+| [2401a.](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md) | Lease of vehicles, equipment, vessels, and aircraft. |
 | [2402\.](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md) | Prohibition of contractors limiting subcontractor sales directly to the United States. |
 | [2403\.](%C2%A7%2002403%20-%20Major%20weapon%20systems%20contractor%20guarantees.md) | Major weapon systems: contractor guarantees. |
 | [2404\.](%C2%A7%2002404%20-%20Acquisition%20of%20petroleum%20and%20natural%20gas%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md) | Acquisition of petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority. |
@@ -50,17 +46,19 @@
 | [2410i.](%C2%A7%2002410i%20-%20Prohibition%20on%20contracting%20with%20entities%20that%20comply%20with%20the%20secondary%20Arab%20boycott%20of%20Israel.md) | Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel. |
 | [2410j.](%C2%A7%2002410j%20-%20Displaced%20contractor%20employees%20assistance%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides. |
 | [2410k.](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md) | Defense contractors: listing of suitable employment openings with local employment service office. |
-| 2410<i>l.</i> | Contracts for advisory and assistance services: cost comparison studies. |
+| 2410<i>l</i>. | Contracts for advisory and assistance services: cost comparison studies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+1996—Pub. L. 104–106, div. A, title VIII, §§803(b), 807(a)(2), div. D, title XLIII, §4304(c)(1), Feb. 10, 1996, 110 Stat. 390, 392, 664, struck out items 2383 “Procurement of critical aircraft and ship spare parts: quality control”, 2397 “Employees or former employees of defense contractors: reports”, 2397a “Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors”, 2397b “Certain former Department of Defense procurement officials: limitations on employment by contractors”, and 2397c “Defense contractors: requirements concerning former Department of Defense officials” and substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” in item 2401a.
+
 1994—Pub. L. 103–355, title II, §§2102(b), 2201(b)(2), 2301(c), title III, §3065(a)(2), title VI, §6005(b)(2), Oct. 13, 1994, 108 Stat. 3309, 3318, 3321, 3337, 3365, added item 2401a, struck out items 2382 “Contract profit controls during emergency periods”, 2406 “Availability of cost and pricing records”, 2409a “Communicating with Government officials: defense contractor requirement to prohibit retaliatory personnel actions”, and 2410e “Contract claims: certification regulations”, and substituted in item 2410 “Requests for equitable adjustment or other relief: certification” for “Contract claims: certification”.
 
-Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410<i>l.</i>
+Pub. L. 103–337, div. A, title III, §363(a)(2), Oct. 5, 1994, 108 Stat. 2734, added item 2410<i>l</i>.
 
-1993—Pub. L. 103–160, div. A, title VIII, §828(a)(3), (c)(3), (4), Nov. 30, 1993, 107 Stat. 1713, 1714, substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” in item 2388, struck out item 2389 “Contracts for the procurement of milk: price adjustments; purchases from the Commodity Credit Corporation”, and inserted “and natural gas” and “; acquisition by exchange; sales authority” in item 2404.
+1993—Pub. L. 103–160, div. A, title VIII, §828(a)(3), (c)(3), (4), Nov. 30, 1993, 107 Stat. 1713, 1714, substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” in item 2388, struck out item 2389 “Contracts for the procurement of milk: price adjustments; purchases from the Commodity Credit Corporation”, and inserted “and naturalgas” and “; acquisition by exchange; sales authority” in item 2404.
 
 Pub. L. 103–35, title II, §202(a)(18)(B), May 31, 1993, 107 Stat. 102, made technical amendment to directory language of Pub. L. 102–484, §4470(a)(2). See 1992 Amendment note below.
 
@@ -125,7 +123,7 @@ Procurement—
 
 - [&sect; 02381 - Contracts regulations for bids](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md)
 - [&sect; 02382 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2102(a), Oct. 13, 1994, 108 Stat. 3309](%C2%A7%2002382%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72102%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203309.md)
-- [&sect; 02383 - Procurement of critical aircraft and ship spare parts quality control](%C2%A7%2002383%20-%20Procurement%20of%20critical%20aircraft%20and%20ship%20spare%20parts%20quality%20control.md)
+- [&sect; 02383 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;803(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002383%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7803%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
 - [&sect; 02384 - Supplies identification of supplier and sources](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md)
 - [&sect; 02384a - Supplies economic order quantities](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md)
 - [&sect; 02385 - Arms and ammunition immunity from taxation](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md)
@@ -141,15 +139,12 @@ Procurement—
 - [&sect; 02394a - Procurement of energy systems using renewable forms of energy](%C2%A7%2002394a%20-%20Procurement%20of%20energy%20systems%20using%20renewable%20forms%20of%20energy.md)
 - [&sect; 02395 - Availability of appropriations for procurement of technical military equipment and supplies](%C2%A7%2002395%20-%20Availability%20of%20appropriations%20for%20procurement%20of%20technical%20military%20equipment%20and%20supplies.md)
 - [&sect; 02396 - Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, and pay and supplies of armed forces of&#8230;](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20and%20pay%20and%20supplies%20of%20armed%20forces%20of%E2%80%A6.md)
-- [&sect; 02397 - Employees or former employees of defense contractors reports](%C2%A7%2002397%20-%20Employees%20or%20former%20employees%20of%20defense%20contractors%20reports.md)
-- [&sect; 02397a - Requirements relating to private employment contacts between certain Department of Defense procurement officials and defense contractors](%C2%A7%2002397a%20-%20Requirements%20relating%20to%20private%20employment%20contacts%20between%20certain%20Department%20of%20Defense%20procurement%20officials%20and%20defense%20contractors.md)
-- [&sect; 02397b - Certain former Department of Defense procurement officials limitations on employment by contractors](%C2%A7%2002397b%20-%20Certain%20former%20Department%20of%20Defense%20procurement%20officials%20limitations%20on%20employment%20by%20contractors.md)
-- [&sect; 02397c - Defense contractors requirements concerning former Department of Defense officials](%C2%A7%2002397c%20-%20Defense%20contractors%20requirements%20concerning%20former%20Department%20of%20Defense%20officials.md)
+- [&sect; 02397 to 2397c - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(1), Feb. 10, 1996, 110 Stat. 664](%C2%A7%2002397%20to%202397c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md)
 - [&sect; 02398 - Procurement of gasohol as motor vehicle fuel](%C2%A7%2002398%20-%20Procurement%20of%20gasohol%20as%20motor%20vehicle%20fuel.md)
 - [&sect; 02399 - Operational test and evaluation of defense acquisition programs](%C2%A7%2002399%20-%20Operational%20test%20and%20evaluation%20of%20defense%20acquisition%20programs.md)
 - [&sect; 02400 - Low-rate initial production of new systems](%C2%A7%2002400%20-%20Low-rate%20initial%20production%20of%20new%20systems.md)
 - [&sect; 02401 - Requirement for authorization by law of certain contracts relating to vessels and aircraft](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%20and%20aircraft.md)
-- [&sect; 02401a - Lease of vessels, aircraft, and vehicles](%C2%A7%2002401a%20-%20Lease%20of%20vessels%2C%20aircraft%2C%20and%20vehicles.md)
+- [&sect; 02401a - Lease of vehicles, equipment, vessels, and aircraft](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md)
 - [&sect; 02402 - Prohibition of contractors limiting subcontractor sales directly to the United States](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md)
 - [&sect; 02403 - Major weapon systems contractor guarantees](%C2%A7%2002403%20-%20Major%20weapon%20systems%20contractor%20guarantees.md)
 - [&sect; 02404 - Acquisition of petroleum and natural gas authority to waive contract procedures; acquisition by exchange; sales authority](%C2%A7%2002404%20-%20Acquisition%20of%20petroleum%20and%20natural%20gas%20authority%20to%20waive%20contract%20procedures%3B%20acquisition%20by%20exchange%3B%20sales%20authority.md)

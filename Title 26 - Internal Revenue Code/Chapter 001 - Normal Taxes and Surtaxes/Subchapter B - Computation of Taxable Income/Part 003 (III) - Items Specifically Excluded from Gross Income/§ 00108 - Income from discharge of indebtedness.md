@@ -26,7 +26,7 @@
 
 #### (3) Insolvency exclusion limited to amount of insolvency
 
-&emsp;In the case of a discharge to which paragraph (1)(B) applies, the amount excludedunder paragraph (1)(B) shall not exceed the amount by which the taxpayer is insolvent.
+&emsp;In the case of a discharge to which paragraph (1)(B) applies, the amount excluded under paragraph (1)(B) shall not exceed the amount by which the taxpayer is insolvent.
 
 #### (b) Reduction of tax attributes
 
@@ -206,7 +206,7 @@
 
 #### (A) Time
 
-&emsp;&emsp;An election under paragraph (5) of subsection (b) or under paragraph (3)(B) of subsection (c) shall be made on the taxpayer's return for the taxable year in which the discharge occurs or at such other time as may be permitted in regulations prescribed by the Secretary.
+&emsp;&emsp;An election under paragraph (5) of subsection (b) or under paragraph (3)(C) of subsection (c) shall be made on the taxpayer's return for the taxable year in which the discharge occurs or at such other time as may be permitted in regulations prescribed by the Secretary.
 
 #### (B) Revocation only with consent
 
@@ -296,11 +296,11 @@ For purposes of this title—
 
 #### (B) Special rule for cash basis taxpayers
 
-&emsp;&emsp;In the case of any creditor who computes his taxable income under the cash receipts and disbursements method, proper adjustment shall be made in the amount taken into account under clause (ii) of subparagraph (A) for any amount which was not included in the creditor's gross income but which would have been included in such gross income if such indebtedness had been satisfied in full.
+&emsp;&emsp;In the case of any creditor who computes his taxable income under the cash receiptsand disbursements method, proper adjustment shall be made in the amount taken into account under clause (ii) of subparagraph (A) for any amount which was not included in the creditor's gross income but which would have been included in such gross income if such indebtedness had been satisfied in full.
 
 #### (C) Stock of parent corporation
 
-&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaningof section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
+&emsp;&emsp;For purposes of this paragraph, stock of a corporation in control (within the meaning of section 368(c)) of the debtor corporation shall be treated as stock of the debtor corporation.
 
 #### (D) Treatment of successor corporation
 
@@ -384,7 +384,7 @@ For purposes of this title—
 
 #### (B) Adjusted tax attributes
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “adjusted tax attributes” means the sum ofthe tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) of subsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
+&emsp;&emsp;For purposes of subparagraph (A), the term “adjusted tax attributes” means the sum of the tax attributes described in subparagraphs (A), (B), (C), (D), (F), and (G) of subsection (b)(2) determined by taking into account $3 for each $1 of the attributes described in subparagraphs (B), (C), and (G) of subsection (b)(2) and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover.
 
 #### (C) Qualified property
 
@@ -394,9 +394,11 @@ For purposes of this title—
 
 &emsp;&emsp;For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; June 8, 1960, Pub. L. 88–496, §1(a), 74 Stat. 164; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), 90 Stat. 1834, 1836; Dec. 24, 1980, Pub. L. 96–589, §2(a), 94 Stat. 3389; Oct. 19, 1982, Pub. L. 97–354, §3(e), 96 Stat. 1689; Jan. 12, 1983, Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), 96 Stat. 2372, 2398; July 18, 1984, Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), 98 Stat. 576, 839, 966, 1053; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Nov. 10, 1988, Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), 102 Stat. 3385, 3387; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), 104 Stat. 1388–466, 1388–551; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), 107 Stat. 446–448, 487, 488.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; June 8, 1960, Pub. L. 88–496, §1(a), 74 Stat. 164; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), 90 Stat. 1834, 1836; Dec. 24, 1980, Pub. L. 96–589, §2(a), 94 Stat. 3389; Oct. 19, 1982, Pub. L. 97–354, §3(e), 96 Stat. 1689; Jan. 12, 1983, Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), 96 Stat. 2372, 2398; July 18, 1984, Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), 98 Stat. 576, 839, 966, 1053; Oct. 22, 1986, Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Nov. 10, 1988, Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), 102 Stat. 3385, 3387; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), 104 Stat. 1388–466, 1388–551; Aug. 10, 1993, Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), 107 Stat. 446–448, 487, 488; Aug. 20, 1996, Pub. L. 104–188, title I, §1703(n)(2), 110 Stat. 1877.)
 
 #### Amendments
+
+1996—Subsec. (d)(9)(A). Pub. L. 104–188 substituted “paragraph (3)(C)” for “paragraph (3)(B)”.
 
 1993—Subsec. (a)(1)(D). Pub. L. 103–66, §13150(a), added subpar. (D).
 
@@ -456,7 +458,7 @@ Subsec. (a)(2). Pub. L. 100–647, §1004(a)(2), amended par. (2) generally. Pri
 
 Subsec. (b). Pub. L. 100–647, §1004(a)(3), struck out “in title 11 case or insolvency” after “Reduction of tax attributes” in heading and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)” in text of par. (1).
 
-Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for“subsections (a) and (b)” as the probable intent of Congress.
+Subsec. (d). Pub. L. 100–647, §1004(a)(6)(B), which directed amendment of subsec. (d) heading by substituting “subsections (a), (b), and (g)” for “subsections (a), and (b)”, was executed by making the substitution for “subsections (a) and (b)” as the probable intent of Congress.
 
 Subsec. (d)(6). Pub. L. 100–647, §1004(a)(6)(A), (C), substituted “Subsections (a), (b), and (g)” for “Subsections (a) and (b)” in heading and “subsections (a), (b), and (g)” for “subsections (a) and (b)” in text.
 
@@ -538,7 +540,7 @@ Subsec. (e)(7)(A)(iii). Pub. L. 97–448, §304(d), added cl. (iii).
 
 1982—Subsec. (d)(6). Pub. L. 97–354 inserted “or S corporation shareholder level” in heading and inserted “In the case of an S corporation, subsections (a), (b), and (c) shall be applied at the shareholder level.”
 
-1980—Pub. L. 96–589 completely revised and expanded provisions by specifying the types of indebtedness and by setting out priorities among the exclusions, to reflect the revision of Title 11, Bankruptcy, in 1978.
+1980—Pub. L. 96–589 completely revised and expanded provisions by specifying the types of indebtedness andby setting out priorities among the exclusions, to reflect the revision of Title 11, Bankruptcy, in 1978.
 
 1976—Pub. L. 94–455, §1951(b)(2)(A), struck out “(a) Special rule of exclusion.—” after “Income from discharge of indebtedness” and struck out subsec. (b) which related to discharge, cancellation, or modification of indebtedness of certain railroad corporations.
 
@@ -547,6 +549,10 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 1960—Subsec. (b). Pub. L. 86–496 provided that if the discharge, cancellation, or modification of any indebtedness is effected pursuant to a court order in a receivership proceeding or in a proceeding under section 77 of the Bankruptcy Act, commenced before Jan. 1, 1960, then no amount is to be included in gross income with respect to it, and struck out provisions which made subsection inapplicable to discharges occurring in a taxable year beginning after Dec. 31, 1957.
 
 1956—Subsec. (b). Act June 29, 1956, substituted “December 31, 1957” for “December 31, 1955”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -628,7 +634,7 @@ In general.—Except as otherwise provided in this subsection, the amendment mad
 
 Transitional rule.—The amendment made by subsection (a) shall not apply to the transfer by a corporation of its stock in exchange for debt of the corporation after the date of the enactment of this Act if such transfer is—
 
-&emsp;“(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
+&emsp;“(A) pursuant to a written contract requiring such transfer which was binding on the corporation at alltimes on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
 
 &emsp;“(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was in effect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
 
@@ -636,7 +642,7 @@ Transitional rule.—The amendment made by subsection (a) shall not apply to the
 
 Certain transfers to controlling shareholder.—The amendment made by subsection (a) shall not apply to any transfer before January 1, 1985, by a corporation of its stock in exchange for debt of such corporation if—
 
-&emsp;“(A) such transfer is to another corporation which at all times on June 7, 1984, owned 75 percent or moreof the total value of the stock of the corporation making such transfer, and
+&emsp;“(A) such transfer is to another corporation which at all times on June 7, 1984, owned 75 percent or more of the total value of the stock of the corporation making such transfer, and
 
 &emsp;“(B) immediately after such transfer, the transferee corporation owns 80 percent or more of the total value of the stock of the transferor corporation.
 

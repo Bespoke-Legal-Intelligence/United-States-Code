@@ -28,7 +28,7 @@ Officers Below the Zone.—The Secretary of the military department concerned ma
 
 (e)
 
-Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes amandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe.
+Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe.
 
 (f)
 
@@ -39,10 +39,6 @@ Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force 
 Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931.)
-
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
 
 #### Effective Date
 

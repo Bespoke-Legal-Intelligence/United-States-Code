@@ -14,5 +14,5 @@ Pub. L. 102–233, §1, Dec. 12, 1991, 105 Stat. 1761, provided that: “This Ac
 
 Pub. L. 102–233, title III, §301, Dec. 12, 1991, 105 Stat. 1767, provided that: “This title \[amending sections 1441, 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under sections 1441 and 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] may be cited as the ‘Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991’.”
 
-Pub. L. 102–18, §1, Mar. 23, 1991, 105 Stat. 58, provided that: “This Act \[amending sections 1441a and 1812 of this title and enacting provisions set out as notes under section 1441a of this title\] may be cited as the ‘Resolution Trust Corporation Funding Act of 1991’.”
+Pub. L. 102–18, §1, Mar. 23, 1991, 105 Stat. 58, provided that: “This Act \[amending sections 1441a and 1812 ofthis title and enacting provisions set out as notes under section 1441a of this title\] may be cited as the ‘Resolution Trust Corporation Funding Act of 1991’.”
 

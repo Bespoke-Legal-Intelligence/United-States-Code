@@ -18,7 +18,7 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 Filing Complaints and Procedures.—(1) An employee alleging discharge, discipline, or discrimination in violation of subsection (a) of this section, or another person at the employee's request, may file a complaint with the Secretary of Labor not later than 180 days after the alleged violation occurred. On receiving the complaint, the Secretary shall notify the person alleged to have committed the violation of the filing of the complaint.
 
-(2)(A) Not later than 60 days after receiving a complaint, the Secretary shall conduct an investigation, decide whether it is reasonable to believe the complaint has merit, and notify the complainant and the person alleged to have committed the violation of the findings. If the Secretary decides it is reasonable to believe a violation occurred, the Secretary shall include with the decision findings and a preliminary order for the relief provided under paragraph (3) of this subsection.
+(2)(A) Not later than 60 days after receiving a complaint, the Secretary shall conduct an investigation, decide whether it is reasonable to believe the complaint has merit, and notify the complainant and the person alleged to have committed the violation of the findings. If the Secretary decides it is reasonable to believe a violation occurred, the Secretary shall include with the decision findings and a preliminaryorder for the relief provided under paragraph (3) of this subsection.
 
 (B) Not later than 30 days after the notice under subparagraph (A) of this paragraph, the complainant and the person alleged to have committed the violation may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of objections does not stay a reinstatement ordered in the preliminary order. If a hearing is not requested within the 30 days, the preliminary order is final and not subject to judicial review.
 
@@ -46,7 +46,9 @@ Civil Actions To Enforce.—If a person fails to comply with an order issued und
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

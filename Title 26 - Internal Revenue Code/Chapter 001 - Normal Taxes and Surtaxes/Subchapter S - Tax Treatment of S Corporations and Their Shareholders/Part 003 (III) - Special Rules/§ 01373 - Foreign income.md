@@ -16,7 +16,7 @@ For purposes of section 904(f) (relating to recapture of overall foreign loss), 
 
 #### Prior Provisions
 
-A prior section 1373, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1652; amended Pub. L. 89–389, §2(b)(3), Apr. 14, 1966, 80 Stat. 114; Pub. L. 91–172, title III, §301(b)(10), Dec. 30, 1969, 83 Stat. 586, related to taxation of corporation undistributed taxable income to shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1373, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1652; amended Pub. L. 89–389, §2(b)(3), Apr. 14, 1966, 80 Stat. 114; Pub. L. 91–172, title III, §301(b)(10), Dec. 30, 1969, 83 Stat. 586, related to taxation of corporation undistributed taxable incometo shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Effective Date
 

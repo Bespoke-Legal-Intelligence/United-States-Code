@@ -1,12 +1,14 @@
 ### §24908. Transfer taxes and levies and recording charges
 
-A transfer of an interest in rail property under this chapter is exempt from a tax or levy related to the transfer that is imposed by the United States Government, a State, or a political subdivision of a State. On payment of the appropriate and generally applicable charge for theservice performed, a transferee or transferor may record an instrument and, consistent with the final system plan, the release or removal of a pre-existing lien or encumbrance of record related to the interest transferred.
+A transfer of an interest in rail property under this chapter is exempt from a tax or levy related to the transfer that is imposed by the United States Government, a State, or a political subdivision of a State. On payment of the appropriate and generally applicable charge for the service performed, a transferee or transferor may record an instrument and, consistent with the final system plan, the release or removal of a pre-existing lien or encumbrance of record related to the interest transferred.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 937.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

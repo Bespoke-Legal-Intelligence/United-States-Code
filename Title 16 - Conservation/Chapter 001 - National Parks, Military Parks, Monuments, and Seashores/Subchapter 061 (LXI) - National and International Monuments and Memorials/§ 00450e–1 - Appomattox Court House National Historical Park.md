@@ -14,7 +14,7 @@ Within the boundaries of the park, the Secretary may acquire lands and interests
 
 (2) As used in this section, the term “improved property” means a detached, single-family dwelling, construction of which was begun before June 8, 1976, which is used for noncommercial residential purposes, together with such additional lands or interests therein as the Secretary deems to be reasonably necessary for access thereto, such lands being in the same ownership as the dwelling, together with any structures accessory to the dwelling which are situated on such land.
 
-(3) Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, andfor the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
+(3) Whenever an owner of property elects to retain a right of use and occupancy as provided in this section, such owner shall be deemed to have waived any benefits or rights accruing under sections 4623, 4624, 4625, and 4626 of title 42, and for the purposes of such sections such owner shall not be considered a displaced person as defined in section 4601(6) of title 42.
 
 #### (d) Administration
 

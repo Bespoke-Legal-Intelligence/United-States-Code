@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(i) coordinate the activities of the program with the activities of any office of rural health established by the State or States in which the program is operating;
 
-&emsp;&emsp;(ii) conduct health professions education and training activities consistent with national and State priorities in the area served by the program in coordination with the National Health Service Corps, entities receiving funds under section 254b or 254c of this title, and public health departments; and
+&emsp;&emsp;(ii) conduct health professions education and training activities consistent with national and State priorities in the area served by the program in coordination with the National Health Service Corps, entities receiving funds under section 254b or 254c of this title,<sup>1</sup> and public health departments; and
 
 &emsp;&emsp;(iii) cooperate with any entities that are in operation in the area served by the program and that receive Federal or State funds to carry out activities regarding the recruitment and retention of health care providers.
 
@@ -252,7 +252,7 @@ Each medical (M.D. and D.O.) school participating in an area health education ce
 
 For purposes of this section:
 
-&emsp;(1) The term “area health education center program” means a program which is organizedas provided in subsection (b) of this section and under which the participating medical (M.D. and D.O.) schools and the area health education centers meet the requirements of subsections (c) and (d) of this section.
+&emsp;(1) The term “area health education center program” means a program which is organized as provided in subsection (b) of this section and under which the participating medical (M.D. and D.O.) schools and the area health education centers meet the requirements of subsections (c) and (d) of this section.
 
 &emsp;(2) The term “award” means an award of financial assistance.
 
@@ -282,6 +282,8 @@ The Secretary shall establish standards and criteria for the requirements of thi
 
 Section 802 of the Health Professions Educational Assistance Act of 1976, referred to in subsecs. (a)(2)(A)(i) and (e)(1), is section 802 of Pub. L. 94–484, as amended, which was set out as a note under section 295g–1 of this title prior to the general revision of this subchapter by section 102 of Pub. L. 102–408.
 
+Sections 254b and 254c of this title, referred to in subsec. (a)(3)(C)(ii), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+
 Section 295f–4 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 94–484, title V, §502, Oct. 12, 1976, 90 Stat. 2293, effective with respect to fiscal years beginning after Sept. 30, 1977.
 
 #### Prior Provisions
@@ -301,4 +303,6 @@ Subsec. (i)(1). Pub. L. 102–531, §313(a)(2)(B), realigned margins of subpars.
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 102–408, see section 313(c) of Pub. L. 102–531, set out as a note under section 292y of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

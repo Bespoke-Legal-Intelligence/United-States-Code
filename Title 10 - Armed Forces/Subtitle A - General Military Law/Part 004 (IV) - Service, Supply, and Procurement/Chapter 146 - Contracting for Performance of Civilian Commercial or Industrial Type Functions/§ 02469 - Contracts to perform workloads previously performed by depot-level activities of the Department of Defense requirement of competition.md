@@ -18,6 +18,10 @@ Inapplicability of OMB Circular A–76.—Office of Management and Budget Circul
 
 (Added Pub. L. 102–484, div. A, title III, §353(a), Oct. 23, 1992, 106 Stat. 2378; amended Pub. L. 103–160, div. A, title III, §346, title XI, §1182(a)(7), Nov. 30, 1993, 107 Stat. 1625, 1771; Pub. L. 103–337, div. A, title III, §338, Oct. 5, 1994, 108 Stat. 2718.)
 
+#### Repeal of Section
+
+<i>For contingent effective date of repeal of this section by section 311(f)(1) of Pub. L. 104–106, see section 311(f)(3) of Pub. L. 104–106, set out in a Policy Regarding Performance of Depot-Level Maintenance and Repair for Department of Defense note under section 2464 of this title.</i>
+
 #### Amendments
 
 1994—Pub. L. 103–337 amended section generally. Prior to amendment, section read as follows:

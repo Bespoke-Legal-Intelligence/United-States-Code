@@ -47,7 +47,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 971i, 3377 of this title.
+This chapter is referred to in sections 971i, 1854, 3377 of this title.
 
 
 ---

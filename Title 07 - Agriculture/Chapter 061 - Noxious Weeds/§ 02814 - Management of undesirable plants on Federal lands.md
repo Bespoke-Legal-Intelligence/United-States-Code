@@ -10,7 +10,7 @@ Each Federal agency shall—
 
 &emsp;(3) complete and implement cooperative agreements with State agencies regarding the management of undesirable plant species on Federal lands under the agency's jurisdiction; and
 
-&emsp;(4) establish integrated management systems to control or contain undesirable plantspecies targeted under cooperative agreements.
+&emsp;(4) establish integrated management systems to control or contain undesirable plant species targeted under cooperative agreements.
 
 #### (b) Environmental impact statements
 

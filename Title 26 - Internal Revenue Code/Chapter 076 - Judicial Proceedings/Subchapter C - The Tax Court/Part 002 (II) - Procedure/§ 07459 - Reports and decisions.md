@@ -28,7 +28,7 @@ The findings of the Board of Tax Appeals made in connection with any decision pr
 
 &emsp;&emsp;<b>For penalty for taxpayer instituting proceedings before Tax Court merely for delay, see section 6673.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 886; Sept. 2, 1974, Pub. L. 93–406, title II, §1041(b)(2), 88 Stat. 950; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1306(b)(2),title XIX, §1906(b)(13)(A), 90 Stat. 1719, 1834; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(14), 96 Stat. 668; Oct. 25, 1982, Pub. L. 97–362, title I, §106(b), 96 Stat. 1730.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 886; Sept. 2, 1974, Pub. L. 93–406, title II, §1041(b)(2), 88 Stat. 950; Oct. 4, 1976, Pub. L. 94–455, title XIII, §1306(b)(2), title XIX, §1906(b)(13)(A), 90 Stat. 1719, 1834; Sept. 3, 1982, Pub. L. 97–248, title IV, §402(c)(14), 96 Stat. 668; Oct. 25, 1982, Pub. L. 97–362, title I, §106(b), 96 Stat. 1730.)
 
 #### References in Text
 

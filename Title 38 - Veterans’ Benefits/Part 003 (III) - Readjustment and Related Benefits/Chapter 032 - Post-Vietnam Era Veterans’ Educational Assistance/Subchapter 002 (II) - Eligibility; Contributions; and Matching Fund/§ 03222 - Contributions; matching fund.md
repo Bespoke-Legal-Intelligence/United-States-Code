@@ -62,5 +62,5 @@ For provisions of section 408(b) of Pub. L. 94–502 directing that “Departmen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3015, 3018A, 3018B, 3035, 3223, 3243 of this title.
+This section is referred to in sections 3015, 3018A, 3018B, 3018C, 3035, 3223, 3243 of this title.
 

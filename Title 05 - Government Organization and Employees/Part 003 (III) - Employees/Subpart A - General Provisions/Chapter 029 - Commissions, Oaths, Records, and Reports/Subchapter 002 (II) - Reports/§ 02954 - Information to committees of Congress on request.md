@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 105a.
 
@@ -26,7 +28,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate” for “Committee on Government Operations of the Senate”.
+1994—Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate” for “Committee on Government Operations of the Senate”.
 
 #### Change of Name
 

@@ -10,7 +10,7 @@ This Act, referred to in text, probably means the act of June 15, 1935, ch. 261,
 
 #### Codification
 
-Act June 15, 1935, in addition to the provisions set out in the text, made an appropriation for the acquisition of lands necessary to provide for the restoration, rehabilitation and protection of migratory waterfowl and other wildlife and for the erection and construction of necessary buildings, dikes, dams, canals, and other works.
+Act June 15, 1935, in addition to the provisions set out in the text, made an appropriation for the acquisitionof lands necessary to provide for the restoration, rehabilitation and protection of migratory waterfowl and other wildlife and for the erection and construction of necessary buildings, dikes, dams, canals, and other works.
 
 Section was not enacted as part of the Migratory Bird Conservation Act which comprises this subchapter.
 

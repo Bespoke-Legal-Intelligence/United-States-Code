@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
 
-&emsp;&emsp;&emsp;(ii)(I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted to Congress by the Secretary of Defense pursuant to section 2506 of title 10; and
+&emsp;&emsp;&emsp;(ii)(I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted toCongress by the Secretary of Defense pursuant to section 2506 <sup>1</sup> of title 10; and
 
 &emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary.
 
@@ -45,6 +45,8 @@ In this section:
 (Pub. L. 102–190, div. C, title XXXI, §3136, Dec. 5, 1991, 105 Stat. 1577; Pub. L. 103–35, title II, §203(b)(3), May 31, 1993, 107 Stat. 102.)
 
 #### References in Text
+
+Section 2506 of title 10, referred to in subsec. (b)(1)(C)(ii)(I), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613, and, as so amended, no longer relates to submission of a plan to Congress.
 
 Executive Order No. 12344, dated February 1, 1982, referred to in subsec. (b)(4), is set out as a note under section 7158 of this title.
 

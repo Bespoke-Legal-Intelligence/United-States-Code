@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) 100 or more employees who in the aggregate work at least 4,000 hours per week (exclusive of hours of overtime);
 
-&emsp;(2) the term “plant closing” means the permanent or temporary shutdown of a single site of employment, or one or more facilities or operating units within a single site of employment, if the shutdown results in an employment loss at the single site of employment during any 30-day period for 50 or more employees excluding any part-time employees;
+&emsp;(2) the term “plant closing” means the permanent or temporary shutdown of a single siteof employment, or one or more facilities or operating units within a single site of employment, if the shutdown results in an employment loss at the single site of employment during any 30-day period for 50 or more employees excluding any part-time employees;
 
 &emsp;(3) the term “mass layoff” means a reduction in force which—
 
@@ -56,5 +56,5 @@ Section 1(a) of Pub. L. 100–379 provided that: “This Act \[enacting this cha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2102 of this title.
+This section is referred to in section 2102 of this title; title 3 section 435; title 42 section 2297h–8.
 

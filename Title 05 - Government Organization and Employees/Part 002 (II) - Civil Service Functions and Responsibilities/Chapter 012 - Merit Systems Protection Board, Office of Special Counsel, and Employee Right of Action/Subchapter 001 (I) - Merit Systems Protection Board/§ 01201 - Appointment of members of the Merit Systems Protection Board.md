@@ -6,7 +6,7 @@ The Merit Systems Protection Board is composed of 3 members appointed by the Pre
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
+1989—Pub. L. 101–12 substituted “The members” for “The Chairman and members” in second sentence.
 
 #### Effective Date of 1989 Amendment
 
@@ -66,7 +66,7 @@ Purpose.—The purpose of this Act \[see Short Title of 1989 Amendment note abov
 
 #### Terms of Office of Members
 
-Section 202(b) of Pub. L. 95–454 provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
+Section 202(b) of Pub. L. 95–454 provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under section 1101 of this title\] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately beforethe effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
 
 #### Section Referred to in Other Sections
 

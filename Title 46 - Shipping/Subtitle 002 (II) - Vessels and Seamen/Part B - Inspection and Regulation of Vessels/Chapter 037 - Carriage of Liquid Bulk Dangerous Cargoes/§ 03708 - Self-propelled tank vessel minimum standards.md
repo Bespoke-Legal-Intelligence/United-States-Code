@@ -1,6 +1,6 @@
 ### §3708. Self-propelled tank vessel minimum standards
 
-A self-propelled tank vessel of at least 10,000 gross tons shall be equipped with—
+A self-propelled tank vessel of at least 10,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed bythe Secretary under section 14104 of this title shall be equipped with—
 
 &emsp;(1) a dual radar system with short-range and long-range capabilities, each with true-north features;
 
@@ -16,7 +16,7 @@ A self-propelled tank vessel of at least 10,000 gross tons shall be equipped wit
 
 &emsp;(7) up-to-date charts.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 524; Pub. L. 104–324, title VII, §717, Oct. 19, 1996, 110 Stat. 3937.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,10 @@ Historical and Revision Notes
 46:391a(7)(J)
 
 Section 3708 requires compliance with certain minimum standards by a self-propelled tank vessel. These requirements apply to any tank vessel of 10,000 gross tons or above with no distinction being made as to whether or not the vessel is “primarily” constructed or adapted to carry oil or hazardous material in bulk in the cargo spaces. These vessels are required to be equipped with a dual radar system, a computerized relative motion analyzer, an electronic position fixing device, adequate communications equipment, a sonic depth finder, a gyrocompass, and up-to-date charts.
+
+#### Amendments
+
+1996—Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “10,000 gross tons”.
 
 #### Section Referred to in Other Sections
 

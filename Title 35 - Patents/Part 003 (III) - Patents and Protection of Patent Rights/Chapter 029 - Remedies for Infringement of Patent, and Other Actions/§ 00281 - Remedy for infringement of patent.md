@@ -24,5 +24,5 @@ Venue of actions for infringement, see section 1400 of Title 28.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 157 of this title.
+This section is referred to in sections 157, 287 of this title.
 

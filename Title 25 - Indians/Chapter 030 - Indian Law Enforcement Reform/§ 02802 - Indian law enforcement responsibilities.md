@@ -52,7 +52,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 (2) The Secretary shall also provide for the classification of such positions within the Division of Law Enforcement Services at GS grades, as provided in section 5104 of title 5, consistent with the responsibilities and duties assigned to such positions and with the qualifications established for such positions.
 
-(3) In classifying positions in the Division of Law Enforcement Services under paragraph (2), the Secretary shall ensure that such positions are classified at GS grades comparable to those for other Federal law enforcement personnel in other Federal Agencies <sup>1</sup> in light of the responsibilities, duties, and qualifications required of such positions.
+(3) In classifying positions in the Division of Law Enforcement Services under paragraph (2), the Secretary shall ensure that such positions are classified at GS grades comparable to those for other Federal law enforcement personnel inother Federal Agencies <sup>1</sup> in light of the responsibilities, duties, and qualifications required of such positions.
 
 (Pub. L. 101–379, §3, Aug. 18, 1990, 104 Stat. 473.)
 

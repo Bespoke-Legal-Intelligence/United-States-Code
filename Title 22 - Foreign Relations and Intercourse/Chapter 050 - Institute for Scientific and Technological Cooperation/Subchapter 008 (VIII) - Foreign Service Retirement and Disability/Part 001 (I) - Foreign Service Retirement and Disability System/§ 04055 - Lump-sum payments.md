@@ -12,7 +12,7 @@
 
 &emsp;(D) will not become eligible to receive an annuity under this part within 31 days after filing the application; and
 
-&emsp;(E) has notified any spouse or former spouse the participant may have of the application for payment in accordance with regulations prescribed by the Secretary of State.
+&emsp;(E) has notified any spouse or former spouse the participant may have of the applicationfor payment in accordance with regulations prescribed by the Secretary of State.
 
 > Such regulations may provide for waiver of subparagraph (E) under circumstances described in section 4046(b)(1)(D) of this title.
 
@@ -36,7 +36,7 @@ If an annuitant who was a former participant dies, any annuity accrued and unpai
 
 #### (f) Order of precedence for payments
 
-Payments under subsections (c) through (e) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to thepayment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
+Payments under subsections (c) through (e) of this section shall be paid in the following order of precedence to individuals surviving the participant and alive on the date entitlement to the payment arises, upon the establishment of a valid claim therefor, and such payment shall be a bar to recovery by any other person:
 
 &emsp;(1) To the beneficiary or beneficiaries last designated by the participant before or after retirement in a signed and witnessed writing filed with the Secretary of State prior to the death of the participant, for which purpose a designation, change, or cancellation of beneficiary in a will or other document which is not so executed and filed shall have no force or effect.
 
@@ -68,7 +68,7 @@ Unless otherwise expressly provided by any spousal agreement or court order unde
 
 &emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 
-&emsp;(2) if such former spouse was not married to the participant throughout such creditable service, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
+&emsp;(2) if such former spouse was not married to the participant throughout such creditableservice, an amount equal to such former spouse's pro rata share of 50 percent of such lump-sum credit.
 
 > The lump-sum credit of the participant shall be reduced by the amount of the lump-sum credit payable to the former spouse. For the purposes of this subsection, the term “creditable service” means service which is creditable under part I or II of this subchapter.
 

@@ -11,12 +11,15 @@
 | [217\.](%C2%A7%2000217%20-%20Moving%20expenses.md) | Moving expenses. |
 | \[218. | Repealed.\] |
 | [219\.](%C2%A7%2000219%20-%20Retirement%20savings.md) | Retirement savings. |
-| [220\.](%C2%A7%2000220%20-%20Cross%20reference.md) | Cross reference. |
-| \[221 to 223. Repealed.\] |  |
+| [220\.](%C2%A7%2000220%20-%20Medical%20savings%20accounts.md) | Medical savings accounts. |
+| [221\.](%C2%A7%2000221%20-%20Cross%20reference.md) | Cross reference. |
+| \[222, 223. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–191, title III, §301(i), Aug. 21, 1996, 110 Stat. 2052, added items 220 and 221 and struck out former item 220 “Cross reference”.
 
 1990—Pub. L. 101–508, title XI, §11802(e)(3), Nov. 5, 1990, 104 Stat. 1388–530, added item 220 and struck out former items 220 “Jury duty pay remitted to employer” and 221 “Cross references”.
 
@@ -58,7 +61,7 @@ This part is referred to in sections 62, 703 of this title.
 - [&sect; 00217 - Moving expenses](%C2%A7%2000217%20-%20Moving%20expenses.md)
 - [&sect; 00218 - Repealed. Pub. L. 95&#8211;600, title I, &sect;113(a)(1), Nov. 6, 1978, 92 Stat. 2778](%C2%A7%2000218%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93600%2C%20title%20I%2C%20%C2%A7113%28a%29%281%29%2C%20Nov.%206%2C%201978%2C%2092%20Stat.%202778.md)
 - [&sect; 00219 - Retirement savings](%C2%A7%2000219%20-%20Retirement%20savings.md)
-- [&sect; 00220 - Cross reference](%C2%A7%2000220%20-%20Cross%20reference.md)
-- [&sect; 00221 - Renumbered &sect;220](%C2%A7%2000221%20-%20Renumbered%20%C2%A7220.md)
+- [&sect; 00220 - Medical savings accounts](%C2%A7%2000220%20-%20Medical%20savings%20accounts.md)
+- [&sect; 00221 - Cross reference](%C2%A7%2000221%20-%20Cross%20reference.md)
 - [&sect; 00222 - Repealed. Pub. L. 99&#8211;514, title I, &sect;135(a), Oct. 22, 1986, 100 Stat. 2116](%C2%A7%2000222%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20I%2C%20%C2%A7135%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202116.md)
-- [&sect; 00223 - Renumbered &sect;220](%C2%A7%2000223%20-%20Renumbered%20%C2%A7220.md)
+- [&sect; 00223 - Renumbered &sect;221](%C2%A7%2000223%20-%20Renumbered%20%C2%A7221.md)

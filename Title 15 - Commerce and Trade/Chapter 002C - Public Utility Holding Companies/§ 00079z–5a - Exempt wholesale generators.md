@@ -40,7 +40,7 @@ If a rate or charge for, or in connection with, the construction of a facility, 
 
 #### (d) Hybrids
 
-(1) No exempt wholesale generator may own or operate a portion of any facility if any other portion of the facility is owned or operated by an electric utility company that is an affiliate or associate company of such exempt wholesale generator.
+(1) No exempt wholesale generator may own or operate a portion of any facility if any other portion of the facility is owned or operated byan electric utility company that is an affiliate or associate company of such exempt wholesale generator.
 
 (2)
 
@@ -64,7 +64,7 @@ The issuance of securities by a registered holding company for purposes of finan
 
 &emsp;(1) section 79k of this title shall not prohibit the ownership of an interest in the business of one or more exempt wholesale generators by a registered holding company (regardless of where facilities owned or operated by such exempt wholesale generators are located), and such ownership by a registered holding company shall be deemed consistent with the operation of an integrated public utility system;
 
-&emsp;(2) the ownership of an interest in the business of one or more exempt wholesale generators by a registered holding company (regardless of where facilities owned or operated by such exempt wholesale generators are located) shall be considered as reasonably incidental, or economically necessary or appropriate, tothe operations of an integrated public utility system;
+&emsp;(2) the ownership of an interest in the business of one or more exempt wholesale generators by a registered holding company (regardless of where facilities owned or operated by such exempt wholesale generators are located) shall be considered as reasonably incidental, or economically necessary or appropriate, to the operations of an integrated public utility system;
 
 &emsp;(3) in determining whether to approve (A) the issue or sale of a security by a registered holding company for purposes of financing the acquisition of an exempt wholesale generator, or (B) the guarantee of a security of an exempt wholesale generator by a registered holding company, the Commission shall not make a finding that such security is not reasonably adapted to the earning power of such company or to the security structure of such company and other companies in the same holding company system, or that the circumstances are such as to constitute the making of such guarantee an improper risk for such company, unless the Commission first finds that the issue or sale of such security, or the making of the guarantee, would have a substantial adverse impact on the financial integrity of the registered holding company system;
 
@@ -110,7 +110,7 @@ The ownership by a person of one or more exempt wholesale generators shall not r
 
 &emsp;&emsp;&emsp;(i) would not be resold to any affiliate or associate company, or
 
-&emsp;&emsp;&emsp;(ii) the purchased electric energy would be resold to an affiliate or associate company and every State commission havingjurisdiction over the retail rates of such affiliate or associate company makes each of the determinations provided under subparagraph (A), including the determination concerning a State commission's duties.
+&emsp;&emsp;&emsp;(ii) the purchased electric energy would be resold to an affiliate or associate company and every State commission having jurisdiction over the retail rates of such affiliate or associate company makes each of the determinations provided under subparagraph (A), including the determination concerning a State commission's duties.
 
 #### (<i>l</i>) Reciprocal arrangements prohibited
 
@@ -124,7 +124,7 @@ This chapter, referred to in subsecs. (c)(B) and (e) to (i), was in the original
 
 #### Prior Provisions
 
-A prior section 32 of act Aug. 26, 1935, ch. 687, was renumbered section 34 and is classified to section 79z–6 of this title.
+A prior section 32 of act Aug. 26, 1935, ch. 687, was renumbered section 35 and is classified to section 79z–6 of this title.
 
 #### State Authorities; Construction
 

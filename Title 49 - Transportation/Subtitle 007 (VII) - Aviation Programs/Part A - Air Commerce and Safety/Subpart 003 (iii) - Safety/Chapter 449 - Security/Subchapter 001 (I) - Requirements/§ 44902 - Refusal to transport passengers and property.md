@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Refusal.—The Administrator of the Federal Aviation Administration shall prescribe regulations requiring an air carrier, intrastate air carrier, or foreign air carrier to refuse to transport—
+Mandatory Refusal.—The Administrator of the Federal Aviation Administration shallprescribe regulations requiring an air carrier, intrastate air carrier, or foreign air carrier to refuse to transport—
 
 &emsp;(1) a passenger who does not consent to a search under section 44901(a) of this title establishing whether the passenger is carrying unlawfully a dangerous weapon, explosive, or other destructive substance; or
 
@@ -20,7 +20,9 @@ Agreeing to Consent to Search.—An agreement to carry passengers or property in
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -52,5 +54,5 @@ In subsection (c), the words “for compensation or hire” are omitted because 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 106 of this title.
+This section is referred to in sections 106, 46301, 46316 of this title.
 

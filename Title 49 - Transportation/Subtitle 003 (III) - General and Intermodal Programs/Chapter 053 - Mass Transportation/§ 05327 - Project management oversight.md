@@ -36,9 +36,9 @@ Plan Approval.—(1) The Secretary shall approve a plan not later than 60 days a
 
 (c)
 
-Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5307 to make a contract to oversee the construction of the project.
+Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
 
-(2) The Secretary may use amounts available under paragraph (1) of this subsection to make contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1). Subsections (a), (b), and (e) of this section do not apply to contracts under this paragraph.
+(2) The Secretary may use amounts available under paragraph (1) of this subsection to make contracts for safety, procurement, management, and financial compliance reviews and audits of arecipient of amounts under paragraph (1). Subsections (a), (b), and (e) of this section do not apply to contracts under this paragraph.
 
 (3) The Government shall pay the entire cost of carrying out a contract under this subsection.
 
@@ -54,13 +54,15 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 &emsp;(2) a requirement that oversight begin during the preliminary engineering stage of a project, unless the Secretary finds it more appropriate to begin the oversight during another stage of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, §6(12), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(17), Oct. 11, 1996, 110 Stat. 3390.)
 
 Historical and Revision Notes
 
 Pub. L. 103–272
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -112,13 +114,23 @@ In subsection (e), before clause (1), the text of 49 App.:1619(f) (2d sentence) 
 
 This amends 49:5327(c)(1) to correct an erroneous cross-reference.
 
+#### Pub. L. 104–287
+
+This amends 49:5327(c) to correct an erroneous cross-reference.
+
 #### References in Text
 
 The National Capital Transportation Act of 1969, referred to in subsecs. (a), (c)(1), and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of Title 40 and provisions set out as notes under section 651 of Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
+1996—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
+
 1994—Subsec. (c)(1). Pub. L. 103–429 substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
 #### Effective Date of 1994 Amendment
 

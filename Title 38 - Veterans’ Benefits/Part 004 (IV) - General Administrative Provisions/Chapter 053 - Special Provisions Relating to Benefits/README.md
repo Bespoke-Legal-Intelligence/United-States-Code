@@ -16,6 +16,7 @@
 | [5311\.](%C2%A7%2005311%20-%20Prohibition%20of%20certain%20benefit%20payments.md) | Prohibition of certain benefit payments. |
 | [5312\.](%C2%A7%2005312%20-%20Annual%20adjustment%20of%20certain%20benefit%20rates.md) | Annual adjustment of certain benefit rates. |
 | [5313\.](%C2%A7%2005313%20-%20Limitation%20on%20payment%20of%20compensation%20and%20dependency%20and%20indemnity%20compensation%20to%20persons%20incarcerated%20for%20conviction%20of%20a%20felony.md) | Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony. |
+| [5313A.](%C2%A7%2005313A%20-%20Limitation%20on%20payment%20of%20clothing%20allowance%20to%20incarcerated%20veterans.md) | Limitation on payment of clothing allowance to incarcerated veterans. |
 | [5314\.](%C2%A7%2005314%20-%20Indebtedness%20offsets.md) | Indebtedness offsets. |
 | [5315\.](%C2%A7%2005315%20-%20Interest%20and%20administrative%20cost%20charges%20on%20delinquent%20payments%20of%20certain%20amounts%20due%20the%20United%20States.md) | Interest and administrative cost charges on delinquent payments of certain amounts due the United States. |
 | [5316\.](%C2%A7%2005316%20-%20Authority%20to%20sue%20to%20collect%20certain%20debts.md) | Authority to sue to collect certain debts. |
@@ -26,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–275, title V, §502(b), Oct. 9, 1996, 110 Stat. 3341, added item 5313A.
 
 1992—Pub. L. 102–568, title VI, §603(b)(2), Oct. 29, 1992, 106 Stat. 4343, added item 5319.
 
@@ -66,6 +69,7 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 - [&sect; 05311 - Prohibition of certain benefit payments](%C2%A7%2005311%20-%20Prohibition%20of%20certain%20benefit%20payments.md)
 - [&sect; 05312 - Annual adjustment of certain benefit rates](%C2%A7%2005312%20-%20Annual%20adjustment%20of%20certain%20benefit%20rates.md)
 - [&sect; 05313 - Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony](%C2%A7%2005313%20-%20Limitation%20on%20payment%20of%20compensation%20and%20dependency%20and%20indemnity%20compensation%20to%20persons%20incarcerated%20for%20conviction%20of%20a%20felony.md)
+- [&sect; 05313A - Limitation on payment of clothing allowance to incarcerated veterans](%C2%A7%2005313A%20-%20Limitation%20on%20payment%20of%20clothing%20allowance%20to%20incarcerated%20veterans.md)
 - [&sect; 05314 - Indebtedness offsets](%C2%A7%2005314%20-%20Indebtedness%20offsets.md)
 - [&sect; 05315 - Interest and administrative cost charges on delinquent payments of certain amounts due the United States](%C2%A7%2005315%20-%20Interest%20and%20administrative%20cost%20charges%20on%20delinquent%20payments%20of%20certain%20amounts%20due%20the%20United%20States.md)
 - [&sect; 05316 - Authority to sue to collect certain debts](%C2%A7%2005316%20-%20Authority%20to%20sue%20to%20collect%20certain%20debts.md)

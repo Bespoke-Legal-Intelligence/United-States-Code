@@ -59,9 +59,7 @@
 
 |  |  |
 | :--- | ---: |
-| 1920, 1921. Repealed. |  |
-| [1922\.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001922%20-%20Surplus%20agricultural%20commodities%3B%20funds%20for%20shipments.md) | Surplus agricultural commodities; funds for shipments. |
-| 1923 to 1927. Repealed. |  |
+| 1920 to 1927. Repealed. |  |
 | [1928\.](Subchapter%20003%20%28III%29%20-%20Economic%20Assistance/Part%20D%20-%20Special%20Assistance%20and%20Other%20Programs/%C2%A7%2001928%20-%20North%20Atlantic%20Treaty%20Organization.md) | North Atlantic Treaty Organization. |
 | (a) | Authorization for expenses. |
 | (b) | Appointment of personal representative. |

@@ -12,6 +12,10 @@ The provisions of this subpart affording a cooperative plan to cotton producers 
 
 (Feb. 16, 1938, ch. 30, title III, §341, 52 Stat. 55.)
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+
 #### 1947 Marketing Quotas and Acreage Allotments
 
 Joint Res. July 24, 1946, ch. 616, 60 Stat. 662, suspended marketing quotas and acreage allotments for 1947 in view of the critical shortage of fats and oils and protein feeds.

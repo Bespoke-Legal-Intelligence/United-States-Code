@@ -92,7 +92,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 &emsp;(C) determine the average cost of attendance for all graduate and professional students;
 
-&emsp;(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category,except that the amount computed by such subtraction for any income category shall not be less than zero;
+&emsp;(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
 
 &emsp;(E) multiply the amounts determined under subparagraph (D) by the number of eligible students in each category; and
 
@@ -110,7 +110,7 @@ From one-quarter of the remainder of the amount appropriated pursuant to section
 
 (1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 10 percent of the total amount of funds granted to such institution under this section to compensate students employed in community service in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (c) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
-(2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
+(2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by theamount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
 #### (f) Filing deadlines
 

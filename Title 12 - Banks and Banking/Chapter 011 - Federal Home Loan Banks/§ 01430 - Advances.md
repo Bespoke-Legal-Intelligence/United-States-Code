@@ -186,7 +186,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (F) Congressional notification and action
 
-&emsp;&emsp;The Federal Housing Finance Board shall notify the Committee on Banking, Financeand Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
+&emsp;&emsp;The Federal Housing Finance Board shall notify the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not less than 60 days before such suspension takes effect. Such suspension shall become effective unless a joint resolution is enacted disapproving such suspension.
 
 #### (7) Failure to use amounts for affordable housing
 

@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury is authorized to refund duties or other receipts in the following cases:
 
-&emsp;(1) <i>Excess deposits.—</i>Whenever it is ascertained on liquidation or reliquidation of an entry or reconciliation that more money has been deposited or paid as duties than was required by law to be so deposited or paid;
+&emsp;(1) <i>Excess deposits.—</i>Whenever it is ascertained on liquidation or reliquidation of anentry or reconciliation that more money has been deposited or paid as duties than was required by law to be so deposited or paid;
 
 &emsp;(2) <i>Fees, charges, and exactions.—</i>Whenever it is determined in the manner required by law that any fees, charges, or exactions, other than duties and taxes, have been erroneously or excessively collected; and
 
@@ -122,5 +122,5 @@ Provisions for abatement and refund of duties in case of injury to goods while i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1503, 1509, 1514 of this title.
+This section is referred to in sections 1503, 1505, 1509, 1514 of this title.
 

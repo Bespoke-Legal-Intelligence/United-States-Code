@@ -5,21 +5,18 @@
 | Sec. |  |
 | :--- | ---: |
 | [901\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000901%20-%20Short%20title.md) | Short title. |
-| [902\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000902%20-%20Loans%20by%20Secretary%20of%20Agriculture%3B%20investigations%20and%20reports.md) | Loans by Secretary of Agriculture; investigations and reports. |
-| [903\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000903%20-%20Funds%20of%20Secretary%20of%20Agriculture.md) | Funds of Secretary of Agriculture. |
-| (a) | Loans by Secretary of the Treasury. |
-| (b) | Authorization of appropriations. |
-| (c) | Allotment of funds for loans in States. |
-| (d) | Loans of unallotted funds. |
-| (e) | Unexpended funds; limitation on use. |
+| [902\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000902%20-%20General%20authority%20of%20Secretary%20of%20Agriculture.md) | General authority of Secretary of Agriculture. |
+| (a) | Loans. |
+| (b) | Investigations and reports. |
+| [903\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000903%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [904\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000904%20-%20Loans%20by%20Secretary%20of%20Agriculture%20for%20electrical%20plants%20and%20transmission%20lines%3B%20preferences%3B%20consent%20of%20State%20authorities.md) | Loans by Secretary of Agriculture for electrical plants and transmission lines; preferences; consent of State authorities. |
-| [905\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000905%20-%20Loans%20for%20electrical%20and%20plumbing%20equipment%3B%20persons%20eligible%20for%20loans.md) | Loans for electrical and plumbing equipment; persons eligible for loans. |
-| [906\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906%20-%20Authorization%20of%20appropriations%3B%20testimony%20by%20Secretary%20of%20Agriculture%20before%20Congressional%20committees%20in%20justification%20of%20budget%20requests.md) | Authorization of appropriations; testimony by Secretary of Agriculture before Congressional committees in justification of budget requests. |
+| [905\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000905%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7774%28a%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
+| [906\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906%20-%20Funding%20for%20administrative%20expenses.md) | Funding for administrative expenses. |
 | [906a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000906a%20-%20Use%20of%20funds%20outside%20the%20United%20States%20or%20its%20territories%20prohibited.md) | Use of funds outside the United States or its territories prohibited. |
 | [907\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000907%20-%20Acquisition%20of%20property%20pledged%20for%20loans%3B%20disposition%3B%20sale%20of%20pledged%20property%20by%20borrower.md) | Acquisition of property pledged for loans; disposition; sale of pledged property by borrower. |
-| [908\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000908%20-%20Transfer%20of%20functions%20of%20Administration%20created%20by%20Executive%20Order%207037.md) | Transfer of functions of Administration created by Executive Order 7037. |
+| [908\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000908%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7776%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
 | [909\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000909%20-%20Administration%20on%20nonpolitical%20basis%3B%20dismissal%20of%20officers%20or%20employees%20for%20violating%20provision.md) | Administration on nonpolitical basis; dismissal of officers or employees for violating provision. |
-| [910\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000910%20-%20Annual%20report.md) | Annual report. |
+| [910\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000910%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7777%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201150.md) | Repealed. |
 | [911\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000911%20-%20Acceptance%20of%20services%20of%20Federal%20or%20State%20officers%3B%20application%20of%20civil%20service%20laws%3B%20expenditures%20for%20supplies%20and%20equipment.md) | Acceptance of services of Federal or State officers; application of civil service laws; expenditures for supplies and equipment. |
 | [911a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000911a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7235%28a%29%285%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203221.md) | Repealed. |
 | [912\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000912%20-%20Extension%20of%20time%20for%20repayment%20of%20loans.md) | Extension of time for repayment of loans. |
@@ -28,7 +25,11 @@
 | [914\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000914%20-%20Separability.md) | Separability. |
 | [915\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000915%20-%20Purchase%20of%20financial%20and%20credit%20reports.md) | Purchase of financial and credit reports. |
 | [916\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000916%20-%20Criteria%20for%20loans.md) | Criteria for loans. |
-| [917\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000917%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93237%2C%20title%20VII%2C%20%C2%A7703%28b%29%2C%20Dec.%2013%2C%201991%2C%20105%20Stat.%201881.md) | Repealed. |
+| [917\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000917%20-%20Prohibition%20on%20restricting%20water%20and%20waste%20facility%20services%20to%20electric%20customers.md) | Prohibition on restricting water and waste facility services to electric customers. |
+| (a) | Prohibition. |
+| (b) | Ensuring compliance. |
+| (c) | “Rural development programs” defined. |
+| (d) | Regulations. |
 | [918\.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000918%20-%20General%20prohibitions.md) | General prohibitions. |
 | (a) | No consideration of borrower's level of general funds. |
 | (b) | Loan origination fees. |
@@ -99,10 +100,8 @@
 | [937\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000937%20-%20Loans%20from%20other%20credit%20sources.md) | Loans from other credit sources. |
 | [938\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000938%20-%20Full%20faith%20and%20credit%20of%20the%20United%20States.md) | Full faith and credit of the United States. |
 | [939\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000939%20-%20Loan%20terms%20and%20conditions.md) | Loan terms and conditions. |
-| (a) | In general. |
-| (b) | Telephone loans under this subchapter. |
 | [940\.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940%20-%20Refinancing%20of%20rural%20development%20loans.md) | Refinancing of rural development loans. |
-| [940a.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940a%20-%20Privatization%20program.md) | Privatization program. |
+| [940a.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7780%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201151.md) | Repealed. |
 | [940b.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940b%20-%20Use%20of%20funds.md) | Use of funds. |
 | [940c.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940c%20-%20Cushion%20of%20credit%20payments%20program.md) | Cushion of credit payments program. |
 | (a) | Establishment. |
@@ -175,18 +174,13 @@
 |  |  |
 | :--- | ---: |
 | [950aa.](Subchapter%20005%20%28V%29%20-%20Rural%20Economic%20Development/%C2%A7%2000950aa%20-%20Additional%20powers%20and%20duties.md) | Additional powers and duties. |
-| 950aa–1. | Rural Business Incubator Fund. |
-| (a) | Establishment and use. |
-| (b) | Application for assistance. |
-| (c) | Funding of local incubators. |
-| (d) | Repayments to Incubator Fund. |
-| (e) | Full use. |
+| 950aa–1. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 950aaa–5, 1926, 1926–1, 2007a, 6941, 6942 of this title; title 16 sections 590z–7, 824k; title 43 sections 485h, 1464.
+This chapter is referred to in sections 950aaa–2, 1926, 1981, 6941, 6942 of this title; title 12 section 2129; title 16 sections 590z–7, 824k; title 43 sections 485h, 1764.
 
 
 ---

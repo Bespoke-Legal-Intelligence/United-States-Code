@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(5) Although the United States semiconductor industry leads all other principal United States industries in terms of its reinvestment in research and development, that has been insufficient by worldwide standards.
 
-&emsp;(6) Electronic equipment is essential to protect the national security of the UnitedStates, as is evidenced by the allocation of approximately 35 percent of the total research, development, and procurement budgets of the Department of Defense to electronics research.
+&emsp;(6) Electronic equipment is essential to protect the national security of the United States, as is evidenced by the allocation of approximately 35 percent of the total research, development, and procurement budgets of the Department of Defense to electronics research.
 
 &emsp;(7) The Armed Forces of the United States will eventually depend extensively on foreign semiconductor technology unless significant steps are taken, and taken at an early date, to retain United States leadership in semiconductor technology research.
 

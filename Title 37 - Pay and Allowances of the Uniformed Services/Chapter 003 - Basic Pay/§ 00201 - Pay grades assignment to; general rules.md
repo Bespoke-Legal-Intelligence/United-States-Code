@@ -21,9 +21,8 @@
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>Pay Grade:</b> | <b>Warrant Officer Grade:</b> |
+| :--- | ---: |
 | W–5 | &nbsp;Chief Warrant Officer, W–5. |
 | W–4 | &nbsp;Chief Warrant Officer, W–4. |
 | W–3 | &nbsp;Chief Warrant Officer, W–3. |
@@ -172,7 +171,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Warrant officer grades, see section 571 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
+Section Referred to in Other Sections
 
 This section is referred to in title 2 section 1602; title 10 section 571; title 18 section 207.
 

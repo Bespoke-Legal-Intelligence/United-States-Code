@@ -80,7 +80,7 @@ Amendment by Pub. L. 97–34 applicable to dispositions after June 18, 1980, in 
 
 #### Effective Date
 
-Section applicable to 1980 and subsequent calendar years, with 1980 being treated as beginning on June 19, 1980, and ending on Dec. 31, 1980, see section 1125(b) of Pub. L. 96–499, set out as a note under section 897 of this title.
+Section applicable to 1980 and subsequent calendar years, with 1980 being treated as beginning on June 19,1980, and ending on Dec. 31, 1980, see section 1125(b) of Pub. L. 96–499, set out as a note under section 897 of this title.
 
 #### Section Referred to in Other Sections
 

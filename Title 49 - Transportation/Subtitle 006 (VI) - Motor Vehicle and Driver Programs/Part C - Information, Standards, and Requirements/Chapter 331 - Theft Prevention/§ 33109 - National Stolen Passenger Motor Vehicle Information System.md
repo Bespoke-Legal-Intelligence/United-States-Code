@@ -56,7 +56,7 @@ Advisory Committee.—(1) Not later than December 24, 1992, the Attorney General
 
 &emsp;(x) one individual who is qualified to represent the interests of consumers.
 
-(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x) of this paragraph and shall serve as chairman of the committee.
+(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x)of this paragraph and shall serve as chairman of the committee.
 
 (3) The committee shall make recommendations on developing and carrying out—
 
@@ -66,11 +66,17 @@ Advisory Committee.—(1) Not later than December 24, 1992, the Attorney General
 
 (4) Not later than April 25, 1993, the committee shall submit to the Attorney General, the Secretary, and Congress a report including the recommendations of the committee.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1084.)
+(d)
+
+Immunity.—Any person performing any activity under this section or section 33110 or 33111 in good faith and with the reasonable belief that such activity was in accordance with such section shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1084; Pub. L. 104–152, §5, July 2, 1996, 110 Stat. 1385.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -103,6 +109,10 @@ In subsection (b)(1), the words “intending to transfer” are substituted for 
 In subsection (b)(2), the words “shall inform the insurance carrier, person, individual, or enterprise whether” are substituted for “provide such insurance carrier or person with a determination as to whether” for clarity and consistency in the revised subsection. The words “may require appropriate verification” are substituted for “may require such verification as the Attorney General deems appropriate” to eliminate unnecessary words.
 
 In subsection (c)(1), the words “and appoint” are omitted as unnecessary because of the restatement.
+
+#### Amendments
+
+1996—Subsec. (d). Pub. L. 104–152 added subsec. (d).
 
 #### Termination of Advisory Committees
 

@@ -8,11 +8,11 @@ The Architect of the Capitol shall have charge of all structural work at the Lib
 
 1990—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
 
-1970—Pub. L. 91–280 substituted “purchasing of all equipment other than office equipment” for “purchasing and supplying of all furniture and equipment forthe building” in second sentence and inserted sentence at end.
+1970—Pub. L. 91–280 substituted “purchasing of all equipment other than office equipment” for “purchasing and supplying of all furniture and equipment for the building” in second sentence and inserted sentence at end.
 
 #### Effective Date of 1990 Amendments
 
-Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section 205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
+Amendment by Pub. L. 101–520 and 101–562 effective on date \[Nov. 6, 1991\] Architect of the Capitol acquires the property and improvements described in Pub. L. 101–520, §205(a), and Pub. L. 101–562, §1, see section205(e) of Pub. L. 101–520 and former section 2(d) of Pub. L. 101–562, set out as a Special Facilities Center; Acquisition note below.
 
 #### Transfer of Property by Secretary of Army To Provide Facilities To Accommodate Long-Term Storage and Service Needs
 
@@ -86,6 +86,8 @@ Pub. L. 86–469, May 14, 1960, 74 Stat. 132, authorized Architect of the Capito
 
 #### Library of Congress Thomas Jefferson Building
 
+Pub. L. 104–208, div. A, title V, §5402, Sept. 30, 1996, 110 Stat. 3009–511, provided that: “The Founders Hall instructional area in the House of Representatives PageSchool, located in the Thomas Jefferson Building of the Library of Congress, shall be known and designated as ‘Bill Emerson Hall’.”
+
 Pub. L. 96–269, §1, June 13, 1980, 94 Stat. 486, provided: “That the building in the block bounded by East Capitol Street, Second Street Southeast, Independence Avenue Southeast, and First Street Southeast, in the District of Columbia (commonly known as the Library of Congress Building or the Library of Congress Main Building), shall hereafter be known and designated as the ‘Library of Congress Thomas Jefferson Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress Thomas Jefferson Building.”
 
 Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library of Congress Annex as the Library of Congress Thomas Jefferson Building, was repealed by Pub. L. 96–269, §3, June 13, 1980, 94 Stat. 486, as part of the redesignation of that building as the Library of Congress John Adams Building and the designation of the main building of the Library of Congress as the Library of Congress Thomas Jefferson Building.
@@ -95,6 +97,8 @@ Pub. L. 94–264, Apr. 13, 1976, 90 Stat. 329, which had designated the Library 
 Pub. L. 96–269, §2, June 13, 1980, 94 Stat. 486, provided that: “The building in the block bounded by East Capitol Street, Second Street Southeast, Third Street Southeast, and Pennsylvania Avenue Southeast, in the District of Columbia (commonly known as the Library of Congress Thomas Jefferson Building or the Library of Congress Annex Building), shall hereafter be known and designated as the ‘Library of Congress John Adams Building’. Any reference in any law, map, regulation, document, record, or other paper of the United States to such building shall be held to be a reference to the Library of Congress John Adams Building.”
 
 #### Library of Congress James Madison Memorial Building
+
+Pub. L. 91–214, §2, Mar. 16, 1970, 84 Stat. 69, provided that: “Nothing contained in the Act of October 19, 1965 (79 Stat. 986) \[set out as a note under this section\], shall be construed to authorize the use of the third Library of Congress building authorized by such Act for general office building purposes.”
 
 Pub. L. 89–260, Oct. 19, 1965, 79 Stat. 987, as amended by Pub. L. 91–214, §1, Mar. 16, 1970, 84 Stat. 69; Pub. L. 94–219, Feb. 27, 1976, 90 Stat. 194; Pub. L. 95–548, Oct. 30, 1978, 92 Stat. 2064, provided: “That (a) the Architect of the Capitol under the direction jointly of the House Office Building Commission, the Senate Office Building Commission, and the Joint Committee on the Library, after consultation with a committee designated by the American Institute of Architects, is authorized and directed to construct (including, but not limited to, the preparation of all necessary designs, plans, and specifications) in square 732 in the District of Columbia a third Library of Congress fireproof building, which shall be known as the Library of Congress James Madison Memorial Building. The design of such building shall include a Madison Memorial Hall and shall be in keeping with the prevailing architecture of the Federal buildings on Capitol Hill. The Madison Memorial Hall shall be developed in consultation with the James Madison Memorial Commission.
 
@@ -109,8 +113,4 @@ Sec. 2. The structural and mechanical care of the building authorized by this jo
 Sec. 3. There is hereby authorized to be appropriated not to exceed $130,675,000 to construct the building authorized by this joint resolution (including the preparation of all necessary designs, plans, and specifications).
 
 “There is also authorized to be appropriated not exceeding $10,000 to pay the expenses of the James Madison Memorial Commission.”
-
-#### Prohibition on Use of James Madison Memorial Building for General Office Purposes
-
-Pub. L. 91–214, §2, Mar. 16, 1970, 84 Stat. 69, provided that: “Nothing contained in the Act of October 19, 1965 (79 Stat. 986) \[set out as a note under this section\], shall be construed to authorize the use of the third Library of Congress building authorized by such Act for general office building purposes.”
 

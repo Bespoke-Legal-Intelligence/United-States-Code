@@ -20,15 +20,15 @@ Any person who operates a new underground injection well in violation of subsect
 
 #### (d) “New underground injection well” defined
 
-For purposes of this section, the term “new underground injection well” means an underground injection well whose operation was not approved by appropriate State and Federal agencies before December 16, 1974.
+For purposes of this section, the term “new underground injection well” means an underground injection well whose operation was notapproved by appropriate State and Federal agencies before December 16, 1974.
 
 #### (e) Areas with one aquifer; publication in Federal Register; commitments for Federal financial assistance
 
-If the Administrator determines, on his own initiative or upon petition, that an area has anaquifer which is the sole or principal drinking water source for the area and which, if contaminated, would create a significant hazard to public health, he shall publish notice of that determination in the Federal Register. After the publication of any such notice, no commitment for Federal financial assistance (through a grant, contract, loan guarantee, or otherwise) may be entered into for any project which the Administrator determines may contaminate such aquifer through a recharge zone so as to create a significant hazard to public health, but a commitment for Federal financial assistance may, if authorized under another provision of law, be entered into to plan or design the project to assure that it will not so contaminate the aquifer.
+If the Administrator determines, on his own initiative or upon petition, that an area has an aquifer which is the sole or principal drinking water source for the area and which, if contaminated, would create a significant hazard to public health, he shall publish notice of that determination in the Federal Register. After the publication of any such notice, no commitment for Federal financial assistance (through a grant, contract, loan guarantee, or otherwise) may be entered into for any project which the Administrator determines may contaminate such aquifer through a recharge zone so as to create a significant hazard to public health, but a commitment for Federal financial assistance may, if authorized under another provision of law, be entered into to plan or design the project to assure that it will not so contaminate the aquifer.
 
 (July 1, 1944, ch. 373, title XIV, §1424, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1678.)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300h–2, 300h–6, 300j–4 of this title.
+This section is referred to in sections 300h–2, 300h–6 of this title.
 

@@ -16,7 +16,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2319.
 
@@ -30,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
+1979—Subsec. (a). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
 
 #### Effective Date of 1979 Amendment
 
@@ -38,5 +40,5 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R.48143, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
 

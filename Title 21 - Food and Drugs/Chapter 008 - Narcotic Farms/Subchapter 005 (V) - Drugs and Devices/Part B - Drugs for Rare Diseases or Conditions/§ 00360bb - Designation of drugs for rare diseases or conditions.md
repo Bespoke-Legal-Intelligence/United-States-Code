@@ -10,7 +10,7 @@
 
 &emsp;(C) if a license for such drug is issued under section 262 of title 42,
 
-> the approval, certification, or license would be for use for such disease or condition, the Secretary shall designate the drug as a drug for such disease or condition. A request for a designation of a drug under this subsection shall contain the consent of the applicant to notice being given by the Secretary under subsection (b) of this section respecting the designation of the drug.
+> the approval, certification, or license would be for use for such disease or condition, the Secretary shall designate the drug as a drug for such disease or condition. A request for a designation of a drug under this subsection shallcontain the consent of the applicant to notice being given by the Secretary under subsection (b) of this section respecting the designation of the drug.
 
 (2) For purposes of paragraph (1), the term “rare disease or condition” means any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under this subsection is made.
 
@@ -34,7 +34,7 @@ The Secretary shall by regulation promulgate procedures for the implementation o
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–290, §2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under section 355(b) of this title for the drug, the submission of an application for certification of the drug under section 357 of this title, or the submission of anapplication for licensing of the drug under section 262 of title 42.”
+1988—Subsec. (a)(1). Pub. L. 100–290, §2(a), inserted after first sentence “A request for designation of a drug shall be made before the submission of an application under section 355(b) of this title for the drug, the submission of an application for certification of the drug under section 357 of this title, or the submission of an application for licensing of the drug under section 262 of title 42.”
 
 Subsecs. (b) to (d). Pub. L. 100–290, §2(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 360cc, 360dd, 360ee of this title; title 26 section 28; title 42 section 236.
+This section is referred to in sections 360cc, 360dd, 360ee of this title; title 26 section 45C; title 42 section 236.
 

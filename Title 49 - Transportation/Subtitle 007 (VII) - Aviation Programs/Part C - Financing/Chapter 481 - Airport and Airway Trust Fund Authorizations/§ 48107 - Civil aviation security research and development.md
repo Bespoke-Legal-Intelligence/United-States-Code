@@ -6,7 +6,9 @@ After the review under section 44912(b) of this title is completed, necessary am
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -22,5 +24,5 @@ The words “to the Secretary of Transportation” are added for clarity and con
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 47108, 49101, 49102, 49105 of this title.
+This section is referred to in sections 106, 47108, 50101, 50102, 50105 of this title.
 

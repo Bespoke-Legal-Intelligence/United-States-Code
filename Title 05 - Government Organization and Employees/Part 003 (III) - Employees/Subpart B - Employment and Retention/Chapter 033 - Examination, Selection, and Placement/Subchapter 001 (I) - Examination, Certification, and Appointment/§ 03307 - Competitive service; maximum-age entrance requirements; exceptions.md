@@ -10,7 +10,7 @@
 
 (e) The head of an agency may determine and fix the maximum age limit for an original appointment to a position as a firefighter or law enforcement officer, as defined by section 8401(14) or (17), respectively, of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L. 93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 419; Pub. L. 92–297, §2(a), May 16, 1972, 86 Stat. 141; Pub. L.93–350, §1, July 12, 1974, 88 Stat. 355; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 100–238, title I, §103(a)(1), Jan. 8, 1988, 101 Stat. 1744.)
 
 Historical and Revision Notes
 
@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 638b (less proviso).
 
@@ -34,17 +36,17 @@ For definition of Secretary, referred to in subsec. (b), see section 2109 of thi
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–238, §103(a)(1)(A), substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
+1988—Subsec. (d). Pub. L. 100–238, §103(a)(1)(A), substituted “may” for “may, with the concurrence of such agent as the President may designate,”.
 
 Subsec. (e). Pub. L. 100–238, §103(a)(1)(B), added subsec. (e).
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
+1980—Subsec. (b). Pub. L. 96–347 substituted “Secretary” for “Secretary of Transportation”.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–350, §1(1), inserted reference to subsec. (d).
+1974—Subsec. (a). Pub. L. 93–350, §1(1), inserted reference to subsec. (d).
 
 Subsec. (d). Pub. L. 93–350, §1(2), added subsec. (d).
 
-<b>1972</b>—Pub. L. 92–297 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+1972—Pub. L. 92–297 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### Effective Date of 1988 Amendment
 

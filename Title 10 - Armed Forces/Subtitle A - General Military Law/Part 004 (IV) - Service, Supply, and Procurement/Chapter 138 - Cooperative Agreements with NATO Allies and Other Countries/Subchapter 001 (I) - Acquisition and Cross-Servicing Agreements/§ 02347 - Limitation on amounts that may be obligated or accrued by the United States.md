@@ -10,7 +10,7 @@
 
 (c) When the armed forces are involved in a contingency operation or in a non-combat operation (including an operation in support of the provision of humanitarian or foreign disaster assistance or in support of peacekeeping operations under chapter VI or VII of the Charter of the United Nations), the restrictions in subsections (a) and (b) are waived for the purposes and duration of that operation.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2327; renumbered §2347, Pub. L. 99–145, title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(d), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, §1001, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–484, div. A, title XIII, §1312(b), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–35, title II, §202(a)(10), May 31, 1993, 107 Stat. 101; Pub. L. 103–337, div. A, title XIII, §1317(g), Oct. 5, 1994, 108 Stat. 2901.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1018, §2327; renumbered §2347, Pub. L. 99–145,title XIII, §1304(a)(1), Nov. 8, 1985, 99 Stat. 741; amended Pub. L. 99–661, div. A, title XI, §1104(d), Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, §1001, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–189, div. A, title IX, §931(e)(1), Nov. 29, 1989, 103 Stat. 1535; Pub. L. 102–484, div. A, title XIII, §1312(b), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–35, title II, §202(a)(10), May 31, 1993, 107 Stat. 101; Pub. L. 103–337, div. A, title XIII, §1317(g), Oct. 5, 1994, 108 Stat. 2901.)
 
 #### Amendments
 

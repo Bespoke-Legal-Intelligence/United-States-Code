@@ -42,7 +42,9 @@ Prohibitions Against Regulating Operations and Charges.—The Secretary of Trans
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

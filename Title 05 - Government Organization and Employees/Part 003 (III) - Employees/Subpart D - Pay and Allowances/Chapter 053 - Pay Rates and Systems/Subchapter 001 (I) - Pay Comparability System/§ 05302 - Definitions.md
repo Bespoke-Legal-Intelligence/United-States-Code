@@ -42,11 +42,11 @@ A prior section 5302, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458, provided fo
 
 #### Amendments
 
-<b>1993</b>—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
+1993—Par. (8). Pub. L. 103–89, §3(b)(1)(E)(i), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “in the case of an employee covered by the performance management and recognition system, the rates of basic pay under chapter 54; and”.
 
 Par. (9). Pub. L. 103–89, §3(b)(1)(E)(ii), substituted “applies” for “applies (including any position under the performance management and recognition system)”.
 
-<b>1992</b>—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
+1992—Par. (1)(C). Pub. L. 102–378, §2(25)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “chapter 73 of title 38, relating to the Veterans Health Services and Research Administration;”.
 
 Par. (8)(C). Pub. L. 102–378, §2(25)(B), added subpar. (C).
 

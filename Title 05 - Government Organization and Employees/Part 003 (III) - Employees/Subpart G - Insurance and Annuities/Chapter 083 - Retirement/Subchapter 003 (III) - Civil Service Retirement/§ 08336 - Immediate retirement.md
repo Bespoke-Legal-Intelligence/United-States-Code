@@ -108,7 +108,7 @@
 
 (n) An annuity or reduced annuity authorized by this section is computed under section 8339 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §306(c)(3), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(<i>l</i>), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §306(c)(3), Dec. 1, 1990, 104 Stat. 5110; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832.)
 
 Historical and Revision Notes<br>1966
 
@@ -118,7 +118,9 @@ Act
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2256 (less last sentence in (f)).
 
@@ -164,43 +166,43 @@ The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii
 
 #### Amendments
 
-<b>1994</b>—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+1994—Subsec. (<i>l</i>). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-<b>1992</b>—Subsec. (k). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
+1992—Subsec. (k). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court” in two places.
 
-<b>1990</b>—Subsec. (i)(3), (4). Pub. L. 101–510 added par. (3) and redesignated former par. (3) as (4).
+1990—Subsec. (i)(3), (4). Pub. L. 101–510 added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (k). Pub. L. 101–650 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge or United States magistrate who is separated from service, except by removal, after becoming 62 years of age and completing 5 years of civilian service, or after becoming 60 years of age and completing 10 years of service as a bankruptcy judge or United States magistrate, is entitled to an annuity.”
 
 Subsecs. (m), (n). Pub. L. 101–428 added subsec. (m) and redesignated former subsec. (m) as (n).
 
-<b>1989</b>—Subsec. (h)(1). Pub. L. 101–194, §506(b)(7)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+1989—Subsec. (h)(1). Pub. L. 101–194, §506(b)(7)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
 Subsec. (h)(2), (3). Pub. L. 101–194, §506(b)(7)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
-<b>1988</b>—Subsec. (h)(3). Pub. L. 100–325 added par. (3).
+1988—Subsec. (h)(3). Pub. L. 100–325 added par. (3).
 
-<b>1987</b>—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
+1987—Subsec. (k). Pub. L. 100–53 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “A bankruptcy judge who is separated from service, except by removal, after becoming sixty-two years of age and completing ten years of service as a bankruptcy judge is entitled to an annuity.”
 
-<b>1985</b>—Subsec. (j)(3)(A). Pub. L. 99–190 substituted “10 years” for “5 years”.
+1985—Subsec. (j)(3)(A). Pub. L. 99–190 substituted “10 years” for “5 years”.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–615 inserted provision that for purposes of par. (1), separation for failure to accept a directed reassignment to a position outsidethe commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency.
+1984—Subsec. (d). Pub. L. 98–615 inserted provision that for purposes of par. (1), separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function shall not be considered to be a removal for cause on charges of misconduct or delinquency.
 
-Subsec. (k). Pub. L. 98–353, §116(c), added subsec. (k). Former subsec. (k) redesignated (<i>l).</i>
+Subsec. (k). Pub. L. 98–353, §116(c), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 
 Subsec. (<i>l</i>). Pub. L. 98–531 redesignated the subsec. (<i>l</i>), which was redesignated by Pub. L. 98–94, as (m).
 
-Pub. L. 98–353, §116(c)(1), redesignated subsec. (k) as (<i>l).</i>
+Pub. L. 98–353, §116(c)(1), redesignated subsec. (k) as (<i>l</i>).
 
 Subsec. (m). Pub. L. 98–531 redesignated the subsec. (<i>l</i>), which was redesignated by Pub. L. 98–94, as (m).
 
-<b>1983</b>—Subsecs. (k), (<i>l</i>). Pub. L. 98–94 added subsec. (k) and redesignated former subsec. (k) as (<i>l).</i>
+1983—Subsecs. (k), (<i>l</i>). Pub. L. 98–94 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–253, §308(a), inserted provision that the agency which is undergoing a major reorganization, a major reduction in force, or a major transfer of function must have a significant percent of its employees who will be separated or subject to an immediate reduction in the rate of basic pay and inserted provision that notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
+1982—Subsec. (d). Pub. L. 97–253, §308(a), inserted provision that the agency which is undergoing a major reorganization, a major reduction in force, or a major transfer of function must have a significant percent of its employees who will be separated or subject to an immediate reduction in the rate of basic pay and inserted provision that notwithstanding the first sentence of this subsection, an employee described in paragraph (1) of this subsection is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee's agency for which the employee is qualified, which is not lower than 2 grades (or pay levels) below the employee's grade (or pay level), and which is within the employee's commuting area.
 
-<b>1981</b>—Subsec. (h). Pub. L. 97–89 designated existing provisions as par. (1) and added par. (2).
+1981—Subsec. (h). Pub. L. 97–89 designated existing provisions as par. (1) and added par. (2).
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–70 §1241(a)(1), designated existing provisions as par. (1) and added par. (2).
+1979—Subsec. (c). Pub. L. 96–70 §1241(a)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (i). Pub. L. 96–70, §1241(a)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
@@ -210,17 +212,17 @@ Pub. L. 96–70, §1241(a)(2), redesignated former subsec. (i) as (j).
 
 Subsec. (k). Pub. L. 96–135 redesignated former subsec. (j) as (k).
 
-<b>1978</b>—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, or transfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
+1978—Subsec. (d)(2). Pub. L. 95–454, §306, substituted provisions relating to the employee's agency undergoing a major reorganization, reduction in force, or transfer of function, as determined by the Office of Personnel Management, for provisions relating to the employee's agency undergoing a major reduction in force, as determined by the Commission.
 
 Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted “an” for “a reduced” after “is entitled to”.
+1975—Subsecs. (d), (g). Pub. L. 94–183 substituted “an” for “a reduced” after “is entitled to”.
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining “detention” to include the duties of specified employees.
+1974—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining “detention” to include the duties of specified employees.
 
-<b>1973</b>—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
+1973—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
 
-<b>1972</b>—Subsec. (c). Pub. L. 92–382 inserted reference to employees performing work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment for the purpose of retirement benefits.
+1972—Subsec. (c). Pub. L. 92–382 inserted reference to employees performing work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment for the purpose of retirement benefits.
 
 Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
@@ -260,7 +262,7 @@ Section 308(b) of Pub. L. 97–253 provided that: “The amendment made by subse
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1601 of Title 10, Armed Forces.
+Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as an Effective Date note under section 1621 of Title 10, Armed Forces.
 
 #### Effective Date of 1979 Amendments
 
@@ -272,7 +274,7 @@ Section 1241(b)(1) of Pub. L. 96–70 provided that: “The amendments made by t
 
 Amendment by section 306 of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review ofprovisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by section 412 of Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -300,7 +302,7 @@ Computation of annuity of employees retiring under subsec. (c) of this section, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3381, 3382, 3396, 8335, 8339, 8348 of this title; title 22 sections 3671, 3691, 4045, 4046, 4051, 4052; title 24 section 225d; title 25 section 472a; title 45 section 1206; title 50 section 2053.
+This section is referred to in sections 3381, 3382, 3396, 6302, 8335, 8339, 8348 of this title; title 22 sections 3671, 3691, 4045, 4046, 4051, 4052; title 24 section 225d; title 25 section 472a; title 45 section 1206; title 50 section 2053.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ At such time as the State or appropriate units of local government having jurisd
 
 (2) Lands and waters, and interests therein, within the boundaries of the reserve which were administered by the Forest Service, United States Department of Agriculture or the Bureau of Land Management, Department of the Interior prior to November 18, 1988, are hereby transferred to the administrative jurisdiction of the Secretary to be administered by the National Park Service in accordance with this subchapter.
 
-(3) Lands and interest therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 of this title, and in a manner consistent with the purpose of this subchapter.
+(3) Lands and interest therein so acquired shall, so long as responsibility for managementand administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 of this title, and in a manner consistent with the purpose of this subchapter.
 
 #### (e) Withdrawal of management and administration from State or local units of government
 
@@ -38,7 +38,7 @@ If, after the transfer of management and administration of any lands pursuant to
 
 #### (f) Water rights
 
-Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve <sup>1</sup> designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federalreserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: <i>Provided</i>, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve <sup>1</sup> under this subchapter.
+Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve <sup>1</sup> designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: <i>Provided</i>, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve <sup>1</sup> under this subchapter.
 
 #### (g) Withdrawal of lands from disposition under other laws
 

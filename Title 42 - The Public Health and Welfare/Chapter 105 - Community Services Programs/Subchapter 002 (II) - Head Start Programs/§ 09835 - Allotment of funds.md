@@ -6,7 +6,7 @@
 
 (2) The Secretary shall reserve 13 percent of the amount appropriated for each fiscal year for use in accordance with the following order of priorities—
 
-&emsp;(A) Indian and migrant Head Start programs and services for handicapped children, exceptthat there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1994;
+&emsp;(A) Indian and migrant Head Start programs and services for handicapped children, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1994;
 
 &emsp;(B) payments to Guam, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands according to their respective needs, except that such amount shall not exceed one-half of 1 percent of the sums appropriated for any fiscal year;
 
@@ -72,7 +72,7 @@
 
 &emsp;(A) each State receives an amount which is equal to the amount the State received for fiscal year 1981; and
 
-&emsp;(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the program of aid to families with dependent children under a State plan approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in each State as compared to all States; and
+&emsp;(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] in each State as compared to all States; and
 
 &emsp;(ii) 662/3 percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States.
 
@@ -118,7 +118,7 @@ Financial assistance extended under this subchapter for a Head Start program sha
 
 #### (c) Services covered
 
-No programs shall be approved for assistance under this subchapter unless the Secretary issatisfied that the services to be provided under such program will be in addition to, and not in substitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
+No programs shall be approved for assistance under this subchapter unless the Secretary is satisfied that the services to be provided under such program will be in addition to, and not in substitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
 
 #### (d) Enrollment of children with disabilities and provision of services
 
@@ -178,9 +178,9 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 #### (<i>l</i>) Frequent relocation of migrant families
 
-With funds made available under subsection (a)(2) of this section to migrant Head Start programs, the Secretary shall give priority to migrant Head Start programs that serve eligiblechildren of migrant families whose work requires them to relocate most frequently.
+With funds made available under subsection (a)(2) of this section to migrant Head Start programs, the Secretary shall give priority to migrant Head Start programs that serve eligible children of migrant families whose work requires them to relocate most frequently.
 
-(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626.)
+(Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ The Social Security Act, referred to in subsec. (a)(4)(B)(i), is act Aug. 14, 19
 This subchapter, referred to in subsec. (j), was in the original “this Act” and was translated as reading “this subchapter”, meaning subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (a)(4)(B)(i). Pub. L. 104–193 substituted “State program of assistance funded” for “program of aid to families with dependent children under a State plan approved”.
 
 1994—Subsec. (a)(1). Pub. L. 103–252, §105(b)(1), substituted “through (4), and subject to paragraphs (5) and (6)” for “through (5)”.
 
@@ -202,7 +204,7 @@ Subsec. (a)(3)(C). Pub. L. 103–252, §105(a)(1)–(3), redesignated subpar. (A
 
 Subsec. (a)(3)(D). Pub. L. 103–252, §105(a)(1), redesignated subpar. (B) as (D).
 
-Subsec. (a)(3)(D)(i). Pub. L. 103–252, §105(a)(4)(A), (b)(3), struck out “for the first, second, and third fiscal years for which funds are so reserved” after “subparagraph (A)” in introductory provisions, substituted “paragraph (4)” for “paragraph (5)” in subcl. (I), and inserted “geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs,” after “States,” in subcl. (II).
+Subsec. (a)(3)(D)(i). Pub. L. 103–252, §105(a)(4)(A), (b)(3), struck out “for the first, second, and third fiscal years for which funds are so reserved” after “subparagraph (A)” in introductory provisions, substituted“paragraph (4)” for “paragraph (5)” in subcl. (I), and inserted “geographical areas specified in subsection (a)(2)(B) of this section and Indian and migrant Head Start programs,” after “States,” in subcl. (II).
 
 Subsec. (a)(3)(D)(ii). Pub. L. 103–252, §105(b)(3), substituted “paragraph (4)” for “paragraph (5)”.
 
@@ -230,7 +232,7 @@ Subsec. (g). Pub. L. 103–252, §105(c), designated existing provisions as par.
 
 Subsec. (h). Pub. L. 103–252, §105(d), substituted “Financial assistance provided under this subchapter may be used by each Head Start program to” for “Each Head Start program may”.
 
-Subsecs. (j) to (<i>l</i>). Pub. L. 103–252, §105(e), added subsecs. (j) to (<i>l).</i>
+Subsecs. (j) to (<i>l</i>). Pub. L. 103–252, §105(e), added subsecs. (j) to (<i>l</i>).
 
 1992—Subsec. (a)(2)(A). Pub. L. 102–401, §2(k)(1)(A)(i)(I), inserted “children” after “handicapped”.
 
@@ -285,6 +287,10 @@ Subsec. (h). Pub. L. 101–501, §123(b), added subsec. (h).
 1986—Subsec. (a)(2)(A). Pub. L. 99–425, in amending cl. (A) generally, designated existing subcl. (i) as all of cl. (A), substituted “1987” for “1982” and “1985” for “1981”, and struck out subcl. (ii) relating to cost-of-living adjustments.
 
 1984—Subsec. (a)(2). Pub. L. 98–558 inserted “as described in section 9843 of this title, in an amount for each fiscal year which is not less than the amount expended for training and technical assistance activities under this clause for fiscal year 1982” in cl. (C), and inserted at end “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984. No funds reserved under this paragraph may be combined with funds appropriated under any other Act if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this subchapter are separately identified in such grant or payment and are used for the purposes of this subchapter.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 

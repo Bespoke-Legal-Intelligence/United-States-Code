@@ -152,7 +152,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percent of the present value of the cumulative accrued benefits under the plan for all employees, and
 
-&emsp;&emsp;&emsp;(ii) any defined contribution plan if, as of the determination date, the aggregateof the accounts of key employees under the plan exceeds 60 percent of the aggregate of the accounts of all employees under such plan.
+&emsp;&emsp;&emsp;(ii) any defined contribution plan if, as of the determination date, the aggregate of the accounts of key employees under the plan exceeds 60 percent of the aggregate of the accounts of all employees under such plan.
 
 #### (B) Aggregated plans
 
@@ -234,6 +234,10 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) if there is no method described in clause (i), as if such benefit accrued not more rapidly than the slowest accrual rate permitted under section 411(b)(1)(C).
 
+#### (G) Simple retirement accounts
+
+&emsp;&emsp;The term “top-heavy plan” shall not include a simple retirement account under section 408(p).
+
 #### (h) Adjustments in section 415 limits for top-heavy plans
 
 #### (1) In general
@@ -248,7 +252,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The requirements of this subparagraph are met with respect to any top-heavy planif such plan (and any plan required to be included in an aggregation group with such plan) meets the requirements of subsection (c) as modified by clause (ii).
+&emsp;&emsp;&emsp;The requirements of this subparagraph are met with respect to any top-heavy plan if such plan (and any plan required to be included in an aggregation group with such plan) meets the requirements of subsection (c) as modified by clause (ii).
 
 #### (ii) Modifications
 
@@ -292,7 +296,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
 
-> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(8) shall be excluded.
+> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
 
 #### (B) Percentage owners
 
@@ -322,7 +326,7 @@ For purposes of this section—
 
 #### (D) Compensation
 
-&emsp;&emsp;For purposes of this paragraph, the term “compensation” has the meaning given such term by section 414(q)(7).
+&emsp;&emsp;For purposes of this paragraph, the term “compensation” has the meaning given such term by section 414(q)(4).
 
 #### (2) Non-key employee
 
@@ -338,7 +342,7 @@ For purposes of this section—
 
 #### (4) Treatment of employees covered by collective bargaining agreements
 
-&emsp;The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees coveredby an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (5) Treatment of beneficiaries
 
@@ -354,7 +358,11 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
 
-(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468.)
+(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816.)
+
+#### Repeal of Subsection (h)
+
+<i>Pub. L. 104–188, title I, §1452(c)(7), (d), Nov. 20, 1996, 110 Stat. 1816, provided that, applicable to limitation years beginning after Dec. 31, 1999, subsection (h) of this section is repealed.</i>
 
 #### References in Text
 
@@ -363,6 +371,12 @@ The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug.
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (g)(4)(G). Pub. L. 104–188, §1421(b)(7), added subpar. (G).
+
+Subsec. (i)(1)(A). Pub. L. 104–188, §1431(c)(1)(C), substituted “section 414(q)(5)” for “section 414(q)(8)” in closing provisions.
+
+Subsec. (i)(1)(D). Pub. L. 104–188, §1431(c)(1)(B), substituted “section 414(q)(4)” for “section 414(q)(7)”.
 
 1988—Subsec. (i)(1)(A). Pub. L. 100–647, §1011(i)(4)(B), inserted at end “For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(8) shall be excluded.”
 
@@ -404,6 +418,14 @@ Subsec. (i)(1)(B)(iii). Pub. L. 98–369, §713(f)(6)(B), substituted subparagra
 
 Subsec. (i)(1)(C). Pub. L. 98–369, §713(f)(1)(A), substituted in heading “ownership in the employer” for “5-percent or 1-percent owners”.
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1421(b)(7) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+
+Amendment by section 1431(c)(1)(B), (C) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendment to be treated as having been in effect for years beginning in 1996, see section 1431(d)(1) of Pub. L. 104–188, set out as a note under section 414 of this title.
+
+Amendment by section 1452(c)(7) of Pub. L. 104–188 applicable to limitation years beginning after Dec. 31, 1999, see section 1452(d) of Pub. L. 104–188, set out as a note under section 415 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Section 1011(j)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by this paragraph \[amending this section\] shall apply to years beginning after December 31, 1988.”
@@ -439,6 +461,10 @@ General Rule.—Except as provided in subsection (b), the amendments made by thi
 “(b)
 
 Allowance of Exclusion of Death Benefit for Self-Employed Individuals.—The amendment made by section 239 \[amending section 101 of this title\] shall apply with respect to decedents dying after December 31, 1983.”
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -136,7 +136,7 @@ A prior section 295g–8a, act July 1, 1944, ch. 373, title VII, §788A, as adde
 
 Prior sections 295g–8b to 295g–10 were omitted in the general revision of this subchapter by Pub. L. 102–408.
 
-Section 295g–8b, act July 1, 1944, ch. 373, title VII, §788A, formerly §788B, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2745, 95 Stat. 926; amended Oct. 22, 1985, Pub. L. 99–129, title I, §110, title II, §§218, 220(f)(2)–(4), 99 Stat. 524, 543, 544; Nov. 4, 1988, Pub. L. 100–607, title VI, §§622, 629(b)(2), 102 Stat. 3141, 3146; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g), 102 Stat. 4239; renumbered §788A and amended Aug. 16, 1989, Pub. L. 101–93, §5(k), (<i>o</i>)(4), 103 Stat. 613, 614, related to training with respect to acquired immune deficiency syndrome. See section 294n of this title.
+Section 295g–8b, act July 1, 1944, ch. 373, title VII, §788A, formerly §788B, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2745, 95 Stat. 926; amended Oct. 22, 1985, Pub. L. 99–129, title I, §110, title II, §§218, 220(f)(2)–(4), 99 Stat. 524, 543, 544; Nov. 4, 1988, Pub. L. 100–607, title VI, §§622, 629(b)(2), 102 Stat. 3141, 3146; Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g), 102 Stat. 4239; renumbered §788A and amended Aug. 16, 1989, Pub. L. 101–93, §5(k), (<i>o</i>)(4), 103 Stat. 613, 614, related to training with respect to acquired immune deficiency syndrome. See section 300ff–111 of this title.
 
 Another prior section 788A of act July 1, 1944, was renumbered section 782 by section 614(a) of Pub. L. 100–607, as amended, and classified to section 295g–2 of this title.
 

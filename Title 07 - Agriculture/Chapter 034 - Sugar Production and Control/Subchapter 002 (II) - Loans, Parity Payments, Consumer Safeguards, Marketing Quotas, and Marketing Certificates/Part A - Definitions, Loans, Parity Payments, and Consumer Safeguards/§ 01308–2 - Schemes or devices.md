@@ -14,5 +14,5 @@ Section 1304(b) of Pub. L. 100–203 provided that this section is effective beg
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1308, 1308–4 of this title.
+This section is referred to in sections 1308, 1308–4, 7215 of this title.
 

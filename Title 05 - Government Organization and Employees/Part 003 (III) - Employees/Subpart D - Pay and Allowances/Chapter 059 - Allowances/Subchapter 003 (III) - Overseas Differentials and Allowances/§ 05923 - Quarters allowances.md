@@ -26,7 +26,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3036.
 
@@ -36,9 +38,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–138 designated existing provisions as subsec. (a), substituted “subsistence” for “lodging” and inserted “(including meals and laundry expenses)” after “quarters” in par. (1), substituted “90 days” for “3 months” in par. (1)(A), substituted “30 days” for “1 month” in par. (1)(B), and added subsec. (b).
+1991—Pub. L. 102–138 designated existing provisions as subsec. (a), substituted “subsistence” for “lodging” andinserted “(including meals and laundry expenses)” after “quarters” in par. (1), substituted “90 days” for “3 months” in par. (1)(A), substituted “30 days” for “1 month” in par. (1)(B), and added subsec. (b).
 
-<b>1982</b>—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
+1982—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 
 #### Section Referred to in Other Sections
 

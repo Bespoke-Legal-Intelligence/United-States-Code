@@ -6,13 +6,15 @@ For purposes of this subchapter—
 
 The term “active ingredient” means—
 
-&emsp;(1) in the case of a pesticide other than a plant regulator, defoliant, or desiccant, an ingredient which will prevent, destroy, repel, or mitigate any pest;
+&emsp;(1) in the case of a pesticide other than a plant regulator, defoliant, desiccant, or nitrogen stabilizer, an ingredient which will prevent, destroy, repel, or mitigate any pest;
 
 &emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, will accelerate or retard the rate of growth or rate of maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
 
-&emsp;(3) in the case of a defoliant, an ingredient which will cause the leaves or foliage to drop from a plant; and
+&emsp;(3) in the case of a defoliant, an ingredient which will cause the leaves or foliage to drop from a plant;
 
-&emsp;(4) in the case of a desiccant, an ingredient which will artificially accelerate the drying of plant tissue.
+&emsp;(4) in the case of a desiccant, an ingredient which will artificially accelerate the drying of plant tissue; and
+
+&emsp;(5) in the case of a nitrogen stabilizer, an ingredient which will prevent or hinder the process of nitrification, denitrification, ammonia volatilization, or urease production through action affecting soil bacteria.
 
 #### (b) Administrator
 
@@ -76,7 +78,7 @@ The term “fungus” means any non-chlorophyll-bearing thallophyte (that is, an
 
 #### (<i>l</i>) Imminent hazard
 
-The term “imminent hazard” means a situation which exists when the continued use of a pesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
+The term “imminent hazard” means a situation which exists when the continued use of apesticide during the time required for cancellation proceeding would be likely to result in unreasonable adverse effects on the environment or will involve unreasonable hazard to the survival of a species declared endangered or threatened by the Secretary pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
 #### (m) Inert ingredient
 
@@ -98,7 +100,7 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 #### (1) Label
 
-&emsp;The term “label” means the written, printed, or graphic matter on, or attached to, thepesticide or device or any of its containers or wrappers.
+&emsp;The term “label” means the written, printed, or graphic matter on, or attached to, the pesticide or device or any of its containers or wrappers.
 
 #### (2) Labeling
 
@@ -170,7 +172,7 @@ The term “pest” means (1) any insect, rodent, nematode, fungus, weed, or (2)
 
 #### (u) Pesticide
 
-The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, and (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) <sup>1</sup> of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) <sup>1</sup> of title 21 bearing or containing a new animal drug.
+The term “pesticide” means (1) any substance or mixture of substances intended for preventing, destroying, repelling, or mitigating any pest, (2) any substance or mixture of substances intended for use as a plant regulator, defoliant, or desiccant, and (3) any nitrogen stabilizer, except that the term “pesticide” shall not include any article that is a “new animal drug” within the meaning of section 321(w) <sup>1</sup> of title 21, that has been determined by the Secretary of Health and Human Services not to be a new animal drug by a regulation establishing conditions of use for the article, or that is an animal feed within the meaning of section 321(x) <sup>1</sup> of title 21 bearing or containing a new animal drug. The term “pesticide” does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term “critical device” includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term “semi-critical device” includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.
 
 #### (v) Plant regulator
 
@@ -198,7 +200,7 @@ The term “State” means a State, the District of Columbia, the Commonwealth o
 
 #### (bb) Unreasonable adverse effects on the environment
 
-The term “unreasonable adverse effects on the environment” means any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide.
+The term “unreasonable adverse effects on the environment” means (1) any unreasonable risk to man or the environment, taking into account the economic, social, and environmental costs and benefits of the use of any pesticide, or (2) ahuman dietary risk from residues that result from a use of a pesticide in or on any food inconsistent with the standard under section 346a of title 21. The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.
 
 #### (cc) Weed
 
@@ -230,7 +232,85 @@ The term “to use any registered pesticide in a manner inconsistent with its la
 
 The term “to distribute or sell” means to distribute, sell, offer for sale, hold for distribution, hold for sale, hold for shipment, ship, deliver for shipment, release for shipment, or receive and (having so received) deliver or offer to deliver. The term does not include the holding or application of registered pesticides or use dilutions thereof by any applicator who provides a service of controlling pests without delivering any unapplied pesticide to any person so served.
 
-(June 25, 1947, ch. 125, §2, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 975; amended Dec. 28, 1973, Pub. L. 93–205, §13(f), 87 Stat. 903; Nov. 28, 1975, Pub. L. 94–140, §9, 89 Stat. 754; Sept. 30, 1978, Pub. L. 95–396, §1, 92 Stat. 819; Oct. 25, 1988, Pub. L. 100–532, title I, §101, title VI, §601(a), title VIII, §801(a), 102 Stat. 2655, 2677, 2679; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(1), (2), (b)(3)(A), (B), 105 Stat. 1894, 1895.)
+#### (hh) Nitrogen stabilizer
+
+The term “nitrogen stabilizer” means any substance or mixture of substances intended for preventing or hindering the process of nitrification, denitrification, ammonia volatilization, or urease production through action upon soil bacteria. Such term shall not include—
+
+&emsp;(1) dicyandiamide;
+
+&emsp;(2) ammonium thiosulfate; or
+
+&emsp;(3) any substance or mixture of substances.—<sup>2</sup>
+
+&emsp;&emsp;(A) that was not registered pursuant to section 136a of this title prior to January 1, 1992; and
+
+&emsp;&emsp;(B) that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization <sup>3</sup> urease production regardless of the actual use or purpose for, or future use or purpose for, the substance or mixture.
+
+> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixture shall not be deemed a specific claim within the meaning of this subsection.
+
+#### (jj) <sup>4</sup> Maintenance applicator
+
+The term “maintenance applicator” means any individual who, in the principal course of such individual's employment, uses, or supervises the use of, a pesticide not classified for restricted use (other than a ready to use consumerproducts pesticide); for the purpose of providing structural pest control or lawn pest control including janitors, general maintenance personnel, sanitation personnel, and grounds maintenance personnel. The term “maintenance applicator” does not include private applicators as defined in subsection (e)(2) of this section; individuals who use antimicrobial pesticides, sanitizers or disinfectants; individuals employed by Federal, State, and local governments or any political subdivisions thereof, or individuals who use pesticides not classified for restricted use in or around their homes, boats, sod farms, nurseries, greenhouses, or other noncommercial property.
+
+#### (kk) Service technician
+
+The term “service technician” means any individual who uses or supervises the use of pesticides (other than a ready to use consumer products pesticide) for the purpose of providing structural pest control or lawn pest control on the property of another for a fee. The term “service technician” does not include individuals who use antimicrobial pesticides, sanitizers or disinfectants; or who otherwise apply ready to use consumer products pesticides.
+
+#### (<i>ll</i>) Minor use
+
+The term “minor use” means the use of a pesticide on an animal, on a commercial agricultural crop or site, or for the protection of public health where—
+
+&emsp;(1) the total United States acreage for the crop is less than 300,000 acres, as determined by the Secretary of Agriculture; or
+
+&emsp;(2) the Administrator, in consultation with the Secretary of Agriculture, determines that, based on information provided by an applicant for registration or a registrant, the use does not provide sufficient economic incentive to support the initial registration or continuing registration of a pesticide for such use and—
+
+&emsp;&emsp;(A) there are insufficient efficacious alternative registered pesticides available for the use;
+
+&emsp;&emsp;(B) the alternatives to the pesticide use pose greater risks to the environment or human health;
+
+&emsp;&emsp;(C) the minor use pesticide plays or will play a significant part in managing pest resistance; or
+
+&emsp;&emsp;(D) the minor use pesticide plays or will play a significant part in an integrated pest management program.
+
+> The status as a minor use under this subsection shall continue as long as the Administrator has not determined that, based on existing data, such use may cause an unreasonable adverse effect on the environment and the use otherwise qualifies for such status.
+
+#### (mm) Antimicrobial pesticide
+
+#### (1) In general
+
+&emsp;The term “antimicrobial pesticide” means a pesticide that—
+
+&emsp;&emsp;(A) is intended to—
+
+&emsp;&emsp;&emsp;(i) disinfect, sanitize, reduce, or mitigate growth or development of microbiological organisms; or
+
+&emsp;&emsp;&emsp;(ii) protect inanimate objects, industrial processes or systems, surfaces, water, or other chemical substances from contamination, fouling, or deterioration caused by bacteria, viruses, fungi, protozoa, algae, or slime; and
+
+&emsp;&emsp;(B) in the intended use is exempt from, or otherwise not subject to, a tolerance under section 346a of title 21 or a food additive regulation under section 348 of title 21.
+
+#### (2) Excluded products
+
+&emsp;The term “antimicrobial pesticide” does not include—
+
+&emsp;&emsp;(A) a wood preservative or antifouling paint product for which a claim of pesticidal activity other than or in addition to an activity described in paragraph (1) is made;
+
+&emsp;&emsp;(B) an agricultural fungicide product; or
+
+&emsp;&emsp;(C) an aquatic herbicide product.
+
+#### (3) Included products
+
+&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
+
+#### (nn) Public health pesticide
+
+The term “public health pesticide” means any minor use pesticide product registered for use and used predominantly in public health programs for vector control or for other recognized health protection uses, including the prevention or mitigation of viruses, bacteria, or other microorganisms (other than viruses, bacteria, or other microorganisms on or in living man or other living animal) that pose a threat to public health.
+
+#### (<i>oo</i>) Vector
+
+The term “vector” means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
+
+(June 25, 1947, ch. 125, §2, as added Oct. 21, 1972, Pub. L. 92–516, §2, 86 Stat. 975; amended Dec. 28, 1973, Pub. L. 93–205, §13(f), 87 Stat. 903; Nov. 28, 1975, Pub. L. 94–140, §9, 89 Stat. 754; Sept. 30, 1978, Pub. L. 95–396, §1, 92 Stat. 819; Oct. 25, 1988, Pub. L. 100–532, title I, §101, title VI, §601(a), title VIII, §801(a), 102 Stat. 2655, 2677, 2679; Dec. 13, 1991, Pub. L. 102–237, title X, §1006(a)(1), (2), (b)(3)(A), (B), 105 Stat. 1894, 1895; Aug. 3, 1996, Pub. L. 104–170, title I, §§105(a), 120, title II, §§210(a), 221, 230, title III, §304, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
 
 #### References in Text
 
@@ -245,6 +325,26 @@ Section 27(b) of Federal Pesticide Act of 1978, referred to in subsec. (ee), is 
 A prior section 2 of act June 25, 1947, was classified to section 135 of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–170, §105(a)(1)(A), substituted “defoliant, desiccant, or nitrogen stabilizer” for “defoliant, or desiccant”.
+
+Subsec. (a)(5). Pub. L. 104–170, §105(a)(1)(B)–(D), added par. (5).
+
+Subsec. (u). Pub. L. 104–170, §§105(a)(2), 221(1), struck out “and” before “(2)”, inserted “and (3) any nitrogen stabilizer,” after “desiccant,”, and inserted at end “The term ‘pesticide’ does not include liquid chemical sterilant products (including any sterilant or subordinate disinfectant claims on such products) for use on a critical or semi-critical device, as defined in section 321 of title 21. For purposes of the preceding sentence, the term ‘critical device’ includes any device which is introduced directly into the human body, either into or in contact with the bloodstream or normally sterile areas of the body and the term ‘semi-critical device’ includes any device which contacts intact mucous membranes but which does not ordinarily penetrate the blood barrier or otherwise enter normally sterile areas of the body.”
+
+Subsec. (bb). Pub. L. 104–170, §304, which directed amendment of section 2(bb) by inserting “(1)” after “means” and adding cl. (2), without specifying the Act being amended, was executed to this subsection, which is section 2(bb) of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
+
+Pub. L. 104–170, §230(a), inserted at end “The Administrator shall consider the risks and benefits of public health pesticides separate from the risks and benefits of other pesticides. In weighing any regulatory action concerning a public health pesticide under this subchapter, the Administrator shall weigh any risks of the pesticide against the health risks such as the diseases transmitted by the vector to be controlled by the pesticide.”
+
+Subsec. (hh). Pub. L. 104–170, §105(a)(3), added subsec. (hh).
+
+Subsecs. (jj), (kk). Pub. L. 104–170, §120, added subsecs. (jj) and (kk).
+
+Subsec. (<i>ll</i>). Pub. L. 104–170, §210(a), added subsec. (<i>ll</i>).
+
+Subsec. (mm). Pub. L. 104–170, §221(2), added subsec. (mm).
+
+Subsecs. (nn), (<i>oo</i>). Pub. L. 104–170, §230(b), added subsecs. (nn) and (<i>oo</i>).
 
 1991—Subsec. (e)(1). Pub. L. 102–237, §1006(a)(1), substituted “section 136i” for “section 136b” and “uses dilutions” for “use dilutions” and made technical amendment to reference to subsection (ee) of this section involving corresponding provision of original act.
 
@@ -320,6 +420,12 @@ Section 4 of Pub. L. 92–516, as amended by Pub. L. 94–140, §4, Nov. 28, 197
 
 “(e) For purposes of determining any criminal or civil penalty or liability to any third person in respect of any act or omission occurring before the expiration of the periods referred to in this section, the Federal Insecticide, Fungicide, and Rodenticide Act shall be treated as continuing in effect as if this Act had not been enacted.”
 
+#### Short Title of 1996 Amendment
+
+Section 1 of Pub. L. 104–170 provided that: “This Act \[enacting sections 136i–2, 136r–1, and 136w–5 to 136w–7 of this title, amending this section, sections 136a, 136a–1, 136d, 136q, 136s, 136w, 136w–3, 136x, and 136y of this title, and sections 321, 331, 333, 342, and 346a of Title 21, Food and Drugs, and enacting provisions set out as notes under section 136i–2 of this title and sections 301 and 346a of Title 21\] may be cited as the ‘Food Quality Protection Act of 1996’.”
+
+\[Another Food Quality Protection Act of 1996 was enacted by Pub. L. 104–170, title IV, 110 Stat. 1513, see section 401(a) of Pub. L. 104–170, set out as a note under section 301 of Title 21, Food and Drugs.\]
+
 #### Short Title of 1988 Amendment
 
 Section 1(a) of Pub. L. 100–532 provided that: “This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the ‘Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988’.”
@@ -344,7 +450,13 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136<i>o</i>, 136w, 136w–1, 138, 5882 of this title.
+This section is referred to in sections 136a, 136<i>o</i>, 136w, 136w–1, 138 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Period probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “, or”.</i>
+
+<i><sup>4</sup></i><i> So in original. No subsec. (ii) was enacted.</i>
 

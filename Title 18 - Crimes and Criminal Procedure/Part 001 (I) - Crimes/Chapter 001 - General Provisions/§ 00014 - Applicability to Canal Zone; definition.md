@@ -1,4 +1,4 @@
-### §14 . Applicability to Canal Zone; definition
+### §14. Applicability to Canal Zone; definition
 
 (a) In addition to the sections of this title which by their terms apply to and within the Canal Zone, the following sections of this title, as amended from time to time, apply to and within the Canal Zone: 6, 8, 11, 201, 202, 203, 205, 207, 208, 209, 210, 211, 218, 287, 331, 371, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 505, 506, 507, 508, 509, 594, 595, 598, 600, 601, 604, 605, 703, 752, 755, 756, 792, 793, 794, 795, 796, 797, 798, 798A, 799, 915, 917, 951, 953, 954, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967, 1001, 1017, 1024, 1073, 1301, 1364, 1381, 1382, 1542, 1543, 1544, 1546, 1584, 1621, 1622, 1761, 1821, 1991, 2151, 2152, 2153, 2154, 2155, 2156, 2157,<sup>1</sup> 2199, 2231, 2234, 2235, 2274, 2275, 2277, 2381, 2382, 2383, 2384, 2385, 2387, 2388, 2389, 2390, 2421, 2422, 2423, 2424, 3042, 3059, 3105, 3109, 3187, 3195, 3500.
 
@@ -10,17 +10,17 @@
 
 #### Senate Revision Amendment
 
-This amendment, adding a new section 14, together with amended section 5 will clarify the applicability of Federal criminal statutes within the Canal Zone. It was particularly desired by the Governor of the Canal Zone and the compiler of the Canal Zone Code. The Governor of the Canal Zone, in a letter dated September 22, 1945, and filed with the House Judiciary Committee, advised:
+This amendment, adding a new section 14, together with amended section 5 will clarify the applicability of Federal criminal statutes within the Canal Zone. It was particularly desired by the Governor of the Canal Zoneand the compiler of the Canal Zone Code. The Governor of the Canal Zone, in a letter dated September 22, 1945, and filed with the House Judiciary Committee, advised:
 
 “General criminal laws of the United States are now applicable to the Canal Zone only if applicability is indicated by language expressly referring to the Canal Zone, or to possessions of the United States, or to territory subject to the jurisdiction of the United States, etc. \* \* \* The bill in its present form would have undesirable effects insofar as concerns the continued operation of the Canal Zone Criminal Code and Code of Criminal Procedure, established by Congress as titles 5 and 6 of the Canal Zone Code, enacted by act of June 19, 1934 (ch. 667, 48 Stat. 1122), and also would perhaps have undesirable effects insofar as concerns the continued applicability to the Canal Zone of the body of general criminal laws which are now applicable.”
 
 #### References in Text
 
-For definition of Canal Zone and Canal Zone Code, referred to in text, see sections 3602(b) and 3602 note of Title 22, Foreign Relations and Intercourse.
-
 Among the sections of this title, referred to in text, as being by their terms applicable to and within the Canal Zone are: section 1261 making Liquor Traffic provisions of sections 1261 to 1265 inapplicable to Canal Zone; section 3183, relating to extradition of fugitives from state, territory or possession into Canal Zone: sections 3241 relating to jurisdiction of offenses under certain sections: sections 3771 and 3772, relating to power of Supreme Court to prescribe rules of procedure in a criminal case to and including the verdict and after the verdict.
 
 Section 2157 of this title, referred to in subsec. (a), was repealed by Pub. L. 103–322, title XXXIII, §330004(13), Sept. 13, 1994, 108 Stat. 2142.
+
+The Canal Zone Code, referred to in subsec. (b), was enacted by Pub. L. 87–845, §1, Oct. 18, 1962, 76A Stat. 1, redesignated the Panama Canal Code by Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, and repealed by Pub. L. 104–201, div. C, title XXXV, §3549, Sept. 23, 1996, 110 Stat. 2870.
 
 #### Amendments
 

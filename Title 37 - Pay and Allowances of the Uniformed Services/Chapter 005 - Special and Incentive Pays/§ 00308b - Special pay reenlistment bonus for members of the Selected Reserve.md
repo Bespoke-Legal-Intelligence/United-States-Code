@@ -28,11 +28,15 @@
 
 (e) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when it is not operating as a service in the Navy.
 
-(f) No bonus may be paid under this section to any enlisted member who, after September 30, 1996, reenlists or voluntarily extends his enlistment in a reserve component.
+(f) No bonus may be paid under this section to any enlisted member who, after September 30, 1998, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L.101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543.)
 
 #### Amendments
+
+1996—Subsec. (f). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
 
 1994—Subsec. (f). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
 
@@ -76,7 +80,7 @@ Section 643(b) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Effective Date
 
-Section 403(b) of Pub. L. 95–79 provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply with respect to any reenlistment, or voluntary extension of an enlistment, in the Selected Reserve of any reserve component of the Armed Forces after September 30, 1977.”
+Section 403(b) of Pub. L. 95–79 provided that: “The amendments made by subsection (a) \[enacting this section\] shall apply with respect to any reenlistment, orvoluntary extension of an enlistment, in the Selected Reserve of any reserve component of the Armed Forces after September 30, 1977.”
 
 #### Coverage of Period of Lapsed Authority
 

@@ -228,7 +228,7 @@ Pub. L. 101–597, §202(c), added par. (4).
 
 Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
 
-Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
+Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Loan Repayment Program to approve (and which contracts toaccept), the Secretary shall give priority to applications made by—
 
 &emsp;“(1) individuals whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps; and
 

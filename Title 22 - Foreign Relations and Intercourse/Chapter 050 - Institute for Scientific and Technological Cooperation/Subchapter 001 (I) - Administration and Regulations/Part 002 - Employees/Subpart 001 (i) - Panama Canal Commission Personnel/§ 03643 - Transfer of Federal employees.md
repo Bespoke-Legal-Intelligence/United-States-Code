@@ -6,7 +6,7 @@ The head of any agency may enter into agreements for the transfer or detail to t
 
 #### (b) “Agency” defined
 
-For purposes of this section, the term “agency” means an Executive agency, the UnitedStates Postal Service, and the Smithsonian Institution.
+For purposes of this section, the term “agency” means an Executive agency, the United States Postal Service, and the Smithsonian Institution.
 
 #### (c) Regulations
 

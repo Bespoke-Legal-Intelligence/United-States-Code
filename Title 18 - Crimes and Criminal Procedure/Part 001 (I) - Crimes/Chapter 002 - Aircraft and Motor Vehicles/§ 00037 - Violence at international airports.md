@@ -8,7 +8,7 @@ Offense.—A person who unlawfully and intentionally, using any device, substanc
 
 &emsp;(2) destroys or seriously damages the facilities of an airport serving international civil aviation or a civil aircraft not in service located thereon or disrupts the services of the airport,
 
-> if such an act endangers or is likely to endanger safety at that airport, or attempts to do such an act, shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this subsection, shall be punished by death or imprisoned for any term of years or for life.
+> if such an act endangers or is likely to endanger safety at that airport, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 20 years, or both; and if the death of any person results from conduct prohibited by this subsection, shall be punished by death or imprisoned for any term of years or for life.
 
 (b)
 
@@ -16,11 +16,21 @@ Jurisdiction.—There is jurisdiction over the prohibited activity in subsection
 
 &emsp;(1) the prohibited activity takes place in the United States; or
 
-&emsp;(2) the prohibited activity takes place outside the United States and the offender is later found in the United States.
+&emsp;(2) the prohibited activity takes place outside the United States and (A) the offender is later found in the United States; or (B) an offender or a victim is a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))).
 
-(c) It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)).
+(c)
 
-(Added Pub. L. 103–322, title VI, §60021(a), Sept. 13, 1994, 108 Stat. 1979.)
+Bar to Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, asamended (29 U.S.C. 113(c)), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+(Added Pub. L. 103–322, title VI, §60021(a), Sept. 13, 1994, 108 Stat. 1979; amended Pub. L. 104–132, title VII, §§721(g), 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 104–294, title VI, §§601(q), 607(<i>o</i>), Oct. 11, 1996, 110 Stat. 3502, 3512.)
+
+#### Amendments
+
+1996—Subsec. (a). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts” in concluding provisions.
+
+Subsec. (b)(2). Pub. L. 104–132, §721(g), inserted subpar. (A) designation and added subpar. (B).
+
+Subsec. (c). Pub. L. 104–294 inserted heading and inserted “, and the term ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States” before period at end.
 
 #### Effective Date
 
@@ -32,5 +42,5 @@ Section 60021(c) of Pub. L. 103–322 provided that: “The amendment made by su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2339A, 3286, 3592 of this title.
 

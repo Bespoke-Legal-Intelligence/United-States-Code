@@ -1,0 +1,20 @@
+### §758. High speed flight from immigration checkpoint
+
+Whoever flees or evades a checkpoint operated by the Immigration and Naturalization Service, or any other Federal law enforcement agency, in a motor vehicle and flees Federal, State, or local law enforcement agents in excess of the legal speed limit shall be fined under this title, imprisoned not more than five years, or both.
+
+(Added Pub. L. 104–208, div. C, title I, §108(b)(1), Sept. 30, 1996, 110 Stat. 3009–557.)
+
+#### Congressional Findings
+
+Section 108(a) of div. C of Pub. L. 104–208 provided that: “The Congress finds as follows:
+
+&emsp;“(1) Immigration checkpoints are an important component of the national strategy to prevent illegal immigration.
+
+&emsp;“(2) Individuals fleeing immigration checkpoints and leading law enforcement officials on high speed vehicle chases endanger law enforcement officers, innocent bystanders, and the fleeing individuals themselves.
+
+&emsp;“(3) The pursuit of suspects fleeing immigration checkpoints is complicated by overlapping jurisdiction among Federal, State, and local law enforcement officers.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 8 section 1227.
+

@@ -60,7 +60,7 @@ As used in this chapter:
 
 &emsp;&emsp;(ii) has been dependent on public assistance or on the income of a relative but is no longer supported by such income;
 
-&emsp;&emsp;(iii) is a parent whose youngest dependent child will become ineligible to receive assistance under the program for aid to families with dependent children under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] within 2 years of the parent's application for assistance under this chapter; or
+&emsp;&emsp;(iii) is a parent whose youngest dependent child will become ineligible to receive assistance under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] within 2 years of the parent's application for assistance under this chapter; or
 
 &emsp;&emsp;(iv) is unemployed or underemployed and is experiencing difficulty in obtaining any employment or suitable employment, as appropriate, or
 
@@ -78,7 +78,7 @@ As used in this chapter:
 
 &emsp;(19) The term “individual with handicaps” means any individual who is an individual with any disability (as defined in section 12102(2) of title 42).
 
-&emsp;(20) The term “intermediate educational agency” means a combination of school districts or counties (as defined in section 8801 of title 20) as are recognized in a State as an administrative agency for such State's vocational or technical education schools or for vocational programs within its public elementary or secondary schools. Such term includes any other public institution or agency havingadministrative control and direction over a public elementary or secondary school.
+&emsp;(20) The term “intermediate educational agency” means a combination of school districts or counties (as defined in section 8801 of title 20) as are recognized in a State as an administrative agency for such State's vocational or technical education schools or for vocational programs within its public elementary or secondary schools. Such term includes any other public institution or agency having administrative control and direction over a public elementary or secondary school.
 
 &emsp;(21) The term “limited English proficiency” has the meaning given such term in section 7601(8) <sup>2</sup> of this title.
 
@@ -148,13 +148,13 @@ As used in this chapter:
 
 &emsp;(39) The term “technology education” means an applied discipline designed to promote technological literacy which provides knowledge and understanding of the impacts of technology including its organizations, techniques, tools and skills to solve practical problems and extend human capabilities in areas such as construction, manufacturing, communication, transportation, power and energy.
 
-&emsp;(40) The term “tribally controlled community college” means an institution which receives assistance under the Tribally Controlled Community College Assistance Act of 1976 <sup>3</sup> \[25 U.S.C. 1801 et seq.\] or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
+&emsp;(40) The term “tribally controlled community college” means an institution which receives assistance under the Tribally Controlled Community College Assistance Act of 1976 <sup>3</sup> \[25 U.S.C. 1801 et seq.\] or the NavajoCommunity College Act \[25 U.S.C. 640a et seq.\].
 
 &emsp;(41) The term “vocational education” means organized educational programs offering a sequence of courses which are directly related to the preparation of individuals in paid or unpaid employment in current or emerging occupations requiring other than a baccalaureate or advanced degree. Such programs shall include competency-based applied learning which contributes to an individual's academic knowledge, higher-order reasoning, and problem-solving skills, work attitudes, general employability skills, and the occupational-specific skills necessary for economic independence as a productive and contributing member of society. Such term also includes applied technology education.
 
 &emsp;(42) The term “vocational student organizations” means those organizations for individuals enrolled in vocational education programs which engage in activities as an integral part of the instructional program. Such organizations may have State and national units which aggregate the work and purposes of instruction in vocational education at the local level.
 
-(Pub. L. 88–210, title V, §521, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, §713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, §502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103–382, title III, §391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025.)
+(Pub. L. 88–210, title V, §521, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, §713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, §502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103–382, title III, §391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, §110(i)(3), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 
@@ -176,6 +176,8 @@ The Navajo Community College Act, referred to in par. (40), is Pub. L. 92–189,
 
 #### Amendments
 
+1996—Par. (14)(B)(iii). Pub. L. 104–193 substituted “the State program funded” for “the program for aid to families with dependent children”.
+
 1994—Par. (20). Pub. L. 103–382, §391(s)(7), substituted “section 8801” for “section 2891(5)”.
 
 Par. (21). Pub. L. 103–382, §391(s)(8), substituted “section 7601(8) of this title” for “section 703(a)(1) of the Elementary and Secondary Education Act of 1965”.
@@ -183,6 +185,10 @@ Par. (21). Pub. L. 103–382, §391(s)(8), substituted “section 7601(8) of thi
 1990—Pub. L. 101–392 amended section generally, adding pars. (2), (14), (17), (19), (20), (24), (29), (31), (32), (35), and (38) through (40), redesignating former pars. (2) through (12) as (3) through (13), respectively, (14) as (16), (16) as (18), (18) and (19) as (21) and (22), respectively, (20) as (15), (21) as (23), (22) through (24) as (25) through (27), respectively, (25) as (30), (26) as (28), (27) and (28) as (33) and (34), respectively, (29) and (30) as (36) and (37), respectively, and (31) and (32) as (41) and (42), respectively, and striking out former par. (13) defining “economically depressed area”, par. (15) defining “handicapped”, and par. (17) defining “homemaker”.
 
 1985—Par. (15). Pub. L. 99–159 inserted “or language” after “speech”.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, set out as a note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1990 Amendment
 

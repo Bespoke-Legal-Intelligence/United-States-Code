@@ -34,7 +34,7 @@ If the Secretary determines that an individual has breached a written agreement 
 
 &emsp;(2) in the case of an individual who has received a loan under this section, the full amount of the principal and interest owed by such individual under this section.
 
-(July 1, 1944, ch. 373, title III, §338G, formerly title VII, §755, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2287; renumbered §338E and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (f), 95 Stat. 908, 911; Jan. 4, 1983, Pub. L. 97–414, §8(g)(3), 96 Stat. 2061; renumbered §338F and amended Dec. 1, 1987, Pub. L. 100–177, title II, §201(2), title III, §309, 101 Stat. 992, 1006; renumbered §338G and amended Nov. 16, 1990, Pub. L. 101–597, title II, §204, title IV, §401(b)\[(a)\], 104 Stat. 3027, 3035.)
+(July 1, 1944, ch. 373, title III, §338G, formerly title VII, §755, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2287; renumbered §338E and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (f), 95 Stat. 908, 911; Jan. 4, 1983, Pub. L. 97–414, §8(g)(3), 96 Stat. 2061; renumbered §338F and amended Dec. 1, 1987, Pub. L. 100–177, title II, §201(2), title III, §309, 101 Stat. 992, 1006; renumbered §338G and amendedNov. 16, 1990, Pub. L. 101–597, title II, §204, title IV, §401(b)\[(a)\], 104 Stat. 3027, 3035.)
 
 #### Codification
 

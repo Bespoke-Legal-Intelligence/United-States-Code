@@ -2,27 +2,25 @@
 
 (a) There is a Strategic Environmental Research and Development Program Council (hereinafter in this chapter referred to as the “Council”).
 
-(b) The Council is composed of thirteen members as follows:
+(b) The Council is composed of 12 members as follows:
 
 &emsp;(1) The Director of Defense Research and Engineering.
 
 &emsp;(2) The Vice Chairman of the Joint Chiefs of Staff.
 
-&emsp;(3) The Assistant Secretary of the Air Force responsible for matters relating to space.
+&emsp;(3) The Deputy Under Secretary of Defense responsible for environmental security.
 
-&emsp;(4) The Deputy Under Secretary of Defense responsible for environmental security.
+&emsp;(4) The Assistant Secretary of Energy for Defense programs.
 
-&emsp;(5) The Assistant Secretary of Energy for Defense programs.
+&emsp;(5) The Assistant Secretary of Energy responsible for environmental restoration and waste management.
 
-&emsp;(6) The Assistant Secretary of Energy responsible for environmental restoration and waste management.
+&emsp;(6) The Director of the Department of Energy Office of Energy Research.
 
-&emsp;(7) The Director of the Department of Energy Office of Energy Research.
+&emsp;(7) The Administrator of the Environmental Protection Agency.
 
-&emsp;(8) The Administrator of the Environmental Protection Agency.
+&emsp;(8) One representative from each of the Army, Navy, Air Force, and Coast Guard.
 
-&emsp;(9) One representative from each of the Army, Navy, Air Force, and Coast Guard, who shall be nonvoting members.
-
-&emsp;(10) The Executive Director of the Council (appointed pursuant to section 2903 of this title), who shall be a nonvoting member.
+&emsp;(9) The Executive Director of the Council (appointed pursuant to section 2903 of this title), who shall be a nonvoting member.
 
 (c) The Secretary of Defense shall designate a member of the Council as chairman for each odd numbered fiscal year. The Secretary of Energy shall designate a member of the Council as chairman for each even-numbered fiscal year.
 
@@ -32,9 +30,15 @@
 
 &emsp;(2) To enter into contracts, grants, and other financial arrangements, in accordance with other applicable law, to carry out the purposes of the Strategic Environmental Research and Development Program.
 
-&emsp;(3) To prepare an annual five-year strategic environmental research and development plan that shall cover the fiscal year in which the plan is prepared and the four fiscal years following such fiscal year.
+&emsp;(3) To prepare an annual report that contains the following:
 
-&emsp;(4) To promote the maximum exchange of information, and to minimize duplication, regarding environmentally related research, development, and demonstration activities through close coordination with the military departments and Defense Agencies, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, other departments and agencies of the Federal Government or any State and local governments, including the Federal Coordinating Council on Science, Engineering, and Technology, and other organizations engaged in such activities.
+&emsp;&emsp;(A) A description of activities of the strategic environmental research and development program carried out during the fiscal year before the fiscal year in which the report is prepared.
+
+&emsp;&emsp;(B) A general outline of the activities planned for the program during the fiscal year in which the report is prepared.
+
+&emsp;&emsp;(C) A summary of projects continued from the fiscal year before the fiscal year in which the report is prepared and projects expected to be started during the fiscal year in which the report is prepared and during the following fiscal year.
+
+&emsp;(4) To promote the maximum exchange of information, and to minimize duplication, regarding environmentally related research, development, and demonstration activities through close coordination with the military departments and Defense Agencies, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, other departments and agencies of the Federal Government or any State and local governments, including the National Science and Technology Council, and other organizations engaged in such activities.
 
 &emsp;(5) To ensure that research and development activities under the Strategic Environmental Research and Development Program do not duplicate other ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, or any other department or agency of the Federal Government.
 
@@ -42,7 +46,7 @@
 
 (e) In carrying out subsection (d)(1), the Council shall prescribe policies and procedures that—
 
-&emsp;(1) provide for appropriate access by Federal Government personnel, State and local government personnel, college and university personnel, industry personnel, and the general public to data under the control of, or otherwise available to, the Department of Defense that is relevant to environmental matters by—
+&emsp;(1) provide for appropriate access by Federal Government personnel, State and local government personnel, college and university personnel, industry personnel, and the generalpublic to data under the control of, or otherwise available to, the Department of Defense that is relevant to environmental matters by—
 
 &emsp;&emsp;(A) identifying the sources of such data;
 
@@ -52,7 +56,7 @@
 
 &emsp;(2) provide governmental and nongovernmental entities with analytic assistance, consistent with national defense missions, including access to military platforms for sensor deployment and access to computer capabilities, in order to facilitate environmental research;
 
-&emsp;(3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs, particularly technologies that have the potential for industrial, commercial, and other governmental applications, and to support programs of research in and development of such applications;
+&emsp;(3) provide for the identification of energy technologies developed for national defense purposes (including electricity generation systems, energy storage systems, alternative fuels, biomass energy technology, and applied materials technology) that might have environmentally sound, energy efficient applications for other programs of the Department of Defense and the Department of Energy national security programs;
 
 &emsp;(4) provide for the identification and support of programs of basic and applied research, development, and demonstration in technologies useful—
 
@@ -80,65 +84,37 @@
 
 &emsp;(10) to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed by the Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
 
-(f)(1) To assist the Council in preparing the five-year strategic environmental research and development plan under subsection (d)(3), the Secretary of Defense and the Secretary of Energy may each submit to the Council a proposal for conducting environmental research under this chapter. The Secretary of each department shall ensure that the environmental research proposal of the department includes—
+(f) The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
 
-&emsp;(A) short- and long-term, cooperative, basic, and applied research systems engineering and development programs in environmental research;
+(g)(1) Not later than February 1 of each year, the Council shall submit to the Secretary of Defense the annual report prepared pursuant to subsection (d)(3).
 
-&emsp;(B) short- and long-term, basic research in environmental restoration at the respective laboratories of each department; and
+(2) Not later than March 15 of each year, the Secretary of Defense shall submit such annual report to Congress, along with such comments as the Secretary considers appropriate.
 
-&emsp;(C) participation by industry and institutions of higher education.
-
-(2) The Secretary of each department shall ensure that, in the development of its environmental research proposal, consideration is given to—
-
-&emsp;(A) the need for increased research in basic science, including basic materials, physics, molecular structures, chemistry, and biology related to environmental research at that department's defense operations, production, research, and maintenance facilities; and
-
-&emsp;(B) ways to identify and conduct research and development on technologies for environmental restoration, remediation and waste cleanup activities, waste minimization, and hazardous and toxic materials substitution potential in defense production and maintenance activities.
-
-(3) The Secretary of each department shall transmit the proposal to the Council not later than July 1 of each year.
-
-(g) The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
-
-(h)(1) Not later than February 1 of each year, the Council shall submit to the Secretary of Defense an annual report on the annual five-year strategic environmental research and development plan prepared pursuant to subsection (d)(3).
-
-(2) The report shall contain the following:
-
-&emsp;(A) A description of the actions to be taken during the five-year period covered by the plan in order to prevent duplication of research and development activities referred to in the policies and procedures prescribed pursuant to subsection (d)(1).
-
-&emsp;(B) A description of the involvement with Federal interagency coordinating entities such as the Federal Coordinating Council on Science, Engineering, and Technology.
-
-&emsp;(C) A description of each project selected or recommended by the Council for support and funding, including the duration of, and the total estimated or (if known) actual cost of—
-
-&emsp;&emsp;(i) each such project supported during the fiscal year in which the plan is submitted and the preceding fiscal year; and
-
-&emsp;&emsp;(ii) each such project proposed for funding during the fiscal year in which the annual report is submitted and the following four fiscal years.
-
-&emsp;(D) The amounts requested, in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year in which the annual report is submitted, for the programs, projects, and activities of the Strategic Environmental Research and Development Program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
-
-&emsp;(E) The amount requested in such budget for each Federal laboratory, including each Department of Defense and Department of Energy laboratory.
-
-&emsp;(F) The amount made available, for the fiscal year in which the annual report is submitted, to each Federal laboratory, including each Department of Defense and Department of Energy laboratory.
-
-&emsp;(G) A description of any changes in military specifications recommended by the Council, actions to be taken to effectuate any such recommended changes on an expedited basis, and the projected date for each such change.
-
-&emsp;(H) A description of all contracts, agreements, or other documents for cooperative research and development activities entered into pursuant to the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.) during the fiscal year preceding the fiscal year in which the annual report is submitted.
-
-&emsp;(I) Plans for transferring technology and information to other governmental agencies and to nongovernmental organizations involved in environmental research and related matters.
-
-&emsp;(J) A description of plans to increase access to data described in subsection (e)(1).
-
-&emsp;(K) Such additional recommendations or proposals, including proposals for legislation, relating to the Strategic Environmental Research and Development Program as the Council considers appropriate.
-
-(3) The Council shall make a draft of the five-year strategic environmental research and development plan covered by each report available for public comment for a period of at least 30 days.
-
-(4) Not later than March 15 of each year the Secretary of Defense and the Secretary of Energy shall transmit the annual report to the Congress. The Secretary of Defense and the Secretary of Energy may submit such comments on the annual report as each Secretary considers appropriate.
-
-(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, §257(a), title X, §1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, §1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, §265(a), Nov. 30, 1993, 107 Stat. 1611.)
+(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, §257(a), title X, §1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, §1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, §265(a), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(a)–(b)(2), (c), Feb. 10, 1996, 110 Stat. 217, 218.)
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (e)(7) and (h)(2)(H), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–106, §203(a)(1), substituted “12” for “thirteen” in introductory provisions.
+
+Subsec. (b)(3) to (7). Pub. L. 104–106, §203(a)(2), (3), redesignated pars. (4) to (8) as (3) to (7), respectively, and struck out former par. (3) which read as follows: “The Assistant Secretary of the Air Force responsible for matters relating to space.”
+
+Subsec. (b)(8). Pub. L. 104–106, §203(a)(3), (4), redesignated par. (9) as (8) and struck out “, who shall be nonvoting members” after “Coast Guard”. Former par. (8) redesignated (7).
+
+Subsec. (b)(9), (10). Pub. L. 104–106, §203(a)(3), redesignated pars. (9) and (10) as (8) and (9), respectively.
+
+Subsec. (d)(3). Pub. L. 104–106, §203(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: “To prepare an annual five-year strategic environmental research and development plan that shall cover the fiscal year in which the plan is prepared and the four fiscal years following such fiscal year.”
+
+Subsec. (d)(4). Pub. L. 104–106, §203(b)(1)(B), substituted “National Science and Technology Council” for “Federal Coordinating Council on Science, Engineering, and Technology”.
+
+Subsec. (e)(3). Pub. L. 104–106, §203(c), substituted “national security programs” for “national security programs, particularly technologies that have the potential for industrial, commercial, and other governmental applications, and to support programs of research in and development of such applications”.
+
+Subsecs. (f), (g). Pub. L. 104–106, §203(b)(2), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which authorized Secretaries of Defense and Energy to submit to the Council proposals for conducting environmental research under this chapter.
+
+Subsec. (h). Pub. L. 104–106, §203(b)(2)(A), struck out subsec. (h) which required Council to submit to Secretary of Defense and to Congress an annual report on annual five-year strategic environmental research and development plan.
 
 1993—Subsec. (b)(1) to (4). Pub. L. 103–160, §265(a)(1)–(3), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1) which read as follows: “The Assistant Secretary of Defense responsible for matters relating to production and logistics.”
 
@@ -152,15 +128,13 @@ Subsec. (b)(9), (10). Pub. L. 102–190, §257(a)(2), (3), added par. (9) and re
 
 Subsec. (f)(2)(A). Pub. L. 102–190, §1061(a)(19), substituted “department's” for “Department's”.
 
+#### Effective Date of 1996 Amendment
+
+Section 203(b)(3) of Pub. L. 104–106 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to the annual report prepared during fiscal year 1997 and each fiscal year thereafter.”
+
 #### First Annual Report of Strategic Environmental Research and Development Program Council
 
-Section 1801(c) of Pub. L. 101–510 provided that:
-
-“(1) The first annual report required by section 2902(h) of title 10, United States Code, as added by subsection (a)(1), shall be submitted to the Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency not later than February 1, 1992.
-
-“(2) The Strategic Environmental Research and Development Program Council shall conduct and include as part of the first annual report required pursuant to section 2902(h) of title 10, United States Code, as added by subsection (a)(1), an assessment of the advisability of, and various alternatives to, charging fees for information released, as required pursuant to sections 2901(b)(3), 2902(e)(1) and (2), and 2902(g)(2)(I) of such title (as so added), to private sector entities operating for a profit.
-
-“(3) The Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency shall submit to the Congress, with the annual report referred to in paragraph (1), any recommendations for changes in the structure or personnel of the Council that the Secretaries and the Administrator consider necessary to carry out the environmental activities of the strategic environmental research and development program.”
+Section 1801(c) of Pub. L. 101–510 provided that the first annual report required by former subsec. (h) of this section be submitted to Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency not later than Feb. 1, 1992, that the Strategic Environmental Research and Development Program Council conduct and include as part of report an assessment of advisability of, and various alternatives to, charging fees for information released, as required pursuant to section 2901(b)(3) of this title and subsecs. (e)(1), (2), and (g)(2)(I) \[now (f)(2)(I)\] of this section, to private sector entities operating for a profit, and that Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency submit to Congress any recommendations for changes in structure or personnel of Council that Secretaries and Administrator consider necessary to carry out environmental activities of strategic environmental research and development program.
 
 #### Section Referred to in Other Sections
 

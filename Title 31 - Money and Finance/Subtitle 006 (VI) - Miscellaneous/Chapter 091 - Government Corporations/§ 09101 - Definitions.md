@@ -24,19 +24,17 @@ In this chapter—
 
 &emsp;&emsp;(I) the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
 
-&emsp;&emsp;(J) the United States Railway Association.
+&emsp;&emsp;(J) the Financing Corporation.
 
-&emsp;&emsp;(K) the Financing Corporation.
+&emsp;&emsp;(K) the Resolution Trust Corporation.
 
-&emsp;&emsp;(L) the Resolution Trust Corporation.
-
-&emsp;&emsp;(M) the Resolution Funding Corporation.
+&emsp;&emsp;(L) the Resolution Funding Corporation.
 
 &emsp;(3) “wholly owned Government corporation” means—
 
 &emsp;&emsp;(A) the Commodity Credit Corporation.
 
-&emsp;&emsp;(B) the Community Development Financial Institutions Fund; <sup>1</sup>
+&emsp;&emsp;(B) the Community Development Financial Institutions Fund.
 
 &emsp;&emsp;(C) the Export-Import Bank of the United States.
 
@@ -62,9 +60,17 @@ In this chapter—
 
 &emsp;&emsp;(N) the Tennessee Valley Authority.
 
-&emsp;&emsp;(N) <sup>2</sup> the Uranium Enrichment Corporation.
+&emsp;&emsp;(O) the Uranium Enrichment Corporation.
 
-(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168.)
+&emsp;&emsp;(P) the Panama Canal Commission.
+
+&emsp;&emsp;(Q) the Alternative Agricultural Research and Commercialization Corporation.
+
+(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388.)
+
+#### Amendment of Paragraph (3)
+
+<i>Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350, provided that: “As of the privatization date \[see 42 U.S.C. 2297h(9)\], section 9101(3) of title 31, United States Code, is amended by striking subparagraph (N) as added by section 902(b) of Public Law 102–486 \[subparagraph (N) was redesignated (O) by section 722(b)(1) of Pub. L. 104–127 and section 4(2)(D) of Pub. L. 104–287\].”</i>
 
 Historical and Revision Notes<br>1982
 
@@ -108,6 +114,16 @@ This amends 31:9101(2) because the National Consumer Cooperative Bank is no long
 
 #### Amendments
 
+1996—Par. (2)(J) to (M). Pub. L. 104–287, §4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
+
+Par. (3)(B). Pub. L. 104–287, §4(2)(C), substituted a period for the semicolon at end.
+
+Par. (3)(N), (O). Pub. L. 104–127, §722(b)(1), and Pub. L. 104–287, §4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
+
+Par. (3)(P). Pub. L. 104–106 added subpar. (P).
+
+Par. (3)(Q). Pub. L. 104–127, §722(b)(2), added subpar. (Q).
+
 1994—Par. (2)(K). Pub. L. 103–272 substituted “the” for “The”.
 
 Par. (3)(B) to (N). Pub. L. 103–325 added subpar. (B) and redesignated former subpars. (B) to (M) as (C) to (N), respectively.
@@ -128,6 +144,10 @@ Par. (3)(E). Pub. L. 101–73, §307(e), struck out subpar. (E) relating to Fede
 
 1982—Par. (2)(K). Pub. L. 97–258, §2(<i>l</i>)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
 
+#### Effective Date of 1996 Amendment
+
+Section 3117(a) of Pub. L. 104–134 provided that the amendment made by that section was to take effect “as of the privatization date”. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under section 12651 of Title 42, The Public Health and Welfare.
@@ -140,6 +160,10 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by that section is effective Jan. 1, 1982.
 
+#### Dissolution of Pennsylvania Avenue Development Corporation
+
+Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see section 872 of Title 40, Public Buildings, Property, and Works.
+
 #### Abolition of United States Railway Association and Transfer of Functions
 
 The United States Railway Association was abolished effective Apr. 1, 1987, with all powers, duties, rights, and obligations of Association relating to Consolidated Rail Corporation under the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) transferred to Secretary of Transportation on Jan. 1, 1987, and any securities of Corporation held by Association transferred to Secretary of Transportation on Oct. 21, 1986, see section 1341 of Title 45, Railroads.
@@ -151,8 +175,4 @@ For provisions relating to certain bonuses paid by mixed-ownership and wholly ow
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1105, 1344, 1352 of this title; title 2 sections 651, 1602; title 5 sections 2302, 8147; title 7 section 943; title 12 sections 1757, 2293; title 16 section 838i; title 40 section 481; title 41 section 601.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(O)”.</i>
 

@@ -44,7 +44,7 @@
 
 #### (4) Terms of designation
 
-&emsp;The terms of designation of a sanctuary shall include the geographic area proposed to be included within the sanctuary, the characteristics of the area that give it conservation, recreational, ecological, historical, research,educational, or esthetic value, and the types of activities that will be subject to regulation by the Secretary to protect those characteristics. The terms of designation may be modified only by the same procedures by which the original designation is made.
+&emsp;The terms of designation of a sanctuary shall include the geographic area proposed to be included within the sanctuary, the characteristics of the area that give it conservation, recreational, ecological, historical, research, educational, or esthetic value, and the types of activities that will be subject to regulation by the Secretary to protect those characteristics. The terms of designation may be modified only by the same procedures by which the original designation is made.
 
 #### (5) Fishing regulations
 
@@ -58,7 +58,7 @@
 
 #### (1) Notice
 
-&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of the availability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
+&emsp;In designating a national marine sanctuary, the Secretary shall publish in the Federal Register notice of the designation together with final regulations to implement the designation and any other matters required by law, and submit such notice to the Congress. The Secretary shall advise the public of theavailability of the final management plan and the final environmental impact statement with respect to such sanctuary. The Secretary shall issue a notice of designation with respect to a proposed national marine sanctuary site not later than 30 months after the date a notice declaring the site to be an active candidate for sanctuary designation is published in the Federal Register under regulations issued under this Act, or shall publish not later than such date in the Federal Register findings regarding why such notice has not been published. No notice of designation may occur until the expiration of the period for Committee action under subsection (a)(6) of this section. The designation (and any of its terms not disapproved under this subsection) and regulations shall take effect and become final after the close of a review period of forty-five days of continuous session of Congress beginning on the day on which such notice is published unless, in the case of a national marine sanctuary that is located partially or entirely within the seaward boundary of any State, the Governor affected certifies to the Secretary that the designation or any of its terms is unacceptable, in which case the designation or the unacceptable term shall not take effect in the area of the sanctuary lying within the seaward boundary of the State.
 
 #### (2) Withdrawal of designation
 
@@ -66,15 +66,11 @@
 
 #### (3) Procedures
 
-&emsp;(A) In computing the forty-five-day periods of continuous session of Congress pursuant to subsection (a)(6) of this section and paragraph (1) of this subsection—
+&emsp;In computing the forty-five-day periods of continuous session of Congress pursuant to subsection (a)(6) of this section and paragraph (1) of this subsection—
 
-&emsp;&emsp;(i) continuity of session is broken only by an adjournment of Congress sine die; and
+&emsp;&emsp;(A) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;&emsp;(ii) the days on which either House of Congress is not in session because of an adjournment of more than three days to a day certain are excluded.
-
-&emsp;(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
-
-&emsp;(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.
+&emsp;&emsp;(B) the days on which either House of Congress is not in session because of an adjournment of more than three days to a day certain are excluded.
 
 #### (c) Access and valid rights
 
@@ -106,7 +102,7 @@
 
 Not more than five years after the date of designation of any national marine sanctuary, and thereafter at intervals not exceeding five years, the Secretary shall evaluate the substantive progress toward implementing the management plan and goals for the sanctuary, especially the effectiveness of site-specific management techniques, and shall revise the management plan and regulations as necessary to fulfill the purposes and policies of this chapter.
 
-(Pub. L. 92–532, title III, §304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, §4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, §3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, §202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, §2104, Nov. 4, 1992, 106 Stat. 5041.)
+(Pub. L. 92–532, title III, §304, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 94–62, §4, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §4, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §3, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–332, §3, Aug. 29, 1980, 94 Stat. 1059; Pub. L. 97–109, Dec. 26, 1981, 95 Stat. 1512; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2298; Pub. L. 100–627, title II, §202, Nov. 7, 1988, 102 Stat. 3214; Pub. L. 102–587, title II, §2104, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 104–283, §9(h), Oct. 11, 1996, 110 Stat. 3368.)
 
 #### References in Text
 
@@ -117,6 +113,12 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A),
 This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted this chapter, chapter 32A (§1447 et seq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
 #### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–283 struck out “(A)” before “In computing the forty-five-day”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, adjusted margins, and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) When the committee to which a joint resolution has been referred has reported such a resolution, it shall at any time thereafter be in order to move to proceed to the consideration of the resolution. The motion shall be privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+
+“(C) This subsection is enacted by Congress as an exercise of the rulemaking power of each House of Congress, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the case of resolutions described in this subsection. This subsection supersedes other rules only to the extent that they are inconsistent therewith, and is enacted with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
 1992—Subsec. (a)(1)(C). Pub. L. 102–587, §2104(a)(2), substituted “documents, including an executive summary, consisting of—” for “a prospectus on the proposal which shall contain—”.
 
@@ -132,7 +134,7 @@ Subsec. (b)(1). Pub. L. 102–587, §2104(b)(1), substituted at end “, in the
 
 Subsec. (b)(2). Pub. L. 102–587, §2104(b)(2), substituted “actions taken under paragraph (1)” for “actions taken under paragraph (1)(A) or (B)” and “terms of the designation not certified under paragraph (1)” for “terms of the designation not disapproved under paragraph (1)(A) or not certified under paragraph (1)(B)”.
 
-Subsec. (b)(3), (4). Pub. L. 102–587, §2104(b)(3), redesignated par. (4) as (3) and struck out former par. (3) whichdefined a Congressional resolution of disapproval for purposes of this subsection.
+Subsec. (b)(3), (4). Pub. L. 102–587, §2104(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which defined a Congressional resolution of disapproval for purposes of this subsection.
 
 Subsec. (c)(1). Pub. L. 102–587, §2104(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Nothing in this chapter shall be construed as terminating or granting to the Secretary the right to terminate any valid lease, permit, license, or right of subsistence use or of access if the lease, permit, license, or right—
 

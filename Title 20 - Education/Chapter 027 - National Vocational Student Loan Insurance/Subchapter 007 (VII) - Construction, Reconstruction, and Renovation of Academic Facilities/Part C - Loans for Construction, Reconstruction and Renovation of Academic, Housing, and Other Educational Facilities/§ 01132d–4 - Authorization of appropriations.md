@@ -16,3 +16,13 @@ Section 1132d–5, Pub. L. 89–329, title VII, §766, as added Pub. L. 92–318
 
 Section 1132d–11, Pub. L. 89–329, title VII, §771, as added Pub. L. 94–482, title I, §162(i), Oct. 12, 1976, 90 Stat. 2157; amended Pub. L. 95–43, §1(a)(43), June 15, 1977, 91 Stat. 217, provided for a program of grants or loans for reconstruction or renovation of academic facilities.
 
+A prior section 1132e, Pub. L. 89–329, title VII, §741, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528, provided for annual interest grants to assist institutions of higher education in reducing the cost of borrowing money, prior to repeal by Pub. L. 102–325, §2, title VII, §706, July 23, 1992, 106 Stat. 458, 753, effective Oct. 1, 1992.
+
+Another prior section 1132e, Pub. L. 89–329, title VII, §741, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1478, related to recovery of payments of grants and use of projects, prior to the general revision of this subchapter by Pub. L. 99–498. See section 1132i of this title.
+
+Another prior section 1132e, Pub. L. 89–329, title VII, §781, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300; amended Pub. L. 94–482, title I, §162(a)(3), (4), Oct. 12, 1976, 90 Stat. 2156, 2157; Pub. L. 95–43, §1(a)(44), June 15, 1977, 91 Stat. 218, related to the recovery of payments, prior to the general revision of this subchapter by Pub. L. 96–374.
+
+A prior section 1132e–1, Pub. L. 89–329, title VII, §742, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1479, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 99–498. See section 1132i–1 of this title.
+
+Another prior section 1132e–1, Pub. L. 89–329, title VII, §782, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 301; amended Pub. L. 94–482, title I, §162(a)(3), (4), (j), Oct. 12, 1976, 90 Stat. 2156–2158, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 96–374.
+

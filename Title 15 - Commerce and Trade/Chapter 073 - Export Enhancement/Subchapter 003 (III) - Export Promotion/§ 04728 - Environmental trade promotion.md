@@ -24,7 +24,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (3) Chairperson
 
-&emsp;The Secretary of Commerce (hereafter in this section referred to as the “Secretary”) shall designate the chairperson of the WorkingGroup from among senior employees of the Department of Commerce. The chairperson shall—
+&emsp;The Secretary of Commerce (hereafter in this section referred to as the “Secretary”) shall designate the chairperson of the Working Group from among senior employees of the Department of Commerce. The chairperson shall—
 
 &emsp;&emsp;(A) assess the effectiveness of United States Government programs for the promotion of exports of environmental technologies, goods, and services;
 
@@ -88,7 +88,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 #### (1) Assignment of environmental technologies specialists
 
-&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary orlimited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+&emsp;The Secretary shall assign a specialist in environmental technologies to the office of theUnited States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
 
 #### (2) Duties of environmental technologies specialists
 
@@ -138,7 +138,7 @@ In addition to the training provided under subsection (f)(2)(C) of this section,
 
 &emsp;&emsp;(D) increase assistance provided by the Federal Government to promote exports from the United States of environmental technologies, goods, and services to that geographic region, such as trade missions, reverse trade missions, trade fairs, and programs in the United States to train foreign nationals in United States environmental technologies; and
 
-&emsp;&emsp;(E) increase high-level advocacy by United States Government officials (including the United States ambassadors to the countries in that geographic region) for United States environmental businesses seeking market opportunities in that geographic region.
+&emsp;&emsp;(E) increase high-level advocacy by United States Government officials (including the United States ambassadors to the countriesin that geographic region) for United States environmental businesses seeking market opportunities in that geographic region.
 
 #### (i) Environmental technologies project advocacy calendar and information dissemination program
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The Secretary of Transportation may prescribe the period during which a permit issued under section 41302 of this title isin effect. After notice and an opportunity for a hearing, the Secretary may amend, modify, suspend, or revoke the permit if the Secretary finds that action to be in the public interest.
+General.—The Secretary of Transportation may prescribe the period during which a permit issued under section 41302 of this title is in effect. After notice and an opportunity for a hearing, the Secretary may amend, modify, suspend, or revoke the permit if the Secretary finds that action to be in the public interest.
 
 (b)
 
@@ -40,7 +40,9 @@ Responses.—An interested person may file a response with the Secretary opposin
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -60,7 +62,7 @@ Aug. 23, 1958, Pub. L. 85–726, §402(f)(1), 72 Stat. 758; Feb. 15, 1980, Pub. 
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -72,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §402(f)(2); added Feb. 15, 1980,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41304(c)
 
@@ -86,7 +88,7 @@ Aug. 15, 1985, Pub. L. 99–88, §100 (1st complete par. related to permit on p.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the words “altered” and “cancelled” are omitted as surplus.
 
@@ -98,5 +100,5 @@ In subsection (d), the word “response” is substituted for “protest or memo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40109, 41306, 41310, 46301 of this title.
+This section is referred to in sections 41306, 41310 of this title.
 

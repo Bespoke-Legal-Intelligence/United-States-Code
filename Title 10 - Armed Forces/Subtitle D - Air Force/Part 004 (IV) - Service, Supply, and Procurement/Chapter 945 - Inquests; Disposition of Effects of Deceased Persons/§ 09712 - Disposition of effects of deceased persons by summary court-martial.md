@@ -30,9 +30,7 @@
 
 (f) As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court's possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects and articles not permitted to be sold, to the executive part of the Department of the Air Force. The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.
 
-(g) The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 585; Nov. 2, 1966, Pub. L. 89–718, §48, 80 Stat. 1121; Dec. 12, 1980, Pub. L. 96–513, title V, §514(19), 94 Stat. 2936; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(d)(4)(A), 99 Stat. 736; Nov. 5, 1990, Pub. L. 101–510, div. A, title XV, §1533(a)(9), 104 Stat. 1735.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 585; Nov. 2, 1966, Pub. L. 89–718, §48, 80 Stat. 1121; Dec. 12, 1980, Pub. L. 96–513, title V, §514(19), 94 Stat. 2936; Nov. 8, 1985, Pub. L. 99–145, title XIII, §1301(d)(4)(A), 99 Stat. 736; Nov. 5, 1990, Pub. L. 101–510, div. A, title XV, §1533(a)(9), 104 Stat. 1735; Oct. 19, 1996, Pub. L. 104–316, title II, §202(g), 110 Stat. 3842.)
 
 Historical and Revision Notes
 
@@ -43,6 +41,10 @@ Historical and Revision Notes
 <i>Source (Statutes at Large)</i>
 
 9712(a)
+
+&nbsp;
+
+&nbsp;
 
 9712(b)
 
@@ -86,9 +88,11 @@ In subsection (f), the words “Soldiers’ Home” are inserted, since, as prov
 
 #### Amendments
 
+1996—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.”
+
 1990—Subsec. (a)(2). Pub. L. 101–510, §1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen's Home”.
 
-Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
+Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen's Home” after “Department of the Air Force”and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
 
 1985—Subsec. (d). Pub. L. 99–145 substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 
@@ -121,10 +125,6 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Transfer of Functions
-
-Functions of Comptroller General under this section transferred, effective June 30, 1996, to Director of Office of Management and Budget, see section 211 of Pub. L. 104–53, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Cross References
 

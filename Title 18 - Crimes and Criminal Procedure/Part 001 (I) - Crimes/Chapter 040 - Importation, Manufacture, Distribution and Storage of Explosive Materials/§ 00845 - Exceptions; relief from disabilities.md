@@ -1,8 +1,8 @@
 ### §845. Exceptions; relief from disabilities
 
-(a) Except in the case of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, this chapter shall not apply to:
+(a) Except in the case of subsections <sup>1</sup> (<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, this chapter shall not apply to:
 
-&emsp;(1) any aspect of the transportation of explosive materials via railroad, water, highway, or air which are regulated by the United States Department of Transportation and agencies thereof;
+&emsp;(1) any aspect of the transportation of explosive materials via railroad, water, highway, or air which are regulated by the United States Department of Transportation and agencies thereof, and which pertain to safety;
 
 &emsp;(2) the use of explosive materials in medicines and medicinal agents in the forms prescribed by the official United States Pharmacopeia, or the National Formulary;
 
@@ -16,13 +16,41 @@
 
 (b) A person who had been indicted for or convicted of a crime punishable by imprisonment for a term exceeding one year may make application to the Secretary for relief from the disabilities imposed by this chapter with respect to engaging in the business of importing, manufacturing, or dealing in explosive materials, or the purchase of explosive materials, and incurred by reason of such indictment or conviction, and the Secretary may grant such relief if it is established to his satisfaction that the circumstances regarding the indictment or conviction, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief will not be contrary to the public interest. A licensee or permittee who makes application for relief from the disabilities incurred under this chapter by reason of indictment or conviction, shall not be barred by such indictment or conviction from further operations under his license or permit pending final action on an application for relief filed pursuant to this section.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15. 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217.)
+(c) It is an affirmative defense against any proceeding involving subsections (<i>l</i>) through (<i>o</i>) of section 842 if the proponent proves by a preponderance of the evidence that the plastic explosive—
+
+&emsp;(1) consisted of a small amount of plastic explosive intended for and utilized solely in lawful—
+
+&emsp;&emsp;(A) research, development, or testing of new or modified explosive materials;
+
+&emsp;&emsp;(B) training in explosives detection or development or testing of explosives detection equipment; or
+
+&emsp;&emsp;(C) forensic science purposes; or
+
+&emsp;(2) was plastic explosive that, within 3 years after the date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, will be or is incorporated in a military device within the territory of the United States and remains an integral part of such military device, or is intended to be, or is incorporated in, and remains an integral part of a military device that is intended to become,or has become, the property of any agency of the United States performing military or police functions (including any military reserve component) or the National Guard of any State, wherever such device is located.
+
+&emsp;(3) For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
+
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15. 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289.)
+
+#### References in Text
+
+The date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–132, §605(1), inserted “(<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections” after “subsections” in introductory provisions and “, and which pertain to safety” before semicolon at end of par. (1).
+
+Subsec. (c). Pub. L. 104–132, §605(2), added subsec. (c).
+
 1975—Subsec. (a)(5). Pub. L. 93–639 substituted provisions exempting commercially manufactured black powder in quantities not exceeding fifty pounds, percussion caps, safety and pyrotechnic fuses, quills, quick and slow matches, and friction primers, intended to be used solely for sporting, recreational, or cultural purposes in antique firearms or in antique devices for such exemption of black powder in quantities not exceeding five pounds.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 926 of this title; title 15 section 2052.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -30,13 +30,17 @@ For purposes of this section—
 
 &emsp;&emsp;(A) for the diagnosis, cure, mitigation, treatment, or prevention of disease, or for the purpose of affecting any structure or function of the body,
 
-&emsp;&emsp;(B) for transportation primarily for and essential to medical care referred to in subparagraph (A), or
+&emsp;&emsp;(B) for transportation primarily for and essential to medical care referred to in subparagraph (A),
 
-&emsp;&emsp;(C) for insurance (including amounts paid as premiums under part B of title XVIII of the Social Security Act, relating to supplementary medical insurance for the aged) covering medical care referred to in subparagraphs (A) and (B).
+&emsp;&emsp;(C) for qualified long-term care services (as defined in section 7702B(c)), or
 
-#### (2) Amounts paid for certain lodging away from home treated as paid for medical care
+&emsp;&emsp;(D) for insurance (including amounts paid as premiums under part B of title XVIII of the Social Security Act, relating to supplementary medical insurance for the aged) covering medical care referred to in subparagraphs (A) and (B) or for any qualified long-term care insurance contract (as defined in section 7702B(b)).
 
-&emsp;Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
+> &emsp;In the case of a qualified long-term care insurance contract (as defined in section 7702B(b)), only eligible long-term care premiums (as defined in paragraph (10)) shall be taken into account under subparagraph (D).
+
+&emsp;(2)
+
+Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
 
 &emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in a licensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
 
@@ -44,51 +48,139 @@ For purposes of this section—
 
 > &emsp;The amount taken into account under the preceding sentence shall not exceed $50 for each night for each individual.
 
-#### (3) Prescribed drug
+&emsp;(3)
 
-&emsp;The term “prescribed drug” means a drug or biological which requires a prescription of a physician for its use by an individual.
+Prescribed drug.—The term “prescribed drug” means a drug or biological which requires a prescription of a physician for its use by an individual.
 
-#### (4) Physician
+&emsp;(4)
 
-&emsp;The term “physician” has the meaning given to such term by section 1861(r) of the Social Security Act (42 U.S.C. 1395x(r)).
+Physician.—The term “physician” has the meaning given to such term by section 1861(r) of the Social Security Act (42 U.S.C. 1395x(r)).
 
-#### (5) Special rule in the case of child of divorced parents, etc.
+&emsp;(5)
 
-&emsp;Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this section.
+Special rule in the case of child of divorced parents, etc.—Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this section.
 
-&emsp;(6) In the case of an insurance contract under which amounts are payable for other than medical care referred to in subparagraphs (A) and (B) of paragraph (1)—
+&emsp;(6) In the case of an insurance contract under which amounts are payable for other than medical care referred to in subparagraphs (A), (B), and (C) of paragraph (1)—
 
-&emsp;&emsp;(A) no amount shall be treated as paid for insurance to which paragraph (1)(C) applies unless the charge for such insurance is either separately stated in the contract, or furnished to the policyholder by the insurance company in a separate statement,
+&emsp;&emsp;(A) no amount shall be treated as paid for insurance to which paragraph (1)(D) applies unless the charge for such insurance is either separately stated in the contract, or furnished to the policyholder by the insurance company in a separate statement,
 
 &emsp;&emsp;(B) the amount taken into account as the amount paid for such insurance shall not exceed such charge, and
 
 &emsp;&emsp;(C) no amount shall be treated as paid for such insurance if the amount specified in the contract (or furnished to the policyholder by the insurance company in a separate statement) as the charge for such insurance is unreasonably large in relation to the total charges under the contract.
 
-&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A) and (B) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the age of 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
+&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the age of 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
 
 &emsp;(8) The determination of whether an individual is married at any time during the taxable year shall be made in accordance with the provisions of section 6013(d) (relating to determination of status as husband and wife).
 
-#### (9) Cosmetic surgery
+&emsp;(9)
 
-#### (A) In general
+Cosmetic surgery.—
 
-&emsp;&emsp;The term “medical care” does not include cosmetic surgery or other similar procedures, unless the surgery or procedure is necessary to ameliorate a deformity arising from, or directly related to, a congenital abnormality, a personal injury resulting from an accident or trauma, or disfiguring disease.
+&emsp;&emsp;(A)
 
-#### (B) Cosmetic surgery defined
+In general.—The term “medical care” does not include cosmetic surgery or other similar procedures, unless the surgery or procedure is necessary to ameliorate a deformity arising from, or directly related to, a congenital abnormality, a personal injury resulting from an accident or trauma, or disfiguring disease.
 
-&emsp;&emsp;For purposes of this paragraph, the term “cosmetic surgery” means any procedure which is directed at improving the patient's appearance and does not meaningfully promote the proper function of the body or prevent or treat illness or disease.
+&emsp;&emsp;(B)
+
+Cosmetic surgery defined.—For purposes of this paragraph, the term “cosmetic surgery” means any procedure which is directed at improving the patient's appearance and does not meaningfully promote the proper function of the body or prevent or treat illness or disease.
+
+&emsp;(10)
+
+Eligible long-term care premiums.—
+
+&emsp;&emsp;(A)
+
+In general.—For purposes of this section, the term “eligible long-term care premiums” means the amount paid during a taxable year for any qualified long-term care insurance contract (as defined in section 7702B(b)) covering an individual, to the extent such amount does not exceed the limitation determined under the following table:
+
+<b>  In the case of an individual</b>
+
+<b>   with an attained age before the</b>
+
+<b>The limitation</b>
+
+<b>   close of the taxable year of:</b>
+
+<b>is:   </b>
+
+&emsp;&emsp;&nbsp;40 or less
+
+$ 200&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;More than 40 but not more than 50
+
+375&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;More than 50 but not more than 60
+
+750&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;More than 60 but not more than 70
+
+2,000&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;More than 70
+
+2,500 .
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;(B)
+
+Indexing.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—In the case of any taxable year beginning in a calendar year after 1997, each dollar amount contained in subparagraph (A) shall be increased by the medical care cost adjustment of such amount for such calendar year. If any increase determined under the preceding sentence is not a multiple of $10, such increase shall be rounded to the nearest multiple of $10.
+
+&emsp;&emsp;&emsp;(ii)
+
+Medical care cost adjustment.—For purposes of clause (i), the medical care cost adjustment for any calendar year is the percentage (if any) by which—
+
+&emsp;&emsp;&emsp;&emsp;(I) the medical care component of the Consumer Price Index (as defined in section 1(f)(5)) for August of the preceding calendar year, exceeds
+
+&emsp;&emsp;&emsp;&emsp;(II) such component for August of 1996.
+
+&emsp;&emsp;&nbsp;The Secretary shall, in consultation with the Secretary of Health and Human Services, prescribe an adjustment which the Secretary determines is more appropriate for purposes of this paragraph than the adjustment described in the preceding sentence, and the adjustment so prescribed shall apply in lieu of the adjustment described in the preceding sentence.
+
+&emsp;(11)
+
+Certain payments to relatives treated as not paid for medical care.—An amount paid for a qualified long-term care service (as defined in section 7702B(c)) provided to an individual shall be treated as not paid for medical care if such service is provided—
+
+&emsp;&emsp;(A) by the spouse of the individual or by a relative (directly or through a partnership, corporation, or other entity) unless the service is provided by a licensed professional with respect to such service, or
+
+&emsp;&emsp;(B) by a corporation or partnership which is related (within the meaning of section 267(b) or 707(b)) to the individual.
+
+> &emsp;For purposes of this paragraph, the term “relative” means an individual bearing a relationship to the individual which is described inany of paragraphs (1) through (8) of section 152(a). This paragraph shall not apply for purposes of section 105(b) with respect to reimbursements through insurance.
 
 #### (e) Exclusion of amounts allowed for care of certain dependents
 
 Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 69; Sept. 2, 1958, Pub. L. 85–866, title I, §§16, 17(a), (b), 72 Stat. 1613, 1614; May 14, 1960, Pub. L. 86–470, §3(a), 74 Stat. 133; Oct. 23, 1962, Pub. L. 87–863, §1(a), (b), 76 Stat. 1141; Feb. 26, 1964, Pub. L. 88–272, title II, §211(a), 78 Stat. 49; July 30, 1965, Pub. L. 89–97, title I, §106(a)–(d)(1), 79 Stat. 336, 337; Oct. 4, 1976, Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), 90 Stat. 1565, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, §202(a)–(b)(3)(B), 96 Stat. 421; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), 98 Stat. 800, 841, 847, 848, 943; Oct. 22, 1986, Pub. L. 99–514, title I, §133, 100 Stat. 2116; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), 104 Stat. 1388–412, 1388–471; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13131(d)(3), 107 Stat. 435.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 69; Sept. 2, 1958, Pub. L. 85–866, title I, §§16, 17(a), (b), 72 Stat. 1613, 1614; May 14, 1960, Pub. L. 86–470, §3(a), 74 Stat. 133; Oct. 23, 1962, Pub. L. 87–863, §1(a), (b), 76 Stat. 1141; Feb. 26, 1964, Pub. L. 88–272, title II, §211(a), 78 Stat. 49; July 30, 1965, Pub. L. 89–97, title I, §106(a)–(d)(1), 79 Stat. 336, 337; Oct. 4, 1976, Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), 90 Stat. 1565, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, §202(a)–(b)(3)(B), 96 Stat. 421; July 18, 1984, Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), 98 Stat. 800, 841, 847, 848, 943; Oct. 22, 1986, Pub. L. 99–514, title I, §133, 100 Stat. 2116; Nov. 5, 1990, Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), 104 Stat. 1388–412, 1388–471; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13131(d)(3), 107 Stat. 435; Aug. 21, 1996, Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), 110 Stat. 2060–2062.)
 
 #### References In Text
 
-The Social Security Act, referred to in subsec. (d)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+1996—Subsec. (d)(1). Pub. L. 104–191, §322(b)(2)(A), inserted concluding provisions “In the case of a qualified long-term care insurance contract (as defined in section 7702B(b)), only eligible long-term care premiums (as defined in paragraph (10)) shall be taken into account under subparagraph (D).”
+
+Subsec. (d)(1)(B). Pub. L. 104–191, §322(a), struck out “or” at end.
+
+Subsec. (d)(1)(C). Pub. L. 104–191, §322(a), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (d)(1)(D). Pub. L. 104–191, §322(b)(1), inserted before period “or for any qualified long-term care insurance contract (as defined in section 7702B(b))”.
+
+Pub. L. 104–191, §322(a), redesignated subpar. (C) as (D).
+
+Subsec. (d)(6). Pub. L. 104–191, §322(b)(3)(A), substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)” in introductory provisions.
+
+Subsec. (d)(6)(A). Pub. L. 104–191, §322(b)(3)(B), substituted “paragraph (1)(D)” for “paragraph (1)(C)”.
+
+Subsec. (d)(7). Pub. L. 104–191, §322(b)(4), substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)”.
+
+Subsec. (d)(10), (11). Pub. L. 104–191, §322(b)(2)(C), added pars. (10) and (11).
 
 1993—Subsec. (f). Pub. L. 103–66 struck out heading and text of subsec. (f). Text read as follows: “The amount otherwise taken into account under subsection (a) as expenses paid for medical care shall be reduced by the amount (if any) of the health insurance credit allowable to the taxpayer for the taxable year under section 32.”
 
@@ -182,6 +274,10 @@ Subsec. (d)(2)(A). Pub. L. 85–866, §16, struck out “claimed or” before �
 
 Subsec. (g). Pub. L. 85–866, §17(A), added subsec. (g).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 322(c) of Pub. L. 104–191, set out as a note under section 162 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1993, see section 13131(e) of Pub. L. 103–66, set out as a note under section 32 of this title.
@@ -254,5 +350,5 @@ Personal, living and family expenses not deductible, see section 262 of this tit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 67, 68, 72, 104, 105, 152, 419A, 2503, 4980B of this title; title 29 section 1167.
+This section is referred to in sections 56, 67, 68, 72, 104, 105, 152, 162, 220, 419A, 501, 2503, 4980B, 7702B, 9805 of this title; title 29 section 1167.
 

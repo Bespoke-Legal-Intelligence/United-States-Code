@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants to academic departments and programs and other academic units of institutions of higher education that provide courses of study leading to a graduate degree in order to enable such institutions to provide assistance to graduate students in accordance with this part.
+&emsp;The Secretary shall make grants to academic departments and programs and otheracademic units of institutions of higher education that provide courses of study leading to a graduate degree in order to enable such institutions to provide assistance to graduate students in accordance with this part.
 
 #### (2) Additional grants
 
@@ -56,7 +56,7 @@ Another prior section 1134m, Pub. L. 89–329, title IX, §945, as added Pub. L.
 
 1992—Pub. L. 102–325 amended section generally, inserting par. headings and in subsec. (b)(2) substituting “$750,000 per fiscal year.” for “$500,000 per fiscal year”.
 
-1988—Subsec. (a)(2)(A). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification wastranslated as “title 26” thus requiring no change in text.
+1988—Subsec. (a)(2)(A). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1992 Amendment
 

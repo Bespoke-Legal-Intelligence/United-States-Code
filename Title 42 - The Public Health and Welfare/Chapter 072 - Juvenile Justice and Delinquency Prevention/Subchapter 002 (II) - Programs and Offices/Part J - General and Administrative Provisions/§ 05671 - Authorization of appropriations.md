@@ -38,7 +38,7 @@
 
 &emsp;(ii) not more than $2,500,000 shall be used to operate any 1 boot camp during a fiscal year.
 
-(B) No amount is authorized to be appropriated for a fiscal year to carry out part H of this subchapter unless the aggregate amount appropriated to carry out parts A, B, and C of this subchapter for that fiscal year is not less than 120 percent of the aggregate amount appropriated to carry out those parts for fiscal year 1992.
+(B) No amount is authorized to be appropriated for a fiscal year to carry out part H of this subchapter unless the aggregate amount appropriated to carry out parts A, B, and C of this subchapter for that fiscal year is not less than120 percent of the aggregate amount appropriated to carry out those parts for fiscal year 1992.
 
 (7)(A) There are authorized to be appropriated such sums as are necessary for each National Conference and associated State and regional conferences under part I of this subchapter, to remain available until expended.
 

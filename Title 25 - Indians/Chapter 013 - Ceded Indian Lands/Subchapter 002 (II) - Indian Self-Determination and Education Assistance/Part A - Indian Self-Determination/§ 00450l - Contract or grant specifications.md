@@ -40,7 +40,7 @@ Term.—Pursuant to section 105(c)(1) of the Indian Self-Determination and Educa
 
 &emsp;“(2)
 
-Effective date.—This Contract shall become effective upon the date of the approvaland execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
+Effective date.—This Contract shall become effective upon the date of the approval and execution by the Contractor and the Secretary, unless the Contractor and the Secretary agree on an effective date other than the date specified in this paragraph.
 
 &emsp;“(3)
 
@@ -110,7 +110,7 @@ Property.—
 
 &emsp;&emsp;“(A)
 
-In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(f)), at the request of the Contractor, the Secretary may make available, or transfer tothe Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
+In general.—As provided in section 105(f) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j(f)), at the request of the Contractor, the Secretary may make available, or transfer to the Contractor, all reasonably divisible real property, facilities, equipment, and personal property that the Secretary has used to provide or administer the programs, services, functions, and activities covered by this Contract. A mutually agreed upon list specifying the property, facilities, and equipment so furnished shall also be prepared by the Secretary, with the concurrence of the Contractor, and periodically revised by the Secretary, with the concurrence of the Contractor.
 
 &emsp;&emsp;“(B)
 
@@ -130,7 +130,7 @@ Confiscated or excess property.—The Secretary shall assist the Contractor in o
 
 &emsp;&emsp;“(F)
 
-Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not later than the effective date of this Contract. The designated official shall, upon request, assist the Contractor in securing the use of the card.
+Screener identification card.—A screener identification card (General Services Administration form numbered 2946) shall be issued to the Contractor not laterthan the effective date of this Contract. The designated official shall, upon request, assist the Contractor in securing the use of the card.
 
 &emsp;&emsp;“(G)
 
@@ -196,7 +196,7 @@ In general.—Negotiations for a successor annual funding agreement, provided fo
 
 &emsp;&emsp;“(B)
 
-Information.—The Secretary shall prepare and supply relevant information,and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
+Information.—The Secretary shall prepare and supply relevant information, and promptly comply with any request by the Contractor for information that the Contractor reasonably needs to determine the amount of funds that may be available for a successor annual funding agreement, as provided for in subsection (f)(2) of this Contract.
 
 &emsp;“(15)
 
@@ -228,7 +228,7 @@ Contract performance.—Except as provided in subsection (d)(2), the Contractor 
 
 &emsp;“(2)
 
-Amount of funds.—The total amount of funds to be paid under this Contract pursuant to section 106(a) shall be determined in an annual funding agreement entered into between the Secretary and the Contractor, which shall be incorporated into this Contract.
+Amount of funds.—The total amount of funds to be paid under this Contract pursuantto section 106(a) shall be determined in an annual funding agreement entered into between the Secretary and the Contractor, which shall be incorporated into this Contract.
 
 &emsp;“(3)
 

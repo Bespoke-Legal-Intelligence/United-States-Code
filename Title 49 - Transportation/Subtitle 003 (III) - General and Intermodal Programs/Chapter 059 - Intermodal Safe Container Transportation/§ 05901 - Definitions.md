@@ -2,7 +2,7 @@
 
 In this chapter—
 
-&emsp;(1) the definitions in section 10102 of this title apply.
+&emsp;(1) except as otherwise provided in this chapter, the definitions in sections 10102 and 13102 of this title apply.
 
 &emsp;(2) “beneficial owner” means a person not having title to property but having ownership rights in the property, including a trustee of property in transit from an overseas place of origin that is domiciled or doing business in the United States, except that a carrier, agent of a carrier, broker, customs broker, freight forwarder, warehouser, or terminal operator is not a beneficial owner only because of providing or arranging for any part of the intermodal transportation of property.
 
@@ -16,15 +16,19 @@ In this chapter—
 
 &emsp;(5) “first carrier” means the first carrier transporting a loaded container or trailer in intermodal transportation.
 
-&emsp;(6) “intermodal transportation” means the successive transportation of a loaded container or trailer from its place of origin to its place of destination by more than one mode of transportation in interstate or foreign commerce, whether under a single bill of lading or under separate bills of lading.
+&emsp;(6) “gross cargo weight” means the weight of the cargo, packaging materials (including ice), pallets, and dunnage.
 
-&emsp;(7) “trailer” means a nonpower, property-carrying, trailing unit that is designed for use in combination with a truck tractor.
+&emsp;(7) “intermodal transportation” means the successive transportation of a loaded container or trailer from its place of origin to its place of destination by more than one mode of transportation in interstate or foreign commerce, whether under a single bill of lading or under separate bills of lading.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859.)
+&emsp;(8) “trailer” means a nonpower, property-carrying, trailing unit that is designed for use in combination with a truck tractor.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859; Pub. L. 104–291, title II, §203, Oct. 11, 1996, 110 Stat. 3453.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -65,4 +69,10 @@ In clause (2), the word “including” is substituted for “For purposes of th
 In clause (3)(A), the words “(as such terms are defined in section 10102 of this title)” are omitted as unnecessary because of clause (1) of this section.
 
 In clause (7), the words “property-carrying” are substituted for “cargo carrying” for consistency in the revised title.
+
+#### Amendments
+
+1996—Par. (1). Pub. L. 104–291, §203(1), added par. (1) and struck out former par. (1) which read as follows: “the definitions in section 10102 of this title apply.”
+
+Pars. (6) to (8). Pub. L. 104–291, §203(2), (3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 

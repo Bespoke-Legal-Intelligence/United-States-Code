@@ -32,7 +32,7 @@ The Navajo Rehabilitation Trust Fund shall terminate when, upon petition by the 
 
 #### (g) Authorization of appropriations; reimbursement of General Fund
 
-There is hereby authorized to be appropriated for the Navajo Rehabilitation Trust Fund not <sup>3</sup>exceed $10,000,000 in each of fiscal years 1990, 1991, 1992, 1993, 1994 and 1995. The income from the land referred to in subsection (b) of this section shall be used to reimburse the General Fund of the United States Treasury for amounts appropriated to the Fund.
+There is hereby authorized to be appropriated for the Navajo Rehabilitation Trust Fund not <sup>3</sup> exceed $10,000,000 in each of fiscal years 1990, 1991, 1992, 1993, 1994 and 1995. The income from the land referred to in subsection (b) of this section shall be used to reimburse the General Fund of the United States Treasury for amounts appropriated to the Fund.
 
 (Pub. L. 93–531, §32, as added Pub. L. 100–666, §7, Nov. 16, 1988, 102 Stat. 3932; amended Pub. L. 101–121, title I, §120, Oct. 23, 1989, 103 Stat. 722.)
 

@@ -260,5 +260,5 @@ Part applicable to returns the due date for which (determined without regard to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 461, 1274, 5134, 6013, 6694 of this title.
+This section is referred to in sections 461, 1274, 6013, 6694 of this title.
 

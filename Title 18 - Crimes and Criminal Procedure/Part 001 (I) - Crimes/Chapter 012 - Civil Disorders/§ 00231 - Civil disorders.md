@@ -4,7 +4,7 @@
 
 (2) Whoever transports or manufactures for transportation in commerce any firearm, or explosive or incendiary device, knowing or having reason to know or intending that the same will be used unlawfully in furtherance of a civil disorder; or
 
-(3) Whoever commits or attempts to commit any act to obstruct, impede, or interfere with any fireman or law enforcement officer lawfully engaged in the lawful performance of his official duties incident to and during the commission of a civil disorder which in any way or degree obstructs, delays, or adversely affects commerce or the movement of any article or commodity in commerce or the conduct or performance of any federally protected function—
+(3) Whoever commits or attempts to commit any act to obstruct, impede, or interfere withany fireman or law enforcement officer lawfully engaged in the lawful performance of his official duties incident to and during the commission of a civil disorder which in any way or degree obstructs, delays, or adversely affects commerce or the movement of any article or commodity in commerce or the conduct or performance of any federally protected function—
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 

@@ -70,7 +70,7 @@ Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this t
 
 &emsp;(2) interest only.
 
-(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485.)
+(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485.)
 
 #### References in Text
 

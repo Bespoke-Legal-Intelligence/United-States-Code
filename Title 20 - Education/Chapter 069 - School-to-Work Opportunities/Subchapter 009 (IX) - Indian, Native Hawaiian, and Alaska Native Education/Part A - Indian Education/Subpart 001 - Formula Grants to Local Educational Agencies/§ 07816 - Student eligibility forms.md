@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indianchild eligible for assistance under this subpart and that otherwise meets the requirements of subsection (b) of this section.
+The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart and that otherwise meets the requirements of subsection (b) of this section.
 
 #### (b) Forms
 
@@ -64,7 +64,7 @@ For purposes of determining whether a child is eligible to be counted for the pu
 
 &emsp;(A) For each fiscal year, in order to provide such information as is necessary to carry out the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account size of the local educational agency and the geographic location of such agency.
 
-&emsp;(B) A local educational agency may not be held liable to the United States or be subject to any penalty, by reason of the findings of an audit that relates to the date of completion, or the date of submission, of any forms used to establish, before April 28, 1988, the eligibility of a child for entitlement under the Indian Elementary and Secondary School Assistance Act.
+&emsp;(B) A local educational agency may not be held liable to the United States or be subject to any penalty, by reason of the findings of an audit that relates to the date of completion, or the date of submission, of any forms used to establish, before April 28, 1988, the eligibilityof a child for entitlement under the Indian Elementary and Secondary School Assistance Act.
 
 #### (2) False information
 
@@ -86,7 +86,7 @@ For the purposes of the distribution of funds under this subpart to schools that
 
 &emsp;(2) the Act of April 16, 1934 (48 Stat. 596, chapter 147) \[25 U.S.C. 452 et seq.\],
 
-> the Secretary shall, in lieu of meeting the requirements of this section for counting Indianchildren, use a count of the number of students in such schools certified by the Bureau of Indian Affairs.
+> the Secretary shall, in lieu of meeting the requirements of this section for counting Indian children, use a count of the number of students in such schools certified by the Bureau of Indian Affairs.
 
 (Pub. L. 89–10, title IX, §9116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3779.)
 

@@ -18,21 +18,33 @@
 
 &emsp;(2) personnel of the Government;
 
-&emsp;(3) a veteran hospitalized or living in an institution operated by an agency;
+&emsp;(3) a dependent of personnel of the Government, but only—
 
-&emsp;(4) a contractor, or personnel of a contractor, carrying out a Government project; and
+&emsp;&emsp;(A) at a United States installation at which adequate banking facilities are not available; and
 
-&emsp;(5) personnel of an authorized agency not part of the Government that operates with an agency of the Government.
+&emsp;&emsp;(B) in the case of negotiation of negotiable instruments, if the dependent's sponsor authorizes, in writing, the presentation of negotiable instruments to the disbursing official for negotiation;
+
+&emsp;(4) a veteran hospitalized or living in an institution operated by an agency;
+
+&emsp;(5) a contractor, or personnel of a contractor, carrying out a Government project;
+
+&emsp;(6) personnel of an authorized agency not part of the Government that operates with an agency of the Government; or
+
+&emsp;(7) a Federal credit union (as defined in section 101(1) of the Federal Credit Union Act (12 U.S.C. 1752(1)) <sup>1</sup> that at the request of the Secretary of Defense is operating on a United States military installation in a foreign country, but only if that country does not permit contractor-operated military banking facilities to operate on such installations.
 
 (c)(1) An amount held by the disbursing official that is available for expenditure may be used to carry out subsection (a) of this section with the approval of the head of the agency having jurisdiction over the amount.
 
 (2) The head of an agency having jurisdiction over a disbursing official may offset, within the same fiscal year, a deficiency resulting from a transaction under subsection (a) of this section with a gain from a transaction under subsection (a). A gain in the account of a disbursing official not used to offset deficiencies under subsection (a) shall be deposited in the Treasury as miscellaneous receipts.
 
-(3) Amounts necessary to adjust for deficiencies in the account of a disbursing official because of transactions under subsection (a) of this section are authorized to be appropriated.
+(3) The amount of any deficiency resulting from cashing a check for a dependent under subsection (b)(3), including any charges assessed against the disbursing official by a financial institution for insufficient funds to pay the check, may be offset from the pay of the dependent's sponsor.
+
+(4) Amounts necessary to adjust for deficiencies in the account of a disbursing official because of transactions under subsection (a) of this section are authorized to be appropriated.
 
 (d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authority to issue regulations applying to a disbursing official that is an officer or employee of the agency.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957.)
+(e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes of this section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, §1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, §1011, Sept. 23, 1996, 110 Stat. 2635.)
 
 Historical and Revision Notes
 
@@ -70,13 +82,29 @@ In subsection (a), the words “negotiable instruments” are substituted for �
 
 Subsection (b), before clause (1), is added because of the restatement. In clause (2), the words “the accommodation of” are omitted as surplus. The word “personnel” is substituted for “members of the Armed Forces and civilian personnel” to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. In clause (3), the words “of the Armed Forces of the United States . . . institutions operated by the Veterans’ Administration and other” are omitted as surplus.
 
-In subsection (c)(2), the words “For the purposes of this section” are omitted because of the restatement. The words “in the accounts of such disbursing officers” are omitted as unnecessary. The words “resulting from a transaction under subsection (a) of this section” are added for clarity. The words “not used to offset deficiencies from transactions under subsection (a)” are substituted for “resulting from operations permittedby sections 492a to 492c of this title” for clarity and consistency.
+In subsection (c)(2), the words “For the purposes of this section” are omitted because of the restatement. The words “in the accounts of such disbursing officers” are omitted as unnecessary. The words “resulting from a transaction under subsection (a) of this section” are added for clarity. The words “not used to offset deficiencies from transactions under subsection (a)” are substituted for “resulting from operations permitted by sections 492a to 492c of this title” for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:492b(2d sentence) to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
 In subsection (d), the words “rules and . . . governing the disbursing officers under their respective jurisdictions, as may be deemed necessary or proper . . . the purposes of” are omitted as surplus. The words “under conditions the Secretary decides are necessary” are substituted for “subject to such terms and conditions as he may prescribe” for clarity and consistency. The words “and exercise the function of disbursement pursuant to a delegation by the Secretary of the Treasury” are omitted as unnecessary.
 
+#### Amendments
+
+1996—Subsec. (b)(3). Pub. L. 104–201, §1011(1), substituted a semicolon for the period at end.
+
+Pub. L. 104–106, §1090(a)(2), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (b)(4) to (6). Pub. L. 104–106, §1090(a)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
+
+Subsec. (b)(7). Pub. L. 104–201, §1011(2)–(4), added par. (7).
+
+Subsec. (c)(3), (4). Pub. L. 104–106, §1090(b), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (e). Pub. L. 104–106, §1090(c), added subsec. (e).
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 2504.
+
+<i><sup>1</sup></i><i> So in original. There probably should be an additional closing parenthesis.</i>
 

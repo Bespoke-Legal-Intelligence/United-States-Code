@@ -2,7 +2,7 @@
 
 #### (a) Hearing after denial of assistance or sanction by Secretary
 
-Whenever any applicant for financial assistance under this chapter is dissatisfied because the Secretary has made a determination not to award financial assistance in whole or in part to such applicant, the applicant may request a hearing before an administrative law judge of the Department of Labor. A similar hearing may also be requested by any recipient upon whom a corrective action or a sanction has been imposed by the Secretary. Except to the extent providedfor in section 1551(c) of this title, subsections (d) and (e) of section 1554 of this title, or section 1577 of this title, all other disputes arising under this chapter shall be adjudicated under grievance procedures established by the recipient or under applicable law other than this chapter.
+Whenever any applicant for financial assistance under this chapter is dissatisfied because the Secretary has made a determination not to award financial assistance in whole or in part to such applicant, the applicant may request a hearing before an administrative law judge of the Department of Labor. A similar hearing may also be requested by any recipient upon whom a corrective action or a sanction has been imposed by the Secretary. Except to the extent provided for in section 1551(c) of this title, subsections (d) and (e) of section 1554 of this title, or section 1577 of this title, all other disputes arising under this chapter shall be adjudicated under grievance procedures established by the recipient or under applicable law other than this chapter.
 
 #### (b) Time for filing exceptions; final action by Secretary
 

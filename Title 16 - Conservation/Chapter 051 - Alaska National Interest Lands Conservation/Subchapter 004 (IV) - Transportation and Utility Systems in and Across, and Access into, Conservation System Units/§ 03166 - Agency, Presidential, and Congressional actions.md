@@ -46,7 +46,7 @@
 
 (4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
 
-(5) Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
+(5) Except as otherwise provided in this subsection, the provisions of section 719f(d) of title15 shall apply to the consideration of the resolution.
 
 (6) After an application for a transportation or utility system has been approved under subsection (a) of this section, the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b) of this section, the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act \[43 U.S.C. 1761 et seq.\] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
 

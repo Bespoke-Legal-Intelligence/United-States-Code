@@ -52,7 +52,7 @@ As used in this section:
 
 #### (1) Grants
 
-&emsp;The Corporation may make grants to communities and community-based agencies to pay for the Federal share of establishing and carrying out military installation conversion demonstration programs, to assist in converting to community use affected military installations located—
+&emsp;The Corporation may make grants to communities and community-based agencies to pay for the Federal share of establishing andcarrying out military installation conversion demonstration programs, to assist in converting to community use affected military installations located—
 
 &emsp;&emsp;(A) within the community; or
 

@@ -20,7 +20,7 @@
 
 1978—Subsec. (c). Pub. L. 95–599 substituted “section shall not exceed 75 per centum” for “title shall not exceed 70 per centum”.
 
-1976—Subsecs. (b), (c). Pub. L. 94–280 redesignated as subsec. (c) the authorization provisions previously set out as a second subsec. (b), provided for obligation of at least $7,000,000 for fiscal years 1977 and 1978 to carry out this section, and provided for availability of funds for obligation in the same manner and to the same extent as if the funds were apportioned under section 402(c) of this title.
+1976—Subsecs. (b), (c). Pub. L. 94–280 redesignated as subsec. (c) the authorization provisions previously set out as a second subsec. (b), provided for obligation of at least $7,000,000 for fiscal years 1977 and 1978 to carry out this section, and provided for availability of funds forobligation in the same manner and to the same extent as if the funds were apportioned under section 402(c) of this title.
 
 #### Effective Date of 1978 Amendment
 

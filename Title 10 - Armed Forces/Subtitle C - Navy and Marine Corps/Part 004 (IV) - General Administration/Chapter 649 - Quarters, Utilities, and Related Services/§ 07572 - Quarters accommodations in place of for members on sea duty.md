@@ -16,7 +16,7 @@
 
 &emsp;(B) the variable housing allowance that could be paid to a member of the same pay grade under section 403a of title 37 at the location where the member is deprived of quarters on board ship for the period during which the member is deprived of quarters on board ship.
 
-(2) A member entitled to receipt of basic allowance for quarters may not be reimbursed forexpenses under this subsection when deprived of quarters on board ship at a location at which the member can reside with such member's dependents.
+(2) A member entitled to receipt of basic allowance for quarters may not be reimbursed for expenses under this subsection when deprived of quarters on board ship at a location at which the member can reside with such member's dependents.
 
 (3) The total amount of reimbursement under this subsection may not exceed $1,657,000 for each of the fiscal years 1987 through 1992.
 
@@ -90,7 +90,7 @@ Subsec. (b)(3). Pub. L. 98–525, §603(a), added limit of $1,421,000 for fiscal
 
 1983—Subsec. (b)(3). Pub. L. 98–94 added limits of $1,700,000, and $1,300,000 for fiscal years 1983 and 1984, respectively.
 
-1981—Subsec. (b). Pub. L. 97–60 amended subsec. (b) generally, dividing existing provisions into numbered paragraphs (1), (2), and (3), inserting in par. (1), provisions relating to the variable housing allowance that could be paid to a member of the same pay grade under section 403 of title 37 at the location where the member is deprived of quarters onboard ship for the period during which the member is deprived of quarters on board ship and, in par. (3), inserting provision setting a limit of $6,300,000 on the total amount of reimbursement for fiscal year 1982.
+1981—Subsec. (b). Pub. L. 97–60 amended subsec. (b) generally, dividing existing provisions into numbered paragraphs (1), (2), and (3), inserting in par. (1), provisions relating to the variable housing allowance that could be paid to a member of the same pay grade under section 403 of title 37 at the location where the memberis deprived of quarters onboard ship for the period during which the member is deprived of quarters on board ship and, in par. (3), inserting provision setting a limit of $6,300,000 on the total amount of reimbursement for fiscal year 1982.
 
 1980—Subsec. (a)(3). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -108,7 +108,7 @@ Section 603(a) of Pub. L. 99–661 provided that the amendment made by that sect
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185, 1220, provided that: “The amendmentsmade to section 7572(b)(3) of title 10, United States Code, and to section 3 of Public Law 96–357 (10 U.S.C. 7572 note) by section 606 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145\], shall apply to reimbursement of expenses incurred on or after October 1, 1985, by a member of a uniformed service on sea duty.”
+Pub. L. 99–190, §101(b) \[title VIII, §8102\], Dec. 19, 1985, 99 Stat. 1185, 1220, provided that: “The amendments made to section 7572(b)(3) of title 10, United States Code, and to section 3 of Public Law 96–357 (10 U.S.C. 7572 note) by section 606 of the Department of Defense Authorization Act, 1986 \[Pub. L. 99–145\], shall apply to reimbursement of expenses incurred on or after October 1, 1985, by a member of a uniformed service on sea duty.”
 
 #### Effective Date of 1984 Amendment
 

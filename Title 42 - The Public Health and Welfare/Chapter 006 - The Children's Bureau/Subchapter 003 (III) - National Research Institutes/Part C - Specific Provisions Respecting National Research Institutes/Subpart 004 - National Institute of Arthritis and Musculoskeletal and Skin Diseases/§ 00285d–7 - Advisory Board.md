@@ -24,7 +24,7 @@ The Advisory Board shall be composed of twenty appointed members and nonvoting, 
 
 #### (c) Compensation
 
-Members of the Advisory Board who are officers or employees of the Federal Governmentshall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Advisory Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Advisory Board.
+Members of the Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Advisory Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Advisory Board.
 
 #### (d) Term of office; vacancy
 
@@ -72,7 +72,7 @@ The Advisory Board shall prepare an annual report for the Secretary which—
 
 #### (k) Termination of predecessor board; time within which to appoint members
 
-The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section . The Secretary shall make appointments to the Advisory Board established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Advisory Board established under subsection (a) of this section.
+The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a) of this section. The Secretary shall make appointments to the Advisory Board established under subsection (a) of this section before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d) of this section, to the Advisory Board established under subsection (a) of this section.
 
 (July 1, 1944, ch. 373, title IV, §442, as added Nov. 20, 1985, Pub. L. 99–158, §2, 99 Stat. 852; amended Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985; Oct. 27, 1992, Pub. L. 102–531, title III, §312(d)(7), 106 Stat. 3504; June 10, 1993, Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), 107 Stat. 162, 211.)
 
@@ -80,7 +80,7 @@ The National Arthritis Advisory Board in existence on November 20, 1985, shall t
 
 1993—Subsec. (a). Pub. L. 103–43, §701(d)(1), inserted “and Musculoskeletal and Skin Diseases” after “Arthritis”.
 
-Subsec. (b). Pub. L. 103–43, §§701(d)(2), 2008(b)(7), substituted “twenty” for “eighteen” in introductory provisions, “eight” for “six” and “including one member who is a person who has such a disease, one person who is the parent of an adult with such a disease, and two members who are parents of children with arthritis” for “including at least one member who is a person who has such a disease and one member who is a parent ofa person who has such a disease” in par. (1)(B), and “Department of Veterans Affairs” for “Veterans’ Administration” in par. (2)(A).
+Subsec. (b). Pub. L. 103–43, §§701(d)(2), 2008(b)(7), substituted “twenty” for “eighteen” in introductory provisions, “eight” for “six” and “including one member who is a person who has such a disease, one person who is the parent of an adult with such a disease, and two members who are parents of children with arthritis” for “including at least one member who is a person who has such a disease and one member who is a parent of a person who has such a disease” in par. (1)(B), and “Department of Veterans Affairs” for “Veterans’ Administration” in par. (2)(A).
 
 Subsec. (j)(5). Pub. L. 103–43, §701(d)(3), added par. (5).
 

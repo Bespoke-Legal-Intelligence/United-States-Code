@@ -12,7 +12,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 #### (b) Reliance of Commission upon voluntary standards
 
-(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate or adequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
+(1) The Commission shall rely upon voluntary consumer product safety standards rather than promulgate a consumer product safety standard prescribing requirements described in subsection (a) of this section whenever compliance with such voluntary standards would eliminate oradequately reduce the risk of injury addressed and it is likely that there will be substantial compliance with such voluntary standards.
 
 (2) The Commission shall devise procedures to monitor compliance with any voluntary standards—
 
@@ -26,7 +26,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person's cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
 
-(Pub. L. 92–573, §7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII,§1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, §107(a), Nov. 16, 1990, 104 Stat. 3111.)
+(Pub. L. 92–573, §7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, §1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, §107(a), Nov. 16, 1990, 104 Stat. 3111.)
 
 #### Codification
 
@@ -70,7 +70,7 @@ Subsec. (d)(2). Pub. L. 94–284, §8(a), inserted provision which permits the C
 
 Subsec. (e). Pub. L. 94–284, §7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
-Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or theproceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
 
 #### Effective Date of 1981 Amendment
 
@@ -92,7 +92,7 @@ Requirements.—
 
 &emsp;“(2)(A) Effective on and after January 1, 1993, all residential automatic garage door openers manufactured on and after such date for sale in the United States shall conform to any additional entrapment protection requirements of the American National Standards Institute Underwriters Laboratories, Inc. Standards for Safety—UL 325, third edition, which were issued after the date of the enactment of this Act \[Nov. 16, 1990\] to become effective on or before January 1, 1993.
 
-&emsp;“(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4,1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
+&emsp;“(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
 
 “(c)
 

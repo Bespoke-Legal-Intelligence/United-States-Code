@@ -14,7 +14,7 @@ The following shall be exempt from the specific provisions of this chapter under
 
 &emsp;For purposes of subsection (a)(1) of this section, the aggregate number of laying hens owned by an egg producer shall include—
 
-&emsp;&emsp;(A) in cases in which the producer is an individual, laying hens owned by such producer or members of such producer's familythat are effectively under the control of such producer, as determined by the Secretary;
+&emsp;&emsp;(A) in cases in which the producer is an individual, laying hens owned by such producer or members of such producer's family that are effectively under the control of such producer, as determined by the Secretary;
 
 &emsp;&emsp;(B) in cases in which the producer is a general partnership or similar entity, laying hens owned by the entity and all partners or equity participants in the entity; and
 

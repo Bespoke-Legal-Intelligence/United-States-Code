@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-When not otherwise provided for by this title, the Secretary shall by regulations prescribe the time for filing any return, statement, or other document required by this title or by regulations.
+When not otherwise provided for by this title, the Secretary shall by regulations prescribe thetime for filing any return, statement, or other document required by this title or by regulations.
 
 #### (b) Special taxes
 

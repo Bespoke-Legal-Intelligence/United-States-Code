@@ -22,7 +22,7 @@ Reports by Units of General Local Government to Secretary.—
 
 &emsp;(1)
 
-In general.—At the end of each fiscal year, each unit of general local governmentwhich received a payment under this chapter for the fiscal year shall submit a report to the Secretary. The report shall be submitted in the form and at a time prescribed by the Secretary and shall be available to the public for inspection. The report shall state—
+In general.—At the end of each fiscal year, each unit of general local government which received a payment under this chapter for the fiscal year shall submit a report to the Secretary. The report shall be submitted in the form and at a time prescribed by the Secretary and shall be available to the public for inspection. The report shall state—
 
 &emsp;&emsp;(A) the amounts and purposes for which the payment has been appropriated, expended, or obligated in the fiscal year;
 

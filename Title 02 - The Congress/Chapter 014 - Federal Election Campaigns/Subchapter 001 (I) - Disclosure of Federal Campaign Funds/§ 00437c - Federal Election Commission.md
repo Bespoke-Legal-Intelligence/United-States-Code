@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; term of office; vacancies; qualifications; compensation; chairman and vice chairman
 
-(1) There is established a commission to be known as the Federal Election Commission. The Commission is composed of the Secretary of theSenate and the Clerk of the House of Representatives or their designees, ex officio and without the right to vote, and 6 members appointed by the President, by and with the advice and consent of the Senate. No more than 3 members of the Commission appointed under this paragraph may be affiliated with the same political party.
+(1) There is established a commission to be known as the Federal Election Commission. The Commission is composed of the Secretary of the Senate and the Clerk of the House of Representatives or their designees, ex officio and without the right to vote, and 6 members appointed by the President, by and with the advice and consent of the Senate. No more than 3 members of the Commission appointed under this paragraph may be affiliated with the same political party.
 
 (2)(A) Members of the Commission shall serve for terms of 6 years, except that of the members first appointed—
 
@@ -52,7 +52,7 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 (4) Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation it may fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
 
-(Pub. L. 92–225, title III, §306, formerly §310, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered §309 and amended Pub. L. 94–283, title I, §§101(a)–(d), 105, May 11, 1976, 90 Stat. 475, 476, 481; renumbered §306 and amended Pub. L. 96–187, title I, §§105(3), (6), 112(b), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–225, title III, §306, formerly §310, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered §309 and amendedPub. L. 94–283, title I, §§101(a)–(d), 105, May 11, 1976, 90 Stat. 475, 476, 481; renumbered §306 and amended Pub. L. 96–187, title I, §§105(3), (6), 112(b), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Fede
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 
-Section 208(b) of Pub. L. 93–443 provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of the members and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
+Section 208(b) of Pub. L. 93–443 provided transitional authority for the Comptroller General, the Secretary of the Senate, and the Clerk of the House of Representatives pending the appointment and qualification of themembers and general counsel of the Federal Election Commission and authority for transfer of records, documents, memorandums, and other papers to the Commission.
 
 #### Section Referred to in Other Sections
 

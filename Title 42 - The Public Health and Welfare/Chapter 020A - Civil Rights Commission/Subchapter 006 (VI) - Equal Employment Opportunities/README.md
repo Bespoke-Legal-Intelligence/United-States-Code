@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1981a, 2000h, 11111 of this title; title 2 sections 60<i>l</i>, 1302, 1311, 1371, 1434; title 8 section 1324b; title 21 section 848; title 43 section 1863.
+This subchapter is referred to in sections 1981a, 2000h, 11111 of this title; title 2 sections 60<i>l</i>, 1302, 1311, 1371, 1434; title 3 sections 402, 411; title 8 section 1324b; title 21 section 848; title 43 section 1863.
 
 
 ---

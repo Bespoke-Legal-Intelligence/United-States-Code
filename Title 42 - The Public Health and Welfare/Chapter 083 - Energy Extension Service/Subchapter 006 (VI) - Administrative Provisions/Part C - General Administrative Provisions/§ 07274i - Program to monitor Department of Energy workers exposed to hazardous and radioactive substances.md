@@ -12,7 +12,7 @@ The Secretary shall establish and carry out a program for the identification and
 
 &emsp;(B) identify employees referred to in subparagraph (A) who received a level of exposure identified under paragraph (2)(B);
 
-&emsp;(C) determine the appropriate number, scope, and frequency of medical evaluationsand laboratory tests to be provided to employees who have received a level of exposure identified under paragraph (2)(B) to permit the Secretary to evaluate fully the extent, nature, and medical consequences of such exposure;
+&emsp;(C) determine the appropriate number, scope, and frequency of medical evaluations and laboratory tests to be provided to employees who have received a level of exposure identified under paragraph (2)(B) to permit the Secretary to evaluate fully the extent, nature, and medical consequences of such exposure;
 
 &emsp;(D) make available the evaluations and tests referred to in subparagraph (C) to the employees referred to in such subparagraph;
 
@@ -56,5 +56,5 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7274h, 7274j of this title.
+This section is referred to in sections 2297h–8, 7274h, 7274j of this title.
 

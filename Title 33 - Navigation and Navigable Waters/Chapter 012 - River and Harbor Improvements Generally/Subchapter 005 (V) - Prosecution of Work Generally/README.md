@@ -6,7 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00621 - By what methods river and harbor work may be authorized to be prosecuted](%C2%A7%2000621%20-%20By%20what%20methods%20river%20and%20harbor%20work%20may%20be%20authorized%20to%20be%20prosecuted.md)
-- [&sect; 00622 - Contracts, etc., for implementation of projects for improvements and for dredging and related work by private industry; performance of&#8230;](%C2%A7%2000622%20-%20Contracts%2C%20etc.%2C%20for%20implementation%20of%20projects%20for%20improvements%20and%20for%20dredging%20and%20related%20work%20by%20private%20industry%3B%20performance%20of%E2%80%A6.md)
+- [&sect; 00622 - Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet](%C2%A7%2000622%20-%20Contracts%2C%20etc.%2C%20with%20private%20industry%20for%20implementation%20of%20projects%20for%20improvements%20and%20dredging%3B%20reduction%20of%20federally%20owned%20fleet.md)
 - [&sect; 00623 - Repealed. Oct. 31, 1951, ch. 654, &sect;1(57), 65 Stat. 703](%C2%A7%2000623%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2857%29%2C%2065%20Stat.%20703.md)
 - [&sect; 00624 - Limitation on improvement work by private contract](%C2%A7%2000624%20-%20Limitation%20on%20improvement%20work%20by%20private%20contract.md)
 - [&sect; 00625 - Repealed. Oct. 31, 1951, ch. 654, &sect;1(58), 65 Stat. 703](%C2%A7%2000625%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2858%29%2C%2065%20Stat.%20703.md)

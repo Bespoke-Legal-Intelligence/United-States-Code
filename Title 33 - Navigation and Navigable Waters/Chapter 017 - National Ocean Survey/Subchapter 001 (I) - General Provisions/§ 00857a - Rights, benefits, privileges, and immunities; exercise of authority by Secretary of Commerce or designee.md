@@ -1,6 +1,6 @@
 ### §857a. Rights, benefits, privileges, and immunities; exercise of authority by Secretary of Commerce or designee
 
-(a) The rules of law that apply to the Armed Forces under the following provisions of title 10, including changes in those rules made after August 10, 1956, apply also to the commissioned officers of the National Oceanic and Atmospheric Administration:
+(a) The rules of law that apply to the Armed Forces under the following provisions of title 10, as those provisions are in effect from time to time, apply also to the commissioned officer corps of the National Oceanic and Atmospheric Administration:
 
 &emsp;(1) Section 1036, Escorts for dependents of members: transportation and travel allowances.
 
@@ -18,7 +18,7 @@
 
 &emsp;(8) Sections 2731, 2732, and 2735, property loss incident to service.
 
-&emsp;(9) Such other provisions of subtitle A as may be adopted for applicability to the commissioned officers of the National Oceanic and Atmospheric Administration by any other provision of law.
+&emsp;(9) Such other provisions of subtitle A as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
 
 &emsp;(10) Chapter 40, Leave.
 
@@ -30,9 +30,11 @@
 
 &emsp;(14) Section 7572(b), Quarters: accommodations in place of for members on sea duty.
 
-(b) The authority vested by title 10 in the “military department”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) of this section shall be exercised, with respect to the National Oceanic and Atmospheric Administration by the Secretary of Commerce or his designee.
+&emsp;(15) Section 1174a, special separation benefits (except that benefits under subsection (b)(2)(B) of such section are subject to the availability of appropriations for such purpose and are provided at the discretion of the Secretary of Commerce).
 
-(Aug. 10, 1956, ch. 1041, §3, 70A Stat. 619; Sept. 2, 1958, Pub. L. 85–861, §3, 72 Stat. 1546; Aug. 14, 1959, Pub. L. 86–160, §2, 73 Stat. 358; Sept. 14, 1961, Pub. L. 87–233, §4, 75 Stat. 507; Sept. 7, 1962, Pub. L. 87–649, §9(a), 76 Stat. 495; Oct. 2, 1963, Pub. L. 88–132, §5(k), 77 Stat. 214; Aug. 14, 1964, Pub. L. 88–431, §1(c)(1), 78 Stat. 439; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Aug. 14, 1966, Pub. L. 89–538, §3(a), 80 Stat. 348; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Sept. 21, 1972, Pub. L. 92–425, §5, 86 Stat. 713; Mar. 25, 1980, Pub. L. 96–215, §1, 94 Stat. 123; Sept. 24, 1980, Pub. L. 96–357, §4, 94 Stat. 1182; Dec. 12, 1980, Pub. L. 96–513, title V, §507(f)(1), 94 Stat. 2920; Sept. 24, 1983, Pub. L. 98–94, title X, §1007(d), 97 Stat. 662.)
+(b) The authority vested by title 10 in the “military department”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) of this section shall be exercised, with respect to the commissioned officer corps of the National Oceanic and Atmospheric Administration by the Secretary of Commerce or his designee.
+
+(Aug. 10, 1956, ch. 1041, §3, 70A Stat. 619; Sept. 2, 1958, Pub. L. 85–861, §3, 72 Stat. 1546; Aug. 14, 1959, Pub. L. 86–160, §2, 73 Stat. 358; Sept. 14, 1961, Pub. L. 87–233, §4, 75 Stat. 507; Sept. 7, 1962, Pub. L. 87–649, §9(a), 76 Stat. 495; Oct. 2, 1963, Pub. L. 88–132, §5(k), 77 Stat. 214; Aug. 14, 1964, Pub. L. 88–431, §1(c)(1), 78 Stat. 439; Aug. 14, 1966, Pub. L. 89–538, §3(a), 80 Stat. 348; Sept. 21, 1972, Pub. L. 92–425, §5, 86 Stat. 713; Mar. 25, 1980, Pub. L. 96–215, §1, 94 Stat. 123; Sept. 24, 1980, Pub. L. 96–357, §4, 94 Stat. 1182; Dec. 12, 1980, Pub. L. 96–513, title V, §507(f)(1), 94 Stat. 2920; Sept. 24, 1983, Pub. L. 98–94, title X, §1007(d), 97 Stat. 662; Feb. 10, 1996, Pub. L. 104–106, div. A, title V, §566(a), (b), 110 Stat. 327.)
 
 #### References in Text
 
@@ -46,6 +48,14 @@ Section was formerly classified to section 316 of Title 37 prior to the general 
 
 #### Amendments
 
+1996—Subsec. (a). Pub. L. 104–106, §566(b)(2), substituted “as those provisions are in effect from time to time” for “including changes in those rules made after August 10, 1956”.
+
+Pub. L. 104–106, §566(b)(1), substituted “commissioned officer corps of the National Oceanic and Atmospheric Administration” for “Coast and Geodetic Survey” in introductory provisions and in par. (9).
+
+Subsec. (a)(15). Pub. L. 104–106, §566(a), added par. (15).
+
+Subsec. (b). Pub. L. 104–106, §566(b)(1), substituted “commissioned officer corps of the National Oceanic and Atmospheric Administration” for “Coast and Geodetic Survey”.
+
 1983—Subsec. (a)(13). Pub. L. 98–94 substituted “transfers among the Armed Forces, the National Oceanic and Atmospheric Administration, and the Public Health Service” for “transfers between armed forces and to and from National Oceanic and Atmospheric Administration”.
 
 1980—Subsec. (a)(3). Pub. L. 96–513 inserted reference to section 1370.
@@ -54,7 +64,7 @@ Subsec. (a)(13). Pub. L. 96–215 added cl. (13).
 
 Subsec. (a)(14). Pub. L. 96–357 added cl. (14).
 
-1972—Subsec. (a)(5). Pub. L. 92–425 substituted “Retired Serviceman's Family Protection Plan; Survivor Benefit Plan” for “Annuities Based on Retired or Retainer Pay”.
+1972—Subsec. (a)(5). Pub. L. 92–425 substituted “Retired Serviceman's Family Protection Plan; SurvivorBenefit Plan” for “Annuities Based on Retired or Retainer Pay”.
 
 1966—Subsec. (a)(12). Pub. L. 89–538 added cl. (12).
 
@@ -70,6 +80,10 @@ Subsec. (a)(14). Pub. L. 96–357 added cl. (14).
 
 1958—Subsec. (a)(2), (5) to (7). Pub. L. 85–861, inserted reference to section 1374 in cl. (2), struck out “Care of the Dead” after “Benefits” in cl. (5), added cl. (6), and renumbered former cl. (6) as (7).
 
+#### Effective Date of 1996 Amendment
+
+Section 566(d) of Pub. L. 104–106 provided that: “This section \[amending this section and enacting provisions set out as a note under section 1293 of Title 10, Armed Forces\] shall apply only to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration who are separated after September 30, 1995.”
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
@@ -82,17 +96,13 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Transfer of Functions
-
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
-
-#### Designation of Beneficiary Made Before January 1, 1956
+#### Designation of Beneficiary Made Before January 1, 1956
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of section 3 of Pub. L. 85–861, which amended this section, see note set out under section 2771 of Title 10, Armed Forces.
 
 #### Rules and Regulations: Savings Deposit Benefits
 
-Regulations prescribed by the Secretary of Commerce concerning savings deposit benefits for Coast and Geodetic Survey personnel to be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of Title 10, Armed Forces, see section 3(c) of Pub. L. 89–538, set out as a note under section 1035 of Title 10, Armed Forces.
+Regulations prescribed by the Secretary of Commerce concerning savings deposit benefits for Coast and Geodetic Survey (now National Oceanic and Atmospheric Administration) personnel to be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of Title 10, Armed Forces, see section 3(c) of Pub. L. 89–538, set out as a note under section 1035 of Title 10, Armed Forces.
 
 #### Back Payments: Validation; Application; Limitations; Accountability of Disbursing Officers; Regulations
 

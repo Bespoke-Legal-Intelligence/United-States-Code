@@ -28,7 +28,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 (1) In operating the National Atomic Museum, the Secretary of Energy may—
 
-&emsp;(A) accept and use donations of money or gifts pursuant to section 7262 of this title, if such gifts or money are designated in a written document signed by the donor as intended for the museum, and such donations or gifts are determined by the Secretary to be suitable and beneficial for use by the museum;
+&emsp;(A) accept and use donations of money or gifts pursuant to section 7262 <sup>1</sup> of this title, if such gifts or money are designated in a written document signed by the donor as intended for the museum, and such donations or gifts are determined by the Secretary to be suitable and beneficial for use by the museum;
 
 &emsp;(B) operate a retail outlet on the premises of the museum for the purpose of selling or distributing mementos, replicas of memorabilia, literature, materials, and other items of an informative, educational, and tasteful nature relevant to the contents of the museum; and
 
@@ -38,6 +38,10 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 (Pub. L. 102–190, div. C, title XXXI, §3137, Dec. 5, 1991, 105 Stat. 1578; Pub. L. 103–35, title II, §203(b)(4), May 31, 1993, 107 Stat. 102.)
 
+#### References in Text
+
+Section 7262 of this title, referred to in subsec. (c)(1)(A), was repealed by Pub. L. 104–206, title V, §502, Sept. 30, 1996, 110 Stat. 3002.
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
@@ -45,4 +49,6 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 #### Amendments
 
 1993—Subsec. (c)(1). Pub. L. 103–35 struck out comma after “Secretary of Energy” in introductory provisions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated $675,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
+&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated$675,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994.
 
 #### (2) Allocation for health services research
 

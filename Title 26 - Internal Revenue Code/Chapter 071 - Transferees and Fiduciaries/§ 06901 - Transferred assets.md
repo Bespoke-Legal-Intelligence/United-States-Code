@@ -2,7 +2,7 @@
 
 #### (a) Method of collection
 
-The amounts of the following liabilities shall, except as hereinafter in this section provided, be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
+The amounts of the following liabilities shall, except as hereinafter in this section provided, be assessed, paid, and collected in the same mannerand subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
 
 #### (1) Income, estate, and gift taxes
 
@@ -98,7 +98,7 @@ Time for performing certain acts postponed by reason of war, see section 7508 of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6040 of this title; title 18 section 3613.
+This section is referred to in section 6040 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

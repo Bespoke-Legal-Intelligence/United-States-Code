@@ -36,7 +36,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 2333 (less (c)).
 
@@ -48,9 +50,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1975</b>—Subsec. (b). Pub. L. 94–183 substituted “after December 29, 1969” for “on or after the date of enactment of the Foreign Assistance Act of 1969” in last sentence.
+1975—Subsec. (b). Pub. L. 94–183 substituted “after December 29, 1969” for “on or after the date of enactment of the Foreign Assistance Act of 1969” in last sentence.
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–175, §502(c), inserted provision at end of cl. (1) excepting from creditable service, for the purpose of any retirement system, an agency employee who transfers to an international organization, if such service forms the basis for an annuity or pension under the retirement system of the international organization, and, in cl. (2), inserted references to chapter 89 and Employees’ Health Benefits Fund.
+1969—Subsec. (a). Pub. L. 91–175, §502(c), inserted provision at end of cl. (1) excepting from creditable service, for the purpose of any retirement system, an agency employee who transfers to an international organization, if such service forms the basis for an annuity or pension under the retirement system of the international organization, and, in cl. (2), inserted references to chapter 89 and Employees’ Health Benefits Fund.
 
 Subsec. (b). Pub. L. 91–175, §502(d), struck out “, except a Congressional employee,” in provisions preceding cl. (1), substituted “5 years or any extension thereof,” for “3 years” in cl. (1), and, in provisions following cl. (2), inserted provision dealing with pay differentials to be received by former agency employee on reemployment with agency after service with international organization.
 

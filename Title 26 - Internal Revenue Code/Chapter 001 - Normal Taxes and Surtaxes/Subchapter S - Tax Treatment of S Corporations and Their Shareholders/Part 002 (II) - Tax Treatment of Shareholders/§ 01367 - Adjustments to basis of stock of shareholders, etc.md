@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(D) any expense of the corporation not deductible in computing its taxable income and not properly chargeable to capital account, and
 
-&emsp;&emsp;(E) the amount of the shareholder's deduction for depletion for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(13)(B).<sup>1</sup>
+&emsp;&emsp;(E) the amount of the shareholder's deduction for depletion for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(11)(B).
 
 #### (b) Special rules
 
@@ -46,19 +46,35 @@
 
 &emsp;This section and section 1366 shall be applied before the application of sections 165(g) and 166(d) to any taxable year of the shareholder or the corporation in which the security or debt becomes worthless.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974.)
+#### (4) Adjustments in case of inherited stock
 
-#### References in Text
+#### (A) In general
 
-Section 613A(c)(13)(B), referred to in subsec. (a)(2)(E), was redesignated as section 613A(c)(11)(B) by Pub. L. 101–508, title XI, §11521(a), Nov. 5, 1990, 104 Stat. 1388–485.
+&emsp;&emsp;If any person acquires stock in an S corporation by reason of the death of a decedent or by bequest, devise, or inheritance, section 691 shall be applied with respect to any item of income of the S corporation in the samemanner as if the decedent had held directly his pro rata share of such item.
+
+#### (B) Adjustments to basis
+
+&emsp;&emsp;The basis determined under section 1014 of any stock in an S corporation shall be reduced by the portion of the value of the stock which is attributable to items constituting income in respect of the decedent.
+
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1679; amended Pub. L. 98–369, div. A, title VII, §§721(d), (w), 722(e)(2), July 18, 1984, 98 Stat. 967, 971, 974; Pub. L. 104–188, title I, §§1313(a), 1702(h)(14), Aug. 20, 1996, 110 Stat. 1785, 1874.)
 
 #### Amendments
+
+1996—Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(14), substituted “section 613A(c)(11)(B)” for “section 613A(c)(13)(B)”.
+
+Subsec. (b)(4). Pub. L. 104–188, §1313(a), added par. (4).
 
 1984—Subsec. (a)(2)(E). Pub. L. 98–369, §722(e)(2), substituted “for any oil and gas property held by the S corporation to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such shareholder under section 613A(c)(13)(B)” for “under section 611 with respect to oil and gas wells”.
 
 Subsec. (b)(2)(B). Pub. L. 98–369, §721(w), substituted “for any taxable year beginning after December 31, 1982, there is” for “for any taxable year there is”.
 
 Subsec. (b)(3). Pub. L. 98–369, §721(d), inserted “and 166(d)” in heading and text.
+
+#### Effective Date of 1996 Amendment
+
+Section 1313(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\].”
+
+Amendment by section 1702(h)(14) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -73,6 +89,4 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 108, 1016, 1366, 1368 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,52 +1,272 @@
 ### §877. Expatriation to avoid tax
 
-#### (a) In general
+#### (a) Treatment of expatriates
 
-Every nonresident alien individual who at any time after March 8, 1965, and within the 10-year period immediately preceding the close of the taxable year lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B, shall be taxable for such taxable year in the manner provided in subsection (b) if the tax imposed pursuant to such subsection exceeds the tax which, without regard to this section, is imposed pursuant to section 871.
+#### (1) In general
+
+&emsp;Every nonresident alien individual who, within the 10-year period immediately preceding the close of the taxable year, lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B, shall be taxable for such taxable yearin the manner provided in subsection (b) if the tax imposed pursuant to such subsection (after any reduction in such tax under the last sentence of such subsection) exceeds the tax which, without regard to this section, is imposed pursuant to section 871.
+
+#### (2) Certain individuals treated as having tax avoidance purpose
+
+&emsp;For purposes of paragraph (1), an individual shall be treated as having a principal purpose to avoid such taxes if—
+
+&emsp;&emsp;(A) the average annual net income tax (as defined in section 38(c)(1)) of such individual for the period of 5 taxable years ending before the date of the loss of United States citizenship is greater than $100,000, or
+
+&emsp;&emsp;(B) the net worth of the individual as of such date is $500,000 or more.
+
+> &emsp;In the case of the loss of United States citizenship in any calendar year after 1996, such $100,000 and $500,000 amounts shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “1994” for “1992” in subparagraph (B) thereof. Any increase under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
 #### (b) Alternative tax
 
 A nonresident alien individual described in subsection (a) shall be taxable for the taxable year as provided in section 1, 55, or 402(d)(1), except that—
 
-&emsp;(1) the gross income shall include only the gross income described in section 872(a) (as modified by subsection (c) of this section), and
+&emsp;(1) the gross income shall include only the gross income described in section 872(a) (as modified by subsection (d) of this section), and
 
 &emsp;(2) the deductions shall be allowed if and to the extent that they are connected with the gross income included under this section, except that the capital loss carryover provided by section 1212(b) shall not be allowed; and the proper allocation and apportionment of the deductions for this purpose shall be determined as provided under regulations prescribed by the Secretary.
 
-> For purposes of paragraph (2), the deductions allowed by section 873(b) shall be allowed; and the deduction (for losses not connected with the trade or business if incurred in transactions entered into for profit) allowed by section 165(c)(2) shall be allowed, but only if the profit, if such transaction had resulted in a profit, would be included in gross income under this section.
+> For purposes of paragraph (2), the deductions allowed by section 873(b) shall be allowed; and the deduction (for losses not connected with the trade or business if incurred in transactions entered into for profit) allowed by section 165(c)(2) shall be allowed, but only if the profit, if such transaction had resulted in a profit, would be included in gross income under this section. The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.
 
-#### (c) Special rules of source
+#### (c) Tax avoidance not presumed in certain cases
 
-For purposes of subsection (b), the following items of gross income shall be treated as income from sources within the United States:
+#### (1) In general
 
-#### (1) Sale of property
+&emsp;Subsection (a)(2) shall not apply to an individual if—
 
-&emsp;Gains on the sale or exchange of property (other than stock or debt obligations) located in the United States.
+&emsp;&emsp;(A) such individual is described in a subparagraph of paragraph (2) of this subsection, and
 
-#### (2) Stock or debt obligations
+&emsp;&emsp;(B) within the 1-year period beginning on the date of the loss of United States citizenship, such individual submits a ruling request for the Secretary's determination as to whether such loss has for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B.
 
-&emsp;Gains on the sale or exchange of stock issued by a domestic corporation or debt obligations of United States persons or of the United States, a State or political subdivision thereof, or the District of Columbia.
+#### (2) Individuals described
 
-> For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).
+#### (A) Dual citizenship, etc.
 
-#### (d) Exception for loss of citizenship for certain causes
+&emsp;&emsp;An individual is described in this subparagraph if—
 
-Subsection (a) shall not apply to a nonresident alien individual whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487).<sup>1</sup>
+&emsp;&emsp;&emsp;(i) the individual became at birth a citizen of the United States and a citizen of another country and continues to be a citizen of such other country, or
 
-#### (e) Burden of proof
+&emsp;&emsp;&emsp;(ii) the individual becomes (not later than the close of a reasonable period after loss of United States citizenship) a citizen of the country in which—
+
+&emsp;&emsp;&emsp;&emsp;(I) such individual was born,
+
+&emsp;&emsp;&emsp;&emsp;(II) if such individual is married, such individual's spouse was born, or
+
+&emsp;&emsp;&emsp;&emsp;(III) either of such individual's parents were born.
+
+#### (B) Long-term foreign residents
+
+&emsp;&emsp;An individual is described in this subparagraph if, for each year in the 10-year period ending on the date of loss of United States citizenship, the individual was present in the United States for 30 days or less. The rule of section 7701(b)(3)(D)(ii) shall apply for purposes of this subparagraph.
+
+#### (C) Renunciation upon reaching age of majority
+
+&emsp;&emsp;An individual is described in this subparagraph if the individual's loss of United States citizenship occurs before such individual attains age 181/2.
+
+#### (D) Individuals specified in regulations
+
+&emsp;&emsp;An individual is described in this subparagraph if the individual is described in a category of individuals prescribed by regulation by the Secretary.
+
+#### (d) Special rules for source, etc.
+
+For purposes of subsection (b)—
+
+#### (1) Source rules
+
+&emsp;The following items of gross income shall be treated as income from sources within the United States:
+
+#### (A) Sale of property
+
+&emsp;&emsp;Gains on the sale or exchange of property (other than stock or debt obligations) located in the United States.
+
+#### (B) Stock or debt obligations
+
+&emsp;&emsp;Gains on the sale or exchange of stock issued by a domestic corporation or debt obligations of United States persons or of the United States, a State or political subdivision thereof, or the District of Columbia.
+
+#### (C) Income or gain derived from controlled foreign corporation
+
+&emsp;&emsp;Any income or gain derived from stock in a foreign corporation but only—
+
+&emsp;&emsp;&emsp;(i) if the individual losing United States citizenship owned (within the meaning ofsection 958(a)), or is considered as owning (by applying the ownership rules of section 958(b)), at any time during the 2-year period ending on the date of the loss of United States citizenship, more than 50 percent of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total combined voting power of all classes of stock entitled to vote of such corporation, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the total value of the stock of such corporation, and
+
+&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profits attributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
+
+#### (2) Gain recognition on certain exchanges
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any exchange of property to which this paragraph applies, notwithstanding any other provision of this title, such property shall be treated as sold for its fair market value on the date of such exchange, and any gain shall be recognized for the taxable year which includes such date.
+
+#### (B) Exchanges to which paragraph applies
+
+&emsp;&emsp;This paragraph shall apply to any exchange during the 10-year period described in subsection (a) if—
+
+&emsp;&emsp;&emsp;(i) gain would not (but for this paragraph) be recognized on such exchange in whole or in part for purposes of this subtitle,
+
+&emsp;&emsp;&emsp;(ii) income derived from such property was from sources within the United States (or, if no income was so derived, would have been from such sources), and
+
+&emsp;&emsp;&emsp;(iii) income derived from the property acquired in the exchange would be from sources outside the United States.
+
+#### (C) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
+
+#### (D) Secretary may extend period
+
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein.
+
+#### (E) Secretary may require recognition of gain in certain cases
+
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary—
+
+&emsp;&emsp;&emsp;(i) the removal of appreciated tangible personal property from the United States, and
+
+&emsp;&emsp;&emsp;(ii) any other occurrence which (without recognition of gain) results in a change in the source of the income or gain from property from sources within the United States to sources outside the United States,
+
+> &emsp;&emsp;shall be treated as an exchange to which this paragraph applies.
+
+#### (3) Substantial diminishing of risks of ownership
+
+&emsp;For purposes of determining whether this section applies to any gain on the sale or exchange of any property, the running of the 10-year period described in subsection (a) shall be suspended for any period during which the individual's risk of loss with respect to the property is substantially diminished by—
+
+&emsp;&emsp;(A) the holding of a put with respect to such property (or similar property),
+
+&emsp;&emsp;(B) the holding by another person of a right to acquire the property, or
+
+&emsp;&emsp;(C) a short sale or any other transaction.
+
+#### (4) Treatment of property contributed to controlled foreign corporations
+
+#### (A) In general
+
+&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;(i) an individual losing United States citizenship contributes property to any corporation which, at the time of the contribution, is described in subparagraph (B), and
+
+&emsp;&emsp;&emsp;(ii) income derived from such property was from sources within the United States (or, if no income was so derived, would have been from such sources),
+
+> &emsp;&emsp;during the 10-year period referred to in subsection (a), any income or gain on such property (or any other property which has a basis determined in whole or part by reference to such property) received or accrued by the corporation shall be treated as received or accrued directly by such individual and not by such corporation. The preceding sentence shall not apply to the extent the property has been treated under subparagraph (C) as having been sold by such corporation.
+
+#### (B) Corporation described
+
+&emsp;&emsp;A corporation is described in this subparagraph with respect to an individual if, were such individual a United States citizen—
+
+&emsp;&emsp;&emsp;(i) such corporation would be a controlled foreign corporation (as defined in <sup>1</sup> 957), and
+
+&emsp;&emsp;&emsp;(ii) such individual would be a United States shareholder (as defined in section 951(b)) with respect to such corporation.
+
+#### (C) Disposition of stock in corporation
+
+&emsp;&emsp;If stock in the corporation referred to in subparagraph (A) (or any other stock which has a basis determined in whole or part by reference to such stock) is disposed of duringthe 10-year period referred to in subsection (a) and while the property referred to in subparagraph (A) is held by such corporation, a pro rata share of such property (determined on the basis of the value of such stock) shall be treated as sold by the corporation immediately before such disposition.
+
+#### (D) Anti-abuse rules
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the purposes of this paragraph, including where—
+
+&emsp;&emsp;&emsp;(i) the property is sold to the corporation, and
+
+&emsp;&emsp;&emsp;(ii) the property taken into account under subparagraph (A) is sold by the corporation.
+
+#### (E) Information reporting
+
+&emsp;&emsp;The Secretary shall require such information reporting as is necessary to carry out the purposes of this paragraph.
+
+#### (e) Comparable treatment of lawful permanent residents who cease to be taxed as residents
+
+#### (1) In general
+
+&emsp;Any long-term resident of the United States who—
+
+&emsp;&emsp;(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
+
+&emsp;&emsp;(B) commences to be treated as a resident of a foreign country under the provisions of a tax treaty between the United States and the foreign country and who does not waive the benefits of such treaty applicable to residents of the foreign country,
+
+> &emsp;shall be treated for purposes of this section and sections 2107, 2501, and 6039F <sup>2</sup> in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
+
+#### (2) Long-term resident
+
+&emsp;For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+
+#### (3) Special rules
+
+#### (A) Exceptions not to apply
+
+&emsp;&emsp;Subsection (c) shall not apply to an individual who is treated as provided in paragraph (1).
+
+#### (B) Step-up in basis
+
+&emsp;&emsp;Solely for purposes of determining any tax imposed by reason of this subsection, property which was held by the long-term resident on the date the individual first became a resident of the United States shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
+
+#### (4) Authority to exempt individuals
+
+&emsp;This subsection shall not apply to an individual who is described in a category of individuals prescribed by regulation by the Secretary.
+
+#### (5) Regulations
+
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out this subsection, including regulations providing for the application of this subsection in cases where an alien individual becomes a resident of the United States during the 10-year period after being treated as provided in paragraph (1).
+
+#### (f) Burden of proof
 
 If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for such taxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312.)
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789, provided that, applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, subsection (b) of this section is amended by substituting “section 1 or 55” for “section 1, 55, or 402(d)(1)”.</i>
+
+#### Adjustment of Net Tax and Net Worth Amounts for Tax Years Beginning in 1997
+
+<i>For adjustment of average annual net income tax and net worth amounts under subsec. (a)(2) of this section for tax years beginning in 1997, see section 3.12 of Revenue Procedure 96-59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
-Sections 301(b), 350, and 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, 1487), referred to in subsec. (d), were repealed by Pub. L. 95–432, §§1, 2, Oct. 10, 1978, 92 Stat. 1046.
+Section 6039F, referred to in subsec. (e)(1), probably means the section 6039F of this title added by section512(a) of Pub. L. 104–191, title V, Aug. 21, 1996, 110 Stat. 2100.
 
 #### Prior Provisions
 
 A prior section 877 was renumbered section 878 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–191, §511(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+
+“(a)
+
+In General.—Every nonresident alien individual who at any time after March 8, 1965, and within the 10-year period immediately preceding the close of the taxable year lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B, shall be taxable for such taxable year in the manner provided in subsection (b) if the tax imposed pursuant to such subsection exceeds the tax which, without regard to this section, is imposed pursuant to section 871.”
+
+Subsec. (a)(1). Pub. L. 104–191, §511(d)(2), inserted “(after any reduction in such tax under the last sentence of such subsection)” after “such subsection”.
+
+Subsec. (b). Pub. L. 104–191, §511(d)(1), inserted at end “The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.”
+
+Subsec. (b)(1). Pub. L. 104–191, §511(b)(2), substituted “subsection (d)” for “subsection (c)”.
+
+Subsec. (c). Pub. L. 104–191, §511(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 104–191, §511(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(d)
+
+Special Rules of Source.—For purposes of subsection (b), the following items of gross income shall be treated as income from sources within the United States:
+
+&emsp;“(1)
+
+Sale of property.—Gains on the sale or exchange of property (other than stock or debt obligations) located in the United States.
+
+&emsp;“(2)
+
+Stock or debt obligations.—Gains on the sale or exchange of stock issued by a domestic corporation or debt obligations of United States persons or of the United States, a State or political subdivision thereof, or the District of Columbia.
+
+> For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).”
+
+Pub. L. 104–191, §511(b)(1), redesignated subsec. (c) as (d) and struck out former subsec. (d) which read as follows:
+
+“(d)
+
+Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not apply to a nonresident alien individual whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487).”
+
+Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1992—Subsec. (b). Pub. L. 102–318 substituted “402(d)(1)” for “402(e)(1)”.
 
@@ -59,6 +279,36 @@ A prior section 877 was renumbered section 878 of this title.
 1976—Subsecs. (b)(2), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1974—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
+
+#### Effective Date of 1996 Amendment
+
+Section 511(g) of Pub. L. 104–191 provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 2107 and 2501 of this title\] shall apply to—
+
+&emsp;“(A) individuals losing United States citizenship (within the meaning of section 877 of the Internal Revenue Code of 1986) on or after February 6, 1995, and
+
+&emsp;“(B) long-term residents of the United States with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after February 6, 1995.
+
+“(2)
+
+Ruling requests.—In no event shall the 1-year period referred to in section 877(c)(1)(B) of such Code, as amended by this section, expire before the date which is 90 days after the date of the enactment of this Act \[Aug. 21, 1996\].
+
+“(3)
+
+Special rule.—
+
+&emsp;“(A)
+
+In general.—In the case of an individual who performed an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)) before February 6, 1995, but who did not, on or before such date, furnish to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of such act, the amendments made by this section and section 512 \[enacting section 6039F of this title\] shall apply to such individual except that the 10-year period described in section 877(a) of such Code shall not expire before the end of the 10-year period beginning on the date such statement is so furnished.
+
+&emsp;“(B)
+
+Exception.—Subparagraph (A) shall not apply if the individual establishes to the satisfaction of the Secretary of the Treasury that such loss of United States citizenship occurred before February 6, 1994.”
+
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -84,13 +334,19 @@ Amendment by Pub. L. 93–406 applicable only with respect to distributions or p
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1966, see section 103(n)(1) of Pub. L. 89–809, set out as an Effective Date of 1966 Amendment note under section 871 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 865, 894, 3405, 7701 of this title.
+This section is referred to in sections 2, 865, 894, 2107, 2501, 3405, 6039F, 7701 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

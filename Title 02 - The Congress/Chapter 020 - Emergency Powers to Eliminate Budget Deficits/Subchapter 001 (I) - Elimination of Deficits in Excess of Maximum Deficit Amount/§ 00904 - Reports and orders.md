@@ -6,9 +6,8 @@ The timetable with respect to this subchapter for any budget year is as follows:
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| :--- | ---: |
 | <b>Date:</b> | <b>Action to be completed:</b> |
+| :--- | ---: |
 | January 21 | Notification regarding optional adjustment of maximum deficit amount. |
 | 5 days before the President's budget submission | CBO sequestration preview report. |
 | The President's budget submission | OMB sequestration preview report. |
@@ -17,7 +16,6 @@ The timetable with respect to this subchapter for any budget year is as follows:
 | August 20 | OMB sequestration update report. |
 | 10 days after end of session | CBO final sequestration report. |
 | 15 days after end of session | OMB final sequestration report; Presidential order. |
-| 30 days later | GAO compliance report. |
 
 #### (b) Submission and availability of reports
 
@@ -107,7 +105,7 @@ On the dates specified in subsection (a) of this section, OMB and CBO shall issu
 
 #### (5) Explanation of differences
 
-&emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection <sup>1</sup> 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable resources for any budget account to be reduced if such difference is greater than $5,000,000.
+&emsp;The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under subsection <sup>1</sup> 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable <sup>2</sup> resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
 #### (6) Presidential order
 
@@ -115,13 +113,13 @@ On the dates specified in subsection (a) of this section, OMB and CBO shall issu
 
 #### (h) Within-session sequestration reports and order
 
-If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (g)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (g)(2) and (g)(4).<sup>2</sup> On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
+If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach, 10 days later CBO shall issue a report containing the information required in paragraph (g)(2). Fifteen days after enactment, OMB shall issue a report containing the information required in paragraphs (g)(2) and (g)(4).<sup>3</sup> On the same day as the OMB report, the President shall issue an order fully implementing without change all sequestrations required by the OMB calculations set forth in that report. This order shall be effective on issuance.
 
 #### (i) GAO compliance report
 
-On the date specified in subsection (a) of this section, the Comptroller General shall submit to the Congress and the President a report on—
+Upon request of the Committee on the Budget of the House of Representatives or the Senate, the Comptroller General shall submit to the Congress and the President a report on—
 
-&emsp;(1) the extent to which each order issued by the President under this section complies with all of the requirements contained in this subchapter, either certifying that the order fully and accurately complies with such requirements or indicating the respects in which it does not; and
+&emsp;(1) the extent to which each order issued by the President under this section complies with all of the requirements contained in this subchapter, either certifying that the order fullyand accurately complies with such requirements or indicating the respects in which it does not; and
 
 &emsp;(2) the extent to which each report issued by OMB or CBO under this section complies with all of the requirements contained in this subchapter, either certifying that the report fully and accurately complies with such requirements or indicating the respects in which it does not.
 
@@ -137,7 +135,7 @@ At any time, CBO shall notify the Congress if—
 
 In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
-(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105.)
+(Pub. L. 99–177, title II, §254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, §310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, §102(d), Oct. 19, 1996, 110 Stat. 3828.)
 
 #### Termination of Section
 
@@ -152,6 +150,10 @@ Paragraph (4) of subsec. (g), referred to in subsec. (h), was redesignated par. 
 November 5, 1990, referred to in subsec. (d)(3)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–316, §102(d)(1), struck out item at end of timetable relating to GAO compliance report.
+
+Subsec. (i). Pub. L. 104–316, §102(d)(2), in introductory provisions substituted “Upon request of the Committee on the Budget of the House of Representatives or the Senate” for “On the date specified in subsection (a) of this section”.
 
 1994—Subsec. (g)(4) to (6). Pub. L. 103–322 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -251,7 +253,7 @@ Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 3513
 
 1990—Pub. L. 101–239, title VI, §6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments for items and services under part A of such title \[42 U.S.C. 1395c et seq.\] (including payments under section 1886 of such title \[42 U.S.C. 1395ww\] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
-Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductionsin the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
+Pub. L. 101–239, title VI, §6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 \[set out below\]), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through March 31, 1990, with respect to payments for items and services under part B of such title \[42 U.S.C. 1395j et seq.\].”
 
 Pub. L. 101–239, title VI, §6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 \[set out below\] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] made by the final sequester order issued by the President on October 16, 1989 \[set out below\], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b)\] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act \[2 U.S.C. 902(a)(4)(B), 906(d)(2)\]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act \[42 U.S.C. 1395<i>l</i>(a)(1)(A), 1395mm\], section 402 of the Social Security Amendments of 1967 \[section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395<i>ll</i>\], or section 222 of the Social Security Amendments of 1972 \[section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1\]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
@@ -295,7 +297,7 @@ By the authority vested in me as President by the statutes of the United States 
 
 (3) For accounts making payments otherwise required by substantive law, the head of each department or agency is directed to modify the calculation of each such payment to the extent necessary to reduce the estimate of total required payments for the fiscal year by the amount specified by the Director of the Office of Management and Budget in his report of December 27, 1989.
 
-(4) For accounts making commitments for guaranteed loans or obligations for direct loans as authorized by substantive law, the head of each department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act and by OBRA and specified by the Director of the Office ofManagement and Budget in his report of December 27, 1989.
+(4) For accounts making commitments for guaranteed loans or obligations for direct loans as authorized by substantive law, the head of each department or agency is directed to reduce the level of such commitments or obligations to the extent necessary to conform to the limitations established by the Act and by OBRA and specified by the Director of the Office of Management and Budget in his report of December 27, 1989.
 
 All reductions and sequestrations shall be made in strict accordance with the specifications of the December 27th report of the Director of the Office of Management and Budget and the requirements of section 252(b) of the Act and section 11002 of OBRA.
 
@@ -335,9 +337,13 @@ Violent Crime Reduction Trust Fund, see section 14211 of Title 42, The Public He
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 901, 903, 906, 907a, 907b, 907c, 907d, 922 of this title; title 21 section 379g.
+This section is referred to in sections 691c, 901, 903, 906, 907a, 907b, 907c, 907d, 922 of this title; title 21 section 379g.
+
+—
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “sequestrable”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@ Another prior section 431 of Pub. L. 89–73 was renumbered section 451 of Pub. 
 
 “(2) Subject to subsection (b) of this section, there is authorized to be appropriated $1,000,000 for fiscal year 1989 to carry out the provisions of section 3035f of this title. The funds appropriated pursuant to this paragraph shall remain available for expenditure for fiscal year 1990.
 
-“(3) Subject to subsection (b) of this section, there is authorized to be appropriated $2,000,000 for each of thefiscal years 1989 and 1990 to carry out the provisions of section 3035g of this title.
+“(3) Subject to subsection (b) of this section, there is authorized to be appropriated $2,000,000 for each of the fiscal years 1989 and 1990 to carry out the provisions of section 3035g of this title.
 
 “(b) No funds may be appropriated under paragraph (2) or (3) of subsection (a) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3035f and 3035g of this title), subchapter III of this chapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
 

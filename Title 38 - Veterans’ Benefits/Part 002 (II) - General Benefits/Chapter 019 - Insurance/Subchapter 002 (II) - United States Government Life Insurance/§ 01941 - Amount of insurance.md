@@ -12,5 +12,5 @@ United States Government life insurance shall be issued against death or total p
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–188 effective on date established by Administrator but in no event later than firstday of first calendar month beginning more than six calendar months after Dec. 15, 1971, see section 4 of Pub. L. 92–188, set out as a note under section 1907 of this title.
+Amendment by Pub. L. 92–188 effective on date established by Administrator but in no event later than first day of first calendar month beginning more than six calendar months after Dec. 15, 1971, see section 4 of Pub. L. 92–188, set out as a note under section 1907 of this title.
 

@@ -6,7 +6,7 @@ An employee serving in a foreign area may be granted a danger pay allowance on t
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–164 inserted provision that presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section, and that each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of action taken and circumstances justifying it.
+1983—Pub. L. 98–164 inserted provision that presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section, and that each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of action taken and circumstances justifying it.
 
 #### Effective Date
 

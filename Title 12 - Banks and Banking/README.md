@@ -1,5 +1,5 @@
 
-12 U.S.C.<br>United States Code, 1995 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
+12 U.S.C.<br>United States Code, 1996 Edition<br>Title 12 - BANKS AND BANKING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 12—BANKS AND BANKING
 
@@ -24,9 +24,9 @@
 | <b>13.</b> | <b>National Housing</b> | <b>1701</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Federal%20Credit%20Unions/README.md) | <b>Federal Credit Unions</b> | <b>1751</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Federal%20Loan%20Agency/README.md) | <b>Federal Loan Agency \[Omitted\]</b> | <b>1801</b> |
-| [<b>16.</b>](Chapter%20016%20-%20Federal%20Deposit%20Insurance%20Corporation/README.md) | <b>Federal Deposit Insurance Corporation</b> | <b>1811</b> |
+| <b>16.</b> | <b>Federal Deposit Insurance Corporation</b> | <b>1811</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Bank%20Holding%20Companies/README.md) | <b>Bank Holding Companies</b> | <b>1841</b> |
-| [<b>18.</b>](Chapter%20018%20-%20Bank%20Service%20Corporations/README.md) | <b>Bank Service Corporations</b> | <b>1861</b> |
+| [<b>18.</b>](Chapter%20018%20-%20Bank%20Service%20Companies/README.md) | <b>Bank Service Companies</b> | <b>1861</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Security%20Measures%20for%20Banks%20and%20Savings%20Associations/README.md) | <b>Security Measures for Banks and Savings Associations</b> | <b>1881</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Credit%20Control/README.md) | <b>Credit Control \[Omitted\]</b> | <b>1901</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Financial%20Recordkeeping/README.md) | <b>Financial Recordkeeping</b> | <b>1951</b> |
@@ -48,7 +48,7 @@
 | [<b>36.</b>](Chapter%20036%20-%20Depository%20Institutions%20Deregulation%20and%20Financial%20Regulation%20Simplification/README.md) | <b>Depository Institutions Deregulation and Financial Regulation Simplification \[Omitted or Repealed\]</b> | <b>3501</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Solar%20Energy%20and%20Energy%20Conservation%20Bank/README.md) | <b>Solar Energy and Energy Conservation Bank \[Repealed\]</b> | <b>3601</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Multifamily%20Mortgage%20Foreclosure/README.md) | <b>Multifamily Mortgage Foreclosure</b> | <b>3701</b> |
-| [<b>38A.</b>](Chapter%20038A%20-%20Single%20Family%20Mortgage%20Foreclosure/README.md) | <b>Single Family Mortgage Foreclosure</b> | <b>3751.</b> |
+| [<b>38A.</b>](Chapter%20038A%20-%20Single%20Family%20Mortgage%20Foreclosure/README.md) | <b>Single Family Mortgage Foreclosure</b> | <b>3751</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Alternative%20Mortgage%20Transactions/README.md) | <b>Alternative Mortgage Transactions</b> | <b>3801</b> |
 | [<b>40.</b>](Chapter%20040%20-%20International%20Lending%20Supervision/README.md) | <b>International Lending Supervision</b> | <b>3901</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Expedited%20Funds%20Availability/README.md) | <b>Expedited Funds Availability</b> | <b>4001</b> |
@@ -84,9 +84,8 @@
 - [Chapter 012 - Savings Associations](Chapter%20012%20-%20Savings%20Associations/README.md)
 - [Chapter 014 - Federal Credit Unions](Chapter%20014%20-%20Federal%20Credit%20Unions/README.md)
 - [Chapter 015 - Federal Loan Agency](Chapter%20015%20-%20Federal%20Loan%20Agency/README.md)
-- [Chapter 016 - Federal Deposit Insurance Corporation](Chapter%20016%20-%20Federal%20Deposit%20Insurance%20Corporation/README.md)
 - [Chapter 017 - Bank Holding Companies](Chapter%20017%20-%20Bank%20Holding%20Companies/README.md)
-- [Chapter 018 - Bank Service Corporations](Chapter%20018%20-%20Bank%20Service%20Corporations/README.md)
+- [Chapter 018 - Bank Service Companies](Chapter%20018%20-%20Bank%20Service%20Companies/README.md)
 - [Chapter 019 - Security Measures for Banks and Savings Associations](Chapter%20019%20-%20Security%20Measures%20for%20Banks%20and%20Savings%20Associations/README.md)
 - [Chapter 020 - Credit Control](Chapter%20020%20-%20Credit%20Control/README.md)
 - [Chapter 021 - Financial Recordkeeping](Chapter%20021%20-%20Financial%20Recordkeeping/README.md)

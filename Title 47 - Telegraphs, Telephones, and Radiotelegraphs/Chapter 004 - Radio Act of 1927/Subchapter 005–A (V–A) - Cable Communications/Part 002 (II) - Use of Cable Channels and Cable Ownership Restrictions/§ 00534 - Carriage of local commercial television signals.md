@@ -14,7 +14,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (2) Selection of signals
 
-&emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is requiredto carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
+&emsp;Whenever the number of local commercial television stations exceeds the maximum number of signals a cable system is required to carry under paragraph (1), the cable operator shall have discretion in selecting which such stations shall be carried on its cable system, except that—
 
 &emsp;&emsp;(A) under no circumstances shall a cable operator carry a qualified low power station in lieu of a local commercial television station; and
 
@@ -22,7 +22,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (3) Content to be carried
 
-&emsp;(A) A cable operator shall carry in its entirety, on the cable system of that operator, the primary video, accompanying audio, and line 21 closed caption transmission of each of the local commercial television stations carried on the cable system and, to the extent technically feasible, program-related material carried in the vertical blanking interval or on subcarriers. Retransmission of other material in the vertical blanking internal or other nonprogram-related material (including teletext and other subscription and advertiser-supported information services) shall be at the discretion of the cable operator. Where appropriate and feasible, operators may delete signal enhancements, such as ghost-canceling, from the broadcast signal and employ such enhancements at the system headend or headends.
+&emsp;(A) A cable operator shall carry in its entirety, on the cable system of that operator,the primary video, accompanying audio, and line 21 closed caption transmission of each of the local commercial television stations carried on the cable system and, to the extent technically feasible, program-related material carried in the vertical blanking interval or on subcarriers. Retransmission of other material in the vertical blanking internal or other nonprogram-related material (including teletext and other subscription and advertiser-supported information services) shall be at the discretion of the cable operator. Where appropriate and feasible, operators may delete signal enhancements, such as ghost-canceling, from the broadcast signal and employ such enhancements at the system headend or headends.
 
 &emsp;(B) The cable operator shall carry the entirety of the program schedule of any television station carried on the cable system unless carriage of specific programming is prohibited, and other programming authorized to be substituted, under section 76.67 or subpart F of part 76 of title 47, Code of Federal Regulations (as in effect on January 1, 1991), or any successor regulations thereto.
 
@@ -54,7 +54,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (9) Notification
 
-&emsp;A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. No deletion or repositioning of a local commercialtelevision station shall occur during a period in which major television ratings services measure the size of audiences of local television stations. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
+&emsp;A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
 
 #### (10) Compensation for carriage
 
@@ -110,11 +110,11 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### (1) Carriage pending proceeding
 
-&emsp;Pending the outcome of the proceeding under paragraph (2), nothing in this chapter shall require a cable operator to carry on anytier, or prohibit a cable operator from carrying on any tier, the signal of any commercial television station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
+&emsp;Pending the outcome of the proceeding under paragraph (2), nothing in this chapter shall require a cable operator to carry on any tier, or prohibit a cable operator from carrying on any tier, the signal of any commercial television station or video programming service that is predominantly utilized for the transmission of sales presentations or program length commercials.
 
 #### (2) Proceeding concerning certain stations
 
-&emsp;Within 270 days after October 5, 1992, the Commission, notwithstanding prior proceedings to determine whether broadcast television stations that are predominantly utilized for the transmission of sales presentations or program length commercials are serving the public interest, convenience, and necessity, shall complete a proceeding in accordance with this paragraph to determine whether broadcast television stations that are predominantly utilized for the transmission of sales presentations or program length commercials are serving the public interest, convenience, and necessity. In conducting such proceeding, the Commission shall provide appropriate notice and opportunity for public comment. The Commission shall consider the viewing of such stations, the level of competing demands for the spectrum allocated to such stations, and the role of such stations in providing competition to nonbroadcast services offering similar programming. In the event that the Commission concludes that one or more of such stations are serving the public interest, convenience, and necessity, the Commission shall qualify such stations as local commercial television stations for purposes of subsection (a) of this section. In the event that the Commission concludes that one or more of such stations are not serving the public interest, convenience, and necessity, the Commission shall allow the licensees of such stations a reasonable period within which to provide different programming, and shall not deny such stations a renewal expectancy solely because their programming consisted predominantly of sales presentations or program length commercials.
+&emsp;Within 270 days after October 5, 1992, the Commission, notwithstanding prior proceedings to determine whether broadcast television stations that are predominantly utilized for the transmission of sales presentations or program length commercials are serving the public interest, convenience, and necessity, shall complete a proceeding in accordance with this paragraph to determine whether broadcast television stations that are predominantly utilized for the transmission of sales presentations or program length commercials are serving the public interest, convenience, and necessity. In conducting suchproceeding, the Commission shall provide appropriate notice and opportunity for public comment. The Commission shall consider the viewing of such stations, the level of competing demands for the spectrum allocated to such stations, and the role of such stations in providing competition to nonbroadcast services offering similar programming. In the event that the Commission concludes that one or more of such stations are serving the public interest, convenience, and necessity, the Commission shall qualify such stations as local commercial television stations for purposes of subsection (a) of this section. In the event that the Commission concludes that one or more of such stations are not serving the public interest, convenience, and necessity, the Commission shall allow the licensees of such stations a reasonable period within which to provide different programming, and shall not deny such stations a renewal expectancy solely because their programming consisted predominantly of sales presentations or program length commercials.
 
 #### (h) Definitions
 
@@ -136,7 +136,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 #### (C) Market determinations
 
-&emsp;&emsp;(i) For purposes of this section, a broadcasting station's market shall be determined in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991, except that, following a written request, the Commission may, with respect to a particular television broadcast station, include additional communities within its television market or exclude communities from such station's television market to better effectuate the purposes of this section. In considering such requests, the Commission may determine that particular communities are part of more than one television market.
+&emsp;&emsp;(i) For purposes of this section, a broadcasting station's market shall be determined by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns, except that, following a written request, the Commission may, with respect to a particular television broadcast station, include additional communities within its television market or exclude communities from such station's television market to better effectuate the purposes of this section. In considering such requests, the Commission may determine that particular communities are part of more than one television market.
 
 &emsp;&emsp;(ii) In considering requests filed pursuant to clause (i), the Commission shall afford particular attention to the value of localism by taking into account such factors as—
 
@@ -150,7 +150,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 &emsp;&emsp;(iii) A cable operator shall not delete from carriage the signal of a commercial television station during the pendency of any proceeding pursuant to this subparagraph.
 
-&emsp;&emsp;(iv) In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph.
+&emsp;&emsp;(iv) Within 120 days after the date on which a request is filed under this subparagraph (or 120 days after February 8, 1996, if later), the Commission shall grant or deny the request.
 
 #### (2) Qualified low power station
 
@@ -158,7 +158,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 &emsp;&emsp;(A) such station broadcasts for at least the minimum number of hours of operation required by the Commission for television broadcast stations under part 73 of title 47, Code of Federal Regulations;
 
-&emsp;&emsp;(B) such station meets all obligations and requirements applicable to television broadcast stations under part 73 of title 47, Code of Federal Regulations, with respect to the broadcast of nonentertainment programming; programming and rates involving political candidates, election issues, controversial issues of public importance, editorials, and personal attacks; programming for children; and equal employment opportunity; and the Commission determines that the provision of such programming by such station would address local news and informational needs which are not being adequately served by full power television broadcast stations because of the geographic distance of such full power stations from the low power station's community of license;
+&emsp;&emsp;(B) such station meets all obligations and requirements applicable to television broadcast stations under part 73 of title 47, Code of Federal Regulations, with respect to the broadcast of nonentertainment programming; programming and rates involving political candidates, election issues, controversial issues of public importance, editorials, and personal attacks; programming for children; and equal employment opportunity; and the Commission determines that the provision of such programming by such station would address local news and informational needs which are not being adequatelyserved by full power television broadcast stations because of the geographic distance of such full power stations from the low power station's community of license;
 
 &emsp;&emsp;(C) such station complies with interference regulations consistent with its secondary status pursuant to part 74 of title 47, Code of Federal Regulations;
 
@@ -170,17 +170,31 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 > &emsp;Nothing in this paragraph shall be construed to change the secondary status of any low power station as provided in part 74 of title 47, Code of Federal Regulations, as in effect on October 5, 1992.
 
-(June 19, 1934, ch. 652, title VI, §614, as added Oct. 5, 1992, Pub. L. 102–385, §4, 106 Stat. 1471.)
+(June 19, 1934, ch. 652, title VI, §614, as added Oct. 5, 1992, Pub. L. 102–385, §4, 106 Stat. 1471; amended Feb. 8, 1996, Pub. L. 104–104, title III, §301(d)(1), 110 Stat. 116.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (g)(1), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
+#### Amendments
+
+1996—Subsec. (h)(1)(C)(i). Pub. L. 104–104, §301(d)(1)(A), substituted “by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns,” for “in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,”.
+
+Subsec. (h)(1)(C)(iv). Pub. L. 104–104, §301(d)(1)(B), added cl. (iv) and struck out former cl. (iv) which read as follows: “In the rulemaking proceeding required by subsection (f) of this section, the Commission shall provide for expedited consideration of requests filed under this subparagraph.”
+
 #### Effective Date
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.
 
+#### Application to Pending Requests
+
+Section 301(d)(2) of Pub. L. 104–104 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to—
+
+&emsp;“(A) any request pending under section 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 534(h)(1)(C)) on the date of enactment of this Act \[Feb. 8, 1996\]; and
+
+&emsp;“(B) any request filed under that section after that date.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 325, 535, 543, 555 of this title.
+This section is referred to in sections 325, 336, 535, 543, 555, 573 of this title.
 

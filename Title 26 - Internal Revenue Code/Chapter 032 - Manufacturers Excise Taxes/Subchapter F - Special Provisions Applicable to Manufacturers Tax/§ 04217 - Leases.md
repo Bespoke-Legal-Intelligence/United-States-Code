@@ -26,7 +26,7 @@ For purposes of this section, the term “total tax” means—
 
 #### (2) Sale before total tax becomes payable
 
-&emsp;If the taxpayer sells an article before the total tax has become payable, then the taxpayable on such sale shall be whichever of the following is the smaller:
+&emsp;If the taxpayer sells an article before the total tax has become payable, then the tax payable on such sale shall be whichever of the following is the smaller:
 
 &emsp;&emsp;(A) the difference between (i) the tax imposed on lease payments under leases of such article to which subsection (b) applies, and (ii) the total tax, or
 
@@ -70,7 +70,7 @@ For purposes of this section, the term “total tax” means—
 
 &emsp;&emsp;The term “total gas guzzler tax” means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, §3, 69 Stat. 614; Sept. 2, 1958, Pub. L. 85–859, title I, §117(a), 72 Stat. 1280; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904 (a)(3), 90 Stat. 1811; Nov. 9, 1978, Pub. L. 95–618, title II, §201(d), 92 Stat. 3184.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, §3, 69 Stat. 614; Sept. 2, 1958, Pub. L. 85–859, title I, §117(a), 72 Stat. 1280; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1904 (a)(3), 90 Stat.1811; Nov. 9, 1978, Pub. L. 95–618, title II, §201(d), 92 Stat. 3184.)
 
 #### Amendments
 

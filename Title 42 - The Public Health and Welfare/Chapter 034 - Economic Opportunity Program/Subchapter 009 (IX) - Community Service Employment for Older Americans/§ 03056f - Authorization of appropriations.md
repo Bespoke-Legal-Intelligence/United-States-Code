@@ -28,7 +28,7 @@ Subsec. (a)(1). Pub. L. 98–459, §504(1), substituted provisions authorizing a
 
 Subsec. (a)(2). Pub. L. 98–459, §504(2), substituted “62,500” for “54,200”.
 
-1981—Pub. L. 97–115 designated existing provisions as subsec. (a), in par. (1) of subsec. (a), as so designated, substituted authorization of appropriations for fiscal years 1982, 1983, and 1984 for authorization of appropriations for the period beginning July 1, 1976, and ending Sept. 30, 1976, and for fiscal years ending June 30, 1976, Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, Sept. 30, 1980,and Sept. 30, 1981, and added par. (2), provision following par. (2), and subsec. (b).
+1981—Pub. L. 97–115 designated existing provisions as subsec. (a), in par. (1) of subsec. (a), as so designated, substituted authorization of appropriations for fiscal years 1982, 1983, and 1984 for authorization of appropriations for the period beginning July 1, 1976, and ending Sept. 30, 1976, and for fiscal years ending June 30, 1976, Sept. 30, 1977, Sept. 30, 1978, Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981, and added par. (2), provision following par. (2), and subsec. (b).
 
 1978—Pub. L. 95–478 authorized appropriations of $350,000,000, $400,000,000, and $450,000,000 for fiscal years ending Sept. 30, 1979, through 1981.
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(II) is a release or disclosure of technical data (other than detailed manufacturing or process data) to, or use of such data by, a foreign government that is in the interest of the United States and is required for evaluational or informational purposes;
 
-&emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person towhom the data is released or disclosed may not further release, disclose, or use such data; and
+&emsp;&emsp;(ii) such release, disclosure, or use is made subject to a prohibition that the person to whom the data is released or disclosed may not further release, disclose, or use such data; and
 
 &emsp;&emsp;(iii) the contractor or subcontractor asserting the restriction is notified of such release, disclosure, or use.
 
@@ -90,7 +90,7 @@
 
 &emsp;(2) prescribing reasonable and flexible guidelines, including negotiation objectives, for the conduct of negotiations regarding the respective rights in technical data of the United States and the contractor.
 
-(d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
+(d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing inthis subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
 (Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393.)
 
@@ -152,7 +152,7 @@ Section 101(c) \[title X, §953(e)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Effective Date
 
-Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct. 19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
+Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct.19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
 
 #### Government-Industry Committee on Rights in Technical Data
 
@@ -224,5 +224,5 @@ Pub. L. 102–190, div. A, title VIII, §808, Dec. 5, 1991, 105 Stat. 1423, requ
 
 #### Deadline for Revision of Regulations
 
-Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
+Section 101(c) \[title X, §953(d)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 953(d) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
 

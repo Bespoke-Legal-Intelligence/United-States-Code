@@ -58,17 +58,21 @@
 
 (c) Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who is not on active duty on the last day of a nuclear service year or who, on or before the last day of a nuclear service year, loses his technical qualifications or advances from the pay grade of O–6 to a higher pay grade may be paid a bonus in accordance with subsection (a) or (b) on a pro rata basis, if otherwise qualified, unless termination of active duty or loss of technical qualifications was voluntary or was the result of his own misconduct.
 
-(d) For the purposes of this section, a “nuclear service year” is any fiscal year beginning before October 1, 1996.
+(d) For the purposes of this section, a “nuclear service year” is any fiscal year beginning before October 1, 1998.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189, div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189, div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(g), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(f), Sept. 23, 1996, 110 Stat. 2544.)
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–201 substituted “October 1, 1998” for “October 1, 1997”.
+
+Pub. L. 104–106 substituted “October 1, 1997” for “October 1, 1996”.
 
 1994—Subsec. (d). Pub. L. 103–337 substituted “October 1, 1996” for “October 1, 1995”.
 
 1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (a) or (b)”.
 
-1990—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretary of the Navy shall make an annual report to the Committees on ArmedServices of the Senate and House of Representatives containing data to monitor the effectiveness of the bonuses authorized by subsections (a) and (b) of this section.”
+1990—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretary of the Navy shall make an annual report to the Committees on Armed Services of the Senate and House of Representatives containing data to monitor the effectiveness of the bonuses authorized by subsections (a) and (b) of this section.”
 
 1989—Subsecs. (a)(1), (b)(1). Pub. L. 101–189, §614(c)(1), struck out “ending before October 1, 1990” before period at end.
 

@@ -1,16 +1,32 @@
 ### §7505. Regulations
 
-(a) The Director, after consultation with the Comptroller General and appropriate Federal, State, and local government officials, shall prescribe policies, procedures, and guidelines to implement this chapter. Each Federal agency shall promulgate such amendments to its regulations as may be necessary to conform such regulations to the requirements of this chapter and of such policies, procedures, and guidelines.
+(a) The Director, after consultation with the Comptroller General, and appropriate officials from Federal, State, and local governments and nonprofit organizations shall prescribe guidance to implement this chapter. Each Federal agency shall promulgate such amendments to its regulations as may be necessary to conform such regulations to the requirements of this chapter and of such guidance.
 
-(b)(1) The policies, procedures, and guidelines prescribed pursuant to subsection (a) shall include criteria for determining the appropriate charges to programs of Federal financial assistance for the cost of audits. Such criteria shall prohibit a State or local government which is required to conduct an audit pursuant to this chapter from charging to any such program (A) the cost of any financial or financial and compliance audit which is not conducted in accordance with this chapter, and (B) more than a reasonably proportionate share of the cost of any such audit that is conducted in accordance with this chapter.
+(b)(1) The guidance prescribed pursuant to subsection (a) shall include criteria for determining the appropriate charges to Federal awards for the cost of audits. Such criteria shall prohibit a non-Federal entity from charging to any Federal awards—
 
-(2) The criteria prescribed pursuant to paragraph (1) shall not, in the absence of documentation demonstrating a higher actual cost, permit (A) the ratio of (i) the total charges by a government to Federal financial assistance programs for the cost of audits performed pursuant to this chapter, to (ii) the total cost of such audits, to exceed (B) the ratio of (i) total Federal financial assistance expended by such government during the applicable fiscal year or years, to (ii) such government's total expenditures during such fiscal year or years.
+&emsp;(A) the cost of any audit which is—
 
-(c) Such policies, procedures, and guidelines shall include such provisions as may be necessary to ensure that small business concerns and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
+&emsp;&emsp;(i) not conducted in accordance with this chapter; or
 
-(Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2333.)
+&emsp;&emsp;(ii) conducted in accordance with this chapter when expenditures of Federal awards are less than amounts cited in section 7502(a)(1)(A) or specified by the Director under section 7502(a)(3), except that the Director may allow the cost of limited scope audits to monitor subrecipients in accordance with section 7502(f)(2)(B); and
+
+&emsp;(B) more than a reasonably proportionate share of the cost of any such audit that is conducted in accordance with this chapter.
+
+(2) The criteria prescribed pursuant to paragraph (1) shall not, in the absence of documentation demonstrating a higher actual cost, permit the percentage of the cost of audits performed pursuant to this chapter charged to Federal awards, to exceed the ratio of total Federal awards expended by such non-Federal entity during the applicable fiscal year or years, to such non-Federal entity's total expenditures during such fiscal year or years.
+
+(c) Such guidance shall include such provisions as may be necessary to ensure that small business concerns and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
+
+(Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1403.)
+
+#### Amendments
+
+1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to regulations, including implementation guidelines for regulations, criteria for determining appropriate charges to programs of Federal financial assistance for cost of audits, and guidelines to ensure that small business concerns and business concerns owned and controlled by socially and economically disadvantaged individuals have opportunity to participate in contracts awarded to fulfill audit requirements of this chapter.
+
+#### Guidelines for Acceptance of Audits by State and Local Governments Receiving Federal Assistance
+
+Pub. L. 104–201, div. A, title VIII, §808(c), Sept. 23, 1996, 110 Stat. 2607, provided that: “The Director of theOffice of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7502 of this title.
+This section is referred to in sections 7502, 7504 of this title.
 

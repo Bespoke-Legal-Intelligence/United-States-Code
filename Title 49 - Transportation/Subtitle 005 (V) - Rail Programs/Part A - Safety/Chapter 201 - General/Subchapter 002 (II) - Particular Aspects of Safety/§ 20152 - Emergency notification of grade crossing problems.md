@@ -14,11 +14,11 @@ Pilot Programs.—The Secretary of Transportation shall conduct a pilot program 
 
 (b)
 
-Report.—The Secretary shall complete the pilot program not later than 24 months after the date of enactment of this section, and shall submit to the Congress not later than 30 months after that date an evaluation of the pilot program, together with findings as to the effectiveness of such emergency notification systems. The report shall compare and contrast the structure, cost, and effectiveness of the pilot program with other emergency notification systems in effect within other States. Such evaluation shall include analyses of the safety benefits derived from the programs, cost effectiveness, and the burdens on participants, including railroad carriers and law enforcement personnel.
+Report.—The Secretary shall complete the pilot program not later than 24 months after November 2, 1994, and shall submit to the Congress not later than 30 months after November 2, 1994, an evaluation of the pilot program, together with findings as to the effectiveness of such emergency notification systems. The report shall compare and contrast the structure, cost, and effectiveness of the pilot program with other emergency notification systems in effect within other States. Such evaluation shall include analyses of the safety benefits derived from the programs, cost effectiveness, and the burdens on participants, including railroad carriers and law enforcement personnel.
 
-(Added Pub. L. 103–440, title III, §301(a), Nov. 2, 1994, 108 Stat. 4626.)
+(Added Pub. L. 103–440, title III, §301(a), Nov. 2, 1994, 108 Stat. 4626; amended Pub. L. 104–287, §5(50), Oct. 11, 1996, 110 Stat. 3393.)
 
-#### References in Text
+#### Amendments
 
-The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 103–440, which was approved Nov. 2, 1994.
+1996—Subsec. (b). Pub. L. 104–287 substituted “November 2, 1994” for “the date of enactment of this section”and “November 2, 1994, an evaluation” for “that date an evaluation”.
 

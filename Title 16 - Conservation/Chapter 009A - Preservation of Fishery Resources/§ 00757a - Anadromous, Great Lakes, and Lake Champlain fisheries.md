@@ -10,7 +10,7 @@ The Secretary may also enter into agreements with the States for the operation o
 
 #### (c) Increase of Federal share
 
-(1) Whenever two or more States having a common interest in any basin jointly enter into a cooperative agreement with the Secretary under subsection (a) of this section to carry out a research and development program to conserve, develop, and enhance anadromous fishery resources of the Nation, or fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Federal share of the program costs shall be increased to a maximum of 662/3 per centum. For the purpose of this subsection, the term “basin” includes rivers and their tributaries, lakes, and other bodies of water or portions thereof.
+(1) Whenever two or more States having a common interest in any basin jointly enter into a cooperative agreement with the Secretary under subsection (a) of this section to carry outa research and development program to conserve, develop, and enhance anadromous fishery resources of the Nation, or fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Federal share of the program costs shall be increased to a maximum of 662/3 per centum. For the purpose of this subsection, the term “basin” includes rivers and their tributaries, lakes, and other bodies of water or portions thereof.
 
 (2) In the case of any State that has implemented an interstate fisheries management plan for anadromous fishery resources, prepared by an interstate commission, the Federal share of any grant made under this section to carry out activities required by such plan shall be up to 90 percent. For purposes of this paragraph, the term “interstate commission” means—
 

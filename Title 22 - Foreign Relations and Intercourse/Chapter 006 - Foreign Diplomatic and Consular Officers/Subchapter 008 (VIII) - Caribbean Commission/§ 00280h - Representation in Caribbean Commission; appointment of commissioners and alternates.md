@@ -10,7 +10,7 @@ In defining the purposes of act Mar. 4, 1948, Congress stated that:
 
 “Whereas representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America signed ‘An Agreement for the establishment of the Caribbean Commission’ in Washington on October 30, 1946, which agreement continued and extended the international cooperative arrangements initiated in 1942 between the United Kingdom of Great Britain and Northern Ireland, and the United States; and
 
-“Whereas the purpose of the Caribbean Commission is to encourage and strengthen international cooperation in promoting the economic and social welfare and advancement of the non-self-governing territories in the Caribbean area, whose economic and social development is of vital interest to the security of the United States, in accordance with the principles set forth in chapter XI of the Charter of the United Nations: Therefore be it”.
+“Whereas the purpose of the Caribbean Commission is to encourage and strengthen international cooperation in promoting the economic and social welfare and advancement of the non-self-governing territories in theCaribbean area, whose economic and social development is of vital interest to the security of the United States, in accordance with the principles set forth in chapter XI of the Charter of the United Nations: Therefore be it”.
 
 #### Acceptance of Caribbean Organization Agreement
 

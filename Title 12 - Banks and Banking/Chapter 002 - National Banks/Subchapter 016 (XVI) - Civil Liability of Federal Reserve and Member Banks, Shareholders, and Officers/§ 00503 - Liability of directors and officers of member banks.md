@@ -6,7 +6,7 @@ If the directors or officers of any member bank shall knowingly violate or permi
 
 #### Codification
 
-In text, “sections 375, 375a, 375b, and 376 of this title” was in the original “this section”, meaning section 22 of act Dec. 23, 1913, which was also classified to sections 593 to 599 of this title. Such sections were repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948, and the provisions thereof were reenacted as sections 217, 218, 219, 220, 655, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure. Reference to such repealed sections was omitted from the text in view of act Sept. 3, 1954, which amended the text by incorporating therein the reference to the sections of Title 18.
+In text, “sections 375, 375a, 375b, and 376 of this title” was in the original “this section”, meaning section 22 of act Dec. 23, 1913, which was also classified to sections 593 to 599 of this title. Such sections were repealed byact June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948, and the provisions thereof were reenacted as sections 217, 218, 219, 220, 655, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure. Reference to such repealed sections was omitted from the text in view of act Sept. 3, 1954, which amended the text by incorporating therein the reference to the sections of Title 18.
 
 Reference to sections “212, 213, 214, 215” of title 18 were substituted for sections “217, 218, 219, 220” of title 18 on authority of section 1(d) of Pub. L. 87–849, Oct. 23, 1962, 76 Stat. 1125, which redesignated sections 217, 218, 219, and 220 of title 18 as sections 212, 213, 214, and 215, respectively.
 

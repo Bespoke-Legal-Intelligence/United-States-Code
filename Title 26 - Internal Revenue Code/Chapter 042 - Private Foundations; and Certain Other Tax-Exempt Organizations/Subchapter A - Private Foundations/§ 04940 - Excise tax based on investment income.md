@@ -146,7 +146,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (C) Special rule where tax reduced under this subsection
 
-&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this sectionfor any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
+&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this section for any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
 
 #### (4) Base period
 
@@ -234,7 +234,7 @@ Provisions effective for taxable years beginning after december 31, 1969.—The 
 
 &emsp;“(A) Sections 4940, 4942, 4943, and 4948 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section), and
 
-&emsp;“(B) The amendments made by subsection (d) \[enacting section 6056 of this title, and amending sections 6033 and 6652 of this title\] and paragraphs (3), (15), (16), (20), (21), (30), (31), (32), (33), (34), (35), and (61) of subsection (j) \[amending sections 501, 542, 878, 884, 6033, 6034, and 6043 of this title and repealing section 504 of this title\].
+&emsp;“(B) The amendments made by subsection (d) \[enacting section 6056 of this title, and amending sections 6033 and 6652 of this title\] and paragraphs (3), (15), (16), (20), (21), (30), (31), (32), (33), (34), (35), and (61) of subsection (j) \[amending sections 501, 542, 878, 884,6033, 6034, and 6043 of this title and repealing section 504 of this title\].
 
 “(3)
 
@@ -244,7 +244,7 @@ and (c).—Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (a
 
 #### Savings Provision
 
-Section 101(<i>l</i>) of Pub. L. 91–172, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713,1729; Pub. L. 95–600, title VII, §703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Section 101(<i>l</i>) of Pub. L. 91–172, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, §703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(1)
 

@@ -24,9 +24,9 @@
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–136 designated existing provisions as par. (1) and added par. (2).
+1989—Subsec. (c). Pub. L. 101–136 designated existing provisions as par. (1) and added par. (2).
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–615, §302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
+1984—Subsec. (b)(2). Pub. L. 98–615, §302(1), substituted “but may not be less than 5 percent nor more than 20 percent” for “but may not exceed 20 percent”.
 
 Subsec. (b)(3). Pub. L. 98–615, §302(2), substituted provisions limiting the aggregate amount of performance awards paid under this section by an agency during any fiscal year to the greater of 3 percent of the aggregate basic pay of career appointees in that agency during the preceding fiscal year or 15 percent of the average of the annual rates of basic pay of such appointees during such fiscal year for provisions limiting the number of career appointees paid performance awards under this section during any fiscal year to 50 percent of the number of Senior Executive Service positions in such agency, except for an agency having less than 4 such positions.
 
@@ -50,7 +50,7 @@ Pub. L. 96–304, title III, §303, July 8, 1980, 94 Stat. 927.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 4314, 4507 of this title; title 10 sections 1590, 1601; title 22 section 3965; title 31 section 733; title 38 section 7404.
+This section is referred to in sections 3151, 4314, 4507 of this title; title 10 section 1606; title 22 section 3965; title 31 section 733; title 38 section 7404.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

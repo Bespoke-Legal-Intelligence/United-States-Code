@@ -72,11 +72,11 @@ Section 523(b) of Pub. L. 86–707, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts,agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### Delegation of Functions
 
-Function of determining the portion of living allowances constituting basic compensation for Peace Corps volunteers or volunteer leaders under par. (3) of this section delegated by President to Director of Peace Corps to be performed in consultation with the Secretary of the Treasury, see section 1–104 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note undersection 2501 of Title 22, Foreign Relations and Intercourse.
+Function of determining the portion of living allowances constituting basic compensation for Peace Corps volunteers or volunteer leaders under par. (3) of this section delegated by President to Director of Peace Corps to be performed in consultation with the Secretary of the Treasury, see section 1–104 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of Title 22, Foreign Relations and Intercourse.
 
 Authority of President under par. (2) of this section delegated to Secretary of Defense with respect to military departments, and to Secretary of the Treasury with respect to Coast Guard, concerning civilian employees of nonappropriated fund instrumentalities of the armed forces, see section 201 of Ex. Ord. No. 11137, Jan. 7, 1964, set out as a note under section 5921 of Title 5, Government Organization and Employees.
 

@@ -22,7 +22,7 @@ The Comptroller General shall conduct verification examinations of any person or
 
 For the purposes of this subchapter—
 
-&emsp;(1) The term “verification examination” means an examination of such books, records, papers, or other documents of a person or company as the Comptroller General determines necessary and appropriate to assess the accuracy, reliability, and adequacy of the energy information, or financial information, referred to in subsection (a) of this section.
+&emsp;(1) The term “verification examination” means an examination of such books, records,papers, or other documents of a person or company as the Comptroller General determines necessary and appropriate to assess the accuracy, reliability, and adequacy of the energy information, or financial information, referred to in subsection (a) of this section.
 
 &emsp;(2) The term “energy information” has the same meaning as such term has in section 796(e)(1) of title 15.
 

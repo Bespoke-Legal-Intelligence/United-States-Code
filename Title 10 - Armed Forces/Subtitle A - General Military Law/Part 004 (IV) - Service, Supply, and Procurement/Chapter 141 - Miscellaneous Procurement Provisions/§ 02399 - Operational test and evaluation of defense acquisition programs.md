@@ -2,7 +2,7 @@
 
 (a)
 
-Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
+Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary ofDefense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
 
 (2) In this subsection, the term “major defense acquisition program” means—
 
@@ -44,7 +44,7 @@ Impartial Contracted Advisory and Assistance Services.—(1) The Director may no
 
 (2) The Director may waive the limitation under paragraph (1) in any case if the Director determines in writing that sufficient steps have been taken to ensure the impartiality of the contractor in providing the services. The Inspector General of the Department of Defense shall review each such waiver and shall include in the Inspector General's semi-annual report an assessment of those waivers made since the last such report.
 
-(3)(A) A contractor that has participated in (or is participating in) the development, production,or testing of a system for a military department or Defense Agency (or for another contractor of the Department of Defense) may not be involved (in any way) in the establishment of criteria for data collection, performance assessment, or evaluation activities for the operational test and evaluation.
+(3)(A) A contractor that has participated in (or is participating in) the development, production, or testing of a system for a military department or Defense Agency (or for another contractor of the Department of Defense) may not be involved (in any way) in the establishment of criteria for data collection, performance assessment, or evaluation activities for the operational test and evaluation.
 
 (B) The limitation in subparagraph (A) does not apply to a contractor that has participated in such development, production, or testing solely in testing for the Federal Government.
 
@@ -68,15 +68,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-&emsp;(2) The term “congressional defense committees” means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.
+&emsp;(2) The term “congressional defense committees” means—
 
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859.)
+&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;(B) the Committee on National Security and the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504.)
 
 #### Prior Provisions
 
 A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293, which related to limitation on availability of appropriations to reimburse a contractor for the cost of commercial insurance, was repealed by Pub. L. 100–370, §1(f)(2)(B), July 19, 1988, 102 Stat. 846, and was restated in section 2324(e)(1)(L) of this title by section 1(f)(2)(A) of Pub. L. 100–370.
 
 #### Amendments
+
+1996—Subsec. (h)(2). Pub. L. 104–106 substituted “means—” and subpars. (A) and (B) for “means the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
 1994—Subsecs. (b)(5), (c)(1). Pub. L. 103–337, §1070(a)(11)(A), substituted “139(a)(2)(B)” for “138(a)(2)(B)”.
 
@@ -89,10 +95,6 @@ Subsec. (h)(1). Pub. L. 103–337, §1070(a)(11)(C), substituted “139(a)(2)(A)
 1993—Subsec. (b)(3). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
 1992—Subsec. (e)(3). Pub. L. 102–484 designated existing provisions as subpar. (A) and added subpar. (B).
-
-#### Change of Name
-
-Committee on Armed Services of House of Representatives treated as referring to Committee on National Security of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Assessment of Risk in Concurrent Development of Major Defense Acquisition Systems
 

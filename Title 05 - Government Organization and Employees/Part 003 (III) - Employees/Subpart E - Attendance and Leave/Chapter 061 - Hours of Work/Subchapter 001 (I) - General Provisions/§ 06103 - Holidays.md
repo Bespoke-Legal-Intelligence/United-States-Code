@@ -36,7 +36,15 @@
 
 (c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917.)
+(d)(1) For purposes of this subsection—
+
+&emsp;(A) the term “compressed schedule” has the meaning given such term by section 6121(5); and
+
+&emsp;(B) the term “adverse agency impact” has the meaning given such term by section 6131(b).
+
+(2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739.)
 
 Historical and Revision Notes
 
@@ -44,7 +52,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a)
 
@@ -92,11 +102,13 @@ Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pu
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–144 inserted item relating to birthday of Martin Luther King, Jr.
+1996—Subsec. (d). Pub. L. 104–201 added subsec. (d).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–97 changed Veterans Day from fourth Monday in October to November 11.
+1983—Subsec. (a). Pub. L. 98–144 inserted item relating to birthday of Martin Luther King, Jr.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–363 added Columbus Day, the second Monday in October, to the enumerated legal public holidays, and substituted provisions that Washington's Birthday, Memorial Day, and Veterans Day are to be celebrated on the third Monday in February, the last Monday in May, and the fourth Monday in October, respectively, for provisions that the above mentioned public holidays are to be celebrated on February 22, May 30, and November 11, respectively.
+1975—Subsec. (a). Pub. L. 94–97 changed Veterans Day from fourth Monday in October to November 11.
+
+1968—Subsec. (a). Pub. L. 90–363 added Columbus Day, the second Monday in October, to the enumerated legal public holidays, and substituted provisions that Washington's Birthday, Memorial Day, and Veterans Day are to be celebrated on the third Monday in February, the last Monday in May, and the fourth Monday in October, respectively, for provisions that the above mentioned public holidays are to be celebrated on February 22, May 30, and November 11, respectively.
 
 #### Effective Date of 1983 Amendment
 
@@ -134,7 +146,7 @@ Sec. 2. As used in this order:
 
 Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
 
-(b) Any employee whose basic workweek includes Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on a day that hasbeen administratively scheduled as his <i>regular</i> weekly nonworkday in lieu of Sunday.
+(b) Any employee whose basic workweek includes Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on a day that has been administratively scheduled as his <i>regular</i> weekly nonworkday in lieu of Sunday.
 
 Sec. 4. The holiday for a full-time employee for whom the head of a department has established the first 40 hours of duty performed within a period of not more than six days of the administrative workweek as his basic workweek because of the impracticability of prescribing a regular schedule of definite hours of duty for each workday, shall be determined as follows:
 

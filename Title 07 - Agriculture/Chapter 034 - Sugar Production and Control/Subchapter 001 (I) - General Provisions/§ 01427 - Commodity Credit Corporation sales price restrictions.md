@@ -84,7 +84,7 @@ The foregoing restrictions of this section shall not apply to—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the foregoing restrictions of this section shall not apply tosales of commodities the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantities involved, or because of age, location or questionable continued storability of the commodity.
+&emsp;Subject to paragraph (2), the foregoing restrictions of this section shall not apply to sales of commodities the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantities involved, or because of age, location or questionable continued storability of the commodity.
 
 #### (2) Offsets
 
@@ -124,7 +124,7 @@ Pub. L. 100–387 substituted provision authorizing the Commodity Credit Corpora
 
 Pub. L. 99–198, §1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
 
-Pub. L. 99–198, §503, temporarily reenacted substantially without change the amendments made in 1981 by section 503 of Pub. L. 97–98, which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonablecarrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
+Pub. L. 99–198, §503, temporarily reenacted substantially without change the amendments made in 1981 by section 503 of Pub. L. 97–98, which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
 
 1983—Pub. L. 98–88 inserted provision that, beginning Aug. 26, 1983, the Commodity Credit Corporation may sell extra long staple cotton for unrestricted use at such price levels as the Secretary determines appropriate to maintain and expand export and domestic markets for such cotton.
 
@@ -138,7 +138,7 @@ Pub. L. 99–198, §503, temporarily reenacted substantially without change the 
 
 Pub. L. 90–475 required that notwithstanding any other provision of this section, effective Aug. 1, 1968, the Commodity Credit Corporation make available for sale for unrestricted use at current market prices a quantity of American grown extra long staple cotton equal to the specified amount, with the proviso that beginning with the marketing year for which the national marketing quota is not established pursuant to section 1347(b)(3) of this title, no sales shall be made at less than 115 percent of the loan rate for extra long staple cotton under section 1441(f) of this title, and required the Secretary to make adjustments in the quantities of cotton to be made available.
 
-1966—Pub. L. 89–808 inserted proviso to third sentence prohibiting, whenever carryover at end of any marketing year of a price supported agricultural commodity for which a voluntary adjustment program is in effect will be less than 25 per centum (35 per centum in the case of wheat) of the estimated export and domestic consumption of such commodity during such marketing year, sale of CCC stocks of such commodity during such year for unrestricted use at less than 115 per centum (120 per centum in the case of wheat whenever its carryover will be less than 25 per centum of such estimated export and domestic consumption) of the current price support loan plus reasonable carrying charges.
+1966—Pub. L. 89–808 inserted proviso to third sentence prohibiting, whenever carryover at end of any marketing year of a price supported agricultural commodityfor which a voluntary adjustment program is in effect will be less than 25 per centum (35 per centum in the case of wheat) of the estimated export and domestic consumption of such commodity during such marketing year, sale of CCC stocks of such commodity during such year for unrestricted use at less than 115 per centum (120 per centum in the case of wheat whenever its carryover will be less than 25 per centum of such estimated export and domestic consumption) of the current price support loan plus reasonable carrying charges.
 
 1965—Pub. L. 89–321 required that notwithstanding any other provision of this section, for the period August 1, 1966, through July 31, 1970, (1) the Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same prices as it sells cotton for export, in no event, however, at less than 110 per centum of the loan rate, and (2) the Commodity Credit Corporation shall sell or make available for unrestricted use at current market prices in each marketing year a quantity of upland cotton equal to the amount by which the production of upland cotton is less than the estimated requirements for domestic use and for export for such marketing year, permitted the Secretary to make such estimates and adjustments therein at such times as he determines will best effectuate the provisions of part (2) of the foregoing sentence, and required such quantities of cotton as are required to be sold under such sentence to be offered for sale in an orderly manner and so as not to affect market prices unduly.
 
@@ -148,7 +148,7 @@ Pub. L. 88–297, §104, inserted proviso that beginning Aug. 1, 1964, the Corpo
 
 Pub. L. 88–297, §204, temporarily substituted proviso that if wheat marketing allocation program is in effect, the current price for wheat shall be the support price for wheat not accompanied by marketing certificates for proviso prescribing support price for wheat accompanied by marketing certificate and sale of wheat to be accompanied by marketing certificate, respectively. See Effective and Termination Dates of 1964 Amendment note below.
 
-1962—Pub. L. 87–703 prescribed that a marketing certificate accompany the support price for wheat and wheat sold and authorized the Secretary to make Commodity Credit Corporation feed available, prior to Dec.31, 1963, to milk producers to assure supply free of radioactive fallout contamination, respectively.
+1962—Pub. L. 87–703 prescribed that a marketing certificate accompany the support price for wheat and wheat sold and authorized the Secretary to make Commodity Credit Corporation feed available, prior to Dec. 31, 1963, to milk producers to assure supply free of radioactive fallout contamination, respectively.
 
 1961—Pub. L. 87–127 empowered Corporation to sell, at not less than 75 percent of the current support price, feed owned or controlled by it to assist in the preservation and maintenance of foundation herds of cattle, sheep, and goats in such areas where the Secretary determines an emergency exists warranting such assistance.
 
@@ -194,7 +194,7 @@ Section 603 of Pub. L. 95–113 provided that the amendment made by that section
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Section 409 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by that section \[establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] is effective only with respect to marketing years for 1971 through 1977 crops.
+Section 409 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(16), Aug. 10, 1973, 87 Stat. 230, provided that theamendment made by that section \[establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation's operations\] is effective only with respect to marketing years for 1971 through 1977 crops.
 
 Section 603 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(21), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by that section \[covering sale of upland cotton by Corporation\] is effective only with respect to period beginning Aug. 1, 1971, and ending July 31, 1978.
 
@@ -210,6 +210,10 @@ Section 204 of Pub. L. 88–297, as amended by Pub. L. 89–321, title V, §503(
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
+#### Inapplicability of Section
+
+Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
+
 #### Sale of Corn to Ethanol Producers
 
 Section 332 of Pub. L. 100–387 provided that:
@@ -220,7 +224,7 @@ In General.—Except as otherwise provided in this section and notwithstanding s
 
 “(b)
 
-Price.—Corn shall be sold under this section at a price that is not more than such fuel conversionprice, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior to any adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 (7 U.S.C. 1444e(a)(3)).
+Price.—Corn shall be sold under this section at a price that is not more than such fuel conversion price, except that such price shall not be less than 110 percent of the basic county loan rate for corn, prior to any adjustment made under section 105C(a)(3) of the Agricultural Act of 1949 (7 U.S.C. 1444e(a)(3)).
 
 “(c)
 
@@ -292,5 +296,5 @@ Agricultural commodity set-aside, dispositions not subject to pricing limitation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1359a, 1427a, 1428, 1444, 1446, 1446e, 1744 of this title; title 50 App. section 2093.
+This section is referred to in sections 1359a, 1427a, 1428, 1444, 1446, 1744 of this title; title 50 App. section 2093.
 

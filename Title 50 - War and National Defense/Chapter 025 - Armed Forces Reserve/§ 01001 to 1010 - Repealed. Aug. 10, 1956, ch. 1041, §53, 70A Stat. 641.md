@@ -10,7 +10,7 @@ Section 1004, act July 9, 1952, ch. 608, pt. II, §253, 66 Stat. 496, related to
 
 Section 1005, act July 9, 1952, ch. 608, pt. II, §254, 66 Stat. 496, related to boards, membership of boards, seniority. See section 12643 of Title 10.
 
-Section 1006, act July 9, 1952, ch. 608, pt. II, §255, 66 Stat. 496, related to availability of supplies, equipment, and facilities. See section 2511 of Title 10.
+Section 1006, act July 9, 1952, ch. 608, pt. II, §255, 66 Stat. 496, related to availability of supplies, equipment, and facilities. See section 18502 of Title 10.
 
 Section 1007, act July 9, 1952, ch. 608, pt. II, §256, 66 Stat. 496, provided for responsibility for Reserve affairs. See sections 10203 and 18501 of Title 10.
 

@@ -16,7 +16,7 @@ For purposes of giving special consideration under section 1104b(d) of this titl
 
 #### Prior Provisions
 
-A prior section 525 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1499, related to community college pilot projects andwas classified to section 1105d of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
+A prior section 525 of Pub. L. 89–329, title V, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1499, related to community college pilot projects and was classified to section 1105d of this title, prior to the general revision of this subchapter by Pub. L. 102–325.
 
 Another prior section 525 of Pub. L. 89–329, title V, Nov. 8, 1965, 79 Stat. 1260, as amended, authorized Commissioner to pay stipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs and was classified to section 1115 of this title, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 

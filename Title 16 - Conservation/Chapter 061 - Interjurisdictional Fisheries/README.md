@@ -22,7 +22,7 @@
 | (a) | General appropriations. |
 | (b) | Additional appropriations. |
 | (c) | Development of management plans. |
-| (d) | Grants to commercial fishermen. |
+| (d) | Assistance to commercial fishermen. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

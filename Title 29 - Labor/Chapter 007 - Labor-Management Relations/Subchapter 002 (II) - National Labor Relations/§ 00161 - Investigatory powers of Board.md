@@ -22,13 +22,13 @@ For the purpose of all hearings and investigations, which, in the opinion of the
 
 #### (6) Information and assistance from departments
 
-&emsp;The several departments and agencies of the Government, when directed by the President, shall furnish the Board, upon its request, all records, papers, and information in their possession relating to any matter before the Board.
+&emsp;The several departments and agencies of the Government, when directed by the President,shall furnish the Board, upon its request, all records, papers, and information in their possession relating to any matter before the Board.
 
 (July 5, 1935, ch. 372, §11, 49 Stat. 455; June 23, 1947, ch. 120, title I, §101, 61 Stat. 150; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 15, 1970, Pub. L. 91–452, title II, §234, 84 Stat. 930; June 11, 1960, Pub. L. 86–507, §1(57), as added May 21, 1980, Pub. L. 96–245, 94 Stat. 347.)
 
 #### Codification
 
-The original text of par. (2) contained a reference to the District Court of the United States for the Districtof Columbia. Act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “District Court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have now been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
+The original text of par. (2) contained a reference to the District Court of the United States for the District of Columbia. Act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “District Court of the United States for the District of Columbia”. However, the words “United States District Court for the District of Columbia” have now been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which states that “the District of Columbia constitutes one judicial district”.
 
 #### Amendments
 

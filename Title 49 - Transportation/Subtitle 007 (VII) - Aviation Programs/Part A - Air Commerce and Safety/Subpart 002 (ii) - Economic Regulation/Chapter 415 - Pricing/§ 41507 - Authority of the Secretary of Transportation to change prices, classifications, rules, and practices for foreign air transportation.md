@@ -16,7 +16,9 @@ When Secretary May Act.—The Secretary may act under this section on the Secret
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -30,7 +32,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1002(f), 72 Stat. 789.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -40,13 +42,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
-In subsection (a), before clause (1), the words “individual or joint” are omitted as surplus. The words“charged or received” are substituted for “demanded, charged, collected, or received” to eliminate unnecessary words. The words “unreasonably discriminatory” are substituted for “unjustly discriminatory, or unduly preferential, or unduly prejudicial” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. In clause (2), the words “carrying out” are substituted for “enforcing” for clarity.
+In subsection (a), before clause (1), the words “individual or joint” are omitted as surplus. The words “charged or received” are substituted for “demanded, charged, collected, or received” to eliminate unnecessary words. The words “unreasonably discriminatory” are substituted for “unjustly discriminatory, or unduly preferential, or unduly prejudicial” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. In clause (2), the words “carrying out” are substituted for “enforcing” for clarity.
 
 In subsection (b), the words “opportunity for a” are added for consistency in the revised title and with other titles of the United States Code.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41310, 41503 of this title.
+This section is referred to in sections 40109, 41310, 41503, 46301 of this title.
 

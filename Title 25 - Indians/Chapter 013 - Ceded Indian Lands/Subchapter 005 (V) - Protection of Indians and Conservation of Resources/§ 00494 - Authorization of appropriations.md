@@ -10,5 +10,5 @@ Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–82, title III, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 488, 489, 490, 491, 492, 493 of this title.
+This section is referred to in sections 488, 489, 490, 491, 492, 493 of this title; title 7 section 1985.
 

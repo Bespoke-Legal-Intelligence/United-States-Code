@@ -2,45 +2,39 @@
 
 #### (a) In general
 
-(1) Except as provided in paragraphs (2) and (4), any royalties or other income received by a Federal agency from the licensing or assignment of inventions under agreements entered into by Government-operated Federal laboratories under section 3710a of this title, and inventions of Government-operated Federal laboratories licensed under section 207 of title 35, or under any other provision of law, shall be retained by the agency whose laboratory produced the invention and shall be disposed of as follows:
+(1) Except as provided in paragraphs (2) and (4), any royalties or other payments received by a Federal agency from the licensing and assignment of inventions under agreements entered into by Federal laboratories under section 3710a of this title, and from the licensing of inventions of Federal laboratories under section 207 of title 35 or under any other provision of law, shall be retained by the laboratory which produced the invention and shall be disposed of as follows:
 
-(A)(i) The head of the agency or his designee shall pay at least 15 percent of the royalties or other income the agency receives on account of any invention to the inventor (or co-inventors) if the inventor (or each such co-inventor) has assigned his or her rights in the invention to the United States. This clause shall take effect on October 20, 1986, unless the agency publishes a notice in the Federal Register within 90 days of October 20, 1986, indicating its election to file a Notice of Proposed Rulemaking pursuant to clause (ii).
+&emsp;(A)(i) The head of the agency or laboratory, or such individual's designee, shall pay each year the first $2,000, and thereafter at least 15 percent, of the royalties or other payments to the inventor or coinventors.
 
-(ii) An agency may promulgate, in accordance with section 553 of title 5, regulations providing for an alternative program for sharing royalties with inventors under clause (i). Such regulations must—
+&emsp;(ii) An agency or laboratory may provide appropriate incentives, from royalties, or other payments, to laboratory employees who are not an inventor of such inventions but who substantially increased the technical value of such inventions.
 
-&emsp;(I) guarantee a fixed minimum payment to each such inventor, each year that the agency receives royalties from that inventor's invention;
+&emsp;(iii) The agency or laboratory shall retain the royalties and other payments received from an invention until the agency or laboratory makes payments to employees of a laboratory under clause (i) or (ii).
 
-&emsp;(II) provide a percentage royalty share to each such inventor, each year that the agency receives royalties from that inventor's invention in excess of a threshold amount;
+&emsp;(B) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the succeeding fiscal year—
 
-&emsp;(III) provide that total payments to all such inventors shall exceed 15 percent of total agency royalties in any given fiscal year; and
+&emsp;&emsp;(i) to reward scientific, engineering, and technical employees of the laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications;
 
-&emsp;(IV) provide appropriate incentives from royalties for those laboratory employees who contribute substantially to the technical development of a licensed invention between the time of the filing of the patent application and the licensing of the invention.
+&emsp;&emsp;(ii) to further scientific exchange among the laboratories of the agency;
 
-(iii) An agency that has published its intention to promulgate regulations under clause (ii) may elect not to pay inventors under clause (i) until the expiration of two years after October 20, 1986, or until the date of the promulgation of such regulations, whichever is earlier. If an agency makes such an election and after two years the regulations have not been promulgated, the agency shall make payments (in accordance with clause (i)) of at least 15 percent of the royalties involved, retroactive to October 20, 1986. If promulgation of the regulations occurs within two years after October 20, 1986, payments shall be made in accordance with such regulations, retroactive to October 20, 1986. The agency shall retain its royalties until the inventor's portion is paid under either clause (i) or (ii). Such royalties shall not be transferred to the agency's Government-operated laboratories under subparagraph (B) and shall not revert to the Treasury pursuant to paragraph (2) as a result of any delay caused by rulemaking under this subparagraph.
+&emsp;&emsp;(iii) for education and training of employees consistent with the research and development missions and objectives of the agency or laboratory, and for other activities that increase the potential for transfer of the technology of the laboratories of the agency;
 
-(B) The balance of the royalties or other income shall be transferred by the agency to its Government-operated laboratories, with the majority share of the royalties or other income from any invention going to the laboratory where the invention occurred; and the funds so transferred to any such laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the succeeding fiscal year—
+&emsp;&emsp;(iv) for payment of expenses incidental to the administration and licensing of intellectual property by the agency or laboratory with respect to inventions made at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or
 
-&emsp;(i) for payment of expenses incidental to the administration and licensing of inventions by that laboratory or by the agency with respect to inventions which occurred at that laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for invention management and licensing services;
+&emsp;&emsp;(v) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
 
-&emsp;(ii) to reward scientific, engineering, and technical employees of that laboratory, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications;
+&emsp;(C) All royalties or other payments retained by the agency or laboratory after payments have been made pursuant to subparagraphs (A) and (B) that is unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury.
 
-&emsp;(iii) to further scientific exchange among the Government-operated laboratories of the agency; or
+(2) If, after payments to inventors under paragraph (1), the royalties or other payments received by an agency in any fiscal year exceed 5 percent of the budget of the Government-operated laboratories of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
 
-&emsp;(iv) for education and training of employees consistent with the research and development mission and objectives of the agency, and for other activities that increase the licensing potential for transfer of the technology of the laboratories of the agency.
+(3) Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which he is otherwise entitled or for which he is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory or agency. Payments made under this section shall not exceed $150,000 per year to any one person, unless the President approves a larger award (with the excess over $150,000 being treated as a Presidential award under section 4504 of title 5).
 
-> Any of such funds not so used or obligated by the end of the fiscal year succeeding the fiscal year in which they are received shall be paid into the Treasury of the United States.
-
-(2) If, after payments to inventors under paragraph (1), the royalties received by an agency in any fiscal year exceed 5 percent of the budget of the Government-operated laboratories of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year. Any funds not so used or obligated shall be paid into the Treasury of the United States.
-
-(3) Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which he is otherwise entitled or for which he is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory or agency. Payments made under this section shall not exceed $100,000 per year to any one person, unless the President approves a larger award (with the excess over $100,000 being treated as a Presidential award under section 4504 of title 5).
-
-(4) A Federal agency receiving royalties or other income as a result of invention management services performed for another Federal agency or laboratory under section 207 of title 35, may retain such royalties or income to the extent required to offset the payment of royalties to inventors under clause (i) of paragraph (1)(A), costs and expenses incurred under clause (i) of paragraph (1)(B), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other income remaining after payment of the royalties, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with clauses (i) through (iv) of paragraph (1)(B).
+(4) A Federal agency receiving royalties or other payments as a result of invention management services performed for another Federal agency or laboratory under section 207 of title 35, may retain such royalties or payments to the extent required to offset payments to inventors under clause (i) of paragraph (1)(A), costs and expenses incurred under clause (iv) of paragraph (1)(B), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other payments remaining after offsetting the payments to inventors, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with paragraph (1)(B).
 
 #### (b) Certain assignments
 
 If the invention involved was one assigned to the Federal agency—
 
-&emsp;(1) by a contractor, grantee, or participant in a cooperative agreement with the agency, or
+&emsp;(1) by a contractor, grantee, or participant, or an employee of a contractor, grantee, or participant, in an agreement or other arrangement with the agency, or
 
 &emsp;(2) by an employee of the agency who was not working in the laboratory at the time the inventon <sup>1</sup> was made,
 
@@ -52,9 +46,19 @@ If the invention involved was one assigned to the Federal agency—
 
 (2) The Comptroller General, five years after October 20, 1986, shall review the effectiveness of the various royalty-sharing programs established under this section and report to the appropriate committees of the House of Representatives and the Senate, in a timely manner, his findings, conclusions, and recommendations for improvements in such programs.
 
-(Pub. L. 96–480, §14, as added, renumbered §13, and amended Pub. L. 99–502, §§7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §14 and amended Pub. L. 100–418, title V, §§5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, §303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(c), Nov. 29, 1989, 103 Stat. 1677.)
+(Pub. L. 96–480, §14, as added, renumbered §13, and amended Pub. L. 99–502, §§7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §14 and amended Pub. L. 100–418, title V, §§5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, §303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(c), Nov. 29, 1989, 103 Stat. 1677; Pub. L. 104–113, §5, Mar. 7, 1996, 110 Stat. 777.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–113, §5(1), amended par. (1) generally, restructuring subpar. (A) to require head of agency or his designee to pay each year first $2,000, and thereafter at least 15 percent of royalties or other income received by agency on account of any invention to inventor or coinventors if they had assigned their rights in invention to United States and to authorize agencies to provide incentives to laboratory employees who substantially increase technical value of inventions, restructuring subpar. (B) to reorder cls. (i) to (iv), to add cl. (v), and to strike out closing provisions which required unobligated or unused funds to be paid into Treasury, and adding subpar. (C).
+
+Subsec. (a)(2). Pub. L. 104–113, §5(2), in first sentence, inserted “or other payments” after “royalties” and substituted “under paragraph (1)(B)” for “for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year”.
+
+Subsec. (a)(3). Pub. L. 104–113, §5(3), substituted “$150,000” for “$100,000” in two places.
+
+Subsec. (a)(4). Pub. L. 104–113, §5(4), in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”,and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
+
+Subsec. (b)(1). Pub. L. 104–113, §5(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
 
 1989—Subsec. (a)(1). Pub. L. 101–189, §3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
 

@@ -17,7 +17,7 @@
 
 |  |  |
 | :--- | ---: |
-| [721\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000721%20-%20Implementation%20of%20policy.md) | Implementation of policy. |
+| [721\.](Subchapter%20002%20%28II%29%20-%20Federal%20Coordination%2C%20Planning%2C%20and%20Regulation/%C2%A7%2000721%20-%20Implementation%20of%20policy.md) | Implementation of policy. |
 | (a) | Executive functions; execution of national program; review; agency coordination; supervision of foreign relationships; foreign participation; use for general governmental purposes; separate systems; compatibility with domestic and foreign facilities. |
 | (b) | Administration functions; technical advice to Commission; cooperation in research and development and technical consultation with corporation; assistance and launching, associated services and other services to corporation on reimbursable basis. |
 | (c) | Commission functions; competitive bidding; consultation with Small Business Administration; discrimination; just and reasonable charges, classifications, practices, regulations and other terms and conditions; allocation of facilities; establishment of communication to particular foreign point; technical compatibility of system and stations; accounting; rates; technical approval; construction and operation authorizations; financing of corporation; additions; rules and regulations. |
@@ -96,6 +96,7 @@ This chapter is referred to in section 902 of this title; title 26 sections 168,
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
+- [Subchapter 002 (II) - Federal Coordination, Planning, and Regulation](Subchapter%20002%20%28II%29%20-%20Federal%20Coordination%2C%20Planning%2C%20and%20Regulation/README.md)
 - [Subchapter 003 (III) - Communications Satellite Corporation](Subchapter%20003%20%28III%29%20-%20Communications%20Satellite%20Corporation/README.md)
 - [Subchapter 004 (IV) - Miscellaneous Provisions](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/README.md)
 - [Subchapter 005 (V) - International Maritime Satellite Telecommunications](Subchapter%20005%20%28V%29%20-%20International%20Maritime%20Satellite%20Telecommunications/README.md)

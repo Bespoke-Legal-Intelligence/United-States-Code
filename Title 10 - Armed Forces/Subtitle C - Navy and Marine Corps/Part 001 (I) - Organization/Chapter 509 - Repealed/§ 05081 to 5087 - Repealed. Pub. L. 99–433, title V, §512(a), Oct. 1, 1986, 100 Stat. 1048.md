@@ -4,7 +4,7 @@ Section 5081, acts Aug. 10, 1956, ch. 1041, 70A Stat. 281; Aug. 6, 1958, Pub. L.
 
 Section 5082, acts Aug. 10, 1956, ch. 1041, 70A Stat. 282; Sept. 7, 1962, Pub. L. 87–651, title I, §121, 76 Stat. 513; Nov. 2, 1966, Pub. L. 89–718, §33, 80 Stat. 1119, related to coordinating duties of Chief of Naval Operations. See section 5032 of this title.
 
-Section 5083, acts Aug. 10, 1956, ch. 1041, 70A Stat. 282; May 20, 1958, Pub. L. 85–422, §6(2), 72 Stat. 129; July 1, 1986, Pub. L. 99–348, title I, §104(c)(1), 100 Stat. 691, related to retirement of Chief of Naval Operations. See section 5034 of this title.
+Section 5083, acts Aug. 10, 1956, ch. 1041, 70A Stat. 282; May 20, 1958, Pub. L. 85–422, §6(2), 72 Stat. 129; July 1, 1986, Pub. L. 99–348, title I, §104(c)(1), 100 Stat. 691, related to retirement of Chief of Naval Operations.
 
 Section 5084, act Aug. 10, 1956, ch. 1041, 70A Stat. 282, related to quarters for Chief of Naval Operations.
 

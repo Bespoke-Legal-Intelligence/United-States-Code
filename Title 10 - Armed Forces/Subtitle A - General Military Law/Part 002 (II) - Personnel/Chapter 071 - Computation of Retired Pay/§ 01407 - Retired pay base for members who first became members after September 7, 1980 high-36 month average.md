@@ -14,7 +14,7 @@ Computation of High-Three Average for Members Entitled to Retired or Retainer Pa
 
 &emsp;(1)
 
-General rule.—The high-three average of a member entitled to retired or retainer pay under any provision of law other than section 1204 or 1205 or section 1331 <sup>1</sup> of this title is the amount equal to—
+General rule.—The high-three average of a member entitled to retired or retainer pay under any provision of law other than section 1204 or 1205 or section 12731 of this title is the amount equal to—
 
 &emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled for the 36 months (whether or not consecutive) out of all the months of active service of the member for which the monthly basic pay to which the member was entitled was the highest, divided by
 
@@ -34,7 +34,7 @@ Computation of High-Three Average for Members and Former Members Entitled to Ret
 
 &emsp;(1)
 
-Retired pay under chapter 67.<sup>1</sup>—The high-three average of a member or former member entitled to retired pay under section 1331 <sup>1</sup> of this title is the amount equal to—
+Retired pay under chapter 1223.—The high-three average of a member or former member entitled to retired pay under section 12731 of this title is the amount equal to—
 
 &emsp;&emsp;(A) the total amount of monthly basic pay to which the member or former member was entitled during the member or former member's high-36 months (or to which the member or former member would have been entitled if the member or former member had served on active duty during the entire period of the member or former member's high-36 months), divided by
 
@@ -66,19 +66,21 @@ Limitation for Enlisted Members Retiring With Less Than 30
 
 Years’ Service.—In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under section 6330 of this title, the member's high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004.)
-
-#### References in Text
-
-Section 1331 of this title, referred to in subsecs. (c)(1) and (d)(1), was renumbered section 12731 of this titleand amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 2999. A new section 1331 was added by section 1662(j)(7) of Pub. L. 103–337.
-
-Chapter 67 of this title, referred to in subsec. (d)(1), was transferred to part II of subtitle E of this title, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of this title was added by section 1662(j)(7) of Pub. L. 103–337.
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499.)
 
 #### Prior Provisions
 
 A prior section 1407, added Pub. L. 96–342, title VIII, §813(a)(1), Sept. 8, 1980, 94 Stat. 1100; amended Pub. L. 96–513, title I, §113(c), title V, §§501(21), 511(53), Dec. 12, 1980, 94 Stat. 2877, 2908, 2925, related to determination of retired base pay, prior to repeal by Pub. L. 99–348, §104(b).
 
 #### Amendments
+
+1996—Subsec. (c)(1). Pub. L. 104–106, §1501(c)(15)(A), substituted “section 12731” for “section 1331”.
+
+Subsec. (d)(1). Pub. L. 104–106 substituted in heading “
+
+chapter 1223” for “
+
+chapter 67” and in text “section 12731” for “section 1331”.
 
 1994—Subsec. (c)(2)(B). Pub. L. 103–337, §1662(j)(5)(A), which directed substitution of “chapter 1223” for “chapter 67”, could not be executed because the words “chapter 67” did not appear subsequent to amendment by Pub. L. 101–189, §651(a)(2), (4). See 1989 Amendment note below.
 
@@ -94,13 +96,15 @@ Subsec. (e). Pub. L. 101–189, §651(a)(2), (3), redesignated subsec. (d) as (e
 
 Subsecs. (f), (g). Pub. L. 101–189, §651(a)(2), struck out subsec. (f) which related to special rule for members retiring with non-regular service, and subsec. (g) which defined the term “years of creditable service”.
 
+#### Effective Date of 1996 Amendment
+
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1402a, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 14 sections 357, 423, 424; title 33 section 853<i>o</i>; title 42 sections 211, 212.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1401, 1401a, 1402a, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 14 sections 357, 423, 424; title 33 section 853<i>o</i>; title 42 sections 211, 212.
 

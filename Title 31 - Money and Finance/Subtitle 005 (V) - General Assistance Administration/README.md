@@ -16,11 +16,13 @@
 | [<b>71.</b>](Chapter%20071%20-%20Joint%20Funding%20Simplification/README.md) | <b>Joint Funding Simplification</b> | <b>7101</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Administering%20Block%20Grants/README.md) | <b>Administering Block Grants</b> | <b>7301</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Requirements%20for%20Single%20Audits/README.md) | <b>Requirements for Single Audits</b> | <b>7501</b> |
-| [<b>77.</b>](Chapter%20077%20-%20Loan%20Requirements/README.md) | <b>Loan Requirements</b> | <b>7701</b> |
+| [<b>77.</b>](Chapter%20077%20-%20Access%20to%20Information%20for%20Debt%20Collection/README.md) | <b>Access to information for debt collection </b><b><sup>1</sup></b> | <b>7701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–134, title III, §31001(i)(3)(B), Apr. 26, 1996, 110 Stat. 1321–365, which directed that the table of chapters for subtitle VI of this title be amended by inserting a new item for chapter 77 “Access to information for debt collection” before the item for chapter 91, was executed to the table of chapters for subtitle V of this title by substituting “Access to information for debt collection” for “Loan Requirements” in item for chapter 77, to reflect the probable intent of Congress.
 
 1994—Pub. L. 103–322, title III, §31002, Sept. 13, 1994, 108 Stat. 1882, added item for chapter 67.
 
@@ -46,4 +48,4 @@ Pub. L. 99–272, title XIV, §14001(b)(1), Apr. 7, 1986, 100 Stat. 328, struck 
 - [Chapter 071 - Joint Funding Simplification](Chapter%20071%20-%20Joint%20Funding%20Simplification/README.md)
 - [Chapter 073 - Administering Block Grants](Chapter%20073%20-%20Administering%20Block%20Grants/README.md)
 - [Chapter 075 - Requirements for Single Audits](Chapter%20075%20-%20Requirements%20for%20Single%20Audits/README.md)
-- [Chapter 077 - Loan Requirements](Chapter%20077%20-%20Loan%20Requirements/README.md)
+- [Chapter 077 - Access to Information for Debt Collection](Chapter%20077%20-%20Access%20to%20Information%20for%20Debt%20Collection/README.md)

@@ -5,7 +5,8 @@
 | [3661\.](%C2%A7%2003661%20-%20Use%20of%20information%20for%20sentencing.md) | Use of information for sentencing. |
 | [3662\.](%C2%A7%2003662%20-%20Conviction%20records.md) | Conviction records. |
 | [3663\.](%C2%A7%2003663%20-%20Order%20of%20restitution.md) | Order of restitution. |
-| [3664\.](%C2%A7%2003664%20-%20Procedure%20for%20issuing%20order%20of%20restitution.md) | Procedure for issuing order of restitution. |
+| [3663A.](%C2%A7%2003663A%20-%20Mandatory%20restitution%20to%20victims%20of%20certain%20crimes.md) | Mandatory restitution to victims of certain crimes. |
+| [3664\.](%C2%A7%2003664%20-%20Procedure%20for%20issuance%20and%20enforcement%20of%20order%20of%20restitution.md) | Procedure for issuance and enforcement of order of restitution. |
 | [3665\.](%C2%A7%2003665%20-%20Firearms%20possessed%20by%20convicted%20felons.md) | Firearms possessed by convicted felons. |
 | [3666\.](%C2%A7%2003666%20-%20Bribe%20moneys.md) | Bribe moneys. |
 | [3667\.](%C2%A7%2003667%20-%20Liquors%20and%20related%20property%3B%20definitions.md) | Liquors and related property; definitions. |
@@ -20,13 +21,15 @@
 
 #### Amendments
 
+1996—Pub. L. 104–132, title II, §§204(b), 206(b), Apr. 24, 1996, 110 Stat. 1229, 1236, added item 3663A and substituted “issuance and enforcement of order of restitution” for “issuing order of restitution” in item 3664.
+
 1990—Pub. L. 101–647, title XXXV, §3594, Nov. 29, 1990, 104 Stat. 4931, substituted “Conveyances” for “Conveyance” in item 3669.
 
 1984—Pub. L. 98–473, title II, §§212(a)(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 2010, 2031, as amended, added chapter heading and analysis of sections for chapter 232 consisting of items 3661 to 3673, effective Nov. 1, 1987.
 
 #### Effective Date
 
-Pub. L. 98–473, title II, §§212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2010, 2031, as amended, enacted heading, analysis, and section 3673 of this chapter (§§3661 to 3673), provided that sections 3577, 3578, 3579, 3580, 3611, 3612, 3615, 3617, 3618, 3619, 3620, and 3656 of this title are renumbered as sections 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, and 3672, respectively, of this chapter, and amended section 3663 of this chapter, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this chapter. Section 235 of Pub. L. 98–473, as amended, relating to effective dates, is set out as a note under section 3551 of this title.
+Pub. L. 98–473, title II, §§212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2010, 2031, as amended, enacted heading, analysis, and section 3673 of this chapter\(§§3661 to 3673), provided that sections 3577, 3578, 3579, 3580, 3611, 3612, 3615, 3617, 3618, 3619, 3620, and 3656 of this title are renumbered as sections 3661, 3662, 3663, 3664, 3665, 3666, 3667, 3668, 3669, 3670, 3671, and 3672, respectively, of this chapter, and amended section 3663 of this chapter, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this chapter. Section 235 of Pub. L. 98–473, as amended, relating to effective dates, is set out as a note under section 3551 of this title.
 
 
 ---
@@ -36,7 +39,8 @@ Pub. L. 98–473, title II, §§212(a)(1), (3)–(5), 235(a)(1), Oct. 12, 1984, 
 - [&sect; 03661 - Use of information for sentencing](%C2%A7%2003661%20-%20Use%20of%20information%20for%20sentencing.md)
 - [&sect; 03662 - Conviction records](%C2%A7%2003662%20-%20Conviction%20records.md)
 - [&sect; 03663 - Order of restitution](%C2%A7%2003663%20-%20Order%20of%20restitution.md)
-- [&sect; 03664 - Procedure for issuing order of restitution](%C2%A7%2003664%20-%20Procedure%20for%20issuing%20order%20of%20restitution.md)
+- [&sect; 03663A - Mandatory restitution to victims of certain crimes](%C2%A7%2003663A%20-%20Mandatory%20restitution%20to%20victims%20of%20certain%20crimes.md)
+- [&sect; 03664 - Procedure for issuance and enforcement of order of restitution](%C2%A7%2003664%20-%20Procedure%20for%20issuance%20and%20enforcement%20of%20order%20of%20restitution.md)
 - [&sect; 03665 - Firearms possessed by convicted felons](%C2%A7%2003665%20-%20Firearms%20possessed%20by%20convicted%20felons.md)
 - [&sect; 03666 - Bribe moneys](%C2%A7%2003666%20-%20Bribe%20moneys.md)
 - [&sect; 03667 - Liquors and related property; definitions](%C2%A7%2003667%20-%20Liquors%20and%20related%20property%3B%20definitions.md)

@@ -4,19 +4,29 @@ The Congress finds and declares that—
 
 &emsp;(1) the existence of an adequate supply of water of good quality for the production of materials and energy for the Nation's needs and for the efficient use of the Nation's energy and water resources is essential to national economic stability and growth, and to the well-being of the people;
 
-&emsp;(2) the management of water resources is closely related to maintaining environmental quality and social well-being;
+&emsp;(2) the management of water resources is closely related to maintaining environmental quality, productivity of natural resources and agricultural systems, and social well-being;
 
 &emsp;(3) there is an increasing threat of impairment to the quantity and quality of surface and groundwater resources;
 
-&emsp;(4) the Nation's capabilities for technological assessment and planning and for policy formulation for water resources must be strengthened at the Federal, State, and local governmental levels;
+&emsp;(4) the Nation's capabilities for technological assessment and planning and for policyformulation for water resources must be strengthened at the Federal, State, and local governmental levels;
 
 &emsp;(5) there should be a continuing national investment in water and related research and technology commensurate with growing national needs;
 
-&emsp;(6) it is necessary to provide for the research and development of technology for the conversion of saline and other impaired waters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses; and
+&emsp;(6) it is necessary to provide for the research and development of technology for the conversion of saline and other impaired waters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
 
-&emsp;(7) the Nation must provide programs to strengthen research and associated graduate education because the pool of scientists, engineers, and technicians trained in fields related to water resources constitutes an invaluable natural resource which should be increased, fully utilized, and regularly replenished.
+&emsp;(7) the Nation must provide programs to strengthen research and associated graduate education because the pool of scientists, engineers, and technicians trained in fields related to water resources constitutes an invaluable natural resource which should be increased, fully utilized, and regularly replenished; and <sup>1</sup>
 
-(Pub. L. 98–242, title I, §102, Mar. 22, 1984, 98 Stat. 97.)
+&emsp;(8) long-term planning and policy development are essential to ensure the availability of an abundant supply of high quality water for domestic and other uses; and
+
+&emsp;(9) the States must have the research and problem-solving capacity necessary to effectively manage their water resources.
+
+(Pub. L. 98–242, title I, §102, Mar. 22, 1984, 98 Stat. 97; Pub. L. 104–147, §1, May 24, 1996, 110 Stat. 1375.)
+
+#### Amendments
+
+1996—Par. (2). Pub. L. 104–147, §1(1), inserted “, productivity of natural resources and agricultural systems,” after “environmental quality”.
+
+Pars. (8), (9). Pub. L. 104–147, §1(2)–(4), added pars. (8) and (9).
 
 #### Short Title
 
@@ -25,6 +35,122 @@ Section 101 of Pub. L. 98–242 provided that: “This Act \[enacting this chapt
 #### Savings Provision
 
 Rules and regulations issued prior to Mar. 22, 1984, under Pub. L. 95–467 \[chapter 87 of this title\] to remain in full force and effect under this chapter until superseded by new rules and regulations promulgated under this chapter, see section 110(b) of Pub. L. 98–242, set out as a note under section 7801 of this title.
+
+#### Desalination Research, Studies, and Demonstration Projects
+
+Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Water Desalination Act of 1996’.
+
+#### “SEC. 2. DEFINITIONS.
+
+“As used in this Act:
+
+&emsp;“(1)
+
+Desalination or desalting.—The terms ‘desalination’ or ‘desalting’ mean the use of any process or technique for the removal and, when feasible, adaptation to beneficial use, of organic and inorganic elements and compounds from saline or biologically impaired waters, by itself or in conjunction with other processes.
+
+&emsp;“(2)
+
+Saline water.—The term ‘saline water’ means sea water, brackish water, and other mineralized or chemically impaired water.
+
+&emsp;“(3)
+
+United states.—The term ‘United States’ means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
+
+&emsp;“(4)
+
+Usable water.—The term ‘usable water’ means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal, and other beneficial consumptive or nonconsumptive uses.
+
+&emsp;“(5)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+#### “SEC. 3. AUTHORIZATION OF RESEARCH AND STUDIES.
+
+“(a)
+
+In General.—In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter into contracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—
+
+&emsp;“(1) investigating desalination processes;
+
+&emsp;“(2) ascertaining the optimum mix of investment and operating costs;
+
+&emsp;“(3) determining the best designs for different conditions of operation;
+
+&emsp;“(4) investigating methods of increasing the economic efficiency of desalination processes through dual-purpose co-facilities with other processes involving the use of water;
+
+&emsp;“(5) conducting or contracting for technical work, including the design, construction, and testing of pilot systems and test beds, to develop desalting processes and concepts;
+
+&emsp;“(6) studying methods for the recovery of byproducts resulting from desalination to offset the costs of treatment and to reduce environmental impacts from those byproducts; and
+
+&emsp;“(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructing and operating desalination facilities, and the horticultural effects of desalinated water used for irrigation.
+
+“(b)
+
+Project Recommendations and Reports to the Congress.—As soon as practicable and within three years after the date of enactment of this Act \[Oct. 11, 1996\], the Secretary shall recommend to Congress desalination demonstration projects or full-scale desalination projects to carry out the purposes of this Act and to further evaluate and implement the results of research and studies conducted under the authority of this section. Recommendations for projects shall be accompanied by reports on the engineering and economic feasibility of proposed projects and their environmental impacts.
+
+“(c)
+
+Authority To Engage Others.—In carrying out research and studies authorized in this section, the Secretary may engage the necessary personnel, industrial or engineering firms, Federal laboratories, water resources research and technology institutes, other facilities, and educational institutions suitable to conduct investigations and studies authorized under this section.
+
+“(d)
+
+Alternative Technologies.—In carrying out the purposes of this Act, the Secretary shall ensure that at least three separate technologies are evaluated and demonstrated for the purposes of accomplishing desalination.
+
+#### “SEC. 4. DESALINATION DEMONSTRATION AND DEVELOPMENT.
+
+“(a)
+
+In General.—In order to further demonstrate the feasibility of desalination processes investigated either independently or in research conducted pursuant to section 3, the Secretary shall administer and conduct a demonstration and development program for water desalination and related activities, including the following:
+
+&emsp;“(1)
+
+Desalination plants and modules.—Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts.
+
+&emsp;“(2)
+
+Byproducts.—Study methods for the marketing of byproducts resulting from the desalting of water to offset the costs of treatment and to reduce environmental impacts of those byproducts.
+
+&emsp;“(3)
+
+Economic surveys.—Conduct economic studies and surveys to determine present and prospective costs of producing water for beneficial purposes in various locations by desalination processes compared to other methods.
+
+“(b)
+
+Cooperative Agreements.—Federal participation in desalination activities may be conducted through cooperative agreements, including cost-sharing agreements, with non-Federal public utilities and State and local governmental agencies and other entities, in order to develop recommendations for Federal participation in processes and plants utilizing desalting technologies for the production of water.
+
+#### “SEC. 5. AVAILABILITY OF INFORMATION.
+
+“All information from studies sponsored or funded under authority of this Act shall be considered public information.
+
+#### “SEC. 6. TECHNICAL AND ADMINISTRATIVE ASSISTANCE.
+
+“The Secretary may—
+
+&emsp;“(1) accept technical and administrative assistance from States and public or private agencies in connection with studies, surveys, location, construction, operation, and other work relating to the desalting of water, and
+
+&emsp;“(2) enter into contracts or agreements stating the purposes for which the assistance is contributed and providing for the sharing of costs between the Secretary and any such agency.
+
+#### “SEC. 7. COST SHARING.
+
+“The Federal share of the cost of a research, study, or demonstration project or a desalination development project or activity carried out under this Act shall not exceed 50 percent of the total cost of the project or research or study activity. A Federal contribution in excess of 25 percent for a project carried out under this Act may not be made unless the Secretary determines that the project is not feasible without such increased Federal contribution. The Secretary shall prescribe appropriate procedures to implement the provisions of this section. Costs of operation, maintenance, repair, and rehabilitation of facilities funded under the authority of this Act shall be non-Federal responsibilities.
+
+#### “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+Section 3.—There are authorized to be appropriated to carry out section 3 of this Act $5,000,000 per year for fiscal years 1997 through 2002. Of these amounts, up to $1,000,000 in each fiscal year may be awarded to institutions of higher education, including United States-Mexico binational research foundations and interuniversity research programs established by the two countries, for research grants without any cost-sharing requirement.
+
+“(b)
+
+Section 4.—There are authorized to be appropriated to carry out section 4 of this Act $25,000,000 for fiscal years 1997 through 2002.
+
+#### “SEC. 9. CONSULTATION.
+
+“In carrying out the provisions of this Act, the Secretary shall consult with the heads of other Federal agencies, including the Secretary of the Army, which have experience in conducting desalination research or operating desalination facilities. The authorization provided for in this Act shall not prohibit other agencies from carrying out separately authorized programs for desalination research or operations.”
 
 #### Ogallala Aquifer
 
@@ -168,13 +294,15 @@ Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through Se
 
 Pub. L. 95–84, §2, Aug. 2, 1977, 91 Stat. 400; Pub. L. 95–467, title II, §205(a), (b), Oct. 17, 1978, 92 Stat. 1311; Pub. L. 96–457, §3, Oct. 15, 1980, 94 Stat. 2032; Pub. L. 98–242, title I, §110(a), Mar. 22, 1984, 98 Stat. 101, provided that:
 
-“(a) The Secretary of the Interior is authorized and directed to demonstrate the engineering and economic viability of membrane and phase-change desalting processes. Such demonstrations shall include the study, design, construction, operation, and maintenance of desalting plants at locations in the United States (which may include the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Virgin Islands, the Mariana Islands, and the Trust Territory of the Pacific Islands): <i>Provided,</i> That at least two such plants shall demonstrate desalting of brackish ground water: <i>And provided further,</i> That the plants constructed pursuant to this section shall be for the purpose of showing that the technology being demonstrated is ready for application; such plants shall be sufficient to demonstrate the specific application of the technology, and shall be significantly different in operation and process so as not to duplicate any other demonstration plant constructed pursuant to this section. The Secretary is further authorized to conduct such demonstrations or any portion thereof by means of cooperative agreements (as defined and authorized by 41 U.S.C. 504 et seq. (the Federal Grant and Cooperative Agreement Act of 1977; Public Law 95–224)) \[31 U.S.C. 6301 et seq.\] with duly authorized non-Federal public entities. Title to demonstration facilities constructed by the non-Federal public entity under a cooperative agreement shall vest in the non-Federal public entity.
+“(a) The Secretary of the Interior is authorized and directed to demonstrate the engineering and economic viability of membrane and phase-change desalting processes. Such demonstrations shall include the study, design, construction, operation, and maintenance of desalting plants at locations in the United States (which may include the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Virgin Islands, the Mariana Islands, and the Trust Territory of the Pacific Islands): <i>Provided</i>, That at least two such plants shall demonstrate desalting of brackish ground water: <i>And provided further</i>, That the plants constructed pursuant to this section shall be for the purpose of showing that the technology being demonstrated is ready for application; such plants shall be sufficient to demonstrate the specific application of the technology, and shall be significantly different in operation and process so as not to duplicate any other demonstration plant constructed pursuant to this section. The Secretary is further authorized to conduct such demonstrations or any portion thereof by means of cooperative agreements (as defined and authorized by 41 U.S.C. 504 et seq. (the Federal Grant and Cooperative Agreement Act of 1977; Public Law 95–224)) \[31 U.S.C. 6301 et seq.\] with duly authorized non-Federal public entities. Title to demonstration facilities constructed by the non-Federal public entity under a cooperative agreement shall vest in the non-Federal public entity.
 
-“(b) Funds appropriated pursuant to the authority provided by this section \[this note\] may not be expended until thirty calendar days (excluding days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) have elapsed following transmittal of a report to the chairman of the Committee on Interior and Insular Affairs \[now Committee on Resources\] of the House of Representatives and the chairman of the Committee on Environment and Public Works of the United States Senate. Such report shall present information that includes, but is not limited to, how the plant being proposed differs from others, if any, already constructed under this section, the location of the demonstration plant, the characteristics of the water proposed to be desalted, the process to be utilized, the water supply problems confronting the area in which the plant will be located, alternative sources of water and their probable cost, the capacity of the plant, the initial investment cost of the demonstration plant, the annual operating cost of the demonstration plant, the source of energy for the plant and its cost, the means of reject brine disposal and its environmental consequences, and the unit cost of product water, considering the amortization of all components of the demonstration plant and ancillary facilities. Such report shall be accompanied by a proposed contract (or cooperative agreement) between the Secretary and a duly authorized non-Federal entity, in which such entity shall agree to provide not less than 15 per centum and not more than 35 per centum of the total cost of the demonstration; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for a period of four years following final acceptance of the construction of the plant from the plant contractor. The contributions of the non-Federal entity under such proposed contract may be in-kind. During the participation by the Secretary in the construction and the operation and maintenance of such demonstration, access to the demonstration and its operating data will not be denied to the Secretary or his representatives. The period of participation by the Secretary in the operation and maintenance of any such demonstration shall be four years. The Secretary is authorized to include in the proposed contract a provision for conveying, as appropriate, and in such amounts as are appropriate, rights, title, and interest of the Federal Government in the demonstration project to the non-Federal public entity.
+“(b) Funds appropriated pursuant to the authority provided by this section \[this note\] may not be expended until thirty calendar days (excluding days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) have elapsed following transmittal of a report to the chairman of the Committee on Interior and Insular Affairs \[now Committee on Resources\] of the House of Representatives and the chairman of the Committee on Environment and Public Works of the United States Senate. Such report shall present information that includes, but is not limited to, how the plant being proposed differs from others, if any, already constructed under this section, the location of the demonstration plant, the characteristics of the water proposed to be desalted, the process to be utilized, the water supply problems confronting the area in which the plant will be located,alternative sources of water and their probable cost, the capacity of the plant, the initial investment cost of the demonstration plant, the annual operating cost of the demonstration plant, the source of energy for the plant and its cost, the means of reject brine disposal and its environmental consequences, and the unit cost of product water, considering the amortization of all components of the demonstration plant and ancillary facilities. Such report shall be accompanied by a proposed contract (or cooperative agreement) between the Secretary and a duly authorized non-Federal entity, in which such entity shall agree to provide not less than 15 per centum and not more than 35 per centum of the total cost of the demonstration; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for a period of four years following final acceptance of the construction of the plant from the plant contractor. The contributions of the non-Federal entity under such proposed contract may be in-kind. During the participation by the Secretary in the construction and the operation and maintenance of such demonstration, access to the demonstration and its operating data will not be denied to the Secretary or his representatives. The period of participation by the Secretary in the operation and maintenance of any such demonstration shall be four years. The Secretary is authorized to include in the proposed contract a provision for conveying, as appropriate, and in such amounts as are appropriate, rights, title, and interest of the Federal Government in the demonstration project to the non-Federal public entity.
 
 “(c) There is authorized to be appropriated, to remain available until expended, for the fiscal year ending September 30, 1978, and thereafter, the sum of $50,000,000 to finance the total Federal share of the cost of the demonstration plants authorized by this section; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for the four-year period of Federal participation in such costs.
 
 “(d) When appropriations have been made for the commencement or continuation of design, construction, or operation and maintenance of any demonstration plant authorized under this Act \[this note\], the Secretary may, in connection with such design, construction, or operation and maintenance, enter into contracts and cooperative agreements for miscellaneous services, for materials and supplies, as well as for construction, which may cover such periods of time as the Secretary may consider necessary but in which the liability of the United States shall be contingent upon appropriations being made therefor.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

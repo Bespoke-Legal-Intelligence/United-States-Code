@@ -34,7 +34,7 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 #### (c) Retention of sums in Fund; availability for expenditure without fiscal year limitation
 
-Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this subsection <sup>2</sup> for grants under this chapter without fiscal year limitation.
+Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this chapter for grants under this chapter without fiscal year limitation.
 
 #### (d) Availability for judicial branch administrative costs; grant program percentages
 
@@ -42,7 +42,7 @@ The Fund shall be available as follows:
 
 &emsp;(1) The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.
 
-&emsp;(2) the <sup>3</sup> next $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
+&emsp;(2) the <sup>2</sup> next $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
 
 &emsp;(3) Of the remaining amount deposited in the Fund in a particular fiscal year—
 
@@ -52,13 +52,15 @@ The Fund shall be available as follows:
 
 &emsp;&emsp;(C) 3 percent shall be available for grants under section 10603(c) of this title.
 
-&emsp;(4) The Director may retain any portion of the Fund that was deposited during a fiscal year that is in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as a reserve for use in a year in which the Fund falls below the amount available in the previous year. Such reserve may not exceed $20,000,000.
+&emsp;(4)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $50,000,000.
+
+&emsp;(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.
+
+&emsp;(5) The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.
 
 #### (e) Amounts awarded and unspent
 
-(1) Except as provided in paragraph (2), any sums awarded as part of a grant under this chapter that remain unspent at the end of a fiscal year in which such grant is made may be expended for the purpose for which such grant is made at any time during the next succeeding fiscal year, at the end of which year any remaining unobligated sums shall be returned to the general fund of the Treasury.
-
-(2) For the purposes of the application of paragraph (1) to any grant under this chapter with respect to fiscal year 1985, there shall be substituted in such paragraph “two succeeding fiscal years” for “succeeding fiscal year” and “which period” for “which year”.
+Any amount awarded as part of a grant under this chapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000 shall be returned to the Fund.
 
 #### (f) “Offenses against the United States” as excluding
 
@@ -78,9 +80,9 @@ As used in this section, the term “offenses against the United States” does 
 
 &emsp;(B) the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
 
-(2) As used in this subsection, the term “tribe” <sup>4</sup> has the meaning given that term in section 450b(b) <sup>5</sup> of title 25.
+(2) As used in this subsection, the term “tribe” <sup>3</sup> has the meaning given that term in section 450b(b) <sup>4</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21.)
 
 #### References in Text
 
@@ -96,6 +98,22 @@ Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and s
 
 #### Amendments
 
+1996—Subsec. (c). Pub. L. 104–132, §232(c)(1)(A), substituted “under this chapter” for “under this subsection”.
+
+Subsec. (d)(3)(B). Pub. L. 104–132, §236, substituted “section 10603(a) of this title” for “section 10603a of this title”.
+
+Subsec. (d)(4). Pub. L. 104–132, §232(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Director may retain any portion of the Fund that was deposited during a fiscal year that is in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as a reserve for use in a year in which the Fund falls below the amount available in the previous year. Such reserve may not exceed $20,000,000.”
+
+Subsec. (d)(5). Pub. L. 104–208 added par. (5).
+
+Subsec. (e). Pub. L. 104–208 substituted “3 succeeding fiscal years” for “2 succeeding fiscal years”.
+
+Pub. L. 104–132, §232(c)(1)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1) Except as provided in paragraph (2), any sums awarded as part of a grant under this chapter that remain unspent at the end of a fiscal year in which such grant is made may be expended for the purpose for which such grant is made at any time during the next succeeding fiscal year, at the end of which year any remaining unobligated sums shall be returned to the general fund of the Treasury.
+
+“(2) For the purposes of the application of paragraph (1) to any grant under this chapter with respect to fiscal year 1985, there shall be substituted in such paragraph ‘two succeeding fiscal years’ for ‘succeeding fiscal year’ and ‘which period’ for ‘which year’.”
+
 1994—Subsec. (d)(2). Pub. L. 103–322, §230201(a)(1), added par. (2) and struck out former par. (2) which read as follows: “Of the next $100,000,000 deposited in the Fund in a particular fiscal year—
 
 &emsp;“(A) 49.5 percent shall be available for grants under section 10602 of this title;
@@ -106,13 +124,13 @@ Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and s
 
 &emsp;“(D) 4.5 percent shall be available for grants as provided in section 10603a of this title.”
 
-Subsec. (d)(3). Pub. L. 103–322, §330025(a), which directed amendment of par. (3) as it existed prior to amendment by Pub. L. 103–322, §230201(a)(2), see below, by substituting “section 10603a” for “section 10603(a)”, could not be executed because the phrase “section 10603(a)” did not appear in text of par. (3) subsequent to amendment by Pub. L. 103–121, §110(a)(2). See 1993 Amendment note below.
+Subsec. (d)(3). Pub. L. 103–322, §330025(a), which directed amendment of par. (3) by substituting “section 10603a” for “section 10603(a)” was executed to subpar. (B).
 
 Pub. L. 103–322, §230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: “The next $5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title.”
 
 Subsec. (d)(4). Pub. L. 103–322, §230201(a)(3), added par. (4) and struck out former par. (4) which read as follows: “The next $4,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603(a) of this title.”
 
-Subsec. (d)(5). Pub. L. 103–322, §230201(a)(4), struck out par. (5) which read as follows: “Any deposits in the Fund in a particular fiscal year that remain after the funds are distributed under paragraphs (1) through (4) shall be available as follows:
+Subsec. (d)(5). Pub. L. 103–322, §230201(a)(4), struck out par. (5) which read as follows: “Any deposits in theFund in a particular fiscal year that remain after the funds are distributed under paragraphs (1) through (4) shall be available as follows:
 
 &emsp;“(A) 47.5 percent shall be available for grants under section 10602 of this title.
 
@@ -204,6 +222,10 @@ Section 1409 of chapter XIV of title II of Pub. L. 98–473 provided that:
 
 “(b) Sections 1402, 1403, 1404, and 1407 of this chapter \[enacting this chapter\] shall take effect on October 1, 1984.”
 
+#### Short Title of 1996 Amendment
+
+Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
+
 #### Short Title of 1990 Amendment
 
 Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enacting sections 10606 and 10607 of this title, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
@@ -214,7 +236,7 @@ Section 1401 of chapter XIV (§§1401–1411) of title II of Pub. L. 98–473 pr
 
 #### Retroactive Transfer to Fund
 
-Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
+Section 7130 of Pub. L. 100–690 provided that: “An amount equivalent to those sums which would havebeen placed in the Fund under section 1402(b) of the Victims of Crime Act \[subsec. (b) of this section\], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
 
 #### Section Referred to in Other Sections
 
@@ -222,11 +244,9 @@ This section is referred to in sections 10603, 10603a, 10604, 10605 of this titl
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “ ‘Indian tribe’ ”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “ ‘Indian tribe’ ”.</i>
-
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

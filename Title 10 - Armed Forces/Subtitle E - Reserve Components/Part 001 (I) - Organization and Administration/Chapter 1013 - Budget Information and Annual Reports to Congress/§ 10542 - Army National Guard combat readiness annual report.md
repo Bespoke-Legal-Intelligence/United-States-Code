@@ -24,7 +24,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
 
-&emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
+&emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission toperform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
 
 &emsp;(6) The number of officers for whom recommendations were made during the preceding fiscal year for a unit vacancy promotion to a grade above first lieutenant and, of those recommendations, the number and percentage that were concurred in by an active-duty officer under section 1113(a) of ANGCRRA, shown separately for each of the three categories of officers set forth in section 1113(b) of ANGCRRA.
 
@@ -74,27 +74,29 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(A) the assessment of the commander of that associated active-duty unit of the manpower, equipment, and training resource requirements of that National Guard unit in accordance with section 1131(b)(3) of ANGCRRA; and
 
-&emsp;&emsp;(B) the results of the validation by the commander of that associated active-duty unit of the compatibility of that National Guard unit with active duty forces in accordance with section 1131(b)(4) of ANGCRRA.
+&emsp;&emsp;(B) the results of the validation by the commander of that associated active-dutyunit of the compatibility of that National Guard unit with active duty forces in accordance with section 1131(b)(4) of ANGCRRA.
 
-&emsp;(21) A specification of the active-duty personnel assigned to units of the Selected Reserve pursuant to section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (10 U.S.C. 261 <sup>1</sup> note), shown (A) by State, (B) by rank of officers, warrant officers, and enlisted members assigned, and (C) by unit or other organizational entity of assignment.
+&emsp;(21) A specification of the active-duty personnel assigned to units of the Selected Reserve pursuant to section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (10 U.S.C. 12001 note), shown (A) by State, (B) by rank of officers, warrant officers, and enlisted members assigned, and (C) by unit or other organizational entity of assignment.
 
-\[(c) Repealed. Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982.\]
-
-(d)
-
-Definition.—In this section, the term “State” includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.
-
-(Added Pub. L. 103–160, div. A, title V, §521(a), Nov. 30, 1993, 107 Stat. 1652, §3082; renumbered §10542 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982.)
+(Added Pub. L. 103–160, div. A, title V, §521(a), Nov. 30, 1993, 107 Stat. 1652, §3082; renumbered §10542 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 104–106, div. A, title XV, §1501(b)(8), Feb. 10, 1996, 110 Stat. 496; Pub. L. 104–201, div. A, title X, §1074(a)(21), Sept. 23, 1996, 110 Stat. 2660.)
 
 #### References in Text
 
 The Army National Guard Combat Readiness Reform Act of 1992, referred to in text, is title XI (§§1101–1137) of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2536, as amended, which is set out as a note under section 10105 of this title.
 
-Section 414(c) of the National Defense Authorization Act for Fiscal Years 1992 and 1993, referred to in subsec. (b)(21), is section 414(c) of Pub. L. 102–190, which is set out as a note under section 12001 of this title.
-
 #### Amendments
 
+1996—Subsec. (b)(21). Pub. L. 104–201 substituted “10 U.S.C. 12001 note” for “10 U.S.C. 261 note”.
+
+Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “
+
+Definition.—In this section, the term ‘State’ includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
+
 1994—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

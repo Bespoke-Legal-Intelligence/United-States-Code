@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 247b–1, 280c–6, 300w–3, 300z–5, 671, 1301, 1320a–3, 1320a–7, 1320a–7a, 1382d, 1396a, 1396b, 1396n, 1396r–1, 1396r–4, 1397d, 8623 of this title; title 7 section 3178; title 8 section 1255a; title 20 sections 1413, 1481; title 29 section 2231.
+This subchapter is referred to in sections 247b–1, 280c–6, 300w–3, 300z–5, 300ff–71, 671, 1301, 1320a–3, 1320a–7, 1320a–7a, 1382d, 1396a, 1396b, 1396n, 1396r–1, 1396r–4, 1397d, 8623 of this title; title 7 section 3178; title 8 section 1255a; title 20 sections 1413, 1481; title 29 section 2231.
 
 
 ---
@@ -25,6 +25,7 @@ This subchapter is referred to in sections 247b–1, 280c–6, 300w–3, 300z–
 - [&sect; 00707 - Criminal penalty for false statements](%C2%A7%2000707%20-%20Criminal%20penalty%20for%20false%20statements.md)
 - [&sect; 00708 - Nondiscrimination provisions](%C2%A7%2000708%20-%20Nondiscrimination%20provisions.md)
 - [&sect; 00709 - Administration of Federal and State programs](%C2%A7%2000709%20-%20Administration%20of%20Federal%20and%20State%20programs.md)
-- [&sect; 00710 to 716 - Omitted](%C2%A7%2000710%20to%20716%20-%20Omitted.md)
+- [&sect; 00710 - Separate program for abstinence education](%C2%A7%2000710%20-%20Separate%20program%20for%20abstinence%20education.md)
+- [&sect; 00711 to 716 - Omitted](%C2%A7%2000711%20to%20716%20-%20Omitted.md)
 - [&sect; 00721 to 728 - Repealed. Pub. L. 90&#8211;248, title II, &sect;240(e)(1), Jan. 2, 1968, 81 Stat. 915](%C2%A7%2000721%20to%20728%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93248%2C%20title%20II%2C%20%C2%A7240%28e%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20915.md)
 - [&sect; 00729 to 729a, 731 - Omitted](%C2%A7%2000729%20to%20729a%2C%20731%20-%20Omitted.md)

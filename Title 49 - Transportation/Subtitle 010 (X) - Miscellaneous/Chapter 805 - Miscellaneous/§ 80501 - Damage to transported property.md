@@ -12,7 +12,9 @@ Prohibition Against Multiple Prosecutions for Same Act.—A person may not be pr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -28,7 +30,7 @@ Sept. 13, 1961, Pub. L. 87–221, 75 Stat. 494.
 
 15:1282.
 
-In subsection (a), the words “A person . . . shall be fined under title 18” are substituted for “It shall be unlawful for any person” and “Whoever violates any provision of subsection (a) of this section shall be fined notmore than $5,000” to eliminate unnecessary words and for consistency with title 18. The word “damaging” is substituted for “destroy or injure” because it is inclusive. The words “air carrier, motor carrier, or rail carrier” are substituted for “common or contract carrier by railroad, motor vehicle, or aircraft”, and the words “being transported” are substituted for “moving”, for consistency in the revised title. The words “In a criminal proceeding under this section” are substituted for “To establish the interstate or foreign commerce character of any property involved in any prosecution under this section” to eliminate unnecessary words. The words “shipping document” are substituted for “waybill or similar shipping document” because they are inclusive.
+In subsection (a), the words “A person . . . shall be fined under title 18” are substituted for “It shall be unlawful for any person” and “Whoever violates any provision of subsection (a) of this section shall be fined not more than $5,000” to eliminate unnecessary words and for consistency with title 18. The word “damaging” is substituted for “destroy or injure” because it is inclusive. The words “air carrier, motor carrier, or rail carrier” are substituted for “common or contract carrier by railroad, motor vehicle, or aircraft”, and the words “being transported” are substituted for “moving”, for consistency in the revised title. The words “In a criminal proceeding under this section” are substituted for “To establish the interstate or foreign commerce character of any property involved in any prosecution under this section” to eliminate unnecessary words. The words “shipping document” are substituted for “waybill or similar shipping document” because they are inclusive.
 
 In subsection (b), the words “A person may not be prosecuted for an act under this section when the person has been convicted or acquitted on the merits for the same act” are substituted for “A judgment of conviction or acquittal on the merits . . . shall be a bar to any prosecution under this chapter for the same act or acts” for clarity. The word “territory” is added for consistency in the revised title and with other titles of the United States Code. The words “or the Commonwealth of Puerto Rico” are omitted as unnecessary because of 48:734.
 

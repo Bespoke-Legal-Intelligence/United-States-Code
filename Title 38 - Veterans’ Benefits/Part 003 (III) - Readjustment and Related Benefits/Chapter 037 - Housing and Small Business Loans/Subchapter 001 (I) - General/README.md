@@ -16,3 +16,4 @@ This subchapter is referred to in section 113 of this title.
 - [&sect; 03705 - Warranties](%C2%A7%2003705%20-%20Warranties.md)
 - [&sect; 03706 - Escrow of deposits and downpayments](%C2%A7%2003706%20-%20Escrow%20of%20deposits%20and%20downpayments.md)
 - [&sect; 03707 - Adjustable rate mortgages](%C2%A7%2003707%20-%20Adjustable%20rate%20mortgages.md)
+- [&sect; 03708 - Authority to buy down interest rates pilot program](%C2%A7%2003708%20-%20Authority%20to%20buy%20down%20interest%20rates%20pilot%20program.md)

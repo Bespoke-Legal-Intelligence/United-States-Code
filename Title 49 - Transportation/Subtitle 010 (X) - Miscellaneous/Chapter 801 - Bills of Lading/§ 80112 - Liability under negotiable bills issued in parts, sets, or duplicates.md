@@ -12,7 +12,9 @@ Duplicates.—When at least 2 negotiable bills of lading are issued in a State f
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

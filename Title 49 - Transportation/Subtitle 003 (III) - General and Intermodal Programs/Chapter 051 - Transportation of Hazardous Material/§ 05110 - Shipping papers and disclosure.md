@@ -40,7 +40,9 @@ Retention of Papers.—After the hazardous material to which a shipping paper pr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -80,7 +82,7 @@ Rulemaking Proceeding.—
 
 &emsp;“(1)
 
-Initiation.—In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons responding to emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary ofTransportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
+Initiation.—In order to develop methods of improving the current system of identifying hazardous materials being transported in vehicles for safeguarding the health and safety of persons responding to emergencies involving such hazardous materials and the public and to facilitate the review and reporting process required by subsection (d), the Secretary of Transportation shall initiate a rulemaking proceeding not later than 30 days after the date of the enactment of this Act \[Nov. 16, 1990\].
 
 &emsp;“(2)
 

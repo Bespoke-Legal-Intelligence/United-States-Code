@@ -10,7 +10,7 @@ The Congress finds as follows:
 
 &emsp;(4) Violence that is linked to prejudice and intolerance victimizes entire communities leading to more violence and discrimination.
 
-&emsp;(5) The tragic consequences of violence and the illegal use of alcohol and drugs by students are felt not only by students and such students’ families, but by such students’ communities and the Nation, which can ill afford to lose such students’ skills, talents, and vitality.
+&emsp;(5) The tragic consequences of violence and the illegal use of alcohol and drugs by students are felt not only by students and suchstudents’ families, but by such students’ communities and the Nation, which can ill afford to lose such students’ skills, talents, and vitality.
 
 &emsp;(6) While use of illegal drugs is a serious problem among a minority of teenagers, alcohol use is far more widespread. The proportion of high school students using alcohol, though lower than a decade ago, remains unacceptably high. By the 8th grade, 70 percent of youth report having tried alcohol and by the 12th grade, about 88 percent have used alcohol. Alcohol use by young people can and does have adverse consequences for users, their families, communities, schools, and colleges.
 

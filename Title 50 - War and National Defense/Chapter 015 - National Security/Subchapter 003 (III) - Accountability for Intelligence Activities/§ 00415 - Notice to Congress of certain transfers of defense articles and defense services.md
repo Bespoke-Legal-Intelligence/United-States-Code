@@ -36,11 +36,11 @@
 
 &emsp;&emsp;(B) in the case of defense services, the full cost to the Government of providing the services.
 
-(July 26, 1947, ch. 343, title V, §505, formerly §503, as added Oct. 27, 1986, Pub. L. 99–569, title VI, §602(a), 100 Stat. 3203; renumbered §505 and amended Aug. 14, 1991, Pub. L. 102–88, title VI, §§602(a)(1), (c)(2), 604, 105 Stat. 441, 444, 445; Nov. 30, 1993, Pub. L. 103–160, div. A, title VIII, §828(d)(1), 107 Stat. 1715.)
+(July 26, 1947, ch. 343, title V, §505, formerly §503, as added Oct. 27, 1986, Pub. L. 99–569, titleVI, §602(a), 100 Stat. 3203; renumbered §505 and amended Aug. 14, 1991, Pub. L. 102–88, title VI, §§602(a)(1), (c)(2), 604, 105 Stat. 441, 444, 445; Nov. 30, 1993, Pub. L. 103–160, div. A, title VIII, §828(d)(1), 107 Stat. 1715.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part II of the Act is classified generally to subchapter II (§2301 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter II to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 ofTitle 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part II of the Act is classified generally to subchapter II (§2301 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter II to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, see section 202(b) of Pub. L. 92–228, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 

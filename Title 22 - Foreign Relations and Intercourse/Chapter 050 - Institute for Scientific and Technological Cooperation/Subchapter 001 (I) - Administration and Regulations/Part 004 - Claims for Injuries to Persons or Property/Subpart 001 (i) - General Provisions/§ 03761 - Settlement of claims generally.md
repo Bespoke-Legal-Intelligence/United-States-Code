@@ -10,7 +10,7 @@ The Commission may pay not more than $50,000 on any claim described in subsectio
 
 #### (c) Source of award; release
 
-An award made to a claimant under this section shall be payable out of any moneys appropriated for or made available to the Commission. The acceptance by the claimant of the award shall be final and conclusive on the claimant, and shall constitute a complete release by the claimant of his claim against the United States and against any employee of the United States acting in the course of his employment who is involved in the matter giving rise to the claim.
+An award made to a claimant under this section shall be payable out of any moneys made available to the Commission. The acceptance by the claimant of the award shall be final and conclusive on the claimant, and shall constitute a complete release by the claimant of his claim against the United States and against any employee of the United States acting in the course of his employment who is involved in the matter giving rise to the claim.
 
 #### (d) Action for damages on claims cognizable under this part; action against officers or employees of United States for injuries resulting from acts outside scope of their employment
 
@@ -20,13 +20,15 @@ Except as provided in section 3776 of this title, no action for damages on claim
 
 The provisions of section 1346(b) of title 28 and the provisions of chapter 171 of such title shall not apply to claims cognizable under this part.
 
-(Pub. L. 96–70, title I, §1401, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, §5417(a), Dec. 22, 1987, 101 Stat. 1330–271.)
+(Pub. L. 96–70, title I, §1401, Sept. 27, 1979, 93 Stat. 484; Pub. L. 100–203, title V, §5417(a), Dec. 22, 1987, 101 Stat. 1330–271; Pub. L. 104–106, div. C, title XXXV, §3529(4), Feb. 10, 1996, 110 Stat. 642.)
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–106 struck out “appropriated for or” after “any moneys”.
 
 1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No claim for an amount exceeding $50,000 shall be adjusted and paid by the Commission under the provisions of this subpart.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3771 of this title.
+This section is referred to in sections 3612a, 3771 of this title.
 

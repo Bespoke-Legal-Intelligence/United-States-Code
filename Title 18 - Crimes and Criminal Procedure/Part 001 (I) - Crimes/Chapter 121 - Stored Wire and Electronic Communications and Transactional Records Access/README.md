@@ -24,7 +24,7 @@ Pub. L. 100–618, §2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and red
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2511 of this title.
+This chapter is referred to in section 2511 of this title; title 47 section 1008.
 
 
 ---

@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 3009(d).
 
@@ -28,9 +30,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–53 inserted reference to section 8903a of this title.
+1985—Subsec. (a). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-<b>1984</b>—Pub. L. 98–615, §3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
+1984—Pub. L. 98–615, §3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
 
 Subsec. (a). Pub. L. 98–615, §3(5)(A), substituted “individual” for “employee” in two places.
 
@@ -40,11 +42,11 @@ Subsec. (b)(1). Pub. L. 98–615, §3(5)(B)(ii), substituted “enrollee or the 
 
 Subsec. (b)(3). Pub. L. 98–615, §3(5)(B)(iii), substituted “the enrollee and any eligible family members” for “the employee or members of his family”.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
+1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant onor after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Deferral during certain periods
 
-A recipient shall not be considered in violation of the agreement entered into pursuant tosection 1134r–3(1) or (2) of this title during any period in which the recipient—
+A recipient shall not be considered in violation of the agreement entered into pursuant to section 1134r–3(1) or (2) of this title during any period in which the recipient—
 
 &emsp;(1) is pursuing a full-time course of study related to the field of teaching at an eligible institution;
 

@@ -48,11 +48,11 @@ As used in this subchapter—
 
 #### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
 
-&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement by the United States under the the <sup>1</sup> Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
+&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement by the United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
 
 #### (5) Instrumentality
 
-&emsp;The term “instrumentality” shall not be construed to include an agency or division of the government of a country, but may be construed to include such arrangements as the European Economic Community.
+&emsp;The term “instrumentality” shall not be construed to include an agency or division ofthe government of a country, but may be construed to include such arrangements as the European Economic Community.
 
 #### (6) Least developed country
 
@@ -62,13 +62,15 @@ As used in this subchapter—
 
 &emsp;The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953.)
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### References in Text
 
 Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
+
+1996—Par. (4)(D). Pub. L. 104–295 substituted “under the Agreement” for “under the the Agreement”.
 
 1994—Par. (1). Pub. L. 103–465, §342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
 
@@ -96,5 +98,5 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2515 of this title; title 41 section 10b–1.
+This section is referred to in section 2515 of this title.
 

@@ -12,7 +12,9 @@ The National Transportation Safety Board shall submit a report to Congress on Ju
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

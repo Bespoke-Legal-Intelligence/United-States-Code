@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) Foreign oil and gas extraction income
 
-&emsp;The term “foreign oil and gas extraction income” means the taxable income derived fromsources without the United States and its possessions from—
+&emsp;The term “foreign oil and gas extraction income” means the taxable income derived from sources without the United States and its possessions from—
 
 &emsp;&emsp;(A) the extraction (by the taxpayer or any other person) of minerals from oil or gas wells, or
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of clause (i), there shall not be taken into account—
 
-&emsp;&emsp;&emsp;&emsp;(I) any foreign expropriation loss (as defined in section 172(h)) <sup>2</sup> for the taxable year, or
+&emsp;&emsp;&emsp;&emsp;(I) any foreign expropriation loss (as defined in section 172(h) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)) for the taxable year, or
 
 &emsp;&emsp;&emsp;&emsp;(II) any loss for the taxable year which arises from fire, storm, shipwreck, or other casualty, or from theft,
 
@@ -132,13 +132,17 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 &emsp;(B) For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.
 
-(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504.)
+(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889.)
 
 #### References in Text
 
 Section 172(h), referred to in subsec. (c)(4)(B)(iii)(I), was repealed by Pub. L. 101–508, title XI, §11811(b)(1), Nov. 5, 1990, 104 Stat. 1388–532.
 
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (c)(4)(B)(iii)(I), is the date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
+
 #### Amendments
+
+1996—Subsec. (c)(4)(B)(iii)(I). Pub. L. 104–188 inserted “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “section 172(h)”.
 
 1993—Subsec. (c)(1), (2). Pub. L. 103–66 inserted concluding provisions.
 
@@ -156,7 +160,7 @@ Subsec. (f)(3)(C). Pub. L. 101–508, §11801(a)(32), struck out subpar. (C) whi
 
 1988—Subsec. (c)(3). Pub. L. 100–647, §1012(g)(6)(B), struck out “and dividends described in subparagraph (B)” after “described in subparagraph (A)” in closing provisions.
 
-Subsec. (c)(3)(B) to (D). Pub. L. 100–647, §1012(g)(6)(A), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read asfollows: “dividends from a domestic corporation which are treated under section 861(a)(2)(A) as income from sources without the United States,”.
+Subsec. (c)(3)(B) to (D). Pub. L. 100–647, §1012(g)(6)(A), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “dividends from a domestic corporation which are treated under section 861(a)(2)(A) as income from sources without the United States,”.
 
 1982—Subsec. (b). Pub. L. 97–248, §211(c)(1), added subsec. (b). Former subsec. (b), which had provided that section 904 be applied separately with respect to foreign oil related income and other taxable income, was struck out.
 
@@ -287,6 +291,4 @@ Section 1035(c) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, 
 This section is referred to in sections 245, 865, 904, 954, 6501 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ In order to alleviate hardship on any recipient of a grant under section 291n <
 
 #### (b) Application; form; information
 
-Any such loan shall be made only on the basis of an application submitted to the Secretary in such form and containing such information and assurances as he may prescribe.
+Any such loan shall be made only on the basis of an application submitted to the Secretary insuch form and containing such information and assurances as he may prescribe.
 
 #### (c) Interest; repayment period
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants; uses
 
-(1) The Assistant Secretary is authorized to make grants to not fewer than 6 nor more than 10 States to demonstrate and evaluate the effectiveness of consumer protection projects for services (other than medical services) provided to older individuals in the home that are furnished or assisted with public funds.
+(1) The Assistant Secretary is authorized to make grants to not fewer than 6 nor more than10 States to demonstrate and evaluate the effectiveness of consumer protection projects for services (other than medical services) provided to older individuals in the home that are furnished or assisted with public funds.
 
 (2) Grants made under this section shall be used to test different approaches to protecting older individuals with regard to services in the home. Such projects may provide consumer protection through State and local ombudsmen, legal assistance agencies, and other community service agencies.
 

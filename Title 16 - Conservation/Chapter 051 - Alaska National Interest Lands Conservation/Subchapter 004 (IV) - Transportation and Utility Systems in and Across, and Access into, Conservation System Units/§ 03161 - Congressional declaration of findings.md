@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-(a) Alaska's transportation and utility network is largely undeveloped and the futureneeds for transportation and utility systems in Alaska would best be identified and provided for through an orderly, continuous decisionmaking process involving the State and Federal Governments and the public;
+(a) Alaska's transportation and utility network is largely undeveloped and the future needs for transportation and utility systems in Alaska would best be identified and provided for through an orderly, continuous decisionmaking process involving the State and Federal Governments and the public;
 
 (b) the existing authorities to approve or disapprove applications for transportation and utility systems through public lands in Alaska are diverse, dissimilar, and, in some cases, absent; and
 

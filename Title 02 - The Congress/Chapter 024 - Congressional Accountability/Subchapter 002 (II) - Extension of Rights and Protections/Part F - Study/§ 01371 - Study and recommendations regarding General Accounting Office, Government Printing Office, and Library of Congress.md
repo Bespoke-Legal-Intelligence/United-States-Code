@@ -70,7 +70,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (b)(5), is act June
 
 The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16\(§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The General Accounting Office Personnel Act of 1980, referred to in subsec. (b)(9), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, Money and Finance, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance.
 

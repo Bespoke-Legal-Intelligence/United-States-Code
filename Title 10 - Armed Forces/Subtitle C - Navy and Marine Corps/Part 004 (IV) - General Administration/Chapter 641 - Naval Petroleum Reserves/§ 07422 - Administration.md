@@ -6,7 +6,7 @@
 
 &emsp;(1) the protection, conservation, maintenance, and testing of those reserves; or
 
-&emsp;(2) the production of petroleum whenever and to the extent that the Secretary, with the approval of the President, finds that such production is needed for national defense purposes and the production is authorized by a joint resolution of Congress.
+&emsp;(2) the production of petroleum whenever and to the extent that the Secretary, with theapproval of the President, finds that such production is needed for national defense purposes and the production is authorized by a joint resolution of Congress.
 
 (c)(1) In administering Naval Petroleum Reserves Numbered 1, 2, and 3, the Secretary is authorized and directed—
 
@@ -64,7 +64,7 @@ Subsec. (c)(3). Pub. L. 99–413, §1(a)(2), struck out par. (3) which condition
 
 1984—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (c)” in provisions preceding par. (1).
 
-1980—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text followingcl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
+1980—Subsec. (c)(1). Pub. L. 96–513, §513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
 
 Subsec. (c)(2). Pub. L. 96–513, §513(31)(E), substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
 

@@ -12,7 +12,7 @@
 
 #### (3) State procedures
 
-&emsp;Each State adjacent to an OCS source included under this subsection may promulgate and submit to the Administrator regulations for implementing and enforcing the requirements of this subsection. If the Administrator finds that the State regulations are adequate, the Administrator shall delegate to that State any authority the Administrator has under this chapter to implement and enforce such requirements. Nothing in this subsection shall prohibit the Administrator from enforcing any requirement of this section.
+&emsp;Each State adjacent to an OCS source included under this subsection may promulgateand submit to the Administrator regulations for implementing and enforcing the requirements of this subsection. If the Administrator finds that the State regulations are adequate, the Administrator shall delegate to that State any authority the Administrator has under this chapter to implement and enforce such requirements. Nothing in this subsection shall prohibit the Administrator from enforcing any requirement of this section.
 
 #### (4) Definitions
 

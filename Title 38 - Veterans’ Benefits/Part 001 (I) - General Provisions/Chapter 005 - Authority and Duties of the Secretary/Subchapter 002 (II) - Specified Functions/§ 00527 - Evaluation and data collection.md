@@ -132,7 +132,7 @@ Definitions.—For the purposes of this section:
 
 “(a)
 
-Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) ofthe Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
+Agreement.—(1) The Secretary of Veterans Affairs and Secretary of Defense jointly shall seek to enter into an agreement with the National Academy of Sciences for the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the Academy to review existing scientific, medical, and other information on the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
 “(2) The agreement shall require MFUA to provide members of veterans organizations and members of the scientific community (including the Director of the Office of Technology Assessment) with the opportunity to comment on the method or methods MFUA proposes to use in conducting the review.
 
@@ -222,7 +222,7 @@ Assessment and Coordination.—(1) In carrying out subsection (a), the Secretary
 
 Planning.—In furtherance of subsection (a), the Secretary shall require the director of each medical center and the director of each regional benefits office, in coordination with representatives of State and local governments, other Federal officials, and nongovernmental organizations that have experience working with homeless persons in the areas served by such facility, to—
 
-&emsp;“(1) develop a list of all public and private programs that provide assistance to homeless persons or homeless veterans in the area concerned, togetherwith a description of the services offered by those programs; and
+&emsp;“(1) develop a list of all public and private programs that provide assistance to homeless persons or homeless veterans in the area concerned, together with a description of the services offered by those programs; and
 
 &emsp;“(2) seek to encourage the development by the representatives of such entities, in coordination with the director, of a plan to coordinate among such public and private programs the provision of services to homeless veterans.
 

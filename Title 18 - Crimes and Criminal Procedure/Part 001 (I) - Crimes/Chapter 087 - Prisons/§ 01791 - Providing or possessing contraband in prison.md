@@ -24,7 +24,9 @@ Punishment.—The punishment for an offense under this section is a fine under t
 
 &emsp;(5) imprisonment for not more than 6 months, or both, if the object is specified in subsection (d)(1)(F) of this section.
 
-(c) Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance. Any punishment imposed under subsection (b) for a violation of this section by an inmate of a prison shall be consecutive to the sentence being served by such inmate at the time the inmate commits such violation.
+(c)
+
+Consecutive Punishment Required in Certain Cases.—Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance. Any punishment imposed under subsection (b) for a violation of this section by an inmate of a prison shall be consecutive to the sentence being served by such inmate at the time the inmate commits such violation.
 
 (d)
 
@@ -50,7 +52,7 @@ Definitions.—As used in this section—
 
 &emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Oct. 12, 1984, Pub. L. 98–473, title II, §1109(a), 98 Stat. 2147;Nov. 10, 1986, Pub. L. 99–646, §52(a), 100 Stat. 3606; Nov. 18, 1988, Pub. L. 100–690, title VI, §6468(a), (b), 102 Stat. 4376; Sept. 13, 1994, Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), 108 Stat. 1986, 2140.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Oct. 12, 1984, Pub. L. 98–473, title II, §1109(a), 98 Stat. 2147; Nov. 10, 1986, Pub. L. 99–646, §52(a), 100 Stat. 3606; Nov. 18, 1988, Pub. L. 100–690, title VI, §6468(a), (b), 102 Stat. 4376; Sept. 13, 1994, Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), 108 Stat. 1986, 2140; Oct. 11, 1996, Pub. L. 104–294, title VI, §601(m), 110 Stat. 3502.)
 
 #### Historical and Revision Notes
 
@@ -69,6 +71,8 @@ Minor verbal changes also were made.
 Schedules I, II, and III, referred to in subsec. (d)(1)(A), (B), probably mean schedules I to III of the schedules of controlled substances, which are set out in section 812(c) of Title 21, Food and Drugs.
 
 #### Amendments
+
+1996—Subsec. (c). Pub. L. 104–294 inserted heading.
 
 1994—Subsec. (b)(2) to (5). Pub. L. 103–322, §§90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
 

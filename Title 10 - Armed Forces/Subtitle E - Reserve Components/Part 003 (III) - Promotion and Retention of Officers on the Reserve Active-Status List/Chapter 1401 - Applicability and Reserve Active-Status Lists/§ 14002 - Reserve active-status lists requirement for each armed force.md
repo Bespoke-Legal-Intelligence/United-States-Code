@@ -6,10 +6,6 @@
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2922.)
 
-#### Effective Date of Section
-
-<i>Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.</i>
-
 #### Establishment of Reserve Active-Status List
 
 Section 1686 of title XVI of div. A of Pub. L. 103–337 provided that:

@@ -12,7 +12,7 @@
 
 > &emsp;the duties of whose position are determined by the Administrator or the Secretary to be directly involved in or responsible for the operation and maintenance of the air traffic control system; and
 
-&emsp;(2) any employee of the Federal Aviation Administration or the Department of Defense who is assigned to a flight test pilot position classified not lower than GS-12 located in a region or center, the duties of whose position are determined by the Administrator or the Secretary to be unusually taxing, physically or mentally, and to be critical to the advancement of aviation safety; and
+&emsp;(2) any employee of the Federal Aviation Administration or the Department of Defense who is assigned to a flight test pilot position classified not lower than GS-12 located in a region or center, the duties of whose position are determined by the Administrator or the Secretary to be unusually taxing, physically ormentally, and to be critical to the advancement of aviation safety; and
 
 &emsp;(3) any employee of the Federal Aviation Administration who occupies a position at the Federal Aviation Administration Academy, Oklahoma City, Oklahoma, the duties of which are determined by the Administrator to require the individual to be actively engaged in or directly responsible for training employees to perform the duties of a position described in subparagraph (a); (b); or (c) or paragraph (1) of this subsection, and who, immediately prior to assuming such position at such Academy, occupied a position referred to in subparagraph (a), (b), or (c) of paragraph (1) of this subsection.
 
@@ -44,7 +44,7 @@
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–525, §1537(c)(6)(A), inserted “and the Department of Defense” in section catchline.
+1984—Pub. L. 98–525, §1537(c)(6)(A), inserted “and the Department of Defense” in section catchline.
 
 Subsec. (a). Pub. L. 98–525, §1537(c)(1)(A), inserted “and the Secretary of Defense (hereafter in this section referred to as the ‘Secretary’)” in provisions preceding par. (1).
 
@@ -56,7 +56,7 @@ Subsecs. (c)(1), (d), (e)(1), (f)(1). Pub. L. 98–525, §1537(c)(2)–(5)(A), i
 
 Subsec. (f)(2). Pub. L. 98–525, §1537(c)(5)(B), inserted “and the Secretary”.
 
-<b>1982</b>—Subsec. (a)(3). Pub. L. 97–377 added par. (3).
+1982—Subsec. (a)(3). Pub. L. 97–377 added par. (3).
 
 #### Effective Date of 1984 Amendment
 

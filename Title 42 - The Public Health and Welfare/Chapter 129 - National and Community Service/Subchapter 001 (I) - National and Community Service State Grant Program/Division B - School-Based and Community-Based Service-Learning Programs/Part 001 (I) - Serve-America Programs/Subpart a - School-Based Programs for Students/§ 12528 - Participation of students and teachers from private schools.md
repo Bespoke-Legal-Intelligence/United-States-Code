@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent consistent with the number of students in the State or Indian tribe or in theschool district of the local educational agency involved who are enrolled in private nonprofit elementary and secondary schools, such State, Indian tribe, or agency shall (after consultation with appropriate private school representatives) make provision—
+To the extent consistent with the number of students in the State or Indian tribe or in the school district of the local educational agency involved who are enrolled in private nonprofit elementary and secondary schools, such State, Indian tribe, or agency shall (after consultation with appropriate private school representatives) make provision—
 
 &emsp;(1) for the inclusion of services and arrangements for the benefit of such students so as to allow for the equitable participation of such students in the programs implemented to carry out the objectives and provide the benefits described in this subpart; and
 

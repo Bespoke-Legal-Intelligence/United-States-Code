@@ -20,7 +20,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) of this section if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
 
-&emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under the Job Training Partnerships <sup>1</sup> Act \[29 U.S.C. 1501 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act \[42 U.S.C. 681 et seq.\];
+&emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under the Job Training Partnerships <sup>1</sup> Act \[29 U.S.C. 1501 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>2</sup> of title IV of the Social Security Act;
 
 &emsp;&emsp;(B) lack of funding for reasonable administrative costs;
 
@@ -90,13 +90,13 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Escrow savings accounts
 
-&emsp;For each participating family whose monthly adjusted income is less than 50 percent ofthe area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
+&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistentwith the contracts of participation, as determined by the public housing agency.
 
-#### (3) <sup>2</sup> Plan
+#### (3) <sup>3</sup> Plan
 
 &emsp;Each public housing agency carrying out a local program under this section shall establish a plan to offer incentives to families to encourage families to participate in the program. The plan shall require the establishment of escrow savings accounts under paragraph (2) and may include any other incentives designed by the public housing agency.
 
-#### (3) <sup>2</sup> Use of escrow savings accounts for section 1437f homeownership
+#### (3) <sup>3</sup> Use of escrow savings accounts for section 1437f homeownership
 
 &emsp;Notwithstanding paragraph (3), a family that uses assistance under section 1437f(y) of this title to purchase a dwelling may use up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary.
 
@@ -112,7 +112,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Membership
 
-&emsp;The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act \[42 U.S.C. 681 et seq.\], and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
+&emsp;The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Job Opportunities and Basic Skills Training Program under part F <sup>4</sup> of title IV of the Social Security Act, and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
 
 #### (g) Action plan
 
@@ -122,7 +122,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Development of plan
 
-&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act \[42 U.S.C. 681 et seq.\], other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
+&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f) of this section, representatives of residents of the public housing, any local agencies responsible for programs under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and the Job Opportunities and Basic Skills Training Program under part F <sup>4</sup> of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
 
 #### (3) Contents of plan
 
@@ -142,7 +142,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 &emsp;&emsp;(G) a timetable for implementation of the local program;
 
-&emsp;&emsp;(H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F of title IV of the Social Security Act \[42 U.S.C. 681 et seq.\] and program under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
+&emsp;&emsp;(H) assurances satisfactory to the Secretary that development of the services andactivities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F <sup>4</sup> of title IV of the Social Security Act and program under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
 
 &emsp;&emsp;(I) assurances satisfactory to the Secretary that nonparticipating families will retain their rights to public housing or section 8 \[42 U.S.C. 1437f\] assistance notwithstanding the provisions of this section.
 
@@ -164,7 +164,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Criteria
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>3</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>5</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
 
 #### (3) Use
 
@@ -172,7 +172,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (4) Reservation of budget authority
 
-&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucherprograms for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
+&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucher programs for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
 
 #### (j) On-site facilities
 
@@ -202,17 +202,7 @@ In establishing and carrying out the self-sufficiency program under this section
 
 #### (m) GAO report
 
-#### (1) In general
-
-&emsp;The Comptroller General of the United States shall submit to the Congress reports under this subsection evaluating and describing the Family Self-Sufficiency program carried out by the Secretary under this section.
-
-#### (2) Timing
-
-&emsp;The Comptroller General shall submit the following reports under this subsection:
-
-&emsp;&emsp;(A) An interim report, not later than the expiration of the 2-year period beginning on November 28, 1990.
-
-&emsp;&emsp;(B) A final report, not later than the expiration of the 5-year period beginning on November 28, 1990.
+&emsp;The Comptroller General of the United States may submit to the Congress reports under this subsection evaluating and describing the Family Self-Sufficiency program carried out by the Secretary under this section.
 
 #### (n) Definitions
 
@@ -236,11 +226,9 @@ As used in this section:
 
 &emsp;Not later than the expiration of the 180-day period beginning on November 28, 1990, the Secretary shall by notice establish any requirements necessary to carry out this section. Such requirements shall be subject to section 553 of title 5. The Secretary shall issue final regulations based on the notice not later than the expiration of the 8-month period beginning on the date of the notice. Such regulations shall become effective upon the expiration of the 1-year period beginning on the date of the publication of the final regulations.
 
-#### (2) Applicability to Indian public housing authorities
+#### (2) Repealed. Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042
 
-&emsp;Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.
-
-(Sept. 1, 1937, ch. 896, title I, §23, as added Nov. 28, 1990, Pub. L. 101–625, title V, §554(a), 104 Stat. 4225; amended Oct. 28, 1992, Pub. L. 102–550, title I, §§106, 185(b), 106 Stat. 3684, 3747.)
+(Sept. 1, 1937, ch. 896, title I, §23, as added Nov. 28, 1990, Pub. L. 101–625, title V, §554(a), 104 Stat. 4225; amended Oct. 28, 1992, Pub. L. 102–550, title I, §§106, 185(b), 106 Stat. 3684, 3747; Oct. 19, 1996, Pub. L. 104–316, title I, §122(<i>l</i>), 110 Stat. 3837; Oct. 26, 1996, Pub. L. 104–330, title V, §501(b)(8), 110 Stat. 4042.)
 
 #### References in Text
 
@@ -248,9 +236,23 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b
 
 The Job Training Partnership Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act is classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+1996—Subsec. (m). Pub. L. 104–316 substituted “may” for “shall” after “United States”, struck out “(1)
+
+In general.—” before “The Comptroller General”, and struck out par. (2) which read as follows:
+
+“(2)
+
+Timing.—The Comptroller General shall submit the following reports under this subsection:
+
+&emsp;“(A) An interim report, not later than the expiration of the 2-year period beginning on November 28, 1990.
+
+&emsp;“(B) A final report, not later than the expiration of the 5-year period beginning on November 28, 1990.”
+
+Subsec. (<i>o</i>)(2). Pub. L. 104–330 struck out heading and text of par. (2). Text read as follows: “Notwithstanding any other provision of law, the provisions of this section shall be optional for Indian housing authorities.”
 
 1992—Subsec. (b)(2). Pub. L. 102–550, §106(b), added subpars. (A) to (D) and concluding provisions and struck out former subpars. (A) to (D) which read as follows:
 
@@ -286,6 +288,10 @@ Subsec. (<i>o</i>)(2). Pub. L. 102–550, §106(j), amended par. (2) generally. 
 
 Applicability to indian public housing.—In accordance with section 1437aa(b)(2) of this title, the provisions of this section shall also apply to public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority.”
 
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
 #### GAO Study on Linking Federal Housing Assistance to Economic Self-Sufficiency Programs
 
 Section 554(b) of Pub. L. 101–625 directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
@@ -296,7 +302,11 @@ This section is referred to in sections 1437f, 1437w of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Partnership”.</i>
 
-<i><sup>2</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “performance”.</i>
+<i><sup>3</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “performance”.</i>
 

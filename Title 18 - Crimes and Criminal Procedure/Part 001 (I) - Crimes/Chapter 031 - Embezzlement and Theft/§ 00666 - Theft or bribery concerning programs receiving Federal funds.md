@@ -1,4 +1,4 @@
-### §666 . Theft or bribery concerning programs receiving Federal funds
+### §666. Theft or bribery concerning programs receiving Federal funds
 
 (a) Whoever, if the circumstance described in subsection (b) of this section exists—
 
@@ -46,5 +46,5 @@ Pub. L. 101–647, §1205(d), added par. (4) defining “State”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 1516, 1956 of this title.
+This section is referred to in sections 24, 981, 982, 1516, 1956 of this title.
 

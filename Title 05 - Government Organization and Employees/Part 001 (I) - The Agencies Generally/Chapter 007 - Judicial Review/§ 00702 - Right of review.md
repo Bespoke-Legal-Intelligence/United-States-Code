@@ -10,7 +10,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 5 U.S.C. 1009(a).
 
@@ -20,7 +22,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–574 removed the defense of sovereign immunity as a bar to judicial review of Federal administrative action otherwise subject to judicial review.
+1976—Pub. L. 94–574 removed the defense of sovereign immunity as a bar to judicial review of Federal administrative action otherwise subject to judicial review.
 
 #### Section Referred to in Other Sections
 

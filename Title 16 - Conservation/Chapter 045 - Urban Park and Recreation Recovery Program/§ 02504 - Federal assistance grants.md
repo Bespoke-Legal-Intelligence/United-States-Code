@@ -6,7 +6,7 @@ Eligibility of general purpose local governments for assistance under this chapt
 
 #### (b) Other general purpose local governments eligible for assistance; limitation of funds
 
-Notwithstanding the list of eligible local governments established in accordance with subsection (a) of this section, the Secretary is also authorized to establish eligibility, at his discretion and in accord with the findings and purpose of this chapter, to other general purpose local governments in standard metropolitan statistical areas as defined by the census: <i>Provided</i>, That grants to these discretionary applicants do not exceed in the aggregate 15 per centum of funds appropriated under this chapter for rehabilitation, innovation, and recovery action program grants.
+Notwithstanding the list of eligible local governments established in accordance with subsection (a) of this section, the Secretary is also authorized to establish eligibility, at his discretion and in accord with the findings and purpose of this chapter, to other general purpose local governments in standard metropolitan statistical areas as defined by the census: <i>Provided</i>, That grants to these discretionary applicants do not exceed in the aggregate 15 per centum offunds appropriated under this chapter for rehabilitation, innovation, and recovery action program grants.
 
 #### (c) Priority criteria for project selection and approval
 

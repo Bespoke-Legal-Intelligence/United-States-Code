@@ -10,7 +10,7 @@ Such Board shall be composed of at least nine members, one of whom shall be desi
 
 #### (c) Proposed environmental criteria document, standard, limitation, or regulation; functions respecting in conjunction with Administrator
 
-(1) The Administrator, at the time any proposed criteria document, standard, limitation, or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
+(1) The Administrator, at the time any proposed criteria document, standard, limitation,or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
 
 (2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on the adequacy of the scientific and technical basis of the proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
 
@@ -46,7 +46,7 @@ The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise C
 
 The Toxic Substances Control Act, referred to in subsec. (c)(1), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (c)(1), is Pub. L. 93–523, Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified principally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 
@@ -80,5 +80,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 136w.
+This section is referred to in title 7 section 136w; title 21 section 346a.
 

@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) sexual harassment, particularly that experienced by girls, undermines the ability of schools to provide a safe and equitable learning or workplace environment;
 
-&emsp;&emsp;(B) classroom textbooks and other educational materials do not sufficiently reflectthe experiences, achievements, or concerns of women and, in most cases, are not written by women or persons of color;
+&emsp;&emsp;(B) classroom textbooks and other educational materials do not sufficiently reflect the experiences, achievements, or concerns of women and, in most cases, are not written by women or persons of color;
 
 &emsp;&emsp;(C) girls do not take as many mathematics and science courses as boys, girls lose confidence in their mathematics and science ability as girls move through adolescence, and there are few women role models in the sciences; and
 

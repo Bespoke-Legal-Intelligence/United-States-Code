@@ -34,7 +34,7 @@ Not later than 12 months after November 15, 1990, the Administrator, in consulta
 
 #### (e) Biennial updates; future projections
 
-Not later than 24 months after November 15, 1990, and every 24 months thereafter, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that updates the report issued pursuant to subsection (d) of this section, and which, in addition, makes projections into the future regarding expected costs, benefits, and other effects of compliance with standards pursuant to this chapter as listed in subsection (a) of this section.
+Not later than 24 months after November 15, 1990, and every 24 months thereafter, the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, shall submit a report to the Congress that updates the report issued pursuant to subsection (d) of this section, and which, in addition, makes projections into the future regarding expected costs,benefits, and other effects of compliance with standards pursuant to this chapter as listed in subsection (a) of this section.
 
 #### (f) Appointment of Advisory Council on Clean Air Compliance Analysis
 
@@ -50,7 +50,7 @@ The Council shall—
 
 &emsp;(3) prior to the issuance of a report required under subsection (d) or (e) of this section, review the findings of such report, and make recommendations to the Administrator concerning the validity and utility of such findings.
 
-(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31,1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §224(c), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title VIII, §812(a), 104 Stat. 2691.)
+(July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713; Aug. 7, 1977, Pub. L. 95–95, title II, §224(c), 91 Stat. 767; Nov. 15, 1990, Pub. L. 101–549, title VIII, §812(a), 104 Stat. 2691.)
 
 #### Codification
 
@@ -122,5 +122,5 @@ Interim report.—Within 9 months after the date of the enactment of the Clean A
 
 #### GAO Reports on Costs and Benefits
 
-Section 812(b) of Pub. L. 101–549 provided that: “Commencing on the second year after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\] and annually thereafter, the Comptroller General of the General Accounting Office, in consultation with other agencies, such as the Environmental Protection Agency, the Department of Labor, the Department of Commerce, the United States Trade Representative, the National Academy of Sciences, the Office of Technology Assessment, the National Academy of Engineering, the Council on Environmental Quality, and the Surgeon General, shall provide a report to the Congress on the incremental human health and environmental benefits, and incremental costs beyond current clean air requirements of the new control strategies and technologies required by this Act \[see Tables for classification\]. The report shall include, for such strategies and technologies, an analysis of the actual emissions reductions beyond existing practice, the effects on human life, human health and the environment (including both positive impacts and those that may be detrimental to jobs and communities resulting from loss of employers and employment, etc.), the energy security impacts, and the effect on United States products and industrial competitiveness in national and international markets.”
+Section 812(b) of Pub. L. 101–549, which directed Comptroller General, commencing on second year after Nov. 15, 1990, and annually thereafter, in consultation with other agencies, to report to Congress on pollution control strategies and technologies required by Clean Air Act Amendments of 1990, was repealed by Pub. L. 104–316, title I, §122(r), Oct. 19, 1996, 110 Stat. 3838.
 

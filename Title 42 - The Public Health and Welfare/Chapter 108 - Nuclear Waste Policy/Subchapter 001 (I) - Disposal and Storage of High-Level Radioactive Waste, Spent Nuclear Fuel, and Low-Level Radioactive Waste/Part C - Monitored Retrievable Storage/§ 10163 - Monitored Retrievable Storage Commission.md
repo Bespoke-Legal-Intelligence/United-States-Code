@@ -48,7 +48,7 @@
 
 (C) The MRS Commission shall cease to exist 60 days after the submission to Congress of the report required under this subsection.
 
-(Pub. L. 97–425, title I, §143, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5021, Dec. 22, 1987, 101 Stat. 1330–232; Pub. L. 100–507, §2, Oct. 18, 1988, 102 Stat. 2541.)
+(Pub. L. 97–425, title I, §143, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5021, Dec. 22, 1987, 101 Stat. 1330–232; amended Pub. L. 100–507, §2, Oct. 18, 1988, 102 Stat. 2541.)
 
 #### References in Text
 

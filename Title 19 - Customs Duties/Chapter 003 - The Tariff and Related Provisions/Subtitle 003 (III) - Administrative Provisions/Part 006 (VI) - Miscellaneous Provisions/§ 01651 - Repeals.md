@@ -50,7 +50,7 @@ Section 296 of title 5, referred to in subsec. (d)(3), was repealed in the gener
 
 Act of March 3, 1925, referred to in subsec. (d)(4), was repealed by act Aug. 27, 1935, ch. 740, §308, 49 Stat. 880.
 
-The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, asamended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
 
 #### Prior Provisions
 

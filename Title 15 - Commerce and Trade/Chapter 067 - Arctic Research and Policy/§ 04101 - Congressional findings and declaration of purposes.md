@@ -6,7 +6,7 @@
 
 &emsp;(2) the Arctic is critical to national defense;
 
-&emsp;(3) the renewable resources of the Arctic, specifically fish and other seafood, representone of the Nation's greatest commercial assets;
+&emsp;(3) the renewable resources of the Arctic, specifically fish and other seafood, represent one of the Nation's greatest commercial assets;
 
 &emsp;(4) Arctic conditions directly affect global weather patterns and must be understood in order to promote better agricultural management throughout the United States;
 

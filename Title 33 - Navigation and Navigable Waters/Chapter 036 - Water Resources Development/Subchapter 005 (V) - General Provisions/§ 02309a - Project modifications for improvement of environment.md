@@ -2,31 +2,57 @@
 
 #### (a) Determination of need
 
-The Secretary is authorized to review the operation of water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest.
+The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
 
 #### (b) Authority to make modifications
 
-The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest. The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.
+The Secretary is authorized to carry out a program for the purpose of making such modifications in the structures and operations of water resources projects constructed by the Secretary which the Secretary determines (1) are feasible and consistent with the authorized project purposes, and (2) will improve the quality of the environment in the public interest.
 
-#### (c) Coordination of actions
+#### (c) Restoration of environmental quality
+
+If the Secretary determines that construction of a water resources project by the Secretary or operation of a water resources project constructed by the Secretary has contributed to the degradation of the quality of the environment, the Secretary may undertake measures for restoration of environmental quality and measures for enhancement of environmental quality that are associated with the restoration, through modifications either at the project site or at other locations that have been affected by the construction or operation of the project, if such measures do not conflict with the authorized project purposes.
+
+#### (d) Non-Federal share; limitation on maximum Federal expenditure
+
+The non-Federal share of the cost of any modifications or measures carried out or undertaken pursuant to subsection (b) or (c) of this section shall be 25 percent. Not more than 80 percent of the non-Federal share may be in kind, including a facility, supply, or service that is necessary to carry out the modification or measure. Not more than $5,000,000 in Federal funds may be expended on any single modification or measure carried out or undertaken pursuant to this section.
+
+#### (e) Coordination of actions
 
 The Secretary shall coordinate any actions taken pursuant to this section with appropriate Federal, State, and local agencies.
 
-#### (d) Biennial report
+#### (f) Biennial report
 
-Beginning in 1992 and every 2 years thereafter, the Secretary shall transmit to Congress a report on the results of reviews conducted under subsection (a) of this section and on the program conducted under subsection (b) of this section.
+Beginning in 1992 and every 2 years thereafter, the Secretary shall transmit to Congress a report on the results of reviews conducted under subsection (a) of this section and on the programs conducted under subsections (b) and (c) of this section.
 
-#### (e) Authorization of appropriations
+#### (g) Authorization of appropriations
 
 There is authorized to be appropriated not to exceed $25,000,000 annually to carry out this section.
 
-(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826.)
+#### (h) Definition
+
+In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).
+
+(Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678.)
 
 #### Codification
 
 Section was formerly set out as a note under section 2294 of this title.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–303, §204(a), struck out “the operation of” after “to review” and inserted before period at end “and to determine if the operation of such projects has contributed to the degradation of the quality of the environment”.
+
+Subsec. (b). Pub. L. 104–303, §204(b), struck out at end “The non-Federal share of the cost of any modifications carried out under this section shall be 25 percent. No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
+
+Subsecs. (c), (d). Pub. L. 104–303, §204(c)(2), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+
+Subsec. (e). Pub. L. 104–303, §204(c)(1), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+
+Subsec. (f). Pub. L. 104–303, §204(c)(1), (3), redesignated subsec. (d) as (f) and substituted “programs conducted under subsections (b) and (c) of this section” for “program conducted under subsection (b) of this section”.
+
+Subsec. (g). Pub. L. 104–303, §204(c)(1), redesignated subsec. (e) as (g).
+
+Subsec. (h). Pub. L. 104–303, §204(d), added subsec. (h).
 
 1992—Subsec. (b). Pub. L. 102–580, §202(1), inserted at end “No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000.”
 

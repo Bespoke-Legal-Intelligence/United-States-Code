@@ -14,57 +14,11 @@
 
 &emsp;&emsp;(B) if such transfer is to the insured, to a partner of the insured, to a partnership in which the insured is a partner, or to a corporation in which the insured is a shareholder or officer.
 
-#### (b) Employees’ death benefits
-
-#### (1) General rule
-
-&emsp;Gross income does not include amounts received (whether in a single sum or otherwise) by the beneficiaries or the estate of an employee, if such amounts are paid by or on behalf of an employer and are paid by reason of the death of the employee.
-
-#### (2) Special rules for paragraph (1)
-
-#### (A) $5,000 limitation
-
-&emsp;&emsp;The aggregate amounts excludable under paragraph (1) with respect to the death of any employee shall not exceed $5,000.
-
-#### (B) Nonforfeitable rights
-
-&emsp;&emsp;Paragraph (1) shall not apply to amounts with respect to which the employee possessed, immediately before his death, a nonforfeitable right to receive the amounts while living. This subparagraph shall not apply to a lump sum distribution (as defined in section 402(e)(4))—
-
-&emsp;&emsp;&emsp;(i) by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a),
-
-&emsp;&emsp;&emsp;(ii) under an annuity contract under a plan described in section 403(a), or
-
-&emsp;&emsp;&emsp;(iii) under an annuity contract purchased by an employer which is an organization referred to in section 170(b)(1)(A) (ii) or (vi) or which is a religious organization (other than a trust) and which is exempt from tax under section 501(a), but only with respect to the portion of such total distributions payable which bears the same ratio to the amount of such total distributions payable which is (without regard to this subsection) includible in gross income, as the amounts contributed by the employer for such annuity contract which are excludable from gross income under section 403(b) bear the total amounts contributed by the employer for such annuity contract.
-
-#### (C) Joint and survivor annuities
-
-&emsp;&emsp;Paragraph (1) shall not apply to amounts received by a surviving annuitant under a joint and survivor's annuity contract after the first day of the first period for which an amount was received as an annuity by the employee (or would have been received if the employee had lived).
-
-#### (D) Other annuities
-
-&emsp;&emsp;In the case of any amount to which section 72 (relating to annuities, etc.) applies, the amount which is excludable under paragraph (1) (as modified by the preceding subparagraphs of this paragraph) shall be determined by reference to the value of such amount as of the day on which the employee died. Any amount so excludable under paragraph (1) shall, for purposes of section 72, be treated as additional consideration paid by the employee. Paragraph (1) shall not apply in the case of an annuity under chapter 73 of title 10 of the United States Code if the member or former member of the uniformed services by reason of whose death such annuity is payable died after attaining retirement age.
-
-#### (3) Treatment of self-employed individuals
-
-&emsp;For purposes of this subsection—
-
-#### (A) Self-employed individual not considered employee
-
-&emsp;&emsp;Except as provided in subparagraph (B), the term “employee” does not include a self-employed individual described in section 401(c)(1).
-
-#### (B) Special rule for certain distributions
-
-&emsp;&emsp;In the case of any amount paid or distributed—
-
-&emsp;&emsp;&emsp;(i) by a trust described in section 401(a) which is exempt from tax under section 501(a), or
-
-&emsp;&emsp;&emsp;(ii) under a plan described in section 403(a),
-
-> &emsp;&emsp;the term “employee” includes a self-employed individual described in section 401(c)(1).
+#### \[(b) Repealed. Pub. L. 104–188, title I, §1402(a), Aug. 20, 1996, 110 Stat. 1789\]
 
 #### (c) Interest
 
-If any amount excluded from gross income by subsection (a) or (b) is held under an agreement to pay interest thereon, the interest payments shall be included in gross income.
+If any amount excluded from gross income by subsection (a) is held under an agreement to pay interest thereon, the interest payments shall be included in gross income.
 
 #### (d) Payment of life insurance proceeds at a date later than death
 
@@ -148,7 +102,7 @@ If any amount excluded from gross income by subsection (a) or (b) is held under 
 
 #### (A) Flexible premium life insurance contract
 
-&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualifiedadditional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
+&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
 
 #### (B) Premiums paid
 
@@ -214,9 +168,117 @@ If any amount excluded from gross income by subsection (a) or (b) is held under 
 
 &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Sept. 2, 1958, Pub. L. 85–866, title I, §23(d), 72 Stat. 1622; Oct. 10, 1962, Pub. L. 87–792, §7(c), 76 Stat. 829; Mar. 8, 1966, Pub. L. 89–365, §1(c), 80 Stat. 32; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(l), 83 Stat. 526; Sept. 2, 1974, Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), 88 Stat. 992, 994; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), 90 Stat. 1765, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, §§239, 266(a), (b), 96 Stat. 514, 547, 550; July 18, 1984, Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), 98 Stat. 772, 794, 958; Oct. 22, 1986, Pub. L. 99–514, title X, §1001(a)–(c), 100 Stat. 2387.)
+#### (g) Treatment of certain accelerated death benefits
+
+#### (1) In general
+
+&emsp;For purposes of this section, the following amounts shall be treated as an amount paid by reason of the death of an insured:
+
+&emsp;&emsp;(A) Any amount received under a life insurance contract on the life of an insured who is a terminally ill individual.
+
+&emsp;&emsp;(B) Any amount received under a life insurance contract on the life of an insured who is a chronically ill individual.
+
+#### (2) Treatment of viatical settlements
+
+#### (A) In general
+
+&emsp;&emsp;If any portion of the death benefit under a life insurance contract on the life of an insured described in paragraph (1) is sold or assigned to a viatical settlement provider, the amount paid for the sale or assignment of such portion shall be treated as an amount paid under the life insurance contract by reason of the death of such insured.
+
+#### (B) Viatical settlement provider
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “viatical settlement provider” means any person regularly engaged in the trade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds described in the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of an insured who resides in a State not requiring the licensing of such persons for such purposes with respect to such insured, such person meets the requirements of clause (ii) or (iii), whichever applies to such insured.
+
+#### (ii) Terminally ill insureds
+
+&emsp;&emsp;&emsp;A person meets the requirements of this clause with respect to an insured who is a terminally ill individual if such person—
+
+&emsp;&emsp;&emsp;&emsp;(I) meets the requirements of sections 8 and 9 of the Viatical Settlements Model Act of the National Association of Insurance Commissioners, and
+
+&emsp;&emsp;&emsp;&emsp;(II) meets the requirements of the Model Regulations of the National Association of Insurance Commissioners (relating to standards for evaluation of reasonable payments) in determining amounts paid by such person in connection with such purchases or assignments.
+
+#### (iii) Chronically ill insureds
+
+&emsp;&emsp;&emsp;A person meets the requirements of this clause with respect to an insured who is a chronically ill individual if such person—
+
+&emsp;&emsp;&emsp;&emsp;(I) meets requirements similar to the requirements referred to in clause (ii)(I), and
+
+&emsp;&emsp;&emsp;&emsp;(II) meets the standards (if any) of the National Association of Insurance Commissioners for evaluating the reasonableness of amounts paid by such person in connection with such purchases or assignments with respect to chronically ill individuals.
+
+#### (3) Special rules for chronically ill insureds
+
+&emsp;In the case of an insured who is a chronically ill individual—
+
+#### (A) In general
+
+&emsp;&emsp;Paragraphs (1) and (2) shall not apply to any payment received for any period unless—
+
+&emsp;&emsp;&emsp;(i) such payment is for costs incurred by the payee (not compensated for by insurance or otherwise) for qualified long-term care services provided for the insured for such period, and
+
+&emsp;&emsp;&emsp;(ii) the terms of the contract giving rise to such payment satisfy—
+
+&emsp;&emsp;&emsp;&emsp;(I) the requirements of section 7702B(b)(1)(B), and
+
+&emsp;&emsp;&emsp;&emsp;(II) the requirements (if any) applicable under subparagraph (B).
+
+> &emsp;&emsp;For purposes of the preceding sentence, the rule of section 7702B(b)(2)(B) shall apply.
+
+#### (B) Other requirements
+
+&emsp;&emsp;The requirements applicable under this subparagraph are—
+
+&emsp;&emsp;&emsp;(i) those requirements of section 7702B(g) and section 4980C which the Secretary specifies as applying to such a purchase, assignment, or other arrangement,
+
+&emsp;&emsp;&emsp;(ii) standards adopted by the National Association of Insurance Commissioners which specifically apply to chronically ill individuals (and, if such standards are adopted, the analogous requirements specified under clause (i) shall cease to apply), and
+
+&emsp;&emsp;&emsp;(iii) standards adopted by the State in which the policyholder resides (and if such standards are adopted, the analogous requirements specified under clause (i) and (subject to section 4980C(f)) standards under clause (ii), shall cease to apply).
+
+#### (C) Per diem payments
+
+&emsp;&emsp;A payment shall not fail to be described in subparagraph (A) by reason of being made ona per diem or other periodic basis without regard to the expenses incurred during the period to which the payment relates.
+
+#### (D) Limitation on exclusion for periodic payments
+
+&emsp;&emsp;<b>For limitation on amount of periodic payments which are treated as described in paragraph (1), see section 7702B(d).</b>
+
+#### (4) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Terminally ill individual
+
+&emsp;&emsp;The term “terminally ill individual” means an individual who has been certified by a physician as having an illness or physical condition which can reasonably be expected to result in death in 24 months or less after the date of the certification.
+
+#### (B) Chronically ill individual
+
+&emsp;&emsp;The term “chronically ill individual” has the meaning given such term by section 7702B(c)(2); except that such term shall not include a terminally ill individual.
+
+#### (C) Qualified long-term care services
+
+&emsp;&emsp;The term “qualified long-term care services” has the meaning given such term by section 7702B(c).
+
+#### (D) Physician
+
+&emsp;&emsp;The term “physician” has the meaning given to such term by section 1861(r)(1) of the Social Security Act (42 U.S.C. 1395x(r)(1)).
+
+#### (5) Exception for business-related policies
+
+&emsp;This subsection shall not apply in the case of any amount paid to any taxpayer other than the insured if such taxpayer has an insurable interest with respect to the life of the insured by reason of the insured being a director, officer, or employee of the taxpayer or by reason of the insured being financially interested in any trade or business carried on by the taxpayer.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Sept. 2, 1958, Pub. L. 85–866, title I, §23(d), 72 Stat. 1622; Oct. 10, 1962, Pub. L. 87–792, §7(c), 76 Stat. 829; Mar. 8, 1966, Pub. L. 89–365, §1(c), 80 Stat. 32; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(l), 83 Stat. 526; Sept. 2, 1974, Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), 88 Stat. 992, 994; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), 90 Stat. 1765, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, §§239, 266(a), (b), 96 Stat. 514, 547, 550; July 18, 1984, Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), 98 Stat. 772, 794, 958; Oct. 22, 1986, Pub. L. 99–514, title X, §1001(a)–(c), 100 Stat. 2387; Aug. 20, 1996, Pub. L. 104–188, title I, §1402(a), (b)(1), 110 Stat. 1789; Aug. 21, 1996, Pub. L. 104–191, title III, §331(a), 110 Stat. 2067.)
 
 #### Amendments
+
+1996—Subsec. (b). Pub. L. 104–188, §1402(a), struck out subsec. (b) which related to employees’ death benefits.
+
+Subsec. (c). Pub. L. 104–188, §1402(b)(1), substituted “subsection (a)” for “subsection (a) or (b)”.
+
+Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
 1986—Subsec. (d)(1). Pub. L. 99–514, §1001(a), amended second sentence generally, which prior to amendment read as follows: “There shall be excluded from the gross income of such beneficiary in the taxable year received—
 
@@ -230,7 +292,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. 
 
 Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), “Surviving spouse”, which read as follows: “For purposes of this subsection, the term ‘surviving spouse’ means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce.”
 
-1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lumpsum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
+1984—Subsec. (b)(3)(B). Pub. L. 98–369, §713(e), amended subpar. (B) generally, substituting “certain distributions” for “certain lump sum distributions” in heading, substituting “amount paid or distributed” for “lump sum distribution described in the second sentence of paragraph (2)(B)” in introductory text and adding cls. (i) and (ii).
 
 Subsec. (e). Pub. L. 98–369, §421(b)(2), repealed subsec. (e) relating to payments of alimony or of income of an estate or trust in case of divorce, etc.
 
@@ -261,6 +323,12 @@ Subsec. (b)(2)(D). Pub. L. 93–406, §2007(b)(3), substituted “if the member 
 Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
 1958—Subsec. (b)(2)(B). Pub. L. 85–866 substituted “This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—” for “(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)”, and added cls. (i), (ii), and (iii).
+
+#### Effective Date of 1996 Amendments
+
+Section 331(b) of Pub. L. 104–191 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after December 31, 1996.”
+
+Section 1402(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 406, 407, and 7701 of this title\] shall apply with respect to decedents dying after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -308,9 +376,13 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1957, see section 23(g) of Pub. L. 85–866, set out as a note under section 403 of this title.
 
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+
 #### Flexible Premium Contracts Issued During 1984 Which Meet Requirements of Section 7702 Treated as Meeting Requirements of Section 101(f)
 
-Flexible premium contracts issued during 1984 which meet requirements of section 7702 of this title treated as meeting requirements of subsec. (f) of this section,see section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, set out as a note under section 7702 of this title.
+Flexible premium contracts issued during 1984 which meet requirements of section 7702 of this title treated as meeting requirements of subsec. (f) of this section, see section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, set out as a note under section 7702 of this title.
 
 #### Special Rules for Contracts Entered Into Before January 1, 1983
 
@@ -322,7 +394,7 @@ Special rule for contracts entered into before january 1, 1983.—Any contract e
 
 “(3)
 
-Special rule for certain contracts.—Any contract entered into before January 1, 1983, shall be treated as meeting the requirements of subparagraph (A) of section 101(f)(1) of such Code if such contract would meet such requirements if section 101(f)(2)(C) of such Code were applied by substituting ‘3 percent’ for ‘4 percent’.”
+Special rule for certain contracts.—Any contract entered into before January 1, 1983, shall be treated as meeting the requirements of subparagraph (A) ofsection 101(f)(1) of such Code if such contract would meet such requirements if section 101(f)(2)(C) of such Code were applied by substituting ‘3 percent’ for ‘4 percent’.”
 
 #### Cross References
 
@@ -336,5 +408,5 @@ Rules and regulations, see section 7805 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 406, 407, 7701, 7702 of this title; title 40 section 484.
+This section is referred to in sections 72, 818, 6050Q, 7702, 7702B of this title; title 40 section 484.
 

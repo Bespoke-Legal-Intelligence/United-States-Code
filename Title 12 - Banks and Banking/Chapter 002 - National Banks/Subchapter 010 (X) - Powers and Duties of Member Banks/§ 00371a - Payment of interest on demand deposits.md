@@ -24,7 +24,7 @@ Words “(including the Philippine Islands)” following “or any possession th
 
 #### Effective Date of 1980 Amendment
 
-Section 306 of title III of Pub. L. 96–221 provided that: “The amendments made by sections 302, 304, and 305 ofthis title \[amending this section and sections 1464, 1752, 1757, 1763, 1785, and 1828 of this title\] shall take effect at the close of March 31, 1980, and the amendments made by section 303 of this title \[amending section 1832 of this title\] shall take effect on December 31, 1980.”
+Section 306 of title III of Pub. L. 96–221 provided that: “The amendments made by sections 302, 304, and 305 of this title \[amending this section and sections 1464, 1752, 1757, 1763, 1785, and 1828 of this title\] shall take effect at the close of March 31, 1980, and the amendments made by section 303 of this title \[amending section 1832 of this title\] shall take effect on December 31, 1980.”
 
 #### Effective and Termination Dates of 1979 Amendment
 

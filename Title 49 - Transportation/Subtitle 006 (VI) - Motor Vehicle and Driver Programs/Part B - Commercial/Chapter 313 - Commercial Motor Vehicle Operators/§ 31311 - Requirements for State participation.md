@@ -26,7 +26,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(11) The State may issue a commercial driver's license to an individual who has a commercial driver's license issued by another State only if the individual first returns the driver's license issued by the other State.
 
-&emsp;(12) The State may issue a commercial driver's license only to an individual who operatesor will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.
+&emsp;(12) The State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.
 
 &emsp;(13) The State shall impose penalties the State considers appropriate and the Secretary approves for an individual operating a commercial motor vehicle when the individual—
 
@@ -72,7 +72,9 @@ Notification.—Not later than 30 days after being notified by a State of the pr
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 

@@ -24,7 +24,7 @@ In order that the President and the Congress may secure information and assistan
 
 &emsp;(4) Ascertain import costs of such representative articles so selected;
 
-&emsp;(5) Ascertain the grower's, producer's, or manufacturer's selling prices in the principalgrowing, producing, or manufacturing centers of the United States of the articles of the United States so selected; and
+&emsp;(5) Ascertain the grower's, producer's, or manufacturer's selling prices in the principal growing, producing, or manufacturing centers of the United States of the articles of the United States so selected; and
 
 &emsp;(6) Ascertain all other facts which will show the differences in or which affect competition between articles of the United States and imported articles in the principal markets of the United States.
 
@@ -40,7 +40,7 @@ When used in this subdivision and in subdivision (d) of this section—
 
 #### (g) Reports to President and Congress
 
-The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930, a statement of the methods adopted and all expenses incurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under section 1337 of this title during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
+The commission shall put at the disposal of the President of the United States, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, whenever requested, all information at its command, and shall make such investigations and reports as may be requested by the President or by either of said committees or by either branch of the Congress. However, the Commission may not release information which the Commission considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the Commission, or such party subsequently consents to the release of the information. The Commission shall report to Congress on the first Monday of December of each year after June 17, 1930, a statement of the methods adopted and all expensesincurred, a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting. Each such annual report shall include a list of all complaints filed under section 1337 of this title during the year for which such report is being made, the date on which each such complaint was filed, and the action taken thereon, and the status of all investigations conducted by the commission under such section during such year and the date on which each such investigation was commenced.
 
 (June 17, 1930, ch. 497, title III, §332, 46 Stat. 698; Jan. 3, 1975, Pub. L. 93–618, title I, §173, title III, §341(b), 88 Stat. 2010, 2056; July 26, 1979, Pub. L. 96–39, title II, §202(a)(1), 93 Stat. 201; Aug. 23, 1988, Pub. L. 100–418, title I, §1613, 102 Stat. 1262; Nov. 10, 1988, Pub. L. 100–647, title IX, §9001(a)(16), 102 Stat. 3808.)
 
@@ -102,5 +102,5 @@ Importation of intoxicating liquors into any State, Territory, or possession in 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2252, 3011, 3437 of this title; title 16 section 742h.
+This section is referred to in sections 2252, 2463, 3011, 3437 of this title; title 16 section 742h.
 

@@ -1,8 +1,8 @@
 ### §832. Injury or death in line of duty
 
-When any member of the Auxiliary is physically injured or dies as a result of physical injury incurred while performing any specific duty to which he has been assigned by competent Coast Guard authority, such member or his beneficiary shall be entitled to the same benefits provided for temporary members of the Reserve who suffer physical injury or death resulting from physical injury incurred incident to service. Members of the Auxiliary who incur physical injury or contract sickness or disease while performing any specific duty to which they have been assigned by competent Coast Guard authority shall be entitled to the same hospital treatment afforded members of the Coast Guard. The performance of a specific duty as the term is used in this section includes time engaged in traveling back and forth between the place of assigned duty and the permanent residence of a member of the Auxiliary.
+When any member of the Auxiliary is physically injured or dies as a result of physical injury incurred while performing any duty to which he has been assigned by competent Coast Guard authority, such member or his beneficiary shall be entitled to the same benefits provided for temporary members of the Reserve who suffer physical injury or death resulting from physical injury incurred incident to service. Members of the Auxiliary who incur physical injury or contract sickness or disease while performing any duty to which they have been assigned by competent Coast Guard authority shall be entitled to the same hospital treatment afforded members of the Coast Guard. The performance of a duty as the term is used in this section includes time engaged in traveling back and forth between the place of assigned duty and the permanent residence of a member of the Auxiliary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 556; May 14, 1974, Pub. L. 93–283, §1(15), 88 Stat. 141; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(D), 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 556; May 14, 1974, Pub. L. 93–283, §1(15), 88 Stat. 141; Oct. 30, 1984, Pub. L. 98–557, §15(a)(3)(D), 98 Stat. 2865; Oct. 19, 1996, Pub. L. 104–324, title IV, §404(c), 110 Stat. 3924.)
 
 #### Historical and Revision Notes
 
@@ -11,6 +11,8 @@ Based on title 14, U.S.C., 1946 ed., §270 (Feb. 19, 1941, ch. 8, title I, §11,
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+1996—Pub. L. 104–324 struck out “specific” after “performing any” in two places and after “performance of a”.
 
 1984—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men after “treatment afforded”.
 

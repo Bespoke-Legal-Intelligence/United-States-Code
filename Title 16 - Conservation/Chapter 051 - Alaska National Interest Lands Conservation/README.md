@@ -175,7 +175,7 @@
 | (i) | Functions of the Council. |
 | (j) | Cooperative planning. |
 | (k) | Nonacceptance of Council recommendations. |
-| (<i>l)</i> | Termination. |
+| (<i>l</i>) | Termination. |
 | (m) | Public participation. |
 | [3182\.](Subchapter%20005%20%28V%29%20-%20Federal-State%20Cooperation/%C2%A7%2003182%20-%20Federal%20Coordination%20Committee.md) | Federal Coordination Committee. |
 | [3183\.](Subchapter%20005%20%28V%29%20-%20Federal-State%20Cooperation/%C2%A7%2003183%20-%20Bristol%20Bay%20Cooperative%20Region.md) | Bristol Bay Cooperative Region. |

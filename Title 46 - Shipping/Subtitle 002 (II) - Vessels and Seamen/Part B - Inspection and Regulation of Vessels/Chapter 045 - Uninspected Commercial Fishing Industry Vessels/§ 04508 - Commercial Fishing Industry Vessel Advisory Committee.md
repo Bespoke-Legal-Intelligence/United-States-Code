@@ -56,17 +56,19 @@
 
 (4) The provisions of this section relating to an officer or employee of the United States or a member of the Armed Forces do not apply to a member of a reserve component of the Armed Forces unless that member is in an active status.
 
-(e)(1) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) applies to the Committee, except that the Committee terminates on September 30, 1994.
+(e)(1) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) applies to the Committee, except that the Committee terminates on September 30, 2000.
 
 (2) Two years prior to the termination date referred to in paragraph (1) of this subsection, the Committee shall submit to Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
-(Added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1588; amended Pub. L. 101–225, title I, §106, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 102–241, §25, Dec. 19, 1991, 105 Stat. 2217.)
+(Added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1588; amended Pub. L. 101–225, title I, §106, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 102–241, §25, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(b), Oct. 19, 1996, 110 Stat. 3917.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsecs. (b)(5) and (e)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+1996—Subsec. (e)(1). Pub. L. 104–324 substituted “2000” for “1994”.
 
 1991—Subsec. (e)(1). Pub. L. 102–241 substituted “1994” for “1992”.
 

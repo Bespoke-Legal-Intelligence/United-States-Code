@@ -10,9 +10,11 @@ General.—(1) Each certificate issued under section 41102 of this title shall s
 
 &emsp;(B) may not prescribe a term preventing an air carrier from adding or changing schedules, equipment, accommodations, and facilities for providing the authorized transportation to satisfy business development and public demand.
 
-(3) A certificate issued under section 41102 of this title to provide foreign air transportation shall specify the places between which the air carrier is authorized to provide the transportation only to the extent the Secretary considers practicable and otherwise only shall specify each general route to be followed. The Secretary shall authorize an air carrier holding a certificate to provide foreign air transportation to handle and transport mail of countries other than the United States.
+(3) A certificate issued under section 41102 of this title to provide foreign air transportationshall specify the places between which the air carrier is authorized to provide the transportation only to the extent the Secretary considers practicable and otherwise only shall specify each general route to be followed. The Secretary shall authorize an air carrier holding a certificate to provide foreign air transportation to handle and transport mail of countries other than the United States.
 
 (4) A certificate issued under section 41102 of this title to provide foreign charter air transportation shall specify the places between which the air carrier is authorized to provide the transportation only to the extent the Secretary considers practicable and otherwise only shall specify each geographical area in which, or between which, the transportation may be provided.
+
+(5) As prescribed by regulation by the Secretary, an air carrier other than a charter air carrier may provide charter trips or other special services without regard to the places named or type of transportation specified in its certificate.
 
 (b)
 
@@ -26,11 +28,15 @@ Modifying Terms.—(1) An air carrier may file with the Secretary an application
 
 (3) An application under this subsection may not be dismissed under section 41108(b)(1)(C) of this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1123.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1123; Pub. L. 104–287, §5(70), Oct. 11, 1996, 110 Stat. 3396.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -44,7 +50,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(e)(1), 72 Stat. 755; restated July 10, 19
 
 &nbsp;
 
-49 App.:1551(a) (1)(C).
+49 App.:1551(a)(1)(C).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(1)(C); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1744.
 
@@ -60,7 +66,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(e)(3), (4), 72 Stat. 755; restated July 1
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -72,7 +78,7 @@ Aug. 23, 1958, Pub. L. 85–726, §401(e)(2), 72 Stat. 755; restated July 10, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41109(a)(4)
 
@@ -80,17 +86,17 @@ Aug. 23, 1958, Pub. L. 85–726, §401(e)(2), 72 Stat. 755; restated July 10, 19
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41109(b)
 
-49 App.:1371(e) (7)(B).
+49 App.:1371(e)(7)(B).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(e)(7)(B); added Oct. 24, 1978, Pub. L. 95–504, §16, 92 Stat. 1720.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a)(1), the text of 49 App.:1371(e)(1) (words before semicolon related to terminal and intermediate points) is omitted as obsolete because of 49 App.:1551(a)(1)(C) and because interstate and overseas air transportation is no longer regulated. The words “type of” are added for clarity. The word “provided” is substituted for “rendered” for consistency in the revised title.
 
@@ -105,4 +111,16 @@ In subsection (a)(4), the words “or areas” are omitted because of 1:1.
 In subsection (b), the words “condition, or limitation” are omitted as being included in “term”.
 
 In subsection (b)(1), before clause (A), the word “modify” is substituted for “removal or modification” to eliminate unnecessary words. The word “provide” is substituted for “engage in” for consistency in the revised title. In clause (A), the words “provide the carrier an opportunity” are substituted for “set such application” for consistency in the revised title and with other titles of the United States Code. In clause (B), the words “the simplified procedures established by the Board in regulations pursuant to” are omitted as surplus.
+
+#### Pub. L. 104–287
+
+This amends 49:41109(a) to clarify the restatement of 49 App.:1371(e) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1123).
+
+#### Amendments
+
+1996—Subsec. (a)(5). Pub. L. 104–287 added par. (5).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 

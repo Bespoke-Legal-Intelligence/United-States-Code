@@ -9,10 +9,13 @@
 | [V.](Part%20005%20%28V%29%20-%20Shipowners%E2%80%99%20Protection%20and%20Indemnity%20Associations/README.md) | Shipowners’ protection and indemnity associations. |
 | [VI.](Part%20006%20%28VI%29%20-%20Political%20Organizations/README.md) | Political organizations. |
 | [VII.](Part%20007%20%28VII%29%20-%20Certain%20Homeowners%20Associations/README.md) | Certain homeowners associations. |
+| [VIII.](Part%20008%20%28VIII%29%20-%20Qualified%20State%20Tuition%20Programs/README.md) | Qualified State tuition programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+1996—Pub. L. 104–188, title I, §1806(b)(2), Aug. 20, 1996, 110 Stat. 1898, added part VIII heading.
 
 1976—Pub. L. 94–455, title XXI, §2101(d), Oct. 4, 1976, 90 Stat. 1899, added part VII heading.
 
@@ -36,3 +39,4 @@ This subchapter is referred to in section 532, 542, 552 of this title.
 - [Part 005 (V) - Shipowners&#8217; Protection and Indemnity Associations](Part%20005%20%28V%29%20-%20Shipowners%E2%80%99%20Protection%20and%20Indemnity%20Associations/README.md)
 - [Part 006 (VI) - Political Organizations](Part%20006%20%28VI%29%20-%20Political%20Organizations/README.md)
 - [Part 007 (VII) - Certain Homeowners Associations](Part%20007%20%28VII%29%20-%20Certain%20Homeowners%20Associations/README.md)
+- [Part 008 (VIII) - Qualified State Tuition Programs](Part%20008%20%28VIII%29%20-%20Qualified%20State%20Tuition%20Programs/README.md)

@@ -46,7 +46,7 @@ The requirements of subsections (a) and (b) of this section do not apply with re
 
 #### (d) Coordination of action by Secretary with Federal Trade Commission
 
-For the purpose of avoiding unnecessary duplication, the Secretary shall coordinate any action taken under subchapter III of this chapter because of advertising which the Secretary determines causes a food to be misbranded with any action of the Federal Trade Commissionunder the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] with respect to such advertising.
+For the purpose of avoiding unnecessary duplication, the Secretary shall coordinate any action taken under subchapter III of this chapter because of advertising which the Secretary determines causes a food to be misbranded with any action of the Federal Trade Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] with respect to such advertising.
 
 (June 25, 1938, ch. 675, §707, as added Apr. 22, 1976, Pub. L. 94–278, title V, §502(b), 90 Stat. 412.)
 

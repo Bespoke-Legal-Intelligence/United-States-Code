@@ -6,7 +6,9 @@ The Administrator of the Federal Aviation Administration may inspect, classify, 
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -28,5 +30,5 @@ The word “Administrator” in section 606 (1st sentence) of the Federal Aviati
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44701, 44711, 45302, 46301, 46310, 46316, 47531 of this title.
+This section is referred to in sections 106, 44701, 44711, 45302, 46310, 47531 of this title.
 

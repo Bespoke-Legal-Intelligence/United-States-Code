@@ -22,7 +22,7 @@
 
 > payment of principal and interest on such loans.
 
-(B) In the case of a guarantee of any loan to a public or nonprofit private entity under subparagraph (A)(i) which is located in an urban or rural poverty area, the Secretary may pay, to the holder of such loan and for and on behalf of the project for which the loan was made, amounts sufficient to reduce by not more than one half the net effective interest rate otherwise payable on such loan if the Secretary finds that without such assistance the project could not be undertaken.
+(B) In the case of a guarantee of any loan to a public or nonprofit private entity under subparagraph (A)(i) which is located in an urban or rural poverty area, the Secretary may pay, to the holder of such loan and for and on behalf of the project for which the loan was made, amounts sufficient to reduce by not more thanone half the net effective interest rate otherwise payable on such loan if the Secretary finds that without such assistance the project could not be undertaken.
 
 #### (b) Amount of loans for medical facilities projects and such projects in urban or rural poverty areas
 
@@ -30,7 +30,7 @@ The principal amount of a loan directly made or guaranteed under subsection (a) 
 
 #### (c) Limitation on cumulative total of principal of outstanding loans
 
-The cumulative total of the principal of the loans outstanding at any time with respect towhich guarantees have been issued, or which have been directly made, may not exceed such limitations as may be specified in appropriation Acts.
+The cumulative total of the principal of the loans outstanding at any time with respect to which guarantees have been issued, or which have been directly made, may not exceed such limitations as may be specified in appropriation Acts.
 
 #### (d) Administrative assistance of Department of Housing and Urban Development
 

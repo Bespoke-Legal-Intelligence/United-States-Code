@@ -2,7 +2,7 @@
 
 (a) The band of the Marine Corps shall be composed of one director, two assistant directors, and other personnel in such numbers and grades as the Secretary of the Navy determines to be necessary.
 
-(b) The Secretary shall designate the director and assistant directors of the Marine Band from among qualified members of the Marine Corps. Upon the recommendation of the Secretary, a member so designated may be appointed by thePresident, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Marine Corps.
+(b) The Secretary shall designate the director and assistant directors of the Marine Band from among qualified members of the Marine Corps. Upon the recommendation of the Secretary, a member so designated may be appointed by the President, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Marine Corps.
 
 (c) The initial appointment to a commissioned grade of a member designated as director of the Marine Band shall be in the grade of captain, except that a member who, at the time of his designation, holds an appointment in a higher grade may be appointed in that higher grade, but not above lieutenant colonel. The initial appointment of a member designated as assistant director shall be in a grade below captain.
 

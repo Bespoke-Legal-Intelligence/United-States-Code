@@ -12,7 +12,7 @@ Each State in which there are or may be conducted surface coal mining operations
 
 &emsp;(4) a State law which provides for the effective implementations, maintenance, and enforcement of a permit system, meeting the requirements of this subchapter for the regulations of surface coal mining and reclamation operations for coal on lands within the State;
 
-&emsp;(5) establishment of a process for the designation of areas as unsuitable for surface coal mining in accordance with section 1272 of this title provided that the designation of Federal lands unsuitable for mining shall be performedexclusively by the Secretary after consultation with the State; and <sup>1</sup>
+&emsp;(5) establishment of a process for the designation of areas as unsuitable for surface coal mining in accordance with section 1272 of this title provided that the designation of Federal lands unsuitable for mining shall be performed exclusively by the Secretary after consultation with the State; and <sup>1</sup>
 
 &emsp;(6) establishment for the purposes of avoiding duplication, of a process for coordinating the review and issuance of permits for surface coal mining and reclamation operations with any other Federal or State permit process applicable to the proposed operations; and
 

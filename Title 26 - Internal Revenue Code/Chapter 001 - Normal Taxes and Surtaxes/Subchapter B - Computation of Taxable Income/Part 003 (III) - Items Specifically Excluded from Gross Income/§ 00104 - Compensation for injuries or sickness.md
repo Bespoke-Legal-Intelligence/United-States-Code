@@ -6,15 +6,15 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(1) amounts received under workmen's compensation acts as compensation for personal injuries or sickness;
 
-&emsp;(2) the amount of any damages received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal injuries or sickness;
+&emsp;(2) the amount of any damages (other than punitive damages) received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal physical injuries or physical sickness;
 
-&emsp;(3) amounts received through accident or health insurance for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
+&emsp;(3) amounts received through accident or health insurance (or through an arrangement having the effect of accident or health insurance) for personal injuries or sickness (other than amounts received by an employee, to the extent such amounts (A) are attributable to contributions by the employer which were not includible in the gross income of the employee, or (B) are paid by the employer);
 
 &emsp;(4) amounts received as a pension, annuity, or similar allowance for personal injuries or sickness resulting from active service in the armed forces of any country or in the Coast and Geodetic Survey or the Public Health Service, or as a disability annuity payable under the provisions of section 808 of the Foreign Service Act of 1980; and
 
 &emsp;(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a violent attack which the Secretary of State determines to be a terrorist attack and which occurred while such individual was an employee of the United States engaged in the performance of his official duties outside the United States.
 
-> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.
+> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 #### (b) Termination of application of subsection (a)(4) in certain cases
 
@@ -54,19 +54,37 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;In the case of any individual described in paragraph (2), the amounts excludable under subsection (a)(4) for any period with respect to any individual shall not be less than the maximum amount which such individual, on application therefor, would be entitled to receive as disability compensation from the Veterans’ Administration.
 
-#### (c) Cross references
+#### (c) Application of prior law in certain cases
+
+The phrase “(other than punitive damages)” shall not apply to punitive damages awarded in a civil action—
+
+&emsp;(1) which is a wrongful death action, and
+
+&emsp;(2) with respect to which applicable State law (as in effect on September 13, 1995 and without regard to any modification after such date) provides, or has been construed to provide by a court of competent jurisdiction pursuant to a decision issued on or before September 13, 1995, that only punitive damages may be awarded in such an action.
+
+> This subsection shall cease to apply to any civil action filed on or after the first date on which the applicable State law ceases to provide (or is no longer construed to provide) the treatment described in paragraph (2).
+
+#### (d) Cross references
 
 &emsp;&emsp;<b>(1) For exclusion from employee's gross income of employer contributions to accident and health plans, see section 106.</b>
 
 &emsp;&emsp;<b>(2) For exclusion of part of disability retirement pay from the application of subsection (a)(4) of this section, see section 1403 of title 10, United States Code (relating to career compensation laws).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Sept. 8, 1960, Pub. L. 86–723, §51, 74 Stat. 847; Oct. 10, 1962, Pub.L. 87–792, §7(d), 76 Stat. 829; Oct. 4, 1976, Pub. L. 94–455, title V, §505(b), (e)(1), title XIX, §1901(a)(18), 90 Stat. 1567, 1568, 1766; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(e)(1), 94 Stat. 2162; Jan. 14, 1983, Pub. L. 97–473, title I, §101(a), 96 Stat. 2605; Dec. 19, 1989, Pub. L. 101–239, title VII, §7641(a), 103 Stat. 2379.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Sept. 8, 1960, Pub. L. 86–723, §51, 74 Stat. 847; Oct. 10, 1962, Pub. L. 87–792, §7(d), 76 Stat. 829; Oct. 4, 1976, Pub. L. 94–455, title V, §505(b), (e)(1), title XIX, §1901(a)(18), 90 Stat. 1567, 1568, 1766; Oct. 17, 1980, Pub. L. 96–465, title II, §2206(e)(1), 94 Stat. 2162; Jan. 14, 1983, Pub. L. 97–473, title I, §101(a), 96 Stat. 2605; Dec. 19, 1989, Pub. L. 101–239, title VII, §7641(a), 103 Stat. 2379; Aug. 20, 1996, Pub. L. 104–188, title I, §1605(a)–(c), 110 Stat. 1838; Aug. 21, 1996, Pub. L. 104–191, title III, §311(b), 110 Stat. 2053.)
 
 #### References in Text
 
 Section 808 of the Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, title I, §808, Oct. 17, 1980, 94 Stat. 2110, which is classified to section 4048 of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–188, §1605(b), in closing provisions, substituted “For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.” for “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
+
+Subsec. (a)(2). Pub. L. 104–188, §1605(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of any damages received (whether by suit or agreement and whether as lump sums or as periodic payments) on account of personal injuries or sickness;”.
+
+Subsec. (a)(3). Pub. L. 104–191 inserted “(or through an arrangement having the effect of accident or health insurance)” after “accident or health insurance”.
+
+Subsecs. (c), (d). Pub. L. 104–188, §1605(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1989—Subsec. (a). Pub. L. 101–239 inserted at end “Paragraph (2) shall not apply to any punitive damages in connection with a case not involving physical injury or physical sickness.”
 
@@ -89,6 +107,20 @@ Subsecs. (b), (c). Pub. L. 94–455, §505(b), added subsec. (b), redesignated f
 Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 FR 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 FR 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 FR 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under section 311 of Title 15, Commerce and Trade.
+
+#### Effective Date of 1996 Amendments
+
+Section 311(c) of Pub. L. 104–191 provided that: “The amendments made by this section \[amending this section and section 162 of this title\] shall apply to taxable years beginning after December 31, 1996.”
+
+Section 1605(d) of Pub. L. 104–188 provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\], in taxable years ending after such date.
+
+“(2)
+
+Exception.—The amendments made by this section shall not apply to any amount received under a written binding agreement, court decree, or mediation award in effect on (or issued on or before) September 13, 1995.”
 
 #### Effective Date of 1989 Amendment
 
@@ -116,7 +148,7 @@ Amendment by section 505(b) of Pub. L. 94–455 applicable to taxable years begi
 
 Section 505(e)(2) of Pub. L. 94–455 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
-Amendment by section 1901(a)(18)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(18)(A) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1962 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) For each period in which an employee is insured under a policy of insurance purchased by the Office of Personnel Management under section 8709 of this title, a sum equal to one-half the amount which is withheld from the pay of the employee under section 8707 of this title shall be contributed from the appropriation or fund which is used to pay him.
 
-(b) When an employee is paid by the Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House.
+(b) When an employee is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives.
 
 (c) When the employee is an elected official, the sum required by subsection (a) of this section is contributed from an appropriation or fund available for payment of other salaries of the same office or establishment.
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) commences receiving compensation under subchapter I of chapter 81 of this title (because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, §403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, §2, May 29, 1990, 104 Stat. 250.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, §403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, §2, May 29, 1990, 104 Stat. 250; Pub. L. 104–186, title II, §215(18), Aug. 20, 1996, 110 Stat. 1746.)
 
 Historical and Revision Notes
 
@@ -30,7 +30,9 @@ Historical and Revision Notes
 
 <i>U.S. Code</i>
 
-<i>Revised Statutes and Statutes at Large</i>
+<i>Revised Statutes and</i>
+
+<i>Statutes at Large</i>
 
 (a), (c)
 
@@ -48,11 +50,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–303 added subsec. (d).
+1996—Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may contribute the sum required by subsection (a) of this section from the applicable accounts of the House of Representatives.” for “Clerk of the House of Representatives, the Clerk may contribute the sum required by subsection (a) of this section from the contingent fund of the House.”
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+1990—Subsec. (d). Pub. L. 101–303 added subsec. (d).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
+1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
+
+1967—Subsec. (a). Pub. L. 90–206 substituted provisions setting the sum to be withheld at one-half the amount withheld from the pay of the employee under section 8707 of this title for provisions setting the sum to be withheld at a rate to be determined by the Commission not to exceed one-half of the amount withheld under section 8707 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -61,10 +65,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–206 effective on first day of first pay period which begins on or after sixtieth day following December 16, 1967, see section 405(a) of Pub. L. 90–206, set out as a note under section 8704 of this title.
-
-#### Transfer of Functions
-
-Certain functions of Clerk of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
 #### Retroactive Effect of 1967 Amendment
 

@@ -38,7 +38,7 @@ No investment company, unless organized or otherwise created under the laws of t
 
 #### (e) Disclosure by exempt charitable organizations
 
-Each fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title shall provide, to each donor to such fund, at the time of the donation or within 90 days after December 8, 1995, whichever is later, written information describing the material terms of the operation of such fund.
+Each fund that is excluded from the definition of an investment company under section80a–3(c)(10)(B) of this title shall provide, to each donor to such fund, at the time of the donation or within 90 days after December 8, 1995, whichever is later, written information describing the material terms of the operation of such fund.
 
 (Aug. 22, 1940, ch. 686, title I, §7, 54 Stat. 802; Dec. 8, 1995, Pub. L. 104–62, §2(b), 109 Stat. 683.)
 

@@ -6,7 +6,7 @@
 
 (2) The Commissioner shall be compensated at the rate provided for level I of the Executive Schedule.
 
-(3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removedfrom office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
+(3) The Commissioner shall be appointed for a term of 6 years, except that the initial term of office for Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Commissioner's term of office, such Commissioner may continue in office until the entry upon office of such a successor. A Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term. An individual serving in the office of Commissioner may be removed from office only pursuant to a finding by the President of neglect of duty or malfeasance in office.
 
 (4) The Commissioner shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall have authority and control over all personnel and activities thereof.
 
@@ -32,23 +32,31 @@
 
 (4) The Deputy Commissioner shall perform such duties and exercise such powers as the Commissioner shall from time to time assign or delegate. The Deputy Commissioner shall be Acting Commissioner of the Administration during the absence or disability of the Commissioner and, unless the President designates another officer of the Government as Acting Commissioner, in the event of a vacancy in the office of the Commissioner.
 
-#### (c) Chief Financial Officer
+#### (c) Chief Actuary
+
+(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
+
+(2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
+
+#### (d) Chief Financial Officer
 
 There shall be in the Administration a Chief Financial Officer appointed by the Commissioner in accordance with section 901(a)(2) of title 31.
 
-#### (d) Inspector General
+#### (e) Inspector General
 
 There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
 
-(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (<i>l</i>)(1), 98 Stat. 1170, 1171; Aug. 15, 1994, Pub. L. 103–296, title I, §102, 108 Stat. 1465.)
+(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (<i>l</i>)(1), 98 Stat. 1170, 1171; Aug. 15, 1994, Pub. L. 103–296, title I, §102, 108 Stat. 1465; Mar. 29, 1996, Pub. L. 104–121, title I, §103(e)(1), 110 Stat. 851.)
 
 #### References in Text
 
 Levels I and II of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(3), are set out in sections 5312 and 5313, respectively, of Title 5, Government Organization and Employees.
 
-Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (d), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5.
+Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (e), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5.
 
 #### Amendments
+
+1996—Subsecs. (c) to (e). Pub. L. 104–121 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 1994—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary shall perform the duties imposed upon him by this chapter and shall also have the duty of studying and making recommendations as to the most effective methods of providing economic security through social insurance, and as to legislation and matters of administrative policy concerning old-age pensions, unemployment compensation, accident compensation, and related subjects.”
 
@@ -57,6 +65,10 @@ Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (d), i
 Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because “Health, Education, and Welfare” did not appear in text.
 
 1950—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “him” for “it”.
+
+#### Effective Date of 1996 Amendment
+
+Section 103(e)(2) of Pub. L. 104–121 provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -72,7 +84,7 @@ Pub. L. 101–508, title V, §5108, Nov. 5, 1990, 104 Stat. 1388–269, directed
 
 #### Telephone Access to Social Security Administration
 
-Section 302 of Pub. L. 103–296 directed Comptroller General of the United States to submit to Congress, not later than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration's use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
+Section 302 of Pub. L. 103–296 directed Comptroller General of the United States to submit to Congress, notlater than Jan. 31, 1996, report and study of telephone access to local offices of the Social Security Administration, based on independent assessment of Social Security Administration's use of innovative technology (including attendant call and voice mail) to increase public telephone access to local offices of the Administration.
 
 Pub. L. 101–508, title V, §5110, Nov. 5, 1990, 104 Stat. 1388–272, provided that:
 

@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 235, 295<i>o</i>, 300<i>l</i>–2, 12604 of this title; title 38 section 8201.
+This subchapter is referred to in sections 235, 295<i>o</i>, 300<i>l</i>–2, 12604 of this title; title 8 section 1613; title 38 section 8201.
 
 
 ---

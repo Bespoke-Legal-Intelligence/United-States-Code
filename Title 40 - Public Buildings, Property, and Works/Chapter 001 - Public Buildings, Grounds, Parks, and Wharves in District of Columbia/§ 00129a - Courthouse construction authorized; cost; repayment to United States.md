@@ -18,6 +18,18 @@ Functions, powers and duties of Federal Works Administrator transferred to Admin
 
 Except as otherwise provided in Reorg. Plan No. 3 of 1967, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198, classified to section 1–241 of the District of Columbia Code. Accordingly, “Mayor” substituted in text for “commissioners”.
 
+#### E. Barrett Prettyman United States Courthouse Designation
+
+Pub. L. 104–151, July 1, 1996, 110 Stat. 1383, provided that:
+
+#### “SECTION 1. DESIGNATION OF COURTHOUSE.
+
+“The United States courthouse located at 3rd Street and Constitution Avenue, Northwest, in Washington, District of Columbia, shall be designated and known as the ‘E. Barrett Prettyman United States Courthouse’.
+
+#### “SEC. 2. REFERENCES.
+
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in section 1 shall be deemed to be a reference to the ‘E. Barrett Prettyman United States Courthouse’.”
+
 #### Cancellation of District of Columbia's Share of Costs of Courthouse
 
 Pub. L. 91–358, title I, §173(a)(1), July 29, 1970, 84 Stat. 591, provided that: “All outstanding and future obligations of the Commissioner \[now Mayor\] of the District of Columbia with respect to the District of Columbia's share of the cost of construction, operation, maintenance, and repair of the United States courthouse in the District of Columbia, as required by the Act of May 14, 1948 (62 Stat. 235) \[this section\], are canceled upon the effective date of this title \[Feb. 1, 1971\].”

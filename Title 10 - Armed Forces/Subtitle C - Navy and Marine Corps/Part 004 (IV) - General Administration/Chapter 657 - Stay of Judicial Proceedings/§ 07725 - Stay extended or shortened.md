@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 July 3, 1944, ch. 399, §4 (1st, and 9th (less proviso), sentences), 58 Stat. 724.
 
-The words “or suspension”, “either of prosecution of the suit or of the taking of testimony”, “during which the prosecution of such suit or taking of such deposition or production of evidence would tend to endanger the security of the United States or of such operationsin time of war, or to interfere therewith”, “as the case may be”, and “in relation to which it is made shall continue in effect” are omitted as surplusage.
+The words “or suspension”, “either of prosecution of the suit or of the taking of testimony”, “during which the prosecution of such suit or taking of such deposition or production of evidence would tend to endanger the security of the United States or of such operations in time of war, or to interfere therewith”, “as the case may be”, and “in relation to which it is made shall continue in effect” are omitted as surplusage.
 
 #### Section Referred to in Other Sections
 

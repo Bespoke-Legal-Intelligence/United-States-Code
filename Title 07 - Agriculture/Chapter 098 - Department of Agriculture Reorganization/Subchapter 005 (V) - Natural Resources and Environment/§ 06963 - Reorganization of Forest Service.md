@@ -14,7 +14,7 @@ Reorganization proposals that are developed by the Secretary to carry out the de
 
 &emsp;(5) achieving structural and organizational consolidations;
 
-&emsp;(6) to the extent practicable, sharing office space, equipment, vehicles, and electronic systems with other administrative units of theDepartment and other Federal field offices, including proposals for using an on-line system by all administrative units of the Department to maximize administrative efficiency; and
+&emsp;(6) to the extent practicable, sharing office space, equipment, vehicles, and electronic systems with other administrative units of the Department and other Federal field offices, including proposals for using an on-line system by all administrative units of the Department to maximize administrative efficiency; and
 
 &emsp;(7) reorganizing the Service in a manner that will result in a larger percentage of employees of the Service being retained at organizational levels below regional offices, research stations, and the area office of the Service.
 

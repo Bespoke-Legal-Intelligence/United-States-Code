@@ -1,6 +1,6 @@
 ### §1458. Secretary to exercise certain powers over Territories
 
-The Secretary of the Interior shall exercise all the powers and perform all the duties in relationto the Territories of the United States that were, prior to March 1, 1873, by law or by custom exercised and performed by the Secretary of State.
+The Secretary of the Interior shall exercise all the powers and perform all the duties in relation to the Territories of the United States that were, prior to March 1, 1873, by law or by custom exercised and performed by the Secretary of State.
 
 (R.S. §442.)
 
@@ -28,7 +28,7 @@ Sec. 3. The Secretary of the Interior may confer upon the United States District
 
 Sec. 4. The foregoing provisions of this order shall continue in force until the Congress shall provide for the civil administration of Palmyra Island or until such earlier time as the President may specify.
 
-Sec. 5. As used herein, the term “Palmyra Island” means the place of that name, consisting of a group of islets located in the Pacific Ocean approximately at Latitude 5°52G6" North and Longitude 162°06G6" West, and includes the territorial waters of that place and includes also the reefs surrounding that place or any part thereof.
+Sec. 5. As used herein, the term “Palmyra Island” means the place of that name, consisting of a group of islets located in the Pacific Ocean approximately at Latitude 5°52 North and Longitude 162°06 West, and includes the territorial waters of that place and includes also the reefs surrounding that place or any part thereof.
 
 Sec. 6. To the extent that any prior Executive order or proclamation is inconsistent with the provisions of this order, this order shall control.
 

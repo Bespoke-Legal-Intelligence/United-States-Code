@@ -12,7 +12,7 @@ No accrued benefit of a participant or beneficiary may be lower immediately afte
 
 (1) Except as provided in paragraphs (2) and (3), a multiemployer plan which transfers liabilities to a single-employer plan shall be liable to the corporation if the single-employer plan terminates within 60 months after the effective date of the transfer. The amount of liability shall be the lesser of—
 
-&emsp;(A) the amount of the plan asset insufficiency of the terminated single-employer plan,less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 this title, or
+&emsp;(A) the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 this title, or
 
 &emsp;(B) the value, on the effective date of the transfer, of the unfunded benefits transferred to the single-employer plan which are guaranteed under section 1322 of this title.
 
@@ -36,7 +36,7 @@ Benefits under a single-employer plan to which liabilities are transferred in ac
 
 (1) Except as provided in paragraph (2), a multiemployer plan may not transfer liabilities to a single-employer plan unless the plan sponsor of the plan to which the liabilities would be transferred agrees to the transfer.
 
-(2) In the case of a transfer described in subsection (c)(3) of this section, paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who will be obligated to contribute to the single-employer plan.
+(2) In the case of a transfer described in subsection (c)(3) of this section, paragraph (1) of this subsection is satisfied by the advance agreement to the transfer by the employer who willbe obligated to contribute to the single-employer plan.
 
 #### (f) Additional requirements by corporation for protection of interests of plan participants, beneficiaries and corporation; approval by corporation of transfer of assets or liabilities to single-employer plan from plan in reorganization; covered transfers in connection with termination
 

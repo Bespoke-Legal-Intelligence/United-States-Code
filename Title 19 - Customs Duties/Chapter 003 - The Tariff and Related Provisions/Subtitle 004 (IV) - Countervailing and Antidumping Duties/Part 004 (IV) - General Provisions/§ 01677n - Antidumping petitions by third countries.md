@@ -34,13 +34,17 @@ If the administering authority makes an affirmative determination under paragrap
 
 #### (f) Reviews of determinations
 
-For purposes of review under section 1516a of this title or review under section 1675 of this title, if an order is issued under subsection (d) <sup>1</sup> of this section, the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under section 1673d of this title.
+For purposes of review under section 1516a of this title or review under section 1675 of this title, if an order is issued under subsection (e) of this section, the final determinations of the administering authority and the Commission under this section shall be treated as final determinations made under section 1673d of this title.
 
 #### (g) Access to information
 
 Section 1677f of this title shall apply to investigations under this section, to the extent specified by the Trade Representative, after consultation with the administering authority and the Commission.
 
-(June 17, 1930, ch. 497, title VII, §783, as added Dec. 8, 1994, Pub. L. 103–465, title II, §232(a), 108 Stat. 4897.)
+(June 17, 1930, ch. 497, title VII, §783, as added Dec. 8, 1994, Pub. L. 103–465, title II, §232(a), 108 Stat. 4897; amended Oct. 11, 1996, Pub. L. 104–295, §20(b)(17), 110 Stat. 3528.)
+
+#### Amendments
+
+1996—Subsec. (f). Pub. L. 104–295 substituted “subsection (e)” for “subsection (d)”.
 
 #### Effective Date
 

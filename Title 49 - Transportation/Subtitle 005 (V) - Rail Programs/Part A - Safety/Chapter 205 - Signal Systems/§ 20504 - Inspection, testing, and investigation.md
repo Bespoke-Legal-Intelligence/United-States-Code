@@ -22,7 +22,9 @@ Systems Submitted for Investigation and Testing.—The Secretary may investigate
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -36,7 +38,7 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(d); added Feb. 28, 1920, ch. 91, §441
 
 &nbsp;
 
-49 App.:1655(e) (6)(A).
+49 App.:1655(e)(6)(A).
 
 Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(I), (6)(A), 80 Stat. 939.
 
@@ -48,7 +50,7 @@ May 27, 1908, ch. 200, §1 (1st complete par. on p. 325), 35 Stat. 325.
 
 &nbsp;
 
-49 App.:1655(e) (1)(I).
+49 App.:1655(e)(1)(I).
 
 In subsection (a)(1)(B), the words “safe operating condition” are substituted for “proper condition to operate and provide adequate safety” to eliminate unnecessary words.
 

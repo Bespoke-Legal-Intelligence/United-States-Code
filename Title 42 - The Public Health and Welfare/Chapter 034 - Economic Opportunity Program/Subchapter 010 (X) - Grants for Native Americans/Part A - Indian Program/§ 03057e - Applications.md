@@ -50,7 +50,7 @@ Whenever the Assistant Secretary determines not to approve an application submit
 
 Whenever the Assistant Secretary approves an application of a tribal organization under this part, funds shall be awarded for not less than 12 months.
 
-(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960;amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
+(Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960; amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
 
 #### Prior Provisions
 

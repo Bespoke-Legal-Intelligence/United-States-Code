@@ -42,7 +42,7 @@
 
 (1) A loan from a student loan fund assisted under this part may be made only to a student who demonstrates financial need in accordance with part E of this subchapter, who meets the requirements of section 1091 of this title, and who provides the institution with the student's drivers license number, if any, at the time of application for the loan.
 
-(2) If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial needdemonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.
+(2) If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.
 
 #### (c) Contents of loan agreement
 
@@ -88,7 +88,7 @@
 
 (B) No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
 
-(3)(A) The Secretary is authorized, when good cause is shown, to extend, in accordance with regulations, the 10-year maximum repaymentperiod provided for in subparagraph (A) of paragraph (1) with respect to individual loans.
+(3)(A) The Secretary is authorized, when good cause is shown, to extend, in accordance with regulations, the 10-year maximum repayment period provided for in subparagraph (A) of paragraph (1) with respect to individual loans.
 
 (B) Pursuant to uniform criteria established by the Secretary, the repayment period for any student borrower who during the repayment period is a low-income individual may be extended for a period not to exceed 10 years and the repayment schedule may be adjusted to reflect the income of that individual.
 
@@ -154,7 +154,7 @@ Subsec. (a)(4). Pub. L. 102–325, §464(b), added par. (4).
 
 Subsec. (b)(1). Pub. L. 102–325, §464(c)(1), substituted “this subchapter, who meets the requirements of section 1091 of this title, and who provides the institution with the student's drivers license number, if any, at the time of application for the loan” for “this subchapter and who meets the requirements of section 1091 of this title”.
 
-Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's Federal capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students attending the institution less than fulltime, a reasonable proportion of the loans under this part shall be made available to such students.”
+Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's Federal capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the loans under this part shall be made available to such students.”
 
 Subsec. (c)(1)(C)(i). Pub. L. 102–325, §464(d), substituted “$40” for “$30” in two places.
 
@@ -216,7 +216,7 @@ Section 405(b) of Pub. L. 99–498, as amended by Pub. L. 100–50, §22(d), Jun
 
 “(2) The changes made in sections 464(c)(1)(A), 464(c)(2), and 465(a)(2)(E) of the Act \[20 U.S.C. 1087dd(c)(1)(A), (2), 1087ee(a)(2)(E)\] shall apply only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date.
 
-“(3) Section 463(a)(9) and section 463A of the Act \[20 U.S.C. 1087cc(a)(9), 1087cc–1\] as amended by this section shall apply only to loans made for periods of enrollment beginning on or after July 1, 1987.
+“(3) Section 463(a)(9) and section 463A of the Act \[20 U.S.C. 1087cc(a)(9), 1087cc–1\] as amended by this sectionshall apply only to loans made for periods of enrollment beginning on or after July 1, 1987.
 
 “(4) For the purpose of this subsection, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act \[this part\].”
 

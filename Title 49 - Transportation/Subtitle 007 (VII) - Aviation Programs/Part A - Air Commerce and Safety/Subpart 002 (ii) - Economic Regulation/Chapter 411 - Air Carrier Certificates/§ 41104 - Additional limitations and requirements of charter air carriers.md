@@ -6,7 +6,7 @@ Restrictions.—The Secretary of Transportation may prescribe a regulation or is
 
 (b)
 
-Alaska.—An air carrier holding a certificate issued under section 41102 of this title may provide charter air transportation between places in Alaska only to the extent the Secretary decides the transportation is required by public convenience and necessity. The Secretary may make that decision when issuing, amending, or modifying the certificate. This subsection does not apply to a certificate issuedunder section 41102 to a citizen of the United States who, before July 1, 1977—
+Alaska.—An air carrier holding a certificate issued under section 41102 of this title may provide charter air transportation between places in Alaska only to the extent the Secretary decides the transportation is required by public convenience and necessity. The Secretary may make that decision when issuing, amending, or modifying the certificate. This subsection does not apply to a certificate issued under section 41102 to a citizen of the United States who, before July 1, 1977—
 
 &emsp;(1) maintained a principal place of business in Alaska; and
 
@@ -22,7 +22,9 @@ Suspensions.—(1) The Secretary shall suspend for not more than 30 days any par
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -36,13 +38,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(2)–(4); added July 10,
 
 &nbsp;
 
-49 App.:1551(a) (1)(E) (related to 49 App.:1371(n) (4)).
+49 App.:1551(a)(1)(E) (related to 49 App.:1371(n)(4)).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(1)(E) (related to §401(n)(4)); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1744.
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
@@ -52,7 +54,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b) (1)(E); added Oct. 4, 1
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 41104(c)
 
@@ -68,7 +70,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(6); added July 10, 1962,
 
 &nbsp;
 
-49 App.:1551(b) (1)(E).
+49 App.:1551(b)(1)(E).
 
 In subsection (a), the word “rule” is omitted as being synonymous with “regulation”. The words “charter air transportation” are substituted for “charter trips” for consistency in this part. The text of 49 App.:1371(n)(4) and 1551(n)(1)(E) (related to 49 App.:1371(n)(4)) is omitted because inclusive tour charters have been abolished and charter air carriers have received authority to sell public charter flights directly to the public.
 

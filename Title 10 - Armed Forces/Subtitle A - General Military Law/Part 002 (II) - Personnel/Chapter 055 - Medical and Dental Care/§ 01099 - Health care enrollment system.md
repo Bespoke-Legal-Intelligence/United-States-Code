@@ -14,7 +14,7 @@ Description of System.—Such system shall—
 
 (c)
 
-Health Care Plans Available Under System.—A health care plan designated by the Secretary of Defense under the system described in subsection (a) shall provide all health care to which a covered beneficiary is entitled under this chapter. Such a plan may consist of any of the following:
+Health Care Plans Available Under System.—A health care plan designated by theSecretary of Defense under the system described in subsection (a) shall provide all health care to which a covered beneficiary is entitled under this chapter. Such a plan may consist of any of the following:
 
 &emsp;(1) Use of facilities of the uniformed services.
 

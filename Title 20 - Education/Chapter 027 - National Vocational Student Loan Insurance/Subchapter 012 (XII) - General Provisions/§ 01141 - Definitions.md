@@ -42,7 +42,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Sections 2891 and 3063 of this title, referred to in subsecs. (d), (f), (g), (i), and (k), were in the original references to sections 1471 and 4103, respectively, of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, and were omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For definitions, see section 8801 of this title.
 
-The Individuals With Disabilities Education Act, referred to in subsec. (<i>o</i>), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals With Disabilities Education Act, referred to in subsec. (<i>o</i>), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classifiedgenerally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Subsec. (m). Pub. L. 96–374, §1391(b)(3), added subsec. (m).
 
 1976—Subsec. (a). Pub. L. 94–482 inserted sentence which included public or nonprofit private educational institutions which admit as regular students persons beyond the age of compulsory school attendance within definition of “institution of higher learning”.
 
-1972—Subsec. (<i>l</i>). Pub. L. 92–318 added subsec. (<i>l).</i>
+1972—Subsec. (<i>l</i>). Pub. L. 92–318 added subsec. (<i>l</i>).
 
 1970—Subsec. (k). Pub. L. 91–230 added subsec. (k).
 
@@ -120,7 +120,7 @@ Section 1(d) of Pub. L. 95–180 provided that: “Nothing in this Act \[amendin
 
 #### Termination of Trust Territory of the Pacific Islands
 
-### For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Accreditation Through Transfer of Credit
 
@@ -144,7 +144,7 @@ Section 181(b) of Pub. L. 94–482, as added by Pub. L. 95–43, §1(b)(7), prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1088, 1099c, 1115, 1132, 1135f, 1228c, 2002, 2394e, 3902, 4206, 4514, 4702, 5602, 6322, 7601, 8801, 9001 of this title; title 10 sections 2193, 2199; title 18 section 207; title 22 sections 2460, 4502, 4703; title 25 sections 13, 1801, 1813, 3371; title 26 section 135; title 29 sections 631, 706, 721, 1503, 1551, 2202; title 30 section 1291; title 33 section 1262; title 39 section 3626; title 42 sections 1862i, 3002, 3791, 7274e, 9844, 9877, 9910c, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 50 section 1908.
+This section is referred to in sections 1088, 1099c, 1115, 1132, 1135f, 1228c, 2002, 2394e, 3902, 4206, 4514, 4702, 5602, 6322, 7601, 8801, 9001 of this title; title 7 sections 2279c, 3152; title 10 sections 2193, 2199; title 16 section 698u–5; title 18 section 207; title 22 sections 2460, 4502, 4703; title 25 sections 13, 1801, 1813, 3371; title 26 section 135; title 29 sections 631, 706, 721, 1503, 1551, 2202; title 30 section 1291; title 33 section 1262; title 39 section 3626; title 42 sections 1862i, 3002, 3791, 7274e, 9844, 9877, 9910c, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 50 section 1908.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Section 122, act Mar. 3, 1905, ch. 1443, §3, 33 Stat. 1009, provided for admiss
 
 Section 123, acts Mar. 3, 1905, ch. 1443, §4, 33 Stat. 1009; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for detail of officers and employees for leprosy work. See section 215 of this title.
 
-Section 124, acts Mar. 3, 1905, ch. 1443, §6, 33 Stat. 1010; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided regulations for administration of hospital station and laboratory. See section 256 of this title.
+Section 124, acts Mar. 3, 1905, ch. 1443, §6, 33 Stat. 1010; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided regulations for administration of hospital station and laboratory.
 
 Section 125, acts Mar. 3, 1905, ch. 1443, §7, 33 Stat. 1010; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1394; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for additional pay and allowances to officers detailed on leprosy duty. See section 210 of this title.
 

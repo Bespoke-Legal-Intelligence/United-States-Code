@@ -18,7 +18,7 @@ Such rates shall, insofar as practicable, be—
 
 &emsp;(3) adequate, together with the fee under paragraph (1)(B)(iii) or (2) of section 4014(a) of this title, to provide for any administrative expenses of the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title), and
 
-&emsp;(4) stated so as to reflect the basis for such rates, including the differences (if any) between the estimated risk premium rates under section 4014(a)(1) of this title and the estimated rates under section 4014(a)(2) of this title.
+&emsp;(4) stated so as to reflect the basis for such rates, including the differences (if any) between the estimated risk premium rates undersection 4014(a)(1) of this title and the estimated rates under section 4014(a)(2) of this title.
 
 #### (c) Rate with respect to property the construction or substantial improvement of which has been started after December 31, 1974, or effective date of initial rate map published for area in which property is located, whichever is later
 

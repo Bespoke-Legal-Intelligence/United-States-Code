@@ -90,7 +90,7 @@ For each of the fiscal years 1993 and 1994, the amount of the allotment required
 
 #### (2) Tribe or tribal organization as grantee
 
-&emsp;The amount reserved by the Secretary on the basis of a determination under this paragraph <sup>2</sup> shall be granted to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
+&emsp;The amount reserved by the Secretary on the basis of a determination under this paragraph <sup>2</sup> shall be granted to the Indian tribe ortribal organization serving the individuals for whom such a determination has been made.
 
 #### (3) Application
 

@@ -12,13 +12,19 @@ The President may, if he determines it to be in the national interest, issue let
 
 The provisions of the Renegotiation Act of 1951 \[50 App. U.S.C. 1211 et seq.\] do not apply to procurement contracts heretofore or hereafter entered into under this section, section 2769 of this title, or predecessor provisions of law.
 
-(Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat.730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134.)
+#### (d) Competitive pricing
+
+Procurement contracts made in implementation of sales under this section for defense articles and defense services wholly paid for from funds made available on a nonrepayable basis shall be priced on the same costing basis with regard to profit, overhead, independent researchand development, bid and proposal, and other costing elements, as is applicable to procurements of like items purchased by the Department of Defense for its own use.
+
+(Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, §531A(a), Feb. 12, 1996, 110 Stat. 731.)
 
 #### References in Text
 
 The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note set out under section 1211 of Title 50, Appendix.
 
 #### Amendments
+
+1996—Subsec. (d). Pub. L. 104–107 added subsec. (d).
 
 1980—Subsec. (c). Pub. L. 96–533 substituted “procurement contracts” for “contracts for the procurement of defense articles and defense services” and inserted reference to contracts entered into under section 2769 of this title.
 
@@ -30,9 +36,27 @@ Subsec. (b). Pub. L. 94–329, §207(b), substituted provisions authorizing Pres
 
 1973—Pub. L. 93–189 designated text preceding first proviso as subsec. (a) and inserted “Except as otherwise provided in this section,” before “the President”, designated first proviso as subsec. (b) and inserted reference to acceptance of a dependable undertaking of a foreign country or international organization, and struck out further provisions setting forth Presidential powers with respect to sales agreements with and payments by purchasing countries or international organizations.
 
+#### Effective Date of 1996 Amendment; Implementing Regulations
+
+Section 531A(b) of Pub. L. 104–107 provided that: “Section 22(d) of the Arms Export Control Act \[subsec. (d) of this section\], as added by subsection (a)—
+
+&emsp;“(1) shall take effect on the 60th day following the date of the enactment of this Act \[Feb. 12, 1996\];
+
+&emsp;“(2) shall be applicable only to contracts made in implementation of sales made after such effective date; and
+
+&emsp;“(3) shall be implemented by revised procurement regulations, which shall be issued prior to such effective date.”
+
 #### Delegation of Functions
 
 Functions of President under subsec. (a) of this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+
+#### Direct Costs Allowable
+
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §533A\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153, provided that: “Direct costs associated with meeting a foreign customer's additional or unique requirements will continue to be allowable under contracts under section 22(d) of the Arms Export Control Act \[22 U.S.C. 2762(d)\]. Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 104–107, title V, §531A(c), Feb. 12, 1996, 110 Stat. 731.
 
 #### Section Referred to in Other Sections
 

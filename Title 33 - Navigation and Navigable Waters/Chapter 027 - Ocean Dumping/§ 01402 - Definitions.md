@@ -6,7 +6,7 @@ For the purposes of this Act the term—
 
 (b) “Ocean waters” means those waters of the open seas lying seaward of the base line from which the territorial sea is measured, as provided for in the Convention on the Territorial Sea and the Contiguous Zone (15 UST 1606; TIAS 5639).
 
-(c) “Material” means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discarded equipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and other waste; but such term does not mean sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
+(c) “Material” means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discardedequipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and other waste; but such term does not mean sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
 
 (d) “United States” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
@@ -36,7 +36,7 @@ This Act, referred to in text, means Pub. L. 92–532, which is classified gener
 
 For definition of Canal Zone, referred to in subsec. (d), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26\(§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, as amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
@@ -46,7 +46,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Au
 
 1974—Subsec. (c). Pub. L. 93–254, §1(2)(A), substituted “sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
 
-Subsec. (<i>l</i>). Pub. L. 93–254, §1(2)(C), added subsec. (<i>l).</i>
+Subsec. (<i>l</i>). Pub. L. 93–254, §1(2)(C), added subsec. (<i>l</i>).
 
 #### Effective Date of 1974 Amendment
 
@@ -58,7 +58,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Territorial Sea of United States
 

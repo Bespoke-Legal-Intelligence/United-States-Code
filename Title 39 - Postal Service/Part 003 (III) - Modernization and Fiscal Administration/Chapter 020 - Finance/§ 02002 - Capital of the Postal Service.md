@@ -4,7 +4,7 @@
 
 &emsp;(1) Assets shall be valued on the basis of original cost less depreciation, to the extent that such value can be determined. The value recorded on the former Post Office Department's books of account shall be prima facie evidence of asset value.
 
-&emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations madeto, held or used by, or available to the former Post Office Department and all liabilities chargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
+&emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilities chargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
 
 (b) The capital of the Postal Service at any time shall consist of its assets, including the balance in the Fund, less its liabilities.
 
@@ -14,7 +14,7 @@
 
 &emsp;(2) all machinery, equipment, and appurtenances of the former Post Office Department;
 
-&emsp;(3) all real property whose ownership was acquired by the Postmaster General under former section 2103 of this title, as in effect immediately prior to the effective date of this section, or which immediately prior to such effective date, is under the administration of the former Post Office Department for the purpose of constructing a postal building from funds appropriated or transferred to the former Post Office Department, together with all funds appropriated or allocated therefor;
+&emsp;(3) all real property whose ownership was acquired by the Postmaster General under former section 2103 of this title, as in effect immediately prior to the effective date of this section, or which immediately prior to such effective date, is under the administration of the former Post Office Department for thepurpose of constructing a postal building from funds appropriated or transferred to the former Post Office Department, together with all funds appropriated or allocated therefor;
 
 &emsp;(4) all real property 55 percent or more of which is occupied by or under control of the former Post Office Department immediately prior to the effective date of this section;
 

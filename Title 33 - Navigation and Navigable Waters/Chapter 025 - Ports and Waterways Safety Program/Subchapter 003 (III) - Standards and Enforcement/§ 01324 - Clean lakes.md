@@ -54,7 +54,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 &emsp;&emsp;(D) demonstrate environmentally preferred techniques for the removal and disposal of contaminated lake sediments;
 
-&emsp;&emsp;(E) develop improved methods for the removal of silt, stumps, aquatic growth, andother obstructions which impair the quality of lakes;
+&emsp;&emsp;(E) develop improved methods for the removal of silt, stumps, aquatic growth, and other obstructions which impair the quality of lakes;
 
 &emsp;&emsp;(F) construct and evaluate silt traps and other devices or equipment to prevent or abate the deposit of sediment in lakes; and
 

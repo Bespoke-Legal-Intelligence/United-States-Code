@@ -4,7 +4,7 @@
 
 (1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) of this section with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
 
-(2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—
+(2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensationunder the Program for such injury or death and—
 
 &emsp;(i)(I) the United States Court of Federal Claims has issued a judgment under section 300aa–12 of this title on such petition, and
 
@@ -56,7 +56,7 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;&emsp;(III) received the vaccine outside the United States or a trust territory and the vaccine was manufactured by a vaccine manufacturer located in the United States and such person returned to the United States not later than 6 months after the date of the vaccination,
 
-&emsp;&emsp;(ii) if such person did not receive such a vaccine but contracted polio from another person who received an oral polio vaccine, was a citizen of the United States or a dependent of such a citizen,
+&emsp;&emsp;(ii) if such person did not receive such a vaccine but contracted polio from anotherperson who received an oral polio vaccine, was a citizen of the United States or a dependent of such a citizen,
 
 &emsp;&emsp;(C)(i) sustained, or had significantly aggravated, any illness, disability, injury, or condition set forth in the Vaccine Injury Table in association with the vaccine referred to in subparagraph (A) or died from the administration of such vaccine, and the first symptom or manifestation of the onset or of the significant aggravation of any such illness, disability, injury, or condition or the death occurred within the time period after vaccine administration set forth in the Vaccine Injury Table, or
 
@@ -122,7 +122,7 @@ Subsec. (a)(2)(A)(i). Pub. L. 101–239, §6601(c)(2), struck out “under subse
 
 Subsec. (a)(5)(A). Pub. L. 101–239, §6601(c)(3)(A), substituted “petition to have such action dismissed without prejudice or costs” for “elect to withdraw such action”.
 
-Subsec. (a)(5)(B). Pub. L. 101–239, §6601(c)(3)(B), substituted “has pending” for “on October 1, 1988, had pending” and struck out “does not withdraw the action under subparagraph (A)” after “vaccine-related injury or death”.
+Subsec. (a)(5)(B). Pub. L. 101–239, §6601(c)(3)(B), substituted “has pending” for “on October 1, 1988, had pending” and struck out “does not withdraw the actionunder subparagraph (A)” after “vaccine-related injury or death”.
 
 Subsec. (a)(6). Pub. L. 101–239, §6601(c)(4), substituted “November 15, 1988” for “the effective date of this subpart” in two places.
 

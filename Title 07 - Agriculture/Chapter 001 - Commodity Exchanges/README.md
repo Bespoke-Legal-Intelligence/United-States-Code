@@ -142,7 +142,7 @@
 | (i) | Liability of principal for acts of agent. |
 | (j) | Regulations. |
 | (k) | Violations. |
-| (<i>l)</i> | Applicability to contracts prior to effective date. |
+| (<i>l</i>) | Applicability to contracts prior to effective date. |
 | (m) | Authorization. |
 | [16\.](%C2%A7%2000016%20-%20Commission%20operations.md) | Commission operations. |
 | (a) | Cooperation with other agencies. |
@@ -185,10 +185,10 @@
 | (i) | Notice; hearing; findings; cancellation, reduction, or remission of penalties; review by court of appeals. |
 | (j) | Changes or additions to association rules. |
 | (k) | Abrogation of association rules; requests to associations by Commission to alter or supplement rules. |
-| <i>(l)</i> | Suspension and revocation of registration; expulsion of members; removal of association officers or directors. |
+| (<i>l</i>) | Suspension and revocation of registration; expulsion of members; removal of association officers or directors. |
 | (m) | Rules requiring membership in associations. |
 | (n) | Reports to Congress. |
-| (<i>o)</i> | Delegation to futures associations of registrative functions; discretionary review by Commission; judicial appeal. |
+| (<i>o</i>) | Delegation to futures associations of registrative functions; discretionary review by Commission; judicial appeal. |
 | (p) | Establishment of rules for futures associations; approval by Commission. |
 | (q) | Major disciplinary rule violations. |
 | (q) | Program for implementation of rules. |
@@ -210,7 +210,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 15b, 16a, 499n of this title; title 2 section 1602; title 11 section 761; title 12 section 4402; title 15 sections 78c, 78<i>o</i>, 80a–9, 80b–3, 431; title 26 section 277.
+This chapter is referred to in sections 15b, 16a, 499n, 7331 of this title; title 2 section 1602; title 11 section 761; title 12 section 4402; title 15 sections 78c, 78<i>o</i>, 80a–9, 80b–3, 431; title 26 section 277.
 
 
 ---

@@ -54,9 +54,9 @@ In this subchapter—
 
 &emsp;&emsp;(D) acquiring land for, or constructing, a burn area training structure on or off the airport to provide live fire drill training for aircraft rescue and firefighting personnel required to receive the training under regulations the Secretary prescribes, including basic equipment and minimum structures to support the training under standards the Administrator of the Federal Aviation Administration prescribes.
 
-&emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approved by the Secretary under this subchapter.
+&emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocationis necessary to carry out a project approved by the Secretary under this subchapter or under section 40117.
 
-&emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if paid for by a grant under this subchapter and necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
+&emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
@@ -128,11 +128,13 @@ In this subchapter—
 
 &emsp;(20) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221.)
 
 Historical and Revision Notes
 
-<i>Revised Section</i>
+<i>Revised</i>
+
+<i>Section</i>
 
 <i>Source (U.S. Code)</i>
 
@@ -270,7 +272,7 @@ In clause (20), the words “the Commonwealth of” and “the Government of” 
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in par. (3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (3)(F), is Pub. L. 101–336, July 26, 1990, 104Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Clean Air Act, referred to in par. (3)(F), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
@@ -278,7 +280,15 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
+1996—Par. (3)(E). Pub. L. 104–264, §142(b)(1)(A), inserted “or under section 40117” before period at end.
+
+Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out “paid for by a grant under this subchapter and” after “airport, if”.
+
 1994—Par. (3)(B)(ii). Pub. L. 103–305 inserted “, including explosive detection devices and universal access systems,” after “or security equipment”.
+
+#### Effective Date of 1996 Amendment
+
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -286,5 +296,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 44502, 47151, 47501, 49104 of this title; title 19 section 1644a; title 50 App. section 1622.
+This section is referred to in sections 40117, 44502, 47134, 47151, 47501, 50104 of this title; title 19 section 1644a; title 50 App. section 1622.
 

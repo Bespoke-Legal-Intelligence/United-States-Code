@@ -112,7 +112,7 @@ For purposes of this part—
 
 #### (9) Treatment of certain subpart F inclusions
 
-&emsp;Any amount included in gross income under subparagraph (B) or (C) of section 951(a)(1) shall be treated as a distribution received with respect to the stock.
+&emsp;Any amount included in gross income under section 951(a)(1)(B) shall be treated as a distribution received with respect to the stock.
 
 #### (c) Treatment of stock held by pooled income fund
 
@@ -132,11 +132,11 @@ For purposes of this part—
 
 &emsp;Any tangible personal property with respect to which a foreign corporation is the lessee under a lease with a term of at least 12 months shall be treated as an asset actually held by such corporation.
 
-#### (2) Determination of adjusted basis
+#### (2) Amount taken into account
 
 #### (A) In general
 
-&emsp;&emsp;The adjusted basis of any asset to which paragraph (1) applies shall be the unamortized portion (as determined under regulations prescribed by the Secretary) of the present value of the payments under the lease for the use of such property.
+&emsp;&emsp;The amount taken into account under section 1296(a)(2) with respect to any asset to which paragraph (1) applies shall be the unamortized portion (as determined under regulations prescribed by the Secretary) of the present value of the payments under the lease for the use of such property.
 
 #### (B) Present value
 
@@ -156,9 +156,11 @@ For purposes of this part—
 
 &emsp;&emsp;(A) the lessor is a related person (as defined in section 954(d)(3)) with respect to the foreign corporation, or
 
-&emsp;&emsp;(B) a principal purpose of leasing the property was to avoid the provisions of this part or section 956A.
+&emsp;&emsp;(B) a principal purpose of leasing the property was to avoid the provisions of this part.
 
 #### (e) Special rules for certain intangibles
+
+For purposes of this part—
 
 #### (1) Research expenditures
 
@@ -176,7 +178,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) any payments to a foreign person if such foreign person is a related person (as defined in section 954(d)(3)) with respect to the controlled foreign corporation, and
 
-&emsp;&emsp;&emsp;(ii) any payments under a license if a principal purpose of entering into such license was to avoid the provisons <sup>1</sup> of this part or section 956A.
+&emsp;&emsp;&emsp;(ii) any payments under a license if a principal purpose of entering into such license was to avoid the provisons <sup>1</sup> of this part.
 
 #### (3) Controlled foreign corporation
 
@@ -186,9 +188,21 @@ For purposes of this part—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876.)
 
 #### Amendments
+
+1996—Subsec. (b)(9). Pub. L. 104–188, §1501(b)(10), substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)”.
+
+Subsec. (d)(2). Pub. L. 104–188, §1703(i)(5)(B), in heading substituted “Amount taken into account” for “Determination of adjusted basis”.
+
+Subsec. (d)(2)(A). Pub. L. 104–188, §1703(i)(5)(A), substituted “The amount taken into account under section 1296(a)(2) with respect to any asset” for “The adjusted basis of any asset”.
+
+Subsec. (d)(3)(B). Pub. L. 104–188, §1501(b)(11), struck out “or section 956A” after “this part”.
+
+Subsec. (e). Pub. L. 104–188, §1703(i)(6), inserted “For purposes of this part—” after heading.
+
+Subsec. (e)(2)(B)(ii). Pub. L. 104–188, §1501(b)(11), struck out “or section 956A” after “this part”.
 
 1993—Subsec. (b)(9). Pub. L. 103–66, §13231(d)(2), added par. (9).
 
@@ -216,6 +230,12 @@ Subsec. (b)(8). Pub. L. 100–647, §1012(p)(24), added par. (8).
 
 Subsecs. (c), (d). Pub. L. 100–647, §1012(p)(35), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### Effective Date of 1996 Amendment
+
+Amendment by section 1501(b)(10), (11) of Pub. L. 104–188 applicable to taxable years of foreign corporations beginning after Dec. 31, 1996, and to taxable years of United States shareholders within which or with which such taxable years of foreign corporations end, see section 1501(d) of Pub. L. 104–188, set out as a note under section 904 of this title.
+
+Amendment by section 1703(i)(5), (6) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporations beginning after Sept. 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 13231(e) of Pub. L. 103–66, set out as a note under section 951 of this title.
@@ -234,5 +254,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 551, 956A, 1293 of this title.
+This section is referred to in sections 551, 1293 of this title.
 

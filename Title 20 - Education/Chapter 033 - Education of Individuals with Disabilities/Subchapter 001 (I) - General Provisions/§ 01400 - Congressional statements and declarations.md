@@ -82,7 +82,7 @@ Pub. L. 100–630, §1, Nov. 7, 1988, 102 Stat. 3289, provided that: “This Act
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–457, §1(a), Oct. 8, 1986, 100 Stat. 1145, provided that: “This Act \[enacting sections 1408, 1461, 1462, and 1471 to 1485 of this title, amending sections 1401, 1406, 1411 to 1413, 1418, 1419, 1421 to 1424, 1424a, 1425, 1427, 1431 to 1433, 1435, 1441, 1443, 1444, 1452, and 1454 of this title, repealing sections 1403 and 1453 of this title, and enacting provisions set out as notes under sections 1419 and 1485 of this title\] may be cited as the ‘Education of the Handicapped Act Amendments of 1986’.”
+Pub. L. 99–457, §1(a), Oct. 8, 1986, 100 Stat. 1145, provided that: “This Act \[enacting sections 1408, 1461, 1462,and 1471 to 1485 of this title, amending sections 1401, 1406, 1411 to 1413, 1418, 1419, 1421 to 1424, 1424a, 1425, 1427, 1431 to 1433, 1435, 1441, 1443, 1444, 1452, and 1454 of this title, repealing sections 1403 and 1453 of this title, and enacting provisions set out as notes under sections 1419 and 1485 of this title\] may be cited as the ‘Education of the Handicapped Act Amendments of 1986’.”
 
 Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: “This Act \[amending section 1415 of this title and enacting provisions set out as notes under section 1415 of this title\] may be cited as the ‘Handicapped Children's Protection Act of 1986’.”
 

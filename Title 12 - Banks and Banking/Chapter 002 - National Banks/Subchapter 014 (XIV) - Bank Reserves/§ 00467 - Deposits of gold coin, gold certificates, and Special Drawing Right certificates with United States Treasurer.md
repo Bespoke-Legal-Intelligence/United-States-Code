@@ -16,7 +16,7 @@ Section 6 of Act Mar. 14, 1900, as amended by Acts Mar. 7, 1907, Mar. 2, 1911, J
 
 #### Codification
 
-Section is comprised of fifteenth to eighteenth pars. of section 16 of act Dec. 23, 1913, as added June 21, 1917.For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of fifteenth to eighteenth pars. of section 16 of act Dec. 23, 1913, as added June 21, 1917. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ It shall be lawful for the Secretary to receive for internal revenue taxes, or i
 
 #### (1) Ultimate liability
 
-&emsp;If a check or money order so received is not duly paid, the person by whom such check ormoney order has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check or money order had not been tendered.
+&emsp;If a check or money order so received is not duly paid, the person by whom such check or money order has been tendered shall remain liable for the payment of the tax or for the stamps, and for all legal penalties and additions, to the same extent as if such check or money order had not been tendered.
 
 #### (2) Liability of banks and others
 
@@ -25,6 +25,10 @@ It shall be lawful for the Secretary to receive for internal revenue taxes, or i
 #### Effective Date of 1984 Amendment
 
 Section 448(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
+
+#### Required Notice of Certain Payments
+
+Pub. L. 104–168, title XII, §1202, July 30, 1996, 110 Stat. 1470, provided that: “If any payment is received by the Secretary of the Treasury or his delegate from any taxpayer and the Secretary cannot associate such payment with such taxpayer, the Secretary shall makereasonable efforts to notify the taxpayer of such inability within 60 days after the receipt of such payment.”
 
 #### Cross References
 

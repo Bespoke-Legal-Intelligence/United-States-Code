@@ -4,13 +4,11 @@
 
 #### (1) States and units of general local government
 
-&emsp;After reserving amounts under paragraph (2) for Indian tribes and after reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b) of this section. Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
+&emsp;After reserving amounts under paragraph (3) for the insular areas, the Secretary shall allocate funds approved in an appropriation Act to carry out this subchapter by formula as provided in subsection (b) of this section. Of the funds made available under the preceding sentence, the Secretary shall initially allocate 60 percent among units of general local government and 40 percent among States.
 
-#### (2) Indian allocation
+#### (2) Repealed. Pub. L. 104–330, title V, §505(a)(1)(B), Oct. 26, 1996, 110 Stat. 4044
 
-&emsp;For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section.<sup>1</sup> The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.
-
-#### (3) <sup>2</sup> Insular areas
+#### (3) <sup>1</sup> Insular areas
 
 &emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
 
@@ -20,7 +18,7 @@
 
 #### (A) Basic formula
 
-&emsp;&emsp;The Secretary shall establish in <sup>3</sup> regulation an allocation formula that reflects each jurisdiction's share of total need among eligible jurisdiction <sup>4</sup> for an increased supply of affordable housing for very low-income and low-income families of different size, as identified by objective measures of inadequate housing supply, substandard housing, the number of low-income families in housing likely to be in need of rehabilitation, the costs of producing housing, poverty, and the relative fiscal incapacity of the jurisdiction to carry out housing activities eligible under section 12742 of this title without Federal assistance. Allocation among units of general local government shall take into account the housing needs of metropolitan cities, urban counties, and approved consortia of units of general local government.
+&emsp;&emsp;The Secretary shall establish in <sup>2</sup> regulation an allocation formula that reflects eachjurisdiction's share of total need among eligible jurisdiction <sup>3</sup> for an increased supply of affordable housing for very low-income and low-income families of different size, as identified by objective measures of inadequate housing supply, substandard housing, the number of low-income families in housing likely to be in need of rehabilitation, the costs of producing housing, poverty, and the relative fiscal incapacity of the jurisdiction to carry out housing activities eligible under section 12742 of this title without Federal assistance. Allocation among units of general local government shall take into account the housing needs of metropolitan cities, urban counties, and approved consortia of units of general local government.
 
 #### (B) Source of data
 
@@ -40,7 +38,7 @@
 
 #### (F) Consultation
 
-&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultationwith (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
+&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
 
 #### (2) Minimum State allocation
 
@@ -102,9 +100,13 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 &emsp;Unless otherwise specified in this part, any reallocation of funds from a State shall be made only among all participating States, and any reallocation of funds from units of general local government shall be made only among all participating units of general local government.
 
-(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752, 3756.)
+(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752, 3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### Amendments
+
+1996—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
+
+Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
 1992—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
 
@@ -148,7 +150,7 @@ Pub. L. 102–550, §203(b)(3), substituted “formula in subparagraph (A)” fo
 
 Subsec. (b)(1)(F). Pub. L. 102–550, §203(b)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-Pub. L. 102–550, §203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction's allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effectof the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
+Pub. L. 102–550, §203(b)(4), substituted “basic formula in subparagraph (A)” for “basic formula in subparagraph (B)” and struck out at end “If a jurisdiction receives an allocation under subparagraph (A), the Secretary shall make such adjustments in the jurisdiction's allocation under the formula in subparagraph (B) as may be necessary to ensure that the combined effect of the formulas in subparagraphs (A) and (B) does not reduce the allocation of any jurisdiction below the allocation it would receive if allocations were made according to the formula under subparagraph (B) alone.”
 
 Subsec. (b)(1)(G). Pub. L. 102–550, §203(b)(6), redesignated subpar. (G) as (F).
 
@@ -165,6 +167,12 @@ Subsec. (a)(3). Pub. L. 102–229 and Pub. L. 102–230, §1(2), which were enac
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+
+Section 505(b) of Pub. L. 104–330 provided that: “The amendments under subsection (a) \[amending this section and section 12838 of this title\] shall apply with respect to amounts made available for assistance under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\] for fiscal year 1998 and fiscal years thereafter.”
 
 #### Effective Date of 1992 Amendment
 
@@ -184,11 +192,9 @@ Section 211(a)(3) of Pub. L. 102–550 provided that: “The regulation referred
 
 This section is referred to in sections 12705c, 12746, 12748, 12749, 12771, 12831 of this title.
 
-<i><sup>1</sup></i><i> So in original. The words “such section” probably should be “section 12724 of this title”.</i>
+<i><sup>1</sup></i><i> See 1992 Amendment note below.</i>
 
-<i><sup>2</sup></i><i> See 1992 Amendment note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “by”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “by”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “jurisdictions”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “jurisdictions”.</i>
 

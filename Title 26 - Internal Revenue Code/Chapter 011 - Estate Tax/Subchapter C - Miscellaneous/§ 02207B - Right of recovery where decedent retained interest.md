@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any part of the gross estate on which tax has been paid consists of the value of property included in the gross estate by reason of section 2036 (relating to transfers with retained life estate), the decedent's estate shall be entitled to recover from the person receiving the property the amount which bears the same ratio to the total tax under this chapter which has been paid as—
+&emsp;If any part of the gross estate on which tax has been paid consists of the value of property included in the gross estate by reason of section 2036 (relating to transfers with retained life estate), the decedent's estate shall be entitled to recover from the person receiving theproperty the amount which bears the same ratio to the total tax under this chapter which has been paid as—
 
 &emsp;&emsp;(A) the value of such property, bears to
 
@@ -12,7 +12,7 @@
 
 #### (2) Decedent may otherwise direct by will
 
-&emsp;Paragraph (1) shall not apply if the decedent otherwise directs in a provision of his will (ora revocable trust) specifically referring to this section.
+&emsp;Paragraph (1) shall not apply if the decedent otherwise directs in a provision of his will (or a revocable trust) specifically referring to this section.
 
 #### (b) More than one recipient
 

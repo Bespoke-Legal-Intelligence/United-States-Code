@@ -14,7 +14,7 @@ The Secretary shall submit to the Committees on Veterans’ Affairs of the Senat
 
 &emsp;(6) By specialty, the number of positions created and the number of positions abolished during the preceding fiscal year and a summary of the reasons for such actions.
 
-&emsp;(7) The number of unfilled physician and dentist positions in each specialty in the Veterans Health Administration, the average and maximum lengths of time that such positions have been unfilled, and a summary of the reasons that such positions remain unfilled and, in the case of any specialty not designated as a scarce specialty for purposes of special pay under this subchapter, an explanation (including comparisons with other specialties thathave been so designated) of why the specialty has not been so designated.
+&emsp;(7) The number of unfilled physician and dentist positions in each specialty in the Veterans Health Administration, the average and maximum lengths of time that such positions have been unfilled, and a summary of the reasons that such positions remain unfilled and, in the case of any specialty not designated as a scarce specialty for purposes of special pay under this subchapter, an explanation (including comparisons with other specialties that have been so designated) of why the specialty has not been so designated.
 
 (Added Pub. L. 102–40, title I, §102, May 7, 1991, 105 Stat. 198; amended Pub. L. 103–446, title XII, §1201(c)(6), Nov. 2, 1994, 108 Stat. 4684.)
 

@@ -18,7 +18,7 @@ With respect to any individual subject to relocation, the Secretary shall take s
 
 #### (e) Tribal jurisdiction over partitioned lands
 
-(1) <sup>1</sup> Lands partitioned pursuant to this subchapter, whether or not the partition order is subject to appeal, shall be subject to the jurisdiction of the tribe to whom partitioned and the laws of such tribe shall apply to such partitioned lands under the following schedule:
+(1) <sup>1</sup> Lands partitioned pursuant to this subchapter, whether or not the partition order issubject to appeal, shall be subject to the jurisdiction of the tribe to whom partitioned and the laws of such tribe shall apply to such partitioned lands under the following schedule:
 
 &emsp;(A) Effective ninety days after July 8, 1980, all conservation practices, including grazing control and range restoration activities, shall be coordinated and executed with the concurrence of the tribe to whom the particular lands in question have been partitioned, and all such grazing and range restoration matters on the Navajo Reservation lands shall be administered by the Bureau of Indian Affairs Navajo Area Office and on the Hopi Reservation lands by the Bureau of Indian Affairs Phoenix Area Office, under applicable laws and regulations.
 

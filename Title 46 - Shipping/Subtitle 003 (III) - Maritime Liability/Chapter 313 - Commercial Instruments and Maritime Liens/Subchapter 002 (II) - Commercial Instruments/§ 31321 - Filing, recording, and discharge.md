@@ -12,6 +12,10 @@
 
 (3) The parties to an instrument or an application for documentation shall use diligence to ensure that the parts of the instrument or application for which they are responsible are in substantial compliance with the filing and documentation requirements.
 
+(4)(A) A bill of sale, conveyance, mortgage, assignment, or related instrument may be filed electronically under regulations prescribed by the Secretary.
+
+(B) A filing made electronically under subparagraph (A) shall not be effective after the 10-day period beginning on the date of the filing unless the original instrument is provided to the Secretary within that 10-day period.
+
 (b) To be filed, a bill of sale, conveyance, mortgage, assignment, or related instrument must—
 
 &emsp;(1) identify the vessel;
@@ -50,7 +54,7 @@
 
 (h) On full and final discharge of the indebtedness under a mortgage deemed to be a preferred mortgage under section 31322(d) of this title, a mortgagee, on request of the Secretary, a State, or mortgagor, shall provide the Secretary or the State, as appropriate, with an acknowledged certificate of discharge of the indebtedness in a form prescribed by the Secretary or the State, as applicable. If filed with the Secretary, the Secretary shall enter that information in the vessel identification system under chapter 125 of this title.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741; Pub. L. 101–225, title III, §303(2), Dec. 12, 1989, 103 Stat. 1923.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741; Pub. L. 101–225, title III, §303(2), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title III, §305, Oct. 19, 1996, 110 Stat. 3918.)
 
 Historical and Revision Notes
 
@@ -100,7 +104,7 @@ Paragraph (2) provides that each bill of sale, conveyance, mortgage, assignment,
 
 Paragraph (3) provides that it is the responsibility of the parties to an instrument to use diligence to ensure that the particulars of a filed instrument for which they are responsible are in substantial compliance. It is not the responsibility of the Secretary to validate the information in the instrument. If an instrument is later found to be invalid because it is not in substantial compliance, and the parties lose the benefits of a preferred mortgage, it is their fault, not the Secretary's.
 
-Section 31321(b) sets out the requirements that an instrument must meet to be properly filed. To be filed the instruments must: (1) identify the vessel; (2) state the name and address of each party to the instrument; (3) state, if a mortgage, the amount of the direct or contingent obligations (in one or more units of accountas agreed to by the parties) that is or may become secured by the mortgage, excluding interest, expenses, and fees; (4) state the interest of the grantor, mortgagor, or assignor; (5) state the interest sold, conveyed, mortgaged, or assigned; and (6) be signed and acknowledged. While most of these items are required under current law to be included in the index, and therefore required to be submitted to the Secretary to be recorded, this subsection makes a number of substantive changes to law. First, while vessel names are currently required to be submitted, this requirement has been broadened so that hull identification numbers and official numbers can be used to more specifically identify a vessel (since many vessels have the same name). Second, it requires the mortgage to state the maximum amount of the obligation, including principal, interest, fees, etc., that are secured by the mortgage. It also clarifies that the mortgage obligation may be payable in more than one unit of account, such as yen, franc, or special drawing right. Third, it recognizes that under some modern financing practices an instrument may not have a date of maturity. The requirement for supplying the date of maturity has been eliminated.
+Section 31321(b) sets out the requirements that an instrument must meet to be properly filed. To be filed the instruments must: (1) identify the vessel; (2) state the name and address of each party to the instrument; (3) state, if a mortgage, the amount of the direct or contingent obligations (in one or more units of account as agreed to by the parties) that is or may become secured by the mortgage, excluding interest, expenses, and fees; (4) state the interest of the grantor, mortgagor, or assignor; (5) state the interest sold, conveyed, mortgaged, or assigned; and (6) be signed and acknowledged. While most of these items are required under current law to be included in the index, and therefore required to be submitted to the Secretary to be recorded, this subsection makes a number of substantive changes to law. First, while vessel names are currently required to be submitted, this requirement has been broadened so that hull identification numbers and official numbers can be used to more specifically identify a vessel (since many vessels have the same name). Second, it requires the mortgage to state the maximum amount of the obligation, including principal, interest, fees, etc., that are secured by the mortgage. It also clarifies that the mortgage obligation may be payable in more than one unit of account, such as yen, franc, or special drawing right. Third, it recognizes that under some modern financing practices an instrument may not have a date of maturity. The requirement for supplying the date of maturity has been eliminated.
 
 Section 31321(c) provides that if an instrument filed involves a vessel that has not yet been documented, and the Secretary decides that the vessel cannot be documented by the applicant, then the Secretary shall send notice of that denial to the parties, including the reasons for the Secretary's decision. If the parties have not corrected the deficiencies within 90 days, the Secretary may terminate the filing and return the instruments. This invalidates the instruments.
 
@@ -119,6 +123,8 @@ Subsection (g) clarifies that if an application for documentation is filed for a
 When a State preferred mortgage under section 31322(d) is finally discharged, subsection (h) of this section requires the mortgagee to provide upon request to the Secretary or a State, whichever is more appropriate, an acknowledged certificate of discharge of indebtedness. This is necessary when a vessel in the system moves from a participating titling State and is not retitled in another participating State. In this case, there is no way to update the status of the indebtedness through the original titling State. The Secretary is required to accept this information to be maintained in the vessel identification system under section 12503(c) of title 46 (as enacted by this Act).
 
 #### Amendments
+
+1996—Subsec. (a). Pub. L. 104–324 added par. (4).
 
 1989—Subsec. (c). Pub. L. 101–225 substituted “for which an application for documentation is filed” for “that has not yet been documented” in introductory provisions and “interested party to” for “party whose name and address is stated on” in par. (1).
 

@@ -18,7 +18,7 @@
 
 &emsp;(ii) has engaged in fraud in connection with the presentation of a claim under this or any workers’ compensation statute, including, but not limited to, knowingly making false representations, concealing or attempting to conceal material facts with respect to a claim, or soliciting or otherwise procuring false testimony;
 
-&emsp;(iii) has been prohibited from representing claimants before any other workers’ compensation agency for reasons of professional misconduct which are similar in nature to those which would be grounds for disqualification under this paragraph; or
+&emsp;(iii) has been prohibited from representing claimants before any other workers’ compensation agency for reasons of professionalmisconduct which are similar in nature to those which would be grounds for disqualification under this paragraph; or
 
 &emsp;(iv) has accepted fees for representing claimants under this chapter which were not approved, or which were in excess of the amount approved pursuant to section 928 of this title.
 

@@ -32,7 +32,7 @@
 
 #### (5) Information required for release
 
-&emsp;If an examination is conducted, any information required for release shall be provided, either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
+&emsp;If an examination is conducted, any information required for release shall be provided,either electronically or in paper form, to the Customs Service at the port of examination. The absence of such information does not limit the authority of the Customs Service to conduct an examination.
 
 #### (b) Testing laboratories
 
@@ -108,7 +108,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (3) Testing results
 
-&emsp;Upon request by the importer or other party having an interest in detained merchandise, the Customs Service shall provide the partywith copies of the results of any testing conducted by the Customs Service on the merchandise and a description of the testing procedures and methodologies (unless such procedures or methodologies are proprietary to the holder of a copyright or patent or were developed by the Customs Service for enforcement purposes). The results and test description shall be in sufficient detail to permit the duplication and analysis of the testing and the results.
+&emsp;Upon request by the importer or other party having an interest in detained merchandise, the Customs Service shall provide the party with copies of the results of any testing conducted by the Customs Service on the merchandise and a description of the testing procedures and methodologies (unless such procedures or methodologies are proprietary to the holder of a copyright or patent or were developed by the Customs Service for enforcement purposes). The results and test description shall be in sufficient detail to permit the duplication and analysis of the testing and the results.
 
 #### (4) Seizure and forfeiture
 
