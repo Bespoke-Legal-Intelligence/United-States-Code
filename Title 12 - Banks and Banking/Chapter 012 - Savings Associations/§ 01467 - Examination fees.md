@@ -6,7 +6,7 @@ The cost of conducting examinations of savings associations pursuant to section 
 
 #### (b) Examination of affiliates
 
-The cost of conducting examinations of affiliates of savings associations pursuant to thischapter may be assessed by the Director against each affiliate that is examined as the Director deems necessary or appropriate.
+The cost of conducting examinations of affiliates of savings associations pursuant to this chapter may be assessed by the Director against each affiliate that is examined as the Director deems necessary or appropriate.
 
 #### (c) Assessment against association in case of affiliate's refusal to pay
 
@@ -76,7 +76,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (2) Assessments are not Government funds
 
-&emsp;The amounts received by the Director from any assessment under this section shall not be construed to be Government or public funds or appropriated money.
+&emsp;The amounts received by the Director from any assessment under this section shall not beconstrued to be Government or public funds or appropriated money.
 
 #### (3) Assessments are not subject to apportionment of funds
 
@@ -146,7 +146,7 @@ In general.—Except as provided in subparagraph (B), the regulations required t
 
 &emsp;“(B)
 
-Compliance at a later date.—If any association or insured institution demonstrates to the satisfaction of the Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, as the case may be, that it is not feasible for such association or institution to achieve compliance with the regulations referred to in subparagraph (A) by the date contained in such subparagraph, the Board or Corporation may approve a plan submitted by an association or insured institution which allows such association or institution to comply with such regulations at a later date to the extent such later date is the earlier of—
+Compliance at a later date.—If any association or insured institution demonstrates to the satisfaction of the Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, as the case may be, that it is not feasible for such association orinstitution to achieve compliance with the regulations referred to in subparagraph (A) by the date contained in such subparagraph, the Board or Corporation may approve a plan submitted by an association or insured institution which allows such association or institution to comply with such regulations at a later date to the extent such later date is the earlier of—
 
 &emsp;&emsp;“(i) the date by which, in the determination of the Board or Corporation, it is feasible for such association or insured institution to achieve compliance with such regulations; or
 
@@ -155,8 +155,4 @@ Compliance at a later date.—If any association or insured institution demonstr
 #### Sunset and Savings Provision
 
 Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register \[Mar. 30, 1992, 57 F.R. 10763\], with such termination not to be construed to affect or limit any authority of Federal Home Loan Bank Board or Federal Savings and Loan Insurance Corporation to prescribe any regulation or engage in any activity with respect to any association or insured institution under any other provision of law, see section 416 of Pub. L. 100–86, set out as a note under section 1441 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1817 of this title.
 

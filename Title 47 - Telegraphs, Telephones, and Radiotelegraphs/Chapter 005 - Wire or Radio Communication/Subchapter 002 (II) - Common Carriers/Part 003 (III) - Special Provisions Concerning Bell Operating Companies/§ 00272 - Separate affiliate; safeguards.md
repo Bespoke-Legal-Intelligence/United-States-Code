@@ -52,7 +52,7 @@ In its dealings with its affiliate described in subsection (a) of this section, 
 
 #### (1) General requirement
 
-&emsp;A company required to operate a separate affiliate under this section shall obtain andpay for a joint Federal/State audit every 2 years conducted by an independent auditor to determine whether such company has complied with this section and the regulations promulgated under this section, and particularly whether such company has complied with the separate accounting requirements under subsection (b) of this section.
+&emsp;A company required to operate a separate affiliate under this section shall obtain and pay for a joint Federal/State audit every 2 years conducted by an independent auditor to determine whether such company has complied with this section and the regulations promulgated under this section, and particularly whether such company has complied with the separate accounting requirements under subsection (b) of this section.
 
 #### (2) Results submitted to Commission; State commissions
 
@@ -76,7 +76,7 @@ A Bell operating company and an affiliate that is subject to the requirements of
 
 &emsp;(2) shall not provide any facilities, services, or information concerning its provision of exchange access to the affiliate described in subsection (a) of this section unless such facilities, services, or information are made available to other providers of interLATA services in that market on the same terms and conditions;
 
-&emsp;(3) shall charge the affiliate described in subsection (a) of this section, or impute to itself (if using the access for its provision of its own services), an amount for access to its telephone exchange service and exchange access that is no less than the amount charged to any unaffiliated interexchange carriers for such service; and
+&emsp;(3) shall charge the affiliate described in subsection (a) of this section, or impute to itself (if using the access for its provision of its own services), an amount for access to its telephone exchange service and exchange accessthat is no less than the amount charged to any unaffiliated interexchange carriers for such service; and
 
 &emsp;(4) may provide any interLATA or intraLATA facilities or services to its interLATA affiliate if such services or facilities are made available to all carriers at the same rates and on the same terms and conditions, and so long as the costs are appropriately allocated.
 
@@ -113,8 +113,4 @@ A Bell operating company and an affiliate that is subject to the requirements of
 With respect to any activity in which a Bell operating company is engaged on February 8, 1996, such company shall have one year from February 8, 1996, to comply with the requirements of this section.
 
 (June 19, 1934, ch. 652, title II, §272, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 92.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 271 of this title.
 

@@ -20,7 +20,3 @@
 
 Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as a note under section 3505 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3161 of this title.
-

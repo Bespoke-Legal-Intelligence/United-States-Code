@@ -14,7 +14,7 @@
 
 #### (2) Multiple violations
 
-&emsp;On the second and any subsequent conviction of a person of a violation of this chapter under paragraph (1), the person shall be fined under title 18, imprisoned not more than 10 years, or both.
+&emsp;On the second and any subsequent conviction of a person of a violation of this chapterunder paragraph (1), the person shall be fined under title 18, imprisoned not more than 10 years, or both.
 
 #### (b) Civil penalties
 
@@ -42,7 +42,7 @@
 
 #### (3) Settlement of civil penalties
 
-&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civilpenalty that may be assessed under this subsection.
+&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty that may be assessed under this subsection.
 
 #### (4) Finality of orders
 
@@ -65,8 +65,4 @@ The Secretary shall coordinate with the Attorney General to establish guidelines
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7736 of this title.
 

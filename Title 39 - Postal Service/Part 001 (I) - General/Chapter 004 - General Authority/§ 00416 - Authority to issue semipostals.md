@@ -4,7 +4,7 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the PostalService, at a premium, in order to help provide funding for a cause described in subsection (b); and
+&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the Postal Service, at a premium, in order to help provide funding for a cause described in subsection (b); and
 
 &emsp;(2) the term “agency” means an Executive agency within the meaning of section 105 of title 5.
 
@@ -204,19 +204,15 @@ Pub. L. 106–253, §2(b), July 28, 2000, 114 Stat. 636, provided that: “Each 
 
 &emsp;“(3) a description of any significant advances or accomplishments in such year that were funded, in whole or in part, out of amounts received by such agency under such section 416.”
 
-#### Reports by the General Accounting Office
+#### Reports by the Government Accountability Office
 
-Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, provided that:
+Pub. L. 106–253, §2(c), July 28, 2000, 114 Stat. 636, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 “(1)
 
-Interim report.—The General Accounting Office shall submit to the President and each House of Congress an interim report on the operation of the program established under section 416 of title 39, United States Code (as amended by this section) not later than 4 years after semipostals are first made available to the public under such section.
+Interim report.—The Government Accountability Office shall submit to the President and each House of Congress an interim report on the operation of the program established under section 416 of title 39, United States Code (as amended by this section) not later than 4 years after semipostals are first made available to the public under such section.
 
 “(2)
 
-Final report.—The General Accounting Office shall transmit to the President and each House of Congress a final report on the operation of the program established under such section 416, not later than 6 months before the date on which it is scheduled to expire. The final report shall contain a detailed statement of the findings and conclusions of the General Accounting Office, together with any recommendations it considers appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 414 of this title.
+Final report.—The Government Accountability Office shall transmit to the President and each House of Congress a final report on the operation of the program established under such section 416, not later than 6 months before the date on which it is scheduled to expire. The final report shall contain a detailed statement of the findings and conclusions of the Government Accountability Office, together with any recommendations it considers appropriate.”
 

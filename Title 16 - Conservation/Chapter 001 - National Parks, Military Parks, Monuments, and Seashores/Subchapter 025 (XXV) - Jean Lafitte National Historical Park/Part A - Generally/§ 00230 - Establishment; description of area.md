@@ -20,7 +20,3 @@ Designation.—The visitor center at Jean Lafitte National Historical Park, loca
 
 Legal References.—Any reference in any law, regulation, paper, record, map, or any other document of the United States to the visitor center referred to in subsection (a) shall be deemed to be a reference to the ‘Laura C. Hudson Visitor Center’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 230a, 230c of this title.
-

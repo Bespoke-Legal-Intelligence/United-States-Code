@@ -118,7 +118,3 @@ Authority.—The Commandant of the Marine Corps may provide necessary minor main
 
 Funding.—Of the amounts authorized to be appropriated to the Marine Corps for operation and maintenance in a fiscal year, not more than $15,000 may be made available to repair and maintain Pacific battle monuments, except that of the amounts available to the Marine Corps for operation and maintenance in fiscal year 1994, $150,000 may be made available to repair and relocate a monument located on Iwo Jima commemorating the heroic efforts of United States military personnel during World War II.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2103 of this title.
-

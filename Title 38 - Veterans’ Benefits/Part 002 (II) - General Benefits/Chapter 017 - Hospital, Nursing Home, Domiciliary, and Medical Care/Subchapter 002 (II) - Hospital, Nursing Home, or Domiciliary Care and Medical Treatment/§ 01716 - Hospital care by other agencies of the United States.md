@@ -2,7 +2,7 @@
 
 When so specified in an appropriation or other Act, the Secretary may make allotments and transfers to the Departments of Health and Human Services (Public Health Service), the Army, Navy, Air Force, or Interior, for disbursement by them under the various headings of their appropriations, of such amounts as are necessary for the care and treatment of veterans entitled to hospitalization from the Department under this chapter. The amounts to be charged the Department for care and treatment of veterans in hospitals shall be calculated on the basis of a per diem rate approved by the Office of Management and Budget.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §616; Pub. L. 94–581, title II, §202(g), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982,96 Stat. 1313; renumbered §1716 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §616; Pub. L. 94–581, title II, §202(g), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered §1716 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

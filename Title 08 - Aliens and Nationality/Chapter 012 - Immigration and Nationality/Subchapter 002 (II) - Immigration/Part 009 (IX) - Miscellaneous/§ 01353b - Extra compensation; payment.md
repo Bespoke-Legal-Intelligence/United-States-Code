@@ -1,6 +1,6 @@
 ### §1353b. Extra compensation; payment
 
-The said extra compensation shall be paid by the master, owner, agent, or consignee of such vessel or other conveyance arriving in the United States from a foreign port to the Attorney General, who shall pay the same to the several immigration officers and employees entitled thereto as provided in this section and section 1353a of this title. Such extra compensation shall be paid if such officers or employees have been ordered to report for duty and have so reported, whether the actual inspection or examination of passengers or crew takes place or not: <i>Provided,</i> That this section shall not apply to the inspection at designated ports of entry of passengers arriving by international ferries, bridges, or tunnels, or by aircraft, railroad trains, or vessels on the Great Lakes and connecting waterways, when operating on regular schedules.
+The said extra compensation shall be paid by the master, owner, agent, or consignee of suchvessel or other conveyance arriving in the United States from a foreign port to the Attorney General, who shall pay the same to the several immigration officers and employees entitled thereto as provided in this section and section 1353a of this title. Such extra compensation shall be paid if such officers or employees have been ordered to report for duty and have so reported, whether the actual inspection or examination of passengers or crew takes place or not: <i>Provided,</i> That this section shall not apply to the inspection at designated ports of entry of passengers arriving by international ferries, bridges, or tunnels, or by aircraft, railroad trains, or vessels on the Great Lakes and connecting waterways, when operating on regular schedules.
 
 (Mar. 2, 1931, ch. 368, §2, 46 Stat. 1467; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238.)
 
@@ -19,8 +19,4 @@ Functions of all other officers of Department of Justice and functions of all ag
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1353d, 1356 of this title; title 5 section 5549.
 

@@ -64,7 +64,3 @@ For effective date of section, see Regulations; Effective Date note below.
 
 For provisions relating to promulgation of regulations to implement amendment by Pub. L. 100–709 \[enacting this section\], and effective date of such amendment in connection with those regulations, see section 7 of Pub. L. 100–709, set out as a note under section 1637a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1637a of this title.
-

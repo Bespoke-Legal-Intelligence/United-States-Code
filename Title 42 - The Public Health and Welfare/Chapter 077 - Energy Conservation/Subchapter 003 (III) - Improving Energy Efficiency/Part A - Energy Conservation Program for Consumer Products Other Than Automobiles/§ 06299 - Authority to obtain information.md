@@ -16,7 +16,3 @@ Any information submitted by any person to the Secretary or the Commission under
 
 1978—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6316 of this title.
-

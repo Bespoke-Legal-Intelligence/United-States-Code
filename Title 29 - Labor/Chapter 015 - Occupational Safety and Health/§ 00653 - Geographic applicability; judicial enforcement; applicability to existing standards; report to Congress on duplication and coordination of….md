@@ -38,7 +38,3 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 In exercising any authority under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) in connection with amendment made by section 15(a) of Pub. L. 101–637, the Administrator of the Environmental Protection Agency not, for purposes of subsection (b)(1) of this section, to be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health, see section 15(b) of Pub. L. 101–637, set out as a note under section 2646 of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 673 of this title; title 15 section 2608; title 42 section 7412; title 49 section 5107.
-

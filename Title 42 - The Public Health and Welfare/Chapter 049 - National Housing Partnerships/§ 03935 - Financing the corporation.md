@@ -4,7 +4,3 @@ The corporation shall have the power to create and issue the number of shares st
 
 (Pub. L. 90–448, title IX, §905, Aug. 1, 1968, 82 Stat. 548.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 24.
-

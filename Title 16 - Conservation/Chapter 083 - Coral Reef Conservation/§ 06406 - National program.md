@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations, the Secretary may conduct activities to conserve coral reefs and coral reef ecosystems, that are consistent with this chapter, the NationalMarine Sanctuaries Act \[16 U.S.C. 1431 et seq.\], the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\], the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
+Subject to the availability of appropriations, the Secretary may conduct activities to conserve coral reefs and coral reef ecosystems, that are consistent with this chapter, the National Marine Sanctuaries Act \[16 U.S.C. 1431 et seq.\], the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\], the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
 
 #### (b) Authorized activities
 
@@ -29,8 +29,4 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6408 of this title.
 

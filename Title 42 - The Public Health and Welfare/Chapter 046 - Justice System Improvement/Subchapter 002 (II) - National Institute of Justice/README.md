@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3797 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

@@ -56,7 +56,3 @@ Section 6832, Pub. L. 89–10, title III, §3122, as added Pub. L. 103–382, ti
 
 Section 6833, Pub. L. 89–10, title III, §3123, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3644, related to study, evaluation and report of funding alternatives.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6824 of this title.
-

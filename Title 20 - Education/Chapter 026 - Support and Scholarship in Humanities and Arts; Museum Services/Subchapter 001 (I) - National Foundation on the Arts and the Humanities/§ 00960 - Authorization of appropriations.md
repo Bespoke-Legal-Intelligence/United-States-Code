@@ -40,7 +40,7 @@
 
 (3)(A) There are authorized to be appropriated for each fiscal year ending before October 1, 1993, to the National Endowment for the Arts an amount equal to the sum of—
 
-&emsp;(i) the total amounts received by such Endowment, including the value of property donated, bequeathed, or devised to such Endowment, for the purposes set forth in section954(p)(1) of this title pursuant to the authority of section 959(a)(2) of this title; and
+&emsp;(i) the total amounts received by such Endowment, including the value of property donated, bequeathed, or devised to such Endowment, for the purposes set forth in section 954(p)(1) of this title pursuant to the authority of section 959(a)(2) of this title; and
 
 &emsp;(ii) the total amounts received by the grantees of such Endowment from non-Federal sources, including the value of property donated, bequeathed, or devised to such grantees, for use in carrying out activities under subparagraph (A) through subparagraph (F) of section 954(p)(1) of this title;
 
@@ -100,11 +100,11 @@ No grant shall be made to a workshop (other than a workshop conducted by a schoo
 
 (3) Funds made available to carry out section 954a of this title shall remain available until expended.
 
-(Pub. L. 89–209, §11, Sept. 29, 1965, 79 Stat. 853; Pub. L. 90–348, §6, June 18, 1968, 82 Stat. 187; Pub.L. 91–346, §§5(a)(4), 12, July 20, 1970, 84 Stat. 444, 446; Pub. L. 93–133, §2(a)(11), Oct. 19, 1973, 87 Stat. 465; Pub. L. 94–462, title I, §106(a), title III, §302, title IV, §401(b), Oct. 8, 1976, 90 Stat. 1974, 1980, 1981; Pub. L. 94–555, title II, §219(b), Oct. 19, 1976, 90 Stat. 2629; Pub. L. 96–496, title I, §108, Dec. 4, 1980, 94 Stat. 2589; renumbered title I, §11, and amended Pub. L. 98–306, §§2, 7, May 31, 1984, 98 Stat. 223, 224; renumbered §11 and amended Pub. L. 99–194, title I, §§101(1), 111, Dec. 20, 1985, 99 Stat. 1332, 1342; Pub. L. 99–362, §1, July 9, 1986, 100 Stat. 769; Pub. L. 101–512, title III, §318 \[title I, §§103(i)(2), 110\], Nov. 5, 1990, 104 Stat. 1960, 1966, 1972; Pub. L. 103–382, title III, §371, Oct. 20, 1994, 108 Stat. 3977.)
+(Pub. L. 89–209, §11, Sept. 29, 1965, 79 Stat. 853; Pub. L. 90–348, §6, June 18, 1968, 82 Stat. 187; Pub. L. 91–346, §§5(a)(4), 12, July 20, 1970, 84 Stat. 444, 446; Pub. L. 93–133, §2(a)(11), Oct. 19, 1973, 87 Stat. 465; Pub. L. 94–462, title I, §106(a), title III, §302, title IV, §401(b), Oct. 8, 1976, 90 Stat. 1974, 1980, 1981; Pub. L. 94–555, title II, §219(b), Oct. 19, 1976, 90 Stat. 2629; Pub. L. 96–496, title I, §108, Dec. 4, 1980, 94 Stat. 2589; renumbered title I, §11, and amended Pub. L. 98–306, §§2, 7, May 31, 1984, 98 Stat. 223, 224; renumbered §11 and amended Pub. L. 99–194, title I, §§101(1), 111, Dec. 20, 1985, 99 Stat. 1332, 1342; Pub. L. 99–362, §1, July 9, 1986, 100 Stat. 769; Pub. L. 101–512, title III, §318 \[title I, §§103(i)(2), 110\], Nov. 5, 1990, 104 Stat. 1960, 1966, 1972; Pub. L. 103–382, title III, §371, Oct. 20, 1994, 108 Stat. 3977.)
 
 #### References in Text
 
-Section 954(<i>l</i>)(2) of this title, referred to in subsec. (a)(4), was redesignated section 954(p)(3) by Pub. L. 101–512, title III, §318 \[title I, §§103(g)(1), (h)(1), 104(2)\], Nov. 5, 1990, 104 Stat. 1960, 1964, 1965, 1966.
+Section 954(<i>l</i>)(2) of this title, referred to in subsec. (a)(4), was redesignated section 954(p)(3) by Pub. L.101–512, title III, §318 \[title I, §§103(g)(1), (h)(1), 104(2)\], Nov. 5, 1990, 104 Stat. 1960, 1964, 1965, 1966.
 
 #### Prior Provisions
 
@@ -158,7 +158,7 @@ Subsec. (a)(2)(B). Pub. L. 99–194, §111(b)(1)(B), substituted “October 1, 1
 
 Subsec. (a)(3)(A). Pub. L. 99–194, §111(b)(2)(A), substituted “October 1, 1990” for “October 1, 1985” and “$20,580,000 for fiscal year 1986, $21,403,200 for fiscal year 1987, $22,259,328 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” for “$27,000,000 for fiscal year 1981, $30,000,000 for fiscal year 1982, $32,500,000 for fiscal year 1983, $28,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
 
-Subsec. (a)(3)(B). Pub. L. 99–194, §111(b)(2)(B), substituted “October 1, 1990” for “October 1, 1985” and “$19,600,000 for fiscal year 1986, $20,384,000 for fiscal year 1987, $21,199,360 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” for “$30,000,000 for fiscal year 1981, $33,000,000 for fiscal year 1982, $36,000,000 for fiscal year 1983, $20,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
+Subsec. (a)(3)(B). Pub. L. 99–194, §111(b)(2)(B), substituted “October 1, 1990” for “October 1, 1985” and “$19,600,000 for fiscal year 1986, $20,384,000 for fiscal year1987, $21,199,360 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990” for “$30,000,000 for fiscal year 1981, $33,000,000 for fiscal year 1982, $36,000,000 for fiscal year 1983, $20,000,000 for fiscal year 1984, and such sums as may be necessary for fiscal year 1985”.
 
 Subsec. (a)(3)(C). Pub. L. 99–194, §111(b)(2)(C), substituted “either Chairperson” for “either Chairman” and “the Chairperson” for “he”.
 
@@ -204,13 +204,13 @@ Subsec. (a)(1)(B). Pub. L. 94–462, §106(a)(1)(B), substituted provisions auth
 
 Subsec. (a)(1)(C). Pub. L. 94–555 added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 94–462, §106(a)(2), substituted “October 1, 1980” for “July 1, 1976” and provisions authorizing appropriations not to exceed $20,000,000 for fiscal year 1977, $25,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980for provisions authorizing appropriations not to exceed $15,000,000 for fiscal year ending June 30, 1974, $20,000,000 for fiscal year ending June 30, 1975, and $25,000,000 for fiscal year ending June 30, 1976.
+Subsec. (a)(2). Pub. L. 94–462, §106(a)(2), substituted “October 1, 1980” for “July 1, 1976” and provisions authorizing appropriations not to exceed $20,000,000 for fiscal year 1977, $25,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980 for provisions authorizing appropriations not to exceed $15,000,000 for fiscal year ending June 30, 1974, $20,000,000 for fiscal year ending June 30, 1975, and $25,000,000 for fiscal year ending June 30, 1976.
 
 Subsec. (a)(3), (4). Pub. L. 94–462, §§302, 401(b), added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 94–462, §106(a)(3), inserted reference to any program for which the Chairman of the National Endowment for the Arts or the Chairman of the National Endowment for the Humanities is responsible.
 
-1973—Subsec. (a)(1). Pub. L. 93–133 incorporated into subpar. (A) provisions relating to the authorization of appropriation for carrying out section 954(c) of this title, substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, 1976 for such authorization for fiscal years 1969 through 1973, and inserted provisions for authorization of appropriation for carrying out section 954(g) of this title, and, in subpar. (B), incorporated provisions of former subsec. (a) relating to authorization of appropriation for carrying out section 956(c) of this title, and substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, and 1976, for such authorization for 1969 through 1973.
+1973—Subsec. (a)(1). Pub. L. 93–133 incorporated into subpar. (A) provisions relating to the authorization of appropriation for carrying out section 954(c) of this title, substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, 1976 for such authorization for fiscal years 1969 through 1973, and inserted provisions for authorization of appropriation for carrying out section 954(g) of this title, and, in subpar. (B), incorporated provisions of former subsec. (a) relating to authorization of appropriation for carrying outsection 956(c) of this title, and substituted authorization of appropriation for fiscal years ending June 30, 1974, 1975, and 1976, for such authorization for 1969 through 1973.
 
 Subsec. (a)(2). Pub. L. 93–133 incorporated provisions of former subsec. (b) relating to matching grants and substituted new limitations for fiscal years ending June 30, 1974, 1975, and 1976 for such limitations for 1969 through 1973.
 
@@ -245,8 +245,4 @@ Amendment by Pub. L. 93–133 effective on and after July 1, 1973, see section 2
 #### Effective Date of 1970 Amendment
 
 Amendment by section 5(a)(4) of Pub. L. 91–346 effective after June 30, 1970, see section 5(d)(3)(A) of Pub. L. 91–346, set out as a note under section 955 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 955, 956, 957 of this title.
 

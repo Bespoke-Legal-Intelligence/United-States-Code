@@ -54,23 +54,25 @@ Functions of President under this section delegated to Secretary of Defense by s
 
 #### Prohibition of Reductions in Stockpile Goals
 
-Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, §3201, Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
+Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by Pub. L. 99–661, div. C, title II, §3201,Nov. 14, 1986, 100 Stat. 4067, prohibited action before Oct. 1, 1987, to implement or administer any change in a stockpile goal in effect on Oct. 1, 1984, that would result in a reduction in the quality or quantity of any strategic and critical material acquired for the National Defense Stockpile.
 
 #### Materials in the National Defense Stockpile
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
 
+Pub. L. 108–375, div. C, title XXXIII, §3303, Oct. 28, 2004, 118 Stat. 2193.
+
 Pub. L. 107–107, div. C, title XXXIII, §§3301, 3303, 3306(a), Dec. 28, 2001, 115 Stat. 1388, 1389, 1391.
 
 Pub. L. 106–398, §1 \[div. C, title XXXIII, §3303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483.
 
-Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973.
+Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788.
 
 Pub. L. 106–31, title I, §303, May 21, 1999, 113 Stat. 67.
 
 Pub. L. 105–262, title VIII, §8109, Oct. 17, 1998, 112 Stat. 2322.
 
-Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390.
+Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193.
 
 Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390.
 
@@ -122,13 +124,9 @@ Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 
 
 #### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
 
-Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to performand exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, §6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, §6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, set out as a note under sections 1921 to 1929 of the Appendix to this title.
 
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
 
-Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 98e, 98h, 98h–2, 98h–6 of this title.
+Cancellation of obligation of General Services Administration to Federal Facilities Corporation existingby virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
 

@@ -64,7 +64,3 @@ Pub. L. 101–647, §2205(a)(2), redesignated subsec. (f) as (g).
 
 Section 2205(b) of Pub. L. 101–647 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to conduct engaged in after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1993, 2332b, 2339A of this title; title 20 section 1415.
-

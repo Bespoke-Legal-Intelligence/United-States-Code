@@ -306,6 +306,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 1701q–3. | Funds for housing for elderly and persons with disabilities available for cost of maintenance and disposal of such properties. |
 | [1701r.](%C2%A7%2001701r%20-%20Congressional%20findings%20respecting%20housing%20for%20senior%20citizens.md) | Congressional findings respecting housing for senior citizens. |
 | 1701r–1. | Pet ownership in assisted rental housing for the elderly or handicapped. |
 
@@ -3153,7 +3154,7 @@ Repayment.
 
 |  |  |
 | :--- | ---: |
-| 1735f–20. | Authorization of appropriations for general and special risk insurance funds. |
+| 1735f–20. | Authorization of appropriations for General and Special Risk Insurance Funds. |
 | [1735g.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2001735g%20-%20Mortgage%20relief%20for%20homeowners%20who%20are%20unemployed%20as%20result%20of%20closing%20of%20Federal%20installation.md) | Mortgage relief for homeowners who are unemployed as result of closing of Federal installation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3644,7 +3645,7 @@ Utilization of services and facilities of Federal agencies; payment; advances or
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part A—Statewide Plans to Assure Fair Access to Insurance Requirement
+#### Part A—Statewide Plans To Assure Fair Access to Insurance Requirements
 
 |  |
 | :--- |
@@ -3789,10 +3790,6 @@ Preferences.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1715z–13b, 1715z–22, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 113; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 5407, 12709, 12852, 13632; title 48 section 1425.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
@@ -3835,6 +3832,7 @@ This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7,
 - [&sect; 01701q - Supportive housing for the elderly](%C2%A7%2001701q%20-%20Supportive%20housing%20for%20the%20elderly.md)
 - [&sect; 01701q&#8211;1 - Civil money penalties against mortgagors under section 1701q of this title](%C2%A7%2001701q%E2%80%931%20-%20Civil%20money%20penalties%20against%20mortgagors%20under%20section%201701q%20of%20this%20title.md)
 - [&sect; 01701q&#8211;2 - Grants for conversion of elderly housing to assisted living facilities](%C2%A7%2001701q%E2%80%932%20-%20Grants%20for%20conversion%20of%20elderly%20housing%20to%20assisted%20living%20facilities.md)
+- [&sect; 01701q&#8211;3 - Funds for housing for elderly and persons with disabilities available for cost of maintenance and disposal of such properties](%C2%A7%2001701q%E2%80%933%20-%20Funds%20for%20housing%20for%20elderly%20and%20persons%20with%20disabilities%20available%20for%20cost%20of%20maintenance%20and%20disposal%20of%20such%20properties.md)
 - [&sect; 01701r - Congressional findings respecting housing for senior citizens](%C2%A7%2001701r%20-%20Congressional%20findings%20respecting%20housing%20for%20senior%20citizens.md)
 - [&sect; 01701r&#8211;1 - Pet ownership in assisted rental housing for the elderly or handicapped](%C2%A7%2001701r%E2%80%931%20-%20Pet%20ownership%20in%20assisted%20rental%20housing%20for%20the%20elderly%20or%20handicapped.md)
 - [&sect; 01701s - Rent supplement payments for qualified lower income families](%C2%A7%2001701s%20-%20Rent%20supplement%20payments%20for%20qualified%20lower%20income%20families.md)

@@ -40,7 +40,3 @@ Not later than 12 months after submission of the Landsat 7 Data Policy Plan, req
 
 (Pub. L. 102–555, title I, §105, Oct. 28, 1992, 106 Stat. 4170.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5613 of this title.
-

@@ -1,9 +1,5 @@
 Part E—Minority Science and Engineering Improvement Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1068, 1068h of this title.
-
 
 ---
 

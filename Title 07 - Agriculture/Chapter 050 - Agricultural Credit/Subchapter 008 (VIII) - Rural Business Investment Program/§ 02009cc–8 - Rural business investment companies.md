@@ -66,7 +66,3 @@ The Secretary shall ensure that the management of each rural business investment
 
 (Pub. L. 87–128, title III, §384I, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 396.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009cc–3 of this title.
-

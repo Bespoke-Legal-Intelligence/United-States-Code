@@ -1736,10 +1736,6 @@ I74subpart 1—jacob k. javits fellowship program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143, 9515 of this title; title 11 sections 362, 541; title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
-
 
 ---
 

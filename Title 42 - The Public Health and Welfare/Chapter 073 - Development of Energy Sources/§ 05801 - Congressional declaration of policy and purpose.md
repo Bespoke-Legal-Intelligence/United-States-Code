@@ -10,7 +10,7 @@ The Congress finds that, to best achieve these objectives, improve Government op
 
 #### (c) Separation of licensing and regulatory functions of Atomic Energy Commission
 
-The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
+The Congress finds that it is in the public interest that the licensing and related regulatoryfunctions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
 
 #### (d) Small business participation
 
@@ -18,7 +18,7 @@ The Congress declares that it is in the public interest and the policy of Congre
 
 #### (e) Priorities
 
-Determination of priorities which are warranted should be based on such considerations aspower-related values of an energy source, preservation of material resources, reduction of pollutants, export market potential (including reduction of imports), among others. On such a basis, energy sources warranting priority might include, but not be limited to, the various methods of utilizing solar energy.
+Determination of priorities which are warranted should be based on such considerations as power-related values of an energy source, preservation of material resources, reduction of pollutants, export market potential (including reduction of imports), among others. On such a basis, energy sources warranting priority might include, but not be limited to, the various methods of utilizing solar energy.
 
 (Pub. L. 93–438, §2, Oct. 11, 1974, 88 Stat. 1233.)
 
@@ -49,8 +49,4 @@ Energy Research and Development Administration terminated and functions vested b
 #### Executive Order No. 11834
 
 Ex. Ord. No. 11834, eff. Jan. 15, 1975, 40 F.R. 2971, which prescribed Jan. 19, 1975, as the effective date of this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5878a of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-Within six months after September 18, 1978, the Secretary of the Department in which theCoast Guard is operating shall issue regulations which require that any vessel, rig, platform, or other vehicle or structure—
+Within six months after September 18, 1978, the Secretary of the Department in which the Coast Guard is operating shall issue regulations which require that any vessel, rig, platform, or other vehicle or structure—
 
 &emsp;(1) which is used at any time after the one-year period beginning on the effective date of such regulations for activities pursuant to this subchapter and which is built or rebuilt at any time after such one-year period, when required to be documented by the laws of the United States, be documented under the laws of the United States;
 

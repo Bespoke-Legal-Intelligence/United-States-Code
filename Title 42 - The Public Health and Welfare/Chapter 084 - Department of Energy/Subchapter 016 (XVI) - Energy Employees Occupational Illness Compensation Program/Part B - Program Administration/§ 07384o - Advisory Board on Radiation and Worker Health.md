@@ -28,13 +28,27 @@ The Board shall advise the President on—
 
 Members of the Board, other than full-time employees of the United States, while attending meetings of the Board or while otherwise serving at the request of the President, while serving away from their homes or regular places of business, shall be allowed travel and meal expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government serving without pay.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3624\], Oct. 30, 2000, 114 Stat. 1654, 1654A–504.)
+#### (e) Security clearances
+
+(1) The Secretary of Energy shall ensure that the members and staff of the Board, and the contractors performing work in support of the Board, are afforded the opportunity to apply for a security clearance for any matter for which such a clearance is appropriate. The Secretary should, not later than 180 days after receiving a completed application, make a determination whether or not the individual concerned is eligible for the clearance.
+
+(2) For fiscal year 2007 and each fiscal year thereafter, the Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report specifying the number of applications for security clearances under this subsection, the number of such applications granted, and the number of such applications denied.
+
+#### (f) Information
+
+The Secretary of Energy shall, in accordance with law, provide to the Board and the contractors of the Board access to any information that the Board considers relevant to carry out its responsibilities under this subchapter, including information such as Restricted Data (as defined in section 2014(y) of this title) and information covered by the Privacy Act \[5 U.S.C. 552a\].
+
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3624\], Oct. 30, 2000, 114 Stat. 1654, 1654A–504; Pub. L. 108–375, div. C, title XXXI, §3166(a), Oct. 28, 2004, 118 Stat. 2188.)
+
+#### References in Text
+
+The Privacy Act, referred to in subsec. (f), is probably a reference to section 552a of Title 5, Government Organization and Employees. See Short Title note set out under section 552a of Title 5.
+
+#### Amendments
+
+2004—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
 #### Termination of Advisory Boards
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7384n, 7384q of this title.
 

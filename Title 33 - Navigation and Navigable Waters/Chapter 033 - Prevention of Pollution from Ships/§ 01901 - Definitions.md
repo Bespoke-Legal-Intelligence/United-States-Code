@@ -106,6 +106,26 @@ Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities ex
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Interim Authority for Dry Bulk Cargo Residue Disposal
+
+Pub. L. 108–293, title VI, §623, Aug. 9, 2004, 118 Stat. 1063, provided that:
+
+“(a)
+
+Extension of Interim Authority.—The Secretary of the Department in which the Coast Guard is operating shall continue to implement and enforce United States Coast Guard 1997 Enforcement Policy for Cargo Residues on the Great Lakes (hereinafter in this section referred to as the ‘Policy’) or revisions thereto, in accordance with that policy, for the purpose of regulating incidental discharges from vessels of residues of dry bulk cargo into the waters of the Great Lakes under the jurisdiction of the United States, until the earlier of—
+
+&emsp;“(1) the date regulations are promulgated under subsection (b) for the regulation of incidental discharges from vessels of dry bulk cargo residue into the waters of the Great Lakes under the jurisdiction of the United States; or
+
+&emsp;“(2) September 30, 2008.
+
+“(b)
+
+Permanent Authority.—Notwithstanding any other law, the Commandant of the Coast Guard may promulgate regulations governing the discharge of dry bulk cargo residue on the Great Lakes.
+
+“(c)
+
+Environmental Assessment.—No later than 90 days after the date of the enactment of this Act \[Aug. 9, 2004\], the Secretary of the department in which the Coast Guard is operating shall commence the environmental assessment necessary to promulgate the regulations under subsection (b).”
+
 #### Study and Regulation of Great Lakes Cargo Residues
 
 Pub. L. 106–554, §1(a)(4) \[div. A, §1117(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–209, provided that:
@@ -164,7 +184,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### “SEC. 1405. SAFETY EXCEPTION.
 
-“Sections 1403 and 1404 of this title shall not apply to discharges made for the purpose of securing the safety of the cruise vessel or saving life at sea, provided that all reasonable precautions have been taken for the purpose of preventing or minimizing the discharge.
+“Sections 1403 and 1404 of this title shall not apply to discharges made for the purpose of securing the safetyof the cruise vessel or saving life at sea, provided that all reasonable precautions have been taken for the purpose of preventing or minimizing the discharge.
 
 #### “SEC. 1406. INSPECTION AND SAMPLING REGIME.
 

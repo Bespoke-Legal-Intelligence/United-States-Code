@@ -12,7 +12,7 @@ The Secretary of the Army is authorized to allot from any appropriations heretof
 
 1986—Pub. L. 99–662 substituted “$40,000,000” for “$30,000,000” and “$5,000,000” for “$4,000,000”.
 
-1981—Pub. L. 97–140 substituted “Not more than $4,000,000 shall be allotted under this section for a project at any single locality” for “Not more than $2,000,000 shall be allotted under this section for a project in any single locality, except that not more than $3,000,000 shall be allotted under this section for a project at a single locality if such project protects an area which has been declared to be a major disaster area pursuant to the Disaster Relief Act of 1966 or theDisaster Relief Act of 1970 in the five-year period immediately preceding the date the Chief of Engineers deems such work advisable”.
+1981—Pub. L. 97–140 substituted “Not more than $4,000,000 shall be allotted under this section for aproject at any single locality” for “Not more than $2,000,000 shall be allotted under this section for a project in any single locality, except that not more than $3,000,000 shall be allotted under this section for a project at a single locality if such project protects an area which has been declared to be a major disaster area pursuant to the Disaster Relief Act of 1966 or the Disaster Relief Act of 1970 in the five-year period immediately preceding the date the Chief of Engineers deems such work advisable”.
 
 1976—Pub. L. 94–587 increased limitation on allotment for a project at a single locality from $1,000,000 to $2,000,000 and for such a project protecting a major disaster area from $2,000,000 to $3,000,000.
 
@@ -35,8 +35,4 @@ Section 2(b) of Pub. L. 97–140 provided that: “The amendment made by this se
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–587 not applicable to any project under contract for construction on Oct. 22, 1976, see section 133(c) of Pub. L. 94–587, set out as a note under section 577 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2282, 2290 of this title.
 

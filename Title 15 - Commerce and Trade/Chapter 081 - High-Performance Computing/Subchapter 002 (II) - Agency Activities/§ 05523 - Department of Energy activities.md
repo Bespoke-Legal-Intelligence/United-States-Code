@@ -48,9 +48,5 @@ December 21, 1995, referred to in subsec. (d), was in the original “the date o
 
 1995—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5511 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be a semicolon.</i>
 

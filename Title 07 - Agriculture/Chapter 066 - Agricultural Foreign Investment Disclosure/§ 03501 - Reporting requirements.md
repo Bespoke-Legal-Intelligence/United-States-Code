@@ -22,7 +22,7 @@ Any foreign person who acquires or transfers any interest, other than a security
 
 &emsp;&emsp;(B) in any case in which such transferee is not an individual or a government, the nature of the legal entity holding the interest, the country in which such transferee is created or organized, and the principal place of business of such transferee;
 
-&emsp;(8) the agricultural purposes for which such foreign person intends, on the date on whichsuch report is submitted to the Secretary, to use such agricultural land; and
+&emsp;(8) the agricultural purposes for which such foreign person intends, on the date on which such report is submitted to the Secretary, to use such agricultural land; and
 
 &emsp;(9) such other information as the Secretary may require by regulation.
 
@@ -52,7 +52,7 @@ Any foreign person who holds any interest, other than a security interest, in ag
 
 #### (c) Change in foreign person status of interest holders
 
-Any person who holds or acquires (on or after the effective date of this section) any interest, other than a security interest, in agricultural land at a time when such person is not a foreign person and who subsequently becomes a foreign person shall submit a report to the Secretary not later than 90 days after the date on which such person becomes a foreign person. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain the information required by subsection (b) of this section. This subsection shall not apply with respect to any person who is required to submit a report with respect to such land under subsection (b) of this section.
+Any person who holds or acquires (on or after the effective date of this section) any interest,other than a security interest, in agricultural land at a time when such person is not a foreign person and who subsequently becomes a foreign person shall submit a report to the Secretary not later than 90 days after the date on which such person becomes a foreign person. Such report shall be submitted in such form and in accordance with such procedures as the Secretary may require and shall contain the information required by subsection (b) of this section. This subsection shall not apply with respect to any person who is required to submit a report with respect to such land under subsection (b) of this section.
 
 #### (d) Conversion of land to agricultural uses
 
@@ -95,10 +95,6 @@ Section 10 of Pub. L. 95–460 provided that:
 #### Short Title
 
 Section 1 of Pub. L. 95–460 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Foreign Investment Disclosure Act of 1978’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3502, 3503, 3505, 3506 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
 

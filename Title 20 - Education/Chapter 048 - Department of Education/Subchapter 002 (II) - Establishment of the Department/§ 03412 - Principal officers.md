@@ -36,7 +36,7 @@ There shall be in the Department an Inspector General appointed in accordance wi
 
 #### (d) Under Secretary of Education
 
-There may be in the Department an Under Secretary of Education who shall perform such functions as the Secretary may prescribe. TheUnder Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+There may be in the Department an Under Secretary of Education who shall perform such functions as the Secretary may prescribe. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (e) Additional officers
 
@@ -90,7 +90,7 @@ The Assistant Secretary for Vocational and Adult Education, in addition to perfo
 
 &emsp;&emsp;(iii) education programs located in, and regarding, rural areas.
 
-(Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, §402(1), Nov. 5, 2002, 116 Stat. 1984.)
+(Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L.103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, §402(1), Nov. 5, 2002, 116 Stat. 1984.)
 
 #### References in Text
 
@@ -153,8 +153,4 @@ Special Rule.—An incumbent in a position within the Department of Education on
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of Education, see section 529 \[title I, §112(e)\] of Pub. L. 101–509, set out as a note under section 3404 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3413, 3414, 3415, 3416, 3417, 3421, 3473 of this title.
 

@@ -50,7 +50,3 @@ Changes were made in phraseology.
 
 A prior section 543, act June 25, 1948, ch. 646, 62 Stat. 911, related to oath of office for United States Marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 563 of this title by section 4(c) of Pub. L. 89–554.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 519, 544, 548 of this title.
-

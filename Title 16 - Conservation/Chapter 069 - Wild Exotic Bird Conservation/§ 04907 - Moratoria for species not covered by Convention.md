@@ -26,7 +26,3 @@ The Secretary shall terminate a quota or moratorium established under subsection
 
 (Pub. L. 102–440, title I, §108, Oct. 23, 1992, 106 Stat. 2229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4910 of this title.
-

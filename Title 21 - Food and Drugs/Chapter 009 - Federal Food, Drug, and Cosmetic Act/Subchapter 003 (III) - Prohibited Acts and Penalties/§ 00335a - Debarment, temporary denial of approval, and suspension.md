@@ -4,7 +4,7 @@
 
 #### (1) Corporations, partnerships, and associations
 
-&emsp;If the Secretary finds that a person other than an individual has been convicted, after May 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such person from submitting, or assisting in the submission of, any such application.
+&emsp;If the Secretary finds that a person other than an individual has been convicted, afterMay 13, 1992, of a felony under Federal law for conduct relating to the development or approval, including the process for development or approval, of any abbreviated drug application, the Secretary shall debar such person from submitting, or assisting in the submission of, any such application.
 
 #### (2) Individuals
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(III) knew that the actions described in subclause (I) were violative of law, and
 
-&emsp;&emsp;&emsp;(IV) did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs was not undermined, within a reasonable time after such agent first knew of such actions,
+&emsp;&emsp;&emsp;(IV) did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs wasnot undermined, within a reasonable time after such agent first knew of such actions,
 
 > &emsp;&emsp;if the Secretary finds that the type of conduct which served as the basis for such other individual's conviction undermines the process for the regulation of drugs.
 
@@ -168,7 +168,7 @@
 
 #### (i) Conviction reversal
 
-&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of an individual under subsection (a)(2) of this section or clause (i), (ii), (iii), or (iv) of subsection\(b)(2)(B) or subsection (b)(3) of this section is reversed, the Secretary shall withdraw the order of debarment.
+&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of an individual under subsection (a)(2) of this section or clause (i), (ii), (iii), or (iv) of subsection (b)(2)(B) or subsection (b)(3) of this section is reversed, the Secretary shall withdraw the order of debarment.
 
 #### (ii) Application
 
@@ -272,7 +272,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;(B) such person is under an active investigation by a Federal authority in connection with a civil or criminal action involving conduct described in subparagraph (A),
 
-> &emsp;the Secretary shall issue an order suspending the distribution of all drugs the development or approval of which was related to such conduct described in subparagraph (A) or suspending the distribution of all drugs approved under abbreviated drug applications of such person if the Secretary finds that such conduct may have affected the development or approval of a significant number of drugs which the Secretary is unable to identify. The Secretary shall exclude a drug from such order if the Secretary determines that such conduct was not likely to have influenced the safety or efficacy of such drug.
+> &emsp;the Secretary shall issue an order suspending the distribution of all drugs the development or approval of which was related to such conduct described in subparagraph (A) or suspending the distribution of all drugs approved under abbreviated drug applications of such person if the Secretary finds that such conduct may have affected the development or approval of a significant number of drugs whichthe Secretary is unable to identify. The Secretary shall exclude a drug from such order if the Secretary determines that such conduct was not likely to have influenced the safety or efficacy of such drug.
 
 #### (2) Public health waiver
 
@@ -292,7 +292,7 @@ The Secretary shall withdraw an order of suspension of the distribution of a dru
 
 &emsp;(2) the initial determination was in error.
 
-> The Secretary shall act on a submission of a petition under this subsection within 180 days of the date of its submission and the Secretary may consider the petition concurrently with thesuspension proceeding. Any information submitted to the Secretary under this subsection does not constitute an amendment or supplement to a pending or approved abbreviated drug application.
+> The Secretary shall act on a submission of a petition under this subsection within 180 days of the date of its submission and the Secretary may consider the petition concurrently with the suspension proceeding. Any information submitted to the Secretary under this subsection does not constitute an amendment or supplement to a pending or approved abbreviated drug application.
 
 #### (i) Procedure
 
@@ -330,7 +330,7 @@ Any application for approval of a drug product shall include—
 
 #### (2) Effective dates
 
-&emsp;Subsection (a) of this section, subparagraph (A) of subsection (b)(2) of this section, clauses (i) and (ii) of subsection (b)(2)(B) of this section, and subsection (b)(3)(A) of this section shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b) of this section. Clauses (iii) and (iv) of subsection (b)(2)(B) of this section, subsection (b)(3)(B) of this section, and subsections (f) and (g) of this section shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g) of this section. Clause (iv) of subsection (b)(2)(B) of this section shall not apply to an action which occurred before June 1, 1992. Subsection (k) of this section shall not apply to applications submitted to the Secretary before June 1, 1992.
+&emsp;Subsection (a) of this section, subparagraph (A) of subsection (b)(2) of this section, clauses (i) and (ii) of subsection (b)(2)(B) of this section, and subsection (b)(3)(A) of this section shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b) of this section. Clauses (iii) and (iv) of subsection (b)(2)(B) of this section, subsection (b)(3)(B) of this section, and subsections (f) and (g) of this section shall not apply to an act or action which occurred more than 5 years before the initiation of an agencyaction proposed to be taken under subsection (b), (f), or (g) of this section. Clause (iv) of subsection (b)(2)(B) of this section shall not apply to an action which occurred before June 1, 1992. Subsection (k) of this section shall not apply to applications submitted to the Secretary before June 1, 1992.
 
 #### (m) Devices; mandatory debarment regarding third-party inspections and reviews
 
@@ -350,7 +350,7 @@ Any application for approval of a drug product shall include—
 
 &emsp;Subsections (c)(3), (d), (e), (i), (j), and (<i>l</i>)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
 
-(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997,111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
+(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
 
 #### Prior Provisions
 
@@ -399,10 +399,6 @@ Section 1(c) of Pub. L. 102–282 provided that: “The Congress finds that—
 &emsp;“(2) there is a need to establish procedures designed to restore and to ensure the integrity of the abbreviated drug application approval process and to protect the public health, and
 
 &emsp;“(3) there is a need to establish procedures to bar individuals who have been convicted of crimes pertaining to the regulation of drug products from working for companies that manufacture or distribute such products.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 331, 335b, 381 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

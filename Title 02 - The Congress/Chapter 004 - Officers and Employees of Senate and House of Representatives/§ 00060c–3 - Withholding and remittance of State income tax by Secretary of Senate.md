@@ -26,7 +26,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 &emsp;(A) when the Secretary first enters into an agreement with a State, a request for withholdings shall be effective on such date as the Secretary may determine; and
 
-&emsp;(B) when an individual first receives an appointment, the request shall be effective onthe day of appointment, if the individual makes the request at the time of appointment.
+&emsp;(B) when an individual first receives an appointment, the request shall be effective on the day of appointment, if the individual makes the request at the time of appointment.
 
 (3) An individual may change the State designated by him for the purposes of having withholdings made and request that the withholdings be remitted in accordance with such change, and he may also revoke his request for withholdings. Any change in the State designated or revocation is effective on the first day of the first month commencing after the day on which the request for change or the revocation is received in the Disbursing Office.
 

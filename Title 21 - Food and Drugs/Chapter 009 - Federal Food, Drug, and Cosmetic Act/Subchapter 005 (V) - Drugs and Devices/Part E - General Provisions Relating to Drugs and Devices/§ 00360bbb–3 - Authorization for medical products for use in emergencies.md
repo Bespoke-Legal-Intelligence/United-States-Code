@@ -36,7 +36,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary may declare an emergency justifying the authorization under this subsection for a product on the basis of a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a specified biological, chemical, radiological, or nuclear agent or agents.
+&emsp;The Secretary may declare an emergency justifying the authorization under this subsection for a product on the basis of—
+
+&emsp;&emsp;(A) a determination by the Secretary of Homeland Security that there is a domestic emergency, or a significant potential for a domestic emergency, involving a heightened risk of attack with a specified biological, chemical, radiological, or nuclear agent or agents;
+
+&emsp;&emsp;(B) a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a specified biological, chemical, radiological, or nuclear agent or agents; or
+
+&emsp;&emsp;(C) a determination by the Secretary of a public health emergency under section 247d of title 42 that affects, or has a significant potential to affect, national security, and that involves a specified biological, chemical, radiological, or nuclear agent or agents, or a specified disease or condition that may be attributable to such agent or agents.
 
 #### (2) Termination of declaration
 
@@ -44,7 +50,7 @@
 
 &emsp;&emsp;A declaration under this subsection shall terminate upon the earlier of—
 
-&emsp;&emsp;&emsp;(i) a determination by the Secretary, in consultation with the Secretary of Defense, that the circumstances described in paragraph (1) have ceased to exist; or
+&emsp;&emsp;&emsp;(i) a determination by the Secretary, in consultation as appropriate with the Secretary of Homeland Security or the Secretary of Defense, that the circumstances described in paragraph (1) have ceased to exist; or
 
 &emsp;&emsp;&emsp;(ii) the expiration of the one-year period beginning on the date on which the declaration is made.
 
@@ -104,7 +110,7 @@ An authorization of a product under this section shall state—
 
 #### (A) Required conditions
 
-&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary, to the extent practicable given the circumstances of the emergency, shall, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
+&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary, to theextent practicable given the circumstances of the emergency, shall, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
 
 &emsp;&emsp;&emsp;(i) Appropriate conditions designed to ensure that health care professionals administering the product are informed—
 
@@ -144,7 +150,7 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;(A) For a manufacturer of the product who carries out any activity for which the authorization is issued, the Secretary shall, to the extent practicable given the circumstances of the emergency, establish conditions described in clauses (i) and (ii) of paragraph (1)(A), and may establish conditions described in clauses (iii) and (iv) of such paragraph.
 
-&emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses notto make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
+&emsp;&emsp;(B)(i) If the authorization under this section regarding the emergency use authorizes a change in the labeling of the product, but the manufacturer of the product chooses not to make such change, such authorization may not authorize distributors of the product or any other person to alter or obscure the labeling provided by the manufacturer.
 
 &emsp;&emsp;(ii) In the circumstances described in clause (i), for a person who does not manufacture the product and who chooses to act under this clause, an authorization under this section regarding the emergency use shall, to the extent practicable given the circumstances of the emergency, authorize such person to provide appropriate information with respect to such product in addition to the labeling provided by the manufacturer, subject to compliance with clause (i). While the authorization under this section is effective, such additional information shall not be considered labeling for purposes of section 352 of this title.
 
@@ -194,7 +200,7 @@ An authorization of a product under this section shall state—
 
 #### (i) Actions committed to agency discretion
 
-Actions under the authority of this section by the Secretary or by the Secretary of Defense are committed to agency discretion.
+Actions under the authority of this section by the Secretary, by the Secretary of Defense, or by the Secretary of Homeland Security are committed to agency discretion.
 
 #### (j) Rules of construction
 
@@ -204,23 +210,19 @@ The following applies with respect to this section:
 
 &emsp;(2) Nothing in this section impairs the authority of the Secretary of Defense with respect to the Department of Defense, including the armed forces, under other provisions of Federal law.
 
-&emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2) of this section) impairs the authority of the United States to use or manage quantities of a product that are owned or controlled by the United States (including quantities in the stockpile maintained under section 319F–2 of the Public Health Service Act).
+&emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2)) impairs the authority of the United States to use or manage quantities of a product that are owned or controlled by the United States (including quantities in the stockpile maintained under section 247d–6b of title 42).
 
 #### (k) Relation to other provisions
 
-If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not beconsidered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 262 of title 42.
+If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i) of this title, section 360j(g) of this title, or any other provision of this chapter or section 262 of title 42.
 
 #### (<i>l</i>) Option to carry out authorized activities
 
 Nothing in this section provides the Secretary any authority to require any person to carry out any activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 262 of title 42. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
 
-(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684.)
+(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853.)
 
-#### References in Text
+#### Amendments
 
-Section 319F–2 of the Public Health Service Act, referred to in subsec. (j)(3), probably means section 121 of Pub. L. 107–188, title I, June 12, 2002, 116 Stat. 611, which is classified to section 300hh–12 of Title 42, The Public Health and Welfare, and established the strategic national stockpile.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 331 of this title; title 10 section 1107A.
+2004—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (<i>l</i>) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 

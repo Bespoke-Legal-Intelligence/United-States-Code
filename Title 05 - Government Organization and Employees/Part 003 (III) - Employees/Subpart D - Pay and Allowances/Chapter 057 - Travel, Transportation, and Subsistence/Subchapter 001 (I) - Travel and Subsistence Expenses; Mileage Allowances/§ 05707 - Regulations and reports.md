@@ -86,7 +86,7 @@ For termination, effective May 15, 2000, of provisions in subsection (b)(1) of t
 
 #### Reports Regarding Foreign Travel
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 “(a)
 
@@ -142,7 +142,7 @@ Director.—The term ‘Director’ means the Director of the Office of Internat
 
 Executive branch agency.—The terms ‘Executive branch agency’ and ‘Executive branch agencies’ mean—
 
-&emsp;&emsp;“(A) an entity or entities, other than the General Accounting Office, defined in section 105 of title 5, United States Code; and
+&emsp;&emsp;“(A) an entity or entities, other than the Government Accountability Office, defined in section 105 of title 5, United States Code; and
 
 &emsp;&emsp;“(B) the Executive Office of the President (except as provided in subsection (e)).
 
@@ -165,8 +165,4 @@ Pub. L. 105–61, title VI, §635, Oct. 10, 1997, 111 Stat. 1316, provided that:
 #### GAO Audit of Agency Compliance
 
 Section 5(b) of Pub. L. 101–391, which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by Pub. L. 104–201, div. A, title XVI, §1614(a)(2), Sept. 23, 1996, 110 Stat. 2739, and Pub. L. 104–316, title I, §103(f), Oct. 19, 1996, 110 Stat. 3829.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5701, 5702, 5704, 5706a, 5706c, 5709 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 28 section 456; title 40 section 590.
 

@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 99–159, §111(b)(3)–(5), inserted “, engineering,”
 
 #### Short Title
 
-For short title of sections 31 et seq. of Pub. L. 96–516 as the “Science and Engineering Equal OpportunitiesAct”, see section 31 of Pub. L. 96–516, as amended, set out as a Short Title of 1980 Amendment note under section 1861 of this title.
+For short title of sections 31 et seq. of Pub. L. 96–516 as the “Science and Engineering Equal Opportunities Act”, see section 31 of Pub. L. 96–516, as amended, set out as a Short Title of 1980 Amendment note under section 1861 of this title.
 
 #### Severability of Science and Engineering Equal Opportunities Act
 
@@ -31,8 +31,4 @@ Section 38 of Pub. L. 96–516 provided that: “If a provision of this Act \[en
 #### Reports to Congress Concerning National Policy Development of Promotion, Etc., of Equal Opportunity for Women and Minorities in Science and Technology, and Impacts of Science and Technology on Women and Minorities
 
 Section 35 of Pub. L. 96–516 directed President, with assistance of Director of Office of Science and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity for women and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1885c, 1885d of this title.
 

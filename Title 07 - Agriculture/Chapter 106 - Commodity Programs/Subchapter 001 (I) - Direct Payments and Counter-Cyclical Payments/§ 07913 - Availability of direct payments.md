@@ -56,7 +56,3 @@ The amount of the direct payment to be paid to the producers on a farm for a cov
 
 (Pub. L. 107–171, title I, §1103, May 13, 2002, 116 Stat. 149.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7901, 7914, 7917 of this title.
-

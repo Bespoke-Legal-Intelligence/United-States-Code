@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—RURAL COMMUNITY ADVANCEMENT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 917 of this title.
-
 
 ---
 

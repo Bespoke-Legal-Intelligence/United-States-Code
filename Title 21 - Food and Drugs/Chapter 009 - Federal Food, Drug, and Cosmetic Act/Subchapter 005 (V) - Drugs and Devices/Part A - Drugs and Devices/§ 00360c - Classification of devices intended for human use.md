@@ -72,7 +72,7 @@ Class III, Premarket Approval.—A device which because—
 
 > the Secretary shall classify all such devices (other than devices classified by subsection (f) of this section) into the classes established by subsection (a) of this section. For the purpose of securing recommendations with respect to the classification of devices, the Secretary shall establish panels of experts or use panels of experts established before May 28, 1976, or both. Section 14 of the Federal Advisory Committee Act shall not apply to the duration of a panel established under this paragraph.
 
-(2) The Secretary shall appoint to each panel established under paragraph (1) persons who are qualified by training and experience to evaluate the safety and effectiveness of the devices to be referred to the panel and who, to the extent feasible, possess skill in the use of, or experience in the development, manufacture, or utilization of, such devices. The Secretary shall make appointments to each panel so that each panel shall consist of members with adequately diversified expertise in such fields as clinical and administrative medicine, engineering, biological andphysical sciences, and other related professions. In addition, each panel shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter may be a member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
+(2) The Secretary shall appoint to each panel established under paragraph (1) persons who are qualified by training and experience to evaluate the safety and effectiveness of the devices to be referred to the panel and who, to the extent feasible, possess skill in the use of, or experience in the development, manufacture, or utilization of, such devices. The Secretary shall make appointments to each panel so that each panel shall consist of members with adequately diversified expertise in such fields as clinical and administrative medicine, engineering, biological and physical sciences, and other related professions. In addition, each panel shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter may be a member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
 
 (3) Panel members (other than officers or employees of the United States), while attending meetings or conferences of a panel or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, but not at rates exceeding the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day so engaged, including traveltime; and while so serving away from their homes or regular places of business each member may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
@@ -148,13 +148,13 @@ Class III, Premarket Approval.—A device which because—
 
 > A device classified in class III under this paragraph shall be classified in that class until the effective date of an order of the Secretary under paragraph (2) or (3) classifying the device in class I or II.
 
-(2)(A) Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, within 30 days after receiving written notice of such a classification, the Secretary to classify the device under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) of this section. The person may, in the request, recommend to the Secretary a classification for the device. Any such request shall describe the device and provide detailed information and reasons for the recommended classification.
+(2)(A) Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, within 30 days after receiving written notice of such a classification, the Secretary to classify the device under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) of this section. The person may, in the request, recommend tothe Secretary a classification for the device. Any such request shall describe the device and provide detailed information and reasons for the recommended classification.
 
 (B)(i) Not later than 60 days after the date of the submission of the request under subparagraph (A), the Secretary shall by written order classify the device involved. Such classification shall be the initial classification of the device for purposes of paragraph (1) and any device classified under this paragraph shall be a predicate device for determining substantial equivalence under paragraph (1).
 
 (ii) A device that remains in class III under this subparagraph shall be deemed to be adulterated within the meaning of section 351(f)(1)(B) of this title until approved under section 360e of this title or exempted from such approval under section 360j(g) of this title.
 
-(C) Within 30 days after the issuance of an order classifying a device under this paragraph,the Secretary shall publish a notice in the Federal Register announcing such classification.
+(C) Within 30 days after the issuance of an order classifying a device under this paragraph, the Secretary shall publish a notice in the Federal Register announcing such classification.
 
 (3)(A) The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petition which prevent the Secretary from making a decision on the petition.
 
@@ -188,7 +188,7 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 &emsp;(1) a reference to “general controls” is a reference to the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title,
 
-&emsp;(2) a reference to “class I”, “class II”, or “class III” is a reference to a class of medicaldevices described in subparagraph (A), (B), or (C) of subsection (a)(1) of this section, and
+&emsp;(2) a reference to “class I”, “class II”, or “class III” is a reference to a class of medical devices described in subparagraph (A), (B), or (C) of subsection (a)(1) of this section, and
 
 &emsp;(3) a reference to a “panel under section 360c of this title” is a reference to a panel established or authorized to be used under this section.
 
@@ -230,7 +230,7 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (B) Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 
-(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613.)
+(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240;Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613.)
 
 #### References in Text
 
@@ -315,8 +315,4 @@ Section 4(b)(3) of Pub. L. 101–629 provided that:
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 351, 360, 360d, 360e, 360g, 360j, 360m, 360aaa, 379i, 1604 of this title; title 42 section 1395m.
 

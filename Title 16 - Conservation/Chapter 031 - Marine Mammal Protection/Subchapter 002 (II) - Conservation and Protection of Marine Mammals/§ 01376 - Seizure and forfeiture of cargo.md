@@ -14,7 +14,3 @@ Upon the recommendation of the Secretary, the Secretary of the Treasury is autho
 
 (Pub. L. 92–522, title I, §106, Oct. 21, 1972, 86 Stat. 1036.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1379, 1387 of this title.
-

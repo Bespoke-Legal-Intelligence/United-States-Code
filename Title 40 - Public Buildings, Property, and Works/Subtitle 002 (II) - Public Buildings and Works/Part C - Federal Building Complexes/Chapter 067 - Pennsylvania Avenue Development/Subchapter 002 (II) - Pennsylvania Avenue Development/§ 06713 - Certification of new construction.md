@@ -1,6 +1,6 @@
 ### §6713. Certification of new construction
 
-New construction (including substantial remodeling, conversion, rebuilding, enlargement, extension, or major structural improvement of existing building, but not including ordinary maintenance or remodeling or changes necessary to continue occupancy) shall not be authorized or conducted within the development area except on prior certification by the Administrator of General Services that the construction is, or may reasonably be expected to be, consistent with the carrying out of the development plan described in section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1269).
+New construction (including substantial remodeling, conversion, rebuilding, enlargement, extension, or major structural improvement ofexisting building, but not including ordinary maintenance or remodeling or changes necessary to continue occupancy) shall not be authorized or conducted within the development area except on prior certification by the Administrator of General Services that the construction is, or may reasonably be expected to be, consistent with the carrying out of the development plan described in section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1269).
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1197.)
 
@@ -24,5 +24,5 @@ The words “After October 1, 1974” and the text of 40:876(b) (proviso) are om
 
 #### References in Text
 
-Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, wasclassified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, was classified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 

@@ -4,7 +4,3 @@ Upon timely application by an entryman on an unpatented farm unit on a Federal i
 
 (Aug. 13, 1953, ch. 428, §6, 67 Stat. 567.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 451a, 451k of this title.
-

@@ -18,7 +18,11 @@ Any person, including the Fund, who pays compensation pursuant to this Act to an
 
 At the request of the Secretary, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this Act, and all costs incurred by the Fund by reason of the claim, including interest (including prejudgment interest), administrative and adjudicative costs, and attorney's fees. Such an action may be commenced against any responsible party or (subject to section 2716 of this title) guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the cost or damages for which the compensation was paid. Such an action shall be commenced against the responsible foreign government or other responsible party to recover any removal costs or damages paid from the Fund as the result of the discharge, or substantial threat of discharge, of oil from a foreign offshore unit.
 
-(Pub. L. 101–380, title I, §1015, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–324, title XI, §1142(d), Oct. 19, 1996, 110 Stat. 3991.)
+#### (d) Authority to settle
+
+The head of any department or agency responsible for recovering amounts for which a person is liable under this subchapter may consider, compromise, and settle a claim for such amounts, including such costs paid from the Fund, if the claim has not been referred to the Attorney General. In any case in which the total amount to be recovered may exceed $500,000 (excluding interest), a claim may be compromised and settled under the preceding sentence only with the prior written approval of the Attorney General.
+
+(Pub. L. 101–380, title I, §1015, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–324, title XI, §1142(d), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, §706, Aug. 9, 2004, 118 Stat. 1076.)
 
 #### References in Text
 
@@ -26,9 +30,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 #### Amendments
 
+2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
+
 1996—Subsecs. (b), (c). Pub. L. 104–324 added subsec. (b) and redesignated former subsec. (b) as (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9509.
 

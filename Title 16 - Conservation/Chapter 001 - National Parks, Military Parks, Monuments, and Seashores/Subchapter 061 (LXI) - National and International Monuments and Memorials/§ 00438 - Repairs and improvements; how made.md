@@ -16,7 +16,3 @@ Transfer of administrative functions of park, see note set out under section 437
 
 Termination of state of war and national emergencies, see note set out under section 437 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 440a of this title.
-

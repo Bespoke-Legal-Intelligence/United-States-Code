@@ -10,7 +10,7 @@ A franchising authority may in its request for proposals require as part of a fr
 
 #### (c) Enforcement authority
 
-A franchising authority may enforce any requirement in any franchise regarding the providing or use of such channel capacity. Such enforcement authority includes the authority to enforce any provisions of the franchise for services, facilities, or equipment proposed by the cable operator which relate to public, educational, or governmental use of channel capacity, whether or not required by the franchising authority pursuant to subsection (b) of this section.
+A franchising authority may enforce any requirement in any franchise regarding the providing or use of such channel capacity. Such enforcement authority includes the authority to enforce any provisions of the franchise for services, facilities, or equipment proposed by thecable operator which relate to public, educational, or governmental use of channel capacity, whether or not required by the franchising authority pursuant to subsection (b) of this section.
 
 #### (d) Promulgation of rules and procedures
 
@@ -40,9 +40,5 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Regulations
 
-Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Within 180 days following the date of theenactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 532, 534, 535, 541, 573 of this title.
+Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Within 180 days following the date of the enactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
 

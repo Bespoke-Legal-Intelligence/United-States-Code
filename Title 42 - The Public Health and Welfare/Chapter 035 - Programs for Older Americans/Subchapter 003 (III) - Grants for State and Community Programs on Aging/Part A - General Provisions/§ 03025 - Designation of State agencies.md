@@ -20,7 +20,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(A) except as provided in subsection (b)(5) of this section, designate for each such area after consideration of the views offered by the unit or units of general purpose local government in such area, a public or private nonprofit agency or organization as the area agency on aging for such area;
 
-&emsp;&emsp;(B) provide assurances, satisfactory to the Assistant Secretary, that the State agency will take into account, in connection with matters of general policy arising in the development and administration of the State plan for any fiscal year, the views of recipients of supportive services or nutrition services, or individuals using multipurpose senior centers provided under such plan;
+&emsp;&emsp;(B) provide assurances, satisfactory to the Assistant Secretary, that the State agencywill take into account, in connection with matters of general policy arising in the development and administration of the State plan for any fiscal year, the views of recipients of supportive services or nutrition services, or individuals using multipurpose senior centers provided under such plan;
 
 &emsp;&emsp;(C) in consultation with area agencies, in accordance with guidelines issued by the Assistant Secretary, and using the best available data, develop and publish for review and comment a formula for distribution within the State of funds received under this subchapter that takes into account—
 
@@ -42,7 +42,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 #### (b) Planning and service area designated; Indian reservations; redesignation; adjustment of State allotment; review by Assistant Secretary; additional planning and service areas; right to first refusal to units of local government; procedures and review of boundaries
 
-(1) In carrying out the requirement of subsection (a)(1) of this section, the State may designate as a planning and service area any unit of general purpose local government which has a population of 100,000 or more. In any case inwhich a unit of general purpose local government makes application to the State agency under the preceding sentence to be designated as a planning and service area, the State agency shall, upon request, provide an opportunity for a hearing to such unit of general purpose local government. A State may designate as a planning and service area under subsection (a)(1) of this section, any region within the State recognized for purposes of areawide planning which includes one or more such units of general purpose local government when the State determines that the designation of such a regional planning and service area is necessary for, and will enhance, the effective administration of the programs authorized by this subchapter. The State may include in any planning and service area designated under subsection (a)(1) of this section such additional areas adjacent to the unit of general purpose local government or regions so designated as the State determines to be necessary for, and will enhance the effective administration of the programs authorized by this subchapter.
+(1) In carrying out the requirement of subsection (a)(1) of this section, the State may designate as a planning and service area any unit of general purpose local government which has a population of 100,000 or more. In any case in which a unit of general purpose local government makes application to the State agency under the preceding sentence to be designated as a planning and service area, the State agency shall, upon request, provide an opportunity for a hearing to such unit of general purpose local government. A State may designate as a planning and service area under subsection (a)(1) of this section, any region within the State recognized for purposes of areawide planning which includes one or more such units of general purpose local government when the State determines that the designation of such a regional planning and service area is necessary for, and will enhance, the effective administration of the programs authorized by this subchapter. The State may include in any planning and service area designated under subsection (a)(1) of this section such additional areas adjacent to the unit of general purpose local government or regions so designated as the State determines to be necessary for, and will enhance the effective administration of the programs authorized by this subchapter.
 
 (2) The State is encouraged in carrying out the requirement of subsection (a)(1) of this section to include the area covered by the appropriate economic development district involved in any planning and service area designated under subsection (a)(1) of this section, and to include all portions of an Indian reservation within a single planning and service area, if feasible.
 
@@ -198,7 +198,7 @@ Subsec. (c)(3). Pub. L. 100–175, §124(2), inserted “only” after “to act
 
 Subsec. (c)(4). Pub. L. 100–175, §124(3), inserted “, or any separate organizational unit within such agency,” after first reference to “area” and substituted “and will engage only” for “engage”.
 
-Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established by the Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
+Subsec. (d). Pub. L. 100–175, §182(e)(2), struck out par. (1) designation before “The publication for review” and struck out par. (2) which read as follows: “For purposes of clause (2)(E) of subsection (a) of this section and paragraph (1) of this subsection, the term ‘greatest economic need’ means the need resulting from an income level at or below the poverty threshold established bythe Bureau of the Census, and the term ‘greatest social need’ means the need caused by noneconomic factors which include physical and mental disabilities, language barriers, and cultural or social isolation including that caused by racial or ethnic status which restricts an individual's ability to perform normal daily tasks or which threatens his or her capacity to live independently.”
 
 1984—Subsec. (a)(1)(E). Pub. L. 98–459, §305(a)(1), substituted “subsection (b)(5)(A) of this section” for “subsection (b)(5) of this section”.
 
@@ -235,10 +235,6 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub. L. 98–459, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3002, 3012, 3023, 3024, 3026, 3027, 3028, 3030c–3, 3058c, 5001, 11261, 11292 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “service”.</i>
 

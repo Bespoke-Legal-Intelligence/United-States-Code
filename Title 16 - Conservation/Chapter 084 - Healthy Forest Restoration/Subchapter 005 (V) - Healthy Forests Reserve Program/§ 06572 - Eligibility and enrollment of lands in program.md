@@ -68,7 +68,3 @@ The total number of acres enrolled in the healthy forests reserve program shall 
 
 (Pub. L. 108–148, title V, §502, Dec. 3, 2003, 117 Stat. 1911.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6574 of this title.
-

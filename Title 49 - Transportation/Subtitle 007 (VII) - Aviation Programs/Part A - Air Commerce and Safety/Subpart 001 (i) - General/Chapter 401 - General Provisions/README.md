@@ -46,10 +46,6 @@
 
 Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 1996, 110 Stat. 3238, 3255, 3256, inserted “safety of” before “air commerce” in item 40104 and added item 40121 “Air traffic control modernization reviews” and items 40122 and 40123.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 46301, 46316 of this title.
-
 
 ---
 

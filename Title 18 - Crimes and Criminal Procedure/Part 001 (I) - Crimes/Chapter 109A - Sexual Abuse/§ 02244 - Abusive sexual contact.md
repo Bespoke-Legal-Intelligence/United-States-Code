@@ -34,7 +34,3 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2244.
 
 1988—Subsec. (a). Pub. L. 100–690 substituted “ten years” for “five years” in par. (1) and “two years” for “one year” in par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3142, 3559, 3583 of this title; title 42 section 14135a.
-

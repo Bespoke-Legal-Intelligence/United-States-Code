@@ -1,9 +1,5 @@
 Part A—Sale of Conrail
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1346 of this title.
-
 
 ---
 

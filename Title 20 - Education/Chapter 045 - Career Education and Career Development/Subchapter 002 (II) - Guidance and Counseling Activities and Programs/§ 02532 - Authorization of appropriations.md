@@ -8,7 +8,7 @@ There are authorized to be appropriated $20,000,000 for each of the fiscal years
 
 (1) There are authorized to be appropriated $3,000,000 for fiscal year 1977, for purposes of grants to States made by the Secretary of Education for programs, projects, and leadership activities designed to expand and strengthen counseling and guidance services in elementary and secondary schools.
 
-(2) No sums are authorized to be appropriated under section 401(a) <sup>1</sup> of the Elementary and Secondary Education Act of 1965 for fiscal year 1977, for the purpose of making grants under part B (Libraries and Learning Resources) of title IV of such Act, for such fiscal year which represent the amount authorized to be appropriated under paragraph (1) of this subsection.
+(2) No sums are authorized to be appropriated under section 401(a) <sup>1</sup> of the Elementary and Secondary Education Act of 1965 for fiscal year 1977, for the purpose of making grants under part B (Libraries and Learning Resources) of title IV of such Act, for such fiscal year which representthe amount authorized to be appropriated under paragraph (1) of this subsection.
 
 (3)(A) The Secretary of Education shall allot the amounts appropriated under this subsection among Guam, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands according to their respective needs for assistance under this subsection. In addition, he shall allot from such amounts to (i) the Secretary of the Interior the amounts necessary for the programs, projects, and activities authorized by this subsection for children and teachers in elementary and secondary schools operated for Indian children by the Department of the Interior; and (ii) the Secretary of Defense the amounts necessary for the programs, projects, and activities authorized by this subsection for children and teachers in the overseas dependents schools of the Department of Defense. The terms upon which payment for such purposes shall be made to the Secretary of the Interior and the Secretary of Defense shall be determined pursuant to such criteria as the Secretary of Education determines will best carry out the purposes of this subsection.
 
@@ -37,10 +37,6 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3489 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

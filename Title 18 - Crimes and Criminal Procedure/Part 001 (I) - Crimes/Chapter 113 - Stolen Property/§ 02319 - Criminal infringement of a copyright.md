@@ -74,7 +74,3 @@ Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) an
 
 Subsec. (c). Pub. L. 102–561, §2, substituted “ ‘phonorecord’ ” for “ ‘sound recording’, ‘motion picture’, ‘audiovisual work’, ‘phonorecord’,” in par. (1) and “120” for “118” in par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 1961, 2320 of this title; title 17 section 109; title 49 section 80302.
-

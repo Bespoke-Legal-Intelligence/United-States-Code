@@ -8,7 +8,7 @@ Subject to subsection (g) of this section, the State plan shall provide that in 
 
 &emsp;(2) no deduction, cost sharing or similar charge will be imposed under the plan with respect to—
 
-&emsp;&emsp;(A) services furnished to individuals under 18 years of age (and, at the option of the State, individuals under 21, 20, or 19 years ofage, or any reasonable category of individuals 18 years of age or over),
+&emsp;&emsp;(A) services furnished to individuals under 18 years of age (and, at the option of the State, individuals under 21, 20, or 19 years of age, or any reasonable category of individuals 18 years of age or over),
 
 &emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy (or, at the option of the State, any services furnished to pregnant women),
 
@@ -46,7 +46,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 (2) In no case may the amount of any premium imposed under paragraph (1) exceed 10 percent of the amount by which the family income (less expenses for the care of a dependent child) of an individual exceeds 150 percent of the line described in paragraph (1).
 
-(3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of an individualfor medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
+(3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
 (4) A State may permit State or local funds available under other programs to be used for payment of a premium imposed under paragraph (1). Payment of a premium with such funds shall not be counted as income to the individual with respect to whom such payment is made.
 
@@ -86,7 +86,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 > In the case of any calendar year beginning after 2000, the dollar amount specified in paragraph (2) shall be increased in accordance with the provisions of section 415(i)(2)(A)(ii) of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986, 100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916, as added Pub. L. 97–248, title I, §131(b), Sept. 3, 1982, 96 Stat. 367; amended Pub. L. 97–448, title III, §309(b)(18)–(20), Jan. 12, 1983, 96 Stat. 2409, 2410; Pub. L. 99–272, title IX, §9505(c)(2), Apr. 7, 1986,100 Stat. 209; Pub. L. 99–509, title IX, §9403(g)(4)(B), Oct. 21, 1986, 100 Stat. 2056; Pub. L. 100–203, title IV, §§4101(d)(1), 4211(h)(11), Dec. 22, 1987, 101 Stat. 1330–142, 1330–207; Pub. L. 100–360, title IV, §411(k)(2), July 1, 1988, 102 Stat. 791; Pub. L. 101–239, title VI, §6408(d)(3), Dec. 19, 1989, 103 Stat. 2269; Pub. L. 105–33, title IV, §4708(b), Aug. 5, 1997, 111 Stat. 506; Pub. L. 106–170, title II, §201(a)(3), Dec. 17, 1999, 113 Stat. 1893.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Subsec. (g). Pub. L. 106–170, §201(a)(3)(B), added subsec. (g).
 
 1997—Subsec. (a)(2)(D). Pub. L. 105–33, §4708(b)(1), struck out “or services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) in which he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
 
-Subsec. (b)(2)(D). Pub. L. 105–33, §4708(b)(2), struck out “or (at the option of the State) services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) inwhich he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
+Subsec. (b)(2)(D). Pub. L. 105–33, §4708(b)(2), struck out “or (at the option of the State) services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) in which he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
 
 1989—Subsec. (a). Pub. L. 101–239, §6408(d)(3)(A), substituted “subparagraph (A) or (E)(i)” for “subparagraph (A) or (E)” in introductory provisions.
 
@@ -165,8 +165,4 @@ Section 131(d), formerly §131(c), of Pub. L. 97–248, redesignated by section 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1396a of this title\] shall become effective on October 1, 1982.
 
 “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 3, 1982\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396a, 1396b, 1396e, 1396r, 1396r–6, 1397cc of this title; title 8 section 1255a.
 

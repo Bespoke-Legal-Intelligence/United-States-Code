@@ -22,7 +22,3 @@ Oct. 31, 1992, Pub. L. 102–581, §119(d), 106 Stat. 4884.
 
 The words “to the Secretary of Transportation” are added for clarity and consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47108, 50101, 50102, 50105 of this title.
-

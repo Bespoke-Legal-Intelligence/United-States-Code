@@ -8,9 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3516 of this title; title 7 section 6911; title 10 section 135; title 44 sections 3534, 3544.
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 
 
 ---

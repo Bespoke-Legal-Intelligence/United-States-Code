@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to accept for Everglades National Pa
 
 (Pub. L. 86–681, §1, Sept. 2, 1960, 74 Stat. 577.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410r–2 of this title.
-

@@ -8,9 +8,5 @@
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–295 inserted “and the names of those officers recommended to be advanced to the top of the list of selectees established by the Secretary under section 271(a) of this title” before period at end.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 289, 290, 729, 741 of this title.
+2002—Subsec. (a). Pub. L. 107–295 inserted “and the names of those officers recommended to be advanced tothe top of the list of selectees established by the Secretary under section 271(a) of this title” before period at end.
 

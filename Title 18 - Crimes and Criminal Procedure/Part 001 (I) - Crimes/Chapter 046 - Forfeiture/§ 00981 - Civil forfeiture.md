@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) would be punishable within the jurisdiction of the foreign nation by death or imprisonment for a term exceeding 1 year; and
 
-&emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for aterm exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
+&emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
 
 &emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting “specified unlawful activity” (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
@@ -110,7 +110,7 @@
 
 &emsp;(6) as restoration to any victim of the offense giving rise to the forfeiture, including, in the case of a money laundering offense, any offense constituting the underlying specified unlawful activity; or
 
-&emsp;(7) In <sup>1</sup> the case of property referred to in subsection (a)(1)(D), to the Resolution Trust Corporation, the Federal Deposit InsuranceCorporation, or any other Federal financial institution regulatory agency (as defined in section 8(e)(7)(D) of the Federal Deposit Insurance Act).
+&emsp;(7) In <sup>1</sup> the case of property referred to in subsection (a)(1)(D), to the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or any other Federal financial institution regulatory agency (as defined in section 8(e)(7)(D) of the Federal Deposit Insurance Act).
 
 > The Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, shall ensure the equitable transfer pursuant to paragraph (2) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General, the Secretary of the Treasury, or the Postal Service pursuant to paragraph (2) shall not be subject to review. The United States shall not be liable in any action arising out of the use of any property the custody of which was transferred pursuant to this section to any non-Federal agency. The Attorney General, the Secretary of the Treasury, or the Postal Service may order the discontinuance of any forfeiture proceedings under this section in favor of the institution of forfeiture proceedings by State or local authorities under an appropriate State or local statute. After the filing of a complaint for forfeiture under this section, the Attorney General may seek dismissal of the complaint in favor of forfeiture proceedings under State or local law. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, the United States may transfer custody and possession of the seized property to the appropriate State or local official immediately upon the initiation of the proper actions by such officials. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, notice shall be sent to all known interested parties advising them of the discontinuance or dismissal. The United States shall not be liable in any action arising out of the seizure, detention, and transfer of seized property to State or local officials. The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.
 
@@ -212,7 +212,7 @@ Exception.—The foreign bank may be considered the “owner” of the funds (an
 
 &emsp;&emsp;&emsp;&emsp;(I) the basis for the forfeiture action is wrongdoing committed by the foreign bank; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the foreign bank establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of thefunds, the foreign bank had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign bank shall be deemed the owner of the funds to the extent of such discharged obligation.
+&emsp;&emsp;&emsp;&emsp;(II) the foreign bank establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign bank had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign bank shall be deemed the owner of the funds to the extent of such discharged obligation.
 
 (Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378; Pub. L. 107–197, title III, §301(d), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(2), Nov. 2, 2002, 116 Stat. 1806.)
 
@@ -302,7 +302,7 @@ Subsec. (e)(6). Pub. L. 101–647, §2508, added par. (6).
 
 Subsec. (e)(7). Pub. L. 101–647, §2525(a)(2), as amended by Pub. L. 103–322, §330011(s)(2), added par. (7).
 
-Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: “In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:”.
+Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: “In the caseof property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:”.
 
 Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for “Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country.”
 
@@ -371,10 +371,6 @@ Section 1351 of Pub. L. 99–570 provided that: “This subtitle \[subtitle H (�
 #### Severability
 
 Section 1367 of Pub. L. 99–570 provided that: “If any provision of this subtitle \[see Short Title of 1986 Amendment note above\] or any amendment made by this Act \[see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs\], or the application thereof to any person or circumstances is held invalid, the provisions of every other part, and their application, shall not be affected thereby.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1956 of this title; title 8 section 1324; title 12 sections 1831k, 3412; title 19 section 1613b; title 21 section 881; title 31 sections 5317, 5332, 9703.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

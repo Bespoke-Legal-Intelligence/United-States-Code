@@ -12,7 +12,7 @@
 
 #### (3) Maximum living allowance
 
-&emsp;The total amount of an annual living allowance that may be provided to a participant in a full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;The total amount of an annual living allowance that may be provided to a participant ina full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (4) Waiver or reduction of living allowance
 
@@ -62,7 +62,7 @@ In addition to the living allowance provided under subsection (a) of this sectio
 
 #### (B) Secretary of Defense
 
-&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the worksite, including the provision of temporary tent centers where needed, and other supplies and equipment.
+&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the work site, including the provision of temporary tent centers where needed, and other supplies and equipment.
 
 #### (5) Health and safety standards
 

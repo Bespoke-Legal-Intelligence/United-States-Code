@@ -22,9 +22,5 @@ Prior to the effective date of a land use ordinance for each county pursuant to 
 
 November 17, 1986, referred to in subsec. (b)(1), was in the original “the effective date of this Act”, which was translated as being the date of enactment of Pub. L. 99–663.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544g, 544i, 544<i>l</i> to 544p of this title.
-
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

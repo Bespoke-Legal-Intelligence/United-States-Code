@@ -28,7 +28,7 @@
 
 &emsp;(3) The amount expended by each corporation during the year, including—
 
-&emsp;&emsp;(A) the amount expended for salary for research staff, the amount expended for salary for education staff, and the amount expended for salary for support staff;
+&emsp;&emsp;(A) the amount expended for salary for research staff, the amount expended for salaryfor education staff, and the amount expended for salary for support staff;
 
 &emsp;&emsp;(B) the amount expended for direct support of research and the amount expended for direct support of education; and
 

@@ -30,7 +30,3 @@ Section is comprised of part of section 1 of Pub. L. 88–300. Remainder of sect
 
 Section 1 of Pub. L. 88–300 provided in part: “That this Act \[enacting this section and sections 277d–18 to 277d–25 of this title\] may be cited as the ‘American-Mexican Chamizal Convention Act of 1964’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 277d–18, 277d–22, 277d–24, 277d–25 of this title.
-

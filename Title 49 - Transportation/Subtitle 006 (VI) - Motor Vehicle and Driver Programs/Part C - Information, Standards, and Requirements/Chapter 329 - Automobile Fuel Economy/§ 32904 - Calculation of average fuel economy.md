@@ -2,7 +2,7 @@
 
 (a)
 
-Method of Calculation.—(1) The Administrator of the Environmental Protection Agencyshall calculate the average fuel economy of a manufacturer subject to—
+Method of Calculation.—(1) The Administrator of the Environmental Protection Agency shall calculate the average fuel economy of a manufacturer subject to—
 
 &emsp;(A) section 32902(a) of this title in a way prescribed by the Administrator; and
 
@@ -44,7 +44,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
 
-&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
+&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assemblesautomobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
 
 &emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada, or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
 
@@ -54,7 +54,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (4) In this subsection, the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically.
 
-(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will bemanufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
+(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will be manufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
 
 &emsp;(i) the Secretary finds that the plan is inadequate to meet the requirements of this paragraph; or
 
@@ -259,8 +259,4 @@ Subsec. (b)(7), (8). Pub. L. 103–429, §6(36)(A), redesignated pars. (5) and (
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32901, 32905, 32906, 32909, 32910, 32911, 32912, 32916 of this title; title 15 section 2512.
 

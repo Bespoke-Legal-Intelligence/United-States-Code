@@ -36,7 +36,3 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 3374, 3704; title 7 sections 136h, 450i, 2009cc–10, 5662; title 15 sections 330b, 771, 773, 796, 1193, 1335a, 2217, 2613; title 21 sections 350c, 355a, 360<i>ll</i>, 360nn, 360bbb–3; title 26 section 7213; title 29 section 664; title 30 section 1423; title 33 sections 1318, 1320, 1322, 1369, 1513; title 42 sections 299b–7, 300j–4, 2210b, 4912, 5916, 5919, 6274, 6921, 6927, 6991d, 7135, 7412, 7542, 7607, 7621, 9208, 9310, 9604, 9660, 11023, 11042, 13253, 13255, 13293; title 46 section 4309; title 49 sections 106, 1114, 30167, 32307, 32505, 32708, 32912, 33116, 60117.
-

@@ -46,7 +46,3 @@ For purposes of this subchapter—
 
 The Atomic Energy Act of 1954, referred to in par. (6)(A)(ii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2022, 7912, 7913, 7914, 7942 of this title.
-

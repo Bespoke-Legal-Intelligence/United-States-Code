@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a) of this section, as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral andwritten, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -96,7 +96,7 @@
 
 #### (5) Exclusivity
 
-&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawbackrelated violation of subsection (a) of this section.
+&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
 
 #### (d) Deprivation of lawful revenue
 
@@ -170,7 +170,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 #### (h) Regulation
 
-The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsection (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
+The Secretary shall promulgate regulations and guidelines to implement this section. Such regulations shall specify that for purposes of subsections (c) and (g) of this section, a repeat negligent violation involving the same issue shall be treated as a repetitive violation for a maximum period of 3 years.
 
 #### (i) Court of International Trade proceedings
 
@@ -182,7 +182,15 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;(3) if the monetary penalty is based on negligence, the United States shall have the burden of proof to establish the act or omission constituting the violation, and the alleged violator shall have the burden of providing evidence that the act or omission did not occur as a result of negligence.
 
-(June 17, 1930, ch. 497, title IV, §593A, as added Pub. L. 103–182, title VI, §622(a), Dec. 8, 1993, 107 Stat. 2181.)
+(June 17, 1930, ch. 497, title IV, §593A, as added Pub. L. 103–182, title VI, §622(a), Dec. 8, 1993, 107 Stat. 2181; amended Pub. L. 108–429, title I, §1563(f), Dec. 3, 2004, 118 Stat. 2587.)
+
+#### Amendments
+
+2004—Subsec. (h). Pub. L. 108–429 substituted “subsections (c) and (g)” for “subsection (g)”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawback entries filed on or after Dec. 3, 2004, and to those filed before Dec. 3, 2004, if liquidation of the drawback entry is not final on Dec. 3, 2004, see section 1563(g)(1) of Pub. L. 108–429, set out as a note under section 1313 of this title.
 
 #### Effective Date
 
@@ -190,9 +198,5 @@ Section 622(b) of Pub. L. 103–182 provided that: “The amendment made by subs
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621 of this title; title 28 section 1582.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -22,10 +22,6 @@ Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(b)(2)\], added 
 
 Pub. L. 106–377, §1(a)(2) \[title III, §314(b)(2)\], added subsec. (b) relating to authority of Secretary as to National Nuclear Security Administration.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 2409.
-
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

@@ -2,7 +2,7 @@
 
 #### (a) Scenic Area and other lands to be administered as part of Inyo National Forest
 
-(1) Except as otherwise provided in sections 543 to 543h of this title, the Secretary, acting through the Chief of the Forest Service, shall administer the Scenic Area as a separate unit within the boundary of the Inyo National Forest in accordance with the laws, rules, and regulations applicable to the National Forest System. All Bureau of Land Management administered lands that fall within the boundaries of the Scenic Area are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System.
+(1) Except as otherwise provided in sections 543 to 543h of this title, the Secretary, acting through the Chief of the Forest Service, shall administer the Scenic Area as a separate unit within the boundary of the Inyo National Forest in accordance with the laws, rules, and regulations applicable to the National Forest System. All Bureau of Land Management administered lands that fall within the boundaries of the Scenic Area are hereby added to the Inyo National Forest and shall be administered in accordancewith the laws, rules, and regulations applicable to the National Forest System.
 
 (2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
 
@@ -48,7 +48,7 @@ The Secretary may enter into cooperative agreements with the State of California
 
 #### (e) Management plan
 
-Within three years after September 28, 1984, the Secretary shall submit to the committees referred to in section 543 of this title, a detailed and comprehensive management plan for theScenic Area which is consistent with the protection of water rights as provided in subsection (b)(1) of this section. The plan shall include but not be limited to—
+Within three years after September 28, 1984, the Secretary shall submit to the committees referred to in section 543 of this title, a detailed and comprehensive management plan for the Scenic Area which is consistent with the protection of water rights as provided in subsection (b)(1) of this section. The plan shall include but not be limited to—
 
 &emsp;(1) an inventory of natural (including geologic) and cultural resources;
 
@@ -66,7 +66,7 @@ The Secretary is authorized to construct a visitor center in the Scenic Area for
 
 (1) Subject to valid existing rights, federally owned lands and interests therein within the Scenic Area are withdrawn from entry or appropriation under the mining laws of the United States, from the operation of the mineral leasing laws of the United States, from operation of the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\], and from disposition under the public land laws.
 
-(2) Subject to valid existing rights, all mining claims located within the Scenic Area shall be subject to such reasonable regulations as the Secretary may prescribe to assure that mining will, to the maximum extent practicable, be consistent with protection of the scenic, scientific, cultural, and other resources of the area, and any patent which may be issued after September 28, 1984, shall convey title only to the minerals together with the right to use the surface of lands for mining purposes subject to such reasonable regulations.
+(2) Subject to valid existing rights, all mining claims located within the Scenic Area shall be subject to such reasonable regulations as the Secretary may prescribe to assure that miningwill, to the maximum extent practicable, be consistent with protection of the scenic, scientific, cultural, and other resources of the area, and any patent which may be issued after September 28, 1984, shall convey title only to the minerals together with the right to use the surface of lands for mining purposes subject to such reasonable regulations.
 
 #### (h) Water rights
 
@@ -103,8 +103,4 @@ The Geothermal Steam Act of 1970, referred to in subsec. (g)(1), is Pub. L. 91�
 The public land laws, referred to in subsec. (g)(1), are classified generally to Title 43, Public Lands.
 
 The Act entitled “An Act authorizing and directing the Secretary of the Interior to sell to the city of Los Angeles, California, certain public lands in California; and granting rights-of-way over public lands and reserved lands to the city of Los Angeles in Mono County in the State of California”, referred to in subsec. (i)(1), is act June 23, 1936, ch. 733, 49 Stat. 1892, which was not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 543e, 543f of this title.
 

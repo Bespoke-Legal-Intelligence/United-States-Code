@@ -24,7 +24,7 @@ The Administrator shall submit to an industry committee from time to time such d
 
 Subsec. (a). Pub. L. 101–157, §4(a)(1), (2), substituted “American Samoa engaged” for “Puerto Rico or the Virgin Islands, or in Puerto Rico and the Virgin Islands, engaged”, “American Samoa where” for “such island or islands where”, and “American Samoa.” for “Puerto Rico and the Virgin Islands.”
 
-Subsec. (e). Pub. L. 101–157, §4(a)(3), struck out subsec. (e) which related to the application of sections 206and 208 to employees in Puerto Rico or the Virgin Islands.
+Subsec. (e). Pub. L. 101–157, §4(a)(3), struck out subsec. (e) which related to the application of sections 206 and 208 to employees in Puerto Rico or the Virgin Islands.
 
 1974—Subsec. (e). Pub. L. 93–259 added subsec. (e).
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961, except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
+Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961,except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
 
 #### Effective Date of 1949 Amendment
 
@@ -55,8 +55,4 @@ Functions of all other officers of Department of Labor and functions of all agen
 #### Definition of “Administrator”
 
 The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 206, 208 of this title.
 

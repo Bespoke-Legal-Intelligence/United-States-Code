@@ -10,7 +10,3 @@ The Administrator shall, and a State may, take such measures, including issuance
 
 Pub. L. 101–549, §110(3), substituted “designated pursuant to section 7407(d) as attainment or unclassifiable” for “included in the list promulgated pursuant to paragraph (1)(D) or (E) of subsection (d) of section 7407 of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 7420, 7607 of this title.
-

@@ -2,7 +2,7 @@
 
 It shall be an offense, punishable by a fine of not more than $1,000 or imprisonment for not more than one year, or both—
 
-&emsp;(1) to make any photograph, sketch, picture, drawing, map or graphical representation, while present on property subject to the jurisdiction, administration or in the custody of the Commission, of any installations or equipment designated by the President as requiring protection against the general dissemination of information relative thereto, in the interest of the common defense and security, without first obtaining the permission of the Commission, and promptly submitting the product obtained to the Commission for inspection or such other action as may be deemed necessary; or
+&emsp;(1) to make any photograph, sketch, picture, drawing, map or graphical representation, while present on property subject to the jurisdiction, administration or in the custody of the Commission, of any installations or equipment designated by the President as requiring protection against the general disseminationof information relative thereto, in the interest of the common defense and security, without first obtaining the permission of the Commission, and promptly submitting the product obtained to the Commission for inspection or such other action as may be deemed necessary; or
 
 &emsp;(2) to use or permit the use of an aircraft or any contrivance used, or designed for navigation or flight in air, for the purpose of making a photograph, sketch, picture, drawing, map or graphical representation of any installation or equipment designated by the President as provided in the preceding paragraph, unless authorized by the Commission.
 
@@ -11,8 +11,4 @@ It shall be an offense, punishable by a fine of not more than $1,000 or imprison
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279 of this title.
 

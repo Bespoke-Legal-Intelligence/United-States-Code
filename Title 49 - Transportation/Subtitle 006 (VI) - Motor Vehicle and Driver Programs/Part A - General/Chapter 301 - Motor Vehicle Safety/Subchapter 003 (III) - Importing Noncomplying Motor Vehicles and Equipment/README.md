@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—IMPORTING NONCOMPLYING MOTOR VEHICLES AND EQUIPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 30112, 30169 of this title.
-
 
 ---
 

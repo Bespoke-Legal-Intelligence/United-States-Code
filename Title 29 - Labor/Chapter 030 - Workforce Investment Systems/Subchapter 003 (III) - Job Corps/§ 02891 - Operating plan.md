@@ -14,7 +14,3 @@ The Secretary shall make the operating plan described in subsections (a) and (b)
 
 (Pub. L. 105–220, title I, §151, Aug. 7, 1998, 112 Stat. 1013.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2939 of this title.
-

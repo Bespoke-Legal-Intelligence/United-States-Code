@@ -1,6 +1,6 @@
 ### §2077. Taxation
 
-Each production credit association and its obligations are instrumentalities of the United States and as such any and all notes, debentures, and other obligations issued by such associations shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, exceptthat interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
+Each production credit association and its obligations are instrumentalities of the UnitedStates and as such any and all notes, debentures, and other obligations issued by such associations shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any State, territorial, or local taxing authority, except that interest on such obligations shall be subject to Federal income taxation in the hands of the holder.
 
 (Pub. L. 92–181, title II, §2.7, formerly §2.6, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1633; amended Pub. L. 100–399, title IV, §401(r), Aug. 17, 1988, 102 Stat. 998; renumbered §2.7, Pub. L. 101–624, title XVIII, §1833(1), Nov. 28, 1990, 104 Stat. 3832.)
 
@@ -19,8 +19,4 @@ A prior section 2079, Pub. L. 92–181, title II, §2.8, Dec. 10, 1971, 85 Stat.
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2214 of this title.
 

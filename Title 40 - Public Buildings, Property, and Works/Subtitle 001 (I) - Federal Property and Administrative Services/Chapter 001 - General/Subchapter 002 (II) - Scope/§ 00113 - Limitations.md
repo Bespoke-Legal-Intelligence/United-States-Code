@@ -56,7 +56,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;&emsp;&emsp;(i) acquired or held as part of, or in connection with, residential property; or
 
-&emsp;&emsp;&emsp;(ii) held in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act (12 U.S.C. 1701 et seq.), the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), or any other law;
+&emsp;&emsp;&emsp;(ii) held in connection with the insurance of mortgages, loans, or savings association accounts under the National Housing Act (12 U.S.C. 1701 et seq.), the FederalDeposit Insurance Act (12 U.S.C. 1811 et seq.), or any other law;
 
 &emsp;(11) the Tennessee Valley Authority with respect to nonpersonal services, with respect to section 501(c) of this title, and with respect to property acquired in connection with a program of processing, manufacture, production, or force account construction, but the Authority shall, to the maximum extent it considers practicable, consistent with the purposes of its program and the effective, efficient conduct of its business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
 
@@ -72,11 +72,13 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;(17) the Joint Committee on Printing, under title 44 or any other law;
 
-&emsp;(18) the Secretary of the Interior with respect to procurement for program operations under the Bonneville Project Act of 1937 (16 U.S.C. 832 et seq.); or
+&emsp;(18) the Secretary of the Interior with respect to procurement for program operations under the Bonneville Project Act of 1937 (16 U.S.C. 832 et seq.);
 
-&emsp;(19) the Secretary of State with respect to the furnishing of facilities in foreign countries and reception centers within the United States.
+&emsp;(19) the Secretary of State with respect to the furnishing of facilities in foreign countries and reception centers within the United States; or
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066.)
+&emsp;(20) the Office of the Director of National Intelligence.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696.)
 
 Historical and Revision Notes
 
@@ -164,7 +166,11 @@ The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is act
 
 The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 111 of this title; title 10 section 7306; title 41 section 252.
+2004—Subsec. (e)(20). Pub. L. 108–458 added par. (20).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwiseexpressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
 

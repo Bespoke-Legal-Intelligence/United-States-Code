@@ -8,7 +8,3 @@ The only evidence of a refusal to accept, or of a resignation of the office of P
 
 For protection and preservation of tape recordings of conversations involving former President Richard M. Nixon, see sections 101 to 106 of Pub. L. 93–526, set out as a note under section 2107 of Title 44, Public Printing and Documents.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 871.
-

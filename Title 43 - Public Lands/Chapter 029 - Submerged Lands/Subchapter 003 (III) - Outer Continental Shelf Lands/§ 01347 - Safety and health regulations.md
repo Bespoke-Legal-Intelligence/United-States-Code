@@ -6,7 +6,7 @@ Upon September 18, 1978, the Secretary and the Secretary of the Department in wh
 
 #### (b) Use of best available and safest economically feasible technologies
 
-In exercising their respective responsibilities for the artificial islands, installations, and other devices referred to in section 1333(a)(1) of this title, the Secretary, and the Secretary of the Department in which the Coast Guard is operating, shall require, on all new drilling and production operations and, wherever practicable, on existing operations, the use of the best available and safest technologies which the Secretary determines to be economically feasible, wherever failure of equipment would have a significant effect on safety, health, or the environment, except where the Secretary determines that the incremental benefits are clearly insufficient to justify the incremental costs of utilizing such technologies.
+In exercising their respective responsibilities for the artificial islands, installations, and other devices referred to in section 1333(a)(1) of this title, the Secretary, and the Secretary of the Department in which the Coast Guard is operating, shall require, on all new drilling and production operations and, wherever practicable, on existing operations, the use of the best available and safest technologies which the Secretary determines to be economically feasible, whereverfailure of equipment would have a significant effect on safety, health, or the environment, except where the Secretary determines that the incremental benefits are clearly insufficient to justify the incremental costs of utilizing such technologies.
 
 #### (c) Regulations applying to unregulated hazardous working conditions
 
@@ -22,7 +22,7 @@ The Secretary of Commerce, in cooperation with the Secretary of the Department i
 
 #### (f) Coordination and consultation with Federal departments and agencies; availability to interested persons of compilation of safety regulations
 
-(1) In administering the provisions of this section, the Secretary shall consult and coordinate with the heads of other appropriate Federal departments and agencies for purposes of assuringthat, to the maximum extent practicable, inconsistent or duplicative requirements are not imposed.
+(1) In administering the provisions of this section, the Secretary shall consult and coordinate with the heads of other appropriate Federal departments and agencies for purposes of assuring that, to the maximum extent practicable, inconsistent or duplicative requirements are not imposed.
 
 (2) The Secretary shall make available to any interested person a compilation of all safety and other regulations which are prepared and promulgated by any Federal department or agency and applicable to activities on the outer Continental Shelf. Such compilation shall be revised and updated annually.
 
@@ -31,8 +31,4 @@ The Secretary of Commerce, in cooperation with the Secretary of the Department i
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1334 of this title.
 

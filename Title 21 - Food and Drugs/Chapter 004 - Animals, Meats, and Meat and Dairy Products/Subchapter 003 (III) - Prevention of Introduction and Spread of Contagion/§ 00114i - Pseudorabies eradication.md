@@ -6,7 +6,7 @@ Congress finds that efforts to eradicate pseudorabies in United States swine pop
 
 #### (b) Establishment of program
 
-The Secretary of Agriculture shall establish and carry out a program for the eradication ofpseudorabies in United States swine populations.
+The Secretary of Agriculture shall establish and carry out a program for the eradication of pseudorabies in United States swine populations.
 
 #### (c) Use of funds for testing and control of pseudorabies
 

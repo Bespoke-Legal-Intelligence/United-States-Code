@@ -288,10 +288,6 @@ st CENTURY PRODUCTION AGRICULTURE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1308–3, 1508, 1515, 7334 of this title; title 16 sections 3811, 3821.
-
 
 ---
 

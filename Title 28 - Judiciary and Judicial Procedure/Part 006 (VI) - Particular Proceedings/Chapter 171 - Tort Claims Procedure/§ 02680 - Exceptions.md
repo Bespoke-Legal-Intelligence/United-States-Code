@@ -112,7 +112,3 @@ Joint Res. July 3, 1952, ch. 570, §1(a)(32), 66 Stat. 333, as amended by Joint 
 
 Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsec. (j) of this section until July 3, 1952. This repeal was made effective June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8477; title 8 section 1357; title 10 sections 1054, 1089; title 15 section 2053; title 19 section 1630; title 21 section 904; title 22 sections 1474, 2702; title 31 section 3724; title 38 section 7316; title 42 sections 233, 2458a.
-

@@ -24,7 +24,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(F) in housing that is assisted under section 8013 of this title;
 
-&emsp;&emsp;(G) in housing financed by a loan or mortgage insured under section 1715<i>l</i>(d)(3) of title 12 that bears interest at a rate determined under the proviso of section 1715<i>l</i>(d)(5) of title 12;
+&emsp;&emsp;(G) in housing financed by a loan or mortgage insured under section 1715<i>l</i>(d)(3) of title 12 that bears interest at a rate determinedunder the proviso of section 1715<i>l</i>(d)(5) of title 12;
 
 &emsp;&emsp;(H) in housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12; or
 
@@ -43,8 +43,4 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 #### Codification
 
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13663 of this title.
 

@@ -10,7 +10,3 @@ Section 1744 of this title shall not take effect until the Secretary finds that 
 
 (Pub. L. 97–399, §4, Dec. 31, 1982, 96 Stat. 2013.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1744 of this title.
-

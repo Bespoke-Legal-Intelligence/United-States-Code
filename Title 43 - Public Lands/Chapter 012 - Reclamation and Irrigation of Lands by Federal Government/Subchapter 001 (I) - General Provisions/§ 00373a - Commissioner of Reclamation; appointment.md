@@ -28,7 +28,3 @@ Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided
 
 Compensation of Commissioner, see section 5316 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title; title 16 section 833a.
-

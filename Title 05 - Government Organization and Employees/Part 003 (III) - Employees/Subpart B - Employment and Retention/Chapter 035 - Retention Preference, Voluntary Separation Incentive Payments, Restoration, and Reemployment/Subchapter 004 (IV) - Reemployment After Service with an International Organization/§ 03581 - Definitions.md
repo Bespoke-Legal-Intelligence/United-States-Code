@@ -60,7 +60,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Authority of President to extend a transfer of an employee under this section delegated to Secretary of State, see section 3 of Ex. Ord. No. 11552, Aug. 24, 1970, 35 F.R. 13569, set out as a note under section 3584 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3343 of this title; title 26 section 3121; title 42 section 410.
-

@@ -14,7 +14,3 @@ From such sums as are from time to time made available by the Congress to the Se
 
 Amendment by Pub. L. 92–12 effective May 7, 1971, see section 7 of Pub. L. 92–12, set out as an Effective Date note under section 921a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 907, 912, 927, 931, 932, 940c–1, 946, 948, 950b of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—INTERNATIONAL DOLPHIN CONSERVATION PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1371, 1387 of this title.
-
 
 ---
 

@@ -32,9 +32,5 @@ Subsec. (c)(2). Pub. L. 98–192, §§4(b)(1), 6(a)(5), substituted “5 per cen
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1807, 1811 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

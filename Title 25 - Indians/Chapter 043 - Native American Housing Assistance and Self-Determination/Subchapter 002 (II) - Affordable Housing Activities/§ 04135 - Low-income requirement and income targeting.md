@@ -40,7 +40,3 @@ For the date of the effectiveness of this chapter, referred to in subsec. (a)(2)
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4139 of this title.
-

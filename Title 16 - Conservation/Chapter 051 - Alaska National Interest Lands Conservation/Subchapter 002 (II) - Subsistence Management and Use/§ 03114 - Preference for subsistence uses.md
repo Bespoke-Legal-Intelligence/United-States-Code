@@ -12,7 +12,7 @@ Except as otherwise provided in this Act and other Federal laws, the taking on p
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the AlaskaNational Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 
@@ -21,8 +21,4 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 #### Effective and Termination Dates of 1997 Amendment
 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3115, 3116, 3117 of this title.
 

@@ -14,7 +14,3 @@ The Postal Service shall cause to be prepared annually a budget program which sh
 
 Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(a)(3)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, provided that: “For purposes of the fifth sentence of section 2009 of title 39, United States Code, the operations of the Office of Inspector General of the United States Postal Service shall be considered a major type of activity.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2401 of this title.
-

@@ -8,7 +8,3 @@ Upon the ceding of jurisdiction by the legislature of the State of Tennessee and
 
 “Stones River National Battlefield” and “national battlefield” substituted in text for “Stones River National Park” and “national park”, respectively, in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426<i>l</i> of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426c, 426j, 426k, 426n of this title.
-

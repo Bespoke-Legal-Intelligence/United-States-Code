@@ -8,7 +8,3 @@ If an owner of a covered section 8 housing project in which disabled families wh
 
 Covered section 8 housing, referred to in text, is defined in section 13619 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13612 of this title.
-

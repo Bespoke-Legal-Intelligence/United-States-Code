@@ -6,7 +6,3 @@
 
 (Pub. L. 102–575, title XVI, §1613, Oct. 30, 1992, 106 Stat. 4667.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
-

@@ -34,7 +34,3 @@ Enactment of the Tax Reform Act of 1984, referred to in text, means the date of 
 
 Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3108 of this title.
-

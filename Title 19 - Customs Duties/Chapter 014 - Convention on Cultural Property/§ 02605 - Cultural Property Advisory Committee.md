@@ -62,7 +62,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 &emsp;(B) such archaeological or ethnological material of the State Party, specified by type or such other classification as the Committee deems appropriate, which should be covered by such agreement or action.
 
-(5) If any member of the Committee disagrees with respect to any matter in any report prepared under this subsection, such member may prepare a statement setting forth the reasons for such disagreement and such statement shall be appended to, and considered a part of, the report.
+(5) If any member of the Committee disagrees with respect to any matter in any report prepared under this subsection, such member may prepare a statement setting forth the reasonsfor such disagreement and such statement shall be appended to, and considered a part of, the report.
 
 (6) The Committee shall submit to the Congress and the President a copy of each report prepared by it under this subsection.
 
@@ -82,7 +82,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 &emsp;&emsp;(C) changes are required to this chapter in order to implement fully the obligations of the United States under the Convention;
 
-> &emsp;the Committee may submit a report to the Congress and the President setting forth itsrecommendations for suspending such import restrictions or for improving the effectiveness of any such agreement or emergency action or this chapter.
+> &emsp;the Committee may submit a report to the Congress and the President setting forth its recommendations for suspending such import restrictions or for improving the effectiveness of any such agreement or emergency action or this chapter.
 
 #### (h) Federal Advisory Committee Act
 
@@ -131,10 +131,6 @@ United States Information Agency (other than Broadcasting Board of Governors and
 #### Delegation of Functions
 
 For delegation of certain functions of President under this section, see Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, set out as a note under section 2602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2601, 2602, 2603 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Committee”.</i>
 

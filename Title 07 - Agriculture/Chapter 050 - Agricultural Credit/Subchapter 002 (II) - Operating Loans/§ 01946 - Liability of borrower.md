@@ -52,7 +52,7 @@ Loans made under this subchapter shall be payable in not to exceed seven years. 
 
 &emsp;&emsp;(B) was eligible for a price support program of the Department of Agriculture on the day before April 4, 1996.
 
-(Pub. L. 87–128, title III, §316, Aug. 8, 1961, 75 Stat. 311; Pub. L. 90–488, §10, Aug. 15, 1968, 82 Stat. 771; Pub. L. 95–334, title I, §117, Aug. 4, 1978, 92 Stat. 426; Pub. L. 97–35, title I, §160(b), Aug. 13, 1981, 95 Stat. 377; Pub. L. 98–258, title VI, §604(b), Apr. 10, 1984, 98 Stat. 139; Pub. L. 101–624, title XVIII, §1803(b), Nov. 28, 1990, 104 Stat. 3818;Pub. L. 104–127, title VI, §§614, 661(g), Apr. 4, 1996, 110 Stat. 1089, 1107.)
+(Pub. L. 87–128, title III, §316, Aug. 8, 1961, 75 Stat. 311; Pub. L. 90–488, §10, Aug. 15, 1968, 82 Stat. 771; Pub. L. 95–334, title I, §117, Aug. 4, 1978, 92 Stat. 426; Pub. L. 97–35, title I, §160(b), Aug. 13, 1981, 95 Stat. 377; Pub. L. 98–258, title VI, §604(b), Apr. 10, 1984, 98 Stat. 139; Pub. L. 101–624, title XVIII, §1803(b), Nov. 28, 1990, 104 Stat. 3818; Pub. L. 104–127, title VI, §§614, 661(g), Apr. 4, 1996, 110 Stat. 1089, 1107.)
 
 #### References in Text
 

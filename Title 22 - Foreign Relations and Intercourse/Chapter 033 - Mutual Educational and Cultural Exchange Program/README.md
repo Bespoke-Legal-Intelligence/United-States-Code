@@ -78,10 +78,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1461–1a, 1475d, 1475e, 1475h, 2075, 2275, 2314, 2398, 2452a, 2462 of this title; title 26 section 1441; title 40 section 701.
-
 
 ---
 

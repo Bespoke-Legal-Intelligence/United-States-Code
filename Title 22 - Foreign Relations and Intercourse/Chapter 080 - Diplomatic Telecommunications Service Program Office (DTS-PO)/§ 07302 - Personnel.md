@@ -36,7 +36,7 @@
 
 #### (ii) Limitation on use of funds
 
-&emsp;&emsp;Of the funds available for DTS-PO on December 27, 2000, not more than 75 percent of such funds may be obligated or expended until a CEO is appointed under this subsection and assumes such position.
+&emsp;&emsp;Of the funds available for DTS-PO on December 27, 2000, not more than 75 percent ofsuch funds may be obligated or expended until a CEO is appointed under this subsection and assumes such position.
 
 #### (iii) May not be an officer or employee of Federal Government
 
@@ -120,7 +120,7 @@ Effective upon the first appointment of a CEO pursuant to subsection (a) of this
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -129,10 +129,6 @@ The provisions of title 5 governing appointments in the competitive service, ref
 Subsec. (a)(6)(D)(ii). Pub. L. 107–306, §811(b)(5)(E)(ii), (iii), added cl. (ii). Former cl. (ii) redesignated (iii).
 
 Subsec. (a)(6)(D)(iii). Pub. L. 107–306, §811(b)(5)(E)(iii), (iv), redesignated cl. (ii) as (iii) and substituted “reports required” for “report required”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 415b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

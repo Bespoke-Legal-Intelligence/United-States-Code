@@ -14,7 +14,3 @@ Based on 44 U.S. Code, 1964 ed., §111b (June 16, 1933, ch. 101, §1, 48 Stat. 3
 
 1991—Pub. L. 102–54 amended section generally. Prior to amendment, section read as follows: “Notwithstanding section 501 of this title, the Administrator of Veterans’ Affairs may utilize the printing and binding equipment that the various hospitals and homes of the Veterans’ Administration use for occupational therapy, for printing and binding which he finds advisable for the use of the Veterans’ Administration.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

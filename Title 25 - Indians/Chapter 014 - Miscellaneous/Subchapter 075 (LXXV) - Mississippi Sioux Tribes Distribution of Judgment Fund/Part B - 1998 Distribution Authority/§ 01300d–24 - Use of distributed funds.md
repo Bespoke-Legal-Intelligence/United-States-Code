@@ -48,9 +48,5 @@ Subject to subsections (a), (b), and (d) of this section, any funds distributed 
 
 The American Indian Trust Fund Management Reform Act of 1994, referred to in subsecs. (c) and (d)(1), is Pub. L. 103–412, Oct. 25, 1994, 108 Stat. 4239, as amended, which is classified principally to chapter 42 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300d–23 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of 1994”.</i>
 

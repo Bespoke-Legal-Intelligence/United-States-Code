@@ -44,7 +44,7 @@ Device.—A complaining party may recover an award of statutory damages for each
 
 &emsp;&emsp;&emsp;(ii)
 
-Digital musical recording.—A complaining party may recover an award of statutory damages for each violation of section 1002(d) in the sum of not more than$25 per digital musical recording involved in such violation, as the court considers just.
+Digital musical recording.—A complaining party may recover an award of statutory damages for each violation of section 1002(d) in the sum of not more than $25 per digital musical recording involved in such violation, as the court considers just.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -75,8 +75,4 @@ Remedial Modification and Destruction of Articles.—In an action brought under 
 &emsp;(2) is in the custody or control of the violator or has been impounded under subsection (f).
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4245.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1010 of this title.
 

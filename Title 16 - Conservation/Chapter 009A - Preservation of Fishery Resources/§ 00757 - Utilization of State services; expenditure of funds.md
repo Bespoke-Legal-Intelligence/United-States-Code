@@ -12,7 +12,3 @@ In carrying out the authorizations and duties imposed by section 756 of this tit
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior, by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 755, 757e of this title.
-

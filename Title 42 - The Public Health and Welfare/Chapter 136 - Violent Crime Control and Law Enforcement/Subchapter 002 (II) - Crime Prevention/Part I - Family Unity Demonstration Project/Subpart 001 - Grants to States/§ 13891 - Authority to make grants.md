@@ -36,7 +36,3 @@ The Attorney General shall make grants under subsection (a) of this section on a
 
 (Pub. L. 103–322, title III, §31911, Sept. 13, 1994, 108 Stat. 1894.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13892, 14214 of this title.
-

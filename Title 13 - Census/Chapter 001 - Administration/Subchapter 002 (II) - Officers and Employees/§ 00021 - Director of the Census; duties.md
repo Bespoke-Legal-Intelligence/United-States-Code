@@ -1,6 +1,6 @@
 ### §21. Director of the Census; duties
 
-The Bureau shall be headed by a Director of the Census, appointed by the President, by andwith the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary.
+The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1014.)
 
@@ -13,8 +13,4 @@ Based on title 13, U.S.C., 1952 ed., §2 (Mar. 6, 1902, ch. 139, §3, 32 Stat. 5
 At the end of this section, references to regulations, and to orders of the Secretary, were added after “law” in view of the changes effected by 1950 Reorganization Plan No. 5, referred to above.
 
 Changes were made in phraseology.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
 

@@ -28,7 +28,7 @@ The Board shall, subject to action by the Commission under section 7217 of this 
 
 #### (d) Commission determination
 
-The members of the Board shall take such action (including hiring of staff, proposal of rules, and adoption of initial and transitional auditing and other professional standards) as may be necessary or appropriate to enable the Commission to determine, not later than 270 days after July 30, 2002, that the Board is so organized and has the capacity to carry out the requirements of this subchapter, and to enforce compliance with this subchapter by registered public accounting firms and associated persons thereof. The Commission shall be responsible, prior to the appointment of the Board, for the planning for the establishment and administrative transition to the Board's operation.
+The members of the Board shall take such action (including hiring of staff, proposal of rules, and adoption of initial and transitional auditing and other professional standards) as may be necessary or appropriate to enable the Commission to determine, not later than 270 days after July 30, 2002, that the Board is so organized and hasthe capacity to carry out the requirements of this subchapter, and to enforce compliance with this subchapter by registered public accounting firms and associated persons thereof. The Commission shall be responsible, prior to the appointment of the Board, for the planning for the establishment and administrative transition to the Board's operation.
 
 #### (e) Board membership
 
@@ -117,8 +117,4 @@ The Board shall submit an annual report (including its audited financial stateme
 This Act, referred to in subsecs. (b), (c)(5), (6), (f), and (g)(1), (4), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78j–1, 7201, 7212, 7213, 7219 of this title.
 

@@ -108,7 +108,3 @@ In subsection (e), the word “promptly” is substituted for “with reasonable
 
 In subsection (f)(1), the words “In the case of any fatal accident” in 49 App.:1441(c) are omitted as surplus. The words “to examine the remains of any deceased person aboard the aircraft at the time of the accident, who dies as a result of the accident” are omitted as unnecessary because of the authority of the Board to conduct autopsies.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1131, 1151, 1152, 1155 of this title.
-

@@ -6,7 +6,7 @@ With respect to any property acquired by the Secretary of the Interior within a 
 
 #### (b) Exchange of lands; other disposal; equal land values
 
-The Secretary of the Interior is authorized to accept title to any non-Federal property or interest therein within a unit of the National Park System or miscellaneous area under his administration, and in exchange therefor he may convey to the grantor of such property or interest any Federally-owned property or interest therein under his jurisdiction which he determines is suitable for exchange or other disposal and which is located in the same State as the non-Federal property to be acquired: <i>Provided, however</i>, That timber lands subject to harvest under a sustained yield program shall not be so exchanged. Upon request of a State or a political subdivision thereof, or of a party in interest, prior to such exchange the Secretary or his designee shall hold a public hearing in the area where the lands to be exchanged are located. The values of the properties so exchanged, either shall be approximately equal, or if they are not approximately equal, the values shall be equalized by the payment of cash to the grantor from funds appropriated for the acquisition of land for the area, or to the Secretary as the circumstances require.
+The Secretary of the Interior is authorized to accept title to any non-Federal property or interest therein within a unit of the National Park System or miscellaneous area under his administration, and in exchange therefor he may convey to the grantor of such property or interest any Federally-owned property or interest therein under his jurisdiction which he determines is suitable for exchange or other disposal and which is located in the same State as the non-Federal property to be acquired: <i>Pro</i><i>vided, however</i>, That timber lands subject to harvest under a sustained yield program shall not be so exchanged. Upon request of a State or a political subdivision thereof, or of a party in interest, prior to such exchange the Secretary or his designee shall hold a public hearing in the area where the lands to be exchanged are located. The values of the properties so exchanged, either shall be approximately equal, or if they are not approximately equal, the values shall be equalized by the payment of cash to the grantor from funds appropriated for the acquisition of land for the area, or to the Secretary as the circumstances require.
 
 #### (c) Solid waste disposal operations prohibited; exceptions; regulations
 
@@ -27,8 +27,4 @@ The proceeds received from any conveyance under this section shall be credited t
 #### Amendments
 
 1984—Subsecs. (c), (d). Pub. L. 98–506 added subsec. (c) and redesignated former subsec. (c) as (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1c, 17<i>o</i>, 410bb–1, 410jj–3, 410aaa–59, 430g–5, 450jj–4 of this title.
 

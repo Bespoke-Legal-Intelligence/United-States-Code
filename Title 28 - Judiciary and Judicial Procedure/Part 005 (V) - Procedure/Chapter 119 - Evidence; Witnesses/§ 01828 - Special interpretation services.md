@@ -18,7 +18,3 @@
 
 Section effective ninety days after Oct. 28, 1978, see section 10(b) of Pub. L. 95–539, set out as an Effective Date of 1978 Amendment note under section 602 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 604, 1827, 1920 of this title.
-

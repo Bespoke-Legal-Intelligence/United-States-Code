@@ -100,7 +100,3 @@ Contents.—The report required under paragraph (1) shall include—
 
 &emsp;“(C) an analysis of the technology being used by the child pornography industry.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2252A, 2516 of this title; title 42 section 13032.
-

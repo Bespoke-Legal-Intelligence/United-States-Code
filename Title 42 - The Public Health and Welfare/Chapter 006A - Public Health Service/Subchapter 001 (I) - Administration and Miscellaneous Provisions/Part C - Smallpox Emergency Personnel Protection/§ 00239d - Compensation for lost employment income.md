@@ -8,7 +8,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (1) In general
 
-&emsp;Compensation under subsection (a) of this section shall be at the rate of 662/3 percent ofthe relevant pay period (weekly, monthly, or otherwise), except as provided in paragraph (2).
+&emsp;Compensation under subsection (a) of this section shall be at the rate of 662/3 percent of the relevant pay period (weekly, monthly, or otherwise), except as provided in paragraph (2).
 
 #### (2) Augmented compensation for dependents
 
@@ -38,7 +38,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (B) Relation to other obligations
 
-&emsp;&emsp;Compensation under subsection (a) of this section shall not be made to an eligible individual to the extent that the total of amounts paid to the individual under such subsection and under the other obligations referred to in subparagraph (A) is an amount that exceeds the rate specified in subsection (b)(1) of this section. If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this paragraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
+&emsp;&emsp;Compensation under subsection (a) of this section shall not be made to an eligible individual to the extent that the total ofamounts paid to the individual under such subsection and under the other obligations referred to in subparagraph (A) is an amount that exceeds the rate specified in subsection (b)(1) of this section. If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this paragraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
 
 #### (2) No benefits in case of death
 
@@ -77,10 +77,6 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 A benefit under subsection (a) of this section shall be in addition to any amounts received by an eligible individual under section 239c of this title.
 
 (July 1, 1944, ch. 373, title II, §265, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 642.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 239a, 239e, 239g of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “involved”.</i>
 

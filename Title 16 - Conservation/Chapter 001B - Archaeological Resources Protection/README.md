@@ -49,10 +49,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 410tt–3, 460uu–41, 460ccc–3, 460hhh–4, 460iii–5, 460jjj–1, 460<i>ooo</i>–5, 470a of this title; title 20 section 4424; title 43 section 2102.
-
 
 ---
 

@@ -30,7 +30,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 &emsp;&emsp;(C) 80 percent in each subsequent fiscal year,
 
-> &emsp;of the allotment that the State is otherwise entitled to receive under section 300j–12 of this title (relating to State loan funds), unless the State is developing and implementing a strategy to assist public water systems in acquiring and maintaining technical, managerial, and financial capacity.
+> &emsp;of the allotment that the State is otherwise entitled to receive under section 300j–12 of thistitle (relating to State loan funds), unless the State is developing and implementing a strategy to assist public water systems in acquiring and maintaining technical, managerial, and financial capacity.
 
 #### (2) Content
 
@@ -104,7 +104,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 #### (3) Applications
 
-&emsp;Any institution of higher learning interested in receiving a grant under this subsection shall submit to the Administrator an application in such form and containing such information as the Administrator may require by regulation.
+&emsp;Any institution of higher learning interested in receiving a grant under this subsectionshall submit to the Administrator an application in such form and containing such information as the Administrator may require by regulation.
 
 #### (4) Selection criteria
 
@@ -153,8 +153,4 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 &emsp;No portion of any funds made available under this subsection may be used for lobbying expenses.
 
 (July 1, 1944, ch. 373, title XIV, §1420, as added Pub. L. 104–182, title I, §119, Aug. 6, 1996, 110 Stat. 1647.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300j–12 of this title.
 

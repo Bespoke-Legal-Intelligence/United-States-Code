@@ -6,7 +6,7 @@
 
 (2) Any sums available to a State under subsection (b)(1) of this section for part of the cost of the administration of its State plan which the State determines is not needed for such purpose may be used by the State to supplement the amount available under section 3024(d)(1)(A) of this title to cover part of the cost of the administration of area plans.
 
-(3) Any State which has been designated a single planning and service area under section 3025(a)(1)(E) of this title covering all, or substantially all, of the older individuals in such State, as determined by the Assistant Secretary, may elect to pay part of the costs of the administration of State and area plans either out of sums received under this section of out of sums made available for the administration of area plans under section 3024(d)(1)(A) of this title, but shall not pay such costs out of sums received or allotted under both such sections.
+(3) Any State which has been designated a single planning and service area under section3025(a)(1)(E) of this title covering all, or substantially all, of the older individuals in such State, as determined by the Assistant Secretary, may elect to pay part of the costs of the administration of State and area plans either out of sums received under this section of out of sums made available for the administration of area plans under section 3024(d)(1)(A) of this title, but shall not pay such costs out of sums received or allotted under both such sections.
 
 #### (b) Formula for computation of allotment; application for additional funds; approval of application by Assistant Secretary; limitation on amount of additional funds; transfer of funds
 
@@ -76,7 +76,7 @@
 
 &emsp;(D) in the case of transfers described in paragraph (5)(A)—
 
-&emsp;&emsp;(i) in the case of transfers to part B of this subchapter, information on the supportiveservices, or services provided through senior centers, for which the transfers were used; and
+&emsp;&emsp;(i) in the case of transfers to part B of this subchapter, information on the supportive services, or services provided through senior centers, for which the transfers were used; and
 
 &emsp;&emsp;(ii) the effect of the transfers on the provision of services provided under—
 
@@ -122,7 +122,7 @@ Subsec. (b)(1)(B), (2)(B). Pub. L. 102–375, §904(a)(14)(A), inserted “Unite
 
 Subsec. (b)(3)(B)(iii). Pub. L. 102–375, §§102(b)(9)(C), (10)(A), 904(a)(14)(B), inserted “on aging” after “area agencies”, struck out “designated under section 3025 of this title” after “such State”, and substituted “objectives” for “purposes”.
 
-Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted “and except as provided in subparagraph (B)” after “provision of this subchapter”, substituted “received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the” for “received under section 3023(b)(1) and (2) of this title, a”, “not more than 30 percent of the funds so received” for “a portion of the funds appropriated”, and “objectives” for “purposes”, and added subpar. (B).
+Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated existing provisions as subpar. (A), inserted “and except as provided in subparagraph (B)” after “provision of this subchapter”, substituted“received by a State and attributable to funds appropriated under paragraph (1) or (2) of section 3023(b) of this title, the” for “received under section 3023(b)(1) and (2) of this title, a”, “not more than 30 percent of the funds so received” for “a portion of the funds appropriated”, and “objectives” for “purposes”, and added subpar. (B).
 
 Subsec. (b)(5) to (7). Pub. L. 102–375, §308(2)(B), added pars. (5) to (7) and struck out former par. (5) which read as follows:
 
@@ -150,7 +150,7 @@ Pub. L. 100–175, §129(c)(2)(B), inserted “subsections (a)(1) and (b) of” 
 
 Subsec. (a)(2). Pub. L. 98–459, §308(a)(2), substituted “available to a State under subsection (b)(1) of this section” for “received by a State under this section”.
 
-Subsec. (b)(1). Pub. L. 98–459, §308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared toall States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
+Subsec. (b)(1). Pub. L. 98–459, §308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared to all States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
 
 Subsec. (b)(2). Pub. L. 98–459, §308(b)(6), added par. (2). Former par. (2) redesignated (3).
 
@@ -177,8 +177,4 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3024, 3027, 3029, 3030c–3 of this title.
 

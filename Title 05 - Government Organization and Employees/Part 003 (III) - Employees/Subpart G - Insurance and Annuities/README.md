@@ -1,9 +1,5 @@
 ## Subpart G—Insurance and Annuities
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 4703, 9507, 9701, 9902 of this title.
-
 
 ---
 
@@ -15,4 +11,6 @@ This subpart is referred to in sections 4703, 9507, 9701, 9902 of this title.
 - [Chapter 085 - Unemployment Compensation](Chapter%20085%20-%20Unemployment%20Compensation/README.md)
 - [Chapter 087 - Life Insurance](Chapter%20087%20-%20Life%20Insurance/README.md)
 - [Chapter 089 - Health Insurance](Chapter%20089%20-%20Health%20Insurance/README.md)
+- [Chapter 089A - Enhanced Dental Benefits](Chapter%20089A%20-%20Enhanced%20Dental%20Benefits/README.md)
+- [Chapter 089B - Enhanced Vision Benefits](Chapter%20089B%20-%20Enhanced%20Vision%20Benefits/README.md)
 - [Chapter 090 - Long-Term Care Insurance](Chapter%20090%20-%20Long-Term%20Care%20Insurance/README.md)

@@ -20,7 +20,3 @@ Investigation by Special Committee.—Each committee appointed under subsection 
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1850.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 332, 354, 356, 359, 360 of this title.
-

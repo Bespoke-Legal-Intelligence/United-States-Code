@@ -14,7 +14,7 @@ Debate on the resolution, and on all debatable motions and appeals in connection
 
 #### (d) Vote on final approval
 
-Immediately following (1) the conclusion of the debate on such concurrent resolution, (2) a single quorum call at the conclusion of debate if requested in accordance with the rules of the appropriate House, and (3) the consideration of an amendment introduced by the Majority Leader or his designee to insert the phrase, “does not” in lieu of the word “does” if the resolution under consideration is a concurrent resolution of approval, the vote on final approval of the resolution shall occur.
+Immediately following (1) the conclusion of the debate on such concurrent resolution, (2) a single quorum call at the conclusion of debate if requested in accordance with the rules of the appropriate House, and (3) the consideration of an amendment introduced by the Majority Leader or his designee to insert the phrase, “does not”in lieu of the word “does” if the resolution under consideration is a concurrent resolution of approval, the vote on final approval of the resolution shall occur.
 
 #### (e) Appeals from decisions of Chair
 
@@ -44,7 +44,7 @@ This section is enacted by Congress—
 
 &emsp;(1) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by subsection (f) of this section; and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(2) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+&emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
 #### (i) Joint resolutions
 
@@ -58,7 +58,7 @@ This section is enacted by Congress—
 
 (5) A joint resolution under this subsection shall be considered in the Senate in accordance with the provisions of section 601(b)(4) of the International Security Assistance and Arms Export Control Act of 1976. For the purpose of expediting the consideration and passage of joint resolutions reported or discharged pursuant to the provisions of this subsection, it shall be in order for the Committee on Rules of the House of Representatives to present for consideration a resolution of the House of Representatives providing procedures for the immediate consideration of a joint resolution under this subsection which may be similar, if applicable, to the procedures set forth in section 601(b)(4) of the International Security Assistance and Arms Export Control Act of 1976.
 
-(6) In the case of a joint resolution described in paragraph (1), if prior to the passage by one House of a joint resolution of that House, that House receives a joint resolution with respect to the same matter from the other House, then—
+(6) In the case of a joint resolution described in paragraph (1), if prior to the passage by oneHouse of a joint resolution of that House, that House receives a joint resolution with respect to the same matter from the other House, then—
 
 &emsp;(A) the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
 
@@ -91,8 +91,4 @@ Amendment by Pub. L. 99–64 applicable to any agreement for cooperation entered
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2153, 2153c, 2155, 2157, 2158, 2160 of this title.
 

@@ -4,7 +4,3 @@ Within five years from October 11, 1974, the Secretary shall review the area wit
 
 (Pub. L. 93–439, §5, Oct. 11, 1974, 88 Stat. 1257.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698, 698a, 698b, 698c, 698e of this title.
-

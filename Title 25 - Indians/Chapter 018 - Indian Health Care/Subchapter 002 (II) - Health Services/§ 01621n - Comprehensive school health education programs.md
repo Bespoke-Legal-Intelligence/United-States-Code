@@ -86,7 +86,3 @@ There are authorized to be appropriated to carry out this section $15,000,000 fo
 
 (Pub. L. 94–437, title II, §215, as added Pub. L. 102–573, title II, §211, Oct. 29, 1992, 106 Stat. 4553.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621w of this title.
-

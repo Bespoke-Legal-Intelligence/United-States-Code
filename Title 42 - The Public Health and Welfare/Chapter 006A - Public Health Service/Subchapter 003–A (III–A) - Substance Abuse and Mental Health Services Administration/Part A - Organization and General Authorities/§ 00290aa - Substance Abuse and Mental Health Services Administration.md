@@ -22,7 +22,7 @@ The following entities are agencies of the Administration:
 
 #### (2) Deputy Administrator
 
-&emsp;The Administrator, with the approval of the Secretary, may appoint a Deputy Administrator and may employ and prescribe the functions of such officers and employees, including attorneys, as are necessary to administer theactivities to be carried out through the Administration.
+&emsp;The Administrator, with the approval of the Secretary, may appoint a Deputy Administrator and may employ and prescribe the functions of such officers and employees, including attorneys, as are necessary to administer the activities to be carried out through the Administration.
 
 #### (d) Authorities
 
@@ -36,7 +36,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
 
-&emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance abuse goals and model programs;
+&emsp;(5) support activities that will improve the provision of treatment, prevention and relatedservices, including the development of national mental health and substance abuse goals and model programs;
 
 &emsp;(6) in cooperation with the National Institutes of Health, the Centers for Disease Control and the Health Resources and Services Administration develop educational materials and intervention strategies to reduce the risks of HIV or tuberculosis among substance abusers and individuals with mental illness and to develop appropriate mental health services for individuals with such illnesses;
 
@@ -146,7 +146,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (4) Definition
 
-&emsp;For purposes of this subsection, the term “women's substance abuse and mental health conditions”, with respect to women of all age, ethnic, and racial groups, means all aspects of substance abuse and mental illness—
+&emsp;For purposes of this subsection, the term “women's substance abuse and mental healthconditions”, with respect to women of all age, ethnic, and racial groups, means all aspects of substance abuse and mental illness—
 
 &emsp;&emsp;(A) unique to or more prevalent among women; or
 
@@ -284,11 +284,13 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
 Section 161 of Pub. L. 102–321 provided that: “Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Alcohol, Drug Abuse and Mental Health Administration or to the Administrator of the Alcohol, Drug Abuse and Mental Health Administration shall be deemed to refer to the Substance Abuse and Mental Health Services Administration or to the Administrator of the Substance Abuse and Mental Health Services Administration.”
-
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1996 Amendment
 
@@ -392,7 +394,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 “With the consent of the Secretary of Health and Human Services, the Administrator of the Substance Abuse and Mental Health Services Administration and the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health are authorized to utilize—
 
-&emsp;“(1) the services of such officers, employees, and other personnel of the Department with respect to functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration and the Director of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle; and
+&emsp;“(1) the services of such officers, employees, and other personnel of the Department with respect tofunctions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration and the Director of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle; and
 
 &emsp;“(2) funds appropriated to such functions for such period of time as may reasonably be needed to facilitate the orderly implementation of this subtitle.
 
@@ -436,7 +438,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 &emsp;“(2) a commitment to—
 
-&emsp;&emsp;“(A) extensive dissemination to States, units of local government, community organizations, andprivate groups of the most recent information and research findings with respect to alcohol abuse and alcoholism and drug abuse, including information with respect to the application of research findings; and
+&emsp;&emsp;“(A) extensive dissemination to States, units of local government, community organizations, and private groups of the most recent information and research findings with respect to alcohol abuse and alcoholism and drug abuse, including information with respect to the application of research findings; and
 
 &emsp;&emsp;“(B) the accomplishment of such dissemination through up-to-date publications, demonstrations, educational programs, and other appropriate means;
 
@@ -450,17 +452,13 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 #### Alcohol and Drug Abuse and Mental Health Reports by the Secretary
 
-Section 3 of Pub. L. 98–24 directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+Section 3 of Pub. L. 98–24 directed Secretary of Health and Human Services to submit to Congress, onor before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
 
 #### Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund
 
 Act July 8, 1947, ch. 210, title II, §201, 61 Stat. 269, provided: “That as of June 30, 1947, and the end of each fiscal year thereafter any balances in the ‘Working capital fund, narcotic hospitals,’ in excess of $150,000 shall be transferred to the surplus fund of the Treasury.”
 
 \[Section 201 of act July 8, 1947, set out above, was formerly classified to section 258a of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290bb–1 of this title; title 20 section 7134.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Administrator”.</i>
 

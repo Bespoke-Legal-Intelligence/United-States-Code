@@ -54,7 +54,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made; and
 
-&emsp;&emsp;(B) inform such individual at the time the determination is made that an application for medical assistance under the State planis required to be made by not later than the last day of the month following the month during which the determination is made.
+&emsp;&emsp;(B) inform such individual at the time the determination is made that an application for medical assistance under the State plan is required to be made by not later than the last day of the month following the month during which the determination is made.
 
 #### (3) Application for medical assistance
 
@@ -79,10 +79,6 @@ Notwithstanding any other provision of this subchapter, medical assistance that�
 #### Effective Date
 
 Section applicable to medical assistance for items and services furnished on or after Oct. 1, 2000, without regard to whether final regulations to carry out such amendments have been promulgated by such date, see section 2(d) of Pub. L. 106–354, set out as an Effective Date of 2000 Amendment note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1396a, 1396b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

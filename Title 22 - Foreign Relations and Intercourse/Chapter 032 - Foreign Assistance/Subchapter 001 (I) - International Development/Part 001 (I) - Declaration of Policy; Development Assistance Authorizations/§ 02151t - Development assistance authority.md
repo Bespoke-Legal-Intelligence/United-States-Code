@@ -6,7 +6,7 @@ In order to carry out the purposes of this part, the President is authorized to 
 
 #### (b) Authority of President to make loans; terms and conditions
 
-The President is authorized to make loans payable as to principal and interest in United States dollars on such terms and conditions as he may determine, in order to promote the economic development of countries and areas, with emphasis upon assisting long-range plans and programs designed to develop economic resources and increase productive capacities. The President shall determine the interest payable on any loan. In making loans under this part, the President shall consider the economic circumstances of the borrower and other relevant factors, including the capacity of the recipient country to repay the loan at a reasonable rate of interest, except that loans may not be made at a rate of interest of less than 3 per centum per annum commencing not later than ten years following the date on which the funds are initially made available under the loan, during which ten-year period the rate of interest shall not be lower than 2 per centum per annum, nor higher than the applicable legal rate of interest of the country in which the loan is made.
+The President is authorized to make loans payable as to principal and interest in United States dollars on such terms and conditions as he may determine, in order to promote the economic development of countries and areas, with emphasis upon assisting long-range plans and programs designed to develop economic resources and increase productive capacities. The President shall determine the interest payable on any loan. In making loans under this part, the President shall consider the economic circumstances of the borrower and other relevant factors, including the capacity of the recipientcountry to repay the loan at a reasonable rate of interest, except that loans may not be made at a rate of interest of less than 3 per centum per annum commencing not later than ten years following the date on which the funds are initially made available under the loan, during which ten-year period the rate of interest shall not be lower than 2 per centum per annum, nor higher than the applicable legal rate of interest of the country in which the loan is made.
 
 #### (c) Dollar receipts from loans to be paid into Treasury
 
@@ -14,7 +14,7 @@ Dollar receipts paid during any fiscal year from loans made under subchapter I o
 
 #### (d) Assistance to research and educational institutions in United States; limitation on amounts
 
-Not to exceed $10,000,000 of the funds made available each fiscal year for the purposes ofthis part may be used for assistance, on such terms and conditions as the President may determine, to research and educational institutions in the United States for the purpose of strengthening their capacity to develop and carry out programs concerned with the economic and social development of developing countries.
+Not to exceed $10,000,000 of the funds made available each fiscal year for the purposes of this part may be used for assistance, on such terms and conditions as the President may determine, to research and educational institutions in the United States for the purpose of strengthening their capacity to develop and carry out programs concerned with the economic and social development of developing countries.
 
 #### (e) Development Loan Committee; establishment; duties; appointment of officers
 
@@ -37,8 +37,4 @@ Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2220d, 2221, 2351 of this title.
 

@@ -54,7 +54,7 @@
 
 (iv) The provisions of this subparagraph shall not apply if the annual premium rate is increased to a level in excess of $2.60 per participant under any other provisions of this subchapter.
 
-(D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii),the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
+(D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
 (ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
@@ -70,7 +70,9 @@
 
 &emsp;(III) In the case of any plan year for which the applicable percentage under subclause (II) is 100 percent, the value of the plan's assets used in determining unfunded current liability under subclause (I) shall be their fair market value.
 
-&emsp;(IV) In the case of plan years beginning after December 31, 2001, and before January 1, 2004, subclause (II) shall be applied by substituting “100 percent” for “85 percent”. Subclause (III) shall be applied for such years without regard to the preceding sentence. Any reference to this clause by any other sections or subsections shall be treated as a reference to this clause without regard to this subclause.
+&emsp;(IV) In the case of plan years beginning after December 31, 2001, and before January 1, 2004, subclause (II) shall be applied by substituting “100 percent” for “85 percent”. Subclause (III) shall be applied for such years without regard to the preceding sentence. Any reference to this clause or this subparagraph by any other sections or subsections (other than sections 1305, 1310, 1311, and 1343 of this title) shall be treated as a reference to this clause or this subparagraph without regard to this subclause.
+
+&emsp;(V) In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the annual yield taken into account under subclause (II) shall be the annual rate of interest determined by the Secretary of the Treasury on amounts invested conservatively in long-term investment grade corporate bonds for the month preceding the month in which the plan year begins. For purposes of the preceding sentence, the Secretary of the Treasury shall determine such rate of interest on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the rate, publicly available.
 
 (iv) No premium shall be determined under this subparagraph for any plan year if, as of the close of the preceding plan year, contributions to the plan for the preceding plan year were not less than the full funding limitation for the preceding plan year under section 412(c)(7) of title 26.
 
@@ -120,7 +122,7 @@
 
 (5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
-(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. Anamendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (7) Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 
@@ -150,13 +152,17 @@
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187.)
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+2004–Subsec. (a)(3)(E)(iii)(IV). Pub. L. 108–311, in last sentence, inserted “or this subparagraph” after “this clause” in two places and inserted “(other than sections 1305, 1310, 1311, and 1343 of this title)” after “subsections”.
+
+Subsec. (a)(3)(E)(iii)(V). Pub. L. 108–218 added subcl. (V).
 
 2002—Subsec. (a)(3)(E)(iii)(IV). Pub. L. 107–147 added subcl. (IV).
 
@@ -180,7 +186,7 @@ Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §12021(a)(2), added cl. (iv).
 
 Subsec. (c)(1)(A)(iii). Pub. L. 101–239, §7881(h)(2), realigned margin.
 
-1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December 31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
+1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
 
 Subsec. (a)(3)(E). Pub. L. 100–203, §9331(b), added subpar. (E).
 
@@ -208,7 +214,15 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2004 Amendments
+
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Job Creation and Worker Assistance Act of 2002, Pub. L. 107–147, to which such amendment relates, see section 403(f) of Pub. L. 108–311, set out as a note under section 56 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1994 Amendment
 
@@ -220,7 +234,7 @@ In general.—The amendments made by this subsection \[amending this section\] s
 
 “(B)
 
-Transition rule.—In the case of plan years beginning on or after July 1, 1994, and before July 1, 1996,the additional premium payable with respect to any participant by reason of the amendments made by this section shall not exceed the sum of—
+Transition rule.—In the case of plan years beginning on or after July 1, 1994, and before July 1, 1996, the additional premium payable with respect to any participant by reason of the amendments made by this section shall not exceed the sum of—
 
 &emsp;“(i) $53, and
 
@@ -272,7 +286,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Transitional Rule
 
-Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by this section \[amending this section\] shall not apply to plan years beginning before the earlier of—
+Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by thissection \[amending this section\] shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(1) January 1, 1998, or
 
@@ -299,10 +313,6 @@ Section 11017(a) of Pub. L. 99–272 directed Pension Benefit Guaranty Corporati
 #### Studies and Reports Respecting Graduated Premium Rate Schedules and Union Mandated Withdrawals From Multiemployer Pension Plans
 
 Section 412(a) of Pub. L. 96–364 directed Pension Benefit Guaranty Corporation to conduct a separate study with respect to advantages and disadvantages of establishing a graduated premium rate schedule under this section which is based on risk, and necessity of adopting special rules in cases of union-mandated withdrawal from multiemployer pension plans, and to report to Congress the results of the studies conducted, including its recommendations with respect thereto.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1082, 1302, 1305, 1310, 1311, 1322a, 1343 of this title; title 26 section 412.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

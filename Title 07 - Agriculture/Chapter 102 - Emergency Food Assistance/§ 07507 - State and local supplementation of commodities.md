@@ -18,7 +18,3 @@ State and emergency feeding organizations shall continue, to the maximum extent 
 
 Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7501, 7514 of this title.
-

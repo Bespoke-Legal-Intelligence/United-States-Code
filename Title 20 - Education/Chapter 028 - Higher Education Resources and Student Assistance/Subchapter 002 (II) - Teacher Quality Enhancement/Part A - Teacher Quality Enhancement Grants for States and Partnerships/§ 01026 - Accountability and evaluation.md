@@ -72,7 +72,7 @@ Each eligible partnership receiving a grant under section 1023 of this title sha
 
 #### (1) Report
 
-&emsp;Each eligible State or eligible partnership receiving a grant under this part shall reportannually on the progress of the eligible State or eligible partnership toward meeting the purposes of this part and the goals, objectives, and measures described in subsections (a) and (b) of this section.
+&emsp;Each eligible State or eligible partnership receiving a grant under this part shall report annually on the progress of the eligible State or eligible partnership toward meeting thepurposes of this part and the goals, objectives, and measures described in subsections (a) and (b) of this section.
 
 #### (2) Revocation
 
@@ -98,11 +98,11 @@ A prior section 1026, Pub. L. 89–329, title II, §206, Nov. 8, 1965, 79 Stat. 
 
 2002—Subsecs. (c), (d). Pub. L. 107–110 substituted “this part” for “this subchapter” wherever appearing.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1023 of this title.
 

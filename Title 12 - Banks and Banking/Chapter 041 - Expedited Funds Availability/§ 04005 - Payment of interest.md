@@ -22,7 +22,3 @@ No provision of this chapter shall be construed as requiring the payment of inte
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4004, 4306 of this title.
-

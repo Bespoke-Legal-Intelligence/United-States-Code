@@ -28,7 +28,7 @@
 
 &emsp;(i) a person is required by subsection (a)(1) of this section to submit a notice to the Administrator, and
 
-&emsp;(ii) such person has been granted an exemption under section 2603(c) of this title from the requirements of a rule promulgated under section 2603 of this title before the submission of such notice,
+&emsp;(ii) such person has been granted an exemption under section 2603(c) of this title from therequirements of a rule promulgated under section 2603 of this title before the submission of such notice,
 
 > such person may not, before the expiration of the 90 day period which begins on the date of the submission in accordance with such rule of the test data the submission or development of which was the basis for the exemption, manufacture such substance if such person is subject to subsection (a)(1)(A) of this section or manufacture or process such substance for a significant new use if the person is subject to subsection (a)(1)(B) of this section.
 
@@ -102,7 +102,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 (B) A proposed order may not be issued under subparagraph (A) respecting a chemical substance (i) later than 45 days before the expiration of the notification period applicable to the manufacture or processing of such substance under subsection (a), (b), or (c) of this section, and (ii) unless the Administrator has, on or before the issuance of the proposed order, notified, in writing, each manufacturer or processor, as the case may be, of such substance of the determination which underlies such order.
 
-(C) If a manufacturer or processor of a chemical substance to be subject to a proposed orderissued under subparagraph (A) files with the Administrator (within the 30-day period beginning on the date such manufacturer or processor received the notice required by subparagraph (B)(ii)) objections specifying with particularity the provisions of the order deemed objectionable and stating the grounds therefor, the proposed order shall not take effect.
+(C) If a manufacturer or processor of a chemical substance to be subject to a proposed order issued under subparagraph (A) files with the Administrator (within the 30-day period beginning on the date such manufacturer or processor received the notice required by subparagraph (B)(ii)) objections specifying with particularity the provisions of the order deemed objectionable and stating the grounds therefor, the proposed order shall not take effect.
 
 (2)(A)(i) Except as provided in clause (ii), if with respect to a chemical substance with respect to which notice is required by subsection (a) of this section, the Administrator makes the determination described in paragraph (1)(A) and if—
 
@@ -122,7 +122,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(II) such substance is or will be produced in substantial quantities, and such substance either enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to the substance.
 
-(C) Pending the completion of a proceeding for the issuance of an injunction under subparagraph (B) respecting a chemical substance, the court may, upon application of the Administrator made through attorneys of the Environmental Protection Agency, issue a temporary restraining order or a preliminary injunction to prohibit the manufacture, processing, distribution in commerce, use, or disposal of such a substance (or any combination of such activities) if the court finds that the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance may expire before such proceeding can be completed.
+(C) Pending the completion of a proceeding for the issuance of an injunction under subparagraph (B) respecting a chemical substance, the court may, upon application of the Administrator made through attorneys of the Environmental Protection Agency, issue a temporary restraining order or a preliminary injunction to prohibit the manufacture, processing, distribution in commerce, use, or disposal of such a substance (or any combination of such activities) ifthe court finds that the notification period applicable under subsection (a), (b), or (c) of this section to the manufacturing or processing of such substance may expire before such proceeding can be completed.
 
 (D) After the submission to the Administrator of test data sufficient to evaluate the health and environmental effects of a chemical substance subject to an injunction issued under subparagraph (B) and the evaluation of such data by the Administrator, the district court of the United States which issued such injunction shall, upon petition dissolve the injunction unless the Administrator has initiated a proceeding for the issuance of a rule under section 2605(a) of this title respecting the substance. If such a proceeding has been initiated, such court shall continue the injunction in effect until the effective date of the rule promulgated in such proceeding or, if such proceeding is terminated without the promulgation of a rule, upon the termination of the proceeding, whichever occurs first.
 
@@ -162,7 +162,7 @@ If the Administrator has not initiated any action under this section or section 
 
 (1) The Administrator may, upon application, exempt any person from any requirement of subsection (a) or (b) of this section to permit such person to manufacture or process a chemical substance for test marketing purposes—
 
-&emsp;(A) upon a showing by such person satisfactory to the Administrator that the manufacture, processing, distribution in commerce, use, and disposal of such substance, and that any combination of such activities, for such purposes will not present any unreasonable risk of injury to health or the environment, and
+&emsp;(A) upon a showing by such person satisfactory to the Administrator that the manufacture, processing, distribution in commerce, use, and disposal of such substance, and that any combination of such activities, for such purposes will not present any unreasonablerisk of injury to health or the environment, and
 
 &emsp;(B) under such restrictions as the Administrator considers appropriate.
 
@@ -180,7 +180,7 @@ If the Administrator has not initiated any action under this section or section 
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to such costs, for a portion of the amount such person was required to contribute.
 
-> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed and the share of the market for such substance of theperson required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. For purposes of judicial review, an order under this subparagraph shall be considered final agency action.
+> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider all relevant factors, including the effect on the competitive position of the person required to provide reimbursement in relation to the persons to be reimbursed and the share of the market for such substance of the person required to provide reimbursement in relation to the share of such market of the persons to be reimbursed. For purposes of judicial review, an order under this subparagraph shall be considered final agency action.
 
 (C) For purposes of this paragraph, the reimbursement period for any previously submitted data for a chemical substance is a period—
 
@@ -213,8 +213,4 @@ If the Administrator has not initiated any action under this section or section 
 For purposes of this section, the terms “manufacture” and “process” mean manufacturing or processing for commercial purposes.
 
 (Pub. L. 94–469, title I, §5, Oct. 11, 1976, 90 Stat. 2012; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2603, 2606, 2607, 2611 to 2613, 2614, 2616 to 2620, 2623, 2625, 2630 of this title; title 42 section 7412.
 

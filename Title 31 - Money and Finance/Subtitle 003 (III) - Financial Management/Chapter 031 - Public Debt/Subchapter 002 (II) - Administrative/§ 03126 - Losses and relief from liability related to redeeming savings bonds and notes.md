@@ -32,7 +32,3 @@ In subsection (a), the words “qualified” and “authorized or” are omitted
 
 Subsec. (b). Pub. L. 107–217, §3(h)(4)(B), substituted “Section 17304(c) of title 40” for “Section 3 of the Government Losses in Shipment Act (40 U.S.C. 723) (related to finality of decisions of the Secretary)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 3106 of this title.
-

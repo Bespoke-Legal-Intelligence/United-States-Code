@@ -42,7 +42,3 @@ This section inserts commas in certain parts of the text of subsection (b) of se
 
 1949—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1226a; title 18 section 3006A.
-

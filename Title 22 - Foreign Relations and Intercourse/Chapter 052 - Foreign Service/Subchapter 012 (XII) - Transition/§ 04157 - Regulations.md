@@ -8,7 +8,3 @@ Under the direction of the President, the Secretary shall prescribe regulations 
 
 Authority of President under this section to extent necessary to implement provisions of section 4151 of this title, relating to pay and benefits pending conversion, delegated to Secretary of State, see section 5 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4158 of this title.
-

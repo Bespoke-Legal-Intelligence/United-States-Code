@@ -40,7 +40,3 @@ Pub. L. 97–35, title VI, §671, as added by Pub. L. 105–285, title II, §201
 
 A prior section 671 of Pub. L. 97–35 provided that subtitle B (§§671–683) of title VI of Pub. L. 97–35, which enacted prior chapter and repealed sections 2701, 2706, 2711 to 2716, 2771, 2781, 2790, 2791, 2795 to 2797, 2808 to 2815, 2823 to 2825, 2827, 2828, 2830, 2833 to 2837, 2841, 2851 to 2856, 2881, 2901 to 2906, 2921 to 2923, 2928 to 2928g, 2928h to 2928n, 2929 to 2929c, 2930 to 2930f, 2931 to 2933, 2941 to 2948, 2950, 2951, 2961 to 2970, 2971a to 2971g, 2972 to 2980, 2981 to 2981c, 2982 to 2982c, 2983 to 2983b, 2984, 2984a, 2985 to 2985c, 2985d to 2985g, and 2995 to 2995c of this title and provisions set out as a note under section 2701 of this title, could be cited as the “Community Services Block Grant Act”, prior to the general amendment of this chapter by Pub. L. 105–285.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9907 of this title.
-

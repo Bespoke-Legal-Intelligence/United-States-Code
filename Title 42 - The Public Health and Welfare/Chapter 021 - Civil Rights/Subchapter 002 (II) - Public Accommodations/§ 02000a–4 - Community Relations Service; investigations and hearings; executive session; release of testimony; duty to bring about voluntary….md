@@ -4,7 +4,3 @@ The Service is authorized to make a full investigation of any complaint referred
 
 (Pub. L. 88–352, title II, §205, July 2, 1964, 78 Stat. 244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000g–3 of this title.
-

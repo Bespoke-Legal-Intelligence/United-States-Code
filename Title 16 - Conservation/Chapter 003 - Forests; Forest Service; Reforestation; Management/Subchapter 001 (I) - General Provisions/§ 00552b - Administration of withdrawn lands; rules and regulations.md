@@ -4,7 +4,3 @@ Lands withdrawn under the provisions of sections 552a to 552d of this title shal
 
 (May 28, 1940, ch. 220, §2, 54 Stat. 224.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 552c, 552d of this title.
-

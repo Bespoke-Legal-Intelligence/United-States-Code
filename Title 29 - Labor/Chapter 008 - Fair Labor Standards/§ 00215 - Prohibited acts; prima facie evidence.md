@@ -10,7 +10,7 @@
 
 &emsp;(4) to violate any of the provisions of section 212 of this title;
 
-&emsp;(5) to violate any of the provisions of section 211(c) of this title, or any regulation or order made or continued in effect under the provisions of section 211(d) of this title, or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect.
+&emsp;(5) to violate any of the provisions of section 211(c) of this title, or any regulation or ordermade or continued in effect under the provisions of section 211(d) of this title, or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect.
 
 (b) For the purposes of subsection (a)(1) of this section proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
 
@@ -33,8 +33,4 @@ For transfer of functions of other officers, employees, and agencies of Departme
 #### Liability of Public Agency for Discrimination Against Employee for Assertion of Coverage
 
 Pub. L. 99–150, §8, Nov. 13, 1985, 99 Stat. 791, provided that: “A public agency which is a State, political subdivision of a State, or an interstate governmental agency and which discriminates or has discriminated against an employee with respect to the employee's wages or other terms or conditions of employment because on or after February 19, 1985, the employee asserted coverage under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] shall be held to have violated section 15(a)(3) of such Act \[29 U.S.C. 215(a)(3)\]. The protection against discrimination afforded by the preceding sentence shall be available after August 1, 1986, only for an employee who takes an action described in section 15(a)(3) of such Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 206, 216, 217, 626 of this title.
 

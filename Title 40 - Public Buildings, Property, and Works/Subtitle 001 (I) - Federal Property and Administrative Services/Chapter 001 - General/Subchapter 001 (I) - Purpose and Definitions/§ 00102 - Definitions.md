@@ -100,7 +100,3 @@ The public land mining and mineral leasing laws, referred to in par. (9)(A)(iii)
 
 The public land laws, referred to in par. (9)(A)(iv), are classified generally to Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 18101 of this title; title 10 sections 2667, 2667a; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 3796<i>ll</i>–3, 7259, 11411; title 44 section 2901.
-

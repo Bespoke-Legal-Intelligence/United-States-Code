@@ -36,7 +36,7 @@
 
 #### (1) Appointment
 
-&emsp;The Secretary may, for any anticipated absence of a duly appointed Commissioner at a meeting of the General Council or the Fisheries Commission, designate an individual to serve as an Alternate Commissioner.
+&emsp;The Secretary may, for any anticipated absence of a duly appointed Commissioner at ameeting of the General Council or the Fisheries Commission, designate an individual to serve as an Alternate Commissioner.
 
 #### (2) Functions
 
@@ -101,8 +101,4 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92
 #### Short Title
 
 Section 201 of title II of Pub. L. 104–43 provided that: “This title \[enacting this chapter\] may be cited as the ‘Northwest Atlantic Fisheries Convention Act of 1995’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5608, 5609 of this title.
 

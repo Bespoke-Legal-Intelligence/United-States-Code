@@ -52,7 +52,7 @@ In the event that medical questions are raised in any case, the Secretary shall 
 
 #### (f) Place of examination; exclusion of physicians other than examining physician of Secretary; good cause for conclusions of other physicians respecting impairment; examination by employer's physician; suspension of proceedings and compensation for refusal of examination
 
-An employee shall submit to a physical examination under subsection (e) of this section at such place as the Secretary may require. The place, or places, shall be designated by the Secretary and shall be reasonably convenient for the employee. No physician selected by the employer, carrier, or employee shall be present at or participate in any manner in such examination, nor shall conclusions of such physicians as to the nature or extent of impairment or the cause of impairment be available to the examining physician unless otherwise ordered, for good cause, by the Secretary. Such employer or carrier shall, upon request, be entitled to have the employee examined immediately thereafter and upon the same premises by a qualified physician or physicians in the presence of such physician as the employee may select, if any. Proceedings shall be suspended and no compensation shall be payable for any period during which the employee may refuse to submit to examination.
+An employee shall submit to a physical examination under subsection (e) of this section at such place as the Secretary may require. The place, or places, shall be designated by the Secretary and shall be reasonably convenient for the employee. No physician selected by the employer, carrier, or employee shall be present at or participate in any manner in such examination, nor shall conclusions of such physicians as to the nature or extent of impairment or the cause of impairment be available to the examining physician unless otherwise ordered, for good cause, by the Secretary. Such employer or carrier shall, upon request, be entitled to have theemployee examined immediately thereafter and upon the same premises by a qualified physician or physicians in the presence of such physician as the employee may select, if any. Proceedings shall be suspended and no compensation shall be payable for any period during which the employee may refuse to submit to examination.
 
 #### (g) Fees and charges for examinations, treatment, or service; limitation; regulations
 
@@ -90,7 +90,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 Subsec. (c). Pub. L. 98–426, §7(b), substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
 
-Subsec. (d). Pub. L. 98–426, §7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment orexamination for former provisions which required a request for treatment or services and the filing of a physician's report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
+Subsec. (d). Pub. L. 98–426, §7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment or examination for former provisions which required a request for treatment or services and the filing of a physician's report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
 
 Subsec. (j). Pub. L. 98–426, §7(d), added subsec. (j).
 
@@ -139,10 +139,6 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 #### Claims Filed Under Black Lung Benefits Act
 
 Section 28(h)(1) of Pub. L. 98–426 provided that: “The amendments made by section 7 of this Act \[amending this section\] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 904, 906, 928, 931, 933, 944 of this title; title 30 section 932.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

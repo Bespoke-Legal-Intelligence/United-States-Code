@@ -42,7 +42,3 @@ In subsection (a)(1)(A), the words “for a motor vehicle” are substituted for
 
 In subsection (a)(1)(B), the word “compliance” is substituted for “conformity” for consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30141, 30165 of this title.
-

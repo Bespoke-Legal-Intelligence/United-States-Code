@@ -46,7 +46,3 @@ Subsec. (c). Pub. L. 107–135, §101(d), amended heading and text of subsec. (c
 
 Subsec. (e). Pub. L. 107–135, §101(e), added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7631, 7672, 7675 of this title.
-

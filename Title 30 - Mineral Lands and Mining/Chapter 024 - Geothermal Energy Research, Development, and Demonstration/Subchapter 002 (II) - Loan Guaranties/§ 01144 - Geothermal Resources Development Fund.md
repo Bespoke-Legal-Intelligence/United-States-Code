@@ -30,7 +30,3 @@ Subsec. (d) of this section, which required the head of the designated agency to
 
 “Secretary of Energy” substituted in subsec. (c) for “Administrator” (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1102, 1511, 1522, 1531 of this title.
-

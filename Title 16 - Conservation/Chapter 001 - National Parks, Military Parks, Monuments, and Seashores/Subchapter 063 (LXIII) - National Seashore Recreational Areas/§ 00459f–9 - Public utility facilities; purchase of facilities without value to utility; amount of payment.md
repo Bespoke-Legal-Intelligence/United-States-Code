@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to purchase from a public utility an
 
 (Pub. L. 89–195, §10, Sept. 21, 1965, 79 Stat. 827.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459f, 459f–1, 459f–2, 459f–4, 459f–5, 459f–7, 459f–10 of this title.
-

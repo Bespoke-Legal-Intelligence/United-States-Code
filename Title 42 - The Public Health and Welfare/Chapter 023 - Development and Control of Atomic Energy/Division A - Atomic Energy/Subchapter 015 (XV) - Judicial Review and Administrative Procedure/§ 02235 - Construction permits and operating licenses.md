@@ -22,7 +22,3 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Ex. Ord. No. 12129, Apr. 5, 1979, 44 F.R. 21001, which established a Critical Energy Facility Program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2239, 2242 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior and the Secretary of the Army may cooperate in the
 
 (Pub. L. 91–660, §6, Jan. 8, 1971, 84 Stat. 1969.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459h, 459h–1, 459h–2, 459h–4, 459h–6, 459h–8, 459h–9 of this title.
-

@@ -18,9 +18,5 @@ Sections 459h to 459h–10 of this title, referred to in subsec. (b), was in the
 
 2000—Pub. L. 106–554 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459h, 459h–1, 459h–4, 459h–5, 459h–6, 459h–8, 459h–9 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

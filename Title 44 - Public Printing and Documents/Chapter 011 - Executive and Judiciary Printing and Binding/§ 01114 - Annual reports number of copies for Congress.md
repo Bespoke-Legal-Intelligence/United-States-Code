@@ -24,7 +24,3 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Positions of Chief Signal Officer and Chief of Ordinance of Army Department abolished, see note set out under section 3036 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2; title 35 section 2.
-

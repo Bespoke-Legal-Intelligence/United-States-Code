@@ -10,7 +10,3 @@ The Secretary may make minor adjustments in the boundaries of the battlefield pa
 
 (Pub. L. 106–511, title V, §503, Nov. 13, 2000, 114 Stat. 2374.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423<i>l</i>–1, 423<i>l</i>–2, 423<i>l</i>–4, 423<i>l</i>–5, 423<i>l</i>–6 of this title.
-

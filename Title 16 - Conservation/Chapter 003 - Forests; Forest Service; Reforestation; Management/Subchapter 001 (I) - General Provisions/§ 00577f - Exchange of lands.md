@@ -4,7 +4,3 @@ Upon finding and determination by the Secretary of Agriculture that the public p
 
 (June 22, 1948, ch. 593, §4, 62 Stat. 570.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 577d–1, 577h, 1133 of this title.
-

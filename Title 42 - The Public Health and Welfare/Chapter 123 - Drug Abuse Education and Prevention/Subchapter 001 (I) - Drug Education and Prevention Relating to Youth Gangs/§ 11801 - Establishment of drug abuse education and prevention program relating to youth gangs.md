@@ -1,6 +1,6 @@
 ### §11801. Establishment of drug abuse education and prevention program relating to youth gangs
 
-The Secretary of Health and Human Services, through the Administration on Children, Youth, and Families, shall make grants to, and enter into contracts with, public and nonprofit private agencies (including agencies described in paragraph (7)(A) acting jointly), organizations (including community based organizations with demonstrated experience in this field), institutions, and individuals, to carry out projects and activities—
+The Secretary of Health and Human Services, through the Administration on Children, Youth,and Families, shall make grants to, and enter into contracts with, public and nonprofit private agencies (including agencies described in paragraph (7)(A) acting jointly), organizations (including community based organizations with demonstrated experience in this field), institutions, and individuals, to carry out projects and activities—
 
 &emsp;(1) to prevent and to reduce the participation of youth in the activities of gangs that engage in illicit drug-related activities,
 
@@ -33,8 +33,4 @@ The Secretary of Health and Human Services, through the Administration on Childr
 #### Effective Date of 1991 Amendment
 
 Section 3 of Pub. L. 102–132 provided that: “This Act \[enacting section 11806 of this title and amending this section and sections 11805 and 11823 of this title\] shall take effect on October 1, 1991.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11802, 11803, 11804 of this title.
 

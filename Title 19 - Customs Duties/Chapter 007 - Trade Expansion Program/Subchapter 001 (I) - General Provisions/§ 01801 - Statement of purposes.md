@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Short Title
 
-Section 101 of Pub. L. 87–794 provided that: “This Act \[enacting this chapter and section 1323 of this title, amending sections 1351 and 1352 of this title, and sections 172, 6501, and 6511 of Title 26, Internal Revenue Code, repealing sections 1352a and 1362 to 1365 of this title, enacting provisions set out as notes under section 1352 and former sections 1352a, 1362, and 1364 of this title, and under section 172 of Title 26, and amending provisions of the Tariff Classification Act of 1962, set out as a note preceding section 1202 of this title\] may be cited as the “Trade Expansion Act of 1962’.”
+Section 101 of Pub. L. 87–794 provided that: “This Act \[enacting this chapter and section 1323 of this title, amending sections 1351 and 1352 of this title, and sections 172, 6501, and 6511 of Title 26, Internal Revenue Code, repealing sections 1352a and 1362 to 1365 of this title, enacting provisions set out as notes under section 1352 and former sections 1352a, 1362, and 1364 of this title, and under section 172 of Title 26, and amending provisions of the Tariff Classification Act of 1962, setout as a note preceding section 1202 of this title\] may be cited as the “Trade Expansion Act of 1962’.”
 
 #### Abolition of Office of the Special Representative for Trade Negotiations
 

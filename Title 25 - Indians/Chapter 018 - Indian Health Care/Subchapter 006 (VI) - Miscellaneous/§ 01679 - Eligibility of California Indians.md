@@ -52,7 +52,3 @@ Act of August 18, 1958, referred to in subsec. (b)(4), is Pub. L. 85–671, Aug.
 
 1988—Pub. L. 100–713 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Indians in the State of California who are members or descendants of members of former federally recognized tribes of the State of California shall be eligible for services from the Service in the fiscal years beginning with the fiscal year ending September 30, 1982, and ending with the fiscal year ending September 30, 1984.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1621j of this title.
-

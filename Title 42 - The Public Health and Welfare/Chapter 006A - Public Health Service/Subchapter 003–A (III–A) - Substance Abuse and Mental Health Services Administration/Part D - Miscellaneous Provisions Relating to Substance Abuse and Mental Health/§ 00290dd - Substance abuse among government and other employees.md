@@ -4,7 +4,7 @@
 
 #### (1) Development
 
-&emsp;The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, shall be responsible for fostering substance abuse prevention and treatment programs and services in State and local governments and in private industry.
+&emsp;The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall be responsible for fostering substance abuse prevention and treatment programs and services in State and local governments and in private industry.
 
 #### (2) Model programs
 

@@ -10,7 +10,3 @@ Pending submission of the Commission's plan, any Federal entity conducting or su
 
 (May 17, 1954, ch. 204, §10, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1471.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450jj–1, 450jj–2, 450jj–3, 450jj–4, 450jj–5, 450jj–6, 450jj–8 of this title.
-

@@ -30,7 +30,3 @@ Eligible Equipment Defined.—In this section, the term “eligible equipment”
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47139 of this title.
-

@@ -8,7 +8,3 @@ The Secretary of Agriculture is authorized to establish forest tree nurseries an
 
 The act of June 9, 1930, ch. 416, 46 Stat. 527, as amended, which is classified to sections 576 to 576b of this title, is popularly known as the “Knutson-Vandenberg Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 500 of this title.
-

@@ -10,7 +10,3 @@ I74senate report no. 95–989
 
 This section makes inapplicable sections of the bill which are either inappropriate in railroad reorganizations, or relate to matters which are otherwise dealt with in subchapter IV.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 103 of this title.
-

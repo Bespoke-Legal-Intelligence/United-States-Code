@@ -110,9 +110,5 @@ Subsec. (h). Pub. L. 104–134, §31001(c)(1), (g)(1)(C), inserted “, the Sec
 
 Subsec. (i). Pub. L. 104–134, §31001(q), added subsec. (i).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3701, 3711 of this title; title 5 section 5514; title 7 sections 2371, 7753, 7759, 8311; title 10 section 2739; title 15 section 80a–24; title 21 section 136a; title 22 section 2671; title 26 section 6103; title 42 sections 404, 1383.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “, judicial, or”.</i>
 

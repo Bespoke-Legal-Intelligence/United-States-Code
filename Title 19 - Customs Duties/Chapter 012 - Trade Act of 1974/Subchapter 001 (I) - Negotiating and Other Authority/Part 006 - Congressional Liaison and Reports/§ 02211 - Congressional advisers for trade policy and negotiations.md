@@ -52,9 +52,5 @@ The United States Trade Representative shall consult on a continuing basis with 
 
 1979—Subsec. (b)(1). Pub. L. 96–39 substituted “trade agreement or any requirement of, amendment to, or recommendation under, such agreement” for “trade agreement”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2132, 2155, 2517, 3802 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

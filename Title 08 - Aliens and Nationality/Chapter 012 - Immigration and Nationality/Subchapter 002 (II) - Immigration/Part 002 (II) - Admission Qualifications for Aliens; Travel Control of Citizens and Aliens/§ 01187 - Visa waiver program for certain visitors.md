@@ -124,7 +124,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(i) the total of the number of nationals of that country who were denied admission at the time of arrival or withdrew their application for admission during such previous fiscal year as a nonimmigrant visitor, and
 
-&emsp;&emsp;&emsp;(ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during such previousfiscal year and who violated the terms of such admission,
+&emsp;&emsp;&emsp;(ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during such previous fiscal year and who violated the terms of such admission,
 
 > &emsp;&emsp;was less than 2 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during such previous fiscal year.
 
@@ -154,7 +154,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
-&emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether anysuch designation ought to be continued or terminated under subsection (d) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(III) shall submit a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the continuation or termination of the country's designation that includes an explanation of such determination and the effects described in subclause (I).
 
@@ -194,7 +194,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) the emergency that caused the termination has ended; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationalsof that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
+&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationals of that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
 
 #### (C) Treatment of nationals after termination
 
@@ -464,7 +464,7 @@ Subsec. (e)(1)(B). Pub. L. 106–396, §101(a)(5)(B), struck out “pilot” bef
 
 Subsec. (e)(1)(D). Pub. L. 106–396, §205(b), added subpar. (D).
 
-Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted “carrier (including any carrier conducting operationsunder part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier” and “failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier's failure”.
+Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted “carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier” and “failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier's failure”.
 
 Subsec. (e)(3). Pub. L. 106–396, §403(d)(2), added par. (3).
 
@@ -625,10 +625,6 @@ Details in Report.—The report shall include—
 &emsp;&emsp;“(A) on extending the pilot program period, and
 
 &emsp;&emsp;“(B) on increasing the number of countries that may be designated under the program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1184, 1229c, 1255, 1258, 1365a, 1732, 1736, 1772 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

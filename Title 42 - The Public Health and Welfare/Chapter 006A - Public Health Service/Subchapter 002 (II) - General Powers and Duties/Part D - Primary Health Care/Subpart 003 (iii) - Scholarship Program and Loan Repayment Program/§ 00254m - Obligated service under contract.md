@@ -74,7 +74,7 @@ Subsec. (b)(5)(B). Pub. L. 107–251, §311(1)(B)(i), (iii), redesignated subpar
 
 “(B)(i) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, or dentistry, the number of years referred to in subparagraph (A)(i) shall be 3 years.
 
-“(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a schoolof veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.”
+“(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.”
 
 Subsec. (b)(5)(C). Pub. L. 107–251, §311(1)(B)(iii), redesignated subpar. (E) as (C). Former subpar. (C) redesignated (B).
 
@@ -139,8 +139,4 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 100–202, §101(g) \[title II\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246.
 
 Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, §101(h) \[title II\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254d, 254f–1, 254n, 254<i>o</i>, 254t, 287c–33, 288–2, 288–5, 288–5a, 288–6, 293b, 11709 of this title; title 25 sections 1613a, 1616e, 1621p.
 

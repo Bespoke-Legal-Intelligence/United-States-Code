@@ -28,7 +28,7 @@ No obligation may be made by the Administrator for financial assistance under th
 
 After October 21, 1976, the Administrator shall not construct or operate any full-scale facility (except by contract with public agencies or authorities or private persons).
 
-(Pub. L. 89–272, title II, §8004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2836; amended Pub. L. 95–609, §7(v), Nov. 8, 1978, 92 Stat. 3084; Pub. L. 98–616, title V, §502(f), Nov. 8, 1984, 98 Stat. 3276.)
+(Pub. L. 89–272, title II, §8004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2836; amendedPub. L. 95–609, §7(v), Nov. 8, 1978, 92 Stat. 3084; Pub. L. 98–616, title V, §502(f), Nov. 8, 1984, 98 Stat. 3276.)
 
 #### Amendments
 
@@ -38,9 +38,5 @@ After October 21, 1976, the Administrator shall not construct or operate any ful
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5920, 6981 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

@@ -46,7 +46,3 @@ The total amount obligated by the Secretary under this section for any fiscal ye
 
 A prior section 6676, Pub. L. 89–10, title II, §2306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635, related to matching funds from private sources, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6672 of this title.
-

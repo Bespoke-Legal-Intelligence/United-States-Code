@@ -1,9 +1,5 @@
 Part B—Foster Grandparent Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5000, 5013, 5021, 5025, 5027, 5028, 5056, 5061, 5082, 12651e, 12653 of this title.
-
 
 ---
 

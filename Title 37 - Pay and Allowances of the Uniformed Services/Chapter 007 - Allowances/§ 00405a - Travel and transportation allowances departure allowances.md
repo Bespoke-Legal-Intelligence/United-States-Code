@@ -60,7 +60,3 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Section 2 of Pub. L. 89–26, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: “This Act \[enacting this section and amending sections 407, 411, and 1006 of this title\] becomes effective on February 1, 1965.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 407, 411, 420, 1003, 1006 of this title.
-

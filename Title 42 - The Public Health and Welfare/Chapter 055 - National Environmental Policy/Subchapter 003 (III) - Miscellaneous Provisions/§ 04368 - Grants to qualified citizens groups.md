@@ -16,7 +16,7 @@
 
 &emsp;(C) a description of the proposed activities for the succeeding one year period.
 
-(6) A grant made under this program shall not exceed 75 per centum of the estimated cost ofthe project or program for which the grant is made, and no group shall receive more than $50,000 in any one year.
+(6) A grant made under this program shall not exceed 75 per centum of the estimated cost of the project or program for which the grant is made, and no group shall receive more than $50,000 in any one year.
 
 (7) No financial assistance provided under this section shall be used to support lobbying or litigation by any recipient group.
 

@@ -112,7 +112,7 @@ July 4, 1966, Pub. L. 89–488, §3(c), 80 Stat. 252.
 
 In subsection (b), the words “Notwithstanding paragraph (3) of this subsection” are substituted for “Notwithstanding any other provision of this section” for clarity. The words “section 8101 of this title” are substituted for “section 10(M) of this Act” to reflect the codification of that section in title 5.
 
-In subsection (e), the words “is deemed” are substituted for “shall be considered to be”. The words “minimum rate of basic pay for GS–2” and “maximum rate of basic pay for GS–15” are substituted for “lowest rate of basic compensation provided for grade 2 by the General Schedule of the Classification Act of 1949” and“highest rate of basic compensation provided for grade 15 of the General Schedule of the Classification Act of 1949,” respectively, for consistency of style and to reflect the codification of the Classification Act of 1949 in title 5. The words “under section 8114 of this title” are substituted for “as provided in section 12” to reflect the codification of that section in title 5.
+In subsection (e), the words “is deemed” are substituted for “shall be considered to be”. The words “minimum rate of basic pay for GS–2” and “maximum rate of basic pay for GS–15” are substituted for “lowest rate of basic compensation provided for grade 2 by the General Schedule of the Classification Act of 1949” and “highest rate of basic compensation provided for grade 15 of the General Schedule of the Classification Act of 1949,” respectively, for consistency of style and to reflect the codification of the Classification Act of 1949 in title 5. The words “under section 8114 of this title” are substituted for “as provided in section 12” to reflect the codification of that section in title 5.
 
 #### Amendments
 
@@ -138,13 +138,9 @@ Amendment by section 18 of Pub. L. 93–416 effective on Sept. 7, 1974, and appl
 
 #### Gratuity for Death of Civilian Employee From Injury Sustained in Line of Duty
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §651\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, provided that: “Notwithstanding section 8116 of title 5, United States Code, and in addition to any payment made under 5 U.S.C. 8101 et seq., beginning in fiscal year 1997 and thereafter, the head of any department or agency is authorized to pay from appropriations made available to the department or agency a death gratuity to the personal representative (as that term is defined by applicable law) of a civilian employee of that department or agency whose death resulted from an injury sustained in the line of duty on or after August 2, 1990: <i>Provided</i>, That payments made pursuant to this section, in combination with the payments made pursuant to sections 8133(f) and 8134(a) of such title 5 and section 312 of Public Law 103–332 (108 Stat. 2537) \[5 U.S.C. 8134 note\], may not exceed a total of $10,000 per employee.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §651\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, provided that: “Notwithstanding section 8116 of title 5, United States Code, and in addition to any payment made under 5U.S.C. 8101 et seq., beginning in fiscal year 1997 and thereafter, the head of any department or agency is authorized to pay from appropriations made available to the department or agency a death gratuity to the personal representative (as that term is defined by applicable law) of a civilian employee of that department or agency whose death resulted from an injury sustained in the line of duty on or after August 2, 1990: <i>Provided</i>, That payments made pursuant to this section, in combination with the payments made pursuant to sections 8133(f) and 8134(a) of such title 5 and section 312 of Public Law 103–332 (108 Stat. 2537) \[5 U.S.C. 8134 note\], may not exceed a total of $10,000 per employee.”
 
 #### Personnel Not Affected by 1967 Increase
 
 Increases authorized under amendment by section 1(62)(B) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8109, 8119, 8135, 8138, 8141, 8148 of this title; title 14 sections 707, 760; title 18 section 1921; title 22 section 3973.
 

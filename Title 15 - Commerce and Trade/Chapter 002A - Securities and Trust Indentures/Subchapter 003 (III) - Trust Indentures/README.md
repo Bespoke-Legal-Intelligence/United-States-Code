@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—TRUST INDENTURES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 78c, 80a–2, 80a–37, 80a–49, 80b–2 of this title; title 7 section 12a; title 11 section 364, 1145; title 25 section 646.
-
 
 ---
 

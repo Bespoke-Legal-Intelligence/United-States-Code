@@ -30,7 +30,3 @@ An eligible entity described in subsection (a) of this section that receives Fed
 
 A prior section 3112 of Pub. L. 89–10 was classified to section 6812 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6821, 7011 of this title.
-

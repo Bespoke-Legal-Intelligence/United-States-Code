@@ -1,9 +1,5 @@
 ### Division A—Atomic Energy
 
-#### Division Referred to in Other Sections
-
-This division is referred to in title 18 section 922.
-
 
 ---
 

@@ -12,7 +12,3 @@ Based on 44 U.S. Code, 1964 ed., §366 (July 7, 1943, ch. 192, §1, 57 Stat. 380
 
 1976—Pub. L. 94–575 expanded “records” to include “machine readable materials”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2901, 3105 of this title; title 10 section 7545.
-

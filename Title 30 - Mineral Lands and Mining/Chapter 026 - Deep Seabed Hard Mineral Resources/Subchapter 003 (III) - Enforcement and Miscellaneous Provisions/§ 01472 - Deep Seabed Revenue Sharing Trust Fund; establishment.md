@@ -2,13 +2,13 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Deep Seabed Revenue Sharing Trust Fund” (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts asmay be appropriated or credited to the Trust Fund as provided in this section.
+There is established in the Treasury of the United States a trust fund to be known as the “Deep Seabed Revenue Sharing Trust Fund” (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as may be appropriated or credited to the Trust Fund as provided in this section.
 
 #### (b) Transfer to Trust Fund of amounts equivalent to certain taxes
 
 #### (1) In general
 
-&emsp;There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amounts of the taxes received in the Treasury under section 4495 <sup>1</sup> of title 26.
+&emsp;There are hereby appropriated to the Trust Fund amounts determined by the Secretary of the Treasury to be equivalent to the amountsof the taxes received in the Treasury under section 4495 <sup>1</sup> of title 26.
 
 #### (2) Method of transfer
 

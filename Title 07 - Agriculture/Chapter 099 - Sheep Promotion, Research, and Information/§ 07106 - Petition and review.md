@@ -38,7 +38,3 @@
 
 (Pub. L. 103–407, §7, Oct. 22, 1994, 108 Stat. 4224.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7107 of this title.
-

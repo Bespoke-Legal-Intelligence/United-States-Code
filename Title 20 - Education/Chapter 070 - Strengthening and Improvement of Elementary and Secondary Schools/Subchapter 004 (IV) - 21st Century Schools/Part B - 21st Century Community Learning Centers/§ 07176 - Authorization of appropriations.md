@@ -16,7 +16,3 @@ There are authorized to be appropriated—
 
 (Pub. L. 89–10, title IV, §4206, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7172 of this title.
-

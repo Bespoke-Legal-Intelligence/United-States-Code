@@ -10,7 +10,3 @@ The Secretary of Agriculture is authorized and directed to collect and publish s
 
 1938—Act May 12, 1938, among other changes, inserted proviso.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2276 of this title.
-

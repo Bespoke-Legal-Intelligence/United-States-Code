@@ -42,7 +42,3 @@ A disciplinary measure taken by a director under this section shall be subject t
 
 Provisions similar to this section were contained in section 1700 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2899 of this title.
-

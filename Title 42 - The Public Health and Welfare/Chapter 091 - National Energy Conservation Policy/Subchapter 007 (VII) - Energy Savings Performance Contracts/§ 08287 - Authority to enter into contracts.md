@@ -50,11 +50,13 @@
 
 #### (c) Sunset requirements
 
-The authority to enter into new contracts under this section shall cease to be effective on October 1, 2003.
+The authority to enter into new contracts under this section shall cease to be effective on October 1, 2006.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–375 substituted “2006” for “2003”.
 
 2000—Subsec. (a)(2)(D)(iii). Pub. L. 106–291 and Pub. L. 106–469 amended cl. (iii) identically, substituting “$10,000,000” for “$750,000”.
 
@@ -74,6 +76,14 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 Pub. L. 103–211, title III, §402, Feb. 12, 1994, 108 Stat. 40, provided that: “The Architect of the Capitol shall be considered the agency for the purposes of the election in section 801(b)(2)(B) of the National Energy Conservation Policy Act \[42 U.S.C. 8287(b)(2)(B)\] and the head of the agency for purposes of subsection (b)(2)(C) of such section.”
 
+#### Review
+
+Pub. L. 108–375, div. A, title X, §1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Energy shall complete a review of the Energy Savings Performance Contract program to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program. In addition, this review shall identify all areas for increasing program flexibility and effectiveness, including audit and measurement verification requirements, accounting for energy use in determining savings, contracting requirements, including the identification of additional qualified contractors, and energy efficiency services covered. The Secretary shall report these findings to Congress and shall implement identified administrative and regulatory changes to increase program flexibility and effectiveness to the extent that such changes are consistent with statutory authority.”
+
+#### Extension of Authority
+
+Pub. L. 108–375, div. A, title X, §1090(g), Oct. 28, 2004, 118 Stat. 2068, provided that: “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287) after October 1, 2003, and before the date of enactment of this Act \[Oct. 28, 2004\], shall be deemed to have been entered into pursuant to such section 801 as amended by subsection (a) of this section.”
+
 #### Energy Efficiency Incentive
 
 Pub. L. 100–456, div. A, title VII, §736, Sept. 29, 1988, 102 Stat. 2006, as amended by Pub. L. 101–189, div. A, title III, §331, Nov. 29, 1989, 103 Stat. 1417, provided that:
@@ -86,15 +96,11 @@ Energy Conservation Incentive.—In order to provide additional incentive for th
 
 Authorized Uses of Savings.—The energy cost savings realized by the United States in each of the first five years under a contract may be used as follows:
 
-&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
+&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations undercontracts entered into under title VIII of the National Energy Conservation Policy Act.
 
 &emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 
 “(c)
 
 Determination of Amount of Savings.—Not more than 90 days after the end of each of the first five years during which energy savings measures have been in operation under a contract entered into by the Secretary of a military department under title VIII of the National Energy Conservation Policy Act, the Secretary of the military department concerned shall determine the amount of energy cost savings realized by the United States under the terms of the contract during that year by reason of the energy savings measures acquired and installed at that installation pursuant to that contract.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 591.
 

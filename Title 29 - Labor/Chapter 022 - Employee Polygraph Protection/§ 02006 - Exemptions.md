@@ -118,7 +118,3 @@ Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356,
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2002, 2007, 2008, 2009 of this title.
-

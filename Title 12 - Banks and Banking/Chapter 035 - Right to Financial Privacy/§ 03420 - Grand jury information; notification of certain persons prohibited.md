@@ -2,7 +2,7 @@
 
 (a) Financial records about a customer obtained from a financial institution pursuant to a subpena issued under the authority of a Federal grand jury—
 
-&emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grandjury shall be provided with a description of the contents of the records.; <sup>1</sup>
+&emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; <sup>1</sup>
 
 &emsp;(2) shall be used only for the purpose of considering whether to issue an indictment or presentment by that grand jury, or of prosecuting a crime for which that indictment or presentment is issued, or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure, or for a purpose authorized by section 3412(a) of this title;
 
@@ -44,11 +44,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
-Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3413 of this title.
+Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, orafter Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,7 +6,7 @@
 
 (b)(1) Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.
 
-(2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30 days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
+(2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
 
 (c) In any case filed in the United States Court of Appeals for the Federal Circuit, the court shall review the record and hold unlawful and set aside any agency action, findings, or conclusions found to be—
 
@@ -59,8 +59,4 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 #### Savings Provision
 
 For effect of Pub. L. 101–12 on orders, rules, and regulations issued before effective date of Pub. L. 101–12, administrative proceedings pending at time provisions of Pub. L. 101–12 take effect, and suits and other proceedings as in effect immediately before effective date of Pub. L. 101–12, see section 7 of Pub. L. 101–12 set out as a note under section 1201 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1214, 1215, 1221, 7121, 8347, 8461, 9902 of this title; title 28 section 1295; title 38 section 4324; title 49 section 40122.
 

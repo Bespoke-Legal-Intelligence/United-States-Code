@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 #### (1) Antarctic Convergence
 
-&emsp;The term “Antarctic Convergence” means a line joining the following points along the parallels of latitude and meridians of longitude: 50 degrees south, 0 degrees; 50 degrees south, 30 degrees east; 45 degrees south, 30 degrees east; 45 degrees south, 80 degrees east; 55 degrees south, 80 degrees east; 55 degrees south, 150 degrees east; 60 degrees south, 150 degrees east; 60 degrees south; <sup>1</sup> 50 degrees west; 50 degreessouth, 50 degrees west; and 50 degrees south, 0 degrees.
+&emsp;The term “Antarctic Convergence” means a line joining the following points along the parallels of latitude and meridians of longitude: 50 degrees south, 0 degrees; 50 degrees south, 30 degrees east; 45 degrees south, 30 degrees east; 45 degrees south, 80 degrees east; 55 degrees south, 80 degrees east; 55 degrees south, 150 degrees east; 60 degrees south, 150 degrees east; 60 degrees south; <sup>1</sup> 50 degrees west; 50 degrees south, 50 degrees west; and 50 degrees south, 0 degrees.
 
 #### (2) Antarctic marine living resources
 
@@ -75,10 +75,6 @@ For purposes of this chapter—
 #### References in Text
 
 The customs laws of the United States, referred to in par. (7), are classified generally to Title 19, Customs Duties.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2402, 2462 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

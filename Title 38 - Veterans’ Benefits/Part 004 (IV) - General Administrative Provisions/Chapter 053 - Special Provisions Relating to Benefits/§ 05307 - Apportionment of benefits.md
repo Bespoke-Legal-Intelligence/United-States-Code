@@ -32,7 +32,3 @@ Subsec. (c). Pub. L. 98–160, §703(2)(A)–(C), (E), substituted “the vetera
 
 Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92–540, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5313 of this title.
-

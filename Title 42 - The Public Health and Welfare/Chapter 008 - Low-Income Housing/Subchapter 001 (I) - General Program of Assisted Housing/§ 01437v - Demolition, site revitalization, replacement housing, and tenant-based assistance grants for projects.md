@@ -22,7 +22,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (1) In general
 
-&emsp;The Secretary may not make any grant under this section to any applicant unless the applicant certifies to the Secretary that the applicant will—
+&emsp;The Secretary may not make any grant under this section to any applicant unless theapplicant certifies to the Secretary that the applicant will—
 
 &emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
@@ -86,7 +86,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(C) the extent to which the applicant could undertake such activities without a grant under this section;
 
-&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private service providers, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
+&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private serviceproviders, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
 
 &emsp;&emsp;(E) the need for affordable housing in the community;
 
@@ -156,9 +156,9 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) requires major redesign, reconstruction or redevelopment, or partial or total demolition, to correct serious deficiencies in the original design (including inappropriately high population density), deferred maintenance, physical deterioration or obsolescence of major systems and other deficiencies in the physical plant of the project;
 
-&emsp;&emsp;&emsp;(ii) is a significant contributing factor to the physical decline of and disinvestmentby public and private entities in the surrounding neighborhood;
+&emsp;&emsp;&emsp;(ii) is a significant contributing factor to the physical decline of and disinvestment by public and private entities in the surrounding neighborhood;
 
-&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income families with children, are unemployed, and dependent on various forms of public assistance;
+&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income familieswith children, are unemployed, and dependent on various forms of public assistance;
 
 &emsp;&emsp;&emsp;(II) has high rates of vandalism and criminal activity (including drug-related criminal activity) in comparison to other housing in the area; or
 
@@ -312,11 +312,11 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 2003—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—” for “The Secretary shall establish selectioncriteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—” for “The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out “large-scale” after “for managing”.
 
-Subsec. (e)(2)(D). Pub. L. 108–186, §402(a)(3), inserted “and ongoing implementation” after “development” and “, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application” before semicolon at end.
+Subsec. (e)(2)(D). Pub. L. 108–186, §402(a)(3), inserted “and ongoing implementation” after “development”and “, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application” before semicolon at end.
 
 Subsec. (e)(2)(I) to (L). Pub. L. 108–186, §402(a)(4)–(6), added subpars. (I) to (K) and redesignated former subpar. (I) as (L).
 
@@ -373,10 +373,6 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 #### Study of Elderly and Disabled Public Housing Needs
 
 Pub. L. 108–186, title IV, §402(c), Dec. 16, 2003, 117 Stat. 2694, provided that: “Not later than 18 months after the date of enactment of this Act \[Dec. 16, 2003\], the Comptroller General of the United States shall submit a report to Congress regarding the extent of severely distressed elderly and non-elderly disabled public housing, and recommendations for improving that housing through the HOPE VI program or other means, taking into account the special needs of the residents.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437c, 1437d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
 

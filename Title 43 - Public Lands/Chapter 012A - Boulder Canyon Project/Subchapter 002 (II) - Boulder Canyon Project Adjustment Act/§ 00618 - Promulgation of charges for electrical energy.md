@@ -34,7 +34,3 @@ Act Apr. 30, 1947, changed name of Boulder Dam back to Hoover Dam.
 
 Pub. L. 98–381, title I, §104(b), Aug. 17, 1984, 98 Stat. 1335, provided that: “Except as amended by this Act \[amending sections 618, 618a, 618e, and 618k of this title\], the Boulder Canyon Project Adjustment Act of 1940 (54 Stat. 774, as amended, 43 U.S.C. 618), as amended and supplemented \[this subchapter\], shall remain in full force and effect.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 618a of this title.
-

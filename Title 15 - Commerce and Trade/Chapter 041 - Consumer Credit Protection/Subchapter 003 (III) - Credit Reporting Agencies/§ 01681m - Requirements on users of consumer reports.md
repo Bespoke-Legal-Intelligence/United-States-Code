@@ -116,7 +116,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 #### (B) Inactive accounts
 
-&emsp;&emsp;In developing the guidelines required by paragraph (1)(A), the agencies described inparagraph (1) shall consider including reasonable guidelines providing that when a transaction occurs with respect to a credit or deposit account that has been inactive for more than 2 years, the creditor or financial institution shall follow reasonable policies and procedures that provide for notice to be given to a consumer in a manner reasonably designed to reduce the likelihood of identity theft with respect to such account.
+&emsp;&emsp;In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall consider including reasonable guidelines providing that when a transaction occurs with respect to a credit or deposit account that has been inactive for more than 2 years, the creditor or financial institution shall follow reasonable policies and procedures that provide for notice to be given to a consumer in a manner reasonably designed to reduce the likelihood of identity theft with respect to such account.
 
 #### (3) Consistency with verification requirements
 
@@ -255,10 +255,6 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Regulations
 
 Pub. L. 108–159, title II, §213(b), Dec. 4, 2003, 117 Stat. 1979, provided that: “Regulations required by section 615(d)(2) of the Fair Credit Reporting Act \[15 U.S.C. 1681m(d)(2)\], as amended by this section, shall be issued in final form not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681a, 1681b, 1681h, 1681j, 1681s, 1681s–2, 1681t of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “creditworthiness,”.</i>
 

@@ -4,7 +4,3 @@ When title to all alienated lands within Isle Royale in Lake Superior, Keweenaw 
 
 (Mar. 3, 1931, ch. 448, §1, 46 Stat. 1514.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408d, 408e of this title.
-

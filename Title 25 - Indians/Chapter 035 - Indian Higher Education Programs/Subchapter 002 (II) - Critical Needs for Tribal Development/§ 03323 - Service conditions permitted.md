@@ -10,7 +10,3 @@ Any eligible Indian tribe or tribal organization that intends to require critica
 
 (Pub. L. 102–325, title XIII, §1323, July 23, 1992, 106 Stat. 803.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3324 of this title.
-

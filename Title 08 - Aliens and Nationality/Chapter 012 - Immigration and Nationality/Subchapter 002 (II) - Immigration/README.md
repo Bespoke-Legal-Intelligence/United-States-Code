@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—IMMIGRATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1101, 1364, 1533, 1534, 1536 of this title.
-
 
 ---
 

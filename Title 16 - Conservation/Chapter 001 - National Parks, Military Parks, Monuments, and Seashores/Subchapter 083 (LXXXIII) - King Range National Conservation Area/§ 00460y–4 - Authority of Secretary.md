@@ -52,7 +52,3 @@ The Secretary is authorized—
 
 1978—Par. (3)(B). Pub. L. 95–352 inserted provisions relating to deposit of receipts into Treasury.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460y–9 of this title.
-

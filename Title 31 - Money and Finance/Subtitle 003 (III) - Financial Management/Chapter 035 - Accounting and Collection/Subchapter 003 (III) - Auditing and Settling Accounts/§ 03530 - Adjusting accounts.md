@@ -52,7 +52,3 @@ In subsection (c), the words “and issue” are omitted as surplus. The words �
 
 In subsection (d), the word “settlement” is omitted as surplus. The words “the Secretary of the department concerned or . . . or independent establishment concerned” are omitted as unnecessary because of the restatement. The word “occurring” is omitted as surplus. The word “accounts” is substituted for “amount” before “was payable” for clarity. The word “succeeding” is omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5514.
-

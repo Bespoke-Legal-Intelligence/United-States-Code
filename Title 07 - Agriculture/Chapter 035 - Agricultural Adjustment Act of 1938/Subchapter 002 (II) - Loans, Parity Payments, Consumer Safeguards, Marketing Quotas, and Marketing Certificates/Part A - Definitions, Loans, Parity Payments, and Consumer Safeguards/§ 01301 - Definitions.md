@@ -18,7 +18,7 @@ For the purposes of this subchapter and the declaration of policy—
 
 &emsp;&emsp;(ii) 5 per centum of the parity price so determined multiplied by the number of full calendar years (not counting 1956 in the case of basic agricultural commodities) which, as of such date, have elapsed after January 1, 1949, in the case of non-basic agricultural commodities, and after January 1, 1955, in the case of the basic agricultural commodities.
 
-&emsp;(F) Notwithstanding the provisions of subparagraphs (A) and (E) of this paragraph, if the parity price for any agricultural commodity, computed as provided in subparagraphs (A) and (E) of this paragraph, appears to be seriously out of line with the parity prices of other agricultural commodities, the Secretarymay, and upon the request of a substantial number of interested producers shall, hold public hearings to determine the proper relationship between the parity price of such commodity and the parity prices of other agricultural commodities. Within sixty days after commencing such hearing the Secretary shall complete such hearing, proclaim his findings as to whether the facts require a revision of the method of computing the parity price of such commodity, and put into effect any revision so found to be required.
+&emsp;(F) Notwithstanding the provisions of subparagraphs (A) and (E) of this paragraph, if the parity price for any agricultural commodity, computed as provided in subparagraphs (A) and (E) of this paragraph, appears to be seriously out of line with the parity prices of other agricultural commodities, the Secretary may, and upon the request of a substantial number of interested producers shall, hold public hearings to determine the proper relationship between the parity price of such commodity and the parity prices of other agricultural commodities. Within sixty days after commencing such hearing the Secretary shall complete such hearing, proclaim his findings as to whether the facts require a revision of the method of computing the parity price of such commodity, and put into effect any revision so found to be required.
 
 &emsp;(G) Notwithstanding the foregoing provisions of this section, the parity price for any basic agricultural commodity, as of any date during the six-year period beginning January 1, 1950, shall not be less than its parity price computed in the manner used prior to October 31, 1949.
 
@@ -52,9 +52,7 @@ For the purposes of this subchapter—
 
 &emsp;(B) “Carry-over” of cotton for any marketing year shall be the quantity of cotton on hand in the United States at the beginning of such marketing year, not including any part of the crop which was produced in the United States during the calendar year then current.
 
-&emsp;(C) “Carry-over” of tobacco for any marketing year shall be the quantity of such tobacco on hand in the United States at the beginning of such marketing year (or on January 1 of such marketing year in the case of Maryland tobacco), which was produced in the United States prior to the beginning of the calendar year in which such marketing year begins, except that in the case of cigar-filler and cigar-binder tobacco the quantity of type 46 on hand and theretofore produced in the United States during such calendar year shall also be included.
-
-&emsp;(D) “Carry-over” of wheat, for any marketing year shall be the quantity of wheat on hand in the United States at the beginning of such marketing year, not including any wheat which was produced in the United States during the calendar year then current, and not including any wheat held by the Federal Crop Insurance Corporation under the Federal Crop Insurance Act \[7 U.S.C. 1501 et seq.\].
+&emsp;(C) “Carry-over” of wheat, for any marketing year shall be the quantity of wheat on hand in the United States at the beginning of such marketing year, not including any wheat which was produced in the United States during the calendar year then current, and not including any wheat held by the Federal Crop Insurance Corporation under the Federal Crop Insurance Act \[7 U.S.C. 1501 et seq.\].
 
 &emsp;(4)(A) “Commercial corn-producing area” shall include all counties in which the average production of corn (excluding corn used as silage) during the ten calendar years immediately preceding the calendar year for which such area is determined, after adjustment for abnormal weather conditions, is four hundred and fifty bushels or more per farm and four bushels or more for each acre of farm land in the county.
 
@@ -62,7 +60,7 @@ For the purposes of this subchapter—
 
 &emsp;(5) “Farm consumption” of corn means consumption by the farmer's family, employees, or household, or by his work stock; or consumption by poultry or livestock on his farm if such poultry or livestock, or the products thereof, are consumed or to be consumed by the farmer's family, employees, or household.
 
-&emsp;(6)(A) “Market”, in the case of corn, cotton, rice, tobacco, and wheat, means to dispose of, in raw or processed form, by voluntary or involuntary sale, barter, or exchange, or by gift inter vivos, and, in the case of corn and wheat, by feeding (in any form) to poultry or livestock which, or the products of which, are sold, bartered, or exchanged, or to be so disposed of, but does not include disposing of any such commodities as premium to the Federal Crop Insurance Corporation under the Federal Crop Insurance Act \[7 U.S.C. 1501 et seq.\].
+&emsp;(6)(A) “Market”, in the case of corn, cotton, rice, and wheat, means to dispose of, in raw orprocessed form, by voluntary or involuntary sale, barter, or exchange, or by gift inter vivos, and, in the case of corn and wheat, by feeding (in any form) to poultry or livestock which, or the products of which, are sold, bartered, or exchanged, or to be so disposed of, but does not include disposing of any such commodities as premium to the Federal Crop Insurance Corporation under the Federal Crop Insurance Act \[7 U.S.C. 1501 et seq.\].
 
 &emsp;(B) “Marketed”, “marketing”, and “for market” shall have corresponding meanings to the term “market” in the connection in which they are used.
 
@@ -90,23 +88,21 @@ For the purposes of this subchapter—
 
 &emsp;(10)(A) “Normal supply” in the case of corn, rice, wheat, and peanuts for any marketing year shall be (i) the estimated domestic consumption of the commodity for the marketing year ending immediately prior to the marketing year for which normal supply is being determined, plus (ii) the estimated exports of the commodity for the marketing year for which normal supply is being determined, plus (iii) an allowance for carry-over. The allowance for carry-over shall be the following percentage of the sum of the consumption and exports used in computing normal supply: 15 per centum in the case of corn; 10 per centum in the case of rice; 20 per centum in the case of wheat; and 15 per centum in the case of peanuts. In determining normal supply the Secretary shall make such adjustments for current trends in consumption and for unusual conditions as he may deem necessary.
 
-&emsp;(B) “Normal supply” in the case of tobacco shall be a normal year's domestic consumption and exports, plus 175 per centum of a normal year's domestic consumption and 65 per centum of a normal year's exports as an allowance for a normal carry-over.
-
-&emsp;(C) The “normal supply” of cotton for any marketing year shall be the estimated domestic consumption of cotton for the marketing year for which such normal supply is being determined, plus the estimated exports of cotton for such marketing year, plus, 30 per centum of the sum of such consumption and exports as an allowance for carry-over.
+&emsp;(B) The “normal supply” of cotton for any marketing year shall be the estimated domestic consumption of cotton for the marketing year for which such normal supply is being determined, plus the estimated exports of cotton for such marketing year, plus, 30 per centum of the sum of such consumption and exports as an allowance for carry-over.
 
 &emsp;(11)(A) “Normal year's domestic consumption”, in the case of corn and wheat, shall be the yearly average quantity of the commodity, wherever produced, that was cosumed <sup>1</sup> in the United States during the ten marketing years immediately preceding the marketing year in which such consumption is determined, adjusted for current trends in such consumption.
 
-&emsp;(B) “Normal year's domestic consumption”, in the case of cotton and tobacco, shall be the yearly average quantity of the commodity produced in the United States that was consumed in the United States during the ten marketing years immediately preceding the marketing year in which such consumption is determined, adjusted for current trends in such consumption.
+&emsp;(B) “Normal year's domestic consumption”, in the case of cotton, shall be the yearly average quantity of the commodity produced in the United States that was consumed in the United States during the ten marketing years immediately preceding the marketing year in which such consumption is determined, adjusted for current trends in such consumption.
 
 &emsp;(C) “Normal year's domestic consumption”, in the case of rice, shall be the yearly average quantity of rice produced in the United States that was consumed in the United States during the five marketing years immediately preceding the marketing year in which such consumption is determined, adjusted for current trends in such consumption.
 
-&emsp;(12) “Normal year's exports” in the case of corn, cotton, rice, tobacco, and wheat shall be the yearly average quantity of the commodity produced in the United States that was exported from the United States during the ten marketing years (or, in the case of rice, the five marketing years) immediately preceding the marketing year in which such exports are determined, adjusted for current trends in such exports.
+&emsp;(12) “Normal year's exports” in the case of corn, cotton, rice, and wheat shall be the yearly average quantity of the commodity produced in the United States that was exported from the United States during the ten marketing years (or, in the case of rice, the five marketing years) immediately preceding the marketing year in which such exports are determined, adjusted for current trends in such exports.
 
 &emsp;(13)(A) Repealed. Pub. L. 87–703, title III, §320(1), Sept. 26, 1962, 76 Stat. 625.
 
 &emsp;(B) “Normal yield” for any county, in the case of peanuts, shall be the average yield per acre of peanuts for the county adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State.
 
-&emsp;(C) In applying subparagraph (A) or (B) of this paragraph, if for any such year the data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, shall be used as the actual yield for such year. In applying such subparagraphs, if, on account of drought, flood, insect pests, plant disease, or other uncontrollable natural cause, the yield in any year of such ten-year period or five-year period, as the case may be, is less than 75 per centum of the average (computed without regard to such year) such year shall be eliminated in calculating the normal yield per acre.
+&emsp;(C) In applying subparagraph (A) or (B) of this paragraph, if for any such year the dataare not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, shall be used as the actual yield for such year. In applying such subparagraphs, if, on account of drought, flood, insect pests, plant disease, or other uncontrollable natural cause, the yield in any year of such ten-year period or five-year period, as the case may be, is less than 75 per centum of the average (computed without regard to such year) such year shall be eliminated in calculating the normal yield per acre.
 
 &emsp;(D) “Normal yield” for any county, in the case of rice and wheat, shall be the average yield per acre of rice or wheat, as the case may be, for the county during the five calendar years immediately preceding the year for which such normal yield is determined in the case of rice, or during the five years immediately preceding the year in which such normal yield is determined in the case of wheat, adjusted for abnormal weather conditions and for trends in yields. If for any such year data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, taking into consideration the yields obtained in surrounding counties during such year and the yield in years for which data are available, shall be used as the actual yield for such year.
 
@@ -116,7 +112,7 @@ For the purposes of this subchapter—
 
 &emsp;(G) “Normal yield” for any farm, in the case of corn or peanuts, shall be the average yield per acre of corn or peanuts, as the case may be, for the farm, adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any farm, in the case of peanuts, shall be the average yield per acre of peanuts for the farm, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining normal yields for farms in the county. If for any such year the data are not available or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, and the yield in years for which data are available.
 
-&emsp;(H) “Normal yield” for any county, for any crop of cotton, shall be the average yield peracre of cotton for the county, adjusted for abnormal weather conditions and any significant changes in production practices during the five calendar years immediately preceding the year in which the national marketing quota for such crop is proclaimed. If for any such year the data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, shall be used as the actual yield for such year.
+&emsp;(H) “Normal yield” for any county, for any crop of cotton, shall be the average yield per acre of cotton for the county, adjusted for abnormal weather conditions and any significant changes in production practices during the five calendar years immediately preceding the year in which the national marketing quota for such crop is proclaimed. If for any such year the data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, shall be used as the actual yield for such year.
 
 &emsp;(I) “Normal yield” for any farm, for any crop of cotton, shall be the average yield per acre of cotton for the farm, adjusted for abnormal weather conditions and any significant changes in production practices during the three calendar years immediately preceding the year in which such normal yield is determined. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, changes in production practices, and the yield in years for which data are available.
 
@@ -124,53 +120,15 @@ For the purposes of this subchapter—
 
 &emsp;(K) “Projected farm yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity in the farm during each of the three calendar years immediately preceding the year in which such projected farm yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices, but in no event shall such projected farm yield be less than the normal yield for such farm as provided in subparagraph (E) of this paragraph.
 
-&emsp;(L) “Projected national, State, and county yields” for any crop of cotton shall be determined on the basis of the yield per harvested acre of such crop in the United States, the State and the county, respectively, during each of the five calendar years immediately preceding the year in which such projected yield for the United States, the State, and the county, respectively, is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields, and for any significant changes in production practices.
+&emsp;(L) “Projected national, State, and county yields” for any crop of cotton shall be determined on the basis of the yield per harvested acre of such crop in the United States, theState and the county, respectively, during each of the five calendar years immediately preceding the year in which such projected yield for the United States, the State, and the county, respectively, is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields, and for any significant changes in production practices.
 
 &emsp;(M) “Projected farm yield” for any crop of cotton shall be determined on the basis of the yield per harvested acre of such crop on the farm during each of the three calendar years immediately preceding the year in which such projected farm yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields, and for any significant changes in production practices, but in no event shall such projected farm yield be less than the normal yield for such farm as provided in subparagraph (I) of this paragraph.
 
-&emsp;(14)(A) “Reserve supply level”, in the case of corn, shall be a normal year's domestic consumption and exports of corn plus 10 per centum of a normal year's domestic consumption and exports, to insure a supply adequate to meet domestic consumption and export needs in years of drought, flood, or other adverse conditions, as well as in years of plenty.
+&emsp;(14) “Reserve supply level”, in the case of corn, shall be a normal year's domestic consumption and exports of corn plus 10 per centum of a normal year's domestic consumption and exports, to insure a supply adequate to meet domestic consumption and export needs in years of drought, flood, or other adverse conditions, as well as in years of plenty.
 
-&emsp;(B) “Reserve supply level” of tobacco shall be the normal supply plus 5 per centum thereof, to insure a supply adequate to meet domestic consumption and export needs in years of drought, flood, or other adverse conditions, as well as in years of plenty.
+&emsp;(15)(A) “Total supply” of wheat, corn, rice, and peanuts for any marketing year shall be the carry-over of the commodity for such marketing year, plus the estimated production of the commodity in the United States during the calendar year in which such marketing year begins and the estimated imports of the commodity into the United States during such marketing year.
 
-&emsp;(C) “Reserve stock level”, in the case of Flue-cured tobacco, shall be the greater of—
-
-&emsp;&emsp;(i) 60,000,000 pounds (farm sales weight); or
-
-&emsp;&emsp;(ii) 10 percent of the national marketing quota for Flue-cured tobacco for the marketing year immediately preceding the marketing year for which the level is being determined.
-
-&emsp;(D) “Reserve stock level”, in the case of Burley tobacco, shall be the greater of—
-
-&emsp;&emsp;(i) 50,000,000 pounds (farm sales weight); or
-
-&emsp;&emsp;(ii) 15 percent of the national marketing quota for Burley tobacco for the marketing year immediately preceding the marketing year for which the level is being determined.
-
-&emsp;(15) “Tobacco” means each one of the kinds of tobacco listed below comprising the types specified as classified in Service and Regulatory Announcement Numbered 118 of the Bureau of Agricultural Economics of the Department.
-
-&emsp;&emsp;Flue-cured tobacco, comprising types 11, 12, 13, and 14;
-
-&emsp;&emsp;Fire-cured tobacco comprising types 21, 22, 23, and 24;
-
-&emsp;&emsp;Dark air-cured tobacco, comprising types 35 and 36;
-
-&emsp;&emsp;Virginia sun-cured tobacco, comprising type 37;
-
-&emsp;&emsp;Burley tobacco, comprising type 31;
-
-&emsp;&emsp;Maryland tobacco, comprising type 32;
-
-&emsp;&emsp;Cigar-filler and cigar-binder tobacco, comprising types 42, 43, 44, 45, 46, 51, 52, 53, 54, and 55;
-
-&emsp;&emsp;Cigar-filler tobacco, comprising type 41.
-
-> &emsp;The provisions of this subchapter shall apply to each of such kinds of tobacco severally: <i>Provided</i>, That any one or more of the types comprising any such kind of tobacco shall be treated as a “kind of tobacco” for the purposes of this chapter and sections 590h and 590<i>o</i> of title 16 if the Secretary finds there is a difference in supply and demand conditions as among such types of tobacco which results in a difference in the adjustments needed in the marketings thereof in order to maintain supplies in line with demand: <i>Provided further</i>, That with respect to the 1958 and subsequent crops, type 21 (Virginia) fire-cured tobacco shall be treated as a “kind of tobacco” for the purposes of all of the provisions of this subchapter, except that for the purposes of section 1312(c) of this title, types 21, 22, and 23, fire-cured tobacco shall be treated as one“kind of tobacco”: <i>And provided further</i>, That for purposes of section 1314e of this title, types 22 and 23, fire-cured tobacco shall be treated as one “kind of tobacco”.
-
-&emsp;(16)(A) “Total supply” of wheat, corn, rice, and peanuts for any marketing year shall be the carry-over of the commodity for such marketing year, plus the estimated production of the commodity in the United States during the calendar year in which such marketing year begins and the estimated imports of the commodity into the United States during such marketing year.
-
-&emsp;(B) “Total supply” of tobacco for any marketing year shall be the carry-over at the beginning of such marketing year (or on January 1 of such marketing year in the case of Maryland tobacco) plus the estimated production thereof in the United States during the calendar year in which such marketing year begins, except that the estimated production of type-46 tobacco during the marketing year with respect to which the determination is being made shall be used in lieu of the estimated production of such type during the calendar year in which such marketing year begins in determining the total supply of cigar-filler and cigar-binder tobacco.
-
-&emsp;(C) “Total supply” of cotton for any marketing year shall be the carry-over at the beginning of such marketing year, plus the estimated production of cotton in the United States during the calendar year in which such marketing year begins and the estimated imports of cotton into the United States during such marketing year.
-
-&emsp;(17) “Domestic manufacturer of cigarettes” means a person that produces and sells more than 1 percent of the cigarettes produced and sold in the United States.
+&emsp;(B) “Total supply” of cotton for any marketing year shall be the carry-over at the beginning of such marketing year, plus the estimated production of cotton in the United States during the calendar year in which such marketing year begins and the estimated imports of cotton into the United States during such marketing year.
 
 #### (c) Use of Federal statistics
 
@@ -180,7 +138,7 @@ The latest available statistics of the Federal Government shall be used by the S
 
 In making any determination under this chapter or under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] with respect to the carryover of any agricultural commodity, the Secretary shall exclude from such determination the stocks of any commodity acquired pursuant to, or under the authority of, the Strategic and Critical Materials Stock Piling Act (60 Stat. 596) \[50 U.S.C. 98 et seq.\].
 
-(Feb. 16, 1938, ch. 30, title III, §301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§2–4, 52 Stat. 202; June 13, 1940, ch. 360, §1, 54 Stat. 392; July 2, 1940, ch. 521, §§3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, §1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, §201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, §2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056, 1057, 1958, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, §1, 66 Stat. 758; July 14, 1953, ch. 194, §6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, §502, title VI, §602, 70 Stat. 212, 213; Pub. L. 85–92, §1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, §320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, §106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, §403, title V, §§509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, §405(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(12), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, §1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, §303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, §1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, §1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, §1610, May 13, 2002, 116 Stat. 218.)
+(Feb. 16, 1938, ch. 30, title III, §301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§2–4, 52 Stat. 202; June 13, 1940, ch. 360, §1, 54 Stat. 392; July 2, 1940, ch. 521, §§3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, §1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, §201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, §2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056, 1057, 1958, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, §1, 66 Stat. 758; July 14, 1953, ch. 194, §6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, §502, title VI, §602, 70 Stat. 212, 213; Pub. L. 85–92, §1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, §320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, §106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, §403, title V, §§509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, §405(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(12), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, §1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, §303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, §1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, §1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, §1610, May 13, 2002, 116 Stat. 218; Pub. L. 108–357, title VI, §611(f), Oct. 22, 2004, 118 Stat. 1522.)
 
 #### References in Text
 
@@ -188,13 +146,33 @@ Emergency Price Control Act of 1942, referred to in subsec. (a)(1)(B), was act J
 
 For effective date of the Agricultural Act of 1948, referred to in subsec. (a)(1)(E)(i), see Effective Date of 1948 Amendment note set out under section 624 of this title with reference to title I of said act, and Effective Date of 1948 Amendment note set out below with reference to titles II and III of said Act.
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(3)(D), (6)(A), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(3)(C), (6)(A), is title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, as amended, which is classified generally to chapter 36 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(3)(C), (D). Pub. L. 108–357, §611(f)(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which defined “carry-over” of tobacco for any marketing year.
+
+Subsec. (b)(6)(A). Pub. L. 108–357, §611(f)(2), struck out “tobacco,” after “rice,”.
+
+Subsec. (b)(10)(B), (C). Pub. L. 108–357, §611(f)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “normal supply” in the case of tobacco.
+
+Subsec. (b)(11)(B). Pub. L. 108–357, §611(f)(4), struck out “and tobacco” after “cotton”.
+
+Subsec. (b)(12). Pub. L. 108–357, §611(f)(5), struck out “tobacco,” after “rice,”.
+
+Subsec. (b)(14). Pub. L. 108–357, §611(f)(6), struck out “(A)” after “(14)” and subpars. (B) to (D) which defined “reserve supply level” of tobacco, “reserve stock level” in the case of Flue-cured tobacco, and “reserve stock level” in the case of Burley tobacco.
+
+Subsec. (b)(15). Pub. L. 108–357, §611(f)(7), (10), redesignated par. (16) as (15) and struck out former par. (15) which defined “tobacco” and “kind of tobacco”.
+
+Subsec. (b)(16). Pub. L. 108–357, §611(f)(10), redesignated par. (16) as (15).
+
+Subsec. (b)(16)(B), (C). Pub. L. 108–357, §611(f)(8), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined “total supply” of tobacco for any marketing year.
+
+Subsec. (b)(17). Pub. L. 108–357, §611(f)(9), struck out par. (17) which defined “domestic manufacturer of cigarettes”.
 
 2002—Subsec. (b)(14)(C). Pub. L. 107–171 substituted “60,000,000” for “100,000,000” in cl. (i) and “10 percent” for “15 percent” in cl. (ii).
 
@@ -296,6 +274,10 @@ Subsec. (b)(15). Act Nov. 22, 1940, §§1, 4, among other changes substituted �
 
 1938—Subsec. (b)(13). Act Apr. 7, 1938, substituted “county” for “farm” in subpars. (A) and (B) and added subpar. (E).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+
 #### Effective Date of 1975 Amendment
 
 Section 2 of Pub. L. 94–61 provided that: “The amendment made by the first section of this Act \[amending this section\] shall become effective June 1, 1975”.
@@ -324,6 +306,10 @@ Section 415(a), (b) of act Oct. 31, 1949, provided that:
 
 Section 303 of act July 3, 1948, provided that: “Titles II and III of this Act \[amending this section and sections 602, 608c, 612c, 672, 1301a, 1302, 1312, 1322, 1328, 1333, 1335, 1336, 1343, 1345, 1355, and 1385 of this title and repealing sections 608e and 1322a of this title\] shall take effect on January 1, 1950.”
 
+#### Savings Provision
+
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
+
 #### Transfer of Functions
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
@@ -339,14 +325,6 @@ Section 1108(c) of Pub. L. 99–272 provided that: “The Secretary of Agricultu
 #### Study of Methods of Improving Parity Formula
 
 Section 602 of act May 28, 1956, required the Secretary to make a thorough study of the possible methods of improving the parity formula and report thereon, with specific recommendations, including drafts of necessary legislation to carry out such recommendations, to Congress not later than Jan. 31, 1957.
-
-#### Tobacco Definition Unaffected by Acreage-Poundage Marketing Quotas and Price Support Provisions
-
-Authority or responsibility of Secretary of Agriculture under subsec. (b)(15) of this section with respect to treatment of different types of tobacco as different kinds of tobacco unaffected by acreage-poundage quotas and price support provisions, see note set out under section 1314c of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 602, 1111, 1301a, 1340, 1359aa, 1445, 1445–2 of this title; title 43 section 620c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “consumed”.</i>
 

@@ -185,10 +185,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2055, 2219, 6004 of this title; title 42 section 300j–22.
-
 
 ---
 

@@ -8,7 +8,3 @@ Except as authorized by law, program records containing the identity of individu
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 5601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13002, 13003, 13013, 13023 of this title.
-

@@ -24,7 +24,3 @@ R.S. §5146 derived from act June 3, 1864, ch. 106, §§9, 10, 13 Stat. 102, whi
 
 1927—Act Feb. 25, 1927, substituted a minimum value of stock ownership for minimum number of shares in both instances.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1821 of this title.
-

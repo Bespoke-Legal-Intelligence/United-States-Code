@@ -1,16 +1,12 @@
 ### SUBCHAPTER VI—EQUAL EMPLOYMENT OPPORTUNITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1981a, 2000h, 11111 of this title; title 2 sections 60<i>l</i>, 1302, 1311, 1371, 1434; title 3 sections 402, 411; title 8 section 1324b; title 21 section 848; title 43 section 1863.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02000e - Definitions](%C2%A7%2002000e%20-%20Definitions.md)
-- [&sect; 02000e&#8211;1 - Applicability to foreign and religious employment](%C2%A7%2002000e%E2%80%931%20-%20Applicability%20to%20foreign%20and%20religious%20employment.md)
+- [&sect; 02000e&#8211;1 - Exemption](%C2%A7%2002000e%E2%80%931%20-%20Exemption.md)
 - [&sect; 02000e&#8211;2 - Unlawful employment practices](%C2%A7%2002000e%E2%80%932%20-%20Unlawful%20employment%20practices.md)
 - [&sect; 02000e&#8211;3 - Other unlawful employment practices](%C2%A7%2002000e%E2%80%933%20-%20Other%20unlawful%20employment%20practices.md)
 - [&sect; 02000e&#8211;4 - Equal Employment Opportunity Commission](%C2%A7%2002000e%E2%80%934%20-%20Equal%20Employment%20Opportunity%20Commission.md)

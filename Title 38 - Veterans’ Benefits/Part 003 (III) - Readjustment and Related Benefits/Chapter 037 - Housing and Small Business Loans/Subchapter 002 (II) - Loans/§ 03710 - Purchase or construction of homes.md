@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(i) the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title; or
 
-&emsp;&emsp;(ii) the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid bythe veteran, as specified by the Secretary in regulations; and
+&emsp;&emsp;(ii) the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
 
 &emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 90 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title.
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(i) an amount equal to the sum of the balance of the loan being refinanced and such closing costs (including any discount permitted pursuant to section 3703(c)(3)(A) of this title) as may be authorized by the Secretary (under regulations which the Secretary shall prescribe) to be included in the loan; or
 
-&emsp;&emsp;(ii) in the case of a loan for the purpose specified in subsection (a)(11), an amountequal to the sum of the amount referred to with respect to the loan under clause (i) and the amount specified under subsection (d)(2);
+&emsp;&emsp;(ii) in the case of a loan for the purpose specified in subsection (a)(11), an amount equal to the sum of the amount referred to with respect to the loan under clause (i) and the amount specified under subsection (d)(2);
 
 &emsp;(D) notwithstanding section 3703(a)(1) of this title, the amount of the guaranty of the loan may not exceed the greater of (i) the original guaranty amount of the loan being refinanced, or (ii) 25 percent of the loan;
 
@@ -172,7 +172,7 @@
 
 (5) Pursuant to regulations prescribed to carry out this paragraph, the Secretary may, in extraordinary situations, waive the application of the credit underwriting standards established under paragraph (2) of this subsection when the Secretary determines, considering the totality of circumstances, that the veteran is a satisfactory credit risk.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L.101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768.)
 
 #### Codification
 
@@ -317,8 +317,4 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
 Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3701, 3703, 3704, 3708, 3711, 3712, 3713, 3714, 3722, 3729, 3732, 3733, 3736, 3762 of this title.
 

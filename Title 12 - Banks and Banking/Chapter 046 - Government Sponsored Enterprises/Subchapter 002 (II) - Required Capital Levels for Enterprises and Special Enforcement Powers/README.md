@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—REQUIRED CAPITAL LEVELS FOR ENTERPRISES AND SPECIAL ENFORCEMENT POWERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4513, 4516, 4631, 4635 of this title.
-
 
 ---
 

@@ -38,7 +38,3 @@ Similar provisions were contained in Pub. L. 106–369, §8, Oct. 27, 2000, 114 
 
 Pub. L. 106–291, title I, §141, Oct. 11, 2000, 114 Stat. 949, provided that the building housing the visitors center within the boundaries of the Chincoteague National Wildlife Refuge on Assateague Island, Virginia, was to be known and designated as the “Herbert H. Bateman Educational and Administrative Center”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459f, 459f–1, 459f–2, 459f–4, 459f–7, 459f–10 of this title.
-

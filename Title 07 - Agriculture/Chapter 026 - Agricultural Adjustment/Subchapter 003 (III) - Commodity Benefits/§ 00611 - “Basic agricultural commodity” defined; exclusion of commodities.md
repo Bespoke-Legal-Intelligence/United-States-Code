@@ -12,7 +12,3 @@ As used in this chapter, the term “basic agricultural commodity” means wheat
 
 Act Apr. 7, 1934, inserted “, cattle” after “hogs”, “, peanuts” after “tobacco”, “, rye, flax, barley” after “wheat”, and “, grain sorghums” after “field corn”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 673 of this title; title 12 section 1150a.
-

@@ -74,7 +74,3 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1416 of this title.
-

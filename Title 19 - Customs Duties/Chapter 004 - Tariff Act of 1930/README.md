@@ -83,6 +83,7 @@
 | (v) | Multiple drawback claims. |
 | (w) | Limited applicability for certain agricultural products. |
 | (x) | Drawbacks for recovered materials. |
+| (y) | Articles shipped to the United States insular possessions. |
 | [1313a.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001313a%20-%20Appropriations%20for%20refunds%2C%20drawbacks%2C%20bounties%2C%20etc.md) | Appropriations for refunds, drawbacks, bounties, etc. |
 | [1314\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001314%20-%20Repealed.%20June%2025%2C%201938%2C%20ch.%20679%2C%20%C2%A735%2C%2052%20Stat.%201092%2C%20eff.%20July%2025%2C%201938.md) | Repealed. |
 | [1315\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001315%20-%20Effective%20date%20of%20rates%20of%20duty.md) | Effective date of rates of duty. |
@@ -261,6 +262,7 @@ I74subpart a—definitions
 | (q) | National Customs Automation Program. |
 | (r) | Import activity summary statement. |
 | (s) | Reconciliation. |
+| (t) | Reconfigured entry. |
 | [1401a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20Definitions%20and%20National%20Customs%20Automation%20Program/Subpart%20a%20-%20Definitions/%C2%A7%2001401a%20-%20Value.md) | Value. |
 | (a) | Generally. |
 | (b) | Transaction value of imported merchandise. |
@@ -524,7 +526,7 @@ I74subpart a—definitions
 | [1520\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001520%20-%20Refunds%20and%20errors.md) | Refunds and errors. |
 | (a) | Cases in which refunds authorized. |
 | (b) | Authorization of appropriations. |
-| (c) | Reliquidation of entry or reconciliation. |
+| (c) | Repealed. |
 | (d) | Goods qualifying under free trade agreement rules of origin. |
 | 1521, 1522. Repealed or Omitted. |  |
 | [1523\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001523%20-%20Examination%20of%20accounts.md) | Examination of accounts. |
@@ -747,7 +749,7 @@ I74subpart a—definitions
 | (d) | Seizures. |
 | (e) | Stationing of foreign customs and agriculture inspection officers in the United States. |
 | (f) | Application of certain laws. |
-| (g) | Privileges and immunities for designated persons. |
+| (g) | Privileges and immunities. |
 | [1630\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001630%20-%20Authority%20to%20settle%20claims.md) | Authority to settle claims. |
 | (a) | In general. |
 | (b) | Limitations. |
@@ -1080,10 +1082,6 @@ I74subpart a—review of amount of duty and agreements other than quantitative r
 | (b) | Forfeitures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 81c, 3538 of this title; title 6 section 212; title 7 section 624; title 13 section 301; title 15 section 69d; title 16 section 1540; title 18 section 983; title 26 sections 993, 5007; title 33 section 2236; title 42 section 9163.
 
 
 ---

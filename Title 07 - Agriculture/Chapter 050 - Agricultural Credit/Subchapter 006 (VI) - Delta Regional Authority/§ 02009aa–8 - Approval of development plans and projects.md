@@ -6,7 +6,7 @@ A State or regional development plan or any multistate subregional plan that is 
 
 #### (b) Evaluation by State member
 
-An application for a grant or any other assistance for a project under this subchapter shall be made through and evaluated for approval by the State member of the Authority representing the applicant.
+An application for a grant or any other assistance for a project under this subchapter shall bemade through and evaluated for approval by the State member of the Authority representing the applicant.
 
 #### (c) Certification
 
@@ -31,8 +31,4 @@ On certification by a State member of the Authority of an application for a gran
 2002—Subsec. (a). Pub. L. 107–171, §6027(f)(1), inserted “and approved” after “reviewed”.
 
 Subsec. (d). Pub. L. 107–171, §6027(f)(2), substituted “Approval of grant applications” for “Votes for decisions” in heading.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009aa–1 to 2009aa–3 of this title.
 

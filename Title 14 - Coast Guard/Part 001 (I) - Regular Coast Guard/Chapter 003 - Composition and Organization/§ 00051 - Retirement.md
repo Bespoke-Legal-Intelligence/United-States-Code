@@ -30,7 +30,3 @@ Subsec. (c). Pub. L. 99–348, §205(b)(3)(B), struck out “and with the retire
 
 Section effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as an Effective Date of 1972 Amendment note under section 290 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46, 47, 50, 50a of this title.
-

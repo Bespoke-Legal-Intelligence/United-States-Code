@@ -48,7 +48,3 @@ Certain Members of the Foreign Service.—For purposes of this section, the term
 
 Section 181(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(i), Oct. 25, 1994, 108 Stat. 4301, provided that: “The Secretary of State (or in the case of any other agency authorized by law to utilize the Foreign Service personnel system, the head of that agency) shall consult with the Director of the Office of Personnel Management before prescribing regulations for reductions in force under section 611 of the Foreign Service Act of 1980 \[22 U.S.C. 4010a\] (as added by subsection (a) of this section), and shall publish such regulations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4009, 4046, 4071d, 4105 of this title.
-

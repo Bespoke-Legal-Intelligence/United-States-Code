@@ -10,7 +10,3 @@ In carrying out subsection (a) of this section, the Director may not prescribe o
 
 (Pub. L. 102–550, title XIII, §1318, Oct. 28, 1992, 106 Stat. 3949.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4513 of this title.
-

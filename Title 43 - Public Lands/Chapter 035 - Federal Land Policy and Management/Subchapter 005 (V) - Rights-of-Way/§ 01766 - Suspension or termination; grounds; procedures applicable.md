@@ -8,9 +8,5 @@ Abandonment of a right-of-way or noncompliance with any provision of this subcha
 
 See note set out under section 1763 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1761 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

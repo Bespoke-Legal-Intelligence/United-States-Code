@@ -24,7 +24,3 @@ Redesignation.—The Confederated Tribes and Bands of the Yakima Indian Nation s
 
 References.—Any reference in a law (including any regulation), map, document, paper, or other record of the United States to Confederated Tribes and Bands of the Yakima Indian Nation referred to in subsection (a) shall be deemed to be a reference to the ‘Confederated Tribes and Bands of the Yakama Indian Nation’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 602 of this title.
-

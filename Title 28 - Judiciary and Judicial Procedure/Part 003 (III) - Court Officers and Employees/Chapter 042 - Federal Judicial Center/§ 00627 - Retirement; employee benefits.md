@@ -36,7 +36,7 @@ Subsec. (f). Pub. L. 106–518, §312(a)(2), redesignated subsec. (f) as (e).
 
 1996—Subsec. (b). Pub. L. 104–317, in first sentence, inserted “Deputy Director,” before “the professional staff” and “chapter 84 (relating to the Federal Employees’ Retirement System),” after “(relating to civil service retirement),”.
 
-1988—Subsec. (b). Pub. L. 100–702, §1006(a)(2), amended provisions after “<i>Provided, however</i>,” generally. Prior to amendment, those provisions read as follows: “That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within six months after the date on which hetakes office, may waive coverage under subchapter III of chapter 83 of title 5, United States Code (relating to civil service retirement), and elect coverage under the retirement and disability provisions of this section: <i>And provided further</i>, That upon his non-retirement separation from the Federal Judicial Center, such waiver and election shall not operate to foreclose to the Director such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
+1988—Subsec. (b). Pub. L. 100–702, §1006(a)(2), amended provisions after “<i>Provided, however</i>,” generally. Prior to amendment, those provisions read as follows: “That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within six months after the date on which he takes office, may waive coverage under subchapter III of chapter 83 of title 5, United States Code (relating to civil service retirement), and elect coverage under the retirement and disability provisions of this section: <i>And provided further</i>, That upon his non-retirement separation from the Federal Judicial Center, such waiver and election shall not operate to foreclose to the Director such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
 
 Subsec. (f). Pub. L. 100–702, §1004(a), added subsec. (f).
 
@@ -45,8 +45,4 @@ Subsec. (f). Pub. L. 100–702, §1004(a), added subsec. (f).
 Amendment by section 1004(a) of Pub. L. 100–702 applicable to cost-of-living increases that go into effect on or after Nov. 19, 1988, with respect to any annuity being paid or becoming payable on or after such date, see section 1004(b) of Pub. L. 100–702, set out as a note under section 611 of this title.
 
 Amendment by section 1006(a)(2) of Pub. L. 100–702 applicable to persons holding offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on Nov. 19, 1988, see section 1006(b) of Pub. L. 100–702, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 376 of this title.
 

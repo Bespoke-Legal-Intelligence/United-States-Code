@@ -24,7 +24,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is based, and
 
-&emsp;(2) the period within which interested persons may present their comments on the notice or findings (including the need therefor) orally or in writing, which period shall be at least sixty days but may not exceed ninety days unless the time is extended by the Secretary by a notice published in the Federal Register stating good cause therefor.
+&emsp;(2) the period within which interested persons may present their comments on the notice or findings (including the need therefor) orally or in writing, which period shall be atleast sixty days but may not exceed ninety days unless the time is extended by the Secretary by a notice published in the Federal Register stating good cause therefor.
 
 #### (e) Restricted devices
 
@@ -78,7 +78,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 (D) After the issuance of an order under subparagraph (B) respecting a petition, the petitioner shall have an opportunity for an informal hearing on such order.
 
-(3) The Secretary shall establish an advisory committee for the purpose of advising and making recommendations to him with respect to regulations proposed to be promulgated under paragraph (1)(A) and the approval or disapproval of petitions submitted under paragraph (2). The advisory committee shall be composed of nine members as follows:
+(3) The Secretary shall establish an advisory committee for the purpose of advising and making recommendations to him with respect to regulations proposed to be promulgated under paragraph (1)(A) and the approval or disapproval of petitions submitted under paragraph (2). Theadvisory committee shall be composed of nine members as follows:
 
 &emsp;(A) Three of the members shall be appointed from persons who are officers or employees of any State or local government or of the Federal Government.
 
@@ -122,7 +122,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(D) assure that informed consent will be obtained from each human subject (or his representative) of proposed clinical testing involving such device, except where subject to such conditions as the Secretary may prescribe, the investigator conducting or supervising the proposed clinical testing of the device determines in writing that there exists a life threatening situation involving the human subject of such testing which necessitates the use of such device and it is not feasible to obtain informed consent from the subject and there is not sufficient time to obtain such consent from his representative.
 
-> The determination required by subparagraph (D) shall be concurred in by a licensed physician who is not involved in the testing of the humansubject with respect to which such determination is made unless immediate use of the device is required to save the life of the human subject of such testing and there is not sufficient time to obtain such concurrence.
+> The determination required by subparagraph (D) shall be concurred in by a licensed physician who is not involved in the testing of the human subject with respect to which such determination is made unless immediate use of the device is required to save the life of the human subject of such testing and there is not sufficient time to obtain such concurrence.
 
 (4)(A) An application, submitted in accordance with the procedures prescribed by regulations under paragraph (2), for an exemption for a device (other than an exemption from section 360f of this title) shall be deemed approved on the thirtieth day after the submission of the application to the Secretary unless on or before such day the Secretary by order disapproves the application and notifies the applicant of the disapproval of the application.
 
@@ -160,11 +160,11 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 #### (h) Release of information respecting safety and effectiveness
 
-(1) The Secretary shall promulgate regulations under which a detailed summary of information respecting the safety and effectiveness of a device which information was submitted to the Secretary and which was the basis for—
+(1) The Secretary shall promulgate regulations under which a detailed summary of informationrespecting the safety and effectiveness of a device which information was submitted to the Secretary and which was the basis for—
 
 &emsp;(A) an order under section 360e(d)(1)(A) of this title approving an application for premarket approval for the device or denying approval of such an application or an order under section 360e(e) of this title withdrawing approval of such an application for the device,
 
-&emsp;(B) an order under section 360e(f)(6)(A) of this title revoking an approved protocol for the device, an order under section 360e(f)(6)(B) of this title declaring a protocol for the device completed or not completed, or an order undersection 360e(f)(7) of this title revoking the approval of the device, or
+&emsp;(B) an order under section 360e(f)(6)(A) of this title revoking an approved protocol for the device, an order under section 360e(f)(6)(B) of this title declaring a protocol for the device completed or not completed, or an order under section 360e(f)(7) of this title revoking the approval of the device, or
 
 &emsp;(C) an order approving an application under subsection (g) of this section for an exemption for the device from section 360f of this title or an order disapproving, or withdrawing approval of, an application for an exemption under such subsection for the device,
 
@@ -216,7 +216,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 > is classified in class III unless the Secretary in response to a petition submitted under paragraph (2) has classified such device in class I or II.
 
-(2) The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petition which prevent the Secretary from making a decision on the petition. Except as provided inparagraph (3)(D)(ii), within one hundred and eighty days after the filing of a petition under this paragraph, the Secretary shall, after consultation with the appropriate panel under section 360c of this title, by order either deny the petition or order the classification, in accordance with the criteria prescribed by section 360c(a)(1)(A) of this title or 360c(a)(1)(B) of this title, of the device in class I or class II.
+(2) The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petition which prevent the Secretary from making a decision on the petition. Except as provided in paragraph (3)(D)(ii), within one hundred and eighty days after the filing of a petition under this paragraph, the Secretary shall, after consultation with the appropriate panel under section 360c of this title, by order either deny the petition or order the classification, in accordance with the criteria prescribed by section 360c(a)(1)(A) of this title or 360c(a)(1)(B) of this title, of the device in class I or class II.
 
 (3)(A) In the case of a device which is described in paragraph (1)(A) and which is in class III—
 
@@ -248,9 +248,9 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (4) Repealed. Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.
 
-(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
+(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data forwhich a summary and citation were submitted, if such data are available to the manufacturer.
 
-(B) Except as provided in subparagraph (C), after the issuance of an order under subparagraph (A) but before December 1, 1992, the Secretary shall publish a regulation in the Federal Register for each device which is classified in class III under paragraph (1) revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria setforth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this subparagraph and provide an opportunity for the submission of comments on any such regulation. No regulation under this subparagraph requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of the publication in the Federal Register of the proposed regulation.
+(B) Except as provided in subparagraph (C), after the issuance of an order under subparagraph (A) but before December 1, 1992, the Secretary shall publish a regulation in the Federal Register for each device which is classified in class III under paragraph (1) revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this subparagraph and provide an opportunity for the submission of comments on any such regulation. No regulation under this subparagraph requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of the publication in the Federal Register of the proposed regulation.
 
 (C) The Secretary may by notice published in the Federal Register extend the period prescribed by subparagraph (B) for a device for an additional period not to exceed 1 year.
 
@@ -308,7 +308,7 @@ Subsec. (<i>l</i>)(4). Pub. L. 105–115, §125(b)(2)(E), struck out par. (4) wh
 
 &emsp;“(B) In the case of such a device which is classified into class II, such requirements shall apply to such device until the effective date of a performance standard applicable to the device under section 360d of this title.
 
-&emsp;“(C) In the case of such a device which is classified into class III, such requirements shall apply to suchdevice until the date on which the device is required to have in effect an approved application under section 360e of this title.”
+&emsp;“(C) In the case of such a device which is classified into class III, such requirements shall apply to such device until the date on which the device is required to have in effect an approved application under section 360e of this title.”
 
 Subsec. (m)(2). Pub. L. 105–115, §203(1), inserted at end “The request shall be in the form of an application submitted to the Secretary. Not later than 75 days after the date of the receipt of the application, the Secretary shall issue an order approving or denying the application.”
 
@@ -365,8 +365,4 @@ Section 14(c) of Pub. L. 101–629 directed Secretary of Health and Human Servic
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 333, 351, 352, 353, 360c, 360d, 360e, 360g, 360i, 360bbb, 360bbb–3, 374, 379i, 379j, 381, 382, 383, 1604 of this title; title 42 section 1395<i>l</i>.
 

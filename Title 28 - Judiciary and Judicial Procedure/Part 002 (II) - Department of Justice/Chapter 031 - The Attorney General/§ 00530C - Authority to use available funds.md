@@ -76,11 +76,11 @@ Specific permitted uses.—
 
 &emsp;&emsp;(A)
 
-Aircraft and boats.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
+Aircraft and boats.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
 
 &emsp;&emsp;(B)
 
-Purchase of ammunition and firearms; firearms competitions.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Drug Enforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
+Purchase of ammunition and firearms; firearms competitions.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, for the Federal Prison System, for the Office of the Inspector General, and for the Immigration and Naturalization Service may be used for—
 
 &emsp;&emsp;&emsp;(i) the purchase of ammunition and firearms; and
 
@@ -158,7 +158,7 @@ Railroad Police Training Fees.—The Attorney General is authorized to establish
 
 Warranty Work.—In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
-(Added Pub. L. 107–273, div. A, title II, §201(a), Nov. 2, 2002, 116 Stat. 1767.)
+(Added Pub. L. 107–273, div. A, title II, §201(a), Nov. 2, 2002, 116 Stat. 1767; amended Pub. L. 108–199, div. B, title I, Jan. 23, 2004, 118 Stat. 53.)
 
 #### References in Text
 
@@ -171,4 +171,8 @@ Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24,
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+#### Amendments
+
+2004—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
 

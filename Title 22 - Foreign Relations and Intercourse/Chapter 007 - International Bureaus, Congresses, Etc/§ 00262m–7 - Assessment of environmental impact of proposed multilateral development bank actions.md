@@ -1,24 +1,12 @@
 ### §262m–7. Assessment of environmental impact of proposed multilateral development bank actions
 
-#### (a) Assessment required before favorable vote on action
+#### (a) Assessment required before favorable vote on proposal
 
-#### (1) In general
+The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank not to vote in favor of any proposal (including but not limited to any loan, credit, grant, guarantee) which would result or be likely to result in significant impact on the environment, unless the Secretary, after consultation with the Secretary of State and the Administrators of the United States Agency for International Development and the Environmental Protection Agency, determines that for at least 120 days before the date of the vote—
 
-&emsp;Beginning 2 years after December 19, 1989, the Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank not to vote in favor of any action proposed to be taken by the respective bank which would have a significant effect on the human environment, unless for at least 120 days before the date of the vote—
+&emsp;(1) an assessment analyzing the environmental impacts of the proposed action, including associated and cumulative impacts, and of alternatives to the proposed action, has been completed by the borrower or the bank and has been made available to the board of directors of the bank; and
 
-&emsp;&emsp;(A) an assessment analyzing the environmental impacts of the proposed action and of alternatives to the proposed action has been completed by the borrower or the institution, and been made available to the board of directors of the institution; and
-
-&emsp;&emsp;(B) except as provided in paragraph (2), such assessment or a comprehensive summary of such assessment has been made available to the multilateral development bank, affected groups, and local nongovernmental organizations.
-
-#### (2) Exceptions and reports
-
-#### (A) Exceptions
-
-&emsp;&emsp;The requirement of paragraph (1)(B) shall not apply where the Secretary finds compelling reasons to believe that disclosure in any case described in paragraph (1) would jeopardize the confidential relationship between the borrower and the respective bank.
-
-#### (B) Reports by Secretary
-
-&emsp;&emsp;The Secretary shall submit a quarterly report in writing to the Committees specified in subsection (f)(1) of this section of the findings described in subparagraph (A).
+&emsp;(2) such assessment or a comprehensive summary of the assessment (with proprietary information redacted) has been made available to affected groups, and local nongovernmental organizations and notice of its availability in the country and at the bank has been posted on the bank's website.
 
 #### (b) Access to assessments in all member countries
 
@@ -76,13 +64,21 @@ The Secretary of the Treasury, in consultation with the Secretary of State, the 
 
 &emsp;The reports required by paragraph (1) shall be made available to the member governments of, and the borrowers from, the multilateral development banks, and to the public.
 
-#### (g) “Multilateral development bank” defined
+#### (g) Multilateral development bank defined
 
-For purposes of this section, the term “multilateral development bank” means any of the institutions named in section 262m–2(b) of this title, and the International Finance Corporation.
+In this title,<sup>1</sup> the term “multilateral development bank” means the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the African Development Bank, the African Development Fund, the Asian Development Bank, the Inter-American Development Bank, the Inter-American Investment Corporation, any other institution (other than the International Monetary Fund) specified in section 262r(c)(2) of this title, and any subsidiary of any such institution.
 
-(Pub. L. 95–118, title XIII, §1307, formerly §1308, as added and renumbered §1307, Pub. L. 101–240, title V, §§521, 541(f)(4), Dec. 19, 1989, 103 Stat. 2511, 2519; amended Pub. L. 105–118, title V, §560(b), Nov. 26, 1997, 111 Stat. 2426.)
+(Pub. L. 95–118, title XIII, §1307, formerly §1308, as added and renumbered §1307, Pub. L. 101–240,title V, §§521, 541(f)(4), Dec. 19, 1989, 103 Stat. 2511, 2519; amended Pub. L. 105–118, title V, §560(b), Nov. 26, 1997, 111 Stat. 2426; Pub. L. 108–447, div. D, title V, §593(a), Dec. 8, 2004, 118 Stat. 3037.)
+
+#### References in Text
+
+This title, referred to in subsec. (g), is title XIII of Pub. L. 95–118, which is classified to sections 262m to 262m–7 of this title. For complete classification of title XIII to the Code, see Tables.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–447, §593(a)(1), added subsec. (a) and struck out former subsec. (a) which related to assessments required before favorable vote on action proposed to be taken by banks that would have a significant effect on the human environment.
+
+Subsec. (g). Pub. L. 108–447, §593(a)(2), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘multilateral development bank’ means any of the institutions named in section 262m–2(b) of this title, and the International Finance Corporation.”
 
 1997—Subsec. (a)(1)(A). Pub. L. 105–118, §560(b)(1), substituted “borrower” for “borrowing country”.
 
@@ -93,4 +89,6 @@ Subsec. (g). Pub. L. 105–118, §560(b)(3), added subsec. (g).
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ Notwithstanding the provisions of sections 8347(<i>o</i>), 8713, and 8914 of tit
 
 &emsp;(3) To retain coverage, rights, and benefits under chapter 89 (“Health Insurance”) of title 5, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the tribal organization are currently deposited in the Employee's Health Benefit Fund (section 8909 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph is deemed service as an employee under chapter 89 of title 5.
 
-&emsp;(4) To retain coverage, rights, and benefits under chapter 87 (“Life Insurance”) of title 5, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the tribal organizations are currently deposited in the Employee's Life Insurance Fund (section 8714 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph isdeemed service as an employee under chapter 87 of title 5.
+&emsp;(4) To retain coverage, rights, and benefits under chapter 87 (“Life Insurance”) of title 5, if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with the tribal organizations are currently deposited in the Employee's Life Insurance Fund (section 8714 of title 5); and the period during which coverage, rights, and benefits are retained under this paragraph is deemed service as an employee under chapter 87 of title 5.
 
 #### (f) Deposit by tribal organization of employee deductions and agency contributions in appropriate funds
 
@@ -80,15 +80,11 @@ Ex. Ord. No. 11899, Jan. 26, 1976, 41 F.R. 3459, as amended by Ex. Ord. No. 1210
 
 By virtue of the authority vested in me by section 105(i) of the Indian Self-Determination and Education Assistance Act (88 Stat. 2210, 25 U.S.C. 450i), section 3301 of title 5 of the United States Code, section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
-Section 1. The Office of Personnel Management is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, but after consultation with the Department of the Interior and the Department of Health and Human Services, the authority vested in the President by Section 105(i) of the Indian Self-Determination and Education Assistance Act \[subsec. (i) of this section\] (hereinafter referred to as the Act), to issue regulations necessary to carry out the provisions of subsections (e)(2), (e)(3), (e)(4), (f), (g) and (h) of section 105 of the act \[subsecs. (e)(2), (3), (4), (f), (g), and (h) of this section\], to carry out the provisions of subsection (e)(1) of section 105 of the act \[subsec. (e)(1) of this section\] pertains to section 8151 of title 5 of the United States Code, and to protect and assure any other civil service employment rights which it finds appropriate.
+Section 1. The Office of Personnel Management is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, but after consultation with the Department of the Interior and the Department of Health and Human Services, the authority vested in the President by Section 105(i) of the Indian Self-Determination and Education Assistance Act \[subsec. (i) of this section\] (hereinafter referred to as the Act), to issue regulations necessary to carry out the provisions of subsections (e)(2), (e)(3), (e)(4), (f), (g) and (h) of section 105 of the act \[subsecs.\(e)(2), (3), (4), (f), (g), and (h) of this section\], to carry out the provisions of subsection (e)(1) of section 105 of the act \[subsec. (e)(1) of this section\] pertains to section 8151 of title 5 of the United States Code, and to protect and assure any other civil service employment rights which it finds appropriate.
 
 Sec. 2. The Office of Personnel Management shall, after consultation with the Department of the Interior and the Department of Health and Human Services, issue regulations, as it deems appropriate, providing for the establishment, granting, and exercise of reemployment rights for employees who leave Federal employment for employment by an Indian tribal organization under provisions of the act.
 
 Sec. 3. The Secretary of Labor is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, the authority vested in the President by section 105(i) of the act \[subsec. (i) of this section\] to issue regulations necessary to carry out the provisions of section 105(e)(1) of the act \[subsec. (e)(1) of this section\], except as provided in section 1 of this order.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450b, 458ff, 458aaa–15, 2507 of this title; title 5 section 8336; title 26 section 3121; title 42 section 410.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “with”.</i>
 

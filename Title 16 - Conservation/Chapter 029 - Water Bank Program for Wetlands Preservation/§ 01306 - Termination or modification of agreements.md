@@ -4,7 +4,3 @@ The Secretary may terminate any agreement by mutual agreement with the owner or 
 
 (Pub. L. 91–559, §7, Dec. 19, 1970, 84 Stat. 1471.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1303 of this title.
-

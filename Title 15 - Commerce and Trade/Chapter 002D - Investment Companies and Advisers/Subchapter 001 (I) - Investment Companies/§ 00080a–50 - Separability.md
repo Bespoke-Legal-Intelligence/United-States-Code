@@ -4,7 +4,3 @@ If any provision of this subchapter or any provision incorporated in this subcha
 
 (Aug. 22, 1940, ch. 686, title I, §51, 54 Stat. 846.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–58 of this title.
-

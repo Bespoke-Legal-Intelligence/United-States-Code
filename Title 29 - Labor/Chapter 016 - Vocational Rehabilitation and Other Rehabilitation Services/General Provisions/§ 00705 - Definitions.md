@@ -70,7 +70,7 @@ For the purposes of this chapter:
 
 #### (4) Assistive technology service
 
-&emsp;The term “assistive technology service” has the meaning given such term in section 3002 ofthis title, except that the reference in such section—
+&emsp;The term “assistive technology service” has the meaning given such term in section 3002 of this title, except that the reference in such section—
 
 &emsp;&emsp;(A) to the term “individual with a disability” shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
 
@@ -554,7 +554,7 @@ Par. (2)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(A)\], substit
 
 Par. (3). Pub. L. 105–394, §402(a)(1), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(2)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
-Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
+Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
 Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
 
@@ -567,8 +567,4 @@ Par. (36)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(D)\], substi
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 722, 725, 773, 794, 795j, 796b, 796d, 3011 of this title; title 16 section 6231; title 42 sections 5061, 12511.
 

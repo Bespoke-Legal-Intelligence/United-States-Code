@@ -54,7 +54,3 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Section 1(d)(2) of Pub. L. 101–477 provided that: “The amendments made by paragraphs (A) through (E) of subsection (a) \[probably means subpars. (A) to (E) of subsec. (d)(1), amending this section and sections 1834 and 1835 of this title\] shall take effect October 1, 1991.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1833, 1834, 1835 of this title.
-

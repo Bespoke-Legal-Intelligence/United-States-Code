@@ -56,10 +56,6 @@ Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §§805(b), 809(b)\], Apr
 
 “United States magistrate judges” substituted for “United States magistrates” in item 1922 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 11 sections 507, 707, 1112, 1208, 1225, 1307, 1325; title 26 section 1398.
-
 <i><sup>1</sup></i><i> So in original. Two sections 1932 have been enacted.</i>
 
 

@@ -22,7 +22,7 @@ Contract authority.—The Architect may enter into all necessary contracts to ca
 
 (b)
 
-Availability of Appropriations..<sup>1</sup> —Amounts appropriated under—
+Availability of Appropriations..<sup>1</sup> —Amounts appropriated under—
 
 &emsp;(1) subsection (a) and sections 6112 and 6113 of this title are available for—
 
@@ -75,10 +75,6 @@ Pub. L. 101–162, title IV, (proviso in par. under heading “Care of the Build
 In subsection (b)(1), the words “In addition to the foregoing, any” and “hereafter” are omitted as unnecessary.
 
 In subsection (b)(2), before subclause (A), the words “That for fiscal year 1990 and hereafter” are omitted as executed. In subclause (C), the words “chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5” are substituted for “the Classification and Retirement Acts, as amended” because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6112, 6113, 6505 of this title.
 
 <i><sup>1</sup></i><i> So in original. The second period probably should not appear.</i>
 

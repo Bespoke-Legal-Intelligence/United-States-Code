@@ -10,7 +10,3 @@ The head of a Federal agency, as soon as practicable after the date of payment o
 
 (Pub. L. 91–646, title III, §303, Jan. 2, 1971, 84 Stat. 1906.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4655 of this title.
-

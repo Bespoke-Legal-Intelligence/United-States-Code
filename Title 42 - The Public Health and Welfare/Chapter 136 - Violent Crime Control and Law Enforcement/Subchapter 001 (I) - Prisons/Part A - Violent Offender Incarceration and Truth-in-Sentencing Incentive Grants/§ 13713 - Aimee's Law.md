@@ -10,7 +10,7 @@ In this section:
 
 #### (1) Dangerous sexual offense
 
-&emsp;The term “dangerous sexual offense” means any offense under State law for conduct that would constitute an offense under chapter 109A of title 18 had the conduct occurred in the special maritime and territorial jurisdiction of the United States or in a Federal prison.
+&emsp;The term “dangerous sexual offense” means any offense under State law for conduct that would constitute an offense under chapter109A of title 18 had the conduct occurred in the special maritime and territorial jurisdiction of the United States or in a Federal prison.
 
 #### (2) Murder
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (2) Multiple States
 
-&emsp;In any case in which a State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to eachState that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense.
+&emsp;In any case in which a State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), the Attorney General shall transfer an amount equal to the costs of incarceration, prosecution, and apprehension of that individual, from Federal law enforcement assistance funds that have been allocated to but not distributed to each State that convicted such individual of the prior offense, to the State account that collects Federal law enforcement assistance funds of the State that convicted that individual of the subsequent offense.
 
 #### (3) State described
 

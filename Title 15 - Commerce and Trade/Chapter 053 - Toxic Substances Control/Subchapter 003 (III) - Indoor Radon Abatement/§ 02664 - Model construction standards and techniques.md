@@ -4,7 +4,3 @@ The Administrator of the Environmental Protection Agency shall develop model con
 
 (Pub. L. 94–469, title III, §304, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2756.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2665, 2666 of this title.
-

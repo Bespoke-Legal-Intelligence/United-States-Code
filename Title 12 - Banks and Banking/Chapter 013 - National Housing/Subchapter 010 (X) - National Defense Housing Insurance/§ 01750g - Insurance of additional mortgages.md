@@ -24,7 +24,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 #### (c) Default; debentures; cash adjustment; certificate of claim
 
-The mortgagee shall be entitled to receive debentures in connection with mortgages insured under this section in the amount and under the conditions specified in subsection (g) of section 1713 of this title, and the references in said subsection (g) to the cash adjustment provided for in subsection (j) of section 1713 and to the certificate of claim provided for in subsection (h) of section 1713 shall be deemed to refer respectively to the cash adjustment provided for in subsection (c) of section 1750c of this title and to the certificate of claim provided for in subsection (d) of this section.
+The mortgagee shall be entitled to receive debentures in connection with mortgages insured under this section in the amount and under the conditions specified in subsection (g) of section 1713 of this title, and the references in said subsection (g) to the cash adjustment provided forin subsection (j) of section 1713 and to the certificate of claim provided for in subsection (h) of section 1713 shall be deemed to refer respectively to the cash adjustment provided for in subsection (c) of section 1750c of this title and to the certificate of claim provided for in subsection (d) of this section.
 
 #### (d) Certificate of claim; contents and payment
 
@@ -67,8 +67,4 @@ Subsec. (f). Pub. L. 89–117, §1108(z)(3), struck out provision that reference
 1954—Subsec. (b)(3). Act Aug. 2, 1954, substituted requirement that mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders’ costs, such certifications now being prescribed in said section 1715r.
 
 1953—Subsec. (b). Act June 30, 1953, in paragraph commencing “The mortgage shall provide”, substituted “41/2 per centum” for “4 per centum”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715c, 1731b, 1750b, 1750c of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—IDENTIFICATION AND USE OF SURPLUS FEDERAL PROPERTY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 11408 of this title; title 10 sections 2814, 2854a.
-
 
 ---
 

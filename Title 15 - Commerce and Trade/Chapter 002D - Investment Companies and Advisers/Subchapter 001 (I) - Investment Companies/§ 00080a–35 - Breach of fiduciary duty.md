@@ -2,7 +2,7 @@
 
 #### (a) Civil actions by Commission; jurisdiction; allegations; injunctive or other relief
 
-The Commission is authorized to bring an action in the proper district court of the United States, or in the United States court of any territory or other place subject to the jurisdiction of the United States, alleging that a person serving or acting in one or more of the following capacities has engaged within five years of the commencement of the action or is about to engage in any act or practice constituting a breach of fiduciary duty involving personal misconduct in respect of any registered investment company for which such person so serves or acts—
+The Commission is authorized to bring an action in the proper district court of the United States, or in the United States court of any territory or other place subject to the jurisdiction of the United States, alleging that a person serving or acting in one or more of the following capacities has engaged within five years of the commencement of the action or is about to engage in any act or practice constituting a breach of fiduciary duty involving personal misconduct in respect of any registered investmentcompany for which such person so serves or acts—
 
 &emsp;(1) as officer, director, member of any advisory board, investment adviser, or depositor; or
 
@@ -16,7 +16,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 (1) It shall not be necessary to allege or prove that any defendant engaged in personal misconduct, and the plaintiff shall have the burden of proving a breach of fiduciary duty.
 
-(2) In any such action approval by the board of directors of such investment company of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, and ratification or approval of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, by the shareholders of such investment company, shall begiven such consideration by the court as is deemed appropriate under all the circumstances.
+(2) In any such action approval by the board of directors of such investment company of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, and ratification or approval of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, by the shareholders of such investment company, shall be given such consideration by the court as is deemed appropriate under all the circumstances.
 
 (3) No such action shall be brought or maintained against any person other than the recipient of such compensation or payments, and no damages or other relief shall be granted against any person other than the recipient of such compensation or payments. No award of damages shall be recoverable for any period prior to one year before the action was instituted. Any award of damages against such recipient shall be limited to the actual damages resulting from the breach of fiduciary duty and shall in no event exceed the amount of compensation or payment received from such investment company, or the security holders thereof, by such recipient.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that subsec. (b) o
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–43, 80a–58 of this title.
 

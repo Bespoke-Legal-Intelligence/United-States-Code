@@ -54,7 +54,3 @@ A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–2
 
 2001—Subsec. (a)(1). Pub. L. 107–108 inserted “to obtain foreign intelligence information not concerning a United States person or” after “an investigation”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1862 of this title.
-

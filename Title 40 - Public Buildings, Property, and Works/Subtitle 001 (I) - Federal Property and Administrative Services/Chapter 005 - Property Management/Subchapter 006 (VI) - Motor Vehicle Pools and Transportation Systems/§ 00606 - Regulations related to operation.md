@@ -36,7 +36,3 @@ June 30, 1949, ch. 288, title II, §211(j), as added Sept. 5, 1950, ch. 849, §5
 
 In subsection (a), the words “Director of the Office of Personnel Management” are substituted for “United States Civil Service Commission” in section 211(j) of the Federal Property and Administrative Services Act of 1949 because of section 102 of Reorganization Plan No. 2 of 1978 (eff. Jan. 1, 1979, 92 Stat. 3783). The words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7588.
-

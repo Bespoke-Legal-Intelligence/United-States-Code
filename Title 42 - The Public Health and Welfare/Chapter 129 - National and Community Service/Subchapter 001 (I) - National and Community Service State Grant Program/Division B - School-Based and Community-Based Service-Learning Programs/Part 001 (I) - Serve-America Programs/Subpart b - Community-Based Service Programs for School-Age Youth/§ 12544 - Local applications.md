@@ -36,7 +36,3 @@ No applicant shall submit an application under section 12543 of this title or th
 
 A prior section 12544, Pub. L. 101–610, title I, §124, Nov. 16, 1990, 104 Stat. 3143, as amended, which prescribed appropriate focus for conservation and youth service corps programs, was renumbered section 199D of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12541, 12543, 12545 of this title.
-

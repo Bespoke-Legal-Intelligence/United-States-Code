@@ -14,7 +14,3 @@ The district courts of the United States shall have jurisdiction over any offens
 
 (Pub. L. 100–330, §7, June 7, 1988, 102 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 973h, 973<i>o</i> of this title.
-

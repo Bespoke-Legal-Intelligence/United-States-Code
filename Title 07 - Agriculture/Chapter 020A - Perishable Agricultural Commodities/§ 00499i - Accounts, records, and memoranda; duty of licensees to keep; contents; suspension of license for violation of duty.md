@@ -8,7 +8,3 @@ Every commission merchant, dealer, and broker shall keep such accounts, records,
 
 Section was formerly classified to section 559 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 499m of this title.
-

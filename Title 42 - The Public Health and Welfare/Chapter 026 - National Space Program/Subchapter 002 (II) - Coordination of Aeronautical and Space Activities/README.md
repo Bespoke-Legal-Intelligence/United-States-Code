@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COORDINATION OF AERONAUTICAL AND SPACE ACTIVITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2451, 5503, 5504 of this title.
-
 
 ---
 

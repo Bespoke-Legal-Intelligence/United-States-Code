@@ -31,10 +31,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 307 of this title; title 42 sections 1973aa–5, 2000f.
-
 
 ---
 

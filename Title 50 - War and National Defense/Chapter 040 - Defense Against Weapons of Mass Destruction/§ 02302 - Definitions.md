@@ -20,7 +20,3 @@ In this chapter:
 
 This chapter, referred to in text, was in the original “this title”, meaning title XIV of div. A of Pub. L. 104–201, Sept. 23, 1996, 110 Stat. 2714, which is classified principally to this chapter. For complete classification of title XIV to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 12304; title 22 section 2794.
-

@@ -8,7 +8,3 @@ A lease to a municipality shall not be treated as an executory contract or unexp
 
 Section effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

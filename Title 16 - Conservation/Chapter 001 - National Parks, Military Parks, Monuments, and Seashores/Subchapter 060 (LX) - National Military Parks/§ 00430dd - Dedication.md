@@ -4,7 +4,3 @@ Sections 430aa to 430ee of this title shall become effective if and when the req
 
 (July 20, 1956, ch. 653, §4, 70 Stat. 593.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430bb, 430ee of this title.
-

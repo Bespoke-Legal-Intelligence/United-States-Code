@@ -32,7 +32,3 @@ Provisions similar to those in this section were contained in section 4114(c)–
 
 1992—Subsecs. (a), (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7402 of this title.
-

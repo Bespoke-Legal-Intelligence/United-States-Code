@@ -1,6 +1,6 @@
 ### §1958. Compliance
 
-The Secretary shall have the responsibility to assure compliance with the requirements of this chapter and sections 1730d <sup>1</sup> and 1829b of this title and may delegate such responsibility to the appropriate bank supervisory agency, or other supervisory agency.
+The Secretary shall have the responsibility to assure compliance with the requirements of this chapter and sections 1730d <sup>1</sup> and 1829b of this title and may delegate such responsibility to theappropriate bank supervisory agency, or other supervisory agency.
 
 (Pub. L. 91–508, title I, §128, Oct. 26, 1970, 84 Stat. 1118.)
 

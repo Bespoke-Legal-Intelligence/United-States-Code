@@ -78,7 +78,3 @@ At the time the Commission adopts any voluntary voting system guideline pursuant
 
 This chapter, referred to in subsec. (e)(3), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15362 of this title.
-

@@ -22,7 +22,7 @@ The Administrator shall have primary enforcement responsibility for those States
 
 #### Prior Provisions
 
-A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 33 and is classified to section 136x of this title.
+A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136x of this title.
 
 #### Amendments
 
@@ -37,8 +37,4 @@ Subsec. (c). Pub. L. 100–532, §801(<i>o</i>)(4), inserted heading.
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136q, 136w–2 of this title.
 

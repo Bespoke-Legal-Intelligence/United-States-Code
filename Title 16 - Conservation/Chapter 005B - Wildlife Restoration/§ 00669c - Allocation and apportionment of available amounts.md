@@ -6,7 +6,7 @@
 
 #### (A) Set-aside
 
-&emsp;&emsp;For fiscal year 2001 and each fiscal year thereafter, of the revenues (excluding interest accruing under section 669b(b) of thistitle) covered into the fund for the fiscal year, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 669h of this title.
+&emsp;&emsp;For fiscal year 2001 and each fiscal year thereafter, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into the fund for the fiscal year, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 669h of this title.
 
 #### (B) Available amounts
 
@@ -38,7 +38,7 @@
 
 #### (b) Apportionment to States
 
-The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) <sup>1</sup> of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
+The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) <sup>1</sup> of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive lessthan one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
 
 #### (c) <sup>2</sup> Apportionment of certain taxes
 
@@ -110,7 +110,7 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 #### Amendments
 
-2000—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish andgame departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
+2000—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
 
 Subsec. (c). Pub. L. 106–553 added subsec. (c) relating to apportionment of Wildlife Conservation and Restoration Account.
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 106–553 added subsec. (d).
 
 1976—Subsec. (a). Pub. L. 94–273 substituted “September” for “June”, and “October” for “July”.
 
-1972—Subsec. (b). Pub. L. 92–558 substituted “(beginning with the fiscal year 1975)” for (beginning with the fiscal year 1971)” and “pistols, revolvers, bows, and arrows” for “pistols and revolvers”.
+1972—Subsec. (b). Pub. L. 92–558 substituted “(beginning with the fiscal year 1975)” for “(beginning with the fiscal year 1971)” and “pistols, revolvers, bows, and arrows” for “pistols and revolvers”.
 
 1970—Pub. L. 91–503 designated existing provisions as subsec. (a), substituted “second fiscal year preceding” for “preceding fiscal year” in provision dealing with the apportionment by the Secretary of the Interior, defined “fiscal year”, and struck out provisions dealing with the maximum and minimum apportionments “to all the States”, and added subsec. (b).
 
@@ -143,10 +143,6 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 #### Suspension of Expense Limitation
 
 The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669a, 669b, 669g, 669h, 669h–1, 669h–2, 669k of this title.
 
 <i><sup>1</sup></i><i> Probably means the subsection (c) relating to apportionment of certain taxes.</i>
 

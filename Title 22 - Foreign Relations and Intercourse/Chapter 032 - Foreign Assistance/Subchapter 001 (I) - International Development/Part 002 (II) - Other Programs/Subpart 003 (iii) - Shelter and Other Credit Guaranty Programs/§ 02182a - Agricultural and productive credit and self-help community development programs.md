@@ -18,7 +18,7 @@ The Inter-American Foundation shall be consulted in developing criteria for maki
 
 #### (e) Guaranty reserve
 
-Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilitiesunder guaranties issued under this section or any guaranties previously issued under section 2200 of this title.
+Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 of this title.
 
 #### (f) Administrative and operating expenses; funds
 
@@ -34,7 +34,7 @@ The authority of this section shall continue through September 30, 1988.
 
 #### (i) Excess foreign currencies; use
 
-Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shall be in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.
+Notwithstanding the limitation in subsection (c) of this section, foreign currencies owned by the United States and determined by the Secretary of the Treasury to be excess to the needs of the United States may be utilized to carry out the purposes of this section, including the discharge of liabilities under this subsection. The authority conferred by this subsection shallbe in addition to authority conferred by any other provision of law to implement guaranty programs utilizing excess local currency.
 
 (Pub. L. 87–195, pt. I, §222A, as added Pub. L. 93–559, §8(a)(2), Dec. 30, 1974, 88 Stat. 1796; amended Pub. L. 95–88, title I, §117(b)(1), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(b), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 951, 959; Pub. L. 96–53, title I, §112(b), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–438, Jan. 8, 1983, 96 Stat. 2286; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §313(d), Aug. 8, 1985, 99 Stat. 217; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(3)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120.)
 
@@ -89,8 +89,4 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2183 of this title.
 

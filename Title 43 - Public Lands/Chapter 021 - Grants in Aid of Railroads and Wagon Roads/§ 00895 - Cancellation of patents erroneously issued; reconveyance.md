@@ -4,7 +4,3 @@ If it shall appear, upon the completion of such adjustments, respectively, or so
 
 (Mar. 3, 1887, ch. 376, §2, 24 Stat. 556.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 897, 903, 906 of this title.
-

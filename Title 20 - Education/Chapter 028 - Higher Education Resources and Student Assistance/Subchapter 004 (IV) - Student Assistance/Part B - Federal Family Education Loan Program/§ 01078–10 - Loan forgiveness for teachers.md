@@ -10,11 +10,9 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 
 &emsp;(1) has been employed as a full-time teacher for 5 consecutive complete school years—
 
-&emsp;&emsp;(A) in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools;
+&emsp;&emsp;(A) in a school that qualifies under section 1087ee(a)(2)(A) of this title for loan cancellation for Perkins loan recipients who teach in such schools; and
 
-&emsp;&emsp;(B) if employed as a secondary school teacher, is teaching a subject area that is relevant to the borrower's academic major as certified by the chief administrative officer of the public or nonprofit private secondary school in which the borrower is employed; and
-
-&emsp;&emsp;(C) if employed as an elementary school teacher, has demonstrated, as certified by the chief administrative officer of the public or nonprofit private elementary school in which the borrower is employed, knowledge and teaching skills in reading, writing, mathematics, and other areas of the elementary school curriculum; and
+&emsp;&emsp;(B) if employed as an elementary school or secondary school teacher, is highly qualified as defined in section 7801 of this title; <sup>1</sup> and
 
 &emsp;(2) is not in default on a loan for which the borrower seeks forgiveness.
 
@@ -27,6 +25,24 @@ The Secretary shall carry out a program, through the holder of the loan, of assu
 #### (2) Treatment of consolidation loans
 
 &emsp;A loan amount for a loan made under section 1078–3 of this title may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 1078 or 1078–8 of this title for a borrower who meets the requirements of subsection (b) of this section, as determined in accordance with regulations prescribed by the Secretary.
+
+#### (3) Additional amounts for teachers in mathematics, science, or special education
+
+&emsp;Notwithstanding the amount specified in paragraph (1), the aggregate amount that the Secretary shall repay under this section shall be not more than $17,500 in the case of—
+
+&emsp;&emsp;(A) a secondary school teacher—
+
+&emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b) of this section; and
+
+&emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is teaching mathematics or science on a full-time basis; and
+
+&emsp;&emsp;(B) an elementary school or secondary school teacher—
+
+&emsp;&emsp;&emsp;(i) who meets the requirements of subsection (b) of this section;
+
+&emsp;&emsp;&emsp;(ii) whose qualifying employment for purposes of such subsection is as a special education teacher whose primary responsibility is to provide special education to children with disabilities (as those terms are defined in section 1401 of this title); and
+
+&emsp;&emsp;&emsp;(iii) who, as certified by the chief administrative officer of the public or non-profit private elementary school or secondary school in which the borrower is employed, is teaching children with disabilities that correspond with the borrower's special education training and has demonstrated knowledge and teaching skills in the content areas of the elementary school or secondary school curriculum that the borrower is teaching.
 
 #### (d) Regulations
 
@@ -60,13 +76,23 @@ If the list of schools in which a teacher may perform service pursuant to subsec
 
 For purposes of this section, the term “year”, where applied to service as a teacher, means an academic year as defined by the Secretary.
 
-(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698.)
+(Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300.)
 
 #### References in Text
+
+Section 7801 of this title, referred to in subsec. (b)(1)(B), was in the original “section 9101 of the Elementary Secondary Education Act of 1965”, which was translated as meaning section 9101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
 The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–409, §3(a)(1)(A), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) if employed as a secondary school teacher, is teaching a subject area that is relevant to the borrower's academic major as certified by the chief administrative officer of the public or nonprofit private secondary school in which the borrower is employed; and
+
+“(C) if employed as an elementary school teacher, has demonstrated, as certified by the chief administrative officer of the public or nonprofit private elementary school in which the borrower is employed, knowledge and teaching skills in reading, writing, mathematics, and other areas of the elementary school curriculum; and”.
+
+Subsec. (c)(3). Pub. L. 108–409, §3(b)(1), added par. (3).
 
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized Secretary to carry out demonstration program for loan forgiveness for teachers, individuals performing national community service, and nurses.
 
@@ -84,6 +110,20 @@ Subsec. (d). Pub. L. 103–208, §2(c)(50), substituted “to eligible” for �
 
 Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each eligible individual desiring loan repayment under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.”
 
+#### Effective Date of 2004 Amendment; Transition Rule
+
+Pub. L. 108–409, §3(a)(2), Oct. 30, 2004, 118 Stat. 2300, provided that:
+
+“(A)
+
+Rule.—The amendments made by paragraph (1) of this subsection to sections 428J(b)(1) and 460(b)(1)(A) of the Higher Education Act of 1965 \[sections 1078–10(b)(1) and 1087j(b)(1)(A) of this title\] shall not be applied to disqualify any individual who, before the date of enactment of this Act \[Oct. 30, 2004\], commenced service that met and continues to meet the requirements of such sections as such sections were in effect on the day before the date of enactment of this Act.
+
+“(B)
+
+Rule not applicable to increased qualified loan amounts.—Subparagraph (A) of this paragraph shall not apply for purposes of obtaining increased qualified loan amounts under sections 428J(c)(3) and 460(c)(3) of the Higher Education Act of 1965 \[sections 1078–10(c)(3) and 1087j(c)(3) of this title\] as added by subsection (b) of this section.”
+
+Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998, and before October 1, 2005.”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -94,11 +134,13 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
-#### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
+#### Information on Benefits to Rural School Districts
 
-Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of Title 42, The Public Health and Welfare.
+Pub. L. 108–409, §3(c), Oct. 30, 2004, 118 Stat. 2302, provided that: “The Secretary shall—
 
-#### Section Referred to in Other Sections
+&emsp;“(1) notify local educational agencies eligible to participate in the Small Rural Achievement Program authorized under subpart 1 of part B of title VI of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7345 et seq.\] of the benefits available under the amendments made by this section \[amending this section and section 1087j of this title\]; and
 
-This section is referred to in section 1087j of this title.
+&emsp;“(2) encourage such agencies to notify their teachers of such benefits.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

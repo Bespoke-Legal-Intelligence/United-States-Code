@@ -104,7 +104,3 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2662 of this title; title 20 section 4020.
-

@@ -140,7 +140,3 @@ A prior section 6318, Pub. L. 89–10, title I, §1117, as added Pub. L. 103–3
 
 A prior section 1118 of Pub. L. 89–10 was classified to section 6319 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6312, 6315, 6316, 6319, 6320, 6394, 6491, 6516, 7273, 7273c, 7801 of this title.
-

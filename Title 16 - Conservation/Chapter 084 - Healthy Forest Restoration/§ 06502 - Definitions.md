@@ -20,7 +20,3 @@ In this chapter:
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6511 of this title.
-

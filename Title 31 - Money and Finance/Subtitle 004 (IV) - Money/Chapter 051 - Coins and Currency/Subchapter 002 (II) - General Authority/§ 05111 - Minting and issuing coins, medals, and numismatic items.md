@@ -32,7 +32,7 @@ Determination.—
 
 &emsp;&emsp;(A)
 
-In general.—Any determination of the Secretary referred to in paragraph (2) shall not be reviewable in any administrative proceeding or court of the United States.
+In general.—Any determination of the Secretary referred to in paragraph (2) shallnot be reviewable in any administrative proceeding or court of the United States.
 
 &emsp;&emsp;(B)
 
@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulationprescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -158,7 +158,7 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 1992—Subsec. (b). Pub. L. 102–390 inserted “, including the cost of coin bags and pallets” after “distributing the coins” in fourth sentence.
 
-1988—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may makecontracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
+1988—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
 
 #### Termination of Coinage Profit Fund and Coinage Metal Fund
 
@@ -167,6 +167,10 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871, recognizing members of public safety agencies killed in the terrorist attacks in the United States on September 11, 2001.
+
+Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746, recognizing Reverend Doctor Martin Luther King, Jr. and his widow Coretta Scott King.
 
 Pub. L. 108–180, Dec. 15, 2003, 117 Stat. 2645, recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
 
@@ -245,10 +249,6 @@ Pub. L. 99–298, May 13, 1986, 100 Stat. 432, recognizing Natan (Anatoly) and A
 Pub. L. 99–295, May 12, 1986, 100 Stat. 427; Pub. L. 100–210, §3, Dec. 24, 1987, 101 Stat. 1441; Pub. L. 100–437, §4, Sept. 20, 1988, 102 Stat. 1717, commemorating the Young Astronaut Program.
 
 Pub. L. 95–630, title IV, §§401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, recognizing outstanding individuals in the American arts.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5112, 5116, 5120, 5132, 5135 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ Purposes of Assistance.—Assistance may be provided under this section—
 
 &emsp;“(3) for implementation of a comprehensive health effects study of the performance of the potable waste water reuse pilot plant; and
 
-&emsp;“(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration ofthe additional potable processes into the existing nonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably.
+&emsp;“(4) after the pilot plant is constructed and is operational, for the design and construction of a potable waste water reuse project, along with integration of the additional potable processes into the existing nonpotable facilities, and the extension of the distribution systems to groundwater recharge areas, if the Secretary, in cooperation with the Administrator of the Environmental Protection Agency, determines that the established public health requirements and water quality goals and objectives are being met by the pilot plant, the public health and safety is not at risk as a result of the operation of the pilot plant, and the pilot plant is operating reliably.
 
 “(c)
 
@@ -33,8 +33,4 @@ Cost Sharing.—Total project costs under this section shall be shared at 75 per
 “(d)
 
 Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000. Such sums shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
 

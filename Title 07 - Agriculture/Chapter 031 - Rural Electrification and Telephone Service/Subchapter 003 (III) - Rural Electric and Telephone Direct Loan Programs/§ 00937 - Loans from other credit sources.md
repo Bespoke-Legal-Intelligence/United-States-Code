@@ -16,7 +16,3 @@ When it appears to the Secretary that the loan applicant is able to obtain a loa
 
 Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a note under section 930 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 939, 940c–1 of this title.
-

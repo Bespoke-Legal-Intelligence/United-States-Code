@@ -24,7 +24,7 @@ Authority of director.—The Director may, in the Director's discretion, place i
 
 #### (2) Effective date of retirement
 
-&emsp;Retirement under paragraph (1) shall be effective on the last day of the month in which the participant reaches the age applicable to that participant under that paragraph.
+&emsp;Retirement under paragraph (1) shall be effective on the last day of the month in whichthe participant reaches the age applicable to that participant under that paragraph.
 
 #### (3) Authority for extension
 
@@ -39,8 +39,4 @@ A participant retired under this section shall receive retirement benefits in ac
 #### Prior Provisions
 
 A prior section 235 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049; Ex. Ord. No. 12443, §13, Sept. 27, 1983, 48 F.R. 44754; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622; Pub. L. 102–183, title III, §307, Dec. 4, 1991, 105 Stat. 1265, related to mandatory retirement and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2051, 2152 of this title.
 

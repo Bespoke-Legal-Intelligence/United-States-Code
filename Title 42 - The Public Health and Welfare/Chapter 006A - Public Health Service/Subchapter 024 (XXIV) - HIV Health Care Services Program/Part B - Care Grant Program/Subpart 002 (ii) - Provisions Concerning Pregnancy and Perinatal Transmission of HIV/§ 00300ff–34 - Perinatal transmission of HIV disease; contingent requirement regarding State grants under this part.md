@@ -36,7 +36,3 @@ Subsec. (f). Pub. L. 104–166, §5(1)(B), substituted “(1) through (4)” for
 
 Section effective May 20, 1996, see section 13(b) of Pub. L. 104–146, set out as an Effective Date of 1996 Amendment note under section 300ff–11 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ff–21, 300ff–33 of this title.
-

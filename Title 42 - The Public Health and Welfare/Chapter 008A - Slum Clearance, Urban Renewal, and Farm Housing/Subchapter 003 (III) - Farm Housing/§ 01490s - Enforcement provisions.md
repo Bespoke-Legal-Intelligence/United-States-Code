@@ -82,7 +82,3 @@
 
 Enactment of this section, referred to in subsec. (b)(3)(B)(ii), means enactment of Pub. L. 106–569, which enacted this section and was approved Dec. 27, 2000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1956.
-

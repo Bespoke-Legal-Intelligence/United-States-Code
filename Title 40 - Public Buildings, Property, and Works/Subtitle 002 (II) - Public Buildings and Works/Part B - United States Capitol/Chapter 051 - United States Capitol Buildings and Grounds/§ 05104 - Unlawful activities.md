@@ -26,7 +26,7 @@ Explosives.—The term “explosives” has the meaning given that term in secti
 
 &emsp;(4)
 
-Firearm.—The term “firearm” has the meaning given that term in section 921(3) of title 18.
+Firearm.—The term “firearm” has the meaning given that term in section 921(3) <sup>1</sup> of title 18.
 
 (b)
 
@@ -156,7 +156,5 @@ In subsection (e)(2)(A), the words “unless authorized to do so pursuant to rul
 
 The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, ch. 465, 47 Stat. 650, as amended, which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5106, 5107, 5109, 6506 of this title; title 2 sections 121b–1, 121c, 121d, 1819, 1961, 1970, 2021, 2042, 2161.
+<i><sup>1</sup></i><i> So in original. Probably should be “921(a)(3)”.</i>
 

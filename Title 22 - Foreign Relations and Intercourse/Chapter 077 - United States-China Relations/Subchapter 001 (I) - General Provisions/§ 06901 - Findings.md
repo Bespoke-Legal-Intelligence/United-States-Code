@@ -78,7 +78,7 @@ Biennial Report to Congress.—(1) Not later than April 1 of each even-numbered 
 
 &emsp;“(D) An analysis by the Director of Central Intelligence of the involvement of military specialists, weapons specialists, and intelligence specialists of the People's Republic of China in the activities of the Joint Commission established under the Agreement and in other activities conducted under the Agreement.
 
-&emsp;“(E) A determination by the Secretary of Defense, developed with the assistance of the Director of Central Intelligence, of the extent to which the activities conducted under the Agreement have enhanced themilitary and defense industrial base of the People's Republic of China, and an assessment of the effect that projected activities under the Agreement for the next two years, including the transfer of technology and know-how, could have on the economic and military capabilities of the People's Republic of China.
+&emsp;“(E) A determination by the Secretary of Defense, developed with the assistance of the Director of Central Intelligence, of the extent to which the activities conducted under the Agreement have enhanced the military and defense industrial base of the People's Republic of China, and an assessment of the effect that projected activities under the Agreement for the next two years, including the transfer of technology and know-how, could have on the economic and military capabilities of the People's Republic of China.
 
 &emsp;“(F) An assessment by the Inspector General of the Department of Commerce of—
 
@@ -101,6 +101,8 @@ Interagency Working Group.—The President shall establish an interagency workin
 &emsp;“(3) Developing a comprehensive database of all government-to-government programs and United States Government-funded programs under the Agreement.
 
 &emsp;“(4) Coordinating activities under the Agreement between United States Government agencies, including elements of the intelligence community, as appropriate.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### Tibetan Policy
 
@@ -196,7 +198,7 @@ Tibet Project Principles.—Projects in Tibet supported by international financi
 
 #### “SEC. 619. REQUIREMENT FOR TIBETAN LANGUAGE TRAINING.
 
-“The Secretary shall ensure that Tibetan language training is available to Foreign Service officers, and that every effort is made to ensure that a Tibetan-speaking Foreign Service officer is assigned to a United States post in the People's Republic of China responsible for monitoring developments in Tibet.
+“The Secretary shall ensure that Tibetan language training is available to Foreign Service officers, andthat every effort is made to ensure that a Tibetan-speaking Foreign Service officer is assigned to a United States post in the People's Republic of China responsible for monitoring developments in Tibet.
 
 #### “SEC. 620. RELIGIOUS PERSECUTION IN TIBET.
 
@@ -300,7 +302,7 @@ Export Controls.—
 
 &emsp;“(1)
 
-In general.—The export control laws, regulations, and practices of the United States shall apply to Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People's Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People's Republic of China.
+In general.—The export control laws, regulations, and practices of the United States shall applyto Macau in the same manner and to the same extent that such laws, regulations, and practices apply to the People's Republic of China, and in no case shall such laws, regulations, and practices be applied less restrictively to exports to Macau than to exports to the People's Republic of China.
 
 &emsp;“(2)
 

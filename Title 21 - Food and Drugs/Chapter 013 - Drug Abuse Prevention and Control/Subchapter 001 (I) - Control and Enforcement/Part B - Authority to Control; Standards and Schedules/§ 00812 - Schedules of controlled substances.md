@@ -292,7 +292,7 @@ Schedule II
 
 Schedule III
 
-(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains anyquantity of the following substances having a stimulant effect on the central nervous system:
+(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
 
 &emsp;(1) Amphetamine, its salts, optical isomers, and salts of its optical isomers.
 
@@ -451,10 +451,6 @@ Failure to issue order.—If the final order is not issued within the period spe
 Section 102(c) of Pub. L. 95–633 provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethylamino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act \[this section and section 811 of this title\], place such drugs in schedule IV of such Act \[see subsec. (c) of this section\].”
 
 Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the date the Convention on Psychotropic Substances enters into force in the United States \[July 15, 1980\], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 sections 1583, 2484; title 20 sections 1415, 7161; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
 
 <i><sup>1</sup></i><i> Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.</i>
 

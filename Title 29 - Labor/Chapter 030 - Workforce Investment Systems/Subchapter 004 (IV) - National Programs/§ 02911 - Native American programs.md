@@ -74,7 +74,7 @@ In order to receive a grant or enter into a contract or cooperative agreement un
 
 &emsp;(2) identify the population to be served;
 
-&emsp;(3) identify the education and employment needs of the population to be served and the manner in which the activities to be provided will strengthen the ability of the individuals served to obtain or retain unsubsidized employment;
+&emsp;(3) identify the education and employment needs of the population to be served and the manner in which the activities to be providedwill strengthen the ability of the individuals served to obtain or retain unsubsidized employment;
 
 &emsp;(4) describe the activities to be provided and the manner in which such activities are to be integrated with other appropriate activities; and
 
@@ -138,7 +138,7 @@ Nothing in this section shall be construed—
 
 #### (ii) Travel expenses
 
-&emsp;&emsp;&emsp;The members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, whileaway from their homes or regular places of business in the performance of services for the Council.
+&emsp;&emsp;&emsp;The members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Council.
 
 #### (iii) Administrative support
 
@@ -158,7 +158,7 @@ Nothing in this section shall be construed—
 
 #### (5) Technical assistance
 
-&emsp;The Secretary, acting through the unit established under paragraph (1), is authorized to provide technical assistance to entities described in subsection (c) of this section that receive assistance under subsection (c) of this section to enable such entities to improve the activities authorized under this section that are provided by such entities.
+&emsp;The Secretary, acting through the unit established under paragraph (1), is authorized toprovide technical assistance to entities described in subsection (c) of this section that receive assistance under subsection (c) of this section to enable such entities to improve the activities authorized under this section that are provided by such entities.
 
 #### (6) Agreement for certain federally recognized Indian tribes to transfer funds to the program
 
@@ -209,8 +209,4 @@ Provisions similar to this section were contained in sections 1671 and 1673 of t
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2852, 2914, 2915, 2918, 2919 of this title.
 

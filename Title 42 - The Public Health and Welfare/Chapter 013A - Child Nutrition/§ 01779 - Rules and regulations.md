@@ -6,7 +6,7 @@ The Secretary shall prescribe such regulations as the Secretary may deem necessa
 
 #### (b) Sale of competitive foods
 
-The regulations shall not prohibit the sale of competitive foods approved by the Secretary infood service facilities or areas during the time of service of food under this chapter or the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] if the proceeds from the sales of such foods will inure to the benefit of the schools or of organizations of students approved by the schools.
+The regulations shall not prohibit the sale of competitive foods approved by the Secretary in food service facilities or areas during the time of service of food under this chapter or the RichardB. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] if the proceeds from the sales of such foods will inure to the benefit of the schools or of organizations of students approved by the schools.
 
 #### (c) Transfer of funds; reserve for special projects
 
@@ -43,8 +43,4 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L. 103–448, set out as a note under section 1755 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1759a, 1766 of this title.
 

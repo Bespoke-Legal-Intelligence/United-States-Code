@@ -24,7 +24,7 @@
 
 > but does not include—
 
-&emsp;(A) an employee of a corporation supervised by the Farm Credit Administration if private interests elect or appoint a member of the board of directors;
+&emsp;(A) an employee of a corporation supervised by the Farm Credit Administration if privateinterests elect or appoint a member of the board of directors;
 
 &emsp;(B) an individual who is not a citizen or national of the United States and whose permanent duty station is outside the United States, unless the individual was an employee for the purpose of this chapter on September 30, 1979, by reason of service in an Executive agency, the United States Postal Service, or the Smithsonian Institution in the area which was then known as the Canal Zone; or
 
@@ -259,10 +259,6 @@ Pub. L. 103–409, §3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(<i>o</i>) of Pub. L. 99–335, set out as a note under section 8331 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8706, 8714a, 8714b, 8714c, 8716 of this title; title 2 sections 162b, 2064; title 28 section 179.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

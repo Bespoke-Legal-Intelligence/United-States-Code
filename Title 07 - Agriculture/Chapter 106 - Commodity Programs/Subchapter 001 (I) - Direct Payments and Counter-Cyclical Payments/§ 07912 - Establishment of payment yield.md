@@ -34,7 +34,7 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 
 #### (1) Election to update
 
-&emsp;If the owner of a farm elects to use the base acres calculation method described in section 7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 of the methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
+&emsp;If the owner of a farm elects to use the base acres calculation method described in section7911(a)(1)(A) of this title, the owner shall also have a 1-time opportunity to elect to use 1 of the methods described in paragraph (3) to partially update the payment yields that would otherwise be used in calculating any counter-cyclical payments for covered commodities on the farm.
 
 #### (2) Time for election
 
@@ -54,7 +54,7 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 
 &emsp;&emsp;&emsp;&emsp;(II) the payment yield applicable for direct payments for the covered commodity on the farm.
 
-&emsp;&emsp;(B) 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which theacreage planted to the crop of the covered commodity was zero.
+&emsp;&emsp;(B) 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero.
 
 #### (4) Use of partial county average yield
 
@@ -69,8 +69,4 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 #### References in Text
 
 Section 1465 of this title, referred to in subsec. (b), was omitted from the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7901, 7914, 7936 of this title.
 

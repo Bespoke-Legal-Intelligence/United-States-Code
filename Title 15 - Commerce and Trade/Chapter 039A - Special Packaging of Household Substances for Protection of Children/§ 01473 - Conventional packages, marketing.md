@@ -26,7 +26,3 @@ For classification to the Code of “this Act”, referred to in subsec. (c), se
 
 “Commission” substituted for “Secretary” in subsecs. (a) and (c) and “it” substituted for “he” in subsec. (c) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1261, 1471, 1472 of this title; title 21 sections 343, 352, 362.
-

@@ -28,7 +28,7 @@ In establishing the formula, the Secretary shall consider—
 
 #### (A) In general
 
-&emsp;&emsp;Except with respect to an Indian tribe described in subparagraph (B), the formulashall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is equal to or greater than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the total amount of such operating and modernization assistance provided for fiscal year 1996 for such tribe.
+&emsp;&emsp;Except with respect to an Indian tribe described in subparagraph (B), the formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is equal to or greater than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the total amount of such operating and modernization assistance provided for fiscal year 1996 for such tribe.
 
 #### (B) Certain Indian tribes
 
@@ -36,7 +36,7 @@ In establishing the formula, the Secretary shall consider—
 
 #### (2) Partial funding
 
-&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
+&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available forassistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
 
 #### (e) Effective date
 
@@ -55,8 +55,4 @@ The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 
 2000—Subsec. (d)(1). Pub. L. 106–568, §1003(g)(1), and Pub. L. 106–569, §503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
 
 Subsec. (d)(1)(B). Pub. L. 106–568, §1003(g)(2), and Pub. L. 106–569, §503(f)(2), amended par. (1) identically, adding subpar. (B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4103, 4151, 4181 of this title.
 

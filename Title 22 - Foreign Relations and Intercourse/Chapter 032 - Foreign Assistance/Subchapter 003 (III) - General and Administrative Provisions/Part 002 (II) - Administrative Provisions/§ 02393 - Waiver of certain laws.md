@@ -6,7 +6,7 @@ Whenever the President determines it to be in furtherance of the purposes of thi
 
 #### (b) Neutrality laws
 
-The functions authorized under subchapter II of this chapter may be performed without regardto such provisions as the President may specify of subchapter II of chapter 9 of this title.
+The functions authorized under subchapter II of this chapter may be performed without regard to such provisions as the President may specify of subchapter II of chapter 9 of this title.
 
 #### (c) Assignment of personnel
 
@@ -105,10 +105,6 @@ This determination shall apply only to funds appropriated to carry out the provi
 You are authorized and directed to publish this determination in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2349b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

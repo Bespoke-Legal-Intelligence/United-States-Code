@@ -86,7 +86,7 @@ Memorial day.—The term ‘Memorial Day’ means the legal public holiday desig
 
 &emsp;“(5)
 
-Tribal government.—The term ‘tribal government’ means the governing body of an Indian tribe\(as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Tribal government.—The term ‘tribal government’ means the governing body of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 #### “SEC. 4. NATIONAL MOMENT OF REMEMBRANCE.
 
@@ -238,7 +238,7 @@ Contents.—A report under paragraph (1) may include—
 
 &emsp;&emsp;“(C) recommendations for any legislation or administrative action that the Commission determines to be appropriate regarding the commemoration of Memorial Day and the National Moment of Remembrance;
 
-&emsp;&emsp;“(D) an accounting of funds received and expended by the Commission in the fiscal year covered by the report, including a detailed description of the source and amount of any funds donated to the Commission in that fiscal year; and
+&emsp;&emsp;“(D) an accounting of funds received and expended by the Commission in the fiscal year covered by the report, including a detailed descriptionof the source and amount of any funds donated to the Commission in that fiscal year; and
 
 &emsp;&emsp;“(E) a description of cooperative agreements and contracts entered into by the Commission.
 
@@ -578,5 +578,5 @@ Access.—The Commission shall ensure that the Comptroller General, in conductin
 
 &emsp;“(2) the date that is 10 years after the date of enactment of this Act.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

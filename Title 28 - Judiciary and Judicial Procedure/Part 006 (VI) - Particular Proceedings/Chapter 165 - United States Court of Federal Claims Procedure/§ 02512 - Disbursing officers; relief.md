@@ -1,8 +1,8 @@
 ### §2512. Disbursing officers; relief
 
-Whenever the United States Court of Federal Claims finds that any loss by a disbursing officer of the United States was without his fault or negligence, it shall render a judgment setting forth the amount thereof, and the General Accounting Office shall allow the officer such amount as a credit in the settlement of his accounts.
+Whenever the United States Court of Federal Claims finds that any loss by a disbursing officer of the United States was without his fault or negligence, it shall render a judgment setting forth the amount thereof, and the Government Accountability Office shall allow the officer such amount as a credit in the settlement of his accounts.
 
-(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, §139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 978; Pub. L. 97–164, title I, §139(j)(2), Apr. 2, 1982, 96 Stat. 43; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,8 @@ Words “paymaster, quartermaster, commissary of subsistence, or other” were o
 Changes were made in phraseology.
 
 #### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 

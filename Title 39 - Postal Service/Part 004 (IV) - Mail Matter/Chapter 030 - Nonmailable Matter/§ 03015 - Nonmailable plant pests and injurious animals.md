@@ -164,9 +164,5 @@ Study.—Not later than 1 year after the program established under subsection (a
 
 &emsp;&emsp;“(B) report the results of the study to Congress.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1716D.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

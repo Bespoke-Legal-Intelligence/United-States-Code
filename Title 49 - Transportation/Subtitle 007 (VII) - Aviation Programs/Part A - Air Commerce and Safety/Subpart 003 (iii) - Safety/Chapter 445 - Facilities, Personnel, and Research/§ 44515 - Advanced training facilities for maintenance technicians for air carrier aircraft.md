@@ -58,9 +58,5 @@ Periodic Reviews and Updates.—The Administrator shall review the content of th
 
 #### Improved Training for Airframe and Powerplant Mechanics
 
-Pub. L. 106–181, title V, §517, Apr. 5, 2000, 114 Stat. 145, provided that: “The Administrator \[of the Federal Aviation Administration\] shall form a partnership with industry and labor to develop a model program to improve the curricula, teaching methods, and quality of instructors for training individuals that need certification as airframe and powerplant mechanics.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 48110 of this title.
+Pub. L. 106–181, title V, §517, Apr. 5, 2000, 114 Stat. 145, provided that: “The Administrator \[of the FederalAviation Administration\] shall form a partnership with industry and labor to develop a model program to improve the curricula, teaching methods, and quality of instructors for training individuals that need certification as airframe and powerplant mechanics.”
 

@@ -1,9 +1,5 @@
 Part C—Claims for Benefits After December 31, 1973
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 902, 921, 922, 925, 932a, 936 of this title; title 26 sections 192, 501, 9501.
-
 
 ---
 

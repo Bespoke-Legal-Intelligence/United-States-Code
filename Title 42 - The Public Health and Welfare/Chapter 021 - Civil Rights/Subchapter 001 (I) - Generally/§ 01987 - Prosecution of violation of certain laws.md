@@ -22,7 +22,3 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys”
 
 Reference to the district courts substituted for reference to the circuit courts on authority of section 291 of act Mar. 3, 1911.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1989 of this title.
-

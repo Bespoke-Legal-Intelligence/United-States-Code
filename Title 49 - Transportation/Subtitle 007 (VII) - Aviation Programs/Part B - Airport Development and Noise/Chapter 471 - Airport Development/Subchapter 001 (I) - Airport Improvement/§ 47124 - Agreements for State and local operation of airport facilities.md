@@ -130,7 +130,7 @@ Dec. 30, 1987, Pub. L. 100–223, §306, 101 Stat. 1526.
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, §303(h); added Oct. 31, 1992, Pub. L. 102–581, §201(a), 106 Stat. 4890.
 
-In subsection (a), the words “In the powers granted under section 2218 of this Appendix” and “contract or other” are omitted as surplus. The word “relieves” issubstituted for “contain, among others, a provision relieving”, and the words “from any liability arising out of, or related to” are substituted for “of any and all liability for the payment of any claim or other obligation arising out of or in connection with”, to eliminate unnecessary words.
+In subsection (a), the words “In the powers granted under section 2218 of this Appendix” and “contract or other” are omitted as surplus. The word “relieves” is substituted for “contain, among others, a provision relieving”, and the words “from any liability arising out of, or related to” are substituted for “of any and all liability for the payment of any claim or other obligation arising out of or in connection with”, to eliminate unnecessary words.
 
 In subsection (b)(1), the words “in effect” are omitted as surplus. The words “on December 30, 1987” are added for clarity.
 
@@ -138,7 +138,7 @@ In subsection (b)(2), the word “Secretary” is substituted for “Administrat
 
 #### Amendments
 
-2003—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under this subchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
+2003—Subsec. (a). Pub. L. 108–176, §105(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Transportation shall ensure that an agreement under thissubchapter with a State or a political subdivision of a State to allow the State or subdivision to operate an airport facility in the State or subdivision relieves the United States Government from any liability arising out of, or related to, acts or omissions of employees of the State or subdivision in operating the airport facility.”
 
 Subsec. (b)(2). Pub. L. 108–176, §105(2), added par. (2) and struck out former par. (2) which read as follows: “The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.”
 
@@ -213,8 +213,4 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 2
 #### Contract Tower Assistance
 
 Pub. L. 103–305, title V, §508, Aug. 23, 1994, 108 Stat. 1596, provided that: “The Secretary shall take appropriate action to assist communities where the Secretary deems such assistance appropriate in obtaining the installation of a Level I Contract Tower for those communities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47102 of this title.
 

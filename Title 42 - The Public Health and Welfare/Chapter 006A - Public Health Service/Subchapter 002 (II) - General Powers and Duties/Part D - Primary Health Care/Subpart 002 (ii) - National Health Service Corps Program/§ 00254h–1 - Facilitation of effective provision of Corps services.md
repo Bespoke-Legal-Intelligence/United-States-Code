@@ -12,7 +12,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (2) Career advisor regarding obligated service
 
-&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
+&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors forproviding such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
 
 &emsp;(B) With respect to the Scholarship Program, counseling under paragraph (1) shall include counseling individuals during the period in which the individuals are pursuing an educational degree in the health profession involved, including counseling to prepare the individual for service in the Corps.
 
@@ -93,10 +93,6 @@ A prior section 336 of act July 1, 1944, was renumbered section 336A by Pub. L. 
 Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted “health professional shortage area” for “health manpower shortage area”.
 
 1987—Subsec. (a). Pub. L. 100–177 substituted “Scholarship Program or Loan Repayment Program” for “scholarship program”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

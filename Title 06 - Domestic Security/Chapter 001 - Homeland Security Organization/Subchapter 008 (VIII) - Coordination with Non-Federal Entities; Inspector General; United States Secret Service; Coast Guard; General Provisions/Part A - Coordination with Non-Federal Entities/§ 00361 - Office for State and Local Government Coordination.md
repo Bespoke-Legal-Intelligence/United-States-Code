@@ -18,7 +18,3 @@ The Office established under subsection (a) of this section shall—
 
 (Pub. L. 107–296, title VIII, §801, Nov. 25, 2002, 116 Stat. 2220.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 112 of this title.
-

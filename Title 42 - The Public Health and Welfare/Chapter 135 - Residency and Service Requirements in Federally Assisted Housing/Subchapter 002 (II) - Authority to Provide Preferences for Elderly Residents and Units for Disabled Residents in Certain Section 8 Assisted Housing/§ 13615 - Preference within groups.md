@@ -14,7 +14,3 @@ Among disabled families qualifying for occupancy in units reserved under section
 
 Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13612 of this title.
-

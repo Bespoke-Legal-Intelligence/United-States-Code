@@ -68,7 +68,7 @@ To the extent practicable, the Secretary shall ensure an equitable geographic di
 
 &emsp;The entity shall use the funds to carry out a program that includes two or more of the following activities:
 
-&emsp;&emsp;(A) Providing scholarships, stipends, bonuses, and other financial incentives, that are linked to participation in activities thathave proven effective in retaining teachers in high-need schools operated by high-need local educational agencies, to all eligible participants, in an amount not to exceed $5,000 per participant.
+&emsp;&emsp;(A) Providing scholarships, stipends, bonuses, and other financial incentives, that are linked to participation in activities that have proven effective in retaining teachers in high-need schools operated by high-need local educational agencies, to all eligible participants, in an amount not to exceed $5,000 per participant.
 
 &emsp;&emsp;(B) Carrying out pre- and post-placement induction or support activities that have proven effective in recruiting and retaining teachers, such as—
 
@@ -110,7 +110,7 @@ To the extent practicable, the Secretary shall ensure an equitable geographic di
 
 #### (2) Supplement, not supplant
 
-&emsp;Funds made available under this section shall be used to supplement, and not supplant, State and local public funds expended for teacher recruitment and retention programs, including programs to recruit the teachers through alternative routes to certification.
+&emsp;Funds made available under this section shall be used to supplement, and not supplant, State and local public funds expended for teacher recruitment and retention programs,including programs to recruit the teachers through alternative routes to certification.
 
 #### (3) Partnerships and consortia of local educational agencies
 

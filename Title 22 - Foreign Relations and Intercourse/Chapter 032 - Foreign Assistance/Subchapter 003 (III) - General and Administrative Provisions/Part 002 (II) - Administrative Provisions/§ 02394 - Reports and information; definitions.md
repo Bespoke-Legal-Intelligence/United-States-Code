@@ -6,7 +6,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;(1)(A) a comprehensive and coordinated review of all United States policies and programs having a major impact on the development of developing countries, including but not limited to bilateral and multilateral assistance, trade, debt, employment, food, energy, technology, population, oceans, environment, human settlements, natural resources, and participation in international agencies concerned with development;
 
-&emsp;(B) an assessment of the impact of such policies and programs on the well-being of the poor majority in developing countries in accordance with the policy objectives of part I of subchapter I of this chapter, including increasing life expectancy and literacy, lowering infant mortality and birth rates, and increasing food production and employment, such assessment to include an evaluation of the extent to which programs under part I of subchapter I ofthis chapter directly benefit the poor majority; and
+&emsp;(B) an assessment of the impact of such policies and programs on the well-being of the poor majority in developing countries in accordance with the policy objectives of part I of subchapter I of this chapter, including increasing life expectancy and literacy, lowering infant mortality and birth rates, and increasing food production and employment, such assessment to include an evaluation of the extent to which programs under part I of subchapter I of this chapter directly benefit the poor majority; and
 
 &emsp;(C) an assessment of the impact of such policies and programs on economic conditions in the United States, including but not limited to employment, wages, and working conditions;
 
@@ -163,8 +163,4 @@ Annual report under this section to describe progress achieved during preceding 
 #### Negotiating Efforts Concerning Accelerated Loan Repayments To Be Included in Annual Reports for Foreign Assistance for 1980 and 1981
 
 Annual reports on foreign assistance submitted in 1980 and 1981 pursuant to this section to contain negotiating efforts respecting accelerated loan repayments under section 2151y of this title, see section 508(b) of Pub. L. 96–53, set out as a note under section 2151y of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151p–1, 2151q, 2291a, 2321j, 2765, 2785 of this title.
 

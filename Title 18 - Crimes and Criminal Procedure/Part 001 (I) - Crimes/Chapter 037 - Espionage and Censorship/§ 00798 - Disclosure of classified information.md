@@ -22,7 +22,7 @@ The term “foreign government” includes in its meaning any person or persons 
 
 The term “communication intelligence” means all procedures and methods used in the interception of communications and the obtaining of information from such communications by other than the intended recipients;
 
-The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by the President, or by the head of a department oragency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
+The term “unauthorized person” means any person who, or agency which, is not authorized to receive information of the categories set forth in subsection (a) of this section, by the President, or by the head of a department or agency of the United States Government which is expressly designated by the President to engage in communication intelligence activities for the United States.
 
 (c) Nothing in this section shall prohibit the furnishing, upon lawful demand, of information to any regularly constituted committee of the Senate or House of Representatives of the United States of America, or joint committee thereof.
 
@@ -61,8 +61,4 @@ Another section 798 was renumbered section 798A of this title.
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 951, 1956, 3077, 3239 of this title; title 5 section 8312; title 8 section 1101; title 19 section 1583; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. section 2410.
 

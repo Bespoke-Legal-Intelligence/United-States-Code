@@ -14,7 +14,3 @@ Funds transferred under subsection (a) of this section shall remain available un
 
 (Pub. L. 87–128, title III, §384S, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 402.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009cc–16 of this title.
-

@@ -4,7 +4,3 @@ For the purpose of preserving in their natural state the outstanding scenic feat
 
 (June 13, 1930, ch. 480, §1, 46 Stat. 582.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 402e of this title.
-

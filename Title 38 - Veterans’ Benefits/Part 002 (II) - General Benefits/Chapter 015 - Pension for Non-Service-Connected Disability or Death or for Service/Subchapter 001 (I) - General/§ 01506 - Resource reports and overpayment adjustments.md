@@ -72,7 +72,3 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 Section 10 of Pub. L. 86–211 provided that: “This Act \[see Tables for classification\] shall take effect on July 1, 1960.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1507 of this title.
-

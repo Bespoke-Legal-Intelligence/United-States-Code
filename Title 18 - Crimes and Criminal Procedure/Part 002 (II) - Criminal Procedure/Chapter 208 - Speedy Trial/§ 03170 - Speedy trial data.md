@@ -14,7 +14,3 @@
 
 1979—Subsec. (a). Pub. L. 96–43 inserted “continuous and permanent compliance with the” and substituted “described in” for “required by”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3166, 3167 of this title.
-

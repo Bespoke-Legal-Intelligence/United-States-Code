@@ -22,7 +22,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 (3)(A) After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section, contracting officers shall require that vendors:
 
-&emsp;(i) certify that the percentage of recovered materials to be used in the performance of thecontract will be at least the amount required by applicable specifications or other contractual requirements and
+&emsp;(i) certify that the percentage of recovered materials to be used in the performance of the contract will be at least the amount required by applicable specifications or other contractual requirements and
 
 &emsp;(ii) estimate the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
@@ -90,7 +90,7 @@ As used in this section, in the case of paper products, the term “recovered ma
 
 #### (i) Procurement program
 
-(1) Within one year after the date of publication of applicable guidelines under subsection\(e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
+(1) Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
 
 (2) Each affirmative procurement program required under this subsection shall, at a minimum, contain—
 
@@ -162,13 +162,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 #### Greening the Government Through Waste Prevention
 
 Executive agency heads to develop and implement affirmative procurement programs in accordance with this section and Ex. Ord. No. 13101, and specifications, standards, and product descriptions inconsistent with this section or Ex. Ord. No. 13101 to be revised, and guidance for use in determining Federal facility compliance with this section and Ex. Ord. No. 13101 to be prepared with evaluations to be based on this implementing guidance, see Ex. Ord. No. 13101, §§402, 403, 501(a), Sept. 14, 1998, 63 F.R. 49646, 49647, set out as a note under section 6961 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6905, 6941, 8102 of this title.
 

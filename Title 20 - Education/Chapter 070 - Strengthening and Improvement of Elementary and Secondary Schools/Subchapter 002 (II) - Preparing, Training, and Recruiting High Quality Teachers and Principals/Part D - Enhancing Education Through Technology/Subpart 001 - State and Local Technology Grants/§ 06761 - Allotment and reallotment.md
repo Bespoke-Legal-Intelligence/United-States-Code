@@ -32,9 +32,5 @@ In this section, the term “State educational agency” does not include an age
 
 Section 3136 prior to January 8, 2002, referred to in subsec. (a)(1)(C), means section 3136 of Pub. L. 89–10, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3648, which was classified to section 6846 of this title prior to the general amendment of subchapter III of this chapter by Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1689.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,9 @@ In General.—The following amounts are made available from the Highway Trust Fu
 
 &emsp;(6) Not more than $110,000,000 for fiscal year 2003.
 
-&emsp;(7) Not more than $68,750,000 for the period of October 1, 2003, through February 29, 2004.
+&emsp;(7) Not more than $169,000,000 for fiscal year 2004.
+
+&emsp;(8) Not more than $112,512,329 for the period of October 1, 2004, through May 31, 2005.
 
 (b)
 
@@ -28,7 +30,7 @@ Reimbursement for Government's Share of Costs.—Amounts made available under su
 
 (d)
 
-Grants as Contractual Obligations.—Approval by the Secretary of a grant to a State under section 31102 of this title is a contractual obligation of the Government for payment of the Government's share of costs incurred by the State in developing, implementing, or developing and implementing programs to enforce commercial motor vehicle regulations, standards, and orders.
+Grants as Contractual Obligations.—Approval by the Secretary of a grant to a Stateunder section 31102 of this title is a contractual obligation of the Government for payment of the Government's share of costs incurred by the State in developing, implementing, or developing and implementing programs to enforce commercial motor vehicle regulations, standards, and orders.
 
 (e)
 
@@ -62,7 +64,7 @@ Payment to States for Costs.—Each State shall submit vouchers for costs the St
 
 Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under section 31102(a) of this title. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under section 153 of title 23, the Secretary shall ensure that the guidelines and standards are applied uniformly.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153.)
 
 Historical and Revision Notes
 
@@ -156,13 +158,23 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 
 #### Amendments
 
+2004—Subsec. (a)(7). Pub. L. 108–280 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $140,833,333 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $126,519,126 for the period of October 1, 2003, through June 30, 2004.”
+
+Pub. L. 108–224 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $98,352,000 for the period of October 1, 2003, through April 30, 2004.”
+
+Pub. L. 108–202 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Not more than $68,750,000 for the period of October 1, 2003, through February 29, 2004.”
+
+Subsec. (a)(8). Pub. L. 108–310 added par. (8).
+
 2003—Subsec. (a)(7). Pub. L. 108–88 added par. (7).
 
 1998—Subsec. (a). Pub. L. 105–178, §4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
 
 Subsec. (b). Pub. L. 105–178, §4003(f), struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
 
-Subsec. (f). Pub. L. 105–178, §4003(g)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under section 31102 of this title. However, the Secretary may designate specific eligible States among which toallocate those amounts in allocating amounts available—
+Subsec. (f). Pub. L. 105–178, §4003(g)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under section 31102 of this title. However, the Secretary may designate specific eligible States among which to allocate those amounts in allocating amounts available—
 
 &emsp;“(1) for research, development, and demonstration under subsection (g)(1)(F) of this section; and
 
@@ -187,8 +199,4 @@ Subsec. (j). Pub. L. 105–178, §4003(g)(4), redesignated subsec. (j) as (h).
 #### Increased Authorizations for Motor Carrier Safety Grants
 
 Pub. L. 105–178, title IV, §4003(i), as added by Pub. L. 106–159, title I, §103(b)(1), Dec. 9, 1999, 113 Stat. 1753, provided that: “The amount made available to incur obligations to carry out section 31102 of title 49, United States Code, by section 31104(a) of such title for each of fiscal years 2001 through 2003 shall be increased by $65,000,000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5708, 31102, 31103, 31141 of this title; title 23 section 110.
 

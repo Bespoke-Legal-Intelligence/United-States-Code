@@ -2,7 +2,7 @@
 
 #### (a) Additional lands, waters, and interests therein
 
-In order to add to the Grand Canyon National Park certain prime portions of the canyon area possessing unique natural, scientific, and scenicvalues, the Grand Canyon National Park shall comprise, subject to any valid existing rights under the Navajo Boundary Act of 1934, all those lands, waters, and interests therein, constituting approximately one million two hundred thousand acres, located within the boundaries as depicted on the drawing entitled “Boundary Map, Grand Canyon National Park,” numbered 113–20, 021 B and dated December 1974, a copy of which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+In order to add to the Grand Canyon National Park certain prime portions of the canyon areapossessing unique natural, scientific, and scenic values, the Grand Canyon National Park shall comprise, subject to any valid existing rights under the Navajo Boundary Act of 1934, all those lands, waters, and interests therein, constituting approximately one million two hundred thousand acres, located within the boundaries as depicted on the drawing entitled “Boundary Map, Grand Canyon National Park,” numbered 113–20, 021 B and dated December 1974, a copy of which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
 #### (b) Abolition of Grand Canyon and Marble Canyon National Monuments
 
@@ -17,8 +17,4 @@ The Secretary of the Interior shall study the lands within the former boundaries
 #### References in Text
 
 The Navajo Boundary Act of 1934, referred to in subsec. (a), is act June 14, 1934, ch. 521, 48 Stat. 960, which was not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a, 228c to 228i, 228j of this title.
 

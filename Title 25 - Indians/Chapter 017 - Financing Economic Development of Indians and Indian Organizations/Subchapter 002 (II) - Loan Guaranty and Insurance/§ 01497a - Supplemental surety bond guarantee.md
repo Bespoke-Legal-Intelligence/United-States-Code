@@ -14,7 +14,7 @@ The Secretary may provide a supplemental guarantee under this section only if th
 
 &emsp;(3) no more than 25 percent of the surety's business is comprised of bonds guaranteed pursuant to this section; and
 
-&emsp;(4) the surety will provide appropriate technical assistance and advice to, and monitorthe performance of, the Indian individual or economic enterprise for the prevention or mitigation of a loss.
+&emsp;(4) the surety will provide appropriate technical assistance and advice to, and monitor the performance of, the Indian individual or economic enterprise for the prevention or mitigation of a loss.
 
 #### (c) Fees and charges
 

@@ -62,7 +62,7 @@ No employee of the Office or any other Federal employee performing any function 
 
 #### References in Text
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290,and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
@@ -91,6 +91,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3054.
 
 Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1256.
 
@@ -121,8 +123,4 @@ Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1002.
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1927.
 
 Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 712.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300 of this title.
 

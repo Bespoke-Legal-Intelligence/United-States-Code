@@ -14,7 +14,3 @@ R.S. §§2990–2997, as amended by act Feb. 18, 1875, ch. 80, 18 Stat. 319, and
 
 R.S. §2581, relative to the transshipment of merchandise transported in bond to the port of Brownsville, by Brazos Harbor; R.S. §§2816–2831, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 246, 247, and act June 16, 1880, ch. 239, 21 Stat. 283, relative to transportation of merchandise intended to be imported into certain ports of delivery; and R.S. §2998, prescribing a penalty for breaking or entering any car, etc., containing merchandise transported under sections 2990–2997, or defacing any lock or seal, etc.—were all repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1315, 1484 of this title.
-

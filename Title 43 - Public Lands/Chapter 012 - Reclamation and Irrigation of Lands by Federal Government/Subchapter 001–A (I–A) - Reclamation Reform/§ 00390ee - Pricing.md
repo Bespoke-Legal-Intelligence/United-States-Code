@@ -30,9 +30,5 @@ Notwithstanding any extension of time of any recordable contract as provided in 
 
 Federal reclamation law, referred to in subsec. (b), is defined in section 390aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390cc, 390pp, 390ww of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

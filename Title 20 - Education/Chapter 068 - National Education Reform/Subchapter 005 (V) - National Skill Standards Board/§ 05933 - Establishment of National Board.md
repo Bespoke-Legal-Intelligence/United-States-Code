@@ -38,7 +38,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 &emsp;&emsp;(A) in the aggregate, represent a broad cross-section of occupations and industries; and
 
-&emsp;&emsp;(B) to the extent feasible, be geographically representative of the United States and reflect the racial, ethnic, and gender diversity of the United States.
+&emsp;&emsp;(B) to the extent feasible, be geographically representative of the United Statesand reflect the racial, ethnic, and gender diversity of the United States.
 
 #### (3) Appointment
 
@@ -114,7 +114,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 #### (A) In general
 
-&emsp;&emsp;The Executive Director may appoint and compensate such additional staff as may be necessary to enable the Board to perform its duties. Such staff shall include at least one individual with expertise in measurement and assessment.
+&emsp;&emsp;The Executive Director may appoint and compensate such additional staff as may benecessary to enable the Board to perform its duties. Such staff shall include at least one individual with expertise in measurement and assessment.
 
 #### (B) Compensation
 

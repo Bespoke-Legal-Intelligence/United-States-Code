@@ -26,7 +26,7 @@
 
 (e) The clerk of the court may collect only the fees prescribed under this section.
 
-(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412.)
+(Added Pub. L. 95–598, title II, §246(a), Nov. 6, 1978, 92 Stat. 2671; amended Pub. L. 98–353, title I, §111(a), (b), July 10, 1984, 98 Stat. 342; Pub. L. 99–500, §101(b) \[title IV, §407(b)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(b)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; Pub. L. 99–554, title I, §§117, 144(f), Oct. 27, 1986, 100 Stat. 3095, 3097; Pub. L. 101–162, title IV, §406(a), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(a), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(1), (b)(1), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(a)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29,1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–518, title I, §§103–105, Nov. 13, 2000, 114 Stat. 2411, 2412.)
 
 #### Codification
 
@@ -38,7 +38,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2000—Subsec. (a). Pub. L. 106–518, §104, substituted “the amount equal to the difference between the fee specified in paragraph (3) and the fee specified in paragraph (1)” for “$400” in concluding provisions.
 
-Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by whichthe fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
+Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
 
 Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a) by adding par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions to reflect the probable intent of Congress.
 
@@ -124,7 +124,7 @@ Contents of report.—Such report shall include—
 
 &emsp;“(ii) recommendations regarding various revenue sources to offset the net cost of waiving such fees; and
 
-&emsp;“(B)(i) an evaluation of the effects that would result in cases under chapters 11 and 13 of title 11,United States Code, from using a graduated bankruptcy fee system based on assets, liabilities, or both of the debtor, and
+&emsp;“(B)(i) an evaluation of the effects that would result in cases under chapters 11 and 13 of title 11, United States Code, from using a graduated bankruptcy fee system based on assets, liabilities, or both of the debtor, and
 
 &emsp;“(ii) recommendations regarding various methods to implement such a graduated bankruptcy fee system.
 
@@ -147,8 +147,4 @@ Section 403 of Pub. L. 101–162 provided that: “Notwithstanding any other pro
 #### Collection and Disposition of Fees in Bankruptcy Cases
 
 Section 404(a) of Pub. L. 101–162 provided that: “For fiscal year 1990 and hereafter, such fees as shall be collected for the preparation and mailing of notices in bankruptcy cases as prescribed by the Judicial Conference of the United States pursuant to 28 U.S.C. 1930(b) shall be deposited to the ‘Courts of Appeals, District Courts, and Other Judicial Services, Salaries and Expenses’ appropriation to be used for salaries and other expenses incurred in providing these services.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 589a of this title; title 11 sections 104, 1129.
 

@@ -2,7 +2,7 @@
 
 #### (a) Museum objects and collections
 
-In addition to the functions specified in section 18f of this title, the Secretary of the Interior may perform the following functions in such manner as he shall consider to be in the public interest:
+In addition to the functions specified in section 18f of this title, the Secretary of the Interior may perform the following functions insuch manner as he shall consider to be in the public interest:
 
 &emsp;(1) Transfer museum objects and museum collections that the Secretary determines are no longer needed for museum purposes to qualified Federal agencies, including the Smithsonian Institution, that have programs to preserve and interpret cultural or natural heritage, and accept the transfer of museum objects and museum collections for the purposes of this section and sections 18f and 18f–3 of this title from any other Federal agency, without reimbursement. The head of any other Federal agency may transfer, without reimbursement, museum objects and museum collections directly to the administrative jurisdiction of the Secretary of the Interior for the purpose of this section and sections 18f and 18f–3 of this title.
 
@@ -15,8 +15,4 @@ In addition to the functions specified in section 18f of this title, the Secreta
 The Secretary shall ensure that museum collections are treated in a careful and deliberate manner that protects the public interest. Prior to taking any action under subsection (a) of this section, the Secretary shall establish a systematic review and approval process, including consultation with appropriate experts, that meets the highest standards of the museum profession for all actions taken under this section.
 
 (July 1, 1955, ch. 259, §2, as added Pub. L. 104–333, div. I, title VIII, §804(a)(2), Nov. 12, 1996, 110 Stat. 4187.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18f, 18f–3 of this title.
 

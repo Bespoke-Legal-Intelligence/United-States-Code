@@ -106,6 +106,18 @@ Section 1 of Pub. L. 99–234 provided that: “This Act \[enacting sections 570
 
 Section 1 of Pub. L. 94–22 provided: “That this Act \[amending this section, sections 5702, 5703, 5704, 5705, and 5707 of this title, and section 68b of Title 2, The Congress, and enacting provisions set out as a note under section 5707 of this title\] may be cited as the “Travel Expense Amendments Act of 1975’.”
 
+#### eTravel Service
+
+Pub. L. 108–447, div. G, title II, §209, Dec. 8, 2004, 118 Stat. 3193, provided that: “Notwithstanding any other provision of law, no entity within the legislative branch shall be required to use the eTravel Service established by the Administrator of General Services for official travel by officers or employees of the entity during fiscal year 2005 or any succeeding fiscal year.”
+
+#### Creditworthiness of Individuals To Be Issued Government Charge Cards
+
+Pub. L. 108–447, div. H, title VI, §639, Dec. 8, 2004, 118 Stat. 3281, provided that: “Each Executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government purchase charge card or government travel charge card. The department or agency may not issue a government purchase charge card or government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each Executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
+
+Similar provisions were contained in the following prior appropriations act:
+
+Pub. L. 108–199, div. F, title VI, §638, Jan. 23, 2004, 118 Stat. 358.
+
 #### Requiring Use of Travel Charge Card
 
 Pub. L. 105–264, §2, Oct. 19, 1998, 112 Stat. 2350, provided that:
@@ -142,7 +154,7 @@ Collection of Amounts Owed.—
 
 &emsp;“(1)
 
-In general.—Under regulations issued by the Administrator of General Services and upon writtenrequest of a Federal contractor, the head of any Federal agency or a disbursing official of the United States may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
+In general.—Under regulations issued by the Administrator of General Services and upon written request of a Federal contractor, the head of any Federal agency or a disbursing official of the United States may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
 
 &emsp;“(2)
 
@@ -197,10 +209,6 @@ Preparation.—Each report shall be based on a sampling survey of agencies that 
 Reimbursement of Travel Expenses.—In accordance with regulations prescribed by the Administrator of General Services, the head of an agency shall ensure that the agency reimburses an employee who submits a proper voucher for allowable travel expenses in accordance with applicable travel regulations within 30 days after submission of the voucher. If an agency fails to reimburse an employee who has submitted a proper voucher within 30 days after submission of the voucher, the agency shall pay the employee a late payment fee as prescribed by the Administrator.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5304 of this title; title 2 section 68b; title 7 sections 3128, 5843; title 15 section 2224; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 42 section 12653h.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

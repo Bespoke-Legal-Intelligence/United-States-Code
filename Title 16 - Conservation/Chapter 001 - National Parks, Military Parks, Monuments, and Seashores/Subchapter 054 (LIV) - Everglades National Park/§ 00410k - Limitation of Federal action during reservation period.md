@@ -4,7 +4,3 @@ Unless consented to by an owner retaining the reservation set forth in subsectio
 
 (Pub. L. 85–482, §3, July 2, 1958, 72 Stat. 285.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410j, 410p of this title.
-

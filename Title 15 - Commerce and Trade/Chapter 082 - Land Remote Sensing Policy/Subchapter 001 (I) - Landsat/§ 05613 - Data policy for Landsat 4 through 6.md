@@ -32,10 +32,6 @@ If negotiations under subsection (a) of this section have not, by September 30, 
 
 (Pub. L. 102–555, title I, §103, Oct. 28, 1992, 106 Stat. 4168.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5611 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “(a)(1)”.</i>

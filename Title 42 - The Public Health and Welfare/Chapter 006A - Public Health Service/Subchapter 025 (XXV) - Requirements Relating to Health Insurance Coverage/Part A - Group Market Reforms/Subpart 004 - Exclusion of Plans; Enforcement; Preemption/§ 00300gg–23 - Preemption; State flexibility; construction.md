@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and except as provided in subsection (b) of this section, this part and part C of this subchapter insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
+&emsp;Subject to paragraph (2) and except as provided in subsection (b) of this section, thispart and part C of this subchapter insofar as it relates to this part shall not be construed to supersede any provision of State law which establishes, implements, or continues in effect any standard or requirement solely relating to health insurance issuers in connection with group health insurance coverage except to the extent that such standard or requirement prevents the application of a requirement of this part.
 
 #### (2) Continued preemption with respect to group health plans
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 104–204 applicable with respect to group health plans for
 #### Effective Date
 
 Section applicable with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997, except as otherwise provided, see section 102(c) of Pub. L. 104–191, set out as a note under section 300gg of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300gg–4, 300gg–22, 300gg–51 of this title.
 

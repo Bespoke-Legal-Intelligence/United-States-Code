@@ -34,7 +34,7 @@ In general.—When the Attorney General determines that an investigation or pros
 
 &emsp;(2)
 
-Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney Generalreceives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (d)
 
@@ -115,6 +115,10 @@ Subsec. (b)(7). Pub. L. 97–409, §3, added par. (7).
 Subsec. (b)(8). Pub. L. 97–409, §3, redesignated former par. (6) as (8) and substituted “the chairman and treasurer of the principal national campaign committee seeking the election or reelection of the President, and any officer of the campaign exercising authority at the national level, such as the campaign manager or director, during the incumbency of the President” for “any officer of the principal national campaign committee seeking the election or reelection of the President”.
 
 Subsec. (c). Pub. L. 97–409, §4(a)(2), added subsec. (c).
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
@@ -213,8 +217,4 @@ Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–
 #### Contingency Fund for Independent Counsels
 
 Section 601(c) of Pub. L. 95–521, as amended by Pub. L. 97–409, §2(c)(2), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 100–191, §5(b), Dec. 15, 1987, 101 Stat. 1307, provided that: “There are authorized to be appropriated for each fiscal year such sums as may be necessary, to be held by the Department of Justice as a contingent fund for the use of any independent counsels appointed under chapter 40 (relating to independent counsels) of title 28 of the United States Code in the carrying out of functions under such chapter.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 592, 593 of this title.
 

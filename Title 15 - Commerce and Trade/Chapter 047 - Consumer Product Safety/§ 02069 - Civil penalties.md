@@ -64,7 +64,3 @@ Subsec. (a)(3). Pub. L. 101–608, §115(a)(3), added par. (3).
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2055 of this title.
-

@@ -6,11 +6,11 @@
 
 &emsp;(B)(i) is a resident of the United States, and is either (I) a citizen or (II) an alien lawfully admitted for permanent residence or otherwise permanently residing in the United States under color of law (including any alien who is lawfully present in the United States as a result of the application of the provisions of section 1182(d)(5) of title 8), or
 
-&emsp;(ii) is a child who is a citizen of the United States, who is living with a parent of the child who is a member of the Armed Forces of the United States assigned to permanent duty ashore outside the United States, and who, for the month before the parent reported for such assignment, received a benefit under this subchapter.
+&emsp;(ii) is a child who is a citizen of the United States, and who is living with a parent of the child who is a member of the Armed Forces of the United States assigned to permanent duty ashore outside the United States.
 
 (2) An individual shall be considered to be blind for purposes of this subchapter if he has central visual acuity of 20/200 or less in the better eye with the use of a correcting lens. An eye which is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered for purposes of the first sentence of this subsection as having a central visual acuity of 20/200 or less. An individual shall also be considered to be blind for purposes of this subchapter if he is blind as defined under a State plan approved under subchapter X or XVI of this chapter as in effect for October 1972 and received aid under such plan (on the basis of blindness) for December 1973, so long as he is continuously blind as so defined.
 
-(3)(A) Except as provided in subparagraph (C), an individual shall be considered to be disabled for purposes of this subchapter if he is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months.
+(3)(A) Except as provided in subparagraph (C), an individual shall be considered to be disabled for purposes of this subchapter if he is unable to engage in any substantial gainful activity by reason of any medically determinable physicalor mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months.
 
 (B) For purposes of subparagraph (A), an individual shall be determined to be under a disability only if his physical or mental impairment or impairments are of such severity that he is not only unable to do his previous work but cannot, considering his age, education, and work experience, engage in any other kind of substantial gainful work which exists in the national economy, regardless of whether such work exists in the immediate area in which he lives, or whether a specific job vacancy exists for him, or whether he would be hired if he applied for work. For purposes of the preceding sentence (with respect to any individual), “work which exists in the national economy” means work which exists in significant numbers either in the region where such individual lives or in several regions of the country.
 
@@ -34,7 +34,7 @@
 
 (III) If the representative payee refuses to comply without good cause with the requirements of subclause (II), the Commissioner of Social Security shall, if the Commissioner determines it is in the best interest of the individual, promptly suspend payment of benefits to the representative payee, and provide for payment of benefits to an alternative representative payee of the individual or, if the interest of the individual under this subchapter would be served thereby, to the individual.
 
-(IV) Subclause (II) shall not apply to the representative payee of any individual with respect to whom the Commissioner determines such application would be inappropriate or unnecessary. In making such determination, the Commissioner shall take into consideration the nature of the individual's impairment (or combination of impairments). Section 1383(c) of this title shall not apply to a finding by the Commissioner that the requirements of subclause (II) should not apply to an individual's representative payee.
+(IV) Subclause (II) shall not apply to the representative payee of any individual with respect to whom the Commissioner determines such application would be inappropriate or unnecessary. In making such determination, the Commissioner shall take into consideration the nature of the individual's impairment (or combination of impairments). Section 1383(c) of this titleshall not apply to a finding by the Commissioner that the requirements of subclause (II) should not apply to an individual's representative payee.
 
 (iii) If an individual is eligible for benefits under this subchapter by reason of disability for the month preceding the month in which the individual attains the age of 18 years, the Commissioner shall redetermine such eligibility—
 
@@ -44,7 +44,7 @@
 
 > With respect to any redetermination under this clause, paragraph (4) shall not apply.
 
-(iv)(I) Except as provided in subclause (VI), not later than 12 months after the birth of an individual, the Commissioner shall review in accordance with paragraph (4) the continuing eligibility for benefits under this subchapter byreason of disability of such individual whose low birth weight is a contributing factor material to the Commissioner's determination that the individual is disabled.
+(iv)(I) Except as provided in subclause (VI), not later than 12 months after the birth of an individual, the Commissioner shall review in accordance with paragraph (4) the continuing eligibility for benefits under this subchapter by reason of disability of such individual whose low birth weight is a contributing factor material to the Commissioner's determination that the individual is disabled.
 
 (II) A review under subclause (I) shall be considered a substitute for a review otherwise required under any other provision of this subparagraph during that 12-month period.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(ii) substantial evidence which demonstrates that, as determined on the basis of new or improved diagnostic techniques or evaluations, the individual's impairment or combination of impairments, is not as disabling as it was considered to be at the time of the most recent prior decision that the individual was under a disability or continued to be under a disability, and such impairment or combination of impairments does not result in marked and severe functional limitations; or
 
-&emsp;(C) in the case of any individual, substantial evidence (which may be evidence on the recordat the time any prior determination of the entitlement to benefits based on disability was made, or newly obtained evidence which relates to that determination) which demonstrates that a prior determination was in error.
+&emsp;(C) in the case of any individual, substantial evidence (which may be evidence on the record at the time any prior determination of the entitlement to benefits based on disability was made, or newly obtained evidence which relates to that determination) which demonstrates that a prior determination was in error.
 
 > Nothing in this paragraph shall be construed to require a determination that an individual receiving benefits based on disability under this subchapter is entitled to such benefits if the prior determination was fraudulently obtained or if the individual is engaged in substantial gainful activity, cannot be located, or fails, without good cause, to cooperate in a review of his or her entitlement or to follow prescribed treatment which would be expected (i) to restore his or her ability to engage in substantial gainful activity, or (ii) in the case of an individual under the age of 18, to eliminate or improve the individual's impairment or combination of impairments so that it no longer results in marked and severe functional limitations. Any determination under this paragraph shall be made on the basis of all the evidence available in the individual's case file, including new evidence concerning the individual's prior or current condition which is presented by the individual or secured by the Commissioner of Social Security. Any determination made under this paragraph shall be made on the basis of the weight of the evidence and on a neutral basis with regard to the individual's condition, without any initial inference as to the presence or absence of disability being drawn from the fact that the individual has previously been determined to be disabled.
 
@@ -126,9 +126,11 @@
 
 (4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1614, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86Stat. 1471; amended Pub. L. 93–233, §9, Dec. 31, 1973, 87 Stat. 957; Pub. L. 96–265, title II, §203(a), title III, §§302(a)(2), 303(c)(1), title V, §504(a), June 9, 1980, 94 Stat. 449, 450, 453, 471; Pub. L. 98–369, div. B, title VI, §2663(g)(6), (7), July 18, 1984, 98 Stat. 1168, 1169; Pub. L. 98–460, §§2(c), 3(a)(2), 4(b), 8(b), 10(b), Oct. 9, 1984, 98 Stat. 1796, 1799, 1800, 1804, 1805; Pub. L. 99–643, §4(d)(2), (3)(A), Nov. 10, 1986, 100 Stat. 3577; Pub. L. 101–239, title VIII, §§8009(b), 8010(a), 8012(a), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 101–508, title V, §5036(a), Nov. 5, 1990, 104 Stat. 1388–225; Pub. L. 101–649, title I, §162(e)(5), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 103–66, title XIII, §§13733(a), 13734(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(4)(A), Aug. 15, 1994, 108 Stat. 1478, 1505; Pub. L. 103–432, title II, §221(a), Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–121, title I, §105(b)(1), Mar. 29, 1996, 110 Stat. 853; Pub. L. 104–193, title II, §§204(c)(1), 211(a), (c), 212(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2188, 2189, 2192, 2193; Pub. L. 105–33, title V, §5522(a), (d), Aug. 5, 1997, 111 Stat. 622, 623.)
+(Aug. 14, 1935, ch. 531, title XVI, §1614, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1471; amended Pub. L. 93–233, §9, Dec. 31, 1973, 87 Stat. 957; Pub. L. 96–265, title II, §203(a), title III, §§302(a)(2), 303(c)(1), title V, §504(a), June 9, 1980, 94 Stat. 449, 450, 453, 471; Pub. L. 98–369, div. B, title VI, §2663(g)(6), (7), July 18, 1984, 98 Stat. 1168, 1169; Pub. L. 98–460, §§2(c), 3(a)(2), 4(b), 8(b), 10(b), Oct. 9, 1984, 98 Stat. 1796, 1799, 1800, 1804, 1805; Pub. L. 99–643, §4(d)(2), (3)(A), Nov. 10, 1986, 100 Stat. 3577; Pub. L. 101–239, title VIII, §§8009(b), 8010(a), 8012(a), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 101–508, title V, §5036(a), Nov. 5, 1990, 104 Stat. 1388–225; Pub. L. 101–649, title I, §162(e)(5), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 103–66, title XIII, §§13733(a), 13734(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(4)(A), Aug. 15, 1994, 108 Stat. 1478, 1505; Pub. L. 103–432, title II, §221(a), Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–121, title I, §105(b)(1), Mar. 29, 1996, 110 Stat. 853; Pub. L. 104–193, title II, §§204(c)(1), 211(a), (c), 212(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2188, 2189, 2192, 2193; Pub. L. 105–33, title V, §5522(a), (d), Aug. 5, 1997, 111 Stat. 622, 623; Pub. L. 108–203, title IV, §434(a), Mar. 2, 2004, 118 Stat. 540.)
 
 #### Amendments
+
+2004—Subsec. (a)(1)(B)(ii). Pub. L. 108–203 inserted “and” after “citizen of the United States,” and struck out “, and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” before period at end.
 
 1997—Subsec. (a)(3)(H)(iii). Pub. L. 105–33, §5522(a)(1), added subcls. (I) and (II) and concluding provisions and struck out former subcls. (I) and (II) and concluding provisions which read as follows:
 
@@ -182,7 +184,7 @@ Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security�
 
 Subsecs. (a)(4), (c), (f)(1), (2)(A). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1993—Subsec. (a)(1)(B)(ii). Pub. L. 103–66, §13734(a), substituted “and who, for the month before the parent reported for such assignment, received a benefit under this subchapter” for “the District of Columbia, Puerto Rico, and the territories and possessions of the United States, and who, during the month before the parent reported for such assignment, was receiving benefits under this subchapter”.
+1993—Subsec. (a)(1)(B)(ii). Pub. L. 103–66, §13734(a), substituted “and who, for the month before the parentreported for such assignment, received a benefit under this subchapter” for “the District of Columbia, Puerto Rico, and the territories and possessions of the United States, and who, during the month before the parent reported for such assignment, was receiving benefits under this subchapter”.
 
 Subsec. (f)(4). Pub. L. 103–66, §13733(a), added par. (4).
 
@@ -242,6 +244,10 @@ Subsec. (f)(3). Pub. L. 96–265, §504(a), added par. (3).
 
 Subsec. (a)(3)(E). Pub. L. 93–233, §9(2), incorporated provisions of last sentence of subpar. (A) in provisions designated as subpar. (E) and inserted introductory text “Notwithstanding the provisions of subparagraphs (A) through (D)” and parenthetical phrase “(and for at least one month prior to July 1973)” after “December 1973”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–203, title IV, §434(b), Mar. 2, 2004, 118 Stat. 540, provided that: “The amendments made by this section \[amending this section\] shall be effective with respect to benefits payable for months beginning after the date of enactment of this Act \[Mar. 2, 2004\], but only on the basis of an application filed after such date.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5528(a) of Pub. L. 105–33, set out as a note under section 903 of this title.
@@ -264,7 +270,7 @@ and (b).—
 
 &emsp;&emsp;“(i)
 
-In general.—The provisions of, and amendments made by, subsections (a) \[amending this section\] and (b) \[110 Stat. 2189\] of this section shall apply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title XVI of the Social Security Act \[this subchapter\] on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such provisions and amendments.
+In general.—The provisions of, and amendments made by, subsections (a) \[amending this section\] and (b) \[110 Stat. 2189\] of this section shallapply to any individual who applies for, or whose claim is finally adjudicated with respect to, benefits under title XVI of the Social Security Act \[this subchapter\] on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such provisions and amendments.
 
 &emsp;&emsp;“(ii)
 
@@ -280,7 +286,7 @@ Application to current recipients.—
 
 &emsp;“(A)
 
-Eligibility redeterminations.—During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reason of disability under title XVI of the Social Security Act \[this subchapter\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter.With respect to any redetermination under this subparagraph—
+Eligibility redeterminations.—During the period beginning on the date of the enactment of this Act \[Aug. 22, 1996\] and ending on the date which is 18 months after such date of enactment, the Commissioner of Social Security shall redetermine the eligibility of any individual under age 18 who is eligible for supplemental security income benefits by reason of disability under title XVI of the Social Security Act \[this subchapter\] as of the date of the enactment of this Act and whose eligibility for such benefits may terminate by reason of the provisions of, or amendments made by, subsections (a) and (b) of this section. Any redetermination required by the preceding sentence that is not performed before the end of the period described in the preceding sentence shall be performed as soon as is practicable thereafter. With respect to any redetermination under this subparagraph—
 
 &emsp;&emsp;“(i) section 1614(a)(4) of the Social Security Act (42 U.S.C. 1382c(a)(4)) shall not apply;
 
@@ -344,7 +350,7 @@ Section 201(b)(4)(B) of Pub. L. 103–296 provided that: “The amendment made b
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13733(a) of Pub. L. 103–66 effective on first day of second month that begins after Aug. 10, 1993, see section 13733(c) of Pub. L. 103–66, set out as a note under section 1382a of this title.
+Amendment by section 13733(a) of Pub. L. 103–66 effective on first day of second month that begins after Aug.10, 1993, see section 13733(c) of Pub. L. 103–66, set out as a note under section 1382a of this title.
 
 Section 13734(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 3rd month that begins after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
@@ -368,7 +374,7 @@ Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provid
 
 #### Effective Date of 1984 Amendments
 
-Amendment by section 2(c) of Pub. L. 98–460 applicable to determinations made by the Secretary on orafter Oct. 9, 1984, with certain enumerated exceptions and qualifications, see section 2(d) of Pub. L. 98–460, set out as a note under section 423 of this title.
+Amendment by section 2(c) of Pub. L. 98–460 applicable to determinations made by the Secretary on or after Oct. 9, 1984, with certain enumerated exceptions and qualifications, see section 2(d) of Pub. L. 98–460, set out as a note under section 423 of this title.
 
 Amendment by section 3(a)(2) of Pub. L. 98–460 applicable to determinations made prior to Jan. 1, 1987, see section 3(a)(3) of Pub. L. 98–460, set out as a note under section 423 of this title.
 
@@ -407,8 +413,4 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320b–19, 1382, 1382j, 1383, 1383b, 1396a, 1396d, 1396p, 1437j, 6862, 8624 of this title; title 8 sections 1255a, 1612; title 26 section 642.
 

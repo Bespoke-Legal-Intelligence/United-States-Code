@@ -34,7 +34,3 @@ A prior section 11101, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419; Pub. L. 9
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10709, 10904 of this title.
-

@@ -1,9 +1,5 @@
 Part A—Drug Control and System Improvement Grant Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 3766b, 3782, 3783, 3796bb–1, 14223 of this title.
-
 
 ---
 

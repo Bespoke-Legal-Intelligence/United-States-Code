@@ -20,7 +20,3 @@ In carrying out the responsibilities under this section, the Secretary is not su
 
 (Pub. L. 96–345, §5, Sept. 8, 1980, 94 Stat. 1141.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9203, 9207 of this title.
-

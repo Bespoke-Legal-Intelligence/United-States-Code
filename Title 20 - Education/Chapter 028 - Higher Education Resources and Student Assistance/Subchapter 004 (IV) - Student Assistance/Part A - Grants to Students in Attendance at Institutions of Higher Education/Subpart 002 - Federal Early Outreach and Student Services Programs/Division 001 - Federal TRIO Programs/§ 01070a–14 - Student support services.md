@@ -38,7 +38,7 @@ A student support services project assisted under this division may provide serv
 
 #### (1) Use for student aid
 
-&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (b) of this section may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
+&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (b) of this section may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriatedPell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
 
 #### (2) Eligible students
 
@@ -54,7 +54,7 @@ A student support services project assisted under this division may provide serv
 
 #### (3) Determination of need
 
-&emsp;A grant provided to a student under paragraph (1) shall not be considered in determining that student's need for grant or work assistance under this subchapter, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter exceed that student's cost of attendance, as defined in section 1087<i>ll</i> of this title.
+&emsp;A grant provided to a student under paragraph (1) shall not be considered in determining that student's need for grant or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, except that in no case shall the total amount of student financial assistance awarded to a student under this subchapter exceed that student's cost of attendance, as defined in section 1087<i>ll</i> of this title.
 
 #### (4) Matching required
 
@@ -113,8 +113,4 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–11, 1070a–24 of this title.
 

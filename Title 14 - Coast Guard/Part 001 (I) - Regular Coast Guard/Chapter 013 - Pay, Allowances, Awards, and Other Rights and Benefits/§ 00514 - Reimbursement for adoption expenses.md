@@ -10,7 +10,7 @@ Adoptions Covered.—An adoption for which expenses may be reimbursed under this
 
 (c)
 
-Benefits Paid After Adoption Is Final.—Benefits paid under this section in the case of anadoption may be paid only after the adoption is final.
+Benefits Paid After Adoption Is Final.—Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
 
 (d)
 
@@ -71,8 +71,4 @@ Section effective Dec. 5, 1991, and applicable to adoptions completed on or afte
 #### Reimbursement for Adoptions Completed During Interim Between Test and Permanent Program
 
 For provisions relating to reimbursement for adoption expenses and time period for application, see section 652 of Pub. L. 102–484, set out as a note under section 1052 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 137.
 

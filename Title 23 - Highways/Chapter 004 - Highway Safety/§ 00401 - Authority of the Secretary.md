@@ -46,11 +46,11 @@ Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacti
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: “This title \[enacting sections 144 and 322of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the ‘Highway Safety Act of 1970’.”
+Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: “This title \[enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the ‘Highway Safety Act of 1970’.”
 
 #### Short Title
 
-Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
+Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 ofthis title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
 
 #### Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects
 
@@ -130,7 +130,7 @@ Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: �
 
 #### National Driver Registration
 
-Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305,Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 #### Pilot Projects for Highway Safety Education and Information
 
@@ -168,7 +168,7 @@ Section 212 of Pub. L. 93–87 authorized the appropriation of $1,000,000 for a 
 
 #### National Center for Statistical Analysis of Highway Operations
 
-Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store andretrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
+Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
 
 #### Pedestrian and Bicycle Safety Study
 
@@ -207,8 +207,4 @@ Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, A
 &emsp;“(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, and research programs of the human factors affecting traffic safety, and
 
 &emsp;“(2) for the establishment of such agencies, joint or otherwise, as they deem desirable for the establishment and carrying out of such traffic safety programs.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 153 of this title.
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to set apart the following-described
 
 (Aug. 26, 1922, ch. 295, §1, 42 Stat. 832.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 435 of this title.
-

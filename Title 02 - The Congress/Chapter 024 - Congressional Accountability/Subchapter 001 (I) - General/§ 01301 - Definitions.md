@@ -60,7 +60,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(B) a committee of the House of Representatives or the Senate or a joint committee;
 
-&emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employeeof the House of Representatives or the Senate; or
+&emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate; or
 
 &emsp;&emsp;(D) the Capitol Guide Board, the Capitol Police Board, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
 
@@ -85,8 +85,4 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### Short Title
 
 Section 1(a) of Pub. L. 104–1 provided that: “This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the ‘Congressional Accountability Act of 1995’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60c–5, 1316a of this title.
 

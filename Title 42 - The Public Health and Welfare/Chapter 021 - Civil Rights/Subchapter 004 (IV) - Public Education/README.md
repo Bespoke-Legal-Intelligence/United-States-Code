@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PUBLIC EDUCATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2000h of this title; title 20 sections 1656, 1754, 3489.
-
 
 ---
 

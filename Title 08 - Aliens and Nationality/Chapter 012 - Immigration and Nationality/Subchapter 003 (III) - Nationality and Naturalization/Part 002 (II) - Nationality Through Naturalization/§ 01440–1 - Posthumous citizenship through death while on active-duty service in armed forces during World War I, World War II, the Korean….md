@@ -68,7 +68,3 @@ Subsec. (e). Pub. L. 108–136, §1703(g)(1), struck out heading and text of sub
 
 Amendment by Pub. L. 108–136 effective as if enacted Sept. 11, 2001, see section 1705 of Pub. L. 108–136, set out in a note under section 1439 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1430 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this titlewith respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this title with respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 #### (b) Allocations for technical assistance, data collection, and program evaluation
 
@@ -32,7 +32,7 @@ Section 300x–9a, act July 1, 1944, ch. 373, title XIX, §1922, as added Nov. 1
 
 Section 300x–9b, act July 1, 1944, ch. 373, title XIX, §1923, as added Nov. 18, 1988, Pub. L. 100–690, title II, §2040, 102 Stat. 4204; amended Aug. 16, 1989, Pub. L. 101–93, §2(q)(2), 103 Stat. 609, related to service research on community-based mental health treatment programs.
 
-Section 300x–10, act July 1, 1944, ch. 373, title XIX, §1924, formerly §1920B, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1924 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (4), 102 Stat. 4203; Nov. 28, 1990, Pub. L. 101–639, §3(a)(1), 104 Stat. 4601, related to development grants for State comprehensive mental health services plans.
+Section 300x–10, act July 1, 1944, ch. 373, title XIX, §1924, formerly §1920B, as added Nov. 14, 1986, Pub. L.99–660, title V, §502(2), 100 Stat. 3795; renumbered §1924 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §2038(3), (4), 102 Stat. 4203; Nov. 28, 1990, Pub. L. 101–639, §3(a)(1), 104 Stat. 4601, related to development grants for State comprehensive mental health services plans.
 
 Section 300x–11, act July 1, 1944, ch. 373, title XIX, §1925, formerly §1920C, as added Nov. 14, 1986, Pub. L. 99–660, title V, §502(2), 100 Stat. 3795; renumbered §1925 and amended Nov. 18, 1988, Pub. L. 100–690, title II, §§2038(3), 2041(a), 102 Stat. 4203, 4205; Aug. 16, 1989, Pub. L. 101–93, §2(<i>o</i>)(1), 103 Stat. 608; Nov. 28, 1990, Pub. L. 101–639, §3(b), 104 Stat. 4601, related to State comprehensive mental health services plans.
 
@@ -45,8 +45,4 @@ Section 300x–13, act July 1, 1944, ch. 373, title XIX, §1927, formerly §1920
 2000—Subsec. (a). Pub. L. 106–310, §3204(f)(1), substituted “$450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “$450,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
 
 Subsec. (b)(2). Pub. L. 106–310, §3204(f)(2), substituted “sections 290aa–4 and 300y of this title” for “section 290aa–4 of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–7 of this title.
 

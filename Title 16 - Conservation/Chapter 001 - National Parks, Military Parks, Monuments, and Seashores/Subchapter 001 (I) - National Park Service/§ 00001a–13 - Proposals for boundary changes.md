@@ -10,9 +10,5 @@ In proposing any boundary change after November 28, 1990, the Secretary shall—
 
 (Pub. L. 101–628, title XII, §1217, Nov. 28, 1990, 104 Stat. 4508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1a–9 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

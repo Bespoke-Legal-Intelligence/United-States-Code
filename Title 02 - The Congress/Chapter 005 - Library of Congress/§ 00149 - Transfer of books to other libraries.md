@@ -6,5 +6,5 @@ The Librarian of Congress may from time to time transfer to other governmental l
 
 #### Amendments
 
-<b>1951</b>—Act Oct. 25, 1951, inserted proviso.
+1951—Act Oct. 25, 1951, inserted proviso.
 

@@ -46,7 +46,3 @@ In preparing the management plan, the Secretary shall consult with appropriate S
 
 (Pub. L. 106–431, §4, Nov. 6, 2000, 114 Stat. 1906.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 546, 546a, 546a–2, 546a–4, 546a–5 of this title.
-

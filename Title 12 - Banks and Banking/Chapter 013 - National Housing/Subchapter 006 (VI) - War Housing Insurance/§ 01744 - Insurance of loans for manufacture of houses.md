@@ -2,7 +2,7 @@
 
 #### (a) Relief of housing shortage; advances
 
-In order to assist in relieving the acute shortage of housing which now exists and to promote the production of housing for veterans of World War II at moderate prices or rentals within their reasonable ability to pay, through the application of modern industrial processes, the Secretary is authorized to insure loans to finance the manufacture of housing (including advances on such loans) when such loans are eligible for insurance as hereinafter provided.
+In order to assist in relieving the acute shortage of housing which now exists and to promotethe production of housing for veterans of World War II at moderate prices or rentals within their reasonable ability to pay, through the application of modern industrial processes, the Secretary is authorized to insure loans to finance the manufacture of housing (including advances on such loans) when such loans are eligible for insurance as hereinafter provided.
 
 #### (b) Eligibility requirements
 
@@ -22,7 +22,7 @@ The Secretary may consent to the release of a part or parts of the property assi
 
 #### (d) Payments; default; insurance benefits for mortgagee; prerequisites; value of mortgage
 
-The failure of the borrower to make any payment due under or provided to be paid by the terms of a loan under this section, or the failure to perform any other covenant or obligation contained in any assignment, agreement, or undertaking executed by the borrower in connection with such loan, shall be considered as a default under this section, and if such default continues for a period of thirty days, the lender shall be entitled to receive the benefits of the insurance hereinafter provided upon assignment, transfer, and delivery to the Secretary within aperiod and in accordance with the rules and regulations prescribed by the Secretary of (1) all rights and interest arising with respect to the loan so in default; (2) all claims of the lender against the borrower or others arising out of the loan transaction; (3) any cash or property held by the lender, or to which it is entitled, as deposits made for the account of the borrower and which have not been applied in reduction of the principal of the loan; and (4) all records, documents, books, papers, and accounts relating to the loan transaction. Upon such assignment, transfer, and delivery, the Secretary shall, subject to the cash adjustment provided for in section 1739(c) of this title, issue to the lender debentures having a face value equal to the unpaid principal balance of the loan.
+The failure of the borrower to make any payment due under or provided to be paid by the terms of a loan under this section, or the failure to perform any other covenant or obligation contained in any assignment, agreement, or undertaking executed by the borrower in connection with such loan, shall be considered as a default under this section, and if such default continues for a period of thirty days, the lender shall be entitled to receive the benefits of the insurance hereinafter provided upon assignment, transfer, and delivery to the Secretary within a period and in accordance with the rules and regulations prescribed by the Secretary of (1) all rights and interest arising with respect to the loan so in default; (2) all claims of the lender against the borrower or others arising out of the loan transaction; (3) any cash or property held by the lender, or to which it is entitled, as deposits made for the account of the borrower and which have not been applied in reduction of the principal of the loan; and (4) all records, documents, books, papers, and accounts relating to the loan transaction. Upon such assignment, transfer, and delivery, the Secretary shall, subject to the cash adjustment provided for in section 1739(c) of this title, issue to the lender debentures having a face value equal to the unpaid principal balance of the loan.
 
 #### (e) Debentures; date of issuance; interest
 
@@ -67,8 +67,4 @@ The Secretary shall fix a premium charge for the insurance granted under this se
 Subsec. (f). Act Aug. 10, 1948, §101(d)(3), inserted last sentence.
 
 Subsec. (i). Act Aug. 10, 1948, §101(d)(4), added subsec. (i).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1738 of this title; title 5 sections 551, 701.
 

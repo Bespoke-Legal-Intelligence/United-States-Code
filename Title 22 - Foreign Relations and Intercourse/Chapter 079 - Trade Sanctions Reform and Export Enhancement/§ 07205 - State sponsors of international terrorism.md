@@ -36,7 +36,3 @@ Not later than 2 years after October 28, 2000, and every 2 years thereafter, the
 
 Subsec. (a)(2). Pub. L. 107–56, §221(a)(3), inserted “, or to any other entity in Syria or North Korea” before period at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7201 of this title.
-

@@ -4,7 +4,3 @@ There is hereby established the Mojave National Preserve, comprising approximate
 
 (Pub. L. 103–433, title V, §502, Oct. 31, 1994, 108 Stat. 4490.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410aaa–43, 410aaa–44 of this title.
-

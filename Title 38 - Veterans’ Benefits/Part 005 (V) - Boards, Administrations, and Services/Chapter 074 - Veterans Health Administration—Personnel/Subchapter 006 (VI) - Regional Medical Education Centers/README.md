@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—REGIONAL MEDICAL EDUCATION CENTERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 7320, 7325 of this title.
-
 
 ---
 

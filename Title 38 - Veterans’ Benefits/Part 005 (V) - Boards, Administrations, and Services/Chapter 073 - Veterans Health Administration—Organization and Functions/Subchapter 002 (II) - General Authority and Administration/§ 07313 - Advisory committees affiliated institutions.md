@@ -14,7 +14,3 @@
 
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7423 of this title.
-

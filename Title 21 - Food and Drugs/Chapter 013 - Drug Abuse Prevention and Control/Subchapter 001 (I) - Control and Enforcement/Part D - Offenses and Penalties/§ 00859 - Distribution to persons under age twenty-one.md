@@ -48,7 +48,3 @@ Pub. L. 98–473, §224(b), which directed amendment of this section effective N
 
 Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18, Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 841 of this title; title 18 section 3592.
-

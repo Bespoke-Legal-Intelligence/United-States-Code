@@ -50,7 +50,3 @@ The Immigration and Nationality Act, referred to in par. (3)(A)(iii), is act Jun
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 608c of this title.
-

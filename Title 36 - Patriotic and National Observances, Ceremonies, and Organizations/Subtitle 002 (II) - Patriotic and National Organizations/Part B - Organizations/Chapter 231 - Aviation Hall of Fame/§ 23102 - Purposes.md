@@ -42,7 +42,3 @@ In clause (4), the words “foster” and “encourage” are omitted as unneces
 
 In clause (7), the words “any other activities appropriate to carry out the purposes of the corporation” are substituted for “any and all activities incidental thereto or necessary, suitable, or proper for the accomplishment of any of the aforementioned purposes” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 23106 of this title.
-

@@ -6,7 +6,3 @@
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2592.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701, 708 of this title.
-

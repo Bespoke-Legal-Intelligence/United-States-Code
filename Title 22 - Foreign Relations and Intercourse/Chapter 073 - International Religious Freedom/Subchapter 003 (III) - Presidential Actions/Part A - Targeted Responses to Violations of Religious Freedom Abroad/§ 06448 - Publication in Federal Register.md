@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the President shall cause to be publi
 
 #### (1) Determinations of governments, officials, and entities of particular concern
 
-&emsp;Any designation of a country of particular concern for religious freedom under section 6442(b)(1) of this title, together with, when applicable and to the extent practicable, theidentities of the officials or entities determined to be responsible for the violations under section 6442(b)(2) of this title.
+&emsp;Any designation of a country of particular concern for religious freedom under section 6442(b)(1) of this title, together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under section 6442(b)(2) of this title.
 
 #### (2) Presidential actions
 
@@ -29,8 +29,4 @@ The President may limit publication of information under this section in the sam
 &emsp;(2) would not further the purposes of this chapter.
 
 (Pub. L. 105–292, title IV, §408, Oct. 27, 1998, 112 Stat. 2808.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6442 of this title.
 

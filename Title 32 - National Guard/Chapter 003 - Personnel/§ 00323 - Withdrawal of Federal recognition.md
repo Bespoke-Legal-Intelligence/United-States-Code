@@ -16,7 +16,7 @@
 
 &emsp;(1) federally recognized as an officer of the National Guard; and
 
-&emsp;(2) subject to involuntary transfer to the Retired Reserve, transfer to an inactive statuslist, or discharge under chapter 1407, 1409, or 1411 of title 10;
+&emsp;(2) subject to involuntary transfer to the Retired Reserve, transfer to an inactive status list, or discharge under chapter 1407, 1409, or 1411 of title 10;
 
 > shall, if not sooner withdrawn, be withdrawn on the date of such involuntary transfer or discharge.
 
@@ -60,7 +60,7 @@ June 3, 1916, ch. 134, §110 (last 25 words of last par.); restated Sept. 22, 19
 
 July 9, 1952, ch. 608, §706 (last 15 words of 1st sentence), 66 Stat. 503.
 
-In subsection (a) the words “ceases to have the qualifications prescribed under section 300 of this title” are substituted for 32:154 (last 26 words of last par.), since it is implicit that a member who could not be paid would lose his federally recognized status (see JAGA 1953/9033, 3 Dec. 1953). The last 23 words of subsection (a) are inserted as a necessary implication of the rule stated in section 309(c) of this title.
+In subsection (a) the words “ceases to have the qualifications prescribed under section 300 of this title” aresubstituted for 32:154 (last 26 words of last par.), since it is implicit that a member who could not be paid would lose his federally recognized status (see JAGA 1953/9033, 3 Dec. 1953). The last 23 words of subsection (a) are inserted as a necessary implication of the rule stated in section 309(c) of this title.
 
 In subsection (b), the words “or warrant officer” are omitted, since section 101(9) of this title defines “officer” to include warrant officers. The word “detailed” is substituted for the word “appointed”, since the filling of the positions involved is not appointment to an office in the constitutional sense. The word “commissioned” is inserted after the words “composed of”, since the word “officer” alone, in 32:115, referred to a commissioned officer only (see opinion of the Judge Advocate General of the Army (JAGA 1953/4078, 6 May 1953)). The words “who outrank him” are substituted for the words “senior in rank to the officer under investigation”.
 
@@ -123,8 +123,4 @@ Amendment by section 33(c)(2) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 #### Suspension of Subsection (d) of This Section
 
 For authority of the President to suspend subsec. (d) of this section in time of war or emergency declared by Congress, see section 111 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111 of this title; title 10 section 14907.
 

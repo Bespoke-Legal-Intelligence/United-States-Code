@@ -2,7 +2,7 @@
 
 #### (a) Civil and criminal jurisdiction of the State and the courts of the State; laws of the State
 
-Except as provided in section 1727(e) and section 1724(d)(4) of this title, all Indians, Indian nations, or tribes or bands of Indians in the State of Maine, other than the Passamaquoddy Tribe, the Penobscot Nation, and their members, and any lands or natural resources owned by any such Indian, Indian nation, tribe or band of Indians and any lands or natural resourcesheld in trust by the United States, or by any other person or entity, for any such Indian, Indian nation, tribe, or band of Indians shall be subject to the civil and criminal jurisdiction of the State, the laws of the State, and the civil and criminal jurisdiction of the courts of the State, to the same extent as any other person or land therein.
+Except as provided in section 1727(e) and section 1724(d)(4) of this title, all Indians, Indian nations, or tribes or bands of Indians in the State of Maine, other than the Passamaquoddy Tribe, the Penobscot Nation, and their members, and any lands or natural resources owned by any such Indian, Indian nation, tribe or band of Indians and any lands or natural resources held in trust by the United States, or by any other person or entity, for any such Indian, Indian nation, tribe, or band of Indians shall be subject to the civil and criminal jurisdiction of the State, the laws of the State, and the civil and criminal jurisdiction of the courts of the State, to the same extent as any other person or land therein.
 
 #### (b) Jurisdiction of State of Maine and utilization of local share of funds pursuant to the Maine Implementing Act; Federal laws or regulations governing services or benefits unaffected unless expressly so provided; report to Congress of comparative Federal and State funding for Maine and other States
 
@@ -55,10 +55,6 @@ In subsec. (d)(2), “section 3727 of title 31” substituted for “section 347
 #### Amendments
 
 1983—Subsec. (i). Pub. L. 97–428 inserted provision that notwithstanding any other provision of law authorizing provision of special programs and services by United States to Indians because of their status as Indians, any member of Houlton Band of Maliseet Indians in or near town of Houlton, Maine, be eligible for such programs and services without regard to existence of a reservation or of residence of such member on or near a reservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13d, 1724, 1727 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “otherwise”.</i>
 

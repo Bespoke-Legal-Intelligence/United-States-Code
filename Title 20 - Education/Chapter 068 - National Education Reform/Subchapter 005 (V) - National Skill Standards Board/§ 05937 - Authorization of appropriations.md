@@ -10,7 +10,3 @@ Amounts appropriated pursuant to subsection (a) of this section shall remain ava
 
 (Pub. L. 103–227, title V, §507, Mar. 31, 1994, 108 Stat. 199.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5934 of this title.
-

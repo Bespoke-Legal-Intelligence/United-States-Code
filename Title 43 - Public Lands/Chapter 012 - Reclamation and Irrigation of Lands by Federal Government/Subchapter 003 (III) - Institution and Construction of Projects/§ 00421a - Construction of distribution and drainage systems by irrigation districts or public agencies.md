@@ -12,7 +12,3 @@ The Federal reclamation laws, referred to in text, include the act of June 17, 1
 
 1972—Pub. L. 92–487 substituted provisions relating to construction of distribution and drainage systems, for provisions relating to construction of irrigation systems, and inserted provisions setting forth the type of drainage systems subject to coverage of sections 421a to 421h of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421b to 421h, 502 of this title.
-

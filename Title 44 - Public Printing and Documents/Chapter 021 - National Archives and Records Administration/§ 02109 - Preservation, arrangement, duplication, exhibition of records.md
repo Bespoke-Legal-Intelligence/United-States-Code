@@ -44,7 +44,3 @@ Sec. 2. The Archivist of the United States is directed to—
 
 (b) accept any such exhibit or display when it has served its primary program purpose and (1) arrange for its supplemental exhibition as appropriate, (2) preserve any such exhibit or display which possesses sufficient historical or other value to warrant continued preservation, or (3) dispose of any such exhibit or display when, in his judgment, the reasons for its continued preservation or exhibition cease to exist, all subject to the conditions agreed upon incident to transfer to the Archivist of the United States of the exhibit or display.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3317 of this title.
-

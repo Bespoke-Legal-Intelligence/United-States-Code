@@ -58,7 +58,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 #### (i) Functions of the Council
 
-(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture, other Federal agencies, the State, local governments, and Native Corporations with respect to ongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
+(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture, other Federal agencies, the State, local governments, and Native Corporations with respect toongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
 
 (2) It shall be the function of the Council—
 

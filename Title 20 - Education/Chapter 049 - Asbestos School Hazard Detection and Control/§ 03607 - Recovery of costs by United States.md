@@ -22,7 +22,3 @@ If the Attorney General determines in the report under subsection (b) of this se
 
 (Pub. L. 96–270, §8, June 14, 1980, 94 Stat. 495.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3609 of this title.
-

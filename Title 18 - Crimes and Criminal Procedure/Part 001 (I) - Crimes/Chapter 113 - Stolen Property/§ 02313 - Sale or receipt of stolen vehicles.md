@@ -28,7 +28,3 @@ Minor changes were made in phraseology.
 
 1984—Pub. L. 98–547 inserted “possesses,” after “receives,” and substituted “which has crossed a State or United States boundary after being stolen,” for “moving as, or which is a part of, or which constitutes interstate or foreign commerce,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 1961, 2516 of this title.
-

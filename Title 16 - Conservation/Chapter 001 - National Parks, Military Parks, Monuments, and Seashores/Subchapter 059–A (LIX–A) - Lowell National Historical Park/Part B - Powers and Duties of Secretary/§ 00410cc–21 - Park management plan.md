@@ -22,7 +22,3 @@ The Secretary shall submit a statement to the Congress, within two years after t
 
 (Pub. L. 95–290, title II, §201, June 5, 1978, 92 Stat. 292.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410cc–13, 410cc–25, 410cc–32 of this title.
-

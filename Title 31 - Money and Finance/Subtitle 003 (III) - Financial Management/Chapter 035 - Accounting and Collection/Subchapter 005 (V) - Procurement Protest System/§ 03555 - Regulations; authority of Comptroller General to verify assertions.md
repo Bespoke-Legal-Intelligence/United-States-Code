@@ -10,15 +10,17 @@
 
 &emsp;&emsp;(A) such last day is a Saturday, a Sunday, or a legal holiday; or
 
-&emsp;&emsp;(B) in the case of a filing of a paper at the General Accounting Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the General Accounting Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
+&emsp;&emsp;(B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
 
 (c) The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
 
 (d) The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, §1404, Oct. 13, 1994, 108 Stat. 3291.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1202; amended Pub. L. 103–355, title I, §1404, Oct. 13, 1994, 108 Stat. 3291; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
+
+2004—Subsec. (b)(2)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
 1994—Subsec. (a). Pub. L. 103–355, §1404(c), substituted “The Comptroller General” for “Not later than January 15, 1985, the Comptroller General”.
 
@@ -31,8 +33,4 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date
 
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3553, 3554 of this title; title 22 section 3862.
 

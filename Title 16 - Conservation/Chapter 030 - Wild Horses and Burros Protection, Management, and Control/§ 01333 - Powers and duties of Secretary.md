@@ -12,7 +12,7 @@ All wild free-roaming horses and burros are hereby declared to be under the juri
 
 &emsp;(A) The Secretary shall order old, sick, or lame animals to be destroyed in the most humane manner possible;
 
-&emsp;(B) The Secretary shall cause such number of additional excess wild free-roaming horses and burros to be humanely captured and removed for private maintenance and care for which he determines an adoption demand exists by qualified individuals, and for which he determines he can assure humane treatment and care (including proper transportation,feeding, and handling): <i>Provided</i>, That, not more than four animals may be adopted per year by any individual unless the Secretary determines in writing that such individual is capable of humanely caring for more than four animals, including the transportation of such animals by the adopting party; and
+&emsp;(B) The Secretary shall cause such number of additional excess wild free-roaming horses and burros to be humanely captured and removed for private maintenance and care for which he determines an adoption demand exists by qualified individuals, and for which he determines he can assure humane treatment and care (including proper transportation, feeding, and handling): <i>Provided</i>, That, not more than four animals may be adopted per year by any individual unless the Secretary determines in writing that such individual is capable of humanely caring for more than four animals, including the transportation of such animals by the adopting party; and
 
 &emsp;(C) The Secretary shall cause additional excess wild free-roaming horses and burros for which an adoption demand by qualified individuals does not exist to be destroyed in the most humane and cost efficient manner possible.
 
@@ -20,7 +20,7 @@ All wild free-roaming horses and burros are hereby declared to be under the juri
 
 #### (c) Title of transferee to limited number of excess animals adopted for requisite period
 
-Where excess animals have been transferred to a qualified individual for adoption and private maintenance pursuant to this chapter and the Secretary determines that such individual has provided humane conditions, treatment and care for such animal or animals for a period of one year, the Secretary is authorized upon application by the transferee to grant title to not more than four animals to the transferee at the end of the one-year period.
+Where excess animals have been transferred to a qualified individual for adoption and privatemaintenance pursuant to this chapter and the Secretary determines that such individual has provided humane conditions, treatment and care for such animal or animals for a period of one year, the Secretary is authorized upon application by the transferee to grant title to not more than four animals to the transferee at the end of the one-year period.
 
 #### (d) Loss of status as wild free-roaming horses and burros; exclusion from coverage
 
@@ -34,15 +34,49 @@ Wild free-roaming horses and burros or their remains shall lose their status as 
 
 &emsp;(4) if they die of natural causes on the public lands or on private lands where maintained thereon pursuant to section 1334 of this title and disposal is authorized by the Secretary or his designee; or
 
-&emsp;(5) upon destruction or death for purposes of or incident to the program authorized in this section; <i>Provided</i>, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products.
+&emsp;(5) upon destruction or death for purposes of or incident to the program authorized in this section.
 
-(Pub. L. 92–195, §3, Dec. 15, 1971, 85 Stat. 649; Pub. L. 95–514, §14(a), Oct. 25, 1978, 92 Stat. 1808.)
+#### (e) Sale of excess animals
+
+#### (1) In general
+
+&emsp;Any excess animal or the remains of an excess animal shall be sold if—
+
+&emsp;&emsp;(A) the excess animal is more than 10 years of age; or
+
+&emsp;&emsp;(B) the excess animal has been offered unsuccessfully for adoption at least 3 times.
+
+#### (2) Method of sale
+
+&emsp;An excess animal that meets either of the criteria in paragraph (1) shall be made available for sale without limitation, including through auction to the highest bidder, at local sale yards or other convenient livestock selling facilities, until such time as—
+
+&emsp;&emsp;(A) all excess animals offered for sale are sold; or
+
+&emsp;&emsp;(B) the appropriate management level, as determined by the Secretary, is attained in all areas occupied by wild free-roaming horses and burros.
+
+#### (3) Disposition of funds
+
+&emsp;Funds generated from the sale of excess animals under this subsection shall be—
+
+&emsp;&emsp;(A) credited as an offsetting collection to the Management of Lands and Resources appropriation for the Bureau of Land Management; and
+
+&emsp;&emsp;(B) used for the costs relating to the adoption of wild free-roaming horses and burros, including the costs of marketing such adoption.
+
+#### (4) Effect of sale
+
+&emsp;Any excess animal sold under this provision shall no longer be considered to be a wild free-roaming horse or burro for purposes of this chapter.
+
+(Pub. L. 92–195, §3, Dec. 15, 1971, 85 Stat. 649; Pub. L. 95–514, §14(a), Oct. 25, 1978, 92 Stat. 1808; Pub. L. 108–447, div. E, title I, §142(a), Dec. 8, 2004, 118 Stat. 3070.)
 
 #### References in Text
 
 Section 1902 of title 43, referred to in subsec. (b)(2), was in the original “section 2 of the Public Range Lands Improvement Act of 1978” (classified to 43 U.S.C. 1901) and was changed to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (d)(5). Pub. L. 108–447, §142(a)(1), substituted “this section” for “this section; <i>Provided</i>, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products”.
+
+Subsec. (e). Pub. L. 108–447, §142(a)(2), added subsec. (e).
 
 1978—Subsec. (b). Pub. L. 95–514 substituted provisions for: maintaining current inventory of wild free-roaming horses and burros; listing the purpose of the inventory and determinations to be made in consultation with persons of scientific expertise and special knowledge; immediate removal of excess animals from the range on the basis of information from various sources so as to achieve appropriate management levels; order and priority of removal; and research study  to  be  reported  to  Congress  for  prior  authorization of humane destruction of old, sick, or lame animals and capture and removal of additional excess animals for private maintenance under humane conditions and care, now incorporated in subsec. (b)(2)(A) and (B).
 

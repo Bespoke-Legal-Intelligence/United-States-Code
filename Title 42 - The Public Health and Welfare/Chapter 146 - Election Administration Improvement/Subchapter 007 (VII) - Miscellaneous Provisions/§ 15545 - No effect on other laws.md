@@ -36,7 +36,3 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (a)(5), is P
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(6), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15301, 15302, 15403, 15484 of this title.
-

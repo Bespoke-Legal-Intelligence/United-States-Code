@@ -52,7 +52,3 @@ Section 693 of this title shall apply to the administration of this section.
 
 Subsec. (c). Pub. L. 98–473, §115(3), substituted “be less than 1 per centum or more than 31/2 per centum” for “exceed 31/2 per centum”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 636, 694–2 of this title.
-

@@ -36,7 +36,7 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 
-&emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number of personnel involved in performing such activities;
+&emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number ofpersonnel involved in performing such activities;
 
 &emsp;(13) a list of weapons systems that are significant military equipment (as defined in section 2794(9) of this title), and numbers thereof, that are believed likely to become available for transfer as excess defense articles during the next 12 months; and
 
@@ -100,7 +100,7 @@ Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required
 
 Subsec. (a)(3). Pub. L. 97–113 added par. (3) which incorporated provisions of former par. (1) requiring the report to contain an estimate of amounts of expected sales to each country under sections 2761 and 2762 of this title, including detailed explanations of foreign policy and United States national security considerations in expected sales to each country, and (5) requiring inclusion of an arms control impact statement for each purchasing country, covering (A) an analysis of the relationship between expected sales to each country and arms control efforts relating to that country, and (B) the impact of such expected sales on the stability of the region that included the purchasing country. Former par. (3) redesignated (7).
 
-Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which had required executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to all major recipient countries during the preceding three years. Former par. (4) covered in par. (8).
+Subsec. (a)(4). Pub. L. 97–113 added par. (4) which incorporated provisions of former subsec. (e), which had required executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to allmajor recipient countries during the preceding three years. Former par. (4) covered in par. (8).
 
 Subsec. (a)(5). Pub. L. 97–113 added par. (5) which incorporated provisions of former par. (2) requiring the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title. Former par. (5) covered in par. (3).
 
@@ -139,10 +139,6 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of State, with Secretary of Defense and Director of Arms Control and Disarmament Agency required to assist in preparation of materials for presentation to Congress, by section 1(g) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2763 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

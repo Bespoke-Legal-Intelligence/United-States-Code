@@ -30,7 +30,3 @@ Changes in phraseology were also made.
 
 For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(<i>l</i>) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 465.
-

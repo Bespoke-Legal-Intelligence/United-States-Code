@@ -8,9 +8,5 @@ Any and all notes, debentures, bonds, and other such obligations issued by any b
 
 1935—Act May 28, 1935, inserted “and consolidated Federal Home Loan Bank bonds and debentures” in first sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1441, 1441b of this title.
-
 <i><sup>1</sup></i><i> So in original. Word “in” probably should not appear.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law and except as provided in subsection (b) of thissection, an alien who is not a qualified alien (as defined in section 1641 of this title) is not eligible for any Federal public benefit (as defined in subsection (c) of this section).
+Notwithstanding any other provision of law and except as provided in subsection (b) of this section, an alien who is not a qualified alien (as defined in section 1641 of this title) is not eligible for any Federal public benefit (as defined in subsection (c) of this section).
 
 #### (b) Exceptions
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 (2) Subsection (a) of this section shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
 
-(3) Subsection (a) of this section shall not apply to any benefit payable under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title \[42 U.S.C. 1395c et seq.\], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
+(3) Subsection (a) of this section shall not apply to any benefit payable under title XVIII ofthe Social Security Act \[42 U.S.C. 1395 et seq.\] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title \[42 U.S.C. 1395c et seq.\], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
 
 (4) Subsection (a) of this section shall not apply to any benefit payable under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\] or the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General or to an alien residing outside the United States.
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
-(Pub. L. 104–193, title IV, §401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§5561, 5565,Aug. 5, 1997, 111 Stat. 638, 639; Pub. L. 105–306, §§2, 5(a), Oct. 28, 1998, 112 Stat. 2926, 2927.)
+(Pub. L. 104–193, title IV, §401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§5561, 5565, Aug. 5, 1997, 111 Stat. 638, 639; Pub. L. 105–306, §§2, 5(a), Oct. 28, 1998, 112 Stat. 2926, 2927.)
 
 #### References in Text
 
@@ -114,43 +114,5 @@ State Entitlement.—This section constitutes budget authority in advance of app
 
 #### Study and Report on Alien Student Eligibility for Postsecondary Federal Student Financial Assistance
 
-Pub. L. 104–208, div. C, title V, §506, Sept. 30, 1996, 110 Stat. 3009–672, provided that:
-
-“(a)
-
-GAO Study and Report.—
-
-&emsp;“(1)
-
-Study.—The Comptroller General shall conduct a study to determine the extent to which aliens who are not lawfully admitted for permanent residence are receiving postsecondary Federal student financial assistance.
-
-&emsp;“(2)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\], the Comptroller General shall submit a report to the appropriate committees of the Congress on the study conducted under paragraph (1).
-
-“(b)
-
-Report on Computer Matching Program.—
-
-&emsp;“(1)
-
-In general.—Not later than one year after the date of the enactment of this Act, the Secretary ofEducation and the Commissioner of Social Security shall jointly submit to the appropriate committees of the Congress a report on the computer matching program of the Department of Education under section 484(p) of the Higher Education Act of 1965 \[20 U.S.C. 1091(p)\].
-
-&emsp;“(2)
-
-Report elements.—The report under paragraph (1) shall include the following:
-
-&emsp;&emsp;“(A) An assessment by the Secretary and the Commissioner of the effectiveness of the computer matching program, and a justification for such assessment.
-
-&emsp;&emsp;“(B) The ratio of successful matches under the program to inaccurate matches.
-
-&emsp;&emsp;“(C) Such other information as the Secretary and the Commissioner jointly consider appropriate.
-
-“(c)
-
-Appropriate Committees of the Congress.—For purposes of this section the term ‘appropriate committees of the Congress’ means the Committee on Economic and Educational Opportunities and the Committee on the Judiciary of the House of Representatives and the Committee on Labor and Human Resources and the Committee on the Judiciary of the Senate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1183a, 1612, 1613, 1614, 1621, 1642 of this title.
+Pub. L. 104–208, div. C, title V, §506, Sept. 30, 1996, 110 Stat. 3009–672, provided that not later than one year after Sept. 30, 1996, the Comptroller General was to submit to Congress a report on the extent to which aliens who were not lawfully admitted for permanent residence were receiving postsecondary Federal student financial assistance, and the Secretary of Education and the Commissioner of Social Security were jointly to submit to Congress a report on the computer matching program of the Department of Education under section 1091(p) of title 20.
 

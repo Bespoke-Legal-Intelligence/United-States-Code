@@ -52,7 +52,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping.
 
-&emsp;(16)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
+&emsp;(16)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
 
 &emsp;(B) Nothing in this paragraph or any other provision of this chapter shall be construed to modify the definition of “United States” for the purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] or any other immigration or nationality law.
 
@@ -67,6 +67,14 @@ The Immigration and Nationality Act, referred to in par. (16)(B), is act June 27
 #### Effective Date
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
+
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–458, title VII, §7001, Dec. 17, 2004, 118 Stat. 3775, provided that: “This title \[see Tables for classification\] may be cited as the ‘9/11 Commission Implementation Act of 2004’.”
+
+Pub. L. 108–458, title VIII, §8301, Dec. 17, 2004, 118 Stat. 3867, provided that: “This subtitle \[subtitle C (§§8301–8306) of title VIII of Pub. L. 108–458, amending sections 111, 142, and 345 of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 112 of this title\] may be cited as the ‘Homeland Security Civil Rights and Civil Liberties Protection Act of 2004’.”
+
+Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: “This Act \[amending sections 113, 342, and 454 of this title and sections 901 and 3516 of Title 31, Money and Finance, and enacting provisions set out as notes under section 342 of this title and sections 901 and 3516 of Title 31\] may be cited as ‘Department of Homeland Security Financial Accountability Act’.”
 
 #### Short Title of 2003 Amendment
 
@@ -84,11 +92,11 @@ For short title of part I of subchapter VIII of this chapter as the “Homeland 
 
 Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
 
-\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
+\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a noteunder section 101 of Title 44, Public Printing and Documents.\]
 
 #### National Commission on Terrorist Attacks Upon the United States
 
-Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, provided that:
+Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L. 108–207, §1, Mar. 16, 2004, 118 Stat. 556, provided that:
 
 #### “SEC. 601. ESTABLISHMENT OF COMMISSION.
 
@@ -264,7 +272,7 @@ In general.—The Commission is authorized to secure directly from any executive
 
 &emsp;“(2)
 
-Receipt, handling, storage, and dissemination.—Information shall only be received, handled,stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
+Receipt, handling, storage, and dissemination.—Information shall only be received, handled, stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
 
 “(d)
 
@@ -356,7 +364,7 @@ Interim Reports.—The Commission may submit to the President and Congress inter
 
 “(b)
 
-Final Report.—Not later than 18 months after the date of the enactment of this Act \[Nov. 27, 2002\], the Commission shall submit to the President and Congress a final report containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of Commission members.
+Final Report.—Not later than 20 months after the date of the enactment of this Act \[Nov. 27, 2002\], the Commission shall submit to the President and Congress a final report containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of Commission members.
 
 “(c)
 
@@ -364,11 +372,11 @@ Termination.—
 
 &emsp;“(1)
 
-In general.—The Commission, and all the authorities of this title, shall terminate 60 days after the date on which the final report is submitted under subsection (b).
+In general.—The Commission, and all the authorities of this title, shall terminate 30 days after the date on which the final report is submitted under subsection (b).
 
 &emsp;“(2)
 
-Administrative activities before termination.—The Commission may use the 60-day period referred to in paragraph (1) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its reports and disseminating the final report.
+Administrative activities before termination.—The Commission may use the 30-day period referred to in paragraph (1) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its reports and disseminating the final report.
 
 #### “SEC. 611. FUNDING.
 
@@ -378,5 +386,9 @@ Transfer From the National Foreign Intelligence Program.—Of the amounts author
 
 “(b)
 
-Duration of Availability.—Amounts made available to the Commission under subsection (a) shall remain available until the termination of the Commission.”
+Additional Funding.—In addition to the amounts made available to the Commission under subsection (a) and under chapter 2 of title II of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 591), of the amounts appropriated for the programs and activities of the Federal Government for fiscal year 2004 that remain available for obligation, not more than $1,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
+
+“(c)
+
+Duration of Availability.—Amounts made available to the Commission under this section shall remain available until the termination of the Commission.”
 

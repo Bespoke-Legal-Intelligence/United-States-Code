@@ -4,7 +4,3 @@ The United States Court of Federal Claims, the Court of International Trade, and
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 364 of this title.
-

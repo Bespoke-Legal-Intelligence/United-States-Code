@@ -88,7 +88,7 @@ Loans under this section shall be made pursuant to agreements which shall provid
 
 &emsp;(C) the application contains assurances that the local educational agency will furnish such information as is necessary for the Administrator to make the report required by section 4016 of this title.
 
-(3) No financial assistance may be provided by the Administrator under this section forprojects described in subsection (a)(2) of this section on which abatement action was completed prior to January 1, 1984.
+(3) No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) of this section on which abatement action was completed prior to January 1, 1984.
 
 (4) Except as provided in section 4021(b)(1) of this title, in approving applications the Administrator shall provide assistance to the local educational agencies having the highest priority among applications being considered in order of ranking until the appropriated funds are expended.
 
@@ -96,7 +96,7 @@ Loans under this section shall be made pursuant to agreements which shall provid
 
 #### References in Text
 
-The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as addedby Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Amendments
 
@@ -177,8 +177,4 @@ Section 4(b) of Pub. L. 99–519 provided that:
 “(2) Not more than 2 percent of any grant awarded to a State pursuant to paragraph (1) may be used by the State for administrative purposes. For purposes of the preceding sentence, administrative purposes do not include salaries of persons who inspect for asbestos-containing material or assist in the preparation of management plans.
 
 “(3) In determining which local educational agencies to approve grants for, the Administrator shall take into account the financial need of the agency. Of the amount available under the Asbestos School Hazard Abatement Act of 1984 \[20 U.S.C. 4011 et seq.\] for fiscal years 1988 and 1989, not more than 10 percent may be obligated for the purposes described in this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4012, 4013, 4015, 4016, 4017, 4022 of this title; title 15 sections 2646, 2655.
 

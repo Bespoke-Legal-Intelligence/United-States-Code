@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ENERGY CONSERVATION STANDARDS FOR NEW BUILDINGS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7154 of this title.
-
 
 ---
 

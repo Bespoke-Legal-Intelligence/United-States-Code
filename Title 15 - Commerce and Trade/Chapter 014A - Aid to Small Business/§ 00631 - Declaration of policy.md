@@ -78,7 +78,7 @@ Further, it is the declared policy of the Congress that the Government should ai
 
 &emsp;(B) promote the competitive viability of such concerns in the marketplace by providing such available contract, financial, technical, and mangement <sup>3</sup> assistance as may be necessary; and
 
-&emsp;(C) clarify and expand the program for the procurement by the United States of articles,supplies, services, materials, and construction work from small business concerns owned by socially and economically disadvantaged individuals.
+&emsp;(C) clarify and expand the program for the procurement by the United States of articles, supplies, services, materials, and construction work from small business concerns owned by socially and economically disadvantaged individuals.
 
 #### (g) Assistance to disaster victims under disaster loan program
 
@@ -108,7 +108,7 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(A) vigorously promote the legitimate interests of small business concerns owned and controlled by women;
 
-&emsp;(B) remove, insofar as possible, the discriminatory barriers that are encountered by women in accessing capital and other factors of production; and
+&emsp;(B) remove, insofar as possible, the discriminatory barriers that are encountered bywomen in accessing capital and other factors of production; and
 
 &emsp;(C) require that the Government engage in a systematic and sustained effort to identify, define and analyze those discriminatory barriers facing women and that such effort directly involve the participation of women business owners in the public/private sector partnership.
 
@@ -256,13 +256,17 @@ Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 
 
 Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–447, div. K, §1(a), Dec. 8, 2004, 118 Stat. 3441, provided that: “This division \[enacting sections 631c and 657g of this title, amending sections 632 to 634, 636, 637, 648, 650, 654, 657a to 657c, 683, 687, 694b, and 695 to 697 of this title, enacting provisions set out as notes under sections 632, 633, 636, and 637 of this title, amending provisions set out as notes under this section and section 657b of this title, and repealing provisions set out as a note under section 694b of this title\] may be cited as the ‘Small Business Reauthorization and Manufacturing Assistance Act of 2004’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–50, §1, Oct. 15, 2001, 115 Stat. 263, provided that: “This Act \[amending sections 638 and 657d of this title and enacting provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Technology Transfer Program Reauthorization Act of 2001’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(9) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–667, provided that: “This Act \[H.R. 5667, as enacted by section 1(a)(9) of Pub. L. 106–554, see Tables for classification\] may be cited as the ‘Small Business Reauthorization Act of 2000’.”
+Pub. L. 106–554, §1(a)(9) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–667, provided that: “This Act \[H.R. 5667, as enacted by section 1(a)(9) of Pub. L. 106–554, see Tablesfor classification\] may be cited as the ‘Small Business Reauthorization Act of 2000’.”
 
 Pub. L. 106–554, §1(a)(9) \[title I, §101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–668, provided that: “This title \[enacting sections 657d and 657e of this title, amending section 638 of this title, enacting provisions set out as notes under sections 638 and 657d of this title, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 2000’.”
 
@@ -292,7 +296,7 @@ Pub. L. 105–277, div. C, title IX, §901, Oct. 21, 1998, 112 Stat. 2681–707,
 
 Pub. L. 105–135, §1(a), Dec. 2, 1997, 111 Stat. 2592, provided that: “This Act \[enacting sections 657a and 7109 of this title and former section 7109 of this title, amending this section, sections 631b, 632, 636, 637, 638, 644, 645, 648, 656, 662, 681 to 683, 687b, 687m, 694b, 696, 697, 697e, 7103, 7104, 7106, 7107, and 7110 of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section, sections 632 to 634, 636, 637, 638, 656, 657a, and 697e of this title, and section 405 of Title 41, and amending provisions set out as notes under this section and sections 637, 644, 694b, and 697e of this title\] may be cited as the ‘Small Business Reauthorization Act of 1997’.”
 
-Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
+Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enacting section 657a of this title, amending sections 631b, 632, 637, 644, 645, and 694b of this title, section 2323 of Title 10, Armed Forces, section 1441a of Title 12, Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, section 13556 of Title 42, The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
 
 #### Short Title of 1996 Amendment
 
@@ -312,7 +316,7 @@ Pub. L. 103–81, §1(a), Aug. 13, 1993, 107 Stat. 780, provided that: “This A
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: “This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Research and Development Enhancement Act of 1992’.”
+Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: “This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Research and Development Enhancement Act of 1992’.”
 
 Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that: “This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 1992’.”
 
@@ -420,7 +424,7 @@ Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this A
 
 #### Authorization of Appropriations
 
-Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–554, §1(a)(8) \[§1(c)\], §1(a)(9) \[title V, §502, title VIII, §804(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–691, 2763A–703; Pub. L. 107–20, title II, §2203(a), July 24, 2001, 115 Stat. 170, provided that:
+Pub. L. 85–536, §2\[20\], July 18, 1958, 72 Stat. 396, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–554, §1(a)(8) \[§1(c)\], §1(a)(9) \[title V, §502, title VIII, §804(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–691, 2763A–703; Pub. L. 107–20, title II, §2203(a), July 24, 2001, 115 Stat. 170; Pub. L. 108–217, §3, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–447, div. K, title I, §121, Dec. 8, 2004, 118 Stat. 3446, provided that:
 
 “(a)(1) For fiscal year 2000 and each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary and appropriate, to remain available until expended, and to be available solely—
 
@@ -430,9 +434,9 @@ Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2),
 
 &emsp;“(C) to pay the expenses of the information sharing system, as provided in section 21(c)(8);
 
-&emsp;“(D) to pay the expenses of the association referred to in section 21(a)(3)(A) for conducting the certification program, as provided in section 21(k)(2);
+&emsp;“(D) to pay the expenses of the association referred to in section 21(a)(3)(A) for conducting the accreditation program, as provided in section 21(k)(2);
 
-&emsp;“(E) to pay the expenses of the Administration, including salaries of examiners, for conducting examinations as part of the certification program conducted by the association referred to in section 21(a)(3)(A); and
+&emsp;“(E) to pay the expenses of the Administration, including salaries of examiners, for conducting examinations as part of the accreditation program conducted by the association referred to in section 21(a)(3)(A); and
 
 &emsp;“(F) to pay for small business development center grants as mandated or directed by Congress.
 
@@ -450,303 +454,43 @@ Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2),
 
 “(c)
 
-Fiscal Year 1998.—
+Disaster Mitigation Pilot Program.—The following program levels are authorized for loans under section 7(b)(1)(C) \[section 636(b)(1)(C) of this title\]:
 
-&emsp;“(1)
+&emsp;“(1) $15,000,000 for fiscal year 2005.
 
-Program levels.—The following program levels are authorized for fiscal year 1998:
-
-&emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $40,000,000 in technical assistance grants, as provided in section 7(m) \[section 636(m) of this title\]; and
-
-&emsp;&emsp;&emsp;“(ii) $60,000,000 in direct loans, as provided in section 7(m).
-
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $16,040,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $12,000,000,000 in general business loans as provided in section 7(a) \[section 636(a) of this title\];
-
-&emsp;&emsp;&emsp;“(ii) $3,000,000,000 in financings as provided in section 7(a)(13) of this Act and section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
-
-&emsp;&emsp;&emsp;“(iii) $1,000,000,000 in loans as provided in section 7(a)(21); and
-
-&emsp;&emsp;&emsp;“(iv) $40,000,000 in loans as provided in section 7(m).
-
-&emsp;&emsp;“(C) For the programs authorized by part A of title III of the Small Business Investment Act of 1958 \[part A of subchapter III of chapter 14B of this title\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $700,000,000 in purchases of participating securities; and
-
-&emsp;&emsp;&emsp;“(ii) $600,000,000 in guarantees of debentures.
-
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $2,000,000,000, of which not more than $650,000,000 may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
-
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements—
-
-&emsp;&emsp;&emsp;“(i) for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\], $4,000,000; and
-
-&emsp;&emsp;&emsp;“(ii) for activities of small business development centers pursuant to section 21(c)(3)(G) \[section 648(c)(3)(G) of this title\], $15,000,000, to remain available until expended.
-
-&emsp;“(2)
-
-Additional authorizations.—
-
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 1998 such sums as may be necessary to carry out this Act, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
-
-&emsp;&emsp;“(B) Notwithstanding subparagraph (A), for fiscal year 1998—
-
-&emsp;&emsp;&emsp;“(i) no funds are authorized to be provided to carry out the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on behalf of the Administration or on behalf of any other department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.
-
-&emsp;“(3)
-
-HUBZone program.—There are authorized to be appropriated to the Administration to carry out the program under section 31 \[section 657a of this title\], $5,000,000 for fiscal year 1998.
+&emsp;“(2) $15,000,000 for fiscal year 2006.
 
 “(d)
 
-Fiscal Year 1999.—
+Fiscal Year 2005.—
 
 &emsp;“(1)
 
-Program levels.—The following program levels are authorized for fiscal year 1999:
+Program levels.—The following program levels are authorized for fiscal year 2005:
 
 &emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
 
-&emsp;&emsp;&emsp;“(i) $40,000,000 in technical assistance grants as provided in section 7(m) \[section 636(m) of this title\]; and
+&emsp;&emsp;&emsp;“(i) $75,000,000 in technical assistance grants, as provided in section 7(m) \[section 636(m) of this title\]; and
 
-&emsp;&emsp;&emsp;“(ii) $60,000,000 in direct loans, as provided in section 7(m).
+&emsp;&emsp;&emsp;“(ii) $105,000,000 in direct loans, as provided in 7(m).
 
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $17,540,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
+&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $23,050,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
 
-&emsp;&emsp;&emsp;“(i) $13,000,000,000 in general business loans as provided in section 7(a) \[section 636(a) of this title\];
+&emsp;&emsp;&emsp;“(i) $16,500,000,000 in general business loans, as provided in section 7(a) \[section 636(a) of this title\];
 
-&emsp;&emsp;&emsp;“(ii) $3,500,000,000 in financings as provided in section 7(a)(13) of this Act and section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
+&emsp;&emsp;&emsp;“(ii) $6,000,000,000 in certified development company financings, as provided in section 7(a)(13) and as provided in section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
 
-&emsp;&emsp;&emsp;“(iii) $1,000,000,000 in loans as provided in section 7(a)(21); and
+&emsp;&emsp;&emsp;“(iii) $500,000,000 in loans, as provided in section 7(a)(21); and
 
-&emsp;&emsp;&emsp;“(iv) $40,000,000 in loans as provided in section 7(m).
+&emsp;&emsp;&emsp;“(iv) $50,000,000 in loans, as provided in section 7(m).
 
 &emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
 
-&emsp;&emsp;&emsp;“(i) $1,200,000,000 in purchases of participating securities; and
+&emsp;&emsp;&emsp;“(i) $4,250,000,000 in purchases of participating securities; and
 
-&emsp;&emsp;&emsp;“(ii) $700,000,000 in guarantees of debentures.
+&emsp;&emsp;&emsp;“(ii) $3,250,000,000 in guarantees of debentures.
 
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $2,000,000,000, of which not more than $650,000,000 may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
-
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements—
-
-&emsp;&emsp;&emsp;“(i) for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\], $4,500,000; and
-
-&emsp;&emsp;&emsp;“(ii) for activities of small business development centers pursuant to section 21(c)(3)(G) \[section 648(c)(3)(G) of this title\], not to exceed $15,000,000, to remain available until expended.
-
-&emsp;“(2)
-
-Additional authorizations.—
-
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 1999 such sums as may be necessary to carry out this Act, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
-
-&emsp;&emsp;“(B) Notwithstanding subparagraph (A), for fiscal year 1999—
-
-&emsp;&emsp;&emsp;“(i) no funds are authorized to be provided to carry out the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on behalf of the Administration or on behalf of any other department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.
-
-&emsp;“(3)
-
-HUBZone program.—There are authorized to be appropriated to the Administration to carry out the program under section 31 \[section 657a of this title\], $5,000,000 for fiscal year 1999.
-
-“(e)
-
-Fiscal Year 2000.—
-
-&emsp;“(1)
-
-Program levels.—The following program levels are authorized for fiscal year 2000:
-
-&emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $40,000,000 in technical assistance grants as provided in section 7(m) \[section 636(m) of this title\]; and
-
-&emsp;&emsp;&emsp;“(ii) $60,000,000 in direct loans, as provided in section 7(m).
-
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $20,040,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $14,500,000,000 in general business loans as provided in section 7(a) \[section 636(a) of this title\];
-
-&emsp;&emsp;&emsp;“(ii) $4,500,000,000 in financings as provided in section 7(a)(13) of this Act and section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
-
-&emsp;&emsp;&emsp;“(iii) $1,000,000,000 in loans as provided in section 7(a)(21); and
-
-&emsp;&emsp;&emsp;“(iv) $40,000,000 in loans as provided in section 7(m).
-
-&emsp;&emsp;“(C) For the programs authorized by part A of title III of the Small Business Investment Act of1958 \[part A of subchapter III of chapter 14B of this title\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $1,500,000,000 in purchases of participating securities; and
-
-&emsp;&emsp;&emsp;“(ii) $800,000,000 in guarantees of debentures.
-
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $2,000,000,000, of which not more than $650,000,000 may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
-
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements—
-
-&emsp;&emsp;&emsp;“(i) for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\], $5,000,000; and
-
-&emsp;&emsp;&emsp;“(ii) for activities of small business development centers pursuant to section 21(c)(3)(G) \[section 648(c)(3)(6) of this title\], not to exceed $15,000,000, to remain available until expended.
-
-&emsp;“(2)
-
-Additional authorizations.—
-
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 2000 such sums as may be necessary to carry out this Act, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
-
-&emsp;&emsp;“(B) Notwithstanding subparagraph (A), for fiscal year 2000—
-
-&emsp;&emsp;&emsp;“(i) no funds are authorized to be provided to carry out the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on behalf of the Administration or on behalf of any other department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.
-
-&emsp;“(3)
-
-HUBZone program.—There are authorized to be appropriated to the Administration to carry out the program under section 31 \[section 657a of this title\], $5,000,000 for fiscal year 2000.
-
-“(f)
-
-Disaster Mitigation Pilot Program.—The following program levels are authorized for loans under section 7(b)(1)(C) \[section 636(b)(1)(C) of this title\]:
-
-&emsp;“(1) $15,000,000 for fiscal year 2000.
-
-&emsp;“(2) $15,000,000 for fiscal year 2001.
-
-&emsp;“(3) $15,000,000 for fiscal year 2002.
-
-&emsp;“(4) $15,000,000 for fiscal year 2003.
-
-&emsp;“(5) $15,000,000 for fiscal year 2004.
-
-“(g)
-
-Fiscal Year 2001.—
-
-&emsp;“(1)
-
-Program levels.—The following program levels are authorized for fiscal year 2001:
-
-&emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $45,000,000 in technical assistance grants as provided in section 7(m) \[section 636(m) of this title\]; and
-
-&emsp;&emsp;&emsp;“(ii) $60,000,000 in direct loans, as provided in 7(m).
-
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $19,050,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $14,500,000,000 in general business loans as provided in section 7(a) \[section 636(a) of this title\];
-
-&emsp;&emsp;&emsp;“(ii) $4,000,000,000 in financings as provided in section 7(a)(13) of this Act and section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
-
-&emsp;&emsp;&emsp;“(iii) $500,000,000 in loans as provided in section 7(a)(21); and
-
-&emsp;&emsp;&emsp;“(iv) $50,000,000 in loans as provided in section 7(m).
-
-&emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $2,500,000,000 in purchases of participating securities; and
-
-&emsp;&emsp;&emsp;“(ii) $1,500,000,000 in guarantees of debentures.
-
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $4,000,000,000 of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
-
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements for a total amount of $5,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
-
-&emsp;“(2)
-
-Additional authorizations.—
-
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 2001 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out title IV of the Small Business Investment Act of 1958 \[subchapter IV–A of chapter 14B of this title\], including salaries and expenses of the Administration.
-
-&emsp;&emsp;“(B) Notwithstanding any other provision of this paragraph, for fiscal year 2001—
-
-&emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.
-
-“(h)
-
-Fiscal Year 2002.—
-
-&emsp;“(1)
-
-Program levels.—The following program levels are authorized for fiscal year 2002:
-
-&emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $60,000,000 in technical assistance grants as provided in section 7(m) \[section 636(m) of this title\]; and
-
-&emsp;&emsp;&emsp;“(ii) $80,000,000 in direct loans, as provided in 7(m).
-
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $20,050,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $15,000,000,000 in general business loans as provided in section 7(a) \[section 636(a) of this title\];
-
-&emsp;&emsp;&emsp;“(ii) $4,500,000,000 in financings as provided in section 7(a)(13) of this Act and section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
-
-&emsp;&emsp;&emsp;“(iii) $500,000,000 in loans as provided in section 7(a)(21); and
-
-&emsp;&emsp;&emsp;“(iv) $50,000,000 in loans as provided in section 7(m).
-
-&emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $3,500,000,000 in purchases of participating securities; and
-
-&emsp;&emsp;&emsp;“(ii) $2,500,000,000 in guarantees of debentures.
-
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $5,000,000,000 of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
-
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements for a total amount of $6,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
-
-&emsp;“(2)
-
-Additional authorizations.—
-
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 2002 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out title IV of the Small Business Investment Act of 1958 \[subchapter IV of chapter 14B of this title\], including salaries and expenses of the Administration.
-
-&emsp;&emsp;“(B) Notwithstanding any other provision of this paragraph, for fiscal year 2002—
-
-&emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.
-
-“(i)
-
-Fiscal Year 2003.—
-
-&emsp;“(1)
-
-Program levels.—The following program levels are authorized for fiscal year 2003:
-
-&emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $70,000,000 in technical assistance grants as provided in section 7(m) \[section 636(m) of this title\]; and
-
-&emsp;&emsp;&emsp;“(ii) $100,000,000 in direct loans, as provided in 7(m).
-
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $21,550,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $16,000,000,000 in general business loans as provided in section 7(a) \[section 636(a) of this title\];
-
-&emsp;&emsp;&emsp;“(ii) $5,000,000,000 in financings as provided in section 7(a)(13) of this Act and section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
-
-&emsp;&emsp;&emsp;“(iii) $500,000,000 in loans as provided in section 7(a)(21); and
-
-&emsp;&emsp;&emsp;“(iv) $50,000,000 in loans as provided in section 7(m).
-
-&emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
-
-&emsp;&emsp;&emsp;“(i) $4,000,000,000 in purchases of participating securities; and
-
-&emsp;&emsp;&emsp;“(ii) $3,000,000,000 in guarantees of debentures.
-
-&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $6,000,000,000 of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
+&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $6,000,000,000, of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
 
 &emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements for a total amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
 
@@ -754,13 +498,71 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 Additional authorizations.—
 
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 2003 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out title IV of the Small Business Investment Act of 1958 \[subchapter IV of chapter 14B of this title\], including salaries and expenses of the Administration.
+&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 2005 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
 
-&emsp;&emsp;“(B) Notwithstanding any other provision of this paragraph, for fiscal year 2003—
+&emsp;&emsp;“(B) Notwithstanding any other provision of this paragraph, for fiscal year 2005—
 
 &emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
 
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.”
+&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $2,000,000.
+
+“(e)
+
+Fiscal Year 2006.—
+
+&emsp;“(1)
+
+Program levels.—The following program levels are authorized for fiscal year 2006:
+
+&emsp;&emsp;“(A) For the programs authorized by this Act \[this chapter\], the Administration is authorized to make—
+
+&emsp;&emsp;&emsp;“(i) $80,000,000 in technical assistance grants, as provided in section 7(m) \[section 636(m) of this title\]; and
+
+&emsp;&emsp;&emsp;“(ii) $110,000,000 in direct loans, as provided in 7(m).
+
+&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $25,050,000,000in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
+
+&emsp;&emsp;&emsp;“(i) $17,000,000,000 in general business loans, as provided in section 7(a) \[section 636(a) of this title\];
+
+&emsp;&emsp;&emsp;“(ii) $7,500,000,000 in certified development company financings, as provided in section 7(a)(13) and as provided in section 504 of the Small Business Investment Act of 1958 \[section 697a of this title\];
+
+&emsp;&emsp;&emsp;“(iii) $500,000,000 in loans, as provided in section 7(a)(21); and
+
+&emsp;&emsp;&emsp;“(iv) $50,000,000 in loans, as provided in section 7(m).
+
+&emsp;&emsp;“(C) For the programs authorized by title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\], the Administration is authorized to make—
+
+&emsp;&emsp;&emsp;“(i) $4,500,000,000 in purchases of participating securities; and
+
+&emsp;&emsp;&emsp;“(ii) $3,500,000,000 in guarantees of debentures.
+
+&emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $6,000,000,000, of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
+
+&emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements for a total amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
+
+&emsp;“(2)
+
+Additional authorizations.—
+
+&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 2006 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
+
+&emsp;&emsp;“(B) Notwithstanding any other provision of this paragraph, for fiscal year 2006—
+
+&emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
+
+&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $2,000,000.
+
+“\[(f) to (i) Repealed. Pub. L. 108–447, div. K, title I, §121(2), Dec. 8, 2004, 118 Stat. 3446.\]
+
+“(j)
+
+Fiscal Year 2004
+
+Purchase and Guarantee Authority Under Title III of Small Business Investment Act of 1958.—For fiscal year 2004, for the programs authorized by title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.), the Administration is authorized to make—
+
+&emsp;“(1) $4,000,000,000 in purchases of participating securities; and
+
+&emsp;“(2) $3,000,000,000 in guarantees of debentures.”
 
 #### Loan Application Processing
 
@@ -982,7 +784,7 @@ Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 1209
 
 #### Executive Order No. 12269
 
-Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President's Committee onSmall Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designated the Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President's Committee on Small Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designated the Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 12432. Minority Business Enterprise Development
 
@@ -1034,7 +836,7 @@ Section 1. <i>Policy Statement</i>. It is the policy of the United States Govern
 
 (c) the establishment of other mechanisms that ensure that SDBs, HBCUs, and MIs have a fair opportunity to participate in Federal procurement.
 
-Sec. 2. <i>Attainment of Goals</i>. All departments and agencies are required by law to establish participation goals of not less than 5 percent (15 U.S.C. 644(g)) or a greater percentage where otherwise required by law, as further provided in the Office of Federal Procurement Policy Letter No. 91–1 of March 11, 1991. Although the Federal Government has made substantial strides toward meeting established SDB, HBCU, and MI participation goals, certain departments and agencies have from time totime failed to aggressively pursue such goals. Department and agency heads are henceforth directed to execute, implement, and otherwise aggressively strive to fulfill the statutorily-mandated procurement participation goals. In addition, all departments and agencies are encouraged to set reasonable participation goals that exceed statutory requirements, to the extent permitted by law.
+Sec. 2. <i>Attainment of Goals</i>. All departments and agencies are required by law to establish participation goals of not less than 5 percent (15 U.S.C. 644(g)) or a greater percentage where otherwise required by law, as further provided in the Office of Federal Procurement Policy Letter No. 91–1 of March 11, 1991. Although the Federal Government has made substantial strides toward meeting established SDB, HBCU, and MI participation goals, certain departments and agencies have from time to time failed to aggressively pursue such goals. Department and agency heads are henceforth directed to execute, implement, and otherwise aggressively strive to fulfill the statutorily-mandated procurement participation goals. In addition, all departments and agencies are encouraged to set reasonable participation goals that exceed statutory requirements, to the extent permitted by law.
 
 Sec. 3. <i>Subcontracting Plans</i>. The Small Business Act, (15 U.S.C. 637(d)) and other related laws require certain prime contractors to maximize the use of SDBs in subcontracting plans and strive to achieve stated goals through prime contractors’ subcontracting practices. Department and agency heads are directed to aggressively enforce these prime contractors’ obligations to maximize awards of subcontracts to eligible SDBs.
 
@@ -1086,23 +888,91 @@ Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit,
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13360. Providing Opportunities for Service-Disabled Veteran Businesses To Increase Their Federal Contracting and Subcontracting
+
+Ex. Ord. No. 13360, Oct. 20, 2004, 69 F.R. 62549, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen opportunities in Federal contracting for service-disabled veteran businesses, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. America honors the extraordinary service rendered to the United States by veterans with disabilities incurred or aggravated in the line of duty during active service with the armed forces. Heads of agencies shall provide the opportunity for service-disabled veteran businesses to significantly increase the Federal contracting and subcontracting of such businesses. To achieve that objective, agencies shall more effectively implement section 15(g) of the Small Business Act (15 U.S.C. 644(g)), which provides that the President must establish a goal of not less than 3 percent for participation by service-disabled veteran businesses in Federal contracting, and section 36 of that Act (15 U.S.C. 657f), which gives agency contracting officers the authority to reserve certain procurements for service-disabled veteran businesses.
+
+Sec. 2. <i>Duties of Agency Heads</i>. To implement the policy set forth in section 1, heads of agencies shall:
+
+(a) develop a strategy to implement the policy set forth in section 1;
+
+(b) make the agency's strategy publicly available and report annually to the Administrator of the Small Business Administration on implementation of the agency's strategy;
+
+(c) designate a senior-level official who shall be responsible for developing and implementing the agency's strategy;
+
+(d) include development and implementation of the agency's strategy and achievements in furtherance of the strategy as significant elements in any performance plans of the agency's designated agency senior-level official, chief acquisition officer, and director of small and disadvantaged business utilization; and
+
+(e) include in the agency's strategy plans for:
+
+&emsp;(i) reserving agency contracts exclusively for service-disabled veteran businesses;
+
+&emsp;(ii) encouraging and facilitating participation by service-disabled veteran businesses in competitions for award of agency contracts;
+
+&emsp;(iii) encouraging agency contractors to subcontract with service-disabled veteran businesses and actively monitoring and evaluating agency contractors’ efforts to do so;
+
+&emsp;(iv) training agency personnel on applicable law and policies relating to participation of service-disabled veteran businesses in Federal contracting; and
+
+&emsp;(v) disseminating information to service-disabled veteran businesses that would assist these businesses in participating in awards of agency contracts.
+
+Sec. 3. <i>Additional Duties of Administrator of the Small Business Administration</i>. The Administrator of the Small Business Administration shall:
+
+(a) designate an appropriate entity within the Small Business Administration that shall, in coordination with the Veterans Affairs’ Center for Veterans Enterprise (CVE), provide to service-disabled veteran businesses information and assistance concerning participation in Federal contracting;
+
+(b) advise and assist heads of agencies in their implementation of section 2 of this order; and
+
+(c) make available to service-disabled veteran businesses training in Federal contracting law, procedures, and practices that would assist such businesses in participating in Federal contracting.
+
+Sec. 4. <i>Additional Duties of Administrator of General Services</i>. The Administrator of General Services shall:
+
+(a) establish a Government-wide Acquisition Contract reserved for participation by service-disabled veteran businesses; and
+
+(b) assist service-disabled veteran businesses to be included in Federal Supply Schedules.
+
+Sec. 5. <i>Additional Duties of the Secretary of Defense</i>. The Secretary of Defense shall direct the Defense Acquisition University (DAU) to develop training on contracting with service-disabled veteran businesses and make this training available on line through the DAU continuous learning program.
+
+Sec. 6. <i>Additional Duties of the Secretary of Veterans Affairs</i>. The Secretary of Veterans Affairs shall assist agencies by making available services of the CVE and assist in verifying the accuracy of contractor registration databases with regard to service-disabled veteran businesses.
+
+Sec. 7. <i>Additional Duties of the Secretary of Labor and Secretary of Veterans Affairs</i>. The Secretary of Labor and Secretary of Veterans Affairs shall, respectively, direct the Transition Assistance Program and the Disability Transition Assistance Program to educate separating service members as to the benefits available to service-disabled veteran businesses and as to potential entrepreneurial opportunities.
+
+Sec. 8. <i>Definitions</i>. As used in this order:
+
+(a) the term “agency” means an “executive agency” as that term is defined in section 105 of title 5, United States Code, excluding an executive agency that has fewer than 500 employees, the Government Accountability Office, or a Government corporation;
+
+(b) the term “service-disabled” means, with respect to disability, that the disability was incurred or aggravated in the line of duty in the active service in the United States Armed Forces;
+
+(c) the term “service-disabled veteran” means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16);
+
+(d) the term “service-disabled veteran business” means a small business concern owned and controlled by service-disabled veterans, as defined in section 3(q) of the Small Business Act (15 U.S.C. 632(q)); and
+
+(e) the term “small business concern” has the meaning specified in section 3(a) of the Small Business Act (15 U.S.C. 632(a)) and the definitions and standards issued under that section.
+
+Sec. 9. <i>General Provisions</i>. (a) Heads of agencies shall carry out duties assigned by sections 3, 4, 5, 6, and 7 of this order to the extent consistent with applicable law and subject to the availability of appropriations.
+
+(b) To the extent permitted by law, an agency shall disclose personally identifying information on service-disabled veterans to other agencies who require such information in order to discharge their responsibilities under this order.
+
+(c) An agency that consists of a multi-member commission shall implement this order to the extent it determines appropriate to the accomplishment of the agency's mission.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities or entities, its officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Definitions
 
-Section 2 of Pub. L. 105–135 provided that: “In this Act \[see Short Title of 1997 Amendment note above\]—
+Pub. L. 105–135, §2, Dec. 2, 1997, 111 Stat. 2593, provided that: “In this Act \[see Short Title of 1997 Amendment note above\]—
 
 &emsp;“(1) the term ‘Administration’ means the Small Business Administration;
 
 &emsp;“(2) the term ‘Administrator’ means the Administrator of the Small Business Administration;
 
-&emsp;“(3) the term ‘Committees’ means the Committees on Small Business of the House of Representatives and the Senate; and
+&emsp;“(3) the term ‘Committees’ means the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]; and
 
 &emsp;“(4) the term ‘small business concern’ has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632).”
 
 Pub. L. 104–208, div. D, §2, Sept. 30, 1996, 110 Stat. 3009–725, provided that: “For purposes of this Act \[probably should be “division”, see Short Title of 1996 Amendment note above\], the term ‘Administrator’ means the Administrator of the Small Business Administration.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 636 of this title; title 10 section 2320; title 12 section 635; title 41 section 418a.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

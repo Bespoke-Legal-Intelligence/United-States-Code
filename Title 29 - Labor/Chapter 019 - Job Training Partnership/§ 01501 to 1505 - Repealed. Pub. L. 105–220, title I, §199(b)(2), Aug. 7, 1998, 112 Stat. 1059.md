@@ -26,7 +26,7 @@ Pub. L. 102–235, §1, Dec. 12, 1991, 105 Stat. 1806, provided that: “This Ac
 
 Pub. L. 100–628, title VII, §711, Nov. 7, 1988, 102 Stat. 3248, provided that: “This subtitle \[subtitle B (§§711–714) of title VII of Pub. L. 100–628, enacting sections 1583 and 1791 to 1791j of this title, amending sections 49, 49a, 49b, 49d, 49e to 49j, 49<i>l</i>, 49<i>l</i>–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of this title and section 602 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 49 of this title\] may be cited as the ‘Jobs for Employable Dependent Individuals Act’.”
 
-Pub. L. 100–418, title VI, §6301, Aug. 23, 1988, 102 Stat. 1524, provided that “This title”, meaning subtitle D\(§§6301–6307) of title VI of Pub. L. 100–418, which enacted sections 565 and 1505 of this title, amended subchapter III of this chapter and sections 1502, 1516, 1532, and 1752 of this title, and enacted provisions set out as notes under section 1651 of this title, could be cited as the “Economic Dislocation and Worker Adjustment Assistance Act”, prior to repeal by Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023.
+Pub. L. 100–418, title VI, §6301, Aug. 23, 1988, 102 Stat. 1524, provided that “This title”, meaning subtitle D (§§6301–6307) of title VI of Pub. L. 100–418, which enacted sections 565 and 1505 of this title, amended subchapter III of this chapter and sections 1502, 1516, 1532, and 1752 of this title, and enacted provisions set out as notes under section 1651 of this title, could be cited as the “Economic Dislocation and Worker Adjustment Assistance Act”, prior to repeal by Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023.
 
 #### Short Title of 1986 Amendment
 

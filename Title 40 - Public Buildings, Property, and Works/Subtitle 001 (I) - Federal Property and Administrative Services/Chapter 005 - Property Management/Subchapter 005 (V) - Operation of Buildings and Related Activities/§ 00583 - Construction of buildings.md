@@ -36,7 +36,3 @@ In subsection (a), the words “mixed-ownership Government corporation” are su
 
 In subsection (b), the words “salaries and expenses for preparing plans and specifications and for field supervision” are substituted for “salaries and expenses of personnel engaged in the preparation of plans and specifications or in field supervision, and for general office expenses to be incurred in the rendition of any such service” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3712a.
-

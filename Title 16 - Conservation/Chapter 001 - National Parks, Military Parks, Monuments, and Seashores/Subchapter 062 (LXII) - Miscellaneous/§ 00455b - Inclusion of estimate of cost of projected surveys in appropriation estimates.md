@@ -14,7 +14,3 @@ Administrative functions of certain national military parks and national monumen
 
 National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, §2, June 10, 1933, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 455a of this title.
-

@@ -4,9 +4,9 @@
 
 (b) Sums appropriated pursuant to subsection (a) of this section shall remain available until the end of the sixth fiscal year following the fiscal year for which they are appropriated.
 
-(c) There is authorized to be appropriated for fiscal year 1979 to carry out the programs authorized under this chapter such sums as may be necessary (1) to make to institutions with which the Secretary has entered into agreements under subchapter I of this chapter supplemental grants for which the Secretary had, before May 1, 1978, approved applications from such institutions, and (2) to meet fully the commitments made by the Secretary before May 1, 1978, for grants and applications approved under authority of this subchapter and subchapters III and IV of this chapter, except that no funds appropriated under this subsection may be used for grants and applications approved under this subchapter and such subchapters III and IV until the full amounts for which applications had been so approved have been obligated under such subchapter I.
+(c) There is authorized to be appropriated for fiscal year 1979 to carry out the programs authorized under this chapter such sums as may be necessary (1) to make to institutions with which the Secretary has entered into agreements under subchapter I of this chapter supplemental grants for which the Secretary had, before May 1, 1978, approved applications from such institutions, and (2) to meet fully the commitments made by the Secretary before May 1, 1978, for grants and applications approved under authority of this subchapter and subchapters III and IV of this chapter, except that no funds appropriated under this subsection may be used for grants and applications approved under this subchapter and such subchapters III and IV until the full amounts for which applications hadbeen so approved have been obligated under such subchapter I.
 
-(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1104, §5082; amended Pub. L. 95–520, §7, Oct. 26, 1978, 92 Stat. 1822; Pub. L. 96–151, title I,§103(b)(1), Dec. 20, 1979, 93 Stat. 1093; renumbered §8222, Pub. L. 102–40, title IV, §402(b)(2)(C), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1104, §5082; amended Pub. L. 95–520, §7, Oct. 26, 1978, 92 Stat. 1822; Pub. L. 96–151, title I, §103(b)(1), Dec. 20, 1979, 93 Stat. 1093; renumbered §8222, Pub. L. 102–40, title IV, §402(b)(2)(C), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 
@@ -17,8 +17,4 @@ Subsec. (c). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 1979—Subsec. (a). Pub. L. 96–151 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980 through Sept. 30, 1982.
 
 1978—Subsec. (c). Pub. L. 95–520 added subsec. (c).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8241 of this title.
 

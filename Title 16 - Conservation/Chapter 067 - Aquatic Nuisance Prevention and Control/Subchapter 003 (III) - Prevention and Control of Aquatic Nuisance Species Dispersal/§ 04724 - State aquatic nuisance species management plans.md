@@ -90,9 +90,5 @@ Subsec. (b)(1). Pub. L. 104–332, §2(e)(6)(B), struck out “or the Assistant 
 
 Subsec. (c). Pub. L. 104–332, §2(e)(6)(C), added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4741 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Administrative”.</i>
 

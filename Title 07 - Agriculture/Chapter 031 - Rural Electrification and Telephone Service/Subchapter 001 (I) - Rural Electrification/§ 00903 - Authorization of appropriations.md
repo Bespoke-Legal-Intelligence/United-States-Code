@@ -58,7 +58,3 @@ Section 401 of act June 21, 1938, as amended by Pub. L. 103–182, title III, §
 
 \[Amendment by subsec. 381(d) of Pub. L. 103–182 to section 401 of act June 21, 1938, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 381(e) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2511 of Title 19, Customs Duties.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 904, 907, 922 of this title.
-

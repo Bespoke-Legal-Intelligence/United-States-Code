@@ -60,7 +60,3 @@ For purposes of this chapter:
 
 (Pub. L. 103–438, §12, Nov. 2, 1994, 108 Stat. 4603.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 46, 57b–1, 1311, 6207, 6208 of this title.
-

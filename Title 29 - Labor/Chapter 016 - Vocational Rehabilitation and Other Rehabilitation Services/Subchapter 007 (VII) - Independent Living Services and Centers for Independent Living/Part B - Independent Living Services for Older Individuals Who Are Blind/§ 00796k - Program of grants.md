@@ -30,7 +30,7 @@ Beginning with fiscal year 1993, in the case of any fiscal year for which the am
 
 #### (2) Allotments
 
-&emsp;For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (j) of this section, and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (i) of this section.
+&emsp;For grants under subsection (a) of this section for a fiscal year described in paragraph (1), the Commissioner shall make an allotment to each State in an amount determined in accordance with subsection (j) of this section,and shall make a grant to the State of the allotment made for the State if the State submits to the Commissioner an application in accordance with subsection (i) of this section.
 
 #### (d) Services generally
 
@@ -191,8 +191,4 @@ Part C of this subchapter, as in effect on the day before October 29, 1992, refe
 #### Prior Provisions
 
 A prior section 796k, Pub. L. 93–112, title VII, §752, as added Pub. L. 102–569, title VII, §703(a), Oct. 29, 1992, 106 Stat. 4465; amended Pub. L. 103–73, title I, §114(m), Aug. 11, 1993, 107 Stat. 732, authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by Pub. L. 105–220.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 716 of this title.
 

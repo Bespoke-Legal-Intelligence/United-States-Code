@@ -51,7 +51,3 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4045, 4071a of this title; title 5 section 5545a.
-

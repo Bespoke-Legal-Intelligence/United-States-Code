@@ -104,7 +104,7 @@ Any person who violates any requirement of this subchapter shall be liable to th
 
 (2) Any order issued under this subsection may include a suspension or revocation of authorization to operate under section 6925(e) of this title, shall state with reasonable specificity the nature of the required corrective action or other response measure, and shall specify a time for compliance. If any person named in an order fails to comply with the order, the Administrator may assess, and such person shall be liable to the United States for, a civil penalty in an amount not to exceed $25,000 for each day of noncompliance with the order.
 
-(Pub. L. 89–272, title II, §3008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2811; amended Pub. L. 95–609, §7(k), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §13, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§232, 233, 245(c), title IV, §403(d)(1)–(3), Nov. 8, 1984, 98 Stat. 3256, 3257, 3264, 3272; Pub. L. 99–499, title II, §205(i), Oct. 17, 1986, 100 Stat. 1703.)
+(Pub. L. 89–272, title II, §3008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2811; amended Pub. L. 95–609, §7(k), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §13, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§232, 233, 245(c), title IV,§403(d)(1)–(3), Nov. 8, 1984, 98 Stat. 3256, 3257, 3264, 3272; Pub. L. 99–499, title II, §205(i), Oct. 17, 1986, 100 Stat. 1703.)
 
 #### References in Text
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 99–499, §205(i)(5), inserted “or used oil not identifi
 
 1984—Subsec. (a)(1). Pub. L. 98–616, §403(d)(1), in amending par. (1) generally, expanded authority of Administrator by empowering him to determine that a person “has violated” a requirement of this subchapter, and to assess a civil penalty for a past or current violation.
 
-Subsec. (a)(3). Pub. L. 98–616, §403(d)(2), in amending par. (3) generally, substituted provision that any orderissued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation, and provision that any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter, and that in assessing such a penalty, the Administrator take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements, for provision that if such violator fails to take corrective action within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance and the Administrator may suspend or revoke any permit issued to the violator, whether issued by the Administrator or the State.
+Subsec. (a)(3). Pub. L. 98–616, §403(d)(2), in amending par. (3) generally, substituted provision that any order issued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation, and provision that any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter, and that in assessing such a penalty, the Administrator take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements, for provision that if such violator fails to take corrective action within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance and the Administrator may suspend or revoke any permit issued to the violator, whether issued by the Administrator or the State.
 
 Subsec. (b). Pub. L. 98–616, §233(b), inserted “issued under this section”.
 
@@ -166,9 +166,5 @@ Subsec. (d)(2). Pub. L. 95–609, §7(k)(2), inserted provisions relating to tre
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6924, 6939c, 6945, 6972, 6992d, 7412, 9601, 9606 of this title; title 26 section 4662.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

@@ -46,7 +46,3 @@ This chapter, referred to in subsec. (a)(5), was in the original “this Act” 
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4414, 4425 of this title.
-

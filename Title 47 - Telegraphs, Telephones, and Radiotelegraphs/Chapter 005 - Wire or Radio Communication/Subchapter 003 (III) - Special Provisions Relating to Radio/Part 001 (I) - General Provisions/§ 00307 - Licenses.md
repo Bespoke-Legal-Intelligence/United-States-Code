@@ -20,7 +20,7 @@ In considering applications for licenses, and modifications and renewals thereof
 
 #### (3) Continuation pending decision
 
-&emsp;Pending any hearing and final decision on such an application and the disposition of any petition for rehearing pursuant to section 405 of this title, the Commission shall continue such license in effect.
+&emsp;Pending any administrative or judicial hearing and final decision on such an application and the disposition of any petition for rehearing pursuant to section 405 or section 402 of this title, the Commission shall continue such license in effect.
 
 #### (d) Renewals
 
@@ -28,15 +28,23 @@ No renewal of an existing station license in the broadcast or the common carrier
 
 #### (e) Operation of certain radio stations without individual licenses
 
-(1) Notwithstanding any license requirement established in this chapter, if the Commission determines that such authorization serves the public interest, convenience, and necessity, the Commission may by rule authorize the operation of radio stations without individual licenses in the following radio services: (A) the citizens band radio service; (B) the radio control service; (C) the aviation radio service for aircraft stations operated on domestic flights when such aircraft are not otherwise required to carry a radio station; and (D) the maritime radio service for ship stations navigated on domestic voyages when such ships are not otherwise required to carry a radio station.
+(1) Notwithstanding any license requirement established in this chapter, if the Commission determines that such authorization serves the public interest, convenience, and necessity, theCommission may by rule authorize the operation of radio stations without individual licenses in the following radio services: (A) the citizens band radio service; (B) the radio control service; (C) the aviation radio service for aircraft stations operated on domestic flights when such aircraft are not otherwise required to carry a radio station; and (D) the maritime radio service for ship stations navigated on domestic voyages when such ships are not otherwise required to carry a radio station.
 
 (2) Any radio station operator who is authorized by the Commission to operate without an individual license shall comply with all other provisions of this chapter and with rules prescribed by the Commission under this chapter.
 
 (3) For purposes of this subsection, the terms “citizens band radio service”, “radio control service”, “aircraft station” and “ship station” shall have the meanings given them by the Commission by rule.
 
-(June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Pub. L. 86–752, §3, Sept. 13, 1960, 74 Stat. 889; Pub. L. 87–439, Apr. 27, 1962, 76 Stat. 58; Pub. L. 97–35, title XII, §1241(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§112, 113(a), Sept. 13, 1982, 96 Stat. 1093; Pub. L. 104–104, title II, §203, title IV, §403(i), Feb. 8, 1996, 110 Stat. 112, 131.)
+#### (f) Areas in Alaska without access to over the air broadcasts
+
+Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocation for continuing to operate notwithstanding orders to the contrary.
+
+(June 19, 1934, ch. 652, title III, §307, 48 Stat. 1083; June 5, 1936, ch. 511, §2, 49 Stat. 1475; July 16, 1952, ch. 879, §5, 66 Stat. 714; Pub. L. 86–752, §3, Sept. 13, 1960, 74 Stat. 889; Pub. L. 87–439, Apr. 27, 1962, 76 Stat. 58; Pub. L. 97–35, title XII, §1241(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§112, 113(a), Sept. 13, 1982, 96 Stat. 1093; Pub. L. 104–104, title II, §203, title IV, §403(i), Feb. 8, 1996, 110 Stat. 112, 131; Pub. L. 108–447, div. J, title IX \[title II, §213(1), (2)\], Dec. 8, 2004, 118 Stat. 3431.)
 
 #### Amendments
+
+2004—Subsec. (c)(3). Pub. L. 108–447, §213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
+
+Subsec. (f). Pub. L. 108–447, §213(2), added subsec. (f).
 
 1996—Subsec. (c). Pub. L. 104–104, §203, inserted heading and amended text generally, restructuring existing provisions into pars. (1) to (3) and substituting provisions providing 8 year term for licenses of broadcasting stations for provisions providing 5 year term for licenses of television broadcasting stations, 7 year term for licenses of radio broadcasting stations, and 10 year term for other broadcasting stations.
 
@@ -67,8 +75,4 @@ Subsec. (e). Pub. L. 97–259, §§112(a), 113(a), added subsec. (e) and redesig
 #### Effective Date of 1981 Amendment
 
 Section 1241(b) of Pub. L. 97–35 provided that: “The amendments made in subsection (a) \[amending this section\] shall apply to television and radio broadcasting licenses granted or renewed by the Federal Communications Commission after the date of the enactment of this Act \[Aug. 13, 1981\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 303, 309, 331, 503 of this title.
 

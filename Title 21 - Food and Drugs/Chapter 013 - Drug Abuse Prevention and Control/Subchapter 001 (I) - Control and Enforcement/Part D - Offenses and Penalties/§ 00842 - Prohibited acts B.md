@@ -38,7 +38,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 #### (c) Penalties
 
-(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penaltyof not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
+(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
 
 (B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
 
@@ -97,10 +97,6 @@ Amendment by Pub. L. 95–633 effective Nov. 10, 1978, see section 203(a) of Pub
 #### Repeals
 
 Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 843, 961 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section 830(a)(3) of this title;”.</i>
 

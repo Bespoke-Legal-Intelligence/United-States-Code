@@ -34,7 +34,3 @@ To carry out the provisions of this chapter, the Administrator may—
 
 (Pub. L. 100–147, title II, §205, Oct. 30, 1987, 101 Stat. 871.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2486d, 2486h of this title.
-

@@ -22,7 +22,3 @@ A retirement or separation under subsection (a) of this section shall take effec
 
 Provisions similar to those in this section were contained in section 853g of this title prior to repeal by Pub. L. 107–372.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3042 of this title.
-

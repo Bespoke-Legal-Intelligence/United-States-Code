@@ -1,16 +1,20 @@
 ### §1931. Disposition of filing fees
 
-(a) Of the amounts paid to the clerk of court as a fee under section 1914(a) or as part of a judgment for costs under section 2412(a)(2) of this title, $90 shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the courts of the United States.
+(a) Of the amounts paid to the clerk of court as a fee under section 1914(a) or as part of a judgment for costs under section 2412(a)(2) of this title, $190 shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the courts of the United States.
 
-(b) If the court authorizes a fee under section 1914(a) or an amount included in a judgment for costs under section 2412(a)(2) of this title of less than $150, the entire fee or amount, up to $90, shall be deposited into the special fund provided in this section.
+(b) If the court authorizes a fee under section 1914(a) or an amount included in a judgment for costs under section 2412(a)(2) of this title of less than $250, the entire fee or amount, up to $190, shall be deposited into the special fund provided in this section.
 
-(Added Pub. L. 99–500, §101(b) \[title IV, §407(c)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(c)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; amended Pub. L. 101–162, title IV, §406(d), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–572, title III, §301(b), Oct. 29, 1992, 106 Stat. 4511; Pub. L. 104–317, title IV, §401(b), Oct. 19, 1996, 110 Stat. 3853.)
+(Added Pub. L. 99–500, §101(b) \[title IV, §407(c)\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, §101(b) \[title IV, §407(c)\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64; amended Pub. L. 101–162, title IV, §406(d), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–572, title III, §301(b), Oct. 29, 1992, 106 Stat. 4511; Pub. L. 104–317, title IV, §401(b), Oct. 19, 1996, 110 Stat. 3853; Pub. L. 108–447, div. B, title III, §307(b), Dec. 8, 2004, 118 Stat. 2895.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–447, §307(b)(1), substituted “$190” for “$90”.
+
+Subsec. (b). Pub. L. 108–447, §307(b)(2), substituted “$250” for “$150” and “$190” for “$90”.
 
 1996—Subsec. (a). Pub. L. 104–317, §401(b)(1), substituted “$90” for “$60”.
 
@@ -24,6 +28,10 @@ Subsec. (b). Pub. L. 104–317, §401(b)(2), substituted “$150” for “$120�
 
 1989—Pub. L. 101–162, which directed that “as provided in annual appropriation acts” be struck out before colon, was executed by striking out “as provided in annual appropriation Acts” before colon as probable intent of Congress.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–447 effective 60 days after Dec. 8, 2004, see section 307(c) of Pub. L. 108–447, set out as a note under section 1914 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–317 effective 60 days after Oct. 19, 1996, see section 401(c) of Pub. L. 104–317, set out as a note under section 1914 of this title.
@@ -34,7 +42,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Disposition of Fees
 
-Pub. L. 106–518, title I, §102, Nov. 13, 2000, 114 Stat. 2411, provided that: “For fiscal year 2001 and each fiscal year thereafter, any portion of miscellaneous fees collected as prescribed by the Judicial Conference of the United States under sections 1913, 1914(b), 1926(a), 1930(b), and 1932 of title 28, United States Code, exceeding the amount of such fees in effect on September 30, 2000, shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.”
+Pub. L. 106–518, title I, §102, Nov. 13, 2000, 114 Stat. 2411, provided that: “For fiscal year 2001 and each fiscal year thereafter, any portion of miscellaneous fees collected as prescribed by the Judicial Conference of theUnited States under sections 1913, 1914(b), 1926(a), 1930(b), and 1932 of title 28, United States Code, exceeding the amount of such fees in effect on September 30, 2000, shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.”
 
 Section 404 of Pub. L. 104–317 provided that:
 
@@ -44,7 +52,7 @@ Disposition of Attorney Admission Fees.—For each fee collected for admission o
 
 “(b)
 
-Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28,United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
+Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28, United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
 
 “(c)
 
@@ -61,8 +69,4 @@ Section 406(b) of Pub. L. 101–162, as amended by Pub. L. 103–121, title I, �
 \[Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment to section 406(b) of Pub. L. 101–162, set out above, is effective 30 days after Nov. 29, 1999.\]
 
 \[Section 111(a), (b) of Pub. L. 103–121 provided in part that the amendments to section 406(b) of Pub. L. 101–162, set out above, are effective 30 days after Oct. 27, 1993.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 604, 1827, 1930 of this title.
 

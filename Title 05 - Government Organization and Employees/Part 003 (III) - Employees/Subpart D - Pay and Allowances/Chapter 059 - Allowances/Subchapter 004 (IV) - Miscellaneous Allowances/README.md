@@ -14,7 +14,9 @@ In General.—Notwithstanding any provision of title VI, section 636 of the Trea
 
 “(b)
 
-Reports.—The Director of Central Intelligence shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee of Intelligence of the House of Representatives a report on each designation of a category of employees under paragraph (1) of subsection (a), including the approximate number of employees covered by such designation and an estimate of the amount to be expended on reimbursement of such employees under paragraph (2) of that subsection.”
+Reports.—The Director of Central Intelligence shall submit to the Select Committee on Intelligence ofthe Senate and the Permanent Select Committee of Intelligence of the House of Representatives a report on each designation of a category of employees under paragraph (1) of subsection (a), including the approximate number of employees covered by such designation and an estimate of the amount to be expended on reimbursement of such employees under paragraph (2) of that subsection.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 Pub. L. 106–346, §101(a) \[title III, §348\], Oct. 23, 2000, 114 Stat. 1356, 1356A–33, provided that: “In addition to the authority provided in section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997, as included in Public Law 104–208, title I, section 101(f), as amended \[set out as a note below\], beginning in fiscal year 2001 and thereafter, amounts appropriated for salaries and expenses for the Department of Transportation may be used to reimburse an employee whose position is that of safety inspector for not to exceed one-half the costs incurred by such employee for professional liability insurance. Any payment under this section shall be contingent upon the submission of such information or documentation as the Department may require.”
 
@@ -24,7 +26,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996
 
 “(a)
 
-Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-halfthe costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
+Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
 
 “(b)
 

@@ -90,7 +90,3 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Section 401(b)(5) of Pub. L. 99–498 provided that: “Section 413C(c)(2) of the Act \[20 U.S.C. 1070b–2(c)(2)\] as amended by this section shall apply to the awarding of grants under subpart 2 of part A of title IV of the Act \[this subpart\] for periods of enrollment beginning on or after July 1, 1987.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070b, 1070b–1 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER XIX—SHOSHONE AND ARAPAHO TRIBES OF WYOMING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 588 of this title.
-
 
 ---
 

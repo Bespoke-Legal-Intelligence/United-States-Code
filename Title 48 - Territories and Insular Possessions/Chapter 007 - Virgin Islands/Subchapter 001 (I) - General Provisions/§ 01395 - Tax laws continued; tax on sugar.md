@@ -16,9 +16,5 @@ Section 1391 of this title, referred to in text, was repealed by Pub. L. 89–55
 
 1927—Act Feb. 25, 1927, reduced export duty on sugar from $8 to $6 per ton.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1392, 1396 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

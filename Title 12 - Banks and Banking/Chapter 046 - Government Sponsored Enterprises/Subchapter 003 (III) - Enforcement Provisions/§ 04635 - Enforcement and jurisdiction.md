@@ -10,7 +10,3 @@ Except as otherwise provided in this subchapter and sections 4619 and 4623 of th
 
 (Pub. L. 102–550, title XIII, §1375, Oct. 28, 1992, 106 Stat. 3990.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4619 of this title.
-

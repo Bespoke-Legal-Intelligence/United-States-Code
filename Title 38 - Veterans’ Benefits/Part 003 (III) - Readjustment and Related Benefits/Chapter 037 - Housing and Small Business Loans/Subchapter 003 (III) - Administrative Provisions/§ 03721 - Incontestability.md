@@ -10,7 +10,3 @@ Any evidence of guaranty or insurance issued by the Secretary shall be conclusiv
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3712 of this title.
-

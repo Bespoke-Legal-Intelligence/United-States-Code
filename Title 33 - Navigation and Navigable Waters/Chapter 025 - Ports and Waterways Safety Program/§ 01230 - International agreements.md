@@ -30,7 +30,3 @@ The Secretary, in cooperation with the International Maritime Organization, is a
 
 1998—Subsec. (d). Pub. L. 105–383 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1223, 1911 of this title.
-

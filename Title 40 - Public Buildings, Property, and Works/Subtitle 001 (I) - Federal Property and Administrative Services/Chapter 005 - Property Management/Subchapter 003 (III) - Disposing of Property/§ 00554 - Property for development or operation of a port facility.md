@@ -48,7 +48,7 @@ No Monetary Consideration.—A conveyance under this section shall be made witho
 
 Deed of Conveyance.—The deed of conveyance of any surplus real and related personal property disposed of under this section shall—
 
-&emsp;(1) provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
+&emsp;(1) provide that all of the property be used and maintained for the purpose for which itwas conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
 
 &emsp;(2) contain additional terms, reservations, restrictions, and conditions that the Secretary of Transportation shall by regulation require to ensure use of the property for the purposes for which it was conveyed and to safeguard the interests of the Government.
 
@@ -75,8 +75,4 @@ Historical and Revision Notes
 June 30, 1949, ch. 288, title II, §203(q), as added Pub. L. 103–160, div. B, title XXIX, §2927(2), Nov. 30, 1993, 107 Stat. 1933.
 
 In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
 

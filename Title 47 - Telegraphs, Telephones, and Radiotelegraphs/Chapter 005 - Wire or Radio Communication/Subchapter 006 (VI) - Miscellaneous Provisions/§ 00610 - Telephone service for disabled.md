@@ -42,7 +42,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(A) the term “essential telephones” means only coin-operated telephones, telephones provided for emergency use, and other telephones frequently needed for use by persons using such hearing aids;
 
-&emsp;(B) the term “public mobile services” means air-to-ground radiotelephone services, cellular radio telecommunications services, offshoreradio, rural radio service, public land mobile telephone service, and other common carrier radio communication services covered by part 22 of title 47 of the Code of Federal Regulations;
+&emsp;(B) the term “public mobile services” means air-to-ground radiotelephone services, cellular radio telecommunications services, offshore radio, rural radio service, public land mobile telephone service, and other common carrier radio communication services covered by part 22 of title 47 of the Code of Federal Regulations;
 
 &emsp;(C) the term “private radio services” means private land mobile radio services and other communications services characterized by the Commission in its rules as private radio services; and
 
@@ -66,7 +66,7 @@ The Commission shall periodically review the regulations established pursuant to
 
 #### (g) Recovery of reasonable and prudent costs
 
-Any common carrier or connecting carrier may provide specialized terminal equipment needed by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
+Any common carrier or connecting carrier may provide specialized terminal equipmentneeded by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
 
 #### (h) State enforcement
 

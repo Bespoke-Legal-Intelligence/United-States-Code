@@ -10,7 +10,7 @@
 
 (e) As used in this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a commonwealth, territory or possession of the United States.
 
-(Added Pub. L. 87–216, §2, Sept. 13, 1961, 75 Stat. 491; amended Pub. L. 100–690, title VII, §7024,Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(g), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–216, §2, Sept. 13, 1961, 75 Stat. 491; amended Pub. L. 100–690, title VII, §7024, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(g), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 
@@ -23,8 +23,4 @@
 Subsec. (c). Pub. L. 100–690, §7024(b)(2), struck out “, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia” after “State”.
 
 Subsec. (e). Pub. L. 100–690, §7024(b)(1), added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2516 of this title; title 8 section 1101.
 

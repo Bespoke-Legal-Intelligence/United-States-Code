@@ -4,7 +4,3 @@ In every contract or agreement to be made or entered into for the acquisition of
 
 (May 15, 1928, ch. 569, §14, 45 Stat. 539.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701c–1, 701e, 702a, 702a–11/2, 702a–13/4, 702a–11, 702a–12, 702c, 702h, 702i, 702j, 702n of this title.
-

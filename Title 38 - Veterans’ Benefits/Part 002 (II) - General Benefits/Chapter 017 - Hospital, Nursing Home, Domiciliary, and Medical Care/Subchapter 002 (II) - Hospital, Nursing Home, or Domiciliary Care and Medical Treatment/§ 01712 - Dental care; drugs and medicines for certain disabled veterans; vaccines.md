@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) the dental condition or disability is shown to have been in existence at the time of the veteran's discharge or release from active military, naval, or air service;
 
-&emsp;&emsp;(ii) the veteran had served on active duty for a period of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days immediately before such discharge or release;
+&emsp;&emsp;(ii) the veteran had served on active duty for a period of not less than 180 days or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 daysimmediately before such discharge or release;
 
 &emsp;&emsp;(iii) application for treatment is made within 90 days after such discharge or release, except that (I) in the case of a veteran who reentered active military, naval, or air service within 90 days after the date of such veteran's prior discharge or release from such service, application may be made within 90 days from the date of such veteran's subsequent discharge or release from such service, and (II) if a disqualifying discharge or release has been corrected by competent authority, application may be made within 90 days after the date of correction; and
 
@@ -80,7 +80,7 @@ Subsec. (j). Pub. L. 104–262, §101(c)(1)(B), redesignated subsec. (j) as (e).
 
 1994—Subsec. (a)(1)(D). Pub. L. 103–452, §103(a)(2), substituted “December 31, 1995” for “December 31, 1994”.
 
-Subsec. (i)(1). Pub. L. 103–452, §101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and care and services under section 1720D of this title, for the purposes of such counseling and care and services”.
+Subsec. (i)(1). Pub. L. 103–452, §101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and careand services under section 1720D of this title, for the purposes of such counseling and care and services”.
 
 Subsec. (i)(2). Pub. L. 103–452, §101(e)(2), substituted “or (B)” for “, (B)” and struck out before period at end “, or (C) who is eligible for counseling under section 1720D of this title, for the purposes of such counseling”.
 
@@ -451,8 +451,4 @@ Section 103(b) of Pub. L. 94–581, as amended by Pub. L. 100–527, §10(1), Oc
 #### Notification to Eligible Individuals of Expanded Care and Services Available as Result of Amendments by Veterans Omnibus Health Care Act of 1976
 
 Section 117(b) of Pub. L. 94–581 directed Administrator, not later than ninety days after Oct. 21, 1976, to take all appropriate steps to ensure that each individual eligible for new or expanded services as a result of amendments made by Veterans Omnibus Health Care Act of 1976 (Pub. L. 94–581) was personally notified about his or her eligibility and the way to secure care and services and directed Administrator to send copies of all notification forms to appropriate House and Senate committees, along with a description of how the forms were distributed.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1525, 1701, 1703, 1710, 2062 of this title; title 26 section 6103.
 

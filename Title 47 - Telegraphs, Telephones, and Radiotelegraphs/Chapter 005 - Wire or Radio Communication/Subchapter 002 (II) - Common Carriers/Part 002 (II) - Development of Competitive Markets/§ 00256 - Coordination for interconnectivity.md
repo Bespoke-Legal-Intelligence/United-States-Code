@@ -8,7 +8,7 @@ It is the purpose of this section—
 
 &emsp;&emsp;(A) coordinated public telecommunications network planning and design by telecommunications carriers and other providers of telecommunications service; and
 
-&emsp;&emsp;(B) public telecommunications network interconnectivity, and interconnectivity ofdevices with such networks used to provide telecommunications service; and
+&emsp;&emsp;(B) public telecommunications network interconnectivity, and interconnectivity of devices with such networks used to provide telecommunications service; and
 
 &emsp;(2) to ensure the ability of users and information providers to seamlessly and transparently transmit and receive information between and across telecommunications networks.
 
@@ -35,8 +35,4 @@ Nothing in this section shall be construed as expanding or limiting any authorit
 As used in this section, the term “public telecommunications network interconnectivity” means the ability of two or more public telecommunications networks used to provide telecommunications service to communicate and exchange information without degeneration, and to interact in concert with one another.
 
 (June 19, 1934, ch. 652, title II, §256, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 76.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 251 of this title.
 

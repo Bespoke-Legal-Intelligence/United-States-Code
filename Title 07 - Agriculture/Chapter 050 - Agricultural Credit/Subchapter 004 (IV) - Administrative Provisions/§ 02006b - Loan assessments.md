@@ -52,7 +52,3 @@ For definition of “this chapter”, referred to in subsecs. (a), (b)(5), and (
 
 Subsec. (d)(1). Pub. L. 107–171, §5318, substituted “annual review” for “biannual review”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1935, 1949, 1983a of this title.
-

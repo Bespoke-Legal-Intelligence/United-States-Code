@@ -78,9 +78,5 @@ This part, referred to in subsec. (a), was in the original “this subtitle” m
 
 Section 409 of Public Law 101–549, referred to in subsec. (f), is section 409 of Pub. L. 101–549, title IV, Nov. 15, 1990, 104 Stat. 2634, which directed the Secretary of Energy, in consultation with the Secretary of Commerce, to submit a report to Congress within one year of November 15, 1990, respecting clean coal technology programs, and which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13363 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

@@ -24,7 +24,7 @@ Section 204 of title II of Pub. L. 97–241 provided that: “The amendments mad
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title \[enacting section 4304a of this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title\] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
+Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title \[enacting section 4304aof this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title\] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
 
 #### Short Title
 
@@ -47,8 +47,4 @@ Prohibition.—It is not in the national security interest of the United States 
 Pub. L. 101–246, title I, §134, Feb. 16, 1990, 104 Stat. 33, authorized Secretary of State to allow Soviet mission to United States to occupy, on a reciprocal basis, a consulate facility in United States, provided that United States mission in Kiev would be able to occupy an interim facility intended for conduct of unclassified activities, and required Secretary of State to submit to Congress a long-term plan for acquiring secure permanent facilities for United States mission in Kiev, prior to repeal by Pub. L. 103–199, title V, §502(c)(1), Dec. 17, 1993, 107 Stat. 2326.
 
 Pub. L. 100–204, title I, §153(a)–(d), Dec. 22, 1987, 101 Stat. 1353, authorized Secretary of State to obtain full cooperation of Soviet government, on a reciprocal basis, in areas of diplomatic and consular finance, access to goods, and use of real property and prohibited Secretary of State from allowing Soviet mission to United States to occupy any new consulate in United States until United States mission in Kiev was able to occupy secure permanent facilities, prior to repeal by Pub. L. 103–199, title V, §502(e)(1), Dec. 17, 1993, 107 Stat. 2326. Section 153(d) of Pub. L. 100–204 was also repealed by Pub. L. 103–236, title I, §139(15), Apr. 30, 1994, 108 Stat. 398.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4309, 4309a of this title.
 

@@ -4,7 +4,7 @@ Whoever, being an officer, agent, or employee of the United States, or of any St
 
 Whoever knowingly makes any false statement, false representation, false report, or false claim with respect to the character, quality, quantity, or cost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction of any highway or related project approved by the Secretary of Transportation; or
 
-Whoever knowingly makes any false statement or false representation as to a material fact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented,
+Whoever knowingly makes any false statement or false representation as to a materialfact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented,
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -30,7 +30,7 @@ The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in t
 
 1966—Pub. L. 89–670 substituted “Secretary of Transportation” for “Secretary of Commerce” wherever appearing.
 
-1954—Act May 6, 1954, substituted in second par. “with respect to the character, quality, quantity, or cost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction” for “for work or materials for the construction”; and in third par. substituted “as to a material fact in any statement, certificate, or reportsubmitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented” for “in any report required under Title 23, with intent to defraud the United States”.
+1954—Act May 6, 1954, substituted in second par. “with respect to the character, quality, quantity, or cost of any work performed or to be performed, or materials furnished or to be furnished, in connection with the construction” for “for work or materials for the construction”; and in third par. substituted “as to a material fact in any statement, certificate, or report submitted pursuant to the provisions of the Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), as amended and supplemented” for “in any report required under Title 23, with intent to defraud the United States”.
 
 1951—Act Oct. 31, 1951, substituted “Secretary of Commerce” for “Secretary of Agriculture” in first and second pars.
 

@@ -46,17 +46,27 @@ Departments or agencies of the United States shall not promulgate any regulation
 
 Any regulation or administrative decision or determination of a department or agency of the United States that is in existence or effect on May 31, 1994, and that classifies, enhances, or diminishes the privileges and immunities available to a federally recognized Indian tribe relative to the privileges and immunities available to other federally recognized tribes by virtue of their status as Indian tribes shall have no force or effect.
 
-(June 18, 1934, ch. 576, §16, 48 Stat. 987; Pub. L. 100–581, title I, §101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, §5(b), May 31, 1994, 108 Stat. 709; Pub. L. 106–179, §3, Mar. 14, 2000, 114 Stat. 47.)
+#### (h) Tribal sovereignty
+
+Notwithstanding any other provision of this Act—
+
+&emsp;(1) each Indian tribe shall retain inherent sovereign power to adopt governing documents under procedures other than those specified in this section; and
+
+&emsp;(2) nothing in this Act invalidates any constitution or other governing document adopted by an Indian tribe after June 18, 1934, in accordance with the authority described in paragraph (1).
+
+(June 18, 1934, ch. 576, §16, 48 Stat. 987; Pub. L. 100–581, title I, §101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, §5(b), May 31, 1994, 108 Stat. 709; Pub. L. 106–179, §3, Mar. 14, 2000, 114 Stat. 47; Pub. L. 108–204, title I, §103, Mar. 2, 2004, 118 Stat. 543.)
 
 #### References in Text
 
-Act of June 18, 1934, referred to in subsec. (f), popularly known as the Indian Reorganization Act, is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, and this Act, referred to in subsecs. (f) and (h), is act of June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 #### Codification
 
 May 31, 1994, referred to in subsec. (g), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–263, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (h). Pub. L. 108–204 added subsec. (h).
 
 2000—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
 
@@ -70,15 +80,11 @@ Section 102 of title I of Pub. L. 100–581 provided that: “For the purpose of
 
 &emsp;“(1) ‘applicable laws’ means any treaty, Executive order or Act of Congress or any final decision of the Federal courts which are applicable to the tribe, and any other laws which are applicable to the tribe pursuant to an Act of Congress or by any final decision of the Federal courts;
 
-&emsp;“(2) ‘appropriate tribal request’ means receipt in the Area Office of the Bureau of Indian Affairs having administrative jurisdiction over the requesting tribe, of a duly enacted tribal resolution requesting a Secretarial election as well as a copy of the proposedtribal constitution and bylaws, amendment, or revocation action;
+&emsp;“(2) ‘appropriate tribal request’ means receipt in the Area Office of the Bureau of Indian Affairs having administrative jurisdiction over the requesting tribe, of a duly enacted tribal resolution requesting a Secretarial election as well as a copy of the proposed tribal constitution and bylaws, amendment, or revocation action;
 
 &emsp;“(3) ‘Secretary’ means the Secretary of the Interior.”
 
 #### Amendment of Tribal Constitution and Bylaws
 
 Section 103 of title I of Pub. L. 100–581 provided that: “Nothing in this Act \[probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above\] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390, 396b, 450j–1, 450<i>l</i>, 458cc, 458aaa–10, 473, 473a, 566b, 711d, 713d, 714d, 715g, 734, 735, 765, 983f, 1300h–4, 1300j–4, 1300k–6, 1300<i>l</i>–5, 1300m–6, 1300n–6, 1742, 1750a, 1772a, 2108, 2213 of this title; title 16 section 803.
 

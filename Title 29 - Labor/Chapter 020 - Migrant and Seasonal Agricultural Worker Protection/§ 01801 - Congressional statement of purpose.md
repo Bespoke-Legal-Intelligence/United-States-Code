@@ -6,7 +6,7 @@ It is the purpose of this chapter to remove the restraints on commerce caused by
 
 #### Effective Date
 
-Section 524 of Pub. L. 97–470 provided in part that: “The provisions of this Act \[enacting this chapter andrepealing chapter 52 (§2041 et seq.) of Title 7, Agriculture\] shall take effect ninety days from the date of enactment \[Jan. 14, 1983\].”
+Section 524 of Pub. L. 97–470 provided in part that: “The provisions of this Act \[enacting this chapter and repealing chapter 52 (§2041 et seq.) of Title 7, Agriculture\] shall take effect ninety days from the date of enactment \[Jan. 14, 1983\].”
 
 #### Short Title
 

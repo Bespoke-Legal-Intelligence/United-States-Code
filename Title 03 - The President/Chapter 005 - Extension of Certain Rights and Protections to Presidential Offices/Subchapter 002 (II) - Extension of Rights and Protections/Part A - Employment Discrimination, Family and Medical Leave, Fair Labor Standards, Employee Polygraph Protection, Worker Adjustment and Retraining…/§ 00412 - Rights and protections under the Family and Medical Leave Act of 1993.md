@@ -52,13 +52,9 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 #### References in Text
 
-The Family and Medical Leave Act of 1993, referred to in subsecs. (a) and (b), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out asnotes under section 2601 of Title 29. Sections 101 to 105 and 107 of the Act are classified to sections 2611 to 2615 and 2617, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsecs. (a) and (b), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§2601 et seq.) of Title 29, Labor, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. Sections 101 to 105 and 107 of the Act are classified to sections 2611 to 2615 and 2617, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 #### Effective Date
 
 Subsec. (c) of this section effective Oct. 26, 1996, see section 471(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 471 of this title.
 

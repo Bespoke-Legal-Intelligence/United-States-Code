@@ -18,7 +18,3 @@ If there is in effect an agreement between the Government of the United States a
 
 (Pub. L. 106–450, title II, §207, Nov. 7, 2000, 114 Stat. 1944.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5727 of this title.
-

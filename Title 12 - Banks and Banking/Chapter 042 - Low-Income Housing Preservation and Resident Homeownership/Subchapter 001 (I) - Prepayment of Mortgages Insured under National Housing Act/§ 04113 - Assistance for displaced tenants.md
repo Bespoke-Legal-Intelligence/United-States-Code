@@ -38,7 +38,7 @@ In providing assistance under this section, the Secretary shall allocate the ass
 
 #### (1) Authority
 
-&emsp;In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under section 1437f(t) of title 42.
+&emsp;In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to theavailability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under section 1437f(t) of title 42.
 
 #### (2) Eligible families
 
@@ -61,10 +61,6 @@ In providing assistance under this section, the Secretary shall allocate the ass
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1715z–1a, 4106, 4114 of this title; title 42 section 1437f.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

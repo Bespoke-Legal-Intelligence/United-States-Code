@@ -10,7 +10,7 @@ Definitions of Bank and Related Terms.—
 
 Bank.—The term “bank”—
 
-&emsp;&emsp;(A) means any national bank, State bank, and District bank, and any Federal branch and insured branch;
+&emsp;&emsp;(A) means any national bank and State bank, and any Federal branch and insured branch;
 
 &emsp;&emsp;(B) includes any former savings association that—
 
@@ -24,17 +24,13 @@ State bank.—The term “State bank” means any bank, banking association, tru
 
 &emsp;&emsp;(A) is engaged in the business of receiving deposits, other than trust funds (as defined in this section); and
 
-&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Codeof Law for the District of Columbia (except a national bank),
+&emsp;&emsp;(B) is incorporated under the laws of any State or which is operating under the Code of Law for the District of Columbia (except a national bank),
 
 > &emsp;including any cooperative bank or other unincorporated bank the deposits of which were insured by the Corporation on the day before August 9, 1989.
 
 &emsp;(3)
 
 State.—The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
-
-&emsp;(4)
-
-District bank.—The term “District bank” means any State bank operating under the Code of Law of the District of Columbia.
 
 (b)
 
@@ -142,7 +138,7 @@ Bridge bank.—The term “bridge bank” means a new national bank organized by
 
 (<i>l</i>) The term “deposit” means—
 
-&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certifiedby the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term “money or its equivalent”, any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
+&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term “money or its equivalent”, any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
 
 &emsp;(2) trust funds as defined in this chapter received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association.
 
@@ -192,7 +188,7 @@ Uninsured deposits.—The term “uninsured deposit” means the amount of any d
 
 Preferred deposits.—The term “preferred deposits” means deposits of any public unit (as defined in paragraph (1)) at any insured depository institution which are secured or collateralized as required under State law.
 
-(n) The term “transferred deposit” means a deposit in a new bank or other insured depository institution made available to a depositor by the Corporation as payment of the insured deposit of such depositor in a closed bank, andassumed by such new bank or other insured depository institution.
+(n) The term “transferred deposit” means a deposit in a new bank or other insured depository institution made available to a depositor by the Corporation as payment of the insured deposit of such depositor in a closed bank, and assumed by such new bank or other insured depository institution.
 
 (<i>o</i>) The term “domestic branch” includes any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State of the United States or in any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands at which deposits are received or checks paid or money lent. The term “domestic branch” does not include an automated teller machine or a remote service unit. The term “foreign branch” means any office or place of business located outside the United States, its territories, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, at which banking operations are conducted.
 
@@ -202,11 +198,11 @@ Preferred deposits.—The term “preferred deposits” means deposits of any pu
 
 Appropriate Federal Banking Agency.—The term “appropriate Federal banking agency” means—
 
-&emsp;(1) the Comptroller of the Currency, in the case of any national banking association, any District bank, or any Federal branch or agency of a foreign bank;
+&emsp;(1) the Comptroller of the Currency, in the case of any national banking association or any Federal branch or agency of a foreign bank;
 
 &emsp;(2) the Board of Governors of the Federal Reserve System, in the case of—
 
-&emsp;&emsp;(A) any State member insured bank (except a District bank),
+&emsp;&emsp;(A) any State member insured bank,
 
 &emsp;&emsp;(B) any branch or agency of a foreign bank with respect to any provision of the Federal Reserve Act \[12 U.S.C. 221 et seq.\] which is made applicable under the International Banking Act of 1978 \[12 U.S.C. 3101 et seq.\],
 
@@ -218,7 +214,7 @@ Appropriate Federal Banking Agency.—The term “appropriate Federal banking ag
 
 &emsp;&emsp;(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
 
-&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank (except a District bank), or a foreign bank having an insured branch; and
+&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank or a foreign bank having an insured branch; and
 
 &emsp;(4) the Director of the Office of Thrift Supervision in the case of any savings association or any savings and loan holding company.
 
@@ -354,7 +350,7 @@ In danger of default.—The term “in danger of default” means an insured dep
 
 Federal Banking Agency.—The term “Federal banking agency” means the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490.)
+(Sept. 21, 1950, ch. 967, §2\[3\], 64 Stat. 873; July 14, 1952, ch. 725, 66 Stat. 605; Aug. 1, 1956, ch. 852, §3, 70 Stat. 908; Pub. L. 86–671, §1, July 14, 1960, 74 Stat. 546; Pub. L. 89–695, title II, §201, title III, §§301(a), 303(a), Oct. 16, 1966, 80 Stat. 1046, 1055, 1056; Pub. L. 91–151, §7(a)(1), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(a)–(f), Dec. 31, 1970, 84 Stat. 1811, 1812; Pub. L. 93–495, title I, §§101(a)(1), 102(a)(1), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(2)–(6), Sept. 17, 1978, 92 Stat. 614, 615; Pub. L. 95–630, title III, §301(a), Nov. 10, 1978, 92 Stat. 3675; Pub. L. 96–221, title III, §308(a)(1)(A), Mar. 31, 1980, 94 Stat. 147; Pub.L. 97–110, title I, §§102, 103(a), Dec. 26, 1981, 95 Stat. 1513; Pub. L. 97–320, title I, §113(a), (b), title VII, §703(a), (b), Oct. 15, 1982, 96 Stat. 1473, 1538, 1539; Pub. L. 100–86, title I, §101(g)(1), title V, §503(b), Aug. 10, 1987, 101 Stat. 563, 632; Pub. L. 101–73, title II, §§201(a), 204, Aug. 9, 1989, 103 Stat. 187, 190; Pub. L. 102–242, title I, §§111(e), 112(b), 131(c)(3), 141(f), 161(c), title III, §§305(c), 311(b)(5)(A), Dec. 19, 1991, 105 Stat. 2242, 2266, 2278, 2286, 2355, 2366; Pub. L. 102–550, title XVI, §§1603(b)(2)(B), (d)(5), 1606(g)(2), Oct. 28, 1992, 106 Stat. 4079, 4080, 4089; Pub. L. 103–204, §19(b), Dec. 17, 1993, 107 Stat. 2404; Pub. L. 103–325, title III, §326(b)(2), title VI, §602(a)(1), Sept. 23, 1994, 108 Stat. 2229, 2288; Pub. L. 104–208, div. A, title II, §§2205(b), 2614(a), 2704(d)(6)(A), (14)(A), Sept. 30, 1996, 110 Stat. 3009–405, 3009–478, 3009–488, 3009–490; Pub. L. 108–386, §8(a)(1), Oct. 30, 2004, 118 Stat. 2231.)
 
 #### References in Text
 
@@ -370,11 +366,21 @@ Section is derived from subsec. (c) of former section 264 of this title. See Cod
 
 #### Amendments
 
+2004—Subsec. (a)(1)(A). Pub. L. 108–386, §8(a)(1)(A), substituted “and State bank” for “, State bank, and District bank”.
+
+Subsec. (a)(4). Pub. L. 108–386, §8(a)(1)(B), struck out heading and text of par. (4). Text read as follows: “The term ‘District bank’ means any State bank operating under the Code of Law of the District of Columbia.”
+
+Subsec. (q)(1). Pub. L. 108–386, §8(a)(1)(C), struck out “, any District bank,” after “national banking association”.
+
+Subsec. (q)(2)(A). Pub. L. 108–386, §8(a)(1)(D), struck out “(except a District bank)” after “State member insured bank”.
+
+Subsec. (q)(3). Pub. L. 108–386, §8(a)(1)(E), struck out “(except a District bank),” after “State nonmember insured bank”.
+
 1996—Subsec. (a)(1)(B). Pub. L. 104–208, §2704(d)(14)(A), which directed striking out subpar. (B) and adding a new subpar. (B), was not executed. See Effective Date of 1996 Amendment note below.
 
 Subsec. (<i>l</i>)(5)(C). Pub. L. 104–208, §2614(a), added subpar. (C).
 
-Subsec. (<i>o</i>). Pub. L. 104–208, §2205(b), substituted “lent. The term ‘domestic branch’ does not include anautomated teller machine or a remote service unit. The” for “lent; and the”.
+Subsec. (<i>o</i>). Pub. L. 104–208, §2205(b), substituted “lent. The term ‘domestic branch’ does not include an automated teller machine or a remote service unit. The” for “lent; and the”.
 
 Subsec. (y). Pub. L. 104–208, §2704(d)(6)(A), which directed the general amendment of subsec. (y), was not executed. See Effective Date of 1996 Amendment note below.
 
@@ -400,7 +406,7 @@ Subsec. (y). Pub. L. 102–550, §1603(d)(5), amended directory language of Pub.
 
 1991—Subsec. (m). Pub. L. 102–242, §311(b)(5)(A), inserted heading.
 
-Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2) of this subsection, the term ‘insured deposit’ means the net amount due to any depositor (other than a depositor referred to in the third sentence of this subsection) for deposits in an insured depository institution (after deducting offsets) less any part thereof which is in excess of $100,000. Such net amount shall be determined according to such regulations as the Board of Directors may prescribe, and in determining the amount due to any depositor there shall be added together all deposits in the depository institution maintained in the same capacity and the same right for his benefit either in his own name or in the names of others except trust funds which shall be insured as provided in subsection (i) of section 1817 of this title. Each officer, employee, or agent of the United States, of any State of the United States, of the District of Columbia, of any Territory of the United States, of Puerto Rico, of Guam, of American Samoa, of the Trust Territory of the Pacific Islands, of the Virgin Islands, of the Northern Mariana Islands, of any county, of any municipality, or of any political subdivision thereof, herein called ‘public unit’, having official custody of public funds and lawfully depositing the same in an insured depository institution shall, for the purpose of determining the amount of the insured deposits, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the same or any public unit having official custody of public funds and lawfully depositing the same in the same insured depository institution in custodial capacity. For the purpose of clarifying and defining the insurance coverage under this subsection and subsection (i) of section 1817 of this title, the Corporation is authorized to define, with such classifications and exceptions as it may prescribe, terms used in those subsections, in subsection (p) of this section, and in subsections (a) and (i) of section 1821 of this title and the extent of the insurance coverage resulting therefrom.”
+Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2) of this subsection, the term ‘insured deposit’ means the net amount due to any depositor (other than a depositor referred to in the third sentence of this subsection) for deposits in an insured depository institution (after deducting offsets) less any part thereof which is in excess of $100,000. Such net amount shall be determined according to such regulations as the Board of Directors may prescribe, and in determining the amount due to any depositor there shall be added together all deposits in the depository institution maintained in the same capacity and the same right for his benefit either in his own name or in the names of others except trust funds which shall be insured as provided in subsection (i) of section 1817 of this title. Each officer, employee, or agent of the United States, of any State of the United States, of the District of Columbia, of any Territory of the United States, of Puerto Rico, of Guam, of American Samoa, of the Trust Territory of the Pacific Islands, of the Virgin Islands, of the Northern Mariana Islands, of any county, of any municipality, or of any political subdivision thereof, herein called ‘public unit’, having official custody of public funds and lawfully depositing the same in an insured depository institution shall, for the purpose of determining the amount of the insured deposits, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the same or any public unit having official custody of public funds and lawfully depositing the same in the same insured depository institution in custodial capacity. For the purpose of clarifying and defining the insurance coverage under this subsection and subsection (i) of section 1817 of this title,the Corporation is authorized to define, with such classifications and exceptions as it may prescribe, terms used in those subsections, in subsection (p) of this section, and in subsections (a) and (i) of section 1821 of this title and the extent of the insurance coverage resulting therefrom.”
 
 Subsec. (m)(3), (4). Pub. L. 102–242, §141(f), added pars. (3) and (4).
 
@@ -474,7 +480,7 @@ Subsecs. (u) to (x). Pub. L. 101–73, §204(f)(6), added subsecs. (u) to (x).
 
 Subsec. (i). Pub. L. 100–86, §503(b), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘new bank’ means a new national banking association organized by the Corporation to assume the insured deposits of an insured bank closed on account of inability to meet the demands of its depositors and otherwise to perform temporarily the functions prescribed in this chapter.”
 
-1982—Subsec. (a). Pub. L. 97–320, §703(a), inserted “industrial bank or similar financial institution which the Board of Directors finds to be operating substantially in the same manner as an industrial bank,” before “or other banking institution”.
+1982—Subsec. (a). Pub. L. 97–320, §703(a), inserted “industrial bank or similar financial institution which theBoard of Directors finds to be operating substantially in the same manner as an industrial bank,” before “or other banking institution”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 97–320, §703(b), inserted “thrift certificate, investment certificate, certificate of indebtedness, or other similar name,” before “or a check or draft drawn against a deposit account”.
 
@@ -514,7 +520,7 @@ Subsecs. (r), (s). Pub. L. 95–369, §6(c)(6), added subsecs. (r) and (s).
 
 Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
-1960—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directorsto consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
+1960—Subsec. (<i>l</i>). Pub. L. 86–671 amended subsec. (<i>l</i>) generally, and among other changes, inserted in par. (1) “or held”, “either conditionally or unconditionally”, “or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable”, and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
 1956—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted “Guam,” after “Puerto Rico,” and substituted a comma for the period and inserted “and the word ‘State’ means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands”.
 
@@ -527,6 +533,10 @@ Subsec. (m). Act Aug. 1, 1956, §3(d), inserted “of Guam,” after “of Puert
 Subsec. (<i>o</i>). Act Aug. 1, 1956, §3(b), inserted “Guam,” after “Puerto Rico,”.
 
 1952—Subsec. (<i>l</i>). Act July 14, 1952, made it compulsory for banks having branches in Puerto Rico to insure their deposits.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under section 321 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -554,7 +564,7 @@ Section 308(a)(2) of Pub. L. 96–221 provided that: “The amendments made by t
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub.L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -589,8 +599,4 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 
 Section 206 of title II of Pub. L. 89–695 provided that: “Nothing contained in this title \[amending this section and sections 1817 to 1820 of this title and repealing section 77 of this title\] shall be construed to repeal, modify, or affect the provisions of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 24a, 30, 43, 93, 191, 248, 265, 347b, 371b–2, 375b, 461, 504, 505, 506, 1422, 1441, 1441a, 1462, 1462a, 1464, 1467, 1467a, 1715z–14, 1735f–7a, 1759, 1785, 1786, 1786a, 1790d, 1815, 1817, 1820a, 1828, 1828a, 1828b, 1831q, 1831r, 1831w, 1832, 1834, 1834a, 1834b, 1835, 1835a, 1841, 1842, 1843, 1847, 1861, 1953, 1972, 2013, 2122, 2245, 2278a–3, 2278b–4, 2802, 2804, 2902, 2903, 2906, 2907, 3101, 3102, 3103, 3104, 3105, 3108, 3110, 3350, 3413, 3902, 3909, 4009, 4204,4224, 4309, 4421, 4702, 4713, 4742, 4801, 4805a, 4808, 4809, 4909, 5002 of this title; title 7 sections 1a, 6f, 27; title 10 sections 4357, 6975, 9356; title 11 sections 101, 109, 781; title 15 sections 57a, 77c, 78c, 78m, 78<i>o</i>, 78<i>o</i>–5, 78q, 80a–2, 80a–17, 80a–26, 80a–34, 80b–3, 80b–10a, 1607, 1679a, 1681a, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6701, 6716, 6805, 6809, 6825; title 18 sections 20, 656, 1004, 1005, 1906, 2113; title 20 sections 1085, 9702; title 22 section 5426; title 26 sections 42, 414; title 29 section 1134; title 31 sections 5312, 5318, 5318A, 5321, 5326; title 42 sections 669a, 5318a, 9601.
 

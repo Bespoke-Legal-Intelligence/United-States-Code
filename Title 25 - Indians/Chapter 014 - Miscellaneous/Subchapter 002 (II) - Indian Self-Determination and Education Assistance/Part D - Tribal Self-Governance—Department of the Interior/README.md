@@ -1,9 +1,5 @@
 Part D—Tribal Self-Governance—Department of the Interior
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 16 section 1166.
-
 
 ---
 

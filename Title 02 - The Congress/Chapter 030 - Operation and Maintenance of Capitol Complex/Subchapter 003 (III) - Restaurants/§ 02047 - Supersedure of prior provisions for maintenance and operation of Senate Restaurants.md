@@ -8,7 +8,3 @@ Sections 2042 to 2047 of this title shall supersede any other Acts or resolution
 
 Section was classified to section 174j–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1846, 2043, 2044, 2049 of this title; title 5 section 5533.
-

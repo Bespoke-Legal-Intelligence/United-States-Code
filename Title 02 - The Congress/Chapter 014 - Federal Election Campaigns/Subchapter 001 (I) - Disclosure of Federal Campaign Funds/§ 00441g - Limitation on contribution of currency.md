@@ -10,7 +10,3 @@ A prior section 321 of Pub. L. 92–225 was renumbered section 316, and is class
 
 Another prior section 321 of Pub. L. 92–225 was renumbered section 320, and was classified to section 441 of this title, prior to repeal by Pub. L. 94–283.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 437g of this title.
-

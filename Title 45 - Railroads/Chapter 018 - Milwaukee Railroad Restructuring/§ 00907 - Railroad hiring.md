@@ -16,7 +16,3 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 Section inapplicable to National Railroad Passenger Corporation in hiring of qualified train and engine employees holding seniority rights to work in intercity rail passenger service in connection with the assumption by such Corporation of functions previously performed under contract by other carriers, see section 4011(c) of Pub. L. 99–272, set out as a note under section 797b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 797b, 797c, 919, 1004 of this title.
-

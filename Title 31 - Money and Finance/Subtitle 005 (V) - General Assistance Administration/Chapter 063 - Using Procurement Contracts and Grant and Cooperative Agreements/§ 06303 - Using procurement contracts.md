@@ -24,7 +24,3 @@ Feb. 3, 1978, Pub. L. 95–224, §4, 92 Stat. 4.
 
 The words “type of” are omitted as unnecessary. The word “decides” is substituted for “determines” for consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 3710a; title 30 section 1901; title 43 section 373d.
-

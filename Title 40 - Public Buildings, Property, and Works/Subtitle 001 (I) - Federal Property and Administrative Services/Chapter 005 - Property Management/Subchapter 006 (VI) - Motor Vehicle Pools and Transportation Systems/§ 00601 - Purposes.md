@@ -110,7 +110,3 @@ Sec. 11. <i>Supplementary regulations</i>. The Administrator shall, after consul
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7588.
-

@@ -6,7 +6,7 @@ Because the fabric of a society is strengthened by visible reminders of the hist
 
 #### (b) Establishment
 
-There is established a commission to be known as the Commission for the Preservation of America's Heritage Abroad (hereafter in this section referred to as the “Commission”).
+There is established a commission to be known as the Commission for the Preservationof America's Heritage Abroad (hereafter in this section referred to as the “Commission”).
 
 #### (c) Duties
 

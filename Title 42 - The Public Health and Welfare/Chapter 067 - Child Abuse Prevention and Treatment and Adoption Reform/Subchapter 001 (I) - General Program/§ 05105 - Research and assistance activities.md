@@ -56,7 +56,7 @@
 
 &emsp;(A) The Secretary shall establish research priorities for making grants or contracts for purposes of carrying out paragraph (1).
 
-&emsp;(B) Not later than 2 years after June 25, 2003, and every 2 years thereafter, the Secretary shall provide an opportunity for public comment concerning the priorities proposed undersubparagraph (A) and maintain an official record of such public comment.
+&emsp;(B) Not later than 2 years after June 25, 2003, and every 2 years thereafter, the Secretary shall provide an opportunity for public comment concerning the priorities proposed under subparagraph (A) and maintain an official record of such public comment.
 
 #### (b) Provision of technical assistance
 
@@ -126,7 +126,7 @@
 
 #### (e) Demonstration programs and projects
 
-The Secretary may award grants to, and enter into contracts with, States or public or privateagencies or organizations (or combinations of such agencies or organizations) for time-limited, demonstration projects for the following:
+The Secretary may award grants to, and enter into contracts with, States or public or private agencies or organizations (or combinations of such agencies or organizations) for time-limited, demonstration projects for the following:
 
 #### (1) Promotion of safe, family-friendly physical environments for visitation and exchange
 
@@ -158,7 +158,7 @@ A prior section 104 of Pub. L. 93–247 was renumbered section 103 and is classi
 
 2003—Subsec. (a)(1). Pub. L. 108–36, §112(a)(1)(A), inserted “, including longitudinal research,” after “interdisciplinary program of research” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 108–36, §112(a)(1)(B), inserted before semicolon “, including the effects of abuse and neglect on a child's development and the identification of successful early intervention services or other services that are needed”.
+Subsec. (a)(1)(B). Pub. L. 108–36, §112(a)(1)(B), inserted before semicolon “, including the effects of abuse and neglect on a child's development and the identificationof successful early intervention services or other services that are needed”.
 
 Subsec. (a)(1)(C). Pub. L. 108–36, §112(a)(1)(C), substituted “judicial systems, including multidisciplinary, coordinated decisionmaking procedures” for “judicial procedures” and struck out “and” at end.
 
@@ -266,15 +266,11 @@ Section 103 of Pub. L. 100–294 directed Director of National Center on Child A
 
 #### Study of Guardian-Ad-Litem
 
-Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use ofguardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
+Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
 
 #### High Risk Study
 
 Section 105 of Pub. L. 100–294 directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5106h of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to clauses (i) through (x) of subparagraph (I).</i>
 

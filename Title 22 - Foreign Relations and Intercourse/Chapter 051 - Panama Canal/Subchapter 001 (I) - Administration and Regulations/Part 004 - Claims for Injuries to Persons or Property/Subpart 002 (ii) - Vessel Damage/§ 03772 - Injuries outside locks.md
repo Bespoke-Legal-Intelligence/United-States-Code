@@ -10,13 +10,9 @@ Subject to section 3779(b) of this title, the Commission shall promptly adjust a
 
 1997—Pub. L. 105–85 substituted “within one year after the date of the injury or November 18, 1997,” for “within 2 years after the date of the injury, or within 1 year after December 23, 1985,”.
 
-1985—Pub. L. 99–209 struck out provisions limiting the amount of the claim to $120,000, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
+1985—Pub. L. 99–209 struck out provisions limiting the amount of the claim to $120,000, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with theCommission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–209 applicable to any claim arising on or after Oct. 1, 1979, see section 7(a) of Pub. L. 99–209, set out as a note under section 3771 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3776, 3779 of this title.
 

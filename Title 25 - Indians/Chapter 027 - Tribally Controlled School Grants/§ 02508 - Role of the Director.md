@@ -1,6 +1,6 @@
 ### §2508. Role of the Director
 
-Applications for grants under this chapter, and all application modifications, shall be reviewed and approved by personnel under the direction and control of the Director of the Office of Indian Education Programs. Required reports shall be submitted to education personnel under the direction and control of the Director of such Office.
+Applications for grants under this chapter, and all application modifications, shall be reviewed and approved by personnel under the direction and control of the Director of the Officeof Indian Education Programs. Required reports shall be submitted to education personnel under the direction and control of the Director of such Office.
 
 (Pub. L. 100–297, title V, §5209, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2077.)
 

@@ -76,7 +76,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(II) another public or private entity that provides such professional development;
 
-&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development BlockGrant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
+&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
 
 &emsp;&emsp;&emsp;(iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 
@@ -104,7 +104,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(ii) information on the quality of the early childhood educator professional development program currently conducted (as of the date of the submission of the application) by the institution of higher education or another provider in the partnership;
 
-&emsp;&emsp;&emsp;(iii) the results of a needs assessment that the entities in the partnership have undertaken to determine the most critical professional development needs of the early childhood educators to be served by the partnership and in the broader community, and a description of how the proposed project will address those needs;
+&emsp;&emsp;&emsp;(iii) the results of a needs assessment that the entities in the partnership haveundertaken to determine the most critical professional development needs of the early childhood educators to be served by the partnership and in the broader community, and a description of how the proposed project will address those needs;
 
 &emsp;&emsp;&emsp;(iv) a description of how the proposed project will be carried out, including a description of—
 
@@ -174,7 +174,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 #### (A) Achievement indicators
 
-&emsp;&emsp;On the date on which the Secretary first issues a notice soliciting applications for grants under this subsection, the Secretary shall announce achievement indicators for this subsection, which shall be designed—
+&emsp;&emsp;On the date on which the Secretary first issues a notice soliciting applications forgrants under this subsection, the Secretary shall announce achievement indicators for this subsection, which shall be designed—
 
 &emsp;&emsp;&emsp;(i) to measure the quality and accessibility of the professional development provided;
 

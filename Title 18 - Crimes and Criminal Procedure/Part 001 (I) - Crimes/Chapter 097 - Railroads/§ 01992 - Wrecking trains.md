@@ -44,7 +44,3 @@ Pub. L. 103–322, §60003(a)(8), substituted a period for the comma after “im
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2332b, 2339A, 2516, 3592 of this title.
-

@@ -22,7 +22,3 @@ The provisions of sections 2053 and 2055 of this title shall apply to employees 
 
 A prior section 302 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 625, related to special rules relating to employees designated under criteria of former section 203 of Pub. L. 88–643 and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2153, 2154, 2155 of this title; title 22 section 4071d.
-

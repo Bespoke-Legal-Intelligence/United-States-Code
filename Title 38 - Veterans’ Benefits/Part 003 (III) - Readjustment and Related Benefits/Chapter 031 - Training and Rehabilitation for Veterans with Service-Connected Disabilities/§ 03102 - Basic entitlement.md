@@ -10,7 +10,7 @@ A person shall be entitled to a rehabilitation program under the terms and condi
 
 &emsp;&emsp;&emsp;(ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, or air service, and the Secretary determines that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so undercontract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
+&emsp;&emsp;&emsp;&emsp;(I) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so under contract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the person is suffering from a disability which will likely be compensable at a rate of 20 percent or more under chapter 11 of this title; and
 
@@ -59,8 +59,4 @@ Section 8021(b) of Pub. L. 101–508 provided that: “The amendments made by th
 #### Effective Date
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3101, 3113, 3120 of this title.
 

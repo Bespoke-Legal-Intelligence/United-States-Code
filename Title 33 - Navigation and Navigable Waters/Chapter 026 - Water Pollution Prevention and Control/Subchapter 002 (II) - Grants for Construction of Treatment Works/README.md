@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1255, 1311, 1313a, 1330, 1371, 1377, 1382, 1384, 1386 of this title; title 40 section 14507.
-
 
 ---
 

@@ -4,7 +4,3 @@ There is hereby established as an independent entity the Election Assistance Com
 
 (Pub. L. 107–252, title II, §201, Oct. 29, 2002, 116 Stat. 1673.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15531, 15532 of this title.
-

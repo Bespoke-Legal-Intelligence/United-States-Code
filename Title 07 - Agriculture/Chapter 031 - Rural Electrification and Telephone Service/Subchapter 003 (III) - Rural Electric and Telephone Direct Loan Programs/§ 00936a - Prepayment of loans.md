@@ -38,7 +38,7 @@ Any guarantee of a loan prepaid under this section shall be fully assignable und
 
 #### References in Text
 
-Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment of loans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I,§1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
+Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment of loans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I, §1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -99,10 +99,6 @@ Section 1011(c) of Pub. L. 99–509 provided that: “The Secretary of Agricultu
 &emsp;“(1) shall facilitate prepayment of loans under section 306A of the Rural Electrification Act of 1936 \[this section\], as added by subsection (a); and
 
 &emsp;“(2) may not require any rural utility that is a borrower of loans subject to section 306A to make unreasonable reductions in rates to its customers as a condition of such prepayment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 501.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “transferred”.</i>
 

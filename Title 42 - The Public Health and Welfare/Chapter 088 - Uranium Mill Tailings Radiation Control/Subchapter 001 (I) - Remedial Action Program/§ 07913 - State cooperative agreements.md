@@ -36,7 +36,3 @@ The Secretary may, in any cooperative agreement entered into under this section 
 
 (Pub. L. 95–604, title I, §103, Nov. 8, 1978, 92 Stat. 3024.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7912, 7914, 7917 of this title.
-

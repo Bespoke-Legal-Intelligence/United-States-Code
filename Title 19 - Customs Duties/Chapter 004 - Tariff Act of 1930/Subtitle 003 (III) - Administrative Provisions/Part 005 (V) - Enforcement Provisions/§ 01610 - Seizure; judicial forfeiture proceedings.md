@@ -30,7 +30,3 @@ Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1600 of this title.
-

@@ -36,7 +36,3 @@ In this section, the words “Effective July 1, 1987” are omitted as executed.
 
 In subsection (c)(1), the words “operates a commercial motor vehicle and” and “with an employer” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 521 of this title.
-

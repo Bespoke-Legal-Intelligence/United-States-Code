@@ -18,7 +18,3 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1184 of this title; title 50 App. section 456.
-

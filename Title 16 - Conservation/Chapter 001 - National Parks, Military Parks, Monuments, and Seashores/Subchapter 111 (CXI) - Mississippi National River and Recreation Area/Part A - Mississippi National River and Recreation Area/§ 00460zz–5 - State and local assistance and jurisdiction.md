@@ -18,7 +18,3 @@ Nothing in this part shall diminish, enlarge, or modify any right of the State o
 
 (Pub. L. 100–696, title VII, §706, Nov. 18, 1988, 102 Stat. 4607.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460zz–4 of this title.
-

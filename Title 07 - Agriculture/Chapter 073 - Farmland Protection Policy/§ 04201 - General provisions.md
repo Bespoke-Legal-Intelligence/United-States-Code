@@ -34,7 +34,7 @@ As used in this chapter—
 
 &emsp;&emsp;(C) farmland, other than prime or unique farmland, that is of statewide or local importance for the production of food, feed, fiber, forage, or oilseed crops, as determined by the appropriate State or unit of local government agency or agencies, and that the Secretary determines should be considered as farmland for the purposes of this chapter;
 
-&emsp;(2) the term “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth ofthe Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;
+&emsp;(2) the term “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;
 
 &emsp;(3) the term “unit of local government” means the government of a county, municipality, town, township, village, or other unit of general government below the State level, or a combination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;
 
@@ -140,7 +140,7 @@ Mandatory Assistance to Each State Trust Fund.—The Secretary shall—
 
 &emsp;“(2) annually pay to each State trust fund an amount calculated by applying the allowable interest rate to the amount of each loan described in section 1465(c)(2) made to, or issued for the benefit of, each State trust fund during each of the first 5 years after the date on which each such loan was made or issued; and
 
-&emsp;“(3) annually pay to each State trust fund, for each year during the second 5-year period after each sucheligible loan is made to, or issued for the benefit of, the State trust fund, an amount calculated by applying the interest rate difference, between the rate of interest charged to borrowers of direct loans as described in section 316(a)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1946(a)(2)) and the allowable interest rate, to the amount of each such loan made to, or issued for the benefit of, the State trust fund, as determined under procedures established by the Secretary.
+&emsp;“(3) annually pay to each State trust fund, for each year during the second 5-year period after each such eligible loan is made to, or issued for the benefit of, the State trust fund, an amount calculated by applying the interest rate difference, between the rate of interest charged to borrowers of direct loans as described in section 316(a)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1946(a)(2)) and the allowable interest rate, to the amount of each such loan made to, or issued for the benefit of, the State trust fund, as determined under procedures established by the Secretary.
 
 “(c)
 
@@ -220,7 +220,7 @@ Special Rules for the Pilot Project State.—Notwithstanding any other provision
 
 &emsp;“(1)
 
-Provision of loan guarantee and interest assistance agreement.—Within 30 days of the date any State trust fund in the eligible State receives a commitment for each eligible loan from a lending institution, the Secretary shall provide the lending institution with the loan guarantee and the interest assistance agreement so that the lending institution may disburse the full amount of the loan proceeds to the State trust fund on the date of loan closing tocarry out this program. After the loan closing, the lending institution shall have no obligation to monitor or approve the use of loan proceeds by the State trust fund.
+Provision of loan guarantee and interest assistance agreement.—Within 30 days of the date any State trust fund in the eligible State receives a commitment for each eligible loan from a lending institution, the Secretary shall provide the lending institution with the loan guarantee and the interest assistance agreement so that the lending institution may disburse the full amount of the loan proceeds to the State trust fund on the date of loan closing to carry out this program. After the loan closing, the lending institution shall have no obligation to monitor or approve the use of loan proceeds by the State trust fund.
 
 &emsp;“(2)
 

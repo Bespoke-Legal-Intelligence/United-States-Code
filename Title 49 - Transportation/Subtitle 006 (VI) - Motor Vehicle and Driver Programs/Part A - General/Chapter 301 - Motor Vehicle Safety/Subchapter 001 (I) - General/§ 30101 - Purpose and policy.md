@@ -118,7 +118,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 &emsp;“(1) Protection against unreasonable risk of rollovers of passenger cars, multipurpose passenger vehicles, and trucks with a gross vehicle weight rating of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less.
 
-&emsp;“(2) Extension of passenger car side impact protection to multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 8,500 pounds orless and an unloaded vehicle weight of 5,500 pounds or less.
+&emsp;“(2) Extension of passenger car side impact protection to multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less.
 
 &emsp;“(3) Safety of child booster seats used in passenger cars and other appropriate motor vehicles.
 
@@ -161,8 +161,4 @@ Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
 By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30111, 30122, 30123, 30167 of this title.
 

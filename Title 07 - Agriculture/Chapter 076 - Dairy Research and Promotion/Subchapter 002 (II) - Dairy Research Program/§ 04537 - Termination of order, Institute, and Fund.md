@@ -2,7 +2,7 @@
 
 #### (a) Termination or suspension of order
 
-The Secretary, whenever the Secretary finds that the order issued under this subchapter or any provision of such order obstructs or does not tend to facilitate the expansion of markets for milk and dairy products marketed in the United States, shall terminate or suspend the operation of the order or such provision.
+The Secretary, whenever the Secretary finds that the order issued under this subchapter orany provision of such order obstructs or does not tend to facilitate the expansion of markets for milk and dairy products marketed in the United States, shall terminate or suspend the operation of the order or such provision.
 
 #### (b) Dissolution of Institute
 
@@ -13,8 +13,4 @@ If the Secretary terminates the order, the Institute shall be dissolved 180 days
 If the Institute is dissolved for any reason, the moneys remaining in the Fund shall be disposed of as shall be agreed to by the board and the Secretary.
 
 (Pub. L. 98–180, title I, §136, as added Pub. L. 99–198, title I, §121, Dec. 23, 1985, 99 Stat. 1371.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4531 of this title.
 

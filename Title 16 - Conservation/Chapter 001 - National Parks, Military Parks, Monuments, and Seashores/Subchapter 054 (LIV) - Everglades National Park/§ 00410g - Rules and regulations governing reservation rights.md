@@ -4,7 +4,3 @@ Any reservations retained under the provisions of subsection (1) of section 410e
 
 (Oct. 10, 1949, ch. 659, §3, 63 Stat. 734.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410h, 410j, 410<i>o</i>, 410p of this title.
-

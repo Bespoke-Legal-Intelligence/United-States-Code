@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—RURAL BUSINESS INVESTMENT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1991 of this title.
-
 
 ---
 

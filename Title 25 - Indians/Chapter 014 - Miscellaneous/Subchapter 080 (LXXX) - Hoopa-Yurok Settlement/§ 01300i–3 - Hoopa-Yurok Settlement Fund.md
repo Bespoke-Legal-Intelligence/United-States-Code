@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is hereby established the Hoopa-Yurok Settlement Fund. Upon enactment of thissubchapter, the Secretary shall cause all the funds in the escrow funds, together with all accrued income thereon, to be deposited into the Settlement Fund.
+(1) There is hereby established the Hoopa-Yurok Settlement Fund. Upon enactment of this subchapter, the Secretary shall cause all the funds in the escrow funds, together with all accrued income thereon, to be deposited into the Settlement Fund.
 
 (2) Until the distribution is made to the Hoopa Valley Tribe pursuant to section <sup>1</sup> (c), the Secretary may distribute to the Hoopa Valley Tribe, pursuant to section 123c of this title, not to exceed $3,500,000 each fiscal year out of the income or principal of the Settlement Fund for tribal, non per capita purposes: <i>Provided, however</i>, That the Settlement Fund apportioned under subsections (c) and (d) of this section shall be calculated without regard to this subparagraph, but any amounts distributed under this subparagraph shall be deducted from the payment to the Hoopa Valley Tribe pursuant to subsection (c) of this section.
 
@@ -25,10 +25,6 @@ Effective with the publication of the option election date pursuant to section 1
 There is hereby authorized to be appropriated the sum of $10,000,000 which shall be deposited into the Settlement Fund after the payments are made pursuant to subsections (c) and (d) of this section and section 1300i–5(c) of this title. The Settlement Fund, including the amount deposited pursuant to this subsection and all income earned subsequent to the payments made pursuant to subsections (c) and (d) of this section and section 1300i–5(c) of this title, shall be available to make the payments authorized by section 1300i–5(d) of this title.
 
 (Pub. L. 100–580, §4, Oct. 31, 1988, 102 Stat. 2927.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300i, 1300i–1, 1300i–4, 1300i–6 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -22,7 +22,3 @@ Witness Protection.—Any violation of this chapter shall be considered an organ
 
 (Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1489.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1592 of this title; title 22 section 7103.
-

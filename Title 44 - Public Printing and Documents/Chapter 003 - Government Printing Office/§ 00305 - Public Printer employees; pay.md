@@ -130,7 +130,3 @@ Administrative Provisions.—(1) The Public Printer—
 
 \[Pub. L. 107–68, title II, §210(b), Nov. 12, 2001, 115 Stat. 590, provided that: “The amendments made by this section \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\].”\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1704 of this title; title 5 sections 5102, 5349.
-

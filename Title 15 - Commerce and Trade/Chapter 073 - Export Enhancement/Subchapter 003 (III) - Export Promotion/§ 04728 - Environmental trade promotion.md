@@ -88,11 +88,11 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 #### (1) Assignment of environmental technologies specialists
 
-&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods,and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
 
 #### (2) Duties of environmental technologies specialists
 
-&emsp;Each specialist assigned under paragraph (1) shall provide export promotion assistance to United States environmental businesses, including, but not limited to—
+&emsp;Each specialist assigned under paragraph (1) shall provide export promotion assistance toUnited States environmental businesses, including, but not limited to—
 
 &emsp;&emsp;(A) identifying factors in the country to which the specialist is assigned that affect the United States share of the domestic market for environmental technologies, goods, and services, including market barriers, standards-setting activities, and financing issues;
 
@@ -148,7 +148,7 @@ The Working Group shall—
 
 &emsp;&emsp;(A) be made available to the public;
 
-&emsp;&emsp;(B) identify the 50 to 100 environmental infrastructure and procurement projects in foreign markets that have the greatest potential in the calendar quarter for United States exports of environmental technologies, goods, and services; and
+&emsp;&emsp;(B) identify the 50 to 100 environmental infrastructure and procurement projects in foreign markets that have the greatest potential in the calendar quarter for UnitedStates exports of environmental technologies, goods, and services; and
 
 &emsp;&emsp;(C) include trade promotion events, such as trade missions and trade fairs, in the environmental sector; and
 

@@ -8,7 +8,3 @@ Notwithstanding any other provision of law, including part A of this subchapter,
 
 Chapter II of Public Law 90–352, referred to in text, is chapter II of Pub. L. 90–352, June 19, 1968, 82 Stat. 239, which provided appropriations for payment of certain claims settled and determined by departments and agencies in accordance with law and judgments rendered against the United States, and was not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300d–23, 1300d–26, 1300d–27 of this title.
-

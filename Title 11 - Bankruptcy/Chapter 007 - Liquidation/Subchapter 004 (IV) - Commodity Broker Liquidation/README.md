@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—COMMODITY BROKER LIQUIDATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 103, 783 of this title; title 7 section 24; title 15 section 78fff–1.
-
 
 ---
 

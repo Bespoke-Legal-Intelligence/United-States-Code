@@ -36,7 +36,3 @@ By no later than the date that is 3 years after November 23, 1988, the Secretary
 
 Subsec. (e). Pub. L. 102–573, §117(b)(6), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1616e, 1621p of this title.
-

@@ -72,7 +72,7 @@ The Secretary shall be a party in any proceeding relative to a claim for benefit
 
 #### (<i>l</i>) Filing of new claims or refiling or revalidation of claims of miners already determined eligible at time of death
 
-In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner, except with respect to a claim filed under this part on or afterthe effective date of the Black Lung Benefits Amendments of 1981,.<sup>3</sup>
+In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,.<sup>3</sup>
 
 (Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -157,10 +157,6 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 #### Effective Date of 1972 Amendment
 
 Amendment by section 3(a), (b) of Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 925, 931, 933, 934, 935, 943 of this title; title 26 section 9501.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

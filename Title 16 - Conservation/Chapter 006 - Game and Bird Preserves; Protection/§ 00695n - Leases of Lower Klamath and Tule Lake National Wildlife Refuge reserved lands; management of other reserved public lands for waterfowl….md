@@ -4,7 +4,3 @@ The Secretary shall, consistent with proper waterfowl management, continue the p
 
 (Pub. L. 88–567, §4, Sept. 2, 1964, 78 Stat. 851.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 695r of this title.
-

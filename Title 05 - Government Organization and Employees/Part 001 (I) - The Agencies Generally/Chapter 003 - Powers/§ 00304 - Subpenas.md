@@ -1,6 +1,6 @@
 ### §304. Subpenas
 
-(a) The head of an Executive department or military department or bureau thereof in which a claim against the United States is pending may apply to a judge or clerk of a court of the United States to issue a subpena for a witness within the jurisdiction of the court to appear at a time and place stated in the subpena before an individual authorized to take depositions to be used in the courts of the United States, to give full and true answers to such written interrogatories and cross-interrogatories as may be submitted with the application, or to be orally examined and cross-examined on the subject of the claim.
+(a) The head of an Executive department or military department or bureau thereof in which a claim against the United States is pending may apply to a judge or clerk of a court of the United States to issue a subpena for a witness within the jurisdiction of the court to appear at a time and place stated in the subpena before an individual authorized to take depositions to beused in the courts of the United States, to give full and true answers to such written interrogatories and cross-interrogatories as may be submitted with the application, or to be orally examined and cross-examined on the subject of the claim.
 
 (b) If a witness, after being served with a subpena, neglects or refuses to appear, or, appearing, refuses to testify, the judge of the district in which the subpena issued may proceed, on proper process, to enforce obedience to the subpena, or to punish for disobedience, in the same manner as a court of the United States may in case of process of subpena ad testificandum issued by the court.
 
@@ -35,8 +35,4 @@ In subsection (a), the words “or military department” are inserted to preser
 This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title.
 

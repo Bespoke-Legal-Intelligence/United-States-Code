@@ -34,7 +34,3 @@ Subsec. (b). Pub. L. 99–408, §8(2), amended subsec. (b) generally, substituti
 
 Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section 110(a) of Pub. L. 99–308, set out as a note under section 921 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 924, 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, 1546, 1547, 3559 of this title.
-

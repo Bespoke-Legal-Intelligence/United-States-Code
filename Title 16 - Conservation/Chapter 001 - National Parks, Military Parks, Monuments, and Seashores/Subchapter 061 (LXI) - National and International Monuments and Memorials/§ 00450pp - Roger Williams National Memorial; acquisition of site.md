@@ -4,7 +4,3 @@ The Secretary of the Interior may acquire by gift, purchase with appropriated or
 
 (Pub. L. 89–293, §1, Oct. 22, 1965, 79 Stat. 1069.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450pp–1, 450pp–3 of this title.
-

@@ -38,7 +38,7 @@ Where any lease has been or is hereafter terminated automatically by operation o
 
 Any reinstatement under subsection (d) of this section shall be made only if these conditions are met:
 
-&emsp;(1) no valid lease, whether still in existence or not, shall have been issued affecting any of the lands covered by the terminated lease prior to the filing of such petition: <i>Provided, however</i>, That after receipt of a petition for reinstatement, the Secretary shall not issue any new lease affecting any of the lands covered by such terminated lease for a reasonable period, as determined in accordance with regulations issued by him;
+&emsp;(1) no valid lease, whether still in existence or not, shall have been issued affecting any ofthe lands covered by the terminated lease prior to the filing of such petition: <i>Provided, however</i>, That after receipt of a petition for reinstatement, the Secretary shall not issue any new lease affecting any of the lands covered by such terminated lease for a reasonable period, as determined in accordance with regulations issued by him;
 
 &emsp;(2) payment of back rentals and either the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future rentals at a rate of not less than $10 per acre per year, or the inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement that future rentals shall be at a rate not less than $5 per acre per year, all as determined by the Secretary;
 
@@ -52,7 +52,7 @@ Any reinstatement under subsection (d) of this section shall be made only if the
 
 #### (f) Issuance of noncompetitive oil and gas lease; conditions
 
-Where an unpatented oil placer mining claim validly located prior to February 24, 1920, which has been or is currently producing or is capable of producing oil or gas, has been or is hereafterdeemed conclusively abandoned for failure to file timely the required instruments or copies of instruments required by section 1744 of title 43, and it is shown to the satisfaction of the Secretary that such failure was inadvertent, justifiable, or not due to lack of reasonable diligence on the part of the owner, the Secretary may issue, for the lands covered by the abandoned unpatented oil placer mining claim, a noncompetitive oil and gas lease, consistent with the provisions of section 226(e) of this title, to be effective from the statutory date the claim was deemed conclusively abandoned. Issuance of such a lease shall be conditioned upon:
+Where an unpatented oil placer mining claim validly located prior to February 24, 1920, which has been or is currently producing or is capable of producing oil or gas, has been or is hereafter deemed conclusively abandoned for failure to file timely the required instruments or copies of instruments required by section 1744 of title 43, and it is shown to the satisfaction of the Secretary that such failure was inadvertent, justifiable, or not due to lack of reasonable diligence on the part of the owner, the Secretary may issue, for the lands covered by the abandoned unpatented oil placer mining claim, a noncompetitive oil and gas lease, consistent with the provisions of section 226(e) of this title, to be effective from the statutory date the claim was deemed conclusively abandoned. Issuance of such a lease shall be conditioned upon:
 
 &emsp;(1) a petition for issuance of a noncompetitive oil and gas lease, together with the required rental and royalty, including back rental and royalty accruing from the statutory date of abandonment of the oil placer mining claim, being filed with the Secretary—
 
@@ -92,7 +92,7 @@ The minimum royalty provisions of section 226(m) of this title and the provision
 
 Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year's rental, provided the conditions of subparagraphs (1) and (2) of subsection (c) of this section are satisfied.
 
-(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970,84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589.)
+(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589.)
 
 #### References in Text
 
@@ -135,10 +135,6 @@ Section 2 of Pub. L. 87–822 provided that: “Nothing in this Act \[amending t
 #### Outer Continental Shelf; Cancellation of Leases
 
 Cancellation of mineral leases on submerged lands of outer Continental Shelf, see sections 1334 and 1337 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285, 1719, of this title; title 10 sections 7421, 7435.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “royalty”.</i>
 

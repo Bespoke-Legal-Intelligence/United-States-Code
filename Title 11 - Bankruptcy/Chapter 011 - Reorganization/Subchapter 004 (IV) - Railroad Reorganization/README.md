@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—RAILROAD REORGANIZATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 103, 1113 of this title; title 45 sections 915, 1017.
-
 
 ---
 

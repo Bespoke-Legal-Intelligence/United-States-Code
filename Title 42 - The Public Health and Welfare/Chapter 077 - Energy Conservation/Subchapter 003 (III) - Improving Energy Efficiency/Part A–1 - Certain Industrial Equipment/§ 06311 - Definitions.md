@@ -64,7 +64,7 @@ For purposes of this part—
 
 &emsp;(7) The terms “energy”, “manufacture”, “import”, “importation”, “consumer product”, “distribute in commerce”, “distribution in commerce”, and “commerce” have the same meaning as is given such terms in section 6291 of this title.
 
-&emsp;(8) The term “small commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application whichare rated below 135,000 Btu per hour (cooling capacity).
+&emsp;(8) The term “small commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
 
 &emsp;(9) The term “large commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).
 
@@ -123,8 +123,4 @@ Par. (2)(B). Pub. L. 102–486, §122(a)(2), in introductory provisions, substit
 Par. (3). Pub. L. 102–486, §122(f)(1), substituted “(3) The” for “(3) the”.
 
 Pars. (8) to (18). Pub. L. 102–486, §122(a)(3), added pars. (8) to (18).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6312, 6316, 6317 of this title.
 

@@ -95,15 +95,17 @@
 |  |  |
 | :--- | ---: |
 | [1424\.](Subchapter%20004%20%28IV%29%20-%20The%20Judiciary/%C2%A7%2001424%20-%20District%20Court%20of%20Guam%3B%20local%20courts%3B%20jurisdiction.md) | District Court of Guam; local courts; jurisdiction. |
-| (a) | District Court of Guam; local courts. |
+| (a) | District Court of Guam; unified court system. |
 | (b) | Jurisdiction. |
 | (c) | Original jurisdiction. |
-| 1424–1. | Local courts; composition; appellate court; jurisdiction; practice and procedure; qualifications and duties of judges. |
-| (a) | Composition; establishment of appellate court. |
-| (b) | Jurisdiction. |
-| (c) | Practice and procedure; qualifications and duties of judges. |
-| 1424–2. | Relations between courts of United States and courts of Guam; review by United States Court of Appeals for Ninth Circuit; reports to Congress; rules. |
-| 1424–3. | Appellate jurisdiction for District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court. |
+| 1424–1. | Jurisdiction and powers of local courts. |
+| (a) | Supreme Court of Guam. |
+| (b) | Chief Justice of Supreme Court of Guam. |
+| (c) | Orders of Chief Justice with respect to appeals. |
+| (d) | Other local courts. |
+| (e) | Qualifications and duties of justices and judges. |
+| 1424–2. | Relations between courts of United States and courts of Guam. |
+| 1424–3. | Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court. |
 | (a) | Appellate jurisdiction of District Court. |
 | (b) | Appellate division of District Court; quorum; presiding judge; designation of judges; decisions. |
 | (c) | United States Court of Appeals for Ninth Circuit; jurisdiction; appeals; rules. |
@@ -156,10 +158,6 @@ Authorization for the peoples of the Virgin Islands and Guam to call constitutio
 #### Delegate to Congress From Guam
 
 Provisions respecting representation in Congress by a Delegate from Guam to the House of Representatives, see section 1711 et seq. of this title.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1425b, 1469a–1 of this title.
 
 
 ---

@@ -22,7 +22,3 @@ If an individual serving in an approved national service position is released in
 
 A prior section 147 of Pub. L. 101–610 was classified to section 12577 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12511, 12571, 12593, 12601 of this title.
-

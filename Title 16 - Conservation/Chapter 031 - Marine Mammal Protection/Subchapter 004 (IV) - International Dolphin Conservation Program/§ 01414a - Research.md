@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) a review of relevant stress-related research and a 3-year series of necropsy samples from dolphins obtained by commercial vessels;
 
-&emsp;&emsp;(B) a 1-year review of relevant historical demographic and biological data related todolphins and dolphin stocks referred to in paragraph (1); and
+&emsp;&emsp;(B) a 1-year review of relevant historical demographic and biological data related to dolphins and dolphin stocks referred to in paragraph (1); and
 
 &emsp;&emsp;(C) an experiment involving the repeated chasing and capturing of dolphins by means of intentional encirclement.
 
@@ -64,9 +64,5 @@ A prior section 304 of Pub. L. 92–522 was classified to section 1414 of this t
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1385, 1413, 1415 of this title.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

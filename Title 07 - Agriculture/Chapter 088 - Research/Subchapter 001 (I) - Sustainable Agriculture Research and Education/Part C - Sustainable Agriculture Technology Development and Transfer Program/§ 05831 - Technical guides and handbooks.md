@@ -50,9 +50,5 @@ Subsec. (d). Pub. L. 104–127, §862(b)(3), struck out “section 5881 of this 
 
 1991—Subsec. (c). Pub. L. 102–237 substituted “educational” for “education”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 3862.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

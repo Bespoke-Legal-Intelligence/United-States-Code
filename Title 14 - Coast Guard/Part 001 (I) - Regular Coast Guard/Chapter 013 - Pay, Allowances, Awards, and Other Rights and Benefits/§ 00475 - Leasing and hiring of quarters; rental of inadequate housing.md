@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §133a (June 19, 1942, ch. 419, §2, 56 Stat. 372) and on the following language contained in the Coast Guard appropriation act for 1949, “Pay and Allowances” and preceding years: “hire of quarters for Coast Guard personnel comparable to quarters assignable on a capital ship of the Navy, as authorized by the Secretary to meet emergency conditions, including officers and men on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable: <i>Provided</i>, That under this authorization no funds may be expended for the hire of quarters for occupancy by the dependents of officers or enlisted personnel” (June 19, 1948, ch. 558, 62 Stat. 562).
+Based on title 14, U.S.C., 1946 ed., §133a (June 19, 1942, ch. 419, §2, 56 Stat. 372) and on the following language contained in the Coast Guard appropriation act for1949, “Pay and Allowances” and preceding years: “hire of quarters for Coast Guard personnel comparable to quarters assignable on a capital ship of the Navy, as authorized by the Secretary to meet emergency conditions, including officers and men on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable: <i>Provided</i>, That under this authorization no funds may be expended for the hire of quarters for occupancy by the dependents of officers or enlisted personnel” (June 19, 1948, ch. 558, 62 Stat. 562).
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -26,7 +26,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsecs. (e), (f). Pub. L. 97–322 repealed subsec. (e) which required that the Secretary, annually and not later than April 1, file with the Speaker of the House and the President of the Senate a report of the utilization of subsecs. (a), (b), and (d) authority during the preceding calendar year, and subsec. (f) which prohibited utilization of subsecs. (a), (b), (c), or (d) authority after Apr. 1, 1973, unless all required subsec. (e) reports were filed with the Congress.
 
-1981—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do nothave dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
+1981—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
 
 1980—Subsec. (a). Pub. L. 96–376 substituted “multiyear basis” for “multi-year basis,” and authorized advance payment for any housing facilities lease in accordance with local custom and practice.
 

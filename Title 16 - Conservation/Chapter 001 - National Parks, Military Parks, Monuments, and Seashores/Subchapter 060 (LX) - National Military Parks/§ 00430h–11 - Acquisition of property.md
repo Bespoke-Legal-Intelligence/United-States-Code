@@ -6,11 +6,11 @@ The Secretary of the Interior is authorized to acquire the properties described 
 
 #### (b) Parking
 
-The Secretary is also authorized to acquire not more than one acre of land, or interest therein, adjacent to or near Pemberton's Headquarters for the purpose of providing parking and other facilities related to the operation of Pemberton's Headquarters. Upon the acquisition of the property referenced in this subsection, the Secretary add it to Vicksburg National Military Park and shall modify the boundaries of the park to reflect its inclusion.
+The Secretary is also authorized to acquire not more than one acre of land, or interest therein, adjacent to or near Pemberton's Headquarters for the purpose of providing parking and other facilities related to the operation of Pemberton's Headquarters. Upon the acquisition of the property referenced in this subsection, the Secretary shall add the property to Vicksburg National Military Park and shall modify the boundaries of the park to reflect its inclusion.
 
-(Pub. L. 107–238, §3, Oct. 11, 2002, 116 Stat. 1486.)
+(Pub. L. 107–238, §3, Oct. 11, 2002, 116 Stat. 1486; Pub. L. 108–352, §15, Oct. 21, 2004, 118 Stat. 1397.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 430h–12, 430h–13 of this title.
+2004—Subsec. (b). Pub. L. 108–352 substituted “the Secretary shall add the property” for “the Secretary add it”.
 

@@ -40,7 +40,3 @@ A prior section 9306 of Pub. L. 89–10 was classified to section 7936 of this t
 
 A prior section 7851, Pub. L. 89–10, title IX, §9131, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3790, which related to improvement of educational opportunities for adult Indians, was omitted in the general amendment of this subchapter by Pub. L. 107–110. See section 7456 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7113, 7114 of this title.
-

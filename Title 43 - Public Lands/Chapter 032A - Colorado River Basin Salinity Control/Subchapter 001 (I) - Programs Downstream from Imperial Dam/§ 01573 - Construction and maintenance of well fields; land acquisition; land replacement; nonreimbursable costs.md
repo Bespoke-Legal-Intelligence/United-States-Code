@@ -24,7 +24,3 @@ Act of June 17, 1902 (43 U.S.C. 371 et seq.) as amended and supplemented, and th
 
 1980—Subsec. (a)(4). Pub. L. 96–336 added par. (4).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1578 of this title.
-

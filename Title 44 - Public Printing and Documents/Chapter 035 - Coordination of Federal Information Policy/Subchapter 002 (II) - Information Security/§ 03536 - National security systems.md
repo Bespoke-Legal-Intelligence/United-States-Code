@@ -22,7 +22,3 @@ A prior section 3536, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061
 
 Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as a note under section 101 of Title 6, Domestic Security.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2224a.
-

@@ -10,7 +10,3 @@ Provisions similar to those in this section were contained in section 10907 of t
 
 A prior section 10906, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1406, related to offering abandoned rail properties for sale for public purposes, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 10905 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11702, 11901 of this title.
-

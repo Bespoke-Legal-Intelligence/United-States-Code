@@ -28,7 +28,3 @@ Nov. 3, 1990, Pub. L. 101–500, §7, 104 Stat. 1216.
 
 In subsection (a), the words “humans or animals” are substituted for “human or animal health” for consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5703, 5709 of this title.
-

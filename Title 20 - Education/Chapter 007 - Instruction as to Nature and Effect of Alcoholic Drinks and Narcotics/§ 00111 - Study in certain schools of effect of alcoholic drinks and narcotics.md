@@ -4,7 +4,3 @@ The nature of alcoholic drinks and narcotics, and special instruction as to thei
 
 (May 20, 1886, ch. 362, §1, 24 Stat. 69.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 112 of this title.
-

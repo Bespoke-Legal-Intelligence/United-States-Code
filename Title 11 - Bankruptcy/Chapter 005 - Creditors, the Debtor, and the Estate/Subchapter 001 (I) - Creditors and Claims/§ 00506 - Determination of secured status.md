@@ -54,7 +54,3 @@ Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted “such claim is not an 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 349, 522, 551, 552, 901, 1111, 1123, 1222, 1322 of this title.
-

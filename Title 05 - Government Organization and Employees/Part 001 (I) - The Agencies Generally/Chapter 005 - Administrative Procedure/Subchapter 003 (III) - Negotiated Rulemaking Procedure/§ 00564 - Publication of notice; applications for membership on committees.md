@@ -42,9 +42,5 @@ Period for Submission of Comments and Applications.—The agency shall provide f
 
 1992—Pub. L. 102–354 renumbered section 584 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 565 of this title; title 25 section 4116; title 42 section 1395w–26.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “on”.</i>
 

@@ -22,7 +22,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State has not, within 45 days after the end of a fiscal quarter, submitted the report requiredby section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State has not, within 45 days after the end of a fiscal quarter, submitted the report required by section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
 
 #### (B) Rescission of penalty
 
@@ -66,7 +66,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for fiscal year 1998, 1999, 2000, 2001, 2002, 2003, 2004, or 2005 by the amount (if any) by which qualified State expenditures for the then immediately preceding fiscal year are less than the applicable percentage of historic State expenditures with respect to such preceding fiscal year.
+&emsp;&emsp;The Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for fiscal year 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, or 2006 by the amount (if any) by which qualified State expenditures for the then immediately preceding fiscal year are less than the applicable percentage of historic State expenditures with respect to such preceding fiscal year.
 
 #### (B) Definitions
 
@@ -82,7 +82,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) Child care assistance.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve the provision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Educational activities designed to increase self-sufficiency, job training, and work, excluding any expenditure for public education in the State except expenditures which involve theprovision of services or assistance to a member of an eligible family which is not generally available to persons who are not members of an eligible family.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) Administrative costs in connection with the matters described in items (aa), (bb), (cc), and (ee), but only to the extent that such costs do not exceed 15 percent of the total amount of qualified State expenditures for the fiscal year.
 
@@ -106,7 +106,7 @@ Subject to this section:
 
 #### (ii) Applicable percentage
 
-&emsp;&emsp;&emsp;The term “applicable percentage” means for fiscal years 1997 through 2004, 80 percent (or, if the State meets the requirements of section 607(a) of this title for the fiscal year, 75 percent).
+&emsp;&emsp;&emsp;The term “applicable percentage” means for fiscal years 1997 through 2005, 80 percent (or, if the State meets the requirements of section 607(a) of this title for the fiscal year, 75 percent).
 
 #### (iii) Historic State expenditures
 
@@ -146,7 +146,7 @@ Subject to this section:
 
 &emsp;&emsp;If the Secretary finds, with respect to a State's program under part D of this subchapter, in a fiscal year beginning on or after October 1, 1997—
 
-&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performance measures that may be established by the Secretary;
+&emsp;&emsp;&emsp;(i)(I) on the basis of data submitted by a State pursuant to section 654(15)(B) of this title, or on the basis of the results of a review conducted under section 652(a)(4) of this title, that the State program failed to achieve the paternity establishment percentages (as defined in section 652(g)(2) of this title), or to meet other performancemeasures that may be established by the Secretary;
 
 &emsp;&emsp;&emsp;(II) on the basis of the results of an audit or audits conducted under section 652(a)(4)(C)(i) of this title that the State data submitted pursuant to section 654(15)(B) of this title is incomplete or unreliable; or
 
@@ -270,7 +270,7 @@ Subject to this section:
 
 &emsp;To the extent that paragraph (1) of this subsection prevents the Secretary from recovering during a fiscal year the full amount of penalties imposed on a State under subsection (a) of this section for a prior fiscal year, the Secretary shall apply any remaining amount of such penalties to the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131.)
+(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–308, §2(b)(3), Sept. 30, 2004, 118 Stat. 1135.)
 
 #### References in Text
 
@@ -289,6 +289,10 @@ A prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added Nov. 
 Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related to community work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
 
 #### Amendments
+
+2004—Subsec. (a)(7)(A). Pub. L. 108–308, §2(b)(3)(A), substituted “2005, or 2006” for “or 2005”.
+
+Subsec. (a)(7)(B)(ii). Pub. L. 108–308, §2(b)(3)(B), substituted “2005” for “2004”.
 
 2003—Subsec. (a)(7)(A). Pub. L. 108–89, §101(b)(3)(A), substituted “2004, or 2005” for “or 2004”.
 
@@ -338,7 +342,7 @@ Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text 
 
 Subsec. (a)(7)(B)(v). Pub. L. 105–33, §5506(f), added cl. (v).
 
-Subsec. (a)(8). Pub. L. 105–33, §5506(g), amended heading and text of par. (8) generally. Prior to amendment, par. (8) provided that if a State program operated under part D of this subchapter was found to not have complied substantially with the requirements of such part for any quarter, and was not complying substantially with such requirements at the time of the finding, the Secretary was to reduce the grant payable to the State under section 603(a)(1) of this title for certain quarters until the program was found to be in substantial compliance with such requirements.
+Subsec. (a)(8). Pub. L. 105–33, §5506(g), amended heading and text of par. (8) generally. Prior to amendment, par. (8) provided that if a State program operated under part D of this subchapter was found to not have complied substantially with the requirements of such part for any quarter, and was not complying substantially with such requirements at the time of the finding, theSecretary was to reduce the grant payable to the State under section 603(a)(1) of this title for certain quarters until the program was found to be in substantial compliance with such requirements.
 
 Subsec. (a)(9). Pub. L. 105–33, §5506(h), substituted “608(a)(7)” for “608(a)(1)(B)”.
 
@@ -389,10 +393,6 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 #### Effective Date
 
 Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)–(5), (8), (10) of this section, and with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 606, 610, 612, 652, 1308, 9858i of this title; title 7 section 2025.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

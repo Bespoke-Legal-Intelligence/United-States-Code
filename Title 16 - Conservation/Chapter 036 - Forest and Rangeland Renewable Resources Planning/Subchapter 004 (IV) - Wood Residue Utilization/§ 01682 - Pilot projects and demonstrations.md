@@ -10,7 +10,3 @@ Pilot projects and demonstrations carried out under this section may include, bu
 
 (Pub. L. 96–554, §3, Dec. 19, 1980, 94 Stat. 3257.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1687 of this title.
-

@@ -1,9 +1,5 @@
 subpart 1—basic program requirements
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7011, 7325 of this title.
-
 
 ---
 

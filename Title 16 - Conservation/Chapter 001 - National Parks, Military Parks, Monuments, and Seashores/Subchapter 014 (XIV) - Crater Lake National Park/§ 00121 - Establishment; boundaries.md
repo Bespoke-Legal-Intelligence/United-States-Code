@@ -14,7 +14,3 @@ In order to preserve for the benefit, education, and inspiration of the people o
 
 Section 1(b) of Pub. L. 97–250 provided that: “Lands, water, and interests therein excluded from the boundary of Crater Lake National Park by subsection (a) \[amending this section\] are hereby made a part of the Rogue River National Forest, and the boundary of such national forest is revised accordingly.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 123 of this title.
-

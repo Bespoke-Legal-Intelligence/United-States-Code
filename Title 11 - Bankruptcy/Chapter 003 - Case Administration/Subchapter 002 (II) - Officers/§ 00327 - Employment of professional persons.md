@@ -6,7 +6,7 @@
 
 (c) In a case under chapter 7, 12, or 11 of this title, a person is not disqualified for employment under this section solely because of such person's employment by or representation of a creditor, unless there is objection by another creditor or the United States trustee, in which case the court shall disapprove such employment if there is an actual conflict of interest.
 
-(d) The court may authorize the trustee to act as attorney or accountant for the estate if such authorization is in the best interest of the estate.
+(d) The court may authorize the trustee to act as attorney or accountant for the estate if suchauthorization is in the best interest of the estate.
 
 (e) The trustee, with the court's approval, may employ, for a specified special purpose, other than to represent the trustee in conducting the case, an attorney that has represented the debtor, if in the best interest of the estate, and if such attorney does not represent or hold any interest adverse to the debtor or to the estate with respect to the matter on which such attorney is to be employed.
 
@@ -59,8 +59,4 @@ Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 326, 328, 330, 331, 1107 of this title; title 28 section 586.
 

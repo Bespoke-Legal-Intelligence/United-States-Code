@@ -60,7 +60,7 @@
 
 #### (ii) Determination of safety
 
-&emsp;&emsp;&emsp;As used in this section, the term “safe”, with respect to a tolerance for a pesticidechemical residue, means that the Administrator has determined that there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue, including all anticipated dietary exposures and all other exposures for which there is reliable information.
+&emsp;&emsp;&emsp;As used in this section, the term “safe”, with respect to a tolerance for a pesticide chemical residue, means that the Administrator has determined that there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue, including all anticipated dietary exposures and all other exposures for which there is reliable information.
 
 #### (iii) Rule of construction
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;For purposes of clause (ii), the conditions described in this clause with respect to a tolerance for an eligible pesticide chemical residue are the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) Use of the pesticide chemical that produces the residue protects consumers from adverse effects on health that would pose a greater risk than the dietary risk from the residue.
+&emsp;&emsp;&emsp;&emsp;(I) Use of the pesticide chemical that produces the residue protects consumersfrom adverse effects on health that would pose a greater risk than the dietary risk from the residue.
 
 &emsp;&emsp;&emsp;&emsp;(II) Use of the pesticide chemical that produces the residue is necessary to avoid a significant disruption in domestic production of an adequate, wholesome, and economical food supply.
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;(v) available information concerning the cumulative effects of such residues and other substances that have a common mechanism of toxicity;
 
-&emsp;&emsp;&emsp;(vi) available information concerning the aggregate exposure levels of consumers (and major identifiable subgroups of consumers) to the pesticide chemical residue and to other related substances, including dietary exposure under the tolerance and all other tolerances in effect for the pesticide chemical residue, and exposure from other non-occupational sources;
+&emsp;&emsp;&emsp;(vi) available information concerning the aggregate exposure levels of consumers (and major identifiable subgroups of consumers) to the pesticide chemical residue and to other related substances, including dietary exposure under the tolerance andall other tolerances in effect for the pesticide chemical residue, and exposure from other non-occupational sources;
 
 &emsp;&emsp;&emsp;(vii) available information concerning the variability of the sensitivities of major identifiable subgroups of consumers;
 
@@ -178,7 +178,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;A tolerance for a pesticide chemical residue in or on a food shall not be establishedor modified by the Administrator unless the Administrator determines, after consultation with the Secretary, that there is a practical method for detecting and measuring the levels of the pesticide chemical residue in or on the food.
+&emsp;&emsp;A tolerance for a pesticide chemical residue in or on a food shall not be established or modified by the Administrator unless the Administrator determines, after consultation with the Secretary, that there is a practical method for detecting and measuring the levels of the pesticide chemical residue in or on the food.
 
 #### (B) Detection limit
 
@@ -208,7 +208,7 @@
 
 #### (ii) Determination of safety
 
-&emsp;&emsp;&emsp;The term “safe”, with respect to an exemption for a pesticide chemical residue, means that the Administrator has determined that there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue, including all anticipated dietary exposures and all other exposures for which there is reliable information.
+&emsp;&emsp;&emsp;The term “safe”, with respect to an exemption for a pesticide chemical residue,means that the Administrator has determined that there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue, including all anticipated dietary exposures and all other exposures for which there is reliable information.
 
 #### (B) Factors
 
@@ -316,7 +316,7 @@
 
 #### (2) Notice
 
-&emsp;Before issuing a final regulation under paragraph (1), the Administrator shall issue a notice of proposed rulemaking and provide a period of not less than 60 days for public comment on the proposed regulation, except that a shorter period for comment may be provided if the Administrator for good cause finds that it would be in the public interest to do so andstates the reasons for the finding in the notice of proposed rulemaking.
+&emsp;Before issuing a final regulation under paragraph (1), the Administrator shall issue a notice of proposed rulemaking and provide a period of not less than 60 days for public comment on the proposed regulation, except that a shorter period for comment may be provided if the Administrator for good cause finds that it would be in the public interest to do so and states the reasons for the finding in the notice of proposed rulemaking.
 
 #### (f) Special data requirements
 
@@ -378,7 +378,7 @@
 
 #### (3) Additional evidence
 
-&emsp;If a party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce the evidence in the proceeding before the Administrator, the court may order that the additional evidence (and evidence in rebuttal thereof) shall be taken before the Administrator in the manner and upon the terms and conditions the court deems proper. The Administrator may modify prior findings as to the facts by reason of the additional evidence so taken and may modify the order or regulation accordingly. The Administrator shall file with the court any such modified finding, order, or regulation.
+&emsp;If a party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce the evidence in the proceeding before the Administrator, the court may order that the additional evidence (and evidence in rebuttal thereof) shall be taken before the Administrator in the manner and upon the terms and conditions the court deems proper. The Administrator may modify prior findings as to the facts by reason of the additional evidenceso taken and may modify the order or regulation accordingly. The Administrator shall file with the court any such modified finding, order, or regulation.
 
 #### (4) Final judgment; Supreme Court review
 
@@ -416,7 +416,7 @@
 
 #### (1) Regulations under section 346
 
-&emsp;Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup>1</sup> of this title upon the basis of public hearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and\(e) of this section, and shall be subject to review under subsection (q) of this section.
+&emsp;Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup>1</sup> of this title upon the basis of public hearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e) of this section, and shall be subject to review under subsection (q) of this section.
 
 #### (2) Regulations under section 348
 
@@ -438,7 +438,7 @@
 
 If, on the day before August 3, 1996, a substance that is a pesticide chemical was, with respect to a particular pesticidal use of the substance and any resulting pesticide chemical residue in or on a particular food—
 
-&emsp;(1) regarded by the Administrator or the Secretary as generally recognized as safe for use within the meaning of the provisions of subsection (a) of this section or section 321(s) of this title as then in effect; or
+&emsp;(1) regarded by the Administrator or the Secretary as generally recognized as safe foruse within the meaning of the provisions of subsection (a) of this section or section 321(s) of this title as then in effect; or
 
 &emsp;(2) regarded by the Secretary as a substance described by section 321(s)(4) of this title;
 
@@ -480,7 +480,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 &emsp;&emsp;(B) the residue does not exceed a level that was authorized at the time of that application or use to be present on the food under a tolerance, exemption, food additive regulation, or other sanction then in effect under this chapter;
 
-> &emsp;unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e) of this section, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
+> &emsp;unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e) of thissection, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
 
 #### (6) Tolerance for use of pesticides under an emergency exemption
 
@@ -592,7 +592,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) Development
 
-&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
+&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, orsuch other endocrine effect as the Administrator may designate.
 
 #### (2) Implementation
 
@@ -656,7 +656,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) In general
 
-&emsp;The Administrator shall review tolerances and exemptions for pesticide chemical residues in effect on the day before August 3, 1996, as expeditiously as practicable, assuring that—
+&emsp;The Administrator shall review tolerances and exemptions for pesticide chemical residues in effect on the day before August 3, 1996,as expeditiously as practicable, assuring that—
 
 &emsp;&emsp;(A) 33 percent of such tolerances and exemptions are reviewed within 3 years of August 3, 1996;
 
@@ -746,6 +746,10 @@ Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if reg
 
 Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, and functions of Department of Agriculture and Secretary of Agriculture under subsec. (<i>l</i>) of this section transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Tolerance Fees
+
+Pub. L. 108–199, div. G, title V, §501(d)(2), Jan. 23, 2004, 118 Stat. 422, provided that: “Notwithstanding section 408(m)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a(m)(1)), during the period beginning on October 1, 2003, and ending on September 30, 2008, the Administrator of the Environmental Protection Agency shall not collect any tolerance fees under that section.”
+
 #### Data Collection Activities To Assure Health of Infants and Children
 
 Section 301 of Pub. L. 104–170 provided that:
@@ -761,10 +765,6 @@ Procedures.—To the extent practicable, the procedures referred to in subsectio
 “(c)
 
 Residue Data Collection.—The Secretary of Agriculture shall ensure that the residue data collection activities conducted by the Department of Agriculture in cooperation with the Environmental Protection Agency and the Department of Health and Human Services, provide for the improved data collection of pesticide residues, including guidelines for the use of comparable analytical and standardized reporting methods, and the increased sampling of foods most likely consumed by infants and children.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 331, 333, 342, 346b, 453, 601, 1033 of this title; title 7 sections 136, 136a–1, 450i; title 42 section 300j–17.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

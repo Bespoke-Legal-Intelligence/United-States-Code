@@ -18,7 +18,3 @@ No single participant in an eligible partnership may use more than 50 percent of
 
 (Pub. L. 89–10, title II, §2132, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6634 of this title.
-

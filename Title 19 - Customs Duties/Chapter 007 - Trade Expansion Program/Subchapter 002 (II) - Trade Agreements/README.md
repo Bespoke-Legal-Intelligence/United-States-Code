@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—TRADE AGREEMENTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1351 of this title.
-
 
 ---
 

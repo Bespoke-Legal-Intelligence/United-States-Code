@@ -44,7 +44,7 @@ Subsecs. (e), (f). Pub. L. 87–814 added subsecs. (e) and (f).
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 “Customs Service” substituted for “Bureau of Customs” in subsec. (b) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 

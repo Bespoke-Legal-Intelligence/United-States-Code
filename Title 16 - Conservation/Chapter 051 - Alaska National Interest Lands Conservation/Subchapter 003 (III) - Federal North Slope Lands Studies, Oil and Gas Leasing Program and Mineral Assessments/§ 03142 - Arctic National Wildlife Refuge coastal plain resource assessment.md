@@ -106,7 +106,3 @@ The mining laws and mineral leasing laws of the United States, referred to in su
 
 1982—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3144 of this title.
-

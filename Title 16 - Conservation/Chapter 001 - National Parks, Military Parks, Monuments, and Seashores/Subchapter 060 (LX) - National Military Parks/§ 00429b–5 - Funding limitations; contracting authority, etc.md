@@ -10,7 +10,3 @@ Notwithstanding any other provision of sections 429b to 429b–5 of this title, 
 
 (Apr. 17, 1954, ch. 153, §6, as added Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1887.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 429b to 429b–4 of this title.
-

@@ -1,9 +1,5 @@
 Part A—Steens Mountain Cooperative Management and Protection Area
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 460nnn of this title.
-
 
 ---
 

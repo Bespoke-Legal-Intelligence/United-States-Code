@@ -18,6 +18,38 @@ Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed ac
 
 Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under section 311 of this title.
 
+#### Use of Funds for Hurricane Reconnaissance Program
+
+Pub. L. 108–199, div. B, title II, §203, Jan. 23, 2004, 118 Stat. 72, provided in part that: “Hereafter, none of the funds made available by this or any other Act for the National Oceanic and Atmospheric Administration may be used to support the hurricane reconnaissance aircraft and activities that are under the control of the United States Air Force or the United States Air Force Reserve.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. B, title II, §203, Feb. 20, 2003, 117 Stat. 77.
+
+Pub. L. 107–77, title II, §203, Nov. 28, 2001, 115 Stat. 778.
+
+Pub. L. 106–553, §1(a)(2) \[title II, §203\], Dec. 21, 2000, 114 Stat. 2762, 2762A–78.
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §203\], Nov. 29, 1999, 113 Stat. 1535, 1501A–31.
+
+Pub. L. 105–277, div. A, §101(b) \[title II, §203\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86.
+
+Pub. L. 105–119, title II, §203, Nov. 26, 1997, 111 Stat. 2479.
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §203\], Sept. 30, 1996, 110 Stat. 3009, 3009–39.
+
+Pub. L. 104–134, title I, §101\[(a)\] \[title II, §203\], Apr. 26, 1996, 110 Stat. 1321, 1321–30; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–317, title II, §203, Aug. 26, 1994, 108 Stat. 1749.
+
+Pub. L. 103–121, title II, §203, Oct. 27, 1993, 107 Stat. 1176.
+
+Pub. L. 102–395, title II, §203, Oct. 6, 1992, 106 Stat. 1855.
+
+Pub. L. 102–140, title II, §203, Oct. 28, 1991, 105 Stat. 806.
+
+Pub. L. 101–515, title I, §103, Nov. 5, 1990, 104 Stat. 2107.
+
 #### Hurricane Reconnaissance Program
 
 Pub. L. 102–567, title I, §107, Oct. 29, 1992, 106 Stat. 4275, provided that:
@@ -48,7 +80,7 @@ Pub. L. 102–567, title I, §108, Oct. 29, 1992, 106 Stat. 4276, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
+Establishment.—The Secretary of Commerce, in cooperation with the Federal Coordinating Council forScience, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
 
 &emsp;“(1) increase benefits to the Nation from the substantial investment in modernizing the public weather warning and forecast system in the United States;
 
@@ -232,7 +264,7 @@ Membership and Terms.—(1) The Committee shall consist of—
 
 “(c)
 
-Duties.—(1) The Committee may review any proposed certification under section 706 for which the Secretary has provided a notice of intent to certify in the Plan, and should review such a proposed certification if there is a significant possibility of degradation of service within the affected service area. Upon the request of the Committee, the Secretary shall make available to the Committee the supporting documents developed by the Secretary in connection with the proposed certification. The Committee may prepare and submit to the Secretary, prior to publication of the proposed certification, a report which evaluates the proposed certification on the basis of the modernization criteria and with respect to the requirement that there be no degradation of service.
+Duties.—(1) The Committee may review any proposed certification under section 706 for which the Secretary has provided a notice of intent to certify in the Plan, and should review such a proposed certification if there is a significant possibility of degradation of service within the affected service area. Upon the request of the Committee, the Secretary shall make available tothe Committee the supporting documents developed by the Secretary in connection with the proposed certification. The Committee may prepare and submit to the Secretary, prior to publication of the proposed certification, a report which evaluates the proposed certification on the basis of the modernization criteria and with respect to the requirement that there be no degradation of service.
 
 “(2) The Committee shall advise the Congress and the Secretary on—
 
@@ -304,7 +336,7 @@ Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651, provided tha
 
 &emsp;“(4) efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.
 
-“(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information.”
+“(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this informationand among private providers of this information, to improve use of this information.”
 
 #### National Weather Service; Congressional Approval Requisite To Sale, Lease, Transfer, or Dismantling of Agency
 

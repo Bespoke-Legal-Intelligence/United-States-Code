@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(G) the Bureau of Engraving and Printing, except for the purposes of section 5349 of this title;
 
-&emsp;&emsp;(H) the General Accounting Office; or <sup>1</sup>
+&emsp;&emsp;(H) the Government Accountability Office; or <sup>1</sup>
 
 &emsp;&emsp;(J) <sup>2</sup> the Defense Intelligence Agency, Department of Defense; or
 
@@ -46,7 +46,7 @@
 
 (c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
@@ -55,6 +55,8 @@ A prior section 5342, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, provided fo
 Provisions similar to those comprising subsec. (b) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471 (formerly classified to section 5342 of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
+
+2004—Subsec. (a)(1)(H). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2003—Subsec. (a)(1)(K). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -101,10 +103,6 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 #### Dissolution of Virgin Islands Corporation
 
 Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5343, 5361, 5402, 5544 of this title; title 10 section 1602.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

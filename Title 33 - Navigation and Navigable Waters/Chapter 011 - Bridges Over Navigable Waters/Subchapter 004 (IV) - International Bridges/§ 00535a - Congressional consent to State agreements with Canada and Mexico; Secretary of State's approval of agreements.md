@@ -10,7 +10,3 @@ The consent of Congress is hereby granted for a State or a subdivision or instru
 
 (Pub. L. 92–434, §3, Sept. 26, 1972, 86 Stat. 731.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 535f of this title.
-

@@ -68,7 +68,7 @@
 
 &emsp;(D) if the Secretary determines that activities under subparagraph (B), (C), or both are unsuccessful at reaching such agreement and determines (in the sole and unreviewable discretion of the Secretary) that further meeting and conferral under subparagraph (B), mediation under subparagraph (C), or both are unlikely to reach such agreement—
 
-&emsp;&emsp;(i) notify the congressional veterans’ affairs committees of such determinations, identify for such committees the portions of the recommendations that the Secretary has determined not to accept, and provide such committees an explanation and justification for determining to implement the part of the system subject to such portions of the recommendations without regard to such portions of the recommendations; and
+&emsp;&emsp;(i) notify the congressional veterans’ affairs committees of such determinations,identify for such committees the portions of the recommendations that the Secretary has determined not to accept, and provide such committees an explanation and justification for determining to implement the part of the system subject to such portions of the recommendations without regard to such portions of the recommendations; and
 
 &emsp;&emsp;(ii) commencing not earlier than 30 days after notice under clause (i), implement the part of the system subject to the recommendations that the Secretary has determined not to accept without regard to those recommendations.
 
@@ -115,8 +115,4 @@ Subsec. (h). Pub. L. 108–170, §301(b)(2), added subsec. (h).
 #### Effective Date of 2003 Amendment
 
 Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7405 of this title.
 

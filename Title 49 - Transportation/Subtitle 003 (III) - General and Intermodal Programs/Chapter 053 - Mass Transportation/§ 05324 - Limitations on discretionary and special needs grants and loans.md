@@ -88,7 +88,3 @@ In subsection (b)(3)(B), the words “before the State or local agency pursuant 
 
 In subsection (c), the words “The Secretary of Transportation may not” are substituted for “None of the provisions of this chapter shall be construed to authorize the Secretary to” to eliminate unnecessary words. The words “in any manner . . . mode of” and “rates, fares, tolls, rentals, or other . . . fixed or prescribed . . . by any local public or private transit agency” are omitted as surplus. The words “However, the Secretary may” are substituted for “but nothing in this subsection shall prevent the Secretary from taking such actions as may be necessary to” to eliminate unnecessary words. The words “local governmental authority, corporation, or association” are substituted for “agency or agencies” for consistency with sections 5309 and 5310 of the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5309, 5334 of this title.
-

@@ -17,10 +17,6 @@
 
 1990—Pub. L. 101–647, title XXXV, §3581, Nov. 29, 1990, 104 Stat. 4929, substituted “State governments; reimbursement of expenses” for “State governments” in item 3526.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1028, 1029, 1594, 3076, 4042 of this title; title 8 section 1324c.
-
 
 ---
 

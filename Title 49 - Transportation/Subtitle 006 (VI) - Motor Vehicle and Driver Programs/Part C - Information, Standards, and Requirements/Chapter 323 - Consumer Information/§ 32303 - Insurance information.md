@@ -66,7 +66,3 @@ In subsection (b), before clause (1), the word “information” is substituted 
 
 In subsection (c), the words “identifying information” are substituted for “the name of, or other identifying information”, and the words “a witness, or an individual involved” are substituted for “a driver, an injured person, a witness, or otherwise involved” to eliminate unnecessary words. The word “accident” is substituted for “crash or collision” for consistency in this section. The words “so named or otherwise identified” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32302 of this title.
-

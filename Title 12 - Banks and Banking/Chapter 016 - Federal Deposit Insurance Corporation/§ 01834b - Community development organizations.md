@@ -78,7 +78,3 @@ This subtitle, referred to in subsecs. (a) and (d), is subtitle C (§§231–234
 
 Section was enacted as part of the Bank Enterprise Act of 1991, and also as part of the Foreign Bank Supervision Enhancement Act of 1991 and as part of the Federal Deposit Insurance Corporation Improvement Act of 1991, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1834a, 4713 of this title.
-

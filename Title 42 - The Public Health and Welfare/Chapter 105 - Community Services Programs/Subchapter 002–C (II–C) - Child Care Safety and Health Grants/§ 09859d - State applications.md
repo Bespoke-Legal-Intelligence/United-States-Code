@@ -4,7 +4,3 @@ To be eligible to receive an allotment under section 9859c of this title, a Stat
 
 (Pub. L. 106–310, div. A, title XIV, §1405, Oct. 17, 2000, 114 Stat. 1145.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9859f of this title.
-

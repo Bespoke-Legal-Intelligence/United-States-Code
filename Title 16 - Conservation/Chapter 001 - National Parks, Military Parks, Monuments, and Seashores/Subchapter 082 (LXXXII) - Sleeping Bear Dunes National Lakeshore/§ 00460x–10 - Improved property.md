@@ -32,7 +32,3 @@ The Secretary may exclude from the land designated under subsection (a) of this 
 
 1982—Pub. L. 97–361 designated existing provisions up to the proviso as subsec. (a), added cl. (2), designated existing proviso as subsec. (b), and added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460x–9 of this title.
-

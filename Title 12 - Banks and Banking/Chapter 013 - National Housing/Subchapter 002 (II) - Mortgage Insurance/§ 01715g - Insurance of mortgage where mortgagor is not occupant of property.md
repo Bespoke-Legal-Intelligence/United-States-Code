@@ -16,7 +16,3 @@ The Secretary is hereby authorized to insure any mortgage otherwise eligible for
 
 Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditional commitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under section 1709 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title.
-

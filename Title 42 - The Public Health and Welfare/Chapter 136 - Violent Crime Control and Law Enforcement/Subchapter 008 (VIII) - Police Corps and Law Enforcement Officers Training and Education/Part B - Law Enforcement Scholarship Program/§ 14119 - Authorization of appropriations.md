@@ -24,7 +24,3 @@ Of the funds appropriated under subsection (a) of this section for a fiscal year
 
 (Pub. L. 103–322, title XX, §200210, Sept. 13, 1994, 108 Stat. 2061.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14112 of this title.
-

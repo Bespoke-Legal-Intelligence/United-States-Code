@@ -8,7 +8,7 @@
 
 (B) For fiscal year 1994 and each fiscal year thereafter, the amount otherwise payable to a State for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for the previous fiscal year are less than the total of such expenditures for the second fiscal year preceding the previous fiscal year.
 
-(C) The Commissioner may waive or modify any requirement or limitation under subparagraph (B) or section 721(a)(17) of this title if theCommissioner determines that a waiver or modification is an equitable response to exceptional or uncontrollable circumstances affecting the State.
+(C) The Commissioner may waive or modify any requirement or limitation under subparagraph (B) or section 721(a)(17) of this title if the Commissioner determines that a waiver or modification is an equitable response to exceptional or uncontrollable circumstances affecting the State.
 
 (3)(A) Except as provided in subparagraph (B), the amount of a payment under this section with respect to any construction project in any State shall be equal to the same percentage of the cost of such project as the Federal share that is applicable in the case of rehabilitation facilities (as defined in section 291<i>o</i>(g) of title 42), in such State.
 
@@ -20,9 +20,9 @@ The method of computing and paying amounts pursuant to subsection (a) of this se
 
 &emsp;(1) The Commissioner shall, prior to the beginning of each calendar quarter or other period prescribed by the Commissioner, estimate the amount to be paid to each State under the provisions of such subsection for such period, such estimate to be based on such records of the State and information furnished by it, and such other investigation as the Commissioner may find necessary.
 
-&emsp;(2) The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the General Accounting Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
+&emsp;(2) The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
 
-(Pub. L. 93–112, title I, §111, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1162; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
+(Pub. L. 93–112, title I, §111, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1162; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(8)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
@@ -30,9 +30,7 @@ A prior section 731, Pub. L. 93–112, title I, §111, Sept. 26, 1973, 87 Stat. 
 
 #### Amendments
 
+2004—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 1998—Pub. L. 105–277 made technical amendment to section designation and catchline in original.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 728a, 730 of this title; title 5 section 8104.
 

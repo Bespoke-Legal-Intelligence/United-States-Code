@@ -20,7 +20,3 @@ To the extent that any law, rule, regulation, or ordinance of the District of Co
 
 (Pub. L. 96–8, §6, Apr. 10, 1979, 93 Stat. 17.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3302 of this title.
-

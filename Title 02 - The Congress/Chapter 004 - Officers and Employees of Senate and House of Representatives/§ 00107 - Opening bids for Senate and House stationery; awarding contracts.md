@@ -8,7 +8,3 @@ All such proposals shall be kept sealed until the day specified in such advertis
 
 R.S. §67 derived from Res. Mar. 3, 1815, No. 11, 3 Stat. 249.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 112 of this title.
-

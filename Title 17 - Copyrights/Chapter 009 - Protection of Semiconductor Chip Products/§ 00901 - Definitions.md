@@ -36,7 +36,3 @@
 
 Section 304 of title III of Pub. L. 98–620 provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this title and the amendments made by this title \[enacting this chapter\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 11 section 101.
-

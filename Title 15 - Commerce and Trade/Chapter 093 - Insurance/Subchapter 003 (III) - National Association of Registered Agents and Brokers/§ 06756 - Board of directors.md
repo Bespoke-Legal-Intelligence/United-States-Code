@@ -46,7 +46,3 @@ The Board shall meet at the call of the chairperson, or as otherwise provided by
 
 (Pub. L. 106–102, title III, §326, Nov. 12, 1999, 113 Stat. 1426.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
-

@@ -110,9 +110,5 @@ Subsec. (b). Pub. L. 104–304, §13(b), reenacted subsec. heading without chang
 
 Subsec. (c). Pub. L. 104–304, §13(c), substituted “owning” for “transporting gas or hazardous liquid”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60106, 60109, 60119, 60122, 60123, 60124, 60131 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “investigates”.</i>
 

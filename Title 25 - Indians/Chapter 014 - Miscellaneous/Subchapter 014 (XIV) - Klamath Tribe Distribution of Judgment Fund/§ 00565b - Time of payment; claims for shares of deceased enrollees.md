@@ -4,7 +4,3 @@ Within sixty days of October 1, 1965, the Secretary of the Interior shall commen
 
 (Pub. L. 89–224, §3, Oct. 1, 1965, 79 Stat. 897.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 565c, 565d of this title.
-

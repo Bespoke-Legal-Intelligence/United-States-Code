@@ -4,7 +4,7 @@ For purposes of this Act—
 
 &emsp;(1) the term “Administrator” means the Administrator of the National Aeronautics and Space Administration;
 
-&emsp;(2) the term “commercial provider” means any person providing space transportation services or other space-related activities, primary control of which is held by persons otherthan Federal, State, local, and foreign governments;
+&emsp;(2) the term “commercial provider” means any person providing space transportation services or other space-related activities, primary control of which is held by persons other than Federal, State, local, and foreign governments;
 
 &emsp;(3) the term “payload” means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload;
 

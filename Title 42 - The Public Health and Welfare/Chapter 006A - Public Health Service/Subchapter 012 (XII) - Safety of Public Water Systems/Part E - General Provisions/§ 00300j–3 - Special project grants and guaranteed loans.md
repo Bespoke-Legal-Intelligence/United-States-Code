@@ -34,7 +34,3 @@ The Administrator during the fiscal years ending June 30, 1975, and June 30, 197
 
 1986—Subsec. (d). Pub. L. 99–339 struck out “(including interim regulations)” before “prescribed” in first sentence.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300j–3b of this title.
-

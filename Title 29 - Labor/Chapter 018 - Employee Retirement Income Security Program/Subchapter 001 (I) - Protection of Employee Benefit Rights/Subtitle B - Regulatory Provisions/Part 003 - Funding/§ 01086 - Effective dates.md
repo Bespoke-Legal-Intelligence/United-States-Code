@@ -34,9 +34,5 @@ The Internal Revenue Code of 1954, referred to in subsec. (d), was redesignated 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1061 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income SecurityAct of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -126,9 +126,5 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 Section 31001(b) of Pub. L. 103–322 provided that: “Within 90 days of the date of enactment of this Act \[Sept. 13, 1994\] the Secretary shall issue regulations, which may be interim regulations, to implement subsection (a) \[enacting this chapter\], modifying the regulations for carrying into effect the Revenue Sharing Act \[former chapter 67 of this title\] that were in effect as of July 1, 1987, and that were published in 31 C.F.R. part 51. The Secretary need not hold a public hearing before issuing these regulations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6703, 6705, 6708, 6720 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “632(p)”.</i>
 

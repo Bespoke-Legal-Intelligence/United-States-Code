@@ -64,9 +64,5 @@ A prior section 304 of Pub. L. 102–166 was classified to section 1204 of Title
 
 Section effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under section 1981 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000e–16a, 2000e–16b of this title; title 2 section 1435.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

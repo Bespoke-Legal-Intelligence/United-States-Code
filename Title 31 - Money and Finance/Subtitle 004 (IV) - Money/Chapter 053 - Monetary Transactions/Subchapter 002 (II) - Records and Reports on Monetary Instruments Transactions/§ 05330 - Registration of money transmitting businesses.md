@@ -106,10 +106,6 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 2001—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
 
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
-
 #### Findings and Purposes
 
 Section 408(a) of Pub. L. 103–325 provided that:
@@ -131,10 +127,6 @@ Findings.—The Congress hereby finds the following:
 “(2)
 
 Purpose.—It is the purpose of this section \[enacting this section and amending section 1960 of Title 18, Crimes and Criminal Procedure\] to establish a registration requirement for businesses engaged in providing check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers’ checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such money transmitting businesses from engaging in illegal activities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1960.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -22,7 +22,3 @@ Section constitutes subsec. (a) of section 28 of act July 22, 1954. Subsec. (b) 
 
 1978—Pub. L. 95–348 struck out “less the cost of collecting all of said duties, taxes, and fees,” before “shall be covered”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7651.
-

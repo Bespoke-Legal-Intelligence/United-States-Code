@@ -32,7 +32,9 @@ Pub. L. 97–108, §1, Dec. 23, 1981, 95 Stat. 1510, provided: “That this Act 
 
 #### Short Title
 
-Section 1(a) of Pub. L. 93–344, as amended by Pub. L. 104–130, §4(a), Apr. 9, 1996, 110 Stat. 1211, provided that: “This Act \[enacting chapters 17, 17A and 17B, and section 190a–3 of this title, and sections 11a, 11c, 11d, and 1020a of former Title 31, amending section 105 of Title 1, General Provisions, sections 190b and 190d of this title, and sections 11, 665, 701, 1020, and 1151, 1152, 1153, and 1154 of former Title 31, repealing sections 66 and 81 of this title, and sections 571 and 581c–1 of former Title 31, and enacting provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, General Provisions, and 1020 of former Title 31\] may be cited as the ‘Congressional Budget and Impoundment Control Act of 1974’. Titles I through IX may be cited as the ‘Congressional Budget Act of 1974’. Parts A and B of title X \[enacting subchapters I and II of chapter 17B of this title\] may be cited as the ‘Impoundment Control Act of 1974’. Part C of title X \[enacting subchapter III of chapter 17B of this title\] may be cited as the ‘Line Item Veto Act of 1996’.”
+Pub. L. 93–344, §1(a), July 12, 1974, 88 Stat. 297, as amended by Pub. L. 104–130, §4(a), Apr. 9, 1996, 110 Stat. 1211, provided that: “This Act \[enacting chapters 17, 17A and 17B, and section 190a–3 of this title, and sections 11a, 11c, 11d, and 1020a of former Title 31, amending section 105 of Title 1, General Provisions, sections 190b and 190d of this title, and sections 11, 665, 701, 1020, and 1151, 1152, 1153, and 1154 of former Title 31, repealing sections 66 and 81 of this title, and sections 571 and 581c–1 of former Title 31, and enacting provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, General Provisions, and 1020 of former Title 31\] may be cited as the ‘Congressional Budget and Impoundment Control Act of 1974’. Titles I through IX may be cited as the ‘Congressional Budget Act of 1974’, and title X \[enacting chapter 17B of this title\] may be cited as the ‘Impoundment Control Act of 1974’.”
+
+\[Amendment of section 1(a) of Pub. L. 93–344, set out above, by Pub. L. 104–130 was reversed pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.\]
 
 Pub. L. 93–344, title V, §500, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Federal Credit Reform Act of 1990’.”
 
@@ -92,7 +94,7 @@ Confidentiality of Relevant Information.—
 
 Requirement to Report Legislation.—(1) The committees of jurisdiction in the House shall prepare and report to the House no later than September 15, 1991, legislation to ensure the financial soundness of GSEs and to minimize the possibility that a GSE might require future assistance from the Government.
 
-“(2) It is the sense of the Senate that the committees of jurisdiction in the Senate shall prepare and report to the Senate no later than September 15, 1991, legislation to ensure the financial safety and soundness of GSEsand to minimize the possibility that a GSE might require future assistance from the Government.
+“(2) It is the sense of the Senate that the committees of jurisdiction in the Senate shall prepare and report to the Senate no later than September 15, 1991, legislation to ensure the financial safety and soundness of GSEs and to minimize the possibility that a GSE might require future assistance from the Government.
 
 “(f) \[sic\]
 
@@ -104,13 +106,13 @@ Pub. L. 100–119, title II, §201, Sept. 29, 1987, 101 Stat. 784, provided that
 
 #### Financial Management Reform
 
-Pub. L. 100–119, title II, §203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
+Pub. L. 100–119, title II, §203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress thatthe Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
 
 #### Exercise of Congressional Rulemaking Power
 
-Section 904 of Pub. L. 93–344, as amended by Pub. L. 99–177, title II, §271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, §4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, §10119, Aug. 5, 1997, 111 Stat. 695, provided that:
+Pub. L. 93–344, title IX, §904, July 12, 1974, 88 Stat. 331, as amended by Pub. L. 99–177, title II, §271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, §4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, §10119, Aug. 5, 1997, 111 Stat. 695, provided that:
 
-“(a) The provisions of this title and of titles I, III, IV, and V and the provisions of sections 701, 703,, \[sic\] 1017, 1025, and 1027 \[enacting this chapter (except subchapter IV) and sections 190a–3, 688, 691d, and 691f of this title, amending the Rules of the House of Representatives and the Standing Rules of the Senate, and sections 190b and 190d of this title, and enacting provisions set out as notes under this section and sections 190a–1 and 632 of this title\] are enacted by the Congress—
+“(a) The provisions of this title and of titles I, III, IV, and V and the provisions of sections 701, 703, and 1017 \[enacting this chapter (except subchapter IV) and sections 190a–3 and 688 of this title, amending the Rules of the House of Representatives and the Standing Rules of the Senate, and sections 190b and 190d of this title, and enacting provisions set out as notes under this section and sections 190a–1 and 632 of this title\] are enacted by the Congress—
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -150,9 +152,5 @@ Temporary.—An affirmative vote of three-fifths of the Members, duly chosen and
 
 Expiration of Certain Supermajority Voting Requirements.—Subsections (c)(2) and (d)(3) shall expire on September 30, 2002.”
 
-#### Act Referred to in Other Sections
-
-The Congressional Budget Act of 1974 is referred to in sections 907a, 907b, 907c, of this title; title 7 section 1446c–1; title 22 sections 2718, 4715; title 33 section 2326a; title 50 App. sections 1989b–8, 1989c–7.
-
-The Congressional Budget and Impoundment Control Act of 1974 is referred to in section 907a of this title; title 16 sections 544<i>l</i>, 1606; title 22 sections 2295b, 5857; title 42 section 11303.
+\[Amendment of section 904 of Pub. L. 93–344, set out above, by Pub. L. 104–130 was reversed pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.\]
 

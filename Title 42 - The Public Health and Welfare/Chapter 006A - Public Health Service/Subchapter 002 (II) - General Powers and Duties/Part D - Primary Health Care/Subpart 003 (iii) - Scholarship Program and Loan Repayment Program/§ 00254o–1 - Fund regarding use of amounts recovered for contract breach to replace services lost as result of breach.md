@@ -12,7 +12,7 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 &emsp;(2) the amount by which grants under section 254q–1 of this title have, for such preceding fiscal year, been reduced under subsection (g)(2)(B) of such section; and
 
-&emsp;(3) the aggregate of the amount of interest accruing during the preceding fiscal year onobligations held in the Fund pursuant to subsection (d) of this section and the amount of proceeds from the sale or redemption of such obligations during such fiscal year.
+&emsp;(3) the aggregate of the amount of interest accruing during the preceding fiscal year on obligations held in the Fund pursuant to subsection (d) of this section and the amount of proceeds from the sale or redemption of such obligations during such fiscal year.
 
 #### (c) Use of Fund
 

@@ -46,7 +46,3 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 Section 214(b) of Pub. L. 99–93 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1477b of this title.
-

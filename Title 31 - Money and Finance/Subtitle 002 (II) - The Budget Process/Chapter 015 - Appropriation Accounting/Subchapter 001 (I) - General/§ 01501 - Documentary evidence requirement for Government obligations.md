@@ -22,7 +22,7 @@
 
 &emsp;(5) a grant or subsidy payable—
 
-&emsp;&emsp;(A) from appropriations made for payment of, or contributions to, amounts required to be paid in specific amounts fixed by law or under formulas prescribed by law;
+&emsp;&emsp;(A) from appropriations made for payment of, or contributions to, amounts required tobe paid in specific amounts fixed by law or under formulas prescribed by law;
 
 &emsp;&emsp;(B) under an agreement authorized by law; or
 
@@ -61,8 +61,4 @@ Aug. 26, 1954, ch. 935, §1311(a), (e), 68 Stat. 830, 831.
 In subsection (a), before clause (1), the words “After August 26, 1954” are omitted as executed. In clause (1), the words “an agency and another person (including an agency)” are substituted for “the parties thereto, including Government agencies” for clarity. In clause (2), the word “valid” is omitted as unnecessary. In clause (6), the words “brought under authority of law” are omitted as surplus. In clause (9), the word “legally” is omitted as surplus.
 
 In subsection (b), the words “consistent with” are substituted for “as defined in” for clarity and for consistency with section 1108 of the revised title. The word “valid” is omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1108, 1502 of this title; title 19 section 2345; title 22 section 2361; title 49 sections 5309, 44923, 47110.
 

@@ -26,7 +26,7 @@
 
 #### (c) Chief of Defense Nuclear Security
 
-(1) The head of the Office of Defense Nuclear Security is the Chief of Defense Nuclear Security, who shall report to the Administrator andshall implement the security policies directed by the Secretary and Administrator.
+(1) The head of the Office of Defense Nuclear Security is the Chief of Defense Nuclear Security, who shall report to the Administrator and shall implement the security policies directed by the Secretary and Administrator.
 
 (2) The Chief shall have direct access to the Secretary and all other officials of the Department and the contractors of the Department concerning security matters.
 

@@ -26,7 +26,3 @@ Provisions similar to those in this section were contained in section 10521 of t
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13102, 13502, 13711, 14504, 31501, 31502 of this title.
-

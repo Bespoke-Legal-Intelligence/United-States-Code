@@ -38,7 +38,7 @@ Requirements.—Unless specifically authorized by statute, no Federal department
 
 #### (b) “Agency” defined
 
-For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the General Accounting Office.
+For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the Government Accountability Office.
 
 #### (c) Qualified employee trust; eligibility for loan guarantee; “qualified employee trust” defined; regulations for treatment of trust as qualified employee trust
 
@@ -70,7 +70,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is an employee benefit plan which is designed to invest primarily in qualifying employer securities (as defined in section 4975(e)(8) of title 26),
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
+&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as tothe manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
 
 &emsp;&emsp;(iii) which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
 
@@ -130,7 +130,7 @@ For purposes of section 636 of this title, the term “homeowners” includes ow
 
 #### (j) “Small agricultural cooperative” defined
 
-For the purposes of section 636(b)(2) of this title, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act (12 U.S.C. 1141j), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
+For the purposes of this chapter, the term “small agricultural cooperative” means an association (corporate or otherwise) acting pursuant to the provisions of the Agricultural Marketing Act (12 U.S.C. 1141j), whose size does not exceed the size standard established by the Administration for other similar agricultural small business concerns. In determining such size, the Administration shall regard the association as a business concern and shall not include the income or employees of any member shareholder of such cooperative.
 
 #### (k) “Disaster” defined
 
@@ -194,9 +194,11 @@ In this chapter:
 
 &emsp;&emsp;(B) qualified nonmetropolitan counties;
 
-&emsp;&emsp;(C) lands within the external boundaries of an Indian reservation; or
+&emsp;&emsp;(C) lands within the external boundaries of an Indian reservation;
 
-&emsp;&emsp;(D) redesignated areas.
+&emsp;&emsp;(D) redesignated areas; or
+
+&emsp;&emsp;(E) base closure areas.
 
 #### (2) HUBZone
 
@@ -206,7 +208,7 @@ In this chapter:
 
 &emsp;The term “HUBZone small business concern” means—
 
-&emsp;&emsp;(A) a small business concern that is owned and controlled by one or more persons, each of whom is a United States citizen;
+&emsp;&emsp;(A) a small business concern that is at least 51 percent owned and controlled by United States citizens;
 
 &emsp;&emsp;(B) a small business concern that is—
 
@@ -218,13 +220,21 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) that is wholly owned by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments; or
 
-&emsp;&emsp;&emsp;(ii) that is owned in part by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments, if all other owners are either United States citizens or small business concerns; or
+&emsp;&emsp;&emsp;(ii) that is owned in part by one or more Indian tribal governments, or by a corporation that is wholly owned by one or more Indian tribal governments, if all other owners are either United States citizens or small business concerns;
 
 &emsp;&emsp;(D) a small business concern that is—
 
 &emsp;&emsp;&emsp;(i) wholly owned by a community development corporation that has received financial assistance under part 1 of subchapter A of the Community Economic Development Act of 1981 (42 U.S.C. 9805 et seq.); or
 
-&emsp;&emsp;&emsp;(ii) owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns.
+&emsp;&emsp;&emsp;(ii) owned in part by one or more community development corporations, if all other owners are either United States citizens or small business concerns; or
+
+&emsp;&emsp;(E) a small business concern that is—
+
+&emsp;&emsp;&emsp;(i) a small agricultural cooperative organized or incorporated in the United States;
+
+&emsp;&emsp;&emsp;(ii) wholly owned by 1 or more small agricultural cooperatives organized or incorporated in the United States; or
+
+&emsp;&emsp;&emsp;(iii) owned in part by 1 or more small agricultural cooperatives organized or incorporated in the United States, if all owners are small business concerns or United States citizens.
 
 #### (4) Qualified areas
 
@@ -242,11 +252,29 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.
+&emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor.
 
 #### (C) Redesignated area
 
-&emsp;&emsp;The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only for the 3-year period following the date on which the census tract or nonmetropolitan county ceased to be so qualified.
+&emsp;&emsp;The term “redesignated area” means any census tract that ceases to be qualified under subparagraph (A) and any nonmetropolitan county that ceases to be qualified under subparagraph (B), except that a census tract or a nonmetropolitan county may be a “redesignated area” only until the later of—
+
+&emsp;&emsp;&emsp;(i) the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
+
+&emsp;&emsp;&emsp;(ii) 3 years after
+
+the date on which the census tract or nonmetropolitan county ceased to be so qualified.
+
+#### (D) Base closure area
+
+&emsp;&emsp;The term “base closure area” means lands within the external boundaries of a military installation that were closed through a privatization process under the authority of—
+
+&emsp;&emsp;&emsp;(i) the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of division B of Public Law 101–510; 10 U.S.C. 2687 note);
+
+&emsp;&emsp;&emsp;(ii) title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note);
+
+&emsp;&emsp;&emsp;(iii) section 2687 of title 10; or
+
+&emsp;&emsp;&emsp;(iv) any other provision of law authorizing or directing the Secretary of Defense or the Secretary of a military department to dispose of real property at the military installation for purposes relating to base closures of redevelopment, while retaining the authority to enter into a leaseback of all or a portion of the property for military use.
 
 #### (5) Qualified HUBZone small business concern
 
@@ -258,7 +286,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) it is a HUBZone small business concern—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) pursuant to subparagraph (A), (B), or (D) of paragraph (3), and that its principal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) pursuant to subparagraph (A), (B), (C), (D), or (E) of paragraph (3), and that its principal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) pursuant to paragraph (3)(C), and not fewer than 35 percent of its employees engaged in performing a contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title reside within any Indian reservation governed by one or more of the tribal government owners, or reside within any HUBZone adjoining any such Indian reservation;
 
@@ -280,7 +308,7 @@ In this chapter:
 
 #### (B) Change in percentages
 
-&emsp;&emsp;The Administrator may utilize a percentage other than the percentage specified in item (aa) or (bb) of subparagraph (A)(i)(III), if the Administrator determines that such action is necessary to reflect conventional industry practices among small business concerns that are below the numerical size standard for businesses in that industry category.
+&emsp;&emsp;The Administrator may utilize a percentage other than the percentage specified initem (aa) or (bb) of subparagraph (A)(i)(III), if the Administrator determines that such action is necessary to reflect conventional industry practices among small business concerns that are below the numerical size standard for businesses in that industry category.
 
 #### (C) Construction and other contracts
 
@@ -312,7 +340,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) has the same meaning as the term “Indian country” in section 1151 of title 18, except that such term does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations ofthe Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
+&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
 
 &emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
 
@@ -354,7 +382,25 @@ In this chapter, the following definitions apply:
 
 &emsp;The term “veteran” has the meaning given the term in section 101(2) of title 38.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706.)
+#### (r) Definitions relating to small business lending companies
+
+As used in section 650 of this title:
+
+#### (1) Small business lending company
+
+&emsp;The term “small business lending company” means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
+
+#### (2) Non-Federally regulated SBA lender
+
+&emsp;The term “non-Federally regulated SBA lender” means a business concern if—
+
+&emsp;&emsp;(A) such concern is authorized by the Administrator to make loans under section 636 of this title;
+
+&emsp;&emsp;(B) such concern is subject to regulation by a State; and
+
+&emsp;&emsp;(C) the lending activities of such concern are not regulated by any Federal banking authority.
+
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465.)
 
 #### References in Text
 
@@ -374,6 +420,32 @@ Prior similar provisions were contained in section 203 of act July 30, 1953, ch.
 
 #### Amendments
 
+2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+Subsec. (j). Pub. L. 108–447, §151(b), struck out “of section 636(b)(2)” after “For the purposes”.
+
+Subsec. (p)(1)(E). Pub. L. 108–447, §152(a)(1), added subpar. (E).
+
+Subsec. (p)(3)(A). Pub. L. 108–447, §151(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a small business concern that is owned and controlled by one or more persons, each of whom is a United States citizen;”.
+
+Subsec. (p)(3)(E). Pub. L. 108–447, §151(a)(1)(B)–(D), added subpar. (E).
+
+Subsec. (p)(4)(B)(ii)(II). Pub. L. 108–447, §152(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the unemployment rate is not less than 140 percent of the Statewide average unemployment rate for the State in which the county is located, based on the most recent data available from the Secretary of Labor.”
+
+Subsec. (p)(4)(C). Pub. L. 108–447, §152(c)(1), substituted “only until the later of—
+
+&emsp;“(i) the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
+
+&emsp;“(ii) 3 years after”
+
+> for “only for the 3-year period following”.
+
+Subsec. (p)(4)(D). Pub. L. 108–447, §152(a)(3), added subpar. (D).
+
+Subsec. (p)(5)(A)(i)(I)(aa). Pub. L. 108–447, §151(a)(2), substituted “(C), (D), or (E)” for “or (D)”.
+
+Subsec. (r). Pub. L. 108–447, §162, added subsec. (r).
+
 2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(9) \[title VIII, §806(b)\], substituted “$750,000” for “$500,000”.
 
 Subsec. (p)(1)(D). Pub. L. 106–554, §1(a)(9) \[title VI, §613(1)\], added subpar. (D).
@@ -392,7 +464,7 @@ Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added su
 
 &emsp;&emsp;“(II) in which the median household income is less than 80 percent of the nonmetropolitan State median household income; or
 
-&emsp;“(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located.”
+&emsp;“(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewideaverage unemployment rate for the State in which the county is located.”
 
 Subsec. (p)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VI, §613(2)\], added subpar. (C).
 
@@ -546,6 +618,10 @@ In general.—Not later than 180 days after the date of enactment of this Act \[
 
 Listing of additional size standards.—The regulations required by paragraph (1) shall include a listing of all small business size standards prescribed by statute or by individual Federal departments and agencies, identifying the programs or purposes to which such size standards apply.”
 
+#### HUBZone Status Time Line and Commencement
+
+Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, provided that: “A base closure area thathas undergone final closure shall be treated as a HUBZone for purposes of the Small Business Act \[15 U.S.C. 631 et seq.\] for a period of 5 years.”
+
 #### Continued Effectiveness of Numerical Size Standards in Effect on September 30, 1988
 
 The last sentence of section 732 of Pub. L. 100–656 which provided that any numerical size standard that pertained to any of the designated industry groups, and that was in effect on Sept. 30, 1988, was to remain in effect for the duration of the Program, was repealed by Pub. L. 103–160, div. A, title VIII, §850(1), Nov. 30, 1993, 107 Stat. 1726. See section 717(f) of Pub. L. 100–656, set out as a note under section 644 of this title.
@@ -553,10 +629,6 @@ The last sentence of section 732 of Pub. L. 100–656 which provided that any nu
 #### Report on Effect of 1986 Amendments
 
 Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 921(i) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, directed Administrator of the Small Business Administration, not later than July 15, 1987, to submit to Congress a report on the amendments to sections 632, 637, and 644 of this title made by this section which was to include Administrator's views on the advisability and feasibility of implementing such amendments, Administrator's findings and determinations under the review of size standards for businesses that qualify as small businesses carried out pursuant to 15 U.S.C. 632(a)(2)(B), a determination of whether or not the amendments to section 632 of this title would further the interests of the set-aside program, and recommendations for furthering certain interests in a more efficient or effective manner than provided in such amendments.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78c, 631b, 634b, 636, 637, 638, 644, 657a, 662, 689, 694b, 695, 3520, 3703, 4721, 4724, 7101 of this title; title 5 sections 601, 3703; title 7 sections 5623, 5923; title 10 sections 2225, 2319, 2323, 2382; title 12 sections 635, 635g, 1441a, 1835, 3013; title 13 section 91; title 22 section 6729; title 29 section 3031; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 38 section 3675; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5197h, 5302, 6322, 7261b, 12002, 13556; title 44 section 3506; title 49 sections 46301, 47107, 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

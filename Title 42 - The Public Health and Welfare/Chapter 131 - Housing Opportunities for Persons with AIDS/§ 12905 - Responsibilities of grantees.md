@@ -56,9 +56,5 @@ No Fee.—The recipient shall agree that no fee will be charged of any low-incom
 
 Subsec. (g). Pub. L. 102–550, §606(f)(2), added subsec. (g).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12907, 12908, 12910 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

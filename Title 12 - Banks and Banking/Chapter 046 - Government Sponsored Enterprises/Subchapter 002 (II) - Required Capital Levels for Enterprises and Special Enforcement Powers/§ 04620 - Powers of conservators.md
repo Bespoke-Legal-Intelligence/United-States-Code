@@ -50,7 +50,7 @@ A conservator and professional employees (other than Federal employees) appointe
 
 #### (h) Expenses
 
-All expenses of a conservatorship pursuant to this section (including compensation pursuant to subsection (f) of this section) shall be paid by the enterprise under conservatorship and shall be secured by a lien on the enterprise, which shall have priority over any other lien.
+All expenses of a conservatorship pursuant to this section (including compensation pursuant to subsection (f) of this section) shall be paid by the enterprise under conservatorship and shallbe secured by a lien on the enterprise, which shall have priority over any other lien.
 
 #### (i) Conflicts of interest and financial disclosure
 

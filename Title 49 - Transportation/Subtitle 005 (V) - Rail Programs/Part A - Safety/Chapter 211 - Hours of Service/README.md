@@ -17,10 +17,6 @@
 
 1994—Pub. L. 103–440, title II, §203(b), Nov. 2, 1994, 108 Stat. 4620, added item 21108.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 103, 501, 20105, 21303 of this title.
-
 
 ---
 

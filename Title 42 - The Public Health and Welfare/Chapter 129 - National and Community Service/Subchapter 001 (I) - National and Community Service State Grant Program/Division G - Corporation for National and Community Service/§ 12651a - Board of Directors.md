@@ -72,7 +72,3 @@ If a vacancy occurs on the Board, a new member shall be appointed by the Preside
 
 Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set out as a note under section 12651 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12651b of this title.
-

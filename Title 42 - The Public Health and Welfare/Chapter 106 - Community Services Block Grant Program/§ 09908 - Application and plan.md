@@ -42,7 +42,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;&emsp;(vii) to achieve greater participation in the affairs of the communities involved, including the development of public and private grassroots partnerships with local law enforcement agencies, local housing authorities, private foundations, and other public and private partners to—
 
-&emsp;&emsp;&emsp;&emsp;(I) document best practices based on successful grassroots intervention inurban areas, to develop methodologies for widespread replication; and
+&emsp;&emsp;&emsp;&emsp;(I) document best practices based on successful grassroots intervention in urban areas, to develop methodologies for widespread replication; and
 
 &emsp;&emsp;&emsp;&emsp;(II) strengthen and improve relationships with local law enforcement agencies, which may include participation in activities such as neighborhood or community policing efforts;
 
@@ -68,7 +68,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;(4) an assurance that eligible entities in the State will provide, on an emergency basis, for the provision of such supplies and services, nutritious foods, and related services, as may be necessary to counteract conditions of starvation and malnutrition among low-income individuals;
 
-&emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how the State and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 <sup>1</sup> of such Act \[29 U.S.C. 2801\], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
+&emsp;(5) an assurance that the State and the eligible entities in the State will coordinate, and establish linkages between, governmental and other social services programs to assure the effective delivery of such services to low-income individuals and to avoid duplication of such services, and a description of how theState and the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 <sup>1</sup> of such Act \[29 U.S.C. 2801\], in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998;
 
 &emsp;(6) an assurance that the State will ensure coordination between antipoverty programs in each community in the State, and ensure, where appropriate, that emergency energy crisis intervention programs under title XXVI \[42 U.S.C. 8621 et seq.\] (relating to low-income home energy assistance) are conducted in such community;
 
@@ -126,7 +126,7 @@ For fiscal year 2000, to be eligible to receive a grant or allotment under secti
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 101 of such Act, referred to in subsec. (b)(5), is probably a reference to section 101 of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2801 of Title 29, Labor.
 
@@ -139,10 +139,6 @@ Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug
 A prior section 9908, Pub. L. 97–35, title VI, §679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, §205, Oct. 30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, §404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9905, 9914, 9915, 9916, 9917 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ There is authorized to be appropriated to the President to carry out this part n
 
 #### (b) Presidential authority to incur obligations and enter into contracts
 
-Upon agreement by the Government of Israel to provide to the Government of the UnitedStates funds equal to the difference between the amount required to complete the agreed construction work and the amount appropriated pursuant to subsection (a) of this section, and to make those funds available, in advance of the time when payments are due, in such amounts and at such times as may be required by the Government of the United States to meet those additional costs of construction, the President may incur obligations and enter into contracts to the extent necessary to complete the agreed construction work, except that this authority shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Upon agreement by the Government of Israel to provide to the Government of the United States funds equal to the difference between the amount required to complete the agreed construction work and the amount appropriated pursuant to subsection (a) of this section, and to make those funds available, in advance of the time when payments are due, in such amounts and at such times as may be required by the Government of the United States to meet those additional costs of construction, the President may incur obligations and enter into contracts to the extent necessary to complete the agreed construction work, except that this authority shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (c) Crediting of funds to proper appropriation account
 
@@ -21,8 +21,4 @@ The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oc
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2349 of this title.
 

@@ -50,7 +50,3 @@ Contingent Report.—(1) Except as provided in paragraph (2), the President shal
 
 “(2) Paragraph (1) shall not apply if no efforts referred to in paragraph (1)(A) have been made.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6323 of this title.
-

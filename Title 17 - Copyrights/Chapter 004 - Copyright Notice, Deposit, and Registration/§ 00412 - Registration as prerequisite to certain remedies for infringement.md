@@ -4,7 +4,7 @@ In any action under this title, other than an action brought for a violation of 
 
 &emsp;(1) any infringement of copyright in an unpublished work commenced before the effective date of its registration; or
 
-&emsp;(2) any infringement of copyright commenced after first publication of the work and before the effective date of its registration,unless such registration is made within three months after the first publication of the work.
+&emsp;(2) any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, §606(c)(2), Dec. 1, 1990, 104 Stat. 5131.)
 
@@ -29,8 +29,4 @@ In providing that statutory damages and attorney's fees are not recoverable for 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 104A of this title.
 

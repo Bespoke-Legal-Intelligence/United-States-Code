@@ -44,7 +44,3 @@ As used in this subchapter:
 
 1997—Par. (2)(E). Pub. L. 105–128 inserted “or other special library” after “a private library” and “or special” after “such private”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9134 of this title; title 26 section 170.
-

@@ -20,9 +20,11 @@
 
 (2) Paragraph (1) shall not apply—
 
-&emsp;(A) to a veteran whose annual income (determined under section 1503 of this title) is less than the amount in effect under section 1521(b) of this title; or
+&emsp;(A) to a veteran whose annual income (determined under section 1503 of this title) is less than the amount in effect under section 1521(b) of this title;
 
-&emsp;(B) with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999.
+&emsp;(B) to a veteran being furnished hospice care under this section; or
+
+&emsp;(C) with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999.
 
 (d)(1) A veteran who is furnished extended care services under this chapter and who is required under subsection (c) to pay an amount to the United States in order to be furnished such services shall be liable to the United States for that amount.
 
@@ -38,15 +40,29 @@
 
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14,§8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382.)
 
 #### Amendments
+
+2004—Subsec. (c)(2)(B), (C). Pub. L. 108–422 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2001—Subsec. (c)(2)(B). Pub. L. 107–103 inserted “on” before “November 30, 1999”.
 
 Pub. L. 107–14, §8(a)(2), substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
 
 Subsec. (e)(1). Pub. L. 107–14, §8(a)(16), substituted “hereinafter” for “hereafter”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–422, title IV, §411(f), (g), Nov. 30, 2004, 118 Stat. 2390, provided that:
+
+“(f)
+
+Contingent Effectiveness.—Subsection (d) \[enacting provisions set out as a note under section 8118 of this title\] and the amendments made by subsection (c) \[repealing section 8116 of this title\] shall take effect at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with subsection (b) of section 1710B of title 38, United States Code.
+
+“(g)
+
+Annual Update.—Following a certification under subsection (f), the Secretary shall submit to Congress an annual update on that certification.”
 
 #### Effective Date
 
@@ -60,7 +76,7 @@ Pub. L. 106–117, title I, §101(h), Nov. 30, 1999, 113 Stat. 1550, provided th
 
 #### Pilot Programs Relating to Long-Term Care
 
-Pub. L. 106–117, title I, §102, Nov. 30, 1999, 113 Stat. 1551, provided that:
+Pub. L. 106–117, title I, §102, Nov. 30, 1999, 113 Stat. 1551, as amended by Pub. L. 108–422, title II, §203, Nov. 30, 2004, 118 Stat. 2382, provided that:
 
 “(a)
 
@@ -124,7 +140,9 @@ Limitation.—In providing for the furnishing of services in carrying out a pilo
 
 “(h)
 
-Duration of Programs.—The authority of the Secretary to provide services under a pilot program under this section shall cease on the date that is three years after the date of the commencement of that pilot program.
+Duration of Programs.—(1) The authority of the Secretary to provide services under a pilot program under this section shall cease on the date that is three years after the date of the commencement of that pilot program.
+
+“(2) In the case of a veteran who is participating in a pilot program under this section as of the end of the three-year period applicable to that pilot program under paragraph (1), the Secretary may continue to provide to that veteran any of the services that could be provided under the pilot program. The authority to provide services to any veteran under the preceding sentence applies during the period beginning on the date specified in paragraph (1) with respect to that pilot program and ending on December 31, 2005.
 
 “(i)
 
@@ -197,8 +215,4 @@ Definition.—For purposes of this section, the term ‘assisted living services
 “(h)
 
 Standards.—The Secretary may not enter into a contract with a facility under this section unless the facility meets the standards established in regulations prescribed under section 1730 of title 38, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1710, 1741 of this title.
 

@@ -44,7 +44,3 @@ In determining the amount of any State's Federal share of the cost of such proje
 
 (Pub. L. 106–402, title I, §126, Oct. 30, 2000, 114 Stat. 1710.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15025 of this title.
-

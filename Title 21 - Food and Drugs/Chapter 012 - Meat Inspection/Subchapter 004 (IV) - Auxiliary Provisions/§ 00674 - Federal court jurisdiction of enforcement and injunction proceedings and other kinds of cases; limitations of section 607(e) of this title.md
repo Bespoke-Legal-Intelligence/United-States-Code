@@ -4,7 +4,3 @@ The United States district courts, the District Court of Guam, the District Cour
 
 (Mar. 4, 1907, ch. 2907, title IV, §404, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 599.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 159, 671, 673, 677 of this title.
-

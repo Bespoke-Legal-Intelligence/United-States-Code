@@ -8,7 +8,3 @@ The Secretary of the Interior, in order to effectuate the policy declared in sec
 
 (Aug. 31, 1954, ch. 1156, §3, 68 Stat. 1009.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 554, 555, 556 of this title.
-

@@ -26,7 +26,3 @@ In connection with examinations under this section, the Director shall have the 
 
 (Pub. L. 102–550, title XIII, §1317, Oct. 28, 1992, 106 Stat. 3949.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4513, 4516, 4521 of this title.
-

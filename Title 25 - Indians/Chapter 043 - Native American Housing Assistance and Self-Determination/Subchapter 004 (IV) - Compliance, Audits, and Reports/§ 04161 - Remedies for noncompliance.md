@@ -16,7 +16,7 @@
 
 #### (2) Continuance of actions
 
-&emsp;If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), theSecretary shall continue such action until the Secretary determines that the failure to comply has ceased.
+&emsp;If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), the Secretary shall continue such action until the Secretary determines that the failure to comply has ceased.
 
 #### (3) Exception for certain actions
 
@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary makes a finding under subsection (a) of this section, but determines that the failure to comply substantially with the provisions of this chapter—
+&emsp;If the Secretary makes a finding under subsection (a) of this section, but determines thatthe failure to comply substantially with the provisions of this chapter—
 
 &emsp;&emsp;(A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -125,8 +125,4 @@ Subsec. (b). Pub. L. 106–568, §1003(i), and Pub. L. 106–569, §503(h), amen
 #### Effective Date
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4139, 4165 of this title.
 

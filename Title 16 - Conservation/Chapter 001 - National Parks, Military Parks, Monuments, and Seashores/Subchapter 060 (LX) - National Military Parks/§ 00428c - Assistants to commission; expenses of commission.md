@@ -12,7 +12,3 @@ Herein, referred to in text, means act Mar. 26, 1928, which is classified to sec
 
 Transfer of administrative functions of park, see note set out under section 428 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 428e, 428k of this title.
-

@@ -4,7 +4,3 @@ The owner or owners of any unpatented mining claim heretofore located may waive 
 
 (July 23, 1955, ch. 375, §6, 69 Stat. 372.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 615 of this title.
-

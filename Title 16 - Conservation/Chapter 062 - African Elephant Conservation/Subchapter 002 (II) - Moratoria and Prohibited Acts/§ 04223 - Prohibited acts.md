@@ -14,7 +14,3 @@ Except as provided in section 4222(e) of this title, it is unlawful for any pers
 
 (Pub. L. 100–478, title II, §2203, Oct. 7, 1988, 102 Stat. 2320.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4224 of this title.
-

@@ -74,7 +74,7 @@
 
 #### (B) Revisions to agreement
 
-&emsp;&emsp;The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) ofthis section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
+&emsp;&emsp;The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) of this section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
 
 #### (c) Performance plan and report
 
@@ -262,7 +262,7 @@ The Secretary shall allocate from funds made available under section 1087h of th
 
 #### References in Text
 
-The Chief Financial Officer Act of 1990, referred to in subsec. (c)(2)(B), probably means the Chief Financial Officers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officer Act of 1990, referred to in subsec. (c)(2)(B), probably means the Chief FinancialOfficers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 The Government Performance and Results Act of 1993, referred to in subsecs. (c)(2)(B) and (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
@@ -274,57 +274,13 @@ A prior section 1018, Pub. L. 89–329, title I, §141, as added Pub. L. 100–4
 
 Another prior section 1018, Pub. L. 89–329, title I, §118, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382, defined terms used in former part D of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Study of Market Mechanisms in Federal Student Loan Programs
 
-Pub. L. 105–244, title VIII, §801, Oct. 7, 1998, 112 Stat. 1803, provided that:
-
-“(a)
-
-Study Required.—The Comptroller General and the Secretary of Education shall convene a study group including the Secretary of the Treasury, the Director of the Office of Management and Budget, the Director of the Congressional Budget Office, representatives of entities making loans under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\], representatives of other entities in the financial services community, representatives of other participants in the student loan programs, and such other individuals as the Comptroller General and the Secretary may designate. The Comptroller General and Secretary, in consultation with the study group, shall design and conduct a study to identify and evaluate means of establishing a market mechanism for the delivery of loans made pursuant to such title IV \[20 U.S.C. 1070 et seq.; 42 U.S.C. 2751 et seq.\].
-
-“(b)
-
-Design of Study.—The study required under this section shall identify not fewer than 3 different market mechanisms for use in determining lender return on student loans while continuing to meet the other objectives of the programs under parts B and D of such title IV \[20 U.S.C. 1071 et seq., 1087aa et seq.\], including the provision of loans to all eligible students. Consideration may be given to the use of auctions and to the feasibility of incorporating income-contingent repayment options into the student loan system and requiring borrowers to repay through income tax withholding.
-
-“(c)
-
-Evaluation of Market Mechanisms.—The mechanisms identified under subsection (b) shall be evaluated in terms of the following areas:
-
-&emsp;“(1) The cost or savings of loans to or for borrowers, including parent borrowers.
-
-&emsp;“(2) The cost or savings of the mechanism to the Federal Government.
-
-&emsp;“(3) The cost, effect, and distribution of Federal subsidies to or for participants in the program.
-
-&emsp;“(4) The ability of the mechanism to accommodate the potential distribution of subsidies to students through an income-contingent repayment option.
-
-&emsp;“(5) The effect on the simplicity of the program, including the effect of the plan on the regulatory burden on students, institutions, lenders, and other program participants.
-
-&emsp;“(6) The effect on investment in human capital and resources, loan servicing capability, and the quality of service to the borrower.
-
-&emsp;“(7) The effect on the diversity of lenders, including community-based lenders, originating and secondary market lenders.
-
-&emsp;“(8) The effect on program integrity.
-
-&emsp;“(9) The degree to which the mechanism will provide market incentives to encourage continuous improvement in the delivery and servicing of loans.
-
-&emsp;“(10) The availability of loans to students by region, income level, and by categories of institutions.
-
-&emsp;“(11) The proposed Federal and State role in the operation of the mechanism.
-
-&emsp;“(12) A description of how the mechanism will be administered and operated.
-
-&emsp;“(13) Transition procedures, including the effect on loan availability during a transition period.
-
-&emsp;“(14) Any other areas the study group may include.
-
-“(d)
-
-Preliminary Findings and Publication of Study.—Not later than November 15, 2000, the study group shall make the group's preliminary findings, including any additional or dissenting views, available to the public with a 60-day request for public comment. The study group shall review these comments and the Comptroller General and the Secretary shall transmit a final report, including any additional or dissenting views, to the Committee on Education and the Workforce of the House of Representatives, the Committee on Labor and Human Resources of the Senate, and the Committees on the Budget of the House of Representatives and the Senate not later than May 15, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1018a of this title.
+Pub. L. 105–244, title VIII, §801, Oct. 7, 1998, 112 Stat. 1803, directed the Comptroller General and Secretary of Education, in consultation with a study group, to design and conduct a study to identify and evaluate means of establishing a market mechanism for the delivery of certain student loans made pursuant to title IV of the Higher Education Act (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) and to transmit a final report to congressional committees not later than May 15, 2001.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(4).”</i>
 

@@ -372,10 +372,6 @@ Applicability.—This section applies to programs under the United States Housin
 
 Special Rule for Low-Income Home Energy Assistance Program.—For purposes of the Low-Income Home Energy Assistance Program, tenants described in subsection (a)(2) who are responsible for paying some or all heating or cooling costs shall not have their eligibility automatically denied. A State may consider the amount of the heating or cooling component of utility allowances received by tenants described in subsection (a)(2) when setting benefit levels under the Low-Income Home Energy Assistance Program. The size of any reduction in Low-Income Home Energy Assistance Program benefits must be reasonably related to the amount of the heating or cooling component of the utility allowance received and must ensure that the highest level of assistance will be furnished to those households with the lowest incomes and the highest energy costs in relation to income, taking into account family size, in compliance with section 2605(b)(5) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8624(b)(5)).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8623, 8626a, 8626b, 8627, 8629 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>

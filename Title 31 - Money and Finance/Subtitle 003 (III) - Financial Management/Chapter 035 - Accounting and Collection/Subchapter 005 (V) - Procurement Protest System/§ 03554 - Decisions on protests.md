@@ -52,7 +52,7 @@
 
 (e)(1) The Comptroller General shall report promptly to the Committee on Governmental Affairs and the Committee on Appropriations of the Senate and to the Committee on Government Reform and Oversight and the Committee on Appropriations of the House of Representatives any case in which a Federal agency fails to implement fully a recommendation of the Comptroller General under subsection (b) or (c). The report shall include—
 
-&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implementa recommendation of the Comptroller General; and
+&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implement a recommendation of the Comptroller General; and
 
 &emsp;(B) a recommendation regarding whether, in order to correct an inequity or to preserve the integrity of the procurement process, the Congress should consider—
 
@@ -110,6 +110,8 @@ Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Pri
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1996 Amendment
@@ -129,8 +131,4 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 #### Prompt Payment of Costs Under Prior Law
 
 Section 1403(b)(4) of Pub. L. 103–355 provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3553, 3555, 3556 of this title; title 10 section 2305; title 22 section 3862; title 41 section 253b.
 

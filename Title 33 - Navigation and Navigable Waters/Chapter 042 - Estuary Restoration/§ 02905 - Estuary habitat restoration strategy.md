@@ -56,9 +56,5 @@ Using data and information developed through project monitoring and management, 
 
 (Pub. L. 106–457, title I, §106, Nov. 7, 2000, 114 Stat. 1963.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2903, 2904 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -148,7 +148,7 @@
 
 Subsec. (b)(3). Pub. L. 102–361, §4, added par. (3).
 
-1990—Subsec. (a)(1). Pub. L. 101–650 inserted after third sentence “However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor.”
+1990—Subsec. (a)(1). Pub. L. 101–650 inserted after third sentence “However, upon the expiration of the term, a bankruptcy judge may, with the approval of thejudicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor.”
 
 1988—Subsec. (a)(2). Pub. L. 100–587 in item relating to district of Alaska substituted “2” for “1”, in item relating to district of Colorado substituted “5” for “4”, in item relating to district of Kansas substituted “4” for “3”, in item relating to eastern district of Kentucky substituted “2” for “1”, in item relating to eastern district of Texas substituted “2” for “1”, in item relating to western district of Texas substituted “4” for “3”, and in item relating to district of Arizona substituted “5” for “4”.
 
@@ -206,7 +206,7 @@ Section 106 of Pub. L. 98–353 provided that:
 
 #### Appointment To Fill Vacancies; Nominations; Qualifications
 
-Section 120 of Pub. L. 98–353, as amended by Pub. L. 99–554, title I, §102, Oct. 27, 1986, 100 Stat. 3089; Pub. L.104–317, title III, §303, Oct. 19, 1996, 110 Stat. 3852, provided that:
+Section 120 of Pub. L. 98–353, as amended by Pub. L. 99–554, title I, §102, Oct. 27, 1986, 100 Stat. 3089; Pub. L. 104–317, title III, §303, Oct. 19, 1996, 110 Stat. 3852, provided that:
 
 “(a)(1) Whenever a court of appeals is authorized to fill a vacancy that occurs on a bankruptcy court of the United States, such court of appeals shall appoint to fill that vacancy a person whose character, experience, ability, and impartiality qualify such person to serve in the Federal judiciary.
 
@@ -231,8 +231,4 @@ Section 120 of Pub. L. 98–353, as amended by Pub. L. 99–554, title I, §102,
 &emsp;“(6) such persons possess and have demonstrated outstanding legal ability and competence, as evidenced by substantial legal experience, ability to deal with complex legal problems, aptitude for legal scholarship and writing, and familiarity with courts and court processes, and
 
 &emsp;“(7) such persons demeanor, character, and personality indicate that they would exhibit judicial temperament if appointed to the position of United States bankruptcy judge.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 354, 372, 377 of this title; title 5 section 8331.
 

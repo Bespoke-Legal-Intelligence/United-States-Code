@@ -16,7 +16,7 @@ After the effective date of the rules prescribed pursuant to subsection (b) of t
 
 &emsp;&emsp;(A) establish a per call compensation plan to ensure that all payphone service providers are fairly compensated for each and every completed intrastate and interstate call using their payphone, except that emergency calls and telecommunications relay service calls for hearing disabled individuals shall not be subject to such compensation;
 
-&emsp;&emsp;(B) discontinue the intrastate and interstate carrier access charge payphone service elements and payments in effect on February 8, 1996, and all intrastate and interstate payphone subsidies from basic exchange and exchange access revenues, in favor of a compensation plan as specified in subparagraph (A);
+&emsp;&emsp;(B) discontinue the intrastate and interstate carrier access charge payphone serviceelements and payments in effect on February 8, 1996, and all intrastate and interstate payphone subsidies from basic exchange and exchange access revenues, in favor of a compensation plan as specified in subparagraph (A);
 
 &emsp;&emsp;(C) prescribe a set of nonstructural safeguards for Bell operating company payphone service to implement the provisions of paragraphs (1) and (2) of subsection (a) of this section, which safeguards shall, at a minimum, include the nonstructural safeguards equal to those adopted in the Computer Inquiry-III (CC Docket No. 90–623) proceeding;
 

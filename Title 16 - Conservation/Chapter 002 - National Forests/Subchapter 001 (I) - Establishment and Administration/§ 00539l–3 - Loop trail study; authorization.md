@@ -10,7 +10,3 @@ If the results of the study required by subsection (a) of this section indicate 
 
 (Pub. L. 107–216, §6, Aug. 21, 2002, 116 Stat. 1060.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 539<i>l</i> of this title.
-

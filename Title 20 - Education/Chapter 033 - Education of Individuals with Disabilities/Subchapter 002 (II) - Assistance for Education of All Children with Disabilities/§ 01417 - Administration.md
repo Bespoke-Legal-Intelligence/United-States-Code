@@ -2,9 +2,9 @@
 
 #### (a) Responsibilities of Secretary
 
-In carrying out this subchapter, the Secretary shall—
+The Secretary shall—
 
-&emsp;(1) cooperate with, and (directly or by grant or contract) furnish technical assistance necessary to, the State in matters relating to—
+&emsp;(1) cooperate with, and (directly or by grant or contract) furnish technical assistance necessary to, a State in matters relating to—
 
 &emsp;&emsp;(A) the education of children with disabilities; and
 
@@ -12,33 +12,41 @@ In carrying out this subchapter, the Secretary shall—
 
 &emsp;(2) provide short-term training programs and institutes.
 
-#### (b) Rules and regulations
+#### (b) Prohibition against Federal mandates, direction, or control
 
-In carrying out the provisions of this subchapter, the Secretary shall issue regulations under this chapter only to the extent that such regulations are necessary to ensure that there is compliance with the specific requirements of this chapter.
+Nothing in this chapter shall be construed to authorize an officer or employee of the Federal Government to mandate, direct, or control a State, local educational agency, or school's specific instructional content, academic achievement standards and assessments, curriculum, or program of instruction.
 
 #### (c) Confidentiality
 
-The Secretary shall take appropriate action, in accordance with the provisions of section 1232g of this title, to assure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary and by State and local educational agencies pursuant to the provisions of this subchapter.
+The Secretary shall take appropriate action, in accordance with section 1232g of this title, to ensure the protection of the confidentiality of any personally identifiable data, information, and records collected or maintained by the Secretary and by State educational agencies and local educational agencies pursuant to this subchapter.
 
 #### (d) Personnel
 
-The Secretary is authorized to hire qualified personnel necessary to carry out the Secretary's duties under subsection (a) of this section and under sections 1418, 1461, and 1473 of this title (or their predecessor authorities through October 1, 1997) without regard to the provisions of title 5 relating to appointments in the competitive service and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates, except that no more than twenty such personnel shall be employed at any time.
+The Secretary is authorized to hire qualified personnel necessary to carry out the Secretary's duties under subsection (a), under section 1418 of this title, and under part D of subchapter IV, without regard to the provisions of title 5 relating to appointments in the competitive service and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and general schedule pay rates, except that no more than 20 such personnel shall be employed at any time.
 
-(Pub. L. 91–230, title VI, §617, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 100.)
+#### (e) Model forms
+
+Not later than the date that the Secretary publishes final regulations under this chapter, to implement amendments made by the Individuals with Disabilities Education Improvement Act of 2004, the Secretary shall publish and disseminate widely to States, local educational agencies, and parent and community training and information centers—
+
+&emsp;(1) a model IEP form;
+
+&emsp;(2) a model individualized family service plan (IFSP) form;
+
+&emsp;(3) a model form of the notice of procedural safeguards described in section 1415(d) of this title; and
+
+&emsp;(4) a model form of the prior written notice described in subsections (b)(3) and (c)(1) of section 1415 of this title that is consistent with the requirements of this subchapter and is sufficient to meet such requirements.
+
+(Pub. L. 91–230, title VI, §617, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2737.)
 
 #### References in Text
 
 The provisions of title 5 relating to appointments in the competitive service, referred to in subsec. (d), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
+The Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (e), is Pub. L. 108–446, Dec. 3, 2004, 118 Stat. 2647. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 1400 of this title and Tables.
+
 #### Prior Provisions
 
-A prior section 1417, Pub. L. 91–230, title VI, §617, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 791; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(g), Nov. 7, 1988, 102 Stat. 3295; Pub. L. 101–476, title IX, §901(b)(77), (78), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(a)(7), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to Secretary's administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1417, Pub. L. 91–230, title VI, §617, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 100, related to Secretary's administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Effective Date
-
-Section effective Oct. 1, 1997, see section 201(a)(2)(B) of Pub. L. 105–17, set out as a note under section 1400 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1412, 1415, 1442 of this title.
+Another prior section 1417, Pub. L. 91–230, title VI, §617, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 791; amended Pub. L. 98–199, §3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, §102(g), Nov. 7, 1988,102 Stat. 3295; Pub. L. 101–476, title IX, §901(b)(77), (78), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(a)(7), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to Secretary's administrative duties, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

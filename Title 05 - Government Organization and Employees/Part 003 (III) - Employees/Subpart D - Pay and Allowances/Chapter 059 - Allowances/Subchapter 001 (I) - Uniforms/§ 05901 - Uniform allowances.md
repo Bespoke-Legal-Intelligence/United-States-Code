@@ -78,7 +78,7 @@ The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the 
 
 1992—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
+1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessaryto carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
 
 Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substituted “$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).” for “$125 a year”.
 
@@ -109,8 +109,4 @@ Pub. L. 98–619, title V, §504, Nov. 8, 1984, 98 Stat. 3333.
 Pub. L. 98–139, title V, §504, Oct. 31, 1983, 97 Stat. 889.
 
 Pub. L. 97–377, title I, §101(e)(1) \[title V, §504\], Dec. 21, 1982, 96 Stat. 1878, 1904.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5902, 8331 of this title; title 10 sections 1593, 1622; title 16 sections 1a–4,742j–2; title 25 section 2807; title 28 section 530C; title 33 section 540a; title 37 sections 417, 418; title 38 section 903; title 43 section 1468.
 

@@ -66,7 +66,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (3)(A) The Secretary shall establish by regulation a program requiring an operator of a pipeline facility described in paragraph (2) of this subsection to report a potential or existing navigational hazard involving that pipeline facility to the Secretary through the appropriate Coast Guard office.
 
-(B) The operator of a pipeline facility described in paragraph (2) of this subsection that discovers any part of the pipeline facility that is a hazard to navigation shall mark the location of the hazardous part with a Coast-Guard-approved marine buoy or marker and immediately shall notify the Secretary as provided by the Secretary under subparagraph (A) of this paragraph. A marine buoy or marker used under this subparagraph is deemed a pipeline sign or right-of-way marker under section 60123(c) of this title.
+(B) The operator of a pipeline facility described in paragraph (2) of this subsection thatdiscovers any part of the pipeline facility that is a hazard to navigation shall mark the location of the hazardous part with a Coast-Guard-approved marine buoy or marker and immediately shall notify the Secretary as provided by the Secretary under subparagraph (A) of this paragraph. A marine buoy or marker used under this subparagraph is deemed a pipeline sign or right-of-way marker under section 60123(c) of this title.
 
 (4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
@@ -322,29 +322,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Pipeline Bridge Risk Study
 
-Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, provided that:
+Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, required the
 
-“(a)
-
-In General.—The Secretary of Transportation shall conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges.
-
-“(b)
-
-Public Participation and Comments.—In conducting the study, the Secretary shall provide, to the maximum extent practicable, for public participation and comment and shall solicit views and comments from the public and interested persons, including participants in the pipeline industry with knowledge and experience in inspection of pipeline facilities.
-
-“(c)
-
-Completion and Report.—Within 2 years after the date of enactment of this Act \[Dec. 17, 2002\], the Secretary shall complete the study and transmit to Congress a report detailing the results of the study.
-
-“(d)
-
-Funding.—The Secretary may carry out this section using only amounts that are specifically appropriated to carry out this section.”
+Secretary of Transportation to conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
 
 #### Study of Underwater Abandoned Pipeline Facilities
 
 Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60102, 60104, 60105, 60106, 60109, 60118, 60131 of this title.
 

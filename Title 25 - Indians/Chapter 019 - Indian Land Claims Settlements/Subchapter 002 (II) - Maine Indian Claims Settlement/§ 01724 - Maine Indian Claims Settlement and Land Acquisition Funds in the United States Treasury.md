@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Maine Indian Claims Settlement Fund; amount
 
-There is hereby established in the United States Treasury a fund to be known as theMaine Indian Claims Settlement Fund in which $27,000,000 shall be deposited following the appropriation of sums authorized by section 1733 of this title.
+There is hereby established in the United States Treasury a fund to be known as the Maine Indian Claims Settlement Fund in which $27,000,000 shall be deposited following the appropriation of sums authorized by section 1733 of this title.
 
 #### (b) Apportionment of settlement fund; administration; investments; limitation on distributions; quarterly investment income payments; expenditures for aged members; cessation of trust responsibility following Federal payments
 
@@ -26,7 +26,7 @@ The principal of the land acquisition fund shall be apportioned as follows:
 
 &emsp;(3) $26,800,000 to be held in trust for the Penobscot Nation.
 
-> The Secretary is authorized and directed to expend, at the request of the affected tribe, nation or band, the principal and any income accruing to the respective portions of the land acquisition fund for the purpose of acquiring land or natural resources for the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians and for no other purpose. The first 150,000 acres of land or natural resources acquired for the Passamaquoddy Tribe and the first 150,000 acres acquired for the Penobscot Nation within the area described in the Maine Implementing Act as eligible to be included within the Passamaquoddy Indian Territory and the Penobscot Indian Territory shall be held in trust by the United States for the benefit of the respective tribe or nation. The Secretary is also authorized to take in trust for the Passamaquoddy Tribe or the Penobscot Nation any land or natural resources acquired within the aforesaid area by purchase, gift, or exchange by such tribe or nation. Land or natural resources acquired outside the boundaries of the aforesaid areas shall be held in fee by the respective tribe or nation, and the United States shall have no further trust responsibility with respect thereto. Land or natural resources acquired within the State of Maine for the Houlton Band of Maliseet Indians shall be held in trust by the United States for the benefit of the band: <i>Provided</i>, That no land or natural resources shall be so acquired for or on behalf of the Houlton Band of Maliseet Indians without the prior enactment of appropriate legislation by the State of Maine approving such acquisition: <i>Provided further</i>, That the Passamaquoddy Tribe and the Penobscot Nation shall each have a one-half undivided interest in the corpus of the trust, which shall consist of any such property or subsequently acquired exchange property, in the event the Houlton Band of Maliseet Indians should terminate its interest in the trust.
+> The Secretary is authorized and directed to expend, at the request of the affected tribe, nation or band, the principal and any income accruing to the respective portions of the land acquisition fund for the purpose of acquiring land or natural resources for the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians and for no other purpose. The first 150,000 acres of land or natural resources acquired for the Passamaquoddy Tribe and the first 150,000 acres acquired for the Penobscot Nation within the area described in the Maine Implementing Act as eligible to be included within the Passamaquoddy Indian Territory and the Penobscot Indian Territory shall be held in trust by the United States for the benefit of the respective tribe or nation. The Secretary is also authorized to take in trust for the Passamaquoddy Tribe or the Penobscot Nation any land or natural resources acquired within the aforesaid area by purchase, gift, or exchange by such tribe or nation. Land or natural resources acquired outside the boundaries of the aforesaid areas shall be held in fee by the respective tribe or nation, and the United States shall have no further trust responsibility with respect thereto. Land or natural resources acquired within the State of Maine for the Houlton Band of Maliseet Indians shall be held in trust by the United States for the benefit of the band: <i>Provided</i>, Thatno land or natural resources shall be so acquired for or on behalf of the Houlton Band of Maliseet Indians without the prior enactment of appropriate legislation by the State of Maine approving such acquisition: <i>Provided further</i>, That the Passamaquoddy Tribe and the Penobscot Nation shall each have a one-half undivided interest in the corpus of the trust, which shall consist of any such property or subsequently acquired exchange property, in the event the Houlton Band of Maliseet Indians should terminate its interest in the trust.
 
 &emsp;(4) The Secretary is authorized to, and at the request of either party shall, participate in negotiations between the State of Maine and the Houlton Band of Maliseet Indians for the purpose of assisting in securing agreement as to the land or natural resources to be acquired by the United States to be held in trust for the benefit of the Houlton Band. Such agreement shall be embodied in the legislation enacted by the State of Maine approving the acquisition of such lands as required by paragraph (3). The agreement and the legislation shall be limited to:
 
@@ -118,7 +118,7 @@ Sec. 2. For purposes of this Act—
 
 &emsp;“(4) The term ‘Secretary’ means the Secretary of the Interior.
 
-&emsp;“(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) ofthe Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(a)).
+&emsp;“(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(a)).
 
 #### “houlton band tax fund
 
@@ -187,8 +187,4 @@ Sec. 4. (a) Subject to the provisions of section 3 of this Act, the Secretary is
 &emsp;“(ii) files with the Secretary of State of the State of Maine a certified copy of any instrument setting forth the location and boundaries of the land or natural resources to be acquired.
 
 “(B) For purposes of subparagraph (A), filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1722, 1723, 1725, 1728, 1733 of this title.
 

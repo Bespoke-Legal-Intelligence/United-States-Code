@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NATIONAL SEA GRANT COLLEGE PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 22 section 2220a.
-
 
 ---
 

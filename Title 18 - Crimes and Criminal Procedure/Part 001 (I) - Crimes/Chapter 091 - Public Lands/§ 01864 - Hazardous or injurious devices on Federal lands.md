@@ -22,7 +22,7 @@
 
 &emsp;(5) in any other case, be fined under this title or imprisoned for not more than one year.
 
-(c) Any individual who is punished under subsection (b)(5) after one or more prior convictions under any such subsection shall be fined under this title or imprisoned for not more than 20 years, or both.
+(c) Any individual who is punished under subsection (b)(5) after one or more prior convictions under any such subsection shall be fined underthis title or imprisoned for not more than 20 years, or both.
 
 (d) As used in this section—
 

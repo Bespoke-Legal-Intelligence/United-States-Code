@@ -46,13 +46,13 @@ The Congress declares that the general welfare of the United States requires tha
 
 It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), and (f) of this section.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978,92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
 
 #### References in Text
 
 Section 2471 of this title, referred to in subsec. (b), was omitted from the Code.
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 85–568, July 29,1958, 72 Stat. 426, as amended. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 
@@ -150,7 +150,7 @@ Duties.—(1) The Commission shall—
 
 &emsp;“(F) Programs for the maintenance of the national space launch infrastructure, particularly with a view to assessing the adequacy of current and projected programs for maintaining the national space launch infrastructure.
 
-&emsp;“(G) Programs for the support of science and engineering education, including current programs for supporting aerospace science and engineering efforts at institutions of higher learning, with a view to determining the adequacy of those programs.
+&emsp;“(G) Programs for the support of science and engineering education, including current programs forsupporting aerospace science and engineering efforts at institutions of higher learning, with a view to determining the adequacy of those programs.
 
 “(d)
 
@@ -186,7 +186,7 @@ Termination.—The Commission shall terminate 60 days after the date of the subm
 
 #### International Space Station
 
-Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586–1590, provided that:
+Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586–1590, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 #### “SEC. 201. INTERNATIONAL SPACE STATION CONTINGENCY PLAN.
 
@@ -230,7 +230,7 @@ Calculation of launch costs.—For purposes of paragraph (1)(B)—
 
 &emsp;&emsp;“(A) not more than $380,000,000 in costs for any single space shuttle launch shall be taken into account; and
 
-&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the General Accounting Office, of the accounting used to determinethose costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
+&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the Government Accountability Office, of the accounting used to determine those costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
 
 “(b)
 
@@ -320,7 +320,7 @@ Accounting for cost limitations.—As part of the annual budget request to the C
 
 &emsp;“(3)
 
-Verification of accounting.—The Administrator shall arrange for a verification, by the General Accounting Office, of the accounting submitted to the Congress within 60 days after the date on which the budget request is transmitted to the Congress.
+Verification of accounting.—The Administrator shall arrange for a verification, by the Government Accountability Office, of the accounting submitted to the Congress within 60 days after the date on which the budget request is transmitted to the Congress.
 
 &emsp;“(4)
 
@@ -350,7 +350,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 “(a)
 
-Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shallenter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
+Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
 
 “(b)
 
@@ -466,7 +466,7 @@ Pub. L. 106–391, title III, §317, Oct. 30, 2000, 114 Stat. 1596, provided tha
 
 “(a)
 
-Educational Initiative.—In recognition of the 100th anniversary of the first powered flight, the Administrator \[of the National Aeronautics and Space Administration\], in coordination with the Secretary of Education, shall develop and provide for the distribution, for use in the 2001–2002 academic year and thereafter, of age-appropriate educational materials, for use at the kindergarten, elementary, and secondary levels, on the history of flight, the contribution of flight to global development in the 20th century, the practical benefits of aeronautics and space flight to society, the scientific and mathematical principles used in flight, and any other related topics the Administrator considers appropriate. The Administrator shall integrate into the educational materials plans for the development and flight of the Mars plane.
+Educational Initiative.—In recognition of the 100th anniversary of the first powered flight, the Administrator \[of the National Aeronautics and Space Administration\], in coordination with the Secretary of Education, shall develop and provide for the distribution, for use in the 2001–2002 academic year and thereafter, of age-appropriate educational materials, for use at the kindergarten, elementary, and secondary levels,on the history of flight, the contribution of flight to global development in the 20th century, the practical benefits of aeronautics and space flight to society, the scientific and mathematical principles used in flight, and any other related topics the Administrator considers appropriate. The Administrator shall integrate into the educational materials plans for the development and flight of the Mars plane.
 
 “(b)
 
@@ -546,7 +546,7 @@ Pub. L. 102–588, title I, §102(g), Nov. 4, 1992, 106 Stat. 5111, provided tha
 
 &emsp;“(3) the United States aeronautics and space program genuinely reflects our Nation's pioneer heritage and demonstrates our quest for leadership, economic growth, and human understanding;
 
-&emsp;“(4) the United States space program is based on a solid record of achievement and continues to promotethe objective of international cooperation in the exploration of the planets and the universe;
+&emsp;“(4) the United States space program is based on a solid record of achievement and continues to promote the objective of international cooperation in the exploration of the planets and the universe;
 
 &emsp;“(5) the United States aeronautics and space program generates critical technology breakthroughs that benefit our economy through new products and processes that significantly improve our standard of living;
 
@@ -632,7 +632,7 @@ Strategic Plan.—The Administration shall—
 
 &emsp;“(2) develop a strategy plan for life sciences research and technology development sufficient to accomplish the life sciences knowledge base acquisition schedule developed under paragraph (1)(B), including—
 
-&emsp;&emsp;“(A) a crew certification plan setting acceptable crew conditioning standards for Extended Duration Orbiter operations and verifying countermeasures sufficient to meet those standards before actual Extended Duration Orbiter operations; and
+&emsp;&emsp;“(A) a crew certification plan setting acceptable crew conditioning standards for Extended Duration Orbiter operations and verifying countermeasuressufficient to meet those standards before actual Extended Duration Orbiter operations; and
 
 &emsp;&emsp;“(B) a life sciences implementation plan for the design and development of the space station, to be provided as part of the Preliminary Design Review for the space station, and to include crew adaptability standards; and
 
@@ -926,7 +926,7 @@ By virtue of the authority vested in me as President of the United States, it is
 
 Section 1. The Missile Sites Labor Commission is hereby abolished and its functions and responsibilities are transferred to the Federal Mediation and Conciliation Service.
 
-Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continued cooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
+Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continuedcooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
 
 Sec. 3. The Department of Defense, the National Aeronautics and Space Administration, and other appropriate government departments and agencies shall continue to cooperate in the avoidance of uneconomical operations and work stoppages at missile and space sites. They shall also assist the Federal Mediation and Conciliation Service in the discharge of its responsibilities under this order.
 
@@ -1027,8 +1027,4 @@ Sec. 7. <i>Administrative Provisions</i>. (a) The Office of Administration in th
 (d) The head of each agency serving on the Council or represented on any working group or committee of the Council shall provide such administrative support as may be necessary, in accordance with law and subject to the availability of appropriations, to enable the agency head or its representative to carry out his responsibilities.
 
 Sec. 8. <i>Report</i>. The Council shall submit an annual report setting forth its assessment of and recommendations for the space policy and strategy of the United States Government.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2476 of this title.
 

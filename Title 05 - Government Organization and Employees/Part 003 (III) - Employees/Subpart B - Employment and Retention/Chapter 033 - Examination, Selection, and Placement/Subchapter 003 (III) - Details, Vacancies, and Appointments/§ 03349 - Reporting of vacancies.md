@@ -1,6 +1,6 @@
 ### §3349. Reporting of vacancies
 
-(a) The head of each Executive agency (including the Executive Office of the President, and other than the General Accounting Office) shall submit to the Comptroller General of the United States and to each House of Congress—
+(a) The head of each Executive agency (including the Executive Office of the President, and other than the Government Accountability Office) shall submit to the Comptroller General of the United States and to each House of Congress—
 
 &emsp;(1) notification of a vacancy in an office to which this section and sections 3345, 3346, 3347, 3348, 3349a, 3349b, 3349c, and 3349d apply and the date such vacancy occurred immediately upon the occurrence of the vacancy;
 
@@ -24,21 +24,23 @@
 
 &emsp;(6) the Office of Personnel Management.
 
-(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–614.)
+(Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–614; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Prior Provisions
 
 A prior section 3349, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided for restrictions relating to details to fill vacancies, prior to repeal by Pub. L. 105–277, div. C, title I, §151(b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–611, 2681–616, effective 30 days after Oct. 21, 1998. See section 3347 of this title.
 
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date
 
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under section 3345 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3345, 3348, 3349b, 3349c, 3349d of this title.
 

@@ -108,7 +108,7 @@ The Secretary may, with the concurrence of the owner of grain stored under this 
 
 #### (j) Management of grain
 
-Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make a dailylist available showing the price, location, and quantity of the transactions.
+Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make a daily list available showing the price, location, and quantity of the transactions.
 
 #### (k) Use of Commodity Credit Corporation
 
@@ -148,7 +148,7 @@ Pub. L. 102–237, §113(7)(B), redesignated subsec. (<i>o</i>) as (p).
 
 Subsec. (p). Pub. L. 102–237, §113(7)(B), redesignated subsec. (<i>o</i>) as (p).
 
-1990—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
+1990—Pub. L. 101–624, §1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to theestablishment and maintenance of the producer reserve program for wheat and feed grains.
 
 Subsec. (k). Pub. L. 101–624, §2010, added subsec. (k) relating to review.
 
@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), insert
 
 1981—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
-Subsec. (b). Pub. L. 97–98 substituted “Secretary shall provide” for “Secretary may provide”, struck out “atthe same level of support as provided by this Act” after “loans for wheat and feed grains”, and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and “program may provide” for “program shall provide”.
+Subsec. (b). Pub. L. 97–98 substituted “Secretary shall provide” for “Secretary may provide”, struck out “at the same level of support as provided by this Act” after “loans for wheat and feed grains”, and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and “program may provide” for “program shall provide”.
 
 Subsec. (b)(2). Pub. L. 97–98 substituted “for storage in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program” for “of such amounts as the Secretary determines appropriate to cover the cost of storing wheat and feed grains held under the program”.
 
@@ -250,9 +250,5 @@ Section 1124 of Pub. L. 101–624, as amended by Pub. L. 102–237, title I, §1
 
 #### Repayment of Loans Without Penalty
 
-Section 303(a) of Pub. L. 100–387 provided that: “Effective for the 1988 marketing year for wheat or feed grains, once the market price described in clause (5) of the third sentence of subsection (b) of section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) has been reached at any time during such marketing year with respect to such commodity, producers may repay loans made under section 110 for such commodity during the remainder of such marketing year without the payment of a penalty, regardless of the then current market price.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1308a, 1427, 1445k, 4001, 4002, 7301, 7992 of this title.
+Section 303(a) of Pub. L. 100–387 provided that: “Effective for the 1988 marketing year for wheat or feed grains, once the market price described in clause (5) of the third sentence of subsection (b) of section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) has been reached at any time during such marketing year with respect to such commodity, producers may repay loansmade under section 110 for such commodity during the remainder of such marketing year without the payment of a penalty, regardless of the then current market price.”
 

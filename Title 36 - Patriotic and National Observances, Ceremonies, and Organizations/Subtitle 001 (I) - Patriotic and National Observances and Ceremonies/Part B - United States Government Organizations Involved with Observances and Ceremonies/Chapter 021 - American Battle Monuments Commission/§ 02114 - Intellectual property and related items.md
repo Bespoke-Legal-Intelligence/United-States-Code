@@ -30,7 +30,3 @@ Irrevocability of Transfers of Copyrights to Commission.—Section 203 of title 
 
 (Added Pub. L. 106–117, title VI, §603(a), Nov. 30, 1999, 113 Stat. 1579.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2113 of this title.
-

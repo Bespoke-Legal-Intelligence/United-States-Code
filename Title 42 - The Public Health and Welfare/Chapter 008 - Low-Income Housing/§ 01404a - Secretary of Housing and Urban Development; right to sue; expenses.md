@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development may sue and be sued only with res
 
 #### References in Text
 
-The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653,and amended, which is classified generally to this chapter (§1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to this chapter (§1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 Public Law 671, Seventy-sixth Congress, approved June 28, 1940, referred to in text, is act June 28, 1940, ch. 440, 54 Stat. 676, as amended. Title II of that Act is classified generally to subchapter I (§1501 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -27,8 +27,4 @@ Section 502 of act Aug. 10, 1948, is classified generally to section 1701c of Ti
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1586 of this title.
 

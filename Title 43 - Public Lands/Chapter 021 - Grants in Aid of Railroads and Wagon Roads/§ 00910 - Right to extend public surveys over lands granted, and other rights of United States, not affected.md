@@ -4,7 +4,3 @@ Sections 908 to 911 of this title shall not affect the right of the Secretary of
 
 (June 25, 1910, ch. 406, §3, 36 Stat. 834.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 911 of this title.
-

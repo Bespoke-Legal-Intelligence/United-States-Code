@@ -42,9 +42,5 @@ The Federal share of the cost of any activity carried out with a grant under thi
 
 A prior section 10 of act Sept. 2, 1937, was renumbered section 12 and is classified to section 669i of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669c, 669h of this title.
-
 <i><sup>1</sup></i><i> Probably means section 669c(c) relating to apportionment of certain taxes.</i>
 

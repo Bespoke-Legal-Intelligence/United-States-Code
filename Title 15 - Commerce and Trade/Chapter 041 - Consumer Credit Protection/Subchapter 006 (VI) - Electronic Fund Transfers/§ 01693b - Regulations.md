@@ -14,7 +14,7 @@ The Board shall prescribe regulations to carry out the purposes of this subchapt
 
 #### (b) Issuance of model clauses
 
-The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Suchmodel clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
 
 #### (c) Criteria; modification of requirements
 
@@ -137,10 +137,6 @@ Electronic benefit transfer program defined.—For purposes of this paragraph, t
 &emsp;&emsp;“(ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by Federal, State, or local governments.”
 
 Pub. L. 104–193, §891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1693c, 1693h of this title; title 7 section 2016.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

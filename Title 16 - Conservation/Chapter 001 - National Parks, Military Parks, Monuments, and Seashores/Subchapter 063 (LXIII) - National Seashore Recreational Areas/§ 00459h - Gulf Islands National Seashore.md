@@ -38,15 +38,11 @@ In order to preserve for public use and enjoyment certain areas possessing outst
 
 #### References in Text
 
-Sections 459h to 459h–10 of this title, referred to in subsec. (b)(3), was in the original “this title”, and was translated as reading “this Act”, meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.
+Sections 459h to 459h–10 of this title, referred to in subsec. (b)(3), was in the original “this title”, and wastranslated as reading “this Act”, meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.
 
 #### Amendments
 
 2000—Pub. L. 106–554 inserted section catchline and subsec. (a) designation and heading, substituted “In order” for “That, in order”, inserted subsec. (b) designation and heading, added par. (1), inserted par. (2) designation and heading and substituted “The areas described in this paragraph are” for “The seashore shall comprise”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), realigned margins, and added pars. (3) and (4).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459h–1, 459h–2, 459h–4, 459h–5, 459h–6, 459h–8, 459h–9 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

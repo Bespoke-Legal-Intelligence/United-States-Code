@@ -24,7 +24,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 &emsp;(11) title IV of the Civil Rights Act of 1964 \[42 U.S.C. 2000c et seq.\];
 
-&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally Controlled College or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
+&emsp;(12) the Navajo Community College Act \[25 U.S.C. 640a et seq.\] and the Tribally ControlledCollege or University Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\];
 
 &emsp;(13) part C of title IX of the Elementary and Secondary Education Act of 1965,<sup>1</sup> relating to Women's Educational Equity; and
 
@@ -34,7 +34,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 #### References in Text
 
-Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981,95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
 
 Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 

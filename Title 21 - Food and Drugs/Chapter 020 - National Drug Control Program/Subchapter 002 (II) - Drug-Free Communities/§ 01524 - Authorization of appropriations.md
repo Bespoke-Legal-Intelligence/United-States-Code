@@ -46,7 +46,3 @@ Not more than the following percentages of the amounts authorized under subsecti
 
 Subsec. (b)(5). Pub. L. 107–82, §1(c), added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1533, 1535 of this title.
-

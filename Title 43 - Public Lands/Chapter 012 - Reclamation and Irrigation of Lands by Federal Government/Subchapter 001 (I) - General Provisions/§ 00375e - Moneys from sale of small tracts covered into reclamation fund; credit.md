@@ -4,7 +4,3 @@ The moneys derived from the sale of such lands shall be covered into the reclama
 
 (Mar. 31, 1950, ch. 78, §4, 64 Stat. 40.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 375b, 375c, 375f of this title.
-

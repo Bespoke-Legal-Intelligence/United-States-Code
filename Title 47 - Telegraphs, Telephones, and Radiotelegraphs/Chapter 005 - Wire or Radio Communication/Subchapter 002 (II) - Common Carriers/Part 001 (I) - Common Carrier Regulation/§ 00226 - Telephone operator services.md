@@ -70,7 +70,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) the name, address, and toll-free telephone number of the provider of operator services;
 
-&emsp;&emsp;&emsp;(ii) a written disclosure that the rates for all operator-assisted calls are available on request, and that consumers have a right to obtain access to the interstate common carrier of their choice and may contact their preferred interstate common carriers for information on accessing that carrier's service using that telephone; and
+&emsp;&emsp;&emsp;(ii) a written disclosure that the rates for all operator-assisted calls are availableon request, and that consumers have a right to obtain access to the interstate common carrier of their choice and may contact their preferred interstate common carriers for information on accessing that carrier's service using that telephone; and
 
 &emsp;&emsp;&emsp;(iii) the name and address of the enforcement division of the Common Carrier Bureau of the Commission, to which the consumer may direct complaints regarding operator services;
 
@@ -144,7 +144,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 &emsp;&emsp;The Commission may, after 4 years following October 17, 1990, waive the requirements of this paragraph only if—
 
-&emsp;&emsp;&emsp;(i) the findings and conclusions of the Commission in the final report issued under paragraph (3)(B)(iii) state that the regulatory objectives specified in subsection (d)(1)(A) and (B) of this section have been achieved; and
+&emsp;&emsp;&emsp;(i) the findings and conclusions of the Commission in the final report issuedunder paragraph (3)(B)(iii) state that the regulatory objectives specified in subsection (d)(1)(A) and (B) of this section have been achieved; and
 
 &emsp;&emsp;&emsp;(ii) the Commission determines that such waiver will not adversely affect the continued achievement of such regulatory objectives.
 
@@ -239,10 +239,6 @@ Section 2 of Pub. L. 101–435 provided that: “The Congress finds that—
 &emsp;“(9) the Commission has testified that its actions have been insufficient to correct the problems in the operator services industry to date; and
 
 &emsp;“(10) a combination of industry self-regulation and government regulation is required to ensure that competitive operator services are provided in a fair and reasonable manner.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 153 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

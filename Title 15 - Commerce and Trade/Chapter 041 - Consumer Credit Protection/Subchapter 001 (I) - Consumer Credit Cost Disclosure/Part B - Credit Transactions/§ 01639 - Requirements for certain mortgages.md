@@ -96,7 +96,7 @@ A creditor shall not engage in a pattern or practice of extending credit to cons
 
 #### (i) Requirements for payments under home improvement contracts
 
-A creditor shall not make a payment to a contractor under a home improvement contract from amounts extended as credit under a mortgage referred to in section 1602(aa) of this title, other than—
+A creditor shall not make a payment to a contractor under a home improvement contractfrom amounts extended as credit under a mortgage referred to in section 1602(aa) of this title, other than—
 
 &emsp;(1) in the form of an instrument that is payable to the consumer or jointly to the consumer and the contractor; or
 
@@ -133,10 +133,6 @@ For purposes of this section, the term “affiliate” has the same meaning as i
 #### Prior Provisions
 
 A prior section 1639, Pub. L. 90–321, title I, §129, May 29, 1968, 82 Stat. 156, related to consumer loans not under open end credit plans, prior to repeal by Pub. L. 96–221, title VI, §614(d)(1), Mar. 31, 1980, 94 Stat. 180. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1610, 1640 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

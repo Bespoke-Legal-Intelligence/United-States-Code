@@ -40,7 +40,7 @@ As used in this subchapter, the term—
 
 #### Codification
 
-“Section 3301(a) of title 40” substituted in par. (9) for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 3301(a) of title 40” substituted in par. (9) for “section 13 of the Public Buildings Act of 1959 (40 U.S.C.612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Section 6 of Pub. L. 104–289 provided that:
 
 “(a)
 
-Effective Date.—This Act \[See Short Title of 1996 Amendment note set out under section 205a of this title\] and the amendments made by this Act shall takeeffect 90 days after the date of enactment of this Act \[Oct. 11, 1996\].
+Effective Date.—This Act \[See Short Title of 1996 Amendment note set out under section 205a of this title\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Oct. 11, 1996\].
 
 “(b)
 

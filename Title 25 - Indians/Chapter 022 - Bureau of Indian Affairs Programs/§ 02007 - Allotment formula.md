@@ -42,7 +42,7 @@
 
 #### (B) Review of formula
 
-&emsp;&emsp;Not later than January 1, 2003, the Secretary shall review the formula established under this section and shall take such steps as are necessary to increase the availability of counseling and therapeutic programs for students in off-reservation home-living (dormitory) schools and other Bureau-operated residential facilities.
+&emsp;&emsp;Not later than January 1, 2003, the Secretary shall review the formula established under this section and shall take such stepsas are necessary to increase the availability of counseling and therapeutic programs for students in off-reservation home-living (dormitory) schools and other Bureau-operated residential facilities.
 
 #### (C) Review of standards
 
@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 > &emsp;&emsp;in considering the number of eligible Indian students served by the school.
 
-&emsp;&emsp;(E) Uses a weighted unit of 0.25 for each eligible Indian student who is enrolled in ayear-long credit course in an Indian or Native language as part of the regular curriculum of a school, in considering the number of eligible Indian students served by such school. The adjustment required under this subparagraph shall be used for such school after—
+&emsp;&emsp;(E) Uses a weighted unit of 0.25 for each eligible Indian student who is enrolled in a year-long credit course in an Indian or Native language as part of the regular curriculum of a school, in considering the number of eligible Indian students served by such school. The adjustment required under this subparagraph shall be used for such school after—
 
 &emsp;&emsp;&emsp;(i) the certification of the Indian or Native language curriculum by the school board of such school to the Secretary, together with an estimate of the number of full-time students expected to be enrolled in the curriculum in the second school year for which the certification is made; and
 
@@ -183,10 +183,6 @@ Notwithstanding any other provision of law, at the election of the school board 
 A prior section 2007, Pub. L. 95–561, title XI, §1127, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3989, related to allotment formula, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2007, Pub. L. 95–561, title XI, §1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 2005, 2010, 2502, 2503, 2511 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “2502(c)(2)”.</i>
 

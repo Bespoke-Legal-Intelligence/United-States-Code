@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 91–387, §1, extended term for making fisheries loans, su
 
 Subsec. (b). Pub. L. 89–85, §§2, 3, substituted in par. (1) provision respecting determination of interest rate taking into consideration average market yield on outstanding Treasury obligations of comparable maturity plus additional charge toward coverage of other costs of program for former provision prescribing an interest rate of not less than 3 per centum per annum and added pars. (4) to (8), respectively.
 
-Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formulafor determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
+Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
 
 1964—Subsec. (e). Pub. L. 88–309 added subsec. (e).
 
@@ -121,8 +121,4 @@ Loans To Avoid Default on Obligations Covering Fishing Vessels.—(1) The Secret
 Loans To Cover Operating Losses.—(1) If the Secretary determines that moneys will be available in such fisheries loan fund for any of fiscal years 1981, 1982, 1983, 1984, 1985, and 1986, after loans under subsection (b) are provided for for that year, the Secretary may make loans for the purpose of assisting owners and operators of fishing vessels to cover vessel operating expenses in cases where an owner or operator incurs, or may incur, a net operating loss within such fiscal year.
 
 “(2) Each loan made by the Secretary under this subsection shall be subject to such terms and conditions as the Secretary deems necessary or appropriate to protect the interests of the United States and to carry out the purposes of this subsection. The Secretary may make loans under this subsection only to owners or operators who, in the judgment of the Secretary, have substantial experience and proven ability in the management and financing of fishing operations, and only if (A) loans for the purpose described in paragraph (1) are not otherwise available at reasonable rates which permit continued operation, and (B) the loans are likely to result in the financial viability of the fishing operations of the owners or operators. The interest rate on loans made under this subsection shall be the rate prevailing for loans made under the Emergency Agricultural Credit Act of 1978 (7 U.S.C. preceding 1961 note).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 742c–1, 742k, 1534 of this title.
 

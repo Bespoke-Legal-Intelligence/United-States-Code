@@ -32,7 +32,3 @@ Debtors in Joint Cases.—Subject to the limitation in subsection (a), this sect
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4938.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3101, 3202 of this title; title 18 section 3613.
-

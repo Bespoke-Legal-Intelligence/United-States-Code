@@ -18,7 +18,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Previously, references to “receiver” changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925, which consolidated offices of register and receiver and provided for a single officer to be known as register.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 339 of this title.
-

@@ -1,6 +1,6 @@
 ### §1381. Statement of purpose; authorization of appropriations
 
-For the purpose of establishing a national program to provide supplemental security incometo individuals who have attained age 65 or are blind or disabled, there are authorized to be appropriated sums sufficient to carry out this subchapter.
+For the purpose of establishing a national program to provide supplemental security income to individuals who have attained age 65 or are blind or disabled, there are authorized to be appropriated sums sufficient to carry out this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1601, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465.)
 
@@ -35,8 +35,4 @@ For the purpose of enabling each State, as far as practicable under the conditio
 #### Payments Under Chapter Provisions in Effect Before January 1, 1974, for: Activities Carried Out Through December 31, 1973, Under State Plans Approved Under Subchapter I, X, XIV, or XVI Provisions; and for Administrative Activities After January 1, 1974, Closing Out Such Activities
 
 Pub. L. 93–233, §19(b), Dec. 31, 1973, 87 Stat. 974, provided that: “Notwithstanding the provisions of section 301 of the Social Security Amendments of 1972 \[enacting this subchapter\], the Secretary of Health, Education, and Welfare shall make payments to the 50 States and the District of Columbia after December 31, 1973, in accordance with the provisions of the Social Security Act \[this chapter\] as in effect prior to January 1, 1974, for (1) activities carried out through the close of December 31, 1973, under State plans approved under title I, X, XIV, or XVI, of such Act \[subchapter I, X, XIV, or XVI of this chapter\], and (2) administrative activities carried out after December 31, 1973, which such Secretary determines are necessary to bring to a close activities carried out under such State plans.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320b–19 of this title.
 

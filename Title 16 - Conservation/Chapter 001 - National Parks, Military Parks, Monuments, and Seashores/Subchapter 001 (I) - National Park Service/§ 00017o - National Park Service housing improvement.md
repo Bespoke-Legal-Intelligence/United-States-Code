@@ -52,11 +52,11 @@ For those units of the National Park System for which the review required by par
 
 &emsp;Each lease under subparagraph (A)(i)—
 
-&emsp;&emsp;(i) shall stipulate whether operation and maintenance of field employee quarters is tobe provided by the lessee, field employees or the Federal Government;
+&emsp;&emsp;(i) shall stipulate whether operation and maintenance of field employee quarters is to be provided by the lessee, field employees or the Federal Government;
 
 &emsp;&emsp;(ii) shall require that the construction and rehabilitation of field employee quarters be done in accordance with the requirements of the National Park Service and local applicable building codes and industry standards;
 
-&emsp;&emsp;(iii) shall contain such additional terms and conditions as may be appropriate to protect the Federal interest, including limits on rents the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
+&emsp;&emsp;(iii) shall contain such additional terms and conditions as may be appropriate to protect the Federal interest, including limits onrents the lessee may charge field employees for the occupancy of quarters, conditions on maintenance and repairs, and agreements on the provision of charges for utilities and other infrastructure; and
 
 &emsp;&emsp;(iv) may be granted at less than fair market value if the Secretary determines that such lease will improve the quality and availability of field employee quarters available.
 
@@ -134,11 +134,11 @@ Expenditure of any funds authorized and appropriated for new construction, repai
 
 #### (14) Annual budget submittal
 
-The President's proposed budget to Congress for the first fiscal year beginning after November 12, 1996, and for each subsequent fiscal year, shall include identification of nonconstruction funds to be spent for National Park Servicehousing maintenance and operations which are in addition to rental receipts collected.
+The President's proposed budget to Congress for the first fiscal year beginning after November 12, 1996, and for each subsequent fiscal year, shall include identification of nonconstruction funds to be spent for National Park Service housing maintenance and operations which are in addition to rental receipts collected.
 
 #### (15) Study of housing allowances
 
-Within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. The study shall specifically examine the feasibility of providing rental allowances to temporary and lower paid permanent employees. Whenever the Secretary submits a copy of such study to the Office of Management and Budget, he shall concurrently transmit copies of the report to the Resources Committee of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
+Within 12 months after November 12, 1996, the Secretary shall conduct a study to determine the feasibility of providing eligible employees of the National Park Service with housing allowances rather than Government housing. The study shall specifically examine the feasibility of providing rental allowances to temporary and lower paid permanent employees. Whenever the Secretary submits a copy of such study to theOffice of Management and Budget, he shall concurrently transmit copies of the report to the Resources Committee of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
 
 #### (16) Study of sale of employee housing
 

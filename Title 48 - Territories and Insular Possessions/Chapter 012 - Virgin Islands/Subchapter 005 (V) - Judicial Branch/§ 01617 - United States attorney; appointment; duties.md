@@ -18,7 +18,3 @@ The President shall, by and with the advice and consent of the Senate, appoint a
 
 Amendment by Pub. L. 98–454 effective on ninetieth day following Oct. 5, 1984, see section 1005 of Pub. L. 98–454, set out as a note under section 1424 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1494b of this title.
-

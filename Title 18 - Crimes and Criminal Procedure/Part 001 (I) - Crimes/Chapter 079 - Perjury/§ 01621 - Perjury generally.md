@@ -30,7 +30,3 @@ Minor verbal changes were made.
 
 1964—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 sections 1324a, 1357; title 30 section 49e; title 42 section 5197a; title 50 App. section 19.
-

@@ -54,11 +54,7 @@ Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 
 
 #### Transfer of Functions
 
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§301, 306, eff. July 1, 1939, 4 F.R. 2729, 53Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 590z of this title; title 33 section 701–1.
 

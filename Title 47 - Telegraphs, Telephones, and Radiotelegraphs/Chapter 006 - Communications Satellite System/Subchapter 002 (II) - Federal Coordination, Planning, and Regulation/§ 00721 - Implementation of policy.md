@@ -50,7 +50,7 @@ The Communications Act of 1934, as amended, referred to in subsec. (c), is act J
 
 #### Codification
 
-Subsecs. (a)(1), (5), (6), (b), and (c)(1), (3) to (5), (8) to (10) of this section ceased to be effective Mar. 17, 2000, pursuant to section 765d(1) of this title. Prior to being omitted, subsec. (a)(1), (5) and (6) directed the President to aid in a national program to establish and operate a commercial communications satellite system, to insure arrangements were made for foreign participation in the establishment and use of the system, and to insure availability and utilization of the system for general governmental purposes, subsec. (b) directed the National Aeronautics and Space Administration to give technical advice to the Commission and to cooperate with, assist, and provide services to the corporation, and subsec. (c)(1), (3) to (5), (8) to (10) directed the Federal Communications Commission to insure effective competition in procurement of services, to require establishment of communication to a particular foreign point when advised by the Secretary of State, to insure technical compatibility of the system with satellite terminal stations, to insure system economies are reflected in rates, to authorize the corporation to issue stock, borrow moneys, and assume securities obligations, to insure that substantial additions to the system or stations are made only when necessary, and to require necessary additions to be made with respect to the system or stations.
+Subsecs. (a)(1), (5), (6), (b), and (c)(1), (3) to (5), (8) to (10) of this section ceased to be effective Mar. 17, 2000, pursuant to section 765d(1) of this title. Prior to being omitted, subsec. (a)(1), (5) and (6) directed the President to aid in a national program to establish and operate acommercial communications satellite system, to insure arrangements were made for foreign participation in the establishment and use of the system, and to insure availability and utilization of the system for general governmental purposes, subsec. (b) directed the National Aeronautics and Space Administration to give technical advice to the Commission and to cooperate with, assist, and provide services to the corporation, and subsec. (c)(1), (3) to (5), (8) to (10) directed the Federal Communications Commission to insure effective competition in procurement of services, to require establishment of communication to a particular foreign point when advised by the Secretary of State, to insure technical compatibility of the system with satellite terminal stations, to insure system economies are reflected in rates, to authorize the corporation to issue stock, borrow moneys, and assume securities obligations, to insure that substantial additions to the system or stations are made only when necessary, and to require necessary additions to be made with respect to the system or stations.
 
 #### Amendments
 
@@ -59,8 +59,4 @@ Subsecs. (a)(1), (5), (6), (b), and (c)(1), (3) to (5), (8) to (10) of this sect
 #### Executive Order No. 11191
 
 Ex. Ord. No. 11191, Jan. 4, 1965, 30 F.R. 29, as amended by Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, which related to the administration of the Communications Satellite Act of 1962 \[this chapter\], was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out as a note under section 305 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 765d, 902 of this title.
 

@@ -32,7 +32,7 @@ Any agency managing and implementing an assistance program for the independent s
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, knownas the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 12 of part I of the Act is classified generally to part XII \[§2296 et seq.\] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -184,7 +184,9 @@ Pub. L. 107–115, title II \[(g)(2)–(6)\], Jan. 10, 2002, 115 Stat. 2129, pro
 
 &emsp;“(C) the status of negotiations for a peaceful settlement between Armenia and Azerbaijan and the impact of United States assistance on those negotiations.”
 
-Section 907 of Pub. L. 102–511 provided that: “United States assistance under this or any other Act (otherthan assistance under title V of this Act \[22 U.S.C. 5851 et seq.\]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
+\[Functions of President under subsecs. (g)(4) and (6) of title II of Pub. L. 107–115, set out above, delegated to Secretary of State by section 1–100(a)(13) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
+
+Section 907 of Pub. L. 102–511 provided that: “United States assistance under this or any other Act (other than assistance under title V of this Act \[22 U.S.C. 5851 et seq.\]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
 
 #### Support for Macroeconomic Stabilization in Independent States of Former Soviet Union
 
@@ -242,7 +244,7 @@ Sec. 3. <i>Secretary of State-Additional Functions</i>. There are delegated to t
 
 (c) paragraph (3) of section 498A(c) of the Foreign Assistance Act \[22 U.S.C. 2295a(c)(3)\] and the requirement to make reports under that section regarding determinations under that paragraph;
 
-(d) subsection (d) under the heading “Assistance for the New Independent States of the Former Soviet Union” contained in Title II of Public Law 102–391 \[106 Stat. 1650\]; and
+(d) subsection (d) under the heading “Assistance for the New Independent States of the Former SovietUnion” contained in Title II of Public Law 102–391 \[106 Stat. 1650\]; and
 
 (e) section 592 of Public Law 102–391 \[106 Stat. 1691\], except to the extent otherwise provided in section 5(b) of this order.
 
@@ -264,15 +266,15 @@ Sec. 6. <i>General</i>. (a) the \[sic\] functions described in sections 4 and 5 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to Pub. L. 105–277, div. G,subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792.\]
+\[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792.\]
 
 #### Waiver of Restriction on Assistance to Azerbaijan
 
-Determination of President of the United States, No. 2004–18, Dec. 30, 2003, 69 F.R. 2057, provided:
+Determination of President of the United States, No. 2005–18, Jan. 13, 2005, 70 F.R. 3853, provided:
 
 Memorandum for the Secretary of State
 
-Consistent with the authority contained in title II of the Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115) \[see title II \[(g)(2)–(6)\] of Pub. L. 107–115, set out as a note above\], I hereby determine and certify that extending the waiver of section 907 of the FREEDOM Support Act of 1992 (Public Law 102–511) \[set out as a note above\]:
+Pursuant to the authority contained in title II of the Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115) \[see title II \[(g)(2)–(6)\] of Pub. L. 107–115, set out as a note above\], I hereby determine and certify that extending the waiver of section 907 of the FREEDOM Support Act of 1992 (Public Law 102–511) \[set out as a note above\]:
 
 • is necessary to support United States efforts to counter international terrorism;
 
@@ -290,11 +292,9 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior waivers of section 907 of Pub. L. 102–511 were contained in the following:
 
-Determination of the President of the United States, No. 2003–12, Jan. 17, 2003, 68 F.R. 3803.
+Determination of President of the United States, No. 2004–18, Dec. 30, 2003, 69 F.R. 2057.
 
-Determination of the President of the United States, No. 2002–06, Jan. 25, 2002, 67 F.R. 5921.
+Determination of President of the United States, No. 2003–12, Jan. 17, 2003, 68 F.R. 3803.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5813, 5841 of this title.
+Determination of President of the United States, No. 2002–06, Jan. 25, 2002, 67 F.R. 5921.
 

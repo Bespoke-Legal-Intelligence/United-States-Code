@@ -16,7 +16,7 @@ The Secretary shall address priority substance abuse prevention needs of regiona
 
 #### (1) In general
 
-&emsp;Priority substance abuse prevention needs of regional and national significance shall be determined by the Secretary in consultationwith the States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
+&emsp;Priority substance abuse prevention needs of regional and national significance shall be determined by the Secretary in consultation with the States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
 
 #### (2) Special consideration
 

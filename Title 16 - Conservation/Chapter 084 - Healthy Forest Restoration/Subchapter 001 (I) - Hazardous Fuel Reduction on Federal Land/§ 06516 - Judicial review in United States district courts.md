@@ -34,7 +34,3 @@ In the judicial review of an action challenging an authorized hazardous fuel red
 
 (Pub. L. 108–148, title I, §106, Dec. 3, 2003, 117 Stat. 1900.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6515 of this title.
-

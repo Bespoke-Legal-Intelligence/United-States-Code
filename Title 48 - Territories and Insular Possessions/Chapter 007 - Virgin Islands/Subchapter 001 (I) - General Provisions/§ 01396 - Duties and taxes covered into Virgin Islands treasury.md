@@ -4,7 +4,3 @@ The duties and taxes collected in pursuance of sections 1394 and 1395 of this ti
 
 (Mar. 3, 1917, ch. 171, §5, 39 Stat. 1133.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1392 of this title.
-

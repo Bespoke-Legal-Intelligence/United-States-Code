@@ -2,7 +2,7 @@
 
 #### (a) Assignment for deduction of dues
 
-If the Department has received from any individual a written assignment which authorizes the Department to deduct from the salary of that individual amounts for the payment of regular and periodic dues of the exclusive representative, the Department shall honor the assignment. Any such assignment shall be made at no cost to the exclusive representative or the individual. Except as provided in subsection (b) of this section, any such assignment may not be revoked for a period of one year from its execution.
+If the Department has received from any individual a written assignment which authorizes the Department to deduct from the salary ofthat individual amounts for the payment of regular and periodic dues of the exclusive representative, the Department shall honor the assignment. Any such assignment shall be made at no cost to the exclusive representative or the individual. Except as provided in subsection (b) of this section, any such assignment may not be revoked for a period of one year from its execution.
 
 #### (b) Termination of assignment for deduction of dues
 
@@ -22,7 +22,7 @@ During any period when no labor organization is certified as the exclusive repre
 
 The following provisions shall apply to the use of official time:
 
-&emsp;(1) Any employee representing an exclusive representative in the negotiation of a collective bargaining agreement under this subchapter shall be authorized official time for such purposes, including attendance at impasse proceedings, during the time the employee otherwise would be in a duty status. The number of employees for whom officialtime is authorized under this paragraph shall not exceed the number of individuals designated as representing the Department for such purposes.
+&emsp;(1) Any employee representing an exclusive representative in the negotiation of a collective bargaining agreement under this subchapter shall be authorized official time for such purposes, including attendance at impasse proceedings, during the time the employee otherwise would be in a duty status. The number of employees for whom official time is authorized under this paragraph shall not exceed the number of individuals designated as representing the Department for such purposes.
 
 &emsp;(2) Any activities performed by any employee relating to the internal business of the labor organization, including the solicitation of membership, elections of labor organization officials, and collection of dues, shall be performed during the time the employee is in a nonduty status.
 

@@ -54,7 +54,7 @@ Content of Plan.—A plan prepared under paragraph (1) shall include—
 
 “(a)
 
-In General.—The \[sic\] following completion of a shoreline mapping plan under section 3202 and subjectto authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
+In General.—The \[sic\] following completion of a shoreline mapping plan under section 3202 and subject to authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
 
 “(b)
 
@@ -118,7 +118,7 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 
 “For purposes of this subtitle—
 
-&emsp;“(1) The term ‘Director’ means the Director of Charting and Geodetic Services of the National Ocean Service, within the National Oceanic and Atmospheric Administration.
+&emsp;“(1) The term ‘Director’ means the Director of Charting and Geodetic Services of the National OceanService, within the National Oceanic and Atmospheric Administration.
 
 &emsp;“(2) The term ‘Great Lakes’ means Lake Erie, Lake Huron, Lake Michigan, Lake Ontario, Lake St. Clair, Lake Superior, the Saint Mary's River, the Saint Clair River, the Detroit River, the Niagara River, the Saint Lawrence River to the Canadian border, to the extent such lakes and rivers are subject to the jurisdiction of the United States.
 
@@ -129,8 +129,4 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 “There are authorized to be appropriated to carry out section 3202 not more than $100,000 for fiscal year 1989. Amounts appropriated pursuant to this section shall remain available until expended.”
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 44721.
 

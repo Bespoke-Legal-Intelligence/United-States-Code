@@ -4,7 +4,3 @@ The funds apportioned to the Oneida Tribe of Indians of Wisconsin and the Stockb
 
 (Pub. L. 90–93, §5, Sept. 27, 1967, 81 Stat. 229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1141 of this title.
-

@@ -40,7 +40,3 @@ The Adult Education and Family Literacy Act, referred to in subsec. (a), is titl
 
 A prior section 1241 of Pub. L. 89–10 was classified to section 2801 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6381a of this title.
-

@@ -60,7 +60,7 @@
 
 &emsp;(ii) beginning with the first plan year beginning after the expiration of all relevant collective bargaining agreements which were in effect in the plan year in which the plan became insolvent,
 
-> the plan's valuation contribution base is the greater of the number of contribution base units for which contributions were received for the first or second plan year preceding the first planyear in which the plan is insolvent, adjusted as provided in clause (ii) or (iii) of subparagraph (A).
+> the plan's valuation contribution base is the greater of the number of contribution base units for which contributions were received for the first or second plan year preceding the first plan year in which the plan is insolvent, adjusted as provided in clause (ii) or (iii) of subparagraph (A).
 
 #### (d) Maximum amount; amount of funding standard requirement; applicability to plan amendments increasing benefits
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
 
-&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plan due to increases in benefits described in clause (i) over—
+&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plandue to increases in benefits described in clause (i) over—
 
 &emsp;&emsp;&emsp;(I) 10 years, to the extent such increase in value is attributable to persons in pay status, or
 
@@ -139,8 +139,4 @@ For purposes of making any determination under this part, the requirements of se
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1082, 1202, 1322a, 1396, 1422, 1424, 1425, 1426, 1461 of this title.
 

@@ -8,7 +8,3 @@ In case an individual who distinguishes himself dies before the making of any aw
 
 This section sets forth the conditions under which posthumous awards can be made. It is substantially the same as conditions for the Navy, but has the added provision for duplicate awards in case the parents are divorced or separated (see title 34, U.S.C., 1946 ed., §363). 81st Congress, House Report No. 557.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 505 of this title.
-

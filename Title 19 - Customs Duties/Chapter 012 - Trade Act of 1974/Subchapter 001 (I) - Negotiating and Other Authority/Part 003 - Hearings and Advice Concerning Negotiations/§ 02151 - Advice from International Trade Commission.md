@@ -22,7 +22,7 @@ In preparing its advice to the President under this section, the Commission shal
 
 &emsp;(2) analyze the production, trade, and consumption of each like or directly competitive article or service, taking into consideration employment, profit levels, and use of productive facilities with respect to the domestic industries concerned, and such other economic factors in such industries as it considers relevant, including prices, wages, sales, inventories, patterns of demand, capital investment, obsolescence of equipment, and diversification of production;
 
-&emsp;(3) describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possiblechanges on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
+&emsp;(3) describe the probable nature and extent of any significant change in employment, profit levels, and use of productive facilities; the overall impact of such or other possible changes on the competitiveness of relevant domestic industries or sectors; and such other conditions as it deems relevant in the domestic industries or sectors concerned which it believes such modifications would cause; and
 
 &emsp;(4) make special studies (including studies of real wages paid in foreign supplying countries), whenever deemed to be warranted, of particular proposed modifications affecting United States manufacturing, agriculture, mining, fishing, labor, consumers, services, intellectual property and investment, using to the fullest extent practicable United States Government facilities abroad and appropriate personnel of the United States.
 
@@ -47,8 +47,4 @@ Subsec. (c). Pub. L. 107–210, §2110(a)(2)(C), substituted “section 3803 of 
 #### Delegation of Authority
 
 For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2137, 2153, 2154, 2212, 2463 of this title.
 

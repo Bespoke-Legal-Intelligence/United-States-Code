@@ -29,10 +29,6 @@
 
 1950—Act May 27, 1950, ch. 214, §2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2251, 2252, 2252A, 2257, 2516, 3553 of this title; title 15 sections 7703, 7707; title 19 section 1583; title 39 section 3001; title 47 section 230.
-
 
 ---
 

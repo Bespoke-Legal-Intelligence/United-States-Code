@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), for each fiscal year, amounts made availableunder this subsection to carry out section 467f of this title shall be allocated among the States as follows:
+&emsp;&emsp;Subject to subparagraphs (B) and (C), for each fiscal year, amounts made available under this subsection to carry out section 467f of this title shall be allocated among the States as follows:
 
 &emsp;&emsp;&emsp;(i) One-third among States that qualify for assistance under section 467f(e) of this title.
 
@@ -71,8 +71,4 @@ Subsecs. (c) to (e). Pub. L. 107–310, §7(c), added subsecs. (c) to (e) and st
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 467f of this title.
 

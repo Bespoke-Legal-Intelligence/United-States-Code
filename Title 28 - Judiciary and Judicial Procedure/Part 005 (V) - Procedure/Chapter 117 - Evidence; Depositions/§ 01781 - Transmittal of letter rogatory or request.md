@@ -20,7 +20,7 @@ Based on title 28, U.S.C., 1940 ed., §653 (R.S. §875; Feb. 27, 1877, ch. 69, �
 
 Word “officer” was substituted for “commissioner” to obviate uncertainty as to the person to whom the letters or commissioned may be issued.
 
-The third sentence of section 653 of title 28, U.S.C., 1940 ed., providing for admission of testimony “so taken and returned” without objection as to the method of return, was omitted as unnecessary. Obviously, if the method designated by Congress is followed, it cannot be objected to.
+The third sentence of section 653 of title 28, U.S.C., 1940 ed., providing for admission of testimony “so taken and returned” without objection as to the method of return, was omitted as unnecessary. Obviously, ifthe method designated by Congress is followed, it cannot be objected to.
 
 The last sentence of section 653 of title 26, U.S.C., 1940 ed., relating to letters rogatory from courts of foreign countries, is incorporated in section 1782 of this title.
 
@@ -33,8 +33,4 @@ Changes were made in phraseology.
 #### Amendments
 
 1964—Pub. L. 88–619 substituted provisions authorizing the Department of State to transmit a letter rogatory or request by a foreign or international tribunal, or by a tribunal in the United States, to the tribunal, officer or agency in the United States or its foreign or international counterpart, to whom addressed, and to return it after execution, and providing that this section does not preclude direct transmission of letters rogatory or requests between interested tribunals, officers or agencies of foreign, international and of United States origin, for provisions authorizing United States ministers or consuls, whenever a United States court issues letters rogatory or a commission to take a deposition, to receive the executed letters or commissions from foreign courts or officers, endorse them with the place and date of receipt and any change in the deposition, and transmit it to the clerk of the issuing court in the same manner as his official dispatches, in text and “Transmittal of letter rogatory or request” for “Foreign witnesses” in section catchline.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 7423.
 

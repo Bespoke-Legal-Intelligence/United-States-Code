@@ -42,7 +42,3 @@ Subsec. (c). Pub. L. 99–432, §2(a), struck out heading and text of subsec. (c
 
 Subsec. (d). Pub. L. 99–432, §2(a), redesignated subsec. (d) as (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5154 of this title.
-

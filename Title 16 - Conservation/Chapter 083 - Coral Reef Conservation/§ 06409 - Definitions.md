@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Conservation
 
-&emsp;The term “conservation” means the use of methods and procedures necessary to preserve or sustain corals and associated species as diverse, viable, and self-perpetuating coral reefecosystems, including all activities associated with resource management, such as assessment, conservation, protection, restoration, sustainable use, and management of habitat; mapping; habitat monitoring; assistance in the development of management strategies for marine protected areas and marine resources consistent with the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.) and the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); law enforcement; conflict resolution initiatives; community outreach and education; and that promote safe and ecologically sound navigation.
+&emsp;The term “conservation” means the use of methods and procedures necessary to preserve or sustain corals and associated species as diverse, viable, and self-perpetuating coral reef ecosystems, including all activities associated with resource management, such as assessment, conservation, protection, restoration, sustainable use, and management of habitat; mapping; habitat monitoring; assistance in the development of management strategies for marine protected areas and marine resources consistent with the National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.) and the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.); law enforcement; conflict resolution initiatives; community outreach and education; and that promote safe and ecologically sound navigation.
 
 #### (3) Coral
 

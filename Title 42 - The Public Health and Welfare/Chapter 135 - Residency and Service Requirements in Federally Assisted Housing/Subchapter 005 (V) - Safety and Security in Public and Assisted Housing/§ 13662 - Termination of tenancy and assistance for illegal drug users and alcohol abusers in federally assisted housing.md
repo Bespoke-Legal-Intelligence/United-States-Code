@@ -16,15 +16,11 @@ In determining whether, pursuant to subsection (a)(2) of this section, to termin
 
 &emsp;(2) has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
 
-&emsp;(3) is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
+&emsp;(3) is participating in a supervised drug or alcohol rehabilitation program (as applicable)and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
 
 (Pub. L. 105–276, title V, §577, Oct. 21, 1998, 112 Stat. 2640.)
 
 #### Codification
 
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1437d of this title.
 

@@ -6,9 +6,5 @@ The Register of Copyrights shall receive all royalty payments deposited under th
 
 #### Amendments
 
-1993—Pub. L. 103–198 struck out at end “The Register shall submit to the Copyright Royalty Tribunal, on amonthly basis, a financial statement reporting the amount of royalties under this chapter that are available for distribution.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 801, 1006, 1009 of this title.
+1993—Pub. L. 103–198 struck out at end “The Register shall submit to the Copyright Royalty Tribunal, on a monthly basis, a financial statement reporting the amount of royalties under this chapter that are available for distribution.”
 

@@ -22,10 +22,6 @@ Pub. L. 100–440, title VI, §616, Sept. 22, 1988, 102 Stat. 1754.
 
 Pub. L. 100–202, §101(m) \[title VI, §621\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–427.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 6 section 113; title 42 section 6635.
-
 
 ---
 

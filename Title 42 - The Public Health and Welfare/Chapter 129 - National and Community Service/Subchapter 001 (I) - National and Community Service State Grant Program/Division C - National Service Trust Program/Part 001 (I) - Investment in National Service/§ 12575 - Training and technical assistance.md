@@ -36,7 +36,3 @@ A prior section 12575, Pub. L. 101–610, title I, §145, Nov. 16, 1990, 104 Sta
 
 A prior section 125 of Pub. L. 101–610 was renumbered section 199E, and is classified to section 12655d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12581, 12681 of this title.
-

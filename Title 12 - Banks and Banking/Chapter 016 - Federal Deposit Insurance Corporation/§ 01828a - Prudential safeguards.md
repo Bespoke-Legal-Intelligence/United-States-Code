@@ -24,7 +24,7 @@
 
 &emsp;The Board of Governors of the Federal Reserve System may, by regulation or order, impose restrictions or requirements on relationships or transactions—
 
-&emsp;&emsp;(A) between a depository institution subsidiary of a bank holding company and any affiliate of such depository institution (other than a subsidiary of such institution); or
+&emsp;&emsp;(A) between a depository institution subsidiary of a bank holding company and anyaffiliate of such depository institution (other than a subsidiary of such institution); or
 
 &emsp;&emsp;(B) between a State member bank and a subsidiary of such bank;
 
@@ -93,8 +93,4 @@ Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of th
 #### Effective Date
 
 Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3106 of this title.
 

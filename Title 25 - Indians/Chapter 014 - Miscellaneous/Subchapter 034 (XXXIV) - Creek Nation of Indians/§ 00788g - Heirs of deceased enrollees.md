@@ -4,7 +4,3 @@ The Secretary shall distribute a share payable to a living enrollee directly to 
 
 (Pub. L. 90–506, §3, Sept. 21, 1968, 82 Stat. 859.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 788f, 788h of this title.
-

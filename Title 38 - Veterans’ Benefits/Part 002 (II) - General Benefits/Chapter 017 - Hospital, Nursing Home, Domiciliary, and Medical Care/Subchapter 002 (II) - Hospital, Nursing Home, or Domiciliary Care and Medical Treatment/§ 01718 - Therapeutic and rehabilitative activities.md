@@ -120,7 +120,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Demonstration Program of Compensated Work Therapy and Therapeutic Transitional Housing
 
-Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated worktherapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
+Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
 
 #### Settlement of Claims
 
@@ -129,8 +129,4 @@ Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept
 “(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities and personnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
 
 “(2) For the purposes of this subsection, notwithstanding section 3302 of title 31, or any other provision of law, the Secretary may utilize any funds received under any settlement made pursuant to paragraph (1) of this subsection for any purpose agreed upon by the Secretary and such corporation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 1151, 2031, 2063 of this title.
 

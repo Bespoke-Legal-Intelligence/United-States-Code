@@ -8,10 +8,6 @@ A prior subchapter III (§571 et seq.) was redesignated subchapter V (§591 et s
 
 1992—Pub. L. 102–354, §3(a)(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter IV of this chapter relating to negotiated rulemaking procedure as this subchapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 20 sections 2326, 6571; title 23 section 202; title 25 sections 450k, 458gg, 458aaa–16, 2018, 4116; title 42 sections 1320d–1, 1395w–26, 1437g, 1485.
-
 
 ---
 

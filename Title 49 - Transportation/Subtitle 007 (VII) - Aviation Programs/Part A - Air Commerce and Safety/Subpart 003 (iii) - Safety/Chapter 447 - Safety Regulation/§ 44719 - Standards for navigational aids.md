@@ -22,7 +22,3 @@ Dec. 30, 1987, Pub. L. 100–223, §308, 101 Stat. 1526.
 
 The words “Not later than December 31, 1988” are omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 46301 of this title.
-

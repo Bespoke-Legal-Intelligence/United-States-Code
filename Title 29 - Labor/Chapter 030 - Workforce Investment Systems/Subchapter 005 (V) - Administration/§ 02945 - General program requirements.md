@@ -22,7 +22,7 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;&emsp;(i) receipts from goods or services (including conferences) provided as a result of activities funded under this chapter;
 
-&emsp;&emsp;(ii) funds provided to a service provider under this chapter that are in excess of thecosts associated with the services provided; and
+&emsp;&emsp;(ii) funds provided to a service provider under this chapter that are in excess of the costs associated with the services provided; and
 
 &emsp;&emsp;(iii) interest income earned on funds received under this chapter.
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;(B) The Governor shall notify the appropriate local board and chief elected official of, and consult with such board and official concerning, any activity to be funded by the Governor under this chapter within the corresponding local area.
 
-&emsp;(9)(A) All education programs for youth supported with funds provided under part D of subchapter II of this chapter shall be consistent with applicable State and local educational standards.
+&emsp;(9)(A) All education programs for youth supported with funds provided under part D ofsubchapter II of this chapter shall be consistent with applicable State and local educational standards.
 
 &emsp;(B) Standards and procedures with respect to awarding academic credit and certifying educational attainment in programs conducted under such part shall be consistent with the requirements of applicable State and local law, including regulation.
 

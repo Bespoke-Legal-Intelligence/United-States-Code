@@ -60,7 +60,3 @@ Amounts authorized to be appropriated under this section shall be subject to dis
 
 Section 665 of title 2, referred to in subsec. (c), was repealed by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4713 of this title.
-

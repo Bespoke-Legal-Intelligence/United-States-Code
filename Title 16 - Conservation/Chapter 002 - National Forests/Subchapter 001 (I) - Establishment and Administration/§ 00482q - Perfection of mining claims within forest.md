@@ -4,7 +4,3 @@ Valid mining claims within the said lands, existing on July 12, 1951, and therea
 
 (July 12, 1951, ch. 222, §3, 65 Stat. 119.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 482<i>o</i> of this title.
-

@@ -10,7 +10,3 @@
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 16 of this title.
-

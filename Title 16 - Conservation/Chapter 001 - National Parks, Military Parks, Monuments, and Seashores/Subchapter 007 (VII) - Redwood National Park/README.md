@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—REDWOOD NATIONAL PARK
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 31 section 1603.
-
 
 ---
 

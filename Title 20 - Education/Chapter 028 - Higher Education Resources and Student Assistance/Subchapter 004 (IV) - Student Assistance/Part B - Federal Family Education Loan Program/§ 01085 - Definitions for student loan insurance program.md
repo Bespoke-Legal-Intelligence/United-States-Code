@@ -96,7 +96,7 @@ As used in this part:
 
 &emsp;&emsp;(IV) The placement rate shall not include as placements a student or former student for whom the institution is the employer.
 
-&emsp;(B) For purposes of determining a rate of completion and a placement rate under this paragraph, a student is originally scheduled, at the time of enrollment, to complete the educational program on the date when the student will have been enrolled in the program for the amount of time normally required to complete the program. The amount of time normally required to complete the program for a student who is initially enrolled full-time is the period of time specified in the institution's enrollment contract, catalog, or other materials, for completion of the program by a full-time student. For a student who is initially enrolled less than full-time, the period is the amount of time it would take the student to complete the program if the student remained enrolled at that level of enrollment throughout the program.
+&emsp;(B) For purposes of determining a rate of completion and a placement rate under this paragraph, a student is originally scheduled, at the time of enrollment, to complete the educational program on the date when the student will have been enrolled in the program for the amount of time normally required to complete the program. The amount of timenormally required to complete the program for a student who is initially enrolled full-time is the period of time specified in the institution's enrollment contract, catalog, or other materials, for completion of the program by a full-time student. For a student who is initially enrolled less than full-time, the period is the amount of time it would take the student to complete the program if the student remained enrolled at that level of enrollment throughout the program.
 
 #### (5) Reduction of default rates at certain minority institutions
 
@@ -144,7 +144,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(i) is subject to examination and supervision by an agency of the United States or of the State in which its principal place of operation is established, and
 
-&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, or (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(1) of such title, and the bank makes loans under this part only to undergraduate students who are age 22 or younger and has a portfolio of such loans that is not more than $5,000,000;
+&emsp;&emsp;&emsp;(ii) does not have as its primary consumer credit function the making or holding of loans made to students under this part unless (I) it is a bank which is wholly owned by a State, or a bank which is subject to examination and supervision by an agency of the United States, makes student loans as a trustee pursuant to an express trust, operated as a lender under this part prior to January 1, 1975, and which meets the requirements of this provision prior to July 23, 1992, (II) it is a single wholly owned subsidiary of a bank holding company which does not have as its primary consumer credit function the making or holding of loans made to students under this part, or (III) it is a bank (as defined in section 1813(a)(1) of title 12) that is a wholly owned subsidiary of a nonprofit foundation, the foundation is described in section 501(c)(3) of title 26 and exempt from taxation under section 501(1) of such title, and the bank makes loans under this part only to undergraduate students whoare age 22 or younger and has a portfolio of such loans that is not more than $5,000,000;
 
 &emsp;&emsp;(B) a pension fund as defined in the Employee Retirement Income Security Act \[29 U.S.C. 1001 et seq.\];
 
@@ -202,7 +202,7 @@ As used in this part:
 
 &emsp;The term “eligible lender” does not include any lender that the Secretary determines, after notice and opportunity for a hearing, has after October 17, 1986—
 
-&emsp;&emsp;(A) offered, directly or indirectly, points, premiums, payments, or other inducements, to any educational institution or individual in order to secure applicants for loans under this part;
+&emsp;&emsp;(A) offered, directly or indirectly, points, premiums, payments, or other inducements, to any educational institution or individualin order to secure applicants for loans under this part;
 
 &emsp;&emsp;(B) conducted unsolicited mailings to students of student loan application forms, except to students who have previously received loans under this part from such lender;
 
@@ -258,9 +258,9 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(B) A loan on which a payment is made by the school, such school's owner, agent, contractor, employee, or any other entity or individual affiliated with such school, in order to avoid default by the borrower, is considered as in default for purposes of this subsection.
 
-&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
+&emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respectto defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
-&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup>of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
+&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
 #### (3) Regulations to prevent evasions
 
@@ -312,7 +312,7 @@ The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub.
 
 The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug.10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subsec. (d)(1)(I), is act May 3, 1950, ch. 152, 64 Stat. 98, known as the Rural Rehabilitation Corporation Trust Liquidation Act, which was classified to sections 440 to 444 of former Title 40, Public Buildings, Property, and Works, and as notes set out under section 1001 of Title 7, Agriculture, and section 440 of former Title 40, and was omitted from the Code.
 
@@ -466,7 +466,7 @@ Pub. L. 105–244, title IV, §429(c)(2), Oct. 7, 1998, 112 Stat. 1708, provided
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) ofthis title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
+Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) of this title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
 
 #### Effective Date of 1993 Amendments
 
@@ -493,10 +493,6 @@ Section effective Oct. 17, 1986, with subsec. (d)(5) of this section effective 3
 #### Definition of Institution of Higher Education
 
 Section 427(b)(2) of Pub. L. 102–325 provided that: “With respect to reference in any other provision of law to the definition of institution of higher education contained in section 435(b) of the Act \[former 20 U.S.C. 1085(b)\], such provision shall be deemed to refer to section 481(a) of the Act \[former 20 U.S.C. 1088(a)\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1071, 1074, 1075, 1077, 1078, 1078–3, 1078–7, 1080, 1082, 1087–2, 1087c, 1087e, 1087dd, 2341a, 2373 of this title; title 2 section 1602; title 11 section 362; title 25 section 3324.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Each department, agency, and independent establishment of the Federal Government
 
 #### (b) Consultation with departments, agencies, and independent establishments of Federal Government
 
-Each department, agency, and independent establishment of the Federal Government shall keep the Center currently informed of its programs, policies, and initiatives to improve productivity which relate to the responsibilities of the Center, and shall consult with the Center prior to the obligation or expenditure of funds for activities or projects to improve productivity growth.
+Each department, agency, and independent establishment of the Federal Government shall keep the Center currently informed of its programs, policies, and initiatives to improve productivity which relate to the responsibilities of the Center, and shall consult with the Center prior to the obligation or expenditure of fundsfor activities or projects to improve productivity growth.
 
 #### (c) Access to information
 

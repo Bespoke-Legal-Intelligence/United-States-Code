@@ -34,11 +34,11 @@
 
 &emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sourcesof commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
-(4) Under the cooperative agreement program under paragraph (1), the Secretary shall pay, byreimbursement or otherwise, all costs for tuition, books, and fees of an Indian student who—
+(4) Under the cooperative agreement program under paragraph (1), the Secretary shall pay, by reimbursement or otherwise, all costs for tuition, books, and fees of an Indian student who—
 
 &emsp;(A) is enrolled in a course of study at an education institution with which the Secretary has entered into a cooperative agreement; and
 

@@ -14,7 +14,3 @@ There are authorized to be appropriated to carry out this subchapter, in additio
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290h–7 of this title.
-

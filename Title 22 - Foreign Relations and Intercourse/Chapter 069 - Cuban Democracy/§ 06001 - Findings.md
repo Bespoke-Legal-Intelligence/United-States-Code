@@ -8,7 +8,7 @@ The Congress makes the following findings:
 
 &emsp;(3) The Castro government maintains a military-dominated economy that has decreased the well-being of the Cuban people in order to enable the government to engage in military interventions and subversive activities throughout the world and, especially, in the Western Hemisphere. These have included involvement in narcotics trafficking and support for the FMLN guerrillas in El Salvador.
 
-&emsp;(4) There is no sign that the Castro regime is prepared to make any significant concessions to democracy or to undertake any form of democratic opening. Efforts to suppress dissent through intimidation, imprisonment, and exile have accelerated since the political changes that have occurred in the former Soviet Union and Eastern Europe.
+&emsp;(4) There is no sign that the Castro regime is prepared to make any significant concessionsto democracy or to undertake any form of democratic opening. Efforts to suppress dissent through intimidation, imprisonment, and exile have accelerated since the political changes that have occurred in the former Soviet Union and Eastern Europe.
 
 &emsp;(5) Events in the former Soviet Union and Eastern Europe have dramatically reduced Cuba's external support and threaten Cuba's food and oil supplies.
 

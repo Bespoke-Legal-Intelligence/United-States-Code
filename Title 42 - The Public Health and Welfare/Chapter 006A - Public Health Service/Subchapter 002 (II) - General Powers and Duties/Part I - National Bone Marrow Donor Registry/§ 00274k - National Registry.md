@@ -174,7 +174,7 @@ The Registry shall annually submit to the Secretary the data collected under sub
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers,marrow transplant centers, persons with expertise in the social science, and the general public.”
+1998—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public.”
 
 Subsec. (b)(2) to (8). Pub. L. 105–196, §2(b)(1), added pars. (2) to (7), redesignated former par. (7) as (8), and struck out former pars. (2) to (6) which read as follows:
 
@@ -238,33 +238,11 @@ Proceedings.—In any administrative proceeding or lawsuit described in subsecti
 
 Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, provided that: “The Secretary of Health and Human Services shall ensure that, not later than 1 year after the date of the enactment of this Act \[July 16, 1998\], the National Bone Marrow Donor Registry (under section 379 of the Public Health Service Act \[this section\]) develops, evaluates, and implements a plan to effectuate efficiencies in the relationship between such Registry and donor centers. The plan shall incorporate, to the extent practicable, the findings and recommendations made in the inspection conducted by the Office of the Inspector General (Department of Health and Human Services) as of January 1997 and known as the Bone Marrow Program Inspection.”
 
-#### Study by General Accounting Office
+#### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that:
-
-“(a)
-
-In General.—During the period indicated pursuant to subsection (b), the Comptroller General of the United States shall conduct a study of the National Bone Marrow Donor Registry under section 379 of the Public Health Service Act \[this section\] for purposes of making determinations of the following:
-
-&emsp;“(1) The extent to which, relative to the effective date of this Act \[Oct. 1, 1998\], such Registry has increased the representation of racial and ethnic minority groups (including persons of mixed ancestry) among potential donors of bone marrow who are enrolled with the Registry, and whether the extent of increase results in a level of representation that meets the standard established in subsection (c)(1)(A) of such section 379 \[subsec. (c)(1)(A) of this section\] (as added by section 2(c) of this Act).
-
-&emsp;“(2) The extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, have been utilizing the Registry in the search for such a donor.
-
-&emsp;“(3) The number of such patients for whom the Registry began a preliminary search but for whom the full search process was not completed, and the reasons underlying such circumstances.
-
-&emsp;“(4) The extent to which the plan required in section 2(b)(2) of this Act \[set out as a note above\] (relating to the relationship between the Registry and donor centers) has been implemented.
-
-&emsp;“(5) The extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities have been complying with the standards, criteria, and procedures under subsection (e) of such section 379 \[subsec. (e) of this section\] (as redesignated by section 2(c) of this Act).
-
-“(b)
-
-Report.—A report describing the findings of the study under subsection (a) shall be submitted to the Congress not later than October 1, 2001. The report may not be submitted before January 1, 2001.”
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 
-Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that: “With respect to requirements for the office of patient advocacy under section 379(d) of the Public Health Service Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall ensure that, not later than 180 days after the effective date of this Act \[Oct. 1, 1998\], such office is in compliance with allrequirements (established pursuant to the amendment made by section 2(d) \[amending this section\]) that are additional to the requirements that under section 379 of such Act \[this section\] were in effect with respect to patient advocacy on the day before the date of the enactment of this Act \[July 16, 1998\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 274<i>l</i> of this title.
+Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that: “With respect to requirements for the office of patient advocacy under section 379(d) of the Public Health Service Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall ensure that, not later than 180 days after the effective date of this Act \[Oct. 1, 1998\], such office is in compliance with all requirements (established pursuant to the amendment made by section 2(d) \[amending this section\]) that are additional to the requirements that under section 379 of such Act \[this section\] were in effect with respect to patient advocacy on the day before the date of the enactment of this Act \[July 16, 1998\].”
 

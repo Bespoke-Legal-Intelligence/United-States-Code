@@ -122,7 +122,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;For each year of obligated service that an individual contracts to serve under subsection (f) of this section the Secretary may pay up to $35,000 on behalf of the individual for loans described in paragraph (1). In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—
 
-&emsp;&emsp;&emsp;(i) affects the ability of the Secretary to maximize the number of contracts that can be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
+&emsp;&emsp;&emsp;(i) affects the ability of the Secretary to maximize the number of contracts thatcan be provided under the Loan Repayment Program from the amounts appropriated for such contracts;
 
 &emsp;&emsp;&emsp;(ii) provides an incentive to serve in health professional shortage areas with the greatest such shortages; and
 
@@ -230,7 +230,7 @@ Subsec. (f)(2). Pub. L. 101–597, §202(e), inserted before semicolon at end �
 
 Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted “regarding the undergraduate or graduate education of the individual (or both), which loans were made” after “loans received by the individual”.
 
-Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage areafor reference to health manpower shortage area in cls. (ii) and (iii).
+Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in cls. (ii) and (iii).
 
 Pub. L. 101–597, §202(f)(2)(A), substituted “For each year” for “Except as provided in subparagraph (B) and paragraph (3), for each year” and “$35,000” for “$20,000”, inserted at end “In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—”, and added immediately thereafter cls. (i) to (iii).
 
@@ -263,8 +263,4 @@ Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by p
 #### Regulations
 
 Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254<i>o</i> of this title, and repealing former section 254q of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q, 254q–1, 254t, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6 of this title; title 25 section 1616a; title 37 section 303a.
 

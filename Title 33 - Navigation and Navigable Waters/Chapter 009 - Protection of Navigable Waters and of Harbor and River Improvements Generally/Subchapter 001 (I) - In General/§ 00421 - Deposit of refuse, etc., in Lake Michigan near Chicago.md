@@ -8,7 +8,3 @@ It shall not be lawful to throw, discharge, dump, or deposit, or cause, suffer, 
 
 Section is from act June 23, 1910, popularly known as the “Rivers and Harbors Act of 1910”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1371 of this title.
-

@@ -30,7 +30,3 @@ Federal reclamation law, referred to in subsec. (b), is defined in section 390aa
 
 Sections 209 through 230 of this title, referred to in subsec. (b), are sections 209 through 230 of title II of Pub. L. 97–293, which enacted sections 390ii through 390zz–1 of this title, amended sections 373a, 422e, 425b, and 485h of this title, and repealed section 383 of Title 25, Indians.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390ee, 390ff, 390hh, 508, 2212, 2213 of this title.
-

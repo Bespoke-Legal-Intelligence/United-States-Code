@@ -6,7 +6,7 @@ The Secretary of the Treasury shall maintain in the unemployment trust fund esta
 
 #### (b) Authorization of appropriations; advance of sums; repayment
 
-In addition to the other moneys herein provided for expenses necessary or incidental to administering this chapter, there is appropriated to the fund such amount as the Secretary of the Treasury and the Board shall jointly estimate to have been collected or to be collectible with respect to the calendar years 1936, 1937, 1938, and 1939, from employers subject to this chapter, under title IX of the Social Security Act, less such amount as the Secretary of the Treasury and the Board shall jointly estimate will be appropriated or has been appropriated to States or Territories pursuant to the Act of Congress approved August 24, 1937 (Public, Numbered 353, Seventy-fifth Congress), as proceeds of taxes paid by employers pursuant to title IX of the Social Security Act.
+In addition to the other moneys herein provided for expenses necessary or incidental to administering this chapter, there is appropriated to the fund such amount as the Secretary of the Treasury and the Board shall jointly estimate to have been collected or to be collectible with respect to the calendar years 1936, 1937, 1938, and 1939, from employers subject to this chapter, under title IX of the Social Security Act, less such amount as the Secretary of the Treasury and the Board shall jointly estimate will be appropriated or has been appropriated to States orTerritories pursuant to the Act of Congress approved August 24, 1937 (Public, Numbered 353, Seventy-fifth Congress), as proceeds of taxes paid by employers pursuant to title IX of the Social Security Act.
 
 Until the amount appropriated by this subsection is credited to the fund, the Secretary of the Treasury is directed to advance to the credit of the fund such sums, but not more than $2,000,000, as the Board requests for the purpose of financing the costs of administering this chapter. Such advance shall be repaid from the fund at such time after the amount appropriated by this subsection is credited to the fund as the Board by agreement with the Secretary of the Treasury may determine, but not later than January 1, 1940.
 
@@ -75,8 +75,4 @@ For effective date of amendment by act Oct. 10, 1940, see section 1 of act Oct. 
 #### Transfer of Functions
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (c), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 351, 358, 360, 362 of this title.
 

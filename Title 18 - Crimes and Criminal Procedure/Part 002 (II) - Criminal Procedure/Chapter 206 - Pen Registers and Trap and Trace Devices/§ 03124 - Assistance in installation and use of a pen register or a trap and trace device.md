@@ -50,7 +50,3 @@ Subsec. (e). Pub. L. 100–690, §7092(b)(2), inserted “under this chapter, a 
 
 Pub. L. 107–56, title II, §222, Oct. 26, 2001, 115 Stat. 292, provided that: “Nothing in this Act \[see Short Title of 2001 Amendment note set out under section 1 of this title\] shall impose any additional technical obligation or requirement on a provider of a wire or electronic communication service or other person to furnish facilities or technical assistance. A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to section 216 \[amending this section and sections 3121, 3123, and 3127 of this title\] shall be reasonably compensated for such reasonable expenditures incurred in providing such facilities or assistance.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3123 of this title.
-

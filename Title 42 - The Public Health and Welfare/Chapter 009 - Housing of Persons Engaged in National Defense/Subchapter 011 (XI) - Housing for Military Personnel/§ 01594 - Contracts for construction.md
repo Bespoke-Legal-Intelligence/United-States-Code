@@ -46,9 +46,5 @@ Subsec. (d). Pub. L. 90–19, §12(h)(3), substituted “Secretary of Defense”
 
 Subsec. (b). Act Aug. 7, 1956, §506(b), substituted “eligible bidder” for “eligible builder”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1594d of this title; title 12 section 1748b.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

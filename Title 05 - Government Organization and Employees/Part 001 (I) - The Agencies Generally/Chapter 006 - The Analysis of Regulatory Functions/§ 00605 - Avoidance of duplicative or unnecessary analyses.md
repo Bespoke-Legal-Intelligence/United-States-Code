@@ -10,13 +10,9 @@
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–121 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Sections 603 and 604 of this title shall not apply to any proposed or final rule if the head of the agency certifies that the rule will not, if promulgated, have a significant economic impact on a substantial number of small entities. If the head of the agency makes a certification under the preceding sentence, the agency shall publish such certification in the Federal Register, at the time of publication of general notice of proposed rulemaking for the rule or at the time of publication of the final rule, along with a succinct statement explaining the reasons for such certification, and provide such certification and statement to the Chief Counsel for Advocacy of the Small Business Administration.”
+1996—Subsec. (b). Pub. L. 104–121 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Sections 603 and 604 of this title shall not apply to any proposed or final rule if the head of the agency certifies that the rule will not, if promulgated, have a significant economic impact on a substantial numberof small entities. If the head of the agency makes a certification under the preceding sentence, the agency shall publish such certification in the Federal Register, at the time of publication of general notice of proposed rulemaking for the rule or at the time of publication of the final rule, along with a succinct statement explaining the reasons for such certification, and provide such certification and statement to the Chief Counsel for Advocacy of the Small Business Administration.”
 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608, 609, 611, 801 of this title.
 

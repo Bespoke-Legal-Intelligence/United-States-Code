@@ -38,7 +38,3 @@
 
 Subsec. (a) effective one year after Feb. 27, 1986, and subsec. (b) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4404, 4405 of this title.
-

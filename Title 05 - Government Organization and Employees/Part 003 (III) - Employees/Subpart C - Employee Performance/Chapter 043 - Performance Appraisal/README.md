@@ -38,10 +38,6 @@
 
 1978—Pub. L. 95–454, title II, §203(a), title IV, §405(b), Oct. 13, 1978, 92 Stat. 1131, 1170, in chapter heading substituted “APPRAISAL” for “RATING”, added heading for subchapter I, in item 4302 substituted “Establishment of performance appraisal systems” for “Performance-rating plans; establishment of”, in item 4303 substituted “Actions based on unacceptable performance” for “Performance-rating plans; requirements for”, in item 4304 substituted “Responsibilities of Office of Personnel Management” for “Ratings for performance”, in item 4305 substituted “Regulations” for “Review of ratings”, struck out items 4306 to 4308 “Performance-rating plans; inspection of”, “Other rating procedures prohibited”, and “Regulations”, respectively, and added item for subchapter II and items 4311 to 4315.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2108, 2302, 3502, 9508, 9902 of this title; title 6 section 293; title 7 section 7657; title 21 section 1703; title 31 section 3801; title 42 section 237.
-
 
 ---
 

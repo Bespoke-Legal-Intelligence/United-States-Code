@@ -66,7 +66,3 @@ Pub. L. 104–262, §345(1), substituted “Department facility furnishing hospi
 
 Subsec. (c)(5). Pub. L. 104–262, §345(3), substituted “facility” for “hospital” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7407, 7408, 7423, 7425, 7461 of this title; title 5 section 5102.
-

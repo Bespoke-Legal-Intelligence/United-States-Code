@@ -4,7 +4,3 @@ The land aforesaid, after being surveyed, shall be apportioned to the several St
 
 (July 2, 1862, ch. 130, §2, 12 Stat. 503.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 304 of this title.
-

@@ -8,7 +8,3 @@ Except as otherwise provided in this chapter, in constructing, operating, and ma
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 228h.
-

@@ -14,7 +14,7 @@ Under such rules and regulations as the Commission may prescribe, every public u
 
 #### (d) Notice required for rate changes
 
-Unless the Commission otherwise orders, no change shall be made by any public utility in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after sixty days’ notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the sixty days’ notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
+Unless the Commission otherwise orders, no change shall be made by any public utility inany such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after sixty days’ notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the sixty days’ notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
 
 #### (e) Suspension of new rates; hearings; five-month period
 
@@ -63,8 +63,4 @@ Executive and administrative functions of Federal Power Commission, with certain
 #### Study of Electric Rate Increases Under Federal Power Act
 
 Section 207(b) of Pub. L. 95–617 directed chairman of Federal Energy Regulatory Commission, in consultation with Secretary, to conduct a study of legal requirements and administrative procedures involved in consideration and resolution of proposed wholesale electric rate increases under Federal Power Act, section 791a et seq. of this title, for purposes of providing for expeditious handling of hearings consistent with due process, preventing imposition of successive rate increases before they have been determined by Commission to be just and reasonable and otherwise lawful, and improving procedures designed to prohibit anticompetitive or unreasonable differences in wholesale and retail rates, or both, and that chairman report to Congress within nine months from Nov. 9, 1978, on results of study, on administrative actions taken as a result of this study, and on any recommendations for changes in existing law that will aid purposes of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 808, 824e, 824m of this title; title 15 section 79z–5a; title 42 section 13234.
 

@@ -12,7 +12,3 @@ The Federal reclamation law, referred to in text, includes the act of June 17, 1
 
 1982—Pub. L. 97–293 struck out “for a period not to exceed twenty-five years” after “may receive project water”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390cc of this title.
-

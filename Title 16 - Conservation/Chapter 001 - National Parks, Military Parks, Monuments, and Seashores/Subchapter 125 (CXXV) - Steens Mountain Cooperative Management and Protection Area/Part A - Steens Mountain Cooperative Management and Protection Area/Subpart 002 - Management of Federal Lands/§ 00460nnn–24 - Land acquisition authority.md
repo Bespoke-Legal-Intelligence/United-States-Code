@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), lands or interests in lands acquired under subsection (a)of this section or part F of this subchapter that are located within the boundaries of the Cooperative Management and Protection Area shall—
+&emsp;Subject to paragraphs (2) and (3), lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter that are located within the boundaries of the Cooperative Management and Protection Area shall—
 
 &emsp;&emsp;(A) become part of the Cooperative Management and Protection Area; and
 
@@ -22,7 +22,7 @@
 
 #### (2) Lands within Wilderness Area
 
-&emsp;If lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter are within the boundaries of the Wilderness Area, the acquired lands or interests in lands shall—
+&emsp;If lands or interests in lands acquired under subsection (a) of this section or part F of thissubchapter are within the boundaries of the Wilderness Area, the acquired lands or interests in lands shall—
 
 &emsp;&emsp;(A) become part of the Wilderness Area; and
 
@@ -41,8 +41,4 @@
 In appraising non-Federal land, development rights, or conservation easements for possible acquisition under this section or section 460nnn–42 of this title, the Secretary shall disregard any adverse impacts on values resulting from the designation of the Cooperative Management and Protection Area or the Wilderness Area.
 
 (Pub. L. 106–399, title I, §114, Oct. 30, 2000, 114 Stat. 1662.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn–122 of this title.
 

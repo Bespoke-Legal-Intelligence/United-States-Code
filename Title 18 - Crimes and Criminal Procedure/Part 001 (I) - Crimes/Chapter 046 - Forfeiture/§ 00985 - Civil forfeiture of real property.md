@@ -6,7 +6,7 @@
 
 &emsp;(A) real property that is the subject of a civil forfeiture action shall not be seized before entry of an order of forfeiture; and
 
-&emsp;(B) the owners or occupants of the real property shall not be evicted from, or otherwisedeprived of the use and enjoyment of, real property that is the subject of a pending forfeiture action.
+&emsp;(B) the owners or occupants of the real property shall not be evicted from, or otherwise deprived of the use and enjoyment of, real property that is the subject of a pending forfeiture action.
 
 (2) The filing of a lis pendens and the execution of a writ of entry for the purpose of conducting an inspection and inventory of the property shall not be considered a seizure under this subsection.
 
@@ -61,8 +61,4 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c)(2)(B), are set 
 #### Effective Date
 
 Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 981 of this title.
 

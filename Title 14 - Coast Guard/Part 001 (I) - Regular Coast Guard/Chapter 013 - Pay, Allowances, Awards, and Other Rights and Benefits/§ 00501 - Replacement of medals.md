@@ -1,6 +1,6 @@
 ### §501. Replacement of medals
 
-In those cases where a medal, or a bar, emblem, or insignia in lieu thereof, awarded pursuant to this chapter has been stolen, lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was awarded, such medal, or bar, emblem, or insignia in lieu thereof, shall be replaced without charge, or, in the discretion of the Secretary, upon condition that the Government is reimbursed for the cost thereof.
+In those cases where a medal, or a bar, emblem, or insignia in lieu thereof, awarded pursuant to this chapter has been stolen, lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom itwas awarded, such medal, or bar, emblem, or insignia in lieu thereof, shall be replaced without charge, or, in the discretion of the Secretary, upon condition that the Government is reimbursed for the cost thereof.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 537; Pub. L. 107–107, div. A, title V, §553(d)(2), Dec. 28, 2001, 115 Stat. 1117.)
 
@@ -11,8 +11,4 @@ This section provides for the replacement of medals. It follows the established 
 #### Amendments
 
 2001—Pub. L. 107–107 inserted “stolen,” before “lost,”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 704.
 

@@ -200,7 +200,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word “Administrator” in section 313(c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
 
-Subsection (a)(1) is substituted for “sign and issue subpenas”, “shall have the power to require by subpena the attendance and testimony of witnesses and the production of all books, papers, and documents relating to any matter under investigation”, and “The attendance of witnesses, and the production of books, papers, and documents, may be required from any place in the United States, at any designated place of hearing” in 49 App.:1484 for clarity and consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+Subsection (a)(1) is substituted for “sign and issue subpenas”, “shall have the power to require by subpenathe attendance and testimony of witnesses and the production of all books, papers, and documents relating to any matter under investigation”, and “The attendance of witnesses, and the production of books, papers, and documents, may be required from any place in the United States, at any designated place of hearing” in 49 App.:1484 for clarity and consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
 In subsection (b), the words “petition a court of the United States to enforce the subpena” are substituted for “invoke the aid of any court of the United States in requiring attendance and testimony of witnesses and the production of such books, papers, and documents under the provisions of this section” in 49 App.:1484(c) to eliminate unnecessary words. The words “to enforce a subpena under this section” are substituted for “in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Board (and produce books, papers, or documents if so ordered) and give evidence touching the matter in question” in 49 App.:1484(d) to eliminate unnecessary words.
 
@@ -225,8 +225,4 @@ Subsecs. (c) to (e). Pub. L. 107–71, §140(b)(2), substituted “, Under Secr
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 40110, 47122 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the amount made available to carry out this subpart for a fiscal year is more than $50,000,000, the Secretary is authorized to award 50 percent of the amount that exceeds $50,000,000 as grants to, and enter into contracts and cooperative agreements with, local nonprofit parent organizations to enable the organizations to support local family information centers that help ensure that parents of students in elementary schools and secondary schools assisted under this subpart have the training, information, and support the parents need to enable the parents to participate effectively in their children's early childhood education, in their children's elementary and secondary education, and in helping their children to meet challenging State academic content and student academic achievement standards.
+If the amount made available to carry out this subpart for a fiscal year is more than $50,000,000, the Secretary is authorized to award 50 percent of the amount that exceeds $50,000,000 as grants to, and enter into contracts and cooperative agreements with, local nonprofit parent organizations to enable the organizations to support local family information centers that help ensure that parents of students in elementary schools and secondary schools assisted under this subpart have the training, information, and support the parents need to enable the parents to participate effectively in their children's early childhood education, in their children'selementary and secondary education, and in helping their children to meet challenging State academic content and student academic achievement standards.
 
 #### (b) Local nonprofit parent organization defined
 

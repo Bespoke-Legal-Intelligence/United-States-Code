@@ -8,7 +8,3 @@ The procedures prescribed by this chapter are exclusive, and records of the Unit
 
 Based on 44 U.S. Code, 1964 ed., §380 (July 7, 1943, ch. 192, §15, 57 Stat. 383).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3105 of this title.
-

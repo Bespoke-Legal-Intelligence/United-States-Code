@@ -8,7 +8,7 @@
 
 #### (2) Information
 
-&emsp;If at any time after the registration of a pesticide the registrant has additional factual information regarding unreasonable adverse effects on the environment of the pesticide, theregistrant shall submit such information to the Administrator.
+&emsp;If at any time after the registration of a pesticide the registrant has additional factual information regarding unreasonable adverse effects on the environment of the pesticide, the registrant shall submit such information to the Administrator.
 
 #### (b) Cancellation and change in classification
 
@@ -32,7 +32,7 @@ If it appears to the Administrator that a pesticide or its labeling or other mat
 
 #### (3) Emergency order
 
-&emsp;Whenever the Administrator determines that an emergency exists that does not permitthe Administrator to hold a hearing before suspending, the Administrator may issue a suspension order in advance of notification to the registrant. The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire. In the case of an emergency order, paragraph (2) shall apply except that (A) the order of suspension shall be in effect pending the expeditious completion of the remedies provided by that paragraph and the issuance of a final order on suspension, and (B) no party other than the registrant and the Administrator shall participate except that any person adversely affected may file briefs within the time allotted by the Agency's rules. Any person so filing briefs shall be considered a party to such proceeding for the purposes of section 136n(b) of this title.
+&emsp;Whenever the Administrator determines that an emergency exists that does not permit the Administrator to hold a hearing before suspending, the Administrator may issue a suspension order in advance of notification to the registrant. The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire. In the case of an emergency order, paragraph (2) shall apply except that (A) the order of suspension shall be in effect pending the expeditious completion of the remedies provided by that paragraph and the issuance of a final order on suspension, and (B) no party other than the registrant and the Administrator shall participate except that any person adversely affected may file briefs within the time allotted by the Agency's rules. Any person so filing briefs shall be considered a party to such proceeding for the purposes of section 136n(b) of this title.
 
 #### (4) Judicial review
 
@@ -46,7 +46,7 @@ In the event a hearing is requested pursuant to subsection (b) of this section o
 
 (1) The Administrator shall issue a notice of intent to cancel a registration issued under section 136a(c)(7) of this title if (A) the Administrator, at any time during the period provided for satisfaction of any condition imposed, determines that the registrant has failed to initiate and pursue appropriate action toward fulfilling any condition imposed, or (B) at the end of the period provided for satisfaction of any condition imposed, that condition has not been met. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose conditional registration has been canceled under this subsection to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment.
 
-(2) A cancellation proposed under this subsection shall become final and effective at theend of thirty days from receipt by the registrant of the notice of intent to cancel unless during that time a request for hearing is made by a person adversely affected by the notice. If a hearing is requested, a hearing shall be conducted under subsection (d) of this section. The only matters for resolution at that hearing shall be whether the registrant has initiated and pursued appropriate action to comply with the condition or conditions within the time provided or whether the condition or conditions have been satisfied within the time provided, and whether the Administrator's determination with respect to the disposition of existing stocks is consistent with this subchapter. A decision after completion of such hearing shall be final. Notwithstanding any other provision of this section, a hearing shall be held and a determination made within seventy-five days after receipt of a request for such hearing.
+(2) A cancellation proposed under this subsection shall become final and effective at the end of thirty days from receipt by the registrant of the notice of intent to cancel unless during that time a request for hearing is made by a person adversely affected by the notice. If a hearing is requested, a hearing shall be conducted under subsection (d) of this section. The only matters for resolution at that hearing shall be whether the registrant has initiated and pursued appropriate action to comply with the condition or conditions within the time provided or whether the condition or conditions have been satisfied within the time provided, and whether the Administrator's determination with respect to the disposition of existing stocks is consistent with this subchapter. A decision after completion of such hearing shall be final. Notwithstanding any other provision of this section, a hearing shall be held and a determination made within seventy-five days after receipt of a request for such hearing.
 
 #### (f) General provisions
 
@@ -185,8 +185,4 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136a, 136a–1, 136m, 136<i>o</i>, 136w of this title.
 

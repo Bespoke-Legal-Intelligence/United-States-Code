@@ -34,7 +34,3 @@ Historical and Revision Notes
 
 Pub. L. 89–4, title I, §101(b), Mar. 9, 1965, 79 Stat. 6; Pub. L. 94–188, title I, §103(3), Dec. 31, 1975, 89 Stat. 1080; Pub. L. 105–393, title II, §203(c), Nov. 13, 1998, 112 Stat. 3619; Pub. L. 107–149, §13(a), Mar. 12, 2002, 116 Stat. 71.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14301, 14322 of this title.
-

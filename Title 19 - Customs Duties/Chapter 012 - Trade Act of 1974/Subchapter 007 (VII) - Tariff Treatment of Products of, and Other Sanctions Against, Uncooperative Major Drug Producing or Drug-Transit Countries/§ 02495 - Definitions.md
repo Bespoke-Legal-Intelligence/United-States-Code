@@ -24,7 +24,3 @@ For purposes of this subchapter—
 
 1989—Par. (2). Pub. L. 101–231 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘major drug producing country’ means a country producing five metric tons or more of opium or opium derivative during a fiscal year or producing five hundred metric tons or more of coca or marijuana (as the case may be) during a fiscal year; and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2492 of this title.
-

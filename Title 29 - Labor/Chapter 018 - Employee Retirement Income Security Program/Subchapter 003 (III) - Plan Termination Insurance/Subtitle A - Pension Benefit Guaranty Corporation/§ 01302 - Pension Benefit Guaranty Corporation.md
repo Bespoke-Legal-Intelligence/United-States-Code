@@ -46,7 +46,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (g) Exemption from taxation
 
-(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\], or by any State or local taxing authority, except that any real property andany tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
+(1) The corporation, its property, its franchise, capital, reserves, surplus, and its income (including, but not limited to, any income of any fund established under section 1305 of this title), shall be exempt from all taxation now or hereafter imposed by the United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act \[26 U.S.C. 3101 et seq.\], and chapter 23 of title 26, relating to Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\], or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of the corporation shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed.
 
 (2) The receipts and disbursements of the corporation in the discharge of its functions shall be included in the totals of the budget of the United States Government. The United States is not liable for any obligation or liability incurred by the corporation.
 
@@ -125,8 +125,4 @@ Section 1510(b) of Pub. L. 94–455 provided that: “The amendment made by subs
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1301 of this title.
 

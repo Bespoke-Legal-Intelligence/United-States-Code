@@ -51,10 +51,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 16 section 460iii–5; title 18 section 1170; title 20 section 7512; title 42 section 11701.
-
 
 ---
 

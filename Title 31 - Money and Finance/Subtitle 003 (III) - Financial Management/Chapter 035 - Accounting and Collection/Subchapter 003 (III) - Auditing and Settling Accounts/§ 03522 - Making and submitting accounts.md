@@ -6,7 +6,7 @@
 
 (b)(1) A monthly account shall be submitted to the appropriate official in the District of Columbia by the 10th day after the end of the month covered by the account. The official shall submit the account to the Comptroller General by the 20th day after receiving the account.
 
-(2) An account (except a monthly account) shall be submitted to the appropriate official inthe District of Columbia by the 20th day after the end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
+(2) An account (except a monthly account) shall be submitted to the appropriate official in the District of Columbia by the 20th day after the end of the period covered by the account. The official shall submit the account to the Comptroller General by the 60th day after receiving the account.
 
 (3) Notwithstanding paragraphs (1) and (2) of this subsection, an account of the armed forces shall be submitted to the Comptroller General by the 60th day after the account is received. However, during a war or national emergency and for 18 months after the war or emergency ends, an account shall be submitted to the Comptroller General by the 90th day after the account is received.
 
@@ -157,8 +157,4 @@ In subsection (d), the word “agency” is substituted for “departments” be
 In subsection (e)(1), the words “if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section” are substituted for “Should there by any delinquency in this regard” for clarity.
 
 In subsection (e)(2), the 1st sentence is substituted for 31:78(3d sentence), and the words “If an account is not submitted to the Comptroller General on time under subsection (b)” are substituted for “Should there be a delay by the administrative departments beyond the aforesaid twenty or sixty days in transmitting accounts”, for clarity and to eliminate unnecessary words. The words “District of Columbia” are substituted for “seat of Government” for consistency. The words “in the particular case” and “of money requested” are omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3324 of this title; title 22 section 4225.
 

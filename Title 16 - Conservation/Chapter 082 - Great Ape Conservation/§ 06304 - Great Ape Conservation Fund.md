@@ -50,17 +50,13 @@ There is established in the Multinational Species Conservation Fund a separate a
 
 #### (2) Adjustments
 
-&emsp;Proper adjustment shall be made in amounts subsequently transferred to the extent priorestimates were in excess of or less than the amounts required to be transferred.
+&emsp;Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 
 #### (e) Acceptance and use of donations
 
 The Secretary may accept and use donations to provide assistance under section 6303 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
 (Pub. L. 106–411, §5, Nov. 1, 2000, 114 Stat. 1793.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “expend”.</i>
 

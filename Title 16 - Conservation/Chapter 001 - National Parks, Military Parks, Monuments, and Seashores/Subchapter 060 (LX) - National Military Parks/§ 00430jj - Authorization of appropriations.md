@@ -4,7 +4,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (July 25, 1956, ch. 729, §5, 70 Stat. 651.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430gg, 430ii of this title.
-

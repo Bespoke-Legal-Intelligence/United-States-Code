@@ -34,7 +34,3 @@ For purposes of this subchapter—
 
 1989—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

@@ -48,7 +48,31 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b) of this section.
 
-(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533.)
+#### (d) Tribal coalition grants
+
+#### (1) Purpose
+
+&emsp;The Attorney General shall award grants to tribal domestic violence and sexual assault coalitions for purposes of—
+
+&emsp;&emsp;(A) increasing awareness of domestic violence and sexual assault against American Indian and Alaska Native women;
+
+&emsp;&emsp;(B) enhancing the response to violence against American Indian and Alaska Native women at the tribal, Federal, and State levels; and
+
+&emsp;&emsp;(C) identifying and providing technical assistance to coalition membership and tribal communities to enhance access to essential services to American Indian women victimized by domestic and sexual violence.
+
+#### (2) Grants to tribal coalitions
+
+&emsp;The Attorney General shall award grants under paragraph (1) to—
+
+&emsp;&emsp;(A) established nonprofit, nongovernmental tribal coalitions addressing domestic violence and sexual assault against American Indian and Alaska Native women; and
+
+&emsp;&emsp;(B) individuals or organizations that propose to incorporate as nonprofit, nongovernmental tribal coalitions to address domestic violence and sexual assault against American Indian and Alaska Native women.
+
+#### (3) Eligibility for other grants
+
+&emsp;Receipt of an award under this subsection by tribal domestic violence and sexual assault coalitions shall not preclude the coalition from receiving additional grants under this chapter to carry out the purposes described in subsection (b) of this section.
+
+(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276.)
 
 #### References in Text
 
@@ -56,11 +80,15 @@ The Family Violence Prevention and Services Act, referred to in subsec. (c)(2)(A
 
 The Public Health Service Act, referred to in subsec. (c)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
+This chapter, referred to in subsec. (d)(3), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, as amended, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
 #### Prior Provisions
 
 A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–405 added subsec. (d).
 
 2000—Subsec. (a). Pub. L. 106–386, §1102(a)(1)(A), substituted “State and local courts (including juvenile courts), Indian tribal governments, tribal courts,” for “Indian tribal governments,”.
 
@@ -107,8 +135,4 @@ Report.—The Attorney General shall ensure that not later than 1 year after the
 Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001.”
 
 \[For definitions of “domestic violence” and “sexual assault” as used in section 1405 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796gg–1 of this title.
 

@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Secretary may not enter into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation under subsection (b) of this section.
+The Secretary may not enter into any contract with a foreign incorporated entity which is treated as an inverted domestic corporation under subsection (b) of this section, or any subsidiary of such an entity.
 
 #### (b) Inverted domestic corporation
 
 For purposes of this section, a foreign incorporated entity shall be treated as an inverted domestic corporation if, pursuant to a plan (or a series of related transactions)—
 
-&emsp;(1) the entity completes after November 25, 2002, the direct or indirect acquisition of substantially all of the properties held directly or indirectly by a domestic corporation or substantially all of the properties constituting a trade or business of a domestic partnership;
+&emsp;(1) the entity completes before, on, or after November 25, 2002, the direct or indirect acquisition of substantially all of the properties held directly or indirectly by a domestic corporation or substantially all of the properties constituting a trade or business of a domestic partnership;
 
 &emsp;(2) after the acquisition at least 80 percent of the stock (by vote or value) of the entity is held—
 
@@ -34,11 +34,11 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (B) Plan deemed in certain cases
 
-&emsp;&emsp;If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is after November 25, 2002, and which is 2 years before the ownership requirements of subsection (b)(2) of this section are met, such actions shall be treated as pursuant to a plan.
+&emsp;&emsp;If a foreign incorporated entity acquires directly or indirectly substantially all of the properties of a domestic corporation or partnership during the 4-year period beginning on the date which is 2 years before the ownership requirements of subsection (b)(2) of this section are met, such actions shall be treated as pursuant to a plan.
 
 #### (C) Certain transfers disregarded
 
-&emsp;&emsp;The transfer of properties or liabilities (including by contribution or distribution)shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
+&emsp;&emsp;The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
 
 #### (D) Special rule for related partnerships
 
@@ -66,11 +66,19 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (d) Waivers
 
-The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of homeland security.
+The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of national security.
 
-(Pub. L. 107–296, title VIII, §835, Nov. 25, 2002, 116 Stat. 2227; Pub. L. 108–7, div. L, §101(2), Feb. 20, 2003, 117 Stat. 528.)
+(Pub. L. 107–296, title VIII, §835, Nov. 25, 2002, 116 Stat. 2227; Pub. L. 108–7, div. L, §101(2), Feb. 20, 2003, 117 Stat. 528; Pub. L. 108–334, title V, §523, Oct. 18, 2004, 118 Stat. 1320.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–334, §523(1), inserted before period at end “, or any subsidiary of such an entity”.
+
+Subsec. (b)(1). Pub. L. 108–334, §523(2), inserted “before, on, or” after “completes”.
+
+Subsec. (c)(1)(B). Pub. L. 108–334, §523(3), struck out “which is after November 25, 2002, and” after “beginning on the date”.
+
+Subsec. (d). Pub. L. 108–334, §523(4), substituted “national” for “homeland”.
 
 2003—Subsec. (d). Pub. L. 108–7 struck out “, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur” before period at end.
 

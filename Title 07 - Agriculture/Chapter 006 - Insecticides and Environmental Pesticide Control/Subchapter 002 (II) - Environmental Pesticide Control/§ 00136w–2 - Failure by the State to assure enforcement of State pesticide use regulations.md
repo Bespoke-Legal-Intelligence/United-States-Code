@@ -16,7 +16,7 @@ Neither section 136w–1 of this title nor this section shall limit the authorit
 
 #### Prior Provisions
 
-A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136y of this title.
+A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 35 and is classified to section 136y of this title.
 
 #### Amendments
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—FOREIGN SERVICE RETIREMENT AND DISABILITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3951, 4084, 4153, 4156, 4159 of this title.
-
 
 ---
 

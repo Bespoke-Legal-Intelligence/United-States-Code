@@ -2,13 +2,13 @@
 
 Section 92, acts Feb. 15, 1893, ch. 114, §3, 27 Stat. 450; July 1, 1902, ch. 1370, §1, 32 Stat. 712; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for enforcement of quarantine regulations. See sections 264 to 267 of this title.
 
-Section 92a, acts Apr. 29, 1878, ch. 66, §5, 20 Stat. 38; July 1, 1902, ch. 1370, §1, 32 Stat. 712; Aug. 14, 1912, §1,37 Stat. 309, provided for a national quarantine system. See sections 264 to 267 of this title.
+Section 92a, acts Apr. 29, 1878, ch. 66, §5, 20 Stat. 38; July 1, 1902, ch. 1370, §1, 32 Stat. 712; Aug. 14, 1912, §1, 37 Stat. 309, provided for a national quarantine system. See sections 264 to 267 of this title.
 
 Section 93, acts Feb. 15, 1893, ch. 114, §4, 27 Stat. 451; July 1, 1902, ch. 1370, §1, 32 Stat. 712; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for duties of Surgeon General relating to quarantine. See sections 264 to 270 of this title.
 
 Section 94, act Feb. 15, 1893, ch. 114, §5, 27 Stat. 451, provided for regulations to secure sanitary conditions of vessels. See section 269 of this title.
 
-Section 94a, act Feb. 15, 1893, ch. 114, §14, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for hours of inspection at quarantine stations. See section 267 of this title.
+Section 94a, act Feb. 15, 1893, ch. 114, §14, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for hoursof inspection at quarantine stations. See section 267 of this title.
 
 Section 94b, act Feb. 15, 1893, ch. 114, §16, as added Mar. 3, 1931, ch. 409, §1, 46 Stat. 1492, provided for schedule of charges and payment of them. See section 269 of this title.
 

@@ -22,7 +22,7 @@
 
 (B) Notwithstanding the 21-day period specified in subparagraph (A), a proposed adverse action may be held in abeyance if the employee requests, and the deciding official agrees, that the employee shall seek counseling or treatment for a condition covered under the Rehabilitation Act of 1973. Any such abeyance of a proposed action may not extend for more than one year.
 
-(4)(A) The Secretary may require that any answer and submission under paragraph (1)(B) besubmitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.
+(4)(A) The Secretary may require that any answer and submission under paragraph (1)(B) be submitted so as to be received within 30 days of the date of the written notice of the charges, except that the Secretary shall allow the granting of extensions for good cause shown.
 
 (B) The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within 30 days after the date of service of the written decision on the employee.
 
@@ -77,8 +77,4 @@ Provisions similar to those in this subchapter were contained in section 4110 of
 #### Amendments
 
 1992—Subsec. (b)(1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subpars. (A) and (B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7461, 7463, 7464 of this title.
 

@@ -55,10 +55,6 @@
 
 Provisions of section 552(a) of Title 37, Pay and Allowances of the Uniformed Services, for full effectiveness for all purposes of promotion of a member while in a missing status notwithstanding a determination of death before the making of the promotion effective as of Nov. 24, 1971, for the purposes of this chapter, see section 2 of Pub. L. 93–26, Apr. 27, 1973, 87 Stat. 26, set out as an Effective Date of 1973 Amendment note under section 552 of Title 37.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 106, 107, 1151, 4213, 5105, 5310, 5313, 5313B of this title; title 10 sections 1431, 1446; title 26 section 6334; title 31 section 3803.
-
 
 ---
 

@@ -12,7 +12,3 @@ Notwithstanding the existence of any reservation of right-of-way to the United S
 
 Section 3 of Pub. L. 88–561 as added by Pub. L. 89–624 provided that: “The amendment made by this Act \[enacting section 945b of this title and amending this section\] shall apply to any condemnation action pending in any district court of the United States on the date of enactment of this Act \[Oct. 4, 1966\] and to any such action instituted after that date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 945b of this title.
-

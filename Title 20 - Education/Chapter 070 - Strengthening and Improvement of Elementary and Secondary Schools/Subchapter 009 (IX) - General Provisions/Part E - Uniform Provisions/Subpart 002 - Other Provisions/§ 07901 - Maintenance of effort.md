@@ -28,7 +28,3 @@ The Secretary may waive the requirements of this section if the Secretary determ
 
 A prior section 7901, Pub. L. 89–10, title IX, §9201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3794, set forth short title of the Native Hawaiian Education Act, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7511 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6321, 6434 of this title.
-

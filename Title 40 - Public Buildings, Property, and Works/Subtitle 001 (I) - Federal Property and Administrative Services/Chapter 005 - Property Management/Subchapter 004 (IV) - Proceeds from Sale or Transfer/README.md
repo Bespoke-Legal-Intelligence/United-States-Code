@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PROCEEDS FROM SALE OR TRANSFER
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 549 of this title; title 6 section 453; title 38 section 8165.
-
 
 ---
 

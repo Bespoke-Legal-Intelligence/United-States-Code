@@ -44,11 +44,11 @@ No insured depository institution shall pay any dividends on its capital stock o
 
 (2) No insured depository institution shall merge or consolidate with any other insured depository institution or, either directly or indirectly, acquire the assets of, or assume liability to pay any deposits made in, any other insured depository institution except with the prior written approval of the responsible agency, which shall be—
 
-&emsp;(A) the Comptroller of the Currency if the acquiring, assuming, or resulting bank is to be a national bank or a District bank;
+&emsp;(A) the Comptroller of the Currency if the acquiring, assuming, or resulting bank is to be a national bank;
 
-&emsp;(B) the Board of Governors of the Federal Reserve System if the acquiring, assuming, or resulting bank is to be a State member bank (except a District bank);
+&emsp;(B) the Board of Governors of the Federal Reserve System if the acquiring, assuming, or resulting bank is to be a State member bank;
 
-&emsp;(C) the Corporation if the acquiring, assuming, or resulting bank is to be a State nonmember insured bank (except a District bank or a savings bank supervised by the Director of the Office of Thrift Supervision); and
+&emsp;(C) the Corporation if the acquiring, assuming, or resulting bank is to be a State nonmember insured bank (except a savings bank supervised by the Director of the Office of Thrift Supervision); and
 
 &emsp;(D) the Director of the Office of Thrift Supervision if the acquiring, assuming, or resulting institution is to be a savings association.
 
@@ -102,7 +102,7 @@ Money laundering.—In every case, the responsible agency, shall take into consi
 
 #### (d) Branch banks
 
-(1) No State nonmember insured bank (except a District bank) shall establish and operate any new domestic branch unless it shall have the prior written consent of the Corporation, and no State nonmember insured bank (except a District bank) shall move its main office or any such branch from one location to another without such consent. No foreign bank may move any insured branch from one location to another without such consent. The factors to be considered in granting or withholding the consent of the Corporation under this subsection shall be those enumerated in section 1816 of this title.
+(1) No State nonmember insured bank shall establish and operate any new domestic branch unless it shall have the prior written consent of the Corporation, and no State nonmember insured bank shall move its main office or any such branch from one location to another without such consent. No foreign bank may move any insured branch from one location to another without such consent. The factors to be considered in granting or withholding the consent of the Corporation under this subsection shall be those enumerated in section 1816 of this title.
 
 (2) No State nonmember insured bank shall establish or operate any foreign branch, except with the prior written consent of the Corporation and upon such conditions and pursuant to such regulations as the Corporation may prescribe from time to time.
 
@@ -180,7 +180,7 @@ The Corporation may require any insured depository institution to provide protec
 
 #### (f) Publication of reports
 
-Whenever any insured depository institution (except a national bank or a District bank), after written notice of the recommendations of the Corporation based on a report of examination of such insured depository institution by an examiner of the Corporation, shall fail to comply with such recommendations within one hundred and twenty days after such notice, the Corporation shall have the power, and is authorized, to publish only such part of such report of examination as relates to any recommendation not complied with: <i>Provided</i>, That notice of intention to make such publication shall be given to the insured depository institution at least ninety days before such publication is made.
+Whenever any insured depository institution (except a national bank), after written notice of the recommendations of the Corporation based on a report of examination of such insured depository institution by an examiner of the Corporation, shall fail to comply with such recommendations within one hundred and twenty days after such notice, the Corporation shall have the power, and is authorized, to publish only such part of such report of examination as relates to any recommendation not complied with: <i>Provided</i>, That notice of intention to make such publication shall be given to the insured depository institution at least ninety days before such publication is made.
 
 #### (g) Interest or dividend on demand deposits; definitions; regulation of interest rates
 
@@ -194,17 +194,15 @@ Any insured depository institution which willfully fails or refuses to file any 
 
 #### (i) Reduction or retirement of capital stock, notes, or debentures; conversion of insured Federal depository institutions to insured State banks or noninsured institutions; consent of banking agencies; applicability
 
-(1) No insured State nonmember bank (except a District bank) shall, without the prior consent of the Corporation, reduce the amount or retire any part of its common or preferred capital stock, or retire any part of its capital notes or debentures.
+(1) No insured State nonmember bank shall, without the prior consent of the Corporation, reduce the amount or retire any part of its common or preferred capital stock, or retire any part of its capital notes or debentures.
 
 (2) No insured Federal depository institution shall convert into an insured State depository institution if its capital stock or its surplus will be less than the capital stock or surplus, respectively, of the converting bank at the time of the shareholder's meeting approving such conversion, without the prior written consent of—
 
-&emsp;(A) the Comptroller of the Currency if the resulting bank is to be a District bank;
+&emsp;(A) the Board of Governors of the Federal Reserve System if the resulting bank is to be a State member bank;
 
-&emsp;(B) the Board of Governors of the Federal Reserve System if the resulting bank is to be a State member bank (except a District bank);
+&emsp;(B) the Corporation if the resulting bank is to be a State nonmember insured bank; and
 
-&emsp;(C) the Corporation if the resulting bank is to be a State nonmember insured bank (except a District bank); and
-
-&emsp;(D) the Director of the Office of Thrift Supervision if the resulting institution is to be an insured State savings association.
+&emsp;(C) the Director of the Office of Thrift Supervision if the resulting institution is to be an insured State savings association.
 
 (3) Without the prior written consent of the Corporation, no insured depository institution shall convert into a noninsured bank or institution.
 
@@ -236,7 +234,7 @@ Any insured depository institution which willfully fails or refuses to file any 
 
 #### (2) Extensions of credit to officers, directors, and principal shareholders
 
-&emsp;Sections 375a and 375b of this title shall apply with respect to every nonmember insured bank in the same manner and to thesame extent as if the nonmember insured bank were a member bank.
+&emsp;Sections 375a and 375b of this title shall apply with respect to every nonmember insured bank in the same manner and to the same extent as if the nonmember insured bank were a member bank.
 
 #### (3) Avoiding extraterritorial application to foreign banks
 
@@ -300,7 +298,7 @@ Any insured depository institution which willfully fails or refuses to file any 
 
 #### (A) In general
 
-&emsp;&emsp;The term “golden parachute payment” means any payment (or any agreement to make any payment) in the nature of compensation by any insured depository institution or depository institution holding company for the benefit of any institution-affiliated party pursuant to an obligation of such institution or holding company that—
+&emsp;&emsp;The term “golden parachute payment” means any payment (or any agreement tomake any payment) in the nature of compensation by any insured depository institution or depository institution holding company for the benefit of any institution-affiliated party pursuant to an obligation of such institution or holding company that—
 
 &emsp;&emsp;&emsp;(i) is contingent on the termination of such party's affiliation with the institution or holding company; and
 
@@ -372,7 +370,7 @@ Any insured depository institution which willfully fails or refuses to file any 
 
 #### (<i>l</i>) Acquisition of foreign banks or entities
 
-When authorized by State law, a State nonmember insured bank may, but only with the prior written consent of the Corporation and upon such conditions and under such regulations as the Corporation may prescribe from time to time, acquire and hold, directly or indirectly, stock or other evidences of ownership in one or more banks or other entities organized under the law of a foreign country or a dependency or insular possession of the United States and not engaged, directly or indirectly, in any activity in the United States except as, in the judgment of the Board of Directors, shall be incidental to the international or foreign business of such foreign bank or entity; and, notwithstanding the provisions of subsection (j) of this section, such State nonmember insured bank may, as to such foreign bank or entity, engage in transactions that would otherwise be covered thereby, but only in the manner and within the limit prescribed by the Corporation by general or specific regulation or ruling.
+When authorized by State law, a State nonmember insured bank may, but only with the prior written consent of the Corporation and upon such conditions and under such regulations as the Corporation may prescribe from time to time, acquire and hold, directly or indirectly, stock or other evidences of ownership in one or more banks or other entities organized under the law of a foreign country or a dependency or insular possession of the United States and not engaged, directly or indirectly, in any activity in the United States except as, in the judgmentof the Board of Directors, shall be incidental to the international or foreign business of such foreign bank or entity; and, notwithstanding the provisions of subsection (j) of this section, such State nonmember insured bank may, as to such foreign bank or entity, engage in transactions that would otherwise be covered thereby, but only in the manner and within the limit prescribed by the Corporation by general or specific regulation or ruling.
 
 #### (m) Activities of savings associations and their subsidiaries
 
@@ -470,7 +468,7 @@ No appropriate Federal banking agency shall allow any insured depository institu
 
 #### (p) Periodic review of capital standards
 
-Each appropriate Federal banking agency shall, in consultation with the other Federal banking agencies, biennially review its capital standards for insured depository institutions todetermine whether those standards require sufficient capital to facilitate prompt corrective action to prevent or minimize loss to the deposit insurance funds, consistent with section 1831<i>o</i> of this title.
+Each appropriate Federal banking agency shall, in consultation with the other Federal banking agencies, biennially review its capital standards for insured depository institutions to determine whether those standards require sufficient capital to facilitate prompt corrective action to prevent or minimize loss to the deposit insurance funds, consistent with section 1831<i>o</i> of this title.
 
 #### (q) Sovereign risk
 
@@ -534,7 +532,7 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 #### (3) Routine business financing
 
-&emsp;Paragraph (1) shall not apply with respect to advances or other forms of financial assistance provided by a Government-sponsored enterprise pursuant to the statutes governing such enterprise.
+&emsp;Paragraph (1) shall not apply with respect to advances or other forms of financial assistanceprovided by a Government-sponsored enterprise pursuant to the statutes governing such enterprise.
 
 #### (4) Student loans
 
@@ -550,7 +548,7 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 &emsp;&emsp;&emsp;(iv) the operations of the Association will be separate from the operations of the depository institution; and
 
-&emsp;&emsp;&emsp;(v) until the “dissolution date” (as that term is defined in section 1087–3 of title 20) has occurred, such depository institution will not use the trade name or servicemark “Sallie Mae” in connection with any product or service it offers if the appropriate Federal banking agency for such depository institution determines that—
+&emsp;&emsp;&emsp;(v) until the “dissolution date” (as that term is defined in section 1087–3 of title 20) has occurred, such depository institution will not use the trade name or service mark “Sallie Mae” in connection with any product or service it offers if the appropriate Federal banking agency for such depository institution determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the depository institution is the only institution offering such product or service using the “Sallie Mae” name; and
 
@@ -606,7 +604,7 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 #### (2) Availability to Commission; confidentiality
 
-&emsp;Each appropriate Federal banking agency shall make any information required under paragraph (1) available to the Commission upon request. Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any such information. Nothing in this paragraph shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+&emsp;Each appropriate Federal banking agency shall make any information required under paragraph (1) available to the Commission upon request. Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any such information. Nothing in this paragraph shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scopeof its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (3) Definition
 
@@ -658,13 +656,13 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 #### (3) Malicious intent
 
-&emsp;Notwithstanding any other provision of this subsection, voluntary disclosure made by an insured depository institution, and any director, officer, employee, or agent of such institution under this subsection concerning potentially unlawful activity that is made with malicious intent, shall not be shielded from liability from the person identified in the disclosure.
+&emsp;Notwithstanding any other provision of this subsection, voluntary disclosure made by an insured depository institution, and any director, officer, employee, or agent of such institution, under this subsection concerning potentially unlawful activity that is made with malicious intent, shall not be shielded from liability from the person identified in the disclosure.
 
 #### (4) Definition
 
 &emsp;For purposes of this subsection, the term “insured depository institution” includes any uninsured branch or agency of a foreign bank.
 
-(Sept. 21, 1950, ch. 967, §2\[18\], 64 Stat. 891; Pub. L. 86–463, May 13, 1960, 74 Stat. 129; Pub. L. 87–827, §2, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, §2, July 21, 1965, 79 Stat. 244; Pub. L. 89–356, §1, Feb. 21, 1966, 80 Stat. 7; Pub. L. 89–485, §12(c), July 1, 1966, 80 Stat. 242; Pub. L. 89–597, §3, Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, §2(b), Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–151, title I, §§2(a), 4(b), (c), Dec. 23, 1969, 83 Stat. 372, 374, 375; Pub. L. 93–100, §3, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §106, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 93–501, title I, §102(a), title III, §302, Oct. 29, 1974, 88 Stat. 1558, 1560; Pub. L. 95–369, §6(c)(25)–(28), Sept. 17, 1978, 92 Stat. 620; Pub. L. 95–630, title I, §108, title III, §§301(b), (c), 306, Nov. 10, 1978, 92 Stat. 3664, 3675, 3677; Pub. L. 96–104, title II, §202, Nov. 5, 1979, 93 Stat. 792; Pub. L. 96–161, title I, §101(b), title II, §209, Dec. 28, 1979, 93 Stat. 1233, 1239; Pub. L. 96–221, title II, §207(b)(2), (3), title III, §§302(b), 307, title V, §529, Mar. 31, 1980, 94 Stat. 144, 146, 147, 168; Pub. L. 97–320, title I, §113(n), (<i>o</i>), title IV, §§410(d), 423, 424(b), (d)(10), (e), Oct. 15, 1982, 96 Stat. 1474, 1520, 1522, 1523; Pub. L. 100–86, title I, §§102(b), 103, title V, §504(b), Aug. 10, 1987, 101 Stat. 566, 632; Pub. L. 101–73, title II, §§201, 221, title IX, §§905(d), 907(c), Aug. 9, 1989, 103 Stat. 187, 266, 460, 466; Pub. L. 101–647, title XXV, §2523(a), Nov. 29, 1990, 104 Stat. 4868; Pub. L. 102–242, title III, §§304(a), 305(a), 306(k), Dec. 19, 1991, 105 Stat. 2354, 2359; Pub. L. 102–550, title XVI, §1605(a)(9), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–325, title III, §§321(b), 324, 326(b)(1), title VI, §602(a)(44)–(50), Sept. 23, 1994, 108 Stat. 2226, 2227, 2229, 2290; Pub. L. 103–328, title I, §§101(d), 102(b)(3)(A), 103(b), Sept. 29, 1994, 108 Stat. 2342, 2350, 2353; Pub. L. 104–208, div. A, title II, §§2615(b), 2704(d)(14)(U), (V), Sept. 30, 1996, 110 Stat. 3009–479, 3009–494; Pub. L. 105–277, div. H, §2, Oct. 21, 1998, 112 Stat. 2681–854; Pub. L. 106–102, title II, §204, title VII, §730, Nov. 12, 1999, 113 Stat. 1391, 1476; Pub. L. 106–569, title XII, §1207(b), Dec. 27, 2000, 114 Stat. 3034; Pub. L. 107–56, title III, §§327(b)(1), 355, Oct. 26, 2001, 115 Stat. 319, 324.)
+(Sept. 21, 1950, ch. 967, §2\[18\], 64 Stat. 891; Pub. L. 86–463, May 13, 1960, 74 Stat. 129; Pub. L. 87–827, §2, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, §2, July 21, 1965, 79 Stat. 244; Pub. L. 89–356, §1, Feb. 21, 1966, 80 Stat. 7; Pub. L. 89–485, §12(c), July 1, 1966, 80 Stat. 242; Pub. L. 89–597, §3, Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, §2(b), Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–151, title I, §§2(a), 4(b), (c), Dec. 23, 1969, 83 Stat. 372, 374, 375; Pub. L. 93–100, §3, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §106, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 93–501, title I, §102(a), title III, §302, Oct. 29, 1974, 88 Stat. 1558, 1560; Pub. L. 95–369, §6(c)(25)–(28), Sept. 17, 1978, 92 Stat. 620; Pub. L. 95–630, title I, §108, title III, §§301(b), (c), 306, Nov. 10, 1978, 92 Stat. 3664, 3675, 3677; Pub. L. 96–104, title II, §202, Nov. 5, 1979, 93 Stat. 792; Pub. L. 96–161, title I, §101(b), title II, §209, Dec. 28, 1979, 93 Stat. 1233, 1239; Pub. L. 96–221, title II, §207(b)(2), (3), title III, §§302(b), 307, title V, §529, Mar. 31, 1980, 94 Stat. 144, 146, 147, 168; Pub. L. 97–320, title I, §113(n), (<i>o</i>), title IV, §§410(d), 423, 424(b), (d)(10), (e), Oct. 15, 1982, 96 Stat. 1474, 1520, 1522, 1523; Pub. L. 100–86, title I, §§102(b), 103, title V, §504(b), Aug. 10, 1987, 101 Stat. 566, 632; Pub. L. 101–73, title II, §§201, 221, title IX, §§905(d), 907(c), Aug. 9, 1989, 103 Stat. 187, 266, 460, 466; Pub. L. 101–647, title XXV, §2523(a), Nov. 29, 1990, 104 Stat. 4868; Pub. L. 102–242, title III, §§304(a), 305(a), 306(k), Dec. 19, 1991, 105 Stat. 2354, 2359; Pub. L. 102–550, title XVI, §1605(a)(9), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–325, title III, §§321(b), 324, 326(b)(1), title VI,§602(a)(44)–(50), Sept. 23, 1994, 108 Stat. 2226, 2227, 2229, 2290; Pub. L. 103–328, title I, §§101(d), 102(b)(3)(A), 103(b), Sept. 29, 1994, 108 Stat. 2342, 2350, 2353; Pub. L. 104–208, div. A, title II, §§2615(b), 2704(d)(14)(U), (V), Sept. 30, 1996, 110 Stat. 3009–479, 3009–494; Pub. L. 105–277, div. H, §2, Oct. 21, 1998, 112 Stat. 2681–854; Pub. L. 106–102, title II, §204, title VII, §730, Nov. 12, 1999, 113 Stat. 1391, 1476; Pub. L. 106–569, title XII, §1207(b), Dec. 27, 2000, 114 Stat. 3034; Pub. L. 107–56, title III, §§327(b)(1), 355, Oct. 26, 2001, 115 Stat. 319, 324; Pub. L. 108–386, §8(a)(5), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6203(j), Dec. 17, 2004, 118 Stat. 3747.)
 
 #### References in Text
 
@@ -680,7 +678,7 @@ Section 19 of the Federal Reserve Act, as amended, referred to in subsec. (g)(1)
 
 The date of the enactment of this subsection, referred to in subsec. (s)(4)(C)(i), probably means the date of enactment of Pub. L. 105–277, which added par. (4) of subsec. (s) and redesignated former par. (4) as (5), and which was approved Oct. 21, 1998.
 
-Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referredto in subsec. (s)(5), is section 1404(e)(1)(A) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (s)(5), is section 1404(e)(1)(A) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
 #### Codification
 
@@ -693,6 +691,22 @@ Section 302 of Pub. L. 93–501, cited as a credit to this section, was repealed
 Subsecs. (a) to (g) are derived from subsec (v)(2) to (8) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2004—Subsec. (c)(2)(A). Pub. L. 108–386, §8(a)(5)(A), struck out “or a District bank” after “national bank”.
+
+Subsec. (c)(2)(B). Pub. L. 108–386, §8(a)(5)(B), struck out “(except a District bank)” after “State member bank”.
+
+Subsec. (c)(2)(C). Pub. L. 108–386, §8(a)(5)(C), struck out “a District Bank or” before “a savings bank”.
+
+Subsec. (d)(1). Pub. L. 108–386, §8(a)(5)(D), struck out “(except a District bank)” after “nonmember insured bank” in two places.
+
+Subsec. (f). Pub. L. 108–386, §8(a)(5)(E), struck out “or a District bank” after “national bank”.
+
+Subsec. (i)(1). Pub. L. 108–386, §8(a)(5)(F), struck out “(except a District bank)” after “State nonmember bank”.
+
+Subsec. (i)(2)(A) to (D). Pub. L. 108–386, §8(a)(5)(G)–(I), redesignated subpars. (B) to (D) as (A) to (C), respectively, struck out “(except a District bank)” before semicolon in subpars. (A) and (B), and struck out former subpar. (A), which read as follows: “the Comptroller of the Currency if the resulting bank is to be a District bank;”.
+
+Subsec. (w)(3). Pub. L. 108–458 inserted comma after “agent of such institution”.
 
 2001—Subsec. (c)(11), (12). Pub. L. 107–56, §327(b)(1), added par. (11) and redesignated former par. (11) as (12).
 
@@ -792,7 +806,7 @@ Subsec. (j)(4), (5). Pub. L. 101–73, §907(c), amended pars. (4) and (5) gener
 
 “(D) Any nonmember insured bank or person against whom an order imposing a civil money penalty has been entered after agency hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the member bank is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days from the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Corporation. The Corporation shall promptly certify and file in such court the record upon which the penalty was imposed, as provided in section 2112 of title 28. The findings of the Corporation shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5.
 
-“(E) If any nonmember insured bank or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals has entered final judgment in favor of the agency, the Corporation shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
+“(E) If any nonmember insured bank or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals hasentered final judgment in favor of the agency, the Corporation shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 
 “(F) The Corporation shall promulgate regulations establishing procedures necessary to implement this paragraph.
 
@@ -830,7 +844,7 @@ Subsec. (j)(4). Pub. L. 97–320, §113(<i>o</i>), added par. (4).
 
 1980—Subsec. (g). Pub. L. 96–221, §§302(b), 307, inserted provisions identical to provisions inserted by section 101(b) of Pub. L. 96–161, designating existing provisions as par. (1) and adding par. (2), and repealing the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
-Pub. L. 96–221, §207(b)(2), (3), provided for the future amendment of subsec. (g)(1) by striking out “payment and” and “, including limitations on the rates of interest or dividends that may be paid” in second sentence, and by striking out third, fifth, and eighth sentences which read as follows: “The Board of Directors may prescribe different rate limitations for different classes of deposits, for deposits of different amounts or with different maturities or subject to different conditions regarding withdrawal or repayment, according to the nature or location of insured nonmember banks or their depositors, or according to such other reasonable bases as the Board of Directors may deem desirable in the public interest. Such regulations shall prohibit any insured nonmember bank from paying any time deposit before its maturity except upon such conditions and in accordance with such rules and regulations as may be prescribed by the Board of Directors, and from waivingany requirement of notice before payment of any savings deposit except as to all savings deposits having the same requirement. For each violation of any provision of this subsection or any lawful provision of such regulations relating to the payment of interest or dividends on deposits or to withdrawal of deposits, the offending bank shall be subject to a penalty of not more than $100, which the Corporation may recover for its use.” See Effective Date of 1980 Amendment note below.
+Pub. L. 96–221, §207(b)(2), (3), provided for the future amendment of subsec. (g)(1) by striking out “payment and” and “, including limitations on the rates of interest or dividends that may be paid” in second sentence, and by striking out third, fifth, and eighth sentences which read as follows: “The Board of Directors may prescribe different rate limitations for different classes of deposits, for deposits of different amounts or with different maturities or subject to different conditions regarding withdrawal or repayment, according to the nature or location of insured nonmember banks or their depositors, or according to such other reasonable bases as the Board of Directors may deem desirable in the public interest. Such regulations shall prohibit any insured nonmember bank from paying any time deposit before its maturity except upon such conditions and in accordance with such rules and regulations as may be prescribed by the Board of Directors, and from waiving any requirement of notice before payment of any savings deposit except as to all savings deposits having the same requirement. For each violation of any provision of this subsection or any lawful provision of such regulations relating to the payment of interest or dividends on deposits or to withdrawal of deposits, the offending bank shall be subject to a penalty of not more than $100, which the Corporation may recover for its use.” See Effective Date of 1980 Amendment note below.
 
 Subsec. (k). Pub. L. 96–221, §529, repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of subsec. (k) which had provided that no insured nonmember bank or affiliate, or any successor, assignee, endorser, guarantor, or surety thereof, could plead or claim, directly or otherwise, with respect to any deposit or obligation of such bank or affiliate, any defense, right, or benefit under any provision of a State or territory of the United States, or the District of Columbia, regulating or limiting the rate of interest which could be charged or received, etc. and any such provision was preempted, and no civil or criminal penalty which would otherwise be applicable under such provision would apply to such bank or affiliate or any other person.
 
@@ -882,11 +896,17 @@ Subsec. (j). Pub. L. 89–485 added subsec. (j).
 
 1960—Subsec. (c). Pub. L. 86–463 prohibited merger or consolidation of any insured bank with any other insured bank, or acquisition of assets of, or assumption of liability to pay any deposits made in, any other insured bank without prior written consent, required publication of notice of any proposed merger, consolidation, acquisition of assets, or assumption of liabilities, enumerated specific items required to be considered before consent may be granted or withheld, directed the agency involved to request a report on competitive factors involved from the Attorney General and the other two banking agencies referred to in this subsection, and provided for inclusion in the annual report of the Comptroller, the Board and the Corporation of each merger, consolidation, acquisition of assets, or assumption of liabilities approved.
 
+#### Effective Date of 2004 Amendments
+
+Pub. L. 108–458, title VI, §6205, Dec. 17, 2004, 118 Stat. 3747, provided that: “The amendments made by this subchapter \[probably means subtitle C (§§6201–6205) of title VI of Pub. L. 108–458, see Short Title of 2004 Amendment note set out under section 5301 of Title 31, Money and Finance\] to Public Law 107–56, the United States Code, the Federal Deposit Insurance Act, and any other provision of law shall take effect as if such amendments had been included in Public Law 107–56, as of the date of enactment of such Public Law \[Oct. 26, 2001\], and no amendment made by such Public Law that is inconsistent with an amendment made by this subchapter shall be deemed to have taken effect.”
+
+Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise provided, applicable with respect to fiscal year 2005 and each succeeding fiscal year, see sections 8(i) and 9 of Pub. L. 108–386, set out as notes under section 321 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
-Pub. L. 107–56, title III, §327(b)(2), Oct. 26, 2001, 115 Stat. 319, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any application submitted to the responsible agency under section 18(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1828(c)\] after December 31, 2001, which has not been approved by all appropriate responsible agencies before the date of enactment of this Act \[Oct. 26, 2001\].”
+Pub. L. 107–56, title III, §327(b)(2), Oct. 26, 2001, 115 Stat. 319, as amended by Pub. L. 108–458, title VI, §6202(i), Dec. 17, 2004, 118 Stat. 3746, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any application submitted to the responsible agency under section 18(c) of the Federal Deposit Insurance Act \[12 U.S.C. 1828(c)\] after December 31, \[sic\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -964,7 +984,7 @@ Section 529 of Pub. L. 96–221 provided in part that, notwithstanding the repea
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (c)(9) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (c)(9) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Banking Agency Publication Requirements
 
@@ -1092,7 +1112,7 @@ Section 326(b)–(d) of Pub. L. 97–320 provided that:
 
 “(b)(1) Interest rate differentials for all categories of deposits or accounts between (i) any bank (other than a savings bank) the deposits of which are insured by the Federal Deposit Insurance Corporation, and (ii) any savings and loan, building and loan, or homestead association (including cooperative banks) the deposits or accounts of which are insured by the Federal Savings and Loan Insurance Corporation or any mutual savings bank as defined in section 3(f) of the Federal Deposit Insurance Act (12 U.S.C. 1813(j)) \[12 U.S.C. 1813(f)\], shall be phased out on or before January 1, 1984.
 
-“(2) Any differential which is being phased out pursuant to a schedule established by regulations prescribed by the Depository Institutions Deregulation Committee prior to the date of enactment of this Act \[Oct. 15, 1982\] shall be phased out as soon as practicable, but in no event later than such schedule provides.
+“(2) Any differential which is being phased out pursuant to a schedule established by regulations prescribedby the Depository Institutions Deregulation Committee prior to the date of enactment of this Act \[Oct. 15, 1982\] shall be phased out as soon as practicable, but in no event later than such schedule provides.
 
 “(3) Notwithstanding any other provision of law, no differential for any category of deposits or accounts shall be established or maintained on or after January 1, 1984.
 
@@ -1120,13 +1140,9 @@ Section 2 of Pub. L. 89–356 provided that:
 
 “(b) No merger, consolidation, acquisition of assets, or assumption of liabilities involving an insured bank which was consummated after June 16, 1963, and prior to the date of enactment of this Act \[Feb. 21, 1966\] and as to which no litigation was initiated by the Attorney General prior to the date of enactment of this Act \[Feb. 21, 1966\] may be attacked after such date in any judicial proceeding on the ground that it alone and of itself constituted a violation of any antitrust laws other than section 2 of the Act of July 2, 1890 (section 2 of the Sherman Antitrust Act, 15 U.S.C. 2).
 
-“(c) Any court having pending before it on or after the date of enactment of this Act \[Feb. 21, 1966\] any litigation initiated under the antitrust laws by the Attorney General after June 16, 1963 with respect to themerger, consolidation, acquisition of assets, or assumption of liabilities of an insured bank consummated after June 16, 1963, shall apply the substantive rule of law set forth in section 18(c)(5) of the Federal Deposit Insurance Act \[subsec. (c)(5) of this section\], as amended by this Act.
+“(c) Any court having pending before it on or after the date of enactment of this Act \[Feb. 21, 1966\] any litigation initiated under the antitrust laws by the Attorney General after June 16, 1963 with respect to the merger, consolidation, acquisition of assets, or assumption of liabilities of an insured bank consummated after June 16, 1963, shall apply the substantive rule of law set forth in section 18(c)(5) of the Federal Deposit Insurance Act \[subsec. (c)(5) of this section\], as amended by this Act.
 
 “(d) For the purposes of this section, the term ‘antitrust laws’ means the Act of July 2, 1890 (the Sherman Antitrust Act, 15 U.S.C. 1–7), the Act of October 15, 1914 (the Clayton Act, 15 U.S.C. 12–27), and any other Acts in pari materia.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 215a–3, 215c, 371, 1464, 1467a, 1468, 1815, 1817, 1818, 1820, 1821, 1828b, 1831p–1, 1831u, 1843, 2902, 3103, 4803 of this title; title 15 section 18a; title 31 section 5318.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@ The services provided, in a State program under subsection (a) of this section, 
 
 #### (1) Population served
 
-&emsp;Services under a State program under this subpart shall be provided to family caregivers, and grandparents and older individuals who are relative caregivers, and who—
+&emsp;Services under a State program under this subpart shall be provided to family caregivers,and grandparents and older individuals who are relative caregivers, and who—
 
 &emsp;&emsp;(A) are described in paragraph (1) or (2) of subsection (a) of this section; and
 
@@ -103,10 +103,6 @@ In carrying out this subpart, each area agency on aging shall coordinate the act
 Section 3002(28) of this title, referred to in subsec. (c)(1)(B), probably should be a reference to section 3002(26). Former section 3002(28), which defined “frail” and contained subpars. (A)(i) and (B) specifying conditions, was redesignated section 3002(26) by Pub. L. 106–501, title I, §101(5), Nov. 13, 2000, 114 Stat. 2229. Section 3002(28) defines the term “greatest social need” and does not contain a subpar. (A)(i).
 
 Section 102 of the Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (c)(2), is section 102 of Pub. L. 88–164, which was classified to section 6001 of this title prior to repeal by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3030s–2, 3057k–11 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

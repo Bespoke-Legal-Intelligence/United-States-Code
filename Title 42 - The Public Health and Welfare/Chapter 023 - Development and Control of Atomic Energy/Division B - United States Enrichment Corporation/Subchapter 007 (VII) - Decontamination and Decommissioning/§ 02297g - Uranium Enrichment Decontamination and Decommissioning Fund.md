@@ -20,7 +20,3 @@ There is established in the Treasury of the United States an account to be known
 
 (Aug. 1, 1946, ch. 724, title II, §1801, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2953.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2296a–2 of this title.
-

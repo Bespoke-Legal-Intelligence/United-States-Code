@@ -2,11 +2,17 @@
 
 #### (a) In general
 
-A State or unit of local government that receives a grant under this subchapter shall use the grant to carry out all or a substantial part of a program intended to improve the quality and timeliness of forensic science or medical examiner services in the State, including such services provided by the laboratories operated by the State and those operated by units of local government within the State.
+A State or unit of local government that receives a grant under this subchapter shall use the grant to do any one or more of the following:
+
+&emsp;(1) To carry out all or a substantial part of a program intended to improve the quality and timeliness of forensic science or medical examiner services in the State, including such services provided by the laboratories operated by the State and those operated by units of local government within the State.
+
+&emsp;(2) To eliminate a backlog in the analysis of forensic science evidence, including firearms examination, latent prints, toxicology, controlled substances, forensic pathology, questionable documents, and trace evidence.
+
+&emsp;(3) To train, assist, and employ forensic laboratory personnel, as needed, to eliminate such a backlog.
 
 #### (b) Permitted categories of funding
 
-Subject to subsections (c) and (d) of this section, a grant awarded under this subchapter—
+Subject to subsections (c) and (d) of this section, a grant awarded for the purpose set forth in subsection (a)(1) of this section—
 
 &emsp;(1) may only be used for program expenses relating to facilities, personnel, computerization, equipment, supplies, accreditation and certification, education, and training; and
 
@@ -30,15 +36,29 @@ Subject to subsections (c) and (d) of this section, a grant awarded under this s
 
 Not more than 10 percent of the total amount of a grant awarded under this subchapter may be used for administrative expenses.
 
-(Pub. L. 90–351, title I, §2804, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2789; amended Pub. L. 107–273, div. B, title V, §5001(b)(4), Nov. 2, 2002, 116 Stat. 1814.)
+#### (e) Backlog defined
+
+For purposes of this section, a backlog in the analysis of forensic science evidence exists if such evidence—
+
+&emsp;(1) has been stored in a laboratory, medical examiner's office, coroner's office, law enforcement storage facility, or medical facility; and
+
+&emsp;(2) has not been subjected to all appropriate forensic testing because of a lack of resources or personnel.
+
+(Pub. L. 90–351, title I, §2804, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2789; amended Pub. L. 107–273, div. B, title V, §5001(b)(4), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 108–405, title III, §311(a), Oct. 30, 2004, 118 Stat. 2276.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–405, §311(a)(1), substituted “shall use the grant to do any one or more of the following:
+
+&emsp;“(1) To carry out”
+
+> for “shall use the grant to carry out” and added pars. (2) and (3).
+
+Subsec. (b). Pub. L. 108–405, §311(a)(2), substituted “for the purpose set forth in subsection (a)(1) of this section” for “under this subchapter” in introductory provisions.
+
+Subsec. (e). Pub. L. 108–405, §311(a)(3), added subsec. (e).
 
 2002—Subsec. (a). Pub. L. 107–273, §5001(b)(4)(A), inserted “or unit of local government” after “A State”.
 
 Subsec. (c)(1). Pub. L. 107–273, §5001(b)(4)(B), inserted “(including grants received by units of local government within a State)” after “under this subchapter”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3797k of this title.
 

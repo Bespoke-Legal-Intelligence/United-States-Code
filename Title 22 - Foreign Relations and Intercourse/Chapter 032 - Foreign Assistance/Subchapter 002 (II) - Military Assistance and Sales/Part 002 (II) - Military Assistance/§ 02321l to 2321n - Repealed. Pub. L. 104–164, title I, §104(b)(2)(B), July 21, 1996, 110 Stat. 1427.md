@@ -1,6 +1,6 @@
 ### §§2321<i>l</i> to 2321n. Repealed. Pub. L. 104–164, title I, §104(b)(2)(B), July 21, 1996, 110 Stat. 1427
 
-Section 2321<i>l</i>, Pub. L. 87–195, pt. II, §518, as added Pub. L. 101–513, title V, §533(f), Nov. 5, 1990, 104 Stat. 2015, authorized President to transfer nonlethal excess defense articles and small arms to friendly countries and to international organizations and private and voluntary organizations for preservation of endangered animal and plant species.
+Section 2321<i>l</i>, Pub. L. 87–195, pt. II, §518, as added Pub. L. 101–513, title V, §533(f), Nov. 5, 1990, 104 Stat. 2015, authorized President to transfer nonlethal excess defense articles and small arms to friendly countries and to international organizations and private and voluntaryorganizations for preservation of endangered animal and plant species.
 
 Section 2321m, Pub. L. 87–195, pt. II, §519, as added Pub. L. 101–513, title V, §596(b), Nov. 5, 1990, 104 Stat. 2061; amended Pub. L. 103–236, title VII, §731(c), Apr. 30, 1994, 108 Stat. 502, authorized President to transfer to countries for whom foreign military financing program was justified such nonlethal excess defense articles as President determined necessary to help modernize defense capabilities of such countries.
 

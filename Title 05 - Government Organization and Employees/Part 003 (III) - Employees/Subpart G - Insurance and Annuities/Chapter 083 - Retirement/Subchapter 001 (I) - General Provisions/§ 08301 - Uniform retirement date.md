@@ -24,7 +24,3 @@ In subsection (a), the words “Except as otherwise specifically provided by thi
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 580, 1164, 1210, 1221, 1263, 1305, 1404, 12731.
-

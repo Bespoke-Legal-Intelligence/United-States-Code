@@ -104,7 +104,7 @@ As used in this chapter, the term—
 
 &emsp;(15) “Secretary” means the Secretary of Commerce;
 
-&emsp;(16) “specifications” means the required characteristics identified in the contractual agreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
+&emsp;(16) “specifications” means the required characteristics identified in the contractualagreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
 
 &emsp;(17) “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
 
@@ -139,8 +139,4 @@ Par. (15). Pub. L. 104–113, §11(b)(6), redesignated par. (15) as (14).
 #### Comptroller General Report
 
 Pub. L. 106–34, §12, June 8, 1999, 113 Stat. 125, provided that: “Not later than 2 years after the date of the enactment of this Act \[June 8, 1999\], the Comptroller General shall transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of section 3(6)(B) of the Fastener Quality Act \[15 U.S.C. §5402(6)(B)\], as added by section 3 of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5411a of this title.
 

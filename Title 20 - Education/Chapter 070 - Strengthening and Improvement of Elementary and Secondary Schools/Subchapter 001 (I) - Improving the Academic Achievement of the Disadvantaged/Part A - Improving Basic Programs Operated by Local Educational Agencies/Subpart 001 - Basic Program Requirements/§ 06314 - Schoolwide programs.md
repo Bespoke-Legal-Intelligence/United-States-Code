@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(I) Activities to ensure that students who experience difficulty mastering the proficient or advanced levels of academic achievement standards required by section 6311(b)(1) of this title shall be provided with effective, timely additional assistance which shall include measures to ensure that students’ difficulties are identified on a timely basis and to provide sufficient information on which to base effective assistance.
 
-&emsp;&emsp;(J) Coordination and integration of Federal, State, and local services and programs, including programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
+&emsp;&emsp;(J) Coordination and integration of Federal, State, and local services and programs,including programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
 
 #### (2) Plan
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iii) includes a list of State educational agency and local educational agency programs and other Federal programs under subsection (a)(3) of this section that will be consolidated in the schoolwide program; and
 
-&emsp;&emsp;&emsp;(iv) describes how the school will provide individual student academic assessmentresults in a language the parents can understand, including an interpretation of those results, to the parents of a child who participates in the academic assessments required by section 6311(b)(3) of this title.
+&emsp;&emsp;&emsp;(iv) describes how the school will provide individual student academic assessment results in a language the parents can understand, including an interpretation of those results, to the parents of a child who participates in the academic assessments required by section 6311(b)(3) of this title.
 
 #### (B) Plan development
 
@@ -135,8 +135,4 @@ The Head Start Act, referred to in subsec. (b)(2)(B)(v), is subchapter B (§§63
 #### Prior Provisions
 
 A prior section 6314, Pub. L. 89–10, title I, §1114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3534; amended Pub. L. 105–332, §3(c)(1), Oct. 31, 1998, 112 Stat. 3125, related to schoolwide programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1413, 6311, 6312, 6313, 6315, 6318, 6319, 6394, 7173, 7174, 7425 of this title.
 

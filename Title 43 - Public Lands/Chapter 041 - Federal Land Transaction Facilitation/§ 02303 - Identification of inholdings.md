@@ -34,7 +34,3 @@ The identification of an inholding under this section creates no obligation on t
 
 (Pub. L. 106–248, title II, §204, July 25, 2000, 114 Stat. 615.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2305 of this title.
-

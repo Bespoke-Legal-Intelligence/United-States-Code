@@ -132,7 +132,3 @@ Section 406(e) of Pub. L. 100–4 provided that: “The part of the decision of 
 
 > The Administrator shall not authorize any other removal credits under such Act \[33 U.S.C. 1251 et seq.\] until the Administrator issues the regulations required by paragraph (2)(A)(ii) of section 405(d) of such Act, as amended by subsection (a) of this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1317, 1318, 1319, 1365, 1369 of this title.
-

@@ -22,7 +22,7 @@ In general.—Except as otherwise provided in sections 620 to 620j of this title
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary concerned shall issue regulations that impose reasonable painting, branding, or other forms of marking or tracking requirements on unprocessed timber if—
+&emsp;&emsp;The Secretary concerned shall issue regulations that impose reasonable painting,branding, or other forms of marking or tracking requirements on unprocessed timber if—
 
 &emsp;&emsp;&emsp;(i) the benefits of the requirements outweigh the cost of complying with the requirements; and
 
@@ -105,10 +105,6 @@ The Secretaries of Agriculture and Interior shall, in consultation, review the d
 #### Amendments
 
 1997—Subsec. (a). Pub. L. 105–83 redesignated first two sentences as pars. (1) and (2), respectively, and inserted headings, and substituted pars. (3) to (5) for last sentence which read as follows: “Except as otherwise provided in sections 620 to 620j of this title, regulations and guidelines under this subsection shall be issued not later than 9 months after August 20, 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 620b, 620d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “620e(7)(B)(ii)”.</i>
 

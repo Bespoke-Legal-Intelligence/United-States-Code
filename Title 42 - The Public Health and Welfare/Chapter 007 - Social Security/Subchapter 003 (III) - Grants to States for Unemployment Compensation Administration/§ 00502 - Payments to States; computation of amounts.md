@@ -6,13 +6,13 @@ The Secretary of Labor shall from time to time certify to the Secretary of the T
 
 #### (b) Payment of amounts
 
-Out of the sums appropriated therefor, the Secretary of the Treasury shall, upon receiving a certification under subsection (a) of this section, pay, through the Fiscal Service of the Department of the Treasury and prior to audit or settlement by the General Accounting Office, to the State agency charged with the administration of such law the amount so certified.
+Out of the sums appropriated therefor, the Secretary of the Treasury shall, upon receivinga certification under subsection (a) of this section, pay, through the Fiscal Service of the Department of the Treasury and prior to audit or settlement by the Government Accountability Office, to the State agency charged with the administration of such law the amount so certified.
 
 #### (c) Mailing costs
 
 No portion of the cost of mailing a statement under section 6050B(b) of the Internal Revenue Code of 1986 (relating to unemployment compensation) shall be treated as not being a cost for the proper and efficient administration of the State unemployment compensation law by reason of including with such statement information about the earned income credit provided by section 32 of the Internal Revenue Code of 1986. The preceding sentence shall not apply if the inclusion of such information increases the postage required to mail such statement.
 
-(Aug. 14, 1935, ch. 531, title III, §302, 49 Stat. 626; Aug. 10, 1939, ch. 666, title III, §301, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Pub. L. 98–369, div. B, title VI, §2663(b)(1), July 18, 1984, 98 Stat. 1165; Pub. L. 99–603, title I, §121(b)(3), Nov. 6, 1986, 100 Stat. 3390; Pub. L. 102–318, title III, §302(a), July 3, 1992, 106 Stat. 297.)
+(Aug. 14, 1935, ch. 531, title III, §302, 49 Stat. 626; Aug. 10, 1939, ch. 666, title III, §301, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Pub. L. 98–369, div. B, title VI, §2663(b)(1), July 18, 1984, 98 Stat. 1165; Pub. L. 99–603, title I, §121(b)(3), Nov. 6, 1986, 100 Stat. 3390; Pub. L. 102–318, title III, §302(a), July 3, 1992, 106 Stat. 297; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -21,6 +21,8 @@ The Federal Unemployment Tax Act, referred to in subsec. (a), comprised subchapt
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1992—Subsec. (c). Pub. L. 102–318 added subsec. (c).
 
@@ -36,7 +38,7 @@ Section 302(b) of Pub. L. 102–318 provided that: “The amendment made by subs
 
 #### Effective Date of 1986 Amendment
 
-Section 121(c)(2) of Pub. L. 99–603 provided that: “The amendments made by subsection (b) \[enacting section1437r of this title, amending this section and sections 303, 603, 1203, 1353, and 1396b of this title, section 2025 of Title 7, Agriculture, and section 1096 of Title 20, Education, and amending provisions set out as a Puerto Rico, Guam, and Virgin Islands note under section 1383 of this title\] take effect on October 1, 1987.”
+Section 121(c)(2) of Pub. L. 99–603 provided that: “The amendments made by subsection (b) \[enacting section 1437r of this title, amending this section and sections 303, 603, 1203, 1353, and 1396b of this title, section 2025 of Title 7, Agriculture, and section 1096 of Title 20, Education, and amending provisions set out as a Puerto Rico, Guam, and Virgin Islands note under section 1383 of this title\] take effect on October 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 
@@ -80,9 +82,5 @@ Specific Requirements.—The report required by subsection (a) shall include an 
 
 “(c)
 
-Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[this section\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 504 of this title; title 45 section 363.
+Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[this section\], until after theexpiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
 

@@ -12,7 +12,3 @@ The purposes of the corporation are to—
 
 The National Recording Preservation Act of 2000, referred to in par. (2), is Pub. L. 106–474, Nov. 9, 2000, 114 Stat. 2085, which enacted this chapter and chapter 27 (§1701 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 2 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152409 of this title.
-

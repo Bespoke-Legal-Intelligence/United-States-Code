@@ -78,7 +78,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(VI) the person's offer to transfer, sell, or otherwise assign the domain name to the mark owner or any third party for financial gain without having used, or having an intent to use, the domain name in the bona fide offering of any goods or services, or the person's prior conduct indicating a pattern of such conduct;
 
-&emsp;(VII) the person's provision of material and misleading false contact information when applying for the registration of the domain name, the person's intentional failure to maintain accurate contact information, or the person's prior conduct indicating a pattern of such conduct;
+&emsp;(VII) the person's provision of material and misleading false contact information when applying for the registration of the domain name, the person's intentional failure to maintain accurate contact information, or theperson's prior conduct indicating a pattern of such conduct;
 
 &emsp;(VIII) the person's registration or acquisition of multiple domain names which the person knows are identical or confusingly similar to marks of others that are distinctive at the time of registration of such domain names, or dilutive of famous marks of others that are famous at the time of registration of such domain names, without regard to the goods or services of the parties; and
 
@@ -160,7 +160,7 @@ Section 5 of Pub. L. 104–98 provided that: “This Act \[amending this section
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–542 effective with respect to violations that occur on or after Oct. 27, 1992, seesection 4 of Pub. L. 102–542, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 102–542 effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -193,8 +193,4 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 “(b)
 
 Guidelines and Procedures.—The Secretary of Commerce shall, under its Memorandum of Understanding with the Internet Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1052, 1063, 1064, 1092, 1114, 1116, 1117, 1118, 1122 of this title; title 16 section 470a; title 19 section 1595a.
 

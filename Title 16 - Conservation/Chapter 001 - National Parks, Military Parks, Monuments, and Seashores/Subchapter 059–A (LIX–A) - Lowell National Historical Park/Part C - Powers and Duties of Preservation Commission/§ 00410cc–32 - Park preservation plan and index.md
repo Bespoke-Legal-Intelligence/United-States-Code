@@ -24,7 +24,7 @@
 
 &emsp;(A) carry out activities to preserve, restore, manage, develop, or maintain any property identified in subsection (c)(1) of this section;
 
-&emsp;(B) take any action the Commission considers necessary to provide owners of propertywith national historical or cultural significance within the park or preservation district with emergency assistance for the purpose of preserving and protecting their property in a manner consistent with the purpose of this subchapter; or
+&emsp;(B) take any action the Commission considers necessary to provide owners of property with national historical or cultural significance within the park or preservation district with emergency assistance for the purpose of preserving and protecting their property in a manner consistent with the purpose of this subchapter; or
 
 &emsp;(C) acquire in accordance with section 410cc–34 of this title, any property within the park which—
 
@@ -97,8 +97,4 @@ The Commission shall establish, within one year after the date on which the Comm
 (4) The Secretary shall publish the standards and criteria established under paragraphs (1) and (2) of this subsection, and any revisions thereof, in the Federal Register.
 
 (Pub. L. 95–290, title III, §302, June 5, 1978, 92 Stat. 297.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410cc–12, 410cc–13, 410cc–23, 410cc–24, 410cc–25, 410cc–33, 410cc–34 of this title.
 

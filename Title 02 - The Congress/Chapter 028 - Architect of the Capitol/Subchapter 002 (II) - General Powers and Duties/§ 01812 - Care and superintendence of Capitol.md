@@ -16,7 +16,7 @@ Provisions similar to those comprising the first sentence of this section were c
 
 #### Amendments
 
-<b>1951</b>—Act Oct. 31, 1951, struck out “, and shall submit through the Secretary of the Interior estimates thereof” at end of first sentence.
+1951—Act Oct. 31, 1951, struck out “, and shall submit through the Secretary of the Interior estimates thereof” at end of first sentence.
 
 #### Change of Name
 

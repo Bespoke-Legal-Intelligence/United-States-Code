@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—OFFICE OF COMPLIANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1434 of this title.
-
 
 ---
 

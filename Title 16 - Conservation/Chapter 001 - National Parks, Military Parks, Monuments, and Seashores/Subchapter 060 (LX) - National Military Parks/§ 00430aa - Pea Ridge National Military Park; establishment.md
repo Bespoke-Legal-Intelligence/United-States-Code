@@ -4,7 +4,3 @@ When not less than one thousand two hundred acres of the non-Federal lands herei
 
 (July 20, 1956, ch. 653, §1, 70 Stat. 592.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430bb, 430dd, 430ee of this title.
-

@@ -4,7 +4,3 @@ There is authorized to be appropriated to the United States section, Internation
 
 (July 27, 1953, ch. 242, §2, 67 Stat. 195.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277d–10 of this title.
-

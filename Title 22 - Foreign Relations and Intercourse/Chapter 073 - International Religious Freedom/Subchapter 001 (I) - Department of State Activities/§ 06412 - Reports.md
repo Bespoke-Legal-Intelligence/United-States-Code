@@ -8,7 +8,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (1) Deadline for submission
 
-&emsp;On September 1 of each year or the first day thereafter on which the appropriate House ofCongress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
+&emsp;On September 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
 
 #### (A) Status of religious freedom
 
@@ -16,9 +16,15 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(i) trends toward improvement in the respect and protection of the right to religious freedom and trends toward deterioration of such right;
 
-&emsp;&emsp;&emsp;(ii) violations of religious freedom engaged in or tolerated by the government of that country; and
+&emsp;&emsp;&emsp;(ii) violations of religious freedom engaged in or tolerated by the government of that country;
 
-&emsp;&emsp;&emsp;(iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country.
+&emsp;&emsp;&emsp;(iii) particularly severe violations of religious freedom engaged in or tolerated by the government of that country; and
+
+&emsp;&emsp;&emsp;(iv) wherever applicable, an assessment and description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur in that country during the preceding year, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) acts of physical violence against, or harassment of, Jewish people, acts of violence against, or vandalism of, Jewish community institutions, and instances of propaganda in government and nongovernment media that incite such acts; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the actions taken by the government of that country to respond to such violence and attacks or to eliminate such propaganda or incitement, to enact and enforce laws relating to the protection of the right to religious freedom of Jewish people, and to promote anti-bias and tolerance education.
 
 #### (B) Violations of religious freedom
 
@@ -30,7 +36,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (C) United States policies
 
-&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
+&emsp;&emsp;A description of United States actions and policies in support of religious freedom ineach foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
 
 #### (D) International agreements in effect
 
@@ -70,7 +76,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
 
-(Pub. L. 105–292, title I, §102, Oct. 27, 1998, 112 Stat. 2792; Pub. L. 107–228, div. A, title VI, §681(a), Sept. 30, 2002, 116 Stat. 1408.)
+(Pub. L. 105–292, title I, §102, Oct. 27, 1998, 112 Stat. 2792; Pub. L. 107–228, div. A, title VI, §681(a), Sept. 30, 2002, 116 Stat. 1408; Pub. L. 108–332, §6(b), Oct. 16, 2004, 118 Stat. 1285.)
 
 #### References in Text
 
@@ -84,13 +90,15 @@ Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section
 
 #### Amendments
 
+2004—Subsec. (b)(1)(A)(iv). Pub. L. 108–332 added cl. (iv).
+
 2002—Subsec. (b)(1)(B). Pub. L. 107–228 inserted “including policies that discriminate against particular religious groups or members of such groups,” after “the existence of government policies violating religious freedom,”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–332 applicable beginning with the first report under sections 2151n(d), 2304(b), and 6412(b) of this title submitted more than 180 days after Oct. 16, 2004, see section 6(c) of Pub. L. 108–332, set out as a note under section 2151n of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6402, 6411 of this title.
 

@@ -20,7 +20,7 @@ The provisions of this section shall become effective on the first day of the fi
 
 #### References in Text
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and\(c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
 The date of adoption of this resolution, referred to in subsec. (d), is Mar. 25, 1971. See Codification note below.
 
@@ -32,7 +32,7 @@ Section is based on section 2 of House Resolution No. 317, Ninety-second Congres
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
+1996—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
 #### Change of Name
 
@@ -68,7 +68,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 “(b) The provisions of law referred to in subsection (a) are—
 
-&emsp;“(1) subchapter III of chapter 83 of title 5, United States Code (including section 8339(m) of such title (which shall be applied, when an employee retires on an immediate annuity or dies, as if the employment at the time of retirement or death were under a formal leave system), with respect to unused sick leave to the credit of an employee on the day referred to in subsection (a)(1));
+&emsp;“(1) subchapter III of chapter 83 of title 5, United States Code (including section 8339(m) of such title (which shall be applied, when an employee retires on an immediate annuity or dies, as if the employmentat the time of retirement or death were under a formal leave system), with respect to unused sick leave to the credit of an employee on the day referred to in subsection (a)(1));
 
 &emsp;“(2) chapter 84 of title 5, United States Code; and
 
@@ -81,8 +81,4 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 &emsp;“(B) the employer furnishing food services under a contract referred to in subsection (a) shall pay into the Civil Service Retirement and Disability Fund amounts equal to any agency contributions which would be required if the individual were a Congressional employee.
 
 “(2) At the earliest practicable opportunity, the Executive Director of the Federal Retirement Thrift Investment Board shall, in consultation with the Architect of the Capitol, prescribe regulations to carry out this section with respect to matters within the jurisdiction of the Board.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1846 of this title; title 5 section 5533.
 

@@ -52,7 +52,7 @@ If lands within DeSoto State Park are acquired by the Secretary, at the request 
 
 #### (1) Public awareness and participation program
 
-&emsp;The Secretary shall develop and conduct a program to promote and encourage awarenessof and participation in the development of the general management plan for the Preserve by persons owning property in the vicinity of the Preserve, other interested groups and individuals, State, county, and municipal agencies, and the general public. Prior to final approval of the plan, the Secretary shall hold public meetings in DeKalb and Cherokee Counties.
+&emsp;The Secretary shall develop and conduct a program to promote and encourage awareness of and participation in the development of the general management plan for the Preserve by persons owning property in the vicinity of the Preserve, other interested groups and individuals, State, county, and municipal agencies, and the general public. Prior to final approval of the plan, the Secretary shall hold public meetings in DeKalb and Cherokee Counties.
 
 #### (2) Consideration of public comment
 
@@ -63,8 +63,4 @@ If lands within DeSoto State Park are acquired by the Secretary, at the request 
 Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), all rights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983, in settlement of the action brought on September 24, 1980, against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
 
 (Pub. L. 102–427, §3, Oct. 21, 1992, 106 Stat. 2179.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698q, 698s, 698t of this title.
 

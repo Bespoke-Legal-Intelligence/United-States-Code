@@ -22,7 +22,3 @@ The staff of the Office of Pediatric Therapeutics shall coordinate with employee
 
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 355b of this title.
-

@@ -8,7 +8,3 @@ In addition to the construction charge, every water-right applicant, entryman, o
 
 Section is comprised of part of first sentence and second sentence of section 5 of act Aug. 13, 1914. Remainder of first sentence of such section is classified to section 499 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 465, 475, 511, 591a of this title.
-

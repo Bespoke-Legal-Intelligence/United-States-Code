@@ -8,7 +8,3 @@ The provisions of section 207 of this title shall not apply to preparations cont
 
 Section is comprised of section 6 of act Mar. 3, 1915. Remainder of such section 6 is classified to section 207 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 211 of this title.
-

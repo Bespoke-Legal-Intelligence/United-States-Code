@@ -96,7 +96,3 @@ In subsection (c), the words “common law or statutory” are omitted as surplu
 
 Subsec. (a). Pub. L. 107–355 reenacted subsec. heading without change, added par. (1) and struck out former par. (1), inserted par. (2) heading and realigned margins. Prior to amendment, par. (1) read as follows: “On the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including punitive damages.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60105, 60114 of this title.
-

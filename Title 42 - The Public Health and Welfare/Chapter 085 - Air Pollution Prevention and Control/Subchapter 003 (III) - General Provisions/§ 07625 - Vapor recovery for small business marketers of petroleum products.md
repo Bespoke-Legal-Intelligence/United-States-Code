@@ -38,7 +38,3 @@ A prior section 324 of act July 14, 1955, was renumbered section 323 by Pub. L. 
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7511a of this title.
-

@@ -58,7 +58,3 @@ A prior section 1926 of act July 1, 1944, was classified to section 300x–12 of
 
 Another prior section 1926 of act July 1, 1944, was classified to section 300y–5 of this title prior to repeal by Pub. L. 99–280.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300x–54, 300x–55 of this title.
-

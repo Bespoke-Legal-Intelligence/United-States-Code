@@ -74,7 +74,3 @@ A local development district shall—
 
 2002—Subsec. (b)(1). Pub. L. 107–171 substituted “Authority shall” for “Authority may”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009aa–5 of this title.
-

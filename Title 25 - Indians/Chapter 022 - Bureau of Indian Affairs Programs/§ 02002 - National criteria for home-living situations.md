@@ -68,7 +68,3 @@ A prior section 2002, Pub. L. 95–561, title XI, §1122, as added Pub. L. 103�
 
 Another prior section 2002, Pub. L. 95–561, title XI, §1122, Nov. 1, 1978, 92 Stat. 2318; Pub. L. 96–46, §2(b)(5), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 100–297, title V, §5105, Apr. 28, 1988, 102 Stat. 367, related to national criteria for dormitory situations, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2002, 2007, 2015 of this title.
-

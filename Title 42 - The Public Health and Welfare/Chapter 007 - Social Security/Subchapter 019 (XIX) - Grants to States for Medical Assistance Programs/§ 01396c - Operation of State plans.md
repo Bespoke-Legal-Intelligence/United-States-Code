@@ -10,7 +10,3 @@ If the Secretary, after reasonable notice and opportunity for hearing to the Sta
 
 (Aug. 14, 1935, ch. 531, title XIX, §1904, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1316 of this title.
-

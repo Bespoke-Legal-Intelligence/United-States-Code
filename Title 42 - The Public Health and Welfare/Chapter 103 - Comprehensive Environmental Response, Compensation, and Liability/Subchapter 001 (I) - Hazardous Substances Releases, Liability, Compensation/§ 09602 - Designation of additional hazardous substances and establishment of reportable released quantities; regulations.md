@@ -10,7 +10,3 @@
 
 1986—Subsec. (a). Pub. L. 99–499 inserted provisions setting deadlines for promulgation of proposed and final regulations.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9601, 9603, 11004 of this title; title 10 section 2692; title 26 section 198; title 33 section 1319.
-

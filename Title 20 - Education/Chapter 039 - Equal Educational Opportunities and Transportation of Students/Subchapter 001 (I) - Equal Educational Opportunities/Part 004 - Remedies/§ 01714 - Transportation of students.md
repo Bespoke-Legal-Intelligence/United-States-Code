@@ -14,7 +14,3 @@ When a court of competent jurisdiction determines that a school system is desegr
 
 (Pub. L. 93–380, title II, §215, Aug. 21, 1974, 88 Stat. 517.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1713 of this title.
-

@@ -10,7 +10,7 @@ In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b
 
 &emsp;(3) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission or with any other appropriate regulatory agency under this chapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein; or
 
-&emsp;(4) has failed reasonably to supervise, within the meaning of section 78<i>o</i>(b)(4)(E) of thistitle, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision;
+&emsp;(4) has failed reasonably to supervise, within the meaning of section 78<i>o</i>(b)(4)(E) of this title, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision;
 
 > and that such penalty is in the public interest.
 
@@ -75,8 +75,4 @@ This chapter, referred to in subsec. (a)(1), (3), was in the original “this ti
 #### Effective Date
 
 Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78j–1, 78<i>o</i>–4 of this title.
 

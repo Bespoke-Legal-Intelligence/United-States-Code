@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of Central Intelligence and the heads of all departments, agencies, and other entities of the United States Government involved in intelligence activities shall—
+To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of National Intelligence and the heads of all departments, agencies, and other entities of the United States Government involved in intelligence activities shall—
 
 &emsp;(1) keep the congressional intelligence committees fully and currently informed of all intelligence activities, other than a covert action (as defined in section 413b(e) of this title), which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including any significant anticipated intelligence activity and any significant intelligence failure; and
 
@@ -18,9 +18,9 @@ Any report relating to a significant anticipated intelligence activity or a sign
 
 #### (c) Standards and procedures for certain reports
 
-The Director of Central Intelligence, in consultation with the heads of the departments, agencies, and entities referred to in subsection (a) of this section, shall establish standards and procedures applicable to reports covered by subsection (b) of this section.
+The Director of National Intelligence, in consultation with the heads of the departments, agencies, and entities referred to in subsection (a) of this section, shall establish standards and procedures applicable to reports covered by subsection (b) of this section.
 
-(July 26, 1947, ch. 343, title V, §502, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–108, title III, §305,Dec. 28, 2001, 115 Stat. 1398; Pub. L. 107–306, title III, §353(b)(3)(B), Nov. 27, 2002, 116 Stat. 2402.)
+(July 26, 1947, ch. 343, title V, §502, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–108, title III, §305, Dec. 28, 2001, 115 Stat. 1398; Pub. L. 107–306, title III, §353(b)(3)(B), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(W), (X), Dec. 17, 2004, 118 Stat. 3689.)
 
 #### Prior Provisions
 
@@ -28,9 +28,17 @@ A prior section 502 of act July 26, 1947, ch. 343, was renumbered section 504 an
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(W), substituted “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions.
+
+Subsec. (c). Pub. L. 108–458, §1071(a)(1)(X), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+
 2002—Subsecs. (a), (b). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
 
 2001—Pub. L. 107–108 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Furnishing of Intelligence Information to Senate and House Select Committees on Intelligence
 
@@ -43,8 +51,4 @@ Furnishing of Specific Information.—In accordance with title V of the National
 “(b)
 
 Access by Committees and Members of Congress.—In accordance with Senate Resolution 400, Ninety-Fourth Congress, and House Resolution 658, Ninety-Fifth Congress, the committees named in subsection (a) shall, upon request and under such regulations as the committees have prescribed to protect the classification of such information, make any information described in subsection (a) available to any other committee or any other Member of Congress and appropriately cleared staff.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 7304.
 

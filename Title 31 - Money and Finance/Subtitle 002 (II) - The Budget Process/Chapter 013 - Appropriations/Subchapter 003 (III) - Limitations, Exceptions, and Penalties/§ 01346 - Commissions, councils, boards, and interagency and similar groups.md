@@ -72,7 +72,3 @@ In subsection (c)(2), the words “armed forces” are substituted for “milita
 
 Subsection (c)(3) is substituted for the last sentence of 31:672 to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 1128; title 22 sections 2396, 2456, 2514.
-

@@ -2,7 +2,7 @@
 
 The Secretary shall, by April 1, 1980, establish a program under which—
 
-&emsp;(1) grants and technical assistance may be provided to hospitals in operation on October4, 1979, (A) for the discontinuance of unneeded hospital services, and (B) for the conversion of unneeded hospital services to other health services needed by the community; and
+&emsp;(1) grants and technical assistance may be provided to hospitals in operation on October 4, 1979, (A) for the discontinuance of unneeded hospital services, and (B) for the conversion of unneeded hospital services to other health services needed by the community; and
 
 &emsp;(2) grants may be provided to State Agencies designated under section 300m(b)(3) <sup>1</sup> of this title for reducing excesses in resources and facilities of hospitals.
 
@@ -15,10 +15,6 @@ Section 300m of this title, referred to in par. (2), was in the original a refer
 #### Unneeded Hospital Services; Study and Report of Effect of Elimination
 
 Section 302 of Pub. L. 96–79, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which provided that the Secretary of Health and Human Services conduct a study of the effect on the elimination of unneeded hospital services made during the two fiscal year period ending Sept. 30, 1981, by the program authorized by this part, and not later than Jan. 1, 1982, report the results of the study to Congress, was repealed by Pub. L. 97–414, §9(h), Jan. 4, 1983, 96 Stat. 2064.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300t–12 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

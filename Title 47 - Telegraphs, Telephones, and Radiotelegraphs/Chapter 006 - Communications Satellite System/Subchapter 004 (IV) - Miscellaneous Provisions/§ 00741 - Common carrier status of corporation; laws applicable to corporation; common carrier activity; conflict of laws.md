@@ -6,17 +6,13 @@ The corporation shall be deemed to be a common carrier within the meaning of sec
 
 #### Termination of Section
 
-<i>Section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
+<i>Section to cease to be effective on the effective date of a Commission order determining under</i><i>section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
 
 #### References in Text
 
 Section 3 of the Communications Act of 1934 \[47 U.S.C. 153\], referred to in text, was subsequently amended, and, as so amended, no longer contains a subsec. (h) defining “common carrier”. However, such term is defined elsewhere in that section.
 
 The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. Titles II and III of the Communications Act of 1934 are classified generally to subchapters II (§201 et seq.) and III (§301 et seq.), respectively, of chapter 5 of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 765d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

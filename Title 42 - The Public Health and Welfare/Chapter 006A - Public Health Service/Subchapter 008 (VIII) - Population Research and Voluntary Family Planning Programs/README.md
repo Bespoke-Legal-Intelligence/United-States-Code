@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—POPULATION RESEARCH AND VOLUNTARY FAMILY PLANNING PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 300z–5 of this title.
-
 
 ---
 

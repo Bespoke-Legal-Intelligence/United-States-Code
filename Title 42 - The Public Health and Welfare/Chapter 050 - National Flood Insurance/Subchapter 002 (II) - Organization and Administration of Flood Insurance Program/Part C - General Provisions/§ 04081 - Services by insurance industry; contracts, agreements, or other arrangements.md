@@ -2,7 +2,7 @@
 
 (a) In administering the flood insurance program under this subchapter, the Director is authorized to enter into any contracts, agreements, or other appropriate arrangements which may, from time to time, be necessary for the purpose of utilizing, on such terms and conditions as may be agreed upon, the facilities and services of any insurance companies or other insurers, insurance agents and brokers, or insurance adjustment organizations; and such contracts, agreements, or arrangements may include provision for payment of applicable operating costs and allowances for such facilities and services as set forth in the schedules prescribed under section 4018 of this title.
 
-(b) Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of section 5 of title 41 or any other provision of law requiring competitive bidding and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+(b) Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of section 5 of title 41 orany other provision of law requiring competitive bidding and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (c) The Director of the Federal Emergency Management Agency shall hold any agent or broker selling or undertaking to sell flood insurance under this chapter harmless from any judgment for damages against such agent or broker as a result of any court action by a policyholder or applicant arising out of an error or omission on the part of the Federal Emergency Management Agency, and shall provide any such agent or broker with indemnification, including court costs and reasonable attorney fees, arising out of and caused by an error or omission on the part of the Federal Emergency Management Agency and its contractors. The Director of the Federal Emergency Management Agency may not hold harmless or indemnify an agent or broker for his or her error or omission.
 
@@ -27,8 +27,4 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4056 of this title.
 

@@ -4,7 +4,3 @@ The right thus acquired by any such local interest is declared to be available t
 
 (Pub. L. 88–140, §3, Oct. 16, 1963, 77 Stat. 249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390d, 390f of this title.
-

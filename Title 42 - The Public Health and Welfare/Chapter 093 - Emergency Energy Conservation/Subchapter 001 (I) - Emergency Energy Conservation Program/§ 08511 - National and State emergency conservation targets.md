@@ -32,7 +32,7 @@ The President shall notify the Governor of each State of each target established
 
 #### (c) Establishment of targets for Federal agencies
 
-In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President willimplement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
+In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
 
 &emsp;(1) by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and
 
@@ -65,10 +65,6 @@ Section 753 of title 15, referred to in subsec. (a)(3)(C)(i), was omitted from t
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d)(3)(A) of this section is listed in the 19th item on page 19), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8512, 8513, 8514, 8541 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ The Secretary—
 
 With respect to homeland security, the Secretary shall coordinate through the Office of State and Local Coordination <sup>1</sup> (established under section 361 of this title) (including the provision of training and equipment) with State and local government personnel, agencies, and authorities, with the private sector, and with other entities, including by—
 
-&emsp;(1) coordinating with State and local government personnel, agencies, and authorities, and with the private sector, to ensure adequate planning, equipment, training, and exercise activities;
+&emsp;(1) coordinating with State and local government personnel, agencies, and authorities, andwith the private sector, to ensure adequate planning, equipment, training, and exercise activities;
 
 &emsp;(2) coordinating and, as appropriate, consolidating, the Federal Government's communications and systems of communications relating to homeland security with State and local government personnel, agencies, and authorities, the private sector, other entities, and the public; and
 
@@ -60,19 +60,37 @@ The Secretary shall appoint a Special Assistant to the Secretary who shall be re
 
 &emsp;(5) working with Federal laboratories, federally funded research and development centers, other federally funded organizations, academia, and the private sector to develop innovative approaches to address homeland security challenges to produce and deploy the best available technologies for homeland security missions;
 
-&emsp;(6) promoting existing public-private partnerships and developing new public-private partnerships to provide for collaboration and mutual support to address homeland security challenges; and
+&emsp;(6) promoting existing public-private partnerships and developing new public-private partnerships to provide for collaboration and mutual support to address homeland security challenges;
 
-&emsp;(7) assisting in the development and promotion of private sector best practices to secure critical infrastructure.
+&emsp;(7) assisting in the development and promotion of private sector best practices to secure critical infrastructure;
+
+&emsp;(8) coordinating industry efforts, with respect to functions of the Department of Homeland Security, to identify private sector resources and capabilities that could be effective in supplementing Federal, State, and local government agency efforts to prevent or respond to a terrorist attack;
+
+&emsp;(9) coordinating with the Directorate of Border and Transportation Security and the Assistant Secretary for Trade Development of the Department of Commerce on issues related to the travel and tourism industries; and
+
+&emsp;(10) consulting with the Office of State and Local Government Coordination and Preparedness on all matters of concern to the private sector, including the tourism industry.
 
 #### (g) Standards policy
 
 All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 (15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
 
-(Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142.)
+(Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VII, §7402, Dec. 17, 2004, 118 Stat. 3850.)
 
 #### References in Text
 
 Section 12(d) of the National Technology Transfer Advancement Act of 1995, referred to in subsec. (g), probably means section 12(d) of the National Technology Transfer and Advancement Act of 1995, which is section 12(d) of Pub. L. 104–113, and which is set out as a note under section 272 of Title 15, Commerce and Trade.
+
+#### Amendments
+
+2004—Subsec. (f)(8) to (10). Pub. L. 108–458 added pars. (8) to (10).
+
+#### Required Coordination
+
+Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided that: “The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for, and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness.”
+
+#### Protections for Human Research Subjects of the Department of Homeland Security
+
+Pub. L. 108–458, title VIII, §8306, Dec. 17, 2004, 118 Stat. 3869, provided that: “The Secretary of Homeland Security shall ensure that the Department of Homeland Security complies with the protections for human research subjects, as described in part 46 of title 45, Code of Federal Regulations, or in equivalent regulations as promulgated by such Secretary, with respect to research that is conducted or supported by the Department.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Office of State and Local Government Coordination”.</i>
 

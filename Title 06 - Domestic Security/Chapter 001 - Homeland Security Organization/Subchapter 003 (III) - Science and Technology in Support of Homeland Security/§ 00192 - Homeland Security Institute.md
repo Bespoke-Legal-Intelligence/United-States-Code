@@ -42,11 +42,11 @@ The Institute shall transmit to the Secretary and Congress an annual report on t
 
 #### (g) Termination
 
-The Homeland Security Institute shall terminate 3 years after the effective date of this chapter.
+The Homeland Security Institute shall terminate 5 years after its establishment.
 
-(Pub. L. 107–296, title III, §312, Nov. 25, 2002, 116 Stat. 2176.)
+(Pub. L. 107–296, title III, §312, Nov. 25, 2002, 116 Stat. 2176; Pub. L. 108–334, title V, §519, Oct. 18, 2004, 118 Stat. 1318.)
 
-#### References in Text
+#### Amendments
 
-The effective date of this chapter, referred to in subsec. (g), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+2004—Subsec. (g). Pub. L. 108–334 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Homeland Security Institute shall terminate 3 years after the effective date of this chapter.”
 

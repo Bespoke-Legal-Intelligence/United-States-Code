@@ -24,7 +24,7 @@
 
 &emsp;(E) the cost-effectiveness of adding a number of small, decentralized conventional and nonconventional generating units rather than a small number of large generating units with a similar total megawatt capacity for achieving the desired level of reliability; and
 
-&emsp;(F) any standards for electric utility reliability used by, or suggested for use by, the electric utility industry in terms of cost-effectiveness in achieving the desired level of reliability, including equipment standards, standards for operating procedures and training of personnel, and standards relating the number and severity of outages to periods of time.
+&emsp;(F) any standards for electric utility reliability used by, or suggested for use by, the electric utility industry in terms of cost-effectiveness in achieving the desired level of reliability, including equipment standards, standards for operating procedures and training ofpersonnel, and standards relating the number and severity of outages to periods of time.
 
 #### (b) Examination of reliability issues by reliability councils
 

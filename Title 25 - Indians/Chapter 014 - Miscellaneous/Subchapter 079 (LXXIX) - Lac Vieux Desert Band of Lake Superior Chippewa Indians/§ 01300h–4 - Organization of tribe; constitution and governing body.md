@@ -14,7 +14,3 @@ Until the Band elects a new governing body pursuant to the new governing documen
 
 (Pub. L. 100–420, §6, Sept. 8, 1988, 102 Stat. 1578.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300h–3 of this title.
-

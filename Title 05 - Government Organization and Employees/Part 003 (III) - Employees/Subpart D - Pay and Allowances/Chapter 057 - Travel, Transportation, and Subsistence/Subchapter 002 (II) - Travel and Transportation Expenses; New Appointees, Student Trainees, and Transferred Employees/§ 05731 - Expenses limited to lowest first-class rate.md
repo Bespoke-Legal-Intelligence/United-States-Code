@@ -52,7 +52,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 476; title 16 sections 916<i>l</i>, 961, 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 sections 287e, 287r, 2024; title 42 sections 2477, 4277; title 50 section 403e.
-

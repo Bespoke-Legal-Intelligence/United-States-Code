@@ -36,7 +36,7 @@ The Secretary is authorized to make and insure loans under this subchapter to fa
 
 #### (D) Notice
 
-&emsp;&emsp;Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, theSecretary shall notify the borrower of such impending ineligibility.
+&emsp;&emsp;Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, the Secretary shall notify the borrower of such impending ineligibility.
 
 (Pub. L. 87–128, title III, §302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, §2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, §101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, §1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§804, 805(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5001, 5302(a), May 13, 2002, 116 Stat. 341, 344.)
 
@@ -117,8 +117,4 @@ Second study.—One study under subsection (a) shall cover the 1-year period tha
 “(c)
 
 Reports to the Congress.—At the end of the period covered by each study under this section, the Secretary of Agriculture shall submit to the Congress a report that contains an evaluation of the results of the study, including an analysis of the effectiveness of loan programs referred to in subsection (a) in meeting the credit needs of agricultural producers in an efficient and fiscally responsible manner.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1925, 1934, 1983, 1994, 2006a of this title.
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is further authorized, by and with the advice of t
 
 (Aug. 20, 1935, ch. 575, §4, 49 Stat. 662.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430z–1 of this title.
-

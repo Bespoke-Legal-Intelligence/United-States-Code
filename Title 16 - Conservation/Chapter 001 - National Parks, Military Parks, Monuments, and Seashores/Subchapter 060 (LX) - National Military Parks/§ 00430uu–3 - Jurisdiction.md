@@ -4,7 +4,3 @@ There is hereby retroceded to the State of Montana, effective when accepted by s
 
 (Pub. L. 88–24, §4, May 17, 1963, 77 Stat. 19.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430uu–2, 430uu–4 of this title.
-

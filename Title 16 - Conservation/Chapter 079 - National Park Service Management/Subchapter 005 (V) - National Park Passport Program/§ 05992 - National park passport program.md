@@ -14,3 +14,7 @@ A national park passport and stamp shall not be transferable.
 
 (Pub. L. 105–391, title VI, §602, Nov. 13, 1998, 112 Stat. 3519.)
 
+#### Repeal of Section
+
+<i>Section repealed on the date the notice required by section 6804(a)(3) of this title is published in the Federal Register, see section 6812(d)(2) of this title.</i>
+

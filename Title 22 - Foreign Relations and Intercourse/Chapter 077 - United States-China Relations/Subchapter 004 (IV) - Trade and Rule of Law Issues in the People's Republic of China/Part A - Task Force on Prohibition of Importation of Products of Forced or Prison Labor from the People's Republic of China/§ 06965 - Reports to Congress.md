@@ -8,7 +8,7 @@ Not later than the date that is 1 year after October 10, 2000, and not later tha
 
 Each report under subsection (a) of this section shall set forth, at a minimum—
 
-&emsp;(1) the number of allegations of violations of section 1307 of title 19 with respect to products of the Peoples’ <sup>1</sup> Republic of China that were investigated during the preceding 1-year period;
+&emsp;(1) the number of allegations of violations of section 1307 of title 19 with respect to products of the Peoples’ <sup>1</sup> Republic of China that wereinvestigated during the preceding 1-year period;
 
 &emsp;(2) the number of actual violations of section 1307 of title 19 with respect to the products of the People's Republic of China that were discovered during the preceding 1-year period;
 

@@ -40,7 +40,3 @@ Secretary of State empowered to prescribe regulations relating to quarters and q
 
 For provisions relating to payment of additional compensation authorized by subsec. (a)(2) of this section in accordance with the regulations contained in Ex. Ord. No. 10000, see section 1–101 of Ex. Ord. No. 12228, July 24, 1980, 45 F.R. 49903, set out as a note under section 707 of Title 38, Veterans’ Benefits.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 907 of this title.
-

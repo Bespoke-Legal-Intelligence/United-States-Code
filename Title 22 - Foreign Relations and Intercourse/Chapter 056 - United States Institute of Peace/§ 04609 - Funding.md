@@ -52,7 +52,3 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 Section 1601(a)(2) of Pub. L. 99–498 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4604 of this title.
-

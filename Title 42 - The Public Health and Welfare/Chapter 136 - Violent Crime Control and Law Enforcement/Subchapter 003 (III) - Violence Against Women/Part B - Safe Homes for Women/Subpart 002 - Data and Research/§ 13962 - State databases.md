@@ -18,7 +18,3 @@ There are authorized to be appropriated to carry out this section $200,000 for f
 
 (Pub. L. 103–322, title IV, §40292, Sept. 13, 1994, 108 Stat. 1939.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

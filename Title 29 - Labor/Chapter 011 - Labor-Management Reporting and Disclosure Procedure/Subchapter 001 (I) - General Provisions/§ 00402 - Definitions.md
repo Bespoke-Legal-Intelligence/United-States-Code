@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 (e) “Employer” means any employer or any group or association of employers engaged in an industry affecting commerce (1) which is, with respect to employees engaged in an industry affecting commerce, an employer within the meaning of any law of the United States relating to the employment of any employees or (2) which may deal with any labor organization concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work, and includes any person acting directly or indirectly as an employer or as an agent of an employer in relation to an employee but does not include the United States or any corporation wholly owned by the Government of the United States or any State or political subdivision thereof.
 
-(f) “Employee” means any individual employed by an employer, and includes any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice orbecause of exclusion or expulsion from a labor organization in any manner or for any reason inconsistent with the requirements of this chapter.
+(f) “Employee” means any individual employed by an employer, and includes any individual whose work has ceased as a consequence of, or in connection with, any current labor dispute or because of any unfair labor practice or because of exclusion or expulsion from a labor organization in any manner or for any reason inconsistent with the requirements of this chapter.
 
 (g) “Labor dispute” includes any controversy concerning terms, tenure, or conditions of employment, or concerning the association or representation of persons in negotiating, fixing, maintaining, changing, or seeking to arrange terms or conditions of employment, regardless of whether the disputants stand in the proximate relation of employer and employee.
 
@@ -73,8 +73,4 @@ The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 39 section 1209.
 

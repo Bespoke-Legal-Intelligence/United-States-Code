@@ -48,7 +48,7 @@ Chapter effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 
 #### Short Title of 1988 Amendment
 
-Section 1 of Pub. L. 100–650 provided that: “This Act \[amending sections 3201, 3204, and 3205 of this title\] may be referred to as the ‘Management Interlocks Revision Act of 1988’.”
+Section 1 of Pub. L. 100–650 provided that: “This Act \[amending sections 3201, 3204, and 3205 of this title\] maybe referred to as the ‘Management Interlocks Revision Act of 1988’.”
 
 #### Short Title
 

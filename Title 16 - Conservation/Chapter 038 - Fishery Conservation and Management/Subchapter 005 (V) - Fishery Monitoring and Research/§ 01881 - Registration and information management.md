@@ -2,7 +2,7 @@
 
 #### (a) Standardized fishing vessel registration and information management system
 
-The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
+The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and informationmanagement system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
 
 &emsp;(1) be designed to standardize the requirements of vessel registration and information collection systems required by this chapter, the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and any other marine resource law implemented by the Secretary, and, with the permission of a State, any marine resource law implemented by such State;
 
@@ -76,7 +76,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 #### (g) Report to Congress
 
-Within 15 months after October 11, 1996, the Secretary shall report to Congress on the need to include recreational fishing vessels into a national fishing vessel registration and information collection system. In preparing its report, the Secretary shall cooperate with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, and consult with governmental and nongovernmental parties.
+Within 15 months after October 11, 1996, the Secretary shall report to Congress on the needto include recreational fishing vessels into a national fishing vessel registration and information collection system. In preparing its report, the Secretary shall cooperate with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, and consult with governmental and nongovernmental parties.
 
 (Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605.)
 
@@ -93,10 +93,6 @@ A prior section 1881, Pub. L. 94–265, title IV, §401, Apr. 13, 1976, 90 Stat.
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1881c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

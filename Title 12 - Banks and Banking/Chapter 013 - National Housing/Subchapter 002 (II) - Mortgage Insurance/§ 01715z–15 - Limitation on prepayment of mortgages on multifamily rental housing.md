@@ -28,7 +28,7 @@ For purposes of this section, the term “lower income families” has the meani
 
 &emsp;“(2) the Secretary determines that making such additional assistance available to the project is necessary to prevent the owner from prepaying the mortgage.”
 
-Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c)which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under section 1437f of title 42 under the priority established in subsection (b) of this section shall—
+Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under section 1437f of title 42 under the priority established in subsection (b) of this section shall—
 
 &emsp;“(1) fully utilize the assistance which is available;
 
@@ -39,8 +39,4 @@ Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) 
 1989—Subsec. (a). Pub. L. 101–235 inserted “or permit a termination of an insurance contract pursuant to section 1715t of this title” after second reference to “project”.
 
 1988—Subsec. (a)(1). Pub. L. 100–242 struck out “or that the needs of lower income families in such project can more efficiently and effectively be met through other Federal housing assistance taking into account the remaining time the project could meet such needs” after “families in the area”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715t of this title.
 

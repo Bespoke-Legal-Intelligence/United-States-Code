@@ -4,7 +4,3 @@ No money paid to Indians under sections 684 to 686 of this title shall be subjec
 
 (Aug. 27, 1954, ch. 1011, §2, 68 Stat. 879.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 684, 686 of this title.
-

@@ -4,7 +4,3 @@ Title to land acquired by a tribe or tribal corporation with a loan made or insu
 
 (Pub. L. 91–229, §2, Apr. 11, 1970, 84 Stat. 120.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 488, 490, 491, 492, 493, 494 of this title; title 7 section 1985.
-

@@ -10,7 +10,7 @@ If any basic benefit premium is not paid when it is due the corporation is autho
 
 #### (c) Civil action to recover premium penalty and interest
 
-If any designated payor fails to pay a premium when due, the corporation is authorized to bring a civil action in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or in which a defendant resides or is found for the recovery of the amount of the premium penalty, and interest, and process may be served in any other district. The district courts of the United States shall have jurisdiction over actions brought under this subsection by the corporation without regard to the amount in controversy.
+If any designated payor fails to pay a premium when due, the corporation is authorized to bring a civil action in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or in which a defendant resides or is found for the recovery of the amount of the premium penalty, and interest, and process may be served in anyother district. The district courts of the United States shall have jurisdiction over actions brought under this subsection by the corporation without regard to the amount in controversy.
 
 #### (d) Basic benefits guarantee not stopped by designated payor's failure to pay premiums when due
 
@@ -49,8 +49,4 @@ Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31,
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1303 of this title.
 

@@ -4,7 +4,3 @@ When directed to do so pursuant to section 288b(d) of this title, the Counsel sh
 
 (Pub. L. 95–521, title VII, §707, Oct. 26, 1978, 92 Stat. 1880.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 288b of this title.
-

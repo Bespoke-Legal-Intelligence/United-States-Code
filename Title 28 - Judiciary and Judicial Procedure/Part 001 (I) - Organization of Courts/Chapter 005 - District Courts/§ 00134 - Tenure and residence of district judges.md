@@ -2,7 +2,7 @@
 
 (a) The district judges shall hold office during good behavior.
 
-(b) Each district judge, except in the District of Columbia, the Southern District of New York, and the Eastern District of New York, shall reside in the district or one of the districts for which he is appointed. Each district judge of theSouthern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed.
+(b) Each district judge, except in the District of Columbia, the Southern District of New York, and the Eastern District of New York, shall reside in the district or one of the districts for which he is appointed. Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed.
 
 (c) If the public interest and the nature of the business of a district court require that a district judge should maintain his abode at or near a particular place for holding court in the district or within a particular part of the district the judicial council of the circuit may so declare and may make an appropriate order. If the district judges of such a district are unable to agree as to which of them shall maintain his abode at or near the place or within the area specified in such an order the judicial council of the circuit may decide which of them shall do so.
 
@@ -57,8 +57,4 @@ Section 4 of Pub. L. 89–571 provided that: “The amendments made by this sect
 #### Applicability of Orders Under 1954 Amendment
 
 Section 2(b)(13)(b) of act Feb. 10, 1954, provided: “Orders made by the judicial councils of the circuits under the second sentence of subsection (c) of section 134 of Title 28, as amended by this section, determining that a specified district judge shall maintain his abode at or near a place or within an area which the council has theretofore designated for the abode of a district judge under the first sentence of such subsection, shall be applicable only to district judges appointed after the enactment of this act \[Feb. 10, 1954\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 992 of this title.
 

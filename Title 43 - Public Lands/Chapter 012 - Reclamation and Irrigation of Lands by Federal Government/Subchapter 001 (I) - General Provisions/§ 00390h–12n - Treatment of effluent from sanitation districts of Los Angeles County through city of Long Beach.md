@@ -14,7 +14,3 @@ The Secretary shall not provide funds for the operation or maintenance of a proj
 
 (Pub. L. 102–575, title XVI, §1628, as added Pub. L. 104–266, §2(a)(2), Oct. 9, 1996, 110 Stat. 3293.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
-

@@ -22,7 +22,3 @@ Nov. 3, 1990, Pub. L. 101–500, §12, 104 Stat. 1218.
 
 This section is substituted for the source provisions for consistency and to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5713 of this title.
-

@@ -40,13 +40,13 @@ In this section:
 
 #### (4) Matching
 
-&emsp;If sufficient funding is available, the Bureau of Indian Affairs shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Affairs shall expend not less than the amount expended during the prior fiscal year on vocational and technical education programs, services, and technical activities administered either directly by, or under contract with, the Bureau of Indian Affairs, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. TheSecretary and the Assistant Secretary of the Interior for Indian Affairs shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Affairs.
+&emsp;If sufficient funding is available, the Bureau of Indian Affairs shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Affairs shall expend not less than the amount expended during the prior fiscal year on vocational and technical education programs, services, and technical activities administered either directly by, or under contract with, the Bureau of Indian Affairs, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. The Secretary and the Assistant Secretary of the Interior for Indian Affairs shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Affairs.
 
 #### (5) Regulations
 
 &emsp;If the Secretary promulgates any regulations applicable to subsection (b)(2) of this section, the Secretary shall—
 
-&emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members; and
+&emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indiantribes, tribal organizations, and individual tribal members; and
 
 &emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the “Negotiated Rulemaking Act of 1990”.
 
@@ -108,7 +108,7 @@ From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the
 
 Section 2026 of title 25, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 22 (§2001 et seq.) of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. For definition of “Bureau-funded school”, see section 2021 of Title 25.
 
-The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
+The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -125,10 +125,6 @@ Pub. L. 107–110, §702(b), substituted “section 7517 of this title” for �
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2321 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

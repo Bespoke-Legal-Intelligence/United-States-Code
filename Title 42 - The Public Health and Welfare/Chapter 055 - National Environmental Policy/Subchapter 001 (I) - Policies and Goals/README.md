@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—POLICIES AND GOALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4342, 4344 of this title.
-
 
 ---
 

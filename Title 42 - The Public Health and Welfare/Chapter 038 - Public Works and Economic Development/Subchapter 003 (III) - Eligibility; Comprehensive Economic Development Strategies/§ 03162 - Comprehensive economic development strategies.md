@@ -8,7 +8,7 @@ The Secretary may provide assistance under section 3141 or 3149 of this title (e
 
 &emsp;(2) an identification of the past, present, and projected future economic development investments in the area receiving the assistance and public and private participants and sources of funding for the investments; and
 
-&emsp;(3)(A) a comprehensive economic development strategy for addressing the economic problems identified under paragraph (1) in a manner that promotes economic development and opportunity, fosters effective transportation access, enhances and protects the environment, and balances resources through sound management of development; and
+&emsp;(3)(A) a comprehensive economic development strategy for addressing the economic problems identified under paragraph (1) in a manner that promotes economic development and opportunity, fosters effective transportation access, maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications), enhances and protects the environment, and balances resources through sound management of development; and
 
 &emsp;(B) a description of how the strategy will solve the problems.
 
@@ -18,9 +18,15 @@ The Secretary shall approve a comprehensive economic development strategy that m
 
 #### (c) Approval of other plan
 
-The Secretary may accept as a comprehensive economic development strategy a satisfactory plan developed under another federally supported program.
+#### (1) In general
 
-(Pub. L. 89–136, title III, §302, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3608.)
+&emsp;The Secretary may accept as a comprehensive economic development strategy a satisfactory plan developed under another federally supported program.
+
+#### (2) Existing strategy
+
+&emsp;To the maximum extent practicable, a plan submitted under this paragraph shall be consistent and coordinated with any existing comprehensive economic development strategy for the area.
+
+(Pub. L. 89–136, title III, §302, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3608; amended Pub. L. 108–373, title III, §302, Oct. 27, 2004, 118 Stat. 1767.)
 
 #### Prior Provisions
 
@@ -28,7 +34,9 @@ A prior section 3162, Pub. L. 89–136, title IV, §402, Aug. 26, 1965, 79 Stat.
 
 A prior section 302 of Pub. L. 89–136 was classified to section 3151a of this title prior to repeal by Pub. L. 105–393, §102(a).
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 3122 of this title.
+2004—Subsec. (a)(3)(A). Pub. L. 108–373, §302(a), inserted “maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications),” after “access,”.
+
+Subsec. (c). Pub. L. 108–373, §302(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

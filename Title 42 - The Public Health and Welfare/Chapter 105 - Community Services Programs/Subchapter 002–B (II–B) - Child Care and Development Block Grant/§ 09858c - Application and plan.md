@@ -44,7 +44,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (C) Parental complaints
 
-&emsp;&emsp;Certify that the State maintains a record of substantiated parental complaints and makes information regarding such parentalcomplaints available to the public on request and provide a detailed description of how such record is maintained and is made available.
+&emsp;&emsp;Certify that the State maintains a record of substantiated parental complaints and makes information regarding such parental complaints available to the public on request and provide a detailed description of how such record is maintained and is made available.
 
 #### (D) Consumer education information
 
@@ -175,10 +175,6 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9858b, 9858d, 9858g, 9858h, 9858i, 9858k, 9858m, 9858n of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

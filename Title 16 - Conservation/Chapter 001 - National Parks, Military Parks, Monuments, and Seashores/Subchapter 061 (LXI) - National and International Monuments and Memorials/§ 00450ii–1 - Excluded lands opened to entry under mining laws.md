@@ -14,7 +14,3 @@ The public land laws, referred to in text, are classified generally to Title 43,
 
 Joshua Tree National Monument abolished and incorporated in Joshua Tree National Park, see section 410aaa–22 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450ii–2 of this title.
-

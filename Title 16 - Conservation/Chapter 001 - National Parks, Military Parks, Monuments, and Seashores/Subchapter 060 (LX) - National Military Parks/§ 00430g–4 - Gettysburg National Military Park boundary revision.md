@@ -20,7 +20,3 @@ Lands and interests in lands outside of the boundary so depicted as “Park Boun
 
 Subsec. (c). Pub. L. 106–290, §1(1), (3), redesignated subsec. (b) as (c) and substituted “maps referred to in subsections (a) and (b) of this section” for “map referred to in subsection (a) of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430g–5, 430g–6, 430g–8, 430g–10 of this title.
-

@@ -23,10 +23,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2055, 2079 of this title; title 7 section 136w; title 21 sections 379r, 379s.
-
 
 ---
 

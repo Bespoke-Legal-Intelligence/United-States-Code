@@ -1,6 +1,6 @@
 ### §48106. Airway science curriculum grants
 
-Amounts are available from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to carry out section 44510 of thistitle. The amounts remain available until expended.
+Amounts are available from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to carry out section 44510 of this title. The amounts remain available until expended.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296.)
 
@@ -29,8 +29,4 @@ Oct. 28, 1991, Pub. L. 102–143, (2d sentence in par. under heading “Faciliti
 Oct. 6, 1992, Pub. L. 102–388, (2d sentence in par. under heading “Facilities and Equipment”), 106 Stat. 1526.
 
 This section is substituted for the source provisions for clarity and because of the restatement.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47108, 50101, 50102, 50105 of this title.
 

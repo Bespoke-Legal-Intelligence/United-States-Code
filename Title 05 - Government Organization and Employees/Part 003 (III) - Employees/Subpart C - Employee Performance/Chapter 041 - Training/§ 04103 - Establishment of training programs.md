@@ -22,7 +22,13 @@
 
 &emsp;(C) the benefits to the Government which would result from such training.
 
-(Pub. L. 89–554, Sept. 6, 1966. 80 Stat. 433; Pub. L. 95–454, title III, §304, Oct. 13, 1978, 92 Stat. 1146; Pub. L. 103–226, §2(a)(2), Mar. 30, 1994, 108 Stat. 111.)
+(c) The head of each agency shall, on a regular basis—
+
+&emsp;(1) evaluate each program or plan established, operated, or maintained under subsection (a) with respect to accomplishing specific performance plans and strategic goals in performing the agency mission; and
+
+&emsp;(2) modify such program or plan as needed to accomplish such plans and goals.
+
+(Pub. L. 89–554, Sept. 6, 1966. 80 Stat. 433; Pub. L. 95–454, title III, §304, Oct. 13, 1978, 92 Stat. 1146; Pub. L. 103–226, §2(a)(2), Mar. 30, 1994, 108 Stat. 111; Pub. L. 108–411, title II, §201(a), Oct. 30, 2004, 118 Stat. 2311.)
 
 Historical and Revision Notes
 
@@ -45,6 +51,8 @@ In paragraph (1), reference to the effective date of the regulations is omitted 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–411 added subsec. (c).
 
 1994—Subsec. (a). Pub. L. 103–226, §2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
 
@@ -174,7 +182,7 @@ Sec. 401. The following functions vested in the President are hereby delegated t
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
-Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agencyfor his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
+Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
 
 #### Part V—Revocation of Prior Order
 
@@ -196,7 +204,7 @@ Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 1251
 
 Ex. Ord. No. 12574, Nov. 20, 1986, 51 F.R. 42199, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including the Executive Exchange Program Voluntary Services Act of 1986 (5 U.S.C. 4103 note, 100 Stat. 964), it is hereby ordered as follows:
 
 Section 1. <i>Establishment of the Program</i>. Effective October 1, 1986, there is established, within the Executive Exchange Program of the President's Commission on Executive Exchange, an experimental program under which Executive agencies of the government may accept voluntary services for the United States from private sector participants in the Executive Exchange Program.
 
@@ -232,7 +240,7 @@ Section 1. <i>Establishment of the President's Task Force on Federal Training Te
 
 (b) Within 30 days of the date of this order, the head of each agency or council shall designate a senior official to serve as a representative to the Task Force. The representative shall report directly to the agency head or the President's Management Council member on the agency's or council's activities under this order.
 
-(c) The Director of the Office of Personnel Management (OPM) shall be the Chair and the representativefrom the Department of Labor shall be the Vice Chair of the Task Force.
+(c) The Director of the Office of Personnel Management (OPM) shall be the Chair and the representative from the Department of Labor shall be the Vice Chair of the Task Force.
 
 (d) The Chair and Vice Chair shall appoint an Executive Director.
 
@@ -290,7 +298,7 @@ Sec. 4. <i>Duties of Specific Federal Agencies</i>. (a) In light of the Office o
 
 &emsp;(2) provide guidance to Defense agencies and advise the civilian agencies, as appropriate, on how best to use these standards for large-scale development and implementation of efficient and effective distributed learning technologies.
 
-(d) Each Executive department shall designate at least one subject area of training that it will use to demonstrate opportunities in technology-based training and assign an agency leader in the designated area. Leaders in these training technology experiments shall work closely with other agencies with similar training interests. Each Executive department shall develop a plan for measuring and evaluating the effectiveness,cost-effectiveness, and benefits to employees and the agency for each designated subject area.
+(d) Each Executive department shall designate at least one subject area of training that it will use to demonstrate opportunities in technology-based training and assign an agency leader in the designated area. Leaders in these training technology experiments shall work closely with other agencies with similar training interests. Each Executive department shall develop a plan for measuring and evaluating the effectiveness, cost-effectiveness, and benefits to employees and the agency for each designated subject area.
 
 \[
 

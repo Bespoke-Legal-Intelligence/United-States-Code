@@ -12,7 +12,3 @@
 
 For provision that Commission is to cease to exist sixty days after transmitting its report, see section 3323 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3315, 3317, 3319, 3324 of this title.
-

@@ -24,7 +24,3 @@ Rules 6(c) and 77(a) of the Federal Rules of Civil Procedure contain provisions 
 
 1963—Pub. L. 88–139 substituted “expiration of sessions” for “terms” in section catchline, and “session” for “term” in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460 of this title.
-

@@ -108,7 +108,3 @@
 
 Section applicable with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997, except as otherwise provided, see section 102(c) of Pub. L. 104–191, set out as a note under section 300gg of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300gg–61 of this title.
-

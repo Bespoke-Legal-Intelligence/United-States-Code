@@ -14,7 +14,3 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 Part B of this subchapter, referred to in subsec. (a), is classified to section 620 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 625 of this title.
-

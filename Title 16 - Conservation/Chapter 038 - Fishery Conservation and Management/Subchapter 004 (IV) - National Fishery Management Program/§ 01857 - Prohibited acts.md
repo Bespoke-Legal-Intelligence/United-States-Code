@@ -130,7 +130,7 @@ Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
 Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) ofthis title” for “in fishing within the boundaries of any State”.
+1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
 
 Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 
@@ -155,10 +155,6 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 #### Effective Date
 
 Section 312 of Pub. L. 94–265, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971e, 1821, 1827, 1852, 1853, 1858, 1859, 1860, 1861, 3606, 5103, 5158 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

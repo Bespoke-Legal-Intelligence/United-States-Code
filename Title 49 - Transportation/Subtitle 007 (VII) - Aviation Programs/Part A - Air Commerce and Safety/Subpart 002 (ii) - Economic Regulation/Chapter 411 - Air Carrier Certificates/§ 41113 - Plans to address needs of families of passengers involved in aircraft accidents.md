@@ -8,13 +8,13 @@ Submission of Plans.—Each air carrier holding a certificate of public convenie
 
 Contents of Plans.—A plan to be submitted by an air carrier under subsection (a) shall include, at a minimum, the following:
 
-&emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, to handle calls from the families of the passengers.
+&emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, tohandle calls from the families of the passengers.
 
 &emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1136(a)(2) of this title or the services of other suitably trained individuals.
 
 &emsp;(3) An assurance that the notice described in paragraph (2) will be provided to the family of a passenger as soon as the air carrier has verified that the passenger was aboard the aircraft (whether or not the names of all of the passengers have been verified) and, to the extent practicable, in person.
 
-&emsp;(4) An assurance that the air carrier will provide to the director of family support services designated for the accident under section1136(a)(1) of this title, and to the organization designated for the accident under section 1136(a)(2) of this title, immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), and will periodically update the list.
+&emsp;(4) An assurance that the air carrier will provide to the director of family support services designated for the accident under section 1136(a)(1) of this title, and to the organization designated for the accident under section 1136(a)(2) of this title, immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), and will periodically update the list.
 
 &emsp;(5) An assurance that the family of each passenger will be consulted about the disposition of all remains and personal effects of the passenger within the control of the air carrier.
 
@@ -70,7 +70,7 @@ Statutory Construction.—Nothing in this section may be construed as limiting t
 
 Subsec. (b)(17), (18). Pub. L. 108–176, §809(a)(2), added pars. (17) and (18).
 
-2000—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6months after the date of the enactment of this section, each air carrier”.
+2000—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
 
 Subsec. (b)(14) to (16). Pub. L. 106–181, §402(a)(1)–(3), added pars. (14) to (16).
 

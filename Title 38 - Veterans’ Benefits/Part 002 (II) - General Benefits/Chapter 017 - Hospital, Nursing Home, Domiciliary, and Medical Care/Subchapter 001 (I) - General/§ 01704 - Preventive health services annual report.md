@@ -16,7 +16,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 &emsp;&emsp;(D) The manner in which the provision of such services was integrated into training programs of the Department, including initial and continuing medical training of medical students, residents, and Department staff.
 
-&emsp;&emsp;(E) The manner in which the Department participated in cooperative preventive health efforts with other governmental andprivate entities (including State and local health promotion offices and not-for-profit organizations).
+&emsp;&emsp;(E) The manner in which the Department participated in cooperative preventive health efforts with other governmental and private entities (including State and local health promotion offices and not-for-profit organizations).
 
 &emsp;&emsp;(F) The specific research carried out by the Department with respect to the long-term relationships among screening activities, treatment, and morbidity and mortality outcomes.
 

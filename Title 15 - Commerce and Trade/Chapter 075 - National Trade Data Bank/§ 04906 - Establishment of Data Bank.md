@@ -46,7 +46,7 @@ The International Economic Data System shall include current and historical info
 
 &emsp;(7) import and export data for the United States on a State-by-State basis aggregated at the product level including—
 
-&emsp;&emsp;(A) data concerning the country shipping the import, the State of first destination, and the original part <sup>1</sup> of entry for imports of goods and, to the extent possible, services; and
+&emsp;&emsp;(A) data concerning the country shipping the import, the State of first destination, and the original part <sup>1</sup> of entry for imports ofgoods and, to the extent possible, services; and
 
 &emsp;&emsp;(B) data concerning the State of the exporter, the port of departure, and the country of first destination for export of goods and, to the extent possible, services; and
 
@@ -89,10 +89,6 @@ The export promotion data system shall include data and information collected by
 &emsp;(6) any other similar information, that the Secretary determines to be useful in carrying out the purposes of this chapter.
 
 (Pub. L. 100–418, title V, §5406, Aug. 23, 1988, 102 Stat. 1464.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4901, 4903, 4913 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “port”.</i>
 

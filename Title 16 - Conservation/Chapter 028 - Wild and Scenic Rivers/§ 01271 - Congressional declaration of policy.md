@@ -86,7 +86,3 @@ Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That t
 
 Section 1(a) of Pub. L. 90–542 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Wild and Scenic Rivers Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1272, 1273 of this title.
-

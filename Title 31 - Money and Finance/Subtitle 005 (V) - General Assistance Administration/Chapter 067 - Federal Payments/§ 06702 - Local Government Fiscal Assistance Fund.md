@@ -34,7 +34,3 @@ A prior section 6702, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012, related t
 
 Section 31001(c) of title III of Pub. L. 103–322 provided that: “Any appropriation to carry out the amendment made by this subtitle \[subtitle J (§§31001, 31002) of title III of Pub. L. 103–322, enacting this chapter\] to title 31, United States Code, for fiscal year 1995 or 1996 shall be offset by cuts elsewhere in appropriations for that fiscal year.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6701, 6704, 6720 of this title.
-

@@ -34,7 +34,3 @@
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §814\], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9402, 9407, 9412 of this title.
-

@@ -1,9 +1,5 @@
 Part A—Definitions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 3423c of this title.
-
 
 ---
 

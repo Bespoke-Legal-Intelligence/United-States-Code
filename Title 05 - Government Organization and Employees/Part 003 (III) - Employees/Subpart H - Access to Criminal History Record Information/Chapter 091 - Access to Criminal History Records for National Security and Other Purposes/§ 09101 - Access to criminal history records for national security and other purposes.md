@@ -34,7 +34,7 @@
 
 &emsp;(C) Acceptance or retention in the armed forces.
 
-&emsp;(D) Appointment, retention, or assignment to a position of public trust or a critical or sensitive position while either employed by the Government or performing a Government contract.
+&emsp;(D) Appointment, retention, or assignment to a position of public trust or a critical or sensitive position while either employed bythe Government or performing a Government contract.
 
 (2) Such a request to a State central criminal history record repository shall be accompanied by the fingerprints of the individual who is the subject of the request if required by State law and if the repository uses the fingerprints in an automated fingerprint identification system.
 
@@ -103,8 +103,4 @@ Section 803(b) of Pub. L. 99–169 provided that subsec. (b)(3) of this section 
 #### Report to Congressional Committees on Effect of Provisions for Indemnification Agreements
 
 Section 803(a) of Pub. L. 99–169, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 14614.
 

@@ -300,9 +300,5 @@ Section 2(b) of Pub. L. 93–568 provided that: “The amendments made by subsec
 
 Section 513(b)(1) of Pub. L. 93–380 provided that: “The provisions of this section \[enacting this section and provisions set out as a note under section 1221 of this title\] shall become effective ninety days after the date of enactment \[Aug. 21, 1974\] of section 438 \[now 444\] of the General Education Provisions Act \[this section\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1092, 1232h, 1232i, 1417, 2304, 7115, 7165, 7903, 7908, 9274, 9514, 9573 of this title; title 8 section 1372; title 10 section 503; title 25 section 3205; title 29 section 2871; title 42 section 11432.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -18,7 +18,7 @@ The following producers and owners shall be eligible to enter into a contract:
 
 &emsp;(1) An owner of eligible cropland who assumes all or a part of the risk of producing a crop.
 
-&emsp;(2) A producer (other than an owner) on eligible cropland with a share-rent lease of the eligible cropland, regardless of the length ofthe lease, if the owner enters into the same contract.
+&emsp;(2) A producer (other than an owner) on eligible cropland with a share-rent lease of the eligible cropland, regardless of the length of the lease, if the owner enters into the same contract.
 
 &emsp;(3) A producer (other than an owner) on eligible cropland who cash rents the eligible cropland under a lease expiring on or after September 30, 2002, in which case the owner is not required to enter into the contract.
 
@@ -63,8 +63,4 @@ Sections 101B, 103B, 105B, and 107B of the Agricultural Act of 1949, referred to
 #### Violation of Contract; Denial of Funds for Salaries
 
 Pub. L. 104–180, title VII, §726, Aug. 6, 1996, 110 Stat. 1600, provided that: “None of the funds made available in this Act \[see Tables for classification\] may be used to pay the salaries of employees of the Department of Agriculture who make payments pursuant to a production flexibility contract entered into under section 111 of the Federal Agriculture Improvement and Reform Act of 1996 (Public Law 104–127; 7 U.S.C. 7211) when it is made known to the Federal official having authority to obligate or expend such funds that the land covered by that production flexibility contract is not being used for the production of an agricultural commodity or is not devoted to a conserving use, unless it is also made known to that Federal official that the lack of agricultural production or the lack of a conserving use is a consequence of drought, flood, or other natural disaster.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7202, 7216, 7917 of this title.
 

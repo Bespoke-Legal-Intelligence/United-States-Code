@@ -4,7 +4,3 @@ Without regard to the limitations specified in sections 837a and 837b of this ti
 
 (Pub. L. 88–552, §5, Aug. 31, 1964, 78 Stat. 758.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 839f of this title.
-

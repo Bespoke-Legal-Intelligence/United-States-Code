@@ -46,7 +46,3 @@
 
 (Pub. L. 95–87, title V, §508, Aug. 3, 1977, 91 Stat. 478.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1256, 1291, 1300 of this title.
-

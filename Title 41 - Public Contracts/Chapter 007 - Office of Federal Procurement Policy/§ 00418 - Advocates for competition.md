@@ -62,10 +62,6 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section applicable to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2318.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—ASSIGNMENT OF SPECIALISTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 280c, 1458 of this title.
-
 
 ---
 

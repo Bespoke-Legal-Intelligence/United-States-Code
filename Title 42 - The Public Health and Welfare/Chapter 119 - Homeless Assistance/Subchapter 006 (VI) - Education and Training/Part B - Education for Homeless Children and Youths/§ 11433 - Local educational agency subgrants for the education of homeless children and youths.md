@@ -36,13 +36,13 @@
 
 #### (b) Application
 
-A local educational agency that desires to receive a subgrant under this section shall submit an application to the State educational agencyat such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require. Such application shall include the following:
+A local educational agency that desires to receive a subgrant under this section shall submit an application to the State educational agency at such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require. Such application shall include the following:
 
 &emsp;(1) An assessment of the educational and related needs of homeless children and youths in the area served by such agency (which may be undertaken as part of needs assessments for other disadvantaged groups).
 
 &emsp;(2) A description of the services and programs for which assistance is sought to address the needs identified in paragraph (1).
 
-&emsp;(3) An assurance that the local educational agency's combined fiscal effort per student, or the aggregate expenditures of that agency and the State with respect to the provision of free public education by such agency for the fiscal year preceding the fiscal year for which the determination is made, was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
+&emsp;(3) An assurance that the local educational agency's combined fiscal effort per student, or the aggregate expenditures of that agency and the State with respect to the provision of free public education by such agency for the fiscal year preceding the fiscal year for which the determination is made, was not less than 90percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
 
 &emsp;(4) An assurance that the applicant complies with, or will use requested funds to comply with, paragraphs (3) through (7) of section 11432(g) of this title.
 
@@ -139,8 +139,4 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2
 A prior section 11433, Pub. L. 100–77, title VII, §723, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11433, Pub. L. 100–77, title VII, §723, July 22, 1987, 101 Stat. 527; Pub. L. 100–628, title VII, §702(b), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(c), Nov. 29, 1990, 104 Stat. 4739, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11432 of this title.
 

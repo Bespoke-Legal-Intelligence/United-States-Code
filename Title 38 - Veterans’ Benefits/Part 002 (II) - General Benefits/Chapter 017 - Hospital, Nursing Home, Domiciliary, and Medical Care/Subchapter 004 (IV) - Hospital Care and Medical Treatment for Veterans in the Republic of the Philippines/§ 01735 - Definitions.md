@@ -36,7 +36,3 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 1966—Par. (1). Pub. L. 89–612 inserted definition of “new Philippine Scouts”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1734 of this title.
-

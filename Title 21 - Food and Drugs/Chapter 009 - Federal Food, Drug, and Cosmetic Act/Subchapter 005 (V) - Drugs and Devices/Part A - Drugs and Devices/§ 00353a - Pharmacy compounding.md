@@ -90,7 +90,7 @@ This section shall not apply to—
 
 #### (f) “Compounding” defined
 
-As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturerand other manufacturer directions consistent with that labeling.
+As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturer and other manufacturer directions consistent with that labeling.
 
 (June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328.)
 

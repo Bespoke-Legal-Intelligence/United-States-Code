@@ -4,7 +4,3 @@ For the purpose of preventing crop damage by migratory waterfowl, the Commodity 
 
 (July 3, 1956, ch. 512, §1, 70 Stat. 492.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 444, 445 of this title.
-

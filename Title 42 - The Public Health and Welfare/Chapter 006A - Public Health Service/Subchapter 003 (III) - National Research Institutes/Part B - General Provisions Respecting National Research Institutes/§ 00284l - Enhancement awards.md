@@ -10,7 +10,7 @@
 
 #### (B) Use
 
-&emsp;&emsp;Grants under subparagraph (A) shall be used to support clinical investigators in the early phases of their independent careers by providing salary and such other support for a period of supervised study.
+&emsp;&emsp;Grants under subparagraph (A) shall be used to support clinical investigators in theearly phases of their independent careers by providing salary and such other support for a period of supervised study.
 
 #### (2) Applications
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as“Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master's or doctoral degrees in clinical investigation.
+&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master's or doctoral degrees in clinical investigation.
 
 #### (2) Applications
 
@@ -105,8 +105,4 @@
 &emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
 (July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 284k of this title.
 

@@ -14,7 +14,7 @@ There is hereby created on the books of the Treasury of the United States a fund
 
 #### (d) Taxation of gifts
 
-For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director underthis section shall be considered to be to or for the use of the United States.
+For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under this section shall be considered to be to or for the use of the United States.
 
 #### (e) “Gift” defined
 
@@ -25,8 +25,4 @@ For the purposes of this section, the term “gift” includes a bequest or devi
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
 

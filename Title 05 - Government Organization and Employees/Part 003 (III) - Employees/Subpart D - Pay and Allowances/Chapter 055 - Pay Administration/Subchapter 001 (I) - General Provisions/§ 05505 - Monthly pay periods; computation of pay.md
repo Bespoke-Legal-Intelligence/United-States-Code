@@ -32,7 +32,3 @@ June 30, 1945, ch. 212, §604(c) (2d sentence), 59 Stat. 303.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 142e; title 26 section 7443.
-

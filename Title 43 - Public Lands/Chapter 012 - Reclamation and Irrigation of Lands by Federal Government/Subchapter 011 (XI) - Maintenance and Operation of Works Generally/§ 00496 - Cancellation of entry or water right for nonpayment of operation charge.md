@@ -8,7 +8,3 @@ If any water-right applicant or entryman shall be one year in arrears in the pay
 
 Section is comprised of second sentence of section 6 of act Aug. 13, 1914. First and third sentences of such section 6 are classified to sections 479, 493, 494, 495, 497 of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 475, 511 of this title.
-

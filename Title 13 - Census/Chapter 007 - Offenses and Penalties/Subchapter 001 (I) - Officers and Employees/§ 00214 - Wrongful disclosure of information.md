@@ -26,7 +26,3 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title; title 7 section 2204g; title 22 section 3144.
-

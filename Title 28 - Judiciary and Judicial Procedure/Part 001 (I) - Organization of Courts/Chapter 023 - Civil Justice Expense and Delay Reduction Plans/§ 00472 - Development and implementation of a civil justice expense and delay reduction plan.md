@@ -36,7 +36,3 @@
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 473, 474, 478, 479 of this title.
-

@@ -118,15 +118,11 @@ In subsection (d), the words “under this subchapter” are substituted for “
 
 In subsection (e), the words “an employee . . . allotment paid under this subchapter” are substituted for “any person . . . allotments paid pursuant to this Act”. The words “the employee if the head of the agency concerned or his designee” are substituted for “such person's . . . in any case in which . . . the head of the department concerned, or such subordinate as he may designate.”
 
-In subsection (f), the words “may not be collected” are substituted for “shall not be subject to collection”in two places. The word “employee” is substituted for “person”.
+In subsection (f), the words “may not be collected” are substituted for “shall not be subject to collection” in two places. The word “employee” is substituted for “person”.
 
 In subsection (g), the words “or his designee” are substituted for “or such subordinate as he may designate”.
 
 In subsection (h), the word “sole” is omitted as surplusage and in view of the provisions of section 5565(c). The word “deemed” is supplied to evidence the legal fiction provided by the words “is a ‘person’ under this Act” in 50A U.S.C. 1009(a). The words “or his designee” are supplied on authority of 50A U.S.C. 1009(a) which is codified in part in subsection (a) of this section. The words “agencies of the United States” are substituted for “departments of the Government”. The words “This section does not entitle” are substituted for <i>“Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5569 of this title; title 26 section 2.
 

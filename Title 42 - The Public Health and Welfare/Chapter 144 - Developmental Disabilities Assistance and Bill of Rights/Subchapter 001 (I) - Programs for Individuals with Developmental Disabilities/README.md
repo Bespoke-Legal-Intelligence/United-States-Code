@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 15114 of this title.
-
 
 ---
 

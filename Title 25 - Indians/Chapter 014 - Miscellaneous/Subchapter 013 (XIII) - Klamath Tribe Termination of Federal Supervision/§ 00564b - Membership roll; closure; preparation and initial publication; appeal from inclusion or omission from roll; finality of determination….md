@@ -4,7 +4,3 @@ At midnight of August 13, 1954, the roll of the tribe shall be closed and no chi
 
 (Aug. 13, 1954, ch. 732, §3, 68 Stat. 718.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 564c, 564f, 565a of this title.
-

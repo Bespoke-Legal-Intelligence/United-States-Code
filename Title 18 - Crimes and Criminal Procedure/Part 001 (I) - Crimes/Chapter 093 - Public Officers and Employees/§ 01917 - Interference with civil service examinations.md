@@ -46,7 +46,3 @@ The words “or both” are substituted for “or by both such fine and imprison
 
 1994—Pub. L. 103–322 substituted “Office of Personnel Management” for “Civil Service Commission” in introductory provisions and “such Office” for “the Commission” in par. (1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3622.
-

@@ -66,7 +66,3 @@ Act of June 24, 1938, referred to in subsec. (e), is act June 24, 1938, ch. 648,
 
 1996—Subsec. (b). Pub. L. 104–109 substituted “referred to in this section” for “referred to in this subsection”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1776d of this title.
-

@@ -6,7 +6,7 @@ The Commission is authorized at Los Alamos to grant to occupants project-connect
 
 #### (b) Leasing arrangements by non-participants in apartment house sales; assumption of lessor's obligations
 
-Any occupant who does not participate in the purchase of an apartment house with respect to which a priority right to purchase has been granted shall be entitled, at the time of sale by the Commission, to a lease for occupancy of his housing unit for a period not to exceed fifteen months from the date the property was first offered for sale: <i>Provided</i>, That the occupant makes application for such a lease within 30 days of the grant of such priority to purchase. In selling any apartment house with respect to which lease executed under this section is in effect, the Commission is authorized to provide for the purchaser to assume any or all obligations of the lessor. The Commission in such event shall guarantee the lessee's performance of the lease.
+Any occupant who does not participate in the purchase of an apartment house with respect to which a priority right to purchase has been granted shall be entitled, at the time of sale by the Commission, to a lease for occupancy of his housing unit for a period not to exceed fifteen months from the date the property was first offered for sale: <i>Provided</i>, That the occupant makes application for such a lease within 30days of the grant of such priority to purchase. In selling any apartment house with respect to which lease executed under this section is in effect, the Commission is authorized to provide for the purchaser to assume any or all obligations of the lessor. The Commission in such event shall guarantee the lessee's performance of the lease.
 
 #### (c) Eligibility to participate in priority purchase
 
@@ -14,7 +14,7 @@ Persons who have purchased, either individually or jointly with other persons, a
 
 #### (d) Rules and regulations
 
-The Commission is authorized to prescribe by rule or regulation such other conditions as itmay find necessary or desirable for qualification of priority interests and rights for the purchase of an apartment house.
+The Commission is authorized to prescribe by rule or regulation such other conditions as it may find necessary or desirable for qualification of priority interests and rights for the purchase of an apartment house.
 
 (Aug. 4, 1955, ch. 543, ch. 5, §58, as added Pub. L. 87–719, §14, Sept. 28, 1962, 76 Stat. 665; amended Pub. L. 90–190, §1, Dec. 14, 1967, 81 Stat. 575.)
 

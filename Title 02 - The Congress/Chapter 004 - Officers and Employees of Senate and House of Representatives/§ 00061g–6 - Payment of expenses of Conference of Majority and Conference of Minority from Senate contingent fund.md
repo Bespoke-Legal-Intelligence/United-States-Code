@@ -10,17 +10,17 @@ The 1982 amendment by Pub. L. 97–276 is based on section 105 of S. 2939, Ninet
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–83 substituted “such amount as necessary” for “an amount, not in excess of $100,000,” in first sentence.
+2003—Pub. L. 108–83 substituted “such amount as necessary” for “an amount, not in excess of $100,000,” in first sentence.
 
-<b>2001</b>—Pub. L. 107–68 substituted “$100,000” for “$75,000”.
+2001—Pub. L. 107–68 substituted “$100,000” for “$75,000”.
 
-<b>1990</b>—Pub. L. 101–520 substituted “$75,000” for “$50,000”.
+1990—Pub. L. 101–520 substituted “$75,000” for “$50,000”.
 
-<b>1989</b>—Pub. L. 101–163 substituted “$50,000” for “$40,000”.
+1989—Pub. L. 101–163 substituted “$50,000” for “$40,000”.
 
-<b>1985</b>—Pub. L. 99–151 inserted “, except that vouchers shall not be required for payment of long-distance telephone calls”.
+1985—Pub. L. 99–151 inserted “, except that vouchers shall not be required for payment of long-distance telephone calls”.
 
-<b>1982</b>—Pub. L. 97–276 substituted “$40,000” for “$30,000”. See Codification note above.
+1982—Pub. L. 97–276 substituted “$40,000” for “$30,000”. See Codification note above.
 
 #### Effective Date of 2003 Amendment
 
@@ -41,8 +41,4 @@ Title I of Pub. L. 101–163 provided that the amendment made by Pub. L. 101–1
 #### Effective Date of 1982 Amendment
 
 Section 105 of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law, provided that the amendment made by that section is effective for fiscal years beginning after Sept. 30, 1981.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 61g–7 of this title.
 

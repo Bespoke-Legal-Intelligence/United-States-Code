@@ -4,7 +4,3 @@ The lands included in said game preserve shall continue to be parts of the natio
 
 (July 3, 1926, ch. 776, §2, 44 Stat. 889.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 689b, 689c of this title.
-

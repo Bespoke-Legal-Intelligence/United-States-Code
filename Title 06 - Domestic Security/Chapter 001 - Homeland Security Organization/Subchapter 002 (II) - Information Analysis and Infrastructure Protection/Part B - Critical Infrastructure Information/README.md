@@ -1,6 +1,6 @@
 Part B—Critical Infrastructure Information
 
-<i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis after “50”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

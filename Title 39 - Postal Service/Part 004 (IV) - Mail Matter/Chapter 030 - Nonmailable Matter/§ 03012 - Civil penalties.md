@@ -16,7 +16,7 @@
 
 (c)(1) In any proceeding in which the Postal Service may issue an order under section 3005(a), the Postal Service may in lieu of that order or as part of that order assess civil penalties in an amount not to exceed $25,000 for each mailing of less than 50,000 pieces; $50,000 for each mailing of 50,000 to 100,000 pieces; with an additional $5,000 for each additional 10,000 pieces above 100,000, not to exceed $1,000,000.
 
-(2) In any proceeding in which the Postal Service assesses penalties under this subsection the Postal Service shall determine the civil penalty taking into account the nature, circumstances, extent, and gravity of the violation or violations of section 3005(a), and with respect to the violator, the ability to pay the penalty, the effect of the penalty on the ability of the violator to conduct lawful business, any history of prior violations of such section, the degree of culpability and other such matters as justice may require.
+(2) In any proceeding in which the Postal Service assesses penalties under this subsection thePostal Service shall determine the civil penalty taking into account the nature, circumstances, extent, and gravity of the violation or violations of section 3005(a), and with respect to the violator, the ability to pay the penalty, the effect of the penalty on the ability of the violator to conduct lawful business, any history of prior violations of such section, the degree of culpability and other such matters as justice may require.
 
 (d) Any person who violates section 3001(<i>l</i>) shall be liable to the United States for a civil penalty not to exceed $10,000 for each mailing to an individual.
 
@@ -41,8 +41,4 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 #### Effective Date
 
 Section 3(b) of Pub. L. 98–186 provided that: “Section 3012 of title 39, United States Code (as added by subsection (a) of this section) shall apply with respect to conduct which occurs on or after the date of the enactment of this Act \[Nov. 30, 1983\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3017 of this title.
 

@@ -10,7 +10,7 @@ Within the limitations established by subsection (a) of this section, the Presid
 
 #### (c) Appointment of certain statutory officers to comparable positions
 
-Any person who was appointed by and with the advice and consent of the Senate, to any statutory position authorized by any provision of law repealed by section 642(a) and who is serving in one of such positions at the time of transfer of functions pursuant to subsections (c) and (d) of section 2381 of this title, may be appointed by the President to a comparable position authorized by subsection (a) of this section on the date of the establishment of the agency primarily responsible for administering subchapter I of this chapter, without further action by the Senate.
+Any person who was appointed by and with the advice and consent of the Senate, to any statutory position authorized by any provision of law repealed by section 642(a) and who is serving in one of such positions at the time of transfer of functions pursuant to subsections (c) and (d) of section 2381 of this title, may be appointed bythe President to a comparable position authorized by subsection (a) of this section on the date of the establishment of the agency primarily responsible for administering subchapter I of this chapter, without further action by the Senate.
 
 #### (d) Repealed. Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541
 
@@ -18,7 +18,7 @@ Any person who was appointed by and with the advice and consent of the Senate, t
 
 In addition to the officers otherwise provided for in this section, the President shall appoint, by and with the advice and consent of the Senate, one officer for the purpose of coordinating security assistance programs.
 
-(Pub. L. 87–195, pt. III, §624, Sept. 4, 1961, 75 Stat. 447; Pub. L. 87–565, pt. III, §302(b), Aug. 1, 1962, 76Stat. 262; Pub. L. 88–205, pt. III, §302(b), Dec. 16, 1963, 77 Stat. 388; Pub. L. 88–426, title III, §305(33), (42), Aug. 14, 1964, 78 Stat. 426, 428; Pub. L. 89–171, pt. III, §302(b), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(b), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(a), Nov. 14, 1967, 81 Stat. 460; Pub. L. 91–175, pt. III, §304, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §302, Feb. 7, 1972, 86 Stat. 28; Pub. L. 94–329, title III, §301(b), June 30, 1976, 90 Stat. 750; Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–105, title I, §109(a)(1), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title V, §504, Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–533, title VII, §706, Dec. 16, 1980, 94 Stat. 3158; Pub. L. 97–113, title VII, §705(b)(1), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 98–164, tile X, §1002(b), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 103–236, title I, §162(e)(4), Apr. 30, 1994, 108 Stat. 405.)
+(Pub. L. 87–195, pt. III, §624, Sept. 4, 1961, 75 Stat. 447; Pub. L. 87–565, pt. III, §302(b), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(b), Dec. 16, 1963, 77 Stat. 388; Pub. L. 88–426, title III, §305(33), (42), Aug. 14, 1964, 78 Stat. 426, 428; Pub. L. 89–171, pt. III, §302(b), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(b), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(a), Nov. 14, 1967, 81 Stat. 460; Pub. L. 91–175, pt. III, §304, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §302, Feb. 7, 1972, 86 Stat. 28; Pub. L. 94–329, title III, §301(b), June 30, 1976, 90 Stat. 750; Pub. L. 95–88, title I, §124(a)(1), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–105, title I, §109(a)(1), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title V, §504, Oct. 6, 1978, 92 Stat. 959; Pub. L. 96–533, title VII, §706, Dec. 16, 1980, 94 Stat. 3158; Pub. L. 97–113, title VII, §705(b)(1), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 98–164, tile X, §1002(b), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 103–236, title I, §162(e)(4), Apr. 30, 1994, 108 Stat. 405.)
 
 #### References in Text
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Assumption of Duties by Coordinator for Human Rights and Humanitarian Affairs
 
@@ -109,8 +109,4 @@ Section 124(a)(2) of Pub. L. 95–88, which provided that the President (A) may 
 #### Agency for International Development
 
 For appointments under subsec. (a) to United States Agency for International Development, see section 1–200(b) and (c) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2389, 6592 of this title.
 

@@ -30,9 +30,5 @@
 
 (Pub. L. 103–227, title VII, §702, Mar. 31, 1994, 108 Stat. 204.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5966 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “Goal Seven”.</i>
 

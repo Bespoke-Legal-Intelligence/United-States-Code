@@ -76,7 +76,7 @@ Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an em
 
 #### Transit Subsidies; Appropriations
 
-Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
+Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Fundsappropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
 
 Similar provisions were contained in the following prior appropriations act:
 
@@ -98,15 +98,11 @@ Section 1. <i>Mass Transportation and Vanpool Transportation Fringe Benefit Prog
 
 Sec. 2. <i>Federal Agencies in the National Capital Region</i>. Federal agencies in the National Capital Region shall implement a “transit pass” transportation fringe benefit program for their qualified Federal employees by no later than October 1, 2000. Under this program, agencies shall provide their qualified Federal employees, in addition to current compensation, transit passes as defined in section 132(f)(5) of title 26, United States Code, in amounts approximately equal to employee commuting costs, not to exceed the maximum level allowed by law (26 U.S.C. 132(f)(2)). The National Capital Region is defined as the District of Columbia; Montgomery, Prince George's, and Frederick Counties in Maryland; Arlington, Fairfax, Loudon, and Prince William Counties in Virginia; and all cities now or hereafter existing in Maryland or Virginia within the geographic area bounded by the outer boundaries of the combined area of said counties.
 
-Sec. 3. <i>Nationwide Pilot Program</i>. The Department of Transportation, the Environmental Protection Agency, and the Department of Energy shall implement a “transit pass” transportation fringe benefit program, as described in section 2 of this order, for all of their qualified Federal employees as a 3 year pilot program by no later than October 1, 2000. Before determining whether the program should be extended to other Federal employees nationwide, it shall be analyzed by an entity determined by the agencies identified in section4 of this order to ascertain, among other things, if it is effective in reducing single occupancy vehicle travel and local area traffic congestion.
+Sec. 3. <i>Nationwide Pilot Program</i>. The Department of Transportation, the Environmental Protection Agency, and the Department of Energy shall implement a “transit pass” transportation fringe benefit program, as described in section 2 of this order, for all of their qualified Federal employees as a 3 year pilot program by no later than October 1, 2000. Before determining whether the program should be extended to other Federal employees nationwide, it shall be analyzed by an entity determined by the agencies identified in section 4 of this order to ascertain, among other things, if it is effective in reducing single occupancy vehicle travel and local area traffic congestion.
 
 Sec. 4. <i>Guidance</i>. Federal agencies shall develop plans to implement this order in consultation with the Department of the Treasury, the Department of Transportation, the Environmental Protection Agency, the Office of Personnel Management, the General Services Administration, and the Office of Management and Budget. Federal agencies that currently have more generous programs or benefits in place may continue to offer those programs or benefits. Agencies shall absorb the costs of implementing this order within the sums received pursuant to the President's FY 2001 budget request to the Congress.
 
 Sec. 5. <i>Judicial Review</i>. This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3111 of this title; title 10 section 2259.
 

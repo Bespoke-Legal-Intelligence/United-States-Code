@@ -36,7 +36,3 @@ Subsec. (b). Pub. L. 100–4, §308(e)(1), amended subsec. (b) generally. Prior 
 
 “(2) If a person affected by such limitation demonstrates at such hearing that (whether or not such technology or other alternative control strategies are available) there is no reasonable relationship between the economic and social costs and the benefits to be obtained (including attainment of the objective of this chapter), such limitation shall not become effective and the Administrator shall adjust such limitation as it applies to such person.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1292, 1311, 1313, 1314, 1319, 1341, 1342, 1365, 1367, 1369 of this title.
-

@@ -20,7 +20,7 @@ The purposes of this chapter are—
 
 &emsp;(7) to assist Federal agencies in their consideration of proposed regulations affecting State, local, and tribal governments, by—
 
-&emsp;&emsp;(A) requiring that Federal agencies develop a process to enable the elected and other officials of State, local, and tribal governments to provide input when Federal agencies are developing regulations; and
+&emsp;&emsp;(A) requiring that Federal agencies develop a process to enable the elected andother officials of State, local, and tribal governments to provide input when Federal agencies are developing regulations; and
 
 &emsp;&emsp;(B) requiring that Federal agencies prepare and consider estimates of the budgetary impact of regulations containing Federal mandates upon State, local, and tribal governments and the private sector before adopting such regulations, and ensuring that small governments are given special consideration in that process; and
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER X—GRANTS FOR NATIVE AMERICANS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3002, 3011, 3013a, 3020c, 3026, 3027, 3030, 3030a, 3058d of this title.
-
 
 ---
 

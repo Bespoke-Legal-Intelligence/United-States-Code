@@ -10,7 +10,3 @@ The Secretary of the Interior shall prepare a roll of the lineal descendants of 
 
 (Pub. L. 92–555, title I, §101, Oct. 25, 1972, 86 Stat. 1168.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300d–2 of this title.
-

@@ -1,9 +1,5 @@
 Part A—HOME Investment Partnerships
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 12771, 12821 of this title.
-
 
 ---
 

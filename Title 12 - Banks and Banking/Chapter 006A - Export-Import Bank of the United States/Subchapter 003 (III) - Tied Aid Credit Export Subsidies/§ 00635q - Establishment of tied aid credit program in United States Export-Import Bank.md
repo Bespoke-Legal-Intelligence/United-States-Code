@@ -60,7 +60,3 @@ Section 2204(d)(2) of Pub. L. 100–418 provided that:
 
 “(D) With respect to any function transferred by virtue of the amendments made by subsection (c)(1) and exercised on or after the effective date of this section \[Aug. 23, 1988\], reference in any other Federal law to the Agency for International Development or any officer shall be deemed to refer to the Trade and Development Program \[now Trade and Development Agency\] or other official to which such function is so transferred.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 635s of this title.
-

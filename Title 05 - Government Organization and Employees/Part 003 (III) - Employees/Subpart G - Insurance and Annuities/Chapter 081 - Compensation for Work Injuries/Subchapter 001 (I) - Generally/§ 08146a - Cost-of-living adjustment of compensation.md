@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 July 4, 1966, Pub. L. 89–488, §14 “Sec. 43(a), (b)”, 80 Stat. 256.
 
-In subsection (a), the words “After the month during which this section becomes effective,” following “Eachmonth,” are omitted as executed and unnecessary. The words “Secretary of Labor” are substituted for “Secretary” on authority of section 40(i) of the Federal Employees’ Compensation Act. In the second sentence, the words “latest base month” are substituted for “most recent base month.”
+In subsection (a), the words “After the month during which this section becomes effective,” following “Each month,” are omitted as executed and unnecessary. The words “Secretary of Labor” are substituted for “Secretary” on authority of section 40(i) of the Federal Employees’ Compensation Act. In the second sentence, the words “latest base month” are substituted for “most recent base month.”
 
 So much of section 14 of Public Law 89–488 as redesignated section 43 of the Federal Employees’ Compensation Act as section 44 is omitted as unnecessary in view of the codification of that act in title 5, United States Code.
 
@@ -50,7 +50,7 @@ Public Law 84–879 (August 1, 1956), which extended coverage to certain members
 
 Public Law 80–896 (July 3, 1948), which extended coverage to certain persons entitled to war claims, is act July 3, 1948, ch. 826, 62 Stat. 1240, as amended, popularly known as the War Claims Act of 1948, which is classified generally to section 2001 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50, Appendix, and Tables.
 
-Act of September 8, 1959 (73 Stat. 469) which transferred from the Department of Commerce to the Department of Labor certain functions in respect to insurance benefits and disability payments to seamen for W.W. II service-connected injuries, death, or disability, was not classified to the Code.
+Act of September 8, 1959 (73 Stat. 469) which transferred from the Department of Commerce to the Department of Labor certain functions in respect to insurance benefits and disability payments to seamen forW.W. II service-connected injuries, death, or disability, was not classified to the Code.
 
 #### Amendments
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred
 #### Personnel Not Affected by Cost-of-Living Adjustment
 
 Increases authorized by this section not applicable to employees and individuals not within the definition of “employee” in section 8101(1)(A), (B), or (D) of this title, members of the Metropolitan Police or the Fire Department of the District of Columbia who are pensioned or pensionable under sections 521 to 535 of title 4, District of Columbia Code, or members of a uniformed service, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8133 of this title; title 22 section 3715a; title 42 section 239d.
 

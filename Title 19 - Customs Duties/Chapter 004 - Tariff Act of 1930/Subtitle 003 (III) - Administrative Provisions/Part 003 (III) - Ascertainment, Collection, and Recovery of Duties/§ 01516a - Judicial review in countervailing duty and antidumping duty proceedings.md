@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(iii) A final determination, other than a determination reviewable under paragraph (1), by the administering authority or the Commission under section 1675 of this title.
 
-&emsp;&emsp;&emsp;(iv) A determination by the administering authority, under section 1671c or 1673cof this title, to suspend an antidumping duty or a countervailing duty investigation, including any final determination resulting from a continued investigation which changes the size of the dumping margin or net countervailable subsidy calculated, or the reasoning underlying such calculations, at the time the suspension agreement was concluded.
+&emsp;&emsp;&emsp;(iv) A determination by the administering authority, under section 1671c or 1673c of this title, to suspend an antidumping duty or a countervailing duty investigation, including any final determination resulting from a continued investigation which changes the size of the dumping margin or net countervailable subsidy calculated, or the reasoning underlying such calculations, at the time the suspension agreement was concluded.
 
 &emsp;&emsp;&emsp;(v) An injurious effect determination by the Commission under section 1671c(h) or 1673c(h) of this title.
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 #### (A) Constitutionality of binational panel review system
 
-&emsp;&emsp;An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United StatesCourt of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
+&emsp;&emsp;An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
 
 #### (B) Other constitutional review
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (iv) Judicial review
 
-&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on anyquestion of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (6) Injunctive relief
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (10) Notification of class or kind rulings
 
-&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a)of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
 
@@ -502,13 +502,13 @@ Subsec. (g)(1). Pub. L. 103–182, §411(4)(B), substituted “free trade area c
 
 Subsec. (g)(2). Pub. L. 103–182, §411(4)(C), inserted “of the NAFTA or” after “article 1904” in introductory provisions.
 
-Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted “nor the relevant FTA country” for “nor Canada” and inserted “of the NAFTA or” before “of theAgreement”, in cl. (ii), substituted “nor the relevant FTA country” for “nor Canada”, in cl. (iii), inserted “of the NAFTA or” before “of the Agreement” and struck out “or” at end, in cl. (iv), struck out “under paragraph (2)(A)” before “is not reviewable” and substituted a comma for period at end, and added cls. (v) and (vi).
+Subsec. (g)(3)(A). Pub. L. 103–182, §411(4)(D), in cl. (i), substituted “nor the relevant FTA country” for “nor Canada” and inserted “of the NAFTA or” before “of the Agreement”, in cl. (ii), substituted “nor the relevant FTA country” for “nor Canada”, in cl. (iii), inserted “of the NAFTA or” before “of the Agreement” and struck out “or” at end, in cl. (iv), struck out “under paragraph (2)(A)” before “is not reviewable” and substituted a comma for period at end, and added cls. (v) and (vi).
 
 Subsec. (g)(3)(B). Pub. L. 103–182, §411(4)(E), substituted first two sentences for former sentences which read as follows: “A determination described in subparagraph (A)(i) or (iv) is reviewable under subsection (a) of this section only if the party seeking to commence review has provided timely notice of its intent to commence such review to the United States Secretary, the Canadian Secretary, all interested parties who were parties to the proceeding in connection with which the matter arises, and the administering authority or the Commission, as appropriate. Such notice is provided timely if the notice is delivered by no later than the date that is 20 days after the date described in subparagraph (A) or (B) of subsection (a)(5) of this section that is applicable to such determination.”
 
 Subsec. (g)(4)(A). Pub. L. 103–182, §411(4)(F), inserted “the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or” after “or amendment made by,”, a comma before “violates”, “only” after “may be brought”, and “, which shall have jurisdiction of such action” after “Circuit” and struck out at end “Any action brought under this subparagraph shall be heard and determined by a 3-judge court in accordance with section 2284 of title 28.”
 
-Subsec. (g)(5). Pub. L. 103–182, §411(4)(G), inserted “of the NAFTA or” after “article 1904” in subpars. (A), (B), and (C)(i), substituted “, the relevant FTA Secretary,” for “, the Canadian Secretary,” in subpar. (C)(ii), and inserted “of the NAFTA or” after “chapter 19” in subpar. (C)(iii).
+Subsec. (g)(5). Pub. L. 103–182, §411(4)(G), inserted “of the NAFTA or” after “article 1904” in subpars. (A), (B), and (C)(i), substituted “, the relevant FTA Secretary,” for “, the Canadian Secretary,” in subpar. (C)(ii), andinserted “of the NAFTA or” after “chapter 19” in subpar. (C)(iii).
 
 Subsec. (g)(6). Pub. L. 103–182, §411(4)(H), inserted “of the NAFTA or” after “article 1904”.
 
@@ -642,7 +642,7 @@ Certain countervailing and antidumping duty assessments.—The amendments made b
 
 &emsp;“(4)
 
-Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\],which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
+Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
 
 #### Transfer of Functions
 
@@ -654,17 +654,13 @@ For provisions relating to effect of termination of NAFTA country status on the 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
 
 #### Acceptance by President of Panel and Committee Decisions
 
 For acceptance by President of decisions of binational panels and extraordinary challenge committees in event that subsec. (b)(7)(B) of this section takes effect, see section 2 of Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, set out as a note under section 3311 of this title.
 
 For provision that in the event that subsec. (g)(7)(B) of this section takes effect, the President accepts, as a whole, all decisions of binational panels and extraordinary challenge committees, see section 3 of Ex. Ord. No. 12662, Dec. 31, 1988, 54 F.R. 785, set out as a note under section 2112 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1514, 1675, 1675b, 1676a, 1677f, 1677n, 3451 of this title; title 28 sections 1581, 2201, 2631, 2632, 2635, 2636, 2639, 2640, 2643.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

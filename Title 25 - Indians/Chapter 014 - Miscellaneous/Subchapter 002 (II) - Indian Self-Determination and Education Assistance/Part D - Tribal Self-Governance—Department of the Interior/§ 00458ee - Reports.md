@@ -26,7 +26,7 @@ The report shall—
 
 &emsp;(B) not later than 90 days after October 25, 1994, provide to the appropriate committees of Congress a listing of all such programs, services, functions, and activities, or portions thereof, that the Secretary determines, with the concurrence of tribes participating in Self-Governance under this part, are eligible for inclusion in such agreements at the request of a participating Indian tribe.
 
-(2) The Secretary shall establish programmatic targets, after consultation with tribes participating in Self-Governance under this part, to encourage bureaus of the Department to assure that a significant portion of such programs, services, functions, and activities are actually included in the agreements negotiated under section 458cc of this title.
+(2) The Secretary shall establish programmatic targets, after consultation with tribes participating in Self-Governance under this part, to encourage bureaus of the Department to assure that a significant portion of such programs, services, functions, and activities areactually included in the agreements negotiated under section 458cc of this title.
 
 (3) The listing and targets under paragraphs (1) and (2) shall be published in the Federal Register and be made available to any Indian tribe participating in Self-Governance under this part. The list shall be published before January 1, 1995, and annually thereafter by January 1 preceding the fiscal year in which the targets are to be met.
 
@@ -37,8 +37,4 @@ The report shall—
 Within 90 days after October 25, 1994, the Secretary shall, in consultation with Indian tribes, develop a funding formula to determine the individual tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs for inclusion in the Self-Governance compacts. The Secretary shall include such formula in the annual report submitted to the Congress under subsection (b) of this section, together with the views of the affected Indian tribes.
 
 (Pub. L. 93–638, title IV, §405, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4276.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 458cc of this title.
 

@@ -28,7 +28,7 @@ After January 8, 2002, no person shall permit smoking within any indoor facility
 
 #### (A) In general
 
-&emsp;&emsp;After January 8, 2002, no Federal agency shall permit smoking within any indoor facility (or portion of such facility) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood development (Head Start) services to children.
+&emsp;&emsp;After January 8, 2002, no Federal agency shall permit smoking within any indoor facility (or portion of such facility) operated by such agency, directly or by contract, toprovide routine or regular health or day care or early childhood development (Head Start) services to children.
 
 #### (B) Exception
 
@@ -50,7 +50,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (1) In general
 
-&emsp;Any failure to comply with a prohibition in this section shall be considered to be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty assessed under this section, the total amount shall not exceed 50 percent of the amount of Federal funds received under any subchapter of this chapter by such person for the fiscal year in which the continuing violation occurred. For the purpose of the prohibition in subsection (c) of this section, the term “person”, as used inthis paragraph, shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
+&emsp;Any failure to comply with a prohibition in this section shall be considered to be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty assessed under this section, the total amount shall not exceed 50 percent of the amount of Federal funds received under any subchapter of this chapter by such person for the fiscal year in which the continuing violation occurred. For the purpose of the prohibition in subsection (c) of this section, the term “person”, as used in this paragraph, shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
 
 #### (2) Administrative proceeding
 
@@ -76,7 +76,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (6) Failure to comply
 
-&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after the assessment or order, or both, are final under this section, or after a court has entered a final judgment under paragraph (5) in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at prevailing rates from the day the assessment or order, or both, are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
+&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after the assessment or order, or both, are final under this section, or after a court has entered a final judgment under paragraph (5) in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest atprevailing rates from the day the assessment or order, or both, are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
 
 (Pub. L. 89–10, title IV, §4303, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1774.)
 

@@ -22,7 +22,3 @@ The Secretary of Commerce may prescribe such regulations as he deems necessary o
 
 Section 1 of Pub. L. 86–14 provided: “This Act \[enacting this chapter\] may be cited as the ‘Trade Fair Act of 1959’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1755 of this title.
-

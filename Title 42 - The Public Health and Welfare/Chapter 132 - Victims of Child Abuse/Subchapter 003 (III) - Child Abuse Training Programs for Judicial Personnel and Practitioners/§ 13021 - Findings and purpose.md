@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) provide procedural safeguards for parents when their parent-child relationship is affected;
 
-&emsp;(4) social welfare agencies press the courts to meet such requirements, yet scarce resources often dictate that courts comply proforma without undertaking the meaningful judicial inquiry contemplated by Congress in the Adoption <sup>1</sup> and Child Welfare Act of 1980;
+&emsp;(4) social welfare agencies press the courts to meet such requirements, yet scarce resources often dictate that courts comply pro forma without undertaking the meaningful judicial inquiry contemplated by Congress in the Adoption <sup>1</sup> and Child Welfare Act of 1980;
 
 &emsp;(5) compliance with the Adoption <sup>1</sup> and Child Welfare Act of 1980 and overall improvements in the judicial response to abuse and neglect cases can best come about through action by top level court administrators and judges with administrative functions who understand the unique aspects of decisions required in child abuse and neglect cases; and
 

@@ -12,7 +12,7 @@ The Congress finds that projects to construct basic infrastructure, to expand pr
 
 #### References in Text
 
-This title, referred to in subsec. (b), is title XI (§§1101–1103) of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 745, which enacted sections 262g–1 and 262g–2 of this title and enacted a provision set out as a note below. For complete classification of title XI to the Code, see Tables.
+This title, referred to in subsec. (b), is title XI (§§1101–1103) of Pub. L. 95–118, as added by Pub. L. 97–35,title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 745, which enacted sections 262g–1 and 262g–2 of this title and enacted a provision set out as a note below. For complete classification of title XI to the Code, see Tables.
 
 #### Effective Date
 
@@ -20,5 +20,5 @@ Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as
 
 #### Reports to Congress
 
-Section 1103 of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746, required reports on the progress being made toward achieving the goals of this section, prior to repeal byPub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.
+Section 1103 of Pub. L. 95–118, as added by Pub. L. 97–35, title XIII, §1361(b), Aug. 13, 1981, 95 Stat. 746, required reports on the progress being made toward achieving the goals of this section, prior to repeal by Pub. L. 101–240, title V, §541(d)(4), Dec. 19, 1989, 103 Stat. 2518.
 

@@ -1,9 +1,5 @@
 Subtitle C—Enrollment of Actuaries
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in section 1023 of this title; title 26 section 7701.
-
 
 ---
 

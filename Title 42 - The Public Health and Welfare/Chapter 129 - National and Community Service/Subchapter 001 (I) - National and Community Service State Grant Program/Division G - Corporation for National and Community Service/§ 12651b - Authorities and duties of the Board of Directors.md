@@ -72,7 +72,7 @@ The Board shall—
 
 &emsp;(10) notwithstanding any other provision of law, make grants to or contracts with Federal or other public departments or agencies and private nonprofit organizations for the assignment or referral of volunteers under the provisions of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] (except as provided in section 108 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4958\]), which may provide that the agency or organization shall pay all or a part of the costs of the program; and
 
-&emsp;(11) prepare and make recommendations to the Congress and the President for changes in the national service laws resulting from thestudies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(10) of this title, which recommendations shall be submitted to the Congress and President not later than September 30, 1995.
+&emsp;(11) prepare and make recommendations to the Congress and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(10) of this title, which recommendations shall be submitted to the Congress and President not later than September 30, 1995.
 
 #### (h) Administration
 
@@ -115,10 +115,6 @@ Amendment by section 203(a)(1)(B), (2) of Pub. L. 103–82 effective Apr. 4, 199
 #### Effective Date
 
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12572, 12651d, 12651f, 12651g of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

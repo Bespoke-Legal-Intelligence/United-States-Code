@@ -1,6 +1,6 @@
 ### §594. Powers and duties of the Conference
 
-To carry out the purpose of this subchapter, the Administrative Conference of the United States may—
+To carry out the purposes of this subchapter, the Administrative Conference of the United States may—
 
 &emsp;(1) study the efficiency, adequacy, and fairness of the administrative procedure used by administrative agencies in carrying out administrative programs, and make recommendations to administrative agencies, collectively or individually, and to the President, Congress, or the Judicial Conference of the United States, in connection therewith, as it considers appropriate;
 
@@ -18,7 +18,7 @@ To carry out the purpose of this subchapter, the Administrative Conference of th
 
 > Payment for services provided by the Conference pursuant to paragraph (4) shall be credited to the operating account for the Conference and shall remain available until expended.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, §574; Pub. L. 101–422, §2, Oct. 12, 1990, 104 Stat. 910; renumbered §594, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 102–403, Oct. 9, 1992, 106 Stat. 1968.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 390, §574; Pub. L. 101–422, §2, Oct. 12, 1990, 104 Stat. 910; renumbered §594, Pub. L. 102–354, §2(2), Aug. 26, 1992, 106 Stat. 944; Pub. L. 102–403, Oct. 9, 1992, 106 Stat. 1968; Pub. L. 108–401, §2(b)(1), Oct. 30, 2004, 118 Stat. 2255.)
 
 Historical and Revision Notes
 
@@ -37,6 +37,8 @@ Aug. 30, 1964, Pub. L. 88–499, §5, 78 Stat. 616.
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+
+2004—Pub. L. 108–401 substituted “purposes” for “purpose” in introductory provisions.
 
 1992—Pub. L. 102–354 renumbered section 574 of this title as this section.
 

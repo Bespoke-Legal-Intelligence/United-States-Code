@@ -26,7 +26,3 @@ This section does not presume that a trustee will be appointed to operate the bu
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 327, 363, 364 of this title.
-

@@ -4,9 +4,9 @@
 
 (b) For the purposes of housing loans under this chapter—
 
-&emsp;(1) The term “World War II” (A) means the period beginning on September 16, 1940, and ending on July 25, 1947, and (B) includes, in the case of any veteran who enlisted or reenlisted in a Regular component of the Armed Forces after October 6, 1945, and before October 7,1946, the period of the first such enlistment or reenlistment.
+&emsp;(1) The term “World War II” (A) means the period beginning on September 16, 1940, and ending on July 25, 1947, and (B) includes, in the case of any veteran who enlisted or reenlisted in a Regular component of the Armed Forces after October 6, 1945, and before October 7, 1946, the period of the first such enlistment or reenlistment.
 
-&emsp;(2) The term “veteran” includes the surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability, but only if such surviving spouse is not eligible for benefits under this chapter on the basis of the spouse's own active duty. The active duty or service in the Selected Reserve of the deceased spouse shall be deemed to have been active duty or service in the Selected Reserve by such surviving spouse for the purposes of this chapter.
+&emsp;(2) The term “veteran” includes the surviving spouse of any veteran (including a person who died in the active military, naval, or airservice) who died from a service-connected disability, but only if such surviving spouse is not eligible for benefits under this chapter on the basis of the spouse's own active duty. The active duty or service in the Selected Reserve of the deceased spouse shall be deemed to have been active duty or service in the Selected Reserve by such surviving spouse for the purposes of this chapter.
 
 &emsp;(3) The term “veteran” also includes, for purposes of home loans, the spouse of any member of the Armed Forces serving on active duty who is listed, pursuant to section 556 of title 37, United States Code, and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (A) missing in action, (B) captured in line of duty by a hostile force, or (C) forcibly detained or interned in line of duty by a foreign government or power. The active duty of the member shall be deemed to have been active duty by such spouse for the purposes of this chapter. The loan eligibility of such spouse under this paragraph shall be limited to one loan guaranteed or made for the acquisition of a home, and entitlement to such loan shall terminate automatically, if not used, upon receipt by such spouse of official notice that the member is no longer listed in one of the categories specified in the first sentence of this paragraph.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -71,8 +71,4 @@ Section 9 of Pub. L. 94–324 provided that:
 “(a) Except as provided in subsection (b), the provisions of this Act \[see Tables for classification\] shall become effective on the date of enactment \[June 30, 1976\].
 
 “(b) Sections 2 \[enacting section 1807 of this title\] and 3 \[amending section 1811 \[now 3711\] of this title\] shall become effective on October 1, 1976. Section 5 \[amending section 1819 \[now 3712\] of this title\] shall become effective on July 1, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3702, 3708, 3729, 5302 of this title.
 

@@ -26,7 +26,7 @@ In conducting the study required by this section, the Secretary shall give appro
 
 (1) The Secretary shall report the results of the study required by this section, together with such recommendations for legislative action and such statistical evidence as he deems appropriate to the Congress on or before the expiration of the eighteenth month after June 19, 1978.
 
-(2) If the President determines that interim measures are necessary and appropriate to maintain the competitive viability of the marketing sector of the petroleum industry during Congressional consideration of the recommendations contained in the report submitted under paragraph (1), he shall prescribe, by rule, in accordance with the procedures set forth in section 6393(a) of title 42 such interim measures.
+(2) If the President determines that interim measures are necessary and appropriate tomaintain the competitive viability of the marketing sector of the petroleum industry during Congressional consideration of the recommendations contained in the report submitted under paragraph (1), he shall prescribe, by rule, in accordance with the procedures set forth in section 6393(a) of title 42 such interim measures.
 
 (3) No interim measure proposed by the President under this section may be submitted after January 1, 1980, and the effect of such measure if approved by the Congress under paragraph (4) may not extend beyond 18 months after such Congressional approval.
 

@@ -18,7 +18,7 @@ In addition to contracting for the purchase or lease of vehicles when conducting
 
 #### (e) Cost-sharing and use of American materials for demonstrations
 
-When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seekcost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c).
+When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c).
 
 (Pub. L. 94–413, §8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, §602, Feb. 25, 1978, 92 Stat. 92.)
 
@@ -32,7 +32,7 @@ Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c), refe
 
 #### Codification
 
-In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
+In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administrationand the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
 #### Amendments
 
@@ -41,8 +41,4 @@ In subsec. (b), the words “the Federal Energy Administration,” which followe
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Administrator” in subsecs. (a) to (c) and the first time it appears in subsec. (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2511 of this title; title 42 section 2473.
 

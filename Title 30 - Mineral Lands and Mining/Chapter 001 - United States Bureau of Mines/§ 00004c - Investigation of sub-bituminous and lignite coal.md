@@ -6,13 +6,5 @@ The United States Bureau of Mines, under the general direction of the Secretary 
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title.
-
-#### Transfer of Functions
-
-See note set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4d of this title.
+“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 

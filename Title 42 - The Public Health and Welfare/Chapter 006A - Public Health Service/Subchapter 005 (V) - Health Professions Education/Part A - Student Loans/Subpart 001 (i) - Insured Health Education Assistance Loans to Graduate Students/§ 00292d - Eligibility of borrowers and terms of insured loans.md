@@ -74,7 +74,7 @@ The total of the payments by a borrower during any year or any repayment period 
 
 #### (d) Applicability of certain laws on rate or amount of interest
 
-No provision of any law of the United States (other than subsections (a)(2)(D) and (b) of thissection) or of any State that limits the rate or amount of interest payable on loans shall apply to a loan insured under this subpart.
+No provision of any law of the United States (other than subsections (a)(2)(D) and (b) of this section) or of any State that limits the rate or amount of interest payable on loans shall apply to a loan insured under this subpart.
 
 #### (e) Determination regarding forbearance
 
@@ -125,10 +125,6 @@ Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in
 Pub. L. 105–392, title I, §141(a)(3), Nov. 13, 1998, 112 Stat. 3578, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to services provided on or after the first day of the third month that begins after the date of the enactment of this Act \[Nov. 13, 1998\].”
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 238n, 292a, 292e, 292n, 292<i>o</i> of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 

@@ -16,7 +16,7 @@ The Commission is authorized to—
 
 #### (b) Material for Department of Defense use
 
-The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as hedeems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
+The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as he deems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
 
 #### (c) Sale, lease, or loan to other Nations of materials for military applications
 
@@ -70,7 +70,7 @@ Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, as
 
 #### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
 
-Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, titleX, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
 
 “(a)
 
@@ -98,7 +98,7 @@ Report.—Not later than October 1 of 1999 and 2000, and not later than February
 
 “(e)
 
-Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
+Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy,the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
 
 “(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, the Pantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
 
@@ -186,7 +186,7 @@ Applicability of FACA.—The provisions of the Federal Advisory Committee Act (5
 
 “(h)
 
-Funding.—Of the amounts authorized to be appropriated pursuant to section 3101 \[110 Stat. 2820\], not more than $1,000,000 shall be available for the activities of the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
+Funding.—Of the amounts authorized to be appropriated pursuant to section 3101 \[110 Stat. 2820\], not more than $1,000,000 shall be available for the activitiesof the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
 
 \[Section 3163(a) of Pub. L. 105–85 provided that the amendment made by that section to section 3162(b)(1) of Pub. L. 104–201, set out above, is effective Jan. 1, 1998.\]
 
@@ -310,7 +310,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 
 “(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
-“(3) The President may authorize the United Kingdom to conduct in the United States, within a periodcovered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
+“(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
 
 “(f) \[Transferred to section 2530 of Title 50, War and National Defense.\]
 
@@ -327,8 +327,4 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 #### Nuclear Test Ban Readiness Program
 
 Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2527 of Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2122, 2131, 2140, 2153, 2153a, 2153f, 2159, 2160, 2286d of this title.
 

@@ -38,7 +38,7 @@ For the purpose of this section:
 
 (E) The Administrator shall receive and evaluate written comments and documents from interested persons in support of, or in opposition to, certification of the class or model of product under consideration.
 
-(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shallreach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
+(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shall reach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
 
 (G) Immediately upon making any determination or decision under subparagraph (F), the Administrator shall publish in the Federal Register notice of such determination or decision, including reasons therefor.
 
@@ -83,8 +83,4 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4918 of this title.
 

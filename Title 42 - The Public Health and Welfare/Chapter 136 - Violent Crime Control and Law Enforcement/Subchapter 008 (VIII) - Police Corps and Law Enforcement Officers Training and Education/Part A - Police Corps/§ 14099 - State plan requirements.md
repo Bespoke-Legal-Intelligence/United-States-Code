@@ -40,7 +40,3 @@ A State Police Corps plan shall—
 
 2002—Par. (2). Pub. L. 107–273 substituted “except with permission of the Director, no more than 25 percent” for “no more than 10 percent”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14092, 14094, 14096, 14097 of this title.
-

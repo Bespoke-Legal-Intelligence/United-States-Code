@@ -40,10 +40,6 @@ A State may apply for funds under one or more of the following categories:
 
 Section 12339 of this title, referred to in subsecs. (a), (c), and (d)(3), was repealed by Pub. L. 103–252, title IV, §401(b)(1), May 18, 1994, 108 Stat. 672.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12340 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>

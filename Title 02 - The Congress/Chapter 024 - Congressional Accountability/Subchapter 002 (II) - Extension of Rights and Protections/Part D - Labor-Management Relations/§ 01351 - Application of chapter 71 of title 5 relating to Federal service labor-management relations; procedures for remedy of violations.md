@@ -96,7 +96,3 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1407, 1411, 1414 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior shall reserve and may exercise the authority to ca
 
 (Feb. 25, 1920, ch. 85, §26, 41 Stat. 448.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 275, 285 of this title; title 10 sections 7421, 7435.
-

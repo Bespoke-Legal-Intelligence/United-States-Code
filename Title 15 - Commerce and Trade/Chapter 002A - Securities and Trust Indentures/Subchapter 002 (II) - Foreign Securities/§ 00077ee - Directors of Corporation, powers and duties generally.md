@@ -20,7 +20,3 @@ The board of directors may—
 
 (May 27, 1933, ch. 38, title II, §204, 48 Stat. 94.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77hh of this title.
-

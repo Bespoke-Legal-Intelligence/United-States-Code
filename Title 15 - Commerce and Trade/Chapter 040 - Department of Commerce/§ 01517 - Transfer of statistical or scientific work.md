@@ -34,7 +34,7 @@ Pub. L. 98–52, title II, §202, July 15, 1983, 97 Stat. 285, as amended by Pub
 
 Pub. L. 97–324, title II, §201, Oct. 15, 1982, 96 Stat. 1601, as amended by Pub. L. 98–365, title VI, §608, July 17, 1984, 98 Stat. 466; Pub. L. 103–437, §5(b)(2), Nov. 2, 1994, 108 Stat. 4582, provided that:
 
-“(a) The Secretary of Commerce is authorized to plan and provide for the management and operation of civil remote-sensing space systems, which may include the Landsat 4 and 5 satellites and associated ground system equipment transferred from the National Aeronautics and Space Administration; to provide for user fees; and to plan for the transfer of the operation of civil remote-sensing space systems to the private sector when in the national interest.
+“(a) The Secretary of Commerce is authorized to plan and provide for the management and operation of civil remote-sensing space systems, which may include the Landsat 4 and 5 satellites and associated ground system equipment transferred from the National Aeronauticsand Space Administration; to provide for user fees; and to plan for the transfer of the operation of civil remote-sensing space systems to the private sector when in the national interest.
 
 “(b)(1) As part of his planning for the transfer of the ownership and operation of civil operational land remote sensing satellite systems to the private sector the Secretary shall—
 
@@ -50,7 +50,7 @@ Pub. L. 97–324, title II, §201, Oct. 15, 1982, 96 Stat. 1601, as amended by P
 
 “(c) There is authorized to be appropriated $14,955,000 for the fiscal year 1983, for the purpose of carrying out the provisions of this title \[this note\].
 
-“(d) No moneys authorized by this title \[this note\] shall be used to transfer to the private sector the ownership or management of any civil land remote sensing space satellite system and associated ground system equipment unless (A) a period of thirty days has passed after the receipt by the Speaker of the House of Representatives, the President of the Senate, the House Committee on Science, Space, and Technology \[now Committee on Science\], and the Senate Committee on Commerce, Science, and Transportation, of a message from the Secretary of Commerce or his designee containing a full and complete plan for the action proposed to be taken together with the reasons therefor and expected funding impacts, or (B) each such committee before the expiration of such period has transmitted tothe Secretary written notice to the effect that such committee has no objection to the proposed action.”
+“(d) No moneys authorized by this title \[this note\] shall be used to transfer to the private sector the ownership or management of any civil land remote sensing space satellite system and associated ground system equipment unless (A) a period of thirty days has passed after the receipt by the Speaker of the House of Representatives, the President of the Senate, the House Committee on Science, Space, and Technology \[now Committee on Science\], and the Senate Committee on Commerce, Science, and Transportation, of a message from the Secretary of Commerce or his designee containing a full and complete plan for the action proposed to be taken together with the reasons therefor and expected funding impacts, or (B) each such committee before the expiration of such period has transmitted to the Secretary written notice to the effect that such committee has no objection to the proposed action.”
 
 #### Ex. Ord. No. 11564. Transfer of Certain Programs and Activities to Secretary of Commerce
 

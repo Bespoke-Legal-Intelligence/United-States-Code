@@ -22,7 +22,3 @@ For the purpose of this chapter—
 
 (Pub. L. 95–557, title IV, §403, Oct. 31, 1978, 92 Stat. 2105.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8005 of this title.
-

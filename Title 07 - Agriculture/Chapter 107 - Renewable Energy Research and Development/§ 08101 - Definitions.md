@@ -66,6 +66,10 @@ In this chapter:
 
 This chapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 107–171, May 13, 2002, 116 Stat. 475, which enacted this chapter and amended section 6711 of this title and provisions set out as a note under section 7624 of this title. For complete classification of title IX to the Code, see Tables.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, provided that: “This section \[enacting section 8109 of this title\] may be cited as the ‘Sun Grant Research Initiative Act of 2003’.”
+
 #### Biomass Research and Development
 
 Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901, provided that:
@@ -374,7 +378,7 @@ Terms.—Members of the Advisory Committee shall be appointed for a term of 3 ye
 
 “(a)
 
-In General.—The Secretary of Agriculture and the Secretary of Energy, acting through their respective points of contact and in consultation with the Board, shall establish and carry out a Biomass Research and Development Initiative under which competitively awarded grants, contracts, and financial assistance are provided to, or entered into with, eligible entities to carry out research on biobased industrial products.
+In General.—The Secretary of Agriculture and the Secretary of Energy, acting through their respective points of contact and in consultation with theBoard, shall establish and carry out a Biomass Research and Development Initiative under which competitively awarded grants, contracts, and financial assistance are provided to, or entered into with, eligible entities to carry out research on biobased industrial products.
 
 “(b)
 
@@ -616,7 +620,7 @@ Authorization of Appropriations.—In addition to amounts transferred under subs
 
 Ex. Ord. No. 13134, Aug. 12, 1999, 64 F.R. 44639, as amended by Ex. Ord. No. 13225, §3(a), Sept. 28, 2001, 66 F.R. 50291, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to stimulate the creation and early adoption of technologies needed to make biobased products and bioenergy cost-competitive in large national and international markets, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory CommitteeAct, as amended (5 U.S.C. App.), and in order to stimulate the creation and early adoption of technologies needed to make biobased products and bioenergy cost-competitive in large national and international markets, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. Current biobased product and bioenergy technology has the potential to make renewable farm and forestry resources major sources of affordable electricity, fuel, chemicals, pharmaceuticals, and other materials. Technical advances in these areas can create an expanding array of exciting new business and employment opportunities for farmers, foresters, ranchers, and other businesses in rural America. These technologies can create new markets for farm and forest waste products, new economic opportunities for underused land, and new value-added business opportunities. They also have the potential to reduce our Nation's dependence on foreign oil, improve air quality, water quality, and flood control, decrease erosion, and help minimize net production of greenhouse gases. It is the policy of this Administration, therefore, to develop a comprehensive national strategy, including research, development, and private sector incentives, to stimulate the creation and early adoption of technologies needed to make biobased products and bioenergy cost-competitive in large national and international markets.
 
@@ -664,7 +668,7 @@ Sec. 6. <i>Establishment of a National Biobased Products and Bioenergy Coordinat
 
 Sec. 7. <i>Definitions</i>. For the purposes of this order: (a) The term “biomass” means any organic matter that is available on a renewable or recurring basis (excluding old-growth timber), including dedicated energy crops and trees, agricultural food and feed crop residues, aquatic plants, wood and wood residues, animal wastes, and other waste materials.
 
-(b) The term “biobased product,” as defined in Executive Order 13101 \[42 U.S.C. 6961 note\], means a commercial or industrial product (other than food or feed) that utilizes biological products or renewable domestic agricultural (plant, animal, and marine) or forestry materials.
+(b) The term “biobased product,” as defined in Executive Order 13101 \[42 U.S.C. 6961 note\], means a commercial or industrial product (other than food or feed) thatutilizes biological products or renewable domestic agricultural (plant, animal, and marine) or forestry materials.
 
 (c) The term “bioenergy” means biomass used in the production of energy (electricity; liquid, solid, and gaseous fuels; and heat).
 

@@ -14,7 +14,7 @@
 
 (2) The sanctions which apply to a foreign person under paragraph (1) are the following:
 
-&emsp;(A) If the item involved in the export, transfer, or trade is within category II of the MTCR Annex, then the President shall deny, for a period of 2 years—
+&emsp;(A) If the item involved in the export, transfer, or trade is within category II of the MTCRAnnex, then the President shall deny, for a period of 2 years—
 
 &emsp;&emsp;(i) United States Government contracts relating to missile equipment or technology; and
 
@@ -152,7 +152,7 @@ Annual Certification.—
 
 &emsp;“(1)
 
-Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of theIran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
+Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
 
 &emsp;“(2)
 
@@ -205,10 +205,6 @@ Person.—The term ‘person’ has the meaning given the term in section 74(8) 
 &emsp;“(4)
 
 United states person.—The term ‘United States person’ has the meaning given the term in section 74(6) of the Arms Export Control Act (22 U.S.C. 2797c(6)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2375, 2797b–1, 2797b–2, 2797c of this title; title 50 section 2368; title 50 App. section 2410b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) A judge who is not reappointed following the expiration of the term for which appointedmay retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
+(2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
@@ -96,7 +96,7 @@
 
 (2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the duties of the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
 
-(h)(1) An individual who has filed an election to receive retired pay under subsection (c) ofthis section may revoke such election at any time before the first day on which retired pay would (but for such revocation) begin to accrue with respect to such individual.
+(h)(1) An individual who has filed an election to receive retired pay under subsection (c) of this section may revoke such election at any time before the first day on which retired pay would (but for such revocation) begin to accrue with respect to such individual.
 
 (2) Any revocation under this subsection shall be made by filing a notice of the election in writing with the Director of the Office of Personnel Management. The Office of Personnel Management shall transmit to the chief judge a copy of each notice filed under this subsection.
 
@@ -244,7 +244,7 @@ Transitional Service of Judge Retired Under This Section.—(1) A judge who reti
 
 &emsp;&emsp;“(ii) pay for purposes of deductions or contributions for or on behalf of the person to retired pay under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable; but
 
-&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or other annuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
+&emsp;“(B) may, at the election of the person, be treated as pay for purposes of deductions or contributions for or on behalf of the person to a retirement or otherannuity, or both, under subchapter V of chapter 72 of title 38, United States Code, or under chapter 83 or 84 of title 5, United States Code, as applicable.
 
 “(5) Amounts paid under paragraph (3) shall be derived from amounts available for payment of salaries and benefits of judges of the Court.
 
@@ -264,7 +264,7 @@ Modified Terms.—The term of office of the first two judges appointed to the Co
 
 “(b)
 
-Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of theCourt whose term of office is determined under subsection (a)—
+Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of the Court whose term of office is determined under subsection (a)—
 
 &emsp;“(A) the age and service requirements in the table in paragraph (2) shall apply to those judges rather than the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
 
@@ -307,8 +307,4 @@ Eligibility for Retirement.—(1) For purposes of determining the eligibility to
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Pub. L. 106–117, title X, §1032(b), Nov. 30, 1999, 113 Stat. 1595, provided that: “A person serving as a judge of the Court under section 1011 may not serve as chief judge of the Court.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7257, 7297, 7298, 7299 of this title; title 5 sections 8334, 8402, 8440d; title 28 sections 178, 377.
 

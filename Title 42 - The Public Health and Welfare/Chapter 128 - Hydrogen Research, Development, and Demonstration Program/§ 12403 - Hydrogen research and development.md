@@ -76,7 +76,3 @@ Title II of Pub. L. 104–271 provided that:
 
 “There are authorized to be appropriated, for activities under this section \[title\], a total of $50,000,000 for fiscal years 1997 and 1998, to remain available until September 30, 1999.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12404 of this title.
-

@@ -8,7 +8,3 @@ As used in sections 528 to 531 of this title the following terms shall have the 
 
 (Pub. L. 86–517, §4, June 12, 1960, 74 Stat. 215.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 528, 529, 530, 698v–1 of this title.
-

@@ -8,7 +8,3 @@ The Upper Colorado River Basin Fund established under section 620d of this title
 
 Section was enacted as part of the Colorado River Basin Project Act, and not as part of act Apr. 11, 1956, popularly known as the Colorado River Storage Project Act, which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1543 of this title.
-

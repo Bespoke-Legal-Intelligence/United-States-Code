@@ -2,7 +2,7 @@ Part I—National Bone Marrow Donor Registry
 
 #### Amendments
 
-1990—Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279, added part I “National Bone Marrow Donor Registry” and redesignated former part I “Biomedical Ethics” as J.
+1990—Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279, added part I “National Bone MarrowDonor Registry” and redesignated former part I “Biomedical Ethics” as J.
 
 1985—Pub. L. 99–158, §§3(b), 11, Nov. 20, 1985, 99 Stat. 879, 883, added part I “Biomedical Ethics”, and repealed former part I “National Library of Medicine”.
 

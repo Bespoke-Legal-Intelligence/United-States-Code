@@ -10,5 +10,5 @@ Provisions authorizing appointment of a legislative counsel for the House of Rep
 
 #### Amendments
 
-<b>1941</b>—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate.”
+1941—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate.”
 

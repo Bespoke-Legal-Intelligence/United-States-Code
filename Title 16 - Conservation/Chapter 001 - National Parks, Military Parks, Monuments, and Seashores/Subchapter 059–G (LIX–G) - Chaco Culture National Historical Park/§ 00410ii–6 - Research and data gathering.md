@@ -10,7 +10,7 @@ The Secretary shall, through the Division of Cultural Research of the Southwest 
 
 #### (c) Opportunity for Secretary to comment on proposed expenditures and permits
 
-The head of any Federal agency having direct or indirect jurisdiction over a proposed Federalor federally assisted undertaking with respect to the lands and waters in the archeological protection sites, and the head of any Federal agency having authority to license or permit any undertaking with respect to such lands and waters, shall prior to the approval of the expenditure of any Federal funds on such undertaking, or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment in writing with regard to such undertaking and its effect upon such sites, and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the purposes for which such sites are established.
+The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking with respect to the lands and waters in the archeological protection sites, and the head of any Federal agency having authority to license or permit any undertaking with respect to such lands and waters, shall prior to the approval of the expenditure of any Federal funds on such undertaking, or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment in writing with regard to such undertaking and its effect upon such sites, and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the purposes for which such sites are established.
 
 (Pub. L. 96–550, title V, §507, Dec. 19, 1980, 94 Stat. 3230.)
 
@@ -21,4 +21,8 @@ The effective date of this section, referred to in subsec. (a), probably means t
 #### Change of Name
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Cooperative Agreements for Curation and Research
+
+Pub. L. 108–413, §4, Oct. 30, 2004, 118 Stat. 2325, provided that: “The Secretary \[of the Interior\] may enter into cooperative agreements with the University of New Mexico, Federal agencies, and Indian tribes for the curation of and conduct of research on artifacts, and to encourage collaborative management of the Chacoan archaeological artifacts associated with northwestern New Mexico.”
 

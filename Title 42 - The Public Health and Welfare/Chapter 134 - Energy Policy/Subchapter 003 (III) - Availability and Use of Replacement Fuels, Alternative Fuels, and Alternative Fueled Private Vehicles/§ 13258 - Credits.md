@@ -6,7 +6,7 @@ The Secretary shall allocate a credit to a fleet or covered person that is requi
 
 #### (b) Allocation
 
-In allocating credits under subsection (a) of this section, the Secretary shall allocate one credit for each alternative fueled vehicle the fleet or covered person acquires that exceeds the number of alternative fueled vehicles that fleet or person is required to acquire under this subchapter or that is acquired before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter. In the event that a vehicle is acquired before the date otherwise required, the Secretary shall allocate one credit per vehicle for each year the vehicle is acquired before the required date. The credit shall be allocated for the same type vehicle as the excess vehicle or earlier acquired vehicle.
+In allocating credits under subsection (a) of this section, the Secretary shall allocate one credit for each alternative fueled vehicle the fleet or covered person acquires that exceeds the number of alternative fueled vehicles that fleet or person is required to acquire under this subchapter or that is acquired before the date that fleet or person is required to acquire an alternative fueled vehicle under such subchapter. In the event that a vehicle is acquired before thedate otherwise required, the Secretary shall allocate one credit per vehicle for each year the vehicle is acquired before the required date. The credit shall be allocated for the same type vehicle as the excess vehicle or earlier acquired vehicle.
 
 #### (c) Use of credits
 
@@ -14,11 +14,7 @@ At the request of a fleet or covered person allocated a credit under this sectio
 
 #### (d) Transferability
 
-A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At therequest of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may be counted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title, a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
+A fleet or covered person allocated a credit under this section or to whom a credit is transferred under this section, may transfer freely the credit to another fleet or person who is required to comply with this subchapter. At the request of the fleet or person to whom a credit is transferred, the Secretary shall treat the transferred credit as the acquisition of one alternative fueled vehicle of the type for which the credit is allocated in the year designated by the fleet or person to whom the credit is transferred when determining whether that fleet or person has complied with this subchapter in the year designated. A transferred credit may be counted toward compliance for only one year. In the case of the alternative fuel provider program under section 13251 of this title, a transferred credit may be counted toward compliance only if the requirement of section 13251(a)(4) of this title is met.
 
 (Pub. L. 102–486, title V, §508, Oct. 24, 1992, 106 Stat. 2897.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13220 of this title.
 

@@ -96,7 +96,3 @@ In addressing the subject of sexual assault, domestic violence, and other crimin
 
 (Pub. L. 103–322, title XXVII, §270004, Sept. 13, 1994, 108 Stat. 2092.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14192 of this title.
-

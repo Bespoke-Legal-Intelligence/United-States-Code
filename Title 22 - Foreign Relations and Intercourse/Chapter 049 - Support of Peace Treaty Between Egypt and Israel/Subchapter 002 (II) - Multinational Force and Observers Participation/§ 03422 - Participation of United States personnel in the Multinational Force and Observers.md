@@ -24,7 +24,3 @@ The status of United States Government personnel assigned to the Multinational F
 
 (Pub. L. 97–132, §3, Dec. 29, 1981, 95 Stat. 1693.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3424 of this title.
-

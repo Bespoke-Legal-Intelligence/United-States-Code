@@ -16,19 +16,25 @@ Officers and employees of the Institute shall be compensated at rates determined
 
 (2) This chapter does not limit the authority of the Office of Management and Budget to review and submit comments upon the Institute's annual budget request at the time it is transmitted to the Congress.
 
+(3) The Institute may purchase goods and services from the General Services Administration in order to carry out its functions.
+
 #### (d) Status of officers and employees of Institute as officers and employees of United States
 
 (1) Except as provided in paragraph (2), officers and employees of the Institute shall not be considered officers or employees of the United States.
 
-(2) Officers and employees of the Institute shall be considered officers and employees of the United States solely for the purposes of the following provisions of title 5: Subchapter I of chapter 81 (relating to compensation for work injuries); chapters 83 and 84 (relating to civil service retirement); chapter 87 (relating to life insurance); and chapter 89 (relating to health insurance). The Institute shall make contributions under the provisions referred to in this subsection at the same rates applicable to agencies of the Federal Government.
+(2) Officers and employees of the Institute shall be considered officers and employees of the United States solely for the purposes of the following provisions of title 5: Subchapter I of chapter 81 (relating to compensation for work injuries); chapters 83 and 84 (relating to civil service retirement); chapter 87 (relating to life insurance); and chapter 89 (relating to health insurance), notwithstanding section 8914 of such title. The Institute shall make contributions under the provisions referred to in this subsection at the same rates applicable to agencies of the Federal Government.
 
 #### (e) Freedom of information requirements
 
 The Institute and its officers and employees shall be subject to the provisions of section 552 of title 5 relating to freedom of information.
 
-(Pub. L. 98–620, title II, §205, Nov. 8, 1984, 98 Stat. 3339; Pub. L. 100–690, title VII, §7321(b)(2), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §602, Nov. 19, 1988, 102 Stat. 4653.)
+(Pub. L. 98–620, title II, §205, Nov. 8, 1984, 98 Stat. 3339; Pub. L. 100–690, title VII, §7321(b)(2), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §602, Nov. 19, 1988, 102 Stat. 4653; Pub. L. 108–372, §3(a), (b), Oct. 25, 2004, 118 Stat. 1754.)
 
 #### Amendments
+
+2004—Subsec. (c)(3). Pub. L. 108–372, §3(a), added par. (3).
+
+Subsec. (d)(2). Pub. L. 108–372, §3(b), inserted “, notwithstanding section 8914 of such title” after “(relating to health insurance)”.
 
 1988—Subsec. (d)(2). Pub. L. 100–690 and Pub. L. 100–702 amended par. (2) identically, substituting “chapters 83 and 84” for “chapter 83”.
 

@@ -34,7 +34,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 #### (3) Lien on interests in assets
 
-&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administrator shall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) of this title.
+&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administratorshall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) of this title.
 
 #### (4) Perfected security interest
 
@@ -112,7 +112,7 @@ The Board shall prescribe regulations governing defaults on loans guaranteed und
 
 #### (B) Maintenance
 
-&emsp;&emsp;The Administrator shall maintain in a cost-effective and reasonable manner any property or other interests pending sale or disposal of such property or other interests under subparagraph (A).
+&emsp;&emsp;The Administrator shall maintain in a cost-effective and reasonable manner anyproperty or other interests pending sale or disposal of such property or other interests under subparagraph (A).
 
 #### (k) Action against obligor
 
@@ -150,7 +150,7 @@ No attachment or execution may be issued against the Administrator or any proper
 
 #### (B) Subject to appropriations
 
-&emsp;&emsp;The authority provided by this subsection shall be effective only to such extent or insuch amounts as are provided in advance in appropriations Acts.
+&emsp;&emsp;The authority provided by this subsection shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 #### (C) Limitation on fees
 
@@ -199,10 +199,6 @@ Subsec. (b)(1)(D). Pub. L. 107–171, §6404(b)(2)(B)(i), made technical amendme
 Subsec. (b)(3). Pub. L. 107–171, §6404(b)(2)(B)(ii), made technical amendment to reference in original Act which appears in text as a reference to section 1103(d)(3)(B)(iii) of this title.
 
 Subsec. (e)(3). Pub. L. 107–171, §6404(b)(2)(C), made technical amendment to reference in original Act which appears in text as a reference to section 1103(g) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1103, 1109 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

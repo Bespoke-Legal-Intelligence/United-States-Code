@@ -4,7 +4,3 @@ The Secretary is authorized under such rules and regulations as he may prescribe
 
 (Pub. L. 93–262, title III, §301, Apr. 12, 1974, 88 Stat. 82.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

@@ -48,9 +48,5 @@ Section 4(c) of Pub. L. 101–220 provided that: “The amendment made by this s
 
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608c, 672, 673, 1392 of this title; title 12 section 1150a.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,3 @@ During the 90-day period beginning on the date of the revocation of the charter 
 
 (Pub. L. 92–181, title VI, §6.0, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1585.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2219c of this title.
-

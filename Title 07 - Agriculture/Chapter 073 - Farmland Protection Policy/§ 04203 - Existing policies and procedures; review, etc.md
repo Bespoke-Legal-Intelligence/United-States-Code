@@ -6,7 +6,3 @@
 
 (Pub. L. 97–98, title XIV, §1542, Dec. 22, 1981, 95 Stat. 1343.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4207 of this title.
-

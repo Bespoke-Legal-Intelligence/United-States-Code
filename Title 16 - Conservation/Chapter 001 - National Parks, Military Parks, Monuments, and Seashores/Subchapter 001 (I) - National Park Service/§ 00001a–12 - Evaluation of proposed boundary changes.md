@@ -10,10 +10,6 @@ Within one year after November 28, 1990, the Secretary shall develop criteria to
 
 (Pub. L. 101–628, title XII, §1216, Nov. 28, 1990, 104 Stat. 4508.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a–9, 1a–13 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(a);”.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>

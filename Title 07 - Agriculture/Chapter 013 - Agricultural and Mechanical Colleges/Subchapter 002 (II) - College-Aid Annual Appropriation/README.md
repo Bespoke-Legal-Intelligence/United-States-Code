@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COLLEGE-AID ANNUAL APPROPRIATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 331, 341, 343, 450i, 1926, 2204c, 2206a, 2662, 2663, 2664, 3103, 3123, 3124a, 3221, 3222, 3222b, 3222c, 3222d, 3223, 3703, 7601 of this title; title 16 sections 551c, 1672, 1673, 6552; title 20 section 3441; title 22 section 2220a; title 42 section 1788.
-
 
 ---
 

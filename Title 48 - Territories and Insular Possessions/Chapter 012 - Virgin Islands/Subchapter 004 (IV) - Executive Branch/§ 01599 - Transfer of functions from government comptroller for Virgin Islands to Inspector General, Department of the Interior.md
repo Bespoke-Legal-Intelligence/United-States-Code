@@ -24,5 +24,5 @@ The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–4
 
 #### Prior Provisions
 
-A prior section 1599, acts July 22, 1954, ch. 558, §17, 68 Stat. 505; Aug. 28, 1958, Pub. L. 85–851, §§4, 5, 72 Stat. 1094, 1095; Mar. 20, 1962, Pub. L. 87–421, 76 Stat. 43; Aug. 23, 1968, Pub. L. 90–496, §9, 82 Stat. 840; Oct. 15, 1977, Pub. L. 95–134, title III, §301(a), 91 Stat. 1162, related to appointment, status, and duties of the government comptroller for the Virgin Islands, prior to repeal by Pub. L. 97–357, §309(b).
+A prior section 1599, acts July 22, 1954, ch. 558, §17, 68 Stat. 505; Aug. 28, 1958, Pub. L. 85–851, §§4, 5, 72 Stat. 1094, 1095; Mar. 20, 1962, Pub. L. 87–421, 76 Stat. 43; Aug. 23, 1968, Pub. L. 90–496, §9, 82 Stat. 840; Oct. 15, 1977, Pub. L. 95–134, title III, §301(a), 91 Stat. 1162, related to appointment, status, and duties of the governmentcomptroller for the Virgin Islands, prior to repeal by Pub. L. 97–357, §309(b).
 

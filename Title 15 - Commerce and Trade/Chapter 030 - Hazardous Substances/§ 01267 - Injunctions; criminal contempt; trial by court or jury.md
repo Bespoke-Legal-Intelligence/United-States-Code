@@ -14,7 +14,3 @@ In any proceeding for criminal contempt for violation of an injunction or restra
 
 Functions of Secretary of Health, Education, and Welfare under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1277 of this title.
-

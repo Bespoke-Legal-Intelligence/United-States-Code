@@ -20,7 +20,7 @@ The Secretary shall establish a program, including a uniform health professions 
 
 &emsp;&emsp;(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
 
-&emsp;&emsp;(B) such State or entity shall collect such information and report it to the Secretary in such form and manner as the Secretary shall prescribe; and
+&emsp;&emsp;(B) such State or entity shall collect such information and report it to the Secretary insuch form and manner as the Secretary shall prescribe; and
 
 &emsp;&emsp;(C) such State or entity shall comply with the requirements of subsection (e) of this section.
 
@@ -42,7 +42,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 &emsp;&emsp;(B) upon request, inform any individual if he is the subject of personal data secured or maintained by the Secretary or program entity, as the case may be, and make the data available to him in a form comprehensible to him;
 
-&emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes ofthis section unless an informed consent has been obtained from the individual who is the subject of such data; and
+&emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes of this section unless an informed consent has been obtained from the individual who is the subject of such data; and
 
 &emsp;&emsp;(D) upon request, inform any individual of the use being made of personal data respecting such individual and of the identity of the individuals and entities which will use the data and their relationship to the programs under this section.
 
@@ -104,7 +104,7 @@ Section 301 of Pub. L. 102–408, as amended by Pub. L. 102–531, title III, §
 
 #### Commission on Allied Health
 
-Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a finalreport due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
+Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
 
 #### Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities
 
@@ -113,10 +113,6 @@ Section 303 of Pub. L. 102–408 directed Secretary of Health and Human Services
 #### National Advisory Council on Medical Licensure
 
 Section 307 of Pub. L. 102–408 directed Secretary of Health and Human Services to establish National Advisory Council on Medical Licensure to advise Secretary on American Medical Association's system of verifying and maintaining information regarding qualifications of individuals to practice medicine, as well as advice regarding establishment and operation of any similar system, provided for activities of Council, including review of private credentials verification system and recommendations on how it could be improved, as well as review of State procedures for licensing individuals licensed in other States and procedures for licensing international medical graduates, provided for composition of Council and appointment of members, required submission of an interim report to Congress not later than Sept. 30, 1993, and a final report with recommendations not later than Sept. 30, 1995, provided for termination of Council not later than Sept. 30, 1995, or upon submission of final report, whichever is earlier, and further directed Secretary, in cooperation with Council to submit to Congress, not later than Sept. 30, 1994, study of not less than 10 States for purposes of determining average time required for States to process licensure applications of domestic and international medical graduates as well as percentages of domestic and international licensure applications approved.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 294n, 294<i>o</i> of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (c) has been enacted.</i>
 

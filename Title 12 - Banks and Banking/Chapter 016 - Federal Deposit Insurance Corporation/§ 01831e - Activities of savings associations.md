@@ -38,7 +38,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall require any savings association to divest any equity investment the retention of which is not permissible under paragraph (1) or (2) as quickly as can be prudently done, and in any event not later than July 1, 1994.
+&emsp;&emsp;The Corporation shall require any savings association to divest any equity investment the retention of which is not permissibleunder paragraph (1) or (2) as quickly as can be prudently done, and in any event not later than July 1, 1994.
 
 #### (B) Treatment of noncompliance during divestment
 
@@ -112,7 +112,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;(D) the transfer of the corporate debt security not of investment grade is completed—
 
-&emsp;&emsp;&emsp;(i) before the end of the 1-year period beginning on August 9, 1989, in the case of an insured savings association that, as of August 9, 1989, is controlled by a savings and loan holding company; or
+&emsp;&emsp;&emsp;(i) before the end of the 1-year period beginning on August 9, 1989, in the case of aninsured savings association that, as of August 9, 1989, is controlled by a savings and loan holding company; or
 
 &emsp;&emsp;&emsp;(ii) before the end of the 2-year period beginning on August 9, 1989, in the case of a savings association that is not, as of August 9, 1989, a subsidiary of a savings and loan holding company;
 

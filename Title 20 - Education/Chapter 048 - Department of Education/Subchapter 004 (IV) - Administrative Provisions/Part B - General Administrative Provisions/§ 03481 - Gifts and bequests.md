@@ -8,7 +8,3 @@ The Secretary is authorized to accept, hold, administer, and utilize gifts, bequ
 
 1994—Pub. L. 103–382 inserted “and to accept donations of services,” after “personal,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3475 of this title.
-

@@ -28,7 +28,3 @@ The failure of a consumer to dispute the validity of a debt under this section m
 
 Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 818 of Pub. L. 90–321, set out as a note under section 1692 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 292f.
-

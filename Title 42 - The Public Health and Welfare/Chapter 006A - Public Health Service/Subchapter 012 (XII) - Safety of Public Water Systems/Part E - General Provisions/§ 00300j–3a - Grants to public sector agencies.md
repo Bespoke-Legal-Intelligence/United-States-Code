@@ -36,7 +36,3 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 Section 7(a)(2) of Pub. L. 95–477 provided that: “This subsection \[amending this section\] shall become effective October 1, 1978.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300j–3b of this title.
-

@@ -18,7 +18,7 @@
 
 (B) The Secretary shall pay each month to each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (i) that provided by subparagraph (B) of subsection (a)(1) of this section, or (ii) that which is payable to the veteran under section 1521 of this title as in effect on December 31, 1978, under regulations which the Secretary shall prescribe. Each change in the amount of pension payment required by this subparagraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(b)(1) The Secretary shall pay to each veteran of the Spanish-American War who does not meetthe service requirements of subsection (a), but who meets the service requirements of this subsection, a pension at the following monthly rate:
+(b)(1) The Secretary shall pay to each veteran of the Spanish-American War who does not meet the service requirements of subsection (a), but who meets the service requirements of this subsection, a pension at the following monthly rate:
 
 &emsp;(A) $67.73; or
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 #### Effective Date of 1960 Amendment
 
 Amendment by Pub. L. 86–670 effective first day of second calendar month which begins after July 14, 1960, see section 3 of Pub. L. 86–670, set out as a note under section 1511 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1536, 1537 of this title.
 

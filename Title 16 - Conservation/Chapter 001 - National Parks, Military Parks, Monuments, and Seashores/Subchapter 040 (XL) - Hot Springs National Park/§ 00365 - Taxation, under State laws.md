@@ -8,7 +8,3 @@ The consent of the United States is given for the taxation, under the authority 
 
 “Hot Springs National Park” substituted in text for “Hot Springs Reservation” pursuant to act Mar. 4, 1921.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 368 of this title.
-

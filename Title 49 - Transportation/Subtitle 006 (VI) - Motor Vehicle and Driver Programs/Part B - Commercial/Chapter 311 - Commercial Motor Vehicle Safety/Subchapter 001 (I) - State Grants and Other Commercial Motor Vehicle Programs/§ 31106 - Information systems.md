@@ -6,7 +6,7 @@ Information Systems and Data Analysis.—
 
 &emsp;(1)
 
-In general.—Subject to the provisions of this section, the Secretary shall establish and operate motor carrier, commercial motor vehicle, and driver information systems and data analysis programs to support safety regulatory and enforcement activities required under this title.
+In general.—Subject to the provisions of this section, the Secretary shall establish andoperate motor carrier, commercial motor vehicle, and driver information systems and data analysis programs to support safety regulatory and enforcement activities required under this title.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Performance and Registration Information Program.—
 
 &emsp;(1)
 
-Information clearinghouse.—The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain a clearinghouse and repository of informationrelated to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
+Information clearinghouse.—The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain a clearinghouse and repository of information related to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
 
 &emsp;(2)
 
@@ -131,8 +131,4 @@ In subsection (b)(2), the word “schedule” is substituted for “system” fo
 #### Amendments
 
 1998—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31101, 31107, 31309 of this title.
 

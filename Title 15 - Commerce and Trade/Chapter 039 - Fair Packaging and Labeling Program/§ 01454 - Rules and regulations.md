@@ -24,7 +24,7 @@ Whenever the promulgating authority determines that regulations containing prohi
 
 #### (d) Development by manufacturers, packers, and distributors of voluntary product standards
 
-Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity or commodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures for the development of voluntary products standards established by the Secretary pursuant to section 272 of this title. Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
+Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity or commodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures forthe development of voluntary products standards established by the Secretary pursuant to section 272 of this title. Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
 
 #### (e) Report and recommendations to Congress upon industry failure to develop or abide by voluntary product standards
 
@@ -47,8 +47,4 @@ Subsec. (d). Pub. L. 102–329, §1(2), substituted “weights or masses” for 
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–329 effective Feb. 14, 1994, but with such amendment to have no effect on the sale or distribution of products whose labels have been printed before such date, no application to unit pricing, advertising, recipe programs, nutrition labeling, or other general pricing information, and no construction requiring changes in package size or affecting in any way the size of packages, see section 2 of Pub. L. 102–329, set out as a note under section 1453 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1455, 1456 of this title.
 

@@ -1,6 +1,6 @@
 ### §4126. Prison Industries Fund; use and settlement of accounts
 
-(a) All moneys under the control of Federal Prison Industries, or received from the sale of the products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the General Accounting Office.
+(a) All moneys under the control of Federal Prison Industries, or received from the sale of the products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the Government Accountability Office.
 
 (b) All valid claims and obligations payable out of said fund shall be assumed by the corporation.
 
@@ -16,13 +16,13 @@
 
 > In no event may compensation for such injuries be paid in an amount greater than that provided in chapter 81 of title 5.
 
-(d) Accounts of all receipts and disbursements of the corporation shall be rendered to the General Accounting Office for settlement and adjustment, as required by the Comptroller General.
+(d) Accounts of all receipts and disbursements of the corporation shall be rendered to the Government Accountability Office for settlement and adjustment, as required by the Comptroller General.
 
 (e) Such accounting shall include all fiscal transactions of the corporation, whether involving appropriated moneys, capital, or receipts from other sources.
 
 (f) Funds available to the corporation may be used for the lease, purchase, other acquisition, repair, alteration, erection, or maintenance of facilities only to the extent such facilities are necessary for the industrial operations of the corporation under this chapter. Such funds may not be used for the construction or acquisition of penal or correctional institutions, including camps described in section 4125.
 
-(June 25, 1948, ch. 645, 62 Stat. 852; May 24, 1949, ch. 139, §64, 63 Stat. 99; Pub. L. 87–317, Sept. 26, 1961, 75 Stat. 681; Pub. L. 100–690, title VII, §7094, Nov. 18, 1988, 102 Stat. 4412.)
+(June 25, 1948, ch. 645, 62 Stat. 852; May 24, 1949, ch. 139, §64, 63 Stat. 99; Pub. L. 87–317, Sept. 26, 1961, 75 Stat. 681; Pub. L. 100–690, title VII, §7094, Nov. 18, 1988, 102 Stat. 4412; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +40,7 @@ The words “in the repair, alteration, erection and maintenance of industrial b
 
 The words “in performing the duties imposed by this chapter” were substituted for the words “for the purposes enumerated in sections 744a–744h of this title,” since the provisions with regard to prison industries now appear in this chapter. The general provisions as to use of the fund supersede the more specific provisions of section 744f of said title (enacted earlier).
 
-A reference to the Federal Employees’ Compensation Act as appeared in the 1934 act was substituted for the reference to specific sections of title 5. The word “law” was substituted for the reference to sections in title 31 since translation of the reference in the 1934 act was not practicable.
+A reference to the Federal Employees’ Compensation Act as appeared in the 1934 act was substituted for the reference to specific sections of title 5. The word “law” was substituted for the reference to sections in title 31since translation of the reference in the 1934 act was not practicable.
 
 Remaining provisions of said section 744e of title 18, U.S.C., 1940 ed., relating to authorization of appropriations, were omitted as unnecessary.
 
@@ -51,6 +51,8 @@ Other changes in phraseology were made.
 This section \[section 64\] incorporates in section 4126 of title 18, U.S.C., provisions of act of May 11, 1948 (ch. 276, 62 Stat. 230), which was not incorporated in title 18 when the revision was enacted. The remainder of such act is incorporated in section 4122 of such title by another section of this bill.
 
 #### Amendments
+
+2004—Subsecs. (a), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1988—Subsecs. (a), (b). Pub. L. 100–690, §7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
 

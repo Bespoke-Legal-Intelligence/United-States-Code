@@ -1,0 +1,162 @@
+### §942. Coordination of E–911 implementation
+
+#### (a) E–911 Implementation Coordination Office
+
+#### (1) Establishment
+
+&emsp;The Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration shall—
+
+&emsp;&emsp;(A) establish a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services; and
+
+&emsp;&emsp;(B) create an E–911 Implementation Coordination Office to implement the provisions of this section.
+
+#### (2) Management plan
+
+&emsp;The Assistant Secretary and the Administrator shall jointly develop a management plan for the program established under this section. Such plan shall include the organizational structure and funding profiles for the 5-year duration of the program. The Assistant Secretary and the Administrator shall, within 90 days after December 23, 2004, submit the management plan to the Committees on Energy and Commerce and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate.
+
+#### (3) Purpose of Office
+
+&emsp;The Office shall—
+
+&emsp;&emsp;(A) take actions, in concert with coordinators designated in accordance with subsection (b)(3)(A)(ii) of this section, to improve such coordination and communication;
+
+&emsp;&emsp;(B) develop, collect, and disseminate information concerning practices, procedures, and technology used in the implementation of E–911 services;
+
+&emsp;&emsp;(C) advise and assist eligible entities in the preparation of implementation plans required under subsection (b)(3)(A)(iii) of this section;
+
+&emsp;&emsp;(D) receive, review, and recommend the approval or disapproval of applications for grants under subsection (b) of this section; and
+
+&emsp;&emsp;(E) oversee the use of funds provided by such grants in fulfilling such implementation plans.
+
+#### (4) Reports
+
+&emsp;The Assistant Secretary and the Administrator shall provide a joint annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of E–911 services.
+
+#### (b) Phase II E–911 implementation grants
+
+#### (1) Matching grants
+
+&emsp;The Assistant Secretary and the Administrator, after consultation with the Secretary of Homeland Security and the Chairman of the Federal Communications Commission, and acting through the Office, shall provide grants to eligible entities for the implementation and operation of Phase II E–911 services.
+
+#### (2) Matching requirement
+
+&emsp;The Federal share of the cost of a project eligible for a grant under this section shall not exceed 50 percent. The non-Federal share of the cost shall be provided from non-Federal sources.
+
+#### (3) Coordination required
+
+&emsp;In providing grants under paragraph (1), the Assistant Secretary and the Administrator shall require an eligible entity to certify in its application that—
+
+&emsp;&emsp;(A) in the case of an eligible entity that is a State government, the entity—
+
+&emsp;&emsp;&emsp;(i) has coordinated its application with the public safety answering points (as such term is defined in section 222(h)(4) of this title) located within the jurisdiction of such entity;
+
+&emsp;&emsp;&emsp;(ii) has designated a single officer or governmental body of the entity to serve as the coordinator of implementation of E–911 services, except that such designation need not vest such coordinator with direct legal authority to implement E–911 services or manage emergency communications operations;
+
+&emsp;&emsp;&emsp;(iii) has established a plan for the coordination and implementation of E–911 services; and
+
+&emsp;&emsp;&emsp;(iv) has integrated telecommunications services involved in the implementation and delivery of phase II E–911 services; or
+
+&emsp;&emsp;(B) in the case of an eligible entity that is not a State, the entity has complied with clauses (i), (iii), and (iv) of subparagraph (A), and the State in which it is located has complied with clause (ii) of such subparagraph.
+
+#### (4) Criteria
+
+&emsp;The Assistant Secretary and the Administrator shall jointly issue regulations within 180 days after December 23, 2004, after a public comment period of not less than 60 days, prescribing the criteria for selection for grants under this section, and shall update such regulations as necessary. The criteria shall include performance requirements and a timeline for completion of any project to be financed by a grant under this section.
+
+#### (c) Diversion of E–911 charges
+
+#### (1) Designated E–911 charges
+
+&emsp;For the purposes of this subsection, the term “designated E–911 charges” means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve E–911 services.
+
+#### (2) Certification
+
+&emsp;Each applicant for a matching grant under this section shall certify to the Assistant Secretary and the Administrator at the time of application, and each applicant that receives such a grant shall certify to the Assistant Secretary and the Administrator annually thereafter during any period of time during which the funds from the grant are available to the applicant, that no portion of any designated E–911 charges imposed by a State or other taxing jurisdiction within which the applicant is located are being obligated or expended for any purpose other than the purposes for which such charges are designated or presented during the period beginning 180 days immediately preceding the date of the application and continuing through the period of time during which the funds from the grant are available to the applicant.
+
+#### (3) Condition of grant
+
+&emsp;Each applicant for a grant under this section shall agree, as a condition of receipt of the grant, that if the State or other taxing jurisdiction within which the applicant is located, during any period of time during which the funds from the grant are available to the applicant, obligates or expends designated E–911 charges for any purpose other than the purposes for which such charges are designated or presented, all of the funds from such grant shall be returned to the Office.
+
+#### (4) Penalty for providing false information
+
+&emsp;Any applicant that provides a certification under paragraph (1) knowing that the information provided in the certification was false shall—
+
+&emsp;&emsp;(A) not be eligible to receive the grant under subsection (b) of this section;
+
+&emsp;&emsp;(B) return any grant awarded under subsection (b) of this section during the time that the certification was not valid; and
+
+&emsp;&emsp;(C) not be eligible to receive any subsequent grants under subsection (b) of this section.
+
+#### (d) Authorization; termination
+
+#### (1) Authorization
+
+&emsp;There are authorized to be appropriated to the Department of Transportation, for the purposes of grants under the joint program operated under this section with the Department of Commerce, not more than $250,000,000 for each of the fiscal years 2005 through 2009, not more than 5 percent of which for any fiscal year may be obligated or expended for administrative costs.
+
+#### (2) Termination
+
+&emsp;The provisions of this section shall cease to be effective on October 1, 2009.
+
+#### (e) Definitions
+
+As used in this section:
+
+#### (1) Office
+
+&emsp;The term “Office” means the E–911 Implementation Coordination Office.
+
+#### (2) Administrator
+
+&emsp;The term “Administrator” means the Administrator of the National Highway Traffic Safety Administration.
+
+#### (3) Eligible entity
+
+#### (A) In general
+
+&emsp;&emsp;The term “eligible entity” means a State or local government or a tribal organization (as defined in section 450b(<i>l</i>) of title 25).
+
+#### (B) Instrumentalities
+
+&emsp;&emsp;Such term includes public authorities, boards, commissions, and similar bodies created by one or more eligible entities described in subparagraph (A) to provide E–911 services.
+
+#### (C) Exception
+
+&emsp;&emsp;Such term does not include any entity that has failed to submit the most recently required certification under subsection (c) of this section within 30 days after the date on which such certification is due.
+
+#### (4) E–911 services
+
+&emsp;The term “E–911 services” means both phase I and phase II enhanced 911 services, as described in section 20.18 of the Commission's regulations (47 C.F.R. 20.18), as in effect on December 23, 2004, or as subsequently revised by the Federal Communications Commission.
+
+#### (5) Phase II E–911 services
+
+&emsp;The term “phase II E–911 services” means only phase II enhanced 911 services, as described in such section 20.18 (47 C.F.R. 20.18), as in effect on December 23, 2004, or as subsequently revised by the Federal Communications Commission.
+
+#### (6) State
+
+&emsp;The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
+
+(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987.)
+
+#### Codification
+
+December 23, 2004, referred to in subsec. (a)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–494, which enacted this section, to reflect the probable intent of Congress.
+
+#### Findings
+
+Pub. L. 108–494, title I, §102, Dec. 23, 2004, 118 Stat. 3986, provided that: “The Congress finds that—
+
+&emsp;“(1) for the sake of our Nation's homeland security and public safety, a universal emergency telephone number (911) that is enhanced with the most modern and state-of-the-art telecommunications capabilities possible should be available to all citizens in all regions of the Nation;
+
+&emsp;“(2) enhanced emergency communications require Federal, State, and local government resources and coordination;
+
+&emsp;“(3) any funds that are collected from fees imposed on consumer bills for the purposes of funding 911 services or enhanced 911 should go only for the purposes for which the funds are collected; and
+
+&emsp;“(4) enhanced 911 is a high national priority and it requires Federal leadership, working in cooperation with State and local governments and with the numerous organizations dedicated to delivering emergency communications services.”
+
+#### Purposes
+
+Pub. L. 108–494, title I, §103, Dec. 23, 2004, 118 Stat. 3986, provided that: “The purposes of this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] are—
+
+&emsp;“(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and
+
+&emsp;“(2) to ensure that funds collected on telecommunications bills for enhancing emergency 911 services are used only for the purposes for which the funds are being collected.”
+

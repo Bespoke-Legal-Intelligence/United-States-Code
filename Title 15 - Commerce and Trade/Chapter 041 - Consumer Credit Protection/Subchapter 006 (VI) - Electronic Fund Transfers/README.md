@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 38 section 5301.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §1909. Examiner performing other services
 
-Whoever, being a national-bank examiner, Federal Deposit Insurance Corporation examiner, or farm credit examiner, performs any other service, for compensation, for any bank or banking or loan association, or for any officer, director, or employee thereof, or for any person connected therewith in any capacity, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being a national-bank examiner, Federal Deposit Insurance Corporation examiner, or farm credit examiner, performs any other service, for compensation, for any bank or banking or loan association, or for any officer, director, or employee thereof, or for any person connected therewith in any capacity, shall befined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §§330004(12), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147.)
 
@@ -10,7 +10,7 @@ Based on sections 594, 656a, 952, 981, 1093, 1124, 1243, and 1314 of title 12, U
 
 Section 594 of title 12, U.S.C., 1940 ed., Banks and Banking, first paragraph, related to national-bank examiners and Federal Deposit Insurance Corporation examiners, and provided punishment for several offenses including the offense of performing services, for compensation, other than their regular duties. Section 656a of said title 12 is authority for the designation “farm credit examiner” included in this section, and section 1093 of said title authorizes farm credit examiners to conduct examinations in connection with contemplated transactions of Federal intermediate credit banks, to which section 1124 of said title relates.
 
-Sections 981 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking, which relate to farm credit examiners, and section 1314 of said title, which relates to National Agricultural Credit Corporation examiners, all prohibit the performance of services, for compensation, other than regular duties. They do not specifically provide punishment for violation of such prohibition, but the provisions of said section 594 of said title, relating to national-bank examiners and Federal Deposit Insurance Corporation examiners, which does provide punishment for the same offense, are extended to theformer two types of examiners by sections 952 and 1243 thereof.
+Sections 981 and 1124 of title 12, U.S.C., 1940 ed., Banks and Banking, which relate to farm credit examiners, and section 1314 of said title, which relates to National Agricultural Credit Corporation examiners, all prohibit the performance of services, for compensation, other than regular duties. They do not specifically provide punishment for violation of such prohibition, but the provisions of said section 594 of said title, relating to national-bank examiners and Federal Deposit Insurance Corporation examiners, which does provide punishment for the same offense, are extended to the former two types of examiners by sections 952 and 1243 thereof.
 
 The remaining provisions of sections 594, 981, 1124, and 1314 of title 12, U.S.C., 1940 ed., Banks and Banking, relating to unlawful disclosure of the names of borrowers or the collateral for loans, false statements in applications for loans, overvaluation of securities, and acceptance of loans or gratuities, were separated and transferred according to subject matter to sections 218, 1014, 1906–1908 of this title, where, insofar as possible, they were consolidated with similar provisions from other sections.
 
@@ -21,8 +21,4 @@ Minor changes were made in phraseology.
 1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
 Pub. L. 103–322, §330004(12), inserted “or” before “farm credit examiner” and struck out “or an examiner of National Agricultural Credit Corporations,” before “performs any other service”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3056 of this title; title 12 section 503.
 

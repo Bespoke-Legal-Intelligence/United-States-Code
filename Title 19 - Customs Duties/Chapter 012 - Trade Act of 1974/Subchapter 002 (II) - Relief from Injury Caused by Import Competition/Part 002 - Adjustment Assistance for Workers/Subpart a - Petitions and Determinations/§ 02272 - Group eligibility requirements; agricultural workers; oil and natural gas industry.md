@@ -22,7 +22,7 @@ A group of workers (including workers in any agricultural firm or subdivision of
 
 #### (b) Adversely affected secondary workers
 
-A group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part if the Secretary determines that—
+A group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) shall be certified by the Secretary as eligible to apply for trade adjustment assistance benefits under this part pursuant to a petition filed under section 2271 of this title if the Secretary determines that—
 
 &emsp;(1) a significant number or proportion of the workers in the workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated;
 
@@ -52,7 +52,7 @@ Downstream producer.—The term “downstream producer” means a firm that perf
 
 Supplier.—The term “supplier” means a firm that produces and supplies directly to another firm (or subdivision) component parts for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm.
 
-(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988,102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937.)
+(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590.)
 
 #### References in Text
 
@@ -63,6 +63,8 @@ The African Growth and Opportunity Act, referred to in subsec. (a)(2)(B)(ii)(II)
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(2)(B)(ii)(II), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–429 made technical amendment to heading and inserted “pursuant to a petition filed under section 2271 of this title” after “under this part” in introductory provisions.
 
 2002—Subsec. (a). Pub. L. 107–210, §113(a)(1)(A), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary shall certify a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) as eligible to apply for adjustment assistance under this subpart if he determines—
 
@@ -123,8 +125,4 @@ Section 1421(a)(1)(B) of Pub. L. 100–418 provided that: “Notwithstanding sec
 &emsp;“(ii) would not have been made if the amendments made by subparagraph (A) \[amending this section\] had not been enacted into law,
 
 > shall apply to any worker whose most recent total or partial separation from the firm, or appropriate subdivision of the firm, described in section 222(a) of such Act \[19 U.S.C. 2272(a)\] occurs after September 30, 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2273, 2296 of this title.
 

@@ -4,7 +4,3 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 (June 2, 1920, ch. 218, §6, 41 Stat. 733.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 63, 64 of this title.
-

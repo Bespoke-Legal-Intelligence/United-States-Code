@@ -14,7 +14,7 @@ The holder of class A notes shall be entitled to interest at a rate or rates det
 
 #### (d) Class B stock; ownership requirements, etc.
 
-Class B stock shall be held only by recipients of loans under section 3015 of this title, and such borrowers shall be required to own class B stock in an amount not less than 1 per centum of the face amount of the loan at the time the loan is made. Such borrowers may be required by the Bank to own additional class B or class C stock at the time the loan is made, but not to exceed an amount equal to 10 per centum of the face amount of the loan, or from time to time, as the Bank may determine. Such additional stock ownership requirements may be on the basis of the face amount of the loan, the outstanding balances, or on a percentage of interest payable during any year or any quarter thereof, as the Bank may determine will provide adequate capital for the operation of the Bank and equitable ownership thereof among borrowers.
+Class B stock shall be held only by recipients of loans under section 3015 of this title, and such borrowers shall be required to own class B stock in an amount not less than 1 per centum of the face amount of the loan at the time the loan is made. Such borrowers may be required by the Bank to own additional class B or class C stock at the time the loan is made, but not to exceedan amount equal to 10 per centum of the face amount of the loan, or from time to time, as the Bank may determine. Such additional stock ownership requirements may be on the basis of the face amount of the loan, the outstanding balances, or on a percentage of interest payable during any year or any quarter thereof, as the Bank may determine will provide adequate capital for the operation of the Bank and equitable ownership thereof among borrowers.
 
 #### (e) Class C stock; purchase, dividends, etc.
 
@@ -79,10 +79,6 @@ Section 394(c)(2) of Pub. L. 97–35 provided that: “The amendment made by par
 Section 395(b)(3) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (1) \[amending section 3042 of this title\] and (2) \[amending this section\] shall take effect on October 1, 1981.”
 
 Amendment by section 396(c) of Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 3011 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3011, 3019, 3026 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “have”.</i>
 

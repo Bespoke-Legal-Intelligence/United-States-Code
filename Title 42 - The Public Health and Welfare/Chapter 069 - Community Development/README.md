@@ -20,7 +20,7 @@
 | (c) | Special certifications required for certain grants. |
 | (d) | Residential antidisplacement and relocation assistance plan; certification of adherence; contents. |
 | (e) | Submission of performance and evaluation report by grantee to Secretary; contents; availability for citizen comment; annual review and audit by Secretary of program implementation; adjustments in amount of annual grants. |
-| (f) | Audit of grantees by General Accounting Office; access to books, accounts, records, etc., by representatives of General Accounting Office. |
+| (f) | Audit of grantees by Government Accountability Office; access to books, accounts, records, etc., by representatives of Government Accountability Office. |
 | (g) | Environmental protection measures applicable for release of funds to applicants for projects; issuance of regulations by Secretary subsequent to consultation with Council on Environmental Quality; request and certification to Secretary for approval of release of funds; form, contents and effect of certification. |
 | (h) | Payments; revolving loan fund: establishment in private financial institution for rehabilitation activities; standards for payments: criteria. |
 | (i) | Metropolitan city as part of urban county. |
@@ -127,10 +127,6 @@
 | [5321\.](%C2%A7%2005321%20-%20Suspension%20of%20requirements%20for%20disaster%20areas.md) | Suspension of requirements for disaster areas. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1437d, 1439, 1440, 3013, 3533, 3535, 5133, 9816, 11505 of this title; title 7 section 2008n; title 12 sections 1464, 1701x, 1715z, 1715z–13, 1834a; title 25 section 4104; title 40 section 14507.
 
 
 ---

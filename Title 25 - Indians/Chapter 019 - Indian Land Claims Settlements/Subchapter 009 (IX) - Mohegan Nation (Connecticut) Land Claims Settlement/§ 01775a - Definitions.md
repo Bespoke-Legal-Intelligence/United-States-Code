@@ -32,7 +32,3 @@ As used in this subchapter:
 
 (Pub. L. 103–377, §3, Oct. 19, 1994, 108 Stat. 3502.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1775 of this title.
-

@@ -230,7 +230,7 @@ Much of the work done by the Office of Telecommunications Policy (OTP) can be mo
 
 I propose that the Economic Opportunity Council be discontinued; it is dormant and its only active function (preparation of the Catalogue of Federal Domestic Assistance) is being performed by OMB. Three other units are also inactive and should be discontinued: Council on International Economic Policy, the Federal Property Council, and the Energy Resources Council.
 
-The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinatesthe making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
+The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinates the making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
 
 The ten EOP units which will continue with some modification are:
 
@@ -386,7 +386,7 @@ Sec. 6. The records, property, personnel, and unexpended balances of appropriati
 
 Sec. 7. (a) The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
-(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director ofthe Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
+(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director of the Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

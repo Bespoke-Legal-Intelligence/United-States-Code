@@ -28,9 +28,5 @@ Subsec. (a)(2). Pub. L. 105–388, which directed substitution of semicolon for 
 
 Subsec. (a)(3). Pub. L. 105–388 substituted semicolon for comma at end.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6372d of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

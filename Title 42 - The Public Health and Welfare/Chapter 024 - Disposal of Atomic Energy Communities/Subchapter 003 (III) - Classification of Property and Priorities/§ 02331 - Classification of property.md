@@ -24,7 +24,3 @@ Subsec. (c). Pub. L. 87–719, §8, added subsec. (c).
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2343 of this title.
-

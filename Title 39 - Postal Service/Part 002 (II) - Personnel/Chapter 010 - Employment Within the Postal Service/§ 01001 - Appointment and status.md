@@ -56,7 +56,3 @@ Section 13 of Pub. L. 91–375 provided that:
 
 Provisions of section 13 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1005 of this title.
-

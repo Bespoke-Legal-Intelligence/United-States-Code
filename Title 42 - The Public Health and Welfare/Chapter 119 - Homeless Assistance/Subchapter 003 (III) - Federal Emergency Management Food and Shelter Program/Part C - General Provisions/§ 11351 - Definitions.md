@@ -34,7 +34,3 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1766 of this title.
-

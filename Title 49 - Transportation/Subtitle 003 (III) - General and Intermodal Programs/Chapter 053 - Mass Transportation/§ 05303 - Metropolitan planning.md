@@ -66,7 +66,7 @@ Designating Metropolitan Planning Organizations.—(1) To carry out the planning
 
 (5)(A) The chief executive officer and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city as defined by the Secretary of Commerce) may redesignate by agreement a metropolitan planning organization when appropriate to carry out this section and sections 5304–5306 of this title.
 
-(B) A metropolitan planning organization shall be redesignated on request of one or more units of general local government representing at least 25 percent of the affected population (including the central city or cities, as defined by the Bureau of the Census) in an urbanized area with a population of more than 5,000,000, but less than 10,000,000 or that is an extreme nonattainment area for ozone or carbon monoxide (as defined in the Clean Air Act (42 U.S.C. 7401 et seq.)).
+(B) A metropolitan planning organization shall be redesignated on request of one or more units of general local government representing at least 25 percent of the affected population (including the central city or cities, as defined by the Bureau of the Census) in an urbanized area with a population of more than 5,000,000, but lessthan 10,000,000 or that is an extreme nonattainment area for ozone or carbon monoxide (as defined in the Clean Air Act (42 U.S.C. 7401 et seq.)).
 
 (C) A metropolitan planning organization shall be redesignated using procedures established to carry out this paragraph.
 
@@ -150,7 +150,7 @@ Interstate compact.—
 
 &emsp;&emsp;(i)
 
-In general.—Subject to clause (ii) and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, by agreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
+In general.—Subject to clause (ii) and notwithstanding subsection (b), to carry out the transportation planning process required by this section, the consent of Congress is granted to the States of California and Nevada to designate a metropolitan planning organization for the Lake Tahoe region, byagreement between the Governors of the States of California and Nevada and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities (as defined by the Bureau of the Census)), or in accordance with procedures established by applicable State or local law.
 
 &emsp;&emsp;(ii)
 
@@ -418,7 +418,7 @@ Subsec. (f)(5)(A). Pub. L. 105–178, §3004(e)(4), inserted “published or oth
 
 Subsec. (f)(6). Pub. L. 105–178, §3004(f)(2), as added by Pub. L. 105–206, §9009(b)(3), added par. (6).
 
-Subsec. (h)(1). Pub. L. 105–178, §3029(b)(1), (2), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g)(1) of this title” and “sections5304 and 5305 of this title” for “sections 5304–5306 of this title”.
+Subsec. (h)(1). Pub. L. 105–178, §3029(b)(1), (2), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g)(1) of this title” and “sections 5304 and 5305 of this title” for “sections 5304–5306 of this title”.
 
 Subsec. (h)(2)(A), (3)(A). Pub. L. 105–178, §3029(b)(1), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g)(1) of this title”.
 
@@ -441,10 +441,6 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 #### Effective Date of 1996 Amendment
 
 Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5304, 5305, 5306, 5307, 5309, 5313, 5314, 5323, 5338 of this title; title 23 sections 134, 135.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

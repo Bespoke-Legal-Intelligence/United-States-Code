@@ -32,19 +32,15 @@ In order to carry out the provisions of this chapter, the Center may—
 
 #### Codification
 
-Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 143 of House Document No. 103–7.
+Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money andFinance. See, also, page 143 of House Document No. 103–7.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(6) to (11). Pub. L. 101–520 struck out “and” at end of par. (6), added pars. (7) to (11), and struck out former par. (7) which read as follows: “To make other necessary expenditures including official reception and representation expenses.”
+1990—Subsec. (a)(6) to (11). Pub. L. 101–520 struck out “and” at end of par. (6), added pars. (7) to (11), and struck out former par. (7) which read as follows: “To make other necessary expenditures including official reception and representation expenses.”
 
-<b>1989</b>—Subsec. (a)(7). Pub. L. 101–163 substituted “To make other necessary expenditures including official reception and representation expenses” for “make other necessary expenditures”.
+1989—Subsec. (a)(7). Pub. L. 101–163 substituted “To make other necessary expenditures including official reception and representation expenses” for “make other necessary expenditures”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1105, 1106, 1151 of this title.
 

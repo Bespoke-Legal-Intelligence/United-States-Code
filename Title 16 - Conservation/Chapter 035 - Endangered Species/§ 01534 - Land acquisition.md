@@ -16,7 +16,7 @@ Funds made available pursuant to the Land and Water Conservation Fund Act of 196
 
 #### References in Text
 
-The Fish and Wildlife Act of 1956, as amended, referred to in subsec. (a)(1), is act Aug. 8, 1956, ch. 1036,70 Stat. 119, as amended, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+The Fish and Wildlife Act of 1956, as amended, referred to in subsec. (a)(1), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, as amended, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 The Fish and Wildlife Coordination Act, as amended, referred to in subsec. (a)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
@@ -27,8 +27,4 @@ The Land and Water Conservation Fund Act of 1965, as amended, referred to in sub
 #### Amendments
 
 1978—Subsec. (a). Pub. L. 95–632, among other changes in text preceding par. (1), inserted reference to the Secretary of Agriculture with respect to the National Forest System and substituted the establishment and implementation of a plan to conserve plants for the establishment and implementation of a plan to conserve plants which were concluded in Appendices to the Convention.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–9, 460iii–4 of this title.
 

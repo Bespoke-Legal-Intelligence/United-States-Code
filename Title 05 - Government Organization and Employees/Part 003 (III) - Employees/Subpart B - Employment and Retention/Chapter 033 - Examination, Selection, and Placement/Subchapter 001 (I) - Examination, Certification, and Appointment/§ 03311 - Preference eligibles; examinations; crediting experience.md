@@ -30,7 +30,3 @@ In paragraph (2), the words “material to the position for which examined” ar
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 3304, 3320 of this title; title 2 section 1316a; title 3 section 115; title 22 section 1438; title 49 section 40122.
-

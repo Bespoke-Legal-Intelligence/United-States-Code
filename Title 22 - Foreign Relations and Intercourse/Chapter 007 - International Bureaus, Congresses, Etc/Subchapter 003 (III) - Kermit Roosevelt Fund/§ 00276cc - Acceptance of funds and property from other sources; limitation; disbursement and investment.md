@@ -8,7 +8,3 @@ The board is also authorized to accept, receive, hold, and administer gifts, beq
 
 Section was formerly classified to section 226 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 276bb, 276ee of this title.
-

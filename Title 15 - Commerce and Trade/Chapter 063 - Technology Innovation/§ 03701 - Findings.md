@@ -160,7 +160,7 @@ Procedures.—(1) The chairman shall call the first meeting of the Commission wi
 
 “(3) The Commission may use such personnel detailed from Federal agencies as may be necessary to enable it to carry out its duties.
 
-“(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
+“(4) Members of the Commission, other than full-time employees of the Federal Government, while attendingmeetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
 “(e)
 
@@ -190,7 +190,7 @@ Establishment of Commission.—The Secretary, in consultation with the Administr
 
 Issues.—The Commission shall address the following issues:
 
-&emsp;“(1) To what extent, if any, should Federal Government technology purchase strategies be used to givedomestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
+&emsp;“(1) To what extent, if any, should Federal Government technology purchase strategies be used to give domestic suppliers a competitive advantage in new generations of existing technologies and in initial market penetration for new technologies?
 
 &emsp;“(2) Under what conditions can Federal Government purchases of advanced technology-based products be based on performance specifications rather than on product specifications? Should Federal Government procurement first look to the commercial markets for products that will meet performance specifications before purchasing a unique product that has to be developed?
 

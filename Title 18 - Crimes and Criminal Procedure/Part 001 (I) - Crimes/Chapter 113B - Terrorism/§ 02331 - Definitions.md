@@ -62,13 +62,13 @@ Par. (5). Pub. L. 107–56, §802(a)(2)–(4), added par. (5).
 
 Section 1003(c) of Pub. L. 102–572 provided that: “This section \[enacting this section and sections 2333 to 2338 of this title, amending former section 2331 of this title, and renumbering former section 2331 of this title as 2332\] and the amendments made by this section shall apply to any pending case or any cause of action arising on or after 4 years before the date of enactment of this Act \[Oct. 29, 1992\].”
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–458, title VI, §6601, Dec. 17, 2004, 118 Stat. 3761, provided that: “This subtitle \[subtitle G (§§6601–6604) of title VI of Pub. L. 108–458, enacting section 2339D of this title, amending sections 2332b and 2339A to 2339C of this title, and enacting provisions set out as a note under section 2332b of this title\] may be cited as the ‘Material Support to Terrorism Prohibition Enhancement Act of 2004’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–197, title I, §101, June 25, 2002, 116 Stat. 721, provided that: “This title \[enacting section 2332f of this title and provisions set out as notes under section 2332f of this title\] may be cited as the ‘Terrorist Bombings Convention Implementation Act of 2002’.”
 
 Pub. L. 107–197, title II, §201, June 25, 2002, 116 Stat. 724, provided that: “This title \[enacting section 2339C of this title and provisions set out as notes under section 2339C of this title\] may be cited as the ‘Suppression of the Financing of Terrorism Convention Implementation Act of 2002’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 1028, 1425, 1426, 1427, 1541, 1542, 1543, 1544, 1546, 1547, 3077 of this title; title 7 section 8401; title 20 sections 1232g, 6736, 9007, 9573; title 26 section 6103; title 28 section 530C; title 42 sections 262a, 10603c, 14503.
 

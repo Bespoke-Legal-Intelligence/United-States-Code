@@ -36,11 +36,11 @@ This section is designated to indicate when contractual rights of creditors or i
 
 First, the plan may propose not to alter the legal, equitable, or contractual rights to which the claim or interest entitled its holder.
 
-Second, a claim or interest is unimpaired by curing the effect of a default and reinstating the original terms of an obligation when maturity was brought on or accelerated by the default. The intervention of bankruptcy and the defaults represent a temporary crisis which the plan of reorganization is intended to clear away. The holder of a claim or interest who under theplan is restored to his original position, when others receive less or get nothing at all, is fortunate indeed and has no cause to complain. Curing of the default and the assumption of the debt in accordance with its terms is an important reorganization technique for dealing with a particular class of claims, especially secured claims.
+Second, a claim or interest is unimpaired by curing the effect of a default and reinstating the original terms of an obligation when maturity was brought on or accelerated by the default. The intervention of bankruptcy and the defaults represent a temporary crisis which the plan of reorganization is intended to clear away. The holder of a claim or interest who under the plan is restored to his original position, when others receive less or get nothing at all, is fortunate indeed and has no cause to complain. Curing of the default and the assumption of the debt in accordance with its terms is an important reorganization technique for dealing with a particular class of claims, especially secured claims.
 
 Third, a claim or interest is unimpaired if the plan provides for their payment in cash. In the case of a debt liability, the cash payment is for the allowed amount of the claim, which does not include a redemption premium. If it is an equity security with a fixed liquidation preference, such as a preferred stock, the allowed amount is such liquidation preference, with no redemption premium. With respect to any other equity security, such as a common stock, cash payment must be equal to the “value of such holder's interest in the debtor.”
 
-Section 1124 does not include payment “in property” other than cash. Except for a rare case, claims or interests are not by their terms payable in property, but a plan may so provide and those affected thereby may accept or reject the proposed plan. They may not be forced to accept a plan declaring the holders’ claims or interests to be “unimpaired.”
+Section 1124 does not include payment “in property” other than cash. Except for a rare case, claims or interests are not by their terms payable in property, but a plan may so provide and those affected thereby may accept or reject the proposed plan. They may not beforced to accept a plan declaring the holders’ claims or interests to be “unimpaired.”
 
 #### house report no. 95–595
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 901 of this title.
 

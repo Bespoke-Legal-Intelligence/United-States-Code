@@ -8,7 +8,3 @@ All moneys received by the Secretary of the Interior in the administration of le
 
 Section was not enacted as a part of act June 28, 1934, known as the Taylor Grazing Act, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 315m–1, 315m–2, 315m–3 of this title.
-

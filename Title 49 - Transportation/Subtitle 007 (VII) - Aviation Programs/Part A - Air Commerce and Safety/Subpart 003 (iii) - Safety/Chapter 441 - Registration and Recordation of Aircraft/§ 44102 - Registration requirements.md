@@ -10,7 +10,7 @@ Eligibility.—An aircraft may be registered under section 44103 of this title o
 
 &emsp;&emsp;(B) an individual citizen of a foreign country lawfully admitted for permanent residence in the United States; or
 
-&emsp;&emsp;(C) a corporation not a citizen of the United States when the corporation is organized and doing business under the laws of the United States or a State, and the aircraft is based and primarily used in the United States; or
+&emsp;&emsp;(C) a corporation not a citizen of the United States when the corporation is organized and doing business under the laws ofthe United States or a State, and the aircraft is based and primarily used in the United States; or
 
 &emsp;(2) an aircraft of—
 
@@ -51,8 +51,4 @@ Aug. 23, 1958, Pub. L. 85–726, §501(b), 72 Stat. 772; restated Nov. 9, 1977, 
 In subsection (a), before clause (1), the words “may be registered” are substituted for “shall be eligible for registration”, and the words “under section 44103 of this title” are added, for clarity. The words “only when” are substituted for “if, but only if” for consistency. In subclause (C), the words “not a citizen of the United States” are substituted for “(other than a corporation which is a citizen of the United States)” to eliminate unnecessary words. The word “lawfully” is omitted as surplus.
 
 In subsection (b), the words “In carrying out subsection (a)(1)(C) of this section” are added because of the restatement. The words “by regulation” are omitted as unnecessary because of 49:322(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44103, 44105, 44106, 46306 of this title.
 

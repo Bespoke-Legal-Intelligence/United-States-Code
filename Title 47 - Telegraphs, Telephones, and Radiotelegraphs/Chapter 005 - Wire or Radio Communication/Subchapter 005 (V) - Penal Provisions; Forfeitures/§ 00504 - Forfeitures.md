@@ -60,7 +60,3 @@ Amendment by act Aug. 6, 1956, effective Mar. 1, 1957, see section 4 of act Aug.
 
 Amendment by act Aug. 13, 1954, effective Nov. 13, 1954, see section 6 of act Aug. 13, 1954, set out as an Effective Date note under section 507 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 503 of this title.
-

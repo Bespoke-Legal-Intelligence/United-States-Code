@@ -14,7 +14,7 @@
 
 Section 14 of title 6, referred to in subsec. (a)(1), was repealed by Pub. L. 93–310, title II, §203(1), June 6, 1972, 86 Stat. 202.
 
-The reference to 36 Stat. 699; 40 U.S.C. 259, 267, in subsec. (a)(1), was probably meant to be a reference to section 3734 of the Revised Statutes. Section 33 of act June 25, 1910, ch. 383, which appears at 36 Stat. 699, amended generally section 3734 of the Revised Statutes which was classified to sections 259 and 267 of former Title 40, Public Buildings, Property, and Works. Section 3734 ofthe Revised Statutes was subsequently repealed by Pub. L. 86–249, §17(12), Sept. 9, 1959, 73 Stat. 485.
+The reference to 36 Stat. 699; 40 U.S.C. 259, 267, in subsec. (a)(1), was probably meant to be a reference to section 3734 of the Revised Statutes. Section 33 of act June 25, 1910, ch. 383, which appears at 36 Stat. 699, amended generally section 3734 of the Revised Statutes which was classified to sections 259 and 267 of former Title 40, Public Buildings, Property, and Works. Section 3734 of the Revised Statutes was subsequently repealed by Pub. L. 86–249, §17(12), Sept. 9, 1959, 73 Stat. 485.
 
 #### Codification
 
@@ -44,9 +44,7 @@ Pub. L. 99–500, §101(c) \[title IX, §9130\], Oct. 18, 1986, 100 Stat. 1783�
 
 Pub. L. 99–569, title V, §506, Oct. 27, 1986, 100 Stat. 3202, provided that: “Pursuant to the authority granted in section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j), the Director of Central Intelligence shall establish an undergraduate training program with respect to civilian employees of the Central Intelligence Agency similar in purpose, conditions, content, and administration to the program which the Secretary of Defense is authorized to establish under section 16 of the National Security Act of 1959 (50 U.S.C. 402 note) for civilian employees of the National Security Agency.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title; title 5 section 5948; title 31 sections 1344, 3524.
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

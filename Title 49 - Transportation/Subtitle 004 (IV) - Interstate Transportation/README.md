@@ -54,10 +54,6 @@ A prior subtitle IV, consisting of chapters 101 to 119, related to interstate co
 
 1997—Pub. L. 105–102, §2(5), Nov. 20, 1997, 111 Stat. 2204, struck out “AND TARIFFS” after “RATES” in item for chapter 155.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 521, 703, 721, 722, 723, 724, 727, 24301, 28301, 41309, 41502 of this title; title 7 section 225; title 11 sections 1166, 1169; title 15 sections 19, 21, 26, 44, 1681s, 1691c, 1692<i>l</i>; title 16 section 813; title 18 section 2341; title 28 sections 2321, 2323; title 29 section 1841; title 33 section 1507; title 42 sections 4916, 4917; title 45 sections 151, 157, 741, 791, 912, 1007, 1103, 1104, 1112; title 46 App. section 884; title 47 section 601; title 48 section 751.
-
 
 ---
 

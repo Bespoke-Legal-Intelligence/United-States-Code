@@ -16,7 +16,3 @@ Section 302 specifies that a joint case is commenced by the filing of a petition
 
 Subsection (b) requires the court to determine the extent, if any, to which the estates of the two debtors will be consolidated; that is, assets and liabilities combined in a single pool to pay creditors. Factors that will be relevant in the court's determination include the extent of jointly held property and the amount of jointly-owned debts. The section, of course, is not license to consolidate in order to avoid other provisions of the title to the detriment of either the debtors or their creditors. It is designed mainly for ease of administration.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 362, 365, 522, 541 of this title.
-

@@ -180,7 +180,7 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, and exploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, and strategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies’ independent exercise of their own existing authorities.
 
-(f) To better protect beaches, coasts, and the marine environment from pollution, the Environmental Protection Agency (EPA), relying upon existing Clean Water Act \[33 U.S.C. 1251 et seq.\] authorities, shall expeditiously propose new science-based regulations, as necessary, to ensure appropriate levels of protection for the marine environment. Such regulations may include the identification of areas that warrant additional pollution protections and the enhancement of marine water quality standards. The EPA shall consult with the Federal agencies identified in subsection 4(a) of this order, States, territories, tribes, and the public in the development of such new regulations.
+(f) To better protect beaches, coasts, and the marine environment from pollution, the Environmental Protection Agency (EPA), relying upon existing Clean Water Act \[33 U.S.C. 1251 et seq.\] authorities, shall expeditiously propose new science-based regulations, as necessary, to ensure appropriate levels of protection for the marine environment. Such regulations may include the identification of areas that warrant additional pollution protections and the enhancement of marinewater quality standards. The EPA shall consult with the Federal agencies identified in subsection 4(a) of this order, States, territories, tribes, and the public in the development of such new regulations.
 
 Sec. 5. <i>Agency Responsibilities</i>. Each Federal agency whose actions affect the natural or cultural resources that are protected by an MPA shall identify such actions. To the extent permitted by law and to the maximum extent practicable, each Federal agency, in taking such actions, shall avoid harm to the natural and cultural resources that are protected by an MPA. In implementing this section, each Federal agency shall refer to the MPAs identified under subsection 4(d) of this order.
 
@@ -195,8 +195,4 @@ Sec. 8. <i>General</i>. (a) Nothing in this order shall be construed as altering
 (c) This order does not create any right or benefit, substantive or procedural, enforceable in law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1432 of this title.
 

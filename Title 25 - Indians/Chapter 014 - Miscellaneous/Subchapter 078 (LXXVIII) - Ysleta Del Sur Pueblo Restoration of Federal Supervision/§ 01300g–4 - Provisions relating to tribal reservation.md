@@ -48,7 +48,3 @@ The State shall exercise civil and criminal jurisdiction within the boundaries o
 
 (Pub. L. 100–89, title I, §105, Aug. 18, 1987, 101 Stat. 667.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300g, 1300g–6 of this title.
-

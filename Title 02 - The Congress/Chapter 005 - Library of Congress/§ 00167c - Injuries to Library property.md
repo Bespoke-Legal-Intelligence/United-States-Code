@@ -4,9 +4,5 @@ It shall be unlawful to step or climb upon, remove, or in any way injure any sta
 
 (Aug. 4, 1950, ch. 561, §4, 64 Stat. 411.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167f, 167g, 167h, 167i, 167j of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “architectural”.</i>
 

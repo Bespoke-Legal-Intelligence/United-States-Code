@@ -140,7 +140,7 @@ Except as provided by subsection (c)(2)(E) of this section, a grant provided und
 
 &emsp;&emsp;(B) provide assistance to the tribe or tribal organization to overcome all stated objections;
 
-&emsp;&emsp;(C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under thesame rules and regulations that apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
+&emsp;&emsp;(C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
 
 &emsp;&emsp;(D) provide an opportunity to appeal the objection raised.
 
@@ -169,10 +169,6 @@ A prior section 2504, Pub. L. 100–297, title V, §5205, Apr. 28, 1988, 102 Sta
 #### Effective Date
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2502, 2505 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

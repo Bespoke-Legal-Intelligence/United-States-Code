@@ -32,7 +32,7 @@
 
 &emsp;(iv) prevails in obtaining forfeiture with respect to one or more of the other claims.
 
-(D) If the court enters judgment in part for the claimant and in part for the Government, thecourt shall reduce the award of costs and attorney fees accordingly.
+(D) If the court enters judgment in part for the claimant and in part for the Government, the court shall reduce the award of costs and attorney fees accordingly.
 
 (June 25, 1948, ch. 646, 62 Stat. 975; Pub. L. 106–185, §4(a), Apr. 25, 2000, 114 Stat. 211.)
 
@@ -55,8 +55,4 @@ The qualifying language of section 827 of title 28, U.S.C., 1940 ed., requiring 
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 983; title 26 section 7328.
 

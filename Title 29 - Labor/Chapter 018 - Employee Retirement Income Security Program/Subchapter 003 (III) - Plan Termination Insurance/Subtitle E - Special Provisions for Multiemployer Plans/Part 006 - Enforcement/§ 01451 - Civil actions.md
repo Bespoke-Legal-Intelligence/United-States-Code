@@ -40,7 +40,3 @@ A copy of the complaint in any action under this section or section 1401 of this
 
 Part effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1303, 1401 of this title; title 26 section 9721.
-

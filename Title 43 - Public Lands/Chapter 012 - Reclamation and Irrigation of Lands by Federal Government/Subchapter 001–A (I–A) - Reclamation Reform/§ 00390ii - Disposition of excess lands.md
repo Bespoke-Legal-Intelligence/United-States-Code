@@ -38,7 +38,3 @@ Excess lands which have been or may be disposed of in compliance with Federal re
 
 Federal reclamation law, referred to in subsecs. (a), (b), (e), and (f), is defined in section 390aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390cc, 390dd, 390ee of this title.
-

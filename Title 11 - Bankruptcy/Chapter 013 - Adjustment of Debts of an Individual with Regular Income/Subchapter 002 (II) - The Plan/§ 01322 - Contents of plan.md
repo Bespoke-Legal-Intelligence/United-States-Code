@@ -90,7 +90,3 @@ Amendment by section 301 of Pub. L. 103–394 effective Oct. 22, 1994, and not a
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1323, 1328, 1329 of this title.
-

@@ -66,7 +66,3 @@ Eligible Organizations.—The organizations eligible to receive services under t
 
 (Added Pub. L. 103–337, div. A, title III, §385(a), Oct. 5, 1994, 108 Stat. 2741.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 112 of this title; title 10 section 2012.
-

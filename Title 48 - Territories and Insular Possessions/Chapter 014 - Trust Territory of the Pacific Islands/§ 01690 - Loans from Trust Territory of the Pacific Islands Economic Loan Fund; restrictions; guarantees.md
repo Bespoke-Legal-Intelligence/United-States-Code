@@ -4,7 +4,3 @@ No loan or loan guarantee shall be made under sections 1688 to 1693 of this titl
 
 (Pub. L. 92–257, §3, Mar. 21, 1972, 86 Stat. 87.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1688 of this title.
-

@@ -4,7 +4,7 @@
 
 (b) The Postal Service may permit the transmission in the mails, under such rules and regulations as it shall prescribe as to preparation and packing, of any such articles which are not outwardly or of their own force dangerous or injurious to life, health, or property.
 
-(c) The Postal Service is authorized and directed to permit the transmission in the mails, under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall be construed to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
+(c) The Postal Service is authorized and directed to permit the transmission in the mails,under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall be construed to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
 
 (d) The transmission in the mails of poisonous drugs and medicines may be limited by the Postal Service to shipments of such articles from the manufacturer thereof or dealer therein to licensed physicians, surgeons, dentists, pharmacists, druggists, cosmetologists, barbers, and veterinarians under such rules and regulations as it shall prescribe.
 
@@ -32,7 +32,7 @@
 
 (j)(1) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, unless in accordance with the rules and regulations authorized to be prescribed by the Postal Service, shall be fined under this title or imprisoned not more than one year, or both.
 
-(2) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered bymail, according to the direction thereon or at any place to which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, whether or not transmitted in accordance with the rules and regulations authorized to be prescribed by the Postal Service, with intent to kill or injure another, or injure the mails or other property, shall be fined under this title or imprisoned not more than twenty years, or both.
+(2) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon or at any place to which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, whether or not transmitted in accordance with the rules and regulations authorized to be prescribed by the Postal Service, with intent to kill or injure another, or injure the mails or other property, shall be fined under this title or imprisoned not more than twenty years, or both.
 
 (3) Whoever is convicted of any crime prohibited by this section, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
 
@@ -42,7 +42,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §340 (Mar. 4, 1909. ch. 321, §217, 35 Stat. 1131; May 25, 1920, ch. 196, 41 Stat. 620; Jan. 11, 1929, ch. 53, 45 Stat. 1072; June 19, 1934, ch. 650, 48 Stat. 1063).
+Based on title 18, U.S.C., 1940 ed., §340 (Mar. 4, 1909. ch. 321, §217, 35 Stat. 1131; May 25, 1920, ch. 196, 41 Stat.620; Jan. 11, 1929, ch. 53, 45 Stat. 1072; June 19, 1934, ch. 650, 48 Stat. 1063).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -119,8 +119,4 @@ Amendment by Pub. L. 85–623 effective on sixtieth day after Aug. 12, 1958, see
 #### Hazardous Substances
 
 Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86–613, §17, July 12, 1960, 74 Stat. 380, set out as a note under section 1261 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 1583; title 39 section 3001.
 

@@ -10,7 +10,3 @@ For purposes of this subchapter, the critical capital level for each enterprise 
 
 (Pub. L. 102–550, title XIII, §1363, Oct. 28, 1992, 106 Stat. 3976.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4614 of this title.
-

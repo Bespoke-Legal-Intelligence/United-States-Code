@@ -34,7 +34,3 @@ The Administrator, in consultation with the Secretary of State and the heads of 
 
 (Pub. L. 96–283, title I, §118, June 28, 1980, 94 Stat. 574.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1403, 1419, 1461 of this title.
-

@@ -98,7 +98,3 @@ In subsection (b)(3), the words “by regulation” are omitted as unnecessary b
 
 In subsection (b)(4), the word “effectiveness” is substituted for “efficacy” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1131 of this title.
-

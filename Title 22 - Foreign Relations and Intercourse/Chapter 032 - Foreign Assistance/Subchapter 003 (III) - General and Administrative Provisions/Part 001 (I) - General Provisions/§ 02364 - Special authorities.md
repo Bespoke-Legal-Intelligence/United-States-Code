@@ -6,7 +6,7 @@
 
 (2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
 
-(3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+(3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairsand the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 (4)(A) The authority of this subsection may not be used in any fiscal year to authorize—
 
@@ -16,7 +16,7 @@
 
 &emsp;(iii) the use of more than $100,000,000 of foreign currencies accruing under this chapter or any other law.
 
-(B) If the authority of this subsection is used both to authorize a sale under the Arms Export Control Act and to authorize funds to be usedunder the Arms Export Control Act or under this chapter with respect to the financing of that sale, then the use of the funds shall be counted against the limitation in subparagraph (A)(ii) and the portion, if any, of the sale which is not so financed shall be counted against the limitation in subparagraph (A)(i).
+(B) If the authority of this subsection is used both to authorize a sale under the Arms Export Control Act and to authorize funds to be used under the Arms Export Control Act or under this chapter with respect to the financing of that sale, then the use of the funds shall be counted against the limitation in subparagraph (A)(ii) and the portion, if any, of the sale which is not so financed shall be counted against the limitation in subparagraph (A)(i).
 
 (C) Not more than $50,000,000 of the $250,000,000 limitation provided in subparagraph (A)(ii) may be allocated to any one country in any fiscal year unless that country is a victim of active aggression, and not more than $500,000,000 of the aggregate limitation of $1,000,000,000 provided in subparagraphs (A)(i) and (A)(ii) may be allocated to any one country in any fiscal year.
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151g, 2161, 2222, 2314, 2360, 2394, 2413, 2780, 3281 of this title.
 

@@ -36,7 +36,3 @@ Section 3524(b) of Pub. L. 104–201 provided that: “Nothing in this section \
 
 &emsp;“(2) until modified under section 1104(b) of the Panama Canal Act of 1979 \[subsec. (b) of this section\], as amended by subsection (a), the compensation of the individual so serving.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3642 of this title.
-

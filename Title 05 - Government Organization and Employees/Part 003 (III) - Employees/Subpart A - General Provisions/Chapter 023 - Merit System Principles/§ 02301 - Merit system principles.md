@@ -188,7 +188,7 @@ Employee Training.—Each Federal agency shall provide to the employees of such 
 
 “(a)
 
-Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
+Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
 
 &emsp;“(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
@@ -252,7 +252,7 @@ Agency Notification Regarding Implementation of Guidelines.—Not later than 30 
 
 “Consistent with Federal law, nothing in this title shall prevent any Federal employee, former Federal employee, or applicant for Federal employment from exercising any right otherwise available under the laws of the United States.
 
-#### “SEC. 206. STUDIES BY GENERAL ACCOUNTING OFFICE ON EXHAUSTION OF ADMINISTRATIVE REMEDIES AND ON ASCERTAINMENT OF CERTAIN DEPARTMENT OF JUSTICE COSTS.
+#### “SEC. 206. STUDIES BY GENERAL ACCOUNTING OFFICE \[now GOVERNMENT ACCOUNTABILITY OFFICE\] ON EXHAUSTION OF ADMINISTRATIVE REMEDIES AND ON ASCERTAINMENT OF CERTAIN DEPARTMENT OF JUSTICE COSTS.
 
 “(a)
 
@@ -264,7 +264,7 @@ Study.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office shall conduct a study relating to the effects of eliminating the requirement that Federal employees aggrieved by violations of any of the laws specified under section 201(c) exhaust administrative remedies before filing complaints with the Equal Employment Opportunity Commission.
+In general.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study relating to the effects of eliminating the requirement that Federal employees aggrieved by violations of any of the laws specified under section 201(c) exhaust administrative remedies before filing complaints with the Equal Employment Opportunity Commission.
 
 &emsp;&emsp;“(B)
 
@@ -276,11 +276,11 @@ Contents.—The study shall include a detailed summary of matters investigated, 
 
 &emsp;&emsp;&emsp;“(iii) affect established alternative dispute resolution procedures in such agencies; and
 
-&emsp;&emsp;&emsp;“(iv) affect any other matters determined by the General Accounting Office to be appropriate for consideration.
+&emsp;&emsp;&emsp;“(iv) affect any other matters determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
 &emsp;“(2)
 
-Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a report containing the information required to be included in such study.
+Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment OpportunityCommission, and the Attorney General a report containing the information required to be included in such study.
 
 “(b)
 
@@ -288,11 +288,11 @@ Study on Ascertainment of Certain Costs of the Department of Justice in Defendin
 
 &emsp;“(1)
 
-Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
+Study.—Not later than 180 days after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study of the methods that could be used for, and the extent of any administrative burden that would be imposed on, the Department of Justice to ascertain the personnel and administrative costs incurred in defending in each case arising from a proceeding identified under section 201(a)(1) and (2).
 
 &emsp;“(2)
 
-Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
+Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report containing the information required to be included in the study.
 
 “(c)
 
@@ -300,7 +300,7 @@ Studies on Statutory Effects on Agency Operations.—
 
 &emsp;“(1)
 
-In general.—Not later than 18 months after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office shall conduct—
+In general.—Not later than 18 months after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct—
 
 &emsp;&emsp;“(A) a study on the effects of section 201 on the operations of Federal agencies; and
 
@@ -324,11 +324,11 @@ Contents.—Each study under paragraph (1) shall include, with respect to the ap
 
 &emsp;&emsp;&emsp;“(iv) settlements; and
 
-&emsp;&emsp;&emsp;“(v) any other matter determined by the General Accounting Office to be appropriate for consideration.
+&emsp;&emsp;&emsp;“(v) any other matter determined by the General Accounting Office \[now Government Accountability Office\] to be appropriate for consideration.
 
 &emsp;“(3)
 
-Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the Attorney General.
+Reports.—Not later than 90 days after the completion of each study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on each study, respectively, to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, and the Attorney General.
 
 “(d)
 
@@ -336,7 +336,7 @@ Study on Administrative and Personnel Costs Incurred by the Department of the Tr
 
 &emsp;“(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office shall conduct a study on the extent of any administrative and personnel costs incurred by the Department of the Treasury to account for payments made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under section 1304 of title 31, United States Code, as a result of—
+In general.—Not later than 1 year after the date of enactment of this Act \[May 15, 2002\], the General Accounting Office \[now Government Accountability Office\] shall conduct a study on the extent of any administrative and personnel costs incurred by the Department of the Treasury to account for payments made in accordance with section 2414, 2517, 2672, or 2677 of title 28, United States Code, and under section 1304 of title 31, United States Code, as a result of—
 
 &emsp;&emsp;“(A) this Act; and
 
@@ -344,7 +344,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 &emsp;“(2)
 
-Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs of the Senate, the Committee on Government Reform of the House of Representatives, and the Attorney General.
+Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform of the House of Representatives, and the Attorney General.
 
 #### “TITLE III—EQUAL EMPLOYMENT OPPORTUNITY COMPLAINT DATA DISCLOSURE
 
@@ -390,7 +390,7 @@ Content Requirements.—The data posted by a Federal agency under this section s
 
 &emsp;&emsp;&emsp;“(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
 
-&emsp;&emsp;&emsp;“(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
+&emsp;&emsp;&emsp;“(ii) the number and percentage that were rendered after a hearing before an administrativejudge of the Equal Employment Opportunity Commission.
 
 &emsp;“(9) Of the total number of final agency actions rendered in such fiscal year involving a finding of discrimination—
 
@@ -455,8 +455,4 @@ Coordination.—The data required under this section shall be in addition to the
 \[For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.\]
 
 \[Memorandum of President of the United States, July 8, 2003, 68 F.R. 45155, delegated to Director of Office of Personnel Management authority of President under section 204(a) of Public Law 107–174, set out above.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 4107, 4313, 5379, 5406, 9701, 9902 of this title; title 6 section 461; title 10 sections 1612, 1722; title 22 section 3902; title 31 section 732; title 41 section 433; title 50 section 2701.
 

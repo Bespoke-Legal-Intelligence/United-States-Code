@@ -32,9 +32,5 @@ Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. 
 
 “Department of Energy” substituted for “Energy Research and Development Administration” in subsec. (a), and “Secretary of Energy” substituted for “Administrator” wherever appearing, pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2502, 2504, 2507 of this title; title 42 section 2473.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

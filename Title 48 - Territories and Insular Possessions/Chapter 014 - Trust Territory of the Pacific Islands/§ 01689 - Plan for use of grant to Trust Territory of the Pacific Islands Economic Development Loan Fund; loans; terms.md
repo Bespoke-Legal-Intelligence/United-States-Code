@@ -4,7 +4,3 @@ The grant authorized by section 1688 of this title shall be made only after the 
 
 (Pub. L. 92–257, §2, Mar. 21, 1972, 86 Stat. 87.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1688, 1690, 1691 of this title.
-

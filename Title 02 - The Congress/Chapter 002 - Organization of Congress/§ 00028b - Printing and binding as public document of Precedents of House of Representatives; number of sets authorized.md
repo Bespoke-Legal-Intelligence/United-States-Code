@@ -10,7 +10,3 @@
 
 The Legislative Branch Appropriation Act, 1966, referred to in text, is Pub. L. 89–90, July 27, 1965, 79 Stat. 265. For complete classification of this Act to the Code, see Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 28e of this title.
-

@@ -8,7 +8,3 @@ It shall be unlawful in the consular districts of the United States in China for
 
 Section is comprised of part of section 1 of act Mar. 3, 1915. Remainder of such section 1 is classified to section 202 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 202 of this title.
-

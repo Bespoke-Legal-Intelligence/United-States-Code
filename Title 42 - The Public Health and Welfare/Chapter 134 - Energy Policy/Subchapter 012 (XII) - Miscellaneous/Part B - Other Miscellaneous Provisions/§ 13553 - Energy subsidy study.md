@@ -16,7 +16,7 @@ Not later than 18 months after October 24, 1992, the Secretary shall transmit to
 
 #### (1) In general
 
-&emsp;The study shall identify and quantify the direct and indirect subsidies and other legal andinstitutional factors that influence decisions in the marketplace concerning fuels and energy technologies.
+&emsp;The study shall identify and quantify the direct and indirect subsidies and other legal and institutional factors that influence decisions in the marketplace concerning fuels and energy technologies.
 
 #### (2) Topics for examination
 

@@ -22,7 +22,3 @@ Of the amount of funds made available to a recipient of funds under this part fo
 
 (Pub. L. 89–10, title II, §2404, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1673.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6761, 6771 of this title.
-

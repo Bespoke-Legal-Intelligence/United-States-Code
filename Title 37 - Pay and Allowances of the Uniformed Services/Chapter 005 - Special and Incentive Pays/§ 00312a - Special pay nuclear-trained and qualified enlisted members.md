@@ -12,7 +12,7 @@
 
 (b) Bonus payments authorized under this section may be paid in either a lump sum or in installments.
 
-(c) An amount paid to a member under subsection (a) is in addition to all other compensation to which he is entitled and does not countagainst the limitation prescribed by section 308(a) of this title concerning the total amount of reenlistment bonus that may be paid.
+(c) An amount paid to a member under subsection (a) is in addition to all other compensation to which he is entitled and does not count against the limitation prescribed by section 308(a) of this title concerning the total amount of reenlistment bonus that may be paid.
 
 (d) Under regulations prescribed by the Secretary of the Navy, refunds, on a pro rata basis, of sums paid under subsection (a) may be required, and further payments terminated, if the member who has received the payment fails to complete his reenlistment contract or fails to maintain his technical qualification for duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants.
 
@@ -31,8 +31,4 @@ This amends 37:312a(c) to reflect the amendment made to 37:308 by section 2 of t
 1991—Subsecs. (c), (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 1982—Subsec. (c). Pub. L. 97–295 substituted “section 308(a)” for “section 308(c)” and struck out provision that a member receiving payment under this section is not entitled to any further payments under section 308(g) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 308 of this title.
 

@@ -28,7 +28,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(D) Remodeling, adding to, reconstructing, or demolishing any part of the mortgaged property or subtracting from any real or personal property of the project, without the prior written approval of the Secretary.
 
-&emsp;&emsp;(E) Requiring, as a condition of the occupancy or leasing of any unit in the project, any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
+&emsp;&emsp;(E) Requiring, as a condition of the occupancy or leasing of any unit in the project,any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
 
 &emsp;&emsp;(F) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account, the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
 
@@ -78,7 +78,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the Secretary's order or determination be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (d)(1) of this section, a mortgagor against whom the Secretary has imposed a civil money penalty under subsection (b) or (c) of this section may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (d)(1)(A) of this section in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petitionpraying that the Secretary's order or determination be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
@@ -121,8 +121,4 @@ Section was enacted as part of the Housing Act of 1959, and not as part of the N
 #### Effective Date
 
 Section 109(b) of Pub. L. 101–235 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1715z–1a of this title.
 

@@ -46,7 +46,3 @@ Coast Guard transferred to Department of Transportation and functions, powers, a
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Such plan excepted from transfer functions of Coast Guard and Commandant thereof when Coast Guard is operating as a part of the Navy under section 1 and 3 of Title 14, Coast Guard.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8312; title 38 section 6105; title 50 App. section 34.
-

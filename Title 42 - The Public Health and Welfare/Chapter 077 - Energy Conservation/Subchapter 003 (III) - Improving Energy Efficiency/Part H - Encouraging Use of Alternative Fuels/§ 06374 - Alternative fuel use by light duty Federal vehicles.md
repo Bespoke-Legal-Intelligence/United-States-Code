@@ -8,7 +8,7 @@
 
 (3)(A) To the extent practicable, the Secretary shall acquire both dedicated and dual fueled vehicles, and shall ensure that each type of alternative fueled vehicle is used by the Federal Government.
 
-(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquiredif, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
+(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquired if, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
 
 (C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or not original equipment manufacturer warranties still apply.
 
@@ -136,7 +136,7 @@ Subsec. (b)(1)(A). Pub. L. 102–486, §309, substituted “a representative sam
 
 Subsec. (b)(3) to (5). Pub. L. 102–486, §302(a)(4), added pars. (3) to (5).
 
-Subsec. (c). Pub. L. 102–486, §302(a)(5), in introductory provisions substituted “alternative fuels, such fuels”for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
+Subsec. (c). Pub. L. 102–486, §302(a)(5), in introductory provisions substituted “alternative fuels, such fuels” for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
 
 Subsec. (d)(2)(B). Pub. L. 102–486, §302(a)(6), substituted “To the extent that appropriations are available for such purposes, the Secretary” for “The Secretary”.
 
@@ -156,6 +156,8 @@ Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prio
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination Date
@@ -166,7 +168,7 @@ Section 4(b) of Pub. L. 100–494, which provided that this section and the amen
 
 Section 2 of Pub. L. 100–494 provided that: “The Congress finds and declares that—
 
-&emsp;“(1) the achievement of long-term energy security for the United States is essential to the health of the national economy, the well-being of our citizens, and the maintenance of national security;
+&emsp;“(1) the achievement of long-term energy security for the United States is essential to the health of thenational economy, the well-being of our citizens, and the maintenance of national security;
 
 &emsp;“(2) the displacement of energy derived from imported oil with alternative fuels will help to achieve energy security and improve air quality;
 
@@ -195,8 +197,4 @@ Section 3 of Pub. L. 100–494 provided that: “The purpose of this Act \[see S
 #### Use of Nonstandard Fuels
 
 Section 5 of Pub. L. 100–494 provided that: “No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act (42 U.S.C. 7545(f)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13212 of this title.
 

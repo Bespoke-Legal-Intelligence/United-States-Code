@@ -28,7 +28,7 @@ The Committee shall—
 
 &emsp;(4) develop and recommend to the Secretary standards and criteria for specific categories of vocational training institutions and institutions of higher education for which there are no recognized accrediting agencies, associations, or State agencies, in order to establish the eligibility of such institutions on an interim basis for participation in federally funded programs;
 
-&emsp;(5) advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV of this chapter and part C of subchapter Iof chapter 34 of title 42, together with recommendations for improvements in such process;
+&emsp;(5) advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, together with recommendations for improvements in such process;
 
 &emsp;(6) advise the Secretary with respect to the relationship between—
 

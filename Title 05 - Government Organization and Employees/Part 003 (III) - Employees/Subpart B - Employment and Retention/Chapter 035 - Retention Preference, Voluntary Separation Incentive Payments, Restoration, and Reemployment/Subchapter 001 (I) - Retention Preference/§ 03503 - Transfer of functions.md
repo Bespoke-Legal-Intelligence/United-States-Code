@@ -40,7 +40,3 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3595 of this title; title 10 section 1586; title 16 section 460<i>lll</i>–47; title 22 section 1438; title 24 section 225d.
-

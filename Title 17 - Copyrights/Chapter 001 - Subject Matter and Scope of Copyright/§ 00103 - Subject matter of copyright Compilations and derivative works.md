@@ -16,7 +16,3 @@ Between them the terms “compilations” and “derivative works” which are d
 
 The second part of the sentence that makes up section 103(a) deals with the status of a compilation or derivative work unlawfully employing preexisting copyrighted material. In providing that protection does not extend to “any part of the work in which such material has been used unlawfully,” the bill prevents an infringer from benefiting, through copyright protection, from committing an unlawful act, but preserves protection for those parts of the work that do not employ the preexisting work. Thus, an unauthorized translation of a novel could not be copyrighted at all, but the owner of copyright in an anthology of poetry could sue someone who infringed the whole anthology, even though the infringer proves that publication of one of the poems was unauthorized. Under this provision, copyright could be obtained as long as the use of the preexisting work was not “unlawful,” even though the consent of the copyright owner had not been obtained. For instance, the unauthorized reproduction of a work might be “lawful” under the doctrine of fair use or an applicable foreign law, and if so the work incorporating it could be copyrighted.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 301 of this title; title 19 section 2242.
-

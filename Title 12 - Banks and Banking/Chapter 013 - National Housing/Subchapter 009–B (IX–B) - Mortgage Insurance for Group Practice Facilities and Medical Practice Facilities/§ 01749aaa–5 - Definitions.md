@@ -18,7 +18,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(B) a private nonprofit agency or organization, established for the purpose of improving the availability of medical, osteopathic, optometric, dental or podiatric care in the community or having some function or functions related to the provision of such care, which will, through lease or other arrangement, make the group practice facility with respect to which assistance has been requested under this subchapter available to a medical or dental group for use by it.
 
-&emsp;(5) The term “nonprofit organization” means a corporation, association, foundation, trust, or other organization no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual except, in the case of anorganization the purposes of which include the provision of personal health services to its members or subscribers or their dependents under a plan of such organization for the provision of such services to them (which plan may include the provision of other services or insurance benefits to them), through the provision of such health services (or such other services or insurance benefits) to such members or subscribers or dependents under such plan.
+&emsp;(5) The term “nonprofit organization” means a corporation, association, foundation, trust, or other organization no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual except, in the case of an organization the purposes of which include the provision of personal health services to its members or subscribers or their dependents under a plan of such organization for the provision of such services to them (which plan may include the provision of other services or insurance benefits to them), through the provision of such health services (or such other services or insurance benefits) to such members or subscribers or dependents under such plan.
 
 &emsp;(6) The term “State” includes the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the District of Columbia.
 
@@ -41,8 +41,4 @@ Par. (3). Pub. L. 93–383, §312(a)(6), (b)(2), redesignated former par. (2) as
 Par. (4). Pub. L. 93–383, §312(a)(6), (b)(3), (4), redesignated former par. (3) as par. (4) and in cls. (A) and (B) inserted references to osteopathic care and podiatric care wherever appearing. Former par. (4) redesignated (5).
 
 Pars. (5) to (9). Pub. L. 93–383, §312(a)(6), redesignated former pars. (4) to (8) as pars. (5) to (9), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1735f–19, 1749aaa–4 of this title.
 

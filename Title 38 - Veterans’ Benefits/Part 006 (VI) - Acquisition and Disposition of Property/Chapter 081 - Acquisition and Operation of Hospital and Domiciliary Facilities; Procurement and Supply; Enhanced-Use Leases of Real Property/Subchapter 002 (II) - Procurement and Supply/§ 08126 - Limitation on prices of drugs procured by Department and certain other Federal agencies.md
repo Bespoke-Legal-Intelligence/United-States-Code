@@ -4,7 +4,7 @@
 
 &emsp;(1) beginning January 1, 1993, the manufacturer shall make available for procurement on the Federal Supply Schedule of the General Services Administration each covered drug of the manufacturer;
 
-&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceedsuch amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
+&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
 
 &emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the price charged under the Federal Supply Schedule at the time the drug is procured; and
 
@@ -46,7 +46,7 @@
 
 (2) The provisions of subparagraphs (B) and (C) of section 1927(b)(3) of the Social Security Act shall apply to drugs described in paragraph (1) and the Secretary in the same manner as such provisions apply to covered outpatient drugs and the Secretary of Health and Human Services under such subparagraphs, except that references in such subparagraphs to prices or information reported or required under “subparagraph (A)” shall be deemed to refer to information reported under paragraph (1).
 
-(3) In order to determine the accuracy of a drug price that is reported to the Secretary under paragraph (1), the Secretary may audit the relevant records of the manufacturer or of any wholesaler that distributes the drug, and may delegate the authority to audit such records to the appropriate Federal agency described in subsection (b).
+(3) In order to determine the accuracy of a drug price that is reported to the Secretaryunder paragraph (1), the Secretary may audit the relevant records of the manufacturer or of any wholesaler that distributes the drug, and may delegate the authority to audit such records to the appropriate Federal agency described in subsection (b).
 
 (4) Any information contained in a report submitted to the Secretary under paragraph (1) or obtained by the Secretary through any audit conducted under paragraph (3) shall remain confidential, except as the Secretary determines necessary to carry out this section and to permit the Comptroller General and the Director of the Congressional Budget Office to review the information provided.
 
@@ -58,7 +58,7 @@
 
 (g)(1) Any reference in this section to a provision of the Social Security Act shall be deemed to be a reference to the provision as in effect on November 4, 1992.
 
-(2) A manufacturer is deemed to meet the requirements of subsection (a) if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after the enactment of this section), and would have enteredinto an agreement under this section (as such section was in effect at such time), but for a legislative change in this section after November 4, 1992.
+(2) A manufacturer is deemed to meet the requirements of subsection (a) if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after the enactment of this section), and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section after November 4, 1992.
 
 (h) In this section:
 
@@ -108,7 +108,7 @@
 
 (i)(1) If the Secretary modifies a multi-year contract described in subsection (d) to include a covered drug of the manufacturer that was not available for inclusion under the contract at the time the contract went into effect, the price of the drug shall be determined as follows:
 
-&emsp;(A) For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordance with subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
+&emsp;(A) For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordancewith subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
 
 &emsp;(B) For any subsequent contract year, the price of the drug shall be determined in accordance with subsection (d), except that each reference in such subsection to “the first year for which the contract is in effect” shall be considered a reference to the portion of the first contract year during which the drug is included under the contract.
 
@@ -155,8 +155,4 @@ Section 1(b) of Pub. L. 103–18 provided that: “The amendments made by subsec
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1396r–8.
 

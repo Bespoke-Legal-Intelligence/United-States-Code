@@ -48,7 +48,7 @@ Provisions somewhat similar to those in par. (1) of this section were contained 
 
 1993—Pub. L. 103–182, §655(1), (5), substituted catchline for one which read “Vessels not required to enter” and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The following vessels shall not be required to make entry at the customhouse:”.
 
-Par. (3). Pub. L. 103–182, §655(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Vessels carrying passengers on excursion from the United States Virgin Islands to the British Virgin Islands and returning, and licensed yachts or undocumented American pleasure vessels not engaged in trade: <i>Provided</i>, That such vessels do not in any way violate the customs or navigation laws of the United States and have not visited any hovering vessel: <i>Provided further</i>, That the master of any such vessel which has on board any article required by law to be entered shall be required to report such article to the appropriate customs officer within twenty-four hours after arrival.”
+Par. (3). Pub. L. 103–182, §655(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Vessels carrying passengers on excursion from theUnited States Virgin Islands to the British Virgin Islands and returning, and licensed yachts or undocumented American pleasure vessels not engaged in trade: <i>Provided</i>, That such vessels do not in any way violate the customs or navigation laws of the United States and have not visited any hovering vessel: <i>Provided further</i>, That the master of any such vessel which has on board any article required by law to be entered shall be required to report such article to the appropriate customs officer within twenty-four hours after arrival.”
 
 Pars. (4), (5). Pub. L. 103–182, §655(3), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 106–476, except as otherwise provided, applicable with re
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands onor after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands on or after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -85,8 +85,4 @@ Section 2 of act Aug. 14, 1937, provided as follows: “The amendment made by th
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1448 of this title.
 

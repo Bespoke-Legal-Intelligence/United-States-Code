@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 115 of this title.
-
 
 ---
 
@@ -27,3 +23,4 @@ This subchapter is referred to in section 115 of this title.
 - [&sect; 08115 - Acceptance of certain property](%C2%A7%2008115%20-%20Acceptance%20of%20certain%20property.md)
 - [&sect; 08116 - Nursing home revolving fund](%C2%A7%2008116%20-%20Nursing%20home%20revolving%20fund.md)
 - [&sect; 08117 - Emergency preparedness](%C2%A7%2008117%20-%20Emergency%20preparedness.md)
+- [&sect; 08118 - Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund](%C2%A7%2008118%20-%20Authority%20for%20transfer%20of%20real%20property%3B%20Department%20of%20Veterans%20Affairs%20Capital%20Asset%20Fund.md)

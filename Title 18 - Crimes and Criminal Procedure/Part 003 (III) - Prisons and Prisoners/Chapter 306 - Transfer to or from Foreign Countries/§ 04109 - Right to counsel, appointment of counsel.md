@@ -20,9 +20,5 @@
 
 1982—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes as amended (31 U.S.C. 529)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3006A, 4100 of this title; title 28 section 636.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section 3006A of this title;”. See 1990 Amendment note below.</i>
 

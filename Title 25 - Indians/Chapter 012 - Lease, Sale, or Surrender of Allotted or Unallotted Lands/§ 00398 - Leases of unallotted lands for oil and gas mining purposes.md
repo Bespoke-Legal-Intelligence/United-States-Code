@@ -4,7 +4,3 @@ Unallotted land on Indian reservations other than lands of the Five Civilized Tr
 
 (May 29, 1924, ch. 210, 43 Stat. 244.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 398a of this title.
-

@@ -86,7 +86,3 @@ Subsec. (j). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (j) which relate
 
 For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8323, 8471 of this title.
-

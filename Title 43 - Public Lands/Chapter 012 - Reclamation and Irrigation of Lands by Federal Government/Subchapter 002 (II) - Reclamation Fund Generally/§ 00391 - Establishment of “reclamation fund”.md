@@ -30,9 +30,5 @@ Previously, references to register and receiver changed to register by acts Mar.
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390g, 390h, 391a, 391a–1, 455b, 2226 of this title; title 33 section 1300.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -13,7 +13,7 @@
 | (b) | Functions. |
 | (c) | Procurement authority. |
 | (d) | Policy authority. |
-| (e) | Membership on Joint Nuclear Weapons Council. |
+| (e) | Membership on Nuclear Weapons Council. |
 | (f) | Reorganization authority. |
 | [2403\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002403%20-%20Principal%20Deputy%20Administrator%20for%20Nuclear%20Security.md) | Principal Deputy Administrator for Nuclear Security. |
 | (a) | In general. |
@@ -102,6 +102,9 @@
 | (b) | Elements. |
 | (c) | Consistency in budgeting. |
 | (d) | Treatment of management contingencies. |
+| [2454\.](Subchapter%20004%20%28IV%29%20-%20Budget%20and%20Financial%20Management/%C2%A7%2002454%20-%20Semiannual%20financial%20reports%20on%20defense%20nuclear%20nonproliferation%20programs.md) | Semiannual financial reports on defense nuclear nonproliferation programs. |
+| (a) | Semiannual reports required. |
+| (b) | Contents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

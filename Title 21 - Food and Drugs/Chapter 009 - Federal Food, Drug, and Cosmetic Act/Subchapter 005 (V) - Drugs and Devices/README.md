@@ -10,3 +10,4 @@
 - [Part C - Electronic Product Radiation Control](Part%20C%20-%20Electronic%20Product%20Radiation%20Control/README.md)
 - [Part D - Dissemination of Treatment Information](Part%20D%20-%20Dissemination%20of%20Treatment%20Information/README.md)
 - [Part E - General Provisions Relating to Drugs and Devices](Part%20E%20-%20General%20Provisions%20Relating%20to%20Drugs%20and%20Devices/README.md)
+- [Part F - New Animal Drugs for Minor Use and Minor Species](Part%20F%20-%20New%20Animal%20Drugs%20for%20Minor%20Use%20and%20Minor%20Species/README.md)

@@ -58,7 +58,3 @@ Subsec. (h) of this section amended section 1114 of Title 18, Crimes and Crimina
 
 Subsecs. (b) to (d), (i). Pub. L. 101–508, §3101(2), substituted “$7,000” for “$1,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 659, 660, 667 of this title.
-

@@ -14,7 +14,3 @@ The Director, with the approval of the Attorney General, may indemnify the conse
 
 (Pub. L. 102–550, title XIII, §1369B, Oct. 28, 1992, 106 Stat. 3984.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4620 of this title.
-

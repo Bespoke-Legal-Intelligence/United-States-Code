@@ -10,7 +10,3 @@ The NAIC may assess the Association for any costs that the NAIC incurs under thi
 
 (Pub. L. 106–102, title III, §329, Nov. 12, 1999, 113 Stat. 1430.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
-

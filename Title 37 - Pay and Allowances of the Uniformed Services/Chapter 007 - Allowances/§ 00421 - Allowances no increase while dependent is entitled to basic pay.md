@@ -24,7 +24,3 @@ The words “of a uniformed service” are inserted for clarity. The words “cl
 
 A prior section 421, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–132, §3(b), Oct. 2, 1963, 77 Stat. 212, provided for pay and allowances of contract surgeons, prior to repeal by Pub. L. 98–94, title IX, §932(e)(1), Sept. 24, 1983, 97 Stat. 650, eff. Oct. 1, 1983. See section 1091 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403, 406b, 427 of this title.
-

@@ -36,7 +36,3 @@ In subsection (a), words “as an organization” are omitted as unnecessary.
 
 In subsection (b), the words “real or personal” are omitted as unnecessary and for consistency in the revised title. The words “not reasonably necessary to carry out the purposes of the corporation” are substituted for “except such as may be reasonably necessary to carry out the purposes of its creation as defined in this chapter” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 22504 of this title.
-

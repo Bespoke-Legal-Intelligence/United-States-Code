@@ -16,7 +16,3 @@ If the Federal estimate of the cost of—
 
 A prior section 5189, Pub. L. 93–288, title IV, §419, May 22, 1974, 88 Stat. 159, related to alternate contributions, prior to repeal by Pub. L. 100–707, §106(k).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5154, 5159, 5172 of this title.
-

@@ -14,7 +14,7 @@ Each application shall include—
 
 &emsp;(3) a listing of human, financial (other than funds provided under this subpart), and other resources that each member of the partnership will contribute to the partnership, and a description of the efforts each member of the partnership will make in seeking additional resources; and
 
-&emsp;(4) a description of how the project will operate, including how funds awarded under this subpart will be used to meet the purpose of this subpart.
+&emsp;(4) a description of how the project will operate, including how funds awarded under thissubpart will be used to meet the purpose of this subpart.
 
 (Pub. L. 89–329, title IV, §420F, as added Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1672.)
 

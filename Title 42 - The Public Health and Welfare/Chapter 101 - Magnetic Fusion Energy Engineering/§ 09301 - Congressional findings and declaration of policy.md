@@ -4,7 +4,7 @@
 
 &emsp;(1) the United States must formulate an energy policy designed to meet an impending worldwide shortage of many exhaustible, conventional energy resources in the next few decades;
 
-&emsp;(2) the energy policy of the United States must be designed to ensure that energy technologies using essentially inexhaustible resources are commercially available at a timeprior to serious depletion of conventional resources;
+&emsp;(2) the energy policy of the United States must be designed to ensure that energy technologies using essentially inexhaustible resources are commercially available at a time prior to serious depletion of conventional resources;
 
 &emsp;(3) fusion energy is one of the few known energy sources which are essentially inexhaustible, and thus constitutes a long-term energy option;
 

@@ -36,10 +36,6 @@
 
 1973—Pub. L. 93–87, title II, §230(b), Aug. 13, 1973, 87 Stat. 294, added item 405.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 110 of this title; title 49 sections 104, 105.
-
 
 ---
 

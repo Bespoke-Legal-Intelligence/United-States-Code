@@ -15,10 +15,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1701, 1704 of this title; title 33 section 941; title 50 App. section 2003.
-
 
 ---
 

@@ -14,7 +14,3 @@ There are authorized to be appropriated for the hiring of additional Drug Enforc
 
 (Pub. L. 103–322, title XVIII, §180104, Sept. 13, 1994, 108 Stat. 2046.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

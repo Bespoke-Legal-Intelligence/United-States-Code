@@ -106,13 +106,9 @@ Subject to subsection (b) of this section, with respect to health care items and
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles V, XVIII, XIX, and XX of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XVIII, XIX, and XX of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (d)(1)(E), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (d)(1)(F), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14403, 14404, 14405, 14406 of this title.
+The Indian Health Care Improvement Act, referred to in subsec. (d)(1)(F), is Pub. L. 94–437, Sept. 30, 1976, 90Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 

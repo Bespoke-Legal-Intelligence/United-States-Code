@@ -14,7 +14,7 @@ This subchapter shall not grant or restore any hunting, fishing, or trapping rig
 
 #### (d) Effect on property rights or obligations, contractual rights or obligations, or obligations for taxes
 
-Except as specifically provided in this subchapter, nothing in this subchapter shall alter any property right or obligation, any contractual right or obligations, or any obligation for taxes already levied.
+Except as specifically provided in this subchapter, nothing in this subchapter shall alterany property right or obligation, any contractual right or obligations, or any obligation for taxes already levied.
 
 (Pub. L. 96–227, §3, Apr. 3, 1980, 94 Stat. 317.)
 

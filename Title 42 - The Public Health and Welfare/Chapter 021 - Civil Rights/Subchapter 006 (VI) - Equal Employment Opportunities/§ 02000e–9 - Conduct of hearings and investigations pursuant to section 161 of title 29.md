@@ -8,7 +8,3 @@ For the purpose of all hearings and investigations conducted by the Commission o
 
 1972—Pub. L. 92–261 substituted provisions making applicable section 161 of title 29 to all hearings and investigations conducted by the Commission or its authorized agents or agencies, for provisions enumerating the investigatory powers of the Commission and the procedure for their enforcement.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12117 of this title.
-

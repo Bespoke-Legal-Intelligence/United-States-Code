@@ -36,7 +36,7 @@ Within 15 months after the date of the establishment of the Commission, it shall
 
 &emsp;(4) the consideration of, and allowance for, variations among, and contingencies in, fisheries and catches;
 
-&emsp;(5) the promotion of harvest strategies and regulations which will encourage continuedand increased investment by the salmon and steelhead producing jurisdictions;
+&emsp;(5) the promotion of harvest strategies and regulations which will encourage continued and increased investment by the salmon and steelhead producing jurisdictions;
 
 &emsp;(6) the optimization of the use of resources for enforcement;
 
@@ -67,8 +67,4 @@ The Secretary shall provide such clerical and technical support as may be necess
 Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary's approval of the Commission's report pursuant to subsection (e) of this section.
 
 (Pub. L. 96–561, title I, §110, Dec. 22, 1980, 94 Stat. 3277.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3312, 3314, 3322, 3343 of this title.
 

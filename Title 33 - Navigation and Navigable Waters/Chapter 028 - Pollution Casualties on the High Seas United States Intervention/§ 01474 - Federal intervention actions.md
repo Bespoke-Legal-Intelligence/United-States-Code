@@ -10,7 +10,3 @@ Upon a determination under section 1472 of this title of a grave and imminent da
 
 (Pub. L. 93–248, §5, Feb. 5, 1974, 88 Stat. 9.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1475, 1486 of this title; title 26 section 9509.
-

@@ -6,7 +6,7 @@ Coupons shall be printed under such arrangements and in such denominations as ma
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
-Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: <i>Provided</i>, That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
+Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: <i>Provided</i>, That nothingin this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
 
 #### (c) Design of coupons
 
@@ -242,7 +242,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 #### (F) Settling
 
-&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from anelectronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
+&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
 
 #### (G) Smart card
 
@@ -254,7 +254,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 #### (2) Requirement
 
-&emsp;Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption of coupons in the form of electronic benefit transfer cards are interoperable, and food stamp benefits are portable, among all States.
+&emsp;Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption ofcoupons in the form of electronic benefit transfer cards are interoperable, and food stamp benefits are portable, among all States.
 
 #### (3) Cost
 
@@ -469,10 +469,6 @@ Pub. L. 102–237, title IX, §908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amen
 #### Food Stamp Coupons, Cost Increase Suspension
 
 Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the provisions of 7 U.S.C. 2016(b), the charge imposed on any household for a coupon allotment under this chapter after Feb. 20, 1975, and prior to Dec. 30, 1975, could not exceed the charge that would have been imposed on such household for such coupon allotment under rules and regulations promulgated under this chapter and in effect on Jan. 1, 1975.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2019, 2024, 2026, 2027, 2035 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ Changes were made in phraseology and arrangement.
 
 1976—Pub. L. 94–521 substituted “Authenticated transcripts or copies” for “Certified copies” in section catchline.
 
-Subsec. (a). Pub. L. 94–521 substituted provision that the Secretary may furnish to any respondent, or the successor or authorized agent of such respondent, transcripts or copies of reports containing information furnished in connection with the surveys and census, upon payment of the necessary costs, for provision that authorized the Secretary, in his discretion, to furnish the Governors of States and Territories, courts of record, and individuals, data for genealogical and other proper purposes, from the population, agriculture, and housing schedules prepared under the authority of subchapter II of chapter 5 of this title, upon payment of the necessary costs, plus one dollar for supplying a certificate.
+Subsec. (a). Pub. L. 94–521 substituted provision that the Secretary may furnish to any respondent, or thesuccessor or authorized agent of such respondent, transcripts or copies of reports containing information furnished in connection with the surveys and census, upon payment of the necessary costs, for provision that authorized the Secretary, in his discretion, to furnish the Governors of States and Territories, courts of record, and individuals, data for genealogical and other proper purposes, from the population, agriculture, and housing schedules prepared under the authority of subchapter II of chapter 5 of this title, upon payment of the necessary costs, plus one dollar for supplying a certificate.
 
 Subsec. (b). Pub. L. 94–521 inserted provision subjecting the Secretary to the limitations contained in sections 6(c) and 9 of this title, when furnishing statistical materials under this section, substituted “copies of tabulations and other statistical materials” for “transcripts or copies of tables and other census records”, inserted provision that materials furnished under this section may not disclose information reported by, or on behalf of, a particular respondent, and substituted a provision enumerating the public and private establishments and individuals, on behalf of whom, special statistical compilations may be conducted for provision that such compilations may be conducted on behalf of State or local officials, private concerns, or individuals.
 
@@ -37,8 +37,4 @@ Subsec. (d). Pub. L. 85–207, §4(b), required the deposit in a separate accoun
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9 of this title; title 5 section 552a; title 8 sections 1255a, 1367.
 

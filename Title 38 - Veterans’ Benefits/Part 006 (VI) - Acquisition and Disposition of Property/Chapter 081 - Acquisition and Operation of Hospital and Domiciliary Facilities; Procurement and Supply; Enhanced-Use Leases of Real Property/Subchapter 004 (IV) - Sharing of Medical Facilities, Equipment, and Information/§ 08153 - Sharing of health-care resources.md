@@ -24,7 +24,7 @@
 
 (d) When a Department health care facility provides hospital care or medical services, pursuant to a contract or agreement authorized by this section, to an individual who is not eligible for such care or services under chapter 17 of this title and who is entitled to hospital or medical insurance benefits under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), such benefits shall be paid, notwithstanding any condition, limitation, or other provision in that title which would otherwise preclude such payment to such facility for such care or services or, if the contract or agreement so provides, to the community health care facility which is a party to the contract or agreement.
 
-(e) The Secretary may make an arrangement that authorizes the furnishing of services by the Secretary under this section to individuals whoare not veterans only if the Secretary determines—
+(e) The Secretary may make an arrangement that authorizes the furnishing of services by the Secretary under this section to individuals who are not veterans only if the Secretary determines—
 
 &emsp;(1) that veterans will receive priority under such an arrangement; and
 
@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 104–262, §301(c)(3), substituted “preclude such paymen
 
 Subsecs. (e) to (g). Pub. L. 104–262, §301(c)(4), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
-1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
+1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1)and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
 
 &emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreement will obviate the need for a similar resource to be provided in a Department health care facility; or
 
@@ -145,8 +145,4 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 #### Report to Congress on Rates and Procedures Covering Payment of Benefits for Care or Services Provided in Veterans’ Administration Health Care Facilities to Individuals Not Eligible for Veterans’ Hospital, Nursing Home, Domiciliary, or Medical Care
 
 Section 115(c) of Pub. L. 94–581 provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8157, 8158 of this title.
 

@@ -58,7 +58,7 @@
 
 &emsp;(B) shall consist of written notification as to—
 
-&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction inforce (broken down by geographic area or on such other basis as may be required under paragraph (4));
+&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction in force (broken down by geographic area or on such other basis as may be required under paragraph (4));
 
 &emsp;&emsp;(ii) when those separations will occur; and
 
@@ -136,7 +136,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(i)\], added cl. (i) and
 
 Subsec. (d)(3)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(A)(ii)\], struck out “under the Job Training Partnership Act or” before “under title I of”.
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(ii)\], substituted “other services under the Job TrainingPartnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(ii)\], substituted “other services under the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
 
 Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(B)\], struck out “the Job Training Partnership Act or” before “title I of”.
 
@@ -232,7 +232,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Interagency Placement Program for Federal Employees Affected by Reductions in Force
 
-Pub. L. 103–337, div. A, title X, §1066, Oct. 5, 1994, 108 Stat. 2850, provided that:
+Pub. L. 103–337, div. A, title X, §1066, Oct. 5, 1994, 108 Stat. 2850, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 “(a)
 
@@ -266,7 +266,7 @@ Agreements To Establish Interagency Placement Program.—(1) The Director may es
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1) The term ‘agency’ means an Executive agency as defined in section 105 of title 5, United States Code, except that such term does not include the General Accounting Office.
+&emsp;“(1) The term ‘agency’ means an Executive agency as defined in section 105 of title 5, United States Code, except that such term does not include the Government Accountability Office.
 
 &emsp;“(2) The term ‘Federal employees affected by reductions in force’ means Federal employees who are separated, or are scheduled to be separated, from service under a reduction in force pursuant to—
 
@@ -282,7 +282,7 @@ Section 4433(b) of Pub. L. 102–484, as amended by Pub. L. 103–337, div. A, t
 
 “(2) The employees described in this paragraph are those employees of the Department of Defense who are to be separated, due to a reduction in force described in paragraph (1), effective on or after the last day of the 90-day period referred to in subsection (a)(2) \[see Effective Date of 1992 Amendment note above\] and before February 1, 2000.
 
-“(3) Nothing in this subsection shall prevent the application of the amendment made by subsection (a) \[amending this section\] with respect to an employee if—
+“(3) Nothing in this subsection shall prevent the application of the amendment made by subsection (a)\[amending this section\] with respect to an employee if—
 
 &emsp;“(A) the preceding paragraphs of this subsection do not apply with respect to such employee; and
 
@@ -304,15 +304,11 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 
 (1) The authority of the President under 5 U.S.C. 3502(e), as added by section 4433 of Public Law 102–484, to shorten the period of advance notice otherwise required by law with respect to reductions in force.
 
-(2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378,to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
+(2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378, to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
 
 Sec. 2. The Director of the Office of Management and Budget is designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority of the President under 5 U.S.C. 5377(i)(2), as added by section 2(34) of Public Law 102–378, to designate one or more categories of positions within an agency to be treated as critical positions within the meaning of 5 U.S.C. 5377(a)(2).
 
 Sec. 3. This order shall be effective immediately.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 7512, 7521, 9508 of this title; title 10 sections 1586, 1610; title 22 section 1438; title 25 section 472a; title 31 section 732; title 32 section 709; title 42 sections 616, 7237.
 

@@ -26,7 +26,3 @@ Confidentiality Provisions.—Until such time as rules are adopted under chapter
 
 Pub. L. 100–702, title IX, §901(c), Nov. 19, 1988, 102 Stat. 4663, provided that notwithstanding establishment by former section 652 of this title of a $100,000 limitation on money damages with respect to cases referred to arbitration, a district court listed in former section 658 of this title whose local rule on Nov. 19, 1988, provided for a limitation on money damages of not more than $150,000, could continue to apply the higher limitation, prior to repeal by Pub. L. 105–315, §12(a), Oct. 30, 1998, 112 Stat. 2998.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 654 of this title.
-

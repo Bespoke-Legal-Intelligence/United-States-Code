@@ -94,7 +94,7 @@ Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the North American Free TradeAgreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of Title 19, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of Title 19.
+Amendment by section 414(a)(1) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of Title 19, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of Title 19.
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -121,8 +121,4 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Effect of Termination of NAFTA Country Status
 
 For provisions relating to effect of termination of NAFTA country status on sections 401 to 416 of Pub. L. 103–182, see section 3451 of Title 19, Customs Duties.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2631, 2636, 2637, 2639, 2643 of this title; title 19 sections 1499, 1515.
 

@@ -32,7 +32,7 @@ The Secretary may award grants or contracts to State or local governments, healt
 
 #### (3) Availability of additional funds
 
-&emsp;Amounts otherwise appropriated for programs or activities under this subchapter may be used for activities under subsection (b) of this section with respect to the programs or activities from which such amounts were made available.
+&emsp;Amounts otherwise appropriated for programs or activities under this subchapter may be used for activities under subsection (b) of this section with respect to the programs oractivities from which such amounts were made available.
 
 (July 1, 1944, ch. 373, title VII, §761, as added Pub. L. 105–392, title I, §104(a), Nov. 13, 1998, 112 Stat. 3552.)
 
@@ -48,9 +48,5 @@ Another prior section 761 of act July 1, 1944, was classified to section 294cc o
 
 Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to repeal by Pub. L. 99–129.
 
-Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to the generalamendment of part D of this subchapter by Pub. L. 91–696.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 295<i>o</i>–1 of this title.
+Another prior section 761 of act July 1, 1944, was classified to section 295 of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
 

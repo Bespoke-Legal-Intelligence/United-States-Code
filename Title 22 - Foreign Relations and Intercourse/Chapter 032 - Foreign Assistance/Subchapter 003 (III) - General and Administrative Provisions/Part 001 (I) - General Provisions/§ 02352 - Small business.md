@@ -38,7 +38,7 @@ Pub. L. 107–228, div. A, title VI, §687, Sept. 30, 2002, 116 Stat. 1411, prov
 
 “(a)
 
-Initial Report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\],the Administrator shall submit to the designated congressional committees a report that contains the following:
+Initial Report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Administrator shall submit to the designated congressional committees a report that contains the following:
 
 &emsp;“(1) For each of the fiscal years 2000, 2001, and 2002:
 
@@ -122,7 +122,7 @@ Designated congressional committees.—The term ‘designated congressional comm
 
 &emsp;&emsp;“(A) the Committee on International Relations and the Committee on Small Business of the House of Representatives; and
 
-&emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Small Business of the Senate.”
+&emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate.”
 
 #### Office in Agency for International Development
 
@@ -130,7 +130,7 @@ For location of the Office of Small Business, provided for in subsec. (b), in th
 
 #### Procurements From Small Businesses
 
-Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administrationshall lend all available assistance to the Agency for the purposes of carrying out this section.”
+Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 602 of Pub. L. 94–329, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 130 of House Document No. 103–7.\]
 

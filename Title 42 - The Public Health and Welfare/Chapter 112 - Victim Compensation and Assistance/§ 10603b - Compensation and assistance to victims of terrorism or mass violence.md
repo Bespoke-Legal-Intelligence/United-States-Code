@@ -42,9 +42,5 @@ Pub. L. 106–386, div. C, §2003(a)(2), Oct. 28, 2000, 114 Stat. 1544, provided
 
 Pub. L. 106–386, div. C, §2003(a)(3), Oct. 28, 2000, 114 Stat. 1544, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2000\], the Director shall establish guidelines under section 1407(a) of the Victims of Crime Act of 1984 (42 U.S.C. 10604(a)) to specify the categories of organizations and agencies to which the Director may make grants under this subsection \[amending this section and enacting provisions set out as a note under this section\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10601 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;(10) A five dollar gold coin that is 16.5 millimeters in diameter, weighs 3.393 grams, and contains one-tenth troy ounce of fine gold.
 
-(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The innerlayer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
+(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
@@ -176,7 +176,7 @@ Standards.—Because it is important that the Nation's coinage and currency bear
 
 &emsp;&emsp;(E)
 
-Prohibition on certain representations.—No head and shoulders portrait orbust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
+Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
 
 &emsp;(5)
 
@@ -650,6 +650,16 @@ Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all 
 
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 108–486, Dec. 23, 2004, 118 Stat. 3934.—American Bald Eagle Recovery and National Emblem.
+
+Pub. L. 108–464, Dec. 21, 2004, 118 Stat. 3878.—Benjamin Franklin.
+
+Pub. L. 108–291, Aug. 6, 2004, 118 Stat. 1024.—Marine Corps 230th Anniversary.
+
+Pub. L. 108–290, Aug. 6, 2004, 118 Stat. 1021.—John Marshall.
+
+Pub. L. 108–289, Aug. 6, 2004, 118 Stat. 1017.—Jamestown 400th Anniversary.
+
 Pub. L. 106–435, Nov. 6, 2000, 114 Stat. 1916.—2002 Winter Olympic Games.
 
 Pub. L. 106–375, Oct. 27, 2000, 114 Stat. 1435.—National Museum of the American Indian.
@@ -723,8 +733,4 @@ Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 #### Possession of Gold Coins and Bullion
 
 The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5102, 5111, 5113, 5116, 5132 of this title; title 26 section 408.
 

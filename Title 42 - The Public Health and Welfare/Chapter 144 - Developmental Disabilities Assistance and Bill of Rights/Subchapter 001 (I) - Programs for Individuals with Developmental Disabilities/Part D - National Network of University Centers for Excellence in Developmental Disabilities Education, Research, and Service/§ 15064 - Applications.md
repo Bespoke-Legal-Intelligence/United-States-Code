@@ -44,13 +44,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) a representative of a self-advocacy organization described in section 15024(c)(4)(A)(ii)(I) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) representatives of organizations that may include parent training and information centers assisted under section 1482 or 1483 of title 20, entities carrying out activities authorized under section 3011 or 3012 of title 29, relevant State agencies, and other community groups concerned with the welfare of individuals with developmental disabilities and their families;
+&emsp;&emsp;&emsp;&emsp;(VI) representatives of organizations that may include parent training and information centers assisted under section 1471 or 1472 of title 20, entities carrying out activities authorized under section 3003 or 3004 of title 29, relevant State agencies, and other community groups concerned with the welfare of individuals with developmental disabilities and their families;
 
 &emsp;&emsp;&emsp;(iii) that reflects the racial and ethnic diversity of the State; and
 
 &emsp;&emsp;&emsp;(iv) that shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan,and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
+&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan, and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet as often as necessary to carry out the role of the committee, but at a minimum twice during each grant year;
 
@@ -124,9 +124,15 @@ Each Center shall annually prepare and transmit to the Secretary a report contai
 
 &emsp;(3) a description of successful efforts to leverage funds, other than funds made available under this part, to pursue goals consistent with this part.
 
-(Pub. L. 106–402, title I, §154, Oct. 30, 2000, 114 Stat. 1722.)
+(Pub. L. 106–402, title I, §154, Oct. 30, 2000, 114 Stat. 1722; Pub. L. 108–364, §3(a)(4), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 108–446, title III, §305(n)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
-Provisions of title 5 governing appointments in competitive service, referred to in subsec. (c)(2)(A)(i), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
+Provisions of title 5 governing appointments in competitive service, referred to in subsec. (c)(2)(A)(i), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2004—Subsec. (a)(3)(E)(ii)(VI). Pub. L. 108–446 substituted “section 1471 or 1472 of title 20” for “section 1482 or 1483 of title 20”.
+
+Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Statutory provisions applicable
 
-The Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\], is hereby made applicable to theBand: <i>Provided, however</i>, That the Secretary is only authorized to exercise his authority under section 5 of that Act \[25 U.S.C. 465\] with respect to lands located in Maverick County, Texas.
+The Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\], is hereby made applicable to the Band: <i>Provided, however</i>, That the Secretary is only authorized to exercise his authority under section 5 of that Act \[25 U.S.C. 465\] with respect to lands located in Maverick County, Texas.
 
 #### (b) Authority of Secretary
 

@@ -94,7 +94,3 @@ June 29, 1949, ch. 275, title II, 63 Stat. 293.
 
 June 16, 1948, ch. 472, title I, 62 Stat. 445.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3203, 3206 of this title; title 22 section 2905.
-

@@ -14,9 +14,5 @@ Not later than 1 year after January 7, 1983, the Secretary shall transmit to the
 
 (Pub. L. 97–425, title III, §305, Jan. 7, 1983, 96 Stat. 2262.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10132, 10197 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “repositories.”</i>
 

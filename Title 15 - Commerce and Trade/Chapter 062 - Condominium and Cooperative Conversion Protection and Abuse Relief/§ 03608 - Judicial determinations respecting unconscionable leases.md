@@ -16,7 +16,7 @@ Cooperative and condominium unit owners through the unit owners’ association m
 
 &emsp;(6) it was entered into prior to June 4, 1975.
 
-> Such action must be authorized by the cooperative or condominium unit owners through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, and may be brought by the cooperative or condominium unit owners through the units owners’ association. Prior to instituting such action, the cooperative or condominium unit owners must, through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, agree to enter into negotiation with the lessor and must seek through such negotiation to eliminate or modify any lease terms that are alleged to be unconscionable; if an agreement is not reached in ninety days from the date on which the authorizing vote was taken, the unit owners may authorize an action after following the procedure specified in the preceding sentence.
+> Such action must be authorized by the cooperative or condominium unit owners through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, and may be brought by the cooperative or condominium unit owners through the units owners’ association. Prior to instituting such action, the cooperative or condominium unit owners must, through a vote of not less than two-thirds of the owners of the units other than units owned by the developer or an affiliate of the developer, agree to enter into negotiation with the lessor and must seek through such negotiation to eliminate or modifyany lease terms that are alleged to be unconscionable; if an agreement is not reached in ninety days from the date on which the authorizing vote was taken, the unit owners may authorize an action after following the procedure specified in the preceding sentence.
 
 #### (b) Presumption of unconscionability; rebuttal
 
@@ -61,10 +61,6 @@ Nothing in this section may be construed to authorize the bringing of an action 
 #### Effective Date
 
 Section effective one year after Oct. 8, 1980, see section 618 of Pub. L. 96–399, set out as a note under section 3601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3609, 3610, 3611, 3613 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “plaintiff”.</i>
 

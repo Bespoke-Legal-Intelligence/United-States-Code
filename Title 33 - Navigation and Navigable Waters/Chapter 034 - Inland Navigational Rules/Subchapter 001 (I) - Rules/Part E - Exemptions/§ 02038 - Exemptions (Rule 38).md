@@ -30,6 +30,10 @@ Any vessel or class of vessels, the keel of which is laid or which is at a corre
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3432.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is</i><i>repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### References in Text
 
 Chapter 3 of this title, referred to in par. (a), was in the original “The Act of June 7, 1897 (30 Stat. 96), as amended (33 U.S.C. 154–232)”, which was repealed by section 8(a) of Pub. L. 96–591.

@@ -36,7 +36,3 @@ Pub. L. 100–690, §7057(b), struck out “or by a bank or corporation of any f
 
 1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2516 of this title.
-

@@ -28,7 +28,3 @@ Amendment by Pub. L. 99–616 effective July 1, 1987, and applicable to all inte
 
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 376 of this title.
-

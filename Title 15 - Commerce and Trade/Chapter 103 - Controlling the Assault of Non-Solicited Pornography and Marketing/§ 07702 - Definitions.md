@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;The term “affirmative consent”, when used with respect to a commercial electronic mail message, means that—
 
-&emsp;&emsp;(A) the recipient expressly consented to receive the message, either in response to a clear and conspicuous request for such consent or at the recipient's own initiative; and
+&emsp;&emsp;(A) the recipient expressly consented to receive the message, either in response to aclear and conspicuous request for such consent or at the recipient's own initiative; and
 
 &emsp;&emsp;(B) if the message is from a party other than the party to which the recipient communicated such consent, the recipient was given clear and conspicuous notice at the time the consent was communicated that the recipient's electronic mail address could be transferred to such other party for the purpose of initiating commercial electronic mail messages.
 
@@ -38,7 +38,7 @@ In this chapter:
 
 #### (5) Electronic mail address
 
-&emsp;The term “electronic mail address” means a destination, commonly expressed as a string of characters, consisting of a unique user name or mailbox (commonly referred to as the“local part”) and a reference to an Internet domain (commonly referred to as the “domain part”), whether or not displayed, to which an electronic mail message can be sent or delivered.
+&emsp;The term “electronic mail address” means a destination, commonly expressed as a string of characters, consisting of a unique user name or mailbox (commonly referred to as the “local part”) and a reference to an Internet domain (commonly referred to as the “domain part”), whether or not displayed, to which an electronic mail message can be sent or delivered.
 
 #### (6) Electronic mail message
 
@@ -127,8 +127,4 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7706 of this title; title 18 section 1037.
 

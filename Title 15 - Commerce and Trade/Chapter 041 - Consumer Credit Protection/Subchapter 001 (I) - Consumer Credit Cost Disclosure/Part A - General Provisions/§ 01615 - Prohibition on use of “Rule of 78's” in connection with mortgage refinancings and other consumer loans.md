@@ -6,7 +6,7 @@
 
 &emsp;If a consumer prepays in full the financed amount under any consumer credit transaction, the creditor shall promptly refund any unearned portion of the interest charge to the consumer.
 
-#### (2) Exception for refund of de minimus amount
+#### (2) Exception for refund of de minimus <sup>1</sup> amount
 
 &emsp;No refund shall be required under paragraph (1) with respect to the prepayment of any consumer credit transaction if the total amount of the refund would be less than $1.
 
@@ -69,8 +69,4 @@ For the purpose of this section—
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Consumer Credit Protection Act which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1639 of this title.
 

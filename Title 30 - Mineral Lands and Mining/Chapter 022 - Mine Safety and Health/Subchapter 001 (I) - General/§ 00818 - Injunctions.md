@@ -2,7 +2,7 @@
 
 #### (a) Civil action by Secretary
 
-(1) The Secretary may institute a civil action for relief, including a permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which a coal or other mine is located or in which the operator of such mine has his principal office, whenever such operator or his agent—
+(1) The Secretary may institute a civil action for relief, including a permanent or temporary injunction, restraining order, or any other appropriate order in the district court of the United States for the district in which a coal orother mine is located or in which the operator of such mine has his principal office, whenever such operator or his agent—
 
 &emsp;(A) violates or fails or refuses to comply with any order or decision issued under this chapter,
 
@@ -39,8 +39,4 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is 
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 815 of this title.
 

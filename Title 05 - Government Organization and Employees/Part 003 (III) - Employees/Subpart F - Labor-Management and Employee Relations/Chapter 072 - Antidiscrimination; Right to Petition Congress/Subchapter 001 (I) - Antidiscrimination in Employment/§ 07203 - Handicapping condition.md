@@ -32,7 +32,3 @@ Pub. L. 95–454, §§101(b)(2), 906(a)(2), substituted “Handicapping conditio
 
 Amendment by sections 101(b)(2) and 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3302 of this title.
-

@@ -1,9 +1,5 @@
 part 2—participation and vesting
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1103, 1132, 1201, 1202 of this title; title 26 section 6057.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “3(16)”.</i>
 
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ENVIRONMENTAL PESTICIDE CONTROL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 450i, 511r, 5506, 6502, 6519, 7653, 8401 of this title; title 15 sections 1261, 1277, 1459, 2052, 2602; title 16 section 460<i>lll</i>; title 21 sections 321, 346a, 1401; title 42 sections 262a, 300g–1, 6905, 7412, 9603, 9604, 9607.
-
 
 ---
 
@@ -45,5 +41,6 @@ This subchapter is referred to in sections 450i, 511r, 5506, 6502, 6519, 7653, 8
 - [&sect; 00136w&#8211;5 - Minimum requirements for training of maintenance applicators and service technicians](%C2%A7%2000136w%E2%80%935%20-%20Minimum%20requirements%20for%20training%20of%20maintenance%20applicators%20and%20service%20technicians.md)
 - [&sect; 00136w&#8211;6 - Environmental Protection Agency minor use program](%C2%A7%2000136w%E2%80%936%20-%20Environmental%20Protection%20Agency%20minor%20use%20program.md)
 - [&sect; 00136w&#8211;7 - Department of Agriculture minor use program](%C2%A7%2000136w%E2%80%937%20-%20Department%20of%20Agriculture%20minor%20use%20program.md)
+- [&sect; 00136w&#8211;8 - Pesticide registration service fees](%C2%A7%2000136w%E2%80%938%20-%20Pesticide%20registration%20service%20fees.md)
 - [&sect; 00136x - Severability](%C2%A7%2000136x%20-%20Severability.md)
 - [&sect; 00136y - Authorization of appropriations](%C2%A7%2000136y%20-%20Authorization%20of%20appropriations.md)

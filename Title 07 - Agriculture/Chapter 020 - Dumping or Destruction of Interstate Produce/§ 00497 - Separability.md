@@ -4,7 +4,3 @@ If any provision of this chapter is declared unconstitutional or the applicabili
 
 (Mar. 3, 1927, ch. 309, §4, 44 Stat. 1356.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 499c, 499d, 499n of this title.
-

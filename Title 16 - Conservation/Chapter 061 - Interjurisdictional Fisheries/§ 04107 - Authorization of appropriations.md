@@ -32,7 +32,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 #### (d) Assistance to commercial fishermen
 
-(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to theDepartment of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
+(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
 
 (2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
 
@@ -117,8 +117,4 @@ Subsec. (d)(7). Pub. L. 104–297, §402(b), added par. (7).
 Subsec. (b). Pub. L. 101–627, §§502, 503(2), in introductory provisions substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1988 and 1989” and added par. (3).
 
 Subsec. (c). Pub. L. 101–627, §503(3), substituted “the fiscal years 1989, 1990, 1991, 1992, and 1993” for “fiscal years 1988 and 1989”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1389, 4103, 4104 of this title; title 15 section 632; title 46 section 12108.
 

@@ -30,7 +30,3 @@ The provisions of this section shall be carried out through the Commodity Credit
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3311 of this title.
-

@@ -12,7 +12,3 @@
 
 (Added Pub. L. 104–191, title II, §244(a), Aug. 21, 1996, 110 Stat. 2017.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 24 of this title.
-

@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title.”
+1989—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates ofpay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title.”
 
-<b>1985</b>—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining “budget”.
+1985—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining “budget”.
 
 #### Commission's First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 
@@ -155,8 +155,4 @@ A prior recommendation of the President for increases in executive, legislative,
 A prior recommendation of the President for increases in executive, legislative, and judicial salaries was transmitted to Congress on Jan. 17, 1977 (42 F.R. 10297; 91 Stat. 1643).
 
 A prior recommendation of the President for increases in executive, legislative, and judicial salaries was transmitted to Congress on Jan. 15, 1969 (34 F.R. 2241; 83 Stat. 863).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 359, 360, 362 of this title.
 

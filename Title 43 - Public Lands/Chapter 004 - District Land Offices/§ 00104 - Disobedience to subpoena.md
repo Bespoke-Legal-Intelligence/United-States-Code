@@ -8,7 +8,3 @@ Any person willfully neglecting or refusing obedience to such subpoena, or negle
 
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 105 of this title.
-

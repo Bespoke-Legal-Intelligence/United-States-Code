@@ -10,7 +10,3 @@ Every 2 years, the Secretary shall review, evaluate, and report to the appropria
 
 1992—Pub. L. 102–295 inserted “and every two years thereafter,” and substituted “documentation” for “assurances” and “10402(a)(2)(B) through 10402(a)(2)(F)” for “10402(a)(2)(F)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10409 of this title.
-

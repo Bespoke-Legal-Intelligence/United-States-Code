@@ -144,7 +144,3 @@ Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective 30 days after Nov.
 
 Section 103(b) of Pub. L. 102–531 provided that: “With respect to compliance with the requirement established in subsection (c)(2) of section 1905 of the Public Health Service Act \[subsec. (c)(2) of this section\] (as amended by subsection (a) of this section), a State is deemed, notwithstanding such section, to be in compliance with such requirement if the State establishes an advisory committee in accordance with subsection (d) of such section not later than 180 days after the date of the enactment of this Act \[Oct. 27, 1992\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300w–1, 300w–5, 300w–6 of this title.
-

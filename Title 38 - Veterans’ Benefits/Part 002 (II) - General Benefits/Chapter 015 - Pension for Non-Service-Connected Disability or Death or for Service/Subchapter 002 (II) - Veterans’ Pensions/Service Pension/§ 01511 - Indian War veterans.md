@@ -54,7 +54,3 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 Section 3 of Pub. L. 86–670 provided that: “This Act \[amending this section and section 512 \[now 1512\] of this title\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[July 14, 1960\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1534, 1535 of this title.
-

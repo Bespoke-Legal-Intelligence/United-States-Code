@@ -12,7 +12,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (2) An individual who is employed, or is seeking employment, as a driver of a motor vehicle may request the chief driver licensing official of the State in which the individual is employed or seeks employment to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer. An employer or prospective employer may receive the information and shall make the information available to the individual. Information may not be obtained from the National Driver Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(3) An individual who has received, or is applying for, an airman's certificate may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Administratorof the Federal Aviation Administration. The Administrator may receive the information and shall make the information available to the individual for review and written comment. The Administrator may use the information to verify information required to be reported to the Administrator by an airman applying for an airman medical certificate and to evaluate whether the airman meets the minimum standards prescribed by the Administrator to be issued an airman medical certificate. The Administrator may not otherwise divulge or use the information. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+(3) An individual who has received, or is applying for, an airman's certificate may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Administrator of the Federal Aviation Administration. The Administrator may receive the information and shall make the information available to the individual for review and written comment. The Administrator may use the information to verify information required to be reported to the Administrator by an airman applying for an airman medical certificate and to evaluate whether the airman meets the minimum standards prescribed by the Administrator to be issued an airman medical certificate. The Administrator may not otherwise divulge or use the information. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (4) An individual who is employed, or is seeking employment, by a rail carrier as an operator of a locomotive may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the individual's employer or prospective employer or to the Secretary of Transportation. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
@@ -24,9 +24,11 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (8) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual or to the Secretary of Transportation. Information may not be obtained from the National Driver Register under this subsection if the information was entered in the Register more than 5 years before the request unless the information is about a revocation or suspension still in effect on the date of the request.
 
-(9) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
+(9) An individual who has or is seeking access to national security information for purposes of Executive Order No. 12968, or any successor Executive order, or an individual who is being investigated for Federal employment under authority of Executive Order No. 10450, or any successor Executive order, may request the chief driver licensing official of a State to provide information about the individual pursuant to subsection (a) of this section to a Federal department or agency that is authorized to investigate the individual for the purpose of assisting in the determination of the eligibility of the individual for access to national security information or for Federal employment in a position requiring access to national security information. A Federal department or agency that receives information about an individual under the preceding sentence may use such information only for purposes of the authorized investigation and only in accordance with applicable law.
 
-(10) An individual may request the chief driver licensing official of a State to obtain information about the individual under subsection (a) of this section—
+(10) A request under this subsection shall be made in the form and way the Secretary of Transportation prescribes by regulation.
+
+(11) An individual may request the chief driver licensing official of a State to obtain information about the individual under subsection (a) of this section—
 
 &emsp;(A) to learn whether information about the individual is being provided;
 
@@ -34,7 +36,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 &emsp;(C) to obtain a certified copy of the information.
 
-(11) The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
+(12) The head of a Federal department or agency authorized to receive information regarding an individual from the Register under this section may request and receive such information from the Secretary.
 
 (c)
 
@@ -50,7 +52,7 @@ Relationship to Other Laws.—A request for, or receipt of, information from the
 
 Availability of Information Provided Under Prior Law.—Information provided by a State under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and under this chapter, shall be available under this section during the transition from the register maintained under that Act to the Register maintained under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–178, title II, §2006(b), June 9, 1998, 112 Stat. 335.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 976; Pub. L. 104–264, title V, §502(b), Oct. 9, 1996, 110 Stat. 3262; Pub. L. 104–324, title II, §207(b), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–102, §2(18), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–178, title II, §2006(b), June 9, 1998, 112 Stat. 335; Pub. L. 108–375, div. A, title X, §1061, Oct. 28, 2004, 118 Stat. 2056.)
 
 Historical and Revision Notes
 
@@ -86,9 +88,15 @@ This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section
 
 #### References in Text
 
+Executive Order No. 12968, referred to in subsec. (b)(9), is set out as a note under section 435 of Title 50, War and National Defense.
+
+Executive Order No. 10450, referred to in subsec. (b)(9), is set out as a note under section 7311 of Title 5, Government Organization and Employees.
+
 Act of July 14, 1960, referred to in subsec. (d), is set out as a note under section 30302 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(9) to (12). Pub. L. 108–375 added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
 1998—Subsec. (b)(2). Pub. L. 105–178, §2006(b)(1)(A), inserted before period at end “, unless the information is about a revocation or suspension still in effect on the date of the request”.
 
@@ -129,8 +137,4 @@ Section 502(d) of Pub. L. 104–264 provided that: “The amendments made by thi
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20135, 30301, 30302, 30307, 44936 of this title; title 14 section 93.
 

@@ -4,7 +4,3 @@ The Comptroller General is authorized and directed to distribute a list to all a
 
 (June 30, 1936, ch. 881, §3, 49 Stat. 2037.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 43a of this title; title 25 section 450j.
-

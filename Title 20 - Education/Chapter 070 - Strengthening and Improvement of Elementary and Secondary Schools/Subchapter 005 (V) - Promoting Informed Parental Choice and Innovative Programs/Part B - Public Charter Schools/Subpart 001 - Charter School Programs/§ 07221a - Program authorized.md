@@ -6,7 +6,7 @@ The Secretary may award grants to State educational agencies having applications
 
 #### (b) Special rule
 
-If a State educational agency elects not to participate in the program authorized by thissubpart or does not have an application approved under section 7221b of this title, the Secretary may award a grant to an eligible applicant that serves such State and has an application approved pursuant to section 7221b(c) of this title.
+If a State educational agency elects not to participate in the program authorized by this subpart or does not have an application approved under section 7221b of this title, the Secretary may award a grant to an eligible applicant that serves such State and has an application approved pursuant to section 7221b(c) of this title.
 
 #### (c) Program periods
 
@@ -65,8 +65,4 @@ In determining the amount of a grant to be awarded under this subpart to a State
 #### Prior Provisions
 
 A prior section 5202 of Pub. L. 89–10 was classified to section 7232 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7221b, 7221d of this title.
 

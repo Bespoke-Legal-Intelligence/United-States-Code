@@ -80,7 +80,3 @@ Provisions of law (other than this chapter) applicable with respect to the locat
 
 (Aug. 1, 1956, ch. 841, title II, §206, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 286.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4309 of this title.
-

@@ -40,7 +40,7 @@
 
 #### (2) Voluntary recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approve the plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approvethe plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
 
 #### (3) Mandatory recall
 
@@ -94,7 +94,7 @@
 
 #### (1) Voluntary agreements
 
-&emsp;Nothing in this section shall be construed as preventing or making unlawful any agreementbetween a seller and a buyer of any pesticide or other substance regarding the ultimate allocation of the costs of storage, transportation, or disposal of a pesticide.
+&emsp;Nothing in this section shall be construed as preventing or making unlawful any agreement between a seller and a buyer of any pesticide or other substance regarding the ultimate allocation of the costs of storage, transportation, or disposal of a pesticide.
 
 #### (2) Rule and regulation review
 
@@ -184,7 +184,7 @@
 
 #### (2) Antimicrobial products
 
-&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject tosuch provisions to prevent an unreasonable adverse effect on the environment.
+&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
 
 (June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507.)
 
@@ -217,8 +217,4 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136g, 136j of this title.
 

@@ -100,7 +100,3 @@ Amendment by Pub. L. 99–660 effective Dec. 22, 1987, see section 323 of Pub. L
 
 Section 1401(c)(2) of Pub. L. 103–43 provided that: “With respect to the authority established for the National Library of Medicine in section 465(b)(6) of the Public Health Service Act, as added by subsection (a) of this section \[subsec. (b)(6) of this section\], such authority shall be effective as if the authority had been established on December 22, 1987.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 286c of this title.
-

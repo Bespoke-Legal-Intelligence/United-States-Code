@@ -20,7 +20,3 @@ Any carrier who knowingly violates the provisions of this section shall forfeit 
 
 1960—Subsec. (b). Pub. L. 86–751 substituted “common carrier lines of communication, whether derived from wire or radio facilities,” for “wires”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152, 332 of this title.
-

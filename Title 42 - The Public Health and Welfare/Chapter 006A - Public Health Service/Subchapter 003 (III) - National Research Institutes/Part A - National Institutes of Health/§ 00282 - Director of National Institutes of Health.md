@@ -74,7 +74,7 @@ The Director of NIH shall—
 
 #### (f) Associate Director for Prevention; functions
 
-There shall be in the National Institutes of Health an Associate Director for Prevention.The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
+There shall be in the National Institutes of Health an Associate Director for Prevention. The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
 
 &emsp;(1) annually review the efficacy of existing policies and techniques used by the national research institutes to disseminate the results of disease prevention and behavioral research programs; and
 
@@ -206,6 +206,8 @@ Subsec. (k). Pub. L. 103–43, §303(b), added subsec. (k).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1997 Amendment
@@ -218,21 +220,9 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Collaboration and Report
 
-Section 113(b) of Pub. L. 105–115 provided that:
+Pub. L. 105–115, title I, §113(b), Nov. 21, 1997, 111 Stat. 2312, directed
 
-“(1)
-
-In general.—The Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs shall collaborate to determine the feasibility of including device investigations within the scope of the data bank under section 402(j) of the Public Health Service Act \[subsec. (j) of this section\].
-
-“(2)
-
-Report.—Not later than two years after the date of enactment of this section \[Nov. 21, 1997\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Commerce of the House of Representatives a report—
-
-&emsp;“(A) of the public health need, if any, for inclusion of device investigations within the scope of the data bank under section 402(j) of the Public Health Service Act;
-
-&emsp;“(B) on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations is required to be publicly disclosed; and
-
-&emsp;“(C) on such other issues relating to such section 402(j) as the Secretary determines to be appropriate.”
+the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs to collaborate to determine the feasibility of including device investigations within the scope of the data bank under subsec. (j) of this section, with the Secretary to report to Congress,not later than two years after Nov. 21, 1997, on the public health need, if any, for inclusion of device investigations within the scope of the data bank under subsec. (j), and on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations was required to be publicly disclosed.
 
 #### Chronic Fatigue Syndrome; Experts and Research Representatives on Advisory Committees and Boards
 
@@ -256,13 +246,9 @@ Section 1907 of Pub. L. 103–43 directed Director of the National Institutes of
 
 #### Support for Bioengineering Research
 
-Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study for the purpose of determining the sources and amounts of public and private funding devoted to basic research in bioengineering, including biomaterials sciences, cellular bioprocessing, tissue and rehabilitation engineering, evaluating whether that commitment is sufficient to maintain the innovative edge that the United States has in these technologies, evaluating the role of the National Institutes of Health or any other Federal agency to achieve a greater commitment to innovation in bioengineering, and evaluating the need for better coordination and collaboration among Federal agencies and between the public and private sectors, and, notlater than 1 year after June 10, 1993, to prepare and submit to Committee on Labor and Human Resources of Senate, and Committee on Energy and Commerce of House of Representatives, a report containing the findings of the study together with recommendations concerning the enactment of legislation to implement the results of such study.
+Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study for the purpose of determining the sources and amounts of public and private funding devoted to basic research in bioengineering, including biomaterials sciences, cellular bioprocessing, tissue and rehabilitation engineering, evaluating whether that commitment is sufficient to maintain the innovative edge that the United States has in these technologies, evaluating the role of the National Institutes of Health or any other Federal agency to achieve a greater commitment to innovation in bioengineering, and evaluating the need for better coordination and collaboration among Federal agencies and between the public and private sectors, and, not later than 1 year after June 10, 1993, to prepare and submit to Committee on Labor and Human Resources of Senate, and Committee on Energy and Commerce of House of Representatives, a report containing the findings of the study together with recommendations concerning the enactment of legislation to implement the results of such study.
 
 #### Master Plan for Physical Infrastructure for Research
 
 Section 2002 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, not later than June 1, 1994, to present to Congress a master plan to provide for replacement or refurbishment of less than adequate buildings, utility equipment and distribution systems (including the resources that provide electrical and other utilities, chilled water, air handling, and other services that the Secretary, acting through the Director, deemed necessary), roads, walkways, parking areas, and grounds that underpin the laboratory and clinical facilities of the National Institutes of Health, and provided that the plan could make recommendations for the undertaking of new projects that are consistent with the objectives of this section, such as encircling the National Institutes of Health Federal enclave with an adequate chilled water conduit.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 283, 284, 285g–4, 289a of this title; title 21 section 360bbb.
 

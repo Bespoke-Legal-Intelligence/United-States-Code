@@ -20,7 +20,7 @@ The provisions of subsection (a) of this section shall not apply to the intercep
 
 #### (c) Scrambling of Public Broadcasting Service programming
 
-No person shall encrypt or continue to encrypt satellite delivered programs included in the National Program Service of the Public Broadcasting Service and intended for public viewing by retransmission by television broadcast stations; except that as long as at least one unencrypted satellite transmission of any program subject to this subsection is provided, this subsection shall not prohibit additional encrypted satellite transmissions of the same program.
+No person shall encrypt or continue to encrypt satellite delivered programs included in the National Program Service of the Public Broadcasting Service and intended for public viewing by retransmission by television broadcast stations; except that as long as at least one unencrypted satellite transmission of any program subject to this subsection is provided, this subsection shallnot prohibit additional encrypted satellite transmissions of the same program.
 
 #### (d) Definitions
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 &emsp;(I) the party aggrieved may recover the actual damages suffered by him as a result of the violation and any profits of the violator that are attributable to the violation which are not taken into account in computing the actual damages; in determining the violator's profits, the party aggrieved shall be required to prove only the violator's gross revenue, and the violator shall be required to prove his deductible expenses and the elements of profit attributable to factors other than the violation; or
 
-&emsp;(II) the party aggrieved may recover an award of statutory damages for each violation of subsection (a) of this section involved in the action in a sum of not less than $1,000 or more than $10,000, as the court considers just, and for each violation of paragraph (4) of this subsection involved in the action an aggrievedparty may recover statutory damages in a sum not less than $10,000, or more than $100,000, as the court considers just.
+&emsp;(II) the party aggrieved may recover an award of statutory damages for each violation of subsection (a) of this section involved in the action in a sum of not less than $1,000 or more than $10,000, as the court considers just, and for each violation of paragraph (4) of this subsection involved in the action an aggrieved party may recover statutory damages in a sum not less than $10,000, or more than $100,000, as the court considers just.
 
 (ii) In any case in which the court finds that the violation was committed willfully and for purposes of direct or indirect commercial advantage or private financial gain, the court in its discretion may increase the award of damages, whether actual or statutory, by an amount of not more than $100,000 for each violation of subsection (a) of this section.
 
@@ -157,8 +157,4 @@ Amendment by Pub. L. 100–667 effective Jan. 1, 1989, see section 206 of Pub. L
 Section 5(b) of Pub. L. 98–549 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date of this Act \[Dec. 29, 1984\].”
 
 Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 548, 612 of this title; title 18 section 2511; title 50 section 1805.
 

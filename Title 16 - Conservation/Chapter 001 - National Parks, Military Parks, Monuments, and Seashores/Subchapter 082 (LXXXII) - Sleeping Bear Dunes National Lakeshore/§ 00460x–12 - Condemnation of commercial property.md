@@ -4,7 +4,3 @@ In any case not otherwise provided for in this subchapter, the Secretary shall b
 
 (Pub. L. 91–479, §13, Oct. 21, 1970, 84 Stat. 1080.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460x–3, 460x–8 of this title.
-

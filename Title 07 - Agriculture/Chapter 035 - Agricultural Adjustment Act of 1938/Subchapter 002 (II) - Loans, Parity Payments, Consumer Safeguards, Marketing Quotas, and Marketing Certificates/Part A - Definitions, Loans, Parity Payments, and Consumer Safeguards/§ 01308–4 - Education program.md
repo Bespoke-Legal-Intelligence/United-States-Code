@@ -30,7 +30,3 @@ A prior section 1001E of Pub. L. 99–198 was renumbered section 1001F and is cl
 
 Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7996 of this title.
-

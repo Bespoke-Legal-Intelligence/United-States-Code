@@ -72,7 +72,7 @@ Subsec. (d)(3), (4). Pub. L. 104–201, §228(b)(3), (4), added par. (3) and red
 
 Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: “There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction.”
 
-\[For transfer of functions, personnel, assets, and liabilities of the National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto,to the Secretary of Homeland Security, and for treatment of related references, see sections 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Chemical Warfare Defense
 
@@ -174,7 +174,7 @@ Sense of congress.—It is the sense of Congress that the facility considered un
 
 #### Consolidation of Chemical and Biological Defense Training Activities
 
-Section 1702 of Pub. L. 103–160 provided that: “The Secretary of Defense shall consolidate all chemical and biological warfare defense training activities of the Department of Defense at the United States Army Chemical School.”
+Section 1702 of Pub. L. 103–160 provided that: “The Secretary of Defense shall consolidate all chemical andbiological warfare defense training activities of the Department of Defense at the United States Army Chemical School.”
 
 #### Sense of Congress Concerning Federal Emergency Planning for Response to Terrorist Threats
 

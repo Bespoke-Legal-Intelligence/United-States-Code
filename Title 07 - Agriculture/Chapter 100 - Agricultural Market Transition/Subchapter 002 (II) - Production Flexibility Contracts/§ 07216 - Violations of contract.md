@@ -2,7 +2,7 @@
 
 #### (a) Termination of contract for violation
 
-Except as provided in subsection (b) of this section, if an owner or producer subject to acontract violates a requirement of the contract specified in section 7211(a) of this title, the Secretary shall terminate the contract with respect to the owner or producer on each farm in which the owner or producer has an interest. On the termination, the owner or producer shall forfeit all rights to receive future contract payments on each farm in which the owner or producer has an interest and shall refund to the Secretary all contract payments received by the owner or producer during the period of the violation, together with interest on the contract payments as determined by the Secretary.
+Except as provided in subsection (b) of this section, if an owner or producer subject to a contract violates a requirement of the contract specified in section 7211(a) of this title, the Secretary shall terminate the contract with respect to the owner or producer on each farm in which the owner or producer has an interest. On the termination, the owner or producer shall forfeit all rights to receive future contract payments on each farm in which the owner or producer has an interest and shall refund to the Secretary all contract payments received by the owner or producer during the period of the violation, together with interest on the contract payments as determined by the Secretary.
 
 #### (b) Refund or adjustment
 
@@ -20,15 +20,11 @@ If the Secretary determines that a violation does not warrant termination of the
 
 #### (2) Resumption of operation
 
-&emsp;This subsection shall not void the responsibilities of the owner or producer under the contract if the owner or producer continues or resumes operation, or control, of the contract acreage. On the resumption of operation or control over the contract acreage by the owner or producer, the provisions of the contract in effect on the date of the foreclosure shall apply.
+&emsp;This subsection shall not void the responsibilities of the owner or producer under the contract if the owner or producer continues or resumes operation, or control, of the contract acreage. On the resumption of operation or control over the contract acreage by theowner or producer, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
 #### (d) Review
 
 A determination of the Secretary under this section shall be considered to be an adverse decision for purposes of the availability of administrative review of the determination.
 
 (Pub. L. 104–127, title I, §116, Apr. 4, 1996, 110 Stat. 903.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7213 of this title.
 

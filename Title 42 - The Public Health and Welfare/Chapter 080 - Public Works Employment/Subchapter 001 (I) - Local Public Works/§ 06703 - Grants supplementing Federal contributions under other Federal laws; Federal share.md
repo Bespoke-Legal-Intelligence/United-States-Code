@@ -4,7 +4,3 @@ In addition to the grants otherwise authorized by this chapter, the Secretary is
 
 (Pub. L. 94–369, title I, §104, July 22, 1976, 90 Stat. 999.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6705 of this title.
-

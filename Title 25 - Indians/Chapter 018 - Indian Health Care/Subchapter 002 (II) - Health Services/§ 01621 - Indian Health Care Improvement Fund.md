@@ -2,7 +2,7 @@
 
 #### (a) Approved expenditures
 
-The Secretary is authorized to expend funds which are appropriated under the authority ofthis section, through the Service, for the purposes of—
+The Secretary is authorized to expend funds which are appropriated under the authority of this section, through the Service, for the purposes of—
 
 &emsp;(1) eliminating the deficiencies in health status and resources of all Indian tribes,
 
@@ -146,7 +146,7 @@ Subsec. (e)(4) to (6). Pub. L. 102–573, §201(a)(5)(E), redesignated par. (6) 
 
 Subsec. (f). Pub. L. 102–573, §201(a)(6), redesignated par. (2) as entire subsec. and struck out former par. (1) which read as follows: “The President shall include with the budget submitted to the Congress under section 1105 of title 31 for each fiscal year a separate statement which specifies the amount of funds requested to carry out the provisions of this section for such fiscal year.”
 
-Subsec. (h). Pub. L. 102–573, §217(b)(1), substituted “this section” for “this subsection” and struck out former first sentence which authorized appropriations for fiscal years 1990 to 1992.
+Subsec. (h). Pub. L. 102–573, §217(b)(1), substituted “this section” for “this subsection” and struck outformer first sentence which authorized appropriations for fiscal years 1990 to 1992.
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to improvement of Indian health status for former subsecs. (a) to (e) relating to direct patient care program.
 
@@ -179,8 +179,4 @@ Section 201(b) of Pub. L. 102–573 provided that: “Except with respect to the
 #### Contract Medical Care Funds
 
 Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That contract medical care funds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1660a, 1671 of this title.
 

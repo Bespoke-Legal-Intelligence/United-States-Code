@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PEANUTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1308, 1308–3a, 7286, 7901, 7911, 7915, 7991 of this title.
-
 
 ---
 

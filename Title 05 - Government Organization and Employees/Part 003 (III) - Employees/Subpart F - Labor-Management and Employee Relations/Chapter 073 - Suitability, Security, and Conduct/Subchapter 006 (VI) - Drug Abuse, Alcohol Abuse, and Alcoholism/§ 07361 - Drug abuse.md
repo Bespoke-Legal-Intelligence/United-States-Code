@@ -38,9 +38,5 @@ Purposes.—The program established under this section shall be designed to prov
 
 &emsp;“(6) any other matter which the Director considers appropriate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7363 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

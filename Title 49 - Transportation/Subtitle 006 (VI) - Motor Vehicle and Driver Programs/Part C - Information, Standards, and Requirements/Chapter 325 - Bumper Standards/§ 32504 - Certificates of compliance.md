@@ -22,7 +22,3 @@ Oct. 20, 1972, Pub. L. 92–513, §105(c), 86 Stat. 952.
 
 The words “Under regulations prescribed by the Secretary of Transportation” are substituted for 15:1915(c)(1) (last sentence) to eliminate unnecessary words. The text of 15:1915(c)(2) is omitted as surplus because this section only applies to a vehicle or equipment subject to a standard prescribed under section 32502 of the revised title, and a standard prescribed under that section does not apply to a vehicle or equipment intended only for export, labeled for export, and exported.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32506, 32507 of this title.
-

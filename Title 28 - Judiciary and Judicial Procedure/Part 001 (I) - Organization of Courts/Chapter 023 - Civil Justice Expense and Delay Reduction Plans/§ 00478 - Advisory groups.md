@@ -10,15 +10,11 @@
 
 (e) The chief judge of a United States district court may designate a reporter for each advisory group, who may be compensated in accordance with guidelines established by the Judicial Conference of the United States.
 
-(f) The members of an advisory group of a United States district court and any person designated as a reporter for such group shall be considered as independent contractors of such court when in the performance of official duties of the advisory group and may not, solely by reason of service on or for the advisory group, be prohibited from practicing law before such court.
+(f) The members of an advisory group of a United States district court and any person designated as a reporter for such group shall be considered as independent contractors of such court when in the performance of official dutiesof the advisory group and may not, solely by reason of service on or for the advisory group, be prohibited from practicing law before such court.
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5094.)
 
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsec. (a), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 472, 473, 475 of this title.
 

@@ -48,7 +48,15 @@ Subsec. (b). Pub. L. 108–136, §516(b), inserted heading.
 
 1988—Subsec. (a). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
 
-#### Section Referred to in Other Sections
+#### National Guard Support for 2004 Democratic and Republican National Conventions and Other Appropriate Events
 
-This section is referred to in section 706 of this title.
+Memorandum of President of the United States, July 23, 2004, 69 F.R. 46397, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority of the President contained in section 325 of title 32, United States Code, with respect to activities related to the 2004 Democratic and Republican National Conventions, and other appropriate events as you determine from time to time in consultation with the Assistant to the President for Homeland Security.
+
+You are further authorized and directed to make necessary arrangements to fund this activity from the proper appropriations and to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -38,10 +38,6 @@ Pub. L. 97–258, §2(d)(3)(A), Sept. 13, 1982, 96 Stat. 1058, added item 3150a.
 
 1954—Act Aug. 20, 1954, ch. 772, §2, 68 Stat. 748, added item 3146.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3041, 3062, 3265, 4241, 4282, 4285, 5037 of this title.
-
 
 ---
 

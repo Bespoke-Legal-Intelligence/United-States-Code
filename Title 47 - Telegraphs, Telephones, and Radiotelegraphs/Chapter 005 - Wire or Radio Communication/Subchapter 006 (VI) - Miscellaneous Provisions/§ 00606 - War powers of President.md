@@ -14,7 +14,7 @@ Upon proclamation by the President that there exists war or a threat of war, or 
 
 #### (d) Suspension or amendment of rules and regulations applicable to wire communications; closing of facilities; Government use of facilities
 
-Upon proclamation by the President that there exists a state or threat of war involvingthe United States, the President, if he deems it necessary in the interest of the national security and defense, may, during a period ending not later than six months after the termination of such state or threat of war and not later than such earlier date as the Congress by concurrent resolution may designate, (1) suspend or amend the rules and regulations applicable to any or all facilities or stations for wire communication within the jurisdiction of the United States as prescribed by the Commission, (2) cause the closing of any facility or station for wire communication and the removal therefrom of its apparatus and equipment, or (3) authorize the use or control of any such facility or station and its apparatus and equipment by any department of the Government under such regulations as he may prescribe, upon just compensation to the owners.
+Upon proclamation by the President that there exists a state or threat of war involving the United States, the President, if he deems it necessary in the interest of the national security and defense, may, during a period ending not later than six months after the termination of such state or threat of war and not later than such earlier date as the Congress by concurrent resolution may designate, (1) suspend or amend the rules and regulations applicable to any or all facilities or stations for wire communication within the jurisdiction of the United States as prescribed by the Commission, (2) cause the closing of any facility or station for wire communication and the removal therefrom of its apparatus and equipment, or (3) authorize the use or control of any such facility or station and its apparatus and equipment by any department of the Government under such regulations as he may prescribe, upon just compensation to the owners.
 
 #### (e) Compensation
 
@@ -26,7 +26,7 @@ Nothing in subsection (c) or (d) of this section shall be construed to amend, re
 
 #### (g) Limitations upon Presidential power
 
-Nothing in subsection (c) or (d) of this section shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) of this section shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
+Nothing in subsection (c) or (d) of this section shall be construed to authorize the President tomake any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) of this section shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
 
 #### (h) Penalties
 
@@ -70,7 +70,7 @@ Ex. Ord. No. 9831, eff. Feb. 24, 1947, 12 F.R. 1363, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes, including the Communications Act of 1934 (48 Stat. 1104, as amended; 47 U.S.C. 606) and as President of the United States, and in the interest of the internal management of the Government, it is hereby ordered as follows:
 
-1\. The Board of War Communications, established as the Defense Communications Board by Executive OrderNo. 8546 of September 24, 1940, is abolished, and all property and records thereof are transferred to the Federal Communications Commission.
+1\. The Board of War Communications, established as the Defense Communications Board by Executive Order No. 8546 of September 24, 1940, is abolished, and all property and records thereof are transferred to the Federal Communications Commission.
 
 2\. Executive Orders Nos. 8546 of September 24, 1940, 8960 of December 6, 1941, 8964 of December 10, 1941, 9089 of March 6, 1942, and 9183 of June 15, 1942, are revoked.
 
@@ -83,8 +83,4 @@ Ex. Ord. No. 10312, eff. Dec. 10, 1951, 16 F.R. 12452, as amended by Ex. Ord. No
 #### Executive Order No. 10705
 
 Ex. Ord. No. 10705, Apr. 17, 1957, 22 F.R. 2729, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, which related to the delegation of authority to the Director of the Office of Telecommunications Policy, was revoked by Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, set out as a note under section 305 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 309, 926 of this title; title 18 section 2511.
 

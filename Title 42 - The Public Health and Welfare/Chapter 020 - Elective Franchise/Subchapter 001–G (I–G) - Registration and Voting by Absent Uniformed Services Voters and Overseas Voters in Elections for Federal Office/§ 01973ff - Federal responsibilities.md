@@ -12,7 +12,7 @@ The Presidential designee shall—
 
 &emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 1973ff–1(4) of this title;
 
-&emsp;(3) carry out section 1973ff–2 of this title with respect to the Federal write-in absentee ballot for overseas voters in general elections for Federal office;
+&emsp;(3) carry out section 1973ff–2 of this title with respect to the Federal write-in absentee ballot for absent uniformed services voters and overseas voters in general elections for Federal office;
 
 &emsp;(4) prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 <sup>1</sup> of this title;
 
@@ -32,7 +32,7 @@ The Presidential designee shall—
 
 &emsp;As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b) of this section) and Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title).
 
-(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §705(a), (b)(1), (c), Oct. 29, 2002, 116 Stat. 1724, 1725.)
+(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §705(a), (b)(1), (c), Oct. 29, 2002, 116 Stat. 1724, 1725; Pub. L. 108–375, div. A, title V, §566(a), Oct. 28, 2004, 118 Stat. 1919.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100
 Section 1973ff–3 of this title, referred to in subsec. (b)(4), was amended generally by Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279, and, as so amended, no longer contains provisions relating to designs for absentee ballot mailing envelopes.
 
 #### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
 
 2002—Subsec. (b)(1). Pub. L. 107–252, §705(a), inserted “, and ensure that such officials are aware of the requirements of this Act” before semicolon at end.
 
@@ -86,7 +88,7 @@ Uniformed Services Voter Defined.—In this section, the term ‘uniformed servi
 
 #### Electronic Voting Demonstration Project
 
-Pub. L. 107–107, div. A, title XVI, §1604, Dec. 28, 2001, 115 Stat. 1277, provided that:
+Pub. L. 107–107, div. A, title XVI, §1604, Dec. 28, 2001, 115 Stat. 1277, as amended by Pub. L. 108–375, div. A, title V, §567, Oct. 28, 2004, 118 Stat. 1919, provided that:
 
 “(a)
 
@@ -98,7 +100,7 @@ In general.—Subject to paragraph (2), the Secretary of Defense shall carry out
 
 &emsp;“(2)
 
-Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the regularly scheduled general election for Federal office for November 2004. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
+Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
 
 “(b)
 
@@ -159,10 +161,6 @@ Section 1. The Secretary of Defense is hereby designated as the “Presidential 
 Sec. 2. In order to effectuate the purposes of the Act \[see Short Title note above\], the Secretary of Defense is hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973ff–1, 1973ff–3, 1973ff–6 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

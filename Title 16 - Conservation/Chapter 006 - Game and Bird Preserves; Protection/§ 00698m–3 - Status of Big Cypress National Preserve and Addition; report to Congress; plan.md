@@ -16,7 +16,3 @@ Not later than two years after April 29, 1988, the Secretary shall submit to the
 
 (Pub. L. 93–440, §11, as added Pub. L. 100–301, §6, Apr. 29, 1988, 102 Stat. 446.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698f, 698g, 698h, 698i, 698j, 698m, 698m–1 of this title.
-

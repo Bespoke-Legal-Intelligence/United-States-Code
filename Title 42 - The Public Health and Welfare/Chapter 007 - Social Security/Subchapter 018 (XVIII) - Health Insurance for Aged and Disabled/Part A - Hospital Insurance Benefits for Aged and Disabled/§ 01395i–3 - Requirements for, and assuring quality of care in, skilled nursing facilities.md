@@ -68,7 +68,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (iii) Use of independent assessors
 
-&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certifiedby individuals who are independent of the facility and who are approved by the State.
+&emsp;&emsp;&emsp;If a State determines, under a survey under subsection (g) of this section or otherwise, that there has been a knowing and willful certification of false assessments under this paragraph, the State may require (for a period specified by the State) that resident assessments under this paragraph be conducted and certified by individuals who are independent of the facility and who are approved by the State.
 
 #### (C) Frequency
 
@@ -138,7 +138,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;&emsp;(IV) the Secretary provides notice of the waiver to the State long-term care ombudsman (established under section 307(a)(12) <sup>1</sup> of the Older Americans Act of 1965) and the protection and advocacy system in the State for the mentally ill and the mentally retarded, and
 
-&emsp;&emsp;&emsp;&emsp;(V) the facility that is granted such a waiver notifies residents of the facility\(or, where appropriate, the guardians or legal representatives of such residents) and members of their immediate families of the waiver.
+&emsp;&emsp;&emsp;&emsp;(V) the facility that is granted such a waiver notifies residents of the facility (or, where appropriate, the guardians or legal representatives of such residents) and members of their immediate families of the waiver.
 
 &emsp;&emsp;&nbsp;A waiver under this subparagraph shall be subject to annual renewal.
 
@@ -194,7 +194,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (7) Required social services
 
-&emsp;In the case of a skilled nursing facility with more than 120 beds, the facility must have at least one social worker (with at least a bachelor's degree in social work or similar professional qualifications) employed full-time to provide or assure the provision of social services.
+&emsp;In the case of a skilled nursing facility with more than 120 beds, the facility must have atleast one social worker (with at least a bachelor's degree in social work or similar professional qualifications) employed full-time to provide or assure the provision of social services.
 
 #### (8) Information on nurse staffing
 
@@ -274,7 +274,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(i) inform each resident, orally and in writing at the time of admission to the facility, of the resident's legal rights during the stay at the facility;
 
-&emsp;&emsp;&emsp;(ii) make available to each resident, upon reasonable request, a written statement of such rights (which statement is updated upon changes in such rights) including the notice (if any) of the State developed under section 1396r(e)(6) of this title; and
+&emsp;&emsp;&emsp;(ii) make available to each resident, upon reasonable request, a written statement of such rights (which statement isupdated upon changes in such rights) including the notice (if any) of the State developed under section 1396r(e)(6) of this title; and
 
 &emsp;&emsp;&emsp;(iii) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under this subchapter or by the facility's basic per diem charge.
 
@@ -282,7 +282,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (C) Rights of incompetent residents
 
-&emsp;&emsp;In the case of a resident adjudged incompetent under the laws of a State, the rights of the resident under this subchapter shall devolve upon, and, to the extent judged necessary by a court of competent jurisdiction,be exercised by, the person appointed under State law to act on the resident's behalf.
+&emsp;&emsp;In the case of a resident adjudged incompetent under the laws of a State, the rights of the resident under this subchapter shall devolve upon, and, to the extent judged necessary by a court of competent jurisdiction, be exercised by, the person appointed under State law to act on the resident's behalf.
 
 #### (D) Use of psychopharmacologic drugs
 
@@ -360,7 +360,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;(C) permit immediate access to a resident, subject to reasonable restrictions and the resident's right to deny or withdraw consent at any time, by others who are visiting with the consent of the resident;
 
-&emsp;&emsp;(D) permit reasonable access to a resident by any entity or individual that provideshealth, social, legal, or other services to the resident, subject to the resident's right to deny or withdraw consent at any time; and
+&emsp;&emsp;(D) permit reasonable access to a resident by any entity or individual that provides health, social, legal, or other services to the resident, subject to the resident's right to deny or withdraw consent at any time; and
 
 &emsp;&emsp;(E) permit representatives of the State ombudsman (described in paragraph (2)(B)(iii)(II)), with the permission of the resident (or the resident's legal representative) and consistent with State law, to examine a resident's clinical records.
 
@@ -624,7 +624,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (A) Regulations required
 
-&emsp;&emsp;Pursuant to the requirement of section 21(b) of the Medicare-Medicaid Anti-Fraudand Abuse Amendments of 1977, the Secretary shall issue regulations, on or before the first day of the seventh month to begin after December 22, 1987, that define those costs which may be charged to the personal funds of residents in skilled nursing facilities who are individuals receiving benefits under this part and those costs which are to be included in the reasonable cost (or other payment amount) under this subchapter for extended care services.
+&emsp;&emsp;Pursuant to the requirement of section 21(b) of the Medicare-Medicaid Anti-Fraud and Abuse Amendments of 1977, the Secretary shall issue regulations, on or before the first day of the seventh month to begin after December 22, 1987, that define those costs which may be charged to the personal funds of residents in skilled nursing facilities who are individuals receiving benefits under this part and those costs which are to be included in the reasonable cost (or other payment amount) under this subchapter for extended care services.
 
 #### (B) Rule if failure to publish regulations
 
@@ -670,7 +670,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (orcauses to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (ii) Contents
 
@@ -736,13 +736,13 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (iii) Training
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federal surveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federalsurveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
 
 #### (3) Validation surveys
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of skilled nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted underparagraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determined that an individual skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
+&emsp;&emsp;The Secretary shall conduct onsite surveys of a representative sample of skilled nursing facilities in each State, within 2 months of the date of surveys conducted under paragraph (2) by the State, in a sufficient number to allow inferences about the adequacies of each State's surveys conducted under paragraph (2). In conducting such surveys, the Secretary shall use the same survey protocols as the State is required to use under paragraph (2). If the State has determined that an individual skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but the Secretary determines that the facility does not meet such requirements, the Secretary's determination as to the facility's noncompliance with such requirements is binding and supersedes that of the State survey.
 
 #### (B) Scope
 
@@ -800,7 +800,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (D) Access to fraud control units
 
-&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agency responsible for surveys and certifications under this subsection.
+&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agencyresponsible for surveys and certifications under this subsection.
 
 #### (h) Enforcement process
 
@@ -810,7 +810,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 &emsp;&emsp;(A) immediately jeopardize the health or safety of its residents, the State shall recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(i); or
 
-&emsp;&emsp;(B) do not immediately jeopardize the health or safety of its residents, the Statemay recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(ii).
+&emsp;&emsp;(B) do not immediately jeopardize the health or safety of its residents, the State may recommend to the Secretary that the Secretary take such action as described in paragraph (2)(A)(ii).
 
 > &emsp;If a State finds that a skilled nursing facility meets the requirements of subsections (b), (c), and (d) of this section, but, as of a previous period, did not meet such requirements, the State may recommend a civil money penalty under paragraph (2)(B)(ii) for the days in which it finds that the facility was not in compliance with such requirements.
 
@@ -990,7 +990,7 @@ Subsec. (f)(2)(A)(iv). Pub. L. 101–508, §4008(h)(1)(E), struck out “and” 
 
 Subsec. (f)(2)(B). Pub. L. 101–508, §4008(h)(1)(G), inserted “(through subcontract or otherwise)” after “may not delegate” in second sentence.
 
-Subsec. (f)(2)(B)(iii)(I). Pub. L. 101–508, §4008(h)(1)(F)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
+Subsec. (f)(2)(B)(iii)(I). Pub. L. 101–508, §4008(h)(1)(F)(i), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
 
 Subsec. (g)(1)(C). Pub. L. 101–508, §4008(h)(2)(L), inserted at end “A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.”
 
@@ -1068,7 +1068,7 @@ Subsec. (f)(7)(A). Pub. L. 100–360, §411(<i>l</i>)(2)(K), substituted “resi
 
 Subsec. (f)(7)(B). Pub. L. 100–360, §411(<i>l</i>)(2)(L)(i), substituted “shall include” for “shall not include”.
 
-Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
+Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after noticeto the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
 
 Subsec. (g)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
 
@@ -1142,7 +1142,7 @@ Section 4008(h)(1)(H) of Pub. L. 101–508 provided that: “Except as provided 
 
 Section 4008(h)(2)(P) of Pub. L. 101–508 provided that: “The amendments made by this paragraph \[amending this section and sections 1395x and 1395yy of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
-Section 4206(e)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (d) \[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 4206(e)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (d)\[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -1289,10 +1289,6 @@ Section 4201(c) of Pub. L. 100–203 provided that: “The Secretary of Health a
 #### Annual Report on Statutory Compliance and Enforcement Actions
 
 Section 4205 of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall report to the Congress annually on the extent to which skilled nursing facilities are complying with the requirements of subsections (b), (c), and (d) of section 1819 of the Social Security Act \[subsecs. (b), (c), and (d) of this section\] (as added by the amendments made by this part) and the number and type of enforcement actions taken by States and the Secretary under section 1819(h) of such Act (as added by section 4203 of this Act).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 296, 1395x, 1395aa, 1395bb, 1395cc, 1395tt, 1395yy, 1396r, 3002 of this title; title 10 section 1074j; title 38 section 3675.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,17 +26,17 @@ Information system.—The term “information system” has the meaning given th
 
 Information technology.—The term “information technology”—
 
-&emsp;&emsp;(A) with respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use—
+&emsp;&emsp;(A) with respect to an executive agency means any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use—
 
 &emsp;&emsp;&emsp;(i) of that equipment; or
 
 &emsp;&emsp;&emsp;(ii) of that equipment to a significant extent in the performance of a service or the furnishing of a product;
 
-&emsp;&emsp;(B) includes computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources; but
+&emsp;&emsp;(B) includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but
 
 &emsp;&emsp;(C) does not include any equipment acquired by a federal contractor incidental to a federal contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1235; Pub. L. 108–199, div. F, title V, §535(b), Jan. 23, 2004, 118 Stat. 345.)
 
 Historical and Revision Notes
 
@@ -56,9 +56,15 @@ Pub. L. 104–106, div. E, §5002, Feb. 10, 1996, 110 Stat. 679.
 
 The text of 40:1401(1) is omitted as unnecessary because the complete name of the Director of the Office of Management and Budget is used the first time the term appears in a section.
 
+#### Amendments
+
+2004—Par. (6)(A). Pub. L. 108–199, §535(b)(1), inserted “analysis, evaluation,” after “storage,”.
+
+Par. (6)(B). Pub. L. 108–199, §535(b)(2), substituted “ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer,” for “ancillary equipment,”.
+
 #### Ex. Ord. No. 13011. Federal Information Technology
 
-Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, §16, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13286, §18, Feb. 28, 2003, 68 F.R. 10623, provided:
+Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, §16, Jan. 23, 2003, 68 F.R.4076; Ex. Ord. No. 13286, §18, Feb. 28, 2003, 68 F.R. 10623, provided:
 
 A Government that works better and costs less requires efficient and effective information systems. The Paperwork Reduction Act of 1995 \[44 U.S.C. 3501 et seq.\] and the Information Technology Management Reform Act of 1996 \[now Clinger-Cohen Act of 1996, div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] provide the opportunity to improve significantly the way the Federal Government acquires and manages information technology. Agencies now have the clear authority and responsibility to make measurable improvements in mission performance and service delivery to the public through the strategic application of information technology. A coordinated approach that builds on existing structures and successful practices is needed to provide maximum benefit across the Federal Government from this technology.
 
@@ -266,7 +272,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States Government
 
 (3) developing and maintaining adequate recordkeeping systems.
 
-(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws anddetermine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
+(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws and determine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
 
 (d) Executive agencies shall cooperate fully in implementing this order and shall share information as appropriate that may be useful in combating the use of computer software in violation of applicable copyright laws.
 
@@ -295,8 +301,4 @@ Sec. 8. <i>Scope</i>. Nothing in this order shall be construed to limit or other
 Sec. 9. <i>Judicial Review</i>. This Executive order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2223, 2332; title 15 section 278g–3; title 29 section 794d; title 41 section 266a; title 44 sections 3502, 3532, 3542.
 

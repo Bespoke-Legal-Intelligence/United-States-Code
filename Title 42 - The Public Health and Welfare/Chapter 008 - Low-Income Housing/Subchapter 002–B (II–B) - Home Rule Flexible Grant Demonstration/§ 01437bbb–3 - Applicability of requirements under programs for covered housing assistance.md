@@ -10,7 +10,7 @@ In each fiscal year of the demonstration program under this subchapter, amounts 
 
 #### (b) Number of families assisted
 
-In carrying out the demonstration program under this subchapter, each participating jurisdiction shall assist substantially the same totalnumber of eligible low-income families as would have otherwise been served by the public housing agency for the jurisdiction had the jurisdiction not participated in the demonstration program under this subchapter.
+In carrying out the demonstration program under this subchapter, each participating jurisdiction shall assist substantially the same total number of eligible low-income families as would have otherwise been served by the public housing agency for the jurisdiction had the jurisdiction not participated in the demonstration program under this subchapter.
 
 #### (c) Protection of recipients
 
@@ -21,8 +21,4 @@ This subchapter may not be construed to authorize the termination of assistance 
 This subchapter may not be construed to affect the ability of any applying or participating jurisdiction (or a public housing agency for any such jurisdiction) to compete or otherwise apply for or receive assistance under any other housing assistance program administered by the Secretary.
 
 (Sept. 1, 1937, ch. 896, title IV, §404, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2619.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437bbb–4, 1437bbb–5 of this title.
 

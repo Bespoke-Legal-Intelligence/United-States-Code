@@ -26,7 +26,7 @@ Determination That Further Investigation Not Warranted.—
 
 &emsp;(1)
 
-Notification of division of the court.—If the Attorney General, upon completion of a preliminary investigation under this chapter, determines that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court,and the division of the court shall have no power to appoint an independent counsel with respect to the matters involved.
+Notification of division of the court.—If the Attorney General, upon completion of a preliminary investigation under this chapter, determines that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court, and the division of the court shall have no power to appoint an independent counsel with respect to the matters involved.
 
 &emsp;(2)
 
@@ -115,8 +115,4 @@ Amendment by Pub. L. 103–270 applicable with respect to independent counsels a
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 591, 593 of this title.
 

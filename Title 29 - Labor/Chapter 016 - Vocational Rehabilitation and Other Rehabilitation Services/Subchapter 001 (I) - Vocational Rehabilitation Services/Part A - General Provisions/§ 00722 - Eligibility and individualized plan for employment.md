@@ -54,7 +54,7 @@
 
 #### (5) Determination of ineligibility
 
-&emsp;If an individual who applies for services under this subchapter is determined, based onthe review of existing data and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, not to be eligible for the services, or if an eligible individual receiving services under an individualized plan for employment is determined to be no longer eligible for the services—
+&emsp;If an individual who applies for services under this subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, not to be eligible for the services, or if an eligible individual receiving services under an individualized plan for employment is determined to be no longer eligible for the services—
 
 &emsp;&emsp;(A) the ineligibility determination involved shall be made only after providing an opportunity for full consultation with the individual or, as appropriate, the individual's representative;
 
@@ -122,7 +122,7 @@
 
 #### (D) Copy
 
-&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall beprovided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
+&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall be provided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
 
 #### (E) Review and amendment
 
@@ -246,7 +246,7 @@
 
 #### (G) Confidentiality
 
-&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and may not be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
+&emsp;&emsp;Discussions that occur during the mediation process shall be confidential and maynot be used as evidence in any subsequent due process hearing or civil proceeding. The parties to the mediation process may be required to sign a confidentiality pledge prior to the commencement of such process.
 
 #### (H) Construction
 
@@ -280,7 +280,7 @@
 
 #### (D) Procedures for seeking review
 
-&emsp;&emsp;A State may establish procedures to enable a party involved in a hearing under thisparagraph to seek an impartial review of the decision of the hearing officer under subparagraph (A) by—
+&emsp;&emsp;A State may establish procedures to enable a party involved in a hearing under this paragraph to seek an impartial review of the decision of the hearing officer under subparagraph (A) by—
 
 &emsp;&emsp;&emsp;(i) the chief official of the designated State agency if the State has established both a designated State agency and a designated State unit under section 721(a)(2) of this title; or
 
@@ -318,7 +318,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any State court of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
+&emsp;&emsp;&emsp;Any party aggrieved by a final decision described in subparagraph (I), may bring a civil action for review of such decision. The action may be brought in any Statecourt of competent jurisdiction or in a district court of the United States of competent jurisdiction without regard to the amount in controversy.
 
 #### (ii) Procedure
 
@@ -411,8 +411,4 @@ A prior section 722, Pub. L. 93–112, title I, §102, Sept. 26, 1973, 87 Stat. 
 #### Amendments
 
 1998—Subsec. (c)(5)(F)(iv). Pub. L. 105–277 added cl. (iv).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 721, 723, 795, 795k of this title.
 

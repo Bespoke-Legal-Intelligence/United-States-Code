@@ -10,7 +10,3 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 1984—Pub. L. 98–489 authorized appropriations for acquisition of a visitor contact and administrative site.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698, 698a, 698b, 698c of this title.
-

@@ -68,7 +68,3 @@ Any foreclosure sale held in accordance with this chapter shall be conclusively 
 
 Section is based on section 811 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3756, 3759, 3761, 3764 of this title.
-

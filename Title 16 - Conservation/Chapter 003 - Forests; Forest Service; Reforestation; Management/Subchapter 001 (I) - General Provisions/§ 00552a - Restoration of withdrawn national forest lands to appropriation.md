@@ -20,7 +20,3 @@ Section 704(a) of Pub. L. 94–579 provided in part that this section is amended
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note set out under section 1701 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 552b, 552c, 552d of this title.
-

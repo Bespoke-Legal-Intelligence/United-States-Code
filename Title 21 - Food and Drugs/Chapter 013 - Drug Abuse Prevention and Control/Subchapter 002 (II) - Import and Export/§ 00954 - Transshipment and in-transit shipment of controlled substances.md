@@ -18,7 +18,3 @@ Notwithstanding sections 952, 953, and 957 of this title—
 
 Schedules I, II, III, and IV, referred to in text, are set out in section 812(c) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 830, 956, 961 of this title.
-

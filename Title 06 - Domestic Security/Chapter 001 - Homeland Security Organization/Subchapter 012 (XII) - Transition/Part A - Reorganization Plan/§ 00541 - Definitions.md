@@ -12,7 +12,3 @@ For purposes of this subchapter:
 
 The effective date of this chapter, referred to in par. (2), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 190, 231 of this title; title 5 section 9701.
-

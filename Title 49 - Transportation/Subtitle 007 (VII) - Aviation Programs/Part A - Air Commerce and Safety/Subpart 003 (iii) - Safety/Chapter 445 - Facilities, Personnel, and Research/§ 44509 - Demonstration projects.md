@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Sept. 3, 1982, Pub. L. 97–248, §506(b)(1), 96 Stat. 678; restated Dec. 30, 1987, Pub. L. 100–223, §105(b)(1), 101 Stat. 1490.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 44501, 48102, 50101, 50102, 50105 of this title; title 26 section 4261.
-

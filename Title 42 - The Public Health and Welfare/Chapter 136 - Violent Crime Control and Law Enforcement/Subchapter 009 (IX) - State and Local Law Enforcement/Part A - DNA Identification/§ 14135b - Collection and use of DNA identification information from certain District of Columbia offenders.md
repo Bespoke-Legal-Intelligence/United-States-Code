@@ -50,15 +50,11 @@ Collection of DNA samples under subsection (a) of this section shall, subject to
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out thissection such sums as may be necessary for each of fiscal years 2001 through 2005.
+There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out this section such sums as may be necessary for each of fiscal years 2001 through 2005.
 
 (Pub. L. 106–546, §4, Dec. 19, 2000, 114 Stat. 2730.)
 
 #### Codification
 
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14132, 14135c, 14135e of this title; title 10 section 1565; title 18 section 4209.
 

@@ -78,11 +78,15 @@ Permissible range.—For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the <sup>1</sup> weighted average of the rates of interest on 30-year Treasury securities during the4-year period ending on the last day before the beginning of the plan year.
+In general.—Except as provided in subclause (II) or (III), the term “permissible range” means a rate of interest which is not more than 10 percent above, and not more than 10 percent below, the the <sup>1</sup> weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
 
 &emsp;&emsp;&emsp;(II)
 
-Secretarial authority.—If the Secretary finds that the lowest rate of interest permissible under subclause (I) is unreasonably high, the Secretary may prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under subclause (I).
+Special rule for years 2004 and 2005.—In the case of plan years beginning after December 31, 2003, and before January 1, 2006, the term “permissible range” means a rate of interest which is not above, and not more than 10 percent below, the weighted average of the rates of interest on amounts invested conservatively in long-term investment grade corporate bonds during the 4-year period ending on the last day before the beginning of the plan year. Such rates shall be determined by the Secretary of the Treasury on the basis of 2 or more indices that are selected periodically by the Secretary of the Treasury and that are in the top 3 quality levels available. The Secretary of the Treasury shall make the permissible range, and the indices and methodology used to determine the average rate, publicly available.
+
+&emsp;&emsp;&emsp;(III)
+
+Secretarial authority.—If the Secretary finds that the lowest rate of interest permissible under subclause (I) or (II) is unreasonably high, the Secretary may prescribe a lower rate of interest, except that such rate may not be less than 80 percent of the average rate determined under such subclause.
 
 &emsp;&emsp;(iii)
 
@@ -126,13 +130,63 @@ Assumptions.—Notwithstanding subsection (c)(3)(A)(i) of this section, the inte
 
 &emsp;(E) For purposes of the full funding limitation under subsection (c)(7) of this section, unless otherwise provided by the plan, the accrued liability under a multiemployer plan shall not include benefits which are not nonforfeitable under the plan after the termination of the plan (taking into consideration section 411(d)(3) of title 26).
 
+&emsp;(F)
+
+Election for deferral of charge for portion of net experience loss.—
+
+&emsp;&emsp;(i)
+
+In general.—With respect to the net experience loss of an eligible multiemployer plan for the first plan year beginning after December 31, 2001, the plan sponsor may elect to defer up to 80 percent of the amount otherwise required to be charged under paragraph (2)(B)(iv) for any plan year beginning after June 30, 2003, and before July 1, 2005, to any plan year selected by the plan from either of the 2 immediately succeeding plan years.
+
+&emsp;&emsp;(ii)
+
+Interest.—For the plan year to which a charge is deferred pursuant to an election under clause (i), the funding standard account shall be charged with interest on the deferred charge for the period of deferral at the rate determined under section 1084(a) of this title for multiemployer plans.
+
+&emsp;&emsp;(iii)
+
+Restrictions on benefit increases.—No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any period for which a charge is deferred pursuant to an election under clause (i), unless—
+
+&emsp;&emsp;&emsp;(I) the plan's enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or
+
+&emsp;&emsp;&emsp;(II) the amendment is required by a collective bargaining agreement which is in effect on April 10, 2004.
+
+> &emsp;&emsp;If a plan is amended during any such plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any such plan year ending on or after the date on which such amendment is adopted.
+
+&emsp;&emsp;(iv)
+
+Eligible multiemployer plan.—For purposes of this subparagraph, the term “eligible multiemployer plan” means a multiemployer plan—
+
+&emsp;&emsp;&emsp;(I) which had a net investment loss for the first plan year beginning after December 31, 2001, of at least 10 percent of the average fair market value of the plan assets during the plan year, and
+
+&emsp;&emsp;&emsp;(II) with respect to which the plan's enrolled actuary certifies (not taking into account the application of this subparagraph), on the basis of the acutuarial <sup>2</sup> assumptions used for the last plan year ending before April 10, 2004, that the plan is projected to have an accumulated funding deficiency (within the meaning of subsection (a)(2) of this section) for any plan year beginning after June 30, 2003, and before July 1, 2006.
+
+> &emsp;&emsp;For purposes of subclause (I), a plan's net investment loss shall be determined on the basis of the actual loss and not under any actuarial method used under subsection (c)(2) of this section.
+
+&emsp;&emsp;(v)
+
+Exception to treatment of eligible multiemployer plan.—In no event shall a plan be treated as an eligible multiemployer plan under clause (iv) if—
+
+&emsp;&emsp;&emsp;(I) for any taxable year beginning during the 10-year period preceding the first plan year for which an election is made under clause (i), any employer required to contribute to the plan failed to timely pay any excise tax imposed under section 4971 of title 26 with respect to the plan,
+
+&emsp;&emsp;&emsp;(II) for any plan year beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), the average contribution required to be made by all employers to the plan does not exceed 10 cents per hour or no employer is required to make contributions to the plan, or
+
+&emsp;&emsp;&emsp;(III) with respect to any of the plan years beginning after June 30, 1993, and before the first plan year for which an election is made under clause (i), a waiver was granted under section 1083 of this title or section 412(d) of title 26 with respect to the plan or an extension of an amortization period was granted under section 1084 of this title or section 412(e) of title 26 with respect to the plan.
+
+&emsp;&emsp;(vi)
+
+Notice.—If a plan sponsor makes an election under this subparagraph or section 412(b)(7)(F) of title 26 for any plan year, the plan administrator shall provide, within 30 days of filing the election for such year, written notice of the election to participants and beneficiaries, to each labor organization representing such participants or beneficiaries, to each employer that has an obligation to contribute under the plan, and to the Pension Benefit Guaranty Corporation. Such notice shall include with respect to any election the amount of any charge to be deferred and the period of the deferral. Such notice shall also include the maximum guaranteed monthly benefits which the Pension Benefit Guaranty Corporation would pay if the plan terminated while underfunded.
+
+&emsp;&emsp;(vii)
+
+Election.—An election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury may prescribe.
+
 #### (c) Methods
 
 (1) For purposes of this part, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
 
 (2)(A) For purposes of this part, the value of the plan's assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary of the Treasury.
 
-(B) For purposes of this part, the value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary of the Treasury. In the case of a plan other than amultiemployer plan, this subparagraph shall not apply, but the Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5) of this section.
+(B) For purposes of this part, the value of a bond or other evidence of indebtedness which is not in default as to principal or interest may, at the election of the plan administrator, be determined on an amortized basis running from initial cost at purchase to par value at maturity or earliest call date. Any election under this subparagraph shall be made at such time and in such manner as the Secretary of the Treasury shall by regulations provide, shall apply to all such evidences of indebtedness, and may be revoked only with the consent of the Secretary of the Treasury. In the case of a plan other than a multiemployer plan, this subparagraph shall not apply, but the Secretary of the Treasury may by regulations provide that the value of any dedicated bond portfolio of such plan shall be determined by using the interest rate under subsection (b)(5) of this section.
 
 (3) For purposes of this section, all costs, liabilities, rates of interest, and other factors under the plan shall be determined on the basis of actuarial assumptions and methods—
 
@@ -308,7 +362,7 @@ Controlled group.—For purposes of clause (i), the term “controlled group” 
 
 (12)
 
-Anticipation of benefit increases effective in the future.—In determining projected benefits, the funding method of a collectively bargained plan described in section 413(a) of title26 (other than a multiemployer plan) shall anticipate benefit increases scheduled to take effect during the term of the collective bargaining agreement applicable to the plan.
+Anticipation of benefit increases effective in the future.—In determining projected benefits, the funding method of a collectively bargained plan described in section 413(a) of title 26 (other than a multiemployer plan) shall anticipate benefit increases scheduled to take effect during the term of the collective bargaining agreement applicable to the plan.
 
 #### (d) Additional funding requirements for plans which are not multiemployer plans
 
@@ -362,7 +416,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (ii) Unfunded existing benefit increase liabilities
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the unfunded existing benefit increase liability means, with respect to any benefit increase under the agreements described in clause (i) which takes effect during or after the 1st plan year beginning after December 31, 1987, the unfunded current liability determined—
+&emsp;&emsp;&emsp;For purposes of clause (i), the unfunded existing benefit increase liability means, with respect to any benefit increase under the agreements described in clause (i) which takes effect during or after the 1stplan year beginning after December 31, 1987, the unfunded current liability determined—
 
 &emsp;&emsp;&emsp;&emsp;(I) by taking into account only liabilities attributable to such benefit increase, and
 
@@ -512,7 +566,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (D) Special rule for first year of amortization
 
-&emsp;&emsp;Unless the employer elects otherwise, the amount determined under subparagraph (A)for the plan year in which the event occurs shall be equal to 150 percent of the amount determined under subparagraph (A)(i). The amount under subparagraph (A)(ii) for subsequent plan years in the amortization period shall be adjusted in the manner provided by the Secretary of the Treasury to reflect the application of this subparagraph.
+&emsp;&emsp;Unless the employer elects otherwise, the amount determined under subparagraph (A) for the plan year in which the event occurs shall be equal to 150 percent of the amount determined under subparagraph (A)(i). The amount under subparagraph (A)(ii) for subsequent plan years in the amortization period shall be adjusted in the manner provided by the Secretary of the Treasury to reflect the application of this subparagraph.
 
 #### (E) Limitation
 
@@ -608,6 +662,10 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;&emsp;&emsp;For a plan year beginning in 2002 or 2003, notwithstanding subclause (I), in the case that the rate of interest used under subsection (b)(5) of this section exceeds the highest rate permitted under subclause (I), the rate of interest used to determine current liability under this subsection may exceed the rate of interest otherwise permitted under subclause (I); except that such rate of interest shall not exceed 120 percent of the weighted average referred to in subsection (b)(5)(B)(ii) of this section.
 
+#### (IV) Special rule for 2004 and 2005
+
+&emsp;&emsp;&emsp;&emsp;For plan years beginning in 2004 or 2005, notwithstanding subclause (I), the rate of interest used to determine current liability under this subsection shall be the rate of interest under subsection (b)(5) of this section.
+
 #### (ii) Mortality tables
 
 #### (I) Commissioners’ standard table
@@ -620,7 +678,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (III) Periodic review
 
-&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) reviewany tables in effect under this subsection and shall, to the extent the Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subsection and shall, to the extent the Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
 
 #### (iii) Separate mortality tables for the disabled
 
@@ -782,7 +840,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (A) In general
 
-&emsp;&emsp;For any applicable plan year, at the election of the employer, the increase under paragraph (1) shall not exceed the greater of—
+&emsp;&emsp;For any applicable plan year, at the election of the employer, the increase underparagraph (1) shall not exceed the greater of—
 
 &emsp;&emsp;&emsp;(i) the increase that would be required under paragraph (1) if the provisions of this subchapter as in effect for plan years beginning before January 1, 1995, had remained in effect, or
 
@@ -871,6 +929,76 @@ Anticipation of benefit increases effective in the future.—In determining proj
 &emsp;&emsp;&emsp;(i) The term “applicable plan year” means a plan year beginning after December 31, 1994, and before January 1, 2002.
 
 &emsp;&emsp;&emsp;(ii) The term “initial funded current liability percentage” means the funded current liability percentage as of the first day of the first plan year beginning after December 31, 1994.
+
+#### (12) Election for certain plans
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a defined benefit plan established and maintained by an applicable employer, if this subsection did not apply to the plan for the plan year beginning in 2000 (determined without regard to paragraph (6)), then, at the election of the employer, the increased amount under paragraph (1) for any applicable plan year shall be the greater of—
+
+&emsp;&emsp;&emsp;(i) 20 percent of the increased amount under paragraph (1) determined without regard to this paragraph, or
+
+&emsp;&emsp;&emsp;(ii) the increased amount which would be determined under paragraph (1) if the deficit reduction contribution under paragraph (2) for the applicable plan year were determined without regard to subparagraphs (A), (B), and (D) of paragraph (2).
+
+#### (B) Restrictions on benefit increases
+
+&emsp;&emsp;No amendment which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted during any applicable plan year, unless—
+
+&emsp;&emsp;&emsp;(i) the plan's enrolled actuary certifies (in such form and manner prescribed by the Secretary of the Treasury) that the amendment provides for an increase in annual contributions which will exceed the increase in annual charges to the funding standard account attributable to such amendment, or
+
+&emsp;&emsp;&emsp;(ii) the amendment is required by a collective bargaining agreement which is in effect on April 10, 2004.
+
+> &emsp;&emsp;If a plan is amended during any applicable plan year in violation of the preceding sentence, any election under this paragraph shall not apply to any applicable plan year ending on or after the date on which such amendment is adopted.
+
+#### (C) Applicable employer
+
+&emsp;&emsp;For purposes of this paragraph, the term “applicable employer” means an employer which is—
+
+&emsp;&emsp;&emsp;(i) a commercial passenger airline,
+
+&emsp;&emsp;&emsp;(ii) primarily engaged in the production or manufacture of a steel mill product or the processing of iron ore pellets, or
+
+&emsp;&emsp;&emsp;(iii) an organization described in section 501(c)(5) of title 26 and which established the plan to which this paragraph applies on June 30, 1955.
+
+#### (D) Applicable plan year
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “applicable plan year” means any plan year beginning after December 27, 2003, and before December 28, 2005, for which the employer elects the application of this paragraph.
+
+#### (ii) Limitation on number of years which may be elected
+
+&emsp;&emsp;&emsp;An election may not be made under this paragraph with respect to more than 2 plan years.
+
+#### (E) Notice requirements for plans electing alternative deficit reduction contributions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If an employer elects an alternative deficit reduction contribution under this paragraph and section 412(<i>l</i>)(12) of title 26 for any year, the employer shall provide, within 30 days of filing the election for such year, written notice of the election to participants and beneficiaries and to the Pension Benefit Guaranty Corporation.
+
+#### (ii) Notice to participants and beneficiaries
+
+&emsp;&emsp;&emsp;The notice under clause (i) to participants and beneficiaries shall include with respect to any election—
+
+&emsp;&emsp;&emsp;&emsp;(I) the due date of the alternative deficit reduction contribution and the amount by which such contribution was reduced from the amount which would have been owed if the election were not made, and
+
+&emsp;&emsp;&emsp;&emsp;(II) a description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation and an explanation of the limitations on the guarantee and the circumstances under which such limitations apply, including the maximum guaranteed monthly benefits which the Pension Benefit Guaranty Corporation would pay if the plan terminated while underfunded.
+
+#### (iii) Notice to PBGC
+
+&emsp;&emsp;&emsp;The notice under clause (i) to the Pension Benefit Guaranty Corporation shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the information described in clause (ii)(I),
+
+&emsp;&emsp;&emsp;&emsp;(II) the number of years it will take to restore the plan to full funding if the employer only makes the required contributions, and
+
+&emsp;&emsp;&emsp;&emsp;(III) information as to how the amount by which the plan is underfunded compares with the capitalization of the employer making the election.
+
+#### (F) Election
+
+&emsp;&emsp;An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury may prescribe.
 
 #### (e) Quarterly contributions required
 
@@ -1065,23 +1193,15 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (A) Fiscal years
 
-&emsp;&emsp;In applying this subsection to a plan year beginning on any date other than January 1,there shall be substituted for the months specified in this subsection, the months which correspond thereto.
+&emsp;&emsp;In applying this subsection to a plan year beginning on any date other than January 1, there shall be substituted for the months specified in this subsection, the months which correspond thereto.
 
 #### (B) Short plan year
 
 &emsp;&emsp;This section shall be applied to plan years of less than 12 months in accordance with regulations prescribed by the Secretary of the Treasury.
 
-#### (7) Special rules for 2002 and 2004
+#### (7) Special rule for 2002
 
-&emsp;In any case in which the interest rate used to determine current liability is determined under subsection (d)(7)(C)(i)(III) of this section—
-
-#### (A) 2002
-
-&emsp;&emsp;For purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
-
-#### (B) 2004
-
-&emsp;&emsp;For purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2004, the current liability for the preceding plan year shall be redetermined using 105 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
+&emsp;In any case in which the interest rate used to determine current liability is determined under subsection (d)(7)(C)(i)(III) of this section, for purposes of applying paragraphs (1) and (4)(B)(ii) for plan years beginning in 2002, the current liability for the preceding plan year shall be redetermined using 120 percent as the specified percentage determined under subsection (d)(7)(C)(i)(II) of this section.
 
 #### (f) Imposition of lien where failure to make required contributions
 
@@ -1143,13 +1263,13 @@ For purposes of this section, in the case of a qualified transfer (as defined in
 
 &emsp;(1) any assets transferred in a plan year on or before the valuation date for such year (and any income allocable thereto) shall, for purposes of subsection (c)(7) of this section, be treated as assets in the plan as of the valuation date for such year, and
 
-&emsp;(2) the plan shall be treated as having a net experience loss under subsection (b)(2)(B)(iv)of this section in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the plan under section 420(c)(1)(B) of title 26) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such subsection shall be applied to such amount by substituting “10 plan years” for “5 plan years”.
+&emsp;(2) the plan shall be treated as having a net experience loss under subsection (b)(2)(B)(iv) of this section in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the plan under section 420(c)(1)(B) of title 26) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such subsection shall be applied to such amount by substituting “10 plan years” for “5 plan years”.
 
 #### (h) Cross reference
 
 &emsp;&emsp;<b>For alternative amortization method for certain multiemployer plans see section 1013(d) of this Act.</b>
 
-(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52.)
+(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604.)
 
 #### Amendment of Section
 
@@ -1169,6 +1289,20 @@ Section 2005(d)(2) of Pub. L. 100–647, which directed that subsec. (d)(3)(B) o
 
 #### Amendments
 
+2004—Subsec. (b)(5)(B)(ii)(I). Pub. L. 108–218, §101(a)(1)(C), inserted “or (III)” after “subclause (II)”.
+
+Subsec. (b)(5)(B)(ii)(II). Pub. L. 108–218, §101(a)(1)(A), added subcl. (II). Former subcl. (II) redesignated (III).
+
+Subsec. (b)(5)(B)(ii)(III). Pub. L. 108–218, §101(a)(1)(A), (B), redesignated subcl. (II) as (III), inserted “or (II)” after “subclause (I)” the first place appearing, and substituted “such subclause” for “subclause (I)” the second place appearing.
+
+Subsec. (b)(7)(F). Pub. L. 108–218, §104(a)(1), added subpar. (F).
+
+Subsec. (d)(7)(C)(i)(IV). Pub. L. 108–218, §101(a)(2), added subcl. (IV).
+
+Subsec. (d)(12). Pub. L. 108–218, §102(a), added par. (12).
+
+Subsec. (e)(7). Pub. L. 108–218, §101(a)(3), amended heading and text of par. (7) generally. Prior to amendment, text consisted of subpars. (A) and (B) relating to special rules for 2002 and 2004, respectively.
+
 2002—Subsec. (c)(9)(B)(ii). Pub. L. 107–147, §411(v)(2)(A), substituted “100 percent” for “125 percent”.
 
 Subsec. (c)(9)(B)(iv). Pub. L. 107–147, §411(v)(2)(B), added cl. (iv).
@@ -1181,7 +1315,7 @@ Subsec. (e)(7). Pub. L. 107–147, §405(b)(2), added par. (7).
 
 Subsec. (c)(7)(F). Pub. L. 107–16, §§651(b)(2), 901, temporarily reenacted heading without change and amended text of subpar. (F) generally, substituting applicable percentages 165 and 170 in the case of any plan year beginning in calendar year 2002 and 2003, respectively, for applicable percentages 155, 160, 165, and 170 in the case of any plan year beginning in 1999 or 2000, 2001 or 2002, 2003 or 2004, and 2005 and succeeding years, respectively. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (c)(9). Pub. L. 107–16, §§661(b), 901, temporarily designated existing provisions as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(9). Pub. L. 107–16, §§661(b), 901, temporarily designated existing provisions as subpar. (A) andadded subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(2), added subpar. (E).
 
@@ -1345,6 +1479,10 @@ Subsec. (b)(3). Pub. L. 96–364, §304(b)(1), struck out in par. (B)(i) “(40 
 
 Subsec. (b)(6), (7). Pub. L. 96–364, §304(b)(2), added pars. (6) and (7).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 101(a) of Pub. L. 108–218 applicable, except as otherwise provided, to plan years beginning after Dec. 31, 2003, see section 101(d) of Pub. L. 108–218, set out as a note under section 404 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by section 411(v)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
@@ -1431,9 +1569,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1021, 1023, 1053, 1054, 1055, 1056, 1060, 1083, 1084, 1085, 1085a, 1085b, 1301, 1303, 1306, 1310, 1311, 1342, 1343, 1362, 1371, 1423 of this title; title 26 section 412.
-
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “actuarial”.</i>
 

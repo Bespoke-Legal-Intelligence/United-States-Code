@@ -8,7 +8,3 @@ An eligible entity receiving a grant under this subpart shall use the funds depo
 
 (Pub. L. 89–10, title V, §5224, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1801.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7223d, 7223f of this title.
-

@@ -4,7 +4,3 @@ Any record or paper required by section 1974 of this title to be retained and pr
 
 (Pub. L. 86–449, title III, §303, May 6, 1960, 74 Stat. 88.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1974d of this title.
-

@@ -14,7 +14,3 @@ By written stipulation of the parties, the testimony of any witness of either pa
 
 (Pub. L. 91–138, §8, Dec. 5, 1969, 83 Stat. 287.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 386 of this title.
-

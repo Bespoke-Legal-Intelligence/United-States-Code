@@ -4,7 +4,3 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 (Pub. L. 101–442, title I, §104, Oct. 18, 1990, 104 Stat. 1020.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430h–6 of this title.
-

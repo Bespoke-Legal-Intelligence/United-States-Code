@@ -38,7 +38,7 @@
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a)of Pub. L. 95–570, set out as a note under section 102 of this title.
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under section 102 of this title.
 
 #### Effective Date of 1949 Amendment
 
@@ -85,8 +85,4 @@ Sec. 6. (a) The compensation and expenses of the Special Assistant and members o
 (b) The General Services Administration shall provide, on a reimbursable basis, such administrative services and facilities for the Special Assistant as the White House Office may request.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 115 of this title; title 18 sections 207, 1751; title 26 section 3121; title 31 section 3524; title 42 section 410.
 

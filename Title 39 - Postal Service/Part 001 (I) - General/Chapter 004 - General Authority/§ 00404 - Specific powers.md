@@ -16,7 +16,7 @@
 
 &emsp;(7) to investigate postal offenses and civil matters relating to the Postal Service;
 
-&emsp;(8) to offer and pay rewards for information and services in connection with violation ofthe postal laws, and, unless a different disposal is expressly prescribed, to pay one-half of all penalties and forfeitures imposed for violations of law affecting the Postal Service, its revenues, or property, to the person informing for the same, and to pay the other one-half into the Postal Service Fund; and
+&emsp;(8) to offer and pay rewards for information and services in connection with violation of the postal laws, and, unless a different disposal is expressly prescribed, to pay one-half of all penalties and forfeitures imposed for violations of law affecting the Postal Service, its revenues, or property, to the person informing for the same, and to pay the other one-half into the Postal Service Fund; and
 
 &emsp;(9) to authorize the issuance of a substitute check for a lost, stolen, or destroyed check of the Postal Service.
 
@@ -81,8 +81,4 @@ Section 9(b) of Pub. L. 94–421 provided that: “The amendments made by subsec
 #### Effective Date
 
 Pars. (1), (3) to (9) of subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and par. (2) of subsec. (a) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 10601.
 

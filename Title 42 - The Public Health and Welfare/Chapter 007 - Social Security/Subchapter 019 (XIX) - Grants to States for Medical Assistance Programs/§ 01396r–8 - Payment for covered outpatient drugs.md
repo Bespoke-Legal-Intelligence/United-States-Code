@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for payment to be available under section 1396b(a) of this title or under part B of subchapter XVIII of this chapter for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall be deemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall become effective as of the date on which the agreement is entered into or, at State option, on any date thereafter on or before the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
+&emsp;In order for payment to be available under section 1396b(a) of this title or under part B of subchapter XVIII of this chapter for covered outpatient drugs of a manufacturer, the manufacturer must have entered into and have in effect a rebate agreement described in subsection (b) of this section with the Secretary, on behalf of States (except that, the Secretary may authorize a State to enter directly into agreements with a manufacturer), and must meet the requirements of paragraph (5) (with respect to drugs purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992) and paragraph (6). Any agreement between a State and a manufacturer prior to April 1, 1991, shall bedeemed to have been entered into on January 1, 1991, and payment to such manufacturer shall be retroactively calculated as if the agreement between the manufacturer and the State had been entered into on January 1, 1991. If a manufacturer has not entered into such an agreement before March 1, 1991, such an agreement, subsequently entered into, shall become effective as of the date on which the agreement is entered into or, at State option, on any date thereafter on or before the first day of the calendar quarter that begins more than 60 days after the date the agreement is entered into.
 
 #### (2) Effective date
 
@@ -52,7 +52,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A manufacturer meets the requirements of this paragraph if the manufacturer complies with the provisions of section 8126 of title 38, including the requirement of entering into a master agreement with the Secretary of Veterans Affairs under such section.
+&emsp;&emsp;A manufacturer meets the requirements of this paragraph if the manufacturer complies with the provisions of section 8126 of title 38, including the requirement of entering into amaster agreement with the Secretary of Veterans Affairs under such section.
 
 #### (B) Effect of subsequent amendments
 
@@ -318,7 +318,7 @@
 
 #### (3) Update of drug listings
 
-&emsp;The Secretary shall, by regulation, periodically update the list of drugs or classes of drugs described in paragraph (2) or their medical uses, which the Secretary has determined, based on data collected by surveillance and utilization review programs of State medicalassistance programs, to be subject to clinical abuse or inappropriate use.
+&emsp;The Secretary shall, by regulation, periodically update the list of drugs or classes of drugs described in paragraph (2) or their medical uses, which the Secretary has determined, based on data collected by surveillance and utilization review programs of State medical assistance programs, to be subject to clinical abuse or inappropriate use.
 
 #### (4) Requirements for formularies
 
@@ -328,7 +328,7 @@
 
 &emsp;&emsp;(B) Except as provided in subparagraph (C), the formulary includes the covered outpatient drugs of any manufacturer which has entered into and complies with an agreement under subsection (a) of this section (other than any drug excluded from coverage or otherwise restricted under paragraph (2)).
 
-&emsp;&emsp;(C) A covered outpatient drug may be excluded with respect to the treatment of a specific disease or condition for an identified population (if any) only if, based on the drug's labeling (or, in the case of a drug the prescribed use of which is not approved under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] but is a medically accepted indication, based on information from the appropriate compendia described in subsection (k)(6) of this section), the excluded drug does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome of such treatment for such population over other drugs included in the formulary and there is a written explanation (available to the public) of the basis for the exclusion.
+&emsp;&emsp;(C) A covered outpatient drug may be excluded with respect to the treatment of a specific disease or condition for an identified population (if any) only if, based on the drug's labeling (or, in the case of a drug the prescribed use of which is not approved under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] but is a medically accepted indication, based on information from the appropriate compendia described insubsection (k)(6) of this section), the excluded drug does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome of such treatment for such population over other drugs included in the formulary and there is a written explanation (available to the public) of the basis for the exclusion.
 
 &emsp;&emsp;(D) The State plan permits coverage of a drug excluded from the formulary (other than any drug excluded from coverage or otherwise restricted under paragraph (2)) pursuant to a prior authorization program that is consistent with paragraph (5).
 
@@ -380,7 +380,7 @@
 
 #### (1) In general
 
-&emsp;(A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shallprovide, by not later than January 1, 1993, for a drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
+&emsp;(A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shall provide, by not later than January 1, 1993, for a drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
 
 &emsp;(B) The program shall assess data on drug use against predetermined standards, consistent with the following:
 
@@ -438,7 +438,7 @@
 
 #### (B) Retrospective drug use review
 
-&emsp;&emsp;The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodic examination of claims data and otherrecords in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
+&emsp;&emsp;The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodic examination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
 
 #### (C) Application of standards
 
@@ -504,7 +504,7 @@
 
 &emsp;&emsp;(A) for calendar quarters during fiscal years 1991 and 1992, expenditures under the State plan attributable to development of a system described in paragraph (1) shall receive Federal financial participation under section 1396b(a)(3)(A)(i) of this title (at a matching rate of 90 percent) if the State acquires, through applicable competitive procurement process in the State, the most cost-effective telecommunications network and automatic data processing services and equipment; and
 
-&emsp;&emsp;(B) the Secretary may permit, in the procurement described in subparagraph (A) in the application of part 433 of title 42, Code of Federal Regulations, and parts 95, 205, and 307 of title 45, Code of Federal Regulations, the substitution of the State's request for proposal in competitive procurement for advance planning and implementation documents otherwise required.
+&emsp;&emsp;(B) the Secretary may permit, in the procurement described in subparagraph (A) in the application of part 433 of title 42, Code of Federal Regulations, and parts 95, 205, and307 of title 45, Code of Federal Regulations, the substitution of the State's request for proposal in competitive procurement for advance planning and implementation documents otherwise required.
 
 #### (i) Omitted
 
@@ -566,7 +566,7 @@ In this section—
 
 &emsp;&emsp;(H) Renal dialysis.
 
-> &emsp;Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological <sup>8</sup> used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.
+> &emsp;Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological <sup>8</sup> used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (asdefined in subsection (c)(1)(C) of this section) for such drug, biological product, or insulin.
 
 #### (4) Nonprescription drugs
 
@@ -628,13 +628,13 @@ In this section—
 
 #### (8) Rebate period
 
-&emsp;The term “rebate period” means, with respect to an agreement under subsection (a) ofthis section, a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
+&emsp;The term “rebate period” means, with respect to an agreement under subsection (a) of this section, a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
 
 #### (9) State agency
 
 &emsp;The term “State agency” means the agency designated under section 1396a(a)(5) of this title to administer or supervise the administration of the State plan for medical assistance.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493, 527; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§606(a), 608(u)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, 1501A–398; Pub. L. 108–173, title I, §§101(e)(4), (9), 103(e)(1), 105(b), title III, §303(i)(4), title IX, §900(e)(1)(K), (L), title X, §1002, Dec. 8, 2003, 117 Stat. 2151, 2152, 2159, 2166, 2254, 2372, 2431.)
+(Aug. 14, 1935, ch. 531, title XIX, §1927, as added Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; amended Pub. L. 102–585, title VI, §601(a)–(c), Nov. 4, 1992, 106 Stat. 4962–4964; Pub. L. 103–18, §2(a), Apr. 12, 1993, 107 Stat. 54; Pub. L. 103–66, title XIII, §13602(a), Aug. 10, 1993, 107 Stat. 613; Pub. L. 105–33, title IV, §§4701(b)(2)(A)(x), 4756, Aug. 5, 1997, 111 Stat. 493, 527; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§606(a), 608(u)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, 1501A–398; Pub. L. 108–173, title I,§§101(e)(4), (9), 103(e)(1), 105(b), title III, §303(i)(4), title IX, §900(e)(1)(K), (L), title X, §1002, Dec. 8, 2003, 117 Stat. 2151, 2152, 2159, 2166, 2254, 2372, 2431.)
 
 #### References in Text
 
@@ -766,7 +766,7 @@ Section 13602(d) of Pub. L. 103–66 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1396a and 1396b of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].
 
-“(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[subsec. (d) of this section\]) and the amendment made bysubsection (c) \[amending section 1396a of this title\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
+“(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[subsec. (d) of this section\]) and the amendment made by subsection (c) \[amending section 1396a of this title\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
 
 Section 2(b) of Pub. L. 103–18 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 601(c) of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\].”
 
@@ -776,7 +776,7 @@ Section 601(e) of Pub. L. 102–585 provided that: “The amendments made by thi
 
 #### Application of 2003 Amendment to Physician Specialties
 
-Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals and drug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under subchapter XVIII of this chapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
+Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments for drugs or biologicals anddrug administration services furnished by physicians, is applicable only to physicians in the specialties of hematology, hematology/oncology, and medical oncology under subchapter XVIII of this chapter, see section 303(j) of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
@@ -791,10 +791,6 @@ Section 4401(c) of title IV of Pub. L. 101–508 directed Secretary of Health an
 #### Study of Drug Purchasing and Billing Practices in Health Care Industry; Report
 
 Section 4401(d) of title IV of Pub. L. 101–508, as amended by Pub. L. 104–316, title I, §122(i), Oct. 19, 1996, 110 Stat. 3837, provided for various studies and reports as follows: (1) directed Comptroller General to conduct study of drug purchasing and billing activities of various health care systems, and to submit report to Secretary of Health and Human Services and to Congress by not later than May 1, 1991; (2) directed Comptroller General to submit to Secretary and Congress report on changes in prices charged by manufacturers for prescription drugs to Department of Veterans Affairs, other Federal programs, hospital pharmacies, and other purchasing groups and managed care plans; (3) directed Secretary, acting in consultation with Comptroller General, to study prior approval procedures utilized by State medical assistance programs conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; (4) directed Secretary to conduct study on adequacy of current reimbursement rates to pharmacists under each State medical assistance program conducted under this subchapter, and to submit report to Congress by not later than Dec. 31, 1991; and (5) directed Secretary to undertake study of relationship between State medical assistance plans and Federal and State acquisition and reimbursement policies for vaccines and accessibility of vaccinations and immunization to children, and to report to Congress not later than one year after Nov. 5, 1990.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 256b, 1395<i>l</i>, 1395w–3a, 1395w–3b, 1395w–102, 1395w–104, 1395w–114, 1395w–141, 1396a, 1396b, 1396u–5 of this title; title 38 section 8126.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

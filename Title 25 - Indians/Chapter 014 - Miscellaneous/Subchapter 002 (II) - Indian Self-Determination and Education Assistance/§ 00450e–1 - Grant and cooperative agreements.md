@@ -12,9 +12,5 @@ Section 450g of this title, referred to in text, was in the original “section 
 
 1990—Pub. L. 101–301 substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 (Pub. L. 95–224; 92 Stat. 3)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450b of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

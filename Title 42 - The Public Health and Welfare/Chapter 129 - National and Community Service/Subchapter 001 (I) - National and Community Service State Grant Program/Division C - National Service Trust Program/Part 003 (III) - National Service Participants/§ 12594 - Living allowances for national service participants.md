@@ -20,7 +20,7 @@
 
 #### (5) Waiver or reduction of living allowance
 
-&emsp;The Corporation may waive or reduce the requirement of paragraph (1) with respect to such national service program if such program demonstrates that—
+&emsp;The Corporation may waive or reduce the requirement of paragraph (1) with respect tosuch national service program if such program demonstrates that—
 
 &emsp;&emsp;(A) such requirement is inconsistent with the objectives of the program; and
 
@@ -89,10 +89,6 @@ No national service program may use assistance provided under section 12571 of t
 #### Prior Provisions
 
 A prior section 140 of Pub. L. 101–610 was set out as a note under section 12501 of this title, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12571, 12572, 12583, 12638, 12656 of this title; title 16 section 1726.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “subsistence allowance”.</i>
 

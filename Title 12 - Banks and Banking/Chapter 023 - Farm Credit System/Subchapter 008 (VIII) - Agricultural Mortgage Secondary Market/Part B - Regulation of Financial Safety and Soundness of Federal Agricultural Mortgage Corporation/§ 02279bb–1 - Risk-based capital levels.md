@@ -66,7 +66,7 @@ The Director shall make copies of the statistical model or models used to implem
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration ofthe 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
 
 Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
 
@@ -79,8 +79,4 @@ Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing 
 Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted “December 13, 1991” for “the date of the enactment of such Act”.
 
 Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted “December 13, 1991” for “the date of the enactment of this section” in two places.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279bb–4 of this title.
 

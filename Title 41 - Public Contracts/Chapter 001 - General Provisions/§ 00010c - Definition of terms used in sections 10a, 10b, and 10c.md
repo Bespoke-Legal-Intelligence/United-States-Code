@@ -14,7 +14,7 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 
 #### Codification
 
-Words “the Philippine Islands” in subsec. (b) of this section were deleted as obsolete in view of recognitionof independence of the Philippines by Proc. No. 2695, which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under section 1394.
+Words “the Philippine Islands” in subsec. (b) of this section were deleted as obsolete in view of recognition of independence of the Philippines by Proc. No. 2695, which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under section 1394.
 
 #### Amendments
 

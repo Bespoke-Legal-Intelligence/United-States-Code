@@ -10,7 +10,3 @@ The Secretary shall refuse to render inspection to any plant whose premises, fac
 
 (Pub. L. 91–597, §6, Dec. 29, 1970, 84 Stat. 1625.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1037 of this title.
-

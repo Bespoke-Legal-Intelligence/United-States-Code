@@ -2,7 +2,7 @@
 
 #### (a) Regulations; cooperation with other parties to Convention; utilization of personnel, services, and facilities for enforcement
 
-The Secretary is authorized and directed to administer and enforce all of the provisions of the Convention, this chapter, and regulations issued pursuant thereto, except to the extent otherwise provided for in this chapter. In carrying out such functions the Secretary is authorized and directed to adopt such regulations as may be necessary to carry out the purposes and objectives of the Convention and this chapter, and with the concurrence of the Secretary of State, he may cooperate with the duly authorized officials of the government of any party to the Convention. In addition, the Secretary may utilize, with the concurrence of the Secretary of the department in which the Coast Guard is operating insofar as such utilization involves enforcement at sea, with or without reimbursement and by agreement with any other Federal department or agency, or with any agency of any State, the personnel, services, and facilities of that agency for enforcement purposes with respect to any vessel in the exclusive economic zone, or wherever found, with respect to any vessel documented under the laws of the United States, and any vessel numbered or otherwise licensed under the laws of any State. When so utilized, such personnel of the States of the United States are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
+The Secretary is authorized and directed to administer and enforce all of the provisions of the Convention, this chapter, and regulations issued pursuant thereto, except to the extent otherwise provided for in this chapter. In carrying out such functions the Secretary is authorized and directed to adopt such regulations as may be necessary to carry out the purposes and objectives of the Convention and this chapter, and with the concurrence of the Secretary of State, he may cooperate with the duly authorized officials of the government of any party to the Convention. In addition, the Secretary mayutilize, with the concurrence of the Secretary of the department in which the Coast Guard is operating insofar as such utilization involves enforcement at sea, with or without reimbursement and by agreement with any other Federal department or agency, or with any agency of any State, the personnel, services, and facilities of that agency for enforcement purposes with respect to any vessel in the exclusive economic zone, or wherever found, with respect to any vessel documented under the laws of the United States, and any vessel numbered or otherwise licensed under the laws of any State. When so utilized, such personnel of the States of the United States are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
 
 #### (b) Primary enforcement responsibility
 
@@ -44,7 +44,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 > except that no regulation promulgated under this section may have the effect of increasing or decreasing any allocation or quota of fish or fishing mortality level to the United States agreed to pursuant to a recommendation of the Commission.
 
-(4) Upon the promulgation of regulations provided for in paragraph (3) of this subsection, the Secretary shall promulgate, with the concurrence of the Secretary of State and pursuant to the procedures prescribed in paragraph (2) of this subsection, additional regulations which shall become effective simultaneously with the application of the regulations provided for in paragraph (3) of this subsection, which prohibit—
+(4) Upon the promulgation of regulations provided for in paragraph (3) of this subsection, theSecretary shall promulgate, with the concurrence of the Secretary of State and pursuant to the procedures prescribed in paragraph (2) of this subsection, additional regulations which shall become effective simultaneously with the application of the regulations provided for in paragraph (3) of this subsection, which prohibit—
 
 &emsp;(A) the entry into the United States of fish in any form of those species which are subject to regulation pursuant to a recommendation of the Commission and which were taken from the Convention area in such manner or in such circumstances as would tend to diminish the effectiveness of the conservation recommendations of the Commission; and
 
@@ -80,7 +80,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 (1) It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
 
-(2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlanticswordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
+(2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
 (Pub. L. 94–70, §6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 105–384, title II, §202(b)(1)(C), (F), Nov. 13, 1998, 112 Stat. 3452, 3453.)
 
@@ -88,7 +88,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
+Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1),was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
 
 #### Amendments
 
@@ -122,15 +122,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Use of Aircraft in Atlantic Bluefin Tuna Fishing
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2762, 2762A–114, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce shall be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel—
+Pub. L. 106–553, §1(a)(2) \[title VI, §634\], Dec. 21, 2000, 114 Stat. 2762, 2762A–114, provided that none of the funds of the Department of Commerce would be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel
 
-&emsp;“(1) to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna; or
-
-&emsp;“(2) to fish for, catch, or possessing \[sic\] Atlantic bluefin tuna located by the use of an aircraft.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 971e, 971j of this title.
+to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna, orto fish for, catch, or possess Atlantic bluefin tuna located by the use of an aircraft.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,7 +52,3 @@ Dec. 22, 1928, ch. 48, §1, 45 Stat. 1070.
 
 In subsection (a), the text of 40:72a (1st par.) is omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8711 of this title.
-

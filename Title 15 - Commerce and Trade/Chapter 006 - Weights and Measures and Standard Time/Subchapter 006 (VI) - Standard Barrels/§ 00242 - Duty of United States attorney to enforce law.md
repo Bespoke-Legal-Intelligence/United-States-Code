@@ -8,7 +8,3 @@ It shall be the duty of each United States attorney, to whom satisfactory eviden
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 240, 241 of this title.
-

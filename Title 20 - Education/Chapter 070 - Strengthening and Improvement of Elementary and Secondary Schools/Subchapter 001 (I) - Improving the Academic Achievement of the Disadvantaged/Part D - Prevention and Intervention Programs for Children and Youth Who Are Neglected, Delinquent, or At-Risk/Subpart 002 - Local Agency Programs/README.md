@@ -1,9 +1,5 @@
 subpart 2—local agency programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6422, 6471 of this title.
-
 
 ---
 

@@ -8,7 +8,7 @@ In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131–1136), th
 
 &emsp;(2) Certain lands in the Chattahoochee National Forest, Georgia, which comprise approximately 16,880 acres, as generally depicted on a map entitled “Chattahoochee Headwaters Wilderness—Proposed”, dated July 1991, and which shall be known as Mark Trail Wilderness.
 
-&emsp;(3) Certain lands in the Chattahoochee National Forest, Georgia, which comprise approximately 1,160 acres, as generally depictedon a map entitled “Brasstown Wilderness Addition—Proposed”, dated July 1991, and which is hereby incorporated in and shall be part of the Brasstown Wilderness as designated by section 2(2) of the Georgia Wilderness Act of 1986 (100 Stat. 3129).
+&emsp;(3) Certain lands in the Chattahoochee National Forest, Georgia, which comprise approximately 1,160 acres, as generally depicted on a map entitled “Brasstown Wilderness Addition—Proposed”, dated July 1991, and which is hereby incorporated in and shall be part of the Brasstown Wilderness as designated by section 2(2) of the Georgia Wilderness Act of 1986 (100 Stat. 3129).
 
 #### (b) Administration
 

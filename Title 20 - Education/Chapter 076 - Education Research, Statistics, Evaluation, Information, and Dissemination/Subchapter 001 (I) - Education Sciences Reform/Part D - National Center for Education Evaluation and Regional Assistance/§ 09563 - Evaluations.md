@@ -38,7 +38,3 @@ The Evaluation and Regional Assistance Commissioner, consistent with the mission
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1)(B) and (b), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part E of title I of the Act is classified generally to part E (§6491 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9562, 9564 of this title.
-

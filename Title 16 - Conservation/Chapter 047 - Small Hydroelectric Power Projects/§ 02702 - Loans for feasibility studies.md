@@ -16,9 +16,5 @@ The Secretary may cancel the unpaid balance and any accrued interest on any loan
 
 #### References in Text
 
-The Secretary, referred to in text, and the Commission, referred to in subsec. (a), mean the Secretary of Energy and the Federal Energy Regulatory Commission, respectively, see section 2602(3), (14) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2704, 2707 of this title; title 42 section 7375.
+The Secretary, referred to in text, and the Commission, referred to in subsec. (a), mean the Secretary ofEnergy and the Federal Energy Regulatory Commission, respectively, see section 2602(3), (14) of this title.
 

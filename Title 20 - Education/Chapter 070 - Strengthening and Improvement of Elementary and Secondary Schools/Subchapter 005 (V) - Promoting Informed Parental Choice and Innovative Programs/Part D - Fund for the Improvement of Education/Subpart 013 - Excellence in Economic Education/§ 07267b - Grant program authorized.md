@@ -54,7 +54,3 @@ The Secretary is authorized to award a competitive grant to a national nonprofit
 
 (Pub. L. 89–10, title V, §5533, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1848.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7267d, 7267e of this title.
-

@@ -14,7 +14,7 @@
 
 &emsp;(E) each amendment, revision, or repeal of the foregoing.
 
-> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
+> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to,or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
 
 (2) Each agency, in accordance with published rules, shall make available for public inspection and copying—
 
@@ -28,7 +28,7 @@
 
 &emsp;(E) a general index of the records referred to under subparagraph (D);
 
-> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publicationwould be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
+> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection and copying current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
 
 &emsp;(i) it has been indexed and either made available or published as provided by this paragraph; or
 
@@ -72,7 +72,7 @@
 
 (vii) In any action by a requester regarding the waiver of fees under this section, the court shall determine the matter de novo: <i>Provided</i>, That the court's review of the matter shall be limited to the record before the agency.
 
-(B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examinethe contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
+(B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
 
 (C) Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead to any complaint made under this subsection within thirty days after service upon the defendant of the pleading in which such complaint is made, unless the court otherwise directs for good cause shown.
 
@@ -132,7 +132,7 @@
 
 (iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
 
-(iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
+(iv) A district court of the United States shall not have jurisdiction to review an agency denialof expedited processing of a request for records after the agency has provided a complete response to the request.
 
 (v) For purposes of this subparagraph, the term “compelling need” means—
 
@@ -158,7 +158,7 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute anunwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
@@ -356,6 +356,8 @@ Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1996 Amendment
@@ -368,7 +370,7 @@ In General.—Except as provided in subsection (b), this Act \[amending this sec
 
 “(b)
 
-Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 2, 1996\].”
+Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effectone year after the date of the enactment of this Act \[Oct. 2, 1996\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -412,13 +414,49 @@ Section 1801 of Pub. L. 99–570 provided that: “This subtitle \[subtitle N (�
 
 This section is popularly known as the “Freedom of Information Act”.
 
+#### Nondisclosure of Certain Products of Commercial Satellite Operations
+
+Pub. L. 108–375, div. A, title IX, §914, Oct. 28, 2004, 118 Stat. 2029, provided that:
+
+“(a)
+
+Mandatory Disclosure Requirements Inapplicable.—The requirements to make information available under section 552 of title 5, United States Code, shall not apply to land remote sensing information.
+
+“(b)
+
+Land Remote Sensing Information Defined.—In this section, the term ‘land remote sensing information’—
+
+&emsp;“(1) means any data that—
+
+&emsp;&emsp;“(A) are collected by land remote sensing; and
+
+&emsp;&emsp;“(B) are prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license issued pursuant to the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.); and
+
+&emsp;“(2) includes any imagery and other product that is derived from such data and which is prohibited from sale to customers other than the United States Government and United States Government-approved customers for reasons of national security pursuant to the terms of an operating license described in paragraph (1)(B).
+
+“(c)
+
+State or Local Government Disclosures.—Land remote sensing information provided by the head of a department or agency of the United States to a State, local, or tribal government may not be made available to the general public under any State, local, or tribal law relating to the disclosure of information or records.
+
+“(d)
+
+Safeguarding Information.—The head of each department or agency of the United States having land remote sensing information within that department or agency or providing such information to a State, local, or tribal government shall take such actions, commensurate with the sensitivity of that information, as are necessary to protect that information from disclosure other than in accordance with this section and other applicable law.
+
+“(e)
+
+Additional Definition.—In this section, the term ‘land remote sensing’ has the meaning given such term in section 3 of the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5602).
+
+“(f)
+
+Disclosure to Congress.—Nothing in this section shall be construed to authorize the withholding of information from the appropriate committees of Congress.”
+
 #### Disclosure of Arson, Explosive, or Firearm Records
 
-Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided that: “No funds appropriated underthis Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act \[Feb. 20, 2003\].”
+Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided that: “No funds appropriated under this Act or any other Act with respect to any fiscal year shall be available to take any action based upon any provision of 5 U.S.C. 552 with respect to records collected or maintained pursuant to 18 U.S.C. 846(b), 923(g)(3) or 923(g)(7), or provided by Federal, State, local, or foreign law enforcement agencies in connection with arson or explosives incidents or the tracing of a firearm, except that such records may continue to be disclosed to the extent and in the manner that records so collected, maintained, or obtained have been disclosed under 5 U.S.C. 552 prior to the date of the enactment of this Act \[Feb. 20, 2003\].”
 
 #### Disclosure of Information on Japanese Imperial Government
 
-Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, provided that:
+Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, as amended by Pub. L. 108–199, div. H, §163, Jan. 23, 2004, 118 Stat. 452, provided that:
 
 #### “SEC. 801. SHORT TITLE.
 
@@ -460,7 +498,7 @@ Establishment of Interagency Group.—
 
 &emsp;“(1)
 
-In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2000\], the President shall designate the Working Group established under the Nazi War Crimes Disclosure Act (Public Law 105–246; 5 U.S.C. 552 note) to also carry out the purposes of this title with respect to Japanese Imperial Government records, and that Working Group shall remain in existence for 3 years after the date on which this title takes effect. Such Working Group is redesignated as the ‘Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group’.
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2000\], the President shall designate the Working Group established under the Nazi War Crimes Disclosure Act (Public Law 105–246; 5 U.S.C. 552 note) to also carry out the purposes of this title with respect to Japanese Imperial Government records, and that Working Group shall remain in existence for 4 years after the date on which this title takes effect. Such Working Group is redesignated as the ‘Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group’.
 
 &emsp;“(2)
 
@@ -654,7 +692,7 @@ In general.—In applying the exemptions listed in subparagraphs (B) through (J)
 
 &emsp;&emsp;“(B)
 
-Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
+Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that appliesin the case of records withheld under section 552(b)(1) of title 5, United States Code.
 
 &emsp;“(4)
 
@@ -839,8 +877,4 @@ Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to
 (b) The Working Group shall terminate 3 years from the date of this Executive order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 6 section 133; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1636, 1637b, 1642, 2279b, 5651, 5662, 7035, 8401; title 8 section 1182; title 10 sections 128, 130b, 130c, 1034, 1102, 1506, 2304, 2305, 2306a, 2328, 2371, 4595, 7582, 9594; title 12 sections 1786, 1818, 1828, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 80b–10a, 278n, 638, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308, 7006, 7215, 7306; title 16 sections 973j, 1402, 3844, 4304, 5937; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 9576, 9622; title 21 sections 350c, 350d, 355a, 360c, 360j, 360bbb–3, 379, 379f, 830, 1904, 1908; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841, 6713, 6744; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 sections 410, 3016; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 262a, 263b, 300i–2, 300v–2, 300aa–25, 300hh–12, 405, 1306, 1314, 1320c–9, 2167, 2168, 2454, 2996d, 4332, 5916, 5919, 6272–6274, 7135, 7412, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3505, 3506, 3538, 3549; title 46 sections 4309, 6305, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 114, 706, 10706, 10709, 11162, 14123, 40110, 44921; title 50 sections 431, 432, 432a, 432b; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
 

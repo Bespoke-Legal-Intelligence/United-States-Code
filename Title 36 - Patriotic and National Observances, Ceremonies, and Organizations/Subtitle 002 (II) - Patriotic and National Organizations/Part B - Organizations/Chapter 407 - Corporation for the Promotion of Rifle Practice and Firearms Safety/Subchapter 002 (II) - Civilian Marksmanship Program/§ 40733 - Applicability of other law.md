@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Feb. 10, 1996, Pub. L. 104–106, title XVI, §1614(e)(2), 110 Stat. 518.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40732 of this title.
-

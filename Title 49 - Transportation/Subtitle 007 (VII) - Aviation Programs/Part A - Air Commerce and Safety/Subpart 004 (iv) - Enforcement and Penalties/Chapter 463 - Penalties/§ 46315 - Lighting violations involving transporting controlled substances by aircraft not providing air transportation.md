@@ -44,7 +44,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(q); added Oct. 19, 1984, Pu
 
 In subsection (b), before clause (1), the words “fined under title 18” are substituted for “a fine not exceeding $25,000” for consistency with title 18. In clause (2), the word “knowingly” is substituted for “and with knowledge of such act” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 44936 of this title.
-

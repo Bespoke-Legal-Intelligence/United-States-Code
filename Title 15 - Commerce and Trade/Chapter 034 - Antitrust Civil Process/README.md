@@ -31,10 +31,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 18a of this title; title 18 sections 1505, 1905; title 42 section 6272; title 44 section 3518; title 46 App. section 1702.
-
 
 ---
 

@@ -12,7 +12,3 @@ Pub. L. 107–215, §1, Aug. 21, 2002, 116 Stat. 1054, provided that: “This Ac
 
 Section 4 of act Apr. 2, 1956, as amended by Pub. L. 92–272, title II, §201(2), Apr. 11, 1972, 86 Stat. 120, provided that: “There are authorized to be appropriated such sums not to exceed $600,000 as may be necessary to carry out the provisions of this act \[sections 450<i>ll</i> to 450<i>ll</i>–2 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450<i>ll</i>–1, 450<i>ll</i>–2 of this title.
-

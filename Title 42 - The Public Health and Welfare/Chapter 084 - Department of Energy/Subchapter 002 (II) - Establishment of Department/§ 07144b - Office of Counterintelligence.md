@@ -56,6 +56,10 @@ There is within the Department an Office of Counterintelligence.
 
 (Pub. L. 95–91, title II, §215, as added Pub. L. 106–65, div. C, title XXXII, §3204(a), Oct. 5, 1999, 113 Stat. 955.)
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date
 
 Section effective Oct. 5, 1999, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of Title 50, War and National Defense.

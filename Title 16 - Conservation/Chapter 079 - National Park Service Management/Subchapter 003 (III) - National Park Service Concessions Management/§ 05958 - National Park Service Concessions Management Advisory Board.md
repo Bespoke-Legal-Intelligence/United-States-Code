@@ -62,9 +62,5 @@ Service of an individual as a member of the Advisory Board shall not be consider
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5955 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
 

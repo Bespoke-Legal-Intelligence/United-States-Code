@@ -44,9 +44,5 @@ Section 10(b) of Pub. L. 101–623 provided that: “The amendments made by subs
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151g, 2161, 2222, 2291e, 2292n, 2293, 2348a, 2364, 2394, 2411 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 

@@ -68,7 +68,7 @@ A request for information under this section shall be filed in such manner and f
 
 (2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
-(3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
+(3) The Secretary of Labor shall enter into an agreement with the Secretary to provide promptaccess for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
 #### (f) Arrangements and cooperation with State agencies
 
@@ -82,7 +82,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter,and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
+&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
 
 #### (2) Case and order information
 
@@ -218,6 +218,184 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 &emsp;&emsp;The Secretary of Education shall reimburse the Secretary, in accordance with subsection (k)(3) of this section, for the additional costs incurred by the Secretary in furnishing the information requested under this subparagraph.
 
+#### (7) <sup>1</sup> Information comparisons for housing assistance programs
+
+#### (A) Furnishing of information by HUD
+
+&emsp;&emsp;Subject to subparagraph (G), the Secretary of Housing and Urban Development shall furnish to the Secretary, on such periodic basis as determined by the Secretary of Housing and Urban Development in consultation with the Secretary, information in the custody of the Secretary of Housing and Urban Development for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are participating in any program under—
+
+&emsp;&emsp;&emsp;(i) the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.);
+
+&emsp;&emsp;&emsp;(ii) section 1701q of title 12;
+
+&emsp;&emsp;&emsp;(iii) section 1715<i>l</i>(d)(3), 1715<i>l</i>(d)(5), or 1715z–1 of title 12;
+
+&emsp;&emsp;&emsp;(iv) section 8013 of this title; or
+
+&emsp;&emsp;&emsp;(v) section 1701s of title 12.
+
+#### (B) Requirement to seek minimum information
+
+&emsp;&emsp;The Secretary of Housing and Urban Development shall seek information pursuant to this section only to the extent necessary to verify the employment and income of individuals described in subparagraph (A).
+
+#### (C) Duties of the Secretary
+
+#### (i) Information disclosure
+
+&emsp;&emsp;&emsp;The Secretary, in cooperation with the Secretary of Housing and Urban Development, shall compare information in the National Directory of New Hires with information provided by the Secretary of Housing and Urban Development with respect to individuals described in subparagraph (A), and shall disclose information in such Directory regarding such individuals to the Secretary of Housing and Urban Development, in accordance with this paragraph, for the purposes specified in this paragraph.
+
+#### (ii) Condition on disclosure
+
+&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part.
+
+#### (D) Use of information by HUD
+
+&emsp;&emsp;The Secretary of Housing and Urban Development may use information resulting from a data match pursuant to this paragraph only—
+
+&emsp;&emsp;&emsp;(i) for the purpose of verifying the employment and income of individuals described in subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) after removal of personal identifiers, to conduct analyses of the employment and income reporting of individuals described in subparagraph (A).
+
+#### (E) Disclosure of information by HUD
+
+#### (i) Purpose of disclosure
+
+&emsp;&emsp;&emsp;The Secretary of Housing and Urban Development may make a disclosure under this subparagraph only for the purpose of verifying the employment and income of individuals described in subparagraph (A).
+
+#### (ii) Disclosures permitted
+
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing and Urban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by the Secretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
+
+#### (iii) Conditions on disclosure
+
+&emsp;&emsp;&emsp;Disclosures under this paragraph shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) made in accordance with data security and control policies established by the Secretary of Housing and Urban Development and approved by the Secretary;
+
+&emsp;&emsp;&emsp;&emsp;(II) subject to audit in a manner satisfactory to the Secretary; and
+
+&emsp;&emsp;&emsp;&emsp;(III) subject to the sanctions under subsection (<i>l</i>)(2) of this section.
+
+#### (iv) Additional disclosures
+
+#### (I) Determination by Secretaries
+
+&emsp;&emsp;&emsp;&emsp;The Secretary of Housing and Urban Development and the Secretary shall determine whether to permit disclosure of information under this paragraph to persons or entities described in subclause (II), based on an evaluation made by the Secretary of Housing and Urban Development (in consultation with and approved by the Secretary), of the costs and benefits of disclosures made under clause (ii) and the adequacy of measures used to safeguard the security and confidentiality of information so disclosed.
+
+#### (II) Permitted persons or entities
+
+&emsp;&emsp;&emsp;&emsp;If the Secretary of Housing and Urban Development and the Secretary determine pursuant to subclause (I) that disclosures to additional persons or entities shall be permitted, information under this paragraph may be disclosed by the Secretary of Housing and Urban Development to a private owner, a management agent, and a contract administrator in connection with the administration of a program described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
+
+#### (v) Restrictions on redisclosure
+
+&emsp;&emsp;&emsp;A person or entity to which information is disclosed under this subparagraph may use or disclose such information only as needed for verifying the employment and income of individuals described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
+
+#### (F) Reimbursement of HHS costs
+
+&emsp;&emsp;The Secretary of Housing and Urban Development shall reimburse the Secretary, in accordance with subsection (k)(3) of this section, for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
+
+#### (G) Consent
+
+&emsp;&emsp;The Secretary of Housing and Urban Development shall not seek, use, or disclose information under this paragraph relating to an individual without the prior written consent of such individual (or of a person legally authorized to consent on behalf of such individual).
+
+#### (8) Information comparisons and disclosure to assist in administration of unemployment compensation programs
+
+#### (A) In general
+
+&emsp;&emsp;If, for purposes of administering an unemployment compensation program under Federal or State law, a State agency responsible for the administration of such program transmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to such State agency information on such individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
+
+#### (B) Condition on disclosure by the Secretary
+
+&emsp;&emsp;The Secretary shall make a disclosure under subparagraph (A) only to the extent that the Secretary determines that the disclosure would not interfere with the effective operation of the program under this part.
+
+#### (C) Use and disclosure of information by State agencies
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A State agency may not use or disclose information provided under this paragraph except for purposes of administering a program referred to in subparagraph (A).
+
+#### (ii) Information security
+
+&emsp;&emsp;&emsp;The State agency shall have in effect data security and control policies that the Secretary finds adequate to ensure the security of information obtained under this paragraph and to ensure that access to such information is restricted to authorized persons for purposes of authorized uses and disclosures.
+
+#### (iii) Penalty for misuse of information
+
+&emsp;&emsp;&emsp;An officer or employee of the State agency who fails to comply with this subparagraph shall be subject to the sanctions under subsection (<i>l</i>)(2) of this section to the same extent as if such officer or employee was an officer or employee of the United States.
+
+#### (D) Procedural requirements
+
+&emsp;&emsp;State agencies requesting information under this paragraph shall adhere to uniform procedures established by the Secretary governing information requests and data matching under this paragraph.
+
+#### (E) Reimbursement of costs
+
+&emsp;&emsp;The State agency shall reimburse the Secretary, in accordance with subsection (k)(3) of this section, for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
+
+#### (7) <sup>2</sup> Information comparisons and disclosure to assist in Federal debt collection
+
+#### (A) Furnishing of information by the Secretary of the Treasury
+
+&emsp;&emsp;The Secretary of the Treasury shall furnish to the Secretary, on such periodic basis as determined by the Secretary of the Treasury in consultation with the Secretary, information in the custody of the Secretary of the Treasury for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to persons—
+
+&emsp;&emsp;&emsp;(i) who owe delinquent nontax debt to the United States; and
+
+&emsp;&emsp;&emsp;(ii) whose debt has been referred to the Secretary of the Treasury in accordance with section 3711(g) of title 31.
+
+#### (B) Requirement to seek minimum information
+
+&emsp;&emsp;The Secretary of the Treasury shall seek information pursuant to this section only to the extent necessary to improve collection of the debt described in subparagraph (A).
+
+#### (C) Duties of the Secretary
+
+#### (i) Information disclosure
+
+&emsp;&emsp;&emsp;The Secretary, in cooperation with the Secretary of the Treasury, shall compare information in the National Directory of New Hires with information provided by the Secretary of the Treasury with respect to persons described in subparagraph (A) and shall disclose information in such Directory regarding such persons to the Secretary of the Treasury in accordance with this paragraph, for the purposes specified in this paragraph. Such comparison of information shall not be considered a matching program as defined in section 552a of title 5.
+
+#### (ii) Condition on disclosure
+
+&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part. Support collection under section 666(b) of this title shall be given priority over collection of any delinquent Federal nontax debt against the same income.
+
+#### (D) Use of information by the Secretary of the Treasury
+
+&emsp;&emsp;The Secretary of the Treasury may use information provided under this paragraph only for purposes of collecting the debt described in subparagraph (A).
+
+#### (E) Disclosure of information by the Secretary of the Treasury
+
+#### (i) Purpose of disclosure
+
+&emsp;&emsp;&emsp;The Secretary of the Treasury may make a disclosure under this subparagraph only for purposes of collecting the debt described in subparagraph (A).
+
+#### (ii) Disclosures permitted
+
+&emsp;&emsp;&emsp;Subject to clauses (iii) and (iv), the Secretary of the Treasury may disclose information resulting from a data match pursuant to this paragraph only to the Attorney General in connection with collecting the debt described in subparagraph (A).
+
+#### (iii) Conditions on disclosure
+
+&emsp;&emsp;&emsp;Disclosures under this subparagraph shall be—
+
+&emsp;&emsp;&emsp;&emsp;(I) made in accordance with data security and control policies established by the Secretary of the Treasury and approved by the Secretary;
+
+&emsp;&emsp;&emsp;&emsp;(II) subject to audit in a manner satisfactory to the Secretary; and
+
+&emsp;&emsp;&emsp;&emsp;(III) subject to the sanctions under subsection (<i>l</i>)(2) of this section.
+
+#### (iv) Additional disclosures
+
+#### (I) Determination by Secretaries
+
+&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury and the Secretary shall determine whether to permit disclosure of information under this paragraph to persons or entities described in subclause (II), based on an evaluation made by the Secretary of the Treasury (in consultation with and approved by the Secretary), of the costs and benefits of such disclosures and the adequacy of measures used to safeguard the security and confidentiality of information so disclosed.
+
+#### (II) Permitted persons or entities
+
+&emsp;&emsp;&emsp;&emsp;If the Secretary of the Treasury and the Secretary determine pursuant to subclause (I) that disclosures to additional persons or entities shall be permitted, information under this paragraph may be disclosed by the Secretary of the Treasury, in connection with collecting the debt described in subparagraph (A), to a contractor or agent of either Secretary and to the Federal agency that referred such debt to the Secretary of the Treasury for collection, subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
+
+#### (v) Restrictions on redisclosure
+
+&emsp;&emsp;&emsp;A person or entity to which information is disclosed under this subparagraph may use or disclose such information only as needed for collecting the debt described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
+
+#### (F) Reimbursement of HHS costs
+
+&emsp;&emsp;The Secretary of the Treasury shall reimburse the Secretary, in accordance with subsection (k)(3) of this section, for the costs incurred by the Secretary in furnishing the information requested under this paragraph. Any such costs paid by the Secretary of the Treasury shall be considered costs of implementing section 3711(g) of title 31 in accordance with section 3711(g)(6) of title 31 and may be paid from the account established pursuant to section 3711(g)(7) of title 31.
+
 #### (k) Fees
 
 #### (1) For SSA verification
@@ -262,7 +440,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 As used in this part, the term “support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283.)
 
 #### References in Text
 
@@ -270,9 +448,17 @@ Parts A, B, and E of this subchapter, referred to in subsecs. (c)(3), (4), (h)(1
 
 The Internal Revenue Code of 1986, referred to in subsecs. (h)(3), (i)(3), and (<i>l</i>), is classified generally to Title 26, Internal Revenue Code.
 
-The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of Title 20 and Tables.
+
+The United States Housing Act of 1937, referred to in subsec. (j)(7)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (j)(7). Pub. L. 108–447 added par. (7) relating to information comparisons and disclosure to assist in Federal debt collection.
+
+Pub. L. 108–199 added par. (7) relating to information comparisons for housing assistance programs.
+
+Subsec. (j)(8). Pub. L. 108–295 added par. (8).
 
 1999—Subsec. (j)(6). Pub. L. 106–113, §1000(a)(5) \[title III, §303(a)\], added par. (6).
 
@@ -342,7 +528,7 @@ Subsec. (b). Pub. L. 104–193, §316(a)(2), (e)(1), substituted “information 
 
 Subsec. (c)(1). Pub. L. 104–193, §316(b)(1), substituted “support or to seek to enforce orders providing child custody or visitation rights” for “support”.
 
-Subsec. (c)(2). Pub. L. 104–193, §§316(b)(2), 395(d)(2)(A), substituted “a noncustodial parent” for “an absentparent” and “or to issue an order against a resident parent for child custody or visitation rights, or any agent of such court;” for “, or any agent of such court; and”.
+Subsec. (c)(2). Pub. L. 104–193, §§316(b)(2), 395(d)(2)(A), substituted “a noncustodial parent” for “an absent parent” and “or to issue an order against a resident parent for child custody or visitation rights, or any agent of such court;” for “, or any agent of such court; and”.
 
 Subsec. (c)(3). Pub. L. 104–193, §395(d)(2)(A), substituted “a noncustodial parent” for “an absent parent”.
 
@@ -424,7 +610,7 @@ Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided th
 
 #### Coordination Between Secretaries Relating to Amendments by Pub. L. 105–34
 
-Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding theimplementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
+Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlinesfor States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
 
 #### Requirement for Cooperation
 
@@ -434,7 +620,7 @@ Section 316(h) of title III of Pub. L. 104–193 provided that: “The Secretary
 
 For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord. No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Another par. (7) follows par. (8).</i>
 
-This section is referred to in sections 503, 652, 653a, 654, 654a, 663, 11602 of this title; title 10 section 1408; title 26 sections 3304, 6213.
+<i><sup>2</sup></i><i> So in original. Another par. (7) follows par. (6).</i>
 

@@ -30,7 +30,3 @@ Section 903(c) of this chapter, referred to in text, means section 903(c) of thi
 
 1977—Pub. L. 95–17 substituted “sections 908 through 912 of this title” for “sections 908–913 of this title” and provision that the blank spaces are to be appropriately filled for provision that the first blank space is to be filled with the name of the resolving House and the other blank spaces are to be appropriately filled and inserted provision that “resolution” includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 903, 906, 908, 910 of this title.
-

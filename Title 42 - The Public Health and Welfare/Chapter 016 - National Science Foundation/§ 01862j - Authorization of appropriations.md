@@ -1,6 +1,6 @@
 ### §1862j. Authorization of appropriations
 
-There are authorized to be appropriated, from sums otherwise authorized to be appropriated,to the Director for carrying out sections 1862h to 1862j of this title—
+There are authorized to be appropriated, from sums otherwise authorized to be appropriated, to the Director for carrying out sections 1862h to 1862j of this title—
 
 &emsp;(1) $35,000,000 for fiscal year 1992; and
 
@@ -15,8 +15,4 @@ Sections 1862h to 1862j of this title, referred to in text, was in the original 
 #### Codification
 
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1862h, 1862i of this title; title 15 section 7404.
 

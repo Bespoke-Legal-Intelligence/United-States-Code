@@ -4,7 +4,3 @@ A right of way for a railway, telegraph, and telephone line through any Indian r
 
 (Mar. 2, 1899, ch. 374, §1, 30 Stat. 990; Feb. 28, 1902, ch. 134, §23, 32 Stat. 50; June 25, 1910, ch. 431, §16, 36 Stat. 859.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 314, 316, 317, 318, 322, 353, 406, 564h, 697, 747, 797, 843 of this title.
-

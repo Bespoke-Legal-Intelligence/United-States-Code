@@ -6,7 +6,7 @@ During any time that any such loan is outstanding, the Secretary is authorized u
 
 #### (b) Foreclosure procedures
 
-In foreclosing on any mortgage held by the Secretary under this subchapter, the Secretary shall follow the foreclosure procedures of the State in which the property involved is located to the extent such procedures are more favorable to the borrower than the foreclosure procedures that would otherwise be followed by the Secretary. This subsection shall be subject to the availability of amounts approved in appropriations Acts, to the extent additional budget authority is necessary to carry out this subsection.
+In foreclosing on any mortgage held by the Secretary under this subchapter, the Secretary shall follow the foreclosure procedures of the State in which the property involved is located to the extent such procedures are more favorable to the borrower than the foreclosure procedures that would otherwise be followed by the Secretary. This subsection shall be subject tothe availability of amounts approved in appropriations Acts, to the extent additional budget authority is necessary to carry out this subsection.
 
 (July 15, 1949, ch. 338, title V, §505, 63 Stat. 434; Pub. L. 101–625, title VII, §707, Nov. 28, 1990, 104 Stat. 4287.)
 

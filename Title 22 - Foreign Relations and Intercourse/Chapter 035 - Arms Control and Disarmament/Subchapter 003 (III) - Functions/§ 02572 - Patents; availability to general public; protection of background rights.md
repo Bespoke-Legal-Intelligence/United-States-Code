@@ -12,7 +12,3 @@ All research within the United States contracted for, sponsored, cosponsored, or
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 35 section 210.
-

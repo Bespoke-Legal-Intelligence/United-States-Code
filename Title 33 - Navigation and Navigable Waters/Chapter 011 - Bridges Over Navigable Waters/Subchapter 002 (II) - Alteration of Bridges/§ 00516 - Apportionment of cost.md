@@ -10,7 +10,3 @@ At the time the Secretary shall authorize the bridge owner to proceed with the p
 
 1952—Act July 16, 1952, made railroads share equally with proprietors of highways in bearing cost of alterations necessary to remove obstacles to navigation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 515, 520, 523 of this title.
-

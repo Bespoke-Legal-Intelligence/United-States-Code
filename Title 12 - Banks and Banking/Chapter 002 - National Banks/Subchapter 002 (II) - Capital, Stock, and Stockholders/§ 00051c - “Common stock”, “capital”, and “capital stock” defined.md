@@ -10,9 +10,5 @@ Section 51d of this title, referred to in text, was repealed by act June 30, 194
 
 Sections 101, 177, and 178 of this title, referred to in text, were repealed by Pub. L. 103–325, title VI, §602(f)(2), (5), Sept. 23, 1994, 108 Stat. 2292, 2293.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 212, 213 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

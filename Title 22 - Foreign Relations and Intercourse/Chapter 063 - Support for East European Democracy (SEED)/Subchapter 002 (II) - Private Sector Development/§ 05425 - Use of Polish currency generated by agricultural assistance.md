@@ -30,7 +30,3 @@ Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5423 of this title.
-

@@ -6,7 +6,7 @@ No investment company organized or otherwise created under the laws of the Unite
 
 &emsp;(1) offer for sale, sell, or deliver after sale, by the use of the mails or any means or instrumentality of interstate commerce, any security or any interest in a security, whether the issuer of such security is such investment company or another person; or offer for sale, sell, or deliver after sale any such security or interest, having reason to believe that such security or interest will be made the subject of a public offering by use of the mails or any means or instrumentality of interstate commerce;
 
-&emsp;(2) purchase, redeem, retire, or otherwise acquire or attempt to acquire, by use of themails or any means or instrumentality of interstate commerce, any security or any interest in a security, whether the issuer of such security is such investment company or another person;
+&emsp;(2) purchase, redeem, retire, or otherwise acquire or attempt to acquire, by use of the mails or any means or instrumentality of interstate commerce, any security or any interest in a security, whether the issuer of such security is such investment company or another person;
 
 &emsp;(3) control any investment company which does any of the acts enumerated in paragraphs (1) and (2) of this subsection;
 
@@ -53,8 +53,4 @@ Amendment by Pub. L. 104–62 applicable as defense to any claim in administrati
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–41 of this title.
 

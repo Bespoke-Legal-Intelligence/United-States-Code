@@ -24,7 +24,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1976—Pub. L. 94–574 provided that if no special statutory review proceeding is applicable, the action for judicial review may be brought against the United States, the agency by its official title, or the appropriate officer as defendant.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 501, 502; title 7 section 2143; title 16 section 839f; title 18 sections 843, 3625; title 25 section 954; title 41 section 422; title 42 section 5405; title 50 App. section 2412.
-

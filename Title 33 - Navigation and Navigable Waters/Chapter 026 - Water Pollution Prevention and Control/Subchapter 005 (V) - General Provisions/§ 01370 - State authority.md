@@ -4,7 +4,3 @@ Except as expressly provided in this chapter, nothing in this chapter shall (1) 
 
 (June 30, 1948, ch. 758, title V, §510, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 893.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1311, 1342 of this title.
-

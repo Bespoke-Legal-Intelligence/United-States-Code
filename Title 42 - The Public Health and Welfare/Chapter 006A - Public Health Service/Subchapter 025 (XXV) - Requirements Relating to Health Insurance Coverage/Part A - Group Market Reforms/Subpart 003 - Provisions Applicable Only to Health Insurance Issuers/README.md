@@ -4,10 +4,6 @@ subpart 3—provisions applicable only to health insurance issuers
 
 1996—Pub. L. 104–204, title VI, §604(a)(2), Sept. 26, 1996, 110 Stat. 2939, redesignated subpart 2 as 3.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 300gg–21 of this title.
-
 
 ---
 

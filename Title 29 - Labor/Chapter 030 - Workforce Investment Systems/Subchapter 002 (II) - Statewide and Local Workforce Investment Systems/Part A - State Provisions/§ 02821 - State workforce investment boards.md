@@ -126,9 +126,5 @@ This Act, referred to in subsec. (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112
 
 1998—Subsec. (c). Pub. L. 105–277 substituted “Chairperson” for “Chairman” in heading.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 2801, 2822 of this title; title 20 section 2341.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -84,7 +84,3 @@ This memorandum shall be published in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 1356, 1373.
-

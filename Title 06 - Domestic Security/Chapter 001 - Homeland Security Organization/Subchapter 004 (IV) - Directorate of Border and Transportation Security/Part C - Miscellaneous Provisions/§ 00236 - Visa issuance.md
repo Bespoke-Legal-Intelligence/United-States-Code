@@ -166,10 +166,6 @@ Section 568 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 202 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “ ‘consular officer’ ”.</i>

@@ -18,7 +18,7 @@ General Authority.—The Secretary of Transportation may make grants and loans t
 
 (b)
 
-Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to theState under section 5311(c) or 5336(a)(1) of this title.
+Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to the State under section 5311(c) or 5336(a)(1) of this title.
 
 (c)
 
@@ -44,7 +44,7 @@ Leasing Vehicles.—The Secretary shall prescribe guidelines allowing vehicles b
 
 (h)
 
-Meal Delivery Service to Homebound Individuals.—Mass transportation service providers receiving assistance under this section or section 5311(c) of this title may coordinate and assist in regularly providing meal delivery service for homebound individuals if the delivery service does not conflict with providing mass transportation service or reduce service to mass transportation passengers.
+Meal Delivery Service to Homebound Individuals.—Mass transportation service providers receiving assistance under this section or section 5311(c) of this title may coordinate and assist in regularly providing meal delivery service for homebound individuals if the deliveryservice does not conflict with providing mass transportation service or reduce service to mass transportation passengers.
 
 (i)
 
@@ -148,7 +148,7 @@ Section 165(b) of the Federal-Aid Highway Act of 1973, referred to in subsec. (f
 
 #### Rural Transportation Accessibility Incentive Program
 
-Pub. L. 105–178, title III, §3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, §9009(x), July 22, 1998, 112 Stat. 862; Pub. L. 106–346, §101(a) \[title III, §336\], Oct. 23, 2000, 114 Stat. 1356, 1356A–31; Pub. L. 108–88, §8(m), Sept. 30, 2003, 117 Stat. 1125, provided that:
+Pub. L. 105–178, title III, §3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, §9009(x), July 22, 1998, 112 Stat. 862; Pub. L. 106–346, §101(a) \[title III, §336\], Oct. 23, 2000, 114 Stat. 1356, 1356A–31; Pub. L. 108–88, §8(m), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(m), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(m), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(m), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, §7(m), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(m), Sept. 30, 2004, 118 Stat. 1158, provided that:
 
 “(a)
 
@@ -220,15 +220,13 @@ Intercity, fixed-route over-the-road bus service.—Of amounts made available by
 
 &emsp;&emsp;“(E) $5,250,000 for fiscal year 2003.
 
-&emsp;&emsp;“(F) $2,187,500 for the period of October 1, 2003, through February 29, 2004.
+&emsp;&emsp;“(F) $5,250,000 for fiscal year 2004.
+
+&emsp;&emsp;“(G) $3,500,000 for the period of October 1, 2004, through May 31, 2005.
 
 > &emsp;Such sums shall remain available until expended.
 
 &emsp;“(2)
 
-Other over-the-road bus service.—Of amounts made available by or appropriated under section 5338(a)(2) of title 49, United States Code (before allocation under section 5338(a)(2)(C) of that title), $6,800,000 shall be available for fiscal years 2000 through 2003 (and $708,333 shall be available for the period of October 1, 2003, through February 29, 2004) for operators of other over-the-road bus service to finance the incremental capital and training costs of the Department of Transportation's final rule regarding accessibility of over-the-road buses. Such sums shall remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5301, 5307, 5323, 5333, 5334, 5338, 31138 of this title; title 42 section 3013.
+Other over-the-road bus service.—Of amounts made available by or appropriated under section 5338(a)(2) of title 49, United States Code (before allocation under section 5338(a)(2)(C) of that title), $1,700,000 shall be available for each of fiscal years 2000 through 2004 (and $1,133,333 shall be available for the period of October 1, 2004, through May 31, 2005) for operators of other over-the-road bus service to finance the incremental capital and training costs of the Department of Transportation's final rule regarding accessibility of over-the-road buses. Such sums shall remain available until expended.”
 

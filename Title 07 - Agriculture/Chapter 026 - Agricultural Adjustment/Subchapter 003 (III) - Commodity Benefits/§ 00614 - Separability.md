@@ -8,7 +8,3 @@ If any provision of this chapter is declared unconstitutional, or the applicabil
 
 Act June 3, 1937, §1, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 672, 673, 1392 of this title.
-

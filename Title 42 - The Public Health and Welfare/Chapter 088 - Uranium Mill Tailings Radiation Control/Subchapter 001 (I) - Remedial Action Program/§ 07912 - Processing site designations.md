@@ -110,7 +110,3 @@ Remedial action authorized under Public Law 92–314, referred to in subsec. (a)
 
 1983—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7913, 7915, 9601 of this title.
-

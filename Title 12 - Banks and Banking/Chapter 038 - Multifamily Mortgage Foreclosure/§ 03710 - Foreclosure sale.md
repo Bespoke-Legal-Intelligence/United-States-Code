@@ -14,7 +14,3 @@ The foreclosure commissioner shall have discretion, prior to or at the time of s
 
 (Pub. L. 97–35, title III, §369B, Aug. 13, 1981, 95 Stat. 428.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3707, 3709, 3711, 3714 of this title.
-

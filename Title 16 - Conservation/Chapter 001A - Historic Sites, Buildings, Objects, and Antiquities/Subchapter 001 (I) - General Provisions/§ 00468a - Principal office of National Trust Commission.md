@@ -4,7 +4,3 @@ The National Trust shall have its principal office in the District of Columbia a
 
 (Oct. 26, 1949, ch. 755, §2, 63 Stat. 927.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 468, 468c, 468d, 470a of this title.
-

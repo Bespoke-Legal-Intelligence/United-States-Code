@@ -32,9 +32,5 @@ As soon as practicable after the acquisition of any land or interest under this 
 
 (Pub. L. 106–530, §8, Nov. 22, 2000, 114 Stat. 2532.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410hhh–1 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection (c)”.</i>
 

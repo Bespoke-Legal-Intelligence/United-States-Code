@@ -14,7 +14,3 @@ The Secretary of Energy shall assure that within 6 months after June 30, 1980, t
 
 (Pub. L. 96–294, title V, §595, June 30, 1980, 94 Stat. 762.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8286a of this title.
-

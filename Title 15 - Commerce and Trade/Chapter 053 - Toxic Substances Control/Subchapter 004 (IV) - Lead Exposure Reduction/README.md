@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—LEAD EXPOSURE REDUCTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2606, 2610, 2612, 2616, 2618, 2619 of this title; title 29 section 671; title 42 section 4853a.
-
 
 ---
 

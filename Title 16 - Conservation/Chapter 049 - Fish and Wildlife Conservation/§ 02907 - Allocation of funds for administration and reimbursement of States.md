@@ -12,7 +12,7 @@ Of the total amount appropriated for any fiscal year pursuant to section 2910 of
 
 &emsp;(2) less the deduction under paragraph (1), the Secretary shall allocate—
 
-&emsp;&emsp;(A) for the District of Columbia and the Commonwealth of Puerto Rico each a sum equal to not more than one-half of 1 percent of such amount; and
+&emsp;&emsp;(A) for the District of Columbia and the Commonwealth of Puerto Rico each a sumequal to not more than one-half of 1 percent of such amount; and
 
 &emsp;&emsp;(B) for Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands each a sum equal to not more than one-sixth of 1 percent of such amount; and
 
@@ -35,8 +35,4 @@ Of the total amount appropriated for any fiscal year pursuant to section 2910 of
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2905, 2910 of this title.
 

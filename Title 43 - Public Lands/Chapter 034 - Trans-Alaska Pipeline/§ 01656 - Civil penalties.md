@@ -38,9 +38,5 @@ A civil penalty may be assessed and collected under this section only after noti
 
 Section applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as a note under section 2701 of Title 33, Navigation and Navigable Waters.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9509.
-
 &nbsp;
 

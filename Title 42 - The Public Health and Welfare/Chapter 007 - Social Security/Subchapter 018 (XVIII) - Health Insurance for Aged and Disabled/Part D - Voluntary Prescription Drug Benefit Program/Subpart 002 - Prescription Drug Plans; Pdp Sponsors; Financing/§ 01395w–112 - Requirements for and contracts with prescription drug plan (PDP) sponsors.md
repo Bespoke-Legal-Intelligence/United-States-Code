@@ -26,7 +26,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (1) In general
 
-&emsp;The Secretary shall not permit the enrollment under section 1395w–101 of this title in a prescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+&emsp;The Secretary shall not permit the enrollment under section 1395w–101 of this title in aprescription drug plan offered by a PDP sponsor under this part, and the sponsor shall not be eligible for payments under section 1395w–114 or 1395w–115 of this title, unless the Secretary has entered into a contract under this subsection with the sponsor with respect to the offering of such plan. Such a contract with a sponsor may cover more than one prescription drug plan. Such contract shall provide that the sponsor agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (2) Limitation on entities offering fallback prescription drug plans
 
@@ -147,8 +147,4 @@ The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shal
 #### References in Text
 
 Part C of this subchapter, referred to in subsecs. (c)(1)(B) and (g), is classified to section 1395w–21 et seq. of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395w–27, 1395w–102, 1395w–115, 1395w–151 of this title.
 

@@ -38,7 +38,3 @@ Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under
 
 1997—Subsec. (b). Pub. L. 105–36 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Geologic maps contributed to the national archives should have standardized format, symbols, and technical attributes so that archival information can be assimilated, manipulated, accessed, exchanged, and compared efficiently and accurately.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31c, 31d, 31g, 31h of this title.
-

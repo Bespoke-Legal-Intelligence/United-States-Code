@@ -10,7 +10,3 @@ Act of September 30, 1961, referred to in text, is Pub. L. 87–332, Sept. 30, 1
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1033, 1034 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials
 
-To aid in achieving maximum effectiveness in the programs and activities conducted underthis chapter, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the development of stronger and more efficient State organizations that will enable them to fulfill better their responsibilities for the protection and management of non-Federal forest lands. Assistance under this subsection may include, but will not be limited to, assistance in matters related to organization management, program planning and management, budget and fiscal accounting services, personnel training and management, information services, and recordkeeping. Assistance under this subsection may be extended only upon request by State foresters or equivalent State officials.
+To aid in achieving maximum effectiveness in the programs and activities conducted under this chapter, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the development of stronger and more efficient State organizations that will enable them to fulfill better their responsibilities for the protection and management of non-Federal forest lands. Assistance under this subsection may include, but will not be limited to, assistance in matters related to organization management, program planning and management, budget and fiscal accounting services, personnel training and management, information services, and recordkeeping. Assistance under this subsection may be extended only upon request by State foresters or equivalent State officials.
 
 #### (b) Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected
 
@@ -41,8 +41,4 @@ In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “
 #### Prior Provisions
 
 A prior section 11 of Pub. L. 95–313 was renumbered section 14 and is classified to section 2110 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106b of this title.
 

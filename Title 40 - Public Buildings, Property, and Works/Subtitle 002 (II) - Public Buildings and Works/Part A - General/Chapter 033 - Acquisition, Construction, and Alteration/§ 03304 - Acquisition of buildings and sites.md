@@ -64,7 +64,3 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3305 of this title; title 16 section 450ss–6.
-

@@ -4,7 +4,3 @@ Such lands, when acquired in accordance with the provisions of section 691 of th
 
 (June 12, 1930, ch. 469, §2, 46 Stat. 579.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 691c, 691d of this title.
-

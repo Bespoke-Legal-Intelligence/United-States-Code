@@ -38,7 +38,3 @@ Following the unit owners’ vote, the termination shall be effective ninety day
 
 In subsec. (a), “October 8, 1980” was substituted for “the effective date of this title”. See Effective Date note set out under section 3601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3609, 3611 of this title.
-

@@ -32,7 +32,7 @@ Notwithstanding the provisions of subsection (a) of this section, no student sha
 
 Section 1135d(a) of this title, referred to in subsec. (c), was in the original “section 716(a)”, meaning section 716(a) of Pub. L. 89–329, which was translated as reading section 715(a) of that Act to reflect the probable intent of Congress, because section 715(a) relates to institutional payments, and section 716, which is classified to section 1135e of this title, does not relate to institutional payments and does not contain a subsec. (a).
 
-Section 1135b(b)(2) of this title, referred to in subsec. (c), was in the original “section 714(b)(2)”, meaning section 714(b)(2) of Pub. L. 89–329, which was translated as reading section 713(b)(2) of that Act to reflect the probable intent of Congress, because section 713(b)(2) relates to amounts that institutions are required to providefrom non-Federal sources, and section 714, which is classified to this section, does not relate to amounts that institutions are required to provide and does not contain a subsec. (b)(2).
+Section 1135b(b)(2) of this title, referred to in subsec. (c), was in the original “section 714(b)(2)”, meaning section 714(b)(2) of Pub. L. 89–329, which was translated as reading section 713(b)(2) of that Act to reflect the probable intent of Congress, because section 713(b)(2) relates to amounts that institutions are required to provide from non-Federal sources, and section 714, which is classified to this section, does not relate to amounts that institutions are required to provide and does not contain a subsec. (b)(2).
 
 #### Prior Provisions
 

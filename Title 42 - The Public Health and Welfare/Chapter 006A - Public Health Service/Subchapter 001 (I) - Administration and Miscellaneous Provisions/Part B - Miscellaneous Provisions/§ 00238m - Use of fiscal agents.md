@@ -4,7 +4,7 @@
 
 The Secretary may enter into contracts with fiscal agents—
 
-&emsp;(1)(A) to determine the amounts payable to persons who, on behalf of the Indian HealthService, furnish health services to eligible Indians,
+&emsp;(1)(A) to determine the amounts payable to persons who, on behalf of the Indian Health Service, furnish health services to eligible Indians,
 
 &emsp;(B) to determine the amounts payable to persons who, on behalf of the Public Health Service, furnish health services to individuals pursuant to section 247d or 249 of this title,
 

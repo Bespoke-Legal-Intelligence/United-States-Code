@@ -258,7 +258,3 @@ Sec. 3. The delegation made by this order shall become effective upon the expira
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2452 of this title.
-

@@ -38,7 +38,3 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 
 1974—Subsec. (d). Pub. L. 93–243 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1341, 1382 of this title.
-

@@ -22,7 +22,7 @@ The court may affirm, modify, or set aside the order of the Secretary.
 
 #### (f) Taking of additional evidence; modified or additional findings by Secretary
 
-If the court determines that the just and proper disposition of the case requires the taking of additional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
+If the court determines that the just and proper disposition of the case requires the taking ofadditional evidence, the court shall order the hearing to be reopened for the taking of such evidence, in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify his findings as to the facts, or make new findings, by reason of the additional evidence so taken, and he shall file such modified or new findings and his recommendations, if any, for the modification or setting aside of his order, with the return of such additional evidence.
 
 #### (g) Affirmance or modification of order as injunction
 
@@ -37,8 +37,4 @@ The court of appeals shall have jurisdiction which upon the filing of the record
 #### Effective Date
 
 Section effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 228b–2, 228b–4 of this title.
 

@@ -36,7 +36,3 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 (Pub. L. 107–296, title III, §302, Nov. 25, 2002, 116 Stat. 2163.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 184, 188 of this title.
-

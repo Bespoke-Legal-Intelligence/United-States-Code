@@ -24,7 +24,7 @@
 
 (1) A food to which this section applies shall not be deemed under section 343 of this title to be misbranded solely because its label bears, in accordance with section 343(i)(2) of this title, all the ingredients in the food or its advertising contains references to ingredients in the food which are not vitamins or minerals.
 
-(2) The labeling for any food to which this section applies may not list its ingredients whichare not dietary supplement ingredients described in section 321(ff) of this title (i) except as a part of a list of all the ingredients of such food, and (ii) unless such ingredients are listed in accordance with applicable regulations under section 343 of this title. To the extent that compliance with clause (i) of this subparagraph is impracticable or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
+(2) The labeling for any food to which this section applies may not list its ingredients which are not dietary supplement ingredients described in section 321(ff) of this title (i) except as a part of a list of all the ingredients of such food, and (ii) unless such ingredients are listed in accordance with applicable regulations under section 343 of this title. To the extent that compliance with clause (i) of this subparagraph is impracticable or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
 
 #### (c) Definitions
 
@@ -71,10 +71,6 @@ For provision that dietary supplements may be labeled after Oct. 25, 1994, in ac
 #### Amendment of Inconsistent Regulations by Secretary
 
 Section 501(b) of Pub. L. 94–278, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “The Secretary of Health and Human Services shall amend any regulation promulgated under the Federal Food, Drug, and Cosmetic Act \[this chapter\] which is inconsistent with section 411 of such Act \[section 350 of this title\] (as added by subsection (a)) and such amendments shall be promulgated in accordance with section 553 of title 5, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 321, 343 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

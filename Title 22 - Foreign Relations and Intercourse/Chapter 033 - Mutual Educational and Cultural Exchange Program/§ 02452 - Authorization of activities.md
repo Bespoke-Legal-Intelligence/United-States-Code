@@ -16,7 +16,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;&emsp;(i) visits and interchanges between the United States and other countries of leaders, experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
 
-&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups,representing any field of the arts, sports, or any other form of cultural attainment;
+&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
 
 &emsp;&emsp;(iii) United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies;
 
@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United Statesschools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date of 1962 Amendment
 
-Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending thissection\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
+Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
 
 #### Transfer of Functions
 
@@ -83,6 +83,54 @@ Functions of President under this section delegated to Secretary of State, Direc
 #### Performance of Functions
 
 Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
+
+#### Pilot Program To Provide Grants to American-Sponsored Schools in Predominantly Muslim Countries To Provide Scholarships
+
+Pub. L. 108–458, title VII, §7113, Dec. 17, 2004, 118 Stat. 3797, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) During the 2003–2004 school year, the Office of Overseas Schools of the Department of State is financially assisting 189 elementary and secondary schools in foreign countries.
+
+&emsp;“(2) United States-sponsored elementary and secondary schools are located in more than 20 countries with predominantly Muslim populations in the Near East, Africa, South Asia, Central Asia, and East Asia.
+
+&emsp;“(3) United States-sponsored elementary and secondary schools provide an American-style education in English, with curricula that typically include an emphasis on the development of critical thinking and analytical skills.
+
+“(b)
+
+Statement of Policy.—The United States has an interest in increasing the level of financial support provided to United States-sponsored elementary and secondary schools in countries with predominantly Muslim populations in order to—
+
+&emsp;“(1) increase the number of students in such countries who attend such schools;
+
+&emsp;“(2) increase the number of young people who may thereby gain at any early age an appreciation for the culture, society, and history of the United States; and
+
+&emsp;“(3) increase the number of young people who may thereby improve their proficiency in the English language.
+
+“(c)
+
+Pilot Program.—The Secretary of State, acting through the Director of the Office of Overseas Schools of the Department of State, may conduct a pilot program to make grants to United States-sponsored elementary and secondary schools in countries with predominantly Muslim populations for the purpose of providing full or partial merit-based scholarships to students from lower-income and middle-income families of such countries to attend such schools.
+
+“(d)
+
+Determination of Eligible Students.—For purposes of the pilot program, a United States-sponsored elementary and secondary school that receives a grant under the pilot program may establish criteria to be implemented by such school to determine what constitutes lower-income and middle-income families in the country (or region of the country, if regional variations in income levels in the country are significant) in which such school is located.
+
+“(e)
+
+Restriction on Use of Funds.—Amounts appropriated to the Secretary of State pursuant to the authorization of appropriations in subsection (h) shall be used for the sole purpose of making grants under this section, and may not be used for the administration of the Office of Overseas Schools of the Department of State or for any other activity of the Office.
+
+“(f)
+
+Voluntary Participation.—Nothing in this section shall be construed to require participation in the pilot program by a United States-sponsored elementary or secondary school in a predominantly Muslim country.
+
+“(g)
+
+Report.—Not later than April 15, 2006, the Secretary of State shall submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the pilot program. The report shall assess the success of the program, examine any obstacles encountered in its implementation, and address whether it should be continued, and if so, provide recommendations to increase its effectiveness.
+
+“(h)
+
+Funding.—There are authorized to be appropriated to the Secretary of State for each of the fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as necessary to implement the pilot program under this section.”
 
 #### Vietnam Education Foundation
 
@@ -304,7 +352,7 @@ Experts and Consultants.—The Executive Director may procure temporary and inte
 
 “(d)
 
-Compensation.—The Board may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceedthe rate payable for level IV of the Executive Schedule under section 5315 of such title.
+Compensation.—The Board may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of such title.
 
 #### “SEC. 209. ADMINISTRATIVE PROVISIONS.
 
@@ -392,7 +440,7 @@ Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized est
 
 Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
-Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states ofthe former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
+Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
 Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(7), Oct. 21, 1998, 112 Stat. 2681–817, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
 
@@ -405,10 +453,6 @@ Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Sec
 #### Executive Order No. 10716
 
 Ex. Ord. No. 10716, June 18, 1957, 22 F.R. 4345, as amended by Ex. Ord. No. 10912, Jan. 19, 1961, 26 F.R. 509, which related to administration of programs under this chapter, was superseded by Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, set out as a note under section 2454 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2452b, 2453, 2454, 2455, 2456, 2458, 2458a, 2460, 4712 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

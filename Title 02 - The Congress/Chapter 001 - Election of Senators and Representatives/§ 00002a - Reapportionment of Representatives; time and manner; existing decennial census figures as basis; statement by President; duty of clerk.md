@@ -10,11 +10,11 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–186 struck out at end “; and in case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or the absence or inability of both to act, such duty shall devolve upon the Doorkeeper of the House of Representatives”.
+1996—Subsec. (b). Pub. L. 104–186 struck out at end “; and in case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or the absence or inability of both to act, such duty shall devolve upon the Doorkeeper of the House of Representatives”.
 
-<b>1941</b>—Act Nov. 15, 1941, provided for reapportionment based on seventeenth and subsequent decennial censuses.
+1941—Act Nov. 15, 1941, provided for reapportionment based on seventeenth and subsequent decennial censuses.
 
-<b>1940</b>—Act Apr. 25, 1940, provided for reapportionment based on sixteenth decennial census.
+1940—Act Apr. 25, 1940, provided for reapportionment based on sixteenth decennial census.
 
 #### Termination of Reporting Requirements
 
@@ -27,8 +27,4 @@ Apportionment of Representatives among the several States, see Const. Art. I, §
 #### Temporary Increase in Membership
 
 Representation of States of Alaska and Hawaii in House of Representatives as not affecting basis of apportionment established by this section, see section 9 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions, and section 8 of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2b, 2c of this title.
 

@@ -26,7 +26,3 @@ Allocation of Funds.—Of amounts authorized to be appropriated under subsection
 
 1985—Pub. L. 99–93 amended section generally, substituting “$10,500,000 for each of the fiscal years 1986 and 1987” for “$5,000,000 for the fiscal year 1983, $10,000,000 for the fiscal year 1984, and $10,000,000 for the fiscal year 1985”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4402 of this title.
-

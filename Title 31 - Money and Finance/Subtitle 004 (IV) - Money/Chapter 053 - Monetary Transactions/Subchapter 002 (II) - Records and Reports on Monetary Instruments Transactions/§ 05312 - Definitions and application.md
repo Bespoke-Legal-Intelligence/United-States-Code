@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(V) the United States Postal Service;
 
-&emsp;&emsp;(W) an agency of the United States Government or of a State or local governmentcarrying out a duty or power of a business described in this paragraph;
+&emsp;&emsp;(W) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this paragraph;
 
 &emsp;&emsp;(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
 
-&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5333 <sup>1</sup> and 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
 &emsp;(4)
 
@@ -88,13 +88,13 @@ Nonfinancial trade or business.—The term “nonfinancial trade or business” 
 
 Additional Definitions.—For purposes of this subchapter, the following definitions shall apply:
 
-&emsp;(1) <sup>2</sup>
+&emsp;(1) <sup>1</sup>
 
 Certain institutions included in definition.—The term “financial institution” (as defined in subsection (a)) includes the following:
 
-&emsp;&emsp;(A) <sup>3</sup> Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
+&emsp;&emsp;(A) <sup>2</sup> Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325,title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746.)
 
 Historical and Revision Notes
 
@@ -142,7 +142,7 @@ In subsection (a)(3)(B)–(5), the word “prescribe” is substituted for “sp
 
 In subsection (a)(3)(B), the words “in addition”, and “and such types of” are omitted as surplus. The words “similar material” are substituted for “the equivalent thereof” for clarity.
 
-In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or anyparticular requirement thereunder” are omitted as surplus.
+In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
 
 In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
 
@@ -156,13 +156,13 @@ The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. 
 
 The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-#### Codification
-
-Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
-
 #### Amendments
 
-2001—Subsec. (a)(2)(E). Pub. L. 107–56, §321(a), which directed the general amendment of par. (2)(E) of this section, was executed to subsec. (a)(2)(E) of this section to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(2)(E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
+2004—Subsec. (a)(2)(E). Pub. L. 108–458, §6202(g), made technical correction to directory language of Pub. L. 107–56, §321(a). See 2001 Amendment note below.
+
+Subsec. (a)(3)(C). Pub. L. 108–458, §6203(b), substituted “sections 5316 and 5331” for “sections 5333 and 5316”.
+
+2001—Subsec. (a)(2)(E). Pub. L. 107–56, §321(a), as amended by Pub. L. 108–458, §6202(g), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
 
 Subsec. (a)(2)(R). Pub. L. 107–56, §359(a), amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
 
@@ -188,21 +188,15 @@ Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after “Puert
 
 Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 
-#### Termination Date of 2001 Amendment
+#### Effective Date of 2004 Amendment
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 
-This section is referred to in sections 5318, 5331, 5340 of this title; title 12 sections 1953, 3414; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
-
-<i><sup>1</sup></i><i> So in original. This title does not contain a section 5333.</i>
-
-<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+<i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

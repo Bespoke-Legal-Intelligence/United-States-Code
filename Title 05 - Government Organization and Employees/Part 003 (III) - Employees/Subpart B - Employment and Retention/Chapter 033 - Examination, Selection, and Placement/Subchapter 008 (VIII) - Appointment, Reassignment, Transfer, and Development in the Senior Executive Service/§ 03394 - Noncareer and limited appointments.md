@@ -10,7 +10,3 @@
 
 A prior section 3394, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1057, which related to personnel ceilings, was renumbered as section 3404 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3395 of this title; title 20 section 3461.
-

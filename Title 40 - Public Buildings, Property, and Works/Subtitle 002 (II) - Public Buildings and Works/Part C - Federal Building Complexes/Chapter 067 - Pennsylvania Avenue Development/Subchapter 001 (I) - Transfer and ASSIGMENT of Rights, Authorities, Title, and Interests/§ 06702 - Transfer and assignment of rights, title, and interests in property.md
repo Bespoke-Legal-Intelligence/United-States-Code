@@ -44,7 +44,7 @@ Responsibilities.—The responsibilities of the Corporation transferred to the A
 
 &emsp;(2)
 
-Powers.—In carrying out the responsibilities of the Corporation transferred under this section, the Administrator of General Services may—
+Powers.—In carrying out the responsibilities of the Corporation transferred under thissection, the Administrator of General Services may—
 
 &emsp;&emsp;(A) acquire land, improvements, and property by purchase, lease or exchange, and sell, lease, or otherwise dispose of any property, as necessary to complete the development plan developed under section 5 of the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1269) if a notice of intention to carry out the acquisition or disposal is first transmitted to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and at least 60 days elapse after the date of the transmission;
 
@@ -52,7 +52,7 @@ Powers.—In carrying out the responsibilities of the Corporation transferred un
 
 &emsp;&emsp;(C) maintain any existing Corporation insurance programs;
 
-&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the FederalGovernment, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
+&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the Federal Government, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
 
 &emsp;&emsp;(E) request the Council of the District of Columbia to close any alleys necessary for the completion of development in Square 457; and
 
@@ -131,8 +131,4 @@ Section 5 of the Act was classified to section 874 of former Title 40 prior to r
 The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, as amended, which was classified to chapter 22 (§1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6701 of this title.
 

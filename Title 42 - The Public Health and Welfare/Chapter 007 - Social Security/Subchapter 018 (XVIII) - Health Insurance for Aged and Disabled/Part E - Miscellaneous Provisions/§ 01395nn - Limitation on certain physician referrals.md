@@ -152,7 +152,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (2) Bona fide employment relationships
 
-&emsp;Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
+&emsp;Any amount paid by an employer to a physician (or an immediate family member of suchphysician) who has a bona fide employment relationship with the employer for the provision of services if—
 
 &emsp;&emsp;(A) the employment is for identifiable services,
 
@@ -194,7 +194,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;&emsp;In the case of a physician incentive plan (as defined in clause (ii)) between a physician and an entity, the compensation may be determined in a manner (through a withhold, capitation, bonus, or otherwise) that takes into account directly or indirectly the volume or value of any referrals or other business generated between the parties, if the plan meets the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to aphysician or a physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the entity.
+&emsp;&emsp;&emsp;&emsp;(I) No specific payment is made directly or indirectly under the plan to a physician or a physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the entity.
 
 &emsp;&emsp;&emsp;&emsp;(II) In the case of a plan that places a physician or a physician group at substantial financial risk as determined by the Secretary pursuant to section 1395mm(i)(8)(A)(ii) of this title, the plan complies with any requirements the Secretary may impose pursuant to such section.
 
@@ -222,7 +222,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;In the case of an isolated financial transaction, such as a one-time sale of property or practice, if—
 
-&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are met with respect to the entity in the same manner as they apply to an employer, and
+&emsp;&emsp;(A) the requirements described in subparagraphs (B) and (C) of paragraph (2) are metwith respect to the entity in the same manner as they apply to an employer, and
 
 &emsp;&emsp;(B) the transaction meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -280,7 +280,7 @@ Each entity providing covered items or services for which payment may be made un
 
 #### (4) Civil money penalty and exclusion for circumvention schemes
 
-&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;Any physician or other entity that enters into an arrangement or scheme (such as a cross-referral arrangement) which the physician or entity knows or should know has a principal purpose of assuring referrals by the physician to a particular entity which, if the physician directly made referrals to such entity, would be in violation of this section, shall be subject to a civil money penalty of not more than $100,000 for each such arrangement or scheme. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penaltyor proceeding under section 1320a–7a(a) of this title.
 
 #### (5) Failure to report information
 
@@ -324,7 +324,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(II) order or communicate the results of tests or procedures for such entity.
 
-&emsp;&emsp;(iii) A payment made by an insurer or a self-insured plan to a physician to satisfy aclaim, submitted on a fee for service basis, for the furnishing of health services by that physician to an individual who is covered by a policy with the insurer or by the self-insured plan, if—
+&emsp;&emsp;(iii) A payment made by an insurer or a self-insured plan to a physician to satisfy a claim, submitted on a fee for service basis, for the furnishing of health services by that physician to an individual who is covered by a policy with the insurer or by the self-insured plan, if—
 
 &emsp;&emsp;&emsp;(I) the health services are not furnished, and the payment is not made, pursuant to a contract or other arrangement between the insurer or the plan and the physician,
 
@@ -438,7 +438,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) for which the type of categories described in subparagraph (A) at any time on or after such date is no different than the type of such categories as of such date;
 
-&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does not exceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
+&emsp;&emsp;&emsp;(iv) for which any increase in the number of beds occurs only in the facilities on the main campus of the hospital and does notexceed 50 percent of the number of beds in the hospital as of November 18, 2003, or 5 beds, whichever is greater; and
 
 &emsp;&emsp;&emsp;(v) that meets such other requirements as the Secretary may specify.
 
@@ -496,7 +496,7 @@ Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec
 
 1990—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence and inserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
+Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “October 1, 1991” for “1 year after December 19, 1989” in second sentence andinserted at end “The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type.”
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors.”
 
@@ -614,11 +614,7 @@ Section 6204(e) of Pub. L. 101–239 directed Comptroller General to conduct a s
 
 #### Statistical Summary of Comparative Utilization
 
-Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(A), formerly§4027(e)(4)(A), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–316, title I, §122(h)(2), Oct. 19, 1996, 110 Stat. 3837, directed Secretary of Health and Human Services, not later than June 30, 1992, to submit to Congress a statistical profile comparing utilization of items and services by medicare beneficiaries served by entities in which the referring physician has a direct or indirect financial interest and by medicare beneficiaries served by other entities, for the States and entities specified in subsec. (f) of this section (other than entities providing clinical laboratory services).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320b–5, 1395w–104, 1396b of this title; title 21 section 823.
+Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(A), formerly §4027(e)(4)(A), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–316, title I, §122(h)(2), Oct. 19, 1996, 110 Stat. 3837, directed Secretary of Health and Human Services, not later than June 30, 1992, to submit to Congress a statistical profile comparing utilization of items and services by medicare beneficiaries served by entities in which the referring physician has a direct or indirect financial interest and by medicare beneficiaries served by other entities, for the States and entities specified in subsec. (f) of this section (other than entities providing clinical laboratory services).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

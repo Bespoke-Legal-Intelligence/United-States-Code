@@ -4,7 +4,3 @@ For the purpose of completing the establishment of Saratoga National Historical 
 
 (June 22, 1948, ch. 594, §1, 62 Stat. 570.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 159d of this title.
-

@@ -1,8 +1,8 @@
 ### §1720D. Counseling and treatment for sexual trauma
 
-(a)(1) During the period through December 31, 2004, the Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty.
+(a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty or active duty for training.
 
-(2) In furnishing counseling to a veteran under this subsection, the Secretary may, during the period through December 31, 2004, provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
+(2) In furnishing counseling to a veteran under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
 
 (b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
@@ -30,9 +30,13 @@
 
 (d) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
-(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558.)
+(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382.)
 
 #### Amendments
+
+2004—Subsec. (a)(1). Pub. L. 108–422, §301(a)(1), (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
+
+Subsec. (a)(2). Pub. L. 108–422, §301(a)(2), struck out “, during the period through December 31, 2004,” after “the Secretary may”.
 
 1999—Subsec. (a)(1). Pub. L. 106–117, §115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
 
@@ -48,7 +52,7 @@ Subsec. (c)(2), (3). Pub. L. 106–117, §115(c), added par. (2), redesignated f
 
 Subsec. (a)(1). Pub. L. 103–452, §101(b)(1), (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
 
-Subsec. (a)(2). Pub. L. 103–452, §101(a), added par. (2) and struck out former par. (2) which read as follows:“To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran's discharge or release from active military, naval, or air service.”
+Subsec. (a)(2). Pub. L. 103–452, §101(a), added par. (2) and struck out former par. (2) which read as follows: “To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran's discharge or release from active military, naval, or air service.”
 
 Subsec. (a)(3). Pub. L. 103–452, §101(b)(2), substituted “December 31, 1998,” for “December 31, 1994,”.
 

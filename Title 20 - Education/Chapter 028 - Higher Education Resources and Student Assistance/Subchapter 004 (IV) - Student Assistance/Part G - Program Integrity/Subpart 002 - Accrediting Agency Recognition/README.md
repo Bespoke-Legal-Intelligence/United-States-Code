@@ -8,10 +8,6 @@ recognition” for “
 
 approval” in heading.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 1001, 1011c of this title.
-
 
 ---
 

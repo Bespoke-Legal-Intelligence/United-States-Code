@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) for purposes of enabling the Corporation to examine the facility, agree to allow officers or employees of the Corporation to have access to all books, accounts, financial records, reports, files, and all other papers, things, or property, of any type whatsoever, belonging to or used by the Corporation that are necessary to facilitate an examination of the operations of the facility in connection with securities, and the pools of qualified loans that back securities, for which the Corporation has provided guarantees; and
 
-&emsp;&emsp;(G) adopt appropriate minimum standards and procedures relating to loan administration and disclosure to borrowers concerning the terms and rights applicable to loans for which guarantee is provided, in conformity with uniform standards established by the Corporation.
+&emsp;&emsp;(G) adopt appropriate minimum standards and procedures relating to loan administration and disclosure to borrowers concerning the terms and rights applicable to loans forwhich guarantee is provided, in conformity with uniform standards established by the Corporation.
 
 #### (3) Nondiscrimination requirement
 
@@ -50,7 +50,7 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 #### (1) Establishment of affiliate authorized
 
-&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution,acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
+&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
 
 #### (2) Exclusive agency agreement authorized
 
@@ -65,8 +65,4 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 Subsec. (a)(2). Pub. L. 104–105, §106(1)(B), inserted “(other than the Corporation)” after “facility” in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 104–105, §106(2), struck out “(other than the Corporation)” after “System institution”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279aa of this title.
 

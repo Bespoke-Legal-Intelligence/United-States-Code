@@ -27,10 +27,6 @@ Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “De
 
 1973—Pub. L. 93–43, §5(b), June 18, 1973, 87 Stat. 81, inserted “; plot allowance” in item 903 and added items 906 and 907.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 107, 1315, 1503 of this title; title 10 section 1490; title 26 section 6334; title 46 section 11201.
-
 
 ---
 

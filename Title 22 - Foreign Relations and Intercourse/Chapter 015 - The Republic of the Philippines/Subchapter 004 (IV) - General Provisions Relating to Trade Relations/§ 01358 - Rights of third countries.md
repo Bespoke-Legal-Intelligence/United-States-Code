@@ -14,7 +14,3 @@ Subchapters I to IV of this chapter, referred to in text, was in the original â€
 
 The executive agreement provided for in subchapter III of this chapter, referred to in text, expired July 4, 1974.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1373 of this title.
-

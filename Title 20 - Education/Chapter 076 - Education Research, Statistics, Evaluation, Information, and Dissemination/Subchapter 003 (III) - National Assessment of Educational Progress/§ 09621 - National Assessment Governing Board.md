@@ -106,11 +106,11 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(H) develop standards and procedures for regional and national comparisons;
 
-&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized bysection 9622 of this title consistent with the provisions of this section and section 9622 of this title; and
+&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9622 of this title consistent with the provisions of this section and section 9622 of this title; and
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 
-> &emsp;The National Assessment of Educational Progress data shall not be released prior to the release of the reports described in subparagraph (J).
+> &emsp;The National Assessment of Educational Progress data shall not be released prior to therelease of the reports described in subparagraph (J).
 
 #### (2) Delegation
 
@@ -233,8 +233,4 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 #### Short Title
 
 This subchapter known as the “National Assessment of Educational Progress Authorization Act”, see Short Title note set out under section 9501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9513, 9622, 9624 of this title.
 

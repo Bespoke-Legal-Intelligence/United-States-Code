@@ -28,7 +28,3 @@
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1944.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1352, 3803, 3806, 3807 of this title.
-

@@ -4,7 +4,3 @@ The Council, with the concurrence of the Secretary, shall promulgate regulations
 
 (Pub. L. 89–665, title II, §214, as added Pub. L. 96–515, title III, §302(a), Dec. 12, 1980, 94 Stat. 3000.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470h–2 of this title; title 40 section 3303.
-

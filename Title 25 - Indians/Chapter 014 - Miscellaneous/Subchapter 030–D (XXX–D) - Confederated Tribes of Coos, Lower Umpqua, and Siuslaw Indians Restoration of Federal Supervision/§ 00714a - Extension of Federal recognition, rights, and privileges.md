@@ -2,7 +2,7 @@
 
 #### (a) Federal recognition
 
-Federal recognition is hereby extended to the Tribe, and its members shall be eligible for all Federal services and benefits furnished to federally recognized tribes. Notwithstanding any provision to the contrary in any law establishing such services and benefits, eligibility of the Tribe and its members for such Federal services and benefits shall become effective on October 17, 1984, without regard to the existence of a reservation for the Tribe or the residence of the members of the Tribe on a reservation for such members who reside in the following counties of Oregon: Coos, Lane, Lincoln, Douglas, and Curry.
+Federal recognition is hereby extended to the Tribe, and its members shall be eligible for all Federal services and benefits furnished to federally recognized tribes. Notwithstanding any provision to the contrary in any law establishing such services and benefits, eligibility of theTribe and its members for such Federal services and benefits shall become effective on October 17, 1984, without regard to the existence of a reservation for the Tribe or the residence of the members of the Tribe on a reservation for such members who reside in the following counties of Oregon: Coos, Lane, Lincoln, Douglas, and Curry.
 
 #### (b) Restoration of rights and privileges
 

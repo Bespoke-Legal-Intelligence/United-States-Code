@@ -60,7 +60,3 @@ If a person fails to pay a civil penalty after it has become a final and unappea
 
 (Pub. L. 101–624, title XIX, §1914, Nov. 28, 1990, 104 Stat. 3851.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6008, 6010 of this title.
-

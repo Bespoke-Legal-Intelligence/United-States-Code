@@ -74,7 +74,7 @@ Pub. L. 96–374, title XIII, §1393, Oct. 3, 1980, 94 Stat. 1504, provided that
 
 “(3) The amendment made by section 405 to subpart 4 of part A of title IV of the Act \[amending subpart 4 of part A of subchapter IV of this chapter generally\] shall take effect October 1, 1981.
 
-“(4) The amendments made by part B of title IV of this Act \[enacting sections 1077a, 1078–2, 1083a, and 1087–1a of this title and amending sections 1074, 1075, 1077, 1078, 1078–1, 1080, 1082, 1085, 1087–1, and 1087–2 of this title\] shall take effect, except as otherwise provided therein, on January 1, 1981, and to the extent such amendments make changes in such part B which affect student loans, such changes shall apply to outstanding loans as well as to loans made after the amendments take effect, except that the amendments made by section 415(b) \[amending sections 1077(a)(2)(B) and 1078(b)(1)(E) of this title\] shall apply with respect to any loan to cover the cost of instruction for any period of instruction beginning on or after January 1, 1981, to any student borrower who has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[part B of subchapter IV of this chapter\] on the date on which the borrower enters into the note or other written evidence of the loan.
+“(4) The amendments made by part B of title IV of this Act \[enacting sections 1077a, 1078–2, 1083a, and1087–1a of this title and amending sections 1074, 1075, 1077, 1078, 1078–1, 1080, 1082, 1085, 1087–1, and 1087–2 of this title\] shall take effect, except as otherwise provided therein, on January 1, 1981, and to the extent such amendments make changes in such part B which affect student loans, such changes shall apply to outstanding loans as well as to loans made after the amendments take effect, except that the amendments made by section 415(b) \[amending sections 1077(a)(2)(B) and 1078(b)(1)(E) of this title\] shall apply with respect to any loan to cover the cost of instruction for any period of instruction beginning on or after January 1, 1981, to any student borrower who has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[part B of subchapter IV of this chapter\] on the date on which the borrower enters into the note or other written evidence of the loan.
 
 “(5) The amendments made by part D of title IV of this Act \[enacting sections 1087cc–1, 1087hh, and 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall apply to loans made under part E of the Act \[part D of subchapter IV of this chapter\] on or after October 1, 1980.
 
@@ -87,6 +87,10 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: �
 &emsp;“(1) as specifically otherwise provided; and
 
 &emsp;“(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
+
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: “This Act \[amending sections 1078–10, 1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the ‘Taxpayer-Teacher Protection Act of 2004’.”
 
 #### Short Title of 2000 Amendments
 
@@ -112,7 +116,7 @@ Pub. L. 103–382, title III, §360B(a), Oct. 20, 1994, 108 Stat. 3969, provided
 
 #### Short Title of 1993 Amendments
 
-Pub. L. 103–208, §1(a), Dec. 20, 1993, 107 Stat. 2457, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Higher Education Technical Amendments of 1993’.”
+Pub. L. 103–208, §1(a), Dec. 20, 1993, 107 Stat. 2457, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Higher Education Technical Amendments of 1993’.”
 
 Pub. L. 103–66, title IV, §4011(a), Aug. 10, 1993, 107 Stat. 341, provided that: “This subtitle \[subtitle A (§§4011–4047) of title IV of Pub. L. 103–66, amending sections 1072, 1078, 1078–3, 1078–8, 1085, 1087–2, and 1087a to 1087h of this title, repealing section 1078–1 of this title, omitting sections 1087i and 1087j of this title, and enacting provisions set out as notes under sections 1078, 1078–3, and 1078–8 of this title\] may be cited as the ‘Student Loan Reform Act of 1993’.”
 
@@ -132,7 +136,7 @@ Pub. L. 101–542, title I, §101, Nov. 8, 1990, 104 Stat. 2381, provided that: 
 
 Pub. L. 101–542, title II, §201, Nov. 8, 1990, 104 Stat. 2384, provided that: “This title \[amending sections 1092, 1094, and 1232g of this title and enacting provisions set out as notes under section 1092 of this title\] may be cited as the ‘Crime Awareness and Campus Security Act of 1990’.”
 
-Pub. L. 101–508, title III, §3001, Nov. 5, 1990, 104 Stat. 1388–25, provided that: “This subtitle \[subtitle A (§§3001–3008) of title III of Pub. L. 101–508, amending sections 1078, 1078–1, 1078–7, 1085, 1088, and 1091 of this title and sections 362, 541, and 1328 of Title 11, Bankruptcy, enacting provisions set out as notes under sections 1078–7, 1085, and 1088 of this title and sections 362 and 1328 of Title 11, and amending provisions set out as a note under section 1078–1 of this title\] may be cited as the ‘Student Loan Default Prevention Initiative Act of 1990’.”
+Pub. L. 101–508, title III, §3001, Nov. 5, 1990, 104 Stat. 1388–25, provided that: “This subtitle \[subtitle A (§§3001–3008) of title III of Pub. L. 101–508, amending sections 1078, 1078–1, 1078–7, 1085, 1088, and 1091 of this title and sections 362, 541, and 1328 of Title 11, Bankruptcy, enacting provisions set out as notes under sections 1078–7, 1085, and 1088 of this title and sections 362 and 1328 of Title 11, and amending provisions set out as a note under section 1078–1 of this title\] may be cited asthe ‘Student Loan Default Prevention Initiative Act of 1990’.”
 
 #### Short Title of 1989 Amendment
 
@@ -166,7 +170,7 @@ Pub. L. 97–35, title V, subtitle B, §531, Aug. 13, 1981, 95 Stat. 450, provid
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–374, §1, Oct. 3, 1980, 94 Stat. 1367, provided: “That this Act \[enacting sections 239a, 1001 to 1005, 1011 to 1015, 1016 to 1019, 1021, 1022, 1029, 1031 to 1034, 1041,1042, 1047 to 1047j, 1051, 1057 to 1069c, 1070d–1a to 1070d–2, 1077a, 1078–2, 1083a, 1087–1a, 1087cc–1, 1087hh, 1087ii, 1088 to 1098, 1119b to 1119b–5, 1119c to 1119c–2, 1121 to 1127, 1130 to 1132, 1132a to 1132a–1, 1132b to 1132c, 1132d to 1132d–4, 1132e, 1132e–1, 1134d to 1134p, 1135 to 1135a–3, 1136 to 1136d, 1143, 1144a, 1145, 1146, 1221e–1b, 1221e–4, and 3063 to 3065 of this title, section 640c–2 of Title 25, Indians, and sections 2753 and 2756b of Title 42, The Public Health and Welfare, amending sections 1070 to 1070c–3, 1070d, 1070d–1, 1070e to 1077, 1078, 1078–1, 1079, 1080 to 1083, 1085 to 1087–1, 1087–2, 1087aa to 1087cc, 1087dd to 1087gg, 1101 to 1104, 1119 to 1119a–1, 1133 to 1134c, 1135c–1, 1141, 1142, 1221e, 1226a, 1226c, and 1232 of this title, section 326a of Title 7, Agriculture, section 640c–1 of Title 25, sections 714 and 792 of Title 29, Labor, and sections 2751, 2752, and 2756 of Title 42, repealing sections 511 to 513, 1070c–4, 1070d–3, 1087–4, 1134q to 1134s, 1142a, 1142b, 1145, 1145a, 1145c, 1172 to 1174, 1176, 1177, and 1221d of this title and section 2754 of Title 42, enacting provisions set out as notes under sections 236, 1001, 1119b, and 1221–1 of this title and section 301 of Title 7, and amending provisions set out as notes under section 236 of this title and section 301 of Title 7\] may be cited as the ‘Education Amendments of 1980’.”
+Pub. L. 96–374, §1, Oct. 3, 1980, 94 Stat. 1367, provided: “That this Act \[enacting sections 239a, 1001 to 1005, 1011 to 1015, 1016 to 1019, 1021, 1022, 1029, 1031 to 1034, 1041, 1042, 1047 to 1047j, 1051, 1057 to 1069c, 1070d–1a to 1070d–2, 1077a, 1078–2, 1083a, 1087–1a, 1087cc–1, 1087hh, 1087ii, 1088 to 1098, 1119b to 1119b–5, 1119c to 1119c–2, 1121 to 1127, 1130 to 1132, 1132a to 1132a–1, 1132b to 1132c, 1132d to 1132d–4, 1132e, 1132e–1, 1134d to 1134p, 1135 to 1135a–3, 1136 to 1136d, 1143, 1144a, 1145, 1146, 1221e–1b, 1221e–4, and 3063 to 3065 of this title, section 640c–2 of Title 25, Indians, and sections 2753 and 2756b of Title 42, The Public Health and Welfare, amending sections 1070 to 1070c–3, 1070d, 1070d–1, 1070e to 1077, 1078, 1078–1, 1079, 1080 to 1083, 1085 to 1087–1, 1087–2, 1087aa to 1087cc, 1087dd to 1087gg, 1101 to 1104, 1119 to 1119a–1, 1133 to 1134c, 1135c–1, 1141, 1142, 1221e, 1226a, 1226c, and 1232 of this title, section 326a of Title 7, Agriculture, section 640c–1 of Title 25, sections 714 and 792 of Title 29, Labor, and sections 2751, 2752, and 2756 of Title 42, repealing sections 511 to 513, 1070c–4, 1070d–3, 1087–4, 1134q to 1134s, 1142a, 1142b, 1145, 1145a, 1145c, 1172 to 1174, 1176, 1177, and 1221d of this title and section 2754 of Title 42, enacting provisions set out as notes under sections 236, 1001, 1119b, and 1221–1 of this title and section 301 of Title 7, and amending provisions set out as notes under section 236 of this title and section 301 of Title 7\] may be cited as the ‘Education Amendments of 1980’.”
 
 #### Short Title of 1979 Amendment
 
@@ -204,61 +208,47 @@ Pub. L. 89–329, title V, §509, as added by Pub. L. 90–35, §8, provided tha
 
 For short title of section 1092(f) of this title as the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, see section 1092(f)(15) of this title.
 
-#### Study of Opportunities for Participation in Athletics Programs
+#### Higher Education Extension
 
-Pub. L. 105–244, title VIII, §805, Oct. 7, 1998, 112 Stat. 1807, provided that:
+Pub. L. 108–366, Oct. 25, 2004, 118 Stat. 1741, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Higher Education Extension Act of 2004’.
+
+#### “SEC. 2. EXTENSION OF PROGRAMS.
 
 “(a)
 
-Study.—The Comptroller General shall conduct a study of the opportunities for participation in intercollegiate athletics. The study shall address issues including—
-
-&emsp;“(1) the extent to which the number of—
-
-&emsp;&emsp;“(A) secondary school athletic teams has increased or decreased in the 20 years preceding 1998 (in aggregate terms); and
-
-&emsp;&emsp;“(B) intercollegiate athletic teams has increased or decreased in the 20 years preceding 1998 (in aggregate terms) at 2-year and 4-year institutions of higher education;
-
-&emsp;“(2) the extent to which participation by student-athletes in secondary school and intercollegiate athletics has increased or decreased in the 20 years preceding 1998 (in aggregate terms);
-
-&emsp;“(3) over the 20-year period preceding 1998, a list of the men's and women's secondary school and intercollegiate sports, ranked in order of the sports most affected by increases or decreases in levels of participation and numbers of teams (in the aggregate);
-
-&emsp;“(4) all factors that have influenced campus officials to add or discontinue sports teams at secondary schools and institutions of higher education, including—
-
-&emsp;&emsp;“(A) institutional mission and priorities;
-
-&emsp;&emsp;“(B) budgetary pressures;
-
-&emsp;&emsp;“(C) institutional reforms and restructuring;
-
-&emsp;&emsp;“(D) escalating liability insurance premiums;
-
-&emsp;&emsp;“(E) changing student and community interest in a sport;
-
-&emsp;&emsp;“(F) advancement of diversity among students;
-
-&emsp;&emsp;“(G) lack of necessary level of competitiveness of the sports program;
-
-&emsp;&emsp;“(H) club level sport achieving a level of competitiveness to make the sport a viable varsity level sport;
-
-&emsp;&emsp;“(I) injuries or deaths; and
-
-&emsp;&emsp;“(J) conference realignment;
-
-&emsp;“(5) the actions that institutions of higher education have taken when decreasing the level of participation in intercollegiate sports, or the number of teams, in terms of providing information, advice, scholarship maintenance, counseling, advance warning, and an opportunity for student-athletes to be involved in the decisionmaking process;
-
-&emsp;“(6) the administrative processes and procedures used by institutions of higher education when determining whether to increase or decrease intercollegiate athletic teams or participation by student-athletes;
-
-&emsp;“(7) the budgetary or fiscal impact, if any, of a decision by an institution of higher education—
-
-&emsp;&emsp;“(A) to increase or decrease the number of intercollegiate athletic teams or the participation of student-athletes; or
-
-&emsp;&emsp;“(B) to be involved in a conference realignment; and
-
-&emsp;“(8) the alternatives, if any, institutions of higher education have pursued in lieu of eliminating, or severely reducing the funding for, an intercollegiate sport, and the success of such alternatives.
+Extension of Duration to Include Fiscal Year 2005.—The authorization of appropriations for, and the duration of, each program authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) shall be extended through fiscal year 2005.
 
 “(b)
 
-Report.—The Comptroller General shall submit a report regarding the results of the study to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.”
+Performance of Required and Authorized Functions.—If the Secretary of Education, a State, an institution of higher education, a guaranty agency, a lender, or another person or entity—
+
+&emsp;“(1) is required, in or for fiscal year 2004, to carry out certain acts or make certain determinations or payments under a program under the Higher Education Act of 1965, such acts, determinations, or payments shall be required to be carried out, made, or continued during the period of the extension under this section; or
+
+&emsp;“(2) is permitted or authorized, in or for fiscal year 2004, to carry out certain acts or make certain determinations or payments under a program under the Higher Education Act of 1965, such acts, determinations, or payments are permitted or authorized to be carried out, made, or continued during the period of the extension under this section.
+
+“(c)
+
+Extension at Current Levels.—The amount authorized to be appropriated for a program described in subsection (a) during the period of extension under this section shall be the amount authorized to be appropriated for such program for fiscal year 2004, or the amount appropriated for such program for such fiscal year, whichever is greater. Except as provided in any amendment to the Higher Education Act of 1965 enacted during fiscal year 2005, the amount of any payment required or authorized under subsection (b) in or for fiscal year 2005 shall be determined in the same manner as the amount of the corresponding payment required or authorized in or for fiscal year 2004.
+
+“(d)
+
+Advisory Committees and Other Entities Continued.—Any advisory committee, interagency organization, or other entity that was, during fiscal year 2004, authorized or required to perform any function under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), or in relation to programs under that Act, shall continue to exist and is authorized or required, respectively, to perform such function during fiscal year 2005.
+
+“(e)
+
+Additional Extension not Permitted.—Section 422 of the General Education Provisions Act (20 U.S.C. 1226a) shall not apply to further extend the authorization of appropriations for any program described in subsection (a) on the basis of the extension of such program under this section.
+
+“(f)
+
+Exception.—The programs described in subsection (a) for which the authorization of appropriations, or the duration of which, is extended by this section include provisions applicable to institutions in, and students in or from, the Freely Associated States, except that those provisions shall be applicable with respect to institutions in, and students in or from, theFederated States of Micronesia and the Republic of the Marshall Islands only to the extent specified in Public Law 108–188 \[48 U.S.C. 1921 et seq.\].”
+
+#### Study of Opportunities for Participation in Athletics Programs
+
+Pub. L. 105–244, title VIII, §805, Oct. 7, 1998, 112 Stat. 1807, required the Comptroller General to conduct a study of the opportunities for participation in intercollegiate athletics and to submit a report on the study to committees of Congress.
 
 #### Stylistic Consistency
 
@@ -295,8 +285,4 @@ Pub. L. 90–575, title V, §505, Oct. 16, 1968, 82 Stat. 1063, provided for pub
 #### Presidential Recommendations by December 31, 1969, With Respect to Post-Secondary Education for All
 
 Pub. L. 90–575, title V, §508, Oct. 16, 1968, 82 Stat. 1063, authorized the President, on or before Dec. 31, 1969, to submit to the Congress proposals relative to the feasibility of making available a post-secondary education to all young Americans who qualify and seek it.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1059c, 1078–11, 1099c, 1132, 1228c, 2002, 2302, 2324, 2371, 3902, 4514, 4702, 5602, 7011, 7801, 9202, 9501 of this title; title 7 sections 2279, 2279c, 3152, 3361, 7657, 8103, 8104, 8105; title 8 sections 1182, 1184; title 10 sections 510, 2193, 2199, 2200e, 16401; title 11 section 522; title 14 section 709a; title 15 sections 278h, 6604, 7402; title 16 section 698u–5; title 18 section 207; title 22 sections 2460, 2462, 4502, 4703; title 25 sections 13, 1801, 1813; title 29 sections 623, 705; title 30 section 1291; title 33 section 1262; title 37 section 430; title 39 section 3626; title 40 section 502; title 42 sections 1862i, 1869c, 2473e, 3002, 3791, 6322, 7274e, 9844, 9877, 11851, 12511, 12626, 12899f, 13791, 14092, 14111; title 47 section 223; title 50 section 1908.
 

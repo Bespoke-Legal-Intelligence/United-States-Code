@@ -18,7 +18,3 @@ The reports described in subsection (a) of this section and section 2212(a) of t
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2212 of this title.
-

@@ -1,6 +1,6 @@
 ### §1494. Purposes
 
-The purposes of sections 1494 to 1494c of this title are to improve enforcement of drug laws and enhance interdiction of illicit drug shipments in the Caribbean and Pacific territories and commonwealths of the United States andthe Trust Territory of the Pacific Islands (or successor governments) and to assist public and private sector drug abuse and other substance prevention and treatment programs in United States associated insular areas.
+The purposes of sections 1494 to 1494c of this title are to improve enforcement of drug laws and enhance interdiction of illicit drug shipments in the Caribbean and Pacific territories and commonwealths of the United States and the Trust Territory of the Pacific Islands (or successor governments) and to assist public and private sector drug abuse and other substance prevention and treatment programs in United States associated insular areas.
 
 (Pub. L. 99–570, title V, §5002, Oct. 27, 1986, 100 Stat. 3207–154; Pub. L. 100–690, title IX, §9308, Nov. 18, 1988, 102 Stat. 4538.)
 
@@ -19,8 +19,4 @@ Section 5001 of title V of Pub. L. 99–570 provided that: “This subtitle \[su
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1494b of this title.
 

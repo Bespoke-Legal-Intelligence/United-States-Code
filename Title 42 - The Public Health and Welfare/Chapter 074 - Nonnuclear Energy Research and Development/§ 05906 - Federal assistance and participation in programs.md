@@ -54,7 +54,7 @@ Competitive systems of price supports proposed for congressional authorization p
 
 &emsp;(4) The construction plans and actual construction of the demonstration facility, together with all related facilities, shall be monitored by the Environmental Protection Agency. If additional environmental requirements are imposed by the Secretary after the designation of the successful bidders and if such additional environmental requirements result in additional costs, the Secretary is authorized to renegotiate the support price to cover such additional costs.
 
-&emsp;(5) The estimated amount of the Federal price support for a demonstration facility's product over the life of such facility shall bedetermined by the Secretary to facilitate a single congressional authorization of the full amount of such support at the time of the designation of the successful bidders.
+&emsp;(5) The estimated amount of the Federal price support for a demonstration facility's product over the life of such facility shall be determined by the Secretary to facilitate a single congressional authorization of the full amount of such support at the time of the designation of the successful bidders.
 
 &emsp;(6) No price support program shall be implemented unless previously authorized by specific legislation enacted by the Congress.
 
@@ -85,10 +85,6 @@ Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to a
 #### Price-Support Program To Demonstrate Municipal Solid Waste Reprocessing for Production of Fuels and Energy Intensive Products
 
 Pub. L. 95–39, title I, §107, June 3, 1977, 91 Stat. 185, authorized Administrator, subject to the appropriation of funds pursuant to section 101(7)(I) of Pub. L. 95–39, to establish and implement, under subsection (a)(4) of this section and in accordance with subsection (c) of this section, a price-support program to demonstrate municipal solid waste reprocessing for production of fuels and energy intensive products, with Administrator, prior to entering into any contract for such demonstration, to submit to Congress a full and complete report on the proposed commercial demonstration facility and the necessary project demonstration guarantees, and provided that such contract could not be finalized prior to the expiration of ninety calendar days (not including any day on which either House of Congress was not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report was received.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5585, 5907, 5919, 5920 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

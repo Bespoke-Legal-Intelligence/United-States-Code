@@ -10,7 +10,7 @@ A reissued patent shall not abridge or affect the right of any person or that pe
 
 Based on Title 35, U.S.C., 1946 ed., §64 (R.S. 4916, amended May 24, 1928, ch. 730, 45 Stat. 732.)
 
-The first paragraph follows the present section with some rearrangement in language. The second paragraph adds new provisions for the protection of intervening rights, the court is given discretion to protect legitimate activities which would be adversely affected by the grant of a reissue and things made before the grant of the reissue are not subject to the reissue unless a claim of the original patent which is repeated in the reissue is infringed.
+The first paragraph follows the present section with some rearrangement in language. The second paragraph adds new provisions for the protection of intervening rights, the court is given discretion to protect legitimate activities which would be adversely affected bythe grant of a reissue and things made before the grant of the reissue are not subject to the reissue unless a claim of the original patent which is repeated in the reissue is infringed.
 
 #### Amendments
 
@@ -25,8 +25,4 @@ Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to a
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 307, 316 of this title.
 

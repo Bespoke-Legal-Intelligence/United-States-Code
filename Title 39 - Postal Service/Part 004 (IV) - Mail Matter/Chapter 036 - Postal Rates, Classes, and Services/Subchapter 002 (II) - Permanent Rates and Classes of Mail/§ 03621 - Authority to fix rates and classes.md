@@ -6,7 +6,7 @@ Except as otherwise provided, the Governors are authorized to establish reasonab
 
 #### Effective Date
 
-Subchapter effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Subchapter effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Ratemaking Limitations
 
@@ -22,7 +22,7 @@ Exception.—If Congress fails to appropriate an amount authorized under section
 
 #### Continuation of Existing Rates and Fees
 
-Section 3 of Pub. L. 91–375 provided that: “The classes of mail, the rates of postage, and fees for postal services prescribed by law or regulation made or adopted prior to the effective date \[see Effective Date note set out above\] of subchapter II of chapter 36 of title 39, United States Code, as enacted by section 2 of this Act, shall be in effect according to the terms of such law or regulation until changed in accordance with such subchapter.”
+Section 3 of Pub. L. 91–375 provided that: “The classes of mail, the rates of postage, and fees for postal services prescribed by law or regulation made or adopted prior to the effective date \[see Effective Date note set out above\] of subchapter II of chapter 36 of title 39,United States Code, as enacted by section 2 of this Act, shall be in effect according to the terms of such law or regulation until changed in accordance with such subchapter.”
 
 Provisions of section 3 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 

@@ -32,7 +32,7 @@ Determinations required.—The Secretary may not enter into an agreement under t
 
 &emsp;(3)
 
-Existing agreements.—If requested by the State authority, the Secretary shall authorize a State authority which had an interstate agreement in effect after January 31, 1999, to oversee interstate pipeline transportation pursuant to the terms of that agreement until the Secretary determines that the State meets the requirements of paragraph (2) and executes a new agreement, or until December 31, 2003, whichever is sooner. Nothing in this paragraph shall prevent the Secretary, after affording the State notice, hearing, and an opportunity to correct any alleged deficiencies, from terminating an agreement that was in effect before enactment of the Pipeline Safety Improvement Act of 2002 if—
+Existing agreements.—If requested by the State authority, the Secretary shall authorize a State authority which had an interstate agreement in effect after January 31,1999, to oversee interstate pipeline transportation pursuant to the terms of that agreement until the Secretary determines that the State meets the requirements of paragraph (2) and executes a new agreement, or until December 31, 2003, whichever is sooner. Nothing in this paragraph shall prevent the Secretary, after affording the State notice, hearing, and an opportunity to correct any alleged deficiencies, from terminating an agreement that was in effect before enactment of the Pipeline Safety Improvement Act of 2002 if—
 
 &emsp;&emsp;(A) the State authority fails to comply with the terms of the agreement;
 
@@ -158,11 +158,7 @@ Subsec. (c). Pub. L. 107–355, §4(a)(2), (c), redesignated subsec. (b) as (c),
 
 Subsec. (d). Pub. L. 107–355, §4(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
+Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, textread as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
 
 1996—Pub. L. 104–304 substituted “State pipeline safety agreements” for “State agreements” in section catchline.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60107, 60108, 60109, 60118, 60124 of this title.
 

@@ -74,7 +74,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultationwith the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -311,8 +311,4 @@ Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: “Not late
 &emsp;“(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and
 
 &emsp;“(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 254c–14 of this title.
 

@@ -16,7 +16,7 @@ The study shall—
 
 &emsp;(2) evaluate academic assessment and accountability systems in State educational agencies, local educational agencies, and schools; and
 
-&emsp;(3) make recommendations to the Department and to the Committee on Education and the Workforce of the United States House of Representatives and the Committee on Health,Education, Labor, and Pensions of the United States Senate, based on the findings of the study.
+&emsp;(3) make recommendations to the Department and to the Committee on Education and the Workforce of the United States House of Representatives and the Committee on Health, Education, Labor, and Pensions of the United States Senate, based on the findings of the study.
 
 #### (d) Components of the research program
 
@@ -56,7 +56,7 @@ The Secretary may reserve up to 15 percent of the funds authorized to be appropr
 
 #### Prior Provisions
 
-A prior section 6493, Pub. L. 89–10, title I, §1503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3605, related to innovative elementary school transition projects, prior to repeal by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
+A prior section 6493, Pub. L. 89–10, title I, §1503, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3605, related to innovative elementary school transition projects, prior to repeal by Pub. L. 105–277, div. A, §101(f) \[title VIII, §301(c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

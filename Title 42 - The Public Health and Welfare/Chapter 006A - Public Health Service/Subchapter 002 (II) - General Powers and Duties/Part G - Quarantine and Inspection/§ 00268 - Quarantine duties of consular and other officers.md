@@ -14,7 +14,3 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 Reference to Secretary of Health, Education, and Welfare substituted for reference to Federal Security Administrator pursuant to section 5 of Reorg. Plan No. 1, of 1953, set out as a note under section 3501 of this title, which transferred functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 270 of this title.
-

@@ -1,16 +1,12 @@
 ### §683. Payments not “other income and resources”
 
-Payments made under sections 681 to 683 of this title shall not be held to be “other incomeand resources” as that term is used in sections 302(a)(7), 602(a)(7),<sup>1</sup> and 1202(a)(8) of title 42.
+Payments made under sections 681 to 683 of this title shall not be held to be “other income and resources” as that term is used in sections 302(a)(7), 602(a)(7),<sup>1</sup> and 1202(a)(8) of title 42.
 
 (June 19, 1952, ch. 445, §3, 66 Stat. 140.)
 
 #### References in Text
 
 Section 602 of title 42, referred to in text, was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, subsec. (a)(7) no longer contains the term “other income and resources”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 682 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §3014A. Accelerated payment of basic educational assistance for education leading to employment in high technology occupation in high technology industry
 
-(a) An individual described in subsection (b) who is entitled to basic educational assistance under this subchapter may elect to receive an accelerated payment of the basic educational assistance allowance otherwise payable to the individual under section 3015 of this title.
+(a) An individual described in subsection (b) who is entitled to basic educational assistanceunder this subchapter may elect to receive an accelerated payment of the basic educational assistance allowance otherwise payable to the individual under section 3015 of this title.
 
 (b) An individual described in this subsection is an individual who is—
 
@@ -47,8 +47,4 @@ Subsec. (b)(1). Pub. L. 107–330, §308(b)(1), substituted “employment in a h
 #### Effective Date
 
 Pub. L. 107–103, title I, §104(c), Dec. 27, 2001, 115 Stat. 982, provided that: “The amendments made by this section \[enacting this section and amending section 3680 of this title\] shall take effect October 1, 2002, and shall apply with respect to enrollments in courses or programs of education or training beginning on or after that date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3680 of this title.
 

@@ -6,7 +6,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that a s
 
 #### (b) Multidisciplinary team
 
-A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) of this section will be developed, and reviewed and as appropriate revised not less than once each year, by a multidisciplinary team of appropriately qualified individuals who provide services through the system, including as appropriate mental health services, other health services, educational services, socialservices, and vocational counseling and rehabilitation; <sup>1</sup>
+A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) of this section will be developed, and reviewed and as appropriate revised not less than once each year, by a multidisciplinary team of appropriately qualified individuals who provide services through the system, including as appropriate mental health services, other health services, educational services, social services, and vocational counseling and rehabilitation; <sup>1</sup>
 
 #### (c) Coordination with services under Individuals with Disabilities Education Act
 
@@ -24,27 +24,25 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(1) identify and state the needs of the child for the services available pursuant to section 290ff–1 of this title through the system;
 
-&emsp;(2) provide for each of such services that is appropriate to the circumstances of the child, including, except in the case of children who are less than 14 years of age, the provision of appropriate vocational counseling and rehabilitation, and transition services (as defined in section 602(a)(19) <sup>2</sup> of the Individuals with Disabilities Education Act);
+&emsp;(2) provide for each of such services that is appropriate to the circumstances of the child, including, except in the case of children who are less than 14 years of age, the provision of appropriate vocational counseling and rehabilitation, and transition services (as defined in section 602 \[20 U.S.C. 1401\] of the Individuals with Disabilities Education Act);
 
 &emsp;(3) establish objectives to be achieved regarding the needs of the child and the methodology for achieving the objectives; and
 
 &emsp;(4) designate an individual to be responsible for providing the case management required in section 290ff–1(e)(1) of this title or certify that case management services will be provided to the child as part of the individualized education program of the child under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
 
-(July 1, 1944, ch. 373, title V, §563, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 354.)
+(July 1, 1944, ch. 373, title V, §563, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 354; amended Pub. L. 108–446, title III, §305(i)(5), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1), (3) and (d)(2), (4), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Section 602 of the Act was classified to section 1401 of Title 20, and was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 which is classified to section 1401 of Title 20 and which contains provisions defining “transition services”. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1), (3) and (d)(4), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+
+#### Amendments
+
+2004—Subsec. (d)(2). Pub. L. 108–446 substituted “section 602” for “section 602(a)(19)”.
 
 #### Effective Date
 
 Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 290ff–1, 290ff–3 of this title.
-
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

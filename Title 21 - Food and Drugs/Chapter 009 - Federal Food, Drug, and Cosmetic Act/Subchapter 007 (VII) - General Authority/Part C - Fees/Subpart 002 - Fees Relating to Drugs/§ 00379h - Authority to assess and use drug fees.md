@@ -139,7 +139,7 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, fees u
 
 #### (B) Waiver of application fee
 
-&emsp;&emsp;The Secretary shall waive under paragraph (1)(D) the application fee for the first humandrug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
+&emsp;&emsp;The Secretary shall waive under paragraph (1)(D) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
 
 &emsp;&emsp;&emsp;(i) application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business; and
 
@@ -207,7 +207,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the UnitedStates Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 
@@ -331,7 +331,7 @@ Subsec. (b). Pub. L. 105–115, §§103(b), 107, temporarily amended subsec. (b)
 
 Subsec. (c). Pub. L. 105–115, §§103(c)(1), 107, temporarily substituted “Adjustments” for “Increases and adjustments” in heading. See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (c)(1). Pub. L. 105–115, §§103(c)(2), 107, temporarily substituted “Inflation adjustment” for “Revenueincrease” in heading, “The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary” for “The total fee revenues established by the schedule in subsection (b)(1) of this section shall be increased by the Secretary” in introductory provisions, and “change” for “increase” after “total percentage” in subpars. (A) and (B), and inserted at end “The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection.” See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (c)(1). Pub. L. 105–115, §§103(c)(2), 107, temporarily substituted “Inflation adjustment” for “Revenue increase” in heading, “The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary” for “The total fee revenues established by the schedule in subsection (b)(1) of this section shall be increased by the Secretary” in introductory provisions, and “change” for “increase” after “total percentage” in subpars. (A) and (B), and inserted at end “The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection.” See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 105–115, §§103(c)(3), 107, temporarily substituted “September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.” for “October 1, 1992, adjust the fees established by the schedule in subsection (b)(1) of this section for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule.” See Effective and Termination Dates of 1997 Amendment note below.
 
@@ -380,8 +380,4 @@ Section not in effect after Oct. 1, 1997, see section 105 of Pub. L. 102–571, 
 #### Special Rule for Waivers and Refunds
 
 Section 103(h) of Pub. L. 105–115 provided that: “Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term “person” in such Acts shall continue to include an affiliate thereof.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 356, 379g, 379j–12 of this title; title 42 section 282.
 

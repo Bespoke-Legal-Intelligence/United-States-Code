@@ -46,7 +46,3 @@ Subsection (a)(1) is substituted for “in respect of executive agencies, . . 
 
 In subsection (c), the words “mixed-ownership Government corporation” are substituted for “mixed ownership corporation” for consistency with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 211(b) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 603, 604, 605, 607 of this title; title 42 section 7588.
-

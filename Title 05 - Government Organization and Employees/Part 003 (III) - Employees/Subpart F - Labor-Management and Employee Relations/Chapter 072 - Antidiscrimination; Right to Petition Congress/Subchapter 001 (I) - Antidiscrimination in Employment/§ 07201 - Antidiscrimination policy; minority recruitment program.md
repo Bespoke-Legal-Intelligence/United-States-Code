@@ -76,9 +76,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (e) 
 
 #### Discrimination Prohibited in Employment of Civilian Personnel at Facilities Operated by the Department of Defense in Foreign Countries
 
-Pub. L. 92–129, title I, §106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department of Defense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer's club, non-commissioned officers’ club, post exchange, or commissary store.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 3905, 3922a; title 31 section 732.
+Pub. L. 92–129, title I, §106, Sept. 28, 1971, 85 Stat. 355, provided that: “Unless prohibited by treaty, no person shall be discriminated against by the Department ofDefense or by any officer or employee thereof, in the employment of civilian personnel at any facility or installation operated by the Department of Defense in any foreign country because such person is a citizen of the United States or is a dependent of a member of the Armed Forces of the United States. As used in this section, the term ‘facility or installation operated by the Department of Defense’ shall include, but shall not be limited to, any officer's club, non-commissioned officers’ club, post exchange, or commissary store.”
 

@@ -12,7 +12,7 @@ A trustee shall be vested with the same powers and title with respect to the deb
 
 #### (b) Trustee duties
 
-To the extent consistent with the provisions of this chapter or as otherwise ordered by thecourt, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
+To the extent consistent with the provisions of this chapter or as otherwise ordered by the court, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
 
 &emsp;(1) deliver securities to or on behalf of customers to the maximum extent practicable in satisfaction of customer claims for securities of the same class and series of an issuer; and
 
@@ -51,8 +51,4 @@ Subsec. (c). Pub. L. 95–598, §308(k), substituted “required of a trustee in
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 78fff, 78fff–2, 78fff–3, 78fff–4 of this title.
 

@@ -56,7 +56,3 @@ Pub. L. 98–139, title V, §505, Oct. 31, 1983, 97 Stat. 899.
 
 Pub. L. 97–377, title I, §101(e)(1) \[title V, §505\], Dec. 21, 1982, 96 Stat. 1878, 1904.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 2065; title 5 section 6327; title 22 section 290f; title 40 section 590; title 42 section 3788.
-

@@ -2,7 +2,7 @@
 
 #### (a) Development of procurement policy; leadership
 
-The Administrator shall provide overall direction of procurement policy and leadership in the development of procurement systems of the executive agencies. To the extent that the Administrator considers appropriate, in carrying out the policies and functions set forth in this chapter, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be followed by executive agencies in the procurement of—
+The Administrator shall provide overall direction of procurement policy and leadership in thedevelopment of procurement systems of the executive agencies. To the extent that the Administrator considers appropriate, in carrying out the policies and functions set forth in this chapter, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be followed by executive agencies in the procurement of—
 
 &emsp;(1) property other than real property in being;
 
@@ -46,7 +46,7 @@ The functions of the Administrator shall include—
 
 &emsp;&emsp;(A) foster and promote the development of a professional acquisition workforce Government-wide;
 
-&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve theprocurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
+&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
 
 &emsp;&emsp;(C) collect data and analyze acquisition workforce data from the Office of Personnel Management, the heads of executive agencies, and, through periodic surveys, from individual employees;
 
@@ -108,7 +108,7 @@ Nothing in this chapter shall be construed to—
 
 #### (i) Recipients of Federal grants or assistance
 
-(1) With due regard to applicable laws and the program activities of the executive agencies administering Federal programs of grants or assistance, the Administrator may prescribe Government-wide policies, regulations, procedures, and forms which the Administrator considers appropriate and which shall be followed by such executive agencies in providing for the procurement, to the extent required under such programs, of property or services referred to in clauses (1), (2), and (3) of subsection (a) of thissection by recipients of Federal grants or assistance under such programs.
+(1) With due regard to applicable laws and the program activities of the executive agencies administering Federal programs of grants or assistance, the Administrator may prescribe Government-wide policies, regulations, procedures, and forms which the Administrator considers appropriate and which shall be followed by such executive agencies in providing for the procurement, to the extent required under such programs, of property or services referred to in clauses (1), (2), and (3) of subsection (a) of this section by recipients of Federal grants or assistance under such programs.
 
 (2) Nothing in paragraph (1) shall be construed to—
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 100–679, §3(a)(2), inserted “, including any such reg
 
 Subsec. (d)(4). Pub. L. 100–679, §3(a)(3), added par. (4) and struck out former par. (4) which read as follows: “providing for a computer-based Federal Procurement Data System which shall be located in the General Services Administration (acting as executive agent for the Administrator) and shall collect, develop, and disseminate procurement data;”.
 
-Subsec. (d)(5). Pub. L. 100–679, §3(a)(3), added par. (5) and struck out former par. (5) which read as follows: “providing for a Federal Acquisition Institute which shall be located in the General Services Administration (acting as executive agent for the Administrator) and shall—
+Subsec. (d)(5). Pub. L. 100–679, §3(a)(3), added par. (5) and struck out former par. (5) which read as follows: “providing for a Federal Acquisition Institute whichshall be located in the General Services Administration (acting as executive agent for the Administrator) and shall—
 
 &emsp;“(A) foster and promote Government-wide career management programs for a professional procurement work force; and
 
@@ -330,75 +330,7 @@ Inapplicability of Process to Department of Defense.—The process guidelines de
 
 #### Development of Definitions Regarding Certain Small Business Concerns
 
-Section 7107 of Pub. L. 103–355 provided that:
-
-“(a)
-
-Review Required.—(1) The Administrator for Federal Procurement Policy shall conduct a comprehensive review of Federal laws, as in effect on November 1, 1994, to identify and catalogue all of the provisions in such laws that define (or describe for definitional purposes) the small business concerns set forth in paragraph (2) for purposes of authorizing the participation of such small business concerns as prime contractors or subcontractors in—
-
-&emsp;“(A) contracts awarded directly by the Federal Government or subcontracts awarded under such contracts; or
-
-&emsp;“(B) contracts and subcontracts funded, in whole or in part, by Federal financial assistance under grants, cooperative agreements, or other forms of Federal assistance.
-
-“(2) The small business concerns referred to in paragraph (1) are as follows:
-
-&emsp;“(A) Small business concerns owned and controlled by socially and economically disadvantaged individuals.
-
-&emsp;“(B) Minority-owned small business concerns.
-
-&emsp;“(C) Small business concerns owned and controlled by women.
-
-&emsp;“(D) Woman-owned small business concerns.
-
-“(b)
-
-Matters To Be Developed.—On the basis of the results of the review carried out under subsection (a), the Administrator for Federal Procurement Policy shall develop—
-
-&emsp;“(1) uniform definitions for the small business concerns referred to in subsection (a)(2);
-
-&emsp;“(2) uniform agency certification standards and procedures for—
-
-&emsp;&emsp;“(A) determinations of whether a small business concern qualifies as a small business concern referred to in subsection (a)(2) under an applicable standard for purposes of contracts and subcontracts referred to in subsection (a)(1); and
-
-&emsp;&emsp;“(B) reciprocal recognition by an agency of a decision of another agency regarding whether a small business concern qualifies as a small business concern referred to in subsection (a)(2) for such purposes; and
-
-&emsp;“(3) such other related recommendations as the Administrator determines appropriate consistent with the review results.
-
-“(c)
-
-Procedures and Schedule.—(1) The Administrator for Federal Procurement Policy shall provide for the participation in the review and activities under subsections (a) and (b) by representatives of—
-
-&emsp;“(A) the Small Business Administration (including the Office of the Chief Counsel for Advocacy);
-
-&emsp;“(B) the Minority Business Development Agency of the Department of Commerce;
-
-&emsp;“(C) the Department of Transportation;
-
-&emsp;“(D) the Environmental Protection Agency; and
-
-&emsp;“(E) such other executive departments and agencies as the Administrator considers appropriate.
-
-“(2) In carrying out subsections (a) and (b), the Administrator shall consult with representatives of organizations representing—
-
-&emsp;“(A) minority-owned business enterprises;
-
-&emsp;“(B) women-owned business enterprises; and
-
-&emsp;“(C) other organizations that the Administrator considers appropriate.
-
-“(3) Not later than 60 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Administrator shall publish in the Federal Register a notice which—
-
-&emsp;“(A) lists the provisions of law identified in the review carried out under subsection (a);
-
-&emsp;“(B) describes the matters to be developed on the basis of the results of the review pursuant to subsection (b);
-
-&emsp;“(C) solicits public comment regarding the matters described in the notice pursuant to subparagraphs (A) and (B) for a period of not less than 60 days; and
-
-&emsp;“(D) addresses such other matters as the Administrator considers appropriate to ensure the comprehensiveness of the review and activities under subsections (a) and (b).
-
-“(d)
-
-Report.—Not later than May 1, 1996, the Administrator for Federal Procurement Policy shall submit to the Committees on Small Business of the Senate and the House of Representatives a report on the results of the review carried out under subsection (a) and the actions taken under subsection (b). The report shall include a discussion of the results of the review, a description of the consultations conducted and public comments received, and the Administrator's recommendations with regard to the matters identified under subsection (b).”
+Pub. L. 103–355, title VII, §7107, Oct. 13, 1994, 108 Stat. 3376, directed the Administrator for Federal Procurement Policy to conduct a comprehensive review of Federal laws in effect on Nov. 1, 1994, to identify and catalogue provisions defining small business concerns owned and controlled by socially and economically disadvantaged individuals, minority-owned small business concerns, and small business concerns owned and controlled by women, for purposes of authorizing the participation of such small business concerns as prime contractors or subcontractors in contracts awarded directly by the Federal Government or subcontracts awarded under such contracts, or contracts and subcontracts funded, in whole or in part, by Federal financial assistance under grants, cooperative agreements, or other forms of Federal assistance. The Administrator was to develop uniform definitions and agency certification standards and procedures for qualification as a small business concern, and submit to Congress, not later than May 1, 1996, a report on the results of the review, the actions taken, and the Administrator's recommendations.
 
 #### Data Collection Through Federal Procurement Data System
 
@@ -433,10 +365,6 @@ In General.—The Administrator shall conduct a study to develop a consistent me
 “(b)
 
 Contractors’ Financial Data.—The methodology developed under subsection (a) shall include adequate procedures for verifying and maintaining the confidentiality of contractors’ financial data.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408, 417, 421, 422 of this title; title 18 section 4124; title 31 section 6202; title 50 App. section 2154.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -36,7 +36,7 @@
 
 #### (B) Failure to exercise reasonable care
 
-&emsp;&emsp;If the Customs Service determines that merchandise is not from the country claimed on the documentation accompanying the merchandise, the failure to exercise reasonable care described in subparagraph\(A) shall be considered when the Customs Service determines whether the importer of record is in violation of section 1484(a) of this title.
+&emsp;&emsp;If the Customs Service determines that merchandise is not from the country claimed on the documentation accompanying the merchandise, the failure to exercise reasonable care described in subparagraph (A) shall be considered when the Customs Service determines whether the importer of record is in violation of section 1484(a) of this title.
 
 #### (b) List of high risk countries
 

@@ -38,7 +38,3 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 Acts Aug. 11, 1951, ch. 301, title I, 65 Stat. 185; June 30, 1952, ch. 523, title I, 66 Stat. 290, made appropriations for salaries and expenses of the White House Police force for fiscal years 1952 and 1953, and provided that the appropriations should be available for additional personnel without regard for the limitation contained in this section. The provisions were not repeated in the Treasury Department Appropriation Act, 1954, act June 18, 1953, ch. 132, title I, 67 Stat. 67.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 209 of this title.
-

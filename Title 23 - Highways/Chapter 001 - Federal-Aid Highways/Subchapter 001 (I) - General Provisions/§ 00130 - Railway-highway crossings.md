@@ -16,7 +16,7 @@ Funds for Protective Devices.—At least 1/2 of the funds authorized for and exp
 
 (f)
 
-Apportionment.—Twenty-five percent of the funds authorized to be appropriated to carryout this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) <sup>1</sup> of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.
+Apportionment.—Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) <sup>1</sup> of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.
 
 (g)
 
@@ -178,7 +178,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(m) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Hammond, Indiana, for the relocation of railroad lines for the purposes of eliminating highway railroad grade crossings.
 
-“(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
+“(n) The Federal share payable on account of such projects shall be the Federal share provided in section120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
 
 “\[(<i>o</i>) Repealed. Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724.\]
 
@@ -201,10 +201,6 @@ Highway authorizations provisions of section 104(a) (1) and (2) of Pub. L. 93–
 “(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 for the fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
 
 “(2) For the Federal-aid urban system, out of the Highway Trust Fund, $780,000,000 for the fiscal year ending June 30, 1974, $800,000,000 for the fiscal year ending June 30, 1975, and $800,000,000 for the fiscal year ending June 30, 1976. For the extensions of the Federal-aid primary and secondary systems in urban areas, out of the Highway Trust Fund $290,000,000 for the fiscal year ending June 30, 1974, $300,000,000 for the fiscal year ending June 30, 1975, and $300,000,000 for the fiscal year ending June 30, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 133, 409 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

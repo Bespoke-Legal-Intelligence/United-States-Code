@@ -14,7 +14,3 @@ Nothing in this part shall be construed—
 
 A prior section 6845, Pub. L. 89–10, title III, §3135, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3647, related to local applications for technology education assistance, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6764 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6825 of this title.
-

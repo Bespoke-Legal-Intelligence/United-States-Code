@@ -1,10 +1,12 @@
 ### §1. Trusts, etc., in restraint of trade illegal; penalty
 
-Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal. Every person who shall make any contract or engage in any combination or conspiracy hereby declared to be illegal shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $10,000,000 if a corporation, or, if any other person, $350,000, or by imprisonment not exceeding three years, or by both said punishments, in the discretion of the court.
+Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal. Every person who shall make any contract or engage in any combination or conspiracy hereby declared to be illegal shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
-(July 2, 1890, ch. 647, §1, 26 Stat. 209; Aug. 17, 1937, ch. 690, title VIII, 50 Stat. 693; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, §3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 94–145, §2, Dec. 12, 1975, 89 Stat. 801; Pub. L. 101–588, §4(a), Nov. 16, 1990, 104 Stat. 2880.)
+(July 2, 1890, ch. 647, §1, 26 Stat. 209; Aug. 17, 1937, ch. 690, title VIII, 50 Stat. 693; July 7, 1955, ch. 281, 69 Stat. 282; Pub. L. 93–528, §3, Dec. 21, 1974, 88 Stat. 1708; Pub. L. 94–145, §2, Dec. 12, 1975, 89 Stat. 801; Pub. L. 101–588, §4(a), Nov. 16, 1990, 104 Stat. 2880; Pub. L. 108–237, title II, §215(a), June 22, 2004, 118 Stat. 668.)
 
 #### Amendments
+
+2004—Pub. L. 108–237 substituted “$100,000,000” for “$10,000,000”, “$1,000,000” for “$350,000”, and “10” for “three”.
 
 1990—Pub. L. 101–588 substituted “$10,000,000” for “one million dollars” and “$350,000” for “one hundred thousand dollars”.
 
@@ -23,6 +25,10 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act 
 #### Effective Date of 1975 Amendment
 
 Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–237, title II, §201, June 22, 2004, 118 Stat. 665, provided that: “This title \[amending this section and sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and section 16 of this title\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -77,6 +83,88 @@ Section 1 of Pub. L. 93–528 provided: “That this Act \[amending this section
 #### Short Title
 
 Pub. L. 94–435, title III, §305(a), Sept. 30, 1976, 90 Stat. 1397, added immediately following the enacting clause of act July 2, 1890, the following: “That this Act \[this section and sections 2 to 7 of this title\] may be cited as the ‘Sherman Act’.”
+
+#### Antitrust Enforcement Enhancements and Cooperation Incentives
+
+Pub. L. 108–237, title II, §§211–214, June 22, 2004, 118 Stat. 666, 667, provided that:
+
+#### “SEC. 211. SUNSET.
+
+“(a)
+
+In General.—Except as provided in subsection (b), the provisions of sections 211 through 214 shall cease to have effect 5 years after the date of enactment of this Act \[June 22, 2004\].
+
+“(b)
+
+Exception.—With respect to an applicant who has entered into an antitrust leniency agreement on or before the date on which the provisions of sections 211 through 214 of this subtitle \[this note\] shall cease to have effect, the provisions of sections 211 through 214 of this subtitle shall continue in effect.
+
+#### “SEC. 212. DEFINITIONS.
+
+“In this subtitle \[subtitle A (§§211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note\]:
+
+&emsp;“(1)
+
+Antitrust division.—The term ‘Antitrust Division’ means the United States Department of Justice Antitrust Division.
+
+&emsp;“(2)
+
+Antitrust leniency agreement.—The term ‘antitrust leniency agreement,’ or ‘agreement,’ means a leniency letter agreement, whether conditional or final, between a person and the Antitrust Division pursuant to the Corporate Leniency Policy of the Antitrust Division in effect on the date of execution of the agreement.
+
+&emsp;“(3)
+
+Antitrust leniency applicant.—The term ‘antitrust leniency applicant,’ or ‘applicant,’ means, with respect to an antitrust leniency agreement, the person that has entered into the agreement.
+
+&emsp;“(4)
+
+Claimant.—The term ‘claimant’ means a person or class, that has brought, or on whose behalf has been brought, a civil action alleging a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\] or any similar State law, except that the term does not include a State or a subdivision of a State with respect to a civil action brought to recover damages sustained by the State or subdivision.
+
+&emsp;“(5)
+
+Cooperating individual.—The term ‘cooperating individual’ means, with respect to an antitrust leniency agreement, a current or former director, officer, or employee of the antitrust leniency applicant who is covered by the agreement.
+
+&emsp;“(6)
+
+Person.—The term ‘person’ has the meaning given it in subsection (a) of the first section of the Clayton Act \[15 U.S.C. 12(a)\].
+
+#### “SEC. 213. LIMITATION ON RECOVERY.
+
+“(a)
+
+In General.—Subject to subsection (d), in any civil action alleging a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\], or alleging a violation of any similar State law, based on conduct covered by a currently effective antitrust leniency agreement, the amount of damages recovered by or on behalf of a claimant from an antitrust leniency applicant who satisfies the requirements of subsection (b), together with the amounts so recovered from cooperating individuals who satisfy such requirements, shall not exceed that portion of the actual damages sustained by such claimant which is attributable to the commerce done by the applicant in the goods or services affected by the violation.
+
+“(b)
+
+Requirements.—Subject to subsection (c), an antitrust leniency applicant or cooperating individual satisfies the requirements of this subsection with respect to a civil action described in subsection (a) if the court in which the civil action is brought determines, after considering any appropriate pleadings from the claimant, that the applicant or cooperating individual, as the case may be, has provided satisfactory cooperation to the claimant with respect to the civil action, which cooperation shall include—
+
+&emsp;“(1) providing a full account to the claimant of all facts known to the applicant or cooperating individual, as the case may be, that are potentially relevant to the civil action;
+
+&emsp;“(2) furnishing all documents or other items potentially relevant to the civil action that are in the possession, custody, or control of the applicant or cooperating individual, as the case may be, wherever they are located; and
+
+&emsp;“(3)(A) in the case of a cooperating individual—
+
+&emsp;&emsp;“(i) making himself or herself available for such interviews, depositions, or testimony in connection with the civil action as the claimant may reasonably require; and
+
+&emsp;&emsp;“(ii) responding completely and truthfully, without making any attempt either falsely to protect or falsely to implicate any person or entity, and without intentionally withholding any potentially relevant information, to all questions asked by the claimant in interviews, depositions, trials, or any other court proceedings in connection with the civil action; or
+
+&emsp;“(B) in the case of an antitrust leniency applicant, using its best efforts to secure and facilitate from cooperating individuals covered by the agreement the cooperation described in clauses (i) and (ii) and subparagraph (A).
+
+“(c)
+
+Timeliness.—If the initial contact by the antitrust leniency applicant with the Antitrust Division regarding conduct covered by the antitrust leniency agreement occurs after a State, or subdivision of a State, has issued compulsory process in connection with an investigation of allegations of a violation of section 1 or 3 of the Sherman Act \[15 U.S.C. 1, 3\] or any similar State law based on conduct covered by the antitrust leniency agreement or after a civil action described in subsection (a) has been filed, then the court shall consider, in making the determination concerning satisfactory cooperation described in subsection (b), the timeliness of the applicant's initial cooperation with the claimant.
+
+“(d)
+
+Continuation.—Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 4, 4A, and 4C of the Clayton Act \[15 U.S.C. 15, 15a, 15c\] relating to the recovery of costs of suit, including a reasonable attorney's fee, and interest on damages, to the extent that such recovery is authorized by such sections.
+
+#### “SEC. 214. RIGHTS, AUTHORITIES, AND LIABILITIES NOT AFFECTED.
+
+“Nothing in this subtitle \[subtitle A (§§211–215) of title II of Pub. L. 108–237, amending this section and sections 2 and 3 of this title and enacting this note\] shall be construed to—
+
+&emsp;“(1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 213(b) from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
+
+&emsp;“(2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
+
+&emsp;“(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a), other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this title.”
 
 #### Antitrust Modernization Commission
 
@@ -190,7 +278,7 @@ Staff.—
 
 &emsp;“(1)
 
-Appointment.—The chairperson of the Commission may, without regard to the provisions ofchapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission.
+Appointment.—The chairperson of the Commission may, without regard to the provisions of chapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission.
 
 &emsp;“(2)
 
@@ -288,7 +376,7 @@ Purposes.—Based upon the powers contained in article I, section 8, clause 3 of
 
 Antitrust laws.—The term ‘antitrust laws’—
 
-&emsp;&emsp;“(A) has the meaning given to it in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 ofthe Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
+&emsp;&emsp;“(A) has the meaning given to it in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
 
 &emsp;&emsp;“(B) includes any State law similar to the laws referred to in subparagraph (A).
 
@@ -404,7 +492,7 @@ Statements.—Except as provided in subsection (c), in any covered action, to th
 
 “(c)
 
-Defamation or Similar Claims.—In a covered action arising under any Federal or State law of defamation, trade disparagement, or a similar claim, to the extent such action is based on an allegedly false, inaccurate, or misleading year 2000 statement, the maker of that year 2000 statement shall not be liable with respect to that year 2000 statement, unless the claimant establishes by clear and convincing evidence, in addition to all other requisite elements of the applicableaction, that the year 2000 statement was made with knowledge that the year 2000 statement was false or made with reckless disregard as to its truth or falsity.
+Defamation or Similar Claims.—In a covered action arising under any Federal or State law of defamation, trade disparagement, or a similar claim, to the extent such action is based on an allegedly false, inaccurate, or misleading year 2000 statement, the maker of that year 2000 statement shall not be liable with respect to that year 2000 statement, unless the claimant establishes by clear and convincing evidence, in addition to all other requisite elements of the applicable action, that the year 2000 statement was made with knowledge that the year 2000 statement was false or made with reckless disregard as to its truth or falsity.
 
 “(d)
 
@@ -546,7 +634,7 @@ In general.—In any covered action brought by a consumer, this Act does not app
 
 &emsp;&emsp;“(B)
 
-Specific notice required.—In any covered action, this Act shall not apply to a year 2000 statement, concerning a year 2000 remediation product or service, expressly made in an offer to sell or ina solicitation (including an advertisement) by a seller, manufacturer, or provider, of that product or service unless, during the course of the offer or solicitation, the party making the offer or solicitation provides the following notice in accordance with section 4(d):
+Specific notice required.—In any covered action, this Act shall not apply to a year 2000 statement, concerning a year 2000 remediation product or service, expressly made in an offer to sell or in a solicitation (including an advertisement) by a seller, manufacturer, or provider, of that product or service unless, during the course of the offer or solicitation, the party making the offer or solicitation provides the following notice in accordance with section 4(d):
 
 &emsp;&emsp;&emsp;“ ‘Statements made to you in the course of this sale are subject to the Year 2000 Information and Readiness Disclosure Act (\_\_\_\_ U.S.C. \_\_\_\_). In the case of a dispute, this Act may reduce your legal rights regarding the use of any such statements, unless otherwise specified by your contract or tariff.’
 
@@ -700,7 +788,7 @@ Consultation.—In creating the national year 2000 website, the Administrator of
 
 “(b)
 
-Report.—The Administrator of General Services shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives \[now Committee on Government Reform of House of Representatives\] not later than 60 days after the date of enactment of this Act \[Oct. 19, 1998\] regarding planning to comply with the requirements of this section.”
+Report.—The Administrator of General Services shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform and Oversight of the House of Representatives \[now Committee on Government Reform of House of Representatives\] not later than 60 days after the date of enactment of this Act \[Oct. 19, 1998\] regarding planning to comply with the requirements of this section.”
 
 #### Application of Antitrust Laws to Award of Need-Based Educational Aid
 
@@ -843,12 +931,4 @@ Definitions.—For purposes of this section—
 Expiration.—Subsection (a) shall expire on September 30, 2008.”
 
 \[Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) \[amending section 568(a)–(d) of Pub. L. 103–382, set out above\] shall take effect immediately before September 30, 1997.”\]
-
-#### Sherman Act Referred to in Other Sections
-
-The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 40 section 559; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4, 6, 6a, 7, 18a of this title.
 

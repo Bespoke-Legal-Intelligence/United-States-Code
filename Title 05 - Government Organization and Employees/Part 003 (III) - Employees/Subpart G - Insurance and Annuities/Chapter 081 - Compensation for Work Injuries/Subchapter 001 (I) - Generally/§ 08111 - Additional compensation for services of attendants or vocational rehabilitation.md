@@ -70,7 +70,3 @@ Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred
 
 Increases authorized under amendment by section 1(54) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8112 of this title; title 18 section 1921.
-

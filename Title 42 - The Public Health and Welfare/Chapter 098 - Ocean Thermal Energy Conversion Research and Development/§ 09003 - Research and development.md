@@ -22,11 +22,7 @@ The Secretary shall conduct evaluations, arrange for tests, and disseminate to d
 
 #### (c) Consideration of new or improved technologies
 
-The Secretary shall, for the purpose of performing his responsibilities pursuant to thischapter, solicit proposals and evaluate any reasonable new or improved technology, a description of which is submitted to the Secretary in writing, which could lead or contribute to the development of ocean thermal energy conversion system technology.
+The Secretary shall, for the purpose of performing his responsibilities pursuant to this chapter, solicit proposals and evaluate any reasonable new or improved technology, a description of which is submitted to the Secretary in writing, which could lead or contribute to the development of ocean thermal energy conversion system technology.
 
 (Pub. L. 96–310, §4, July 17, 1980, 94 Stat. 943.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9002 of this title.
 

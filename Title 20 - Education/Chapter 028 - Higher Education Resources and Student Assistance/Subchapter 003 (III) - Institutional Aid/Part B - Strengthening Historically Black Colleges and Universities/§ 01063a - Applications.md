@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-No part B institution shall be entitled to its allotment of Federal funds for any grant under section 1063 of this title for any period unless that institution meets the requirements of subparagraphs (C), (D), and (E) <sup>1</sup> of section 1058(b)(1) of this title and submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information,as the Secretary may reasonably require. Each such application shall—
+No part B institution shall be entitled to its allotment of Federal funds for any grant under section 1063 of this title for any period unless that institution meets the requirements of subparagraphs (C), (D), and (E) <sup>1</sup> of section 1058(b)(1) of this title and submits an application to the Secretary at such time, in such manner, and containing or accompanied by such information, as the Secretary may reasonably require. Each such application shall—
 
 &emsp;(1) provide that the payments under this chapter will be used for the purposes set forth in section 1062 of this title; and
 
@@ -41,10 +41,6 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1062 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

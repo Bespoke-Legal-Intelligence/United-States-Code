@@ -16,17 +16,33 @@ After consultation with the Office of Personnel Management, the Secretary shall 
 
 Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
 
-#### (c) Reports
+#### (c) Payment of expenses after death of an employee
+
+#### (1) Definition of immediate family member
+
+&emsp;In this subsection, the term “immediate family member” means a person related to a deceased employee that was a member of the household of the deceased employee at the time of death.
+
+#### (2) Payments
+
+&emsp;If an employee appointed under the program established by subsection (a) of this section dies in the performance of any assigned duties on or after October 1, 2002, the Secretary may—
+
+&emsp;&emsp;(A) pay or reimburse reasonable expenses, regardless of when those expenses are incurred, for the preparation and transportation of the remains of the deceased employee to a location in the State of Alaska which is selected by the surviving head of household of the deceased employee;
+
+&emsp;&emsp;(B) pay or reimburse reasonable expenses, regardless of when those expenses are incurred, for transporting immediate family members and the baggage and household goods of the deceased employee and immediate family members to a community in the State of Alaska which is selected by the surviving head of household of the deceased employee.
+
+#### (d) Reports
 
 The Secretary shall from time to time prepare and submit to the Congress reports indicating the actions taken in carrying out the provisions of subsection (a) of this section together with any recommendations for legislation in furtherance of the purposes of this section.
 
-(Pub. L. 96–487, title XIII, §1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, §401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, §16, Oct. 14, 1992, 106 Stat. 2124.)
+(Pub. L. 96–487, title XIII, §1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, §401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, §16, Oct. 14, 1992, 106 Stat. 2124; Pub. L. 108–199, div. H, §147, Jan. 23, 2004, 118 Stat. 445.)
 
 #### References in Text
 
 The civil service laws, referred to in subsec. (a)(1), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 #### Amendments
+
+2004—Subsecs. (c), (d). Pub. L. 108–199 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1992—Subsec. (a). Pub. L. 102–415 substituted “public lands” for “a conservation system unit” and substituted “public lands” for “such unit” in two places.
 
@@ -73,8 +89,4 @@ Local Hire.—The report required by subsection (a) shall—
 “(c)
 
 Cooperation.—The Secretary of Agriculture shall cooperate with the Secretary of the Interior in carrying out this section with respect to the Forest Service.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 2302.
 

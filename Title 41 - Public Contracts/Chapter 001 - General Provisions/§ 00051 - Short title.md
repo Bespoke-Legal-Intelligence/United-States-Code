@@ -22,7 +22,3 @@ Section 3 of Pub. L. 99–634 provided that:
 
 Section 1 of Pub. L. 99–634 provided: “That this Act \[enacting sections 55 to 58 of this title, amending this section and sections 52 to 54 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Anti-Kickback Enforcement Act of 1986’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 52 of this title.
-

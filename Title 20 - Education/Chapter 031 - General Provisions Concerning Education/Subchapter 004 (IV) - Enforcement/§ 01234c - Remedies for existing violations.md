@@ -22,7 +22,3 @@
 
 Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1234d, 1234e, 1234f of this title.
-

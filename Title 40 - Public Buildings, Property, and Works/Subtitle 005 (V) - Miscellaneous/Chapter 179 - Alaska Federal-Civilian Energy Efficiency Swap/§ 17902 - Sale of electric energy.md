@@ -42,7 +42,3 @@ In subsection (a), the words “to be sold” are added for clarity. In clause (
 
 In subsection (b), before clause (1), the words “fuel and variable operation and maintenance costs of the facility generating the energy that are attributable to that sale” are substituted for “fuel costs and variable operation and maintenance costs of the Federal generating facility concerned which costs are attributable to such sale” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17904 of this title.
-

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, the Secretary of Agriculture may—
 
 &emsp;&emsp;(B) any Hispanic-serving institution (as defined in section 1059c(b) <sup>1</sup> of title 20); and
 
-&emsp;&emsp;(C) any college or university eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University; and
+&emsp;&emsp;(C) any college or university eligible to receive funds under the Act of August 30, 1890\(7 U.S.C. 321 et seq.), including Tuskegee University; and
 
 &emsp;(2) acquire from, exchange with, or dispose of personal property to other Federal departments and agencies without monetary compensation in furtherance of the purposes of this section.
 

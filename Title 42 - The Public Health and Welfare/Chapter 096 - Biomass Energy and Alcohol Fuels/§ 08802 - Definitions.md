@@ -78,7 +78,7 @@ As used in this chapter—
 
 &emsp;&emsp;(i) the production of biomass fuel (and byproducts) from municipal waste; or
 
-&emsp;&emsp;(ii) the combustion of municipal waste for the purpose of generating steam or forms of useful energy, including industrial process heat, mechanical power, or electricity (including cogeneration).
+&emsp;&emsp;(ii) the combustion of municipal waste for the purpose of generating steam or forms ofuseful energy, including industrial process heat, mechanical power, or electricity (including cogeneration).
 
 &emsp;(B) Such term includes any necessary transportation, preparation, and disposal equipment and machinery for use in or at the site of the facility involved.
 
@@ -103,8 +103,4 @@ The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 4002.
 

@@ -20,9 +20,5 @@ As soon as practicable after October 27, 2000, the Director shall begin collecti
 
 (Pub. L. 106–380, §3, Oct. 27, 2000, 114 Stat. 1448.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2143 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be complementary.</i>
 

@@ -34,7 +34,3 @@ Par. (e) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, s
 
 Section effective twelve months after June 25, 1938, except par. (a), which, with certain exceptions, became effective on June 25, 1938, see section 902(a) of act June 25, 1938, set out as a note under section 301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 334, 379e of this title.
-

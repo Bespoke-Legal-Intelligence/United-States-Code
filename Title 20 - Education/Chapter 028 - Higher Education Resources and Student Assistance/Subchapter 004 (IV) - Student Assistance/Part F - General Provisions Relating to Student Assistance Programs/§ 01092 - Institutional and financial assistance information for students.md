@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(i) obtain deferral of the repayment of the principal and interest for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) or under the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], or for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service, and
 
-&emsp;&emsp;(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) under <sup>1</sup> the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service;
+&emsp;&emsp;(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act (22 U.S.C. 2501 et seq.)) under <sup>1</sup> the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950et seq.\] or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service;
 
 &emsp;(N) that enrollment in a program of study abroad approved for credit by the home institution may be considered enrollment in the home institution for purposes of applying for Federal student financial assistance; and
 
@@ -78,7 +78,7 @@
 
 &emsp;(iv) any corrections in the institution's records relating the borrower's name, address, social security number, references, and driver's license number.
 
-(B) The institution shall, within 60 days after the interview, forward any corrected or completed information received from the borrowerto the guaranty agency indicated on the borrower's student aid records.
+(B) The institution shall, within 60 days after the interview, forward any corrected or completed information received from the borrower to the guaranty agency indicated on the borrower's student aid records.
 
 (C) Nothing in this subsection shall be construed to prohibit an institution of higher education from utilizing electronic means to provide personalized exit counseling.
 
@@ -110,7 +110,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(F) the average completion or graduation rate for the 4 most recent completing or graduating classes of students at the institution of higher education broken down by race and sex.
 
-(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and thestudent's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
+(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
 
 (3) For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.
 
@@ -170,7 +170,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;&emsp;(IX) arrests or persons referred for campus disciplinary action for liquor law violations, drug-related violations, and weapons possession; and
 
-&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), and other crimes involving bodily injury to any person in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity,or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
+&emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), and other crimes involving bodily injury to any person in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
 
 &emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
@@ -232,7 +232,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(i) Education programs to promote the awareness of rape, acquaintance rape, and other sex offenses.
 
-&emsp;(ii) Possible sanctions to be imposed following the final determination of an on-campus disciplinary procedure regarding rape, acquaintance rape, or other sex offenses, forcible or nonforcible.
+&emsp;(ii) Possible sanctions to be imposed following the final determination of an on-campusdisciplinary procedure regarding rape, acquaintance rape, or other sex offenses, forcible or nonforcible.
 
 &emsp;(iii) Procedures students should follow if a sex offense occurs, including who should be contacted, the importance of preserving evidence as may be necessary to the proof of criminal sexual assault, and to whom the alleged offense should be reported.
 
@@ -338,7 +338,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(C) The Secretary shall ensure that the reports described in subparagraph (A) and the report to Congress described in subparagraph (B) are made available to the public within a reasonable period of time.
 
-&emsp;(D) Not later than 180 days after October 7, 1998, the Secretary shall notify all secondary schools in all States regarding the availability of the information reported under subparagraph (B) and the information made availableunder paragraph (1), and how such information may be accessed.
+&emsp;(D) Not later than 180 days after October 7, 1998, the Secretary shall notify all secondary schools in all States regarding the availability of the information reported under subparagraph (B) and the information made available under paragraph (1), and how such information may be accessed.
 
 #### (5) “Operating expenses” defined
 
@@ -440,7 +440,7 @@ Subsec. (f)(5). Pub. L. 105–244, §486(e)(5), redesignated par. (4) as (5). Fo
 
 Subsec. (f)(5)(A). Pub. L. 105–244, §486(e)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For purposes of this subsection, the term ‘campus’ includes—
 
-&emsp;“(i) any building or property owned or controlled by the institution of higher education within the same reasonably contiguous geographic area and used by the institution in direct support of, or related to its educational purposes; or
+&emsp;“(i) any building or property owned or controlled by the institution of higher education within the same reasonably contiguous geographic area and usedby the institution in direct support of, or related to its educational purposes; or
 
 &emsp;“(ii) any building or property owned or controlled by student organizations recognized by the institution.”
 
@@ -547,6 +547,10 @@ Subsec. (f). Pub. L. 101–542, §204(a), added subsec. (f).
 1987—Subsec. (b). Pub. L. 100–50, §15(10), inserted “(other than loans made pursuant to section 1078–2 of this title)” after “part B of this subchapter”.
 
 Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2000 Amendment
 
@@ -663,10 +667,6 @@ Section 202 of Pub. L. 101–542 provided that: “The Congress finds that—
 &emsp;&emsp;“(B) for uniformity and consistency in the reporting of crimes on campus; and
 
 &emsp;&emsp;“(C) to encourage the development of policies and procedures to address sexual assaults and racial violence on college campuses.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1094, 1152 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or under”.</i>
 

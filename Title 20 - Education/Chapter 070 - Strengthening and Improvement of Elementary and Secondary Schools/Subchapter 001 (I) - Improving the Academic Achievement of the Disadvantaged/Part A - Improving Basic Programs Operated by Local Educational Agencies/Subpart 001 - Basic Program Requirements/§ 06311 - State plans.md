@@ -68,7 +68,7 @@
 
 #### (B) Adequate yearly progress
 
-&emsp;&emsp;Each State plan shall demonstrate, based on academic assessments described in paragraph (3), and in accordance with this paragraph, what constitutes adequate yearly progress of the State, and of all public elementary schools, secondary schools, and local educational agencies in the State, toward enabling all public elementary school and secondary school students to meet the State's student academic achievement standards, while working toward the goal of narrowing the achievement gaps in the State, local educational agencies, and schools.
+&emsp;&emsp;Each State plan shall demonstrate, based on academic assessments described in paragraph (3), and in accordance with this paragraph, what constitutes adequate yearly progress of the State, and of all public elementary schools, secondary schools, and local educational agencies in the State, toward enabling all public elementary school and secondary school students to meet the State's student academic achievement standards, while working toward the goal of narrowing the achievement gaps in theState, local educational agencies, and schools.
 
 #### (C) Definition
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;(i) each group of students described in subparagraph (C)(v) must meet or exceed the objectives set by the State under subparagraph (G), except that if any group described in subparagraph (C)(v) does not meet those objectives in any particular year, the school shall be considered to have made adequate yearly progress if the percentage of students in that group who did not meet or exceed the proficient level of academic achievement on the State assessments under paragraph (3) for that year decreased by 10 percent of that percentage from the preceding school year and that group made progress on one or more of the academic indicators described in subparagraph (C)(vi) or (vii); and
 
-&emsp;&emsp;&emsp;(ii) not less than 95 percent of each group of students described in subparagraph (C)(v) who are enrolled in the school are required to take the assessments, consistent with paragraph (3)(C)(xi) and with accommodations, guidelines, and alternative assessments provided in the same manner as those provided under section 612(a)(17)(A) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(17)(A)\] and paragraph (3), on which adequate yearly progress is based (except that the 95 percent requirement described in this clause shall not apply in a case in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student).
+&emsp;&emsp;&emsp;(ii) not less than 95 percent of each group of students described in subparagraph (C)(v) who are enrolled in the school are required to take the assessments, consistent with paragraph (3)(C)(xi) and with accommodations, guidelines, and alternative assessments provided in the same manner as those provided under section 612(a)(16)(A) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(16)(A)\] and paragraph (3), on which adequate yearly progress is based (except that the 95 percent requirement described in this clause shall not apply in a case in which the number of students in a category is insufficient to yield statistically reliable information or the results would reveal personally identifiable information about an individual student).
 
 #### (J) Uniform averaging procedure
 
@@ -234,7 +234,7 @@
 
 #### (D) Deferral
 
-&emsp;&emsp;A State may defer the commencement, or suspend the administration, but not cease the development, of the assessments described in this paragraph, that were not required prior to January 8, 2002, for 1 year for each year for which the amount appropriated for grants under section 7301b(a)(2) of this title is less than—
+&emsp;&emsp;A State may defer the commencement, or suspend the administration, but not ceasethe development, of the assessments described in this paragraph, that were not required prior to January 8, 2002, for 1 year for each year for which the amount appropriated for grants under section 7301b(a)(2) of this title is less than—
 
 &emsp;&emsp;&emsp;(i) $370,000,000 for fiscal year 2002;
 
@@ -280,7 +280,7 @@
 
 &emsp;&emsp;(D) an assurance that the State educational agency will assist local educational agencies in developing or identifying high-quality effective curricula aligned with State academic achievement standards and how the State educational agency will disseminate such curricula to each local educational agency and school within the State; and
 
-&emsp;&emsp;(E) such other factors the State educational agency determines appropriate to provide students an opportunity to achieve the knowledge and skills described in the challenging academic content standards adopted by the State.
+&emsp;&emsp;(E) such other factors the State educational agency determines appropriate to provide students an opportunity to achieve the knowledge and skills described in thechallenging academic content standards adopted by the State.
 
 #### (9) Factors affecting student achievement
 
@@ -298,7 +298,7 @@
 
 Each State plan shall contain assurances that—
 
-&emsp;(1) the State educational agency will meet the requirements of subsection (h)(1) of this section and, beginning with the 2002–2003 school year, will produce the annual State report cards described in such subsection, except that the Secretary may provide the State educational agency 1 additional year if the State educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources ofthe State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period;
+&emsp;(1) the State educational agency will meet the requirements of subsection (h)(1) of this section and, beginning with the 2002–2003 school year, will produce the annual State report cards described in such subsection, except that the Secretary may provide the State educational agency 1 additional year if the State educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period;
 
 &emsp;(2) the State will, beginning in school year 2002–2003, participate in biennial State academic assessments of 4th and 8th grade reading and mathematics under the National Assessment of Educational Progress carried out under section 9622(b)(2) of this title if the Secretary pays the costs of administering such assessments;
 
@@ -486,7 +486,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (E) Public dissemination
 
-&emsp;&emsp;The local educational agency shall, not later than the beginning of the 2002–2003 school year, unless the local educational agency has received a 1-year extension pursuant to subparagraph (A), publicly disseminate the information described in this paragraph to all schools in the school district served by the local educational agency and to all parents of students attending those schools in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand, and make the information widely available through public means, such asposting on the Internet, distribution to the media, and distribution through public agencies, except that if a local educational agency issues a report card for all students, the local educational agency may include the information under this section as part of such report.
+&emsp;&emsp;The local educational agency shall, not later than the beginning of the 2002–2003 school year, unless the local educational agency has received a 1-year extension pursuant to subparagraph (A), publicly disseminate the information described in this paragraph to all schools in the school district served by the local educational agency and to all parents of students attending those schools in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand, and make the information widely available through public means, such as posting on the Internet, distribution to the media, and distribution through public agencies, except that if a local educational agency issues a report card for all students, the local educational agency may include the information under this section as part of such report.
 
 #### (3) Preexisting report cards
 
@@ -566,7 +566,7 @@ In determining the assessments to be used by each operated or funded by BIA scho
 
 &emsp;(3) Each such school that is accredited by a tribal accrediting agency or tribal division of education shall use an assessment developed by such agency or division, except that the Secretary of the Interior shall ensure that such assessment meets the requirements of this section.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
@@ -592,9 +592,7 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 
 #### Amendments
 
+2004—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted “section 612(a)(16)(A)” for “section 612(a)(17)(A)”.
+
 2002—Subsec. (c)(2). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5891b, 6312, 6314, 6316, 6317, 6318, 6319, 6362, 6364, 6398, 6434, 6491, 6578, 6641, 6812, 6821, 6823, 6826, 6841, 6842, 6911, 6914, 7011, 7225f, 7243, 7301, 7301a, 7301b, 7315, 7321, 7325, 7325a, 7325b, 7345b, 7351c, 7801, 7861, 9622 of this title; title 42 section 11432.
 

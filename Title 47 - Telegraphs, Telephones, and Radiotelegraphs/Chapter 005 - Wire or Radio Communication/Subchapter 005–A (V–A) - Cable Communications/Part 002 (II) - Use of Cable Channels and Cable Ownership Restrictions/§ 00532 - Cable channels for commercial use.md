@@ -68,7 +68,7 @@ Notwithstanding sections 541(c) and 543(a) of this title, at such time as cable 
 
 #### (h) Cable service unprotected by Constitution
 
-Any cable service offered pursuant to this section shall not be provided, or shall be provided subject to conditions, if such cable service in the judgment of the franchising authority or the cable operator is obscene, or is in conflict with community standards in that it is lewd, lascivious, filthy, or indecent or is otherwise unprotected by the Constitution of the United States. This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.
+Any cable service offered pursuant to this section shall not be provided, or shall be provided subject to conditions, if such cable service in thejudgment of the franchising authority or the cable operator is obscene, or is in conflict with community standards in that it is lewd, lascivious, filthy, or indecent or is otherwise unprotected by the Constitution of the United States. This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.
 
 #### (i) Programming from qualified minority or educational programming sources
 
@@ -76,7 +76,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) For purposes of this subsection, the term “qualified minority programming source” means a programming source which devotes substantially all of its programming to coverage of minority viewpoints, or to programming directed at members of minority groups, and which is over 50 percent minority-owned, as the term “minority” is defined in section 309(i)(3)(C)(ii) of this title.
 
-(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has adocumented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
+(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has a documented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
 
 (4) Nothing in this subsection shall substitute for the requirements to carry qualified noncommercial educational television stations as specified under section 535 of this title.
 
@@ -123,8 +123,4 @@ Amendment by Pub. L. 102–385 effective 60 days after Oct. 5, 1992, see section
 #### Effective Date
 
 Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 541, 543, 558, 573 of this title.
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) is equal to or less than the amount appropriated for the preceding fiscal year, the Secretary may reserve from such amount only the amount necessary to continue multi-year activities carried out pursuant to section 6381j(b) of this title that began during or prior to the fiscal year preceding the fiscal year for which the determination is made; or
 
-&emsp;&emsp;(B) exceeds the amount appropriated for the preceding fiscal year, then the Secretary shall reserve from such excess amount $2,000,000 or 50 percent, whichever is less, to carry out section 6381j(b) of this title.
+&emsp;&emsp;(B) exceeds the amount appropriated for the preceding fiscal year, then the Secretaryshall reserve from such excess amount $2,000,000 or 50 percent, whichever is less, to carry out section 6381j(b) of this title.
 
 #### (c) Reservation for grants
 
@@ -129,8 +129,4 @@ The Adult Education and Family Literacy Act, referred to in subsec. (c)(1)(B), (
 The Head Start Act, referred to in subsec. (c)(1)(B), (2)(A)(ii), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6381b, 6381c, 6381h, 6381j of this title.
 

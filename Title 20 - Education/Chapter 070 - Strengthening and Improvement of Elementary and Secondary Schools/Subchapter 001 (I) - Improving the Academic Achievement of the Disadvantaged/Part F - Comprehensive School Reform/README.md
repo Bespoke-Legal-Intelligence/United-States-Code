@@ -1,9 +1,5 @@
 Part F—Comprehensive School Reform
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5891b, 6302, 6316, 7801 of this title.
-
 
 ---
 

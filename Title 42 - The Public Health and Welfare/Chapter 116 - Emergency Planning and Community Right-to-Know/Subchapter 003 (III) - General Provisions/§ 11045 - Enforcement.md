@@ -20,7 +20,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (3) Judicial assessment
 
-&emsp;The Administrator may bring an action in the United States District <sup>1</sup> court for the appropriate district to assess and collect a penalty of not more than $25,000 per day for each day during which the violation continues in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation, the amount of such penalty may be not more than $75,000 for each day during which the violation continues.
+&emsp;The Administrator may bring an action in the United States District <sup>1</sup> court for the appropriate district to assess and collect a penalty of not more than $25,000 per day for each day during which the violation continues in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation, the amount of such penalty may be not more than $75,000 foreach day during which the violation continues.
 
 #### (4) Criminal penalties
 
@@ -63,10 +63,6 @@ Whenever any facility owner or operator required to provide information under se
 (2) The Administrator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 (Pub. L. 99–499, title III, §325, Oct. 17, 1986, 100 Stat. 1753.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13106 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

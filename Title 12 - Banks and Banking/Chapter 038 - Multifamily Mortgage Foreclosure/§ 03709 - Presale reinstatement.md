@@ -24,7 +24,3 @@ If the foreclosure commissioner cancels a foreclosure sale under this chapter a 
 
 (Pub. L. 97–35, title III, §369A, Aug. 13, 1981, 95 Stat. 427.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3710 of this title.
-

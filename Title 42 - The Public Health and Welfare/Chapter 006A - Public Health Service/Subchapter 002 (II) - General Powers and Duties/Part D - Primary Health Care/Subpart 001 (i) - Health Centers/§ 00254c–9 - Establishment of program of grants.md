@@ -28,7 +28,3 @@ To the extent practicable and appropriate, the Secretary shall integrate the pro
 
 Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of the Public Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254c–10, 254c–11, 254c–12, 254c–13 of this title.
-

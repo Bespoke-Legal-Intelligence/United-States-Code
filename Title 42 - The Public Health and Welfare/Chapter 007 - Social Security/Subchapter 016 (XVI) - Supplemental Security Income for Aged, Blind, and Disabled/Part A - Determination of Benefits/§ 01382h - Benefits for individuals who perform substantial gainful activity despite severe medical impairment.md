@@ -32,7 +32,7 @@
 
 &emsp;(ii) meets the requirements of paragraph (1); and
 
-&emsp;(B) was eligible for medical assistance under the State plan approved under subchapter XIXof this chapter in the month immediately preceding the first month in which the individual qualified for a benefit under such subsection or met such requirements,
+&emsp;(B) was eligible for medical assistance under the State plan approved under subchapter XIX of this chapter in the month immediately preceding the first month in which the individual qualified for a benefit under such subsection or met such requirements,
 
 > shall remain eligible for medical assistance under such plan for so long as the individual qualifies for a benefit under such subsection or meets such requirements.
 
@@ -88,7 +88,7 @@ Subsec. (b)(3). Pub. L. 99–643, §7(a), added par. (3).
 
 1981—Subsec. (a). Pub. L. 97–35, §2353(<i>o</i>)(1), substituted in provision preceding par. (1) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter”.
 
-Subsec. (b). Pub. L. 97–35, §2353(<i>o</i>), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
+Subsec. (b). Pub. L. 97–35, §2353(<i>o</i>), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of thischapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
 
 #### Effective Date of 1994 Amendment
 
@@ -119,8 +119,4 @@ Section 201(d) of Pub. L. 96–265, as amended by Pub. L. 98–460, §14(a), Oct
 #### Separate Accounts With Respect to Benefits Payable; Evaluation of Program
 
 Section 201(e) of Pub. L. 96–265 provided that: “The Secretary shall provide for separate accounts with respect to the benefits payable by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending section 1382e of this title and provisions set out as a note under section 1382 of this title\] so as to provide for evaluation of the effects of such amendments on the programs established by titles II, XVI, XIX, and XX of the Social Security Act \[subchapters II, XVI, XIX, and XX of this chapter\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320b–19, 1320b–20, 1382, 1382c, 1382d, 1382e, 1382i, 1383, 1396a, 1396d, 1396v of this title.
 

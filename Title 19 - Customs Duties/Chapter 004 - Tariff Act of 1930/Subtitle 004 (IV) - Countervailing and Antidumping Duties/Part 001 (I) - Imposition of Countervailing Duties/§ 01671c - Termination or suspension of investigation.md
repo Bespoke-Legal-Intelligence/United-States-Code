@@ -52,7 +52,7 @@ The administering authority may suspend an investigation if the government of th
 
 #### (1) General rule
 
-&emsp;If the administering authority determines that extraordinary circumstances are present in a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
+&emsp;If the administering authority determines that extraordinary circumstances are presentin a case, it may suspend an investigation upon the acceptance of an agreement from a government described in subsection (b) of this section, or from exporters described in subsection (b) of this section, if the agreement will eliminate completely the injurious effect of exports to the United States of the subject merchandise.
 
 #### (2) Certain additional requirements
 
@@ -176,7 +176,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (2) Commission investigation
 
-&emsp;Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 daysafter the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If the Commission's determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under section 1671b(b) of this title had been made on that date.
+&emsp;Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If the Commission's determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under section 1671b(b) of this title had been made on that date.
 
 #### (3) Suspension of liquidation to continue during review period
 
@@ -230,7 +230,7 @@ The administering authority may terminate any investigation initiated by the adm
 
 #### (3) Effect of suspension agreement on countervailing duty order
 
-&emsp;If an agreement described in paragraph (1) is accepted after the countervailing duty order ispublished, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1671b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to countervailing duties.
+&emsp;If an agreement described in paragraph (1) is accepted after the countervailing duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1671b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to countervailing duties.
 
 (June 17, 1930, ch. 497, title VII, §704, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 154; amended Pub. L. 98–573, title VI, §§604(a), 612(b)(2), Oct. 30, 1984, 98 Stat. 3025, 3034; Pub. L. 99–514, title XVIII, §1886(a)(4), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §1326(d)(2), Aug. 23, 1988, 102 Stat. 1204; Pub. L. 103–465, title II, §§216(a), 217(a), 218(a)(1), 233(a)(5)(D)–(M), 264(c)(3)–(6), 270(a)(1)(E), (2)(A), (c)(1), Dec. 8, 1994, 108 Stat. 4853, 4854, 4899, 4914, 4917.)
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -319,8 +319,4 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 1671, 1675, 1675a, 1675b, 1676, 1676a, 1677, 1677i, 1677m of this title; title 28 section 1582.
 

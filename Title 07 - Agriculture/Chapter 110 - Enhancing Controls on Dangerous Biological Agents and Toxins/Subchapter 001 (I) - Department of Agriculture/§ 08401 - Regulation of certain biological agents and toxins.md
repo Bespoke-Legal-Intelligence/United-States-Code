@@ -56,7 +56,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (2) Identification; database
 
-&emsp;Regulations under subsections (b) and (c) of this section shall require that registration include (if available to the person registering) information regarding the characterization of listed agents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registeredpersons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
+&emsp;Regulations under subsections (b) and (c) of this section shall require that registration include (if available to the person registering) information regarding the characterization of listed agents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registered persons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
 
 #### (e) Safeguard and security requirements for registered persons
 
@@ -140,7 +140,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Ex parte review
 
-&emsp;&emsp;&emsp;During a review under clause (i), the Secretary may consider information relevant to the review ex parte to the extent that disclosure of the information could compromise national security or an investigation by any law enforcement agency.
+&emsp;&emsp;&emsp;During a review under clause (i), the Secretary may consider information relevant to the review ex parte to the extentthat disclosure of the information could compromise national security or an investigation by any law enforcement agency.
 
 #### (iii) Final agency action
 
@@ -244,7 +244,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (2) General authority for exemptions not involving overlap agents or toxins
 
-&emsp;In the case of listed agents or toxins that are not overlap agents or toxins, the Secretarymay grant exemptions from the applicability of provisions of regulations under subsection (b) or (c) of this section if the Secretary determines that such exemptions are consistent with protecting animal and plant health, and animal and plant products.
+&emsp;In the case of listed agents or toxins that are not overlap agents or toxins, the Secretary may grant exemptions from the applicability of provisions of regulations under subsection (b) or (c) of this section if the Secretary determines that such exemptions are consistent with protecting animal and plant health, and animal and plant products.
 
 #### (h) Disclosure of information
 
@@ -268,7 +268,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(A) The Department of Health and Human Services, the Department of Justice, the Department of Agriculture, and the Department of Transportation.
 
-&emsp;&emsp;(B) Any Federal agency to which information specified in paragraph (1) is transferred by any agency specified in subparagraph (A) of this paragraph.
+&emsp;&emsp;(B) Any Federal agency to which information specified in paragraph (1) is transferredby any agency specified in subparagraph (A) of this paragraph.
 
 &emsp;&emsp;(C) Any Federal agency that is a registered person, or has a sub-agency component that is a registered person.
 
@@ -310,7 +310,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal orplant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
 
 #### (k) Reports
 
@@ -344,7 +344,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original “section 315A(a)(1) of the Public Health Service Act”, and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public Health Service Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs.For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -387,8 +387,4 @@ Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penal
 “(d)
 
 Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[7 U.S.C. 8401(a)(1)\] and that were underway as of the effective date of such rule.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8411 of this title; title 6 section 182; title 18 section 175b; title 42 section 262a.
 

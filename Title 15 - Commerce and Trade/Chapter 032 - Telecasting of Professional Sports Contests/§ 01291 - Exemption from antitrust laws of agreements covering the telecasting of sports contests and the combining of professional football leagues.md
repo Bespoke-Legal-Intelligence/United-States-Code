@@ -22,7 +22,3 @@ Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, as amended, which enacted this c
 
 Section 6 of Pub. L. 87–331 provided that: “Nothing in this Act \[this chapter\] shall affect any cause of action existing on the effective date hereof \[Sept. 30, 1961\] in respect to the organized professional team sports of baseball, football, basketball, or hockey.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1292, 1293, 1294 of this title.
-

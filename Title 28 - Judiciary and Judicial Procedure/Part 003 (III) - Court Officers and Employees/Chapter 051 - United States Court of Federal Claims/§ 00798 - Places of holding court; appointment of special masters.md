@@ -20,7 +20,3 @@ Subsec. (c). Pub. L. 102–572, §§902(a)(2), 906(b)(1), redesignated former su
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1292 of this title.
-

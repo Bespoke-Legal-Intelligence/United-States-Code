@@ -18,7 +18,7 @@
 
 #### (3) Status of fees
 
-&emsp;Fees collected under this subsection by any person on behalf of the Secretary are held in trust for the United States and shall be remitted to the Secretary in such manner and at such times as the Secretary may prescribe.
+&emsp;Fees collected under this subsection by any person on behalf of the Secretary are held intrust for the United States and shall be remitted to the Secretary in such manner and at such times as the Secretary may prescribe.
 
 #### (4) Late payment penalties
 
@@ -80,7 +80,7 @@
 
 #### (i) Authority
 
-&emsp;&emsp;&emsp;The Secretary may, if a person does not pay fees, late payment penalties, or accrued interest on such, after providing reasonable notice of default to such person, sell at public sale after reasonable public notice, or otherwise dispose of, any such animal, article, means of conveyance or facility on which the Secretary has a lien under this paragraph.
+&emsp;&emsp;&emsp;The Secretary may, if a person does not pay fees, late payment penalties, or accrued interest on such, after providing reasonable notice of default to such person,sell at public sale after reasonable public notice, or otherwise dispose of, any such animal, article, means of conveyance or facility on which the Secretary has a lien under this paragraph.
 
 #### (ii) Excess proceeds
 
@@ -186,13 +186,9 @@ Subsec. (a)(3)(B)(v). Pub. L. 101–508, §1203(2)(B), added cl. (v).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of Title 7, Agriculture.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of Title 7, Agriculture.
 
 #### Report on Agricultural Quarantine Inspection Fund
 
 Pub. L. 104–66, title I, §1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 231; title 7 section 1961; title 16 section 1540.
 

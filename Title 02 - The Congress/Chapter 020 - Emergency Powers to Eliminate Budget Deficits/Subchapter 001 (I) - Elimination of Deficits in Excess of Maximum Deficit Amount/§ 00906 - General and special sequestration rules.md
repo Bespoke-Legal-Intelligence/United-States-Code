@@ -8,7 +8,7 @@ Automatic spending increases are increases in outlays due to changes in indexes 
 
 &emsp;(2) Vocational rehabilitation basic State grants.
 
-> In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.
+> In those programs all amounts other than the automatic spending increases shall be exemptfrom reduction under any order issued under this subchapter.
 
 #### (b) Student loans
 
@@ -94,7 +94,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (h) Treatment of Federal administrative expenses
 
-(1) Notwithstanding any other provision of this title,<sup>1</sup> administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity,or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
+(1) Notwithstanding any other provision of this title,<sup>1</sup> administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
@@ -152,7 +152,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
-&emsp;All reductions described in paragraph (2) which are required to be made in connectionwith an order issued under section 904 of this title with respect to a fiscal year shall be made so as to ensure that outlays for each program, project, activity, or account involved are reduced by a percentage rate that is uniform for all such programs, projects, activities, and accounts, and may not be made so as to achieve a percentage rate of reduction in any such item exceeding the rate specified in the order.
+&emsp;All reductions described in paragraph (2) which are required to be made in connection with an order issued under section 904 of this title with respect to a fiscal year shall be made so as to ensure that outlays for each program, project, activity, or account involved are reduced by a percentage rate that is uniform for all such programs, projects, activities, and accounts, and may not be made so as to achieve a percentage rate of reduction in any such item exceeding the rate specified in the order.
 
 #### (5) Dairy program
 
@@ -174,7 +174,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(4) Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
 
-&emsp;(5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
+&emsp;(5) If an automatic spending increase is sequestered, the increase (in the applicableindex) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
 
 &emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
@@ -194,7 +194,7 @@ Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to 
 
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a noteunder section 621 of this title. For complete classification of this Act to the Code, see Tables.
+This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated subsec. (i)(1) of this section by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
@@ -202,7 +202,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33, §10208(a)(1), substituted “General and special sequestration rules” for “Exceptions, limitations, and special rules” as section catchline.
+1997—Pub. L. 105–33, §10208(a)(1), substituted “General and special sequestration rules” for “Exceptions, limitations, and special rules” as section catchline.
 
 Subsec. (a). Pub. L. 105–33, §10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “National Wool Act;”.
 
@@ -230,9 +230,9 @@ Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out “other than a trus
 
 Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
 
-<b>1996</b>—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
+1996—Subsecs. (k), (<i>l</i>). Pub. L. 104–193 redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
+1990—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
 Subsec. (b). Pub. L. 101–508, §13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” in pars. (1) to (3).
 
@@ -282,13 +282,13 @@ Subsec. (k). Pub. L. 101–508, §13101(d)(2), added subsec. (k). Former subsec.
 
 Subsec. (<i>l</i>). Pub. L. 101–508, §13101(d)(2), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to treatment of obligated balances.
 
-<b>1989</b>—Subsec. (b)(4)(C). Pub. L. 101–73, §743(b)(1), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+1989—Subsec. (b)(4)(C). Pub. L. 101–73, §743(b)(1), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
 Subsec. (b)(4)(D). Pub. L. 101–73, §743(b)(2), substituted “Office of Thrift Supervision” for “Federal Savings and Loan Insurance Corporation”.
 
 Subsec. (b)(4)(H), (I). Pub. L. 101–73, §743(b)(3), added subpars. (H) and (I).
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–119, §102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any amount of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority (as defined in section 651(c)(2) of this title), or obligation limitations which is sequestered or reduced pursuant to an order issued under section 902 of this title is permanently cancelled, with the exception of amounts sequestered in special or trust funds, which shall remain in such funds and be available in accordance with and to the extent permitted by law, including the provisions of this Act.”
+1987—Subsec. (a)(2). Pub. L. 100–119, §102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any amount of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority (as defined in section 651(c)(2) of this title), or obligation limitations which is sequestered or reduced pursuant to an order issued under section 902 of this title is permanently cancelled, with the exception of amounts sequestered in special or trust funds, which shall remain in such funds and be available in accordance with and to the extent permitted by law, including the provisions of this Act.”
 
 Subsec. (b)(4). Pub. L. 100–86 added par. (4).
 
@@ -300,7 +300,7 @@ Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted “Notwithstanding any 
 
 Subsec. (<i>l</i>). Pub. L. 100–119, §102(b)(3), amended subsec. (<i>l</i>) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
-<b>1986</b>—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 1996 Amendment
 
@@ -309,10 +309,6 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 901, 902, 903, 922 of this title; title 12 section 1772c.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

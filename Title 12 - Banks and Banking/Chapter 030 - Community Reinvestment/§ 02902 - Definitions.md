@@ -48,10 +48,6 @@ Par. (2). Pub. L. 101–73, §1212(a), substituted “insured depository institu
 
 Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1505 of Pub. L. 95–630, set out as a note under section 27 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1831y, 3103 of this title.
-
 <i><sup>1</sup></i><i> So in original. Text reading “(2) section 1818 of this title, by the Director” probably should read “(D) the Director”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

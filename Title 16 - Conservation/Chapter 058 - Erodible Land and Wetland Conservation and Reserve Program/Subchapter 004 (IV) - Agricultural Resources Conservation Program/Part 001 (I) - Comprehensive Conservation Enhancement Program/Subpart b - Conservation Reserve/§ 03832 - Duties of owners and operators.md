@@ -10,7 +10,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(3) not to use the land for agricultural purposes, except as permitted by the Secretary;
 
-&emsp;(4) to establish approved vegetative cover (which may include emerging vegetation in water), water cover for the enhancement of wildlife, or, where practicable, maintain existing cover on the land, except that—
+&emsp;(4) to establish approved vegetative cover (which may include emerging vegetation in water), water cover for the enhancement ofwildlife, or, where practicable, maintain existing cover on the land, except that—
 
 &emsp;&emsp;(A) the water cover shall not include ponds for the purpose of watering livestock, irrigating crops, or raising fish for commercial purposes; and
 
@@ -58,7 +58,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;&emsp;(iii) the purposes of the conservation reserve program under this subpart;
 
-&emsp;(8) not to conduct any planting of trees on land that is subject to the contract unless thecontract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
+&emsp;(8) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
 
 &emsp;(9) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
 
@@ -101,8 +101,4 @@ A prior section 3832, Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Sta
 #### Amendments
 
 2003—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3831, 3833 of this title.
 

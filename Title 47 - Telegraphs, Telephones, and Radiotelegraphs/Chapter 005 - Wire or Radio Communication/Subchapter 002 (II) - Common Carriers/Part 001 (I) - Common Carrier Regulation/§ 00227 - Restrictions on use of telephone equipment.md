@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;&emsp;(B) to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes or is exempted by rule or order by the Commission under paragraph (2)(B);
 
-&emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send anunsolicited advertisement to a telephone facsimile machine; or
+&emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or
 
 &emsp;&emsp;(D) to use an automatic telephone dialing system in such a way that two or more telephone lines of a multi-line business are engaged simultaneously.
 
@@ -158,7 +158,7 @@ As used in this section—
 
 #### (2) Telephone facsimile machines
 
-&emsp;The Commission shall revise the regulations setting technical and procedural standards for telephone facsimile machines to require that any such machine which is manufactured after one year after December 20, 1991, clearlymarks, in a margin at the top or bottom of each transmitted page or on the first page of each transmission, the date and time sent, an identification of the business, other entity, or individual sending the message, and the telephone number of the sending machine or of such business, other entity, or individual.
+&emsp;The Commission shall revise the regulations setting technical and procedural standards for telephone facsimile machines to require that any such machine which is manufactured after one year after December 20, 1991, clearly marks, in a margin at the top or bottom of each transmitted page or on the first page of each transmission, the date and time sent, an identification of the business, other entity, or individual sending the message, and the telephone number of the sending machine or of such business, other entity, or individual.
 
 #### (3) Artificial or prerecorded voice systems
 
@@ -166,7 +166,7 @@ As used in this section—
 
 &emsp;&emsp;(A) all artificial or prerecorded telephone messages (i) shall, at the beginning of the message, state clearly the identity of the business, individual, or other entity initiating the call, and (ii) shall, during or after the message, state clearly the telephone number or address of such business, other entity, or individual; and
 
-&emsp;&emsp;(B) any such system will automatically release the called party's line within 5 seconds of the time notification is transmitted to the system that the called party has hung up, to allow the called party's line to be used to make or receive other calls.
+&emsp;&emsp;(B) any such system will automatically release the called party's line within 5 seconds of the time notification is transmitted to the system that the called party has hungup, to allow the called party's line to be used to make or receive other calls.
 
 #### (e) Effect on State law
 
@@ -281,8 +281,4 @@ Section 2 of Pub. L. 102–243 provided that: “The Congress finds that:
 &emsp;“(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce.
 
 &emsp;“(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title; title 15 section 7712.
 

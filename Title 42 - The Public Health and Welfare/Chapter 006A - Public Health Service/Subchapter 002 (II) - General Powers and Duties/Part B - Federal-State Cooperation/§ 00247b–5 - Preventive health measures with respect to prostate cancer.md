@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs that may include the following:
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs that may include the following:
 
 &emsp;(1) To identify factors that influence the attitudes or levels of awareness of men and health care practitioners regarding screening for prostate cancer.
 
@@ -110,7 +110,7 @@ The Secretary may not make a grant under subsection (a) of this section unless�
 
 &emsp;(1) the applicant involved submits to the Secretary a description of the purposes for which the applicant intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with aneed for the services or activities described in subsection (a) of this section;
+&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with a need for the services or activities described in subsection (a) of this section;
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprivate entities; and
 

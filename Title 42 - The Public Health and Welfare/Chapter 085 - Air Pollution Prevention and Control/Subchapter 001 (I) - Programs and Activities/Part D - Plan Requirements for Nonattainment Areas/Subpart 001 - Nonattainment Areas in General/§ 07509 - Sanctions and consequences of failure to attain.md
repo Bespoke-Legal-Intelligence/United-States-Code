@@ -2,7 +2,7 @@
 
 #### (a) State failure
 
-For any implementation plan or plan revision required under this part (or required in response to a finding of substantial inadequacy as described in section 7410(k)(5) of this title), if the Administrator—
+For any implementation plan or plan revision required under this part (or required in responseto a finding of substantial inadequacy as described in section 7410(k)(5) of this title), if the Administrator—
 
 &emsp;(1) finds that a State has failed, for an area designated nonattainment under section 7407(d) of this title, to submit a plan, or to submit 1 or more of the elements (as determined by the Administrator) required by the provisions of this chapter applicable to such an area, or has failed to make a submission for such an area that satisfies the minimum criteria established in relation to any such element under section 7410(k) of this title,
 
@@ -52,7 +52,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 (1) As expeditiously as practicable after the applicable attainment date for any nonattainment area, but not later than 6 months after such date, the Administrator shall determine, based on the area's air quality as of the attainment date, whether the area attained the standard by that date.
 
-(2) Upon making the determination under paragraph (1), the Administrator shall publish a notice in the Federal Register containing such determination and identifying each area that the Administrator has determined to have failed to attain. The Administrator may revise or supplement such determination at any time based on more complete information or analysis concerning the area's air quality as of the attainment date.
+(2) Upon making the determination under paragraph (1), the Administrator shall publish anotice in the Federal Register containing such determination and identifying each area that the Administrator has determined to have failed to attain. The Administrator may revise or supplement such determination at any time based on more complete information or analysis concerning the area's air quality as of the attainment date.
 
 #### (d) Consequences for failure to attain
 
@@ -63,8 +63,4 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 (3) The attainment date applicable to the revision required under paragraph (1) shall be the same as provided in the provisions of section 7502(a)(2) of this title, except that in applying such provisions the phrase “from the date of the notice under section 7509(c)(2) of this title” shall be substituted for the phrase “from the date such area was designated nonattainment under section 7407(d) of this title” and for the phrase “from the date of designation as nonattainment”.
 
 (July 14, 1955, ch. 360, title I, §179, as added Pub. L. 101–549, title I, §102(g), Nov. 15, 1990, 104 Stat. 2420.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7410, 7502, 7511a, 7511d, 7512a, 7661a of this title.
 

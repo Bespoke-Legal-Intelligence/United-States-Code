@@ -52,7 +52,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 &emsp;An application submitted under paragraph (1) shall—
 
-&emsp;&emsp;(A) describe the comprehensive public access defibrillation program to be funded with the grant and demonstrate how such program would make automated externaldefibrillation accessible and available to cardiac arrest victims in the community;
+&emsp;&emsp;(A) describe the comprehensive public access defibrillation program to be funded with the grant and demonstrate how such program would make automated external defibrillation accessible and available to cardiac arrest victims in the community;
 
 &emsp;&emsp;(B) contain procedures for implementing appropriate nationally recognized training courses in performing cardiopulmonary resuscitation and the use of automated external defibrillators;
 
@@ -66,7 +66,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
+For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006. Not more than 10 percent of amounts received under a grant awarded underthis section may be used for administrative expenses.
 
 (July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634; amended Pub. L. 108–41, §2, July 1, 2003, 117 Stat. 839.)
 

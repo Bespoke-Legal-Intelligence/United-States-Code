@@ -52,7 +52,3 @@ Authority of President under subsec. (a) of this section to prescribe regulation
 
 Secretary of State empowered to prescribe regulations relating to cost-of-living allowances, see section 4(a) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 907 of this title.
-

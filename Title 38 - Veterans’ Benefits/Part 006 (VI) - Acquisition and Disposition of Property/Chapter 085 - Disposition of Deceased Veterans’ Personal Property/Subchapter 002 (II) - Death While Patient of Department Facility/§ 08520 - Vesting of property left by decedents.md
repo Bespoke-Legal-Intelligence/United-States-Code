@@ -32,7 +32,3 @@ Subsec. (b). Pub. L. 99–576, §701(99)(B), substituted “such person's” for
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8521, 8526 of this title.
-

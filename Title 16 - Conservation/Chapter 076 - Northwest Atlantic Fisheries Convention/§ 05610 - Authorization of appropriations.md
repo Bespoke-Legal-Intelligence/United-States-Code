@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out this chapter, including use for payment as the United States contribution to the Organization as provided in Article XVI of the Convention, $500,000 for each fiscal year through fiscal year 2006.
 
-(Pub. L. 104–43, title II, §211, Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, §201(a), Nov.13, 1998, 112 Stat. 3451; Pub. L. 107–372, title III, §305, Dec. 19, 2002, 116 Stat. 3096.)
+(Pub. L. 104–43, title II, §211, Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, §201(a), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 107–372, title III, §305, Dec. 19, 2002, 116 Stat. 3096.)
 
 #### Amendments
 

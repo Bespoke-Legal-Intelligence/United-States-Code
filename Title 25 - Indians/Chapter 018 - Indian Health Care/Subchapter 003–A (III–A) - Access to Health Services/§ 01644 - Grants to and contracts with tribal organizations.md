@@ -12,7 +12,7 @@ The Secretary, acting through the Service, shall make grants to or enter into co
 
 #### (b) Terms and conditions
 
-The Secretary, acting through the Service, shall place conditions as deemed necessary to effect the purpose of this section in any contract or grant which the Secretary makes with any tribal organization pursuant to this section. Such conditions shall include, but are not limited to, requirements that the organization successfully undertake to—
+The Secretary, acting through the Service, shall place conditions as deemed necessary to effect the purpose of this section in any contract or grant which the Secretary makes with any tribal organization pursuant to this section.Such conditions shall include, but are not limited to, requirements that the organization successfully undertake to—
 
 &emsp;(1) determine the population of Indians to be served that are or could be recipients of benefits under titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\];
 

@@ -22,7 +22,3 @@
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2079.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3161, 3163, 3174 of this title.
-

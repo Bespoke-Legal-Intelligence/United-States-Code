@@ -62,7 +62,3 @@ For a prior section 3571, applicable to offenses committed prior to Nov. 1, 1987
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3, 19, 248, 373, 1031 of this title; title 13 section 305; title 15 section 6823; title 20 sections 9573, 9622; title 28 section 636; title 31 section 5324; title 42 sections 2273, 7412; title 49 section 11908.
-

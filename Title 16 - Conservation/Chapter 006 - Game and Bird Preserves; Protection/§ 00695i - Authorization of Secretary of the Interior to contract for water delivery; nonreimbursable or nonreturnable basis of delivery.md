@@ -28,7 +28,3 @@ The Federal reclamation laws, referred to in introductory text, include the act 
 
 1978—Pub. L. 95–616 inserted second sentence, including pars. (a) to (d), and struck out prior second sentence which read as follows: “If and when available, such water shall be delivered from the Central Valley project at a charge not to exceed the prevailing charge for class 2 water.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695g, 695j, 695j–1 of this title.
-

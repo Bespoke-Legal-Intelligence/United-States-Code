@@ -1,5 +1,7 @@
 ### SUBCHAPTER XXIX—CANYONLANDS NATIONAL PARK
 
+<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
+
 
 ---
 

@@ -36,7 +36,3 @@
 
 Subsec. (f)(1). Pub. L. 100–690, §§6182, 6184, substituted “in section 1956(c)(5) of this title” for “for the purposes of subchapter II of chapter 53 of title 31” and inserted “, but such term does not include any transaction necessary to preserve a person's right to representation as guaranteed by the sixth amendment to the Constitution”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 986, 1510, 1952, 1956, 1961, 2516, 3322 of this title; title 8 sections 1101, 1182; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 section 524; title 31 sections 5328, 9703.
-

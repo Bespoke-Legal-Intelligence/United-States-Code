@@ -8,7 +8,3 @@ To enable the Secretary of the Interior to begin to carry out the provisions of 
 
 Transfer of administrative functions of park, see note set out under section 425 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 425, 425d, 425e, 425k of this title.
-

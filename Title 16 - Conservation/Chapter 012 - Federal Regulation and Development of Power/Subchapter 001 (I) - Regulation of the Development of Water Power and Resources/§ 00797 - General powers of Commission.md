@@ -100,9 +100,9 @@ Pub. L. 102–486, title XXIV, §2405, Oct. 24, 1992, 106 Stat. 3098, provided t
 
 “(a)
 
-Studies.—The Secretary of the Interior, acting pursuant to the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388) \[43 U.S.C. 371 et seq.\], and Acts supplementary thereto and amendatory thereof, is authorized and directed to conduct feasibility investigations of opportunities to increase the amount of hydroelectric energy available for marketing by the Secretary from Federal hydroelectric power generation facilities resulting from a reduction in the consumptive use of such power for Federal reclamation project purposes or as a result of an increase in the amount of water available for such generation because of waterconservation efforts on Federal reclamation projects or a combination thereof. The Secretary of the Interior is further authorized and directed to conduct feasibility investigations of opportunities to mitigate damages to or enhance fish and wildlife as a result of increasing the amount of water available for such purposes because of water conservation efforts on Federal reclamation projects. Such feasibility investigations shall include, but not be limited to—
+Studies.—The Secretary of the Interior, acting pursuant to the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388) \[43 U.S.C. 371 et seq.\], and Acts supplementary thereto and amendatory thereof, is authorized and directed to conduct feasibility investigations of opportunities to increase the amount of hydroelectric energy available for marketing by the Secretary from Federal hydroelectric power generation facilities resulting from a reduction in the consumptive use of such power for Federal reclamation project purposes or as a result of an increase in the amount of water available for such generation because of water conservation efforts on Federal reclamation projects or a combination thereof. The Secretary of the Interior is further authorized and directed to conduct feasibility investigations of opportunities to mitigate damages to or enhance fish and wildlife as a result of increasing the amount of water available for such purposes because of water conservation efforts on Federal reclamation projects. Such feasibility investigations shall include, but not be limited to—
 
-&emsp;“(1) an analysis of the technical, environmental, and economic feasibility of reducing the amount of water diverted upstream of such Federal hydroelectric power generation facilities by Federal reclamation projects;
+&emsp;“(1) an analysis of the technical, environmental, and economic feasibility of reducing the amount ofwater diverted upstream of such Federal hydroelectric power generation facilities by Federal reclamation projects;
 
 &emsp;“(2) an estimate of the reduction, if any, of project power consumed as a result of the decreased amount of diversion;
 
@@ -125,8 +125,4 @@ Authorization.—There is hereby authorized to be appropriated to the Secretary 
 #### Projects on Fresh Waters in State of Hawaii
 
 Pub. L. 102–486, title XXIV, §2408, Oct. 24, 1992, 106 Stat. 3100, directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796, 803, 823c, 828b of this title; title 42 section 7172.
 

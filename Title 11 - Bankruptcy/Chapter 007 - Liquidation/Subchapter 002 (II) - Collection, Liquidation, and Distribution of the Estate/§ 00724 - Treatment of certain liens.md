@@ -36,11 +36,11 @@ Subsection (a) of section 724 permits the trustee to avoid a lien that secures a
 
 Subsection (b) governs tax liens. This provision retains the rule of present bankruptcy law (§67(C)(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\]) that a tax lien on personal property, if not avoidable by the trustee, is subordinated in payment to unsecured claims having a higher priority than unsecured tax claims. Those other claims may be satisfied from the amount that would otherwise have been applied to the tax lien, and any excess of the amount of the lien is then applied to the tax. Any personal property (or sale proceeds) remaining is to be used to satisfy claims secured by liens which are junior to the tax lien. Any proceeds remaining are next applied to pay any unpaid balance of the tax lien.
 
-Subsection (d) specifies that any statutory lien whose priority is determined in the same manner as a tax lien is to be treated as a tax lien under this section, even if the lien does not secure a claim for taxes. An example is the ERISA \[29 U.S.C. 1001 et seq.\] lien.
+Subsection (d) specifies that any statutory lien whose priority is determined in the same manner as a tax lienis to be treated as a tax lien under this section, even if the lien does not secure a claim for taxes. An example is the ERISA \[29 U.S.C. 1001 et seq.\] lien.
 
 #### house report no. 95–595
 
-Subsection (b) governs tax liens. It is derived from section 67c(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\], without substantial modification in result. It subordinates tax liens to administrative expense and wage claims, and solves certain circuity of liens problems that arise in connection with the subordination. The order of distribution of property subject to a tax lien is as follows: First, to holders of liens senior to the tax lien; second, to administrative expenses, wage claims, and consumer creditors that are granted priority, but only to the extent of the amount of the allowed tax claim secured by the lien. In other words, the priority claimants step into the shoes of the tax collector. Third, to the tax claimant, to the extent that priority claimants did not use up his entire claim. Fourth, to junior lien holders. Fifth, to the tax collector to theextent that he was not paid under paragraph (3). Finally, any remaining property goes to the estate. The result of these provisions are to leave senior and junior lienors and holders of unsecured claims undisturbed. If there are any liens that are equal in status to the tax lien, they share pari passu with the tax lien under the distribution provisions of this subsection.
+Subsection (b) governs tax liens. It is derived from section 67c(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\], without substantial modification in result. It subordinates tax liens to administrative expense and wage claims, and solves certain circuity of liens problems that arise in connection with the subordination. The order of distribution of property subject to a tax lien is as follows: First, to holders of liens senior to the tax lien; second, to administrative expenses, wage claims, and consumer creditors that are granted priority, but only to the extent of the amount of the allowed tax claim secured by the lien. In other words, the priority claimants step into the shoes of the tax collector. Third, to the tax claimant, to the extent that priority claimants did not use up his entire claim. Fourth, to junior lien holders. Fifth, to the tax collector to the extent that he was not paid under paragraph (3). Finally, any remaining property goes to the estate. The result of these provisions are to leave senior and junior lienors and holders of unsecured claims undisturbed. If there are any liens that are equal in status to the tax lien, they share pari passu with the tax lien under the distribution provisions of this subsection.
 
 #### References in Text
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 303, 349, 502, 522, 550, 551, 764 of this title; title 26 sections 6327, 7437.
 

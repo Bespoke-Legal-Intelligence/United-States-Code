@@ -1,6 +1,6 @@
 ### §741. Purpose
 
-The purpose of this subchapter is to provide for the termination of Federal supervision over the trust and restricted property of certain tribes and bands of Indians located in the Stateof Utah and the individual members thereof, for the disposition of federally owned property acquired or withdrawn for the administration of the affairs of such Indians, and for a termination of Federal services furnished such Indians because of their status as Indians.
+The purpose of this subchapter is to provide for the termination of Federal supervision over the trust and restricted property of certain tribes and bands of Indians located in the State of Utah and the individual members thereof, for the disposition of federally owned property acquired or withdrawn for the administration of the affairs of such Indians, and for a termination of Federal services furnished such Indians because of their status as Indians.
 
 (Sept. 1, 1954, ch. 1207, §1, 68 Stat. 1099.)
 

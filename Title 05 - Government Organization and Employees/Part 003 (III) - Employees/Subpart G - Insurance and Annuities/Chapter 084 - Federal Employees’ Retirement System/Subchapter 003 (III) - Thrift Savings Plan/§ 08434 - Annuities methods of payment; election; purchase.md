@@ -68,7 +68,3 @@ Section 4(b) of Pub. L. 101–335 provided that: “The amendment made by subsec
 
 Amendment by section 5(b) of Pub. L. 101–335 effective Apr. 1, 1987, see section 5(d) of Pub. L. 101–335, set out as a note under section 8433 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8433, 8435, 8436 of this title.
-

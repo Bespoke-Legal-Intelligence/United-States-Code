@@ -65,10 +65,6 @@
 
 1989—Pub. L. 101–189, div. A, title VIII, §813(b), Nov. 29, 1989, 103 Stat. 1494, added item 1558.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 12 sections 481, 1422b, 1467, 1772b, 1817; title 42 section 292a.
-
 
 ---
 

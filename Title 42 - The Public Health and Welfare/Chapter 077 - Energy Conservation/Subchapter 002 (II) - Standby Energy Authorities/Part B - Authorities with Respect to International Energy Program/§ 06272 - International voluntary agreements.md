@@ -82,7 +82,7 @@ The Attorney General and the Federal Trade Commission shall each submit to the C
 
 #### (j) Defense in breach of contract actions
 
-In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an international energy supply emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section.
+In any action in any Federal or State court for breach of contract, there shall be available as adefense that the alleged breach of contract was caused predominantly by action taken during an international energy supply emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section.
 
 #### (k) Definitions
 
@@ -182,7 +182,7 @@ Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior 
 
 Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘allocation and information provisions of the international energy program’ means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program.”
 
-Subsec. (<i>l</i>). Pub. L. 105–177, §1(4)(G), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implementchapters III, IV, and V of the international energy program.”
+Subsec. (<i>l</i>). Pub. L. 105–177, §1(4)(G), amended subsec. (<i>l</i>) generally. Prior to amendment, subsec. (<i>l</i>) read as follows: “The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program.”
 
 1995—Subsec. (i). Pub. L. 104–66 substituted “, at such intervals as are appropriate based on significant developments and issues, reports” for “, at least once every 6 months, a report”.
 
@@ -229,8 +229,4 @@ Section 3 of Pub. L. 96–133, directed Secretary of Energy, in consultation wit
 #### Classification of Certain Information and Material
 
 For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 435 of Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6271, 6395 of this title.
 

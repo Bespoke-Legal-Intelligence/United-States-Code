@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(B) On September 5, 2002, a car bomb exploded in Kabul killing 32 and injuring 150 and on the same day a member of Kandahar Governor Sherzai's security team attempted to assassinate President Karzai.
 
-&emsp;(6) The violence and lawlessness may jeopardize the “Loya Jirga” process, undermine efforts to build a strong central government, severely impede reconstruction and the delivery of humanitarian assistance, and increasethe likelihood that parts of Afghanistan will once again become safe havens for al-Qaida, Taliban forces, and drug traffickers.
+&emsp;(6) The violence and lawlessness may jeopardize the “Loya Jirga” process, undermine efforts to build a strong central government, severely impede reconstruction and the delivery of humanitarian assistance, and increase the likelihood that parts of Afghanistan will once again become safe havens for al-Qaida, Taliban forces, and drug traffickers.
 
 &emsp;(7) The lack of security and lawlessness may also perpetuate the need for United States Armed Forces in Afghanistan and threaten the ability of the United States to meet its military objectives.
 
@@ -44,7 +44,7 @@ It should be the policy of the United States to support measures to help meet th
 
 #### (2) Implementation of strategy
 
-&emsp;Every 6 months after December 4, 2002, through January 1, 2007, the President shall submit to the congressional committees specified in paragraph (1) a report on the implementation of the strategies for meeting the immediate and long-term security needs of Afghanistan, which shall include the following elements—
+&emsp;Every 6 months after December 4, 2002, through January 1, 2010, the President shall submit to the congressional committees specified in paragraph (1) a report on the implementation of the strategies for meeting the immediate and long-term security needs of Afghanistan, which shall include the following elements—
 
 &emsp;&emsp;(A) since the previous report, the progress in recruiting, training, and deploying an Afghan National Army and police force, including the numbers and ethnic composition of recruits; the number of graduates from military and police training; the numbers of graduates retained by the Afghan National Army and police forces since the previous report; the numbers of graduates operationally deployed and to which areas of the country; the degree to which these graduates are assuming security responsibilities; whether Afghan army and police units are establishing effective central governmental authority over areas of the country, and which areas; and the numbers of instances of armed attacks against Afghan central governmental officials, United States or international officials, troops or aid workers, or between the armed forces of regional leaders;
 
@@ -62,13 +62,15 @@ It should be the policy of the United States to support measures to help meet th
 
 #### (d) Expansion of the International Security Assistance Force
 
-#### (1) Sense of Congress
+#### (1) Efforts to expand international peacekeeping and security operations in Afghanistan
 
-&emsp;Congress urges the President, in order to fulfill the objective of establishing security in Afghanistan, to take all appropriate measures to assist Afghanistan in establishing a secure environment throughout the country, including by—
+#### (A) Efforts
 
-&emsp;&emsp;(A) sponsoring in the United Nations Security Council a resolution authorizing an expansion of the International Security Assistance Force, or the establishment of a similar security force; and
+&emsp;&emsp;The President shall encourage, and, as authorized by law, enable other countries to actively participate in expanded international peacekeeping and security operations in Afghanistan, especially through the provision of military personnel for extended periods of time.
 
-&emsp;&emsp;(B) enlisting the European and other allies of the United States to provide forces for an expansion of the International Security Assistance Force in Afghanistan, or the establishment of a similar security force.
+#### (B) Reports
+
+&emsp;&emsp;The President shall prepare and transmit a report on the efforts carried out pursuant to subparagraph (A) to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives. The first report under this subparagraph shall be transmitted not later than 60 days after December 17, 2004, and subsequent reports shall be transmitted every 6 months thereafter and may be included in the report required by subsection (c)(2) of this section.
 
 #### (2) Authorization of appropriations
 
@@ -78,7 +80,15 @@ It should be the policy of the United States to support measures to help meet th
 
 &emsp;(C) Funds appropriated pursuant to subparagraph (A) shall be subject to the notification requirements under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\].
 
-(Pub. L. 107–327, title II, §206, Dec. 4, 2002, 116 Stat. 2808.)
+#### (e) United States policy relating to international peacekeeping and security operations
+
+It shall be the policy of the United States to make every effort to support the expansion of international peacekeeping and security operations in Afghanistan in order to—
+
+&emsp;(1) increase the area in which security is provided and undertake vital tasks related to promoting security, such as disarming warlords, militias, and irregulars, and disrupting opium production; and
+
+&emsp;(2) safeguard highways in order to allow the free flow of commerce and to allow materialassistance to the people of Afghanistan, and aid personnel in Afghanistan, to move more freely.
+
+(Pub. L. 107–327, title II, §206, Dec. 4, 2002, 116 Stat. 2808; Pub. L. 108–458, title VII, §7104(h)(2), (i), (k)(1), Dec. 17, 2004, 118 Stat. 3786, 3788.)
 
 #### References in Text
 
@@ -86,7 +96,31 @@ Public Law 107–206, referred to in subsec. (c)(1)(A), is Pub. L. 107–206, Au
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
+#### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–458, §7104(k)(1), substituted “2010” for “2007” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 108–458, §7104(i), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Congress urges the President, in order to fulfill the objective of establishing security in Afghanistan, to take all appropriate measures to assist Afghanistan in establishing a secure environment throughout the country, including by—
+
+&emsp;“(A) sponsoring in the United Nations Security Council a resolution authorizing an expansion of the International Security Assistance Force, or the establishment of a similar security force; and
+
+&emsp;“(B) enlisting the European and other allies of the United States to provide forces for an expansion of the International Security Assistance Force in Afghanistan, or the establishment of a similar security force.”
+
+Subsec. (e). Pub. L. 108–458, §7104(h)(2), added subsec. (e).
+
 #### Delegation of Functions
 
 For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
+#### United States Policy Relating to Disarmament of Private Militias
+
+Pub. L. 108–458, title VII, §7104(h)(1), Dec. 17, 2004, 118 Stat. 3786, provided that:
+
+“(A)
+
+In general.—It shall be the policy of the United States to take immediate steps to provide active support for the disarmament, demobilization, and reintegration of armed soldiers, particularly child soldiers, in Afghanistan, in close consultation with the President of Afghanistan.
+
+“(B)
+
+Report.—The report required under section 206(c)(2) of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7536(c)(2)) shall include a description of the progress to implement paragraph (1).”
 

@@ -4,7 +4,3 @@ Each person awarded a fellowship under this chapter shall receive a stipend as d
 
 (Pub. L. 102–281, title IV, §425, May 13, 1992, 106 Stat. 143.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5705 of this title.
-

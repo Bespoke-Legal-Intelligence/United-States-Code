@@ -2,27 +2,29 @@
 
 #### (a) Establishment
 
-The Foundation and the National Aeronautics and Space Administration shall jointly establish an Astronomy and Astrophysics Advisory Committee (in this section referred to as the “Advisory Committee”).
+The Foundation, the National Aeronautics and Space Administration, and the Department of Energy shall jointly establish an Astronomy and Astrophysics Advisory Committee (in this section referred to as the “Advisory Committee”).
 
 #### (b) Duties
 
 The Advisory Committee shall—
 
-&emsp;(1) assess, and make recommendations regarding, the coordination of astronomy and astrophysics programs of the Foundation and the National Aeronautics and Space Administration;
+&emsp;(1) assess, and make recommendations regarding, the coordination of astronomy and astrophysics programs of the Foundation, the National Aeronautics and Space Administration, and the Department of Energy;
 
-&emsp;(2) assess, and make recommendations regarding, the status of the activities of the Foundation and the National Aeronautics and Space Administration as they relate to the recommendations contained in the National Research Council's 2001 report entitled “Astronomy and Astrophysics in the New Millennium”, and the recommendations contained in subsequent National Research Council reports of a similar nature; and
+&emsp;(2) assess, and make recommendations regarding, the status of the activities of the Foundation, the National Aeronautics and Space Administration, and the Department of Energy as they relate to the recommendations contained in the National Research Council's 2001 report entitled “Astronomy and Astrophysics in the New Millennium”, and the recommendations contained in subsequent National Research Council reports of a similar nature; and
 
-&emsp;(3) not later than March 15 of each year, transmit a report to the Director, the Administrator of the National Aeronautics and Space Administration, and the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate on the Advisory Committee's findings and recommendations under paragraphs (1) and (2).
+&emsp;(3) not later than March 15 of each year, transmit a report to the Director, the Administrator of the National Aeronautics and Space Administration, the Secretary of Energy, the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate on the Advisory Committee's findings and recommendations under paragraphs (1) and (2).
 
 #### (c) Membership
 
 The Advisory Committee shall consist of 13 members, none of whom shall be a Federal employee, including—
 
-&emsp;(1) 5 members selected by the Director;
+&emsp;(1) 4 members selected by the Director;
 
-&emsp;(2) 5 members selected by the Administrator of the National Aeronautics and Space Administration; and
+&emsp;(2) 4 members selected by the Administrator of the National Aeronautics and Space Administration;
 
-&emsp;(3) 3 members selected by the Director of the Office of Science and Technology Policy.
+&emsp;(3) 3 members selected by the Secretary of Energy; and
+
+&emsp;(4) 2 members selected by the Director of the Office of Science and Technology Policy.
 
 #### (d) Selection process
 
@@ -34,7 +36,7 @@ The Advisory Committee shall select a chairperson from among its members.
 
 #### (f) Coordination
 
-The Advisory Committee shall coordinate with the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities.
+The Advisory Committee shall coordinate with other Federal advisory committees that advise Federal agencies that engage in related research activities.
 
 #### (g) Compensation
 
@@ -52,7 +54,7 @@ A majority of the members serving on the Advisory Committee shall constitute a q
 
 Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee.
 
-(Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065.)
+(Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065; Pub. L. 108–423, §5(a), Nov. 30, 2004, 118 Stat. 2402.)
 
 #### References in Text
 
@@ -61,6 +63,22 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+2004—Subsecs. (a), (b)(1), (2). Pub. L. 108–423, §5(a)(1), substituted “, the National Aeronautics and Space Administration, and the Department of Energy” for “and the National Aeronautics and Space Administration”.
+
+Subsec. (b)(3). Pub. L. 108–423, §5(a)(2), substituted “Administration, the Secretary of Energy,” for “Administration, and”.
+
+Subsec. (c)(1), (2). Pub. L. 108–423, §5(a)(3)(A), substituted “4” for “5”.
+
+Subsec. (c)(3), (4). Pub. L. 108–423, §5(a)(3)(B)–(D), added par. (3) and redesignated former par. (3) as (4) and substituted “2” for “3”.
+
+Subsec. (f). Pub. L. 108–423, §5(a)(4), substituted “other Federal advisory committees that advise Federal agencies that engage in related research activities” for “the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–423, §5(b), Nov. 30, 2004, 118 Stat. 2402, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on March 15, 2005.”
 
 #### Definitions
 

@@ -38,7 +38,3 @@ Not later than the date that is 18 months after October 29, 2002, the Commission
 
 (Pub. L. 107–252, title II, §242, Oct. 29, 2002, 116 Stat. 1688.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15342 of this title.
-

@@ -4,7 +4,3 @@ The Secretary may accept donations of money or services for expenditure or emplo
 
 (Pub. L. 101–337, §5, July 27, 1990, 104 Stat. 381.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 19jj–3 of this title.
-

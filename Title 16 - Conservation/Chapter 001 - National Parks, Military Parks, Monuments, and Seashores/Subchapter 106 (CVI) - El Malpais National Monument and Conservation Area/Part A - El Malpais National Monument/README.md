@@ -1,9 +1,5 @@
 Part A—El Malpais National Monument
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 460uu–12 of this title.
-
 
 ---
 

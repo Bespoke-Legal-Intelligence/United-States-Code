@@ -48,7 +48,7 @@ If the President determines that a State or local government has identified natu
 
 &emsp;Technical and financial assistance provided under this section—
 
-&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures that are cost-effective and are described in proposals approved by the President under this section; and
+&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures thatare cost-effective and are described in proposals approved by the President under this section; and
 
 &emsp;&emsp;(B) may be used—
 
@@ -64,7 +64,7 @@ If the President determines that a State or local government has identified natu
 
 #### (f) Allocation of funds
 
-The amount of financial assistance made available to a State (including amounts madeavailable to local governments of the State) under this section for a fiscal year—
+The amount of financial assistance made available to a State (including amounts made available to local governments of the State) under this section for a fiscal year—
 
 &emsp;(1) shall be not less than the lesser of—
 
@@ -154,7 +154,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amounts required to be transferred to the Fund under this subsection shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
+&emsp;&emsp;&emsp;The amounts required to be transferred to the Fund under this subsection shall betransferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
 
 #### (ii) Adjustments
 
@@ -168,7 +168,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (1) Definition of multihazard advisory map
 
-&emsp;In this subsection, the term “multihazard advisory map” means a map on which hazard data concerning each type of natural disasteris identified simultaneously for the purpose of showing areas of hazard overlap.
+&emsp;In this subsection, the term “multihazard advisory map” means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
 
 #### (2) Development of maps
 
@@ -200,13 +200,19 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### (m) Termination of authority
 
-The authority provided by this section terminates December 31, 2003.
+The authority provided by this section terminates December 31, 2005.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553.)
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (g)(5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+#### Amendments
+
+2004—Subsec. (m). Pub. L. 108–447 substituted “2005” for “2004”.
+
+Pub. L. 108–199 substituted “2004” for “2003”.
 
 #### Findings and Purpose
 

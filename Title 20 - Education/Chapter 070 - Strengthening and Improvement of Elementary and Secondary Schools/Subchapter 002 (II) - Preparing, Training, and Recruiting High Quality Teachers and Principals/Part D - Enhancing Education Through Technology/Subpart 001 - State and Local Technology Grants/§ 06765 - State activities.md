@@ -26,7 +26,3 @@ From funds made available under section 6762(a)(1) of this title, a State educat
 
 (Pub. L. 89–10, title II, §2415, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1679.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
-

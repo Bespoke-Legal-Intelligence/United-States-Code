@@ -4,7 +4,3 @@ In the administration of the Grand Canyon National Park, as enlarged by sections
 
 (Pub. L. 93–620, §6, Jan. 3, 1975, 88 Stat. 2090.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a to 228d, 228f to 228i, 228j of this title.
-

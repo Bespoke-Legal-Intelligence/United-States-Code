@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall enter into a contract with a nongovernmental organization described insubsection (b) of this section to establish and maintain a clearinghouse to provide information to nongovernmental groups located throughout the United States that assist low-income individuals or communities regarding food assistance, self-help activities to aid individuals in becoming self-reliant, and other activities that empower low-income individuals or communities to improve the lives of low-income individuals and reduce reliance on Federal, State, or local governmental agencies for food or other assistance.
+The Secretary shall enter into a contract with a nongovernmental organization described in subsection (b) of this section to establish and maintain a clearinghouse to provide information to nongovernmental groups located throughout the United States that assist low-income individuals or communities regarding food assistance, self-help activities to aid individuals in becoming self-reliant, and other activities that empower low-income individuals or communities to improve the lives of low-income individuals and reduce reliance on Federal, State, or local governmental agencies for food or other assistance.
 
 #### (b) Nongovernmental organization
 
@@ -32,11 +32,13 @@ The Secretary shall establish fair and reasonable auditing procedures regarding 
 
 #### (d) Funding
 
-Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2005 through 2009. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
-(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731; amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157.)
+(June 4, 1946, ch. 281, §26, as added Pub. L. 103–448, title I, §123, Nov. 2, 1994, 108 Stat. 4731;amended Pub. L. 105–336, title I, §§103(c)(2), 112, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §128, June 30, 2004, 118 Stat. 767.)
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–265, in first sentence, substituted “1998,” for “1998, and” and “through 2004, and $250,000 for each of fiscal years 2005 through 2009” for “through 2003”.
 
 1998—Subsec. (d). Pub. L. 105–336 substituted “$100,000 for fiscal year 1998, and $166,000 for each of fiscal years 1999 through 2003” for “and $100,000 for fiscal year 1998” in first sentence and inserted “, without further appropriation” before period at end of second sentence.
 

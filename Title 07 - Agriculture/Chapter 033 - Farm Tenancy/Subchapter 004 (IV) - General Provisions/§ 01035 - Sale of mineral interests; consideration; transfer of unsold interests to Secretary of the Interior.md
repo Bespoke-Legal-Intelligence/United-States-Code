@@ -8,7 +8,3 @@ In areas where the Secretary determines after consultation with the Department o
 
 Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1033, 1037, 1038, 1039 of this title.
-

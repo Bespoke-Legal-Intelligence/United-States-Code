@@ -38,7 +38,7 @@ The least-cost energy strategy shall also include—
 
 In developing the least-cost energy strategy, the Secretary shall give full consideration to—
 
-&emsp;(1) the relative costs of each energy and energy efficiency resource based upon a comparison of all direct and quantifiable net costs for the resource over its available life, including the cost of production, transportation, distribution, utilization, waste management, environmental compliance, and, in the case of imported energy resources, maintaining access to foreign sources of supply; and
+&emsp;(1) the relative costs of each energy and energy efficiency resource based upon a comparison of all direct and quantifiable net costs forthe resource over its available life, including the cost of production, transportation, distribution, utilization, waste management, environmental compliance, and, in the case of imported energy resources, maintaining access to foreign sources of supply; and
 
 &emsp;(2) the economic, energy, social, environmental, and competitive consequences resulting from the establishment of any particular order of Federal priority as determined under subsection (d) of this section.
 
@@ -77,8 +77,4 @@ The Secretary shall provide for a period of public review and comment of the lea
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original “this title” meaning title XVI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2999, which enacted this subchapter and repealed sections 7361 to 7364 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13471 of this title.
 

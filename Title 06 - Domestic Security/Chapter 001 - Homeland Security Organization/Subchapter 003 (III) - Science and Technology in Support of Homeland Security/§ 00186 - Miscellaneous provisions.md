@@ -18,7 +18,3 @@ Not later than 60 days before effecting any transfer of Department of Energy lif
 
 (Pub. L. 107–296, title III, §306, Nov. 25, 2002, 116 Stat. 2168.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 457 of this title.
-

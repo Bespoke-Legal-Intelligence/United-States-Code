@@ -2,7 +2,7 @@
 
 (a) Except as provided in section 3628 of this title, the United States district courts shall have original but not exclusive jurisdiction over all actions brought by or against the Postal Service. Any action brought in a State court to which the Postal Service is a party may be removed to the appropriate United States district court under the provisions of chapter 89 of title 28.
 
-(b) Unless otherwise provided in this title, the provisions of title 28 relating to service of process, venue, and limitations of time for bringing action in suits in which the United States, its officers, or employees are parties, and the rules of procedure adopted under title 28 for suits in which the United States, its officers, or employees are parties, shall apply in like manner to suits in which the Postal Service, its officers, or employees are parties.
+(b) Unless otherwise provided in this title, the provisions of title 28 relating to service of process, venue, and limitations of time for bringing action in suits in which the United States, its officers, or employees are parties, and the rules of procedure adopted under title 28 for suits in which the United States, its officers, or employees are parties, shall apply in like manner tosuits in which the Postal Service, its officers, or employees are parties.
 
 (c) The provisions of chapter 171 and all other provisions of title 28 relating to tort claims shall apply to tort claims arising out of activities of the Postal Service.
 
@@ -37,8 +37,4 @@ The words “Notwithstanding the other provisions of this section” are omitted
 #### Effective Date
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3007, 3012 of this title.
 

@@ -12,7 +12,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizes that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+&emsp;It is the purpose of this section to require the maintenance of appropriate types of records by insured depository institutions in the United States where such records have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, recognizing that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 #### (b) Recordkeeping regulations
 
@@ -94,13 +94,15 @@ The provisions of this section shall not apply to any foreign bank except with r
 
 &emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of section 5321 of title 31.
 
-(Sept. 21, 1950, ch. 967, §2\[21\], as added Pub. L. 91–508, title I, §101, Oct. 26, 1970, 84 Stat. 1114; amended Pub. L. 95–369, §6(c)(29), Sept. 17, 1978, 92 Stat. 620; Pub. L. 100–690, title VI, §6185(d)(1), Nov. 18, 1988, 102 Stat. 4356; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 102–550, title XV, §§1515(a), (b), 1535(b), Oct. 28, 1992, 106 Stat. 4058, 4059, 4066; Pub. L. 103–325, title VI, §602(a)(52)–(54), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 107–56, title III, §358(d), Oct. 26, 2001, 115 Stat. 326.)
+(Sept. 21, 1950, ch. 967, §2\[21\], as added Pub. L. 91–508, title I, §101, Oct. 26, 1970, 84 Stat. 1114; amended Pub. L. 95–369, §6(c)(29), Sept. 17, 1978, 92 Stat. 620; Pub. L. 100–690, title VI, §6185(d)(1), Nov. 18, 1988, 102 Stat. 4356; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 102–550, title XV, §§1515(a), (b), 1535(b), Oct. 28, 1992, 106 Stat. 4058, 4059, 4066; Pub. L. 103–325, title VI, §602(a)(52)–(54), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 107–56, title III, §358(d), Oct. 26, 2001, 115 Stat. 326; Pub. L. 108–458, title VI, §6203(k), Dec. 17, 2004, 118 Stat. 3747.)
 
 #### Codification
 
 In subsec. (e), “subchapter II of chapter 53 of title 31” was substituted for “the Currency and Foreign Transactions Reporting Act \[31 U.S.C. 1051 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–458 substituted “recognizing that” for “recognizes that”.
 
 2001—Subsec. (a). Pub. L. 107–56 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -125,6 +127,10 @@ Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted “, or any person who w
 1988—Subsec. (j). Pub. L. 100–690 added subsec. (j).
 
 1978—Subsec. (i). Pub. L. 95–369 added subsec. (i).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -151,8 +157,4 @@ Administrative procedure and judicial review provisions of subchapter II (§551 
 #### Responsibility for Compliance
 
 Responsibility for the Secretary of the Treasury to assure compliance with requirements of this section, and Secretary's authority to delegate such responsibility to the appropriate bank supervisory agency, or other supervisory agency, see section 1958 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1957, 1958, 1959 of this title; title 31 sections 310, 5313, 5318, 5321, 5322, 5324.
 

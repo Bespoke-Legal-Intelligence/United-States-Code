@@ -1,8 +1,8 @@
 ### §68–2. Appropriations for contingent expenses of Senate; restrictions
 
-Appropriations made for contingent expenses of the Senate shall not be used for the payment of personal services except upon the express and specific authorization of the Senate in whose behalf such services are rendered. Nor shall such appropriations be used for any expenses not intimately and directly connected with the routine legislative business of the Senate, and the General Accounting Office shall apply the provisions of this section in the settlement of the accounts of expenditures from said appropriations incurred for services or materials.
+Appropriations made for contingent expenses of the Senate shall not be used for the payment of personal services except upon the express and specific authorization of the Senate in whose behalf such services are rendered. Nor shall such appropriations be used for any expenses not intimately and directly connected with the routine legislative business of the Senate, and the Government Accountability Office shall apply the provisions of this section in the settlement of the accounts of expenditures from said appropriations incurred for services or materials.
 
-(Feb. 14, 1902, ch. 17, 32 Stat. 26; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; Pub. L. 104–186, title II, §204(45), Aug. 20, 1996, 110 Stat. 1737.)
+(Feb. 14, 1902, ch. 17, 32 Stat. 26; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; Pub. L. 104–186, title II, §204(45), Aug. 20, 1996, 110 Stat. 1737; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Codification
 
@@ -12,9 +12,9 @@ Section was formerly classified to section 671 of Title 31 prior to the general 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 amended provisions relating to appropriations for expenses of House. See Codification note above.
+1996—Pub. L. 104–186 amended provisions relating to appropriations for expenses of House. See Codification note above.
 
 #### Transfer of Functions
 
-“General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
+“Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
 

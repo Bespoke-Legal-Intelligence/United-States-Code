@@ -58,7 +58,7 @@ Subsec. (c)(4). Pub. L. 98–497 redesignated par. (5) as (4). Former par. (4), 
 
 Subsec. (c)(5). Pub. L. 98–497 redesignated par. (7) as (5) and struck out “the burden placed on the Federal Government by unnecessary paperwork” after “Congress on”, “creation” before “maintenance”, and “and use, and disposition” after “maintenance”. Former par. (5) redesignated (4).
 
-Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out “with particular attention given tostandards and procedures governing records creation” at end. Former par. (6) redesignated (3).
+Subsec. (c)(6). Pub. L. 98–497 redesignated par. (8) as (6) and struck out “with particular attention given to standards and procedures governing records creation” at end. Former par. (6) redesignated (3).
 
 Subsec. (c)(7). Pub. L. 98–497 redesignated par. (9) as (7) and substituted “surveys of the records and the records management programs and practices within and between Federal agencies” for “records management studies which involve a review of the programs and practices of more than one Federal agency and which examine interaction among and relationships between Federal agencies with respect to records and records management”. Former par. (7) redesignated (5).
 
@@ -81,8 +81,4 @@ Section 5 of Pub. L. 96–511 provided: “This Act \[enacting chapter 35 of thi
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to appropriate oversight and appropriations committees of Congress under subsec. (c)(8) of this section is listed as the 9th item on page 173 and as the 5th item on page 180), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2106, 3102 of this title.
 

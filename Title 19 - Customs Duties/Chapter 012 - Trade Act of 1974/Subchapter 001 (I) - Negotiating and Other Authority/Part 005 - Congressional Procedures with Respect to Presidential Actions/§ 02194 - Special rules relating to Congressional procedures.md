@@ -16,7 +16,7 @@ For purposes of sections 2253(c) and 2437(c)(2) of this title, the 90-day period
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–36 substituted “For purposes of sections 2253(c) and 2437(c)(2) of this title, the 90-day period” for “For purposes of sections 2253(c), and 2437(c)(2) of this title, the 90-day period” in introductory provisions.
+1999—Subsec. (b). Pub. L. 106–36 substituted “For purposes of sections 2253(c) and 2437(c)(2) of this title, the90-day period” for “For purposes of sections 2253(c), and 2437(c)(2) of this title, the 90-day period” in introductory provisions.
 
 1994—Subsec. (a). Pub. L. 103–465 struck out reference to section 1303(e) of this title.
 
@@ -33,8 +33,4 @@ Amendment by Pub. L. 103–465 effective on the effective date of title II of Pu
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 903 of Pub. L. 96–39, set out as an Effective Date note under section 2411 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2192, 2432, 2437, 3535 of this title.
 

@@ -70,7 +70,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 &emsp;The Secretary of Agriculture (referred to in this subsection as the “Secretary”) shall implement, in coordination with the Commissioner of Customs, a program requiring that end-use certificates be included in the documentation covering the entry into, or the withdrawal from a warehouse for consumption in, the customs territory of the United States—
 
-&emsp;&emsp;(A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States (referred to in this subsection as “United States-produced wheat”); and
+&emsp;&emsp;(A) of any wheat that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of wheat that is a product of the United States\(referred to in this subsection as “United States-produced wheat”); and
 
 &emsp;&emsp;(B) of any barley that is a product of any foreign country or instrumentality that requires, as of the effective date of this subsection, end-use certificates for imports of barley that is a product of the United States (referred to in this subsection as “United States-produced barley”).
 
@@ -98,7 +98,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (5) Report to Congress
 
-&emsp;The Secretary shall not suspend the requirements established under paragraph (1) under circumstances identified in paragraph (3) before the Secretary submits a report to Congress detailing the determination made underparagraph (3) and the reasons for making the determination.
+&emsp;The Secretary shall not suspend the requirements established under paragraph (1) under circumstances identified in paragraph (3) before the Secretary submits a report to Congress detailing the determination made under paragraph (3) and the reasons for making the determination.
 
 #### (6) Compliance
 

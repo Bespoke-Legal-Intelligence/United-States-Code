@@ -4,7 +4,3 @@ Nothing in sections 421a to 421h of this title shall be construed to repeal or l
 
 (July 4, 1955, ch. 271, §7, as added Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 806.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421a to 421f, 421h, 502 of this title.
-

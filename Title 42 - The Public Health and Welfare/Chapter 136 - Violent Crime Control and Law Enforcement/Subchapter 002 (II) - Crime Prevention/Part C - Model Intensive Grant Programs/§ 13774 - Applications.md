@@ -8,7 +8,3 @@ To request a grant under this part the chief local elected official of an area s
 
 (Pub. L. 103–322, title III, §30304, Sept. 13, 1994, 108 Stat. 1845.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

@@ -52,7 +52,7 @@
 
 #### (4) Authorized travel and employment during temporary residence
 
-&emsp;During the period an alien is in lawful temporary resident status granted under this subsection, the alien has the right to travel abroad (including commutation from a residence abroad) and shall be granted authorization to engage in employment in the United States and shall be provided an “employment authorized” endorsement or other appropriate work permit, in the same manner as for aliens lawfully admitted for permanent residence.
+&emsp;During the period an alien is in lawful temporary resident status granted under this subsection, the alien has the right to travel abroad (including commutation from a residence abroad) and shall be granted authorization to engage in employment in the UnitedStates and shall be provided an “employment authorized” endorsement or other appropriate work permit, in the same manner as for aliens lawfully admitted for permanent residence.
 
 #### (5) In general
 
@@ -86,7 +86,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An alien may establish that he meets the requirement of subsection (a)(1)(B)(ii) of this section through government employment records, records supplied by employers or collective bargaining organizations, and such other reliable documentation as thealien may provide. The Attorney General shall establish special procedures to credit properly work in cases in which an alien was employed under an assumed name.
+&emsp;&emsp;An alien may establish that he meets the requirement of subsection (a)(1)(B)(ii) of this section through government employment records, records supplied by employers or collective bargaining organizations, and such other reliable documentation as the alien may provide. The Attorney General shall establish special procedures to credit properly work in cases in which an alien was employed under an assumed name.
 
 #### (B) Documentation of work history
 
@@ -272,7 +272,7 @@ Subsec. (b)(6). Pub. L. 104–208, §623(b), amended par. (6) generally, substit
 
 Pub. L. 104–208, §384(d)(1), substituted “Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each violation.” for “Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be fined in accordance with title 18 or imprisoned not more than five years, or both.” in concluding provisions.
 
-Pub. L. 104–132, §431(b)(2), inserted before “Anyone who uses” in concluding provisions “Notwithstanding the preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discoverinformation leading to the location or identity of the alien.”
+Pub. L. 104–132, §431(b)(2), inserted before “Anyone who uses” in concluding provisions “Notwithstanding the preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discover information leading to the location or identity of the alien.”
 
 Subsec. (e)(3)(A). Pub. L. 104–208, §308(g)(2)(B), inserted “(as in effect before October 1, 1996)” after “section 1105a of this title”.
 
@@ -349,8 +349,4 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Commission on Agricultural Workers
 
 Section 304 of Pub. L. 99–603, as amended by Pub. L. 101–649, title VII, §704, Nov. 29, 1990, 104 Stat. 5086; Pub. L. 102–232, title III, §308(c), Dec. 12, 1991, 105 Stat. 1757, established Commission on Agricultural Workers to evaluate special agricultural worker provisions and labor markets in agricultural industry, required Commission to report to Congress not later than six years after Nov. 6, 1986, on its reviews, and provided that Commission terminate at the end of the 75-month period beginning with the month after November 1986.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1151, 1255, 1324b of this title; title 42 sections 408, 672.
 

@@ -26,7 +26,3 @@ A prior section 1097, Pub. L. 89–329, title IV, §490, as added Pub. L. 96–3
 
 1992—Pub. L. 102–325 amended section generally, inserting provisions relating to attempted offenses, wherever appearing, and in subsec. (a) inserting provisions relating to failure to refund and substituting provisions relating to $20,000 and $5,000 fines for provisions relating to $10,000 and $1,000 fines, respectively, in subsec. (b) substituting provisions relating to $10,000 fines for provisions relating to $1,000 fines, in subsec. (c) substituting provisions relating to $10,000 fines for provisions relating $1,000 fines, and in subsec. (d) substituting provisions relating to $20,000 fines for provisions relating to $10,000 fines.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1072 of this title.
-

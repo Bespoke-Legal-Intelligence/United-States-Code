@@ -22,7 +22,3 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5520a, 7342, 8311, 8331, 8401, 8701, 8901 of this title.
-

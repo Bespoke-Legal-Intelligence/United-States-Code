@@ -30,7 +30,3 @@ A prior section 561, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619
 
 2002—Subsec. (i). Pub. L. 107–273 struck out subsec. (i) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the functions of the Service.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 562 of this title.
-

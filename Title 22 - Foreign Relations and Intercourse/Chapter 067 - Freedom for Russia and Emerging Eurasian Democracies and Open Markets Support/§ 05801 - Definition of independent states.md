@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 33
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–199, §1, Dec. 17, 1993, 107 Stat. 2317, provided that: “This Act \[amending sections 295, 2301, 2364, 2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, section 4101 of Title 15, Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, section 951 of Title 18, Crimes and Criminal Procedure, section 783 of Title 50, War and National Defense, and sections 2401 and 2402 of Title 50, Appendix, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and section 2403–1 of Title 50, Appendix, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and section 2402 of Title 50, Appendix, amending provisions set out as notes under section 4501 of this title, section 113 of Title 10, section 2901 of Title 15, and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, section 1307 of Title 19, Customs Duties, and section 781 of Title 50\] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
+Pub. L. 103–199, §1, Dec. 17, 1993, 107 Stat. 2317, provided that: “This Act \[amending sections 295, 2301, 2364,2370, 2460, 2461, 2578, 2591, 2592, 2595, 2799c, 2799d, 4501 to 4504, 4702, and 4901 of this title, section 4101 of Title 15, Commerce and Trade, sections 1151 and 1152 of Title 16, Conservation, section 951 of Title 18, Crimes and Criminal Procedure, section 783 of Title 50, War and National Defense, and sections 2401 and 2402 of Title 50, Appendix, repealing sections 254c–2, 2592a, and 2592b of this title, sections 781, 782, 784, 785, 788 to 795, and 798 of Title 50, and section 2403–1 of Title 50, Appendix, enacting provisions set out as notes under this section, sections 113 and 2431 of Title 10, Armed Forces, and section 2402 of Title 50, Appendix, amending provisions set out as notes under section 4501 of this title, section 113 of Title 10, section 2901 of Title 15, and section 1003 of former Title 40, Public Buildings, Property, and Works, and repealing provisions set out as notes under sections 287, 2151, 2293, 2458, and 4301 of this title, section 1307 of Title 19, Customs Duties, and section 781 of Title 50\] may be cited as the ‘Act For Reform In Emerging New Democracies and Support and Help for Improved Partnership with Russia, Ukraine, and Other New Independent States’ or as the ‘FRIENDSHIP Act’.”
 
 #### Short Title
 
@@ -81,12 +81,4 @@ Findings and Affirmation.—The Congress finds and affirms that provisions such 
 #### Definitions for Pub. L. 103–199
 
 Pub. L. 103–199, §3, Dec. 17, 1993, 107 Stat. 2318, provided that: “As used in this Act \[see Short Title of 1993 Amendment note above\] (including the amendments made by this Act), the terms ‘independent states of the former Soviet Union’ and ‘independent states’ have the meaning given those terms by section 3 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (22 U.S.C. 5801).”
-
-#### Act Referred to in Other Sections
-
-The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, is referred to in sections 2152a, 2296e, 2349bb–4, 2421d, 2460, 5958 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 262d, 282m, 2295b, 6036 of this title; title 2 section 1151; title 20 section 6715; title 50 sections 2302, 2357a.
 

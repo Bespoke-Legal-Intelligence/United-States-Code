@@ -40,7 +40,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) In general
 
-&emsp;Each recipient shall assure that contributions equal to not less than 33 percent of thegrant amounts made available under this section, excluding any amounts provided for post-sale operating expense, shall be provided from non-Federal sources to carry out the homeownership program.
+&emsp;Each recipient shall assure that contributions equal to not less than 33 percent of the grant amounts made available under this section, excluding any amounts provided for post-sale operating expense, shall be provided from non-Federal sources to carry out the homeownership program.
 
 #### (2) Form
 
@@ -84,7 +84,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
-&emsp;&emsp;(H) the proposed sales price, the basis for such price determination, and terms to an entity, if any, that will purchase the property for resale to eligible families;
+&emsp;&emsp;(H) the proposed sales price, the basis for such price determination, and terms to anentity, if any, that will purchase the property for resale to eligible families;
 
 &emsp;&emsp;(I) the proposed sales prices, if any, and terms to eligible families;
 
@@ -110,7 +110,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(5) national geographic diversity among housing for which applicants are selected to receive assistance;
 
-&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assistedunder this title <sup>5</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
+&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assisted under this title <sup>5</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
 
 &emsp;(7) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the <sup>6</sup> part in an effective and efficient manner.
 
@@ -137,10 +137,6 @@ This title, referred to in subsec. (d)(6), means title IV of Pub. L. 101–625, 
 #### Amendments
 
 1992—Subsec. (b)(4) to (14). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (13) as (5) to (14), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12875 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

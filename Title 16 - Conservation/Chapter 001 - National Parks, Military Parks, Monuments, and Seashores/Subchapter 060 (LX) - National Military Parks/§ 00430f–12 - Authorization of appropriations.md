@@ -4,7 +4,3 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 106–271, §8, Sept. 22, 2000, 114 Stat. 796.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430f–6, 430f–7, 430f–10, 430f–11 of this title.
-

@@ -8,7 +8,3 @@ The legislature may authorize such authorities to issue bonds or other obligatio
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 916 of this title.
-

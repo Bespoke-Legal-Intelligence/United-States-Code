@@ -1,9 +1,5 @@
 ### SUBCHAPTER V–A—CABLE COMMUNICATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 152 of this title; title 18 section 1468.
-
 
 ---
 

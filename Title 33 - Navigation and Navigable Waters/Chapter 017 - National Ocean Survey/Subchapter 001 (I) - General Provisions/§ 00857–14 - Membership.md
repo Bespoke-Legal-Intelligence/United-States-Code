@@ -12,7 +12,7 @@ The members of the Committee, who may not be full-time officers or employees of 
 
 (1) The term of office of a member of the Committee shall be 3 years; except that of the original appointees, 6 shall be appointed for a term to expire on July 1, 1979, 6 shall be appointed for a term to expire on July 1, 1980, and 6 shall be appointed for a term to expire on July 1, 1981.
 
-(2) Any individual appointed to fill a vacancy occurring before the expiration of the term for which his or her predecessor was appointed shall be appointed only for the remainder of suchterm. No individual may be reappointed to the Committee for more than one additional 3-year term. A member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office. The terms of office for members first appointed after July 5, 1977, shall begin on July 1, 1977.
+(2) Any individual appointed to fill a vacancy occurring before the expiration of the term for which his or her predecessor was appointed shall be appointed only for the remainder of such term. No individual may be reappointed to the Committee for more than one additional 3-year term. A member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office. The terms of office for members first appointed after July 5, 1977, shall begin on July 1, 1977.
 
 #### (c) Chairman
 
@@ -41,8 +41,4 @@ Provisions similar to those contained in this section, which related to membersh
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 857–13, 857–17, 857–18 of this title.
 

@@ -42,9 +42,5 @@ In order to provide advice and counsel concerning arts education, the Chairperso
 
 Section effective Oct. 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 960 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

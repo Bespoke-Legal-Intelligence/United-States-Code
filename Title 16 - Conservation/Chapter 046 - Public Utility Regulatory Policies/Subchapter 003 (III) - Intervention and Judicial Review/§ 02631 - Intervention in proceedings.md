@@ -6,7 +6,7 @@ In order to initiate and participate in the consideration of one or more of the 
 
 #### (b) Access to information
 
-Any intervenor or participant in a proceeding described in subsection (a) of this section shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his intervention or participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State regulatory authority (in the case of proceedings concerning electric utilities for which it has ratemaking authority) or by the nonregulated electric utility (in the case of a proceeding conducted by a nonregulated electric utility).
+Any intervenor or participant in a proceeding described in subsection (a) of this section shall have access to information available to other parties to the proceeding if such information isrelevant to the issues to which his intervention or participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State regulatory authority (in the case of proceedings concerning electric utilities for which it has ratemaking authority) or by the nonregulated electric utility (in the case of a proceeding conducted by a nonregulated electric utility).
 
 #### (c) Effective date; procedures
 
@@ -17,8 +17,4 @@ Any intervention or participation under this section, in any proceeding commence
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted this chapter and amended sections 6801 to 6808 of Title 42, The Public Health and Welfare. For complete classification of title I to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2621, 2622, 2633, 2634 of this title.
 

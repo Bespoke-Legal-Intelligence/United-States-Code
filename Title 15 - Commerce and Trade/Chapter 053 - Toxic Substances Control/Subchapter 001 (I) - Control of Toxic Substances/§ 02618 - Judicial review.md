@@ -22,7 +22,7 @@
 
 #### (b) Additional submissions and presentations; modifications
 
-If in an action under this section to review a rule the petitioner or the Administrator applies to the court for leave to make additional oral submissions or written presentations respecting such rule and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Administrator, the court may order the Administrator to provide additional opportunity to make such submissions and presentations. The Administrator may modify or set aside the rule being reviewed or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
+If in an action under this section to review a rule the petitioner or the Administrator appliesto the court for leave to make additional oral submissions or written presentations respecting such rule and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Administrator, the court may order the Administrator to provide additional opportunity to make such submissions and presentations. The Administrator may modify or set aside the rule being reviewed or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
 #### (c) Standard of review
 
@@ -71,10 +71,6 @@ The remedies as provided in this section shall be in addition to and not in lieu
 Subsec. (a)(3)(B). Pub. L. 102–550, §1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule”.
 
 1986—Subsec. (a)(1)(A). Pub. L. 99–519 inserted reference to subchapter II of this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2605 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

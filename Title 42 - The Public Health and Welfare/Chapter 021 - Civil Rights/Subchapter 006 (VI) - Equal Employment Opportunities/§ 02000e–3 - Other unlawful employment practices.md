@@ -16,7 +16,3 @@ It shall be an unlawful employment practice for an employer, labor organization,
 
 Subsec. (b). Pub. L. 92–261, §8(c)(2), inserted provisions making prohibitions applicable to joint labor-management committees controlling apprenticeship or other training or retraining, including on-the-job training programs, and notices or advertisements of such joint labor-management committees relating to admission to, or employment in, any program established to provide apprenticeship or other training.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1981a, 2000e–1, 2000e–5 of this title.
-

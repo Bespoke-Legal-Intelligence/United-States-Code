@@ -122,6 +122,8 @@ Subsec. (<i>l</i>). Pub. L. 105–392, §104(b)(3), added subsec. (<i>l</i>).
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Reference to Chief Medical Director of Department of Veterans Affairs deemed to refer to Under Secretary for Health of Department of Veterans Affairs pursuant to section 302(e) of Pub. L. 102–405, set out as a note under section 305 of Title 38, Veterans’ Benefits.
@@ -133,6 +135,16 @@ Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Funding for Council on Graduate Medical Education
+
+Pub. L. 108–447, div. F, title II, §218, Dec. 8, 2004, 118 Stat. 3141, provided that: “Notwithstanding any other provisions of law, funds made available under this heading \[
+
+General Provisions\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–199, div. E, title II, §219, Jan. 23, 2004, 118 Stat. 255.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “travel time,”.</i>
 

@@ -66,7 +66,3 @@ Application for More Than One Design.—More than one design may be included in 
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2909.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1304, 1306, 1313, 1332 of this title.
-

@@ -116,7 +116,3 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II 
 
 1992—Subsec. (a)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1041 of this title; title 15 sections 2052, 2602.
-

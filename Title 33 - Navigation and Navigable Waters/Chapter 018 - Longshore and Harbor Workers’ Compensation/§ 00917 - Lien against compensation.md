@@ -26,7 +26,3 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 933 of this title.
-

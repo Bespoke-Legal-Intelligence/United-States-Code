@@ -18,7 +18,3 @@ Pub. L. 102–40, §402(d)(1), substituted “7631” for “4331” and “7614
 
 Subsec. (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7617, 7631 of this title.
-

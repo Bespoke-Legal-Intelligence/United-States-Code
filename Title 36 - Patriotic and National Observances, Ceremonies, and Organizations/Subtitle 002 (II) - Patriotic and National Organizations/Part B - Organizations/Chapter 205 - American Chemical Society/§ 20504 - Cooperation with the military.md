@@ -2,7 +2,7 @@
 
 (a)
 
-Investigations, Examinations, Experiments, and Reports.—When requested by theSecretary of the Army, Air Force, or Navy, the corporation shall investigate, examine, experiment, and report on any subject in pure or applied chemistry connected with the national defense.
+Investigations, Examinations, Experiments, and Reports.—When requested by the Secretary of the Army, Air Force, or Navy, the corporation shall investigate, examine, experiment, and report on any subject in pure or applied chemistry connected with the national defense.
 
 (b)
 

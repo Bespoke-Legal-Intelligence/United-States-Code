@@ -10,7 +10,3 @@ That in order to commemorate the Battle of Monocacy, Maryland, and to preserve f
 
 1976—Pub. L. 94–578 substituted “is declared a national battlefield to be known as the ‘Monocacy National Battlefield’ (hereinafter referred to as ‘the battlefield’). The battlefield shall comprise the area generally depicted on the drawing entitled ‘Boundary, Monocacy National Battlefield’, numbered 894–40,000 and dated May 1976” for “is declared a national military park to be known as the ‘Monocacy National Military Park’, whenever the title to the lands deemed necessary by the Secretary of the Interior shall have been acquired by the United States and the usual jurisdiction over the lands and roads of the same shall have been granted to the United States by the State of Maryland”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430<i>l</i>, 430<i>o</i>, 430s of this title.
-

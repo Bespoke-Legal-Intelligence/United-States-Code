@@ -40,7 +40,3 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 Pub. L. 104–290, title I, §109, Oct. 11, 1996, 110 Stat. 3426, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall adopt rules under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] concerning the status under the registration provisions of the Securities Act of 1933 of foreign press conferences and foreign press releases by persons engaged in the offer and sale of securities.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77b, 77c, 77d, 77j, 77<i>l</i>, 77ddd, 80a–3, 80a–24, 3904 of this title; title 11 sections 364, 1129, 1145; title 42 section 9675; title 45 section 791.
-

@@ -56,7 +56,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 The Secretary shall establish procedures for—
 
-&emsp;(1) receiving from interested persons critical comments relating to the manner in which theOrgan Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
+&emsp;(1) receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
@@ -99,8 +99,4 @@ Subsec. (c). Pub. L. 100–607, §403(b), added subsec. (c).
 #### Effective Date of 1990 Amendment
 
 Section 202(d) of Pub. L. 101–616 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on December 31, 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 273, 274b, 274c, 1320b–8 of this title.
 

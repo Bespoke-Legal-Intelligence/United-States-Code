@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 102–320, §1(3), (4), amended first sentence generally, s
 
 1990—Subsecs. (a), (b). Pub. L. 101–512 substituted “sixteen acres” for “ten acres” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459f, 459f–2, 459f–4, 459f–5, 459f–7, 459f–10 of this title.
-

@@ -88,7 +88,7 @@ If a provision of direct spending or receipts legislation is enacted that the Pr
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
+1997—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
 
 Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
@@ -98,17 +98,17 @@ Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
+1994—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
+1993—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–66, §14003(a)(2), substituted “through fiscal year 1998” for “through fiscal year 1995” in two places.
 
 Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted “for any fiscal year from 1991 through 1998” for “for fiscal year 1991, 1992, 1993, 1994, or 1995”.
 
-<b>1990</b>—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
+1990—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
-<b>1987</b>—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
+1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for ComptrollerGeneral as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
 Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” for “made”.
 
@@ -139,8 +139,4 @@ Section 10213 of Pub. L. 105–33 provided that: “Upon the enactment of this A
 #### Reduction of Direct Spending and Receipts Legislation Balances
 
 Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446; title 16 sections 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
 

@@ -68,7 +68,7 @@ The Secretary shall—
 
 #### (h) Annual report
 
-The committee established under subsection (a) of this section shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
+The committee established under subsection (a) of this section shall submit an annual reportto the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
 
 #### (i) Termination
 
@@ -78,11 +78,7 @@ The committee established under subsection (a) of this section shall terminate a
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3002, 3003 of this title.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

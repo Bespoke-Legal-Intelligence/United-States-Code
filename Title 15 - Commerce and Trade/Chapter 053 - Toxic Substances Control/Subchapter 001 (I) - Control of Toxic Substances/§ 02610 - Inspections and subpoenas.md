@@ -32,9 +32,5 @@ In carrying out this chapter, the Administrator may by subpoena require the atte
 
 1992—Subsec. (a). Pub. L. 102–550, §1021(b)(2), in first sentence, substituted “substances, mixtures, or products subject to subchapter IV of this chapter” for “substances or mixtures” and inserted “such products,” before “or such articles”.
 
-Subsec. (b)(1). Pub. L. 102–550, §1021(b)(3), substituted “chemical substances, mixtures, or products subject to subchapter IV of this chapter” for “chemical substances or mixtures”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2614 of this title.
+Subsec. (b)(1). Pub. L. 102–550, §1021(b)(3), substituted “chemical substances, mixtures, or products subject tosubchapter IV of this chapter” for “chemical substances or mixtures”.
 

@@ -32,7 +32,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(8) the applicant has not agreed to the condition that no vessel may be used for the transportation to the United States of things produced, processed, refined, or manufactured at the ocean thermal energy conversion facility or plantship unless such vessel is documented under the laws of the United States;
 
-&emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility, will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
+&emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility,will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
 
 &emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 
@@ -94,13 +94,9 @@ Subsec. (d)(2). Pub. L. 98–623, §602(e)(11), substituted “applicant, licens
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9112 of this title.
 

@@ -128,9 +128,5 @@ Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining “a
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7405, 7413, 7511a, 7512a, 7661, 8302 of this title; title 26 section 169.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

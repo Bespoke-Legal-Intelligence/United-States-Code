@@ -24,7 +24,3 @@ The words “which appropriations are hereby authorized” are omitted as unnece
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5922 of this title; title 20 section 905; title 22 sections 287e, 287r, 1474.
-

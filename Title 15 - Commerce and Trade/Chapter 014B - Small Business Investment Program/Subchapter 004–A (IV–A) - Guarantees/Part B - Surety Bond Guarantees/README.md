@@ -1,9 +1,5 @@
 Part B—Surety Bond Guarantees
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 636 of this title.
-
 
 ---
 

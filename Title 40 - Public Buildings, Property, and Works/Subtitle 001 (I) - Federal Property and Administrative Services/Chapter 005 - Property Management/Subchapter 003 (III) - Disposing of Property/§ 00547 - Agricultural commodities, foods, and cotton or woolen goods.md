@@ -2,7 +2,7 @@
 
 (a)
 
-Policies.—The Administrator of General Services shall consult with the Secretary of Agriculture to formulate policies for the disposal of surplus agricultural commodities, surplus foods processed from agricultural commodities, and surplus cotton or woolen goods. The policies shall be formulated to prevent surplus agricultural commodities, or surplus foods processed from agricultural commodities, from being dumped on the market in a disorderly manner and disrupting the market prices for agricultural commodities.
+Policies.—The Administrator of General Services shall consult with the Secretary of Agriculture to formulate policies for the disposal of surplus agricultural commodities, surplus foods processed from agricultural commodities,and surplus cotton or woolen goods. The policies shall be formulated to prevent surplus agricultural commodities, or surplus foods processed from agricultural commodities, from being dumped on the market in a disorderly manner and disrupting the market prices for agricultural commodities.
 
 (b)
 
@@ -14,7 +14,7 @@ In general.—The Administrator shall transfer without charge to the Department 
 
 &emsp;(2)
 
-Deposit of receipts.—Receipts resulting from disposal by the Department under this subsection shall be deposited pursuant to any authority available to the Secretary. When applicable, however, net proceeds from the saleof surplus property transferred under this subsection shall be credited pursuant to section 572(a) of this title.
+Deposit of receipts.—Receipts resulting from disposal by the Department under this subsection shall be deposited pursuant to any authority available to the Secretary. When applicable, however, net proceeds from the sale of surplus property transferred under this subsection shall be credited pursuant to section 572(a) of this title.
 
 &emsp;(3)
 
@@ -41,8 +41,4 @@ June 30, 1949, ch. 288, title II, §203(g), (h), 63 Stat. 386.
 547(b)
 
 40:484(h).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
 

@@ -56,7 +56,3 @@ Congress finds that—
 
 Pub. L. 106–530, §1, Nov. 22, 2000, 114 Stat. 2527, provided that: “This Act \[enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title\] may be cited as the ‘Great Sand Dunes National Park and Preserve Act of 2000’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410hhh–1 of this title.
-

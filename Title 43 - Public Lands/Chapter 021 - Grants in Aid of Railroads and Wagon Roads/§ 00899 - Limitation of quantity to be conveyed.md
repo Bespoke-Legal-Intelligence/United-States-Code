@@ -4,7 +4,3 @@ No more lands shall be certified or conveyed to any State or to any corporation 
 
 (Mar. 3, 1887, ch. 376, §7, 24 Stat. 558.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 897, 903, 906 of this title.
-

@@ -54,10 +54,6 @@
 
 1983—Pub. L. 97–454, §1(b), Jan. 12, 1983, 96 Stat. 2494, redesignated item for subchapter III as subchapter IV and added items for subchapter III and section 91.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 307 of this title.
-
 
 ---
 

@@ -24,7 +24,3 @@
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4015, 4017 of this title.
-

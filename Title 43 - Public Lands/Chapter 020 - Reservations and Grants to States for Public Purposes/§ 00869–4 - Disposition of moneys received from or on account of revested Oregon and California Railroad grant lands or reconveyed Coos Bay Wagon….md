@@ -4,7 +4,3 @@ All moneys received from or on account of any revested Oregon and California Rai
 
 (June 14, 1926, ch. 578, §6, as added Pub. L. 86–66, §3, June 23, 1959, 73 Stat. 111.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869, 869–2, 869–3, 1721 of this title.
-

@@ -28,7 +28,7 @@ The Secretary of the Interior is charged with the supervision of public business
 
 &emsp;13\. Public lands, including mines.
 
-(R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III,§3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Codification
 
@@ -82,6 +82,8 @@ Bureau of Mines—Transferred to Department of Commerce by Ex. Ord. No. 4239 of 
 
 Functions of Secretary of the Interior, Department of the Interior, and officers and components of Department of the Interior exercised by Bureau of Mines relating to fuel supply and demand analysis and data gathering, research and development relating to increased efficiency of production technology of solid fuel minerals other than research relating to mine health and safety and research relating to environmental and leasing consequences of solid fuel mining, and coal preparation and analysis transferred to Secretary of Energy by section 7152(d) of Title 42, The Public Health and Welfare. Subsequently, those functions transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42.
 
+For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.
+
 Bureau of Reclamation—Act June 17, 1902, ch. 1093, 32 Stat. 388.
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(D), (3) of Title 42, The Public Health and Welfare, and to be exercised by Secretary through a separate Administration within Department of Energy.
@@ -98,7 +100,7 @@ National Park Service—Act Aug. 25, 1916, ch. 408, 39 Stat. 535.
 
 Office of Consumers’ Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers’ Counsel.
 
-Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord.No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
+Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord. No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
 
 #### Emergency Preparedness Functions
 

@@ -38,7 +38,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §319(a); added Nov. 16, 1990, Pu
 
 49 App.:1358b(a)(5).
 
-In subsection (a), the words “Not later than 90 days after November 16, 1990” are omitted as obsolete. The words “The Administrator shall designate individuals as Managers for, and station those Managers at, those airports” are substituted for “and shall begin designating persons as such Managers and stationing such Managers at such airports” for clarity and because of the restatement. The words “and designate a current field employee of the Administration as a Manager” are substituted for “assign the functions and responsibilities described in this section to existing Federal Aviation Administration field personnel and designate such personnel accordingly” to eliminate unnecessary words. The words “to the office of” are omitted as unnecessary. The words “Not later than 1 year after November 16, 1990” are omitted as obsolete. The words “Secretary of Transportation” are substituted for “Department of Transportation” because of 49:102.
+In subsection (a), the words “Not later than 90 days after November 16, 1990” are omitted as obsolete. The words “The Administrator shall designate individuals as Managers for, and station those Managers at, those airports” are substituted for “and shall begin designating persons as such Managers and stationing such Managers at such airports” for clarity and because of the restatement. The words “and designate a current field employee of the Administration as a Manager” are substituted for “assign the functions and responsibilities described in this section to existing Federal Aviation Administration field personnel and designate such personnel accordingly” to eliminate unnecessary words. The words “to the office of” are omitted as unnecessary. The words “Not later than 1 year after November16, 1990” are omitted as obsolete. The words “Secretary of Transportation” are substituted for “Department of Transportation” because of 49:102.
 
 In subsection (b), before clause (1), the words “The Manager at each airport shall” are substituted for “The responsibilities of a Federal Security Manager shall include the following” to eliminate unnecessary words. In clause (2)(A), the words “air carrier” are substituted for “such air carrier” because this is the first time the term is used in the source provisions. In clause (3), the words “United States Government” are substituted for “Federal” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (7), the words “other Managers” are substituted for “Federal Security Managers at other airports, as appropriate” to eliminate unnecessary words.
 
@@ -53,8 +53,4 @@ Subsec. (a). Pub. L. 107–71, §101(f)(4), substituted “Under Secretary” fo
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 114, 44934 of this title.
 

@@ -6,7 +6,7 @@ The purpose of this chapter is to enable the Government of the United States to 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
@@ -14,7 +14,41 @@ Section 1 of Pub. L. 87–256 provided: “That this Act \[enacting this chapter
 
 #### Transfer of Functions
 
-Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
+Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
+
+#### Expansion of United States Scholarship and Exchange Programs in the Islamic World
+
+Pub. L. 108–458, title VII, §7112, Dec. 17, 2004, 118 Stat. 3796, provided that:
+
+“(a)
+
+Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;“(1) Exchange, scholarship, and library programs are effective ways for the United States Government to promote internationally the values and ideals of the United States.
+
+&emsp;“(2) Exchange, scholarship, and library programs can expose young people from other countries to United States values and offer them knowledge and hope.
+
+“(b)
+
+Declaration of Policy.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress declares that—
+
+&emsp;“(1) the United States should commit to a long-term and sustainable investment in promoting engagement with people of all levels of society in countries with predominantly Muslim populations, particularly with youth and those who influence youth;
+
+&emsp;“(2) such an investment should make use of the talents and resources in the private sector and should include programs to increase the number of people who can be exposed to the United States and its fundamental ideas and values in order to dispel misconceptions; and
+
+&emsp;“(3) such programs should include youth exchange programs, young ambassadors programs, international visitor programs, academic and cultural exchange programs, American Corner programs, library programs, journalist exchange programs, sister city programs, and other programs related to people-to-people diplomacy.
+
+“(c)
+
+Sense of Congress.—It is the sense of Congress that the United States should significantly increase its investment in the people-to-people programs described in subsection (b).
+
+“(d)
+
+Authority To Expand Educational and Cultural Exchanges.—The President is authorized to substantially expand the exchange, scholarship, and library programs of the United States, especially such programs that benefit people in the Muslim world.
+
+“(e)
+
+Availability of Funds.—Of the amounts authorized to be appropriated in each of the fiscal years 2005 and 2006 for educational and cultural exchange programs, there shall be available to the Secretary of State such sums as may be necessary to carry out programs under this section, unless otherwise authorized by Congress.”
 
 #### Advisory Committee on Cultural Diplomacy
 
@@ -60,7 +94,7 @@ Compensation.—Members of the Advisory Committee shall be allowed travel expens
 
 “(h)
 
-Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
+Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App.U.S.C.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
 
 “(i)
 
@@ -79,8 +113,4 @@ Section 111(b) of Pub. L. 87–256 provided that: “All Executive orders, agree
 #### References in Other Laws to Repealed Provisions
 
 Section 111(c) of Pub. L. 87–256 provided that: “Any reference in any other Act to the provisions of law listed in subsection (a) \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense\] shall hereafter be considered to be references to the appropriate provisions of this Act \[this chapter\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2458a of this title.
 

@@ -42,7 +42,7 @@ The report shall review the extent of water-related recreation at Federal man-ma
 
 > Any such alternatives shall be consistent with and subject to the authorized purposes for any man-made lakes and reservoirs and shall emphasize private sector initiatives in concert with State and local units of government.
 
-(Pub. L. 88–578, title I, §13, as added Pub. L. 104–333, div. I, title X, §1021(b), Nov. 12, 1996, 110Stat. 4210; amended Pub. L. 105–83, title V, §505, Nov. 14, 1997, 111 Stat. 1617; Pub. L. 106–176, title I, §123(b), Mar. 10, 2000, 114 Stat. 29.)
+(Pub. L. 88–578, title I, §13, as added Pub. L. 104–333, div. I, title X, §1021(b), Nov. 12, 1996, 110 Stat. 4210; amended Pub. L. 105–83, title V, §505, Nov. 14, 1997, 111 Stat. 1617; Pub. L. 106–176, title I, §123(b), Mar. 10, 2000, 114 Stat. 29.)
 
 #### Amendments
 

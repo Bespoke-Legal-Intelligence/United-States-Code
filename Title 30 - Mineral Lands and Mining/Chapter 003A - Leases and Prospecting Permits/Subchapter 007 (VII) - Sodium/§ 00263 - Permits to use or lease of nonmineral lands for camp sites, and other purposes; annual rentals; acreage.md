@@ -4,7 +4,3 @@ In addition to areas of such mineral land which may be included in any such pros
 
 (Feb. 25, 1920, ch. 85, §25, 41 Stat. 447.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 7421, 7435.
-

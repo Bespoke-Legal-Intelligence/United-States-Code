@@ -20,7 +20,3 @@ In providing any financial assistance under this section, the Secretary shall (1
 
 (Pub. L. 96–310, §5, July 17, 1980, 94 Stat. 943.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9002, 9003, 9009 of this title.
-

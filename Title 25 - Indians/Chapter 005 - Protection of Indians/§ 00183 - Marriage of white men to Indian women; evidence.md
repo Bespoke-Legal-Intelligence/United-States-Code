@@ -4,7 +4,3 @@ Whenever the marriage of any white man with any Indian woman, a member of any su
 
 (Aug. 9, 1888, ch. 818, §3, 25 Stat. 392.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 181 of this title.
-

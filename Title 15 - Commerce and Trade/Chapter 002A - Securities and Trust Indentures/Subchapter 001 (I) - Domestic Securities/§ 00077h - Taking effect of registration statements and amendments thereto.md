@@ -2,7 +2,7 @@
 
 #### (a) Effective date of registration statement
 
-Except as hereinafter provided, the effective date of a registration statement shall be the twentieth day after the filing thereof or such earlier date as the Commission may determine, having due regard to the adequacy of the information respecting the issuer theretofore available to the public, to the facility with which the nature of the securities to be registered, their relationship to the capital structure of the issuer and the rights of holders thereof can be understood, and to the public interest and the protection of investors. If any amendment to any such statement is filed prior to the effective date of such statement, the registration statement shall be deemed to have been filed when such amendment was filed; except that an amendment filed with the consent of the Commission, prior to the effective date of the registration statement, or filed pursuant to an order of the Commission, shall be treated as a part of the registration statement.
+Except as hereinafter provided, the effective date of a registration statement shall be the twentieth day after the filing thereof or such earlier date as the Commission may determine, having due regard to the adequacy of the information respecting the issuer theretofore available to the public, to the facility with which the nature of the securities to be registered, their relationship to the capital structure of the issuer and the rights of holders thereof can be understood, and to the public interest and the protection of investors. If any amendment to any such statement is filed prior to the effectivedate of such statement, the registration statement shall be deemed to have been filed when such amendment was filed; except that an amendment filed with the consent of the Commission, prior to the effective date of the registration statement, or filed pursuant to an order of the Commission, shall be treated as a part of the registration statement.
 
 #### (b) Incomplete or inaccurate registration statement
 
@@ -18,7 +18,7 @@ If it appears to the Commission at any time that the registration statement incl
 
 #### (e) Examination for issuance of stop order
 
-The Commission is empowered to make an examination in any case in order to determine whether a stop order should issue under subsection (d) of this section. In making such examination the Commission or any officer or officers designated by it shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the issuer, underwriter, or any other person, in respect of any matter relevant to the examination, and may, in its discretion, require the production of a balance sheet exhibiting the assets and liabilities of the issuer, or its income statement, or both, to be certified to by a public or certified accountant approved by the Commission. If the issuer or underwriter shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination,such conduct shall be proper ground for the issuance of a stop order.
+The Commission is empowered to make an examination in any case in order to determine whether a stop order should issue under subsection (d) of this section. In making such examination the Commission or any officer or officers designated by it shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the issuer, underwriter, or any other person, in respect of any matter relevant to the examination, and may, in its discretion, require the production of a balance sheet exhibiting the assets and liabilities of the issuer, or its income statement, or both, to be certified to by a public or certified accountant approved by the Commission. If the issuer or underwriter shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination, such conduct shall be proper ground for the issuance of a stop order.
 
 #### (f) Notice requirements
 
@@ -33,8 +33,4 @@ Any notice required under this section shall be sent to or served on the issuer,
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77d, 77e, 77g, 77eee, 77ggg, 77iii, 78d–1, 80a–24 of this title.
 

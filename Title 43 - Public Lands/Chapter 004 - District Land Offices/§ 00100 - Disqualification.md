@@ -1,6 +1,6 @@
 ### §100. Disqualification
 
-No officer shall receive evidence in, hear, or determine any cause pending in any district land office in which cause he is interested directly or indirectly, or has been of counsel, or where he is related to any of the parties in interest by consanguinity or affinity within the fourth degree, computing by the rules adopted by the common law.
+No officer shall receive evidence in, hear, or determine any cause pending in any districtland office in which cause he is interested directly or indirectly, or has been of counsel, or where he is related to any of the parties in interest by consanguinity or affinity within the fourth degree, computing by the rules adopted by the common law.
 
 (Jan. 11, 1894, ch. 10, §1, 28 Stat. 26; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 

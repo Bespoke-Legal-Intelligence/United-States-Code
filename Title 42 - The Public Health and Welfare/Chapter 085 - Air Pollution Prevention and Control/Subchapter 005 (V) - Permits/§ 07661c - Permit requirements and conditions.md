@@ -10,7 +10,7 @@ The Administrator may by rule prescribe procedures and methods for determining c
 
 #### (c) Inspection, entry, monitoring, certification, and reporting
 
-Each permit issued under this subchapter shall set forth inspection, entry, monitoring,compliance certification, and reporting requirements to assure compliance with the permit terms and conditions. Such monitoring and reporting requirements shall conform to any applicable regulation under subsection (b) of this section. Any report required to be submitted by a permit issued to a corporation under this subchapter shall be signed by a responsible corporate official, who shall certify its accuracy.
+Each permit issued under this subchapter shall set forth inspection, entry, monitoring, compliance certification, and reporting requirements to assure compliance with the permit terms and conditions. Such monitoring and reporting requirements shall conform to any applicable regulation under subsection (b) of this section. Any report required to be submitted by a permit issued to a corporation under this subchapter shall be signed by a responsible corporate official, who shall certify its accuracy.
 
 #### (d) General permits
 
@@ -31,8 +31,4 @@ Compliance with a permit issued in accordance with this subchapter shall be deem
 > Nothing in the preceding sentence shall alter or affect the provisions of section 7603 of this title, including the authority of the Administrator under that section.
 
 (July 14, 1955, ch. 360, title V, §504, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2642.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7651g of this title.
 

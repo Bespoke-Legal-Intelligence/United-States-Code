@@ -8,7 +8,3 @@ Any Federal agency charged with the administration of a Federal assistance progr
 
 A prior section 5141, Pub. L. 93–288, title III, §301, May 22, 1974, 88 Stat. 146, set out procedure for determination of existence of emergency or major disaster, prior to repeal by Pub. L. 100–707, §105(a)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5154 of this title.
-

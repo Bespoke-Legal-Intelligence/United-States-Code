@@ -66,7 +66,3 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under section 1691 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1722 of this title.
-

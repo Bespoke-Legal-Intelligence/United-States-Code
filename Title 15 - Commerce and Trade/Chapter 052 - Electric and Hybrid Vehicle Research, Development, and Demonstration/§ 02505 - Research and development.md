@@ -16,7 +16,3 @@ The Secretary of Energy, acting through appropriate agencies and contractors, sh
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2506, 2512 of this title; title 42 section 2473.
-

@@ -1,6 +1,6 @@
 ### §518. Conduct and argument of cases
 
-(a) Except when the Attorney General in a particular case directs otherwise, the Attorney General and the Solicitor General shall conduct and argue suits and appeals in the Supreme Court and suits in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit and in the Courtof International Trade in which the United States is interested.
+(a) Except when the Attorney General in a particular case directs otherwise, the Attorney General and the Solicitor General shall conduct and argue suits and appeals in the Supreme Court and suits in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit and in the Court of International Trade in which the United States is interested.
 
 (b) When the Attorney General considers it in the interests of the United States, he may personally conduct and argue any case in a court of the United States in which the United States is interested, or he may direct the Solicitor General or any officer of the Department of Justice to do so.
 
@@ -41,8 +41,4 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 1204, 7105, 8477; title 12 sections 2244, 4243; title 29 sections 663, 792, 1132, 1852; title 30 section 822; title 31 section 3718; title 42 sections 300aa–12, 7171.
 

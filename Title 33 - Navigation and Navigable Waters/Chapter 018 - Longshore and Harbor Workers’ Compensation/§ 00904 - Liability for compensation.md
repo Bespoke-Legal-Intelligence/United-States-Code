@@ -14,7 +14,3 @@
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after Sept. 28, 1984, and to claims pending on that date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 905 of this title; title 30 section 932.
-

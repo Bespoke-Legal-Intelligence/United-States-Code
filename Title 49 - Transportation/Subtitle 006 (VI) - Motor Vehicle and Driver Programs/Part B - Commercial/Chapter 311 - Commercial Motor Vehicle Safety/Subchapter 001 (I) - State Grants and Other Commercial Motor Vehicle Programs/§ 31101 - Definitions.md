@@ -18,7 +18,7 @@ In this subchapter—
 
 &emsp;(3) “employer”—
 
-&emsp;&emsp;(A) means a person engaged in a business affecting commerce that owns or leases a commercial motor vehicle in connection with that business, or assigns an employee to operate the vehicle in commerce; but
+&emsp;&emsp;(A) means a person engaged in a business affecting commerce that owns or leases acommercial motor vehicle in connection with that business, or assigns an employee to operate the vehicle in commerce; but
 
 &emsp;&emsp;(B) does not include the Government, a State, or a political subdivision of a State.
 
@@ -58,13 +58,9 @@ In clause (4), the words “the Commonwealth of” are omitted for consistency i
 
 1998—Par. (1)(A). Pub. L. 105–178, §4003(a)(1), inserted “or gross vehicle weight” after “rating” and substituted “10,001 pounds, whichever is greater” for “10,000 pounds”.
 
-Par. (1)(C). Pub. L. 105–178, §4003(a)(2), inserted “and transported in a quantity requiring placarding underregulations prescribed by the Secretary under section 5103” before period at end.
+Par. (1)(C). Pub. L. 105–178, §4003(a)(2), inserted “and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103” before period at end.
 
 #### Savings Clause
 
 Pub. L. 105–178, title IV, §4003(h), June 9, 1998, 112 Stat. 398, provided that: “Amendments made by this section \[amending this section and sections 31102 to 31104 of this title\] shall not affect any funds made available before the date of enactment of this Act \[June 9, 1998\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 47 section 302a.
 

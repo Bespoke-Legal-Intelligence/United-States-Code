@@ -100,9 +100,5 @@ Subsec. (f). Pub. L. 101–647, §2401(c)(2), made technical amendment to refere
 
 Pub. L. 101–647, §2401(b), redesignated subsec. (f) of section 857 of this title as subsec. (f) of this section. See Codification note above.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 881 of this title; title 18 sections 1956, 3663.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “marihuana,”.</i>
 

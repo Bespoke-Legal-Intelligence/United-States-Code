@@ -20,7 +20,3 @@
 
 See section 1610 of this title
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1602 of this title.
-

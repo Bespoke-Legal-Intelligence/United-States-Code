@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8213 of this title; title 25 section 1680f.
-
 
 ---
 

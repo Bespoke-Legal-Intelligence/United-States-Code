@@ -1,6 +1,6 @@
 ### §60501. Secretary of Energy
 
-Except as provided in section 60502 of this title, the Secretary of Energy has the duties and powers related to the transportation of oil by pipeline that were vested on October 1, 1977, in the Interstate Commerce Commission or the chairman or a member of the Commission.
+Except as provided in section 60502 of this title, the Secretary of Energy has the duties andpowers related to the transportation of oil by pipeline that were vested on October 1, 1977, in the Interstate Commerce Commission or the chairman or a member of the Commission.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1329.)
 
@@ -31,8 +31,4 @@ The words “duties and powers . . . that were vested . . . in” are coexte
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7174.
 

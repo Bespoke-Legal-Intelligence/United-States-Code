@@ -54,7 +54,7 @@
 | (b) | Student loans. |
 | (c) | Treatment of foster care and adoption assistance programs. |
 | (d) | Special rules for Medicare program. |
-| (e) | Community and migrant health centers, Indian health services and facilities, and veteran's medical care. |
+| (e) | Community and migrant health centers, Indian health services and facilities, and veterans’ medical care. |
 | (f) | Treatment of child support enforcement program. |
 | (g) | Federal pay. |
 | (h) | Treatment of Federal administrative expenses. |

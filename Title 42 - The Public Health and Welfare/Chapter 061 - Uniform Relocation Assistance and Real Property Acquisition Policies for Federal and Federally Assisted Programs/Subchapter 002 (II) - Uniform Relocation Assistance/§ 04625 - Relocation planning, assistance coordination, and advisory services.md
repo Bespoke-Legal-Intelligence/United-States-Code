@@ -52,7 +52,3 @@ Notwithstanding section 4601(1) of this title, in any case in which a displacing
 
 Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4601, 4603, 4623, 4630 of this title; title 16 sections 429b–2, 450e–1, 460<i>l</i>–8, 460bb–2, 698b, 698h.
-

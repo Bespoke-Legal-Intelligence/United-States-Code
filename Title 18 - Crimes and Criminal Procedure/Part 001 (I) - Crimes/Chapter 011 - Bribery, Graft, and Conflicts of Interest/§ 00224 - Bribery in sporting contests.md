@@ -18,7 +18,3 @@
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2516 of this title.
-

@@ -4,7 +4,7 @@ Section 201, act June 7, 1897, ch. 4, §1, 30 Stat. 100, related to ascertainmen
 
 Section 202, act June 7, 1897, ch. 4, §1, 30 Stat. 100, related to sailing vessels approaching one another. See section 2012 of this title.
 
-Section 203, acts June 7, 1897, ch. 4, §1, 30 Stat. 100; Aug. 21, 1935, ch. 595, §2, 49 Stat. 669, related to steam vessels approaching, meeting, or passing one another. See section 2013 et seq. of this title.
+Section 203, acts June 7, 1897, ch. 4, §1, 30 Stat. 100; Aug. 21, 1935, ch. 595, §2, 49 Stat. 669, related to steamvessels approaching, meeting, or passing one another. See section 2013 et seq. of this title.
 
 Section 204, act June 7, 1897, ch. 4, §1, 30 Stat. 101, related to steam vessels crossing. See section 2015 of this title.
 

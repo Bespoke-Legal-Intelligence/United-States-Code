@@ -60,7 +60,7 @@ Subsecs. (f), (g). Pub. L. 105–178, §1401(5), substituted “safety improveme
 
 1987—Subsec. (g). Pub. L. 100–17 substituted “the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives” for “the Congress”.
 
-1983—Subsec. (c). Pub. L. 97–424 substituted provision that funds authorized to carry out this section shall be available for expenditure on any public road (other than a highway on the Interstate System), for provision that funds authorized to carry out this section would be available solely for expenditure for projects on any Federal-aid system (other than the Interstate System) except in the Virgin Islands, Guam, and American Samoa.
+1983—Subsec. (c). Pub. L. 97–424 substituted provision that funds authorized to carry out this section shall be available for expenditure on any public road (other than a highway on the Interstate System), for provision that funds authorized to carry out this section would be available solely for expenditure for projectson any Federal-aid system (other than the Interstate System) except in the Virgin Islands, Guam, and American Samoa.
 
 1982—Subsec. (g). Pub. L. 97–375 inserted “(including but not limited to any projects for pavement marking)” after “implementing the hazard elimination program”.
 
@@ -83,8 +83,4 @@ Subsecs. (f) to (h). Pub. L. 95–599 added subsecs. (f) and (g) and redesignate
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to the requirement that the Secretary of Transportation submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives not later than April 1 of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 135 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 133, 154, 164, 409 of this title.
 

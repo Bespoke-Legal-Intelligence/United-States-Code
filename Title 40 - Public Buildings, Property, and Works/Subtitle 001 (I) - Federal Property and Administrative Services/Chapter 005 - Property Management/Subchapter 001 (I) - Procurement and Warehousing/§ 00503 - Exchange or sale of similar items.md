@@ -2,7 +2,7 @@
 
 (a)
 
-Authority of Executive Agencies.—In acquiring personal property, an executive agency may exchange or sell similar items and may apply the exchange allowance or proceeds of salein whole or in part payment for the property acquired.
+Authority of Executive Agencies.—In acquiring personal property, an executive agency may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in whole or in part payment for the property acquired.
 
 (b)
 
@@ -40,15 +40,11 @@ June 30, 1949, ch. 288, title II, §201(c), 63 Stat. 384; Pub. L. 93–400, §15
 
 In subsection (a), the words “in such cases” are omitted as unnecessary.
 
-In subsection (b)(1), the words “subject to regulations” are substituted for “subject to regulations and regulations” in section 201(c) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
+In subsection (b)(1), the words “subject to regulations” are substituted for “subject to regulations andregulations” in section 201(c) of the Federal Property and Administrative Services Act of 1949 to correct an error resulting from an inconsistency between section 8(d)(1) and section 9(a)(2) of the Office of Federal Procurement Policy Act Amendments of 1983 (Public Law 98–191, 97 Stat. 1331).
 
 In subsection (b)(2), the words “the authority of” are omitted as unnecessary.
 
 #### References in Text
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (b)(1), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title; title 22 sections 1475a, 2674; title 28 section 612; title 50 section 491.
 

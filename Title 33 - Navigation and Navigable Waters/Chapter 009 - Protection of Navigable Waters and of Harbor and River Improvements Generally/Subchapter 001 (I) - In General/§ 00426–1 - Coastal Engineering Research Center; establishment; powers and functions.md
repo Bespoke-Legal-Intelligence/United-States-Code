@@ -12,7 +12,3 @@ Section was enacted as part of section 1 of Pub. L. 88–172. The remainder of s
 
 Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For the transfer of certain functions of said Board to Board of Engineers for Rivers and Harbors, see section 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426–2, 426h of this title.
-

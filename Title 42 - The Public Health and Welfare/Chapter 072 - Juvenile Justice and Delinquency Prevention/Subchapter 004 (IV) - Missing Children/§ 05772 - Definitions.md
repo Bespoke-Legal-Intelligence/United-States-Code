@@ -22,7 +22,3 @@ A prior section 403 of Pub. L. 93–415 amended section 3883 of this title, and 
 
 1999—Par. (3). Pub. L. 106–71 added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5775 of this title.
-

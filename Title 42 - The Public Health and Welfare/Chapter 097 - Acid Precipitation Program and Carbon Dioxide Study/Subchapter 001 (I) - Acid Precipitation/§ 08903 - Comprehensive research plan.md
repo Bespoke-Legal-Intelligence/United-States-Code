@@ -68,7 +68,3 @@ The Task Force shall submit to the President and the Congress by January 15 of e
 
 For termination, effective May 15, 2000, of provisions in subsec. (e) of this section relating to the requirement that the Task Force submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 1st item on page 153 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8902, 8904, 8905 of this title.
-

@@ -42,7 +42,3 @@ Amendment by Pub. L. 95–519 effective beginning on first day of first applicab
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6335, 6368 of this title; title 20 section 4416; title 25 section 2012.
-

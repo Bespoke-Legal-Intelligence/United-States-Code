@@ -44,7 +44,7 @@
 | (c) | Limitation. |
 | (d) | Action for injunction by Secretary. |
 | (e) | Solicitor of Labor. |
-| (f) | General Accounting Office and Library of Congress. |
+| (f) | Government Accountability Office and Library of Congress. |
 | [2618\.](Subchapter%20001%20%28I%29%20-%20General%20Requirements%20for%20Leave/%C2%A7%2002618%20-%20Special%20rules%20concerning%20employees%20of%20local%20educational%20agencies.md) | Special rules concerning employees of local educational agencies. |
 | (a) | Application. |
 | (b) | Leave does not violate certain other Federal laws. |
@@ -97,10 +97,6 @@
 | [2654\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002654%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 3 sections 412, 415.
 
 
 ---

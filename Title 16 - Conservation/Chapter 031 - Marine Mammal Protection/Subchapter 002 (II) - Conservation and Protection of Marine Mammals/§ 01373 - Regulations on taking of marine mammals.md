@@ -60,13 +60,9 @@ The effective date of this chapter, referred to in subsec. (f), means the effect
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 54 and 107 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance, and pages 54 and 107 of House Document No. 103–7.
 
 #### Marine Mammal Populations Report
 
 Pub. L. 101–627, title XI, §1101, Nov. 28, 1990, 104 Stat. 4468, directed Secretary of Commerce, in consultation with Secretary of the Interior, to provide to Congress within 12 months after Nov. 28, 1990, a report assessing population sizes and trends of harbor seals, sea otters, California sea lions, and northern sea lions off the coast of the State of Washington; assessing the effectiveness of 16 U.S.C. 1371(a)(3)(A) and 1379(h); and specifying long range management plans for the species of marine mammals listed.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1371, 1372, 1374, 1378, 1379, 1380, 1382, 1383a, 1383b, 1387, 1415, 1539 of this title.
 

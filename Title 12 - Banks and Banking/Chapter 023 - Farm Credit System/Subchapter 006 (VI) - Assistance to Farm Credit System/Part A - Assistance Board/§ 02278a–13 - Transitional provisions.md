@@ -26,7 +26,3 @@ The Financial Assistance Corporation shall pay to the Farm Credit Administration
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2151 of this title.
-

@@ -8,7 +8,7 @@
 
 #### (2) Interim depository institutions
 
-&emsp;In the case of any interim Federal depository institution that is chartered by the appropriate Federal banking agency and will not open for business, the depository institution shall be an insured depository institution uponthe issuance of the institution's charter by the agency.
+&emsp;In the case of any interim Federal depository institution that is chartered by the appropriate Federal banking agency and will not open for business, the depository institution shall be an insured depository institution upon the issuance of the institution's charter by the agency.
 
 #### (3) Application and approval not required in cases of continued insurance
 
@@ -112,7 +112,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(II) from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
 
-&emsp;&emsp;&nbsp;in a transaction in which the deposit is received from a depositor at an insured depository institution for which a receiver has been appointed and the receiving insured depository institution is acting as agent for the Corporation in connection with the payment of such deposit to the depositor at the institution for which a receiver has been appointed.
+&emsp;&emsp;&nbsp;in a transaction in which the deposit is received from a depositor at an insured depository institution for which a receiver has been appointed and the receiving insured depository institution is acting as agent for the Corporation in connectionwith the payment of such deposit to the depositor at the institution for which a receiver has been appointed.
 
 #### (C) Approval during moratorium
 
@@ -228,7 +228,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (G) Allocation of costs in event of default
 
-&emsp;&emsp;If any acquiring, assuming, or resulting depository institution is in default or danger of default at any time before this paragraph ceases to apply, any loss incurred by the Corporation shall be allocated between the Bank Insurance Fund and the Savings Association Insurance Fund, in amounts reflecting the amount of insured deposits of such acquiring, assuming, or resulting depository institution assessed by the Bank Insurance Fund and the Savings Association Insurance Fund, respectively, under subparagraph (B).
+&emsp;&emsp;If any acquiring, assuming, or resulting depository institution is in default or danger of default at any time before this paragraph ceases to apply, any loss incurred by the Corporation shall be allocated between the Bank Insurance Fund and the Savings Association Insurance Fund, in amounts reflecting the amount of insured deposits of such acquiring, assuming, or resulting depository institution assessed by the Bank InsuranceFund and the Savings Association Insurance Fund, respectively, under subparagraph (B).
 
 #### (H) Subsequent approval of conversion transaction
 
@@ -252,7 +252,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (K) Adjustment of adjusted attributable deposit amount
 
-&emsp;&emsp;The amount determined under subparagraph (C)(i) for deposits acquired by March31, 1995, shall be reduced by 20 percent for purposes of computing the adjusted attributable deposit amount for the payment of any assessment for any semiannual period that begins after September 30, 1996 (other than the special assessment imposed under section 2702(a) of such Act), for a Bank Insurance Fund member bank that, as of June 30, 1995—
+&emsp;&emsp;The amount determined under subparagraph (C)(i) for deposits acquired by March 31, 1995, shall be reduced by 20 percent for purposes of computing the adjusted attributable deposit amount for the payment of any assessment for any semiannual period that begins after September 30, 1996 (other than the special assessment imposed under section 2702(a) of such Act), for a Bank Insurance Fund member bank that, as of June 30, 1995—
 
 &emsp;&emsp;&emsp;(i) had an adjusted attributable deposit amount that was less than 50 percent of the total deposits of that member bank; or
 
@@ -330,7 +330,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (i) Overpayment
 
-&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
+&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is greater than the actual loss incurred by the Corporation, the Corporation shall reimburse each such commonly controlled depository institution its pro rata share of any overpayment.
 
 #### (ii) Underpayment
 
@@ -458,7 +458,7 @@ Subsec. (d)(3)(E)(ii). Pub. L. 103–325, §319(b)(2)(B), struck out “or Board
 
 Subsec. (d)(3)(E)(iv). Pub. L. 103–325, §319(b)(2)(C), struck out “, and the appropriate Federal banking agency for any depository institution holding company,” after “responsible agency”, “each” before “such agency determines”, and “, and any depository institution holding company which controls such institution,” after “resulting depository institution”.
 
-Subsec. (d)(3)(F). Pub. L. 103–325, §319(b)(3), substituted “A Bank” for “The Board may not approve any transaction under subparagraph (A) in which the acquiring, assuming, or resulting depository institution is a Bank” and “may not be the acquiring, assuming, or resulting depository institution in a transactionunder subparagraph (A) unless” for “unless the Board determines that”.
+Subsec. (d)(3)(F). Pub. L. 103–325, §319(b)(3), substituted “A Bank” for “The Board may not approve any transaction under subparagraph (A) in which the acquiring, assuming, or resulting depository institution is a Bank” and “may not be the acquiring, assuming, or resulting depository institution in a transaction under subparagraph (A) unless” for “unless the Board determines that”.
 
 Subsec. (d)(3)(K). Pub. L. 103–325, §319(b)(4), struck out heading and text of subpar. (K). Text read as follows: “For purposes of this paragraph, the term ‘Board’ (other than when such term appears in connection with a reference to the Board of Directors) means the Board of Governors of the Federal Reserve System.”
 
@@ -551,8 +551,4 @@ Section 206(b) of Pub. L. 101–73 provided that: “Any insured depository inst
 &emsp;“(4) was an insured institution (as so defined) for less than 1 year as of April 1, 1987,
 
 > may cease to be a Savings Association Insurance Fund member and become a Bank Insurance Fund member at any time during the 2-year period beginning on the date of the enactment of this Act without the approval of the Federal Deposit Insurance Corporation under section 5(d)(2) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(2)\] (as added by subsection (a) of this section) and without incurring any liability for any exit or entrance fee imposed under such section 5(d)(2).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 215c, 461, 1441, 1464, 1467a, 1814, 1816, 1821, 3104 of this title; title 26 section 593.
 

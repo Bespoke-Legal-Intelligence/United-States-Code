@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit to the Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(<i>o</i>) or 1437g of this title.
+&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit tothe Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(<i>o</i>) or 1437g of this title.
 
 #### (2) Updates
 
@@ -90,7 +90,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;With respect to public housing owned by a public housing agency—
 
-&emsp;&emsp;(A) a description of any building or buildings that the public housing agency is required to convert to tenant-based assistance under section 1437z–5 of this title or that the public housing agency plans to voluntarily convert under section 1437t of this title;
+&emsp;&emsp;(A) a description of any building or buildings that the public housing agency is required to convert to tenant-based assistance under section 1437z–5 of this title or that thepublic housing agency plans to voluntarily convert under section 1437t of this title;
 
 &emsp;&emsp;(B) an analysis of the projects or buildings required to be converted under section 1437z–5 of this title; and
 
@@ -172,7 +172,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
+&emsp;In developing a public housing agency plan under this section, the board of directors orsimilar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
 
 #### (2) Availability of information and notice
 
@@ -198,7 +198,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretarymay require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
 
 #### (g) Amendments and modifications to plans
 
@@ -266,7 +266,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;The Secretary may require, for each public housing agency that is at risk of being designated as troubled under section 1437d(j)(2) of this title or is designated as troubled under section 1437d(j)(2) of this title, that the public housing agency plan for such agency includesuch additional information as the Secretary determines to be appropriate, in accordance with such standards as the Secretary may establish or in accordance with such determinations as the Secretary may make on an agency-by-agency basis.
+&emsp;The Secretary may require, for each public housing agency that is at risk of being designated as troubled under section 1437d(j)(2) of this title or is designated as troubled under section 1437d(j)(2) of this title, that the public housing agency plan for such agency include such additional information as the Secretary determines to be appropriate, in accordance with such standards as the Secretary may establish or in accordance with such determinations as the Secretary may make on an agency-by-agency basis.
 
 #### (2) Troubled agencies
 
@@ -318,7 +318,7 @@ Pub. L. 105–276, title V, §511(b), Oct. 21, 1998, 112 Stat. 2538, provided th
 
 “(1)
 
-Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). The interim rule shall provide for a public comment period of not less than 60 days.
+Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). Theinterim rule shall provide for a public comment period of not less than 60 days.
 
 “(2)
 
@@ -359,10 +359,6 @@ Report.—Not later than 2 years after the date on which public housing agency p
 &emsp;“(A) a description of the results of each audit and review under paragraph (1); and
 
 &emsp;“(B) any recommendations for increasing compliance by public housing agencies with their public housing agency plans approved under section 5A of the United States Housing Act of 1937 (as added by subsection (a) of this section).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1437, 1437a, 1437d, 1437f, 1437k, 1437n, 1437bbb–5, 11904 of this title.
 
 <i><sup>1</sup></i><i> Subsection designation editorially supplied.</i>
 

@@ -12,11 +12,11 @@ The President shall transfer to the Corporation, at such time as he may determin
 
 (1) The Corporation shall be subject to the applicable provisions of chapter 91 of title 31, except as otherwise provided in this subpart.
 
-(2) An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Corporation at least once every three years, in accordance with generally accepted Government auditing standards for a financial and compliance audit, as issued by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Board. The financial statements of the Corporation shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 9106 of title 31, and which the Corporation shall submit to the Congress not later than six and one-half months after the end of the last fiscal year covered by the audit. The General Accounting Office may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the General Accounting Office considers necessary.
+(2) An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Corporation at least once every three years, in accordance with generally accepted Government auditing standards for a financial and compliance audit, as issued by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Board. The financial statements of the Corporation shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 9106 of title 31, and which the Corporation shall submit to the Congress not later than six and one-half months after the end of the last fiscal year covered by the audit. The Government Accountability Office may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Government Accountability Office considers necessary.
 
-(3) In lieu of the financial and compliance audit required by paragraph (2), the General Accounting Office shall, if the Office considers it necessary or upon the request of the Congress, audit the financial statements of the Corporation in the manner provided in paragraph (2). The Corporation shall reimburse the General Accounting Office for the full cost of any audit conducted under this paragraph.
+(3) In lieu of the financial and compliance audit required by paragraph (2), the Government Accountability Office shall, if the Office considers it necessary or upon the request of the Congress, audit the financial statements of the Corporation in the manner provided in paragraph (2). The Corporation shall reimburse the Government Accountability Office for the full cost of any audit conducted under this paragraph.
 
-(4) All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Corporation and the accountant who conducts the audit under paragraph (2), which are necessary for purposes of this subsection, shall be made available to the representatives of the General Accounting Office.
+(4) All books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Corporation and the accountant who conducts the audit under paragraph (2), which are necessary for purposes of this subsection, shall be made available to the representatives of the Government Accountability Office.
 
 #### (d) Powers of Corporation
 
@@ -50,17 +50,19 @@ The Corporation, including its franchise, capital, reserves, surplus, advances, 
 
 The Corporation shall publish, and make available to applicants for insurance, reinsurance, guarantees, financing, or other assistance made available by the Corporation under this subpart, the policy guidelines of the Corporation relating to its programs.
 
-(Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, §104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, §227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, §2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, §318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, §8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, §705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, §302(a), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–513, title V, §576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, §107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, §579(a), Nov. 26, 1997, 111 Stat. 2435.)
+(Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 816; amended Pub. L. 92–226, pt. I, §104(b), Feb. 7, 1972, 86 Stat. 22; Pub. L. 92–310, title II, §227(d), June 6, 1972, 86 Stat. 207; Pub. L. 93–390, §2(5), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §§7, 8, Apr. 24, 1978, 92 Stat. 215, 216; Pub. L. 95–598, title III, §318, Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–327, Aug. 8, 1980, 94 Stat. 1026; Pub. L. 97–65, §8, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 97–113, title VII, §705(b)(2), Dec. 29, 1981, 95 Stat. 1545; Pub. L. 99–204, §§4(c), 11–13, Dec. 23, 1985, 99 Stat. 1670, 1673, 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §597(a), Nov. 21, 1989, 103 Stat. 1257; Pub. L. 101–179, title III, §302(a), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–513, title V, §576(a), Nov. 5, 1990, 104 Stat. 2044; Pub. L. 102–549, title I, §107, Oct. 28, 1992, 106 Stat. 3654; Pub. L. 105–118, title V, §579(a), Nov. 26, 1997, 111 Stat. 2435; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
 Amendment by Pub. L. 100–461 is based on sections 108 and 110(a)(2) of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 108 and 110(a)(2) of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
 
 #### Amendments
+
+2004—Subsec. (c)(2) to (4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
 1997—Subsec. (f). Pub. L. 105–118 inserted “, or Pakistan” after “China”.
 
@@ -86,7 +88,7 @@ Subsecs. (j), (k). Pub. L. 99–204, §§12, 13, added subsecs. (j) and (k).
 
 Subsec. (e). Pub. L. 97–65, §8(2)(A), and Pub. L. 97–113, §705(b)(2), made identical amendments by substituting references to Inspector General for references to Auditor-General wherever appearing.
 
-Pub. L. 97–65, §8(2)(B), substituted language referring to Inspector General's authority to reviews, investigate, and conduct inspections of all phases of the Corporation's operations and activities for provisions which had formerly placed upon that official the responsibility for planning and directing the execution of audits, reviews, investigations, and inspections of all phases of the Corporation's operations and activities.
+Pub. L. 97–65, §8(2)(B), substituted language referring to Inspector General's authority to reviews, investigate, and conduct inspections of all phases of the Corporation's operations and activities for provisions which had formerly placed upon that official the responsibility for planning and directing the execution ofaudits, reviews, investigations, and inspections of all phases of the Corporation's operations and activities.
 
 Subsecs. (f) to (<i>l</i>). Pub. L. 97–65, §8(3), redesignated subsecs. (g), (h), (i), and (<i>l</i>) as (f), (g), (h), and (i), respectively. Former subsecs. (f) providing for the establishment of an Advisory Council, (j) providing limits for projects involving the exploration for or the mining of or other extraction of copper, and (k) prohibiting the granting of insurance, reinsurance, guaranty, financing, or other financial support for projects to establish or expand production or processing of palm oil, sugar, or citrus crops for export, were struck out.
 
@@ -129,8 +131,4 @@ Section 302(b) of Pub. L. 101–179 provided that: “In accordance with its man
 #### Avoidance of Duplicative Amendments
 
 Section 302(c) of Pub. L. 101–179 provided that: “If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167\], contains the same amendment that is made by subsection (a) of this section \[see 1989 Amendment note set out above\], the amendment made by that Act shall not be effective.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2197, 2200a of this title.
 

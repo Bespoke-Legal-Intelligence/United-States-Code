@@ -6,7 +6,7 @@ A homeownership program under this part shall provide for acquisition by eligibl
 
 #### (b) Affordability
 
-A homeownership program under this part shall provide for the establishment of sales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property, and for sales to eligible families, such that the eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
+A homeownership program under this part shall provide for the establishment of salesprices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property, and for sales to eligible families, such that the eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
 
 #### (c) Plan
 
@@ -28,7 +28,7 @@ Acquisition or rehabilitation of a property under a homeownership program under 
 
 #### (1) In general
 
-&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity for transfer to eligible families, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insuredunder title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
+&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity for transfer to eligible families, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
 #### (2) Prohibition against pledges
 
@@ -77,10 +77,6 @@ The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, c
 This title, referred to in subsec. (f)(2), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437<i>l</i>, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 
 Section 1437f of this title, referred to in subsec. (g)(2), was in the original “section 8”, and was translated as reading “section 8 of the United States Housing Act of 1937” to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12873 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

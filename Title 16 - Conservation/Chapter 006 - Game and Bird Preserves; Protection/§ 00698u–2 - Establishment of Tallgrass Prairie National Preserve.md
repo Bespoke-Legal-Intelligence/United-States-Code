@@ -14,7 +14,3 @@ The Preserve shall consist of the lands and interests in land, including approxi
 
 2000—Subsec. (b). Pub. L. 106–176 substituted “on June 3, 1994,” for “of June 3, 1994,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698u, 698u–1, 698u–3, 698u–4, 698u–6, 698u–7 of this title.
-

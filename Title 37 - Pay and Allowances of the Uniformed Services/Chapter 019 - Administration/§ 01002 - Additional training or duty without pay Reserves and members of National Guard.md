@@ -60,7 +60,3 @@ Subsection (d) is substituted for section 301(e) of existing title 37.
 
 Pub. L. 106–65, div. A, title VI, §672(c), Oct. 5, 1999, 113 Stat. 674, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as of February 10, 1996, as if included in section 1039 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 432 \[amending section 6323 of Title 5, Government Organization and Employees\]).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1012 of this title.
-

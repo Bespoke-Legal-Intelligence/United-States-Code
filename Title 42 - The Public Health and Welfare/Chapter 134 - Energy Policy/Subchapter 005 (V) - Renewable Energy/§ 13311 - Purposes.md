@@ -14,7 +14,3 @@ The purposes of this subchapter are to promote—
 
 This subchapter, referred to in text, was in the original “this title” meaning title XII of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2956, which enacted this subchapter and amended sections 6276, 12001 to 12003, 12005, and 12006 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13316 of this title.
-

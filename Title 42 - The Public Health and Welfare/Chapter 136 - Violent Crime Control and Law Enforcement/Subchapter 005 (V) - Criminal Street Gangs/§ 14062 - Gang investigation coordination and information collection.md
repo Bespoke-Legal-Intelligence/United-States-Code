@@ -18,7 +18,3 @@ There are authorized to be appropriated to carry out this section $1,000,000 for
 
 (Pub. L. 103–322, title XV, §150008, Sept. 13, 1994, 108 Stat. 2036.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

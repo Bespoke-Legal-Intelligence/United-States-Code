@@ -14,7 +14,3 @@ No country the government of which has been determined by the Secretary of State
 
 (Pub. L. 107–327, title II, §203, Dec. 4, 2002, 116 Stat. 2807.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7532 of this title.
-

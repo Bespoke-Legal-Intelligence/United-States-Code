@@ -14,7 +14,3 @@ The boundaries of the Basque Hills Wilderness Study Area are hereby expanded to 
 
 (Pub. L. 106–399, title II, §204, Oct. 30, 2000, 114 Stat. 1667.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460nnn–23 of this title.
-

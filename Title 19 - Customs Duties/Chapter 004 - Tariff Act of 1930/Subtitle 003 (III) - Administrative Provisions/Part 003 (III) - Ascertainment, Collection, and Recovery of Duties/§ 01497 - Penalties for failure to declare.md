@@ -44,7 +44,3 @@ Subsec. (a)(2)(A). Pub. L. 103–182, §612(2), amended subpar. (A) generally. P
 
 1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Any article not included in the declaration and entry as made, and, before examination of the baggage was begun, not mentioned in writing by such person, if written declaration and entry was required, or orally if written declaration and entry was not required, shall be subject to forfeiture and such person shall be liable to a penalty equal to the value of such article.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1590 of this title.
-

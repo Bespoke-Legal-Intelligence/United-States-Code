@@ -85,10 +85,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 sections 5902, 5905, 7135a.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “necessary”.</i>
 
 

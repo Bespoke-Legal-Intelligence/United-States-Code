@@ -4,7 +4,3 @@ There are authorized to be appropriated to carry out this subpart $30,000,000 fo
 
 (Pub. L. 89–10, title II, §2346, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6713 of this title.
-

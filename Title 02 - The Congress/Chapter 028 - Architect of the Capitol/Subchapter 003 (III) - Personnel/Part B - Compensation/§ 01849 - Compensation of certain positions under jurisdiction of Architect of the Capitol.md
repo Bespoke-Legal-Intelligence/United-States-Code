@@ -24,9 +24,9 @@ Section was classified to section 166b–3b of former Title 40, prior to the ena
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–117 added subsec. (c).
+2002—Subsec. (c). Pub. L. 107–117 added subsec. (c).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–68, §129(c)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Effective as of the first day of the first applicable pay period beginning on or after November 5, 1990, the compensation of the Director of Engineering (under the Architect of the Capitol) shall be equal to such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved.”
+2001—Subsec. (a). Pub. L. 107–68, §129(c)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Effective as of the first day of the first applicable pay period beginning on or after November 5, 1990, the compensation of the Director of Engineering (under the Architect of the Capitol) shall be equal to such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved.”
 
 Subsecs. (b), (c). Pub. L. 107–68, §129(c)(1), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
@@ -54,13 +54,13 @@ Subsecs. (b), (c). Pub. L. 107–68, §129(c)(1), redesignated subsec. (c) as (b
 
 &emsp;“(H) The Supervising Engineer of the United States Capitol.”
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–55, §311(a), substituted “such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved” for “the rate of basic pay payable for level V of the Executive Schedule”.
+1997—Subsec. (a). Pub. L. 105–55, §311(a), substituted “such rate as the Architect considers appropriate, not to exceed 90 percent of the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved” for “the rate of basic pay payable for level V of the Executive Schedule”.
 
 Subsec. (b)(1). Pub. L. 105–55, §311(b)(1), struck out at end “For purposes of the preceding sentence, ‘the maximum rate allowable for the Senior Executive Service’ means the highest rate of basic pay that may be set for the Senior Executive Service under section 5382(b) of title 5.”
 
 Subsec. (b)(1)(A), (B). Pub. L. 105–55, §311(b)(2), substituted “the highest total rate of pay for the Senior Executive Service under chapter 53 of title 5 for the locality involved” for “the maximum rate allowable for the Senior Executive Service”.
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–90, §104(a)(3), inserted sentence at end relating to maximum rate allowable for Senior Executive Service.
+1991—Subsec. (b)(1). Pub. L. 102–90, §104(a)(3), inserted sentence at end relating to maximum rate allowable for Senior Executive Service.
 
 Subsec. (b)(1)(A). Pub. L. 102–90, §104(a)(1), substituted “90 percent of the maximum rate allowable for the Senior Executive Service;” for “the rate payable for grade GS–18 of the General Schedule;”.
 
@@ -79,8 +79,4 @@ Pub. L. 107–68, title I, §129(c)(2), Nov. 12, 2001, 115 Stat. 580, provided t
 #### Effective Date of 1997 Amendment
 
 Section 311(c) of Pub. L. 105–55 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to pay periods beginning on or after January 1, 1998.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1805 of this title.
 

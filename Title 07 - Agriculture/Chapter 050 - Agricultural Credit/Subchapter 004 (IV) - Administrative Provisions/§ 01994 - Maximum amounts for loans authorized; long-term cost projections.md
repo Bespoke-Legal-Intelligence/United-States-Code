@@ -8,7 +8,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for notmore than $3,796,000,000 for each of fiscal years 2003 through 2007, of which, for each fiscal year—
+&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $3,796,000,000 for each of fiscal years 2003 through 2007, of which, for each fiscal year—
 
 &emsp;&emsp;(A) $770,000,000 shall be for direct loans, of which—
 
@@ -152,19 +152,15 @@ Amendment by section 701(h)(1)(F) of Pub. L. 102–237 to any provision specifie
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as a note under section 511r of this title.
+Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub. L. 101–508, set out as an Effective Date note under section 940d of this title.
 
 #### Construction of 1990 Amendment
 
-Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed andthe Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
 
 #### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
 
 Pub. L. 106–2, §1, Mar. 15, 1999, 113 Stat. 5, provided that: “Amounts shall be made available pursuant to section 346(b)(1)(D) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1994(b)(1)(D)\] for guaranteed loans, without regard to any reservation under section 346(b)(2)(B) of such Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1923 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -54,7 +54,3 @@ In subsection (b)(1)(A) and (B), the word “inspect” is substituted for “ha
 
 In subsection (b)(2), the words “to carry out this subsection” are substituted for “who shall have authority under the orders of the Board to inspect and examine lands, buildings, equipment, accounts, records, and memorandums to which the Board has access under this subsection” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41708 of this title.
-

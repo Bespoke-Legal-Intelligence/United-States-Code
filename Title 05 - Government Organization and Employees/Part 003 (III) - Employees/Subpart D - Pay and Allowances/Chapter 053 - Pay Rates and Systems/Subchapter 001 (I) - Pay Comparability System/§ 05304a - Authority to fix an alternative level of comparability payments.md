@@ -30,7 +30,7 @@ Section 634 of Pub. L. 101–509 provided that:
 
 &emsp;“ ‘(A) the “threshold amount” is $1,800,000,000; and
 
-&emsp;“ ‘(B) “severe economic conditions” shall be considered to exist relative to comparability payments scheduled to take effect on a given date if, during the12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.
+&emsp;“ ‘(B) “severe economic conditions” shall be considered to exist relative to comparability payments scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.
 
 “ ‘(2) Authority under this section to provide an alternative level of comparability payments in any year may not be exercised except in accordance with the following:
 
@@ -47,8 +47,4 @@ Section 634 of Pub. L. 101–509 provided that:
 “ ‘(2) In making any estimate under this section, costs attributable to any authority under section 5304(h) may not be taken into account.’; and
 
 &emsp;“(2) the President's pay agent (referred to in section 5304(d) of such title, as so amended) may use appropriate estimates in lieu of BLS survey data if such data is not available for use in preparing the agent's report with respect to comparability payments payable during calendar year 1994.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 section 60a–1; title 18 section 207.
 

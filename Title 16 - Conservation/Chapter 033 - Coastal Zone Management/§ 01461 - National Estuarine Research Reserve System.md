@@ -64,7 +64,7 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 &emsp;(B) to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c) of this section.
 
-(2) Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal statesto execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
+(2) Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal states to execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
 
 (3)(A) The amount of the financial assistance provided under paragraph (1)(A)(i) with respect to the acquisition of lands and waters, or interests therein, for any one national estuarine reserve may not exceed an amount equal to 50 percent of the costs of the lands, waters, and interests therein or $5,000,000, whichever amount is less.
 
@@ -127,8 +127,4 @@ Subsec. (e)(3)(B). Pub. L. 101–508, §6214(c), (d), substituted “70 percent�
 1980—Pub. L. 96–464, in par. (2), substituted “the preservation of islands, or portions thereof” for “access to public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value, and for the preservation of islands”; and in provision following par. (2), raised the spending limitation of $2,000,000 to $3,000,000 and inserted provision that no grant for acquisition of land may be made under this section without the approval of the Governor of the state in which the land proposed to be acquired is located.
 
 1976—Pub. L. 94–370, §12, restructured existing provisions into pars. (1) and (2), inserted purpose of acquiring lands to provide for access to beaches and other coastal areas and for the preservation of islands, and struck out proviso that no Federal funds received pursuant to sections 1454 or 1455 of this title be used for purposes of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1447c, 1458, 1460, 1464 of this title; title 33 section 2901; title 42 sections 7403, 7412.
 

@@ -10,7 +10,7 @@ A participant, who completes an assignment under section 3942(b) of this title i
 
 #### (b) Retirement of participants eligible for retirement
 
-A participant who completes an assignment under section 3942(b) of this title in a position to which the participant was appointed by the President and is eligible for retirement and is not reassigned within 90 days after the termination of such assignment and any period of authorized leave, shall be retired from the Service and receive retirement benefits in accordance with section 4046 of this title or section 4071d of this title, as appropriate.
+A participant who completes an assignment under section 3942(b) of this title in a position towhich the participant was appointed by the President and is eligible for retirement and is not reassigned within 90 days after the termination of such assignment and any period of authorized leave, shall be retired from the Service and receive retirement benefits in accordance with section 4046 of this title or section 4071d of this title, as appropriate.
 
 #### (c) Retirement of reemployed participants
 
@@ -29,8 +29,4 @@ A participant who is retired under subsection (a)(2) of this section and is subs
 “(c) A participant who is not reassigned under subsection (a) of this section shall be retired from the Service and receive retirement benefits in accordance with section 4046 or 4071d of this title, as appropriate.”
 
 1991—Pub. L. 102–138 inserted “Reassignment and” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a participant completes an assignment under section 3942(b) of this title in a position to which he or she was appointed by the President and has not been reassigned within 3 months after the termination of such assignment (plus any period of authorized leave), the participant shall be retired from the Service and receive retirement benefits in accordance with section 4046 of this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4046, 4047, 4071d of this title.
 

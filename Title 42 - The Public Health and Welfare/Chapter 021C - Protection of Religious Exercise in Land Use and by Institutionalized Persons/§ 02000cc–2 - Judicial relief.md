@@ -6,7 +6,7 @@ A person may assert a violation of this chapter as a claim or defense in a judic
 
 #### (b) Burden of persuasion
 
-If a plaintiff produces prima facie evidence to support a claim alleging a violation of the Free Exercise Clause or a violation of section 2000cc of this title, the government shall bear the burden of persuasion on any element of the claim, except that the plaintiff shall bear the burden of persuasion on whether the law (including a regulation) or government practice that is challenged by the claim substantially burdens the plaintiff's exercise of religion.
+If a plaintiff produces prima facie evidence to support a claim alleging a violation of the FreeExercise Clause or a violation of section 2000cc of this title, the government shall bear the burden of persuasion on any element of the claim, except that the plaintiff shall bear the burden of persuasion on whether the law (including a regulation) or government practice that is challenged by the claim substantially burdens the plaintiff's exercise of religion.
 
 #### (c) Full faith and credit
 
@@ -37,8 +37,4 @@ The Prison Litigation Reform Act of 1995, referred to in subsec. (e), is Pub. L.
 #### Codification
 
 Section is comprised of section 4 of Pub. L. 106–274. Subsec. (d) of section 4 of Pub. L. 106–274 amended section 1988(b) of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000cc–5 of this title.
 

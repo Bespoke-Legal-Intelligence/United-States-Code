@@ -14,7 +14,3 @@ Section 1705 of this title shall not take effect until the Secretary finds—
 
 (Pub. L. 95–395, §7, Sept. 30, 1978, 92 Stat. 816.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1705, 1707, 1709 of this title.
-

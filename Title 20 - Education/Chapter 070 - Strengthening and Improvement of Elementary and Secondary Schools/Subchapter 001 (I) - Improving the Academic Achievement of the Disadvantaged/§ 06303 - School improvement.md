@@ -76,7 +76,7 @@ The State educational agency shall make publicly available a list of those schoo
 
 #### (7) Allocation
 
-&emsp;A State educational agency that receives a grant under this subsection shall allocate at least 95 percent of the grant funds directly to local educational agencies for schools identified for school improvement, corrective action, or restructuring to carry out activities under section 6316(b) of this title, or may, with the approval of the local educational agency, directly provide for these activities or arrange for their provision through other entities suchas school support teams or educational service agencies.
+&emsp;A State educational agency that receives a grant under this subsection shall allocate at least 95 percent of the grant funds directly to local educational agencies for schools identified for school improvement, corrective action, or restructuring to carry out activities under section 6316(b) of this title, or may, with the approval of the local educational agency, directly provide for these activities or arrange for their provision through other entities such as school support teams or educational service agencies.
 
 #### (8) Administrative costs
 
@@ -93,10 +93,6 @@ The State educational agency shall make publicly available a list of those schoo
 A prior section 6303, Pub. L. 89–10, title I, §1003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3522, related to reservation and allocation for school improvement, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1003 of Pub. L. 89–10 was renumbered section 9003 and was classified to section 3383 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6302, 6317, 7305b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subpart 2 of part A of this subchapter”.</i>
 

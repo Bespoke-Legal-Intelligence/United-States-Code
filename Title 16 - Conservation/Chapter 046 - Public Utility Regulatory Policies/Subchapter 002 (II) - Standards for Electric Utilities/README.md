@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2613, 2631, 2632, 2633, 2634, 2642 of this title.
-
 
 ---
 

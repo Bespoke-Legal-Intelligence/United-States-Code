@@ -26,7 +26,3 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 Pub. L. 101–94, title II, §203, Aug. 16, 1989, 103 Stat. 627, provided that the Federal Rules of Appellate Procedure (28 U.S.C. App.) would be interim rules of United States Court of Veterans Appeals unless otherwise provided by the Court in accordance with this chapter, and if there was a conflict between a provision of Federal Rules of Appellate Procedure and procedures set forth in this chapter, procedures set forth in this chapter would apply.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7263 of this title.
-

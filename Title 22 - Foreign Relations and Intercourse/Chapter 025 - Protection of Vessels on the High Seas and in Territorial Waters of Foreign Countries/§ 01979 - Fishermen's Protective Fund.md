@@ -12,7 +12,3 @@ There is created a Fishermen's Protective Fund which shall be used by the Secret
 
 Section applicable with respect to seizure of vessels of the United States occurring on or after Oct. 26, 1972, except that reimbursements under section 1973 of this title may be made from the fund established by this section with respect to seizure of vessels occurring after Dec. 31, 1970 and before Oct. 26, 1972, if no reimbursement was made before Oct. 26, 1972, see section 6 of Pub. L. 92–569, set out as an Effective Date of 1972 Amendment note under section 1972 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973, 1975, 1980, 1980a of this title.
-

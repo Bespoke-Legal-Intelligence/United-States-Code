@@ -28,7 +28,7 @@ The Administrator shall prepare and submit directly to the Congress and the Pres
 
 &emsp;(5) a summary listing of information-gathering activities conducted under section 772 of this title.
 
-&emsp;(6) an analysis of the energy needs of the United States and the methods by which such needs can be met, including both tax and nontax proposals and energy conservation strategies.
+&emsp;(6) an analysis of the energy needs of the United States and the methods by which suchneeds can be met, including both tax and nontax proposals and energy conservation strategies.
 
 > In the first annual report submitted after August 14, 1976, the Administrator shall include in such report with respect to the analysis referred to in paragraph (6) a specific discussion of the utility and relative benefits of employing a Btu tax as a means for obtaining national energy goals.
 
@@ -75,8 +75,4 @@ Subsecs. (c) to (e). Pub. L. 94–385, §109(a)(2), (c), redesignated subsecs. (
 #### Transfer of Functions
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 5819, 7267.
 

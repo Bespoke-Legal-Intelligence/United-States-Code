@@ -40,7 +40,3 @@
 
 Pub. L. 95–599, title I, §170, Nov. 6, 1978, 92 Stat. 2724, as amended by Pub. L. 96–106, §20, Nov. 9, 1979, 93 Stat. 799, established the National Alcohol Fuels Commission, directed the Commission to make a full and complete investigation and study of the long- and short-term potential for alcohol fuels, from biomass (including but not limited to, animal, crop and wood waste, municipal and industrial waste, sewage sludge, and ocean and terrestrial crops) and coal, to contribute to meeting the Nation's energy needs, and provided that, not later than eighteen months after being established, the Commission submit to the President and the Congress its final report including its recommendations and findings, with the Commission to cease to exist six months after submission of such report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5907 of this title.
-

@@ -4,7 +4,3 @@ Whenever Congress shall after March 23, 1906, by law authorize the construction 
 
 (Mar. 23, 1906, ch. 1130, §6, 34 Stat. 86.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 491, 492, 493, 494, 495, 497, 498, 508, 530, 535 of this title.
-

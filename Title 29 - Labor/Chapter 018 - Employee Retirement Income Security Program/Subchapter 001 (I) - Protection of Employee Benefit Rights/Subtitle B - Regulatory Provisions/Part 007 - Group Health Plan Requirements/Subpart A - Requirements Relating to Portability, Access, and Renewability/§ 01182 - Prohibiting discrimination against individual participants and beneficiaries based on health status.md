@@ -50,7 +50,3 @@
 
 (Pub. L. 93–406, title I, §702, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1945.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1191b of this title.
-

@@ -30,7 +30,7 @@
 
 &emsp;(D) to accelerate the commercial demonstration of technologies for producing substitutes for natural gas, including coal gasification: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation in the form of a joint Federal-industry corporation, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
-&emsp;(E) to accelerate the commercial demonstration of technologies for producing syncrude and liquid petroleum products from coal: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation through guaranteed prices or purchase of the products, and recommendations pursuant to this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
+&emsp;(E) to accelerate the commercial demonstration of technologies for producing syncrude and liquid petroleum products from coal: <i>Provided</i>, That the Secretary shall invite and consider proposals from potential participants based upon Federal assistance and participation through guaranteed prices or purchase of the products, and recommendations pursuantto this clause shall be accompanied by a report on the viability of using this form of Federal assistance or participation;
 
 &emsp;(F) in accordance with the program authorized by the Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410) \[30 U.S.C. 1101 et seq.\], to accelerate the commercial demonstration of geothermal energy technologies;
 
@@ -76,7 +76,7 @@ Section 5914 of this title, referred to in subsecs. (a), (b)(1), and (c), was om
 
 The Solar Heating and Cooling Act of 1974, referred to in subsec. (b)(3), probably means the Solar Heating and Cooling Demonstration Act of 1974, Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
-The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3)(F), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24\(§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
+The Geothermal Energy Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3)(F), is Pub. L. 93–410, Sept. 3, 1974, 88 Stat. 1079, as amended, which is classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 30 and Tables.
 
 The Solar Research, Development, and Demonstration Act of 1974, referred to in subsec. (b)(3)(L), probably means the Solar Energy Research, Development, and Demonstration Act of 1974, Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, as amended, which is classified generally to subchapter II (§5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5551 of this title and Tables.
 
@@ -115,10 +115,6 @@ Pub. L. 102–486, §2303(a)(3)(A), substituted “Secretary, in consultation wi
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
 Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, set out as a note under section 5821 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12006, 13522 of this title; title 15 section 2709.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

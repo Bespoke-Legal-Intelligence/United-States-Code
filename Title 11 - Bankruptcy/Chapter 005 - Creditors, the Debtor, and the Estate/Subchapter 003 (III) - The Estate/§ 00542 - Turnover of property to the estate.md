@@ -24,11 +24,11 @@ The extent to which the attorney client privilege is valid against the trustee i
 
 #### senate report no. 95–989
 
-Subsection (a) of this section requires anyone holding property of the estate on the date of the filing of thepetition, or property that the trustee may use, sell, or lease under section 363, to deliver it to the trustee. The subsection also requires an accounting. The holder of property of the estate is excused from the turnover requirement of this subsection if the property held is of inconsequential value to the estate. However, this provision must be read in conjunction with the remainder of the subsection, so that if the property is of inconsequential monetary value, yet has a significant use value for the estate, the holder of the property would not be excused from turnover.
+Subsection (a) of this section requires anyone holding property of the estate on the date of the filing of the petition, or property that the trustee may use, sell, or lease under section 363, to deliver it to the trustee. The subsection also requires an accounting. The holder of property of the estate is excused from the turnover requirement of this subsection if the property held is of inconsequential value to the estate. However, this provision must be read in conjunction with the remainder of the subsection, so that if the property is of inconsequential monetary value, yet has a significant use value for the estate, the holder of the property would not be excused from turnover.
 
 Subsection (b) requires an entity that owes money to the debtor as of the date of the petition, or that holds money payable on demand or payable on order, to pay the money to the order of the trustee. An exception is made to the extent that the entity has a valid right of setoff, as recognized by section 553.
 
-Subsection (c) provides an exception to subsections (a) and (b). It protects an entity that has neither actual notice nor actual knowledge of the case and that transfers, in good faith, property that is deliverable or payable to the trustee to someone other than to the estate or on order of the estate. This subsection codifies the result of <i>Bank of Marin v. England</i>, 385 U.S. 99 (1966), but does not go so far as to permit bank setoff in violation of the automatic stay, proposed 11 U.S.C. 362(a)(7), even if the bank offsetting the debtor's balance has no knowledge of the case.
+Subsection (c) provides an exception to subsections (a) and (b). It protects an entity that has neither actualnotice nor actual knowledge of the case and that transfers, in good faith, property that is deliverable or payable to the trustee to someone other than to the estate or on order of the estate. This subsection codifies the result of <i>Bank of Marin v. England</i>, 385 U.S. 99 (1966), but does not go so far as to permit bank setoff in violation of the automatic stay, proposed 11 U.S.C. 362(a)(7), even if the bank offsetting the debtor's balance has no knowledge of the case.
 
 Subsection (d) protects life insurance companies that are required by contract to make automatic premium loans from property that might otherwise be property of the estate.
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 349, 502, 522, 541, 549 of this title.
 

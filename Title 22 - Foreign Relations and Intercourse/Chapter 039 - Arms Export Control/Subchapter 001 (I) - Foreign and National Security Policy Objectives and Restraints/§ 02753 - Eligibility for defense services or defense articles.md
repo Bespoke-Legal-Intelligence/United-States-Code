@@ -12,7 +12,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 &emsp;(4) the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
 
-> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consentunder paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
+> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
 
 #### (b) Necessity of consent by President
 
@@ -104,7 +104,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 &emsp;&emsp;(ii) for lead-nation procurement if the certification transmitted to the Congress pursuant to section 2776(b) of this title with regard to such lead-nation procurement identified the transferees on whose behalf the lead-nation procurement was proposed.
 
-(5) In the case of a transfer to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on consent of the President set forth in paragraphs (1) and (3)(A) shall apply only if the transfer is—
+(5) In the case of a transfer to a member country of the North Atlantic Treaty Organization\(NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on consent of the President set forth in paragraphs (1) and (3)(A) shall apply only if the transfer is—
 
 &emsp;(A) a transfer of major defense equipment valued (in terms of its original acquisition cost) at $25,000,000 or more; or
 
@@ -160,7 +160,7 @@ Subsec. (d)(3)(B), (C). Pub. L. 104–164, §141(b)(3), added subpars. (B) and (
 
 1988—Subsec. (d)(2)(A). Pub. L. 100–461, §577(1), substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
 
-Subsec. (d)(3). Pub. L. 100–461, §577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+Subsec. (d)(3). Pub. L. 100–461, §577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and2776(c)(3) of this title prohibiting the proposed transfer.”
 
 1986—Subsec. (a). Pub. L. 99–661 repealed section 1102(a)(3) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
@@ -285,10 +285,6 @@ Definitions.—As used in this section—
 &emsp;“(1) the term ‘defense article’ has the same meaning given to that term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)); and
 
 &emsp;“(2) the term ‘excess defense article’ has the same meaning given to that term in section 644(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2765, 2776, 2780, 2799b, 3281 of this title; title 10 section 4542.
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

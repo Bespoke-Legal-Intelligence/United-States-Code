@@ -34,7 +34,3 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 Pub. L. 88–433, §2, Aug. 14, 1964, 78 Stat. 442, provided that: “The amendments made by section 6 of the Act of July 7, 1964 (Public Law 88–361, 78 Stat. 297) \[amending this section\], shall take effect as of January 1, 1964.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3543 of this title.
-

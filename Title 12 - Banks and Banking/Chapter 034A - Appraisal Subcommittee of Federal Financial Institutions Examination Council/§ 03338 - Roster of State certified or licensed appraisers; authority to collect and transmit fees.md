@@ -8,7 +8,7 @@ Each State with an appraiser certifying and licensing agency whose certification
 
 &emsp;(2) collect from such individuals who perform or seek to perform appraisals in federally related transactions, an annual registry fee of not more than $25, such fees to be transmitted by the State agencies to the Council on an annual basis.
 
-> Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50 per annum, as necessary to carry out its functions under this chapter.
+> Subject to the approval of the Council, the Appraisal Subcommittee may adjust the dollar amount of registry fees, up to a maximum of $50per annum, as necessary to carry out its functions under this chapter.
 
 #### (b) Use of amounts appropriated or collected
 
@@ -23,8 +23,4 @@ Amounts appropriated for or collected by the Appraisal Subcommittee under this s
 &emsp;(4) to make grants in such amounts as it deems appropriate to the Appraisal Foundation, to help defray those costs of the foundation relating to the activities of its Appraisal Standards and Appraiser Qualification Boards.
 
 (Pub. L. 101–73, title XI, §1109, Aug. 9, 1989, 103 Stat. 513.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3337 of this title.
 

@@ -100,9 +100,5 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 Section 330003(g) of Pub. L. 103–322 provided that the amendment made by that section is effective retroactively to the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1831k, 3412, 4201, 4202, 4204 of this title; title 18 section 3322.
-
 <i><sup>1</sup></i><i> See 1990 Amendment note below.</i>
 

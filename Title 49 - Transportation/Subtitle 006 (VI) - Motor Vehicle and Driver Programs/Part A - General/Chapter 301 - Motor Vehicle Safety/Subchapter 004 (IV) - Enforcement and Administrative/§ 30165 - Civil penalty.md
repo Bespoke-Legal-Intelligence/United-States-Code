@@ -64,7 +64,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§109(b), 110(d) (related to §109), 204(b) (
 
 15:1399(d) (related to 15:1398).
 
-In subsection (a), the text of 15:1424(b) (related to civil penalty) is omitted because of the restatement. The words “is liable to the United States Government for” are substituted for “shall be subject to” for consistency. The words “A separate violation occurs for” are substituted for “Such violation of a provision of section 1397 of this title, or regulations issued thereunder, shall constitute a separate violation with respect to” to eliminate unnecessary words.
+In subsection (a), the text of 15:1424(b) (related to civil penalty) is omitted because of the restatement. The words “is liable to the United States Government for” are substituted for “shall be subject to” for consistency. The words “A separate violation occurs for” are substituted for “Such violation of a provision ofsection 1397 of this title, or regulations issued thereunder, shall constitute a separate violation with respect to” to eliminate unnecessary words.
 
 In subsection (b)(2), the words “amount of a civil penalty imposed or compromised” are substituted for “amount of such penalty, when finally determined, or the amount agreed upon in compromise” to eliminate unnecessary words.
 
@@ -87,10 +87,6 @@ Section 30123(d) of this title, referred to in subsec. (a)(1), was redesignated 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30115, 30163 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

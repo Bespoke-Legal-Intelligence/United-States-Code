@@ -2,7 +2,7 @@
 
 #### (a) Effective date; procurement policy, regulations, procedure or form; publication in Federal Register
 
-Except as provided in subsection (d) of this section, no procurement policy, regulation, procedure, or form (including amendments or modifications thereto) relating to the expenditure of appropriated funds that has (1) a significant effect beyond the internal operating procedures of the agency issuing the procurement policy, regulation, procedure or form, or (2) a significant cost or administrative impact on contractors or offerors, may take effect until 60 days after the procurement policy, regulation, procedure, or form is published for public comment in the Federal Register pursuant to subsection (b) ofthis section. Notwithstanding the preceding sentence, such a policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but in no event may that effective date be less than 30 days after the publication date.
+Except as provided in subsection (d) of this section, no procurement policy, regulation, procedure, or form (including amendments or modifications thereto) relating to the expenditure of appropriated funds that has (1) a significant effect beyond the internal operating procedures of the agency issuing the procurement policy, regulation, procedure or form, or (2) a significant cost or administrative impact on contractors or offerors, may take effect until 60 days after the procurement policy, regulation, procedure, or form is published for public comment in the Federal Register pursuant to subsection (b) of this section. Notwithstanding the preceding sentence, such a policy, regulation, procedure, or form may take effect earlier than 60 days after the publication date when there are compelling circumstances for the earlier effective date, but in no event may that effective date be less than 30 days after the publication date.
 
 #### (b) Publication in Federal Register
 
@@ -45,8 +45,4 @@ Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that se
 #### Effective Date
 
 Section 302(b) of Pub. L. 98–577 provided that: “The procedures required by the amendment made by subsection (a) \[enacting this section\] shall apply with respect to procurement policies, regulations, procedures, or forms that an agency issues in final form on or after the date which is 30 days after the date of enactment of this Act \[Oct. 30, 1984\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 8153; title 50 section 2781; title 50 App. section 2159.
 

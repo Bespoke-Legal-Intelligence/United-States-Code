@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—INTERIM MANDATORY SAFETY STANDARDS FOR UNDERGROUND COAL MINES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 802, 938, 960 of this title.
-
 
 ---
 

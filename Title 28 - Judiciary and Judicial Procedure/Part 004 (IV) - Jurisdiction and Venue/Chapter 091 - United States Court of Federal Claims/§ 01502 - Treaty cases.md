@@ -36,7 +36,3 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 7422.
-

@@ -28,7 +28,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 (3) For the purposes of the preceding sentence, if one or more of the purposes of such a condition or restriction is covered by the functions of both Endowments, or if some of the purposes of such a condition or restriction are covered by the functions of one Endowment and other of the purposes of such a condition or restriction are covered by the functions of the other Endowment, the Federal Council on the Arts and the Humanities shall determine an equitable manner for distribution between each of the Endowments of the property so donated, bequeathed, or devised.
 
-(4) For the purposes of the income tax, gift tax, and estate tax laws of the United States, any money or other property donated, bequeathed, or devised to the Foundation or one ofits Endowments and received by the Chairperson of an Endowment pursuant to authority derived under this subsection shall be deemed to have been donated, bequeathed, or devised to or for the use of the United States.
+(4) For the purposes of the income tax, gift tax, and estate tax laws of the United States, any money or other property donated, bequeathed, or devised to the Foundation or one of its Endowments and received by the Chairperson of an Endowment pursuant to authority derived under this subsection shall be deemed to have been donated, bequeathed, or devised to or for the use of the United States.
 
 #### (c) Advisory panels; membership; procedures
 
@@ -80,7 +80,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 (3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
-&emsp;(A) for purposes of determining whether to provide any subsequent financial assistance,take into consideration the results of the post-award evaluation conducted under this subsection;
+&emsp;(A) for purposes of determining whether to provide any subsequent financial assistance, take into consideration the results of the post-award evaluation conducted under this subsection;
 
 &emsp;(B) prohibit the recipient of such financial assistance to use the name of, or in any way associate such project, production, or program with the Endowment that provided such financial assistance; and
 
@@ -128,7 +128,7 @@ Subsecs. (b), (c). Pub. L. 96–496, §107(b), (c), substituted “April” for 
 
 Subsec. (d). Pub. L. 96–496, §107(d), added subsec. (d).
 
-1973—Subsec. (a)(2). Pub. L. 93–133, §2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisionsof sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
+1973—Subsec. (a)(2). Pub. L. 93–133, §2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
 
 Subsec. (a)(4). Pub. L. 93–133, §2(a)(10), inserted proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding shall have broad geographic representation.
 
@@ -154,11 +154,29 @@ Amendment by section 5(a)(3) of Pub. L. 91–346 effective after June 30, 1970, 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to transmitting annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (d) of this section are listed in item 7 on page 183), see section 3003 of Pub. L. 104–66,as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
+#### Delegation of Certain Reporting Authority
 
-This section is referred to in sections 954, 955, 956, 960 of this title.
+Memorandum of President of the United States, Dec. 8, 2004, 69 F.R. 74937, provided:
+
+Memorandum for the Chairperson of the National Endowment for the Arts
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions conferred upon the President in the National Foundation on the Arts and Humanities Act of 1965, as amended (20 U.S.C. 959(d)) to provide the specified report relating to the National Endowment for the Arts to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Memorandum of President of the United States, Dec. 8, 2004, 69 F.R. 74939, provided:
+
+Memorandum for the Chairperson of the National Endowment for the Humanities
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions conferred upon the President in the National Foundation on the Arts and Humanities Act of 1965, as amended (20 U.S.C. 959(d)) to provide the specified report relating to the National Endowment for the Humanities to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Subsec. (c)(3) of this section does not contain a subpar. (A).</i>
 

@@ -24,11 +24,11 @@ Notwithstanding any other provision of this chapter, the following are permitted
 
 &emsp;(2) The provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
 
-&emsp;(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes ofparagraph (1), without the permission of the Secretary of the Treasury.
+&emsp;(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
 
 For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 85–921, §1, Sept. 2, 1958, 72 Stat. 1771; Pub. L. 90–353, §1, June 20, 1968, 82 Stat. 240; Pub. L. 91–448, §2, Oct. 14, 1970, 84 Stat. 921; Pub. L. 98–369, div. A, title X, §1077(b)(1), (2), July 18, 1984, 98 Stat. 1054; Pub. L. 102–550, title XV, §1554, Oct. 28, 1992, 106 Stat. 4071; Pub. L. 104–294, title VI, §601(e), (f)(3), Oct. 11, 1996, 110 Stat. 3499.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 85–921, §1, Sept. 2, 1958, 72 Stat. 1771; Pub. L. 90–353, §1, June 20, 1968, 82 Stat. 240; Pub. L. 91–448, §2, Oct. 14, 1970, 84 Stat. 921; Pub. L. 98–369, div. A, titleX, §1077(b)(1), (2), July 18, 1984, 98 Stat. 1054; Pub. L. 102–550, title XV, §1554, Oct. 28, 1992, 106 Stat. 4071; Pub. L. 104–294, title VI, §601(e), (f)(3), Oct. 11, 1996, 110 Stat. 3499.)
 
 #### Historical and Revision Notes
 
@@ -65,8 +65,4 @@ Par. (1)(ii). Pub. L. 98–369, §1077(b)(2), inserted “and illustrations of s
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, see section 1077(c) of Pub. L. 98–369, set out as a note under section 718e of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 474 of this title; title 16 section 718e.
 

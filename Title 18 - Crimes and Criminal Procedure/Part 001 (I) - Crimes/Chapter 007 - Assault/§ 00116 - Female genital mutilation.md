@@ -4,7 +4,7 @@
 
 (b) A surgical operation is not a violation of this section if the operation is—
 
-&emsp;(1) necessary to the health of the person on whom it is performed, and is performed by a person licensed in the place of its performance as a medical practitioner; or
+&emsp;(1) necessary to the health of the person on whom it is performed, and is performed by aperson licensed in the place of its performance as a medical practitioner; or
 
 &emsp;(2) performed on a person in labor or who has just given birth and is performed for medical purposes connected with that labor or birth by a person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife.
 

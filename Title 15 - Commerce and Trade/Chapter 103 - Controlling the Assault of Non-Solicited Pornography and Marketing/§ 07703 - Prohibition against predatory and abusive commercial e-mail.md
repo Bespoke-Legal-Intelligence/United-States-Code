@@ -36,5 +36,5 @@ It is the sense of Congress that—
 
 #### Codification
 
-Section is comprised of section 4 of Pub. L. 108–187. Subsec. (a) of section 4 of Pub. L. 108–187 enacted section 1037 of Title 18, Crimes and Criminal Procedure, and amended analysis for chapter 47 of Title 18. The provisions of subsec. (b) of section 4 of Pub. L. 108–187 are also listed in a Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses table set out under section 994 of Title 28, Judiciary and Judicial Procedure.
+Section is comprised of section 4 of Pub. L. 108–187. Subsec. (a) of section 4 of Pub. L. 108–187 enacted section 1037 of Title 18, Crimes and Criminal Procedure, and amended analysis for chapter 47 of Title 18. The provisions of subsec. (b) of section 4 of Pub. L. 108–187 are also listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure.
 

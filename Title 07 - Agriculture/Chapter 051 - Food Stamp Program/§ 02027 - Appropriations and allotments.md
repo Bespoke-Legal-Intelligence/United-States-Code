@@ -28,7 +28,7 @@ In prescribing the manner in which allotments will be reduced under subsection (
 
 #### (d) Requisite action by Secretary to reduce allotments; statement to Congressional committees
 
-Not later than sixty days after the issuance of a report under subsection (a) of this section in which the Secretary expresses the belief that reductions in the value of allotments to be issued to households certified to participate in the food stamp program will be necessary, the Secretary shall take the requisite action to reduce allotments in accordance with the requirements of this section. Not later than seven days after theSecretary takes any action to reduce allotments under this section, the Secretary shall furnish the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a statement setting forth (1) the basis of the Secretary's determination, (2) the manner in which the allotments will be reduced, and (3) the action that has been taken by the Secretary to reduce the allotments.
+Not later than sixty days after the issuance of a report under subsection (a) of this section in which the Secretary expresses the belief that reductions in the value of allotments to be issued to households certified to participate in the food stamp program will be necessary, the Secretary shall take the requisite action to reduce allotments in accordance with the requirements of this section. Not later than seven days after the Secretary takes any action to reduce allotments under this section, the Secretary shall furnish the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a statement setting forth (1) the basis of the Secretary's determination, (2) the manner in which the allotments will be reduced, and (3) the action that has been taken by the Secretary to reduce the allotments.
 
 #### (e) Disposition of funds collected pursuant to claims
 
@@ -119,10 +119,6 @@ Section 1301 of Pub L. 95–113 provided that this section is effective Oct. 1, 
 #### Availability of Amounts if Sequestration Order Issued for Fiscal Year 1989
 
 Amounts available to carry out food stamp program under this section to be reduced if sequestration order is issued under section 902(b) of Title 2, The Congress, see section 702(c)(1) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2013, 2020, 2025, 2030 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

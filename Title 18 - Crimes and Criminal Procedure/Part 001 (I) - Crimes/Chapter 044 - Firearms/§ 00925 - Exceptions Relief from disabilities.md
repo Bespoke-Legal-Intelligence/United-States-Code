@@ -16,9 +16,9 @@
 
 (d) The Attorney General shall authorize a firearm or ammunition to be imported or brought into the United States or any possession thereof if the firearm or ammunition—
 
-&emsp;(1) is being imported or brought in for scientific or research purposes, or is for use inconnection with competition or training pursuant to chapter 401 of title 10;
+&emsp;(1) is being imported or brought in for scientific or research purposes, or is for use in connection with competition or training pursuant to chapter 401 of title 10;
 
-&emsp;(2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of the Internal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
+&emsp;(2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of theInternal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
 
 &emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularly suitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Attorney General has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
 
@@ -109,8 +109,4 @@ Amendment by Pub. L. 98–573 effective 15th day after Oct. 30, 1984, see sectio
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsecs. (a)(1) and (d) effective Oct. 22, 1968, see section 105 of Pub. L. 90–618, set out as a note under section 921 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 922 of this title; title 22 section 2778.
 

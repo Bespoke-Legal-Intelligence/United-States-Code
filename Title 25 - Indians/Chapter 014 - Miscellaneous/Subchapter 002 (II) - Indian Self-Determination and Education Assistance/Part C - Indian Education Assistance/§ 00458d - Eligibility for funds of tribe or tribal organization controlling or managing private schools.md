@@ -14,9 +14,5 @@ Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 St
 
 1982—Pub. L. 97–375 struck out provisions relating to annual reporting requirements of Secretary to Congressional committees respecting educational assistance program conducted pursuant to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 458, 2021 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

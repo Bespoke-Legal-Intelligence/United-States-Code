@@ -26,7 +26,3 @@ No nonimmigrant visa under section 1101(a)(15) of this title shall be issued to 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 7410.
-

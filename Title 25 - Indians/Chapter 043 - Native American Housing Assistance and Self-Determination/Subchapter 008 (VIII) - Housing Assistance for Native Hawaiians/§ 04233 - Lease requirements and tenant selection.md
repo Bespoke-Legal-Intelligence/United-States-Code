@@ -40,5 +40,5 @@ As a condition to receiving grant amounts under this subchapter, the Director sh
 
 #### Codification
 
-Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 814 of Pub. L. 104–330. This section isbased on the text of section 814 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 814 of Pub. L. 104–330. This section is based on the text of section 814 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 

@@ -6,7 +6,7 @@ The Commissioner is authorized to provide financial assistance, on a single year
 
 #### (b) Limitations of financial assistance; exceptions; non-Federal contributions
 
-Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissioner shall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
+Financial assistance extended to an agency under this subchapter shall not exceed 80 per centum of the approved costs of the assisted project, except that the Commissioner may approve assistance in excess of such percentage if the Commissioner determines, in accordance with regulations establishing objective criteria, that such action is required in furtherance of the purposes of this subchapter. Non-Federal contributions may be in cash or in kind, fairly evaluated, including but not limited to plant, equipment, and services. The Commissionershall not require non-Federal contributions in excess of 20 per centum of the approved costs of programs or activities assisted under this subchapter.
 
 #### (c) Assistance as addition to, and not substitution for, activities previously carried out without Federal assistance; waiver; nonreservation areas
 
@@ -16,7 +16,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 #### (d) Grants to improve tribal regulation of environmental quality
 
-(1) The Commissioner shall award grants to Indian tribes for the purpose of funding 80 percent of the costs of planning, developing, andimplementing programs designed to improve the capability of the governing body of the Indian tribe to regulate environmental quality pursuant to Federal and tribal environmental laws.
+(1) The Commissioner shall award grants to Indian tribes for the purpose of funding 80 percent of the costs of planning, developing, and implementing programs designed to improve the capability of the governing body of the Indian tribe to regulate environmental quality pursuant to Federal and tribal environmental laws.
 
 (2) The purposes for which funds provided under any grant awarded under paragraph (1) may be used include, but are not limited to—
 
@@ -71,8 +71,4 @@ Subsec. (c)(1). Pub. L. 98–558, §1002(b), designated existing provisions as p
 #### Effective Date of 1987 Amendment
 
 Amendment by sections 502(1) and 504(a) of Pub. L. 100–175 effective Oct. 1, 1987, and amendment by section 506(c)(2) of Pub. L. 100–175 effective upon expiration of 90-day period beginning Nov. 29, 1987, see section 701(a), (c) of Pub. L. 100–175, set out as a note under section 3001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2991b–2, 2991b–3, 2991d–1, 2991f, 2992d of this title.
 

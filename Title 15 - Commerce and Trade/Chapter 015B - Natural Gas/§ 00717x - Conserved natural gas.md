@@ -2,7 +2,7 @@
 
 #### (a) Determination of entitlement
 
-(1) For purposes of determining the natural gas entitlement of any local distribution company under any curtailment plan, if the Commission revises any base period established under such plan, the volumes of natural gas which such local distribution company demonstrates—
+(1) For purposes of determining the natural gas entitlement of any local distribution company under any curtailment plan, if the Commission revises any base period establishedunder such plan, the volumes of natural gas which such local distribution company demonstrates—
 
 &emsp;(A) were sold by the local distribution company, for a priority use immediately before the implementation of conservation measures, and
 

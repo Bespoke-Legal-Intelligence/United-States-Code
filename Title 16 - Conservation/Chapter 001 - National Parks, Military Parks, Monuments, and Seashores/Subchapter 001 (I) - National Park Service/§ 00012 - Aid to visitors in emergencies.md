@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to aid and assist visitors within th
 
 (July 3, 1926, ch. 792, §1, 44 Stat. 900.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1c of this title.
-

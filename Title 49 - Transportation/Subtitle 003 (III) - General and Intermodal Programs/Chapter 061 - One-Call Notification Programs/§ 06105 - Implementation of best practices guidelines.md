@@ -2,7 +2,7 @@
 
 (a)
 
-Adoption of Best Practices.—The Secretary of Transportation shall encourage States, operators of one-call notification programs, excavators (including all government and contract excavators), and underground facility operators to adopt and implement practices identified inthe best practices report entitled “Common Ground”, as periodically updated.
+Adoption of Best Practices.—The Secretary of Transportation shall encourage States, operators of one-call notification programs, excavators (including all government and contract excavators), and underground facility operators to adopt and implement practices identified in the best practices report entitled “Common Ground”, as periodically updated.
 
 (b)
 
@@ -29,8 +29,4 @@ General revenue funding.—Any sums appropriated under this subsection shall be 
 #### Amendments
 
 2002—Pub. L. 107–355 amended section generally. Prior to amendment, section related to study of existing one-call systems, purpose and considerations of study, report by Secretary within one year of June 9, 1998, and discretion of Secretary as to whether to carry out study.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6106, 6107 of this title.
 

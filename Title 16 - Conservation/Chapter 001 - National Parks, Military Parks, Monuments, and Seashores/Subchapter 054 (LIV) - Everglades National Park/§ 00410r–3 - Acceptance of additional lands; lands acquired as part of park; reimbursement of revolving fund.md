@@ -4,9 +4,5 @@ The Secretary of the Interior is authorized to accept a transfer from the Admini
 
 (Pub. L. 88–588, §1, Sept. 12, 1964, 78 Stat. 933.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410r–4 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

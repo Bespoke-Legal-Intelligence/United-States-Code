@@ -44,7 +44,3 @@ In subsection (b), the words “in accordance with section 554 of title 5” are
 
 Subsection (c) is substituted for 49 App.:1674b(b)(3) to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60119, 60122 of this title.
-

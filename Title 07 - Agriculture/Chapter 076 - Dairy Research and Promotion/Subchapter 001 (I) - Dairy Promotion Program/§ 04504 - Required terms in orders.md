@@ -28,7 +28,7 @@ Initial representation.—In making initial appointments to the Board of importe
 
 &emsp;&emsp;(B)
 
-Subsequent representation.—At least once every 3 years after the initial appointment of importer representatives under subparagraph (A), the Secretary shall review the average volume of domestic production of dairy products compared to the average volume of imports of dairy products into the United States during the previous 3 years and, on the basis of that review, shall reapportion importer representation on the Board to reflect the proportional share of the United States market by domestic production and imported dairy products.
+Subsequent representation.—At least once every 3 years after the initial appointment of importer representatives under subparagraph (A), the Secretary shall review the average volume of domestic productionof dairy products compared to the average volume of imports of dairy products into the United States during the previous 3 years and, on the basis of that review, shall reapportion importer representation on the Board to reflect the proportional share of the United States market by domestic production and imported dairy products.
 
 &emsp;&emsp;(C)
 
@@ -44,7 +44,7 @@ Additional members; nominations.—The members appointed under this paragraph—
 
 &emsp;(9) The executive committee shall have such duties and powers as are conferred upon it by the Board.
 
-&emsp;(10) Board members shall serve without compensation, but shall be reimbursed for theirreasonable expenses incurred in performing their duties as members of the Board including a per diem allowance as recommended by the Board and approved by the Secretary.
+&emsp;(10) Board members shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Board including a per diem allowance as recommended by the Board and approved by the Secretary.
 
 (c) The order shall define the powers and duties of the Board that shall include only the powers enumerated in this section. These shall include, in addition to the powers set forth elsewhere in this section, the powers to (1) receive and evaluate, or on its own initiative develop, and budget for plans or projects to promote the use of fluid milk and dairy products as well as projects for research and nutrition education and to make recommendations to the Secretary regarding such proposals, (2) administer the order in accordance with its terms and provisions, (3) make rules and regulations to effectuate the terms and provisions of the order, (4) receive, investigate, and report to the Secretary complaints of violations of the order, and (5) recommend to the Secretary amendments to the order. The Board shall solicit, among others, research proposals that would increase the use of fluid milk and dairy products by the military and by persons in developing nations, and that would demonstrate the feasibility of converting surplus nonfat dry milk to casein for domestic and export use.
 
@@ -74,7 +74,7 @@ Assessments.—
 
 &emsp;(3) The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.
 
-&emsp;(4) A milk producer or the producer's cooperative who can establish that the producer is participating in active, ongoing qualified State or regional dairy product promotion or nutrition education programs intended to increase consumption of milk and dairy products generally shall receive credit in determining the assessment due from such producer for contributions to such programs of up to 10 cents per hundredweight of milk marketed or, for the period ending six months after November 29, 1983, up to the aggregate rate in effect on November 29, 1983, of such contributions to such programs (but not to exceed 15 cents per hundredweight of milk marketed) if such aggregate rate exceeds 10 cents per hundredweight of milk marketed.
+&emsp;(4) A milk producer or the producer's cooperative who can establish that the producer is participating in active, ongoing qualified State or regional dairy product promotion or nutrition education programs intended to increase consumption of milk and dairy products generally shall receive credit in determining the assessment due from such producer for contributions to such programs of up to 10 cents per hundredweight of milk marketed or, for the period ending six months after November 29, 1983, up to the aggregate rate in effect on November 29, 1983, of such contributions tosuch programs (but not to exceed 15 cents per hundredweight of milk marketed) if such aggregate rate exceeds 10 cents per hundredweight of milk marketed.
 
 &emsp;(5) Any person marketing milk of that person's own production directly to consumers shall remit the assessment directly to the Board in the manner prescribed by the order.
 
@@ -94,7 +94,7 @@ Time for payment.—The assessment on imported dairy products shall be paid by t
 
 Use of assessments on imported dairy products.—Assessments collected on imported dairy products shall not be used for foreign market promotion.
 
-(h) The order shall require the Board to (1) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe, (2) prepare and submit to the Secretary, from time totime, such reports as the Secretary may prescribe, and (3) account for the receipt and disbursement of all funds entrusted to it.
+(h) The order shall require the Board to (1) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe, (2) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe, and (3) account for the receipt and disbursement of all funds entrusted to it.
 
 (i) The order shall provide that the Board, with the approval of the Secretary, may invest, pending disbursement under a plan or project, funds collected through assessments authorized under this subchapter only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
 
@@ -121,8 +121,4 @@ Subsec. (k). Pub. L. 107–171, §1505(e), substituted “importer of imported d
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4502, 4505, 6407, 6409 of this title.
 

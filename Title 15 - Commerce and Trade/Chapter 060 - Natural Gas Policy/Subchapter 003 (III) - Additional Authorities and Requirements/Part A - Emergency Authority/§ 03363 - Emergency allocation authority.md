@@ -90,7 +90,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;The President shall not allocate supplies of natural gas under this subsection unless he finds that—
 
-&emsp;&emsp;(A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) of this section has been utilizedto assist in meeting natural gas requirements for high-priority uses of natural gas;
+&emsp;&emsp;(A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) of this section has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
 
 &emsp;&emsp;(B) the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
 
@@ -148,7 +148,7 @@ The President may, by order, require any pipeline to transport natural gas, and 
 
 #### (i) Monitoring
 
-In order to effect the purposes of this part, the President shall monitor the operation of any order made pursuant to this section to assurethat natural gas delivered pursuant to this section is applied to high-priority uses only.
+In order to effect the purposes of this part, the President shall monitor the operation of any order made pursuant to this section to assure that natural gas delivered pursuant to this section is applied to high-priority uses only.
 
 #### (j) Commission study
 
@@ -165,10 +165,6 @@ For purposes of this section, the term “high-priority use” means any—
 &emsp;(3) any use of natural gas the curtailment of which the President determines would endanger life, health, or maintenance of physical property.
 
 (Pub. L. 95–621, title III, §303, Nov. 9, 1978, 92 Stat. 3383.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 717z, 3361, 3364, 3373, 3374, 3412, 3414, 3416, 3431, 3432 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

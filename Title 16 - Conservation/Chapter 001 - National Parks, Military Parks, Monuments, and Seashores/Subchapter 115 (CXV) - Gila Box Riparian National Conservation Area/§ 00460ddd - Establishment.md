@@ -20,7 +20,7 @@ As soon as practicable after November 28, 1990, a map and legal description of t
 
 #### (e) Withdrawal
 
-Subject to valid existing rights, all Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the conservation area are herebywithdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
 
 #### (f) Water
 
@@ -58,7 +58,7 @@ The Congress does not intend for the establishment of the conservation area to l
 
 #### (j) Advisory committee
 
-The Secretary shall establish an advisory committee to advise the Secretary with respect to the preparation and implementation of the management plan. Such advisory committee shall consist of seven members appointed by the Secretary. One member shall be appointed from among recommendations submitted by the Governor of Arizona, one member shall be appointed from among recommendations submitted by the Graham County Board of Supervisors and one member shall be appointed from among recommendations submitted by the Greenlee County Board of Supervisors. The remaining members shall be persons recognized as experts in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the purposes for which the conservation area is established.
+The Secretary shall establish an advisory committee to advise the Secretary with respect to the preparation and implementation of the management plan. Such advisory committee shall consist of seven members appointed by the Secretary. One member shall be appointed from among recommendations submitted by the Governor of Arizona, one member shall be appointed from among recommendations submitted by the Graham County Board of Supervisors and one member shall be appointed from among recommendations submitted by the Greenlee County Board of Supervisors. The remaining membersshall be persons recognized as experts in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the purposes for which the conservation area is established.
 
 #### (k) Report
 

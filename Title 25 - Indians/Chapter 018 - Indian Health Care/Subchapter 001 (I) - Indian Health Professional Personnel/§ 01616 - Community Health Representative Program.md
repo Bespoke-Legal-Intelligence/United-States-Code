@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) combines education in the theory of health care with supervised practical experience in the provision of health care, and
 
-&emsp;&emsp;(B) provides instruction and practical experience in health promotion and disease prevention activities, with appropriate consideration given to lifestyle factors that have an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,
+&emsp;&emsp;(B) provides instruction and practical experience in health promotion and disease prevention activities, with appropriate consideration given to lifestyle factors thathave an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,
 
 &emsp;(3) maintain a system which identifies the needs of Community Health Representatives for continuing education in health care, health promotion, and disease prevention and maintain programs that meet the needs for such continuing education,
 

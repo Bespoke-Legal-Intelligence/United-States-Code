@@ -126,7 +126,3 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 For authority of the President to suspend subsec. (e) of this section in time of war or emergency declared by Congress, see section 111 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 308, 310 of this title; title 10 sections 1370, 14301, 14308, 14316.
-

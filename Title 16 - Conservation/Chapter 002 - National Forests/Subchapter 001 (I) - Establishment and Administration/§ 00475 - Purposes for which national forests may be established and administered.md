@@ -12,9 +12,5 @@ Section 471 of this title, referred to in text, was repealed by Pub. L. 94–579
 
 “National forests” and “national forest” substituted in text for “public forest reserves” and “public forest reservation”, respectively, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 478, 482, 528, 551 of this title; title 43 section 315.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,4 +1,4 @@
-### §2020. Tribal departments or divisions of education.
+### §2020. Tribal departments or divisions of education
 
 #### (a) In general
 

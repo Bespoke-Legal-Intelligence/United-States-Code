@@ -18,7 +18,3 @@ Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of
 
 “Fiscal Service” substituted in text for “Division of Disbursement” on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Department of the Treasury. See section 306 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 515 of this title.
-

@@ -54,7 +54,3 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Section to cease to have effect with respect to any country during any period in which such country ceases to be a NAFTA country, see section 109(b) of Pub. L. 103–182, set out as an Effective Date; Termination of NAFTA Status note under section 3311 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3314, 3331, 3332 of this title.
-

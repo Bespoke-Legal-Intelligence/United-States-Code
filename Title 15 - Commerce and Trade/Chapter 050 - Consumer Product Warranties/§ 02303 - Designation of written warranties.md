@@ -22,7 +22,3 @@ The provisions of subsections (a) and (c) of this section apply only to warranti
 
 (Pub. L. 93–637, title I, §103, Jan. 4, 1975, 88 Stat. 2187.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2311 of this title.
-

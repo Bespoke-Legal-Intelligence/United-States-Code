@@ -44,7 +44,7 @@ For a child who has not been identified for participation in a language instruct
 
 #### (1) In general
 
-&emsp;Each eligible entity using funds provided under this subchapter to provide a language instruction educational program shall implement an effective means of outreach to parents of limited English proficient children to inform such parents of how they can—
+&emsp;Each eligible entity using funds provided under this subchapter to provide a languageinstruction educational program shall implement an effective means of outreach to parents of limited English proficient children to inform such parents of how they can—
 
 &emsp;&emsp;(A) be involved in the education of their children; and
 
@@ -69,8 +69,4 @@ A child shall not be admitted to, or excluded from, any federally assisted educa
 #### Prior Provisions
 
 A prior section 3302 of Pub. L. 89–10 was classified to section 6922 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6826 of this title.
 

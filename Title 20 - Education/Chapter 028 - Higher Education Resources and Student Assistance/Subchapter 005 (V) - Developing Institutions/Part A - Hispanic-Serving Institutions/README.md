@@ -4,10 +4,6 @@ Part A—Hispanic-Serving Institutions
 
 A prior part A consisted of sections 1102 to 1102j and related to State and local programs for teacher excellence prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1103a of this title.
-
 
 ---
 

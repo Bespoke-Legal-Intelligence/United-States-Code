@@ -50,13 +50,9 @@ Section 408 of the Controlled Substances Act, referred to in text, is classified
 
 1949—Act May 24, 1949, substituted “court established by Act of Congress” for “court of the United States” in first par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 753, 1825, 2244, 2253, 2266 of this title; title 18 section 3006A; title 21 section 848.
-
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings For United States District Courts
 
-Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled ‘An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court’ (Public Law 94–349), are approved with the amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
+For approval and effective date of rules governing petitions under section 2254 and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note under section 2074 of this title.
 
 #### Postponement of Effective Date of Proposed Rules and Forms Governing Proceedings Under Sections 2254 and 2255 of this Title
 
@@ -64,29 +60,29 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 22, 2002)</i>
+#### (<i>Effective February 1, 1977, as amended to January 3, 2005)</i>
 
 Rule
 
 1\.
 
-Scope of rules.
+Scope.
 
 2\.
 
-Motion.
+The Motion.
 
 3\.
 
-Filing motion.
+Filing the Motion; Inmate Filing.
 
 4\.
 
-Preliminary consideration by judge.
+Preliminary Review.
 
 5\.
 
-Answers; contents.
+The Answer and the Reply.
 
 6\.
 
@@ -94,47 +90,63 @@ Discovery.
 
 7\.
 
-Expansion of record.
+Expanding the Record.
 
 8\.
 
-Evidentiary hearing.
+Evidentiary Hearing.
 
 9\.
 
-Delayed or successive motions.
+Second or Successive Motions.
 
 10\.
 
-Powers of magistrates.
+Powers of a Magistrate Judge.
 
 11\.
 
-Time for appeal.
+Time to Appeal.
 
 12\.
 
-Federal Rules of Criminal and Civil Procedure; extent of applicability.
+Applicability of the Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### APPENDIX OF FORMS
 
-Model form for motions under 28 U.S.C. §2255.
-
-Model form for use in 28 U.S.C. §2255 cases involving a Rule 9 issue.
+Motion Under 28 U.S.C. §2255 to Vacate, Set Aside, or Correct Sentence By a Person in Federal Custody.
 
 #### Effective Date of Rules; Effective Date of 1975 Amendment
 
-Rules, and the amendments thereto by Pub. L. 94–426, Sept. 28, 1976, 90 Stat. 1334, effective with respect to petitions under section 2254 of this title and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note above.
+Rules, and the amendments thereto by Pub. L. 94–426, Sept. 28, 1976, 90 Stat. 1334, effective with respect to petitions under section 2254 of this title and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note under section 2074 of this title.
 
-### Rule 1. Scope of Rules
+### Rule 1. Scope
 
-These rules govern the procedure in the district court on a motion under 28 U.S.C. §2255:
+These rules govern a motion filed in a United States district court under 28 U.S.C. §2255 by:
 
-&emsp;(1) by a person in custody pursuant to a judgment of that court for a determination that the judgment was imposed in violation of the Constitution or laws of the United States, or that the court was without jurisdiction to impose such judgment, or that the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral attack; and
+(a) a person in custody under a judgment of that court who seeks a determination that:
 
-&emsp;(2) by a person in custody pursuant to a judgment of a state or other federal court and subject to future custody under a judgment of the district court for a determination that such future custody will be in violation of the Constitution or laws of the United States, or that the district court was without jurisdiction to impose such judgment, or that the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral attack.
+&emsp;(1) the judgment violates the Constitution or laws of the United States;
+
+&emsp;(2) the court lacked jurisdiction to enter the judgment;
+
+&emsp;(3) the sentence exceeded the maximum allowed by law; or
+
+&emsp;(4) the judgment or sentence is otherwise subject to collateral review; and
+
+(b) a person in custody under a judgment of a state court or another federal court, and subjectto future custody under a judgment of the district court, who seeks a determination that:
+
+&emsp;(1) future custody under a judgment of the district court would violate the Constitution or laws of the United States;
+
+&emsp;(2) the district court lacked jurisdiction to enter the judgment;
+
+&emsp;(3) the district court's sentence exceeded the maximum allowed by law; or
+
+&emsp;(4) the district court's judgment or sentence is otherwise subject to collateral review.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -146,7 +158,7 @@ The two main advantages of such motion remedy over the present habeas corpus are
 
 First, habeas corpus is a separate civil action and not a further step in the criminal case in which petitioner is sentenced (<i>Ex parte Tom Tong</i>, 108 U.S. 556, 559 (1883)). It is not a determination of guilt or innocence of the charge upon which petitioner was sentenced. Where a prisoner sustains his right to discharge in habeas corpus, it is usually because some right—such as lack of counsel—has been denied which reflects no determination of his guilt or innocence but affects solely the fairness of his earlier criminal trial. Even under the broad power in the statute “to dispose of the party as law and justice require” (28 U.S.C.A., sec. 461), the court or judge is by no means in the same advantageous position in habeas corpus to do justice as would be so if the matter were determined in the criminal proceeding (see <i>Medley</i>, petitioner, 134 U.S. 160, 174 (1890)). For instance, the judge (by habeas corpus) cannot grant a new trial in the criminal case. Since the motion remedy is in the criminal proceeding, this section 2 affords the opportunity and expressly gives the broad powers to set aside the judgment and to “discharge the prisoner or resentence him or grant a new trial or correct the sentence as may appear appropriate.”
 
-The fact that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action has significance at several points in these rules. See, <i>e.g</i>., advisory committee note to rule 3 (re nofiling fee), advisory committee note to rule 4 (re availability of files, etc., relating to the judgment), advisory committee note to rule 6 (re availability of discovery under criminal procedure rules), advisory committee note to rule 11 (re no extension of time for appeal), and advisory committee not to rule 12 (re applicability of federal criminal rules). However, the fact that Congress has characterized the motion as a further step in the criminal proceedings does <i>not</i> mean that proceedings upon such a motion are of necessity governed by the legal principles which are applicable at a criminal trial regarding such matters as counsel, presence, confrontation, self-incrimination, and burden of proof.
+The fact that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action has significance at several points in these rules. See, <i>e.g</i>., advisory committee note to rule 3 (re no filing fee), advisory committee note to rule 4 (re availability of files, etc., relating to the judgment), advisory committee note to rule 6 (re availability of discovery under criminal procedure rules), advisory committee note to rule 11 (re no extension of time for appeal), and advisory committee not to rule 12 (re applicability of federal criminal rules). However, the fact that Congress has characterized the motion as a further step in the criminal proceedings does <i>not</i> mean that proceedings upon such a motion are of necessity governed by the legal principles which are applicable at a criminal trial regarding such matters as counsel, presence, confrontation, self-incrimination, and burden of proof.
 
 The challenge of decisions such as the revocation of probation or parole are not appropriately dealt with under 28 U.S.C. §2255, which is a continuation of the original criminal action. Other remedies, such as habeas corpus, are available in such situations.
 
@@ -154,31 +166,47 @@ Although rule 1 indicates that these rules apply to a motion for a determination
 
 For a discussion of the “custody” requirement and the intended limited scope of this remedy, see advisory committee note to §2254 rule 1.
 
-### Rule 2. Motion
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 1 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 1.
+
+### Rule 2. The Motion
 
 (a)
 
-Nature of application for relief. If the person is presently in custody pursuant to the federal judgment in question, or if not presently in custody may be subject to such custody in the future pursuant to such judgment, the application for relief shall be in the form of a motion to vacate, set aside, or correct the sentence.
+Applying for Relief. The application must be in the form of a motion to vacate, set aside, or correct the sentence.
 
 (b)
 
-Form of motion. The motion shall be in substantially the form annexed to these rules, except that any district court may by local rule require that motions filed with it shall be in a form prescribed by the local rule. Blank motions in the prescribed form shall be made available without charge by the clerk of the district court to applicants upon their request. It shall specify all the grounds for relief which are available to the movant and of which he has or, by the exercise of reasonable diligence, should have knowledge and shall set forth in summary form the facts supporting each of the grounds thus specified. It shall also state the relief requested. The motion shall be typewritten or legibly handwritten and shall be signed under penalty of perjury by the petitioner.
+Form. The motion must:
+
+&emsp;(1) specify all the grounds for relief available to the moving party;
+
+&emsp;(2) state the facts supporting each ground;
+
+&emsp;(3) state the relief requested;
+
+&emsp;(4) be printed, typewritten, or legibly handwritten; and
+
+&emsp;(5) be signed under penalty of perjury by the movant or by a person authorized to sign it for the movant.
 
 (c)
 
-Motion to be directed to one judgment only. A motion shall be limited to the assertion of a claim for relief against one judgment only of the district court. If a movant desires to attack the validity of other judgments of that or any other district court under which he is in custody or may be subject to future custody, as the case may be, he shall do so by separate motions.
+Standard Form. The motion must substantially follow either the form appended to these rules or a form prescribed by a local district-court rule. The clerk must make forms available to moving parties without charge.
 
 (d)
 
-Return of insufficient motion. If a motion received by the clerk of a district court does not substantially comply with the requirements of rule 2 or rule 3, it may be returned to the movant, if a judge of the court so directs, together with a statement of the reason for its return. The clerk shall retain a copy of the motion.
+Separate Motions for Separate Judgments. A moving party who seeks relief from more than one judgment must file a separate motion covering each judgment.
 
-(As amended Pub. L. 94–426, §2(3), (4), Sept. 28, 1976, 90 Stat. 1334; Apr. 28, 1982, eff. Aug. 1, 1982.)
+(As amended Pub. L. 94–426, §2(3), (4), Sept. 28, 1976, 90 Stat. 1334; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
 Under these rules the application for relief is in the form of a motion rather than a petition (see rule 1 and advisory committee note). Therefore, there is no requirement that the movant name a respondent. This is consistent with 28 U.S.C. §2255. The United States Attorney for the district in which the judgment under attack was entered is the proper party to oppose the motion since the federal government is the movant's adversary of record.
 
-If the movant is attacking a federal judgment which will subject him to future custody, he must be in present custody (see rule 1 and advisory committee note) as the result of a state or federal governmental action. He need not alter the nature of the motion by trying to include the government officer who presently has official custody of him as a psuedo-respondent, or third-party plaintiff, or other fabrication. The court hearing his motion attacking the future custody can exercise jurisdiction over those having him in present custody without the use of artificial pleading devices.
+If the movant is attacking a federal judgment which will subject him to future custody, he must be inpresent custody (see rule 1 and advisory committee note) as the result of a state or federal governmental action. He need not alter the nature of the motion by trying to include the government officer who presently has official custody of him as a psuedo-respondent, or third-party plaintiff, or other fabrication. The court hearing his motion attacking the future custody can exercise jurisdiction over those having him in present custody without the use of artificial pleading devices.
 
 There is presently a split among the courts as to whether a person currently in state custody may use a §2255 motion to obtain relief from a federal judgment under which he will be subjected to custody in the future. Negative, see <i>Newton v. United States</i>, 329 F.Supp. 90 (S.D. Texas 1971); affirmative, see <i>Desmond v. The United States Board of Parole</i>, 397 F.2d 386 (1st Cir. 1968), cert. denied, 393 U.S. 919 (1968); and <i>Paalino v. United States</i>, 314 F.Supp. 875 (C.D.Cal. 1970). It is intended that these rules settle the matter in favor of the prisoner's being able to file a §2255 motion for relief under those circumstances. The proper district in which to file such a motion is the one in which is situated the court which rendered the sentence under attack.
 
@@ -226,25 +254,51 @@ See the advisory committee note to rule 2 of the §2254 rules for further discus
 
 Subdivision (b). The amendment takes into account 28 U.S.C. §1746, enacted after adoption of the §2255 rules. Section 1746 provides that in lieu of an affidavit an unsworn statement may be given under penalty of perjury in substantially the following form if executed within the United States, its territories, possessions or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date). (Signature).” The statute is “intended to encompass prisoner litigation,” and the statutory alternative is especially appropriate in such cases because a notary might not be readily available. <i>Carter v. Clark</i>, 616 F.2d 228 (5th Cir. 1980). The §2255 forms have been revised accordingly.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 2 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
+
+Revised Rule 2(b)(5) has been amended by removing the requirement that the motion be signed personally by the moving party. Thus, under the amended rule the motion may be signed by \[the\] movant personally or by someone acting on behalf of the movant, assuming that the person is authorized to do so, for example, an attorney for the movant. The Committee envisions that the courts would apply third-party, or “next-friend,” standing analysis in deciding whether the signer was actually authorized to sign the motion on behalf of the movant. <i>See generally Whitmore v. Arkansas</i>, 495 U.S. 149 (1990) (discussion of requisites for “next friend” standing in habeas petitions). <i>See also</i> 28 U.S.C. §2242 (application for state habeas corpus relief may be filed by the person who is seeking relief, or by someone acting on behalf of that person).
+
+The language in new Rule 2(c) has been changed to reflect that a moving party must substantially follow the standard form, which is appended to the rules, or a form provided by the court. The current rule, Rule 2(c), seems to indicate a preference for the standard “national” form. Under the amended rule, there is no stated preference. The Committee understood that the current practice in some courts is that if the moving party first files a motion using the national form, that courts may ask the moving party to supplement it with the local form.
+
+Current Rule 2(d), which provided for returning an insufficient motion\[,\] has been deleted. The Committee believed that the approach in Federal Rule of Civil Procedure 5(e) was more appropriate for dealing with motions that do not conform to the form requirements of the rule. That Rule provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214, the moving party suffered no penalty, other than delay, if the motion was deemed insufficient. Now that a one-year statute of limitations applies to motions filed under §2255, <i>see</i> 28 U.S.C. §2244(d)(1), the court's dismissal of a motion because it is not in proper form may pose a significant penalty for a moving party, who may not be able to file another motion within the one-year limitations period. Now, under revised Rule 3(b), the clerk is required to file a motion, even though it may otherwise fail to comply with the provisions in revised Rule 2(b). The Committee believed that the better procedure was to accept the defective motion and require the moving party to submit a corrected motion that conforms to Rule 2(b).
+
+<i>Changes Made After Publication and Comments</i>. The Committee changed Rule 2(b)(2) to read “state the facts” rather then \[sic\] “briefly summarize the facts.” One commentator had written that the current language may actually mislead the petitioner and is also redundant.
+
+Rule 2(b)(4) was also modified to reflect that some motions may be printed using a word processing program.
+
+Finally, Rule 2(b)(5) was changed to emphasize that any person, other than the petitioner, who signs the petition must be authorized to do so.
+
 #### Amendments
 
 1976—Subd. (b). Pub. L. 94–426, §2(3), inserted “substantially” after “The motion shall be in”, and struck out requirement that the motion follow the prescribed form.
 
 Subd. (d). Pub. L. 94–426, §2(4), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a motion for noncompliance without a judge so directing.
 
-### Rule 3. Filing Motion
+### Rule 3. Filing the Motion; Inmate Filing
 
 (a)
 
-Place of filing; copies. A motion under these rules shall be filed in the office of the clerk of the district court. It shall be accompanied by two conformed copies thereof.
+Where to File; Copies. An original and two copies of the motion must be filed with the clerk.
 
 (b)
 
-Filing and service. Upon receipt of the motion and having ascertained that it appears on its face to comply with rules 2 and 3, the clerk of the district court shall file the motion and enter it on the docket in his office in the criminal action in which was entered the judgment to which it is directed. He shall thereupon deliver or serve a copy of the motion together with a notice of its filing on the United States Attorney of the district in which the judgment under attack was entered. The filing of the motion shall not require said United States Attorney to answer the motion or otherwise move with respect to it unless so ordered by the court.
+Filing and Service. The clerk must file the motion and enter it on the criminal docket of the case in which the challenged judgment was entered. The clerk must then deliver or serve a copy of the motion on the United States attorney in that district, together with a notice of its filing.
+
+(c)
+
+Time to File. The time for filing a motion is governed by 28 U.S.C. §2255 para. 6.
+
+(d)
+
+Inmate Filing. A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
-There is no filing fee required of a movant under these rules. This is a change from the practice of charging $15 and is done to recognize specifically the nature of a §2255 motion as being a continuation of the criminal case whose judgment is under attack.
+There is no filing fee required of a movant under these rules. This is a change from the practice of charging $15 and is done to recognize specifically the natureof a §2255 motion as being a continuation of the criminal case whose judgment is under attack.
 
 The long-standing practice of requiring a $15 filing fee has followed from 28 U.S.C. §1914(a) whereby “parties instituting any civil action \* \* \* pay a filing fee of $15, except that on an application for a writ of habeas corpus the filing fee shall be $5.” This has been held to apply to a proceeding under §2255 despite the rationale that such a proceeding is a motion and thus a continuation of the criminal action. (See note to rule 1.)
 
@@ -264,21 +318,35 @@ Even though there is no need to have a forma pauperis affidavit to proceed with 
 
 For further discussion of this rule, see the advisory committee note to rule 3 of the §2254 rules.
 
-### Rule 4. Preliminary Consideration by Judge
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 3 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as indicated below.
+
+Revised Rule 3(b) is new and is intended to parallel Federal Rule of Civil Procedure 5(e), which provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214, the moving party suffered no penalty, other than delay, if the petition was deemed insufficient. That Act, however, added a one-year statute of limitations to motions filed under §2255, <i>see</i> 28 U.S.C. §2244(d)(1). Thus, a court's dismissal of a defective motion may pose a significant penalty for a moving party who may not be able to file a corrected motion within the one-year limitation period. The Committee believed that the better procedure was to accept the defective motion and require the moving party to submit a corrected motion that conforms to Rule 2. Thus, revised Rule 3(b) requires the clerk to file a motion, even though it may otherwise fail to comply with Rule 2.
+
+Revised Rule 3(c), which sets out a specific reference to 28 U.S.C. §2255, paragraph 6, is new and has been added to put moving parties on notice that a one-year statute of limitations applies to motions filed under these Rules. Although the rule does not address the issue, every circuit that has addressed the issue has taken the position that equitable tolling of the statute of limitations is available in appropriate circumstances. <i>See, e.g., Dunlap v. United States</i>, 250 F.3d 1001, 1004–07 (6th Cir. 2001); <i>Moore v. United States</i>, 173 F.3d 1131, 1133–35 (8th Cir. 1999); <i>Sandvik v. United States</i>, 177 F.3d 1269, 1270–72 (11th Cir. 1999). The Supreme Court has not addressed the question directly. <i>See Duncan v. Walker</i>, 533 U.S. 167, 181 (2001) (“We . . . have no occasion to address the question that Justice Stevens raises concerning the availability of equitable tolling.”).
+
+Rule 3(d) is new and provides guidance on determining whether a motion from an inmate is considered to have been filed in a timely fashion. The new provision parallels Federal Rule of Appellate Procedure 25(a)(2)(C).
+
+<i>Changes Made After Publication and Comments</i>. The Committee modified the Committee Note to reflect that the clerk must file a motion, even in those instances where the necessary filing fee or in forma pauperis form is not attached. The Note also includes new language concerning the equitable tolling of the statute of limitations.
+
+### Rule 4. Preliminary Review
 
 (a)
 
-Reference to judge; dismissal or order to answer. The original motion shall be presented promptly to the judge of the district court who presided at the movant's trial and sentenced him, or, if the judge who imposed sentence was not the trial judge, then it shall go to the judge who was in charge of that part of the proceedings being attacked by the movant. If the appropriate judge is unavailable to consider the motion, it shall be presented to another judge of the district in accordance with the procedure of the court for the assignment of its business.
+Referral to a Judge. The clerk must promptly forward the motion to the judge who conducted the trial and imposed sentence or, if the judge who imposed sentence was not the trial judge, to the judge who conducted the proceedings being challenged. If the appropriate judge is not available, the clerk must forward the motion to a judge under the court's assignment procedure.
 
 (b)
 
-Initial consideration by judge. The motion, together with all the files, records, transcripts, and correspondence relating to the judgment under attack, shall be examined promptly by the judge to whom it is assigned. If it plainly appears from the face of the motion and any annexed exhibits and the prior proceedings in the case that the movant is not entitled to relief in the district court, the judge shall make an order for its summary dismissal and cause the movant to be notified. Otherwise, the judge shall order the United States Attorney to file an answer or other pleading within the period of time fixed by the court or to take such other action as the judge deems appropriate.
+Initial Consideration by the Judge. The judge who receives the motion must promptly examine it. If it plainly appears from the motion, any attached exhibits, and the record of prior proceedings that the moving party is not entitled to relief, the judge must dismiss the motion and direct the clerk to notify the moving party. If the motion is not dismissed, the judge must order the United States attorney to file an answer, motion, or other response within a fixed time, or to take other action the judge may order.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
 Rule 4 outlines the procedure for assigning the motion to a specific judge of the district court and the options available to the judge and the government after the motion is properly filed.
 
-The long-standing majority practice in assigning motions made pursuant to §2255 has been for the trial judge to determine the merits of the motion. In cases where the §2255 motion is directed against the sentence, the merits have traditionally been decided by the judge who imposed sentence. The reasoning for this was first noted in <i>Currell v. United States</i>, 173 F.2d 348, 348–349 (4th Cir. 1949):
+The long-standing majority practice in assigning motions made pursuant to §2255 has been for the trial judge to determine the merits of the motion. In caseswhere the §2255 motion is directed against the sentence, the merits have traditionally been decided by the judge who imposed sentence. The reasoning for this was first noted in <i>Currell v. United States</i>, 173 F.2d 348, 348–349 (4th Cir. 1949):
 
 &emsp;Complaint is made that the judge who tried the case passed upon the motion. Not only was there no impropriety in this, but it is highly desirable in such cases that the motions be passed on by the judge who is familiar with the facts and circumstances surrounding the trial, and is consequently not likely to be misled by false allegations as to what occurred.
 
@@ -288,7 +356,7 @@ Commentators have been critical of having the motion decided by the trial judge.
 
 > &emsp;\[T\]he trial judge may have become so involved with the decision that it will be difficult for him to review it objectively. Nothing in the legislative history suggests that “court” refers to a specific judge, and the procedural advantages of section 2255 are available whether or not the trial judge presides at the hearing.
 
-&emsp;The theory that Congress intended the trial judge to preside at a section 2255 hearing apparently originated in <i>Carvell v. United States</i>, 173 F.2d 348 (4th Cir. 1949) (per curiam), where the panel of judges includedChief Judge Parker of the Fourth Circuit, chairman of the Judicial Conference committee which drafted section 2255. But the legislative history does not indicate that Congress wanted the trial judge to preside. Indeed the advantages of section 2255 can all be achieved if the case is heard in the sentencing district, regardless of which judge hears it. According to the Senate committee report the purpose of the bill was to make the proceeding a part of the criminal action so the court could resentence the applicant, or grant him a new trial. (A judge presiding over a habeas corpus action does not have these powers.) In addition, Congress did not want the cases heard in the district of confinement because that tended to concentrate the burden on a few districts, and made it difficult for witnesses and records to be produced.
+&emsp;The theory that Congress intended the trial judge to preside at a section 2255 hearing apparently originated in <i>Carvell v. United States</i>, 173 F.2d 348 (4th Cir. 1949) (per curiam), where the panel of judges included Chief Judge Parker of the Fourth Circuit, chairman of the Judicial Conference committee which drafted section 2255. But the legislative history does not indicate that Congress wanted the trial judge to preside. Indeed the advantages of section 2255 can all be achieved if the case is heard in the sentencing district, regardless of which judge hears it. According to the Senate committee report the purpose of the bill was to make the proceeding a part of the criminal action so the court could resentence the applicant, or grant him a new trial. (A judge presiding over a habeas corpus action does not have these powers.) In addition, Congress did not want the cases heard in the district of confinement because that tended to concentrate the burden on a few districts, and made it difficult for witnesses and records to be produced.
 
 #### 83 Harv.L.Rev. at 1207–1208
 
@@ -304,15 +372,33 @@ Rule 4 has its basis in §2255 (rather than 28 U.S.C. §2243 in the correspondin
 
 The judge has discretion to require an answer or other appropriate response from the United States Attorney. See advisory committee note to rule 4 of the §2254 rules.
 
-### Rule 5. Answer; Contents
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 4 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+The amended rule reflects that the response to a Section 2255 motion may be a motion to dismiss or some other response.
+
+<i>Changes Made After Publication and Comments</i>. The Committee modified Rule 4 to reflect the view of some commentators that it is common practice in some districts for the government to file a pre-answer motion to dismiss the §2255 motion. The Committee agreed with that recommendation and changed the word “pleading” in the rule to “response.” It also made several minor changes to the Committee Note.
+
+### Rule 5. The Answer and the Reply
 
 (a)
 
-Contents of answer. The answer shall respond to the allegations of the motion. In addition it shall state whether the movant has used any other available federal remedies including any prior post-conviction motions under these rules or those existing previous to the adoption of the present rules. The answer shall also state whether an evidentiary hearing was accorded the movant in a federal court.
+When Required. The respondent is not required to answer the motion unless a judge so orders.
 
 (b)
 
-Supplementing the answer. The court shall examine its files and records to determine whether it has available copies of transcripts and briefs whose existence the answer has indicated. If any of these items should be absent, the government shall be ordered to supplement its answer by filing the needed records. The court shall allow the government an appropriate period of time in which to do so, without unduly delaying the consideration of the motion.
+Contents. The answer must address the allegations in the motion. In addition, it must state whether the moving party has used any other federal remedies, including any prior post-conviction motions under these rules or any previous rules, and whether the moving party received an evidentiary hearing.
+
+(c)
+
+Records of Prior Proceedings. If the answer refers to briefs or transcripts of the prior proceedings that are not available in the court's records, the judge must order the government to furnish them within a reasonable time that will not unduly delay the proceedings.
+
+(d)
+
+Reply. The moving party may submit a reply to the respondent's answer or other pleading within a time fixed by the judge.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -320,7 +406,7 @@ Unlike the habeas corpus statutes (see 28 U.S.C. §§2243, 2248) §2255 does not
 
 There is no requirement that the movant exhaust his remedies prior to seeking relief under §2255. However, the courts have held that such a motion is inappropriate if the movant is simultaneously appealing the decision.
 
-&emsp;We are of the view that there is no jurisdictional bar to the District Court's entertaining a Section 2255 motion during the pendency of a direct appeal but that the orderly administration of criminal law precludes considering such a motion absent extraordinary circumstances.
+&emsp;We are of the view that there is no jurisdictional bar to the District Court's entertaining a Section 2255motion during the pendency of a direct appeal but that the orderly administration of criminal law precludes considering such a motion absent extraordinary circumstances.
 
 #### <i>Womack v. United States</i>, 395 F.2d 630, 631 (D.C.Cir. 1968)
 
@@ -332,19 +418,33 @@ Subdivision (b) provides for the government to supplement its answers with appro
 
 For further discussion, see the advisory committee note to rule 5 of the §2254 rules.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 5 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+Revised Rule 5(a), which provides that the respondent is not required to file an answer to the motion, unless a judge so orders, is taken from current Rule 3(b). The revised rule does not address the practice in some districts, where the respondent files a pre-answer motion to dismiss the motion. But revised Rule 4(b) contemplates that practice and has been changed to reflect the view that if the court does not dismiss the motion, it may require (or permit) the respondent to file a motion.
+
+Finally, revised Rule 5(d) adopts the practice in some jurisdictions giving the movant an opportunity to file a reply to the respondent's answer. Rather than using terms such as “traverse,” <i>see</i> 28 U.S.C. §2248, to identify the movant's response to the answer, the rule uses the more general term “reply.” The Rule prescribes that the court set the time for such responses, and in lieu of setting specific time limits in each case, the court may decide to include such time limits in its local rules.
+
+<i>Changes Made After Publication and Comments</i>. Rule 5(a) was modified to read that the government is not required to “respond” to the motion unless the court so orders; the term “respond” was used because it leaves open the possibility that the government's first response (as it is in some districts) is in the form of a pre-answer motion to dismiss the petition. The Note has been changed to reflect the fact that although the rule itself does not reflect that particular motion, it is used in some districts and refers the reader to Rule 4.
+
+Finally, the Committee changed the Note to address the use of the term “traverse,” a point raised by one of the commentators on the proposed rule.
+
 ### Rule 6. Discovery
 
 (a)
 
-Leave of court required. A party may invoke the processes of discovery available under the Federal Rules of Criminal Procedure or the Federal Rules of Civil Procedure or elsewhere in the usages and principles of law if, and to the extent that, the judge in the exercise of his discretion and for good cause shown grants leave to do so, but not otherwise. If necessary for effective utilization of discovery procedures, counsel shall be appointed by the judge for a movant who qualifies for appointment of counsel under 18 U.S.C. §3006A(g).
+Leave of Court Required. A judge may, for good cause, authorize a party to conduct discovery under the Federal Rules of Criminal Procedure or Civil Procedure, or in accordance with the practices and principles of law. If necessary for effective discovery, the judge must appoint an attorney for a moving party who qualifies to have counsel appointed under 18 U.S.C. §3006A.
 
 (b)
 
-Requests for discovery. Requests for discovery shall be accompanied by a statement of the interrogatories or requests for admission and a list of the documents, if any, sought to be produced.
+Requesting Discovery. A party requesting discovery must provide reasons for the request. The request must also include any proposed interrogatories and requests for admission, and must specify any requested documents.
 
 (c)
 
-Expenses. If the government is granted leave to take the deposition of the movant or any other person, the judge may as a condition of taking it direct that the government pay the expenses of travel and subsistence and fees of counsel for the movant to attend the taking of the deposition.
+Deposition Expenses. If the government is granted leave to take a deposition, the judge may require the government to pay the travel expenses, subsistence expenses, and fees of the moving party's attorney to attend the deposition.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -352,23 +452,35 @@ This rule differs from the corresponding discovery rule under the §2254 rules i
 
 See the advisory committee note to rule 6 of the §2254 rules. The discussion there is fully applicable to discovery under these rules for §2255 motions.
 
-### Rule 7. Expansion of Record
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 6 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as indicated below.
+
+Although current Rule 6(b) contains no requirement that the parties provide reasons for the requested discovery, the revised rule does so and also includes a requirement that the request be accompanied by any proposed interrogatories and requests for admission, and must specify any requested documents. The Committee believes that the revised rule makes explicit what has been implicit in current practice.
+
+<i>Changes Made After Publication and Comments</i>. The Committee modified Rule 6(b), to require that discovery requests be supported by reasons, to assist the court in deciding what, if any, discovery should take place. The Committee amended the Note to reflect the view that it believed that the change made explicit what has been implicit in current practice.
+
+#### References in Text
+
+The Federal Rules of Criminal Procedure, referred to in subd. (a), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to this title.
+
+### Rule 7. Expanding the Record
 
 (a)
 
-Direction for expansion. If the motion is not dismissed summarily, the judge may direct that the record be expanded by the parties by the inclusion of additional materials relevant to the determination of the merits of the motion.
+In General. If the motion is not dismissed, the judge may direct the parties to expand the record by submitting additional materials relating to the motion. The judge may require that these materials be authenticated.
 
 (b)
 
-Materials to be added. The expanded record may include, without limitation, letters predating the filing of the motion in the district court, documents, exhibits, and answers under oath, if so directed, to written interrogatories propounded by the judge. Affidavits may be submitted and considered as a part of the record.
+Types of Materials. The materials that may be required include letters predating the filing of the motion, documents, exhibits, andanswers under oath to written interrogatories propounded by the judge. Affidavits also may be submitted and considered as part of the record.
 
 (c)
 
-Submission to opposing party. In any case in which an expanded record is directed, copies of the letters, documents, exhibits, and affidavits proposed to be included shall be submitted to the party against whom they are to be offered, and he shall be afforded an opportunity to admit or deny their correctness.
+Review by the Opposing Party. The judge must give the party against whom the additional materials are offered an opportunity to admit or deny their correctness.
 
-(d)
-
-Authentication. The court may require the authentication of any material under subdivision (b) or (c).
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -376,41 +488,35 @@ It is less likely that the court will feel the need to expand the record in a §
 
 See the advisory committee note to rule 7 of the §2254 rules for a full discussion of reasons and procedures for expanding the record.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 7 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+Revised Rule 7(a) is not intended to restrict the court's authority to expand the record through means other than requiring the parties themselves to provide the information.
+
+The language in current Rule 7(d), which deals with authentication of materials in the expanded record, has been moved to revised Rule 7(a).
+
+<i>Changes Made After Publication and Comments</i>. Rule 7(a) was changed by removing the reference to the “merits” of the motion. One commentator had stated that the court may wish to expand the record for purposes other than the merits of the case. The Committee agreed and also changed the rule to reflect that someone other than a party may authenticate the materials.
+
 ### Rule 8. Evidentiary Hearing
 
 (a)
 
-Determination by court. If the motion has not been dismissed at a previous stage in the proceeding, the judge, after the answer is filed and any transcripts or records of prior court actions in the matter are in his possession, shall, upon a review of those proceedings and of the expanded record, if any, determine whether an evidentiary hearing is required. If it appears that an evidentiary hearing is not required, the judge shall make such disposition of the motion as justice dictates.
+Determining Whether to Hold a Hearing. If the motion is not dismissed, the judge must review the answer, any transcripts and records of prior proceedings, and any materials submitted under Rule 7 to determine whether an evidentiary hearing is warranted.
 
 (b)
 
-Function of the magistrate.
-
-&emsp;(1) When designated to do so in accordance with 28 U.S.C. §636(b), a magistrate may conduct hearings, including evidentiary hearings, on the motion, and submit to a judge of the court proposed findings and recommendations for disposition.
-
-&emsp;(2) The magistrate shall file proposed findings and recommendations with the court and a copy shall forthwith be mailed to all parties.
-
-&emsp;(3) Within ten days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court.
-
-&emsp;(4) A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify in whole or in part any findings or recommendations made by the magistrate.
+Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer the motion to a magistrate judge to conduct hearings and to file proposed findings of fact and recommendations for disposition. When they are filed, the clerk must promptly serve copies of the proposed findings and recommendations on all parties. Within 10 days after being served, a party may file objections as provided by local court rule. The judge must determine de novo any proposed finding or recommendation to which objection is made. The judge may accept, reject, or modify any proposed finding or recommendation.
 
 (c)
 
-Appointment of counsel; time for hearing. If an evidentiary hearing is required, the judge shall appoint counsel for a movant who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g) and the hearing shall be conducted as promptly as practicable, having regard for the need of counsel for both parties for adequate time for investigation and preparation. These rules do not limit the appointment of counsel under 18 U.S.C. §3006A at any stage of the proceeding if the interest of justice so requires.
+Appointing Counsel; Time of Hearing. If an evidentiary hearing is warranted, the judge must appoint an attorney to represent a moving party who qualifies to have counsel appointed under 18 U.S.C. §3006A. The judge must conduct the hearing as soon as practicable after giving the attorneys adequate time to investigate and prepare. These rules do not limit the appointment of counsel under §3006A at any stage of the proceeding.
 
 (d)
 
-Production of statements at evidentiary hearing.
+Producing a Statement. Federal Rule of Criminal Procedure 26.2(a)–(d) and (f) applies at a hearing under this rule. If a party does not comply with a Rule 26.2(a) order to produce a witness's statement, the court must not consider that witness's testimony.
 
-&emsp;(1)
-
-In general. Federal Rule of Criminal Procedure 26.2(a)–(d), and (f) applies at an evidentiary hearing under these rules.
-
-&emsp;(2)
-
-Sanctions for failure to produce statement. If a party elects not to comply with an order under Federal Rule of Criminal Procedure 26.2(a) to deliver a statement to the moving party, at the evidentiary hearing the court may not consider the testimony of the witness whose statement is withheld.
-
-(As amended Pub. L. 94–426, §2(6), Sept. 28, 1976, 90 Stat. 1335; Pub. L. 94–577, §2(a)(2), (b)(2), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 22, 1993, eff. Dec. 1, 1993.)
+(As amended Pub. L. 94–426, §2(6), Sept. 28, 1976, 90 Stat. 1335; Pub. L. 94–577, §2(a)(2), (b)(2), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -418,11 +524,23 @@ The standards for §2255 hearings are essentially the same as for evidentiary he
 
 #### 1993 Amendment
 
-The amendment to Rule 8 is one of a series of parallel amendments to Federal Rules of Criminal Procedure 32,32.1, and 46 which extend the scope of Rule 26.2 (Production of Witness Statements) to proceedings other than the trial itself. The amendments are grounded on the compelling need for accurate and credible information in making decisions concerning the defendant's liberty. <i>See</i> the Advisory Committee Note to Rule 26.2(g). A few courts have recognized the authority of a judicial officer to order production of prior statements by a witness at a Section 2255 hearing, <i>see, e.g., United States v. White</i>, 342 F.2d 379, 382, n.4 (4th Cir. 1959). The amendment to Rule 8 grants explicit authority to do so. The amendment is not intended to require production of a witness's statement before the witness actually presents oral testimony.
+The amendment to Rule 8 is one of a series of parallel amendments to Federal Rules of Criminal Procedure 32, 32.1, and 46 which extend the scope of Rule 26.2 (Production of Witness Statements) to proceedings other than the trial itself. The amendments are grounded on the compelling need for accurate and credible information in making decisions concerning the defendant's liberty. <i>See</i> the Advisory Committee Note to Rule 26.2(g). A few courts have recognized the authority of a judicial officer to order production of prior statements by a witness at a Section 2255 hearing, <i>see, e.g., United States v. White</i>, 342 F.2d 379, 382, n.4 (4th Cir. 1959). The amendment to Rule 8 grants explicit authority to do so. The amendment is not intended to require production of a witness's statement before the witness actually presents oral testimony.
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
 
-1976—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+The language of Rule 8 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
+
+The requirement in current Rule 8(b)(2) that a copy of the magistrate judge's findings must be promptly mailed to all parties has been changed in revised Rule 8(b) to require that copies of those findings be served on all parties. As used in this rule, “service” means service consistent with Federal Rule of Civil Procedure 5(b), which allows mailing the copies.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 8, as published for public comment.
+
+#### References in Text
+
+The Federal Rules of Criminal Procedure, referred to in subd. (d), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments by Public Law
+
+1976—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings orrecommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
 Subd. (c). Pub. L. 94–577, §2(b)(2), substituted “and the hearing shall be conducted” for “and shall conduct the hearing.”
 
@@ -432,17 +550,11 @@ Pub. L. 94–426 provided that these rules not limit the appointment of counsel 
 
 Amendments made by Pub. L. 94–577 effective with respect to motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 2(c) of Pub. L. 94–577, set out as a note under Rule 8 of the Rules Governing Cases Under Section 2254 of this title.
 
-### Rule 9. Delayed or Successive Motions
+### Rule 9. Second or Successive Motions
 
-(a)
+Before presenting a second or successive motion, the moving party must obtain an order from the appropriate court of appeals authorizing the district court to consider the motion, as required by 28 U.S.C. §2255, para. 8.
 
-Delayed motions. A motion for relief made pursuant to these rules may be dismissed if it appears that the government has been prejudiced in its ability to respond to the motion by delay in its filing unless the movant shows that it is based on grounds of which he could not have had knowledge by the exercise of reasonable diligence before the circumstances prejudicial to the government occurred.
-
-(b)
-
-Successive motions. A second or successive motion may be dismissed if the judge finds that it fails to allege new or different grounds for relief and the prior determination was on the merits or, if new and different grounds are alleged, the judge finds that the failure of the movant to assert those grounds in a prior motion constituted an abuse of the procedure governed by these rules.
-
-(As amended Pub. L. 94–426, §2(9), (10), Sept. 28, 1976, 90 Stat. 1335.)
+(As amended Pub. L. 94–426, §2(9), (10), Sept. 28, 1976, 90 Stat. 1335; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -510,17 +622,29 @@ The annexed form is intended to serve the same purpose as the comparable one inc
 
 For further discussion applicable to this rule, see the advisory committee note to rule 9 of the §2254 rules.
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 9 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as indicated below.
+
+First, current Rule 9(a) has been deleted as unnecessary in light of the applicable one-year statute of limitations for §2255 motions, added as part of the Antiterrorism and Effective Death Penalty Act of 1996, 28 U.S.C. §2255, para. 6.
+
+Second, the remainder of revised Rule 9 reflects provisions in the Antiterrorism and Effective Death Penalty Act of 1996, 28 U.S.C. §2255, parh. \[sic\] 8, which now require a moving party to obtain approval from the appropriate court of appeals before filing a second or successive motion.
+
+Finally, the title of the rule has been changed to reflect the fact that the revised version addresses only the topic of second or successive motions.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 9, as published.
+
+#### Amendments by Public Law
 
 1976—Subd. (a). Pub. L. 94–426, §2(9), struck out provision which established a rebuttable presumption of prejudice to government if the petition was filed more than five years after conviction.
 
 Subd. (b). Pub. L. 94–426, §2(10), substituted “constituted an abuse of the procedure governed by these rules” for “is not excusable”.
 
-### Rule 10. Powers of Magistrates
+### Rule 10. Powers of a Magistrate Judge
 
-The duties imposed upon the judge of the district court by these rules may be performed by a United States magistrate pursuant to 28 U.S.C. §636.
+A magistrate judge may perform the duties of a district judge under these rules, as authorized by 28 U.S.C. §636.
 
-(As amended Pub. L. 94–426, §2(12), Sept. 28, 1976, 90 Stat. 1335; Apr. 30, 1979, eff. Aug. 1, 1979.)
+(As amended Pub. L. 94–426, §2(12), Sept. 28, 1976, 90 Stat. 1335; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -530,19 +654,21 @@ See the advisory committee note to rule 10 of the §2254 rules for a discussion 
 
 This amendment conforms the rule to 18 U.S.C. §636. See Advisory Committee Note to rule 10 of the Rules Governing Section 2254 Cases in the United States District Courts.
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 10 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+<i>Changes Made After Publication and Comments</i>. The Committee restyled the proposed rule.
+
+#### Amendments by Public Law
 
 1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties,” after “rule of the district court”.
 
-#### Change of Name
+### Rule 11. Time to Appeal
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. These rules do not extend the time to appeal the original judgment of conviction.
 
-### Rule 11. Time for Appeal
-
-The time for appeal from an order entered on a motion for relief made pursuant to these rules is as provided in Rule 4(a) of the Federal Rules of Appellate Procedure. Nothing in these rules shall be construed as extending the time to appeal from the original judgment of conviction in the district court.
-
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -552,11 +678,23 @@ Rule 11 is intended to make clear that, although a §2255 action is a continuati
 
 Prior to the promulgation of the Rules Governing Section 2255 Proceedings, the courts consistently held that the time for appeal in a section 2255 case is as provided in Fed.R.App.P. 4(a), that is, 60 days when the government is a party, rather than as provided in appellate rule 4(b), which says that the time is 10 days in criminal cases. This result has often been explained on the ground that rule 4(a) has to do with civil cases and that “proceedings under section 2255 are civil in nature.” E.g., <i>Rothman v. United States</i>, 508 F.2d 648 (3d Cir. 1975). Because the new section 2255 rules are based upon the premise “that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action,” see Advisory Committee Note to rule 1, the question has arisen whether the new rules have the effect of shortening the time for appeal to that provided in appellate rule 4(b). A sentence has been added to rule 11 in order to make it clear that this is not the case.
 
-Even though section 2255 proceedings are a further step in the criminal case, the added sentence correctly states current law. In <i>United States v. Hayman</i>, 342 U.S. 205 (1952), the Supreme Court noted that such appeals “are governed by the civil rules applicable to appeals from final judgments in habeas corpus actions.” In support, the Court cited <i>Mercado v. United States</i>, 183 F.2d 486 (1st Cir. 1950), a case rejecting the argument that because §2255 proceedings are criminal in nature the time for appeal is only 10 days. The <i>Mercado</i> court concluded that the situation was governed by that part of 28 U.S.C. §2255 which reads: “An appeal may be taken to the court of appeals from the order entered on themotion as from a final judgment on application for a writ of habeas corpus.” Thus, because appellate rule 4(a) is applicable in habeas cases, it likewise governs in §2255 cases even though they are criminal in nature.
+Even though section 2255 proceedings are a further step in the criminal case, the added sentence correctly states current law. In <i>United States v. Hayman</i>, 342 U.S. 205 (1952), the Supreme Court noted that such appeals “are governed by the civil rules applicable to appeals from final judgments in habeas corpus actions.” In support, the Court cited <i>Mercado v. United States</i>, 183 F.2d 486 (1st Cir. 1950), a case rejecting the argument that because §2255 proceedings are criminal in nature the time for appeal is only 10 days. The <i>Mercado</i> court concluded that the situation was governed by that part of 28 U.S.C. §2255 which reads: “An appeal may be taken to the court of appeals from the order entered on the motion as from a final judgment on application for a writ of habeas corpus.” Thus, because appellate rule 4(a) is applicable in habeas cases, it likewise governs in §2255 cases even though they are criminal in nature.
 
-### Rule 12. Federal Rules of Criminal and Civil Procedure; Extent of Applicability
+#### Committee Notes on Rules—2004 Amendment
 
-If no procedure is specifically prescribed by these rules, the district court may proceed in any lawful manner not inconsistent with these rules, or any applicable statute, and may apply the Federal Rules of Criminal Procedure or the Federal Rules of Civil Procedure, whichever it deems most appropriate, to motions filed under these rules.
+The language of Rule 11 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 11, as published.
+
+#### References in Text
+
+The Federal Rules of Appellate Procedure, referred to in text, are set out in the Appendix to this title.
+
+### Rule 12. Applicability of the Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure
+
+The Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure, to the extent that they are not inconsistent with any statutory provisions or these rules, may be applied to a proceeding under these rules.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -564,449 +702,21 @@ This rule differs from rule 11 of the §2254 rules in that it includes the Feder
 
 Since §2255 has been considered analogous to habeas as respects the restrictions in Fed.R.Civ.P. 81(a)(2) (see <i>Sullivan v. United States</i>, 198 F.Supp. 624 (S.D.N.Y. 1961)), rule 12 is needed. For discussion, see the advisory committee note to rule 11 of the §2254 rules.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 12 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 12.
+
 #### References in Text
 
-The Federal Rules of Criminal Procedure, referred to in text, are classified generally to the Appendix to Title 18, Crimes and Criminal Procedure.
+The Federal Rules of Civil Procedure, referred to in heading and text, are set out in the Appendix to this title.
 
-The Federal Rules of Civil Procedure, referred to in text, are classified generally to the Appendix to this title.
+The Federal Rules of Criminal Procedure, referred to in heading and text, are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### APPENDIX OF FORMS
 
-#### MODEL FORM FOR MOTIONS UNDER 28 U.S.C. §2255
-
-> Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> Prison Number \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> Place of Confinement \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> United States District Court \_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_
-
-> Case No. \_\_\_\_\_\_\_\_ (to be supplied by Clerk of U.S. District Court)
-
-> United States,
-
-#### v.
-
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#### (full name of movant)
-
-(If movant has a sentence to be served in the <i>future</i> under a federal judgment which he wishes to attack, he should file a motion in the federal court which entered the judgment.)
-
-#### MOTION TO VACATE, SET ASIDE, OR CORRECT SENTENCE BY A PERSON IN FEDERAL CUSTODY
-
-(1) This motion must be legibly handwritten or typewritten, and signed by the movant under penalty of perjury. Any false statement of a material fact may serve as the basis for prosecution and conviction for perjury. All questions must be answered concisely in the proper space on the form.
-
-(2) Additional pages are not permitted except with respect to the <i>facts</i> which you rely upon to support your grounds for relief. No citation of authorities need be furnished. If briefs or arguments are submitted, they should be submitted in the form of a separate memorandum.
-
-(3) Upon receipt, your motion will be filed if it is in proper order. No fee is required with this motion.
-
-(4) If you do not have the necessary funds for transcripts, counsel, appeal, and other costs connected with a motion of this type, you may request permission to proceed <i>in forma pauperis</i>, in which event you must execute the declaration on the last page, setting forth information establishing your inability to pay the costs. If you wish to proceed <i>in forma pauperis</i>, you must have an authorized officer at the penal institution complete the certificate as to the amount of money and securities on deposit to your credit in any account in the institution.
-
-(5) Only judgments entered by one court may be challenged in a single motion. If you seek to challenge judgments entered by different judges or divisions either in the same district or in different districts, you must file separate motions as to each such judgment.
-
-(6) Your attention is directed to the fact that you must include all grounds for relief and all facts supporting such grounds for relief in the motion you file seeking relief from any judgment of conviction.
-
-(7) When the motion is fully completed, the <i>original and two copies</i> must be mailed to the Clerk of the United States District Court whose address is\_\_\_\_\_\_
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(8) Motions which do not conform to these instructions will be returned with a notation as to the deficiency.
-
-#### MOTION
-
-&nbsp;1. Name and location of court which entered the judgment of conviction under attack \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;2. Date of judgment of conviction \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;3. Length of sentence \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;4. Nature of offense involved (all counts) \_\_\_\_\_\_\_\_\_\_\_\_
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;5. What was your plea? (Check one)
-
-&nbsp;&nbsp;&nbsp;(a) Not guilty
-
-&nbsp;&nbsp;☐
-
-&nbsp;&nbsp;&nbsp;(b) Guilty
-
-&nbsp;&nbsp;☐
-
-&nbsp;&nbsp;&nbsp;(c) Nolo contendere
-
-&nbsp;&nbsp;☐
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;If you entered a guilty plea to one count or indictment, and a not guilty plea to another count or indictment, give details:
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;6. Kind of trial: (Check one)
-
-&nbsp;&nbsp;&nbsp;(a) Jury
-
-☐
-
-&nbsp;&nbsp;&nbsp;(b) Judge only
-
-☐
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;7. Did you testify at the trial?
-
-&emsp;Yes ☐ No ☐
-
-&nbsp;8. Did you appeal from the judgment of conviction?
-
-&emsp;Yes ☐ No ☐
-
-&nbsp;9. If you did appeal, answer the following:
-
-&emsp;&emsp;(a) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&emsp;&emsp;(b) Result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&emsp;&emsp;(c) Date of result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-10\. Other than a direct appeal from the judgment of conviction and sentence, have you previously filed any petitions, applications or motions with respect to this judgment in any federal court?
-
-&emsp;Yes ☐ No ☐
-
-11\. If your answer to 10 was “yes,” give the following information:
-
-&nbsp;&nbsp;&nbsp;(a)
-
-(1) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(2) Nature of proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(3) Grounds raised \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXXXXXXXXXXXXXXXXXXXXX&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXXXXXXXXXXXXXXXXXXXXX&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXXXXXXXXXXXXXXXXXXXXX&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XXXXXXXXXXXXXXXXXXXXXX&nbsp;
-
-(4) Did you receive an evidentiary hearing on
-
-&nbsp;
-
-&nbsp;&nbsp;your petition, application or motion?
-
-&nbsp;
-
-&nbsp;&nbsp;Yes ☐ No ☐
-
-(5) Result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(6) Date of result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&emsp;(b) As to any second petition, application or
-
-&nbsp;
-
-&nbsp;&nbsp;motion give the same information:
-
-(1) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(2) Nature of proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(3) Grounds raised \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(4) Did you receive an evidentiary hearing on
-
-&nbsp;&nbsp;your petition, application or motion?
-
-&nbsp;&nbsp;Yes ☐ No ☐
-
-(5) Result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(6) Date of result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&emsp;(c) As to any third petition, application or
-
-&nbsp;
-
-&nbsp;&nbsp;motion, give the same information:
-
-(1) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(2) Nature of proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(3) Grounds raised \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(4) Did you receive an evidentiary hearing on
-
-&nbsp;
-
-&nbsp;&nbsp;your petition, application or motion?
-
-&nbsp;
-
-&nbsp;&nbsp;Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&emsp;(d) Did you appeal, to an appellate federal court         having jurisdiction, the result of action         taken on any petition, application or         motion?
-
-(1) First petition, etc.   Yes ☐ No ☐
-
-(2) Second petition, etc.  Yes ☐ No ☐
-
-(3) Third petition, etc.  Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;&emsp;(e) If you did <i>not</i> appeal from the adverse action         on any petition, application or motion,         explain briefly why you did not:
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-12\. State <i>concisely</i> every ground on which you claim that you are being held unlawfully. Summarize <i>briefly</i> the facts supporting each ground. If necessary, you may attach pages stating additional grounds and <i>facts</i> supporting same.
-
-Caution: If you fail to set forth all grounds in this motion, you may be barred from presenting additional grounds at a later date.
-
-&emsp;&emsp;For your information, the following is a list of the most frequently raised grounds for relief in these proceedings. Each statement preceded by a letter constitutes a separate ground for possible relief. You may raise any grounds which you have other than those listed. However, <i>you should raise in this motion all available grounds</i> (relating to this conviction) on which you based your allegations that you are being held in custody unlawfully.
-
-Do not check any of these listed grounds. If you select one or more of these grounds for relief, you must allege facts. The motion will be returned to you if you merely check (a) through (j) or any one of the grounds.
-
-&nbsp;(a) Conviction obtained by plea of guilty which was unlawfully induced or not made voluntarily or with understanding of the nature of the charge and the consequences of the plea.
-
-&nbsp;(b) Conviction obtained by use of coerced confession.
-
-&nbsp;(c) Conviction obtained by use of evidence gained pursuant to an unconstitutional search and seizure.
-
-&nbsp;(d) Conviction obtained by use of evidence obtained pursuant to an unlawful arrest.
-
-&nbsp;(e) Conviction obtained by a violation of the privilege against self-incrimination.
-
-&nbsp;(f) Conviction obtained by the unconstitutional failure of the prosecution to disclose to the defendant evidence favorable to the defendant.
-
-&nbsp;(g) Conviction obtained by a violation of the protection against double jeopardy.
-
-&nbsp;(h) Conviction obtained by action of a grand or petit jury which was unconstitutionally selected and impanelled.
-
-&nbsp;(i) Denial of effective assistance of counsel.
-
-&nbsp;(j) Denial of right of appeal.
-
-&emsp;&emsp;A. Ground one: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;B. Ground two: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;C. Ground three: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;D. Ground four: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-13\. If any of the grounds listed in 12A, B, C, and D were not previously presented, state <i>briefly</i> what grounds were not so presented, and give your reasons for not presenting them:
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-14\. Do you have any petition or appeal now pending in any court as to the judgment under attack?
-
-&emsp;Yes ☐ No ☐
-
-15\. Give the name and address, if known, of each attorney who represented you in the following stages of the judgment attacked herein:
-
-&emsp;&emsp;(a) At preliminary hearing \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;(b) At arraignment and plea \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;(c) At trial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;(d) At sentencing \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;(e) On appeal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;(f) In any post-conviction proceeding \_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;(g) On appeal from any adverse ruling in a post-
-
-&emsp;&emsp;&nbsp;&nbsp;conviction proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-16\. Were you sentenced on more than one count of an indictment, or on more than one indictment, in the same court and at approximately the same time?
-
-&emsp;Yes ☐ No ☐
-
-17\. Do you have any future sentence to serve after you complete the sentence imposed by the judgment under attack?
-
-&emsp;Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;(a)
-
-If so, give name and location of court which imposed sentence to be served in the future:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;&nbsp;&nbsp;(b)
-
-And give date and length of sentence to be served in the future:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;&nbsp;&nbsp;(c)
-
-Have you filed, or do you contemplate filing, any petition attacking the judgment which imposed the sentence to be served in the future?
-
-&nbsp;Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Wherefore, movant prays that the Court grant him all relief to which he may be entitled in this proceeding.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Signature of Attorney (if any)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
-
-> &nbsp;&nbsp;&nbsp;(date)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Signature of Movant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Image not captured: 2255p1.gif][Image not captured: 2255p2.gif][Image not captured: 2255p3.gif][Image not captured: 2255p4.gif][Image not captured: 2255p5.gif][Image not captured: 2255p6.gif][Image not captured: 2255p7.gif][Image not captured: 2255p8.gif][Image not captured: 2255p9.gif][Image not captured: 2255p10.gif][Image not captured: 2255p11.gif][Image not captured: 2255p12.gif][Image not captured: 2255p13.gif][Image not captured: 2255p14.gif]
 
 #### IN FORMA PAUPERIS DECLARATION
 
@@ -1128,115 +838,7 @@ Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> (As amended Apr. 28, 1982, eff. Aug. 1, 1982.)
+> (As amended Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
-#### MODEL FORM FOR USE IN 28 U.S.C. §2255 CASES INVOLVING A RULE 9 ISSUE
-
-#### Form No. 9
-
-#### United States District Court
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#### Case No. \_\_\_\_\_\_\_\_
-
-#### United States
-
-#### v.
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#### (Name of Movant)
-
-#### <i>Movant's Response as to Why His Motion Should Not be Barred Under Rule 9</i>
-
-#### Explanation and Instructions—Read Carefully
-
-> <b>(I) Rule 9. Delayed or Successive Motions.</b>
-
-<b>(a) Delayed motions</b>. A motion for relief made pursuant to these rules may be dismissed if it appears that the government has been prejudiced in its ability to respond to the motion by delay in its filing unless the movant shows that it is based on grounds of which he could not have had knowledge by the exercise of reasonable diligence before the circumstances prejudicial to the government occurred.
-
-<b>(b) Successive motions</b>. A second or successive motion may be dismissed if the judge finds that it fails to allege new or different grounds for relief and the prior determination was on the merits or, if new and different grounds are alleged, the judge finds that the failure of the movant to assert those grounds in a prior motion constituted an abuse of the procedure governed by these rules.
-
-(II) Your motion to vacate, set aside, or correct sentence has been found to be subject to dismissal under rule 9( ) for the following reason(s):
-
-> &nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(III) This form has been sent so that you may explain why your motion contains the defect(s) noted in (II) above. It is required that you fill out this form and send it back to the court within\_\_\_\_\_\_\_\_ days. Failure to do so will result in the automatic dismissal of your motion.
-
-(IV) When you have fully completed this form, the original and two copies must be mailed to the Clerk of the United States District Court whose address is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(V)  This response must be legibly handwritten or typewritten, and signed by the movant under penalty of perjury. Any false statement of a material fact may serve as the basis for prosecution and conviction for perjury. All questions must be answered concisely in the proper space on the form.
-
-(VI) Additional pages are not permitted except with respect to the <i>facts</i> which you rely upon in item 4 or 5 in the response. Any citation of authorities should be kept to an absolute minimum and is only appropriate if there has been a change in the law since the judgment you are attacking was rendered.
-
-(VII) Respond to 4 <i>or</i> 5, not to both, unless (II) above indicates that you must answer both sections.
-
-#### RESPONSE
-
-1\. Have you had the assistance of an attorney, other law-trained personnel, or writ writers since the conviction your motion is attacking was entered?
-
-&emsp;Yes ☐ No ☐
-
-2\. If you checked “Yes” above, specify as precisely as you can the period(s) of time during which you received such assistance, up to and including the present.
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-3\. Describe the nature of the assistance, including the names of those who rendered it to you.
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-4\. If your motion is in jeopardy because of delay prejudicial to the government under rule 9(a), explain why you feel the delay has not been prejudicial and/or why the delay is excusable under the terms of 9(a). This should be done by relying upon FACTS, not your opinions or conclusions.
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-5\. If your motion is in jeopardy under rule 9(b) because it asserts the same grounds as a previous motion, explain why you feel it deserves a reconsideration. If its fault under rule 9(b) is that it asserts new grounds which should have been included in a prior motion, explain why you are raising these grounds now rather than previously. Your explanation should rely on FACTS, not your opinions or conclusions.
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
-
-> &nbsp;&nbsp;&nbsp;(date)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Signature of Movant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> (As amended Apr. 28, 1982, eff. Aug. 1, 1982.)
+<i>Changes Made After Publication and Comments—Forms Accompanying Rules Governing §2254 and §2255 Proceedings</i>. Responding to a number of comments from the public, the Committee deleted from both sets of official forms the list of possible grounds of relief. The Committee made additional minor style corrections to the forms.
 

@@ -40,7 +40,7 @@
 
 #### (6) Participation in survey
 
-&emsp;Federal, State, or local officials or facility administrators that receive a request from the Bureau under subsection (a)(4) or (5) will be required to participate in the national surveyand provide access to any inmates under their legal custody.
+&emsp;Federal, State, or local officials or facility administrators that receive a request from the Bureau under subsection (a)(4) or (5) will be required to participate in the national survey and provide access to any inmates under their legal custody.
 
 #### (b) Review Panel on Prison Rape
 
@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The duty of the Panel shall be to carry out, for each calendar year, public hearings concerning the operation of the three prisons with the highest incidence of prison rape and the two prisons with the lowest incidence of prison rape in each category of facilities identified under subsection (c)(4). The Panel shall hold a separate hearing regarding the three Federal or State prisons with the highest incidence of prison rape. The purpose of these hearings shall be to collect evidence to aid in the identification of common characteristics of both victims and perpetrators of prison rape, and the identification of common characteristics of prisons and prison systems with a high incidence of prison rape, and the identification of common characteristics of prisons and prison systems that appear to have been successful in deterring prison rape.
+&emsp;&emsp;The duty of the Panel shall be to carry out, for each calendar year, public hearings concerning the operation of the three prisons with the highest incidence of prison rape and the two prisons with the lowest incidence of prison rape in each category of facilities identified under subsection (c)(4). The Panel shall hold a separate hearing regarding the three Federal or State prisons with the highest incidence of prison rape. The purpose of these hearings shall be to collect evidence to aid in the identification of common characteristics of both victims and perpetrators of prison rape, and the identification of common characteristics of prisons and prison systems with a high incidence of prison rape, and the identificationof common characteristics of prisons and prison systems that appear to have been successful in deterring prison rape.
 
 #### (B) Testimony at hearings
 
@@ -131,8 +131,4 @@ In carrying out its duties under this section, the Attorney General may—
 There are authorized to be appropriated $15,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
 
 (Pub. L. 108–79, §4, Sept. 4, 2003, 117 Stat. 975.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15607 of this title.
 

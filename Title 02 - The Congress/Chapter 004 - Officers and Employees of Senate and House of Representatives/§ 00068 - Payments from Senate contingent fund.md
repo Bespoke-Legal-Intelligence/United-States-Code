@@ -6,13 +6,13 @@ No payment shall be made from the contingent fund of the Senate unless sanctione
 
 #### Codification
 
-Section is based on provisions of last par. on 25 Stat. 546, act of Oct. 2, 1888, ch. 1069, relating to paymentsfrom contingent fund of Senate. Provisions of that par. relating to payments from contingent fund of House of Representatives were classified to section 95 of this title prior to being struck out by Pub. L. 104–186.
+Section is based on provisions of last par. on 25 Stat. 546, act of Oct. 2, 1888, ch. 1069, relating to payments from contingent fund of Senate. Provisions of that par. relating to payments from contingent fund of House of Representatives were classified to section 95 of this title prior to being struck out by Pub. L. 104–186.
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–554 inserted provision relating to applicability to payments made upon abstracts of disbursements of salaries.
+1974—Pub. L. 93–554 inserted provision relating to applicability to payments made upon abstracts of disbursements of salaries.
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control Contingent Expenses”.
 
 #### Effective Date of 1974 Amendment
 
@@ -21,8 +21,4 @@ Title I of Pub. L. 93–554 provided that the amendment made by Pub. L. 93–554
 #### Effective Date of 1946 Amendment
 
 Section 142 of act Aug. 2, 1946, provided that the amendment made by that act is effective Jan. 2, 1947.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288m, 601 of this title.
 

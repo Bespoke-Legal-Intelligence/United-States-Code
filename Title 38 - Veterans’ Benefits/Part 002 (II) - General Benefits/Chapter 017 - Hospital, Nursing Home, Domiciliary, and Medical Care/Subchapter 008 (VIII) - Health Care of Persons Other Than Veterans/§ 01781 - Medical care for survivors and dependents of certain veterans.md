@@ -34,7 +34,7 @@
 
 &emsp;(ii) the total amount paid or payable for such medical care by third party payers other than the medicare program.
 
-(3) The amount payable under this subsection for medical care may not exceed the total amount that would be paid under subsection (b) if payment for such medical care were made solely under subsection (b).
+(3) The amount payable under this subsection for medical care may not exceed the totalamount that would be paid under subsection (b) if payment for such medical care were made solely under subsection (b).
 
 (4) In this subsection:
 
@@ -56,7 +56,7 @@ A prior section 1781 was renumbered section 3681 of this title.
 
 2002—Pub. L. 107–135, §208(c)(1), (2), renumbered section 1713 of this title as this section.
 
-Subsec. (b). Pub. L. 107–135, §208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medicalservices as a veteran, including services under sections 1782 and 1783 of this title.”
+Subsec. (b). Pub. L. 107–135, §208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.”
 
 Subsec. (d)(1)(B)(i). Pub. L. 107–330, §308(g)(8)(A), substituted “as of June 5, 2001” for “as of the date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001”.
 
@@ -105,8 +105,4 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 1701, 8502, 8520, 8521 of this title.
 

@@ -26,7 +26,3 @@ The purpose of this subchapter is to settle the 107th meridian boundary dispute 
 
 Section 1 of Pub. L. 103–444 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Crow Boundary Settlement Act of 1994’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1776j of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of standby conservation plan
 
-(1) Within 90 days after November 5, 1979, the Secretary, in accordance with section 7191 of this title, shall establish a standby Federal emergency conservation plan. The Secretarymay amend such plan at any time, and shall make such amendments public upon their adoption.
+(1) Within 90 days after November 5, 1979, the Secretary, in accordance with section 7191 of this title, shall establish a standby Federal emergency conservation plan. The Secretary may amend such plan at any time, and shall make such amendments public upon their adoption.
 
 (2) The plan under this section shall be consistent with the attainment of the objectives of section 753(b)(1) <sup>1</sup> of title 15, and shall provide for the emergency reduction in the public and private use of each energy source for which an emergency conservation target is in effect or may be in effect under section 8511 of this title.
 
@@ -95,10 +95,6 @@ The plan established under subsection (a) of this section shall—
 Section 753 of title 15, referred to in subsec. (a)(2), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
 Section 6263 of this title, referred to in subsec. (h)(3)(D), was repealed by Pub. L. 106–469, title I, §104(1), Nov. 9, 2000, 114 Stat. 2033.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8512, 8514, 8541 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

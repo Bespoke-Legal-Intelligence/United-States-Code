@@ -6,7 +6,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 (a) The Northern District comprises the counties of Albany, Broome, Cayuga, Chenango, Clinton, Columbia, Cortland, Delaware, Essex, Franklin, Fulton, Greene, Hamilton, Herkimer, Jefferson, Lewis, Madison, Montgomery, Oneida, Onondaga, Oswego, Otsego, Rensselaer, Saint Lawrence, Saratoga, Schenectady, Schoharie, Tioga, Tompkins, Ulster, Warren, and Washington.
 
-&emsp;&emsp;Court for the Northern District shall be held at Albany, Auburn, Binghamton, Malone, Syracuse, Utica, and Watertown.
+&emsp;&emsp;Court for the Northern District shall be held at Albany, Auburn, Binghamton, Malone, Plattsburgh,<sup>1</sup> Syracuse, Utica, Watertown, and Plattsburgh.<sup>1</sup>
 
 ### Southern District
 
@@ -26,7 +26,7 @@ New York is divided into four judicial districts to be known as the Northern, So
 
 &emsp;&emsp;Court for the Western District shall be held at Buffalo, Canandaigua, Elmira, Jamestown, and Rochester.
 
-(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §306\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37.)
+(June 25, 1948, ch. 646, 62 Stat. 885; Pub. L. 90–217, Dec. 18, 1967, 81 Stat. 662; Pub. L. 91–546, §1, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–271, §1, Apr. 28, 1978, 92 Stat. 221; Pub. L. 95–408, §4(c), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–573, §3, Nov. 2, 1978, 92 Stat. 2458; Pub. L. 98–620, title IV, §405, Nov. 8, 1984, 98 Stat. 3361; Pub. L. 101–650, title III, §324(a)(2), Dec. 1, 1990, 104 Stat. 5120; Pub. L. 104–317, title VI, §609, Oct. 19, 1996, 110 Stat. 3860; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §306\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 108–455, §4, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 108–482, title III, §302, Dec. 23, 2004, 118 Stat. 3918.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +38,7 @@ References to seizures made, matters done and processes or orders issued respect
 
 Provision for 20 days’ notice of the special term authorized in the discretion of the court in the counties of Clinton, Jefferson, Onondaga, Oswego, Rensselaer, St. Lawrence, Saratoga, and Schenectady was omitted as unnecessary, in view of section 141 of this title providing for such notice as the district judge orders.
 
-The special provision permitting any district judge in New York to act as judge in any other district in that State upon request of the resident district judge was omitted, thus making applicable the uniform procedure for designation and assignment of district judgesthroughout the United States, provided by section 292 of this title.
+The special provision permitting any district judge in New York to act as judge in any other district in that State upon request of the resident district judge was omitted, thus making applicable the uniform procedure for designation and assignment of district judges throughout the United States, provided by section 292 of this title.
 
 Words “with the waters thereof” after the list of counties in each district were omitted as unnecessary and inconsistent with other sections of this chapter.
 
@@ -53,6 +53,10 @@ Lockport was omitted as a place of holding court in the Western District. Court 
 Changes were made in arrangement and phraseology.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–482 inserted “Plattsburgh,” after “Malone,”.
+
+Pub. L. 108–455 substituted “Watertown, and Plattsburgh” for “and Watertown”.
 
 1999—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
 
@@ -93,4 +97,6 @@ Sections 2 to 5 of Pub. L. 95–271 provided that:
 “Sec. 4. Notwithstanding the provisions of section 456 of title 28, United States Code, any judge, and any officer or employee of the judicial branch, whose official station is, on the day before the date of enactment of this Act \[Apr. 28, 1978\], Westbury, may maintain that official station for the duration of the special session held pursuant to section 2 of this Act.
 
 “Sec. 5. The Director of the Administrative Office of the United States Courts may pay travel and transportation expenses in accordance with subchapter II, chapter 57 of title 5, United States Code, to any officer or employee of the judicial branch whose official station changes as a consequence of this Act \[enacting this provision and amending subsec. (c) of this section\] and who relocates his residence incident to such change of official station.”
+
+<i><sup>1</sup></i><i> So in original. “Plattsburgh” appears twice.</i>
 

@@ -54,7 +54,3 @@ Subsec. (d)(1). Pub. L. 98–353, §517(b), substituted “or” for “and”.
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 346, 348 of this title; title 28 section 2201.
-

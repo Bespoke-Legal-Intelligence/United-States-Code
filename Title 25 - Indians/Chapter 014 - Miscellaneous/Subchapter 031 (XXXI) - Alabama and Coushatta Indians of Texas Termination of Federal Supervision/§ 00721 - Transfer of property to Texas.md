@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to convey to the State of Texas the 
 
 (Aug. 23, 1954, ch. 831, §1, 68 Stat. 768.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 731 of this title.
-

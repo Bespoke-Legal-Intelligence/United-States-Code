@@ -10,7 +10,7 @@ Truck, Multipurpose Passenger Vehicle, and Motorcycle Report.—Not later than O
 
 &emsp;(3) a description of the market for the stolen parts;
 
-&emsp;(4) information on the premiums charged by insurers of comprehensive coverage of trucks, multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
+&emsp;(4) information on the premiums charged by insurers of comprehensive coverage of trucks,multipurpose passenger vehicles, or motorcycles, including any increase in the premiums charged because any of those motor vehicles is a likely candidate for theft;
 
 &emsp;(5) an assessment of whether the identification of parts of trucks, multipurpose passenger vehicles, and motorcycles is likely—
 
@@ -139,8 +139,4 @@ In subsection (c)(1)(C), the words “carrying out” are substituted for “the
 #### References in Text
 
 The Motor Vehicle Theft Law Enforcement Act of 1984, referred to in subsecs. (b)(6)(A), (10) and (c)(1)(D), is Pub. L. 98–547, Oct. 25, 1984, 98 Stat. 2754. Titles II and III of that act enacted sections 511, 512, 553, and 2320 \[now 2321\] of Title 18, Crimes and Criminal Procedure, and section 1627 of Title 19, Customs Duties, and amended sections 1961, 2311, and 2313 of Title 18. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1901 of Title 15, Commerce and Trade, and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 33103 of this title.
 

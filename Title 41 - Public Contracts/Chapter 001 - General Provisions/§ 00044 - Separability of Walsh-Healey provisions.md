@@ -10,7 +10,3 @@ A prior section 12 of act June 30, 1936, was renumbered section 13, and is class
 
 Another prior section 12 of act June 30, 1936, was renumbered section 14, and is set out as a Short Title note under section 35 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 450j.
-

@@ -6,7 +6,3 @@
 
 (Pub. L. 93–473, §15, Oct. 26, 1974, 88 Stat. 1437.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5566 of this title.
-

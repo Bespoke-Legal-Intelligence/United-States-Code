@@ -4,7 +4,7 @@
 
 (1) Any agreement entered into under section 2902(b) or (c) of this title shall enter into force with respect to the United States if (and only if)—
 
-&emsp;(A) the President, at least 90 calendar days before the day on which he enters into thetrade agreement, notifies the House of Representatives and the Senate of his intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
+&emsp;(A) the President, at least 90 calendar days before the day on which he enters into the trade agreement, notifies the House of Representatives and the Senate of his intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register;
 
 &emsp;(B) after entering into the agreement, the President submits a document to the House of Representatives and to the Senate containing a copy of the final legal text of the agreement, together with—
 
@@ -70,7 +70,7 @@
 
 (4) The reports submitted to the Congress under paragraphs (2) and (3), or any portion of the reports, may be classified to the extent the President determines appropriate.
 
-(5)(A) For purposes of this subsection, the term “extension disapproval resolution” means a resolution of either House of the Congress, thesole matter after the resolving clause of which is as follows: “That the            disapproves the request of the President for the extension, under section 1103(b)(1)(B)(i) of the Omnibus Trade and Competitiveness Act of 1988, of the provisions of section 151 of the Trade Act of 1974 to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act after May 31, 1991, because sufficient tangible progress has not been made in trade negotiations.”, with the blank space being filled with the name of the resolving House of the Congress.
+(5)(A) For purposes of this subsection, the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the            disapproves the request of the President for the extension, under section 1103(b)(1)(B)(i) of the Omnibus Trade and Competitiveness Act of 1988, of the provisions of section 151 of the Trade Act of 1974 to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act after May 31, 1991, because sufficient tangible progress has not been made in trade negotiations.”, with the blank space being filled with the name of the resolving House of the Congress.
 
 (B) Extension disapproval resolutions—
 
@@ -108,7 +108,7 @@
 
 (D) It is not in order for the House of Representatives to consider any procedural disapproval resolution not reported by the Committee on Ways and Means and the Committee on Rules.
 
-(E) For purposes of this subsection, the term “procedural disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).”, with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
+(E) For purposes of this subsection, the term “procedural disapproval resolution” means a resolution of either House of the Congress, thesole matter after the resolving clause of which is as follows: “That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).”, with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
 
 (2) The fast track procedures shall not apply to any implementing bill that contains a provision approving of any trade agreement which is entered into under section 2902(c) of this title with any foreign country if either—
 
@@ -138,11 +138,7 @@ Each period of time described in subsection (c)(1)(A) and (E) and (2) of this se
 
 This title, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B), (3)(A), is title I (§1001 et seq.) of Pub. L. 100–418, see note below. For complete classification of this title to the Code, see Tables.
 
-The Omnibus Trade and Competitiveness Act of 1988, referred to in subsecs. (b)(5)(A) and (c)(1)(E), is Pub. L.100–418, Aug. 23, 1988, 102 Stat. 1107. Sections 1102(b) and (c) and 1103(b)(1)(B)(i) and (c)(1)(E) of such Act are classified to sections 2902(b) and (c) and 2903(b)(1)(B)(i) and (c)(1)(E) of this title, respectively. For complete classification of this Act to the Code, see Tables.
+The Omnibus Trade and Competitiveness Act of 1988, referred to in subsecs. (b)(5)(A) and (c)(1)(E), is Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1107. Sections 1102(b) and (c) and 1103(b)(1)(B)(i) and (c)(1)(E) of such Act are classified to sections 2902(b) and (c) and 2903(b)(1)(B)(i) and (c)(1)(E) of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
 Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(1)(E), is classified to section 2191 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2902, 3511 of this title.
 

@@ -1,12 +1,12 @@
 ### §2992a. Labor standards
 
-All laborers and mechanics employed by contractors or subcontractors in the construction, alteration, or repair, including painting or decorating, of buildings or other facilities in connection with projects assisted under this subchapter, shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to such labor standards, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950, and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors in the construction, alteration, or repair, including painting or decorating, of buildings or other facilities in connection with projects assisted under this subchapter, shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to such labor standards,the authority and functions set forth in Reorganization Plan Numbered 14 of 1950, and section 3145 of title 40.
 
 (Pub. L. 88–452, title VIII, §812, formerly §811, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; renumbered §812, Pub. L. 100–175, title V, §502(3), Nov. 29, 1987, 101 Stat. 973.)
 
 #### References in Text
 
-Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No. 14 of 1950, eff. May 24, 1950,15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

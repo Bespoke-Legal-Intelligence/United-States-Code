@@ -14,7 +14,3 @@ There are hereby authorized to be appropriated to the Secretary such sums as may
 
 Section was enacted as part of the Omnibus Insular Areas Act of 1992, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5204 of this title.
-

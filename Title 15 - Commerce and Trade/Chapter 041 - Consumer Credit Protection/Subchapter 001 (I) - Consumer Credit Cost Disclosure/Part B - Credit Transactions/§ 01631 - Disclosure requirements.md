@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, a creditor or lessor shall disclose t
 
 #### (b) Creditor or lessor required to make disclosure
 
-If a transaction involves one creditor as defined in section 1602(f) of this title, or one lessoras defined in section 1667(3) of this title, such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor or lessor, only one creditor or lessor shall by required to make the disclosures. The Board shall by regulation specify which creditor or lessor shall make the disclosures.
+If a transaction involves one creditor as defined in section 1602(f) of this title, or one lessor as defined in section 1667(3) of this title, such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor or lessor, only one creditor or lessor shall by required to make the disclosures. The Board shall by regulation specify which creditor or lessor shall make the disclosures.
 
 #### (c) Estimates as satisfying statutory requirements; basis of disclosure for per diem interest
 
@@ -14,7 +14,7 @@ The Board may provide by regulation that any portion of the information required
 
 #### (d) Tolerances for numerical disclosures
 
-The Board shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Board shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerances from resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
+The Board shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Board shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerancesfrom resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
 
 (Pub. L. 90–321, title I, §121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(c), (d), title IV, §409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, §11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, §3(b), Sept. 30, 1995, 109 Stat. 273.)
 
@@ -57,8 +57,4 @@ Section 504(b) of Pub. L. 90–321 provided in part that chapter 2 of title I, w
 #### Real Estate Settlement Procedures
 
 Provisions of Real Estate Settlement Procedures Act of 1974, as superseding provisions of subsec. (c) of this section insofar as applying to federally related mortgage loans, see section 2605 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1638 of this title.
 

@@ -84,7 +84,7 @@ Pub. L. 107–228, div. A, title IV, §408, Sept. 30, 2002, 116 Stat. 1391, prov
 
 &emsp;“(2) to secure a seat for a United States national on the United Nations International Narcotics Control Board; and
 
-&emsp;“(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based on the Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country.”
+&emsp;“(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based onthe Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country.”
 
 \[For definitions of “Secretary” and “Department” as used in section 408 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -138,7 +138,7 @@ Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pu
 
 #### International Year of the Child
 
-Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission ofits final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
+Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
 
 Pub. L. 97–35, title V, §511(b)(1), Aug. 13, 1981, 95 Stat. 443, provided that: “No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of Pub. L. 95–561, see note above\] for fiscal year 1982, 1983, or 1984.”
 
@@ -200,7 +200,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 “Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
 
-<i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the ‘agreement’), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations onthe United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
+<i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the ‘agreement’), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
 #### “AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
@@ -344,7 +344,7 @@ I74section 15
 
 (2) such resident members of their staffs as may be agreed upon between the Secretary-General, the Government of the United States and the Government of the Member concerned,
 
-(3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, at the headquarters of such agency in the United States, and
+(3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, atthe headquarters of such agency in the United States, and
 
 (4) such other principal resident representatives of members to a specialized agency and such resident members of the staffs of representatives to a specialized agency as may be agreed upon between the principal executive officer of the specialized agency, the Government of the United States and the Government of the Member concerned, shall, whether residing inside or outside the headquarters district, be entitled in the territory of the United States to the same privileges and immunities, subject to corresponding conditions and obligations, as it accords to diplomatic envoys accredited to it. In the case of Members whose governments are not recognized by the United States, such privileges and immunities need be extended to such representatives, or persons on the staffs of such representatives, only within the headquarters district, at their residences and offices outside the district, in transit between the district and such residences and offices, and in transit on official business to or from foreign countries.
 
@@ -388,7 +388,7 @@ The Secretary-General and the appropriate American authorities shall settle by a
 
 I74section 22
 
-(a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a dispositionwhich the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
+(a) The United Nations shall not dispose of all or any part of the land owned by it in the headquarters district without the consent of the United States. If the United States is unwilling to consent to a disposition which the United Nations wishes to make of all or any part of such land, the United States shall buy the same from the United Nations at a price to be determined as provided in paragraph (d) of this section.
 
 (b) If the seat of the United Nations is removed from the headquarters district, all right, title and interest of the United Nations in and to real property in the headquarters district or any part of it shall, on request of either the United Nations or the United States, be assigned and conveyed to the United States. In the absence of such request, the same shall be assigned and conveyed to the subdivision of a state in which it is located or, if such subdivision shall not desire it, then to the state in which it is located. If none of the foregoing desires the same, it may be disposed of as provided in paragraph (a) of this section.
 
@@ -460,7 +460,7 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 (c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he may designate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
 
-(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in anyproperty acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
+(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
 
 (e) There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be required to enable the United States to carry out the undertakings hereby authorized: <i>Provided</i>, That any money appropriated under this authorization shall be spent only on a basis of reimbursement by the United Nations in accordance with section 3 of the agreement, and that the money thus reimbursed shall be deposited and covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -528,7 +528,7 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 
 4\. The Deputy Representative of the United States to the United Nations shall be the Deputy Chief of Mission, who shall act as Chief of Mission in the absence of the Representative of the United States to the United Nations.
 
-5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled “Designating the United StatesMission to the United Nations and Providing for Its Direction and Administration.”
+5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled “Designating the United States Mission to the United Nations and Providing for Its Direction and Administration.”
 
 #### Ex. Ord. No. 10422. Loyalty Procedures for Employees
 
@@ -536,7 +536,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 #### part i—investigation of united states citizens employed or being considered for employment on the secretariat of the united nations
 
-1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from the Secretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
+1\. Whenever the Secretary of State receives, from the Secretary General of the United Nations, the name of and other necessary identifying data concerning each United States citizen employed or being considered for employment by the United Nations, the Secretary of State shall, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, cause an investigation to be conducted as provided in paragraph 2 of this Part, or forward the information received from theSecretary General to the Office of Personnel Management, which shall conduct an investigation, consistent with the Privacy Act of 1974 (5 U.S.C. 552a) and other applicable law, as provided in paragraphs 3 and 4 of this Part.
 
 2\. With respect to all applicants for short term appointments which will not exceed six months and which are not appointments to United Nations Secretariat professional posts or posts subject to geographical distribution, the Secretary of State shall cause an investigation to be conducted, which investigation shall be limited to a search of the files of the Department of State. If the investigation reveals any derogatory information within the meaning of the standard set forth in Part II of this order, the information received from the Secretary General of the United Nations shall be forwarded to the Office of Personnel Management, which shall conduct an investigation.
 
@@ -568,7 +568,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 (e) Performing or attempting to perform his duties, or otherwise acting, while an employee of the United States Government during a previous period, so as to serve the interests of another government in preference to the interests of the United States.
 
-(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks tooverthrow the Government of the United States or any State or subdivision thereof by unlawful means.
+(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means.
 
 #### part iii—other international organizations
 
@@ -605,8 +605,4 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 287a, 287e of this title.
 

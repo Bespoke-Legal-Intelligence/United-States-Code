@@ -8,7 +8,3 @@ All waters within the boundaries of national forests may be used for domestic, m
 
 “National forests” substituted in text for “reservations” and “forest reservations” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 478, 482, 551 of this title.
-

@@ -74,13 +74,11 @@ In this part, the following definitions apply:
 
 #### (8) State
 
-&emsp;The term “State” means such of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+&emsp;The term “State” means such <sup>2</sup> of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 (Pub. L. 85–699, title III, §351, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–653.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 683 of this title; title 11 section 109; title 12 section 1464.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “each”.</i>
 

@@ -54,7 +54,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 &emsp;(A) The pipeline must provide open and nondiscriminatory access to both owner and nonowner shippers.
 
-&emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion is within technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, orother grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
+&emsp;(B) Upon the specific request of one or more owner or nonowner shippers able to provide a guaranteed level of throughput, and on the condition that the shipper or shippers requesting such expansion shall be responsible for bearing their proportionate share of the costs and risks related thereto, the Federal Energy Regulatory Commission may, upon finding, after a full hearing with due notice thereof to the interested parties, that such expansion is within technological limits and economic feasibility, order a subsequent expansion of throughput capacity of any pipeline for which the permit, license, easement, right-of-way, or other grant of authority is approved or issued after September 18, 1978. This subparapraph <sup>1</sup> shall not apply to any such grant of authority approved or issued for the Gulf of Mexico or the Santa Barbara Channel.
 
 (2) The Federal Energy Regulatory Commission may, by order or regulation, exempt from any or all of the requirements of paragraph (1) of this subsection any pipeline or class of pipelines which feeds into a facility where oil and gas are first collected or a facility where oil and gas are first separated, dehydrated, or otherwise processed.
 
@@ -70,7 +70,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 #### (h) Federal action affecting outer Continental Shelf; notification; recommended changes
 
-The head of any Federal department or agency who takes any action which has a direct and significant effect on the outer Continental Shelf or its development shall promptly notify the Secretary of such action and the Secretary shall thereafter notify the Governor of any affected State and the Secretary may thereafter recommend such changes in such action as are considered appropriate.
+The head of any Federal department or agency who takes any action which has a direct and significant effect on the outer Continental Shelf orits development shall promptly notify the Secretary of such action and the Secretary shall thereafter notify the Governor of any affected State and the Secretary may thereafter recommend such changes in such action as are considered appropriate.
 
 #### (i) Flaring of natural gas
 
@@ -106,7 +106,7 @@ The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360,
 
 Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that had set a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
 
-Subsec. (c). Pub. L. 95–372 redesignated as subsec. (c) provisions formerly contained in subsec. (b)(1) coveringthe cancellation of nonproducing leases for failure of the owner to comply with any of the provisions of this subchapter, or of the lease, or of the regulations issued under this subchapter.
+Subsec. (c). Pub. L. 95–372 redesignated as subsec. (c) provisions formerly contained in subsec. (b)(1) covering the cancellation of nonproducing leases for failure of the owner to comply with any of the provisions of this subchapter, or of the lease, or of the regulations issued under this subchapter.
 
 Subsec. (d). Pub. L. 95–372 redesignated as subsec. (d) provisions formerly contained in subsec. (b)(2) covering the cancellation and forfeiture of producing leases for failure of the owner to comply with any of the provisions of this subchapter, the lease, or regulations promulgated under this subchapter.
 
@@ -130,11 +130,7 @@ Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer
 
 #### Key Largo Coral Reef Preserve
 
-Secretary of the Interior to prescribe rules and regulations governing the protection and conservation of the coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1335, 1337, 1340, 1351 of this title; title 42 section 7627.
+Secretary of the Interior to prescribe rules and regulations governing the protection and conservation ofthe coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

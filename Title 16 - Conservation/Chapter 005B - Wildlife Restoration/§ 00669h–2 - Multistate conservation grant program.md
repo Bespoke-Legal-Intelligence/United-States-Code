@@ -30,7 +30,7 @@
 
 #### (2) Use of submitted priority list of projects
 
-&emsp;The Secretary of the Interior may make grants under this section only for projects identified on a priority list of wildlife restoration projects described in paragraph (3).
+&emsp;The Secretary of the Interior may make grants under this section only for projectsidentified on a priority list of wildlife restoration projects described in paragraph (3).
 
 #### (3) Priority list of projects
 
@@ -95,8 +95,4 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 11 of act Sept. 2, 1937, was classified to section 669j of this title prior to repeal by act Aug. 7, 1946.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669c, 669h of this title.
 

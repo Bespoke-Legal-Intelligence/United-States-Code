@@ -18,15 +18,11 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 #### (d) Additional outlays prohibited
 
-The Secretary shall carry out this subchapter in such a manner that there are no additional outlays under this subchapter as a result of the reconstitution of a farm that occurs as a result of the combination of another farm that does not contain eligible cropland covered by a production flexibility contract.
+The Secretary shall carry out this subchapter in such a manner that there are no additionaloutlays under this subchapter as a result of the reconstitution of a farm that occurs as a result of the combination of another farm that does not contain eligible cropland covered by a production flexibility contract.
 
 (Pub. L. 104–127, title I, §131, Apr. 4, 1996, 110 Stat. 905.)
 
 #### References in Text
 
 The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7232, 7233, 7234, 7235, 7237, 7286, 7931, 7934 of this title.
 

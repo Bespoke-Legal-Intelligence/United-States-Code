@@ -1,9 +1,5 @@
 subpart a—school-based programs for students
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 12681 of this title.
-
 
 ---
 

@@ -42,7 +42,3 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1729A, 2303 of this title.
-

@@ -26,7 +26,3 @@ No license under this section may be given to any person for activities which ar
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2014, 2073, 2074, 2076, 2077, 2093, 2021b, 2131, 2132, 2133, 2136, 2138, 2153, 2154, 2165, 2169, 2183, 2201, 2209, 2210, 2214, 2232, 2239, 2242, 2273, 2282, 2283, 10101, 10222 of this title; title 22 section 2778.
-

@@ -12,7 +12,7 @@ The Federal Government may participate in an international exposition proposed t
 
 #### (b) Construction of Federal pavilion
 
-(1) In developing a plan under subsection (a)(3) of this section the Secretary of Commerce shall consider whether the plan should include the construction of a Federal pavilion. If the Secretary of Commerce determines that a Federal pavilion should be constructed, he shall request the Administrator of General Services (hereinafter in this section referred to as the “Administrator”) to determine, in consultation with such Secretary, whether there is a federally endorsed need for a permanent structure in the area of the exposition. If the Administrator determines that any such need exists—
+(1) In developing a plan under subsection (a)(3) of this section the Secretary of Commerce shall consider whether the plan should include theconstruction of a Federal pavilion. If the Secretary of Commerce determines that a Federal pavilion should be constructed, he shall request the Administrator of General Services (hereinafter in this section referred to as the “Administrator”) to determine, in consultation with such Secretary, whether there is a federally endorsed need for a permanent structure in the area of the exposition. If the Administrator determines that any such need exists—
 
 &emsp;(A) the Administrator shall fully document such determination, including the identification of the need, and shall transmit such documentation to the Secretary of Commerce;
 
@@ -55,8 +55,4 @@ Subsecs. (b) to (d). Pub. L. 97–254, §16(a)(4), added subsecs. (b) to (d).
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–254 effective Sept. 8, 1982, see section 15 of Pub. L. 97–254.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2804 of this title.
 

@@ -42,7 +42,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (B) Exception
 
-&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with theGraduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of a member of the Board or an employee of the Graduate School.
+&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with the Graduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of a member of the Board or an employee of the Graduate School.
 
 #### (3) Not Federal funds
 
@@ -128,7 +128,7 @@ The financial records of the Graduate School (including records relating to cont
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (h)(4) and (i), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
@@ -138,7 +138,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made bythis section \[amending this section and repealing section 5922 of this title\] take effect on October 1, 2002.”
+Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made by this section \[amending this section and repealing section 5922 of this title\] take effect on October 1, 2002.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,3 @@ The commission, acting through the Secretary of the Interior, is authorized to r
 
 Transfer of administrative functions of park, see note set out under section 425 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 425, 425d, 425j, 425k of this title.
-

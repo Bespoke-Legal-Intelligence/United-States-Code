@@ -8,11 +8,11 @@
 
 &emsp;(C) the employee's performance under such term appointment or appointments met established retention standards, or, if not covered by a performance management system established under section 9508, was rated at the fully successful level or higher (or equivalent thereof); and
 
-&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential for subsequent conversion to a permanent appointment.
+&emsp;(D) the vacancy announcement for the term appointment from which the conversion is made stated that there was a potential forsubsequent conversion to a permanent appointment.
 
 (2) An appointment under this section may be made only to a position in the same line of work as a position to which the employee received a term appointment under competitive procedures.
 
-(b)(1) Notwithstanding subchapter I of chapter 33, the Secretary of the Treasury may establishcategory rating systems for evaluating applicants for Internal Revenue Service positions in the competitive service under which qualified candidates are divided into two or more quality categories on the basis of relative degrees of merit, rather than assigned individual numerical ratings.
+(b)(1) Notwithstanding subchapter I of chapter 33, the Secretary of the Treasury may establish category rating systems for evaluating applicants for Internal Revenue Service positions in the competitive service under which qualified candidates are divided into two or more quality categories on the basis of relative degrees of merit, rather than assigned individual numerical ratings.
 
 (2) Each applicant who meets the minimum qualification requirements for the position to be filled shall be assigned to an appropriate category based on an evaluation of the applicant's knowledge, skills, and abilities relative to those needed for successful performance in the position to be filled.
 
@@ -37,8 +37,4 @@
 #### References in Text
 
 GS–9, referred to in subsec. (b)(3), is contained in the General Schedule which is set out under section 5332 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9501, 9507 of this title.
 

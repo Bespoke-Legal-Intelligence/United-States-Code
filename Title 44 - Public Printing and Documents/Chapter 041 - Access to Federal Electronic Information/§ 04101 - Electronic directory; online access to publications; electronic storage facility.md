@@ -6,7 +6,7 @@ In General.—The Superintendent of Documents, under the direction of the Public
 
 &emsp;(1) maintain an electronic directory of Federal electronic information;
 
-&emsp;(2) provide a system of online access to the Congressional Record, the Federal Register, and, as determined by the Superintendent of Documents, other appropriate publications distributed by the Superintendent of Documents; and
+&emsp;(2) provide a system of online access to the Congressional Record, the Federal Register,and, as determined by the Superintendent of Documents, other appropriate publications distributed by the Superintendent of Documents; and
 
 &emsp;(3) operate an electronic storage facility for Federal electronic information to which online access is made available under paragraph (2).
 
@@ -33,8 +33,4 @@ Section 3 of Pub. L. 103–40 provided that: “Not later than June 30, 1994, th
 #### Operational Deadline
 
 Section 4(a) of Pub. L. 103–40 provided that: “The directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4103 of this title; title 40 sections 11702, 11703.
 

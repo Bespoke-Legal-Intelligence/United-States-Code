@@ -8,7 +8,3 @@ When an alien who becomes liable as an enemy, in the manner prescribed in sectio
 
 R.S. §4068 derived from acts July 6, 1798, ch. 66, §1, 1 Stat. 577; July 6, 1812, ch. 130, 2 Stat. 781.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9, 34, 1981, 1982 of Appendix to this title; title 5 section 8332.
-

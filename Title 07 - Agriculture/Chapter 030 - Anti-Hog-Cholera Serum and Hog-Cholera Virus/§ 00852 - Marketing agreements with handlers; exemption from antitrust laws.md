@@ -8,7 +8,3 @@ In order to effectuate the policy declared in section 851 of this title the Secr
 
 Antitrust laws of the United States, referred to in text, are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 853, 854, 855 of this title.
-

@@ -4,7 +4,3 @@ The tract of land in the State of California known and described as township num
 
 (Sept. 25, 1890, ch. 926, §1, 26 Stat. 478.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45f, 471d of this title.
-

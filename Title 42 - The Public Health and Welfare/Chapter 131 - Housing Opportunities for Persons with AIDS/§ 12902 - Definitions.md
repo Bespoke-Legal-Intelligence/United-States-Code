@@ -52,9 +52,5 @@ Par. (5). Pub. L. 102–550, §606(c)(2), substituted “term ‘metropolitan st
 
 Pars. (11) to (14). Pub. L. 102–550, §606(c)(3), added pars. (11) to (14).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11403g of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

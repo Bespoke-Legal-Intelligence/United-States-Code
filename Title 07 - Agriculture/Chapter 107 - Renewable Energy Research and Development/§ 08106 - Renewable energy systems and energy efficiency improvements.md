@@ -62,7 +62,3 @@ Of the funds of the Commodity Credit Corporation, the Secretary shall make avail
 
 (Pub. L. 107–171, title IX, §9006, May 13, 2002, 116 Stat. 482.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8105 of this title.
-

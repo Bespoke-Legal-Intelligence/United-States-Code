@@ -14,7 +14,3 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast and Geodetic Survey consolidated with Weather Bureau of Department of Commerce to form new agency in Department of Commerce known as Environmental Science Services Administration and offices of Director and Deputy Director of Coast and Geodetic Survey abolished by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. All functions of Survey, Director of Survey, and officers, employees, and organizational entities of Survey transferred to Secretary of Commerce and all personnel (including commissioned officers) and property of Survey, not already transferred by 1950 Reorg. Plan No. 5, deemed transferred to Administration. Subsequently, Environmental Science Services Administration abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to title 5, which created National Oceanic and Atmospheric Administration in Department of Commerce. By order of Acting Associate Administrator of NOAA, organization name of Coast and Geodetic Survey changed to National Ocean Survey.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1006, 1007 of this title.
-

@@ -32,7 +32,3 @@ Former sections 4452 and 4554 of this title, referred to in text, mean sections 
 
 Section 706(b) of Pub. L. 103–123 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to mail sent after September 30, 1993.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3684 of this title.
-

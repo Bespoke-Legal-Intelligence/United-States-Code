@@ -12,7 +12,7 @@
 
 #### (3) Minimum period of service required
 
-&emsp;Payment of a bonus under this subsection shall be contingent upon the individual entering into an agreement with the Capitol Police to complete a period of employment with the Capitol Police, with the required period determined pursuant to regulations of the Board. If the individual voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the individual shall repay the bonus on a pro rata basis.
+&emsp;Payment of a bonus under this subsection shall be contingent upon the individual entering into an agreement with the Capitol Police to complete a period of employment with the Capitol Police, with the required period determined pursuant to regulations of the Board. If the individual voluntarily fails to completesuch period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the individual shall repay the bonus on a pro rata basis.
 
 #### (4) Bonus not considered part of basic pay
 
@@ -66,7 +66,7 @@ Upon the approval of the Chief—
 
 #### (1) In general
 
-&emsp;The payment of bonuses, allowances, step increases, compensation, and other paymentspursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
+&emsp;The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
 
 #### (2) Repealed. Pub. L. 108–7, div. H, title I, §1004(2), Feb. 20, 2003, 117 Stat. 358
 
@@ -82,7 +82,7 @@ Section was classified to section 207b–2 of former Title 40, prior to the enac
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–7, §1004(1)(A), substituted “the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
+2003—Subsec. (a)(1). Pub. L. 108–7, §1004(1)(A), substituted “the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
 
 Subsec. (a)(6). Pub. L. 108–7, §1004(1)(B), added par. (6).
 

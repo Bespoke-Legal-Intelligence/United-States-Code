@@ -291,10 +291,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6102, 6103, 6112, 6123, 6124, 6143, 6144, 8857 of this title.
-
 
 ---
 

@@ -1,6 +1,6 @@
 ### §3174. Judicial emergency and implementation
 
-(a) In the event that any district court is unable to comply with the time limits set forth in section 3161(c) due to the status of its court calendars, the chief judge, where the existing resources are being efficiently utilized, may, afterseeking the recommendations of the planning group, apply to the judicial council of the circuit for a suspension of such time limits as provided in subsection (b). The judicial council of the circuit shall evaluate the capabilities of the district, the availability of visiting judges from within and without the circuit, and make any recommendations it deems appropriate to alleviate calendar congestion resulting from the lack of resources.
+(a) In the event that any district court is unable to comply with the time limits set forth in section 3161(c) due to the status of its court calendars, the chief judge, where the existing resources are being efficiently utilized, may, after seeking the recommendations of the planning group, apply to the judicial council of the circuit for a suspension of such time limits as provided in subsection (b). The judicial council of the circuit shall evaluate the capabilities of the district, the availability of visiting judges from within and without the circuit, and make any recommendations it deems appropriate to alleviate calendar congestion resulting from the lack of resources.
 
 (b) If the judicial council of the circuit finds that no remedy for such congestion is reasonably available, such council may, upon application by the chief judge of a district, grant a suspension of the time limits in section 3161(c) in such district for a period of time not to exceed one year for the trial of cases for which indictments or informations are filed during such one-year period. During such period of suspension, the time limits from arrest to indictment, set forth in section 3161(b), shall not be reduced, nor shall the sanctions set forth in section 3162 be suspended; but such time limits from indictment to trial shall not be increased to exceed one hundred and eighty days. The time limits for the trial of cases of detained persons who are being detained solely because they are awaiting trial shall not be affected by the provisions of this section.
 
@@ -12,7 +12,7 @@
 
 (2) The Director of the Administrative Office of the United States Courts shall not later than ten days after receipt transmit such report to the Congress and to the Judicial Conference of the United States. The judicial council of the circuit shall not grant a suspension to any district within six months following the expiration of a prior suspension without the consent of the Congress by Act of Congress. The limitation on granting a suspension made by this paragraph shall not apply with respect to any judicial district in which the prior suspension is in effect on the date of the enactment of the Speedy Trial Act Amendments Act of 1979.
 
-(e) If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of great urgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
+(e) If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of greaturgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 96–43, §10, Aug. 2, 1979, 93 Stat. 331.)
 
@@ -31,8 +31,4 @@ Subsec. (b). Pub. L. 96–43, §10(2), (3), substituted provisions authorizing t
 Subsec. (c). Pub. L. 96–43, §10(4), substituted provisions authorizing the chief judge of any district, with the approval of the planning group convened in such district, to apply to the circuit council to implement the provisions of section 3162 of this title at any time prior to the date the sanctions prescribed therein were to become effective, so long as there was concurrence that the district was prepared to fully implement the provisions of such section for provisions specifying the reporting requirements of this chapter, assuring involvement of the Congress in the suspension process, and guaranteeing that there be an interval of at least six months between consecutive suspension periods. See subsec. (d) of this section.
 
 Subsecs. (d), (e). Pub. L. 96–43, §10(5), added subsecs. (d) and (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3163, 3165, 3167 of this title.
 

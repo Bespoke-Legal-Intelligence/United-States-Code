@@ -4,7 +4,3 @@ Funds made available under sections 695 to 695c of this title or any other Act f
 
 (May 18, 1948, ch. 303, §4, 62 Stat. 239.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 695a, 695b of this title.
-

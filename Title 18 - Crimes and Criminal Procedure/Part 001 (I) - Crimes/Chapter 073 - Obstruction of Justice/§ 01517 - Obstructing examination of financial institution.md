@@ -4,7 +4,3 @@ Whoever corruptly obstructs or attempts to obstruct any examination of a financi
 
 (Added Pub. L. 101–647, title XXV, §2503(a), Nov. 29, 1990, 104 Stat. 4861.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 sections 1785, 1829, 4204, 4224.
-

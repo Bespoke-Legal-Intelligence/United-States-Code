@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—WITHHOLDING PAY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 15 section 78d.
-
 
 ---
 

@@ -8,7 +8,3 @@ The Secretary of Agriculture is authorized to make payments to agricultural prod
 
 Section 406 of title IV of Pub. L. 95–334 provided that: “The provisions of this title \[enacting this chapter\] shall become effective October 1, 1978.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3811, 3821 of this title.
-

@@ -227,7 +227,7 @@ I74subpart i—conduct of vessels in any condition of visibility
 
 |  |  |
 | :--- | ---: |
-| [2071\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002071%20-%20Implementation%20and%20interpretation%3B%20regulations%3B%20technical%20annexes%20to%20Inland%20Navigational%20Rules.md) | Implementation and interpretation; regulations; technical annexes to Inland Navigational Rules. |
+| [2071\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002071%20-%20Inland%20navigation%20rules.md) | Inland navigation rules. |
 | [2072\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2002072%20-%20Violations%20of%20Inland%20Navigational%20Rules.md) | Violations of Inland Navigational Rules. |
 | (a) | Liability of operator for civil penalty. |
 | (b) | Liability of vessel for civil penalty; seizure of vessel. |

@@ -82,7 +82,7 @@ If the Administrator finds that—
 
 > &emsp;whichever is later.
 
-(4)(A) If the exemption under paragraph (2) of any person from the requirement to conduct tests and submit test data on a chemical substance or mixture is granted on the basis of the fact that test data is being developed by one or more persons pursuant to a rule promulgated under subsection (a) of this section, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in anamount determined under rules of the Administrator)—
+(4)(A) If the exemption under paragraph (2) of any person from the requirement to conduct tests and submit test data on a chemical substance or mixture is granted on the basis of the fact that test data is being developed by one or more persons pursuant to a rule promulgated under subsection (a) of this section, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to each such person who is developing such test data, for a portion of the costs incurred by each such person in complying with such rule, and
 
@@ -104,7 +104,7 @@ Upon the receipt of any test data pursuant to a rule under subsection (a) of thi
 
 &emsp;(ii) the quantities in which the substance or mixture enters or will enter the environment,
 
-&emsp;(iii) the number of individuals who are or will be exposed to the substance or mixture in their places of employment and the duration of such exposure,
+&emsp;(iii) the number of individuals who are or will be exposed to the substance or mixture intheir places of employment and the duration of such exposure,
 
 &emsp;(iv) the extent to which human beings are or will be exposed to the substance or mixture,
 
@@ -118,7 +118,7 @@ Upon the receipt of any test data pursuant to a rule under subsection (a) of thi
 
 > The recommendations of the committee shall be in the form of a list of chemical substances and mixtures which shall be set forth, either by individual substance or mixture or by groups of substances or mixtures, in the order in which the committee determines the Administrator should take action under subsection (a) of this section with respect to the substances and mixtures. In establishing such list, the committee shall give priority attention to those chemical substances and mixtures which are known to cause or contribute to or which are suspected of causing or contributing to cancer, gene mutations, or birth defects. The committee shall designate chemical substances and mixtures on the list with respect to which the committee determines the Administrator should, within 12 months of the date on which such substances and mixtures are first designated, initiate a proceeding under subsection (a) of this section. The total number of chemical substances and mixtures on the list which are designated under the preceding sentence may not, at any time, exceed 50.
 
-(B) As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee's inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding <sup>1</sup> sentence, the committee shall make such previsions in the list as it determines to be necessary and shall transmit them to the Administrator together with the committee's reasons for the revisions. Upon receipt of any such revision, the Administrator shall publish in the Federal Register the list with such revision, the reasons for such revision, and the designations made under subparagraph (A). The Administrator shall provide reasonable opportunity to any interested person to file with the Administrator written comments on the committee's list, any revision of such list by the committee, and designations made by the committee, and shall make such comments available to the public. Within the 12-month period beginning on the date of the first inclusion on the listof a chemical substance or mixture designated by the committee under subparagraph (A) the Administrator shall with respect to such chemical substance or mixture either initiate a rulemaking proceeding under subsection (a) of this section or if such a proceeding is not initiated within such period, publish in the Federal Register the Administrator's reason for not initiating such a proceeding.
+(B) As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee's inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding <sup>1</sup> sentence, the committee shall make such previsions in the list as it determines to be necessary and shall transmit them to the Administrator together with the committee's reasons for the revisions. Upon receipt of any such revision, the Administrator shall publish in the Federal Register the list with such revision, the reasons for such revision, and the designations made under subparagraph (A). The Administrator shall provide reasonable opportunity to any interested person to file with the Administrator written comments on the committee's list, any revision of such list by the committee, and designations made by the committee, and shall make such comments available to the public. Within the 12-month period beginning on the date of the first inclusion on the list of a chemical substance or mixture designated by the committee under subparagraph (A) the Administrator shall with respect to such chemical substance or mixture either initiate a rulemaking proceeding under subsection (a) of this section or if such a proceeding is not initiated within such period, publish in the Federal Register the Administrator's reason for not initiating such a proceeding.
 
 (2)(A) The committee established by paragraph (1)(A) shall consist of eight members as follows:
 
@@ -175,10 +175,6 @@ The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 
 #### Effective Date
 
 Section effective Jan. 1, 1977, except as provided in subsec. (f) of this section, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2604, 2606, 2607, 2611, 2613, 2614, 2617 to 2620, 2623, 2625, 2626, 2630 of this title; title 21 section 346a; title 42 section 9604.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “preceding”.</i>
 

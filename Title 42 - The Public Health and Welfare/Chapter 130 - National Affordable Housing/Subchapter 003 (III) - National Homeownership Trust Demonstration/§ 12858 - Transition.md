@@ -14,7 +14,3 @@ Upon a determination by the Secretary of Housing and Urban Development that the 
 
 (Pub. L. 101–625, title III, §309, Nov. 28, 1990, 104 Stat. 4133.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12857 of this title.
-

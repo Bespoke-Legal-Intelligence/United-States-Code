@@ -12,7 +12,3 @@ There may be expended for or on account of the traveling expenses of the Preside
 
 Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under section 102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 3524.
-

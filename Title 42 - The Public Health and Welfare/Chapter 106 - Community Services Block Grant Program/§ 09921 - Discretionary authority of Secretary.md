@@ -38,7 +38,7 @@
 
 #### (4) Neighborhood innovation projects
 
-&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
+&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providingassistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
 
 #### (b) Evaluation
 
@@ -54,19 +54,23 @@ The Secretary shall compile an annual report containing a summary of the evaluat
 
 A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 108–7, div. G, title II, Feb. 20, 2003, 117 Stat. 319, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
+Pub. L. 108–447, div. F, title II, Dec. 8, 2004, 118 Stat. 3134, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–199, div. E, title II, Jan. 23, 2004, 118 Stat. 249.
+
+Pub. L. 108–7, div. G, title II, Feb. 20, 2003, 117 Stat. 319.
 
 Pub. L. 107–116, title II, Jan. 10, 2002, 115 Stat. 2196.
 
 Pub. L. 106–554, §1(a)(1) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–23.
 
 Pub. L. 106–113, div. B, §1000(a)(4) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–235.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9903 of this title.
 

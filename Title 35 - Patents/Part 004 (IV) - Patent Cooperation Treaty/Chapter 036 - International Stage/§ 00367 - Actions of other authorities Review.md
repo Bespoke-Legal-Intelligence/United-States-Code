@@ -22,7 +22,3 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub. L. 98–622, set out as a note under section 351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 366 of this title.
-

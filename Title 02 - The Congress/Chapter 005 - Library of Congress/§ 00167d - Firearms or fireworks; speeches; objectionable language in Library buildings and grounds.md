@@ -4,7 +4,3 @@ It shall be unlawful to discharge any firearm, firework or explosive, set fire t
 
 (Aug. 4, 1950, ch. 561, §5, 64 Stat. 411.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167f, 167g, 167h, 167i, 167j of this title.
-

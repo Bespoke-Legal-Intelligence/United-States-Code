@@ -32,7 +32,7 @@ Within one year after the date the Commission is established, it shall, in coope
 
 Within two years after the Commission is established, it shall develop land use designations for the use of non-Federal lands within the scenic area. The land use designations shall—
 
-&emsp;(1) be based on the results of the resource inventory developed pursuant to subsection (a)(1) of this section, and consistent with the standards established in subsection (d) of this section;
+&emsp;(1) be based on the results of the resource inventory developed pursuant to subsection (a)(1) of this section, and consistent with thestandards established in subsection (d) of this section;
 
 &emsp;(2) designate those lands used or suitable for the production of crops, fruits or other agricultural products or the sustenance of livestock as agricultural lands;
 
@@ -117,8 +117,4 @@ No sooner than five years after adoption of the management plan, but at least ev
 If the Commission determines at any time that conditions within the scenic area have significantly changed, it may amend the management plan. The Commission shall submit amendments to the management plan to the Secretary for review, in accordance with the provisions of this section for adoption of the management plan.
 
 (Pub. L. 99–663, §6, Nov. 17, 1986, 100 Stat. 4279.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544c, 544e to 544i, 544<i>l</i> to 544p of this title.
 

@@ -4,7 +4,3 @@ Within sixty days after August 8, 1958, or of legislation making appropriations 
 
 (Mar. 10, 1950, ch. 54, title IV, §411, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 529.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1642k of this title.
-

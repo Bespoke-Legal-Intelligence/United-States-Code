@@ -8,7 +8,7 @@ If the Secretary determines that an extraordinary emergency exists because of th
 
 &emsp;(2) quarantine, treat, or apply other remedial measures to any premises, including any plants, biological control organisms, plant products, articles, or means of conveyance on the premises, that the Secretary has reason to believe is infested with the plant pest or noxious weed;
 
-&emsp;(3) quarantine any State or portion of a State in which the Secretary finds the plant pest or noxious weed or any plant, biologicalcontrol organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed; and
+&emsp;(3) quarantine any State or portion of a State in which the Secretary finds the plantpest or noxious weed or any plant, biological control organism, plant product, article, or means of conveyance that the Secretary has reason to believe is infested with the plant pest or noxious weed; and
 
 &emsp;(4) prohibit or restrict the movement within a State of any plant, biological control organism, plant product, article, or means of conveyance when the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination of the plant pest or noxious weed or to eradicate the plant pest or noxious weed.
 
@@ -51,8 +51,4 @@ The Secretary may pay compensation to any person for economic losses incurred by
 #### Transfer of Functions
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7716, 7731 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 332 of this title.
-
 
 ---
 

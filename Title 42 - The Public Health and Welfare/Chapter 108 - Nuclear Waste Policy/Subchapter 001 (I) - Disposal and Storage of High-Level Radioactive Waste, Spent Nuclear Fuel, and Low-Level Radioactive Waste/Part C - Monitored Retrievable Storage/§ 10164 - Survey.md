@@ -22,7 +22,3 @@ After the MRS Commission submits its report to the Congress under section 10163 
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10162, 10165 of this title.
-

@@ -6,7 +6,7 @@ Definitions.—In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Official guest of the supreme court.—The term “official guest of the Supreme Court” means an individual who is a guest of the Supreme Court, as determined by the Chief Justice of the United States or any Associate Justice of the Supreme Court;
+Official guest of the supreme court.—The term “official guest of the SupremeCourt” means an individual who is a guest of the Supreme Court, as determined by the Chief Justice of the United States or any Associate Justice of the Supreme Court;
 
 &emsp;(2)
 
@@ -79,8 +79,4 @@ Sec. 4. The Architect of the Capitol is authorized to enter into contracts and t
 “
 
 Sec. 5. There is hereby authorized to be appropriated the sum of $645,000 for fiscal year 1981 for the purpose of carrying out the provisions of this Act, said appropriation to remain available until expended.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8501, 8502 of this title.
 

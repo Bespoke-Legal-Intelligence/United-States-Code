@@ -12,7 +12,3 @@ Provisions similar to those in this section were contained in the act of Mar. 1,
 
 Act Mar. 1, 1913, is popularly known as the “Webb-Kenyon Act”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 122a of this title.
-

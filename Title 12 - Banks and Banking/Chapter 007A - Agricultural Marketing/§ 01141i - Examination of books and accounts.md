@@ -1,14 +1,16 @@
 ### §1141i. Examination of books and accounts
 
-Vouchers approved by the Governor of the Farm Credit Administration for expenditures from the revolving fund pursuant to any loan or advance or from insurance moneys pursuant to any insurance agreement, shall be final and conclusive upon all officers of the Government; except that all financial transactions of the administration shall, subject to the above limitations, be examined by the General Accounting Office at such times and in such manner as the Comptroller General of the United States may by regulation prescribe.
+Vouchers approved by the Governor of the Farm Credit Administration for expenditures from the revolving fund pursuant to any loan or advance or from insurance moneys pursuant to any insurance agreement, shall be final and conclusive upon all officers of the Government; except that all financial transactions of the administration shall, subject to the above limitations, be examined by the Government Accountability Office at such times and in such manner as the Comptroller General of the United States may by regulation prescribe.
 
-(June 15, 1929, ch. 24, §14, 46 Stat. 18; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 30, 1954, ch. 1076, §1(30), 68 Stat. 968.)
+(June 15, 1929, ch. 24, §14, 46 Stat. 18; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 30, 1954, ch. 1076, §1(30), 68 Stat. 968; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Codification
 
 Section was formerly classified to section 534 of Title 7, Agriculture.
 
 #### Amendments
+
+2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1954—Act Aug. 30, 1954, repealed former second sentence which required the Comptroller General to make reports to Congress on examinations of Farm Credit Administration transactions under the agricultural marketing revolving fund, in violation of law, together with his recommendations. See chapter 91 of Title 31, Money and Finance.
 

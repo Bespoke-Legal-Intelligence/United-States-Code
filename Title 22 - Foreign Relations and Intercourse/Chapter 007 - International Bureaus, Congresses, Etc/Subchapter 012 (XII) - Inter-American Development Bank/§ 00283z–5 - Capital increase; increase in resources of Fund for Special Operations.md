@@ -58,7 +58,3 @@ The Secretary of the Treasury shall not make any payment for the subscription an
 
 (Pub. L. 86–147, §33, as added Pub. L. 101–240, title II, §201, Dec. 19, 1989, 103 Stat. 2496.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 283z–7 of this title.
-

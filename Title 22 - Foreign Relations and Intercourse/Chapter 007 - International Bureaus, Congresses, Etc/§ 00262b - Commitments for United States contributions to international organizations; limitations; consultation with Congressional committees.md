@@ -20,7 +20,3 @@ Section is comprised of first paragraph of section 602 of act Oct. 22, 1951. Sec
 
 Provisions similar to this section were contained in act July 10, 1952, ch. 651, title I, 66 Stat. 550.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 773j, 3641, 5709.
-

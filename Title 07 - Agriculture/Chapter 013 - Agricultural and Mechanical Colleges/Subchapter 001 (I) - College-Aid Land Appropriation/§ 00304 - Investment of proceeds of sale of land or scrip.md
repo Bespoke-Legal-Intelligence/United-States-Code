@@ -10,7 +10,3 @@ All moneys derived from the sale of lands as provided in section 302 of this tit
 
 1883—Act Mar. 3, 1883, inserted “or the same may be invested by the States having no State stocks, in any other manner after the legislatures of such States shall have assented thereto, and engaged that such funds shall” after “other safe stocks” and substituted “yield” for “yielding”, “principal” for “capital” and “unimpaired” for “undiminished”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 305 of this title.
-

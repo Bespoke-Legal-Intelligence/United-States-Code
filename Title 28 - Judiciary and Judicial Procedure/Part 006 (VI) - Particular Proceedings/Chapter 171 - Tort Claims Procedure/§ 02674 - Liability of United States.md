@@ -32,7 +32,3 @@ For Senate amendment to this section, see 80th Congress Senate Report No. 1559, 
 
 Amendment by Pub. L. 100–694 effective Nov. 18, 1988, and applicable to all claims, civil actions, and proceedings pending on, or filed on or after, Nov. 18, 1988, see section 8 of Pub. L. 100–694 set out as a note under section 2679 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8477; title 8 section 1357.
-

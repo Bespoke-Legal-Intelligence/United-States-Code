@@ -1,9 +1,5 @@
 subpart iii—marketing quotas—wheat
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7301, 7992 of this title.
-
 
 ---
 

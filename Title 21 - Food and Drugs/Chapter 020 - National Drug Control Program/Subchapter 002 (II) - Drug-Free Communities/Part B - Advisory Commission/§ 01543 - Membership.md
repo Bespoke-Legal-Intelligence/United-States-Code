@@ -24,7 +24,3 @@ The ex officio membership of the Advisory Commission shall consist of any two of
 
 (Pub. L. 100–690, title I, §1043, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 232.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1545 of this title.
-

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
 
-&emsp;&emsp;&emsp;&emsp;(II) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
+&emsp;&emsp;&emsp;&emsp;(II) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggeringthe availability to consumers of such consumer reports; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
 
@@ -54,7 +54,7 @@
 
 #### (b) Free disclosure after adverse notice to consumer
 
-Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title, orof a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title.
+Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title, or of a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title.
 
 #### (c) Free disclosure under certain other circumstances
 
@@ -96,7 +96,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 &emsp;The Federal Trade Commission shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
 
-(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968.)
+(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410,Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968.)
 
 #### References in Text
 
@@ -128,7 +128,7 @@ Pub. L. 108–159, title II, §211(d), Dec. 4, 2003, 117 Stat. 1972, provided th
 
 “(1)
 
-In general.—The Commission shall prescribe regulations applicable to consumer reporting agenciesdescribed in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\], to require the establishment of—
+In general.—The Commission shall prescribe regulations applicable to consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\], to require the establishment of—
 
 &emsp;“(A) a centralized source through which consumers may obtain a consumer report from each such consumer reporting agency, using a single request, and without charge to the consumer, as provided in section 612(a) of the Fair Credit Reporting Act \[15 U.S.C. 1681j(a)\] (as amended by this section); and
 
@@ -193,10 +193,6 @@ Considerations.—Before making any determination under subparagraph (A), the Co
 &emsp;&emsp;“(v) the effects on the ongoing competitive viability of such consumer reporting agencies if such free access is required.”
 
 \[For definitions of terms used in section 211(d) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681c–1, 1681g, 1681m, 1681t of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,3 @@ Section 501 of title 47, U.S.C., 1940 ed., is to remain, also, in said title 47,
 
 Federal Communications Commission to promulgate regulations by Jan. 31, 1989, in accordance with this section to enforce this section on a 24 hour per day basis, see section 608 of Pub. L. 100–459, set out as a note under section 303 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title; title 47 sections 312, 503.
-

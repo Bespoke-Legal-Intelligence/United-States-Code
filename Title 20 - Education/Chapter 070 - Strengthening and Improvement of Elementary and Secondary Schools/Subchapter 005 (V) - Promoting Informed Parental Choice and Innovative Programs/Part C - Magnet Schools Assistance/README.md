@@ -1,9 +1,5 @@
 Part C—Magnet Schools Assistance
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1232d of this title.
-
 
 ---
 

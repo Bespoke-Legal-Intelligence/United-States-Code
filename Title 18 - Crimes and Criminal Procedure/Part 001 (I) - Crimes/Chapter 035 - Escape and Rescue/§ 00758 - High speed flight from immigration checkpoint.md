@@ -18,7 +18,3 @@ Section 108(a) of div. C of Pub. L. 104–208 provided that: “The Congress fin
 
 &emsp;“(3) The pursuit of suspects fleeing immigration checkpoints is complicated by overlapping jurisdiction among Federal, State, and local law enforcement officers.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1227.
-

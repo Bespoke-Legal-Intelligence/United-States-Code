@@ -8,7 +8,3 @@ Whenever consistent with the primary purposes of such park, the Secretary of the
 
 1975—Pub. L. 93–620 substituted provisions authorizing utilization of areas formerly within Lake Mead National Recreation Area and added to the Grand Canyon National Park by sections 228a to 228j of this title, for provisions authorizing utilization of areas within the Park.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 221b of this title.
-

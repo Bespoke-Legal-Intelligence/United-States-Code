@@ -8,7 +8,7 @@
 
 #### (2) Criteria and consideration
 
-&emsp;The Quality Assurance Program authorized by this section shall be based on criteria that include demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary. The selection criteria shall ensure the participation of a diverse group of institutions of higher education with respect to size, mission, and geographical distribution.
+&emsp;The Quality Assurance Program authorized by this section shall be based on criteria thatinclude demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary. The selection criteria shall ensure the participation of a diverse group of institutions of higher education with respect to size, mission, and geographical distribution.
 
 #### (3) Waiver
 
@@ -75,6 +75,10 @@ This chapter, referred to in subsecs. (a)(5) and (b)(2)(C), was in the original 
 #### Amendments
 
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized a Quality Assurance Program for institutions to develop and implement systems for verifying student financial aid application data.
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 

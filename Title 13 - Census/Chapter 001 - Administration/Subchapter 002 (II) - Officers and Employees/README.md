@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OFFICERS AND EMPLOYEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 211 to 214 of this title.
-
 
 ---
 

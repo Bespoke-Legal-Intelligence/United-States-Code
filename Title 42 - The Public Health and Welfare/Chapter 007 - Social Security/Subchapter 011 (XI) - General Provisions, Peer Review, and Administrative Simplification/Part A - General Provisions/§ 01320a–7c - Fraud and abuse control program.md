@@ -74,7 +74,3 @@ For purposes of this section, the term “health plan” means a plan or program
 
 The Inspector General Act of 1978, referred to in subsec. (a)(4), (5), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7e, 1395i of this title.
-

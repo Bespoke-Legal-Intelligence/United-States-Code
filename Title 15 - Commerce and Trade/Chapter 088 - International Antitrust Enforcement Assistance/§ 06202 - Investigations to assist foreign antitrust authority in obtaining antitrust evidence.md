@@ -26,7 +26,3 @@ A person may not be compelled in connection with an investigation under this sec
 
 Section is comprised of section 3 of Pub. L. 103–438. Subsec. (e) of section 3 of Pub. L. 103–438 amended sections 46, 57b–1, 1311, and 1312 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57b–1, 1312, 6204, 6207, 6210, 6211, 6212 of this title.
-

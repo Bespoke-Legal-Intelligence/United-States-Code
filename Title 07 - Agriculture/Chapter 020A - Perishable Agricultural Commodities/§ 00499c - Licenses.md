@@ -22,7 +22,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 #### (4) Gradual elimination of annual fees for retailers and grocery wholesalers that are dealers
 
-&emsp;In the case of a retailer or grocery wholesaler that holds a license under this section asof November 15, 1995, payments for the renewal of the license shall be made pursuant to the following schedule:
+&emsp;In the case of a retailer or grocery wholesaler that holds a license under this section as of November 15, 1995, payments for the renewal of the license shall be made pursuant to the following schedule:
 
 &emsp;&emsp;(A) For anniversary dates occurring during the one-year period beginning on November 15, 1995, the licensee shall pay a renewal fee in an amount equal to 100 percent of the applicable renewal fee (subject to the $4,000 aggregate limit on such payments) in effect under this subsection on the day before November 15, 1995.
 
@@ -58,7 +58,7 @@ Subsec. (a). Pub. L. 104–48, §§3(b)(1), 5(a), inserted heading and substitut
 
 Subsec. (b). Pub. L. 104–48, §3(b)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 104–48, §3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter and the Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 (7 U.S.C. 491–497), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
+Subsec. (b)(1). Pub. L. 104–48, §3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter andthe Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 (7 U.S.C. 491–497), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
 
 Subsec. (b)(2). Pub. L. 104–48, §4(a), added par. (2).
 
@@ -68,7 +68,7 @@ Subsec. (b)(5). Pub. L. 104–48, §§3(a)(3), (4), 4(b), designated provisions 
 
 Subsec. (c). Pub. L. 104–48, §3(b)(3), inserted heading.
 
-1990—Subsec. (b). Pub. L. 101–624 substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for“: <i>Provided</i>, That the” and “. Financial” for “: <i>Provided further</i>, That financial”.
+1990—Subsec. (b). Pub. L. 101–624 substituted “. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. The” for “: <i>Provided</i>, That the” and “. Financial” for “: <i>Provided further</i>, That financial”.
 
 1988—Subsec. (b). Pub. L. 100–414 substituted “$400, plus $200” for “$300, plus $150” and “$4,000” for “$3,000”.
 
@@ -95,8 +95,4 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Transfer of Functions
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director of Bureau of the Budget, Deputy Director of Bureau of the Budget, and Assistant Directors of Bureau of the Budget as Director of Office of Management and Budget, Deputy Director of Office of Management and Budget, and Assistant Directors of Office of Management and Budget, respectively. Section 103 of 1970 Reorg. Plan No. 2 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See part I of Reorg. Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 499a, 499d, 499f, 499h, 499<i>o</i>, 499s of this title.
 

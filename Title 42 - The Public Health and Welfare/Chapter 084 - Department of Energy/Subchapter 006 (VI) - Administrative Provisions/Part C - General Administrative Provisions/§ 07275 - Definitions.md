@@ -24,7 +24,3 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 
 A prior section 7275, Pub. L. 98–381, title II, §201, Aug. 17, 1984, 98 Stat. 1340, related to energy conservation program of Western Area Power Administration, prior to the general amendment of title II of Pub. L. 98–381 by section 114 of Pub. L. 102–486.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7276, 7276a, 7276b, 7276c of this title.
-

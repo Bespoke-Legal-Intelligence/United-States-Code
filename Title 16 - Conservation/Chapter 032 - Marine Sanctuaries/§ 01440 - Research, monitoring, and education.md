@@ -10,7 +10,7 @@ The Secretary shall conduct, support, or coordinate research, monitoring, evalua
 
 &emsp;The Secretary may—
 
-&emsp;&emsp;(A) support, promote, and coordinate research on, and long-term monitoring of, sanctuary resources and natural processes that occur in national marine sanctuaries, including exploration, mapping, and environmental and socioeconomic assessment;
+&emsp;&emsp;(A) support, promote, and coordinate research on, and long-term monitoring of,sanctuary resources and natural processes that occur in national marine sanctuaries, including exploration, mapping, and environmental and socioeconomic assessment;
 
 &emsp;&emsp;(B) develop and test methods to enhance degraded habitats or restore damaged, injured, or lost sanctuary resources; and
 

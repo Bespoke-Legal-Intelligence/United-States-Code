@@ -4,7 +4,3 @@ There is authorized to be appropriated such sums as are necessary to carry out t
 
 (Pub. L. 91–631, title II, §205, as added Pub. L. 104–325, §2(3), Oct. 19, 1996, 110 Stat. 3999.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1901 of this title.
-

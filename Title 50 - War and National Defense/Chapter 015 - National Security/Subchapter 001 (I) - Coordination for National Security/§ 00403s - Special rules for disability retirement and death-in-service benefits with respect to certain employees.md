@@ -62,9 +62,5 @@ Subsec. (e). Pub. L. 102–496, §803(a)(3)(D), redesignated subsec. (e) as (c).
 
 Amendment by Pub. L. 102–496 effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as an Effective Date note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -18,7 +18,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (c) Terminal and supplementary reports
 
-(1) Each administrator of an employee pension benefit plan which is winding up its affairs\(without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
+(1) Each administrator of an employee pension benefit plan which is winding up its affairs (without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
 
 (2) The Secretary may require terminal reports to be filed with regard to any employee welfare benefit plan which is winding up its affairs in accordance with regulations promulgated by the Secretary.
 
@@ -60,9 +60,49 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (3) Definitions
 
-&emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on December 17, 1999) shall have the same meaning as when used in such section.
+&emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section420 of title 26 (as in effect on October 22, 2004) shall have the same meaning as when used in such section.
 
-#### (f) Repealed. Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668
+#### (f) Multiemployer defined benefit plan funding notices
+
+#### (1) In general
+
+&emsp;The administrator of a defined benefit plan which is a multiemployer plan shall for each plan year provide a plan funding notice to each plan participant and beneficiary, to each labor organization representing such participants or beneficiaries, to each employer that has an obligation to contribute under the plan, and to the Pension Benefit Guaranty Corporation.
+
+#### (2) Information contained in notices
+
+#### (A) Identifying information
+
+&emsp;&emsp;Each notice required under paragraph (1) shall contain identifying information, including the name of the plan, the address and phone number of the plan administrator and the plan's principal administrative officer, each plan sponsor's employer identification number, and the plan number of the plan.
+
+#### (B) Specific information
+
+&emsp;&emsp;A plan funding notice under paragraph (1) shall include—
+
+&emsp;&emsp;&emsp;(i) a statement as to whether the plan's funded current liability percentage (as defined in section 1082(d)(8)(B) of this title) for the plan year to which the notice relates is at least 100 percent (and, if not, the actual percentage);
+
+&emsp;&emsp;&emsp;(ii) a statement of the value of the plan's assets, the amount of benefit payments, and the ratio of the assets to the payments for the plan year to which the notice relates;
+
+&emsp;&emsp;&emsp;(iii) a summary of the rules governing insolvent multiemployer plans, including the limitations on benefit payments and any potential benefit reductions and suspensions (and the potential effects of such limitations, reductions, and suspensions on the plan); and
+
+&emsp;&emsp;&emsp;(iv) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply.
+
+#### (C) Other information
+
+&emsp;&emsp;Each notice under paragraph (1) shall include any additional information which the plan administrator elects to include to the extent not inconsistent with regulations prescribed by the Secretary.
+
+#### (3) Time for providing notice
+
+&emsp;Any notice under paragraph (1) shall be provided no later than two months after the deadline (including extensions) for filing the annual report for the plan year to which the notice relates.
+
+#### (4) Form and manner
+
+&emsp;Any notice under paragraph (1)—
+
+&emsp;&emsp;(A) shall be provided in a form and manner prescribed in regulations of the Secretary,
+
+&emsp;&emsp;(B) shall be written in a manner so as to be understood by the average plan participant, and
+
+&emsp;&emsp;(C) may be provided in written, electronic, or other appropriate form to the extent such form is reasonably accessible to persons to whom the notice is required to be provided.
 
 #### (g) Reporting by certain arrangements
 
@@ -102,7 +142,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 #### (A) In general
 
-&emsp;&emsp;The notices described in paragraph (1) shall be written in a manner calculated to be understood by the average plan participant and shall include—
+&emsp;&emsp;The notices described in paragraph (1) shall be written in a manner calculated to beunderstood by the average plan participant and shall include—
 
 &emsp;&emsp;&emsp;(i) the reasons for the blackout period,
 
@@ -198,13 +238,19 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551.)
 
 #### References in Text
 
 Section 1022(a)(1) of this title, referred to in subsec. (a)(1), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
 
 #### Amendments
+
+2004—Subsec. (e)(3). Pub. L. 108–357 substituted “October 22, 2004” for “April 10, 2004”.
+
+Pub. L. 108–218, §204(b)(1), substituted “April 10, 2004” for “December 17, 1999”.
+
+Subsec. (f). Pub. L. 108–218, §103(a), added subsec. (f).
 
 2002—Subsecs. (h) to (j). Pub. L. 107–204 added subsec. (i) and redesignated subsec. (h) relating to cross reference as (j).
 
@@ -242,6 +288,10 @@ Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted “an employer m
 
 1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–218, title I, §103(d), Apr. 10, 2004, 118 Stat. 604, provided that: “The amendments made by this section \[amending this section and section 1132 of this title\] shall apply to plan years beginning after December 31, 2004.”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–204 effective 180 days after July 30, 2002, see section 7244(c) of Title 15, Commerce and Trade.
@@ -256,7 +306,7 @@ Pub. L. 105–200, title IV, §401(h)(1)(B), July 16, 1998, 112 Stat. 668, provi
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning onor after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
 
 Amendment of Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 
@@ -296,6 +346,8 @@ Section 9304(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII
 
 #### Regulations
 
+Pub. L. 108–218, title I, §103(c), Apr. 10, 2004, 118 Stat. 604, provided that: “The Secretary of Labor shall, not later than 1 year after the date of the enactment of this Act \[Apr. 10, 2004\], issue regulations (including a model notice) necessary to implement the amendments made by this section \[amending this section and section 1132 of this title\].”
+
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
 #### Plan Amendments Not Required Until July 30, 2002
@@ -305,10 +357,6 @@ For provisions directing that if any amendment made by section 306(b) of Pub. L.
 #### Plan Amendments Not Required Until January 1, 1998
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1104, 1132 of this title; title 15 section 7244.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ From and after payment of the above accrued taxes said 25 per centum shall be ac
 
 Act of June 9, 1916, referred to in subsec. (a), is act June 9, 1916, ch. 137, 39 Stat. 218, which is not classified to the Code.
 
-Act of July 13, 1926 (44 Stat. 915), Forty-fourth Statutes, page 915, and said Act, referred to in subsec. (b),mean act July 13, 1926, ch. 897, 44 Stat. 915, which is not classified to the Code.
+Act of July 13, 1926 (44 Stat. 915), Forty-fourth Statutes, page 915, and said Act, referred to in subsec. (b), mean act July 13, 1926, ch. 897, 44 Stat. 915, which is not classified to the Code.
 
 #### Codification
 
@@ -31,8 +31,4 @@ Section comprises all of section 201 of act Aug. 28, 1937, title II, except a se
 #### Sharing of Bureau of Land Management Timber Sale Receipts
 
 Pub. L. 103–66, title XIII, §13983, Aug. 10, 1993, 107 Stat. 682, as amended by Pub. L. 103–443, §1(b), Nov. 2, 1994, 108 Stat. 4631, authorized the Secretary of the Treasury to make defined special payments in certain fiscal years to counties in Oregon and California in lieu of certain other payments under this section and section 1181f–1 et seq. of this title, prior to repeal by Pub. L. 106–393, title IV, §404, Oct. 30, 2000, 114 Stat. 1623.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 869–4, 1181d, 1181e, 1181f–4, 1181g, 1181i, 1735, 1752 of this title; title 16 section 521a; title 30 sections 601, 603.
 

@@ -1,9 +1,5 @@
 Part IV—Inspection, Apprehension, Examination, Exclusion, and Removal
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1252, 1306, 1361 of this title; title 22 sections 618, 2508; title 50 section 855.
-
 
 ---
 

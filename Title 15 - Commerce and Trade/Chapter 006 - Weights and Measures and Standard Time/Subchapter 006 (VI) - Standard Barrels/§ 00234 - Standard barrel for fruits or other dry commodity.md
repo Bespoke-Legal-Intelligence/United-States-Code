@@ -4,7 +4,3 @@ The standard barrel for fruits, vegetables, and other dry commodities other than
 
 (Mar. 4, 1915, ch. 158, §1, 38 Stat. 1186.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 235, 236 of this title.
-

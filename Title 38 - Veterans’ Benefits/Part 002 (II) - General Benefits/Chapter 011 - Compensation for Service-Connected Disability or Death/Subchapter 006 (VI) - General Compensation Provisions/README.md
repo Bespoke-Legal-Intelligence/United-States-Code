@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 26 section 6334.
-
 
 ---
 

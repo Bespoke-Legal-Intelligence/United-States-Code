@@ -26,7 +26,7 @@
 
 #### (4) Review
 
-&emsp;Any person against whom a civil penalty is assessed under this subsection may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the President. The President shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the United States, the President may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty on the record.
+&emsp;Any person against whom a civil penalty is assessed under this subsection may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to thePresident. The President shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the United States, the President may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty on the record.
 
 #### (5) Subpoenas
 
@@ -85,8 +85,4 @@ Action taken by the President pursuant to this section shall not affect or limit
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9611, 9622 of this title.
 

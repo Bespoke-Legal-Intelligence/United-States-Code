@@ -94,7 +94,3 @@ Amendment by Pub. L. 98–21 applicable to premiums for months beginning with Ja
 
 Section 203(e) of Pub. L. 92–603 provided that the amendment made by that section is effective with respect to enrollee premiums payable for months after June 1973.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1320b–5 of this title.
-

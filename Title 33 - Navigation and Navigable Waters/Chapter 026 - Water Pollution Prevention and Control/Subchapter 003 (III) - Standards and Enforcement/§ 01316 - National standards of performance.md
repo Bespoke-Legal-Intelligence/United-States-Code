@@ -96,7 +96,3 @@ After the effective date of standards of performance promulgated under this sect
 
 Discharges from point sources in the United States Virgin Islands in existence on Aug. 5, 1983, attributable to the manufacture of rum not to be subject to the requirements of this section under certain conditions, see section 214(g) of Pub. L. 98–67, set out as a note under section 1311 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1311, 1313, 1314, 1317, 1319, 1323, 1326, 1341, 1342, 1365, 1367, 1369, 1371, 1374 of this title; title 42 section 6925.
-

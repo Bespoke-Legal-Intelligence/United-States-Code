@@ -52,6 +52,17 @@
 | (a) | Definitions. |
 | (b) | Bioenergy Program. |
 | (c) | Funding. |
+| [8109\.](%C2%A7%2008109%20-%20Research%2C%20extension%2C%20and%20educational%20programs%20on%20biobased%20energy%20technologies%20and%20products.md) | Research, extension, and educational programs on biobased energy technologies and products. |
+| (a) | Purposes. |
+| (b) | Definitions. |
+| (c) | Establishment. |
+| (d) | Grants to centers. |
+| (e) | Use of funds. |
+| (f) | Plan. |
+| (g) | Grants to other land-grant colleges and universities. |
+| (h) | Grant information analysis center. |
+| (i) | Annual reports. |
+| (j) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,3 +79,4 @@
 - [&sect; 08106 - Renewable energy systems and energy efficiency improvements](%C2%A7%2008106%20-%20Renewable%20energy%20systems%20and%20energy%20efficiency%20improvements.md)
 - [&sect; 08107 - Hydrogen and fuel cell technologies](%C2%A7%2008107%20-%20Hydrogen%20and%20fuel%20cell%20technologies.md)
 - [&sect; 08108 - Continuation of bioenergy program](%C2%A7%2008108%20-%20Continuation%20of%20bioenergy%20program.md)
+- [&sect; 08109 - Research, extension, and educational programs on biobased energy technologies and products](%C2%A7%2008109%20-%20Research%2C%20extension%2C%20and%20educational%20programs%20on%20biobased%20energy%20technologies%20and%20products.md)

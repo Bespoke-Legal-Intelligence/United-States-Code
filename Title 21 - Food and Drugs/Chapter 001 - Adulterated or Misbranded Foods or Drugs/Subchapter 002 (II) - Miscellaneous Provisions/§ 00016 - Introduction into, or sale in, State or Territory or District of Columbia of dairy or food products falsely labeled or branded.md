@@ -4,7 +4,3 @@ No person or persons, company or corporation, shall introduce into any State or 
 
 (July 1, 1902, ch. 1357, §1, 32 Stat. 632.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17 of this title.
-

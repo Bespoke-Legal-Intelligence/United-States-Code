@@ -4,7 +4,3 @@ In any action caused by the Secretary of the Interior to be commenced for the ac
 
 (Oct. 10, 1949, ch. 659, §4, 63 Stat. 734.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410j, 410<i>o</i>, 410p of this title.
-

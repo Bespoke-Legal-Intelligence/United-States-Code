@@ -22,7 +22,3 @@ In order to maximize the benefits and to minimize the adverse consequences of sc
 
 1988—Par. (5). Pub. L. 100–418 added par. (5).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2656d, 3503 of this title.
-

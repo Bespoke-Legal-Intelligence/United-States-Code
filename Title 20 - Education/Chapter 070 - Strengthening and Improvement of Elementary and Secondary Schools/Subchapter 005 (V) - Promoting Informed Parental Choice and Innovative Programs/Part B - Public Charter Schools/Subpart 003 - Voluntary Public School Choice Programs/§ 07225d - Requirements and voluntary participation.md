@@ -28,7 +28,3 @@ Student participation in a program funded under this subpart shall be voluntary.
 
 (Pub. L. 89–10, title V, §5245, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1805.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7225b of this title.
-

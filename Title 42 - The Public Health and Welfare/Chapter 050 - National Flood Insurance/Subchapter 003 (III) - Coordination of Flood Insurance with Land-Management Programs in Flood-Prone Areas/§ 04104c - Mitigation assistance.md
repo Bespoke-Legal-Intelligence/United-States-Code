@@ -12,7 +12,7 @@ The Director shall carry out a program to provide financial assistance to States
 
 #### (2) Funding
 
-&emsp;Of any amounts made available from the National Flood Mitigation Fund for use under this section in any fiscal year, the Director may use not more than $1,500,000 to provide planning assistance grants under this subsection.
+&emsp;Of any amounts made available from the National Flood Mitigation Fund for use under this section in any fiscal year, the Director may use not more than 7.5 percent of the available funds under this section to provide planning assistance grants under this subsection.
 
 #### (3) Limitations
 
@@ -58,11 +58,11 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (3) Standard for approval
 
-&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund.
+&emsp;The Director shall approve mitigation plans meeting the requirements for approval under paragraph (1) that will be most cost-beneficial to the National Flood Mitigation Fund. The Director may approve only mitigation plans that give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.
 
-#### (4) Priority
+#### (4) Priority for mitigation assistance
 
-&emsp;The Director shall make every effort to provide mitigation assistance under this section for mitigation plans proposing activities for repetitive loss structures and structures that have incurred substantial damage.
+&emsp;In providing grants under this subsection for mitigation activities, the Director shall give first priority for funding to such properties, or to such subsets of such properties as the Director may establish, that the Director determines are in the best interests of the National Flood Insurance Fund and for which matching amounts under subsection (f) of this section are available.
 
 #### (5) Eligible activities
 
@@ -108,7 +108,15 @@ To be eligible to receive financial assistance under this section for mitigation
 
 &emsp;The Director may not provide mitigation assistance under this section to a State or community in an amount exceeding 3 times the amount that the State or community certifies, as the Director shall require, that the State or community will contribute from non-Federal funds to develop a mitigation plan under subsection (c) of this section and to carry out mitigation activities under the approved mitigation plan. In no case shall any in-kind contribution by any State or community exceed one-half of the amount of non-Federal funds contributed by the State or community.
 
-#### (2) Non-Federal funds
+#### (2) Reduced community match
+
+&emsp;With respect to any 1-year period in which assistance is made available under this section, the Director may adjust the contribution required under paragraph (1) by any State, and for the communities located in that State, to not less than 10 percent of the cost of the activities for each severe repetitive loss property for which grant amounts are provided if, for such year—
+
+&emsp;&emsp;(A) the State has an approved State mitigation plan meeting the requirements for hazard mitigation planning under section 322 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165) that specifies how the State intends to reduce the number of severe repetitive loss properties; and
+
+&emsp;&emsp;(B) the Director determines, after consultation with the State, that the State has taken actions to reduce the number of such properties.
+
+#### (3) Non-Federal funds
 
 &emsp;For purposes of this subsection, the term “non-Federal funds” includes State or local agency funds, in-kind contributions, any salary paid to staff to carry out the mitigation activities of the recipient, the value of the time and services contributed by volunteers to carry out such activities (at a rate determined by the Director), and the value of any donated material or building and the value of any lease on a building.
 
@@ -124,7 +132,7 @@ The Director shall conduct oversight of recipients of mitigation assistance unde
 
 #### (2) Failure to provide matching funds
 
-&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times theamount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
 #### (j) Reports
 
@@ -138,11 +146,27 @@ For purposes of this section, the term “community” means—
 
 &emsp;(2) a political subdivision of a State, or other authority, that is designated to develop and administer a mitigation plan by political subdivisions, all of which meet the requirements of paragraph (1).
 
-(Pub. L. 90–448, title XIII, §1366, as added Pub. L. 103–325, title V, §553(a), Sept. 23, 1994, 108 Stat. 2270.)
+#### (m) <sup>1</sup> Coordination with States and communities
+
+The Director shall, in consultation and coordination with States and communities take such actions as are appropriate to encourage and improve participation in the national flood insurance program of owners of properties, including owners of properties that are not located in areas having special flood hazards (the 100-year floodplain), but are located within flood prone areas.
+
+(Pub. L. 90–448, title XIII, §1366, as added Pub. L. 103–325, title V, §553(a), Sept. 23, 1994, 108 Stat. 2270; amended Pub. L. 108–264, title I, §103(a)–(c), (e), (f), June 30, 2004, 118 Stat. 721, 722.)
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+#### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–264, §103(f), substituted “7.5 percent of the available funds under this section” for “$1,500,000”.
+
+Subsec. (e)(3). Pub. L. 108–264, §103(a), inserted at end “The Director may approve only mitigation plans that give priority for funding to such properties, or to such subsets of properties, as are in the best interest of the National Flood Insurance Fund.”
+
+Subsec. (e)(4). Pub. L. 108–264, §103(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “The Director shall make every effort to provide mitigation assistance under this section for mitigation plans proposing activities for repetitive loss structures and structures that have incurred substantial damage.”
+
+Subsecs. (g)(2), (3). Pub. L. 108–264, §103(e), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (m). Pub. L. 108–264, §103(c), added subsec. (m).
 
 #### Regulations
 
@@ -152,7 +176,5 @@ Section 553(b) of Pub. L. 103–325 provided that: “Not later than 6 months af
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4022, 4104d of this title.
+<i><sup>1</sup></i><i> So in original. No subsec. (l) has been enacted.</i>
 

@@ -148,7 +148,7 @@ Pub. L. 106–544, §7, Dec. 19, 2000, 114 Stat. 2719, provided that:
 
 “(a)
 
-Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General,in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
+Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
 
 &emsp;“(1) a description of the sources of administrative subpoena power and the scope of such subpoena power within executive branch agencies;
 
@@ -171,8 +171,4 @@ In general.—The Attorney General and the Secretary of the Treasury shall repor
 &emsp;“(2)
 
 Expiration.—The reporting requirement of this subsection shall terminate in 3 years after the date of the enactment of this section \[Dec. 19, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 500, 504, 552, 562, 571, 592, 595, 601, 701, 804, 3344, 3348 of this title; title 2 sections 501, 502, 658, 1602; title 6 section 131; title 7 section 6997; title 15 sections 78d–1, 78w, 632, 637c, 766, 2053, 3412, 3416, 6501; title 16 section 470w; title 22 sections 3731, 6033, 6741; title 25 section 3402; title 26 sections 6103, 9041; title 30 sections 185, 956; title 31 sections 3901, 6101, 7501; title 41 section 422; title 42 sections 2231, 2992c, 6107, 6241, 6393, 7191, 8259, 8262, 11317, 11504; title 46 sections 7702, 9303; title 47 sections 155, 409; title 49 sections 106, 114, 11324; title 50 App. sections 2159, 2412.
 

@@ -24,7 +24,3 @@ The reference “Department of Commerce or bureau or agency thereof” was inser
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
-

@@ -14,7 +14,3 @@ Notwithstanding any provision of law to the contrary, no fee or charge shall be 
 
 1978—Pub. L. 95–348 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 398c, 398d of this title.
-

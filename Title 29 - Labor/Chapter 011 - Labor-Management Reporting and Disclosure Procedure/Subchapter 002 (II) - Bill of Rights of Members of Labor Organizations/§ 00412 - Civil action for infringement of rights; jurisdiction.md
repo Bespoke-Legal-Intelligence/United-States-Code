@@ -4,7 +4,3 @@ Any person whose rights secured by the provisions of this subchapter have been i
 
 (Pub. L. 86–257, title I, §102, Sept. 14, 1959, 73 Stat. 523.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 529 of this title.
-

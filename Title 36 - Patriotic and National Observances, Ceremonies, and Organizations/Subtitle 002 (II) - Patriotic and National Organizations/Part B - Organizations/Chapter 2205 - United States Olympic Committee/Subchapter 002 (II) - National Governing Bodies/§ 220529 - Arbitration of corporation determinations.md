@@ -116,7 +116,3 @@ In subsection (e), the word “contesting” is omitted as unnecessary.
 
 In subsection (e)(2), the words “the reopening is based on the motion of a party” are substituted for “any contesting party makes such a motion” for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 220522 of this title.
-

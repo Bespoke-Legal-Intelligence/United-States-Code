@@ -20,7 +20,3 @@ Revolving funds.—The Secretary may make grants to nonprofit housing agencies t
 
 1974—Subsec. (a). Pub. L. 93–383 provided for applicability to public agencies and substituted “any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families” for “section 1715z or 1715z–1 of title 12 or section 1490a of this title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1479, 1483, 1487 of this title.
-

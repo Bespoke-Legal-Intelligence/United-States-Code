@@ -2,7 +2,7 @@
 
 #### (a) General administration
 
-There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of this chapter, $35,000,000 for the fiscal year ending September 30, 1977, $38,000,000 for the fiscal year ending September 30, 1978, $42,000,000 for the fiscal year ending September 30, 1979, $70,000,000 for the fiscal year ending September 30, 1980, $80,000,000 for the fiscal year ending September 30, 1981, $80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 forthe fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988.
+There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of this chapter, $35,000,000 for the fiscal year ending September 30, 1977, $38,000,000 for the fiscal year ending September 30, 1978, $42,000,000 for the fiscal year ending September 30, 1979, $70,000,000 for the fiscal year ending September 30, 1980, $80,000,000 for the fiscal year ending September 30, 1981, $80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988.
 
 #### (b) Resource Recovery and Conservation Panels
 
@@ -46,9 +46,5 @@ Subsec. (d). Pub. L. 96–482, §6(b), added subsec. (d).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6991h, 6991i of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

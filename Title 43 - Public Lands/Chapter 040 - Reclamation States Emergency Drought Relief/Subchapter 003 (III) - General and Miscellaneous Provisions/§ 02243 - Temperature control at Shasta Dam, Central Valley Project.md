@@ -4,7 +4,3 @@ The Secretary is authorized to complete the design and specifications for constr
 
 (Pub. L. 102–250, title III, §303, Mar. 5, 1992, 106 Stat. 58.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2241 of this title.
-

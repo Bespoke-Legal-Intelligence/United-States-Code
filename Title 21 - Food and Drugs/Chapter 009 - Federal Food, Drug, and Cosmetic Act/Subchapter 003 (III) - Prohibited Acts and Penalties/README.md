@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PROHIBITED ACTS AND PENALTIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 343, 378 of this title; title 15 section 1456.
-
 
 ---
 

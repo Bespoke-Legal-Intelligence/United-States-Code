@@ -26,7 +26,7 @@ In this section, before clause (1), the words “to the Secretary of Transportat
 
 1999—Pub. L. 106–39 substituted “$98,313,500” for “$81,200,000”.
 
-1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior toamendment, text read as follows: “The following amounts may be appropriated to the Secretary of Transportation for the National Highway Traffic Safety Administration to carry out this chapter:
+1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The following amounts may be appropriated to the Secretary of Transportation for the National Highway Traffic Safety Administration to carry out this chapter:
 
 &emsp;“(1) $71,333,436 for the fiscal year ending September 30, 1993.
 

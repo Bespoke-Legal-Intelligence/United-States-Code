@@ -58,7 +58,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (1) Authority
 
-&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner andif the court chooses to exercise such jurisdiction.
+&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner and if the court chooses to exercise such jurisdiction.
 
 #### (2) Procedure
 
@@ -94,7 +94,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D),\(10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Section was formerly classified to section 1252a of this title prior to renumber
 
 #### Prior Provisions
 
-A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related toentry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
+A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related to entry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
 
 #### Amendments
 
@@ -300,7 +300,7 @@ Section 130007 of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, ti
 
 “(a)
 
-In General.—Subject to the availability of appropriations, the Attorney General may expand the program authorized by section\[s\] 238(a)(3) and 239(d) of the Immigration and Nationality Act \[8 U.S.C. 1228(a)(3), 1229(d)\] to ensure that such aliens are immediately deportable upon their release from incarceration.
+In General.—Subject to the availability of appropriations, the Attorney General may expand theprogram authorized by section\[s\] 238(a)(3) and 239(d) of the Immigration and Nationality Act \[8 U.S.C. 1228(a)(3), 1229(d)\] to ensure that such aliens are immediately deportable upon their release from incarceration.
 
 “(b)
 
@@ -325,10 +325,6 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 &emsp;“(3) $49,000,000 for fiscal year 1997; and
 
 &emsp;“(4) $2,000,000 for fiscal year 1998.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1229a, 1368 of this title; title 18 section 3563.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

@@ -30,7 +30,7 @@ Limitation.—
 
 &emsp;(A)
 
-In general.—Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any land or interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
+In general.—Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any landor interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
 
 &emsp;(B)
 
@@ -78,7 +78,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;&emsp;(vii) Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore natural stabilization systems.
 
-(4) The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this subsection during each fiscal year beginning after September 30, 1987. Such certification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.
+(4) The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this subsection during each fiscal year beginning after September 30, 1987. Suchcertification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.
 
 (5) Nothing contained in this subsection shall be construed as indicating an intent on the part of the Congress to change the existing relationship of other Federal laws to the law of a State, or a political subdivision of a State, or to relieve any person or any obligation imposed by any law of any State, or political subdivision of a State. No provision of this subsection shall be construed to invalidate any provision of State or local law unless there is a direct conflict between such provision and the law of the State, or political subdivision of the State, so that the two cannot be reconciled or consistently stand together. This subsection shall in no way be interpreted to interfere with a State's right to protect, rehabilitate, preserve, and restore lands within its established boundary.
 
@@ -109,10 +109,6 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 #### Amendments
 
 2000—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544i, 544m to 544p of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

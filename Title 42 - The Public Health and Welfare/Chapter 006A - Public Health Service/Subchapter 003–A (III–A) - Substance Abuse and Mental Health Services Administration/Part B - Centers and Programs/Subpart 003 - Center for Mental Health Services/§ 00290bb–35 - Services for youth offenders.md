@@ -22,7 +22,7 @@ A State or local juvenile justice agency that desires a grant under subsection (
 
 #### (d) Report
 
-Not later than 3 years after October 17, 2000, and annually thereafter, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the Houseof Representatives, a report that describes the services provided pursuant to this section.
+Not later than 3 years after October 17, 2000, and annually thereafter, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the House of Representatives, a report that describes the services provided pursuant to this section.
 
 #### (e) Definitions
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (1) Serious emotional disturbance
 
-&emsp;The term “serious emotional disturbance” with respect to a youth offender means an offender who currently, or at any time within the 1-year period ending on the day on which services are sought under this section, has a diagnosable mental, behavioral, or emotional disorder that functionally impairs the offender's life by substantially limiting the offender's role in family, school, or community activities, and interfering with the offender's ability to achieve or maintain one or more developmentally-appropriate social, behavior, cognitive, communicative, or adaptive skills.
+&emsp;The term “serious emotional disturbance” with respect to a youth offender means an offender who currently, or at any time within the 1-year period ending on the day on which services are sought under this section, has adiagnosable mental, behavioral, or emotional disorder that functionally impairs the offender's life by substantially limiting the offender's role in family, school, or community activities, and interfering with the offender's ability to achieve or maintain one or more developmentally-appropriate social, behavior, cognitive, communicative, or adaptive skills.
 
 #### (2) Community-based system of care
 

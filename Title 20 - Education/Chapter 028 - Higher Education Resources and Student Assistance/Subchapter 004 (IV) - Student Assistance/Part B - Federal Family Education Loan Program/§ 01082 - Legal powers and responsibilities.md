@@ -24,7 +24,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (1) Collection by category of loan
 
-&emsp;(A) For loans insured after December 31, 1976, or in the case of each insurer after such earlier date where the data required by this subsection are available, the Secretary and all other insurers under this part shall collect and accumulate all data relating to (i) loan volume insured and (ii) defaults reimbursed or default rates according to the categories of loans listed in subparagraph (B) of this paragraph.
+&emsp;(A) For loans insured after December 31, 1976, or in the case of each insurer after suchearlier date where the data required by this subsection are available, the Secretary and all other insurers under this part shall collect and accumulate all data relating to (i) loan volume insured and (ii) defaults reimbursed or default rates according to the categories of loans listed in subparagraph (B) of this paragraph.
 
 &emsp;(B) The data indicated in subparagraph (A) of this paragraph shall be accumulated according to the category of lender making the loan and shall be accumulated separately for lenders who are (i) eligible institutions, (ii) State or private, nonprofit direct lenders, (iii) commercial financial institutions who are banks, savings and loan associations, or credit unions, and (iv) all other types of institutions or agencies.
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Review of sanctions on lenders
 
-&emsp;(A) The Secretary shall review each limitation, suspension, or termination imposed by any guaranty agency pursuant to section 1078(b)(1)(U) of this title within 60 days after receipt by the Secretary of a notice from the guaranty agency of the imposition of suchlimitation, suspension, or termination, unless the right to such review is waived in writing by the lender. The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction—
+&emsp;(A) The Secretary shall review each limitation, suspension, or termination imposed by any guaranty agency pursuant to section 1078(b)(1)(U) of this title within 60 days after receipt by the Secretary of a notice from the guaranty agency of the imposition of such limitation, suspension, or termination, unless the right to such review is waived in writing by the lender. The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction—
 
 &emsp;&emsp;(i) if such review is waived; or
 
@@ -216,7 +216,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) In general
 
-&emsp;The Secretary shall undertake a program to encourage corporations and other private and public employers, including the Federal Government, to assist borrowers in repaying loans received under this subchapter and part C of subchapter I of chapter 34 of title 42, includingproviding employers with options for payroll deduction of loan payments and offering loan repayment matching provisions as part of employee benefit packages.
+&emsp;The Secretary shall undertake a program to encourage corporations and other private and public employers, including the Federal Government, to assist borrowers in repaying loans received under this subchapter and part C of subchapter I of chapter 34 of title 42, including providing employers with options for payroll deduction of loan payments and offering loan repayment matching provisions as part of employee benefit packages.
 
 #### (2) Publication
 
@@ -296,7 +296,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note formsfor loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary.
 
 #### (ii) Consultation
 
@@ -454,6 +454,10 @@ Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted “misrepresentation” for “representation”.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -465,10 +469,6 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1078, 1087c, 1087hh, 1094, 1099c–1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

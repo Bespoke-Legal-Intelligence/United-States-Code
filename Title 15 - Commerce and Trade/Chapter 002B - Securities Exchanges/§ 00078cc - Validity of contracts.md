@@ -28,7 +28,3 @@ This chapter, referred to in subsecs. (a), (b), and (c), was in the original “
 
 Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in a note under section 77g of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>o</i>–4 of this title.
-

@@ -1,6 +1,6 @@
 ### §3692. Advisory committee
 
-(a) There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era, the Vietnam era, the post-Vietnam era, and the Persian Gulf War. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Laborfor Veterans’ Employment and Training shall be ex officio members of the advisory committee.
+(a) There shall be a Veterans’ Advisory Committee on Education formed by the Secretary which shall be composed of persons who are eminent in their respective fields of education, labor, and management and of representatives of institutions and establishments furnishing education to eligible veterans or persons enrolled under chapter 30, 32, or 35 of this title and chapter 1606 of title 10. The committee shall also, to the maximum extent practicable, include veterans representative of World War II, the Korean conflict era, the post-Korean conflict era, the Vietnam era, the post-Vietnam era, and the Persian Gulf War. The Assistant Secretary of Education for Postsecondary Education (or such other comparable official of the Department of Education as the Secretary of Education may designate) and the Assistant Secretary of Labor for Veterans’ Employment and Training shall be ex officio members of the advisory committee.
 
 (b) The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
 
@@ -65,8 +65,4 @@ Pub. L. 95–202, title III, §304(b), Nov. 23, 1977, 91 Stat. 1442, directed Ad
 #### Study of Operation of Post-Korean Conflict Programs of Educational Assistance
 
 Section 413 of Pub. L. 92–540 provided for a comparative study of operation of post-Korean conflict program of educational assistance with similar prior programs available to veterans of World War II and Korean conflict, the results of such study and recommendations for improvement to be transmitted to President and Congress within six months of Oct. 24, 1972.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 306 of this title; title 10 section 16136.
 

@@ -10,7 +10,3 @@ The desert-land laws, referred to in text, are classified generally to chapter 9
 
 The public-land laws, referred to in text, are classified generally to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 152 of this title.
-

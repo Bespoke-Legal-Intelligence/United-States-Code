@@ -4,7 +4,3 @@ For allotments under section 15042 of this title, there are authorized to be app
 
 (Pub. L. 106–402, title I, §145, Oct. 30, 2000, 114 Stat. 1718.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15042 of this title.
-

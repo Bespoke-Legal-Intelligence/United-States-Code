@@ -1,6 +1,6 @@
 ### §1847. Authorization to fix basic rate of compensation for certain positions
 
-On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
+On and after August 21, 1959, the Architect of the Capitol is authorized, without regard tochapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
 
 On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of one position under the appropriation “Senate Office Buildings”, at a basic rate of $8,200 per annum.
 
@@ -14,21 +14,17 @@ Section was classified to section 166b–3 of former Title 40, prior to the enac
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–163 substituted “four positions” for “three positions” and “Architect or Assistant Architect” for “Architect, Assistant Architect, or Second Assistant Architect of the Capitol”.
+1989—Pub. L. 101–163 substituted “four positions” for “three positions” and “Architect or Assistant Architect” for “Architect, Assistant Architect, or Second Assistant Architect of the Capitol”.
 
-<b>1975</b>—Pub. L. 94–157 increased to two positions from one position the number of positions under the appropriation “Capitol Buildings”.
+1975—Pub. L. 94–157 increased to two positions from one position the number of positions under the appropriation “Capitol Buildings”.
 
-<b>1968</b>—Pub. L. 90–239 increased the compensation of one position under appropriation “Senate Office Buildings” from “$7,700” to “$8,200”.
+1968—Pub. L. 90–239 increased the compensation of one position under appropriation “Senate Office Buildings” from “$7,700” to “$8,200”.
 
-<b>1967</b>—Pub. L. 90–206 increased the compensation from $7,700 to $8,200 per annum each of the three positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of one position under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings”.
+1967—Pub. L. 90–206 increased the compensation from $7,700 to $8,200 per annum each of the three positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of one position under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings”.
 
-<b>1965</b>—Pub. L. 89–309 increased the compensation of one position under appropriation “Senate Office Buildings” from $7,020 to $7,700.
+1965—Pub. L. 89–309 increased the compensation of one position under appropriation “Senate Office Buildings” from $7,020 to $7,700.
 
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–206 effective as of beginning of first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1848 of this title.
 

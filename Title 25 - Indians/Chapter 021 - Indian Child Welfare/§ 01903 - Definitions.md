@@ -38,7 +38,3 @@ For the purposes of this chapter, except as may be specifically provided otherwi
 
 (Pub. L. 95–608, §4, Nov. 8, 1978, 92 Stat. 3069.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1727, 3202, 3653, 4302 of this title; title 12 section 4702; title 26 section 168.
-

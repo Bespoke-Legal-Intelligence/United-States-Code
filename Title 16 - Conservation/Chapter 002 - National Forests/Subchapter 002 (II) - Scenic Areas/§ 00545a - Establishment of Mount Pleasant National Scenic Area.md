@@ -12,7 +12,7 @@
 
 #### (3) Maps and descriptions
 
-&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundary description of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
+&emsp;As soon as practicable after August 26, 1994, the Secretary shall file a map and boundarydescription of the scenic area with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives. The map and description shall have the same force and effect as if included in sections 545 and 545a of this title, except that the Secretary is authorized to correct clerical and typographical errors in such boundary description and map. Such map and boundary description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture. In the case of any discrepancy between the acreage and the map described in paragraph (2), the map shall control.
 
 #### (b) Administration
 
@@ -22,7 +22,7 @@
 
 #### (2) Management plan
 
-&emsp;Within three years after August 26, 1994, the Secretary shall develop a management plan for the scenic area as an amendment to the Land and Resource Management Plan for the George Washington National Forest. Such anamendment shall conform to the provisions of sections 545 and 545a of this title. Nothing in sections 545 and 545a of this title shall require the Secretary to revise the Land and Resource Management Plan for the George Washington National Forest pursuant to section 1604 of this title.
+&emsp;Within three years after August 26, 1994, the Secretary shall develop a management plan for the scenic area as an amendment to the Land and Resource Management Plan for the George Washington National Forest. Such an amendment shall conform to the provisions of sections 545 and 545a of this title. Nothing in sections 545 and 545a of this title shall require the Secretary to revise the Land and Resource Management Plan for the George Washington National Forest pursuant to section 1604 of this title.
 
 #### (c) Roads
 
@@ -69,8 +69,4 @@ The geothermal leasing laws of the United States, referred to in subsec. (i), ar
 #### Amendments
 
 1996—Subsec. (a)(1). Pub. L. 104–127 substituted “Mount Pleasant National Scenic Area” for “George Washington National Forest Mount Pleasant Scenic Area”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 545 of this title.
 

@@ -32,7 +32,7 @@ Uses.—
 
 &emsp;(1)
 
-In general.—Deposits in the Fund are available for real property management and related activities in the amounts specified in annual appropriation laws without regard to fiscal year limitations.
+In general.—Deposits in the Fund are available for real property management andrelated activities in the amounts specified in annual appropriation laws without regard to fiscal year limitations.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ Receiving amounts.—The Administrator may receive amounts from the sale of recy
 
 &emsp;(2)
 
-Obligating amounts for recycling programs.—In addition to amounts appropriatedfor such purposes and without regard to subsection (c)(1), the Administrator may obligate amounts received and deposited in the Fund under paragraph (1) for programs which—
+Obligating amounts for recycling programs.—In addition to amounts appropriated for such purposes and without regard to subsection (c)(1), the Administrator may obligate amounts received and deposited in the Fund under paragraph (1) for programs which—
 
 &emsp;&emsp;(A) promote further source reduction and recycling programs; and
 
@@ -177,8 +177,4 @@ In subsection (f), the words “during a fiscal year” are omitted as unnecessa
 #### References in Text
 
 Section 5 of the Public Buildings Amendments of 1972, referred to in subsec. (c)(4)(A), is section 5 of Pub. L. 92–313, June 16, 1972, 86 Stat. 219, as amended, which enacted section 602a of former Title 40, Public Buildings, Property, and Works, and was omitted from the Code in the revision and reenactment of Title 40 by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 593, 6701 of this title; title 6 section 232; title 20 sections 80q–5, 80q–6; title 22 section 3712a.
 

@@ -122,9 +122,5 @@ Civil Actions.—Except for any civil action brought for a violation of section 
 
 Exception.—Sections 302(a) \[section 12182(a) of this title\] for purposes of section 302(b)(2)(B) and (C) only, 304(a) \[section 12184(a) of this title\] for purposes of section 304(b)(3) only, 304(b)(3), 305 \[section 12185 of this title\], and 306 \[section 12186 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1990\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 47 section 255.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

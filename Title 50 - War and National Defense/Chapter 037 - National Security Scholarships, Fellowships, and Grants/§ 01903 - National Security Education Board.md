@@ -30,7 +30,7 @@ Each individual appointed to the Board pursuant to subsection (b)(6) of this sec
 
 The Board shall perform the following functions:
 
-&emsp;(1) Develop criteria for awarding scholarships, fellowships, and grants under this chapter, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position.
+&emsp;(1) Develop criteria for awarding scholarships, fellowships, and grants under this chapter, including an order of priority in suchawards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position.
 
 &emsp;(2) Provide for wide dissemination of information regarding the activities assisted under this chapter.
 
@@ -42,11 +42,11 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(B) which areas within the disciplines described in section 1902(a)(1)(B) of this title relating to the national security interests of the United States are areas of study in which United States students are deficient in learning and are, therefore, critical areas within those disciplines for the purposes of that section;
 
-&emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees aredeficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
+&emsp;&emsp;(C) which areas within the disciplines described in section 1902(a)(1)(C) of this title are areas in which United States students, educators, and Government employees are deficient in learning and in which insubstantial numbers of United States institutions of higher education provide training and are, therefore, critical areas within those disciplines for the purposes of that section;
 
 &emsp;&emsp;(D) how students desiring scholarships or fellowships can be encouraged to work for an agency or office of the Federal Government involved in national security affairs or national security policy upon completion of their education; and
 
-&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative).
+&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens).
 
 &emsp;(5) Encourage applications for fellowships under this chapter from graduate students having an educational background in any academic discipline, particularly in the areas of science or technology.
 
@@ -56,9 +56,11 @@ The Board shall perform the following functions:
 
 &emsp;(8) Review the administration of the program required under this chapter.
 
-(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396.)
+(Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954.)
 
 #### Amendments
+
+2004–Subsec. (d)(4)(E). Pub. L. 108–487 inserted “and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens)” before period.
 
 2002—Subsec. (d)(4)(E). Pub. L. 107–306 added subpar. (E).
 
@@ -90,6 +92,10 @@ Subsec. (d)(5) to (8). Pub. L. 104–201, §1078(e)(3), (4), added pars. (5) to 
 
 Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8), substituted “Six individuals” for “Four individuals”, and inserted before period at end “and who may not be officers or employees of the Federal Government”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–306 effective on the date the Secretary of Defense submits the report required under section 334 of Pub. L. 107–306 and notifies the appropriate committees of Congress that the programs carried out under this chapter are being managed in a fiscally and programmatically sound manner, see section 333(c) of Pub. L. 107–306, set out as a note under section 1902 of this title.
@@ -97,8 +103,4 @@ Amendment by Pub. L. 107–306 effective on the date the Secretary of Defense su
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective on earlier of Oct. 1, 1999, or date of abolition of the United States Information Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1902, 1906, 1908 of this title.
 

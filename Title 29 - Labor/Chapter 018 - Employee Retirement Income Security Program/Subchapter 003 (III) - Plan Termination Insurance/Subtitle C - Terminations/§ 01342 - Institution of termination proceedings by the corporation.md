@@ -44,7 +44,7 @@ If the corporation is required under subsection (a) of this section to commence 
 
 &emsp;(iv) to limit payment of benefits under the plan to basic benefits or to continue payment of some or all of the benefits which were being paid prior to his appointment;
 
-&emsp;(v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) of thissubchapter to be performed by the plan sponsor or administrator;
+&emsp;(v) in the case of a multiemployer plan, to reduce benefits or suspend benefit payments under the plan, give appropriate notices, amend the plan, and perform other acts required or authorized by subtitle (E) of this subchapter to be performed by the plan sponsor or administrator;
 
 &emsp;(vi) to do such other acts as he deems necessary to continue operation of the plan without increasing the potential liability of the corporation, if such acts may be done under the provisions of the plan; and
 
@@ -84,7 +84,7 @@ If the corporation is required under subsection (a) of this section to commence 
 
 &emsp;(F) each employee organization which, for purposes of collective bargaining, represents plan participants employed by an employer described in subparagraph (C), (D), or (E).
 
-(3) Except to the extent inconsistent with the provisions of this chapter, or as may be otherwise ordered by the court, a trustee appointed under this section shall be subject to the same duties as those of a trustee under section 704 of title 11, and shall be, with respect to the plan, a fiduciary within the meaning of paragraph (21) of section 1002 of this title and under section 4975(e) of title 26 (except to the extent that the provisions of this subchapter are inconsistent with the requirements applicable under part 4 of subtitle B of subchapter I of this chapter and of such section 4975).
+(3) Except to the extent inconsistent with the provisions of this chapter, or as may be otherwise ordered by the court, a trustee appointed under this section shall be subject to the same duties as those of a trustee under section 704 of title 11, and shall be, with respect to the plan, afiduciary within the meaning of paragraph (21) of section 1002 of this title and under section 4975(e) of title 26 (except to the extent that the provisions of this subchapter are inconsistent with the requirements applicable under part 4 of subtitle B of subchapter I of this chapter and of such section 4975).
 
 #### (e) Filing of application notwithstanding pendency of other proceedings
 
@@ -96,7 +96,7 @@ Upon the filing of an application for the appointment of a trustee or the issuan
 
 #### (g) Venue
 
-An action under this subsection may be brought in the judicial district where the plan administrator resides or does business or where any asset of the plan is situated. A district courtin which such action is brought may issue process with respect to such action in any other judicial district.
+An action under this subsection may be brought in the judicial district where the plan administrator resides or does business or where any asset of the plan is situated. A district court in which such action is brought may issue process with respect to such action in any other judicial district.
 
 #### (h) Compensation of trustee and professional service personnel appointed or retained by trustee
 
@@ -183,10 +183,6 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1103, 1104, 1303, 1305, 1307, 1341, 1344, 1347, 1348, 1350, 1362, 1363, 1364, 1370, 1413 of this title.
 
 <i><sup>1</sup></i><i> So in original. No pars. (1) and (2) have been designated.</i>
 

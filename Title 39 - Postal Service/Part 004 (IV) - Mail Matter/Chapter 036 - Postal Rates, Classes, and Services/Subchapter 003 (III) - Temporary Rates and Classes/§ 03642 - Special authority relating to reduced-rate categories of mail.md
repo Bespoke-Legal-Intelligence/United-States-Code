@@ -36,7 +36,3 @@ Former section 4452 of this title, referred to in subsec. (d), means section 445
 
 Section applicable with respect to rates for mail sent after Sept. 30, 1993, see section 704(c)(1) of Pub. L. 103–123, set out as an Effective Date of 1993 Amendment note under section 3626 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3626 of this title.
-

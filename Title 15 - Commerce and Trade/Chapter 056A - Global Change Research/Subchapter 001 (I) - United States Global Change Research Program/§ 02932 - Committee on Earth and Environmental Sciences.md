@@ -72,9 +72,5 @@ The Council, through the Committee, shall be responsible for planning and coordi
 
 (Pub. L. 101–606, title I, §102, Nov. 16, 1990, 104 Stat. 3097.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2921 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “relevant”.</i>
 

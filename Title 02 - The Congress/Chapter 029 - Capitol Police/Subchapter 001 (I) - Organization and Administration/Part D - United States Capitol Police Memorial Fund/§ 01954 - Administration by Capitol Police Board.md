@@ -12,7 +12,3 @@ Section was classified to section 207c–3 of former Title 40, prior to the enac
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1952 of this title.
-

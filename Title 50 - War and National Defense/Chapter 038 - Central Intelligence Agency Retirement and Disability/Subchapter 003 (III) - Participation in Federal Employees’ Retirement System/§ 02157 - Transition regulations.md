@@ -18,7 +18,3 @@ Sections 301 through 304 of the Federal Employees’ Retirement System Act of 19
 
 A prior section 307 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 628, related to transition provisions and regulations and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151, 2154 of this title; title 26 section 3121; title 42 section 410.
-

@@ -8,7 +8,7 @@ The absence of diplomatic relations or recognition shall not affect the applicat
 
 The application of subsection (a) of this section shall include, but shall not be limited to, the following:
 
-&emsp;(1) Whenever the laws of the United States refer or relate to foreign countries, nations, states, governments, or similar entities, such terms shall include and such laws shall apply with respect to Taiwan.
+&emsp;(1) Whenever the laws of the United States refer or relate to foreign countries, nations,states, governments, or similar entities, such terms shall include and such laws shall apply with respect to Taiwan.
 
 &emsp;(2) Whenever authorized by or pursuant to the laws of the United States to conduct or carry out programs, transactions, or other relations with respect to foreign countries, nations, states, governments, or similar entities, the President or any agency of the United States Government is authorized to conduct and carry out, in accordance with section 3305 of this title, such programs, transactions, and other relations with respect to Taiwan (including, but not limited to, the performance of services for the United States through contracts with commercial entities on Taiwan), in accordance with the applicable laws of the United States.
 
@@ -62,7 +62,7 @@ Report Elements.—Each report under subsection (a) shall—
 
 &emsp;“(1) set forth a comprehensive list of the international organizations in which the United States Government supports the membership or participation of Taiwan;
 
-&emsp;“(2) describe in detail the efforts of the United States Government to achieve the membership or participation of Taiwan in each organization listed; and
+&emsp;“(2) describe in detail the efforts of the United States Government to achieve the membership orparticipation of Taiwan in each organization listed; and
 
 &emsp;“(3) identify the obstacles to the membership or participation of Taiwan in each organization listed, including a list of any governments that do not support the membership or participation of Taiwan in each such organization.”
 

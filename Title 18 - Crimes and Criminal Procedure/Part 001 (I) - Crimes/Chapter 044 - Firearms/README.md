@@ -10,6 +10,8 @@
 | [925A.](%C2%A7%2000925A%20-%20Remedy%20for%20erroneous%20denial%20of%20firearm.md) | Remedy for erroneous denial of firearm. |
 | [926\.](%C2%A7%2000926%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [926A.](%C2%A7%2000926A%20-%20Interstate%20transportation%20of%20firearms.md) | Interstate transportation of firearms. |
+| [926B.](%C2%A7%2000926B%20-%20Carrying%20of%20concealed%20firearms%20by%20qualified%20law%20enforcement%20officers.md) | Carrying of concealed firearms by qualified law enforcement officers. |
+| [926C.](%C2%A7%2000926C%20-%20Carrying%20of%20concealed%20firearms%20by%20qualified%20retired%20law%20enforcement%20officers.md) | Carrying of concealed firearms by qualified retired law enforcement officers. |
 | [927\.](%C2%A7%2000927%20-%20Effect%20on%20State%20law.md) | Effect on State law. |
 | [928\.](%C2%A7%2000928%20-%20Separability.md) | Separability. |
 | [929\.](%C2%A7%2000929%20-%20Use%20of%20restricted%20ammunition.md) | Use of restricted ammunition. |
@@ -19,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–277, §§2(b), 3(b), July 22, 2004, 118 Stat. 866, 867, added items 926B and 926C.
 
 2002—Pub. L. 107–273, div. C, title I, §11009(e)(2)(B), Nov. 2, 2002, 116 Stat. 1821, added item 931.
 
@@ -36,10 +40,6 @@
 
 Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226, added chapter 44 and items 921 to 928.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 922 of this title; title 26 section 4182; title 42 section 3795.
-
 
 ---
 
@@ -53,6 +53,8 @@ This chapter is referred to in section 922 of this title; title 26 section 4182;
 - [&sect; 00925A - Remedy for erroneous denial of firearm](%C2%A7%2000925A%20-%20Remedy%20for%20erroneous%20denial%20of%20firearm.md)
 - [&sect; 00926 - Rules and regulations](%C2%A7%2000926%20-%20Rules%20and%20regulations.md)
 - [&sect; 00926A - Interstate transportation of firearms](%C2%A7%2000926A%20-%20Interstate%20transportation%20of%20firearms.md)
+- [&sect; 00926B - Carrying of concealed firearms by qualified law enforcement officers](%C2%A7%2000926B%20-%20Carrying%20of%20concealed%20firearms%20by%20qualified%20law%20enforcement%20officers.md)
+- [&sect; 00926C - Carrying of concealed firearms by qualified retired law enforcement officers](%C2%A7%2000926C%20-%20Carrying%20of%20concealed%20firearms%20by%20qualified%20retired%20law%20enforcement%20officers.md)
 - [&sect; 00927 - Effect on State law](%C2%A7%2000927%20-%20Effect%20on%20State%20law.md)
 - [&sect; 00928 - Separability](%C2%A7%2000928%20-%20Separability.md)
 - [&sect; 00929 - Use of restricted ammunition](%C2%A7%2000929%20-%20Use%20of%20restricted%20ammunition.md)

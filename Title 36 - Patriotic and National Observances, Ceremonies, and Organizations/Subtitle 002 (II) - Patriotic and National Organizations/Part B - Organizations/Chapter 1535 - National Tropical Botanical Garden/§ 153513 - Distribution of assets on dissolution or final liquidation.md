@@ -36,5 +36,5 @@ In subsection (b), the words “and Federal and State laws” are omitted as unn
 
 #### References in Text
 
-Act of August 25, 1916, referred to in subsec. (a)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, popularly known as the National Park Service Organic Act, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 16 and Tables.
+Act of August 25, 1916, referred to in subsec. (a)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, as amended, known as the National Park Service Organic Act, which is classified generally to sections 1, 2, 3, and 4 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 16 and Tables.
 

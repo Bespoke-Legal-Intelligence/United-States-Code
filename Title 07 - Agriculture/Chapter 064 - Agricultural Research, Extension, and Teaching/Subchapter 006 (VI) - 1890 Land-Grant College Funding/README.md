@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—1890 LAND-GRANT COLLEGE FUNDING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3103, 3124a of this title.
-
 
 ---
 

@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in Seneca Falls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
+&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in SenecaFalls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
 
 &emsp;(2) The Declaration of Sentiments approved by the 1848 Women's Rights Convention is a document of enduring relevance, which expresses the goal that equality and justice should be extended to all people without regard to sex.
 
@@ -126,7 +126,7 @@ Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par.
 
 1988—Subsec. (i). Pub. L. 100–475 substituted “$700,000” for “$490,000”.
 
-1984—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16East Williams Street” for “McClintock House, 16 East Williams Street”.
+1984—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
 
 Subsec. (d). Pub. L. 98–402, §1(b), substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
 

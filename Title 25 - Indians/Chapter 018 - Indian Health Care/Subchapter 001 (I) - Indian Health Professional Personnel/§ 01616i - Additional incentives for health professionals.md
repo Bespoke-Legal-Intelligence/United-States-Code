@@ -24,7 +24,3 @@ The Secretary may establish programs to allow the use of flexible work schedules
 
 Subsec. (e). Pub. L. 102–573, §117(b)(8), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1616j, 1621h of this title.
-

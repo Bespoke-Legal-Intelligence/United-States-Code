@@ -8,7 +8,3 @@ Notwithstanding any other provision of this chapter, the determination of the pr
 
 1981—Pub. L. 97–117 inserted provision that it is the policy of Congress that projects for wastewater treatment and management undertaken with Federal financial assistance under this chapter by any State, municipality, or intermunicipal or interstate agency be projects which, in the estimation of the State, are designed to achieve optimum water quality management, consistent with the public health and water quality goals and requirements of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1377, 1383, 1386 of this title.
-

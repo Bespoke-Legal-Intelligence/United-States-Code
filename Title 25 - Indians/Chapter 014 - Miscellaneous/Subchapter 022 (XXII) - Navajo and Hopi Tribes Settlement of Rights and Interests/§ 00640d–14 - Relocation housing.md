@@ -20,9 +20,9 @@ In implementing subsection (b) of this section, the Commissioner shall establish
 
 The Commissioner shall be responsible for the provision of housing for each household eligible for payments under this section in one of the following manners:
 
-&emsp;(1) Should any head of household apply for and become a participant or homebuyer in a mutual help housing or other homeownership opportunity project undertaken under the United States Housing Act of 1937 (50 Stat. 888) as amended \[42 U.S.C. 1437 et seq.\], or in any other federally assisted housing program nowor hereafter established, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to the local housing agency or sponsor involved as a voluntary equity payment and shall be credited against the outstanding indebtedness or purchase price of the household's home in the project in a manner which will accelerate to the maximum extent possible the achievement by that household of debt free homeownership.
+&emsp;(1) Should any head of household apply for and become a participant or homebuyer in a mutual help housing or other homeownership opportunity project undertaken under the United States Housing Act of 1937 (50 Stat. 888) as amended \[42 U.S.C. 1437 et seq.\], or in any other federally assisted housing program now or hereafter established, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to the local housing agency or sponsor involved as a voluntary equity payment and shall be credited against the outstanding indebtedness or purchase price of the household's home in the project in a manner which will accelerate to the maximum extent possible the achievement by that household of debt free homeownership.
 
-&emsp;(2) Should any head of household wish to purchase or have constructed a dwelling which the Commissioner determines is decent, safe, sanitary, and adequate to accommodate the household, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to such head of household in connection with such purchase or construction in a manner which the Commissioner determines will assure the use of the funds for such purpose.
+&emsp;(2) Should any head of household wish to purchase or have constructed a dwelling whichthe Commissioner determines is decent, safe, sanitary, and adequate to accommodate the household, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to such head of household in connection with such purchase or construction in a manner which the Commissioner determines will assure the use of the funds for such purpose.
 
 &emsp;(3) Should any head of household not make timely arrangements for relocation housing, or should any head of household elect and enter into an agreement to have the Commissioner construct or acquire a home for the household, the Commissioner may use the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section for the construction or acquisition (including enlargement or rehabilitation if necessary) of a home and related facilities for such household: <i>Provided</i>, That, the Commissioner may combine the funds for any number of such households into one or more accounts from which the costs of such construction or acquisition may be paid on a project basis and the funds in such account or accounts shall remain available until expended: <i>Provided further</i>, That the title to each home constructed or acquired by the Commissioner pursuant to this paragraph shall be vested in the head of the household for which it was constructed or acquired upon occupancy by such household, but this shall not preclude such home being located on land held in trust by the United States.
 
@@ -55,10 +55,6 @@ The United States Housing Act of 1937, referred to in subsec. (d)(1), is act Sep
 Subsec. (g). Pub. L. 100–666, §10, added subsec. (g).
 
 1980—Subsec. (f). Pub. L. 96–305 added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 640d–13, 640d–22, 640d–24, 640d–28 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

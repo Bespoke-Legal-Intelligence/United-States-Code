@@ -40,7 +40,7 @@
 
 (i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
 
-(2) Regulations under this subsection shall ensure that individuals required under subsection (g) to have an account at a financial institution because of the application of subsection (f)(1)—
+(2) Regulations under this subsection shall ensure that individuals required under subsection\(g) to have an account at a financial institution because of the application of subsection (f)(1)—
 
 &emsp;(A) will have access to such an account at a reasonable cost; and
 
@@ -161,8 +161,4 @@ Subsecs. (c) to (g). Pub. L. 98–369, §2814(b), struck out subsec. (c) which r
 #### Savings Provision
 
 Any waiver in effect on Oct. 5, 1999, under subsec. (f)(2)(A)(i) of this section to remain in effect until otherwise provided by the Secretary of Defense under section 2786 of Title 10, Armed Forces, see section 1008(a)(3) of Pub. L. 106–65, set out as a note under section 2786 of Title 10.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 1594, 2786.
 

@@ -15,10 +15,6 @@
 
 1998—Pub. L. 105–362, title XIII, §1302(b)(2)(B)(ii), Nov. 10, 1998, 112 Stat. 3293, added item 4705 and struck out former items 4705 “Reports” and 4706 “Regulations”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1103, 4801, 9507, 9701, 9902 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 
 

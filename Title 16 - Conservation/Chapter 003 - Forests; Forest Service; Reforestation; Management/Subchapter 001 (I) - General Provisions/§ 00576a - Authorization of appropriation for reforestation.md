@@ -4,7 +4,3 @@ There is authorized to be appropriated for each fiscal year after year ending Ju
 
 (June 9, 1930, ch. 416, §2, 46 Stat. 527.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 500, 576 of this title.
-

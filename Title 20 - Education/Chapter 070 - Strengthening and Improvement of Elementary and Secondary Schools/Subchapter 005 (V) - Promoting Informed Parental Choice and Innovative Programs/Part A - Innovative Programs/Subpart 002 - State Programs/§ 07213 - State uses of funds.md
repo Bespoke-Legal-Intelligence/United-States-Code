@@ -36,9 +36,5 @@ A prior section 7213, Pub. L. 89–10, title V, §5113, as added Pub. L. 103–3
 
 A prior section 5121 of Pub. L. 89–10 was classified to section 3191 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7211a of this title.
-
 <i><sup>1</sup></i><i> So in original. Pub. L. 89–10 does not contain a section 9507.</i>
 

@@ -22,7 +22,3 @@ An owner shall not be eligible to file a notice of intent under this section if 
 
 (Pub. L. 100–242, title II, §212, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4103, 4106, 4107, 4108, 4113 of this title.
-

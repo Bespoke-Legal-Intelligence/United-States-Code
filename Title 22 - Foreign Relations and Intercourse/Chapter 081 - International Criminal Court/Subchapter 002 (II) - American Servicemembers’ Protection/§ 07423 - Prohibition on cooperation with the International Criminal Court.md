@@ -42,7 +42,3 @@ No agent of the International Criminal Court may conduct, in the United States o
 
 (Pub. L. 107–206, title II, §2004, Aug. 2, 2002, 116 Stat. 902.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7422, 7430 of this title.
-

@@ -4,7 +4,3 @@ Not later than 3 fiscal years after October 27, 1992, the Secretary shall prepar
 
 (Pub. L. 102–543, §6, Oct. 27, 1992, 106 Stat. 3571.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 410yy–4, 410yy–8 of this title.
-

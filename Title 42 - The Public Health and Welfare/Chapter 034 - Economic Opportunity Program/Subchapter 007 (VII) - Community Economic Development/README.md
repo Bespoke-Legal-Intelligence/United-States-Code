@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—COMMUNITY ECONOMIC DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2707 of this title.
-
 
 ---
 

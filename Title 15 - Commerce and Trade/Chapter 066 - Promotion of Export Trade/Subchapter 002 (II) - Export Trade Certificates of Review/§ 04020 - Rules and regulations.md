@@ -12,7 +12,3 @@ This chapter, referred to in text, was in original “this Act”, meaning Pub. 
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4012, 4019 of this title.
-

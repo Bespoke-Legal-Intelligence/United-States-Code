@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions of recommendations
 
-If the Board of Trustees of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, or the Federal Supplementary Medical Insurance Trust Fund determines at any time that the balance ratio of any such Trust Fund for any calendaryear may become less than 20 percent, the Board shall promptly submit to each House of the Congress a report setting forth its recommendations for statutory adjustments affecting the receipts and disbursements of such Trust Fund necessary to maintain the balance ratio of such Trust Fund at not less than 20 percent, with due regard to the economic conditions which created such inadequacy in the balance ratio and the amount of time necessary to alleviate such inadequacy in a prudent manner. The report shall set forth specifically the extent to which benefits would have to be reduced, taxes under section 1401, 3101, or 3111 of the Internal Revenue Code of 1986 would have to be increased, or a combination thereof, in order to obtain the objectives referred to in the preceding sentence.
+If the Board of Trustees of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, the Federal Hospital Insurance Trust Fund, or the Federal Supplementary Medical Insurance Trust Fund determines at any time that the balance ratio of any such Trust Fund for any calendar year may become less than 20 percent, the Board shall promptly submit to each House of the Congress a report setting forth its recommendations for statutory adjustments affecting the receipts and disbursements of such Trust Fund necessary to maintain the balance ratio of such Trust Fund at not less than 20 percent, with due regard to the economic conditions which created such inadequacy in the balance ratio and the amount of time necessary to alleviate such inadequacy in a prudent manner. The report shall set forth specifically the extent to which benefits would have to be reduced, taxes under section 1401, 3101, or 3111 of the Internal Revenue Code of 1986 would have to be increased, or a combination thereof, in order to obtain the objectives referred to in the preceding sentence.
 
 #### (b) “Balance ratio” defined
 
@@ -33,8 +33,4 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 effective on first day of month following April 1986, see section 12115 of Pub. L. 99–272, set out as a note under section 415 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 909 of this title.
 

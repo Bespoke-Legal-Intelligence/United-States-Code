@@ -24,7 +24,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
 
-> the amount which the United States is entitled to recover under paragraph (1) with respect to a facility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly 90-day Treasury bill auction rate.
+> the amount which the United States is entitled to recover under paragraph (1) with respect to afacility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly 90-day Treasury bill auction rate.
 
 (B) The period referred to in subparagraph (A) is the period beginning—
 
@@ -48,7 +48,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(B) will meet the obligation of the facility under clause (i) of section 300s–1(b)(1)(K) of this title.
 
-(2) The Secretary may waive the recovery rights of the United States under subsection\(a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
+(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 
 #### (e) Lien
 

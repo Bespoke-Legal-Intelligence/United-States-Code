@@ -14,7 +14,3 @@ A sanctioning organization shall not be entitled to receive any compensation dir
 
 A prior section 12 of Pub. L. 104–272 was renumbered section 20 and is classified to section 6311 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6309 of this title.
-

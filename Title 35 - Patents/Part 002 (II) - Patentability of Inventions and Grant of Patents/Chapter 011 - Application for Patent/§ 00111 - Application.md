@@ -106,13 +106,9 @@ Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applic
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
+Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, setout as an Effective Date note under section 294 of this title.
 
 #### Emergency Relief From Postal Situation Affecting Patent, Trademark, and Other Federal Cases
 
 Pub. L. 92–34, June 30, 1971, 85 Stat. 87, provided that a patent or trademark application would be considered filed in the United States Patent Office on the date that it would have been received by the Patent Office except for the delay caused by emergency situation affecting postal service from Mar. 18, 1970 to Mar. 30, 1970, if a claim was made.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 122, 154 of this title.
 

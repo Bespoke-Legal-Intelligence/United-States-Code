@@ -28,7 +28,3 @@ Section 102(c) of Pub. L. 105–114 provided that: “Section 319 of title 38, U
 
 Section 102(b) of Pub. L. 105–114 provided that: “The Director of the Office of Employment Discrimination Complaint Adjudication of the Department of Veterans Affairs (established by section 319 of title 38, United States Code, as added by subsection (a)) shall submit to the Secretary of Veterans Affairs and to Congress reports on the implementation and the operation of that office. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 516 of this title.
-

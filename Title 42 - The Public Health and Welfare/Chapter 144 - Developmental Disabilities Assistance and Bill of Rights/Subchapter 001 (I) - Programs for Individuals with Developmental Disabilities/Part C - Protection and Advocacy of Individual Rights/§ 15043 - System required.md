@@ -16,13 +16,13 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;(B) have the authority to investigate incidents of abuse and neglect of individuals with developmental disabilities if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
-&emsp;&emsp;(C) on an annual basis, develop, submit to the Secretary, and take action with regard to goals (each of which is related to 1 or more areas of emphasis) and priorities, developed through data driven strategic planning, for the system's activities;
+&emsp;&emsp;(C) on an annual basis, develop, submit to the Secretary, and take action with regardto goals (each of which is related to 1 or more areas of emphasis) and priorities, developed through data driven strategic planning, for the system's activities;
 
 &emsp;&emsp;(D) on an annual basis, provide to the public, including individuals with developmental disabilities attributable to either physical impairment, mental impairment, or a combination of physical and mental impairment, and their representatives, and as appropriate, non-State agency representatives of the State Councils on Developmental Disabilities, and Centers, in the State, an opportunity to comment on—
 
 &emsp;&emsp;&emsp;(i) the goals and priorities established by the system and the rationale for the establishment of such goals; and
 
-&emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination of services with the entities carrying out advocacy programs under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.), and with entities carrying out other related programs, including the parent training and information centers funded under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and activities authorized under section 3011 or 3012 of title 29;
+&emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination of services with the entities carrying out advocacy programs under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.), and with entities carrying out other related programs, including the parent training and information centers funded under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and activities authorized under section 3003 or 3004 of title 29;
 
 &emsp;&emsp;(E) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with developmental disabilities have full access to services of the system;
 
@@ -72,7 +72,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;(3) to the extent that information is available, the State shall provide to the system—
 
-&emsp;&emsp;(A) a copy of each independent review, pursuant to section 1396a(a)(30)(C) of this title, of an Intermediate Care Facility (Mental Retardation) within the State, not later than30 days after the availability of such a review; and
+&emsp;&emsp;(A) a copy of each independent review, pursuant to section 1396a(a)(30)(C) of this title, of an Intermediate Care Facility (Mental Retardation) within the State, not later than 30 days after the availability of such a review; and
 
 &emsp;&emsp;(B) information about the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under section 1396n(c) of this title) receive; and
 
@@ -100,7 +100,7 @@ In this section, the term “record” includes—
 
 &emsp;(3) a discharge planning record.
 
-(Pub. L. 106–402, title I, §143, Oct. 30, 2000, 114 Stat. 1714.)
+(Pub. L. 106–402, title I, §143, Oct. 30, 2000, 114 Stat. 1714; Pub. L. 108–364, §3(a)(3), Oct. 25, 2004, 118 Stat. 1736.)
 
 #### References in Text
 
@@ -112,9 +112,9 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(D)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 15002, 15042, 15044, 15064 of this title.
+2004—Subsec. (a)(2)(D)(ii). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -130,17 +130,13 @@ Section 10002 of title I of Pub. L. 103–322 provided that: “The purposes of 
 
 &emsp;“(1) substantially increase the number of law enforcement officers interacting directly with members of the community (‘cops on the beat’);
 
-&emsp;“(2) provide additional and more effective training to law enforcement officers to enhance their problemsolving, service, and other skills needed in interacting with members of the community;
+&emsp;“(2) provide additional and more effective training to law enforcement officers to enhance their problem solving, service, and other skills needed in interacting with members of the community;
 
 &emsp;“(3) encourage the development and implementation of innovative programs to permit members of the community to assist State, Indian tribal government, and local law enforcement agencies in the prevention of crime in the community; and
 
 &emsp;“(4) encourage the development of new technologies to assist State, Indian tribal government, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime,
 
 > by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3793, 3796dd–1, 14071 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “year; and”.</i>
 

@@ -20,7 +20,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;(B) require that any payment on a loan expected to be necessary to make a payment of principal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
 
-&emsp;(4) prior to the making of any loan, provide for a credit review of the institution receiving the loan and assure the Secretary that, on the basis of such credit review, it is reasonable to anticipate that the institution receiving the loan will be able to repay the loan in a timely manner pursuant to the terms thereof;
+&emsp;(4) prior to the making of any loan, provide for a credit review of the institution receiving the loan and assure the Secretary that, on thebasis of such credit review, it is reasonable to anticipate that the institution receiving the loan will be able to repay the loan in a timely manner pursuant to the terms thereof;
 
 &emsp;(5) provide in each loan agreement with respect to a loan that, if a delinquency on such loan results in a funding under the insurance agreement, the institution obligated on such loan shall repay the Secretary, upon terms to be determined by the Secretary, for such funding;
 
@@ -48,7 +48,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 Any insurance agreement described in subsection (a) of this section shall provide as follows:
 
-&emsp;(1) The payment of principal and interest on bonds shall be insured by the Secretary untilsuch time as such bonds have been retired or canceled.
+&emsp;(1) The payment of principal and interest on bonds shall be insured by the Secretary until such time as such bonds have been retired or canceled.
 
 &emsp;(2) The Federal liability for delinquencies and default for bonds guaranteed under this part shall only become effective upon the exhaustion of all the funds held in the escrow account described in subsection (b)(8) of this section.
 
@@ -109,10 +109,6 @@ Subsec. (b)(11). Pub. L. 103–382, §360C(2), substituted “conditions” for 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1066a, 1066d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

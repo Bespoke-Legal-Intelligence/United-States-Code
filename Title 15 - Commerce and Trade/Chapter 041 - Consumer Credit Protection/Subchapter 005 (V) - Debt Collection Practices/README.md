@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—DEBT COLLECTION PRACTICES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1681m, 6822 of this title; title 31 section 3718.
-
 
 ---
 

@@ -42,7 +42,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 
 “(a)
 
-Acquisition.—The Secretary is authorized to acquire the McLoughlin House, from willing sellers only, by donation, purchase with donated or appropriatedfunds, or exchange, except that lands or interests in lands owned by the City may be acquired by donation only.
+Acquisition.—The Secretary is authorized to acquire the McLoughlin House, from willing sellers only, by donation, purchase with donated or appropriated funds, or exchange, except that lands or interests in lands owned by the City may be acquired by donation only.
 
 “(b)
 
@@ -59,8 +59,4 @@ Name Change.—Upon acquisition of the McLoughlin House, the Secretary shall cha
 “(e)
 
 Federal Laws.—After the McLoughlin House is acquired and added to Fort Vancouver National Historic Site, any reference in a law, map, regulation, document, paper, or other record of the United States to the ‘McLoughlin House National Historic Site’ (other than this Act) shall be deemed a reference to the ‘McLoughlin House’, a unit of Fort Vancouver National Historic Site.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450ff–1, 450ff–3 of this title.
 

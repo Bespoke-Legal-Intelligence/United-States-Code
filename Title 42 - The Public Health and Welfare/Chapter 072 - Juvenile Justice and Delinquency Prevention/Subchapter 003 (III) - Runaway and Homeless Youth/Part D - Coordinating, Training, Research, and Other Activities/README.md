@@ -1,9 +1,5 @@
 Part D—Coordinating, Training, Research, and Other Activities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5715, 5731a, 5732, 5751 of this title.
-
 
 ---
 

@@ -28,7 +28,3 @@ It is the purpose of this chapter—
 
 Section 1 of Pub. L. 96–366 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Fish and Wildlife Conservation Act of 1980’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2905 of this title.
-

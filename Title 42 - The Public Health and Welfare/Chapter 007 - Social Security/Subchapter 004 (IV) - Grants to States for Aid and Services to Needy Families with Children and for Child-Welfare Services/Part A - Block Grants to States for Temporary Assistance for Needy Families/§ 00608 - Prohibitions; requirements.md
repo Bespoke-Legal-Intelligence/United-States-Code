@@ -18,7 +18,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of providing assistance to a family under the State program funded under this part, that a member of the family assign to the State any rights the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so provided to the family, which accrue (or have accrued) before the date the family ceases to receive assistance under the program, which assignment, on and after such date, shall not apply with respect to any support (other than support collected pursuant to section 664 of this title) which accrued before the family received such assistance and which the State has not collected by—
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of providing assistance to a family under the State program funded under this part, that a member of the family assign to the State any rights the family member mayhave (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so provided to the family, which accrue (or have accrued) before the date the family ceases to receive assistance under the program, which assignment, on and after such date, shall not apply with respect to any support (other than support collected pursuant to section 664 of this title) which accrued before the family received such assistance and which the State has not collected by—
 
 &emsp;&emsp;&emsp;(i)(I) September 30, 2000, if the assignment is executed on or after October 1, 1997, and before October 1, 2000; or
 
@@ -70,11 +70,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the State agency determines that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the individual or the minor child referred to in subparagraph (A)(ii)(II)is being or has been subjected to serious physical or emotional harm, sexual abuse, or exploitation in the residence of the individual's own parent or legal guardian; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the individual or the minor child referred to in subparagraph (A)(ii)(II) is being or has been subjected to serious physical or emotional harm, sexual abuse, or exploitation in the residence of the individual's own parent or legal guardian; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) substantial evidence exists of an act or failure to act that presents an imminent or serious harm if the individual and the minor child lived in the same residence with the individual's own parent or legal guardian; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest of the minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
+&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest ofthe minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
 
 #### (iii) Second-chance home
 
@@ -200,7 +200,7 @@
 
 #### (A) Earnings from employment
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because ofsection 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title and which has a State plan approved under subchapter XIX of this chapter shall provide that in the case of a family that is treated (under section 1396u–1(b)(1)(A) of this title for purposes of subchapter XIX of this chapter) as receiving aid under a State plan approved under this part (as in effect on July 16, 1996), that would become ineligible for such aid because of hours of or income from employment of the caretaker relative (as defined under this part as in effect on such date) or because of section 602(a)(8)(B)(ii)(II) of this title (as so in effect), and that was so treated as receiving such aid in at least 3 of the 6 months immediately preceding the month in which such ineligibility begins, the family shall remain eligible for medical assistance under the State's plan approved under subchapter XIX of this chapter for an extended period or periods as provided in section 1396r–6 or 1396a(e)(1) of this title (as applicable), and that the family will be appropriately notified of such extension as required by section 1396r–6(a)(2) of this title.
 
 #### (B) Child support
 
@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642.)
 
 #### References in Text
 
@@ -420,7 +420,7 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 “(b)
 
-Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
+Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall takeeffect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
 
 \[Pub. L. 105–200, title IV, §410(e)(2), July 16, 1998, 112 Stat. 673, provided that: “The amendment made by paragraph (1) \[amending section 5557 of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 5557 of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 637).”\]
 
@@ -433,8 +433,4 @@ Section effective July 1, 1997, with transition rules relating to State options 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 602, 603, 609, 611, 652, 654, 664, 666 of this title; title 10 section 1408; title 11 section 523.
 

@@ -42,7 +42,3 @@ In subsec. (a)(1), “May 4, 1980” substituted for “the effective date of th
 
 A prior section 303 of Pub. L. 96–88 was renumbered section 302 and is classified to section 3443 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1067a of this title.
-

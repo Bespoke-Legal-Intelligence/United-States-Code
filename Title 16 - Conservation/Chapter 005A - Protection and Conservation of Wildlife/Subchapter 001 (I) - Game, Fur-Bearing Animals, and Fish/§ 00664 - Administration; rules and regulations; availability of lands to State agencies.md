@@ -14,7 +14,3 @@ Such areas as are made available to the Secretary of the Interior for the purpos
 
 See Transfer of Functions note set out under section 661 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 668ee, 696 of this title.
-

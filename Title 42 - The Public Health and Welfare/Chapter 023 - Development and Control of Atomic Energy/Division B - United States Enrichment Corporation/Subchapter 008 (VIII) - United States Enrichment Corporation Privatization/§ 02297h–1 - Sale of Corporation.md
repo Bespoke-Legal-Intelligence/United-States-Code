@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Board of Directors of the Corporation, with the approval of the Secretary of the Treasury, shall transfer the interest of the UnitedStates in the United States Enrichment Corporation to the private sector in a manner that provides for the long-term viability of the Corporation, provides for the continuation by the Corporation of the operation of the Department of Energy's gaseous diffusion plants, provides for the protection of the public interest in maintaining a reliable and economical domestic source of uranium mining, enrichment and conversion services, and, to the extent not inconsistent with such purposes, secures the maximum proceeds to the United States.
+The Board of Directors of the Corporation, with the approval of the Secretary of the Treasury, shall transfer the interest of the United States in the United States Enrichment Corporation to the private sector in a manner that provides for the long-term viability of the Corporation, provides for the continuation by the Corporation of the operation of the Department of Energy's gaseous diffusion plants, provides for the protection of the public interest in maintaining a reliable and economical domestic source of uranium mining, enrichment and conversion services, and, to the extent not inconsistent with such purposes, secures the maximum proceeds to the United States.
 
 #### (b) Proceeds
 
@@ -13,8 +13,4 @@ Proceeds from the sale of the United States’ interest in the Corporation shall
 #### Codification
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2297h–2 of this title.
 

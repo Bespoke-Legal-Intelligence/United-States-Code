@@ -24,7 +24,3 @@ Par. (1). Pub. L. 105–33, §5573(b), substituted “before the date on which t
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1612, 1622, 1631 of this title.
-

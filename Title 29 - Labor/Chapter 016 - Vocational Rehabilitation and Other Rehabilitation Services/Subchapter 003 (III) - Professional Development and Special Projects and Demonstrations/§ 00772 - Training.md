@@ -184,7 +184,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (A) Projects
 
-&emsp;&emsp;Subject to subparagraph (B), at least 15 percent of the sums appropriated to carry out this section shall be allocated to designated State agencies to be used, directly or indirectly, for projects for in-service training for rehabilitation personnel, consistent with the needs identified through the comprehensive system for personnel development required by section 721(a)(7) of this title, including projects designed—
+&emsp;&emsp;Subject to subparagraph (B), at least 15 percent of the sums appropriated to carryout this section shall be allocated to designated State agencies to be used, directly or indirectly, for projects for in-service training for rehabilitation personnel, consistent with the needs identified through the comprehensive system for personnel development required by section 721(a)(7) of this title, including projects designed—
 
 &emsp;&emsp;&emsp;(i) to address recruitment and retention of qualified rehabilitation professionals;
 
@@ -206,7 +206,7 @@ The Commissioner, subject to the provisions of section 776 of this title, may re
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
-(Pub. L. 93–112, title III, §302, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1184.)
+(Pub. L. 93–112, title III, §302, as added Pub. L. 105–220, title IV, §406, Aug. 7, 1998, 112 Stat. 1184; amended Pub. L. 108–446, title III, §305(h)(4), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
@@ -225,4 +225,8 @@ Provisions similar to this section were contained in section 771a of this title 
 A prior section 772, Pub. L. 93–112, title III, §303, formerly §302, Sept. 26, 1973, 87 Stat. 378; Pub. L. 93–516, title I, §105, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, §105, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§5, 11(b)(8), Mar. 15, 1976, 90 Stat. 212, 213; Pub. L. 95–602, title I, §§112(b), 122(c)(3), Nov. 6, 1978, 92 Stat. 2968, 2987; Pub. L. 98–221, title I, §132, Feb. 22, 1984, 98 Stat. 24; Pub. L. 99–506, title I, §103(d)(2)(C), title IV, §402, title X, §1001(d)(1), Oct. 21, 1986, 100 Stat. 1810, 1824, 1842; Pub. L. 100–630, title II, §204(b), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–52, §4(b), June 6, 1991, 105 Stat. 261; renumbered §303 and amended Pub. L. 102–569, title I, §102(p)(16), title III, §§301(b)(3), 303, Oct. 29, 1992, 106 Stat. 4358, 4411, 4416, related to vocational rehabilitation services for individuals with disabilities, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 A prior section 302 of Pub. L. 93–112 was classified to section 771a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
+
+#### Amendments
+
+2004—Subsec. (f)(1)(D)(ii). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1402 of title 20.
 

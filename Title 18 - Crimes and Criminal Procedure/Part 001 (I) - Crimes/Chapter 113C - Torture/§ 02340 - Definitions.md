@@ -14,11 +14,13 @@ As used in this chapter—
 
 &emsp;&emsp;(D) the threat that another person will imminently be subjected to death, severe physical pain or suffering, or the administration or application of mind-altering substances or other procedures calculated to disrupt profoundly the senses or personality; and
 
-&emsp;(3) “United States” includes all areas under the jurisdiction of the United States including any of the places described in sections 5 and 7 of this title and section 46501(2) of title 49.
+&emsp;(3) “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States.
 
-(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429, §2(2), Oct. 31, 1994, 108 Stat. 4377.)
+(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429, §2(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 108–375, div. A, title X, §1089, Oct. 28, 2004, 118 Stat. 2067.)
 
 #### Amendments
+
+2004—Par. (3). Pub. L. 108–375 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “ ‘United States’ includes all areas under the jurisdiction of the United States including any of the places described in sections 5 and 7 of this title and section 46501(2) of title 49.”
 
 1994—Par. (1). Pub. L. 103–415 substituted “within his custody” for “with custody”.
 
@@ -31,8 +33,4 @@ Section 506(c) of Pub. L. 103–236 provided that: “The amendments made by thi
 &emsp;“(1) the date of enactment of this Act \[Apr. 30, 1994\]; or
 
 &emsp;“(2) the date on which the United States has become a party to the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.” \[Convention entered into Force with respect to United States Nov. 20, 1994, Treaty Doc. 100–20.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 1111 of this title.
 

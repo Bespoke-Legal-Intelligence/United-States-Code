@@ -24,7 +24,3 @@ In the event that a provision of law described in subsection (b) of this section
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 252a of this title; title 10 sections 2302a, 2534.
-

@@ -32,15 +32,17 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 #### (d) Consideration of public comments by Attorney General and publication of response
 
-During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United Statesshall file with the district court and cause to be published in the Federal Register a response to such comments.
+During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments. Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.
 
 #### (e) Public interest determination
 
-Before entering any consent judgment proposed by the United States under this section, the court shall determine that the entry of such judgment is in the public interest. For the purpose of such determination, the court may consider—
+(1) Before entering any consent judgment proposed by the United States under this section, the court shall determine that the entry of such judgment is in the public interest. For the purpose of such determination, the court shall consider—
 
-&emsp;(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
+&emsp;(A) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration of relief sought, anticipated effects of alternative remedies actually considered, whether its terms are ambiguous, and any other competitive considerations bearing upon the adequacy of such judgment that the court deems necessary to a determination of whether the consent judgment is in the public interest; and
 
-&emsp;(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.
+&emsp;(B) the impact of entry of such judgment upon competition in the relevant market or markets, upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.
+
+(2) Nothing in this section shall be construed to require the court to conduct an evidentiary hearing or to require the court to permit anyone to intervene.
 
 #### (f) Procedure for public interest determination
 
@@ -58,7 +60,7 @@ In making its determination under subsection (e) of this section, the court may�
 
 #### (g) Filing of written or oral communications with the district court
 
-Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b) of this section, each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
+Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b) of this section, each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant orwhich the defendant reasonably should have known.
 
 #### (h) Inadmissibility as evidence of proceedings before the district court and the competitive impact statement
 
@@ -68,13 +70,23 @@ Proceedings before the district court under subsections (e) and (f) of this sect
 
 Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws and based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: <i>Provided, however</i>, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
 
-(Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Pub. L. 93–528, §2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, §302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, §5(a), Sept. 12, 1980, 94 Stat. 1157.)
+(Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Pub. L. 93–528, §2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, §302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, §5(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 108–237, title II, §221(b), June 22, 2004, 118 Stat. 668.)
 
 #### References in Text
 
 The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are defined in section 12 of this title.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–237, §221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.”
+
+Subsec. (e). Pub. L. 108–237, §221(b)(2), designated introductory provisions as par. (1), substituted “court shall” for “court may”, added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows:
+
+“(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
+
+“(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.”
+
+Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted “by any officer, director, employee, or agent of such defendant” before “, or other person” in first sentence.
 
 1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
 
@@ -91,4 +103,20 @@ Section 5(b) of Pub. L. 96–349 provided that: “The amendments made by this s
 #### Suspension of Limitation
 
 Act Oct. 10, 1942, ch. 589, 56 Stat. 781, as amended June 30, 1945, ch. 213, 59 Stat. 306, provided for the suspension of any existing statutes of limitations relating to violations of antitrust laws now indictable or subject to civil proceedings under any existing statutes, until June 30, 1946.
+
+#### Findings and Purposes of 2004 Amendment
+
+Pub. L. 108–237, title II, §221(a), June 22, 2004, 118 Stat. 668, provided that:
+
+“(1)
+
+Findings.—Congress finds that—
+
+&emsp;“(A) the purpose of the Tunney Act \[probably means section 2 of Pub. L. 93–528 which amended this section\] was to ensure that the entry of antitrust consent judgments is in the public interest; and
+
+&emsp;“(B) it would misconstrue the meaning and Congressional intent in enacting the Tunney Act to limit the discretion of district courts to review antitrust consent judgments solely to determining whether entry of those consent judgments would make a ‘mockery of the judicial function’.
+
+“(2)
+
+Purposes.—The purpose of this section \[amending this section\] is to effectuate the original Congressional intent in enacting the Tunney Act and to ensure that United States settlements of civil antitrust suits are in the public interest.”
 

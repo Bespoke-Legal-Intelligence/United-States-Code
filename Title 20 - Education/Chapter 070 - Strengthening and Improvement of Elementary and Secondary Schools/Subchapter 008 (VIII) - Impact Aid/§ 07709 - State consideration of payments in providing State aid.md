@@ -22,7 +22,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), a program of State aid equalizes expenditures among local educational agencies if, in the second fiscal year preceding the fiscal year for which thedetermination is made, the amount of per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the highest such per-pupil expenditures or revenues did not exceed the amount of such per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the lowest such expenditures or revenues by more than 25 percent.
+&emsp;&emsp;For purposes of paragraph (1), a program of State aid equalizes expenditures among localeducational agencies if, in the second fiscal year preceding the fiscal year for which the determination is made, the amount of per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the highest such per-pupil expenditures or revenues did not exceed the amount of such per-pupil expenditures made by, or per-pupil revenues available to, the local educational agency in the State with the lowest such expenditures or revenues by more than 25 percent.
 
 #### (B) Other factors
 
@@ -121,8 +121,4 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(3)\], stru
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7710 of this title.
 

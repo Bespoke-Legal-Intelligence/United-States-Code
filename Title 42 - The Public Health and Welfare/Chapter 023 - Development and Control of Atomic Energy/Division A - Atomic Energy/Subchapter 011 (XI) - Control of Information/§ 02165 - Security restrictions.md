@@ -96,7 +96,3 @@ Report.—(1) Not later than six months after the date of the enactment of this 
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2163, 2166, 2201, 2455 of this title; title 50 section 2653.
-

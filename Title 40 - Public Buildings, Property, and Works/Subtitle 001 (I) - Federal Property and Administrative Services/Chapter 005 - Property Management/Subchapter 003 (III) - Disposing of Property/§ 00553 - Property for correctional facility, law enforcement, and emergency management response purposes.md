@@ -22,7 +22,7 @@ No Monetary Consideration.—A transfer or conveyance under this section shall b
 
 Deed of Conveyance.—The deed of conveyance of any surplus real and related personal property disposed of under this section—
 
-&emsp;(1) shall provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if theproperty ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
+&emsp;(1) shall provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
 
 &emsp;(2) may contain additional terms, reservations, restrictions, and conditions that the Administrator determines are necessary to safeguard the interests of the Government.
 
@@ -55,8 +55,4 @@ In subsection (c), the text of 40:484(p)(1)(A) (last sentence) is omitted as exe
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
 

@@ -48,9 +48,5 @@ Amendment by Pub. L. 96–302 inapplicable to disasters commencing on or before 
 
 Pub. L. 95–507, §207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothing in this chapter \[meaning chapter 1 of title II of Pub. L. 95–507, consisting of sections 201–206 of Pub. L. 95–507 which amended sections 631, 633, 636, and 637 of this title\] is intended to duplicate or limit any programs or projects administered by the Department of Commerce.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 636 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -82,7 +82,3 @@ Amendment by Pub. L. 97–444 effective 120 days after Jan. 11, 1983, or such ea
 
 Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6m, 25 of this title.
-

@@ -14,7 +14,3 @@ After making a determination under subsection (a) of this section, the Commissio
 
 (Pub. L. 103–206, title VIII, §806, Dec. 20, 1993, 107 Stat. 2451.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5106 of this title.
-

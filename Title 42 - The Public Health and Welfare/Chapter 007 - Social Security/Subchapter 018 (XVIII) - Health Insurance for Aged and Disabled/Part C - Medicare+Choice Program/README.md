@@ -8,10 +8,6 @@ A prior part C of this subchapter, consisting of section 1395x et seq., was rede
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 299b–7, 1317, 1320b–5, 1320c–3, 1320d, 1395b–6, 1395b–8, 1395b–9, 1395<i>l</i>, 1395r, 1395w–4, 1395w–102, 1395w–104, 1395w–112, 1395w–113, 1395w–115, 1395w–131, 1395w–141, 1395w–151, 1395w–152, 1395cc, 1395cc–2, 1395cc–3, 1395ff, 1395mm, 1395nn, 1395ss, 1395ww, 1395eee, 1395ggg, 1396b, 1396r–8, 1396u–2, 1396u–4, 1396u–5 of this title; title 26 section 138.
-
 <i><sup>1</sup></i><i> So in original. No subpar. (F) has been enacted.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “elapsed”.</i>

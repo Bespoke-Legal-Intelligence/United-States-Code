@@ -52,9 +52,5 @@ A prior section 3796ee–5, Pub. L. 90–351, title I, §1806, as added Pub. L. 
 
 A prior section 1805 of Pub. L. 90–351 was classified to section 3796ee–4 of this title prior to the general amendment of this subchapter by Pub. L. 107–273.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796ee–7 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “specially”.</i>
 

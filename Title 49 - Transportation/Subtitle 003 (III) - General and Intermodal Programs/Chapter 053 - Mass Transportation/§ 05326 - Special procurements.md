@@ -20,7 +20,7 @@ Demonstrations.—To develop guidelines applying generally to turnkey system pro
 
 Multiyear Rolling Stock.—(1) A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.
 
-(2) The Secretary shall allow at least 2 recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
+(2) The Secretary shall allow at least 2 recipients to act on a cooperative basis to procurerolling stock in compliance with this subsection and other Government procurement requirements.
 
 (c)
 
@@ -97,8 +97,4 @@ Subsec. (d). Pub. L. 105–178, §3023(b), added subsec. (d).
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5334 of this title.
 

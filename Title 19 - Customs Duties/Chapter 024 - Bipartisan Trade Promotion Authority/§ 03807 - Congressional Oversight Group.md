@@ -24,7 +24,7 @@
 
 #### (4) Accreditation
 
-&emsp;Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(A) and (3)(A) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(B) and (3)(B) shall be accredited by the United States Trade Representative on behalf of the President as an officialadviser to the United States delegation in the negotiations by reason of which the member is in the Congressional Oversight Group. The Congressional Oversight Group shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
+&emsp;Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(A) and (3)(A) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(B) and (3)(B) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in the negotiations by reason of which the member is in the Congressional Oversight Group. The Congressional Oversight Group shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
 
 #### (5) Chair
 
@@ -63,10 +63,6 @@ Upon the request of a majority of the Congressional Oversight Group, the Preside
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3802, 3804, 3805, 3806, 3809 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

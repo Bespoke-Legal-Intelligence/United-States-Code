@@ -47,7 +47,7 @@
 | (d) | Compensation. |
 | [6633\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006633%20-%20Federal%20science%2C%20engineering%2C%20and%20technology%20survey%3B%20reports.md) | Federal science, engineering, and technology survey; reports. |
 | [6634\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006634%20-%20Continuation%20of%20Committee.md) | Continuation of Committee. |
-| [6635\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006635%20-%20Staff%20and%20consultant%20support.md) | Staff and consultant report. |
+| [6635\.](Subchapter%20003%20%28III%29%20-%20President%27s%20Committee%20on%20Science%20and%20Technology/%C2%A7%2006635%20-%20Staff%20and%20consultant%20support.md) | Staff and consultant support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -92,10 +92,6 @@
 | (b) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 30 sections 1602, 1604.
 
 
 ---

@@ -46,7 +46,3 @@ It is the policy of the United States that all programs, projects, and activitie
 
 For short title of this subchapter as the “Families of Children With Disabilities Support Act of 2000”, see section 201 of Pub. L. 106–402, set out as a note under section 15001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15098, 15100 of this title.
-

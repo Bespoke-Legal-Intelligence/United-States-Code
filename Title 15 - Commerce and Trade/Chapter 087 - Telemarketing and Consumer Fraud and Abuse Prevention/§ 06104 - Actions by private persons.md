@@ -26,7 +26,3 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 (Pub. L. 103–297, §5, Aug. 16, 1994, 108 Stat. 1549.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6105 of this title.
-

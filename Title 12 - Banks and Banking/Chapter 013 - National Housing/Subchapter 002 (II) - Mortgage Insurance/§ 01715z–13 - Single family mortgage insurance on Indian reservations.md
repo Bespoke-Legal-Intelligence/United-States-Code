@@ -8,11 +8,11 @@ The Secretary, subject to such special conditions as the Secretary may prescribe
 
 Notwithstanding any other provision of this chapter, with respect to mortgages covering a property upon which there is located a one- to four-family residence—
 
-&emsp;(1) the Secretary may insure and make commitments to insure under this subchapter pursuant to this section advances made during construction where the Secretary determines that the proposed construction is otherwise acceptable and meets an applicable tribal or national model building code, and that no feasible financing alternative is available;
+&emsp;(1) the Secretary may insure and make commitments to insure under this subchapter pursuant to this section advances made during construction where the Secretary determinesthat the proposed construction is otherwise acceptable and meets an applicable tribal or national model building code, and that no feasible financing alternative is available;
 
 &emsp;(2) the applicable percentage limitation on the amount of the principal obligation of a mortgage based on the appraised value or replacement cost, as appropriate, of a one- to four-family owner-occupied residence contained in this subchapter shall apply in the case of all mortgages insured pursuant to this section without regard to whether the residences are owner-occupied where the residences are owned by the tribe; and
 
-&emsp;(3)(A) the Secretary may require an Indian tribe, only as a condition of insurance made under this subchapter pursuant to this section, to pledge income from tribal resources or income from tribal assets not subject to a restriction by the Secretary of the Interior orpledge grants under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] or any other Federal grant program administered by the Secretary of Housing and Urban Development to be used to reimburse the Secretary for any mortgage insurance claims paid in connection with residences insured pursuant to this section; or
+&emsp;(3)(A) the Secretary may require an Indian tribe, only as a condition of insurance made under this subchapter pursuant to this section, to pledge income from tribal resources or income from tribal assets not subject to a restriction by the Secretary of the Interior or pledge grants under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] or any other Federal grant program administered by the Secretary of Housing and Urban Development to be used to reimburse the Secretary for any mortgage insurance claims paid in connection with residences insured pursuant to this section; or
 
 &emsp;(B) in the case of an individual Indian mortgagor, the Secretary may require a pledge of his or her share of distributed income from tribal resources or income from tribal assets, excluding any Federal grants received by the tribe.
 
@@ -46,13 +46,13 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 #### (h) Premium charge for insurance; report to Congress
 
-In the administration of this section, the Secretary shall establish a premium charge for insurance that will be sufficient to cover the full costs of the mortgage insurance program under this section, except that such charge may not exceed 3 percent per annum of the principal amount of the mortgage outstanding at any time. Not later than September 30, 1984, the Secretary shall determine and report to the Congress on the feasibility of eliminating any excess amount of the premium under this section over the premium under section 1709 of this title. In the event such premiums are not sufficient to cover the full costs of the mortgage insurance program under this section, the Secretary shall make recommendations to the Congress about changes to the program.
+In the administration of this section, the Secretary shall establish a premium charge for insurance that will be sufficient to cover the full costs of the mortgage insurance program under this section, except that such charge may notexceed 3 percent per annum of the principal amount of the mortgage outstanding at any time. Not later than September 30, 1984, the Secretary shall determine and report to the Congress on the feasibility of eliminating any excess amount of the premium under this section over the premium under section 1709 of this title. In the event such premiums are not sufficient to cover the full costs of the mortgage insurance program under this section, the Secretary shall make recommendations to the Congress about changes to the program.
 
 #### (i) “Indian tribe” and “trust or otherwise restricted land” defined
 
 For purposes of this section:
 
-&emsp;(1) The term “Indian tribe” means any Indian or Alaska native tribe, band, nation, or other organized group or community of Indians or Alaska natives recognized as eligible for the services provided to Indians or Alaskanatives by the Secretary of the Interior because of its status as such an entity, or that was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter.
+&emsp;(1) The term “Indian tribe” means any Indian or Alaska native tribe, band, nation, or other organized group or community of Indians or Alaska natives recognized as eligible for the services provided to Indians or Alaska natives by the Secretary of the Interior because of its status as such an entity, or that was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter.
 
 &emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
 
@@ -85,8 +85,4 @@ Subsecs. (h), (i). Pub. L. 100–242, §413(c)(2), redesignated former subsecs. 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1709 of this title.
 

@@ -56,7 +56,7 @@ Upon approving any application for a grant under subsection (b)(1)(B) of this se
 
 #### (f) Recordkeeping relating to grants; audits
 
-(1) Each recipient of a grant under this section shall keep such records as may be reasonably necessary to enable the Secretary to carry out the Secretary's functions under this section, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such grant, the total cost of the project, the amount and nature of that portion of the cost of the project supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of a grant under this section shall keep such records as may be reasonably necessary to enable the Secretary to carry out the Secretary's functions under this section, including records which fully disclose the amount and the disposition by such recipient of the proceeds of such grant, the total cost of the project, the amount and nature of that portion of the cost of the project supplied by other sources,and such other records as will facilitate an effective audit.
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purposes of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to a grant received under this section.
 
@@ -107,8 +107,4 @@ Section 202 of Pub. L. 101–437 provided that: “The Congress finds that—
 &emsp;“(5) educational television programming for children is aired too infrequently either because public broadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
 
 &emsp;“(6) the Federal Government can assist in the creation of children's educational television by establishing a National Endowment for Children's Educational Television to supplement the children's educational programming funded by other governmental entities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title.
 

@@ -88,7 +88,7 @@ In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma
 
 In subsection (c), the words “vote and” are omitted as surplus.
 
-In subsection (d), the words “officer or employee of the Administration” are substituted for “member” forclarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words“hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
 
 #### Amendments
 
@@ -103,8 +103,4 @@ Subsec. (d). Pub. L. 107–71, §140(b)(6), inserted “the Under Secretary,” 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40110 of this title.
 

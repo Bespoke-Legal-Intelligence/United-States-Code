@@ -10,7 +10,3 @@ For the purpose of carrying out the provisions of sections 18 to 18d of this tit
 
 1970—Pub. L. 91–549 substituted provisions authorizing appropriations of not more than $250,000 for fiscal year 1971 and not more than $750,000 for fiscal year 1972, for provisions which authorized appropriations of not more than $100,000 annually.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18a, 18b, 18c of this title.
-

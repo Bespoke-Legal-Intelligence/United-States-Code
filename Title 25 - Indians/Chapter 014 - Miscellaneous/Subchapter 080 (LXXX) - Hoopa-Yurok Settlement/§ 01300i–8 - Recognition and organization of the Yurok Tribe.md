@@ -58,9 +58,5 @@ The Indian Reorganization Act, referred to in subsecs. (a)(2) and (e), is act Ju
 
 1989—Subsec. (a)(3). Pub. L. 101–121 inserted provisions authorizing the Yurok Transition Team to receive grants and enter into contracts for the purpose of carrying out this section and section 1300i–9(a) of this title and directing that such grants and contracts be transferred to the Yurok Interim Council upon its organization.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1300i, 1300i–1, 1300i–5, 1300i–10, 1300i–11 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “tribal”.</i>
 

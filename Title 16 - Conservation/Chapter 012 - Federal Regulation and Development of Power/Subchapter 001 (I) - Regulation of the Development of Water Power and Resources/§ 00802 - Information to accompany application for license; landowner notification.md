@@ -32,9 +32,5 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 797 of this title.
-
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

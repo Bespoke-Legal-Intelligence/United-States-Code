@@ -14,7 +14,3 @@ The Commission may exempt any person from the application of subsection (a) of t
 
 (Pub. L. 107–204, title III, §304, July 30, 2002, 116 Stat. 778.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>l</i> of this title.
-

@@ -16,7 +16,7 @@ For purposes of this section, the term “supplemental security income benefits�
 
 #### (c) Reimbursement of the State
 
-From the amount of the reduction made under subsection (a) of this section, the Commissioner of Social Security shall reimburse the State on behalf of which supplementary payments were made for the amount (if any) by which such State's expenditures on account of such supplementary payments for the month or months involved exceeded the expenditures which the State would have made (for such month or months) if the individual had received the benefits under subchapter II of this chapter at the times they were regularly due. An amount equal to the portion of such reduction remaining after reimbursement of the State under the preceding sentence shall be covered into the general fund of the Treasury.
+From the amount of the reduction made under subsection (a) of this section, the Commissioner of Social Security shall reimburse the State on behalf of which supplementary payments were made for the amount (if any) by which such State's expenditures on account of such supplementary payments for the month or months involved exceeded the expenditures which the State would have made (for such month or months) if the individual had received the benefits under subchapter II of this chapter at thetimes they were regularly due. An amount equal to the portion of such reduction remaining after reimbursement of the State under the preceding sentence shall be covered into the general fund of the Treasury.
 
 (Aug. 14, 1935, ch. 531, title XI, §1127, as added Pub. L. 96–265, title V, §501(a), June 9, 1980, 94 Stat. 469; amended Pub. L. 98–369, div. B, title VI, §2615(a), July 18, 1984, 98 Stat. 1132; Pub. L. 101–508, title V, §5106(b), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(b)(8), title III, §321(f)(3)(B)(ii), Aug. 15, 1994, 108 Stat. 1483, 1542.)
 
@@ -51,8 +51,4 @@ Section 2615(b) of Pub. L. 98–369 provided that: “The amendment made by this
 #### Effective Date
 
 Section 501(d) of Pub. L. 96–265 provided that: “The amendments made by this section \[enacting this section and amending sections 404 and 1383 of this title\] shall be applicable in the case of payments of monthly insurance benefits under title II of the Social Security Act \[subchapter II of this chapter\] entitlement for which is determined on or after the first day of the thirteenth month which begins after the date of the enactment of this Act \[June 9, 1980\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 404, 406, 1383 of this title.
 

@@ -62,7 +62,7 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) of the NationalHighway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
+Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Pub. L. 105–178, title IV, §4027, June 9, 1998, 112 Stat. 417, provided that:
 
 “(a)
 
-Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System,analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
+Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System, analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
 
 “(b)
 
@@ -195,10 +195,6 @@ Funding.—From amounts set aside under section 104(a) of title 23, United State
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
 For provisions relating to exemptions from regulations prescribed under this section as to maximum driving and on-duty time for drivers used by motor carriers, see section 345 of Pub. L. 104–59, set out as a note under section 31136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 507, 521, 526, 31504 of this title; title 15 section 1681b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

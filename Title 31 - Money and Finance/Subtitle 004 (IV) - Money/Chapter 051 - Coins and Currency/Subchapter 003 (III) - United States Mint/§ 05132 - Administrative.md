@@ -6,7 +6,7 @@
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
-&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made ofan alloy of 90 percent silver and 10 percent copper; and
+&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
 
 &emsp;(ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 
@@ -143,8 +143,4 @@ Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub.
 #### Termination of Numismatic Public Enterprise Fund
 
 All assets and liabilities of Numismatic Public Enterprise Fund transferred to United States Mint Public Enterprise Fund and Numismatic Public Enterprise Fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5112 of this title.
 

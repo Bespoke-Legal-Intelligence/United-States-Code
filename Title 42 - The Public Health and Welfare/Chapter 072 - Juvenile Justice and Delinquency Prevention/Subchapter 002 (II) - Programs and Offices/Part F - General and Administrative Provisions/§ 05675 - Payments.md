@@ -6,7 +6,7 @@ Payments under this subchapter, pursuant to a grant or contract, may be made (af
 
 #### (b) Percentage of approved costs
 
-Except as provided in the second sentence of section 5632(c) of this title, financial assistance extended under this subchapter shall be 100 per centum of the approved costs of the program or activity involved.
+Except as provided in the second sentence of section 5632(c) of this title, financial assistance extended under this subchapter shall be 100 percentum of the approved costs of the program or activity involved.
 
 #### (c) Increase of grants to Indian tribes; waiver of liability
 

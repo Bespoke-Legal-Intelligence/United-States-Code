@@ -12,7 +12,3 @@ Whoever, except as authorized under rules and regulations issued by the Secretar
 
 For description of character of “Woodsy Owl” as referred to in this section, see section 580p of Title 16, Conservation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 sections 580p, 580p–3.
-

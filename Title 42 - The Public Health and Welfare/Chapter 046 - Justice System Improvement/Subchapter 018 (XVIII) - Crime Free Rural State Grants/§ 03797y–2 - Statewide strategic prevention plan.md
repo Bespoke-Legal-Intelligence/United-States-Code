@@ -18,7 +18,3 @@ The rural State shall form a State crime free communities commission that includ
 
 (Pub. L. 90–351, title I, §2987, as added Pub. L. 107–273, div. C, title I, §11027(b), Nov. 2, 2002, 116 Stat. 1834.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3797y–1 of this title.
-

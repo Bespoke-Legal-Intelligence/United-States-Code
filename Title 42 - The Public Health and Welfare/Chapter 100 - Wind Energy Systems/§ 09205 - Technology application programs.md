@@ -40,7 +40,7 @@ In carrying out his duties under this chapter, the Secretary shall, within six m
 
 (1) In carrying out his duties under this chapter, the Secretary is authorized to provide funds for the accelerated procurement and installation of small and large wind energy systems by Federal agencies.
 
-(2) The Secretary is authorized to enter into arrangements with appropriate Federal agencies, including the Water and Power Resources Services and the Federal power marketing agencies for large wind energy systems, to carry out such projects and activities as may be appropriate for the broad technology applications of small and large wind energy systems which are suitable and effective for use by such Federal agencies.
+(2) The Secretary is authorized to enter into arrangements with appropriate Federal agencies, including the Water and Power Resources Services and the Federal power marketing agencies for large wind energy systems, to carry out such projects and activities as may be appropriate for the broad technology applications of small and large wind energy systems which aresuitable and effective for use by such Federal agencies.
 
 #### (h) Observation, monitoring, and reporting requirements; public inspection
 
@@ -55,8 +55,4 @@ New Federal assistance for technology applications systems shall terminate upon 
 #### References in Text
 
 Section 1962d–17 of this title, referred to in subsec. (f)(3), was in the original “section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a))”. Section 80 of the Water Resources Development Act of 1974 is classified to section 1962d–17 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9203, 9207 of this title.
 

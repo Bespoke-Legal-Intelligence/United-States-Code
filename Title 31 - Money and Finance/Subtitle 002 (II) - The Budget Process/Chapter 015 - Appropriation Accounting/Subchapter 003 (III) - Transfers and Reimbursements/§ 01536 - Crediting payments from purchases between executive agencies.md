@@ -38,7 +38,3 @@ June 30, 1932, ch. 314, §602(c)(related to §601), 47 Stat. 418.
 
 In subsection (b), the words “providing goods or services” are substituted for “furnishing the materials, supplies, or equipment, or in performing the work or services” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 2 sections 142j, 1151, 1385; title 10 section 2205; title 16 section 825k; title 29 section 563a; title 38 section 1720A; title 40 sections 3134, 3176; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
-

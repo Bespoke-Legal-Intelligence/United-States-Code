@@ -12,7 +12,3 @@ Based on 44 U.S. Code, 1964 ed., §211 (Jan. 12, 1895, ch. 23, §88, 28 Stat. 62
 
 Section constitutes part of section 88 of act Jan. 12, 1895. Remainder of section is classified to section 1713 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

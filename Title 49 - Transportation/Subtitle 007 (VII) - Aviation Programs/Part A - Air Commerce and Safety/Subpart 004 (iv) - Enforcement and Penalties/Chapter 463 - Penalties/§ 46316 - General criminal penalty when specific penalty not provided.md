@@ -2,7 +2,7 @@
 
 (a)
 
-Criminal Penalty.—Except as provided by subsection (b) of this section, when another criminal penalty is not provided under this chapter, a person that knowingly and willfully violates this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) under this part, or any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title shall be fined under title 18. A separate violation occurs for each day the violation continues.
+Criminal Penalty.—Except as provided by subsection (b) of this section, when anothercriminal penalty is not provided under this chapter, a person that knowingly and willfully violates this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) under this part, or any term of a certificate or permit issued under section 41102, 41103, or 41302 of this title shall be fined under title 18. A separate violation occurs for each day the violation continues.
 
 (b)
 
@@ -69,8 +69,4 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

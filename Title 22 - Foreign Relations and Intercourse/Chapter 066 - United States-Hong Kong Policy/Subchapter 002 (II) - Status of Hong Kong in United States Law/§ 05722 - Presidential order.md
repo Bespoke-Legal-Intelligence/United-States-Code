@@ -18,7 +18,3 @@ An Executive order issued under subsection (a) of this section may be terminated
 
 (Pub. L. 102–383, title II, §202, Oct. 5, 1992, 106 Stat. 1453.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5721, 5731 of this title.
-

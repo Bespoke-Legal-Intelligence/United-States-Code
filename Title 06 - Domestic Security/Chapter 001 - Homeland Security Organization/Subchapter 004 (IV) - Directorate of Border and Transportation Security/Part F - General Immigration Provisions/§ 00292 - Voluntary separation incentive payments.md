@@ -88,7 +88,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (e) Effect of subsequent employment with the Government
 
-An individual who receives a voluntary separation incentive payment under this section and who, within 5 years after the date of the separation on which the payment is based, accepts anycompensated employment with the Government or works for any agency of the Government through a personal services contract, shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment. Such payment shall be made to the covered entity from which the individual separated or, if made on or after the transfer date, to the Deputy Secretary or the Under Secretary for Border and Transportation Security (for transfer to the appropriate component of the Department of Homeland Security, if necessary).
+An individual who receives a voluntary separation incentive payment under this section and who, within 5 years after the date of the separation on which the payment is based, accepts any compensated employment with the Government or works for any agency of the Government through a personal services contract, shall be required to pay, prior to the individual's first day of employment, the entire amount of the incentive payment. Such payment shall be made to the covered entity from which the individual separated or, if made on or after the transfer date, to the Deputy Secretary or the Under Secretary for Border and Transportation Security (for transfer to the appropriate component of the Department of Homeland Security, if necessary).
 
 #### (f) Effect on employment levels
 
@@ -108,9 +108,7 @@ Section 663 of Public Law 104–208, referred to in subsecs. (a)(1) and (b)(3), 
 
 #### Change of Name
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 Bureau of Border Security, referred to in subsec. (a)(2)(B), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 293 of this title.
 

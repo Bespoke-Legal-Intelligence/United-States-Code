@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—NATIONAL EDUCATION GOALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5801, 5802, 5881, 6102 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

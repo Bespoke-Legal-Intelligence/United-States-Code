@@ -34,7 +34,7 @@ Pub. L. 107–135, title I, §102(e), Jan. 23, 2002, 115 Stat. 2449, provided th
 
 “(1) Notwithstanding section 7682(c) of title 38, United States Code, the Secretary of Veterans Affairs may treat a covered individual as being a recently appointed employee in the Veterans Health Administration under section 7682(a) of that title for purposes of eligibility in the Education Debt Reduction Program if the Secretary determines that the participation of the individual in the Program under this subsection would further the purposes of the Program.
 
-“(2) For purposes of this subsection, a covered individual is any individual otherwise described by section7682(a) of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 23, 2002\], who—
+“(2) For purposes of this subsection, a covered individual is any individual otherwise described by section 7682(a) of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 23, 2002\], who—
 
 &emsp;“(A) was appointed as an employee in a position described in paragraph (1) of that section, as so in effect, between January 1, 1999, and December 31, 2001; and
 
@@ -45,8 +45,4 @@ Pub. L. 107–135, title I, §102(e), Jan. 23, 2002, 115 Stat. 2449, provided th
 “(4) The Secretary may not exercise the authority in this subsection after June 30, 2002. The expiration of the authority in this subsection shall not affect the treatment of an individual under this subsection before that date as a covered individual for purposes of eligibility in the Education Debt Reduction Program.
 
 “(5) In this subsection, the term ‘Education Debt Reduction Program’ means the Department of Veterans Affairs Education Debt Reduction Program under subchapter VII of chapter 76 of title 38, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7683 of this title.
 

@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §654 (R.S. §5273).
 
 Changes in phraseology only were made.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4114 of this title.
-

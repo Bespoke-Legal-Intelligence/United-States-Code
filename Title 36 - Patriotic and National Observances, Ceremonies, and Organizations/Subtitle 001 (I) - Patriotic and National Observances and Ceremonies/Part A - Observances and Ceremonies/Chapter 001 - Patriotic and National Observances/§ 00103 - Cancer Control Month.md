@@ -10,7 +10,7 @@ General.—The President is requested—
 
 (b)
 
-Contents of Proclamations.—As part of those proclamations, the chief executive officers and President are requested to invite the medical profession, the press, and all agencies and individuals interested in a national program for the control of cancer by education and other cooperative means to unite during Cancer ControlMonth in a public dedication to the program and in a concerted effort to make the people of the United States aware of the need for the program.
+Contents of Proclamations.—As part of those proclamations, the chief executive officers and President are requested to invite the medical profession, the press, and all agencies and individuals interested in a national program for the control of cancer by education and other cooperative means to unite during Cancer Control Month in a public dedication to the program and in a concerted effort to make the people of the United States aware of the need for the program.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1255.)
 

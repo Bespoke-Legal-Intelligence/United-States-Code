@@ -24,9 +24,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of President under subsec. (b) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(a)(1)(B) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54766, set out as a note under section 1321 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 9509.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

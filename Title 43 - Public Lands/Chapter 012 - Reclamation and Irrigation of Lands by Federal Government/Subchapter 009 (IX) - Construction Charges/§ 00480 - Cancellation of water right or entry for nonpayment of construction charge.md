@@ -4,7 +4,3 @@ If any water-right applicant or entryman shall be one year in default in the pay
 
 (Aug. 13, 1914, ch. 247, §3, 38 Stat. 687.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469, 481, 511 of this title.
-

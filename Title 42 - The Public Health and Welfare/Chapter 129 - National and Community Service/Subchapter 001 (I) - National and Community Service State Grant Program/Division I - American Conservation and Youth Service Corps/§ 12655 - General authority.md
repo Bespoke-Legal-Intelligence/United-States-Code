@@ -22,9 +22,5 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 For short title of subtitle I of title I of Pub. L. 101–610 which enacted this division, as the American Conservation and Youth Service Corps Act of 1990, see section 199 of Pub. L. 101–610, set out as a note under section 12501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12655b of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

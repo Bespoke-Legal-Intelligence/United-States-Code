@@ -1,9 +1,5 @@
 Part A—Determination of Benefits
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1381a of this title.
-
 
 ---
 

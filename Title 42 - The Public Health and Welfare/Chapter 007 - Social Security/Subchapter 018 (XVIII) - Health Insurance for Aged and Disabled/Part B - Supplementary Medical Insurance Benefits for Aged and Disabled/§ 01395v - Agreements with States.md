@@ -12,7 +12,7 @@ An agreement entered into with any State pursuant to subsection (a) of this sect
 
 &emsp;(2) individuals receiving money payments under all of the plans of such State approved under subchapters I, X, XIV, and XVI of this chapter, and part A of subchapter IV of this chapter.
 
-> Except as provided in subsection (g) of this section, there shall be excluded from any coverage group any individual who is entitled to monthlyinsurance benefits under subchapter II of this chapter or who is entitled to receive an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]. Effective January 1, 1974, and subject to section 1396a(f) of this title, the Secretary shall, at the request of any State not eligible to participate in the State plan program established under subchapter XVI of this chapter, continue in effect the agreement entered into under this section with such State subject to such modifications as the Secretary may by regulations provide to take account of the termination of any plans of such State approved under subchapters I, X, XIV, and XVI of this chapter and the establishment of the supplemental security income program under subchapter XVI of this chapter.
+> Except as provided in subsection (g) of this section, there shall be excluded from any coverage group any individual who is entitled to monthly insurance benefits under subchapter II of this chapter or who is entitled to receive an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]. Effective January 1, 1974, and subject to section 1396a(f) of this title, the Secretary shall, at the request of any State not eligible to participate in the State plan program established under subchapter XVI of this chapter, continue in effect the agreement entered into under this section with such State subject to such modifications as the Secretary may by regulations provide to take account of the termination of any plans of such State approved under subchapters I, X, XIV, and XVI of this chapter and the establishment of the supplemental security income program under subchapter XVI of this chapter.
 
 #### (c) Eligible individuals
 
@@ -177,8 +177,4 @@ Section 947(e) of Pub. L. 96–499 provided that: “The coverage period under p
 #### District of Columbia; Agreement of Commissioner With Secretary for Supplementary Medical Insurance
 
 Pub. L. 90–227, §2, Dec. 27, 1967, 81 Stat. 745, provided that: “The Commissioner \[now Mayor of District of Columbia\] may enter into an agreement (and any modifications of such agreement) with the Secretary under section 1843 of the Social Security Act \[this section\] pursuant to which (1) eligible individuals (as defined in section 1836 of the Social Security Act) \[section 1395<i>o</i> of this title\] who are eligible to receive medical assistance under the District of Columbia's plan for medical assistance approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\] will be enrolled in the supplementary medical insurance program established under part B of title XVIII of the Social Security Act \[this part\], and (2) provisions will be made for payment of the monthly premiums of such individuals for such program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395i–2, 1395q, 1395s, 1396a, 1396u–5 of this title.
 

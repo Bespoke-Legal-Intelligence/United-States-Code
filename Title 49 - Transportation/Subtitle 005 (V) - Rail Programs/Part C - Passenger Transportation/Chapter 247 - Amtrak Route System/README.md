@@ -14,10 +14,6 @@
 
 1997—Pub. L. 105–134, title I, §§101(a)(2), (b), (d), (e), 103–105(a), Dec. 2, 1997, 111 Stat. 2572, 2573, substituted “National rail passenger transportation system” for “Operation of basic system” in item 24701 and struck out item 24702 “Improving rail passenger transportation”, item 24703 “Route and service criteria”, item 24704 “Transportation requested by States, authorities, and other persons”, item 24705 “Additional qualifying routes”, item 24707 “Cost and performance review”, and item 24708 “Special commuter transportation”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 24104, 24902 of this title.
-
 
 ---
 

@@ -32,7 +32,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (2) Response
 
-&emsp;The Secretary shall, not later than the expiration of the 45-day period beginning upon the submission of a request for approval, approve the request or submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report explaining the reasons for not approving the request. The Secretary may extend such period for a single additional 15-day period only if the Secretary requests additional information from the enterprise.
+&emsp;The Secretary shall, not later than the expiration of the 45-day period beginning upon the submission of a request for approval, approve the request or submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committeeon Banking, Housing, and Urban Affairs of the Senate a report explaining the reasons for not approving the request. The Secretary may extend such period for a single additional 15-day period only if the Secretary requests additional information from the enterprise.
 
 #### (3) Failure to respond
 
@@ -53,10 +53,6 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1454, 1717, 4617 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

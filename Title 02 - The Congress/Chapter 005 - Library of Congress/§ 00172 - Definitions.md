@@ -8,7 +8,3 @@ As used in sections 171 to 175 of this title—
 
 (Pub. L. 95–129, §2, Oct. 13, 1977, 91 Stat. 1151.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 171 of this title.
-

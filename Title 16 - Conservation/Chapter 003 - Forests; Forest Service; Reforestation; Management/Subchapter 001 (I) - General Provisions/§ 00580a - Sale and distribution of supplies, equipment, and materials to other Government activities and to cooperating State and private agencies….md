@@ -1,6 +1,6 @@
 ### §580a. Sale and distribution of supplies, equipment, and materials to other Government activities and to cooperating State and private agencies; reimbursement
 
-The Forest Service may sell and distribute supplies, equipment, and materials to other Government activities and to State and private agencies who cooperate with the Forest Service in fire control under terms of written cooperative agreements, the cost of such supplies, equipment, and materials, including the cost of supervision, transportation, warehousing, and handling, to be reimbursed to appropriations current at the time additional supplies, equipment, and materials are procured for warehouse stocks.
+The Forest Service may sell and distribute supplies, equipment, and materials to otherGovernment activities and to State and private agencies who cooperate with the Forest Service in fire control under terms of written cooperative agreements, the cost of such supplies, equipment, and materials, including the cost of supervision, transportation, warehousing, and handling, to be reimbursed to appropriations current at the time additional supplies, equipment, and materials are procured for warehouse stocks.
 
 (Sept. 21, 1944, ch. 412, title II, §203, 58 Stat. 736.)
 
@@ -37,8 +37,4 @@ Mar. 26, 1934, ch. 89, title I, 48 Stat. 481.
 Mar. 3, 1933, ch. 203, 47 Stat. 1447.
 
 July 7, 1932, ch. 443, 47 Stat. 625.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 525.
 

@@ -1,6 +1,6 @@
 ### §2153e. Protection of environment
 
-The President shall endeavor to provide in any agreement entered into pursuant to section 2153of this title for cooperation between the parties in protecting the international environment from radioactive, chemical or thermal contamination arising from peaceful nuclear activities.
+The President shall endeavor to provide in any agreement entered into pursuant to section 2153 of this title for cooperation between the parties in protecting the international environment from radioactive, chemical or thermal contamination arising from peaceful nuclear activities.
 
 (Pub. L. 95–242, title IV, §407, Mar. 10, 1978, 92 Stat. 148.)
 
@@ -19,8 +19,4 @@ Secretary of State responsible for performing functions vested in President unde
 #### Performance of Functions Pending Development of Procedures
 
 The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2153e–1 of this title.
 

@@ -24,6 +24,8 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances of such person's presence in the United States indicate that such person may engage in such activities in the United States, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities; or
 
+&emsp;&emsp;&emsp;(C) engages in international terrorism or activities in preparation therefore; or
+
 &emsp;&emsp;(2) any person who—
 
 &emsp;&emsp;&emsp;(A) knowingly engages in clandestine intelligence gathering activities for or on behalf of a foreign power, which activities involve or may involve a violation of the criminal statutes of the United States;
@@ -82,7 +84,7 @@ As used in this subchapter:
 
 &emsp;(h) “Minimization procedures”, with respect to electronic surveillance, means—
 
-&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
+&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance,to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
 &emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1) of this section, shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
 
@@ -104,9 +106,15 @@ As used in this subchapter:
 
 &emsp;(<i>o</i>) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and any territory or possession of the United States.
 
-(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403.)
+(Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
 
 #### Amendments
+
+2004—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
 
 2001—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted “, but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18” before semicolon at end.
 
@@ -114,17 +122,21 @@ Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted “72 hours” for �
 
 1999—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
 
+#### Termination Date of 2004 Amendment
+
+Pub. L. 108–458, title VI, §6001(b), Dec. 17, 2004, 118 Stat. 3742, provided that: “The amendment made by subsection (a) \[amending this section\] shall be subject to the sunset provision in section 224 of Public Law 107–56 \[18 U.S.C. 2510 note\] (115 Stat. 295), including the exception provided in subsection (b) of such section 224.”
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided in part that the amendment made by section 314(c)(2) of Pub. L. 107–108 is effective as of Oct. 26, 2001, and as if included in Pub. L. 107–56 as originally enacted.
 
 #### Effective Date; Exception
 
-Pub. L. 95–511, title VI, §601, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
+Pub. L. 95–511, title VII, §701, formerly title III, §301, Oct. 25, 1978, 92 Stat. 1798, as renumbered title IV, §401, and amended by Pub. L. 103–359, title VIII, §807(a)(1), (2), Oct. 14, 1994, 108 Stat. 3443; renumbered title VI, §601, and amended Pub. L. 105–272, title VI, §§601(1), 603(a), Oct. 20, 1998, 112 Stat. 2404, 2412; renumbered title VII, §701, Pub. L. 108–458, title VI, §6002(a)(1), Dec. 17, 2004, 118 Stat. 3743, provided that: “The provisions of this Act \[enacting this chapter, amending sections 2511, 2518, and 2519 of Title 18, Crimes and Criminal Procedure, and enacting provision set out as a note below\] (other than titles III, IV, and V \[enacting subchapters II, III, and IV, respectively, of this chapter\]) and the amendments made hereby shall become effective upon the date of enactment of this Act \[Oct. 25, 1978\], except that any electronic surveillance approved by the Attorney General to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of this Act, if that surveillance is terminated or an order approving that surveillance is obtained under title I of this Act \[enacting this subchapter\] within ninety days following the designation of the first judge pursuant to section 103 of this Act \[section 1803 of this title\].”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–567, title VI, §601, Dec. 27, 2000, 114 Stat. 2850, provided that: “This title \[enacting section 9A of the Classified Information Procedures Act, set out in the Appendix to Title 18, Crimes and Criminal Procedure, amending sections 402a, 1804, 1805, 1808, 1823, and 1824 of this title, and enacting provisions set out as notes under this section and section 1806 of this title\] may be cited as the ‘Counterintelligence Reform Act of 2000’.”
+Pub. L. 106–567, title VI, §601, Dec. 27, 2000, 114 Stat. 2850, provided that: “This title \[enacting section 9A ofthe Classified Information Procedures Act, set out in the Appendix to Title 18, Crimes and Criminal Procedure, amending sections 402a, 1804, 1805, 1808, 1823, and 1824 of this title, and enacting provisions set out as notes under this section and section 1806 of this title\] may be cited as the ‘Counterintelligence Reform Act of 2000’.”
 
 #### Short Title
 
@@ -137,8 +149,4 @@ Pub. L. 106–567, title VI, §608, Dec. 27, 2000, 114 Stat. 2856, provided that
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841 of this title; title 7 section 8401; title 18 sections 794, 2511; title 22 section 1442a; title 42 sections 262a, 10603b.
 

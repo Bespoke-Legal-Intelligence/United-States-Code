@@ -24,7 +24,3 @@ Final action by the Commission on a request for approval of guidelines, or the f
 
 (Pub. L. 105–277, div. C, title XIII, §1304, Oct. 21, 1998, 112 Stat. 2681–732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6502 of this title.
-

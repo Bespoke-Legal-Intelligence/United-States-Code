@@ -34,7 +34,3 @@ Stationing of Officers.—The Under Secretary may allow law enforcement personne
 
 (Added Pub. L. 108–7, div. I, title III, §351(a), Feb. 20, 2003, 117 Stat. 419.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44940 of this title.
-

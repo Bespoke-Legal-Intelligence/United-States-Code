@@ -76,7 +76,3 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 Section 112(b) of Pub. L. 105–115 provided that: “Within 1 year after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue guidance for fast track products (as defined in section 506(a)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(1)\]) that describes the policies and procedures that pertain to section 506 of such Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 356–1, 356b of this title; title 15 section 1459; title 42 section 1396r–8.
-

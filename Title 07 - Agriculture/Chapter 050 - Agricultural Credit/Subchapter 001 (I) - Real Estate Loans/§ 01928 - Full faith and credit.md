@@ -38,7 +38,3 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 1962—Pub. L. 87–798 increased aggregate amount of loans that may be insured in any one year from $150,000,000 to $200,000,000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 section 488; title 42 section 1485.
-

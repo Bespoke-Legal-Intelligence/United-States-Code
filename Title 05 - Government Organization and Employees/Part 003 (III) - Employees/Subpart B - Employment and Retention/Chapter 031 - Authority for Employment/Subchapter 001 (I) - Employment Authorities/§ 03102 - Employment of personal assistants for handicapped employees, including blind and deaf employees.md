@@ -54,7 +54,7 @@ Historical and Revision Notes
 
 Aug. 29, 1962, Pub. L. 87–614, 76 Stat. 408.
 
-In subsection (a)(1), the word “agency” is substituted for “department”. The words “Executive agency” are coextensive with and substituted for “each executive department of the Federal Government, each agency or independent establishment in the executive branch of such Government, each corporation wholly owned or controlled by such Government, and the General Accounting Office” in view of the definition of “Executive agency” in section 105.
+In subsection (a)(1), the word “agency” is substituted for “department”. The words “Executive agency” are coextensive with and substituted for “each executive department of the Federal Government, each agency or independent establishment in the executive branch ofsuch Government, each corporation wholly owned or controlled by such Government, and the General Accounting Office” in view of the definition of “Executive agency” in section 105.
 
 In subsection (a)(3), the words “individual employed” are substituted for “employee” so as to include individuals employed by the government of the District of Columbia who are not employees as defined by section 2105.
 
@@ -105,8 +105,4 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 604; title 38 section 7281; title 39 section 410.
 

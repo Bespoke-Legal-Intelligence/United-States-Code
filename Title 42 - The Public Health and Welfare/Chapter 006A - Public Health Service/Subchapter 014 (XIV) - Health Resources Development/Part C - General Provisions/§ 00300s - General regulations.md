@@ -24,15 +24,11 @@ The Secretary shall by regulation—
 
 #### Prior Provisions
 
-A prior section 300s, act July 1, 1944, ch. 373, title XVI, §1630, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2269, provided for judicial review by the UnitedStates Court of Appeals, prior to repeal by Pub. L. 96–79, §202(b), eff. Oct. 1, 1979.
+A prior section 300s, act July 1, 1944, ch. 373, title XVI, §1630, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2269, provided for judicial review by the United States Court of Appeals, prior to repeal by Pub. L. 96–79, §202(b), eff. Oct. 1, 1979.
 
 A prior section 1620 of act July 1, 1944, was renumbered section 1601 by Pub. L. 96–79, title II, §203(a)(1), Oct. 4, 1979, 93 Stat. 635, and is classified to section 300q of this title.
 
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as an Effective Date of 1979 Amendment note under section 300q of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300s–1 of this title.
 

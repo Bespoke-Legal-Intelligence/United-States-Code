@@ -14,7 +14,7 @@ It is intended that the Commission, in the performance of its duties, will—
 
 &emsp;(5) encourage discussion and study at an early stage of emerging public problems that are likely to require intergovernmental cooperation;
 
-&emsp;(6) recommend, within the framework of the Constitution, the most desirable allocation ofgovernmental functions, responsibilities, and revenues among the several levels of government; and
+&emsp;(6) recommend, within the framework of the Constitution, the most desirable allocation of governmental functions, responsibilities, and revenues among the several levels of government; and
 
 &emsp;(7) recommend methods of coordinating and simplifying tax laws and administrative practices to achieve a more orderly and less competitive fiscal relationship between the levels of government and to reduce the burden of compliance for taxpayers.
 
@@ -23,8 +23,4 @@ It is intended that the Commission, in the performance of its duties, will—
 #### Codification
 
 Section was formerly classified to section 2372 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4275 of this title.
 

@@ -4,7 +4,3 @@ Whenever any poultry product, or any product exempted from the definition of a p
 
 (Pub. L. 85–172, §19, as added Pub. L. 90–492, §17, Aug. 18, 1968, 82 Stat. 805.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 454, 467f of this title.
-

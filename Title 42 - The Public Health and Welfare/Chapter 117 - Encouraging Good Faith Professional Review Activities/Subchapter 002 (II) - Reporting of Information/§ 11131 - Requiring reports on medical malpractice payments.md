@@ -28,7 +28,3 @@ The Secretary shall study and report to Congress, not later than two years after
 
 (Pub. L. 99–660, title IV, §421, Nov. 14, 1986, 100 Stat. 3788.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11134 of this title.
-

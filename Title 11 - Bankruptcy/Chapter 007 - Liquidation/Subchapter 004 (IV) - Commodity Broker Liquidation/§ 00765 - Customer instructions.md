@@ -24,7 +24,3 @@ For Historical and Revision Notes for this section, see Historical and Revision 
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 365 of this title.
-

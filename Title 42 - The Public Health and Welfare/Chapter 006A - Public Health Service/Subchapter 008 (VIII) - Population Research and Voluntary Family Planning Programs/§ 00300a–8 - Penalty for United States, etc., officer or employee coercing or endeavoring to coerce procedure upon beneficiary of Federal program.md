@@ -14,7 +14,7 @@ Any—
 
 #### Codification
 
-Section was enacted as part of the Family Planning and Population Research Act of 1975, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Family Planning and Population Research Act of 1975, and not as part ofthe Public Health Service Act which comprises this chapter.
 
 #### Effective Date
 

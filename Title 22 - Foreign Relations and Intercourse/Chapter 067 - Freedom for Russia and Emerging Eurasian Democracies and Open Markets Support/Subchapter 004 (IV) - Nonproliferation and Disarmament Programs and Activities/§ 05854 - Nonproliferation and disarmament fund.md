@@ -64,7 +64,3 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2349bb, 5852, 5855, 5857, 5858 of this title.
-

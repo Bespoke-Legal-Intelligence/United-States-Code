@@ -8,7 +8,3 @@ The tribe shall have a period of thirty days from August 27, 1954 in which to pr
 
 1956—Act Aug. 2, 1956, prohibited constructions of this subchapter granting inheritable interest in tribal assets to full-blood members of the tribe or preventing future membership in the tribe in accordance with its constitution and bylaws.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 677c, 677d, 677i of this title.
-

@@ -20,7 +20,3 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §19; added Jan. 30, 1934, ch. 6, §14(a)(
 
 The words “regulations of” are substituted for “rules, regulations, terms, and conditions . . . may prescribe” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3102, 3103, 3104, 3105, 3106, 3109 of this title.
-

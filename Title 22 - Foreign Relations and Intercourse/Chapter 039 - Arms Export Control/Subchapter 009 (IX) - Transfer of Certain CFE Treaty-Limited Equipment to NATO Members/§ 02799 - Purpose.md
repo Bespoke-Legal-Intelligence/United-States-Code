@@ -10,7 +10,3 @@ The purpose of this subchapter is to authorize the President to support, consist
 
 (Pub. L. 90–629, ch. 9, §91, as added Pub. L. 102–228, §2, Dec. 12, 1991, 105 Stat. 1691.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2799c of this title.
-

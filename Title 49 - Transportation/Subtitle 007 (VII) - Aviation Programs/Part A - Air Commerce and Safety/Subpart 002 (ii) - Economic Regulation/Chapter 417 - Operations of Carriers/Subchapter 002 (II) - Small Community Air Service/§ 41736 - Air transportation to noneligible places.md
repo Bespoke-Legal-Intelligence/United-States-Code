@@ -28,7 +28,7 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 &emsp;(3) the place is more than 150 miles from the nearest hub airport; and
 
-&emsp;(4) the State or local government submitting the proposal or a person is willing and able topay 25 percent of the cost of providing the compensated transportation.
+&emsp;(4) the State or local government submitting the proposal or a person is willing and able to pay 25 percent of the cost of providing the compensated transportation.
 
 > Paragraph (4) does not apply to any community approved for service under this section during the period beginning October 1, 1991, and ending December 31, 1997.
 
@@ -133,8 +133,4 @@ Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), 
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41110, 41731, 41738 of this title.
 

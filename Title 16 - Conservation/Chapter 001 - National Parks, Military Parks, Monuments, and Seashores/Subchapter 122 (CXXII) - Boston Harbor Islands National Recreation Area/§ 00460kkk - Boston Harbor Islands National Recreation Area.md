@@ -32,7 +32,7 @@ For the purposes of this section—
 
 &emsp;(B) The recreation area shall include the following:
 
-&emsp;&emsp;(i) The areas depicted on the map reference in subparagraph (A).
+&emsp;&emsp;(i) The areas depicted on the map referenced in subparagraph (A).
 
 &emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
@@ -52,11 +52,11 @@ For the purposes of this section—
 
 #### (3) Cooperative agreements
 
-&emsp;The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.
+&emsp;The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to theCommonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.
 
 #### (4) Construction of facilities on non-Federal lands
 
-&emsp;In order to facilitate the administration of the recreation area, the Secretary is authorized, subject to the appropriation of necessary funds in advance, to construct essential administrative or visitor use facilities on non-Federal public lands within the recreation area. Such facilities and the use thereof shall be in conformance with applicable plans <sup>1</sup>
+&emsp;In order to facilitate the administration of the recreation area, the Secretary is authorized, subject to the appropriation of necessary funds in advance, to construct essential administrative or visitor use facilities on non-Federal public lands within the recreation area. Such facilities and the use thereof shall be in conformance with applicable plans.
 
 #### (5) Other property, funds, and services
 
@@ -140,7 +140,7 @@ For the purposes of this section—
 
 #### (11) Donations
 
-&emsp;Nothwithstanding any other provision of law, the Partnership may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out this section.
+&emsp;Nothwithstanding <sup>1</sup> any other provision of law, the Partnership may seek and accept donations of funds, property, or services from individuals, foundations, corporations, and other private and public entities for the purpose of carrying out this section.
 
 #### (12) Use of funds to obtain money
 
@@ -202,7 +202,7 @@ For the purposes of this section—
 
 #### (4) Approval of plan
 
-&emsp;(A) The Partnership shall submit the plan to the Governor of Massachusetts for review. The Governor shall have 90 days to review and make any recommendations. After considering the Governor's recommendations, the Partnership shall submit the plan to the Secretary, who shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
+&emsp;(A) The Partnership shall submit the plan to the Governor of Massachusetts for review. TheGovernor shall have 90 days to review and make any recommendations. After considering the Governor's recommendations, the Partnership shall submit the plan to the Secretary, who shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
 
 &emsp;&emsp;(i) The adequacy of public participation.
 
@@ -244,13 +244,17 @@ For the purposes of this section—
 
 &emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30.)
+(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397.)
 
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2004—Subsec. (c)(2)(B)(i). Pub. L. 108–352, §12(1), substituted “referenced” for “reference”.
+
+Subsec. (d)(4). Pub. L. 108–352, §12(2), inserted period after “plans”.
 
 2000—Pub. L. 106–176, §126(1), substituted “National Recreation Area” for “Recreation Area” in section catchline.
 

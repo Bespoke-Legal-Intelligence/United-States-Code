@@ -8,7 +8,7 @@ The Commissioner and the Administrator shall have authority to maintain direct a
 
 (1) The Attorney General and the Director of the Federal Bureau of Investigation shall provide the Department of State and the Service access to the criminal history record information contained in the National Crime Information Center's Interstate Identification Index (NCIC-III), Wanted Persons File, and to any other files maintained by the National Crime Information Center that may be mutually agreed upon by the Attorney General and the agency receiving the access, for the purpose of determining whether or not a visa applicant or applicant for admission has a criminal history record indexed in any such file.
 
-(2) Such access shall be provided by means of extracts of the records for placement in the automated visa lookout or other appropriate database, and shall be provided without any fee or charge.
+(2) Such access shall be provided by means of extracts of the records for placement in theautomated visa lookout or other appropriate database, and shall be provided without any fee or charge.
 
 (3) The Federal Bureau of Investigation shall provide periodic updates of the extracts at intervals mutually agreed upon with the agency receiving the access. Upon receipt of such updated extracts, the receiving agency shall make corresponding updates to its database and destroy previously provided extracts.
 

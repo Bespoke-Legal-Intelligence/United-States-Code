@@ -22,15 +22,11 @@ The dollar amounts set forth in—
 
 #### (b) Notification
 
-The Federal Reserve Board on a timely basis shall notify the Secretary, or his designee, in writing of the adjustment described in subsection (a) of this section and of the effective date of such adjustment in order to permit the Secretary to undertake publication in the Federal Register of corresponding adjustments to the Dollar Amounts. The dollar amount of any adjustment shall be rounded to the next lower dollar.
+The Federal Reserve Board on a timely basis shall notify the Secretary, or his designee, inwriting of the adjustment described in subsection (a) of this section and of the effective date of such adjustment in order to permit the Secretary to undertake publication in the Federal Register of corresponding adjustments to the Dollar Amounts. The dollar amount of any adjustment shall be rounded to the next lower dollar.
 
 (June 27, 1934, ch. 847, title II, §206A, as added Pub. L. 107–326, §5(a), Dec. 4, 2002, 116 Stat. 2794.)
 
 #### References in Text
 
 The Home Ownership and Equity Protection Act of 1994, referred to in subsec. (a), is subtitle B (§§151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1601 of Title 15 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1713, 1715e, 1715k, 1715<i>l</i>, 1715v, 1715y of this title.
 

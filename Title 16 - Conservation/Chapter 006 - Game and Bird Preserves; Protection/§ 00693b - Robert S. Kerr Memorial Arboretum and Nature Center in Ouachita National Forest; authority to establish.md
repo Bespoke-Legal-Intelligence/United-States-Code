@@ -4,7 +4,3 @@ In order to preserve, develop, and make available to this and future generations
 
 (Pub. L. 90–327, §1, June 4, 1968, 82 Stat. 169.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 693c, 693d of this title.
-

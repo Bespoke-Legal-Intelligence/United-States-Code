@@ -184,10 +184,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1562, 1611 of this title; title 15 section 3703; title 35 section 201; title 42 section 12002.
-
 
 ---
 

@@ -8,7 +8,3 @@ No compensation shall be paid to the members of the board for their services as 
 
 Section is comprised of second par. of section 1 of act Mar. 3, 1925. First par. of section 1 is classified to section 154 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 160 of this title.
-

@@ -70,7 +70,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 #### (B) Multiple ADR programs
 
-&emsp;&emsp;No provision of this section shall be construed as precluding any Federal banking agency or the National Credit Union Administration Board from establishing more than 1 alternative means of dispute resolution.
+&emsp;&emsp;No provision of this section shall be construed as precluding any Federal bankingagency or the National Credit Union Administration Board from establishing more than 1 alternative means of dispute resolution.
 
 #### (f) Definitions
 
@@ -88,7 +88,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) loan classifications on loans that are significant to an institution; and
 
-&emsp;&emsp;(B) does not include a determination by a Federal banking agency or the National Credit Union Administration Board to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the casemay be, or a decision to take action pursuant to section 1831<i>o</i> of this title or section 1790a of this title, as appropriate.
+&emsp;&emsp;(B) does not include a determination by a Federal banking agency or the National Credit Union Administration Board to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831<i>o</i> of this title or section 1790a of this title, as appropriate.
 
 #### (2) Independent appellate process
 
@@ -117,8 +117,4 @@ Nothing in this section shall affect the authority of an appropriate Federal ban
 #### Termination of Administrative Conference of United States
 
 For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1790d of this title.
 

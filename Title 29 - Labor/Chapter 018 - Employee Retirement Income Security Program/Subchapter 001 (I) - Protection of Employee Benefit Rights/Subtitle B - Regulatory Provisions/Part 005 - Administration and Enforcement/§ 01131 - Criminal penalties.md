@@ -12,7 +12,3 @@ Any person who willfully violates any provision of part 1 of this subtitle, or a
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1028 of this title.
-

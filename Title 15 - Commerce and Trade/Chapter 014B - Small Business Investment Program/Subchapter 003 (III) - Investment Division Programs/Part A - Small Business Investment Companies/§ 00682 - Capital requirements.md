@@ -104,10 +104,6 @@ Amendment by Pub. L. 90–104 effective 90 days after Oct. 11, 1967, see section
 
 Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 681, 683 of this title; title 42 section 9815.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

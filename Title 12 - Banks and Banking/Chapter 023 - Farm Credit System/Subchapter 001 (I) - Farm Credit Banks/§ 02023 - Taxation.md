@@ -22,7 +22,7 @@ A prior section 2052, Pub. L. 92–181, title I, §1.18, Dec. 10, 1971, 85 Stat.
 
 A prior section 2053, Pub. L. 92–181, title I, §1.19, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §114, Dec. 24, 1980, 94 Stat. 3439, related to agreements for sharing gains or losses, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
-A prior section 2054, Pub. L. 92–181, title I, §1.20, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §115, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(7), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §805(c), Jan. 6, 1988, 101 Stat. 1715, related to liens on stock and participation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2054, Pub. L. 92–181, title I, §1.20, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §115, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(7), Dec. 23, 1985, 99 Stat. 1704; Pub. L. 100–233, title VIII, §805(c), Jan. 6, 1988, 101 Stat. 1715, related to liens on stock andparticipation certificates, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 A prior section 2055, Pub. L. 92–181, title I, §1.21, Dec. 10, 1971, 85 Stat. 590; Pub. L. 100–399, title IX, §901(a), Aug. 17, 1988, 102 Stat. 1007, related to tax exempt status, prior to the general amendment of this subchapter by Pub. L. 100–233, §401. See section 2023 of this title.
 
@@ -33,8 +33,4 @@ A prior section 2055, Pub. L. 92–181, title I, §1.21, Dec. 10, 1971, 85 Stat.
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective immediately after amendment made by section 401 of Pub. L. 100–233, which was effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2214 of this title.
 

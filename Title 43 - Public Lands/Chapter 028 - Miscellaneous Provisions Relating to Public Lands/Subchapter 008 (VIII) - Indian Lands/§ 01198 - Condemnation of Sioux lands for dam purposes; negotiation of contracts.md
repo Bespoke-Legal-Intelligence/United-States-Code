@@ -4,7 +4,3 @@ The Chief of Engineers, Department of the Army, and the Secretary of the Interio
 
 (July 6, 1954, ch. 463, §1, 68 Stat. 452.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1199 of this title.
-

@@ -17,7 +17,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
+2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children ofVietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
 
 2001—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
@@ -30,10 +30,6 @@
 1976—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted “Nursing Home,” in item for chapter 17.
 
 1973—Pub. L. 93–43, §2(b), June 18, 1973, 87 Stat. 78, added item for chapter 24.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in title 42 section 3013.
 
 
 ---

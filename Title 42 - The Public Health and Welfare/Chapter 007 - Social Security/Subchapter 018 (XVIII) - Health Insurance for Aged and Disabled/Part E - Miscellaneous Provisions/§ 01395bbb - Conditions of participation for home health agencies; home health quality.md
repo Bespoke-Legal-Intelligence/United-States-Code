@@ -6,7 +6,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(1) The agency protects and promotes the rights of each individual under its care, including each of the following rights:
 
-&emsp;&emsp;(A) The right to be fully informed in advance about the care and treatment to be provided by the agency, to be fully informed in advance of any changes in the care or treatment to be provided by the agency that may affect the individual's well-being, and (except with respect to an individual adjudged incompetent) to participate in planning care and treatment or changes in care or treatment.
+&emsp;&emsp;(A) The right to be fully informed in advance about the care and treatment to beprovided by the agency, to be fully informed in advance of any changes in the care or treatment to be provided by the agency that may affect the individual's well-being, and (except with respect to an individual adjudged incompetent) to participate in planning care and treatment or changes in care or treatment.
 
 &emsp;&emsp;(B) The right to voice grievances with respect to treatment or care that is (or fails to be) furnished without discrimination or reprisal for voicing grievances.
 
@@ -66,7 +66,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;&emsp;(IV) has been subject to the remedies described in subsection (e)(1) of this section or in clauses (ii) or (iii) of subsection (f)(2)(A) of this section.
 
-&emsp;(iv) Such standards shall permit a determination that an individual who has completed (before July 1, 1989) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretary under the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
+&emsp;(iv) Such standards shall permit a determination that an individual who has completed (before July 1, 1989) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretaryunder the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
 
 &emsp;(E) In this paragraph, the term “home health aide” means any individual who provides the items and services described in section 1395x(m) of this title, but does not include an individual—
 
@@ -283,8 +283,4 @@ Study.—The Comptroller General of the United States shall conduct a study of t
 &emsp;“(2)
 
 Report.—Not later than January 1, 2002, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations on whether exceptions are needed for subunits and branches of home health agencies under the medicare program to maintain access to the home health benefit or whether alternative policies should be developed to assure adequate supervision and access and recommendations on whether a national standard for supervision is appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395x, 1395cc of this title.
 

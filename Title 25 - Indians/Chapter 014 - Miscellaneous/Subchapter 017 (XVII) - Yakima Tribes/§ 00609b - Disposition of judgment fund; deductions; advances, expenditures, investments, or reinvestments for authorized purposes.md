@@ -16,7 +16,3 @@ Act of July 22, 1969, referred to in text, is Pub. L. 91–47, July 22, 1969, 83
 
 Section was not enacted as part of act Aug. 9, 1946, ch. 933, 60 Stat. 968, which comprises this subchapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 609b–1 of this title.
-

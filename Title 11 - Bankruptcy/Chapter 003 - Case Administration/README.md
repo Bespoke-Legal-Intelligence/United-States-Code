@@ -66,10 +66,6 @@
 
 1986—Pub. L. 99–554, title II, §205(b), Oct. 27, 1986, 100 Stat. 3098, added item 307.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 103, 782 of this title; title 15 section 78fff.
-
 
 ---
 

@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(A) Reasonable limitations on requests for sales data relating to commercial items.
 
-&emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
+&emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is inthe form regularly maintained by the offeror in commercial operations.
 
 &emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Cost or pricing data
 
-&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expectto affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
+&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
 
 #### (2) Subcontract
 
@@ -209,8 +209,4 @@ Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, 
 #### Criteria for Determining Specific Price Information Required
 
 Pub. L. 105–261, div. A, title VIII, §808(d), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to include criteria for contracting officers to apply for determining the specific price information that an offeror should be required to submit under section 2306a(d) of title 10, United States Code, or section 304A(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b(d)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254d, 423, 428a of this title; title 15 section 205c.
 

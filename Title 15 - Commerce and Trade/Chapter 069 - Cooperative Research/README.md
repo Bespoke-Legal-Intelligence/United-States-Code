@@ -9,7 +9,8 @@
 | (b) | Recovery by States. |
 | (c) | Conduct similar under State law. |
 | (d) | Interest. |
-| (e) | Applicability. |
+| (e) | Rule of construction. |
+| (f) | Applicability. |
 | [4304\.](%C2%A7%2004304%20-%20Award%20of%20costs%2C%20including%20attorney%27s%20fees%2C%20to%20substantially%20prevailing%20party%3B%20offset.md) | Award of costs, including attorney's fees, to substantially prevailing party; offset. |
 | [4305\.](%C2%A7%2004305%20-%20Disclosure%20of%20joint%20venture.md) | Disclosure of joint venture. |
 | (a) | Written notifications; filing. |

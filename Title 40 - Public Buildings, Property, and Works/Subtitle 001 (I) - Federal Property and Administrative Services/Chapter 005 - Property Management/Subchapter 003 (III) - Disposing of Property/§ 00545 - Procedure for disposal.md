@@ -132,7 +132,3 @@ June 30, 1949, ch. 288, title II, §203(e), 63 Stat. 386; July 12, 1952, ch. 703
 
 In subsection (e)(3), the words “A report” are substituted for “the annual report” for consistency in the revised title. See the revision note under section 126 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 554, 581, 17702 of this title; title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
-

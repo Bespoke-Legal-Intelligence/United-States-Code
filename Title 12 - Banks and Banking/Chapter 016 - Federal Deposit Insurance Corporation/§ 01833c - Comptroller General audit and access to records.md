@@ -10,7 +10,7 @@
 
 &emsp;Paragraph (1) shall not apply to—
 
-&emsp;&emsp;(A) any function or activity of the Board of Governors of the Federal Reserve Systemor the Federal Reserve banks that is described in any paragraph of section 714(b) of title 31; and
+&emsp;&emsp;(A) any function or activity of the Board of Governors of the Federal Reserve System or the Federal Reserve banks that is described in any paragraph of section 714(b) of title 31; and
 
 &emsp;&emsp;(B) any function or activity of the Federal National Mortgage Association, except as provided in section 1723a(j) of this title.
 

@@ -32,7 +32,3 @@ Section is derived from subsec. (g) of former section 264 of this title. See Cod
 
 Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1815, 1828 of this title.
-

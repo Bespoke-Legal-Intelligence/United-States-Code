@@ -46,7 +46,3 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 Amended by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 3374, 3704.
-

@@ -6,7 +6,7 @@ Within the recreation area the Secretary is authorized to acquire lands, waters,
 
 #### (b) Manner of acquisition of lands partly within and partly without area; disposal of unutilized lands
 
-When a tract of land lies partly within and partly without the boundaries of the recreationarea, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (c) Acquisition of improved property used for noncommercial residential purposes; retention by owners of right of use and occupancy for residential purposes; terms; payment of fair market value
 
@@ -18,7 +18,7 @@ Any right of use and occupancy retained pursuant to this section may, during its
 
 #### (e) “Improved property” defined
 
-As used in this section, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+As used in this section, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for thesole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 95–344, title I, §102, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(c), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 106–154, §2(b), (e)(1), Dec. 9, 1999, 113 Stat. 1737, 1738.)
 
@@ -43,10 +43,6 @@ Subsec. (f). Pub. L. 106–154, §2(b)(2), struck out subsec. (f) which read as 
 “(4) The Secretary shall publish a revision of the boundary map referred to in section 460ii of this title to exclude from the boundaries of the recreation area any exchange lands which are used to acquire non-Federal lands under paragraph (3).”
 
 1984—Subsec. (f). Pub. L. 98–568 added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460zz–4 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

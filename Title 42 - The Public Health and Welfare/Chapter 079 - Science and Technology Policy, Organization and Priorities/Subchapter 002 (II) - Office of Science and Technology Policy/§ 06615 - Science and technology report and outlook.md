@@ -24,7 +24,7 @@ The Office shall insure that the report, in the form approved by the President, 
 
 #### References in Text
 
-Reorganization Plan Number 1 of 1977, referred to in subsec. (a), is Reorg. Plan No. 1 of 1977, 42 F.R. 56101, 91Stat. 1633, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Number 1 of 1977, referred to in subsec. (a), is Reorg. Plan No. 1 of 1977, 42 F.R. 56101, 91 Stat. 1633, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -37,8 +37,4 @@ Provisions similar to those in this section were contained in section 6618 of th
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission of biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6615 of this title.
 

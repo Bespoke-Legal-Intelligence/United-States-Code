@@ -34,7 +34,3 @@ The Administrator may provide for the “President's Environmental Youth Awards�
 
 (Pub. L. 101–619, §8, Nov. 16, 1990, 104 Stat. 3332.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5503, 5510 of this title.
-

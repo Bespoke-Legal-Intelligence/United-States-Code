@@ -50,7 +50,3 @@ Amendment by Pub. L. 98–181 effective Jan. 1, 1984, see section 461(f) of Pub.
 
 Section effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as an Effective Date of 1976 Amendment note under section 2602 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2606 of this title.
-

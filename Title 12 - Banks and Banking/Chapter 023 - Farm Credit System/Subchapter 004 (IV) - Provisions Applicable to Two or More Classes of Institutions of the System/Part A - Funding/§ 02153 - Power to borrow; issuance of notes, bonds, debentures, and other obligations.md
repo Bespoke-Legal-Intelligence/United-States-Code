@@ -1,8 +1,8 @@
 ### §2153. Power to borrow; issuance of notes, bonds, debentures, and other obligations
 
-Each of the banks of the System, in order to obtain funds for its authorized purposes, shallhave power, subject to regulation by the Farm Credit Administration, and subject to the limitations of paragraph (e) of this section, to—
+Each of the banks of the System, in order to obtain funds for its authorized purposes, shall have power, subject to regulation by the Farm Credit Administration, and subject to the limitations of paragraph (e) of this section, to—
 
-(a) Borrow money from or loan to any other institution of the System, borrow from any commercial bank or other lending institution, issue its notes or other evidence of debt on its own individual responsibility and full faith and credit, and invest its excess funds in such sums, at such times, and on such terms and conditions as it may determine.
+(a) Borrow money from or loan to any other institution of the System, borrow from any commercial bank or other lending institution, issue its notes or other evidence of debt on its own individual responsibility and full faith and credit, and invest its excess funds in such sums,at such times, and on such terms and conditions as it may determine.
 
 (b) Issue its own notes, bonds, debentures, or other similar obligations, fully collateralized as provided in section 2154(c) of this title by the notes, mortgages, and security instruments it holds in the performance of its functions under this chapter in such sums, maturities, rates of interest, and terms and conditions of each issue as it may determine with approval of the Farm Credit Administration.
 
@@ -33,8 +33,4 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2244, 2252, 2277a, 2277a–1 of this title.
 

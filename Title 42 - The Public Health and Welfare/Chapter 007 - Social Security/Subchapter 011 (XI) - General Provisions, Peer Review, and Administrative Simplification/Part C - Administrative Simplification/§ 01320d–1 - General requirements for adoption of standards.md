@@ -82,7 +82,3 @@ This section shall apply to a modification to a standard (including an addition 
 
 A prior section 1172 of act Aug. 14, 1935, was classified to section 1320c–21 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320d, 1320d–2, 1320d–4, 1320d–7 of this title.
-

@@ -8,9 +8,9 @@ To receive a capitalization grant with funds made available under this subchapte
 
 The Administrator shall enter into an agreement under this section with a State only after the State has established to the satisfaction of the Administrator that—
 
-&emsp;(1) the State will accept grant payments with funds to be made available under this subchapter and section 1285(m) of this title in accordance with a payment schedule established jointly by the Administrator under section 1381(b) of this title and will deposit allsuch payments in the water pollution control revolving fund established by the State in accordance with this subchapter;
+&emsp;(1) the State will accept grant payments with funds to be made available under this subchapter and section 1285(m) of this title in accordance with a payment schedule established jointly by the Administrator under section 1381(b) of this title and will deposit all such payments in the water pollution control revolving fund established by the State in accordance with this subchapter;
 
-&emsp;(2) the State will deposit in the fund from State moneys an amount equal to at least 20 percent of the total amount of all capitalization grants which will be made to the State with funds to be made available under this subchapter and section 1285(m) of this title on or before the date on which each quarterly grant payment will be made to the State under this subchapter;
+&emsp;(2) the State will deposit in the fund from State moneys an amount equal to at least 20percent of the total amount of all capitalization grants which will be made to the State with funds to be made available under this subchapter and section 1285(m) of this title on or before the date on which each quarterly grant payment will be made to the State under this subchapter;
 
 &emsp;(3) the State will enter into binding commitments to provide assistance in accordance with the requirements of this subchapter in an amount equal to 120 percent of the amount of each such grant payment within 1 year after the receipt of such grant payment;
 
@@ -29,8 +29,4 @@ The Administrator shall enter into an agreement under this section with a State 
 &emsp;(10) the State will make annual reports to the Administrator on the actual use of funds in accordance with section 1386(d) of this title.
 
 (June 30, 1948, ch. 758, title VI, §602, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 22.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1385, 1386 of this title.
 

@@ -48,9 +48,11 @@
 
 &emsp;&emsp;(I) Failure to engage in loss mitigation actions as provided in section 1715u(a) of this title.
 
+&emsp;&emsp;(J) Failure to perform a required physical inspection of the mortgaged property.
+
 #### (2) Additional violations
 
-&emsp;The Secretary may impose a civil money penalty under subsection (a) of this section for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
+&emsp;The Secretary may impose a civil money penalty under subsection (a) of this section for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection withany such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
 
 &emsp;&emsp;(A) submission to the Secretary of information that was false, in connection with any mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
 
@@ -94,7 +96,7 @@
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (c)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstratesto the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of the additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (c)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of the additional evidence.
 
 #### (3) Scope of review
 
@@ -124,13 +126,15 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
 
-(June 27, 1934, ch. 847, title V, §536, as added Pub. L. 101–235, title I, §107(a), Dec. 15, 1989, 103 Stat. 2000; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 105–65, title V, §553, Oct. 27, 1997, 111 Stat. 1413; Pub. L. 105–276, title VI, §601(g), (h), Oct. 21, 1998, 112 Stat. 2674.)
+(June 27, 1934, ch. 847, title V, §536, as added Pub. L. 101–235, title I, §107(a), Dec. 15, 1989, 103 Stat. 2000; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 105–65, title V, §553, Oct. 27, 1997, 111 Stat. 1413; Pub. L. 105–276, title VI, §601(g), (h), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 108–447, div. I, title II, §219(a), Dec. 8, 2004, 118 Stat. 3319.)
 
 #### References in Text
 
 Subchapter IX–A of this chapter, referred to in subsec. (b)(1)(H), was repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027.
 
 #### Amendments
+
+2004—Subsec. (b)(1)(J). Pub. L. 108–447 added subpar. (J).
 
 1998—Subsec. (a)(2). Pub. L. 105–276, §601(g), inserted second paragraph.
 
@@ -177,10 +181,6 @@ Issuance of Necessary Regulations.—Notwithstanding section 7(<i>o</i>) of the 
 “(b)
 
 Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, in the discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1703, 1715z–13a, 1715z–13b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

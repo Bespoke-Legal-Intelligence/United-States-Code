@@ -36,7 +36,3 @@ In subsection (a), the words “citizen of the United States” and “citizen�
 
 In subsection (b), the word “passengers” is substituted for “travelers” for consistency in this chapter. The words “issued . . . under section 41102 of this title” are added for clarity. The word “arrangement” is omitted as surplus. The word “provide” is substituted for “perform” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41104 of this title.
-

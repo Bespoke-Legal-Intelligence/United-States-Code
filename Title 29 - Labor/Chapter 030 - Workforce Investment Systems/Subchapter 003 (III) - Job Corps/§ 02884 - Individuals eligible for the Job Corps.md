@@ -28,7 +28,3 @@ To be eligible to become an enrollee, an individual shall be—
 
 Provisions similar to this section were contained in section 1693 of this title prior to repeal by Pub. L. 105–220.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 12653c.
-

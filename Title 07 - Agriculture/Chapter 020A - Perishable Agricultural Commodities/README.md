@@ -66,10 +66,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 499b–1 of this title; title 11 section 525; title 28 section 2342; title 49 section 5906.
-
 
 ---
 

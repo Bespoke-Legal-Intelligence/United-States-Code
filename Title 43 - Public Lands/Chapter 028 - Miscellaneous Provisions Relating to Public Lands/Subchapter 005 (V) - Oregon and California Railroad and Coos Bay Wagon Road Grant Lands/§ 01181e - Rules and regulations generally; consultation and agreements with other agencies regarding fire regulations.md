@@ -6,7 +6,3 @@ In formulating regulations for the protection of such timberlands against fire, 
 
 (Aug. 28, 1937, ch. 876, title I, §5, 50 Stat. 875.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1181d, 1181f, 1181f–4, 1181i, 1735, 1752 of this title; title 30 sections 601, 603.
-

@@ -18,7 +18,3 @@ Act of November 8, 1945 (59 Stat. 577, ch. 454), referred to in text, was classi
 
 This Act, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, known as the Philippine Trade Act of 1946, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1354 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1373 of this title.
-

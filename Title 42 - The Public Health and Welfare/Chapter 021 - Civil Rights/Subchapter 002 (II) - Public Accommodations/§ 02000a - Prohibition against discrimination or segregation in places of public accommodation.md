@@ -14,7 +14,7 @@ Each of the following establishments which serves the public is a place of publi
 
 &emsp;(3) any motion picture house, theater, concert hall, sports arena, stadium or other place of exhibition or entertainment; and
 
-&emsp;(4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
+&emsp;(4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which isphysically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
 
 #### (c) Operations affecting commerce; criteria; “commerce” defined
 
@@ -41,12 +41,4 @@ Pub. L. 92–261, §1, Mar. 24, 1972, 86 Stat. 103, provided: “That this Act \
 #### Short Title
 
 Section 1 of Pub. L. 88–352 provided: “That this Act \[enacting subchapters II to IX of this chapter, amending sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, section 1447(d) of Title 28, Judiciary and Judicial Procedure, and sections 1971 and 1975a to 1975d of this title, and enacting provisions set out as a note under section 2000e of this title\] may be cited as the ‘Civil Rights Act of 1964’.”
-
-#### Act Referred to in Other Sections
-
-The Civil Rights Act of 1964 \[subchapters II to IX of this chapter\] is referred to in sections 1490m, 5304, 5306, 5307, 5318a, 6727, 11111 of this title; title 31 section 6711; title 43 section 1626.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000a–2 of this title.
 

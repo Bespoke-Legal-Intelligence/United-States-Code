@@ -120,7 +120,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (13) Dispute resolution
 
-&emsp;The board of trade shall establish and enforce rules regarding and provide facilities foralternative dispute resolution as appropriate for market participants and any market intermediaries.
+&emsp;The board of trade shall establish and enforce rules regarding and provide facilities for alternative dispute resolution as appropriate for market participants and any market intermediaries.
 
 #### (14) Governance fitness standards
 
@@ -156,9 +156,5 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### Prior Provisions
 
-A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1a, 2, 6, 7a, 7a–2, 7b–1, 8, 13a, 25 of this title; title 15 section 78c; title 26 section 408.
+A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491,1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) \[title I, §110(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
 

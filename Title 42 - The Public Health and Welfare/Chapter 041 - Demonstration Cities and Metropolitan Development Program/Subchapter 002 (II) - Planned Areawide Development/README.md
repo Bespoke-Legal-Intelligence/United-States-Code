@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PLANNED AREAWIDE DEVELOPMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 40 section 3306.
-
 
 ---
 

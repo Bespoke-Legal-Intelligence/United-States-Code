@@ -42,7 +42,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(C) services necessary to facilitate adoptive placement of any such infants who have been relinquished for adoption;
 
-&emsp;(11) developing and delivering information to improve public education relating to the role and responsibilities of the child protection system and the nature and basis for reporting suspected incidents of child abuse and neglect;
+&emsp;(11) developing and delivering information to improve public education relating to the roleand responsibilities of the child protection system and the nature and basis for reporting suspected incidents of child abuse and neglect;
 
 &emsp;(12) developing and enhancing the capacity of community-based programs to integrate shared leadership strategies between parents and professionals to prevent and treat child abuse and neglect at the neighborhood level;
 
@@ -178,7 +178,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(A) the term “near fatality” means an act that, as certified by a physician, places the child in serious or critical condition; and
 
-&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial riskof death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
+&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
 #### (c) Citizen review panels
 
@@ -300,7 +300,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse.
 
-(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812.)
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107,113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812.)
 
 #### References in Text
 
@@ -439,10 +439,6 @@ Section 9(a) of Pub. L. 102–586 provided that: “The Congress finds that—
 &emsp;“(8) teams such as those described in paragraph (7) should be established in every State, and their scope of review should be expanded to include egregious incidents of child abuse and neglect before the child in question dies; and
 
 &emsp;“(9) teams such as those described in paragraph (7) will increase the accountability of child protection services.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5105, 5106c, 5106d, 5106f of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

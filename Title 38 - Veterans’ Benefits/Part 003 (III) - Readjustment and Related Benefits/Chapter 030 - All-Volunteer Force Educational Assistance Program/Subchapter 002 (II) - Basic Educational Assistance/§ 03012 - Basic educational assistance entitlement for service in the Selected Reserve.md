@@ -32,7 +32,7 @@
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserveor an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve;
 
@@ -54,7 +54,11 @@
 
 &emsp;(B) by any other period of time (not to exceed a maximum period prescribed by the Secretary concerned by regulation) during which the member is not attached to a unit of the Selected Reserve that the Secretary concerned, pursuant to regulations, considers to be inappropriate to consider for such purpose.
 
-(c) The basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (d)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay. Any amount by which the basic pay of an individual is reduced under this chapter shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
+(c)(1) Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (d)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay.
+
+(2) In the case of an individual covered by paragraph (1) who is a member of the Selected Reserve, the Secretary of Defense shall collect from the individual an amount equal to $1,200not later than one year after completion by the individual of the two years of service on active duty providing the basis for such entitlement. The Secretary of Defense may collect such amount through reductions in basic pay in accordance with paragraph (1) or through such other method as the Secretary of Defense considers appropriate.
+
+(3) Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
 
 (d)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
 
@@ -82,13 +86,15 @@
 
 (2) The initial service referred to in paragraph (1) is the initial obligated period of active duty (described in subparagraph (A)(i) or (B)(i) of subsection (a)(1)) or the period of service in the Selected Reserve (described in subparagraphs (A)(ii) or (B)(ii) of subsection (a)(1)).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865; Pub. L. 107–14, §7(c)(2), June 5, 2001, 115 Stat. 32; Pub. L. 107–103, title I, §§105(b), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865; Pub. L. 107–14, §7(c)(2), June 5, 2001, 115 Stat. 32; Pub. L. 107–103, title I, §§105(b), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–454, title I, §109(b), Dec. 10, 2004, 118 Stat. 3604.)
 
 #### Prior Provisions
 
 Prior section 3012 was renumbered section 5112 of this title.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–454 substituted “(1) Except as provided in paragraph (2), the basic pay” for “The basic pay”, added par. (2), designated second sentence of existing provisions as par. (3), and substituted “this subsection” for “this chapter”.
 
 2002—Subsec. (b)(1)(A)(v), (B)(ii)(V). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -231,8 +237,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Notification Requirement
 
 For requirement of notification of individuals on active duty in Armed Forces on Aug. 2, 1990, of extension of period for completion of requirements for a secondary school diploma, see section 303(b) of Pub. L. 102–568, set out as a note under section 3011 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3013, 3015, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3021, 3031, 3034, 3036, 5303A of this title; title 10 sections 2006, 16131.
 

@@ -8,7 +8,7 @@
 
 #### (2) Membership
 
-&emsp;In no case shall a loan officer involved in the initial decision on a loan serve on the creditreview committee when the committee reviews such loan.
+&emsp;In no case shall a loan officer involved in the initial decision on a loan serve on the credit review committee when the committee reviews such loan.
 
 #### (b) Review of decisions
 
@@ -28,7 +28,7 @@ An applicant for a loan or for restructuring, who is entitled to and has request
 
 #### (1) In general
 
-&emsp;An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+&emsp;An appeal filed with a credit review committee under this section may include, as a partof the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
 
 #### (2) Arrangement and cost
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 #### Construction of 1988 Amendment
 
 Section 702(b) of Pub. L. 100–399 provided that section 805(s) of Pub. L. 100–233, cited as a credit to this section, is repealed and that this section shall be applied and administered as if such section had not been enacted.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2201, 2202a, 2202d, 2279aa–9 of this title.
 

@@ -18,7 +18,7 @@ The Secretary may issue and serve a notice of charges under this section upon an
 
 #### (2) Issuance of order
 
-&emsp;If the Secretary finds on the record made at such hearing that any conduct specified in the notice of charges has been established (or the enterprise consents pursuant to section 4582(a)(4) of this title), the Secretary may issue and serve upon the enterprise an order requiring the enterprise to (A) submit a housing plan in compliance with section 4566(c) of this title, (B) comply with the housing plan, or (C) provide the information required under subsection (m) or (n) of section 1723a of this title, subsection (e) or (f) of section 1456 of this title, or section 4567 of this title.
+&emsp;If the Secretary finds on the record made at such hearing that any conduct specified in the notice of charges has been established (or the enterprise consents pursuant to section 4582(a)(4) of this title), the Secretary may issue and serve upon the enterprise an order requiring the enterprise to (A) submit a housing plan in compliance with section 4566(c) of this title, (B) comply with the housing plan, or (C) provide the information required undersubsection (m) or (n) of section 1723a of this title, subsection (e) or (f) of section 1456 of this title, or section 4567 of this title.
 
 #### (c) Effective date
 
@@ -26,13 +26,9 @@ An order under this section shall become effective upon the expiration of the 30
 
 #### (d) Transition period limitation
 
-The Secretary may not impose any cease-and-desist order under this section for any failure by an enterprise, during the 2-year period beginning on the <sup>1</sup> January 1, 1993, to comply with an approved housing plan, unless the Secretary determines that the enterprise has intentionallyfailed to make a good faith effort to comply with the approved plan.
+The Secretary may not impose any cease-and-desist order under this section for any failure by an enterprise, during the 2-year period beginning on the <sup>1</sup> January 1, 1993, to comply with an approved housing plan, unless the Secretary determines that the enterprise has intentionally failed to make a good faith effort to comply with the approved plan.
 
 (Pub. L. 102–550, title XIII, §1341, Oct. 28, 1992, 106 Stat. 3964.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4582, 4583, 4584 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

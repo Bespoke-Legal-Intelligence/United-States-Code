@@ -34,7 +34,7 @@ For the purposes of this chapter, a transition government in Cuba is a governmen
 
 #### (b) Additional factors
 
-In addition to the requirements in subsection (a) of this section, in determining whether a transition government in Cuba is in power, the President shall take into account the extent to which that government—
+In addition to the requirements in subsection (a) of this section, in determining whether atransition government in Cuba is in power, the President shall take into account the extent to which that government—
 
 &emsp;(1) is demonstrably in transition from a communist totalitarian dictatorship to representative democracy;
 
@@ -53,8 +53,4 @@ In addition to the requirements in subsection (a) of this section, in determinin
 &emsp;(4) has permitted the deployment throughout Cuba of independent and unfettered international human rights monitors.
 
 (Pub. L. 104–114, title II, §205, Mar. 12, 1996, 110 Stat. 811.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6023, 6066 of this title.
 

@@ -12,7 +12,3 @@ The Carl D. Perkins Vocational and Applied Technology Education Act, as such Act
 
 A prior section 2303, Pub. L. 101–392, §4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, §1041(f), Dec. 21, 1995, 109 Stat. 715, which related to the Interdepartmental Task Force on Vocational Education and Related Programs, was transferred to section 2308 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2342 of this title.
-

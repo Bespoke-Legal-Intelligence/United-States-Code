@@ -88,7 +88,3 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 Pub. L. 107–95, §10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to leases entered into on or after the date of the enactment of this Act \[Dec. 21, 2001\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8122 of this title.
-

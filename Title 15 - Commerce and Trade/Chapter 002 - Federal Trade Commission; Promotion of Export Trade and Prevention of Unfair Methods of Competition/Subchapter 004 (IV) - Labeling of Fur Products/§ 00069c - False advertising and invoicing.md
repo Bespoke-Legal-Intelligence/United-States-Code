@@ -34,7 +34,3 @@
 
 (Aug. 8, 1951, ch. 298, §5, 65 Stat. 178.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 69d of this title.
-

@@ -18,7 +18,7 @@ In the case of an entity specified in subsection (d) of section 2282a of this ti
 
 &emsp;(1) the assessment of any civil penalty under subsection (a) of this section against that entity may not be made until the entity enters into a new contract with the Department of Energy or an extension of a current contract with the Department; and
 
-&emsp;(2) the total amount of civil penalties under subsection (a) of this section in a fiscal yearmay not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
+&emsp;(2) the total amount of civil penalties under subsection (a) of this section in a fiscal year may not exceed the total amount of fees paid by the Department of Energy to that entity in that fiscal year.
 
 (Aug. 1, 1946, ch. 724, title I, §234B, as added Pub. L. 106–65, div. C, title XXXI, §3147(a), Oct. 5, 1999, 113 Stat. 937.)
 

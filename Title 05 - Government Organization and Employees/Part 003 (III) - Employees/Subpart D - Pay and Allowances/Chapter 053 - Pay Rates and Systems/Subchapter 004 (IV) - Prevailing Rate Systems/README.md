@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—PREVAILING RATE SYSTEMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5304, 5361, 5541, 7201, 7204, 9509 of this title; title 2 sections 1846, 2048; title 10 sections 4540, 7212, 9540; title 31 section 1515.
-
 
 ---
 

@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) “Department” means the Department of State, except that with reference to the exercise of functions under this chapter with respect to another agency authorized by law to utilize the Foreign Service personnel system, such term means that other agency;
 
-&emsp;(5) “employee” (except as provided in section 4102(8) of this title) means, when used with respect to an agency or to the Government generally, an officer or employee (including a member of the Service) or a member of the Armed Forces of the United States, the commissioned corps of the Public Health Service, or the commissioned corps of the National Oceanic and Atmospheric Administration;
+&emsp;(5) “employee” (except as provided in section 4102(8) of this title) means, when used with respect to an agency or to the Government generally, an officer or employee (including a member of the Service) or a memberof the Armed Forces of the United States, the commissioned corps of the Public Health Service, or the commissioned corps of the National Oceanic and Atmospheric Administration;
 
 &emsp;(6) “function” includes any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity;
 
@@ -35,10 +35,6 @@ Section 552(e) of title 5, referred to in par. (2), was redesignated section 552
 #### Amendments
 
 1983—Pub. L. 98–164 struck out “(a)” before “As used in this chapter”, and struck out subsec. (b) which provided that references to Foreign Service officers in any provision be deemed to refer to, with respect to the United States Information Agency, Foreign Service Information officers.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2391, 3982, 4341 of this title; title 5 section 6301; title 50 section 404j.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

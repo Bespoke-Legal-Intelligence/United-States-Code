@@ -14,7 +14,7 @@ In carrying out evaluations under this subchapter, the Director shall, whenever 
 
 #### (d) Summaries of results; publication
 
-The Director shall publish summaries of the results of evaluations of program and project impact and effectiveness no later than sixty days after the completion thereof.
+The Director shall publish summaries of the results of evaluations of program and projectimpact and effectiveness no later than sixty days after the completion thereof.
 
 #### (e) Federal property
 
@@ -68,6 +68,8 @@ Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated 
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1993 Amendment
@@ -77,10 +79,6 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5084 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

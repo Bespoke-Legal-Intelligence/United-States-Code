@@ -8,7 +8,3 @@ After any such proclamation has been made, the several courts of the United Stat
 
 R.S. §4069 derived from act July 6, 1798, ch. 66, §2, 1 Stat. 577.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9, 34, 1981, 1982 of Appendix to this title; title 5 section 8332.
-

@@ -2,7 +2,7 @@
 
 #### (a) Importance of forests and tree cover
 
-In enacting section 2151a(b)(3) of this title the Congress recognized the importance of forestsand tree cover to the developing countries. The Congress is particularly concerned about the continuing and accelerating alteration, destruction, and loss of tropical forests in developing countries, which pose a serious threat to development and the environment. Tropical forest destruction and loss—
+In enacting section 2151a(b)(3) of this title the Congress recognized the importance of forests and tree cover to the developing countries. The Congress is particularly concerned about the continuing and accelerating alteration, destruction, and loss of tropical forests in developing countries, which pose a serious threat to development and the environment. Tropical forest destruction and loss—
 
 &emsp;(1) result in shortages of wood, especially wood for fuel; loss of biologically productive wetlands; siltation of lakes, reservoirs, and irrigation systems; floods; destruction of indigenous peoples; extinction of plant and animal species; reduced capacity for food production; and loss of genetic resources; and
 
@@ -60,7 +60,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;(12) To the fullest extent feasible, utilize the resources and abilities of all relevant United States Government agencies.
 
-&emsp;(13) Require that any program or project under this part significantly affecting tropicalforests (including projects involving the planting of exotic plant species)—
+&emsp;(13) Require that any program or project under this part significantly affecting tropical forests (including projects involving the planting of exotic plant species)—
 
 &emsp;&emsp;(A) be based upon careful analysis of the alternatives available to achieve the best sustainable use of the land, and
 
@@ -109,8 +109,4 @@ A prior section 118 of Pub. L. 87–195, pt. I, was renumbered section 117 and i
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2191 of this title.
 

@@ -22,7 +22,7 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may bedepartments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
+&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may be departments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
 
 #### (2) Preference in making awards
 
@@ -58,7 +58,7 @@ The period during which payments are made to an entity from an award of a grant 
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this section, there is authorized to be appropriated $78,300,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
+&emsp;For the purpose of carrying out this section, there is authorized to be appropriated$78,300,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.
 
 #### (2) Allocation
 
@@ -105,10 +105,6 @@ Subsecs. (c) to (e). Pub. L. 105–392, §102(3)(D), (E), added subsec. (c) and 
 Subsec. (e)(1). Pub. L. 105–392, §102(3)(F)(i), substituted “$78,300,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.” for “$54,000,000 for each of the fiscal years 1993 through 1995.”
 
 Subsec. (e)(2). Pub. L. 105–392, §102(3)(F)(ii), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall make available not less than 20 percent for awards of grants and contracts under subsection (b) of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 288, 293<i>l</i>, 295j of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

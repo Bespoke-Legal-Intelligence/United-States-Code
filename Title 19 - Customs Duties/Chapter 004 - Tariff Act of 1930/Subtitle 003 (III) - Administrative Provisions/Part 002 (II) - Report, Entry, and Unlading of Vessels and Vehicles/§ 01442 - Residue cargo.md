@@ -12,7 +12,3 @@ Provisions authorizing the Secretary of the Treasury to require bonds in cases o
 
 Special provisions concerning Astoria and Portland were contained in R.S. §§2588 and 2590, prior to repeal by section 642 of the act of Sept. 21, 1922, ch. 356.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1449 of this title.
-

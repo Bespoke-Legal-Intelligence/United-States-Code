@@ -8,7 +8,3 @@ Not later than 24 months after October 28, 1988 (unless the Administrator of the
 
 Section was not enacted as part of the Solid Waste Disposal Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6914b of this title.
-

@@ -8,7 +8,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 (1) In order to carry out the program, the Director shall—
 
-&emsp;(A) designate the elements of the Agency that are to provide items or services under the program (in this section referred to as “central service providers”);
+&emsp;(A) designate the elements of the Agency that are to provide items or services under theprogram (in this section referred to as “central service providers”);
 
 &emsp;(B) specify the items or services to be provided under the program by such providers; and
 
@@ -58,31 +58,35 @@ The total value of all orders for items or services to be provided under the pro
 
 (1) The Director may permit a central service provider to impose and collect a fee with respect to the provision of an item or service under the program. The amount of the fee may not exceed an amount equal to four percent of the payment received by the provider for the item or service.
 
-(2)(A) Subject to subparagraph (B), the Director may obligate and expend amounts in the Fund that are attributable to the fees imposed and collected under paragraph (1) to acquire equipment or systems for, or to improve the equipment or systems of, central service providers and any elements of the Agency that are not designated for participation in the program in order to facilitate the designation of such elements for future participation in the program.
-
-(B) The Director may not expend amounts in the Fund for purposes specified in subparagraph (A) in fiscal year 1998, 1999, or 2000 unless the Director—
-
-&emsp;(i) secures the prior approval of the Director of the Office of Management and Budget; and
-
-&emsp;(ii) submits notice of the proposed expenditure to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+(2) The Director may obligate and expend amounts in the Fund that are attributable to the fees imposed and collected under paragraph (1) to acquire equipment or systems for, or to improve the equipment or systems of, central service providers and any elements of the Agency that are not designated for participation in the program in order to facilitate the designation of such elements for future participation in the program.
 
 #### (g) Termination
 
-(1) Subject to paragraph (2), the Director of Central Intelligence and the Director of the Office of Management and Budget, acting jointly—
+(1) Subject to paragraph (2), the Director of the Central Intelligence Agency and the Director of the Office of Management and Budget, acting jointly—
 
 &emsp;(A) may terminate the program under this section and the Fund at any time; and
 
 &emsp;(B) upon such termination, shall provide for the disposition of the personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with the program or the Fund.
 
-(2) The Director of Central Intelligence and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+(2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+2004—Subsec. (g)(1). Pub. L. 108–458, §1071(b)(3)(D), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 108–458, §1071(b)(3)(E), substituted “Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+
+2003—Subsec. (f)(2). Pub. L. 108–177 substituted “The Director” for “(A) Subject to subparagraph (B), the Director” and struck out subpar. (B) which read as follows: “The Director may not expend amounts in the Fund for purposes specified in subparagraph (A) in fiscal year 1998, 1999, or 2000 unless the Director—
+
+&emsp;“(i) secures the prior approval of the Director of the Office of Management and Budget; and
+
+&emsp;“(ii) submits notice of the proposed expenditure to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
 
 2002—Subsecs. (g), (h). Pub. L. 107–306 redesignated subsec. (h) as (g) and struck out former subsec. (g), which required annual audit of program activities, set forth provisions relating to form, content, and procedures, and required submission of copies to the Director of the Office of Management and Budget, the Director of Central Intelligence, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
@@ -106,11 +110,19 @@ Subsec. (f)(2)(A). Pub. L. 106–120, §401(c), inserted “central service prov
 
 Subsec. (h)(1). Pub. L. 106–120, §401(d), substituted “2002” for “2000”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 107–248, title VIII, §8042, Oct. 23, 2002, 116 Stat. 1546, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 108–287, title VIII, §8042, Aug. 5, 2004, 118 Stat. 979, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–87, title VIII, §8042, Sept. 30, 2003, 117 Stat. 1081.
+
+Pub. L. 107–248, title VIII, §8042, Oct. 23, 2002, 116 Stat. 1546.
 
 Pub. L. 107–117, div. A, title VIII, §8045, Jan. 10, 2002, 115 Stat. 2257.
 

@@ -6,7 +6,7 @@ The Public Printer shall deliver one set of the Precedents to each Senator or Re
 
 #### (b) Members of Congress following Ninety-fifth Congress not already having sets of Precedents; necessity of written request to Superintendent of Documents for set
 
-Each Senator or Representative in, or Delegate or Resident Commissioner to, each Congress following the Ninety-fifth Congress who has not theretofore received a set of the Precedents shall be entitled to receive one set of the Precedents, upon transmitting a written request for such set to the Superintendent of Documents.
+Each Senator or Representative in, or Delegate or Resident Commissioner to, each Congress following the Ninety-fifth Congress who has not theretofore received a set of the Precedents shall be entitled to receive one set of thePrecedents, upon transmitting a written request for such set to the Superintendent of Documents.
 
 #### (c) Additional distribution of sets
 
@@ -44,13 +44,9 @@ The Public Printer shall make the following distribution of sets of the Preceden
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–186, §202(3)(A), substituted “Representatives, each” for “Representives, each”.
+1996—Subsec. (c)(2). Pub. L. 104–186, §202(3)(A), substituted “Representatives, each” for “Representives, each”.
 
 Subsec. (c)(5). Pub. L. 104–186, §202(3)(B), substituted “and to the Sergeant at Arms of the House of Representatives, each two sets” for “, to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 28b, 28e of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

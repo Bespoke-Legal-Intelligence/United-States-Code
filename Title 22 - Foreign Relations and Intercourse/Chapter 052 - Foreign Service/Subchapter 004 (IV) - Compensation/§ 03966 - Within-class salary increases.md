@@ -16,7 +16,3 @@ The Secretary may grant, on the basis of especially meritorious service, to any 
 
 (Pub. L. 96–465, title I, §406, Oct. 17, 1980, 94 Stat. 2089.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4002, 4006 of this title.
-

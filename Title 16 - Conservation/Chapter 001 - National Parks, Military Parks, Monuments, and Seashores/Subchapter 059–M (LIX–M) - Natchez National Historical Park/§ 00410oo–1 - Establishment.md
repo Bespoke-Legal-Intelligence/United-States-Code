@@ -26,7 +26,3 @@ The Secretary shall prepare a map of the lands included within the park. Such ma
 
 1990—Subsec. (b)(3). Pub. L. 101–399 added par. (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410<i>oo</i>–2 of this title.
-

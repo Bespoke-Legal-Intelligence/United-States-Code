@@ -4,7 +4,7 @@ Persons engaged in the fishery industry, as fishermen, catching, collecting, or 
 
 The term “aquatic products” includes all commercial products of aquatic life in both fresh and salt water, as carried on in the several States, the District of Columbia, the several Territories of the United States, the insular possessions, or other places under the jurisdiction of the United States.
 
-Such associations may have marketing agencies in common, and such associations and their members may make the necessary contracts and agreements to effect such purposes: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof, andconform to one or both of the following requirements:
+Such associations may have marketing agencies in common, and such associations and their members may make the necessary contracts and agreements to effect such purposes: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof, and conform to one or both of the following requirements:
 
 First. That no member of the association is allowed more than one vote because of the amount of stock or membership capital he may own therein; or
 

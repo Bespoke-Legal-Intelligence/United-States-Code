@@ -1,6 +1,6 @@
 ### §182. Notice of intent to dissolve
 
-Whenever a vote is taken to go into liquidation it shall be the duty of the board of directors to cause notice of this fact to be certified, under the seal of the association, by its president or cashier, to the Comptroller of the Currency, and publication thereof to be made for a period of two months in every issue of a newspaper published in the city or town in which the association is located, or if no newspaper is there published, then in the newspaper published nearest thereto, that the association is closing up its affairs, and notifying its creditors to present their claims against the association for payment.
+Whenever a vote is taken to go into liquidation it shall be the duty of the board of directorsto cause notice of this fact to be certified, under the seal of the association, by its president or cashier, to the Comptroller of the Currency, and publication thereof to be made for a period of two months in every issue of a newspaper published in the city or town in which the association is located, or if no newspaper is there published, then in the newspaper published nearest thereto, that the association is closing up its affairs, and notifying its creditors to present their claims against the association for payment.
 
 (R.S. §5221; Aug. 9, 1955, ch. 626, 69 Stat. 546.)
 
@@ -15,8 +15,4 @@ R.S. §5221 derived from act June 3, 1864, ch. 106, §42, 13 Stat. 112, which wa
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 186, 1821 of this title.
 

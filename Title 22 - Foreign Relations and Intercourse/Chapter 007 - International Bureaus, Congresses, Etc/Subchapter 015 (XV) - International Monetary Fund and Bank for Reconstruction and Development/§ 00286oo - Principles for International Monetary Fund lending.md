@@ -32,11 +32,11 @@ It is the policy of the United States to work to implement reforms in the Intern
 
 &emsp;&emsp;(D) requiring all members receiving new disbursements from the Fund to undertake annually independent audits of central bank financial statements and publish the resulting audits; and
 
-&emsp;&emsp;(E) requiring all members seeking new loans from the Fund to provide to the Fund detailed information regarding their internal control procedures, financial reporting and audit mechanisms and, in cases where there are questions about the adequacy ofthese systems, undertaking an on-site review and identifying needed remedies.
+&emsp;&emsp;(E) requiring all members seeking new loans from the Fund to provide to the Fund detailed information regarding their internal control procedures, financial reporting and audit mechanisms and, in cases where there are questions about the adequacy of these systems, undertaking an on-site review and identifying needed remedies.
 
 (July 31, 1945, ch. 339, §63, as added Pub. L. 106–429, §101(a) \[title VIII, §805\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
 
 #### Codification
 
-Section 101(a) \[title VIII, §805\] of Pub. L. 106–429, which directed amendment of the Bretton Woods Agreement Act by adding this section, was executed by amending the Bretton Woods Agreements Act by adding this section, to reflect the probable intent of Congress.
+Section 101(a) \[title VIII, §805\] of Pub. L. 106–429, which directed amendment of the Bretton WoodsAgreement Act by adding this section, was executed by amending the Bretton Woods Agreements Act by adding this section, to reflect the probable intent of Congress.
 

@@ -36,9 +36,5 @@ Section was classified to section 188a–1 of former Title 40, prior to the enac
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–302 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “upon agreement with the Joint Committee on the Library, the Senate Commission on Art, or the House of Representatives Fine Arts Board, as the case may be, transfer such property to the entity with which the agreement is made;”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2083, 2122 of this title.
+1990—Subsec. (b)(1). Pub. L. 101–302 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “upon agreement with the Joint Committee on the Library, the Senate Commission on Art, or the House of Representatives Fine Arts Board, as the case may be, transfer such property to the entity with which the agreement is made;”.
 

@@ -56,7 +56,3 @@ Section 912(b) of Pub. L. 99–662 provided that:
 
 “(5) The Secretary is authorized to determine that no funds appropriated for operation and maintenance, including operation and maintenance of the project for flood control, Mississippi River and Tributaries, are to be used for the particular benefit of projects within the jurisdiction of any non-Federal interest when such non-Federal interest is in arrears for more than twenty-four months in the payment of charges due under an agreement entered into with the United States pursuant to section 221 of the Flood Control Act of 1970 (Public Law 91–611) \[this section\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962d–22 of this title; title 33 sections 1272, 2211, 2213, 2241, 2309a, 2326, 2330, 2903.
-

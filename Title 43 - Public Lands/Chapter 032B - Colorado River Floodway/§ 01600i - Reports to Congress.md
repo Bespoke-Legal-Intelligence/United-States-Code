@@ -4,7 +4,3 @@ Within one year after October 8, 1986, the Secretary shall prepare and submit to
 
 (Pub. L. 99–450, §11, Oct. 8, 1986, 100 Stat. 1134.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1600<i>l</i> of this title.
-

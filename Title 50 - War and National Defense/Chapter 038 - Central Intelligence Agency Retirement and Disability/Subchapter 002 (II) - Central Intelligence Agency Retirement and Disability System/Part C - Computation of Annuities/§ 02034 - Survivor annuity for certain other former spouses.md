@@ -58,7 +58,7 @@ A former spouse is not entitled to a survivor annuity under this section if—
 
 #### (e) Restoration of annuity
 
-Notwithstanding subsection (d)(1) of this section, the deadline by which an application for asurvivor annuity must be submitted shall not apply in cases in which a former spouse's entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2) of this section.
+Notwithstanding subsection (d)(1) of this section, the deadline by which an application for a survivor annuity must be submitted shall not apply in cases in which a former spouse's entitlement to such a survivor annuity is restored under subsection (b)(1) or (c)(2) of this section.
 
 (Pub. L. 88–643, title II, §224, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3217; amended Pub. L. 103–178, title II, §202(a)(6), Dec. 3, 1993, 107 Stat. 2026.)
 
@@ -73,8 +73,4 @@ A prior section 224 of Pub. L. 88–643, as added Pub. L. 99–569, title III, �
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 2031, 2052, 2154 of this title.
 

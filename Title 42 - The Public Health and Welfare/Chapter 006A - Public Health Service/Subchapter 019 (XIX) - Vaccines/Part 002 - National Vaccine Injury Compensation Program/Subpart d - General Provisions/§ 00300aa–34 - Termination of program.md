@@ -10,7 +10,7 @@ The Secretary shall review the number of awards of compensation made under the p
 
 #### (b) Report
 
-(1) If in conducting a review under subsection (a) of this section the Secretary determines that at the end of the period reviewed the total number of awards made by the end of that period and accepted under section 300aa–21(a) of this title exceeds the number of awards listed next to the period reviewed in the table in paragraph (2)—
+(1) If in conducting a review under subsection (a) of this section the Secretary determines thatat the end of the period reviewed the total number of awards made by the end of that period and accepted under section 300aa–21(a) of this title exceeds the number of awards listed next to the period reviewed in the table in paragraph (2)—
 
 &emsp;(A) the Secretary shall notify the Congress of such determination, and
 
@@ -90,5 +90,5 @@ The Secretary shall review the number of awards of compensation made under the p
 
 #### Codification
 
-In subsecs. (a) and (b), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, setout as an Effective Date note under section 300aa–1 of this title.
+In subsecs. (a) and (b), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 

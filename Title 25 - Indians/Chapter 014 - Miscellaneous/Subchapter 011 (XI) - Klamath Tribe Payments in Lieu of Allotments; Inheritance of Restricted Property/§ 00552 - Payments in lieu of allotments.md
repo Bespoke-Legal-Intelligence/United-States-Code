@@ -4,7 +4,3 @@ Each enrolled member of the Klamath Tribe living on June 1, 1938, who has not re
 
 (June 1, 1938, ch. 310, §2, 52 Stat. 605.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 542 of this title.
-

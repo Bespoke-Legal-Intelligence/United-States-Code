@@ -1,9 +1,5 @@
 ## Subpart B—Employment and Retention
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 9701, 9902 of this title.
-
 
 ---
 

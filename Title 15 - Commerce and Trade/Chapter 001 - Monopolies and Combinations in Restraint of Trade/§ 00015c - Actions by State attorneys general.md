@@ -32,7 +32,7 @@ In any action under subsection (a) of this section—
 
 &emsp;(2) the court may, in its discretion, award a reasonable attorney's fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.
 
-(Oct. 15, 1914, ch. 323, §4C, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1394;amended Pub. L. 96–349, §4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
+(Oct. 15, 1914, ch. 323, §4C, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1394; amended Pub. L. 96–349, §4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
 
 #### References in Text
 
@@ -49,8 +49,4 @@ Amendment by Pub. L. 96–349 applicable only with respect to actions commenced 
 #### Effective Date
 
 Section 304 of Pub. L. 94–435 provided that: “The amendments to the Clayton Act made by section 301 of this Act \[enacting this section and sections 15d to 15h of this title\] shall not apply to any injury sustained prior to the date of enactment of this Act \[Sept. 30, 1976\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15b, 15d, 15e, 15g, 15h, 16, 35, 36, 4303 of this title; title 28 section 1407; title 42 section 11111.
 

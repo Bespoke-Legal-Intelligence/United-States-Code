@@ -24,11 +24,11 @@ The Council shall—
 
 &emsp;(4) develop and promote new initiatives, policies, programs, and plans designed to foster women's business enterprise;
 
-&emsp;(5) advise and consult with the Interagency Committee in the design of a comprehensive plan for a joint public-private sector effort to facilitate growth and development of women's business enterprise;
+&emsp;(5) advise and consult with the Interagency Committee in the design of a comprehensive plan for a joint public-private sector effort to facilitate growth and development of women's business enterprise; <sup>1</sup>
 
 &emsp;(6) not later than 90 days after the last day of each fiscal year, submit to the President and to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives, a report containing—
 
-&emsp;&emsp;(A) a detailed description of the activities of the council,<sup>1</sup> including a status report on the Council's progress toward meeting its duties outlined in subsections (a) and (d) of this section;
+&emsp;&emsp;(A) a detailed description of the activities of the council,<sup>2</sup> including a status report onthe Council's progress toward meeting its duties outlined in subsections (a) and (d) of this section;
 
 &emsp;&emsp;(B) the findings, conclusions, and recommendations of the Council; and
 
@@ -36,7 +36,7 @@ The Council shall—
 
 #### (e) Form of transmittal
 
-The information included in each report under subsection (d) of this section that is described in subparagraphs (A) through (C) of subsection\(d)(6) of this section, shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
+The information included in each report under subsection (d) of this section that is described in subparagraphs (A) through (C) of subsection (d)(6) of this section, shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
 (Pub. L. 100–533, title IV, §406, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4195; amended Pub. L. 105–135, title III, §303, Dec. 2, 1997, 111 Stat. 2609.)
 
@@ -52,9 +52,15 @@ Subsec. (d)(6). Pub. L. 105–135, §303(2), added par. (6).
 
 Subsec. (e). Pub. L. 105–135, §303(2), added subsec. (e).
 
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. Semicolon probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

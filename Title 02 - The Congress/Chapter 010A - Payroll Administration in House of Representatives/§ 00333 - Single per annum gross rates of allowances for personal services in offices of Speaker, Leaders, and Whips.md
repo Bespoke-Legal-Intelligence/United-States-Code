@@ -14,7 +14,3 @@ The allowance for additional office personnel in the office of each of the follo
 
 (Pub. L. 91–510, title IV, §473, Oct. 26, 1970, 84 Stat. 1194.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 333a of this title.
-

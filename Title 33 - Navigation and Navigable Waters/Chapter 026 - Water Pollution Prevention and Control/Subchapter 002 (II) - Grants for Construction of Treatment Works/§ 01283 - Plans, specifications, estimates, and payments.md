@@ -108,7 +108,3 @@ Subsec. (e). Pub. L. 95–217, §19, added subsec. (e).
 
 1974—Subsec. (d). Pub. L. 93–243 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1284, 1285, 1311 of this title.
-

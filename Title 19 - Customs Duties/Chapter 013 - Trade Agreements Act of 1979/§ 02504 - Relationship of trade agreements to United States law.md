@@ -6,7 +6,7 @@ No provision of any trade agreement approved by the Congress under section 2503(
 
 #### (b) Implementing regulations
 
-Regulations necessary or appropriate to carry out actions proposed in any statement of proposed administrative action submitted to theCongress under section 2112 of this title to implement each agreement approved under section 2503(a) of this title shall be issued within 1 year after the date of the entry into force of such agreement with respect to the United States.
+Regulations necessary or appropriate to carry out actions proposed in any statement of proposed administrative action submitted to the Congress under section 2112 of this title to implement each agreement approved under section 2503(a) of this title shall be issued within 1 year after the date of the entry into force of such agreement with respect to the United States.
 
 #### (c) Changes in statutes to implement a requirement, amendment, or recommendation
 

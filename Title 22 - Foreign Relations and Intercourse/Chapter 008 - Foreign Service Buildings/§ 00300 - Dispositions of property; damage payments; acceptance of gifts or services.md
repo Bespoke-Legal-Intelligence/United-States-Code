@@ -4,7 +4,7 @@
 
 The Secretary of State is authorized—
 
-&emsp;(1) to sell, exchange, lease, or license any property or property interest acquired under this chapter, or under other authority, for useof diplomatic and consular establishments in foreign countries or in the United States pursuant to section 4304(b)(5) of this title,
+&emsp;(1) to sell, exchange, lease, or license any property or property interest acquired under this chapter, or under other authority, for use of diplomatic and consular establishments in foreign countries or in the United States pursuant to section 4304(b)(5) of this title,
 
 &emsp;(2) to receive payment in whatever form, or in kind, he determines to be in the interest of the United States for damage to or destruction of property acquired for use of diplomatic and consular establishments abroad, and the contents of such buildings, and
 
@@ -35,8 +35,4 @@ Subsec. (b). Pub. L. 89–636 substituted provisions designated as subsec. (b) a
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the Secretary reporting transactions annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 129 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2715c, 4304 of this title.
 

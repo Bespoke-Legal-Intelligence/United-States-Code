@@ -48,7 +48,3 @@ In subsection (c), the words “applies” and “shows” are substituted for �
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(3), are set out in the Appendix to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 sections 2149, 3804, 3805; title 8 section 1252.
-

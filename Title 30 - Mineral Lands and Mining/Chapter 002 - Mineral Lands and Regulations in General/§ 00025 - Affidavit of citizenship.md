@@ -4,7 +4,3 @@ Applicants for mineral patents, if residing beyond the limits of the district wh
 
 (Apr. 26, 1882, ch. 106, §2, 22 Stat. 49.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460mm–1.
-

@@ -192,7 +192,12 @@
 | (a) | In general. |
 | (b) | Calculation of yields. |
 | [1981f.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001981f%20-%20Underwriting%20forms%20and%20standards.md) | Underwriting forms and standards. |
-| [1982\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001982%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7227%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203218.md) | Repealed. |
+| [1982\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001982%20-%20Relief%20for%20mobilized%20military%20reservists%20from%20certain%20agricultural%20loan%20obligations.md) | Relief for mobilized military reservists from certain agricultural loan obligations. |
+| (a) | Definition of mobilized military reservist. |
+| (b) | Forgiveness of interest payments due while borrower is a mobilized military reservist. |
+| (c) | Deferral of principal payments due while or after borrower is a mobilized military reservist. |
+| (d) | Nonaccrual of interest. |
+| (e) | Borrower not considered to be delinquent or receiving debt forgiveness. |
 | [1983\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983%20-%20Special%20conditions%20and%20limitations%20on%20loans.md) | Special conditions and limitations on loans. |
 | [1983a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983a%20-%20Prompt%20approval%20of%20loans%20and%20loan%20guarantees.md) | Prompt approval of loans and loan guarantees. |
 | (a) | Applications; time for action by Secretary; notice; statement of reasons. |
@@ -695,10 +700,6 @@
 | (b) | Other expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 940, 1515, 2279, 2279a, 7996 of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 section 14507; title 42 sections 8813, 9817.
 
 
 ---

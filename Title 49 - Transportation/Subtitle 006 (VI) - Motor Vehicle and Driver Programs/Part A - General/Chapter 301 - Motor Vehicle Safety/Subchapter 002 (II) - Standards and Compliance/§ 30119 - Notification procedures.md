@@ -140,7 +140,3 @@ In subsection (d)(4), the words “or dealers” are omitted because of 1:1. The
 
 In subsection (e), the word “replacement” is added for clarity and consistency with the source provisions being restated in subsection (d) of this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30102, 30103, 30117, 30118, 30120, 30121, 30141, 30147, 30165, 30166, 30167 of this title.
-

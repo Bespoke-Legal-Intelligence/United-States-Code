@@ -24,7 +24,7 @@ The Congress finds as follows:
 
 #### (A) Violation
 
-&emsp;&emsp;Any international matchmaking organization that the Attorney General determineshas violated this subsection shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $20,000 for each such violation.
+&emsp;&emsp;Any international matchmaking organization that the Attorney General determines has violated this subsection shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $20,000 for each such violation.
 
 #### (B) Procedures for imposition of penalty
 
@@ -46,7 +46,7 @@ The Attorney General, in consultation with the Commissioner of Immigration and N
 
 #### (d) Report
 
-Not later than 1 year after September 30, 1996, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate setting forth the results of the study conducted under subsection (c) of this section.
+Not later than 1 year after September 30, 1996, the Attorney General shall submit a report tothe Committees on the Judiciary of the House of Representatives and of the Senate setting forth the results of the study conducted under subsection (c) of this section.
 
 #### (e) Definitions
 

@@ -2,7 +2,7 @@
 
 To effectuate the recommendations in the report to the Congress on the North Carolina-Georgia extension of the Blue Ridge Parkway, made pursuant to the Act of August 10, 1961 (75 Stat. 337)—
 
-&emsp;(1) The Secretary of the Interior and the Secretary of Agriculture shall, insofar as practicable, coordinate and correlate recreational development on lands within the parkway andadjacent or related national forests land: <i>Provided</i>, That within national forest boundaries recreational developments and facilities on Federal lands other than those actually within the national parkway shall be administered by the Secretary of Agriculture;
+&emsp;(1) The Secretary of the Interior and the Secretary of Agriculture shall, insofar as practicable, coordinate and correlate recreational development on lands within the parkway and adjacent or related national forests land: <i>Provided</i>, That within national forest boundaries recreational developments and facilities on Federal lands other than those actually within the national parkway shall be administered by the Secretary of Agriculture;
 
 &emsp;(2) Upon the request of the Secretary of Agriculture, the Secretary of the Interior shall relocate and reconstruct any national forest roads that may be disturbed by the parkway extension, or provide alternative roads that are necessary to the protection, administration, or utilization of the national forests, and shall allow access to areas to be developed by the Secretary of Agriculture on adjacent national forest lands unless to do so will materially impair the primary purposes of the parkway;
 

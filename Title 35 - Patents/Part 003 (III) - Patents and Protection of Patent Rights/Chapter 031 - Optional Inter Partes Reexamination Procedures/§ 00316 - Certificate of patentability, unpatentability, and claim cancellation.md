@@ -14,7 +14,3 @@ Amended or New Claim.—Any proposed amended or new claim determined to be paten
 
 2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 317 of this title.
-

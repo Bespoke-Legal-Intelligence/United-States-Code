@@ -30,7 +30,7 @@
 
 #### Prior Provisions
 
-A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II,§206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, §7608(a)(1).
+A prior section 566, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620; amended Pub. L. 92–310, title II, §206(b), June 6, 1972, 86 Stat. 203, provided that upon death of a marshal his deputy or deputies perform his duties until a successor is appointed and qualifies, prior to repeal by Pub. L. 100–690, §7608(a)(1).
 
 #### Fugitive Apprehension Task Forces
 

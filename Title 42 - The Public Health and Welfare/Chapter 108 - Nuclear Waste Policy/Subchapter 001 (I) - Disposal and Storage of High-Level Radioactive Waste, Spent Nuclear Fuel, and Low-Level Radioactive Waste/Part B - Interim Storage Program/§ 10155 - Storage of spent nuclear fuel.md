@@ -126,9 +126,5 @@ Section 10198 of this title, referred to in subsec. (i), was in the original a r
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (d)(5) and (f) of this section are listed as the 12th and 13th items on page 83), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10139, 10156, 10198 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

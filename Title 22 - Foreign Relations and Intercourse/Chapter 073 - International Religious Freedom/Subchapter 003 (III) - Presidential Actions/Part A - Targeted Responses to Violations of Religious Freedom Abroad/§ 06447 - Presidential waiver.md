@@ -16,7 +16,3 @@ Not later than the date of the exercise of a waiver under subsection (a) of this
 
 (Pub. L. 105–292, title IV, §407, Oct. 27, 1998, 112 Stat. 2808.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6448 of this title.
-

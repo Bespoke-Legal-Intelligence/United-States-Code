@@ -24,7 +24,3 @@
 
 For short title of title I of Pub. L. 98–180 as the “Dairy Production Stabilization Act of 1983”, see Short Title of 1983 Amendment note set out under section 1421 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4502 of this title.
-

@@ -26,7 +26,3 @@ For purposes of this part:
 
 1990—Pub. L. 101–645 amended section generally, substituting provisions relating to definitions for provisions relating to nondiscrimination.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 254b of this title.
-

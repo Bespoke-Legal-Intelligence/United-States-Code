@@ -1754,11 +1754,7 @@ Section 3001(c) of Pub. L. 101–239 provided that: “The amendments made by th
 
 #### Schedule of Charges
 
-Section 5002(f) of Pub. L. 99–272 established the Schedule of Charges which the Federal Communications Commission is required to prescribe pursuant to subsec. (a) of this section. See subsec. (g) of this section as added by Pub. L. 101–239.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 309 of this title.
+Section 5002(f) of Pub. L. 99–272 established the Schedule of Charges which the Federal CommunicationsCommission is required to prescribe pursuant to subsec. (a) of this section. See subsec. (g) of this section as added by Pub. L. 101–239.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an application fee”.</i>
 

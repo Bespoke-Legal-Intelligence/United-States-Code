@@ -18,7 +18,3 @@ The consequences of a claim of privileges by a debtor under proposed law and und
 
 Under section 727(a)(6) of the proposed title 11, a debtor is only denied a discharge if he refuses to testify after having been granted immunity. If the debtor claims the privilege and the U. S. attorney does not request immunity from the district courts, then the debtor may refuse to testify and still retain his right to a discharge. It removes the Scylla and Charibdis choice for debtors that exists under the Bankruptcy Act \[former title 11\].
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 901 of this title.
-

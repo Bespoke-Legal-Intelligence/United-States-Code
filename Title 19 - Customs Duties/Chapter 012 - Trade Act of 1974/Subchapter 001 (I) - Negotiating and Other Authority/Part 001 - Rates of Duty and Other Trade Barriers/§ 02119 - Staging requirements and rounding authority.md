@@ -2,7 +2,7 @@
 
 #### (a) Maximum aggregate reductions in rates of duty
 
-Except as otherwise provided in this section, the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement under section 2111 ofthis title shall not exceed the aggregate reduction which would have been in effect on such day if—
+Except as otherwise provided in this section, the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement under section 2111 of this title shall not exceed the aggregate reduction which would have been in effect on such day if—
 
 &emsp;(1) a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed pursuant to section 2111(a)(2) of this title to carry out such agreement with respect to such article, and
 
@@ -63,8 +63,4 @@ In General.—The aggregate reduction in the rate of duty applicable to items de
 “(b)
 
 Opportunity for Comment.—Before making any determination under subsection (a)(1) and (2), the President shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2134 of this title.
 

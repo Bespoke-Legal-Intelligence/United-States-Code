@@ -20,7 +20,3 @@ Based on 44 U.S. Code, 1964 ed., §396(e) (June 30, 1949, ch. 288, title V, §50
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3102 of this title; title 25 section 458aaa–5.
-

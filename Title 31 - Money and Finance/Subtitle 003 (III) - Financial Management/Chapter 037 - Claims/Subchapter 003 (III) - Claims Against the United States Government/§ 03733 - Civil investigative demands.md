@@ -122,7 +122,7 @@ Sworn certificates.—The production of documentary material in response to a ci
 
 &emsp;&emsp;(A) in the case of a natural person, the person to whom the demand is directed, or
 
-&emsp;&emsp;(B) in the case of a person other than a natural person, a person having knowledge of the facts and circumstances relating tosuch production and authorized to act on behalf of such person.
+&emsp;&emsp;(B) in the case of a person other than a natural person, a person having knowledge of the facts and circumstances relating to such production and authorized to act on behalf of such person.
 
 > &emsp;The certificate shall state that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the false claims law investigator identified in the demand.
 
@@ -210,7 +210,7 @@ Conditions for return of material.—If any documentary material has been produc
 
 &emsp;&emsp;(A) any case or proceeding before the court or grand jury arising out of such investigation, or any proceeding before any Federal agency involving such material, has been completed, or
 
-&emsp;&emsp;(B) no case or proceeding in which such material may be used has been commenced within a reasonable time after completion ofthe examination and analysis of all documentary material and other information assembled in the course of such investigation,
+&emsp;&emsp;(B) no case or proceeding in which such material may be used has been commenced within a reasonable time after completion of the examination and analysis of all documentary material and other information assembled in the course of such investigation,
 
 > &emsp;the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies furnished to the false claims law investigator under subsection (f)(2) or made for the Department of Justice under paragraph (2)(B)) which has not passed into the control of any court, grand jury, or agency through introduction into the record of such case or proceeding.
 
@@ -282,7 +282,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(3) the term “false claims law investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
 
-&emsp;(4) the term “person” means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
+&emsp;(4) the term “person” means any natural person, partnership, corporation, association,or other legal entity, including any State or political subdivision of a State;
 
 &emsp;(5) the term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
 
@@ -303,8 +303,4 @@ Definitions.—For purposes of this section—
 The Federal Rules of Civil Procedure, referred to in subsecs. (b)(1)(B), (c)(2), (h)(1), and (j)(6), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The date of enactment of this section, referred to in subsec. (<i>l</i>)(1)(B), is the date of enactment of Pub. L. 99–562, which was approved Oct. 27, 1986.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 sections 637, 657a; title 20 section 1078–9; title 42 section 1395i.
 

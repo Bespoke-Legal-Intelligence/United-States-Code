@@ -12,7 +12,7 @@
 
 &emsp;(5) existing institutions providing programs in international affairs, diplomacy, conflict resolution, and peace studies are essential to further development of techniques to promote peaceful resolution of international conflict, and the peacemaking activities of people in such institutions, government, private enterprise, and voluntary associations can be strengthened by a national institution devoted to international peace research, education and training, and information services;
 
-&emsp;(6) there is a need for Federal leadership to expand and support the existing international peace and conflict resolution efforts of the Nation and to develop new comprehensive peaceeducation and training programs, basic and applied research projects, and programs providing peace information;
+&emsp;(6) there is a need for Federal leadership to expand and support the existing international peace and conflict resolution efforts of the Nation and to develop new comprehensive peace education and training programs, basic and applied research projects, and programs providing peace information;
 
 &emsp;(7) the Commission on Proposals for the National Academy of Peace and Conflict Resolution, created by the Education Amendments of 1978, recommended establishing an academy as a highly desirable investment to further the Nation's interest in promoting international peace;
 

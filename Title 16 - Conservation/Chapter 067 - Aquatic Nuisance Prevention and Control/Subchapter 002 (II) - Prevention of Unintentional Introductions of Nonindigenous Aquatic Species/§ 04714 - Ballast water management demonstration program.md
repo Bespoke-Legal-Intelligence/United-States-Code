@@ -90,7 +90,3 @@ For purposes of this section, the term “technologies and practices” means th
 
 (Pub. L. 101–646, title I, §1104, as added Pub. L. 104–332, §2(d), Oct. 26, 1996, 110 Stat. 4083.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4741 of this title.
-

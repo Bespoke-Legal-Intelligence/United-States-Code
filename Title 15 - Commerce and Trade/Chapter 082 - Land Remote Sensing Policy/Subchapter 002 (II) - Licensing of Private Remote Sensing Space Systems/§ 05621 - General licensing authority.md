@@ -50,7 +50,3 @@ Collection and Dissemination.—A department or agency of the United States may 
 
 Declassification and Release.—A department or agency of the United States may declassify or otherwise release satellite imagery with respect to Israel only if such imagery is no more detailed or precise than satellite imagery of Israel that is available from commercial sources.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5622 of this title.
-

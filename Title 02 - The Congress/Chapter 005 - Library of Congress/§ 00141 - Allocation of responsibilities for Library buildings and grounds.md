@@ -34,11 +34,11 @@ The Architect of the Capitol and the Librarian of Congress may enter into agreem
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.”
+2003—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes.”
 
-<b>1990</b>—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
+1990—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
 
-<b>1970</b>—Pub. L. 91–280 substituted “purchasing of all equipment other than office equipment” for “purchasing and supplying of all furniture and equipment for the building” in second sentence and inserted sentence at end.
+1970—Pub. L. 91–280 substituted “purchasing of all equipment other than office equipment” for “purchasing and supplying of all furniture and equipment for the building” in second sentence and inserted sentence at end.
 
 #### Effective Date of 2003 Amendment
 
@@ -56,7 +56,7 @@ Pub. L. 105–144, Dec. 15, 1997, 111 Stat. 2667, as amended by Pub. L. 106–55
 
 “(a)
 
-Acquisition.—The Architect of the Capitol may acquire on behalf of the United States Government bytransfer of title, without reimbursement or transfer of funds, the following property:
+Acquisition.—The Architect of the Capitol may acquire on behalf of the United States Government by transfer of title, without reimbursement or transfer of funds, the following property:
 
 &emsp;“(1) Three parcels totaling approximately 45 acres, more or less, located in Culpeper County, Virginia, and identified as Culpeper County Tax Parcel Numbers 51–80B, 51–80C, and 51–80D, further described as real estate (consisting of 40.949 acres) conveyed to David and Lucile Packard Foundation by deed from Federal Reserve Bank of Richmond, dated May 15, 1998, and recorded May 19, 1998, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, in Deed Book 644, page 372; and real estate (consisting of 4.181 acres) conveyed to Packard Humanities Institute by deed from Russell H. Inskeep, dated February 13, 2002, and recorded February 13, 2002, in the Clerk's Office, Circuit Court of Culpeper County, Virginia, as instrument number 020001299.
 
@@ -80,7 +80,7 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### “SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
-“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 #### “SEC. 5. EFFECTIVE DATE.
 
@@ -120,7 +120,7 @@ Section 205 of Pub. L. 101–520, as amended by Pub. L. 102–451, §§1–3, Oc
 
 “(b) \[Amended section 141 of this title.\]
 
-“(c) The property and improvements acquired under subsection (a) shall be repaired and altered, to the maximum extent feasible as determined by the Architect of the Capitol, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes (including electricalcodes, fire and life safety codes, plumbing codes, as determined appropriate by the Architect), using the latest edition of the nationally recognized codes referred to in this paragraph.
+“(c) The property and improvements acquired under subsection (a) shall be repaired and altered, to the maximum extent feasible as determined by the Architect of the Capitol, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes (including electrical codes, fire and life safety codes, plumbing codes, as determined appropriate by the Architect), using the latest edition of the nationally recognized codes referred to in this paragraph.
 
 “(d) \[Amended section 167j of this title.\]
 

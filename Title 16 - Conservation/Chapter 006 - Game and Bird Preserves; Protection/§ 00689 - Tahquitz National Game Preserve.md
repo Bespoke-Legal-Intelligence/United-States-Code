@@ -6,9 +6,5 @@ That where the Government survey has not been completed the aforesaid descriptio
 
 (July 3, 1926, ch. 776, §1, 44 Stat. 889.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 689a, 689c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion, to accept in beh
 
 (May 4, 1934, ch. 218, §1, 48 Stat. 666.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 424b of this title.
-

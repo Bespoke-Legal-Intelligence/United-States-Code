@@ -8,7 +8,3 @@ Moneys covered into the fund shall be available for expenditure for the purposes
 
 1987—Pub. L. 100–203 amended last sentence generally. Prior to amendment, last sentence read as follows: “Moneys covered into this fund not subsequently authorized by the Congress for expenditures within two fiscal years following the fiscal year in which such moneys had been credited to the fund, shall be transferred to miscellaneous receipts of the Treasury.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–5, 460<i>l</i>–10a, 460<i>l</i>–10b of this title; title 43 section 2305.
-

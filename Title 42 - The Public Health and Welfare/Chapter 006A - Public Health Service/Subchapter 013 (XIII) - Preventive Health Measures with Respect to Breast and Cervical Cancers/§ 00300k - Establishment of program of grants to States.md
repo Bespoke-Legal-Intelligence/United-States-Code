@@ -88,7 +88,3 @@ Pub. L. 103–183, §101(b), added subsec. (c) relating to special consideration
 
 Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300<i>l</i>, 300<i>l</i>–1, 300m, 300n, 300n–1, 300n–2, 300n–3, 300n–4, 300n–4a of this title.
-

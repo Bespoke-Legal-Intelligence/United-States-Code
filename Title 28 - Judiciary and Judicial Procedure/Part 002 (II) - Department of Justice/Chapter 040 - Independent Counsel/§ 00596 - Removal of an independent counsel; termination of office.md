@@ -10,7 +10,7 @@ Grounds for removal.—An independent counsel appointed under this chapter may b
 
 &emsp;(2)
 
-Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the courtand the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
+Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the court and the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
 
 &emsp;(3)
 
@@ -24,7 +24,7 @@ Termination of Office.—
 
 Termination by action of independent counsel.—An office of independent counsel shall terminate when—
 
-&emsp;&emsp;(A) the independent counsel notifies the Attorney General that the investigation of all matters within the prosecutorial jurisdiction of such independent counsel or accepted by such independent counsel under section 594(e), and any resulting prosecutions, have been completed or so substantially completed that it would be appropriate for the Department of Justice to complete such investigations and prosecutions; and
+&emsp;&emsp;(A) the independent counsel notifies the Attorney General that the investigation of all matters within the prosecutorial jurisdiction of such independent counsel or accepted by such independent counsel undersection 594(e), and any resulting prosecutions, have been completed or so substantially completed that it would be appropriate for the Department of Justice to complete such investigations and prosecutions; and
 
 &emsp;&emsp;(B) the independent counsel files a final report in compliance with section 594(h)(1)(B).
 
@@ -66,7 +66,9 @@ Subsecs. (a)(2), (3), (b). Pub. L. 97–409, §2(a)(1)(A), substituted “indepe
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee onGovernment Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
@@ -79,10 +81,6 @@ Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to procee
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 594 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

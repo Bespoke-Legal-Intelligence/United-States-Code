@@ -32,7 +32,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(i) an opportunity for a public hearing was given to consider the economic, social, and environmental effects of the location and the location's consistency with the objectives of any planning that the community has carried out;
 
-&emsp;&emsp;(ii) the airport management board has voting representation from the communities inwhich the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project; and
+&emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project; and
 
 &emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
@@ -80,7 +80,7 @@ Competition Plans.—
 
 &emsp;(1)
 
-Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 and no grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
+Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be approved for a covered airport under section 40117 andno grant may be made under this subchapter for a covered airport unless the airport has submitted to the Secretary a written competition plan in accordance with this subsection.
 
 &emsp;(2)
 
@@ -198,7 +198,7 @@ In subsection (e)(1), before clause (A), the words “under this subchapter” a
 
 In subsection (e)(2)(A), the word “mutual” is omitted as surplus.
 
-In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United States Code. The words “the date on which” are omitted as surplus.
+In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United StatesCode. The words “the date on which” are omitted as surplus.
 
 #### Amendments
 
@@ -285,8 +285,4 @@ Pub. L. 106–181, title V, §514(d), Apr. 5, 2000, 114 Stat. 144, provided that
 #### Compliance With Requirements
 
 Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: “Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 40117 of this title.
 

@@ -16,7 +16,3 @@ Federal Power Commission terminated and its functions, personnel, property, fund
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 835<i>l</i> of this title; title 43 sections 615rrr, 616nnnn, 616uuuu.
-

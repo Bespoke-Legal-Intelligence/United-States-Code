@@ -12,7 +12,3 @@ Section was enacted as part of the Panama Canal Commission Compensation Fund Act
 
 Section effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as an Effective Date of 1988 Amendment note under section 3612 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3715c of this title.
-

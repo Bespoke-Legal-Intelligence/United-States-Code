@@ -3,16 +3,19 @@
 | Sec. |  |
 | :--- | ---: |
 | [831\.](%C2%A7%2000831%20-%20Creation%3B%20short%20title.md) | Creation; short title. |
-| [831a.](%C2%A7%2000831a%20-%20Directors%20of%20the%20Authority.md) | Directors of the Authority. |
-| (a) | Composition of board; appointment and designation. |
-| (b) | Terms of office; successors. |
-| (c) | Vacancies. |
-| (d) | Quorums. |
-| (e) | Citizenship; compensation; Government housing; reimbursement for expenses; outside business. |
-| (f) | Conflicts of interest. |
-| (g) | Function of board. |
-| (h) | Confidence in the Authority. |
+| [831a.](%C2%A7%2000831a%20-%20Membership%2C%20operation%2C%20and%20duties%20of%20the%20Board%20of%20Directors.md) | Membership, operation, and duties of the Board of Directors. |
+| (a) | Membership. |
+| (b) | Qualifications. |
+| (c) | Recommendations. |
+| (d) | Terms. |
+| (e) | Quorum. |
+| (f) | Compensation. |
+| (g) | Duties. |
+| (h) | Chief executive officer. |
+| (i) | Compensation plan. |
 | [831b.](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%E2%80%99%20compensation%20provisions.md) | Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions. |
+| (a) | Appointment by the chief executive officer. |
+| (b) | Wage rates. |
 | 831b–1. | Acceptance of services of volunteers. |
 | [831c.](%C2%A7%2000831c%20-%20Corporate%20powers%20generally%3B%20eminent%20domain%3B%20construction%20of%20dams%2C%20transmission%20lines%2C%20etc.md) | Corporate powers generally; eminent domain; construction of dams, transmission lines, etc. |
 | 831c–1. | Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacements, etc. |
@@ -39,7 +42,9 @@
 | (c) | Oath of office. |
 | [831h.](%C2%A7%2000831h%20-%20Annual%20financial%20statement%3B%20purchases%20and%20contracts%3B%20audit%20by%20Comptroller%20General.md) | Annual financial statement; purchases and contracts; audit by Comptroller General. |
 | (a) | Financial statement and report. |
-| (b) | Bids; audits; settlements; accounts; contracts. |
+| (b) | Bids. |
+| (c) | Audits. |
+| (d) | Administrative accounts and business documents. |
 | 831h–1. | Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity. |
 | 831h–2. | Repealed. |
 | [831i.](%C2%A7%2000831i%20-%20Sale%20of%20surplus%20power%3B%20preferences%3B%20experimental%20work%3B%20acquisition%20of%20existing%20electric%20facilities.md) | Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities. |
@@ -91,17 +96,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 460<i>lll</i>–49, 824k, 831ee of this title; title 7 section 904; title 20 section 7702; title 28 section 1491; title 33 sections 558b, 558c.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00831 - Creation; short title](%C2%A7%2000831%20-%20Creation%3B%20short%20title.md)
-- [&sect; 00831a - Directors of the Authority](%C2%A7%2000831a%20-%20Directors%20of%20the%20Authority.md)
+- [&sect; 00831a - Membership, operation, and duties of the Board of Directors](%C2%A7%2000831a%20-%20Membership%2C%20operation%2C%20and%20duties%20of%20the%20Board%20of%20Directors.md)
 - [&sect; 00831b - Officers and employees; wages of laborers and mechanics; application of employees&#8217; compensation provisions](%C2%A7%2000831b%20-%20Officers%20and%20employees%3B%20wages%20of%20laborers%20and%20mechanics%3B%20application%20of%20employees%E2%80%99%20compensation%20provisions.md)
 - [&sect; 00831b&#8211;1 - Acceptance of services of volunteers](%C2%A7%2000831b%E2%80%931%20-%20Acceptance%20of%20services%20of%20volunteers.md)
 - [&sect; 00831c - Corporate powers generally; eminent domain; construction of dams, transmission lines, etc](%C2%A7%2000831c%20-%20Corporate%20powers%20generally%3B%20eminent%20domain%3B%20construction%20of%20dams%2C%20transmission%20lines%2C%20etc.md)

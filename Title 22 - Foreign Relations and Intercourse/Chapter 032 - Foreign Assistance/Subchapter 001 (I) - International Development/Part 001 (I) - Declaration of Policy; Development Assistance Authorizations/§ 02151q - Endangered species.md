@@ -70,7 +70,7 @@ A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88,
 
 1989—Subsec. (b). Pub. L. 101–167 inserted “, notwithstanding section 2420 of this title,” after “subchapter I of this chapter”.
 
-1986—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
+1986—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: “The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administratorof the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries.”
 
 Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows: “Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries.”
 
@@ -87,8 +87,4 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Increased International Cooperation To Protect Biological Diversity
 
 Pub. L. 100–530, Oct. 25, 1988, 102 Stat. 2651, provided that Congress supports United States efforts, consistent with 22 U.S.C. 2151q(g), to initiate discussions to develop an international agreement to preserve biological diversity and calls upon the President to continue exerting United States leadership in order to achieve the earliest possible negotiation of an international convention to conserve biological diversity, and directed the President to submit a report to Congress on progress toward goal of negotiating such convention not later than one year after Oct. 25, 1988.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2191 of this title.
 

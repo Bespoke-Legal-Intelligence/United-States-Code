@@ -29,7 +29,7 @@
 | (d) | Credit to the fund of interest and proceeds of sale or redemption. |
 | [2010\.](%C2%A7%2002010%20-%20Expenditures%20and%20audit%20of%20Trust%20Fund.md) | Expenditures and audit of Trust Fund. |
 | (a) | Authorization of funding. |
-| (b) | Access to books, records, etc., by General Accounting Office. |
+| (b) | Access to books, records, etc., by Government Accountability Office. |
 | [2011\.](%C2%A7%2002011%20-%20Executive%20Secretary%20of%20Foundation.md) | Executive Secretary of Foundation. |
 | (a) | Appointment; functions. |
 | (b) | Compensation. |

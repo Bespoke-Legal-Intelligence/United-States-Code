@@ -14,7 +14,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 626 of this title.
-

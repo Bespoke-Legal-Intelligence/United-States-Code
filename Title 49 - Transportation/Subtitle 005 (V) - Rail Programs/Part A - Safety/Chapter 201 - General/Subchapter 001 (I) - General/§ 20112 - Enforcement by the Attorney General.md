@@ -72,7 +72,3 @@ In subsection (b)(1), the text of 45:439(c) (words before 1st comma) is omitted 
 
 In subsection (b)(2), the words “compliance order issued under section 20111(b) of this title” are substituted for “order, or directive” because the latter words are interpreted as referring to “orders directing compliance” in 45:437(a) (2d sentence), restated in section 20111(b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20111, 20113 of this title.
-

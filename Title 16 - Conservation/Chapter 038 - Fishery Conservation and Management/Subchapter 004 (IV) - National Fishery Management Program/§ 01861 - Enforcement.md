@@ -148,13 +148,13 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 &emsp;“(2) a reward to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter.
 
-> Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall beliable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
+> Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
 
 1986—Subsec. (b)(2). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
 Subsecs. (e), (f). Pub. L. 99–659, §109(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1983—Subsec. (a). Pub. L. 97–453, §15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliance with the provisions of this chapter during the preceding calendar year.
+1983—Subsec. (a). Pub. L. 97–453, §15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliancewith the provisions of this chapter during the preceding calendar year.
 
 Subsec. (b)(1). Pub. L. 97–453, §13(1), designated existing provisions as par. (1).
 
@@ -181,8 +181,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Agreement To Make More Effective Enforcement of Domestic Laws and International Agreements
 
 Pub. L. 102–582, title II, §202, Nov. 2, 1992, 106 Stat. 4905, provided that not later than six months after Nov. 2, 1992, the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and the Secretary of Defense were to enter into an agreement under subsec. (a) of this section to make more effective the enforcement of domestic laws and international agreements that conserve and manage living marine resources of the United States.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1821, 1824, 1857, 1859, 1860, 3607, 3637, 5103, 5106, 5154, 5158, 5606 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to protect and preserve the natural, scenic, recreational, and cultural resources ofthe Little River Canyon area in DeKalb and Cherokee Counties, Alabama, and to provide for the protection and public enjoyment of the resources, there is established the Little River Canyon National Preserve (referred to in sections 698q to 698t of this title as the “Preserve”).
+In order to protect and preserve the natural, scenic, recreational, and cultural resources of the Little River Canyon area in DeKalb and Cherokee Counties, Alabama, and to provide for the protection and public enjoyment of the resources, there is established the Little River Canyon National Preserve (referred to in sections 698q to 698t of this title as the “Preserve”).
 
 #### (b) Area included
 
@@ -25,8 +25,4 @@ Not later than 6 months after October 21, 1992, the Secretary of the Interior (r
 #### Short Title
 
 Section 1 of Pub. L. 102–427 provided that: “This Act \[enacting this section and sections 698r to 698t of this title\] may be cited as the ‘Little River Canyon National Preserve Act of 1992’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698r, 698s, 698t of this title.
 

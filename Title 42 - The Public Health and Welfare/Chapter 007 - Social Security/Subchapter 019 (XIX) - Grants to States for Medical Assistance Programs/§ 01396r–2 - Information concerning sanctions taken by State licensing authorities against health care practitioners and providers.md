@@ -40,7 +40,7 @@ The information described in subsection (a)(1) of this section shall be provided
 
 &emsp;(8) upon request, to the Comptroller General,
 
-> in order for such authorities to determine the fitness of individuals to provide health careservices, to protect the health and safety of individuals receiving health care through such programs, and to protect the fiscal integrity of such programs.
+> in order for such authorities to determine the fitness of individuals to provide health care services, to protect the health and safety of individuals receiving health care through such programs, and to protect the fiscal integrity of such programs.
 
 #### (c) Confidentiality of information provided
 
@@ -75,8 +75,4 @@ Section 4752(f)(2) of Pub. L. 101–508 provided that: “The amendments made by
 #### Effective Date
 
 Section applicable, with certain exceptions, to payments under subchapter XIX of this chapter for calendar quarters beginning more than thirty days after Aug. 18, 1987, without regard to whether or not final regulations to carry out this section have been published by that date, see section 15(c)(1), (2) of Pub. L. 100–93 set out as an Effective Date of 1987 Amendment note under section 1320a–7 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396a of this title.
 

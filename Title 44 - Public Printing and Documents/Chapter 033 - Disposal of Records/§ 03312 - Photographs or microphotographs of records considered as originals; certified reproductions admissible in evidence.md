@@ -8,7 +8,3 @@ Photographs or microphotographs of records made in compliance with regulations u
 
 Based on 44 U.S. Code, 1964 ed., §378 (July 7, 1943, ch. 192, §13, 57 Stat. 382).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3105 of this title.
-

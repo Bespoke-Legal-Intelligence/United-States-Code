@@ -18,7 +18,7 @@
 
 &emsp;(B) be counted toward the aggregate period for which section 3695 of this title limits an individual's receipt of allowance or assistance.
 
-(2) The payment of the subsistence allowance and other assistance referred to in paragraph (1) is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10.
+(2) The payment of the subsistence allowance and other assistance referred to in paragraph (1)is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10.
 
 (3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 #### Effective Date
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3106, 3108 of this title.
 

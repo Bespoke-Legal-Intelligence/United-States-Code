@@ -66,7 +66,3 @@ A prior section 254g, act July 1, 1944, ch. 373, title III, §334, as added Pub.
 
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 254e, 254f, 254i, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 11709 of this title.
-

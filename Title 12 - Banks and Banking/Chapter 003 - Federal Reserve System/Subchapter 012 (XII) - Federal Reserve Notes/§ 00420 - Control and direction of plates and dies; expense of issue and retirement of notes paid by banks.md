@@ -16,7 +16,3 @@ Section is comprised of tenth par. of section 16 of act Dec. 23, 1913. For class
 
 1994—Pub. L. 103–325 substituted “Secretary of the Treasury” for “Comptroller of the Currency” and “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 348, 421, 467 of this title.
-

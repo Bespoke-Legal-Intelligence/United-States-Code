@@ -16,7 +16,7 @@ The Administrator may provide grants to—
 
 #### (2) Priority
 
-&emsp;In providing grants under subsection (a)(1) of this section, the Administrator shall provide a preference to a United States nonprofit organization that agrees to provide—
+&emsp;In providing grants under subsection (a)(1) of this section, the Administrator shall provide apreference to a United States nonprofit organization that agrees to provide—
 
 &emsp;&emsp;(A) non-Federal funds in an amount equal to 50 percent of the amount of funds received under a grant under subsection (a)(1) of this section;
 
@@ -24,7 +24,7 @@ The Administrator may provide grants to—
 
 &emsp;&emsp;(C) a combination of such funds and an in-kind contribution,
 
-> &emsp;for the preparation of shelf-stable prepackaged foods and the establishment and maintenanceof stockpiles of the foods in the United States in accordance with subsection (a)(1) of this section.
+> &emsp;for the preparation of shelf-stable prepackaged foods and the establishment and maintenance of stockpiles of the foods in the United States in accordance with subsection (a)(1) of this section.
 
 #### (c) Grants for rapid transportation, delivery, and distribution
 

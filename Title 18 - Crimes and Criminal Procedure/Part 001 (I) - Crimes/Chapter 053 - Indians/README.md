@@ -51,10 +51,6 @@ Pub. L. 101–601, §4(b), Nov. 16, 1990, 104 Stat. 3052, added item 1170.
 
 Act Aug. 15, 1953, ch. 505, §1, 67 Stat. 588, added item 1162.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 25 section 450h.
-
 
 ---
 

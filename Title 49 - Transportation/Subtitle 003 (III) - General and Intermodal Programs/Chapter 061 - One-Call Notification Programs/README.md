@@ -17,10 +17,6 @@
 
 2002—Pub. L. 107–355, §2(c)(2), Dec. 17, 2002, 116 Stat. 2986, substituted “Implementation of best practices guidelines” for “Review of one-call system best practices” in item 6105.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 60104, 60106 of this title.
-
 
 ---
 

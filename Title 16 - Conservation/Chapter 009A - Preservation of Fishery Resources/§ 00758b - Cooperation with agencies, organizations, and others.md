@@ -12,7 +12,3 @@ In carrying out the purposes and objectives of sections 758 and 758a of this tit
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 758a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 758d of this title.
-

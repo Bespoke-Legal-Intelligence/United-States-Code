@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 #### (c) Preservation of families; students
 
-(1) If, following completion of the applicable hearing process, financial assistance for any individual receiving such assistance on February 5, 1988, is to be terminated, the public housingagency or other local governmental entity involved (in the case of public housing or assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\]) or the applicable Secretary (in the case of any other financial assistance) shall take one of the following actions:
+(1) If, following completion of the applicable hearing process, financial assistance for any individual receiving such assistance on February 5, 1988, is to be terminated, the public housing agency or other local governmental entity involved (in the case of public housing or assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\]) or the applicable Secretary (in the case of any other financial assistance) shall take one of the following actions:
 
 &emsp;(A) Permit the continued provision of financial assistance, if necessary to avoid the division of a family in which the head of household or spouse is a citizen of the United States, a national of the United States, or an alien resident of the United States described in any of paragraphs (1) through (6) of subsection (a) of this section. For purposes of this paragraph, the term “family” means a head of household, any spouse, any parents of the head of household, any parents of the spouse, and any children of the head of household or spouse. Financial assistance continued under this subparagraph for a family may be provided only on a prorated basis, under which the amount of financial assistance is based on the percentage of the total number of members of the family that are eligible for that assistance under the program of financial assistance and under this section.
 
@@ -142,7 +142,7 @@ For purposes of this section, the term “applicable Secretary” means—
 
 &emsp;A public housing agency (as that term is defined in section 3 of the United States Housing Act of 1937 \[42 U.S.C. 1437a\])—
 
-&emsp;&emsp;(A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance <sup>1</sup>
+&emsp;&emsp;(A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmativelyestablish and verify eligibility before providing financial assistance <sup>1</sup>
 
 &emsp;&emsp;(B) in carrying out subsection (d) of this section—
 

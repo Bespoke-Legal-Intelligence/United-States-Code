@@ -10,7 +10,3 @@ Based on 44 U.S. Code, 1964 ed., §219 (part) (Jan. 12, 1895, ch. 23, §94, 28 S
 
 This section incorporates only the second clause of former section 219. The balance will be found in section 1102 of the revision.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

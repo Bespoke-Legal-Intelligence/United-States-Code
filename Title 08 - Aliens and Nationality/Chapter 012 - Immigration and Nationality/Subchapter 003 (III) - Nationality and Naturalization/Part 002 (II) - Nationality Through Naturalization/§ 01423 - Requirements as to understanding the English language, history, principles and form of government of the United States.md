@@ -112,7 +112,3 @@ Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415,
 
 “Notwithstanding any other provision of this Act, the total number of aliens who may be granted an exemption under section 2 or special consideration under section 3, or both, may not exceed 45,000.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1255a of this title.
-

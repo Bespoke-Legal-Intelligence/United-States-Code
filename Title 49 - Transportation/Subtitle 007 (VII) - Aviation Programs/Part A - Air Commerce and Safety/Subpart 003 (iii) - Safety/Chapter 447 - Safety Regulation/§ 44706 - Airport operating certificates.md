@@ -26,7 +26,7 @@ Exemptions.—The Administrator may exempt from the requirements of this section
 
 (d)
 
-Commuter Airports.—In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administrator shall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
+Commuter Airports.—In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administratorshall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
 
 (e)
 
@@ -84,9 +84,5 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Small Airport Certification
 
-Pub. L. 106–181, title V, §518, Apr. 5, 2000, 114 Stat. 145, provided that: “Not later than 60 days after the date ofthe enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking on implementing section 44706(a)(2) of title 49, United States Code, relating to issuance of airport operating certificates for small scheduled passenger air carrier operations. Not later than 1 year after the last day of the period for public comment provided for in the notice of proposed rulemaking, the Administrator shall issue a final rule on implementing such program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 46310, 47107, 47110, 47116, 47501, 47531 of this title.
+Pub. L. 106–181, title V, §518, Apr. 5, 2000, 114 Stat. 145, provided that: “Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking on implementing section 44706(a)(2) of title 49, United States Code, relating to issuance of airport operating certificates for small scheduled passenger air carrier operations. Not later than 1 year after the last day of the period for public comment provided for in the notice of proposed rulemaking, the Administrator shall issue a final rule on implementing such program.”
 

@@ -2,37 +2,33 @@
 
 (a)
 
-Authority and Eligibility Requirements.—An enlisted member of a reserve component who—
+Authority and Eligibility Requirements.—The Secretary concerned may pay a bonus under subsection (b) to an enlisted member of a reserve component who—
 
-&emsp;(1) has completed less than 14 years of total military service; and
+&emsp;(1) has completed not more than 16 years of total military service; and
 
-&emsp;(2) reenlists or voluntarily extends his enlistment for a period of three years or for a period of six years in a designated military skill, or in a designated unit, as determined by the Secretary concerned, in the Selected Reserve of the Ready Reserve of an armed force;
-
-> may be paid a bonus as provided in subsection (b).
+&emsp;(2) reenlists or voluntarily extends his enlistment for a period of three years or for a period of six years in a designated military skill, or in a designated unit, as determined by the Secretary concerned, in the Selected Reserve of the Ready Reserve of an armed force.
 
 (b)
 
 Bonus Amounts; Payment.—(1) The amount of a bonus under this section may not exceed—
 
-&emsp;(A) $5,000, in the case of a member who reenlists or extends an enlistment for a period of six years;
+&emsp;(A) $15,000, in the case of a member who reenlists or extends an enlistment for a period of six years;
 
-&emsp;(B) $2,500, in the case of a member who, having never received a bonus under this section, reenlists or extends an enlistment for a period of three years; and
+&emsp;(B) $7,500, in the case of a member who, having never received a bonus under this section, reenlists or extends an enlistment for a period of three years; and
 
-&emsp;(C) $2,000, in the case of a member who, having received a bonus under this section for a previous three-year reenlistment or extension of an enlistment, reenlists or extends the enlistment for an additional period of three years.
+&emsp;(C) $6,000, in the case of a member who, having received a bonus under this section for a previous three-year reenlistment or extension of an enlistment, reenlists or extends the enlistment for an additional period of three years.
 
-(2) Any bonus payable under this section shall be disbursed in one initial payment of an amount not to exceed one-half of the total amount of the bonus and subsequent periodic partial payments of the balance of the bonus. The Secretary concerned shall prescribe the amount of each partial payment and the schedule for making the partial payments.
+(2) Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount. The Secretary concerned shall prescribe the amount of each subsequent installment payment and the schedule for making the installment payments.
 
 (c)
 
-Condition on Eligibility; Limitation on Number of Bonuses.—(1) To be eligible for a second bonus under this section in the amount specified in subsection (b)(1)(C), a member must—
+Condition on Eligibility.—(1) To be eligible for a second bonus under this section in the amount specified in subsection (b)(1)(C), a member must—
 
 &emsp;(A) enter into the subsequent reenlistment or extension of an enlistment for a period of three years not later than the date on which the enlistment or extension for which the first bonus was paid would expire; and
 
 &emsp;(B) still satisfy the designated skill or unit requirements required under subsection (a)(2).
 
-(2) A member may not be paid more than one six-year bonus or two three-year bonuses under this section.
-
-(3) In the case of a reenlistment or voluntary extension of enlistment by a member of the armed forces that is entered into as described in subsection (a) while the member is serving on active duty in Afghanistan, Iraq, or Kuwait in support of Operation Enduring Freedom or Operation Iraqi Freedom, the Secretary concerned may waive so much of paragraph (1)(B) or subsection (a)(2) as requires that the skill or unit in which the member reenlists or extends an enlistment be a designated skill or designated unit determined by the Secretary concerned.
+(2) In the case of a reenlistment or voluntary extension of enlistment by a member of the armed forces that is entered into as described in subsection (a) while the member is serving on active duty in Afghanistan, Iraq, or Kuwait in support of Operation Enduring Freedom or Operation Iraqi Freedom, the Secretary concerned may waive so much of paragraph (1)(B) or subsection (a)(2) as requires that the skill or unit in which the member reenlists or extends an enlistment be a designated skill or designated unit determined by the Secretary concerned.
 
 (d)
 
@@ -48,11 +44,37 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (g)
 
-Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2004, reenlists or voluntarily extends his enlistment in a reserve component.
+Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2005, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat.1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat.1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §§611(a), 617, 626(b), Nov. 24, 2003, 117 Stat. 1500, 1503, 1507; Pub. L. 108–375, div. A, title VI, §§611(a), 618(b), Oct. 28, 2004, 118 Stat. 1946, 1949.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §618(b)(1)(D), struck out concluding provisions which read as follows: “may be paid a bonus as provided in subsection (b).”
+
+Pub. L. 108–375, §618(b)(1)(A), in introductory provisions, substituted “The Secretary concerned may pay a bonus under subsection (b) to an enlisted member” for “An enlisted member”.
+
+Subsec. (a)(1). Pub. L. 108–375, §618(b)(1)(B), substituted “not more than 16 years” for “less than 14 years”.
+
+Subsec. (a)(2). Pub. L. 108–375, §618(b)(1)(C), substituted period for semicolon at end.
+
+Subsec. (b)(1)(A). Pub. L. 108–375, §618(b)(2)(A), substituted “$15,000” for “$5,000”.
+
+Subsec. (b)(1)(B). Pub. L. 108–375, §618(b)(2)(B), substituted “$7,500” for “$2,500”.
+
+Subsec. (b)(1)(C). Pub. L. 108–375, §618(b)(2)(C), substituted “$6,000” for “$2,000”.
+
+Subsec. (b)(2). Pub. L. 108–375, §618(b)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any bonus payable under this section shall be disbursed in one initial payment of an amount not to exceed one-half of the total amount of the bonus and subsequent periodic partial payments of the balance of the bonus. The Secretary concerned shall prescribe the amount of each partial payment and the schedule for making the partial payments.”
+
+Subsec. (c). Pub. L. 108–375, §618(b)(4)(A), struck out “
+
+; Limitation on Number of Bonuses” after “
+
+Eligibility” in heading.
+
+Subsec. (c)(2), (3). Pub. L. 108–375, §618(b)(4)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A member may not be paid more than one six-year bonus or two three-year bonuses under this section.”
+
+Subsec. (g). Pub. L. 108–375, §611(a), substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (c)(3). Pub. L. 108–136, §626(b), added par. (3).
 
@@ -142,7 +164,7 @@ Subsec. (g). Pub. L. 95–485, §403(c), substituted “September 30, 1980” fo
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 626(b) of Pub. L. 108–136 effective Mar. 18, 2003, and applicable to reenlistments or voluntary extensions of enlistments entered into on orafter that date, see section 626(d) of Pub. L. 108–136, set out as a note under section 308 of this title.
+Amendment by section 626(b) of Pub. L. 108–136 effective Mar. 18, 2003, and applicable to reenlistments or voluntary extensions of enlistments entered into on or after that date, see section 626(d) of Pub. L. 108–136, set out as a note under section 308 of this title.
 
 #### Effective Date of 2002 Amendment
 

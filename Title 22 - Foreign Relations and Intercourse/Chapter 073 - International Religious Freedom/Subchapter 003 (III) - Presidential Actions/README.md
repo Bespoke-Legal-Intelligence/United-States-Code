@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PRESIDENTIAL ACTIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6412 of this title.
-
 
 ---
 

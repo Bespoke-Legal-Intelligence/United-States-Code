@@ -16,7 +16,3 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 See note preceding this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 142, 143, 144 of this title.
-

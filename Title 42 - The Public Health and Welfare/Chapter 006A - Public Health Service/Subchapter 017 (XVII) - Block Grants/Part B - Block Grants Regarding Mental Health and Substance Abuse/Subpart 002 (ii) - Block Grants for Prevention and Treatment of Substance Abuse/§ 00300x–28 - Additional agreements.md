@@ -40,9 +40,5 @@ A prior section 1928 of act July 1, 1944, was classified to section 300y–7 of 
 
 Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that the amendment made by section 3303(f)(2) is effective upon the publication of the regulations developed in accordance with section 300x–32(e)(1) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–32 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “activities”.</i>
 

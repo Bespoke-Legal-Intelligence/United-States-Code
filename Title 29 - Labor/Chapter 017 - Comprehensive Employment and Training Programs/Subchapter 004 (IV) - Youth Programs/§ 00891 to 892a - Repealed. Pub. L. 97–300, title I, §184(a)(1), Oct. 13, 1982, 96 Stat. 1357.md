@@ -6,7 +6,7 @@ A prior section 891, Pub. L. 93–203, title III, §321, as added Pub. L. 95–9
 
 A prior section 401 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 863, which provided for a congressional statement of purpose with respect to the Job Corps program, was classified to former section 911 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Provisions similar to those comprising this section were contained in former section 874 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 874 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 892, Pub. L. 93–203, title IV, §402, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1974, provided definitions of “eligible youth” under various youth programs.
 

@@ -176,7 +176,3 @@ The Individuals with Disabilities Education Act, referred to in subsec. (h)(3)(B
 
 The Civil Rights Act of 1964, referred to in subsec. (h)(4)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6912, 6913, 6917 of this title.
-

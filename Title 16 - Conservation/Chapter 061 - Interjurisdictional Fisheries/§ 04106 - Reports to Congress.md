@@ -4,7 +4,7 @@ After consultation with the States receiving funds under this chapter and with a
 
 &emsp;(1) a description of each project and law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted;
 
-&emsp;(2) a specification of the total amount of funds from the Federal Government and the total amount of funds from each State spent on each project and a law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted;
+&emsp;(2) a specification of the total amount of funds from the Federal Government and thetotal amount of funds from each State spent on each project and a law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted;
 
 &emsp;(3) an assessment of each project and law enforcement effort receiving funds under this chapter during the last 2 fiscal years ending before such report is submitted to determine whether such project is furthering the purposes of this chapter; and
 

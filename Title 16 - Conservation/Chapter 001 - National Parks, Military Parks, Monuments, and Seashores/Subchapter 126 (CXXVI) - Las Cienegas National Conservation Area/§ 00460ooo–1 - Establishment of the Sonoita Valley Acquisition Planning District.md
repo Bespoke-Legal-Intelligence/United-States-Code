@@ -14,7 +14,3 @@ As soon as practicable after December 6, 2000, the Secretary shall submit to Con
 
 (Pub. L. 106–538, §2, Dec. 6, 2000, 114 Stat. 2563.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>ooo</i> of this title.
-

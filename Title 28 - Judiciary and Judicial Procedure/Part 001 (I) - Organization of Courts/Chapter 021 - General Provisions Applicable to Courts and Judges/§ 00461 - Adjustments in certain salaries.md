@@ -36,9 +36,13 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 #### Salary Adjustments
 
+Pub. L. 108–491, §1, Dec. 23, 2004, 118 Stat. 3973, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2005 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
+
+Pub. L. 108–447, div. B, title III, §306, Dec. 8, 2004, 118 Stat. 2895, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. B of Pub. L. 108–447, see Tables for classification\], Justices and judges of the United States are authorized during fiscal year 2005, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+
 Pub. L. 108–167, Dec. 6, 2003, 117 Stat. 2031, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2004 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
 
-Pub. L. 108–6, §1, Feb. 13, 2003, 117 Stat. 10, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2003 to receive a salaryadjustment in accordance with section 461 of title 28, United States Code.”
+Pub. L. 108–6, §1, Feb. 13, 2003, 117 Stat. 10, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2003 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
 
 Pub. L. 107–77, title III, §305, Nov. 28, 2001, 115 Stat. 783, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2002, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
@@ -85,8 +89,4 @@ Pub. L. 97–92, §140, Dec. 15, 1981, 95 Stat. 1200, as amended by Pub. L. 107�
 #### 1977 Comparability Adjustment Not Effective for Justices, Judges, Commissioners, and Referees
 
 Pub. L. 95–66, §1(3), July 11, 1977, 91 Stat. 270, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that the first adjustment which, but for the enactment of Pub. L. 95–66, would have been made in the salary and rate of pay of justices, judges, commissioners, and referees under this section after July 11, 1977, would not take effect.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5, 44, 135, 213, 252, 371, 792 of this title.
 

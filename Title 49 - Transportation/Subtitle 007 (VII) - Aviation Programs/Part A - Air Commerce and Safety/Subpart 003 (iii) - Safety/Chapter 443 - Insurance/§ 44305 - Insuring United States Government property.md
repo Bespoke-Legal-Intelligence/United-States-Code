@@ -48,7 +48,3 @@ In subsection (b), the words “or the head of a department, agency, or instrume
 
 1997—Subsec. (b). Pub. L. 105–137 inserted at end “If such an agreement is countersigned by the President or the President's designee, the agreement shall constitute, for purposes of section 44302(b), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44302, 44309 of this title; title 10 section 9514.
-

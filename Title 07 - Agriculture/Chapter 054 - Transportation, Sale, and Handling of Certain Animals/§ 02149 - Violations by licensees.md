@@ -46,7 +46,3 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 
 Amendment by Pub. L. 91–579 effective 30 days after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2146, 2158, 2159 of this title.
-

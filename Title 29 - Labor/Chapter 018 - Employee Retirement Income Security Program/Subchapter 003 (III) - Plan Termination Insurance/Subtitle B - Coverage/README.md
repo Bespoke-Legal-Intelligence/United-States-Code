@@ -1,9 +1,5 @@
 Subtitle B—Coverage
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 1361, 1371 of this title.
-
 
 ---
 

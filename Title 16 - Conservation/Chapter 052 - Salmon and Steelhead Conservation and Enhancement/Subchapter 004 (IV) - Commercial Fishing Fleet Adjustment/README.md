@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3343 of this title.
-
 
 ---
 

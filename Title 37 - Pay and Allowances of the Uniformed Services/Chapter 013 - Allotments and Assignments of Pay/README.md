@@ -24,10 +24,6 @@
 
 1966—Pub. L. 89–718, §49(a)(3), Nov. 2, 1966, 80 Stat. 1121, substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in item 706.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 42 section 665.
-
 
 ---
 

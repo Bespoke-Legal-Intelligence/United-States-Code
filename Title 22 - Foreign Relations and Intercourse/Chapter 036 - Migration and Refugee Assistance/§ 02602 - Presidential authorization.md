@@ -20,7 +20,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (b), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note preceding section 1211 of Title 50, Appendix.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2603 of this title; title 26 section 6103.
-

@@ -108,7 +108,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual”means a discount card eligible individual who resides in one of the 50 States or the District of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
+&emsp;&emsp;Subject to subparagraph (B), the term “transitional assistance eligible individual” means a discount card eligible individual who resides in one of the 50 States or the District of Columbia and whose income (as determined under subsection (f)(1)(B) of this section) is not more than 135 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section) applicable to the family size involved (as determined under subsection (f)(1)(B) of this section).
 
 #### (B) Exclusion of individuals with certain prescription drug coverage
 
@@ -172,7 +172,7 @@ For purposes of this section:
 
 #### (E) Application to certain enrollees
 
-&emsp;&emsp;In the case of a discount card eligible individual who is enrolled in a plan described insection 1395w–21(a)(2)(A) of this title or under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is offered by an organization that also is a prescription discount card sponsor that offers an endorsed discount card program under which the individual may be enrolled and that has made an election to apply the special rules under subsection (h)(9)(B) of this section for such an endorsed program, the individual may only enroll in such an endorsed discount card program offered by that sponsor.
+&emsp;&emsp;In the case of a discount card eligible individual who is enrolled in a plan described in section 1395w–21(a)(2)(A) of this title or under a reasonable cost reimbursement contract under section 1395mm(h) of this title that is offered by an organization that also is a prescription discount card sponsor that offers an endorsed discount card program under which the individual may be enrolled and that has made an election to apply the special rules under subsection (h)(9)(B) of this section for such an endorsed program, the individual may only enroll in such an endorsed discount card program offered by that sponsor.
 
 #### (2) Enrollment fees
 
@@ -224,7 +224,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminate information to discount card eligible individuals (and prospective eligible individuals) regarding—
+&emsp;&emsp;The Secretary shall provide for activities under this subsection to broadly disseminateinformation to discount card eligible individuals (and prospective eligible individuals) regarding—
 
 &emsp;&emsp;&emsp;(i) enrollment in endorsed discount card programs; and
 
@@ -294,7 +294,7 @@ For purposes of this section:
 
 #### (B) Ensuring pharmacy access
 
-&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shall establish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
+&emsp;&emsp;Each prescription drug card sponsor offering an endorsed discount card program shall secure the participation in its network of a sufficient number of pharmacies that dispense (other than solely by mail order) drugs directly to enrollees to ensure convenient access to covered discount card drugs at negotiated prices (consistent with rules established by the Secretary). The Secretary shallestablish convenient access rules under this clause that are no less favorable to enrollees than the standards for convenient access to pharmacies included in the statement of work of solicitation (\#MDA906–03–R–0002) of the Department of Defense under the TRICARE Retail Pharmacy (TRRx) as of March 13, 2003.
 
 #### (C) Prohibition on charges for required services
 
@@ -370,7 +370,7 @@ For purposes of this section:
 
 #### (ii) Availability of information for verification purposes
 
-&emsp;&emsp;&emsp;As a condition of provision of Federal financial participation to a State that is oneof the 50 States or the District of Columbia under subchapter XIX of this chapter, for purposes of carrying out this section, the State shall provide the information it submits to the Secretary relating to such subchapter in a manner specified by the Secretary that permits the Secretary to identify individuals who are described in subsection (b)(1)(B) of this section or are transitional assistance eligible individuals or special transitional assistance eligible individuals.
+&emsp;&emsp;&emsp;As a condition of provision of Federal financial participation to a State that is one of the 50 States or the District of Columbia under subchapter XIX of this chapter, for purposes of carrying out this section, the State shall provide the information it submits to the Secretary relating to such subchapter in a manner specified by the Secretary that permits the Secretary to identify individuals who are described in subsection (b)(1)(B) of this section or are transitional assistance eligible individuals or special transitional assistance eligible individuals.
 
 #### (4) Reconsideration
 
@@ -430,7 +430,7 @@ For purposes of this section:
 
 #### (D) Limitation on use of funds
 
-&emsp;&emsp;Pursuant to subsection (a)(2)(C) of this section, no assistance shall be provided under paragraph (1)(B) with respect to covered discount card drugs dispensed after December 31, 2005.
+&emsp;&emsp;Pursuant to subsection (a)(2)(C) of this section, no assistance shall be providedunder paragraph (1)(B) with respect to covered discount card drugs dispensed after December 31, 2005.
 
 #### (E) No rollover permitted in case of voluntary disenrollment
 
@@ -652,7 +652,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “TransitionalAssistance Account” (in this subsection referred to as the “Account”).
+&emsp;&emsp;There is created within the Federal Supplementary Medical Insurance Trust Fund established by section 1395t of this title an account to be known as the “Transitional Assistance Account” (in this subsection referred to as the “Account”).
 
 #### (B) Funds
 
@@ -719,8 +719,4 @@ Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided tha
 &emsp;“(4)(A) There shall be no judicial review of a determination not to endorse, or enter into a contract, with a prescription drug card sponsor under section 1860D–31 of the Social Security Act.
 
 &emsp;“(B) In the case of any order issued to enjoin any provision of section 1860D–31 of the Social Security Act (or of \[sic\] any provision of this section \[amending sections 1395r, 1395t, and 1396r–8 of this title and sections 6103 and 7213 of Title 26, Internal Revenue Code\]), such order shall not affect any other provision of such section (or of this section) and all such provisions shall be treated as severable.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320b–14, 1395r, 1395t, 1395w–116, 1396r–8, 1396u–5 of this title; title 26 section 6103.
 

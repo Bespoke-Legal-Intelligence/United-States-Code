@@ -2,10 +2,6 @@ Part 4
 
 —Remedies
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1703 of this title.
-
 
 ---
 

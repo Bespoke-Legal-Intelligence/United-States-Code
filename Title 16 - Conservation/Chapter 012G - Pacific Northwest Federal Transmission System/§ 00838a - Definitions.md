@@ -14,7 +14,3 @@ As used in this chapter—
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 839e of this title.
-

@@ -42,7 +42,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) The inspection of prescription drug establishments and other facilities undertaken as part of the Secretary's review of pending human drug applications and supplements.
 
-&emsp;&emsp;(D) Activities necessary for the review of applications for licensure of establishments subject to section 262 of title 42 and for the release of lots of biologics under such section.
+&emsp;&emsp;(D) Activities necessary for the review of applications for licensure of establishmentssubject to section 262 of title 42 and for the release of lots of biologics under such section.
 
 &emsp;&emsp;(E) Monitoring of research conducted in connection with the review of human drug applications.
 
@@ -100,7 +100,7 @@ Par. (4). Pub. L. 105–115, §§102(3), 107, temporarily substituted “without
 
 Par. (5). Pub. L. 105–115, §§102(4), 107, temporarily amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘prescription drug establishment’ means a foreign or domestic place of business which is—
 
-&emsp;“(A) at one general physical location consisting of one or more buildings all of which are within 5 miles of each other, at which one or more prescription drug products are manufactured in final dosage form, and
+&emsp;“(A) at one general physical location consisting of one or more buildings all of which are within 5 milesof each other, at which one or more prescription drug products are manufactured in final dosage form, and
 
 &emsp;“(B) under the management of a person that is listed as the applicant in a human drug application for a prescription drug product with respect to at least one such product.”
 
@@ -132,7 +132,7 @@ Section 105 of Pub. L. 102–571 provided that: “The amendments made by sectio
 
 #### Savings Provision
 
-Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: “Notwithstanding section 107 of theFood and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003.”
+Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: “Notwithstanding section 107 of the Food and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003.”
 
 Section 105 of Pub. L. 105–115 provided that: “Notwithstanding section 105 of the Prescription Drug User Fee Act of 1992 \[section 105 of Pub. L. 102–571, set out above\], the Secretary shall retain the authority to assess and collect any fee required by part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] for a human drug application or supplement accepted for filing prior to October 1, 1997, and to assess and collect any product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998.”
 
@@ -184,7 +184,7 @@ Pub. L. 107–188, title V, §502, June 12, 2002, 116 Stat. 687, provided that: 
 
 &emsp;“(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\] will be dedicated towards expediting the drug development process and the process for the review of human drug applications as set forth in the goals identified for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Energy and Commerce of the House of Representatives and the chairman of the Committee on Health, Education, Labor and Pensions of the Senate, as set forth in the Congressional Record.”
 
-Section 101 of title I of Pub. L. 105–115 provided that: “Congress finds that—
+Pub. L. 105–115, title I, §101, Nov. 21, 1997, 111 Stat. 2298, provided that: “Congress finds that—
 
 &emsp;“(1) prompt approval of safe and effective new drugs and other therapies is critical to the improvement of the public health so that patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
 
@@ -196,7 +196,7 @@ Section 101 of title I of Pub. L. 105–115 provided that: “Congress finds tha
 
 &emsp;&emsp;“(B) carried out by the Food and Drug Administration with new commitments to implement more ambitious and comprehensive improvements in regulatory processes of the Food and Drug Administration; and
 
-&emsp;“(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§101–107) of title I of Pub. L. 105–115, amending this section and section 379h of this title\] will be dedicated toward expediting the drug development process and the review of human drug applications as set forth in the goals identified, for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Commerce of the House of Representatives and the chairman of the Committee on Labor and Human Resources of the Senate, as set forth in the Congressional Record.”
+&emsp;“(4) the fees authorized by amendments made in this subtitle \[subtitle A (§§101–107) of title I of Pub. L. 105–115, amending this section and section 379h of this title\] will be dedicated toward expediting the drug development process and the review of human drug applications as set forth in the goals identified, for purposes of part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the chairman of the Committee on Commerce of the House of Representatives and the chairman of the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, as set forth in the Congressional Record.”
 
 #### Annual Reports
 
@@ -219,8 +219,4 @@ Pub. L. 102–571, title I, §104, Oct. 29, 1992, 106 Stat. 4498, which provided
 #### Animal Drug User Fee Study
 
 Section 108 of Pub. L. 102–571 directed Secretary, in consultation with manufacturers of animal drug products and other interested persons, to undertake study to evaluate whether, and under what conditions, to impose user fees to supplement appropriated funds in order to improve process of reviewing applications (including abbreviated and supplemental applications) for new animal drugs under section 360b of this title, and further provided for submission of study to Congress no later than Jan. 4, 1994.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 379j–11, 379–12 of this title.
 

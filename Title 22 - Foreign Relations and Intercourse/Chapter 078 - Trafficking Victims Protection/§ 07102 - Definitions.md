@@ -108,10 +108,6 @@ The Arms Export Control Act, referred to in par. (7)(B), is Pub. L. 90–629, Oc
 
 2003—Par. (7)(A)(i). Pub. L. 108–193 inserted “in support of programs of nongovernmental organizations” before “that is made available”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151n, 2152d, 2304, 7105, 7107, 7110 of this title; title 8 sections 1101, 1182, 1184; title 18 section 1592.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>

@@ -40,7 +40,3 @@ Section 1901 of title XIX of Pub. L. 101–624, as amended by Pub. L. 102–237,
 
 Section 1905 of Pub. L. 101–624 provided that: “This subtitle \[subtitle A (§§1905–1918) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the ‘Pecan Promotion and Research Act of 1990’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6003, 6005 of this title.
-

@@ -36,9 +36,5 @@ The Secretary shall conduct four comprehensive appraisals under this section, to
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1674, 1675, 2005, 2006 of this title; title 7 section 3121.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.
 

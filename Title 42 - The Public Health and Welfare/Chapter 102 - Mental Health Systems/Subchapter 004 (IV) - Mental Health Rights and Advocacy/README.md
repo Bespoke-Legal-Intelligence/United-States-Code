@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—MENTAL HEALTH RIGHTS AND ADVOCACY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 10841 of this title.
-
 
 ---
 

@@ -4,7 +4,3 @@ No person, firm, or corporation shall engage in business, in or for commerce, as
 
 (Mar. 4, 1907, ch. 2907, title II, §203, as added Pub. L. 90–201, §14, Dec. 15, 1967, 81 Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 645 of this title.
-

@@ -30,7 +30,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;A participant who received a refund of retirement contributions under this or any other retirement system for Government employees covering service for which the participant may be allowed credit under this subchapter may deposit the amount received, with interest computed under paragraph (1). Credit may not be allowed for the service covered by the refund until the deposit is made, except that a participant who—
 
-&emsp;&emsp;(A) separated from Government service before October 1, 1990, and received a refund of the participant's retirement contributions covering a period of service ending before October 1, 1990;
+&emsp;&emsp;(A) separated from Government service before October 1, 1990, and received a refund of the participant's retirement contributionscovering a period of service ending before October 1, 1990;
 
 &emsp;&emsp;(B) is entitled to an annuity under this subchapter (other than a disability annuity) which commences after December 1, 1992; and
 
@@ -184,10 +184,6 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 2002, 2021, 2031, 2051, 2071, 2083, 2091 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

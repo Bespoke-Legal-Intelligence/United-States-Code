@@ -4,10 +4,6 @@ Part A—Energy Conservation Program for Consumer Products Other Than Automobile
 
 This part was, in the original, designated part B and has been redesignated as part A for purposes of codification.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 6316 of this title.
-
 
 ---
 

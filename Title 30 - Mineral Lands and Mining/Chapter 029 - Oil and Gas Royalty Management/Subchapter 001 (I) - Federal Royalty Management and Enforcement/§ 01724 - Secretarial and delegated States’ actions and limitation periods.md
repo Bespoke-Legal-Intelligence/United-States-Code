@@ -40,13 +40,13 @@ The running of the limitation period under subsection (b) of this section shall 
 
 &emsp;(A) The issuance of a subpoena to a lessee or its designee (with notice to the lessee who designated the designee, which notice shall not constitute a subpoena to the lessee) in accordance with the provisions of subparagraph (B)(i) shall toll the limitation period with respect to the obligation which is the subject of a subpoena only for the period beginning on the date the lessee or its designee receives the subpoena and ending on the date on which (i) the lessee or its designee has produced such subpoenaed records for the subject obligation, (ii) the Secretary or a delegated State receives written notice that the subpoenaed records for the subject obligation are not in existence or are not in the lessee's or its designee's possession or control, or (iii) a court has determined in a final decision that such records are not required to be produced, whichever occurs first.
 
-&emsp;(B)(i) A subpoena for the purposes of this section which requires a lessee or its designee to produce records necessary to determine the proper reporting and payment of an obligation due the Secretary may be issued only by anAssistant Secretary of the Interior or an Acting Assistant Secretary of the Interior who is a schedule C employee (as defined by section 213.3301 of title 5, Code of Federal Regulations), or the Director or Acting Director of the respective bureau or agency, and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such subpoena, but may not delegate such authority to any other person.
+&emsp;(B)(i) A subpoena for the purposes of this section which requires a lessee or its designee to produce records necessary to determine the proper reporting and payment of an obligation due the Secretary may be issued only by an Assistant Secretary of the Interior or an Acting Assistant Secretary of the Interior who is a schedule C employee (as defined by section 213.3301 of title 5, Code of Federal Regulations), or the Director or Acting Director of the respective bureau or agency, and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such subpoena, but may not delegate such authority to any other person.
 
 &emsp;(ii) A subpoena described in clause (i) may only be issued against a lessee or its designee during the limitation period provided in this section and only after the Secretary or a delegated State has in writing requested the records from the lessee or its designee related to the obligation which is the subject of the subpoena and has determined that—
 
 &emsp;&emsp;(I) the lessee or its designee has failed to respond within a reasonable period of time to the Secretary's or the applicable delegated State's written request for such records necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
 
-&emsp;&emsp;(II) the lessee or its designee has in writing denied the Secretary's or the applicable delegated State's written request to produce such records in the lessee's or its designee's possession or control necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
+&emsp;&emsp;(II) the lessee or its designee has in writing denied the Secretary's or the applicabledelegated State's written request to produce such records in the lessee's or its designee's possession or control necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or such delegated State's responsibilities under this chapter; or
 
 &emsp;&emsp;(III) the lessee or its designee has unreasonably delayed in producing records necessary for an audit, investigation or other inquiry made in accordance with the Secretary's or the applicable delegated State's responsibilities under this chapter after the Secretary's or delegated State's written request.
 
@@ -110,7 +110,7 @@ In order to most effectively utilize resources available to the Secretary to max
 
 &emsp;&emsp;(A) the Secretary shall be deemed to have issued and granted a decision in favor of the appellant as to any nonmonetary obligation and any monetary obligation the principal amount of which is less than $10,000; and
 
-&emsp;&emsp;(B) the Secretary shall be deemed to have issued a final decision in favor of the Secretary, which decision shall be deemed to affirm those issues for which the agency rendered a decision prior to the end of such period, as to any monetary obligation the principal amount of which is $10,000 or more, andthe appellant shall have a right to judicial review of such deemed final decision in accordance with title 5.
+&emsp;&emsp;(B) the Secretary shall be deemed to have issued a final decision in favor of the Secretary, which decision shall be deemed to affirm those issues for which the agency rendered a decision prior to the end of such period, as to any monetary obligation the principal amount of which is $10,000 or more, and the appellant shall have a right to judicial review of such deemed final decision in accordance with title 5.
 
 #### (i) Collections of disputed amounts due
 
@@ -145,8 +145,4 @@ Section applicable with respect to production of oil and gas after the first day
 #### Applicability
 
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under section 1701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721a of this title.
 

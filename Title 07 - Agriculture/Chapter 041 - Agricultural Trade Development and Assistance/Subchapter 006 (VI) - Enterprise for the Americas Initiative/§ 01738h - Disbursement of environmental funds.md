@@ -4,7 +4,3 @@ Funds in an Environmental Fund shall be disbursed only pursuant to a framework a
 
 (July 10, 1954, ch. 469, title VI, §609, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3661.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 635i–6.
-

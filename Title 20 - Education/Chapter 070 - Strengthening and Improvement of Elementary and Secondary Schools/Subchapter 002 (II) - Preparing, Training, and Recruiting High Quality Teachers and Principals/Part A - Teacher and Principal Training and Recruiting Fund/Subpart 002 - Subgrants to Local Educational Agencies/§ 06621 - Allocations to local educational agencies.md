@@ -22,7 +22,7 @@
 
 #### (C) Ratable reduction
 
-&emsp;&emsp;If the funds described in subparagraph (A) are insufficient to pay the full amounts that all local educational agencies in the State are eligible to receive under subparagraph (A) for any fiscal year, the State educational agency shall ratably reduce such amounts for the fiscal year.
+&emsp;&emsp;If the funds described in subparagraph (A) are insufficient to pay the full amounts that all local educational agencies in the State are eligible to receive under subparagraph (A) for any fiscal year, the State educationalagency shall ratably reduce such amounts for the fiscal year.
 
 #### (3) Allocation of additional funds
 
@@ -43,10 +43,6 @@ Section 306 of the Department of Education Appropriations Act, 2001, referred to
 #### Prior Provisions
 
 A prior section 6621, Pub. L. 89–10, title II, §2101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3614; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(3)(A)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, authorized professional development program, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6623, 7305b of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Market expansion and surplus disposition
 
-Whenever the Secretary finds that the exercise of the powers conferred in this section will tend to carry out the purpose specified in clause (5) of section 590g(a) of this title, or will tend to provide for and maintain a continuous and stable supply of agricultural commodities adequateto meet consumer demand at prices fair to both producers and consumers, or both, he shall use such part as he deems necessary of the sums appropriated to carry out this chapter for the expansion of domestic and foreign markets or for seeking new or additional markets for agricultural commodities or the products thereof or for the removal or disposition of surpluses of such commodities or the products thereof.
+Whenever the Secretary finds that the exercise of the powers conferred in this section will tend to carry out the purpose specified in clause (5) of section 590g(a) of this title, or will tend to provide for and maintain a continuous and stable supply of agricultural commodities adequate to meet consumer demand at prices fair to both producers and consumers, or both, he shall use such part as he deems necessary of the sums appropriated to carry out this chapter for the expansion of domestic and foreign markets or for seeking new or additional markets for agricultural commodities or the products thereof or for the removal or disposition of surpluses of such commodities or the products thereof.
 
 #### (b) Advances for premiums
 
@@ -23,8 +23,4 @@ Administration of program of Federal Crop Insurance Corporation transferred to S
 Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590g, 590m of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.
 

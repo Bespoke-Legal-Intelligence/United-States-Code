@@ -64,7 +64,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Affiliate of the issuer
 
-&emsp;The term “affiliate of the issuer” means a person that directly or indirectly, through oneor more intermediaries, controls or is controlled by or is under common control with, the issuer.
+&emsp;The term “affiliate of the issuer” means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.
 
 #### (2) Covered class action
 
@@ -108,9 +108,5 @@ For purposes of this section, the following definitions shall apply:
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77v of this title.
+Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply toany action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
 

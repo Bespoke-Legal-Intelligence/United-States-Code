@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) to be paid on a fee-for-service basis; and
 
-&emsp;&emsp;(B) that payment with respect to all such services furnished by members of the healthcare group to such beneficiaries shall (where determined appropriate by the Secretary) be made to a single entity.
+&emsp;&emsp;(B) that payment with respect to all such services furnished by members of the health care group to such beneficiaries shall (where determined appropriate by the Secretary) be made to a single entity.
 
 #### (3) Data reporting
 
@@ -93,8 +93,4 @@ Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A) and (d)(1)(A
 #### GAO Report
 
 Pub. L. 106–554, §1(a)(6) \[title IV, §412(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that: “Not later than 2 years after the date on which the demonstration project under section 1866A of the Social Security Act \[this section\], as added by subsection (a), is implemented, the Comptroller General of the United States shall submit to Congress a report on such demonstration project. The report shall include such recommendations with respect to changes to the demonstration project that the Comptroller General determines appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395cc–2, 1395cc–3 of this title.
 

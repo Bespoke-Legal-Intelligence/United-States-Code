@@ -4,7 +4,3 @@ No stevedoring firm shall be employed in any compensation district by a vessel o
 
 (Mar. 4, 1927, ch. 509, §37, 44 Stat. 1442.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 30 section 932.
-

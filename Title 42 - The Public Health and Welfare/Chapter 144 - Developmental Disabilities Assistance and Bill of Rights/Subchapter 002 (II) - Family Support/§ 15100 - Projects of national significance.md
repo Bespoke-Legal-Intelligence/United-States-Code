@@ -10,7 +10,3 @@ The Secretary shall make grants or enter into contracts for projects of national
 
 (Pub. L. 106–402, title II, §211, Oct. 30, 2000, 114 Stat. 1733.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15101 of this title.
-

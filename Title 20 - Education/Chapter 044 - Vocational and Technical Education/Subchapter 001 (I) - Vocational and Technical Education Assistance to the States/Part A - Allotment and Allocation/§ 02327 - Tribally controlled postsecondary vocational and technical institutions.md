@@ -44,7 +44,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary vocational and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], or any other applicable program for thebenefit of institutions of higher education or vocational and technical education.
+&emsp;Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary vocational and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], or any other applicable program for the benefit of institutions of higher education or vocational and technical education.
 
 #### (2) Prohibition on alteration of grant amount
 
@@ -52,7 +52,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (3) Prohibition on contract denial
 
-&emsp;No tribally controlled postsecondary vocational and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+&emsp;No tribally controlled postsecondary vocational and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (except as provided in that Act), or denied appropriatecontract support to administer such portion of the appropriated funds.
 
 #### (g) Needs estimate and report on facilities and facilities improvement
 
@@ -120,7 +120,7 @@ In this section:
 
 #### (C) Admission criteria
 
-&emsp;&emsp;Credits or clock hours toward a certificate earned in classes during a summer term shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credit earned by such student for purposes ofobtaining a secondary school degree or its recognized equivalent shall be counted toward the computation of the Indian student count.
+&emsp;&emsp;Credits or clock hours toward a certificate earned in classes during a summer term shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credit earned by such student for purposes of obtaining a secondary school degree or its recognized equivalent shall be counted toward the computation of the Indian student count.
 
 #### (D) Determination of hours
 
@@ -132,7 +132,7 @@ In this section:
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181.)
 
@@ -177,10 +177,6 @@ Pub. L. 107–20, title II, §2701(b), July 24, 2001, 115 Stat. 182, provided th
 “(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this section \[July 24, 2001\].
 
 “(2) The amendments made by subsection (a) shall apply to grants made for fiscal year 2001 only if this section is enacted before August 4, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2307 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

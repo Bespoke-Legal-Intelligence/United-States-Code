@@ -58,9 +58,5 @@ Pub. L. 102–141, title VI, §633, Oct. 28, 1991, 105 Stat. 876, provided that:
 
 \[Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300ee–12, 300ff–80 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “respect to”.</i>
 

@@ -14,7 +14,3 @@ Owners may give notice to the public by physically associating with or affixing 
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2541, 2543 of this title.
-

@@ -18,7 +18,3 @@ As soon as practicable after October 29, 2002 (but in no event later than 6 mont
 
 (Pub. L. 107–252, title II, §261, Oct. 29, 2002, 116 Stat. 1698.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15425 of this title.
-

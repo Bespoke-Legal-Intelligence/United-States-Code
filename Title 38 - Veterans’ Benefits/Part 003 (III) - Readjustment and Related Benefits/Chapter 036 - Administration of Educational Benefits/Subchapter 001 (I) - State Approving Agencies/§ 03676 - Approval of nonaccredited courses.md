@@ -64,7 +64,7 @@
 
 &emsp;(2) is operated by an agency of a State or of a unit of local government,
 
-&emsp;(3) is located within such State or, in the case of an institution operated by an agency of a unit of local government, within the boundaries of the area over which such unit has taxing jurisdiction, and
+&emsp;(3) is located within such State or, in the case of an institution operated by an agency ofa unit of local government, within the boundaries of the area over which such unit has taxing jurisdiction, and
 
 &emsp;(4) is a candidate for accreditation by a regional accrediting association,
 
@@ -91,8 +91,4 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted “3675” for “1775”.
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3675 of this title.
 

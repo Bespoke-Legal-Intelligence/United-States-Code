@@ -66,7 +66,3 @@ Section 326(b) of Pub. L. 98–21 provided that: “The amendment made by subsec
 
 Amendment by Pub. L. 97–35 applicable with respect to benefits for months after December 1981, with certain exceptions, see section 2(j)(2)–(4) of Pub. L. 97–123, set out as a note under section 415 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402, 410, 411, 415 of this title; title 8 section 1611; title 26 sections 1401, 1402, 3101, 3111, 3121.
-

@@ -20,7 +20,7 @@ Whoever, in any matter within the jurisdiction of an examiner or hearing officer
 
 (1) Whoever votes more than once in an election referred to in paragraph (2) shall be fined not more than $10,000 or imprisoned not more than five years, or both.
 
-(2) The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
+(2) The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the officeof President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
 
 (3) As used in this subsection, the term “votes more than once” does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 1973aa–1 of this title, to the extent two ballots are not cast for an election to the same candidacy or office.
 
@@ -37,8 +37,4 @@ Subsec. (e). Pub. L. 94–73, §409, added subsec. (e).
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pub. L. 91–405, set out as an Effective Date note under section 25a of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973j, 1973aa–1, 15544 of this title.
 

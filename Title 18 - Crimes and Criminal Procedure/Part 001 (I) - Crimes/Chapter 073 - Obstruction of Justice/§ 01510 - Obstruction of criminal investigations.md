@@ -54,7 +54,3 @@ Subsec. (d). Pub. L. 103–322, §320604(c), added subsec. (d).
 
 Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as an Effective Date note under section 1512 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1961, 2516, 3142 of this title; title 29 section 1111.
-

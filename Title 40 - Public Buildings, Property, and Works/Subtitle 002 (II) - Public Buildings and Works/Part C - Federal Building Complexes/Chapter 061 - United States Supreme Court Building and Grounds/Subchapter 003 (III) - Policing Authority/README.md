@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—POLICING AUTHORITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6101 of this title.
-
 
 ---
 

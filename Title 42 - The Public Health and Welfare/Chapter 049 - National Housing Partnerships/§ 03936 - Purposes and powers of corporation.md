@@ -6,7 +6,7 @@ In order to achieve the objectives and carry out the purposes of this chapter, t
 
 &emsp;(1) plan, initiate, and carry out, pursuant to Federal programs or otherwise, the building, rehabilitation, acquisition, and financing of housing and related facilities primarily for the benefit of families and individuals of low or moderate income;
 
-&emsp;(2) buy, own, manage, lease, or otherwise acquire or dispose of property in connection withthe developments, projects, or undertakings referred to in paragraph (1);
+&emsp;(2) buy, own, manage, lease, or otherwise acquire or dispose of property in connection with the developments, projects, or undertakings referred to in paragraph (1);
 
 &emsp;(3) provide such funds as may be necessary to accomplish the developments, projects, or undertakings referred to in paragraph (1); and
 
@@ -22,7 +22,7 @@ Included in the activities authorized to the corporation for the accomplishment 
 
 &emsp;(3) to conduct or contract for research and studies related to the development, demonstration, and evaluation of improved techniques and methods of constructing, rehabilitating, and maintaining housing;
 
-&emsp;(4) to provide technical assistance to nonprofit corporations, limited dividend corporations, and others with respect to the planning, refinancing, construction, rehabilitation, maintenance, and management of housing for low and moderate income families and individuals;
+&emsp;(4) to provide technical assistance to nonprofit corporations, limited dividend corporations, and others with respect to the planning,refinancing, construction, rehabilitation, maintenance, and management of housing for low and moderate income families and individuals;
 
 &emsp;(5) to make loans or grants including grants of interests in housing and related facilities, to nonprofit corporations, limited dividend corporations, and others, in carrying out its activities under subsection (a) of this section; and
 
@@ -57,8 +57,4 @@ In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 Subsec. (e). Pub. L. 98–479, §104(c)(2), added subsec. (e).
 
 1983—Subsec. (a)(1). Pub. L. 98–181 inserted references to acquisition and financing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3937, 3938 of this title.
 

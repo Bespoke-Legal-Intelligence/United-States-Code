@@ -94,7 +94,3 @@ Restoration of income.—If the sequestration is vacated or if the judgment on t
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4946.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3101 of this title.
-

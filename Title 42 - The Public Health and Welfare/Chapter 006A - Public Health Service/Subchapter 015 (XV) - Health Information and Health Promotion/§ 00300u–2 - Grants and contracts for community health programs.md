@@ -8,7 +8,7 @@ The Secretary is authorized to conduct and support by grant or contract (and enc
 
 &emsp;(2) provide consultation and technical assistance to organizations that request help in planning, operating, or evaluating programs in such matters;
 
-&emsp;(3) develop health information and health promotion materials and teaching programs including (A) model curriculums for the training of educational and health professionalsand paraprofessionals in health education by medical, dental, and nursing schools, schools of public health, and other institutions engaged in training of educational or health professionals, (B) model curriculums to be used in elementary and secondary schools and institutions of higher learning, (C) materials and programs for the continuing education of health professionals and paraprofessionals in the health education of their patients, (D) materials for public service use by the printed and broadcast media, and (E) materials and programs to assist providers of health care in providing health education to their patients; and
+&emsp;(3) develop health information and health promotion materials and teaching programs including (A) model curriculums for the training of educational and health professionals and paraprofessionals in health education by medical, dental, and nursing schools, schools of public health, and other institutions engaged in training of educational or health professionals, (B) model curriculums to be used in elementary and secondary schools and institutions of higher learning, (C) materials and programs for the continuing education of health professionals and paraprofessionals in the health education of their patients, (D) materials for public service use by the printed and broadcast media, and (E) materials and programs to assist providers of health care in providing health education to their patients; and
 
 &emsp;(4) support demonstration and evaluation programs for individual and group self-help programs designed to assist the participant in using his individual capacities to deal with health problems, including programs concerned with obesity, hypertension, and diabetes.
 
@@ -21,8 +21,4 @@ The Secretary is authorized to make grants to States and other public and nonpro
 The Secretary is authorized to support by grant or contract (and to encourage others to support) private nonprofit entities working in health information and health promotion, preventive health services, and education in the appropriate use of health care. The amount of any grant or contract for a fiscal year beginning after September 30, 1978, for an entity may not exceed 25 per centum of the expenses of the entity for such fiscal year for health information and health promotion, preventive health services, and education in the appropriate use of health care.
 
 (July 1, 1944, ch. 373, title XVII, §1703, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 697.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300u of this title.
 

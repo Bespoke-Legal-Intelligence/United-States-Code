@@ -42,7 +42,7 @@ Section 5 of Pub. L. 101–319 provided that:
 
 “(a)
 
-Effective Date.—The amendments made by this Act \[amending this section and section 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1990\].
+Effective Date.—The amendments made by this Act \[amending this section and section 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 101 of this title\] shall takeeffect on the date of the enactment of this Act \[July 3, 1990\].
 
 “(b)
 

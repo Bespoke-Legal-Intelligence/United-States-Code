@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—ORGANIZATION OF CORPORATIONS TO DO FOREIGN BANKING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 24a, 1818, 1841, 1843, 2804, 3103, 3204, 3902, 4402, 4422 of this title; title 7 sections 1a, 27; title 11 sections 103, 109, 781; title 15 sections 57a, 77kkk, 78c, 78q, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 4001, 6505, 6805, 6822, 7706; title 18 sections 20, 655, 656, 1004, 1005, 1014, 1030, 1906; title 31 section 5313.
-
 
 ---
 

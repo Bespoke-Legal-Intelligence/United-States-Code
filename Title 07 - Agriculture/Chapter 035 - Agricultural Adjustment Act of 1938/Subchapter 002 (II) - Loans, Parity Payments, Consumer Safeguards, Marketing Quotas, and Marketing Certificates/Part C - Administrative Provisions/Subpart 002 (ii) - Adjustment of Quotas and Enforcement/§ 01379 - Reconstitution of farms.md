@@ -1,7 +1,5 @@
 ### §1379. Reconstitution of farms
 
-#### (a) Transfers from parent farm
-
 In any case in which the ownership of a tract of land is transferred from a parent farm, the acreage allotments, history acreages, and base acreages for the farm shall be divided between such tract and the parent farm in the same proportion that the cropland acreage in such tract bears to the cropland acreage in the parent farm, except that the Secretary shall provide by regulation the method to be used in determining the division, if any, of the acreage allotments, histories, and bases in any case in which—
 
 &emsp;(1) the tract of land transferred from the parent farm has been or is being transferred to any agency having the right to acquire it by eminent domain;
@@ -14,19 +12,17 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 &emsp;(5) the parent farm is divided among heirs in settling an estate; or
 
-&emsp;(6) neither the tract transferred from the parent farm nor the remaining portion of the parent farm receives allotments in excess of allotments for similar farms in the community having allotments of the commodity or commodities involved and such allotments are consistent with good land uses, but this clause (6) shall not be applicable in the case of burley tobacco.
+&emsp;(6) neither the tract transferred from the parent farm nor the remaining portion of the parent farm receives allotments in excess of allotments for similar farms in the community having allotments of the commodity or commodities involved and such allotments are consistent with good land uses.
 
-#### (b) Combination of tracts in contiguous counties
-
-In any case in which two or more tracts of land are located in contiguous counties in the same State and are owned by the same person, the Secretary shall permit such tracts to be combined as one farm if (1) a Burley or flue-cured tobacco poundage quota is established for one or more of such tracts, and (2) the relevant county committees determine that such tracts will be operated as a single farming unit.
-
-#### (c) Burley tobacco poundage quotas
-
-When a farm is divided through reconstitution, the burley tobacco poundage quota which transfers with the divided land shall not be less than 1,000 pounds (except when the reconstitution of the farm is among immediate family members or pursuant to probate proceedings).
-
-(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178.)
+(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, §611(m), Oct. 22, 2004, 118 Stat. 1523.)
 
 #### Amendments
+
+2004—Pub. L. 108–357 struck out “(a)” before “In any case”, struck out “, but this clause (6) shall not be applicable in the case of burley tobacco” before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
 
 1999—Subsec. (b). Pub. L. 106–78 inserted “or flue-cured” after “Burley”.
 
@@ -42,7 +38,7 @@ When a farm is divided through reconstitution, the burley tobacco poundage quota
 
 Sections 404 and 605 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
 
-#### Section Referred to in Other Sections
+#### Savings Provision
 
-This section is referred to in section 1314d of this title.
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 

@@ -56,7 +56,7 @@ The President shall not provide assistance under this part—
 
 #### (c) Exceptions to ineligibility
 
-Assistance prohibited by subsection (b) of this section or any similar provision of law, other than assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
+Assistance prohibited by subsection (b) of this section or any similar provision of law, otherthan assistance prohibited by the provisions referred to in subsection (b)(4) of this section, may be furnished under any of the following circumstances:
 
 &emsp;(1) The President determines that furnishing such assistance is important to the national interest of the United States.
 
@@ -187,10 +187,6 @@ United States Person.—For purposes of this section, the term ‘United States 
 &emsp;“(1) any citizen, national, or permanent resident alien of the United States; and
 
 &emsp;“(2) any corporation, partnership, or other juridical entity which is 50 percent or more beneficially owned by individuals described in paragraph (1).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295b, 2297b, 5814 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Baltic”.</i>
 

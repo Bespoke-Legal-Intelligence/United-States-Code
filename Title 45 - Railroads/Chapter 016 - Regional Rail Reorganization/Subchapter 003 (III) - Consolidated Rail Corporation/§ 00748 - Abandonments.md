@@ -12,7 +12,7 @@ Any application for abandonment that is filed by the Corporation under this sect
 
 (1) The Corporation may, prior to November 1, 1985, file with the Commission a notice of insufficient revenues for any line which is part of the system of the Corporation.
 
-(2) At any time after the 90-day period beginning with the filing of a notice of insufficient revenues for a line, the Corporation may file an application for abandonment for such line. Anapplication for abandonment that is filed by the Corporation under this subsection for a line for which a notice of insufficient revenues was filed under paragraph (1) shall be granted by the Commission within 90 days after the date such application is filed unless, within such 90-day period, an offer of financial assistance is made in accordance with subsection (d) of this section with respect to such line.
+(2) At any time after the 90-day period beginning with the filing of a notice of insufficient revenues for a line, the Corporation may file an application for abandonment for such line. An application for abandonment that is filed by theCorporation under this subsection for a line for which a notice of insufficient revenues was filed under paragraph (1) shall be granted by the Commission within 90 days after the date such application is filed unless, within such 90-day period, an offer of financial assistance is made in accordance with subsection (d) of this section with respect to such line.
 
 #### (d) Offers of financial assistance
 
@@ -63,8 +63,4 @@ Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 741, 1321 of this title.
 

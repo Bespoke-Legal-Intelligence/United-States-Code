@@ -20,7 +20,3 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §120; added Nov. 4, 1978, Pub. L. 95–5
 
 The words “United States” are substituted for “Nation” for clarity and consistency. The words “and certain other pension plans” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9504 of this title.
-

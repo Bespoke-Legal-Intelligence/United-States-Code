@@ -32,7 +32,3 @@ Support of a center under subsection (a) of this section may be for a period of 
 
 1988—Subsec. (a)(1). Pub. L. 100–607 inserted “control,” after “prevention,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285a–6, 285a–7 of this title.
-

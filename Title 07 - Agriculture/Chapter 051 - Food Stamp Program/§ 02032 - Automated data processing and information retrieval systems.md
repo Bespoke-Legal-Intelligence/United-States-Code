@@ -48,15 +48,11 @@
 
 #### (c) Report
 
-Not later than October 1, 1993, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support food stamp program delivery in compliance with this chapter and regulations issued under this chapter.
+Not later than October 1, 1993, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effectivesystems that support food stamp program delivery in compliance with this chapter and regulations issued under this chapter.
 
 (Pub. L. 88–525, §23, as added Pub. L. 101–624, title XVII, §1763(a), Nov. 28, 1990, 104 Stat. 3805.)
 
 #### Codification
 
 November 28, 1990, referred to in subsec. (a)(1)(B), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101–624, which enacted this section, to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2020 of this title.
 

@@ -54,7 +54,7 @@ Par. (10). Pub. L. 98–459, §102(c), inserted reference to full participation 
 
 Pub. L. 103–171, §4(b), Dec. 2, 1993, 107 Stat. 1991, provided that: “The amendments made by—
 
-&emsp;“(1) sections 303(a)(2), 303(a)(3), 304 (excluding paragraphs (1) and (2) of subsection (a)), 305, 306, 307, and 317 \[enacting sections 3030g–21 and 3030g–22 of this title and amending sections 3023 to 3027 of this title\], and
+&emsp;“(1) sections 303(a)(2), 303(a)(3), 304 (excluding paragraphs (1) and (2) of subsection (a)), 305, 306, 307, and317 \[enacting sections 3030g–21 and 3030g–22 of this title and amending sections 3023 to 3027 of this title\], and
 
 &emsp;“(2) title VII \[enacting sections 3058 to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030<i>l</i> of this title\],
 
@@ -148,7 +148,7 @@ Section 1(a) of Pub. L. 102–375 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1,2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
+Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
 
 #### Short Title of 1986 Amendment
 
@@ -156,7 +156,7 @@ Pub. L. 99–269, §1, Apr. 1, 1986, 100 Stat. 78, provided: “That this Act \[
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–459 provided that: “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and 3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and section 631 of Title 29, and amending provisions set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
+Section 1 of Pub. L. 98–459 provided that: “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and section 631 of Title 29, and amending provisions set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
 
 #### Short Title of 1981 Amendment
 
@@ -718,7 +718,7 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 
 &emsp;“(3)
 
-Conference not convened.—If the Conference is not convened before December 31, 2005, such fundsneither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
+Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

@@ -4,7 +4,3 @@ Subject to the provisions of section 1014 of this title, the Secretary of the In
 
 (Pub. L. 91–581, §3, Dec. 24, 1970, 84 Stat. 1566.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1024 of this title.
-

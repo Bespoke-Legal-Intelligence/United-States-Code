@@ -86,7 +86,3 @@ The administering authority shall verify all information relied upon in makingâ€
 
 Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103â€“465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1677e of this title.
-

@@ -98,7 +98,7 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §207(a), 110 Stat. 3385.
 
 &nbsp;
 
-In this section, the text of 36:1101 is omitted as unnecessary because of the addition of the words “Except as otherwise provided” in subsection (a) of this section. The text of 36:1166, 1213(a), and 5206(a) is omitted as unnecessary because of the restatement of 36:1102 and 1103 as general provisions covering, except as otherwise provided, all federally chartered corporations referred to in part B of subtitle II of the revised title. The text of 36:1084 (less (b) (2d sentence cl. (2))), 4315 (less (b) (2d sentence cl. (2))), 4514 (less (b) (2d sentence cl. (2))), and4610 (less (b) (2d sentence cl. (2))) is omitted as unnecessary because of the restatement in this section of the general audit provisions of 36:1102 and 1103.
+In this section, the text of 36:1101 is omitted as unnecessary because of the addition of the words “Except as otherwise provided” in subsection (a) of this section. The text of 36:1166, 1213(a), and 5206(a) is omitted as unnecessary because of the restatement of 36:1102 and 1103 as general provisions covering, except as otherwise provided, all federally chartered corporations referred to in part B of subtitle II of the revised title. The text of 36:1084 (less (b) (2d sentence cl. (2))), 4315 (less (b) (2d sentence cl. (2))), 4514 (less (b) (2d sentence cl. (2))), and 4610 (less (b) (2d sentence cl. (2))) is omitted as unnecessary because of the restatement in this section of the general audit provisions of 36:1102 and 1103.
 
 In subsection (a), before clause (1), the words “Except as otherwise provided” are added because certain corporations referred to in part B of subtitle II of the revised title are not covered by the audit requirements restated in the revised section. The words “at the place or places” and “or persons” are omitted as unnecessary. The words “financial statements” are substituted for “accounts” to use the generally accepted term for audits conducted by public accountants. The words “shall be given access to” are substituted for “shall be made available to” and “shall be afforded to” for consistency. In clause (1), the words “records and property owned or used by” are substituted for “books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
@@ -255,8 +255,4 @@ Veterans of World War I of the United States of America, Incorporated
 Vietnam Veterans of America, Inc.
 
 Women's Army Corps Veterans’ Association
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 20212, 20307, 20712, 20913, 21012, 21112, 21507, 22912, 23109, 40112, 40707, 50112, 60112, 70112, 70312, 70708, 100112, 110112, 130510, 140712, 150113, 150909, 151108, 151512, 152112, 152913, 153510, 154512, 154713, 170313, 170512, 190313, 200106, 210107, 210313, 220314, 220712, 230513, 240112 of this title; title 16 sections 583j–5, 3706, 5807; title 20 section 5509; title 25 section 458bbb.
 

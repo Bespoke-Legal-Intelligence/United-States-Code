@@ -10,7 +10,3 @@ Provisions similar to those in this section were contained in section 10906 of t
 
 A prior section 10905, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1405; Pub. L. 96–448, title IV, §402(c), Oct. 14, 1980, 94 Stat. 1942; Pub. L. 103–272, §4(j)(26), July 5, 1994, 108 Stat. 1369, related to offers of financial assistance to avoid abandonment and discontinuance, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 10904 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10903, 11702, 11901 of this title.
-

@@ -44,7 +44,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 (3) The primary responsibilities of the Office shall include:
 
-&emsp;(A) Providing information and guidance to Members, officers and employees of the House regarding any laws, rules, regulations, and other standards of conduct applicable to such individuals in their official capacities, and any interpretations and advisory opinions of the committee.
+&emsp;(A) Providing information and guidance to Members, officers and employees of the Houseregarding any laws, rules, regulations, and other standards of conduct applicable to such individuals in their official capacities, and any interpretations and advisory opinions of the committee.
 
 &emsp;(B) Submitting to the chairman and ranking minority member of the committee any written request from any such Member, officer or employee for an interpretation of applicable laws, rules, regulations, or other standards of conduct, together with any recommendations thereon.
 

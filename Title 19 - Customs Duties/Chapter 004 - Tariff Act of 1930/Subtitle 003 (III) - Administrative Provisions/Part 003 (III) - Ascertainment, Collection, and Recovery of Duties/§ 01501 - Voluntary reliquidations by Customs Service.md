@@ -1,8 +1,8 @@
 ### §1501. Voluntary reliquidations by Customs Service
 
-A liquidation made in accordance with section 1500 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by the Customs Service, notwithstanding the filing of a protest, within ninety days from the date on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under section 1500(e) of this title.
+A liquidation made in accordance with section 1500 or 1504 of this title or any reliquidation thereof made in accordance with this section may be reliquidated in any respect by the Customs Service, notwithstanding the filing of a protest, within ninety days from the date on which notice of the original liquidation is given or transmitted to the importer, his consignee or agent. Notice of such reliquidation shall be given or transmitted in the manner prescribed with respect to original liquidations under section 1500(e) of this title.
 
-(June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June 25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; Pub. L. 91–271, title II, §205, June 2, 1970, 84 Stat. 283; Pub. L. 103–182, title VI, §639, Dec. 8, 1993, 107 Stat. 2203.)
+(June 17, 1930, ch. 497, title IV, §501, 46 Stat. 730; June 25, 1938, ch. 679, §16(b), 52 Stat. 1084; June 25, 1948, ch. 646, §§25, 39, 62 Stat. 990, 992; Aug. 8, 1953, ch. 397, §18(c), 67 Stat. 517; Pub. L. 91–271, title II, §205, June 2, 1970, 84 Stat. 283; Pub. L. 103–182, title VI, §639, Dec. 8, 1993, 107 Stat. 2203; Pub. L. 108–429, title II, §2107, Dec. 3, 2004, 118 Stat. 2598.)
 
 #### Prior Provisions
 
@@ -14,9 +14,11 @@ The provisions of section III, M, of the 1913 act, were substituted for provisio
 
 Provisions similar to some extent to those in section 13 of the Customs Administrative Act of 1890 were contained in R.S. §§2929, 2930, prior to repeal by section 29 of that Act.
 
-R.S. §2950 provided that the certificate of the appraiser should be deemed to be the appraisement. Itwas superseded by the provisions relating to appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §13, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, and the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2950 provided that the certificate of the appraiser should be deemed to be the appraisement. It was superseded by the provisions relating to appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §13, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, and the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+2004—Pub. L. 108–429 inserted “or 1504” after “section 1500” in first sentence.
 
 1993—Pub. L. 103–182 amended section catchline generally, substituting “Customs Service” for “appropriate customs officer; notice”, and in text substituted “the Customs Service” for “the appropriate customs officer on his own initiative” and inserted “or transmitted” after “given” in two places.
 
@@ -29,6 +31,10 @@ R.S. §2950 provided that the certificate of the appraiser should be deemed to b
 Subsecs. (b) and (c), relating to practice and procedure in Customs Court, were repealed by Act June 25, 1948. See sections 2631 to 2637 of Title 28, Judiciary and Judicial Procedure.
 
 1938—Act June 25, 1938, designated paragraphs as subsecs. (a) and (b) and added subsec. (c).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -51,8 +57,4 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 1514 of this title.
 

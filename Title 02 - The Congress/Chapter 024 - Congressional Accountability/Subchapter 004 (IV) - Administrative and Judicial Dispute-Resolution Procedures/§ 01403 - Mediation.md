@@ -18,11 +18,7 @@ The mediation period shall be 30 days beginning on the date the request for medi
 
 #### (d) Independence of mediation process
 
-No individual, who is appointed by the Executive Director to mediate, may conduct or aid in a hearing conducted under section 1405 of this title with respect to the same matter or shall be subject to subpoena or any other compulsory process with respect to the same matter.
+No individual, who is appointed by the Executive Director to mediate, may conduct or aid ina hearing conducted under section 1405 of this title with respect to the same matter or shall be subject to subpoena or any other compulsory process with respect to the same matter.
 
 (Pub. L. 104–1, title IV, §403, Jan. 23, 1995, 109 Stat. 32.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 452, 1331, 1361, 1401, 1405, 1408, 1435 of this title.
 

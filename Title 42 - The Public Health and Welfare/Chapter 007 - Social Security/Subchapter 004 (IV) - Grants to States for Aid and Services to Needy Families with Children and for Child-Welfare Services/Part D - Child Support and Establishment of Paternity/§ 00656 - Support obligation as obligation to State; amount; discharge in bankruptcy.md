@@ -44,7 +44,7 @@ Subsec. (a)(3). Pub. L. 98–369, §2663(c)(15)(C), (D), redesignated former par
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5513(a)(3) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Actof 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
+Amendment by section 5513(a)(3) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
 
 Amendment by section 5556(d) of Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 
@@ -52,7 +52,7 @@ Amendment by section 5556(d) of Pub. L. 105–33 effective as if included in the
 
 Amendment by section 108(c)(13) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
-Amendment by section 374(b) of Pub. L. 104–193 applicable only with respect to cases commenced under Title 11, Bankruptcy, after Aug. 22, 1996, see section 374(c) of Pub. L. 104–193, set out as a note under section 523 of Title 11.
+Amendment by section 374(b) of Pub. L. 104–193 applicable only with respect to cases commenced underTitle 11, Bankruptcy, after Aug. 22, 1996, see section 374(c) of Pub. L. 104–193, set out as a note under section 523 of Title 11.
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
@@ -69,8 +69,4 @@ Section 2334(c) of Pub. L. 97–35 provided that: “The amendments made by this
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 654 of this title.
 

@@ -54,7 +54,7 @@
 
 #### (2) 180-day suspension upon denial of coverage
 
-&emsp;An issuer, upon denying health insurance coverage in any service area in accordance with paragraph (1)(B), may not offer coverage in the small group market within such service area for a period of 180 days after the date such coverage is denied.
+&emsp;An issuer, upon denying health insurance coverage in any service area in accordancewith paragraph (1)(B), may not offer coverage in the small group market within such service area for a period of 180 days after the date such coverage is denied.
 
 #### (d) Application of financial capacity limits
 
@@ -97,8 +97,4 @@ A prior section 2711 of act July 1, 1944, was successively renumbered by subsequ
 #### Effective Date
 
 Section applicable with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997, except as otherwise provided, see section 102(c) of Pub. L. 104–191, set out as a note under section 300gg of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300gg–12 of this title.
 

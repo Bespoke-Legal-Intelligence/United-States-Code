@@ -8,7 +8,3 @@ The Board of Regents of the Smithsonian Institution (hereinafter in this subchap
 
 Section 7 of Pub. L. 95–414 provided that: “Except for the provisions in sections 1 and 6(b) \[this section and section 80p(b) of this title\], the provisions of this Act \[this subchapter\] shall take effect on the date of transfer of a deed or other instrument under the provisions of section 1 \[this section\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80m, 80<i>o</i>, 80p of this title.
-

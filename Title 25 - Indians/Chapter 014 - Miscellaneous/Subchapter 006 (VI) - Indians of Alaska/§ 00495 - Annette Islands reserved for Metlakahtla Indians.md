@@ -8,7 +8,3 @@ Until otherwise provided by law the body of lands known as Annette Islands, situ
 
 Section was formerly classified to section 358 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1618.
-

@@ -60,7 +60,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(5) to support State court planning and budgeting staffs and to provide technical assistance in resource allocation and service forecasting techniques;
 
-&emsp;(6) to support studies of the adequacy of court management systems in State and local courts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
+&emsp;(6) to support studies of the adequacy of court management systems in State and localcourts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
 
 &emsp;(7) to collect and compile statistical data and other information on the work of the courts and on the work of other agencies which relate to and affect the work of courts;
 
@@ -141,10 +141,6 @@ Pub. L. 100–690, §7321(b)(3)(B), (C), redesignated pars. (5) to (15) as (4) t
 Subsec. (d). Pub. L. 100–702, §604, which directed the substitution of “court (or other unit of State or local government)” for “judicial system”, could not be executed due to prior amendment by Pub. L. 100–690, §7321(b)(4). See below.
 
 Pub. L. 100–690, §7321(b)(4), substituted “court (or other unit of State or local government)” for “judicial system”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10703 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
 

@@ -24,7 +24,3 @@ A State educational agency receiving a grant under this subpart may not use more
 
 (Pub. L. 89–10, title VI, §6222, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1895.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7351 of this title.
-

@@ -18,7 +18,3 @@ In order to ensure that due account is taken of local conditions, including appl
 
 For the effective date of this chapter, referred to in subsec. (b), as being 180 days after Dec. 22, 1987, see section 186(b) of Pub. L. 100–204 set out as an Effective Date note under section 4341 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4341, 4342 of this title.
-

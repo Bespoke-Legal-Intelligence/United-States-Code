@@ -4,7 +4,3 @@ An arbitration agreement or arbitral award arising out of a legal relationship, 
 
 (Added Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 692.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 302 of this title.
-

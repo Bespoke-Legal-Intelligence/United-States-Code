@@ -28,7 +28,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(4)(B) (related to §403
 
 The words “foreign air transportation” are substituted for “air transportation” because 49 App.:1551(a)(4)(B) provides that 49 App.:1373 no longer applies to interstate or overseas air transportation and 49 App.:1376(a)–(e), restated in section 41901 of the revised title, governs rates for the transportation of mail by aircraft. See section 40102(a) of the revised title defining “air transportation” to mean interstate or foreign air transportation or the transportation of mail by aircraft.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

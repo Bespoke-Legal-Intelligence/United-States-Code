@@ -16,7 +16,7 @@
 
 &emsp;expenses authorized in writing by the Joint Committee on Printing for inspection of Government printing activities.
 
-> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by him and the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
+> In addition, the Public Printer shall provide capital for the fund by capitalizing, at fair and reasonable values as jointly determined by himand the Comptroller General, the current inventories, plant, and building appurtenances, except building structures and land, equipment, and other assets of the Government Printing Office.
 
 (b) The fund shall be—
 
@@ -75,8 +75,4 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 #### Federal Register Program; Use of Revolving Fund; Reimbursement
 
 Title II of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided in part: “That hereafter the revolving fund shall be available to finance the costs of printing and binding all other publications of the Federal Register program and be reimbursed from appropriated funds available therefor”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1509 of this title.
 

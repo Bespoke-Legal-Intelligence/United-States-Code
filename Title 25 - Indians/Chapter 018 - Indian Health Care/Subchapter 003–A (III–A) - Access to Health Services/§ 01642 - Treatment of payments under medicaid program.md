@@ -34,7 +34,3 @@ Section 401(b)(2) of Pub. L. 102–573 provided that: “The increase (from 50 p
 
 Section 401(c) of Pub. L. 100–713 provided that: “The amendments made by this section \[amending this section\] shall apply to services performed on or after the date of the enactment of this Act \[Nov. 23, 1988\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1645, 1680c of this title.
-

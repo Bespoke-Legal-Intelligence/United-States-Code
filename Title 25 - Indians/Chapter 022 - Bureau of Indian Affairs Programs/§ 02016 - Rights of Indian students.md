@@ -18,7 +18,3 @@ Another prior section 2016, Pub. L. 95–561, title XI, §1136, Nov. 1, 1978, 92
 
 A prior section 2016a, Pub. L. 100–297, title VI, §6210, Apr. 28, 1988, 102 Stat. 427, directed Assistant Secretary of the Interior for Bureau of Indian Affairs to submit to appropriate committees of Congress, the President, and the Secretary by September 30 of every other year a report on education of Indian children, prior to repeal by Pub. L. 100–427, §27, Sept. 9, 1988, 102 Stat. 1614.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2010 of this title.
-

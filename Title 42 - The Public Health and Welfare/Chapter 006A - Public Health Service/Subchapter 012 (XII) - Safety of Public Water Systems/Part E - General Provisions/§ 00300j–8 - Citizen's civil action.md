@@ -60,9 +60,5 @@ Subsec. (b)(3). Pub. L. 104–182, §129(b)(2), added par. (3).
 
 1977—Subsec. (e). Pub. L. 95–190 inserted provisions relating to suits by State or local governments for enforcement of safe drinking water, etc., requirements.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300h–2 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “300j–6(b)”.</i>
 

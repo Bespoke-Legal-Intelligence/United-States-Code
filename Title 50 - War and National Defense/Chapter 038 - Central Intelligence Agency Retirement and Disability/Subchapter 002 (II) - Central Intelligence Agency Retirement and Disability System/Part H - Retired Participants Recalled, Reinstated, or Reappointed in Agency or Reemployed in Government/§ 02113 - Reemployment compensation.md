@@ -22,7 +22,3 @@ A prior section 273 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053;
 
 For waiver of application of the dual compensation reduction provisions of this section for temporary employees during an emergency, see Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, set out as a note under section 2141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2032 of this title.
-

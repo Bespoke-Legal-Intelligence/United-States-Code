@@ -34,3 +34,5 @@ Section 2435, Pub. L. 87–195, pt. V, §806, as added Pub. L. 93–559, §41, D
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+For delegation of functions of President under subsec. (a) of this section, see section 2 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
+

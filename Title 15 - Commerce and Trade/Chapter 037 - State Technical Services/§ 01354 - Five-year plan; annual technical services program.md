@@ -8,7 +8,3 @@ The designated agency shall prepare and submit to the Secretary in accordance wi
 
 (Pub. L. 89–182, §4, Sept. 14, 1965, 79 Stat. 680.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1356, 1357, 1359 of this title.
-

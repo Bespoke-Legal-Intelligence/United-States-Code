@@ -8,11 +8,3 @@ Funds which are held in trust by the Secretary of the Interior (hereinafter refe
 
 Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, which enacted sections 117a to 117c and repealed section 117 of this title and repealed section 19 (per capita payments provisions) of act June 28, 1898, ch. 517, 30 Stat. 502, is popularly known as the “Per Capita Act”.
 
-#### Act Referred to in Other Sections
-
-The Per Capita Act is referred to in sections 1300i–6, 1773h of this title; title 20 section 1087uu–1.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 117b, 117c of this title.
-

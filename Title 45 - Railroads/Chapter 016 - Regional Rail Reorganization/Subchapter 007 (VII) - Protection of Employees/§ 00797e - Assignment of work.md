@@ -14,9 +14,5 @@ The authority granted by this section shall apply only for as long as benefits a
 
 Section 797<i>l</i> of this title, referred to in subsec. (b), was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21, 1986, 100 Stat. 1908, and a new section 797<i>l</i> of this title was subsequently added by Pub. L. 104–88, §327(5).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 741 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -44,7 +44,7 @@ In the section, the word “President” is substituted for “Director of the O
 
 &emsp;“(3) the President.
 
-“(b) A report under this section shall include an appraisal of unpaid obligations under appropriation accounts established under section 1552 of this title. Bythe 30th day after receiving a report, the head of the agency concerned shall carry out actions required by section 1554 of this title that the report shows is necessary.”
+“(b) A report under this section shall include an appraisal of unpaid obligations under appropriation accounts established under section 1552 of this title. By the 30th day after receiving a report, the head of the agency concerned shall carry out actions required by section 1554 of this title that the report shows is necessary.”
 
 #### Effective Date of 1990 Amendment
 

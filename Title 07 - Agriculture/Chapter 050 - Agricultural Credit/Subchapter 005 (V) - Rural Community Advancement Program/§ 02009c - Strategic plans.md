@@ -36,15 +36,11 @@ A strategic plan of a State or federally recognized Indian tribe under this sect
 
 &emsp;(3) identifies goals, methods, and benchmarks for measuring the success of carrying out the plan and how the plan relates to local or regional ecosystems;
 
-&emsp;(4) in the case of a State, provides for the involvement, in the preparation of the plan, of State, local, private, and public persons, State rural development councils, federally recognized Indian tribes in the State, and community-based organizations;
+&emsp;(4) in the case of a State, provides for the involvement, in the preparation of the plan, ofState, local, private, and public persons, State rural development councils, federally recognized Indian tribes in the State, and community-based organizations;
 
 &emsp;(5) identifies the amount and source of Federal and non-Federal resources that are available for carrying out the plan; and
 
 &emsp;(6) includes such other information as may be required by the Secretary.
 
 (Pub. L. 87–128, title III, §381D, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 950aaa–2, 2009f, 2009<i>l</i> of this title.
 

@@ -4,7 +4,3 @@ If, at the time of arrival in the United States, the residence or the legal domi
 
 (Pub. L. 86–571, §3, July 5, 1960, 74 Stat. 308.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 324, 327, 329 of this title.
-

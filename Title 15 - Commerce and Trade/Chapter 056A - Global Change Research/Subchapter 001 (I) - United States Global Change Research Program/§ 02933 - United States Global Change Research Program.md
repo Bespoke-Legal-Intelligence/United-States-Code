@@ -4,7 +4,3 @@ The President shall establish an interagency United States Global Change Researc
 
 (Pub. L. 101–606, title I, §103, Nov. 16, 1990, 104 Stat. 3098.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2921 of this title.
-

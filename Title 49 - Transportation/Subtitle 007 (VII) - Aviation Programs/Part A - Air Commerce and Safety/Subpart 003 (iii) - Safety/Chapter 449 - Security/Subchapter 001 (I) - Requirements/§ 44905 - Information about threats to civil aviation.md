@@ -96,7 +96,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §321; added Nov. 16, 1990, Pub. 
 
 49 App.:1358d(g).
 
-In subsection (a), the words “employed by an air carrier, airport operator, or ticket agent” are substituted for “employed by such an entity” for clarity. The words “or a designee of the Secretary” are omitted as unnecessary.
+In subsection (a), the words “employed by an air carrier, airport operator, or ticket agent” are substituted for “employed by such an entity” for clarity. Thewords “or a designee of the Secretary” are omitted as unnecessary.
 
 In subsections (c)(1), before clause (A), and (d), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete.
 
@@ -115,8 +115,4 @@ Subsecs. (c)(2)(E), (G), (d), (f). Pub. L. 107–71, §101(f)(7), substituted �
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
 

@@ -48,7 +48,7 @@ For the purpose of conducting studies and making reports as directed by the Chai
 
 #### Amendments
 
-1996—Subsec. (h). Pub. L. 104–127 struck out after first sentence “Among such standing subcommittees andpanels of the Council shall be the Subcommittee on Food, Agricultural, and Forestry Research. This subcommittee shall review Federal research and development programs relevant to domestic and world food and fiber production and distribution, promote planning and coordination of this research in the Federal Government, and recommend policies and other measures concerning the food and agricultural sciences for the consideration of the Council. The subcommittee shall include, but not be limited to, representatives of each of the following departments or agencies; the Department of Agriculture, the Department of State, the Department of Defense, the Department of the Interior, the Department of Health and Human Services, the National Oceanic and Atmospheric Administration, the Department of Energy, the National Science Foundation, the Environmental Protection Agency, and the Tennessee Valley Authority. The principal representatives of the Department of Agriculture shall serve as the chairman of the subcommittee.”
+1996—Subsec. (h). Pub. L. 104–127 struck out after first sentence “Among such standing subcommittees and panels of the Council shall be the Subcommittee on Food, Agricultural, and Forestry Research. This subcommittee shall review Federal research and development programs relevant to domestic and world food and fiber production and distribution, promote planning and coordination of this research in the Federal Government, and recommend policies and other measures concerning the food and agricultural sciences for the consideration of the Council. The subcommittee shall include, but not be limited to, representatives of each of the following departments or agencies; the Department of Agriculture, the Department of State, the Department of Defense, the Department of the Interior, the Department of Health and Human Services, the National Oceanic and Atmospheric Administration, the Department of Energy, the National Science Foundation, the Environmental Protection Agency, and the Tennessee Valley Authority. The principal representatives of the Department of Agriculture shall serve as the chairman of the subcommittee.”
 
 1991—Subsec. (b). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 #### Abolition of Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
 
 The Federal Coordinating Council for Science, Engineering, and Technology, established pursuant to this section, was abolished and its functions transferred to the President by Reorg. Plan No. 1 of 1977, §5A, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, as provided by section 1(b) of Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, set out under section 6601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 2932.
 

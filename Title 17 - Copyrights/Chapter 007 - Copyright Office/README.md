@@ -51,10 +51,6 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 1997—Pub. L. 105–80, §12(a)(17), Nov. 13, 1997, 111 Stat. 1535, substituted “Reproduction” for “Reproductions” in item 710.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 908, 912 of this title.
-
 
 ---
 

@@ -34,11 +34,11 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 Victim Defined.—In this section, the term “victim” has the meaning given that term in section 3663A(a)(2).
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L.104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
+1998—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhancedpenalty is provided under section 2326” for “for any offense under this chapter”.
 
 Subsec. (c). Pub. L. 105–184, §5(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
@@ -79,8 +79,4 @@ Subsec. (f). Pub. L. 104–132, §205(e)(4), redesignated subsec. (f) as (c).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3563, 3613, 3664 of this title.
 

@@ -38,10 +38,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2701, 2703, 4304 of this title; title 7 section 1765d; title 40 sections 113, 701.
-
 
 ---
 

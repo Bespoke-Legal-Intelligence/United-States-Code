@@ -26,7 +26,7 @@ Where the State or local units of government deem it appropriate, they may cede 
 
 #### (e) Values; protective acquisitions
 
-The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
+The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as hedeems necessary to protect the values enumerated in subsection (c) of this section.
 
 #### (f) Boundaries; revision
 
@@ -47,8 +47,4 @@ The Secretary is authorized to acquire lands or interests in lands by donation, 
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 230d of this title.
 

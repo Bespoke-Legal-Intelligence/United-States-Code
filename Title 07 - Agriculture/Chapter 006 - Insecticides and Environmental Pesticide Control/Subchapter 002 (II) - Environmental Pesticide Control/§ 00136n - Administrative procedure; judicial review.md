@@ -14,7 +14,7 @@ The district courts of the United States are vested with jurisdiction specifical
 
 #### (d) Notice of judgments
 
-The Administrator shall, by publication in such manner as the Administrator may prescribe, give notice of all judgments entered inactions instituted under the authority of this subchapter.
+The Administrator shall, by publication in such manner as the Administrator may prescribe, give notice of all judgments entered in actions instituted under the authority of this subchapter.
 
 (June 25, 1947, ch. 125, §16, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 994; amended Pub. L. 98–620, title IV, §402(4)(C), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, §801(i), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(b)(1), (2), (3)(P), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
@@ -39,8 +39,4 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136a, 136a–1, 136d, 136q of this title.
 

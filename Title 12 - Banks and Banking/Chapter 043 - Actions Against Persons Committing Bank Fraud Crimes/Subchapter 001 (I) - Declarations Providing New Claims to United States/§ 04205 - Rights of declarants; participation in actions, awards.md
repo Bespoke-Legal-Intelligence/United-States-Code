@@ -62,9 +62,5 @@ Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text 
 
 “(2) When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person's election to seek an award under this section or a reward under such other section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4203, 4204, 4206 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

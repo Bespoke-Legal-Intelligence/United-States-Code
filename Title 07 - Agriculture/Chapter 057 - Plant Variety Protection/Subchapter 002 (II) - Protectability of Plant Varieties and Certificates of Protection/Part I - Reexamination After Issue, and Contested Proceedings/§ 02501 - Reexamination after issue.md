@@ -18,7 +18,3 @@
 
 Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see section 15 of Pub. L. 103–349, set out as a note under section 2401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2461, 2462 of this title.
-

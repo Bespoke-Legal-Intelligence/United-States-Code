@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;In accordance with this section, the Administrator may make grants to New Markets Venture Capital companies and to other entities, as authorized by this part, to provideoperational assistance to smaller enterprises financed, or expected to be financed, by such companies or other entities.
+&emsp;In accordance with this section, the Administrator may make grants to New Markets Venture Capital companies and to other entities, as authorized by this part, to provide operational assistance to smaller enterprises financed, or expected to be financed, by such companies or other entities.
 
 #### (2) Terms
 
@@ -46,7 +46,7 @@
 
 #### (2) Matching requirement
 
-&emsp;The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a <sup>1</sup> cash or in kind), other then those provided by the Administrator, a matching contribution equal to the amount of the supplemental grant.
+&emsp;The Administrator may require, as a condition of any supplemental grant made under this subsection, that the company or entity receiving the grant provide from resources (in a <sup>1</sup> cash or in kind), other then <sup>2</sup> those provided by the Administrator, a matching contribution equal to the amount of the supplemental grant.
 
 #### (c) Limitation
 
@@ -58,9 +58,7 @@ None of the assistance made available under this section may be used for any ove
 
 The effective date of the New Markets Venture Capital Program Act of 2000, referred to in subsec. (a)(3)(A), (B), probably means the date of enactment of section 1 of H.R. 5663, as enacted by Pub. L. 106–554, §1(a)(8), which was approved Dec. 21, 2000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 689b of this title.
-
 <i><sup>1</sup></i><i> So in original. The article probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “than”.</i>
 

@@ -18,7 +18,3 @@ A proposal for an order may be submitted to the Secretary by any organization or
 
 1998—Pub. L. 105–185 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whenever the Secretary has reason to believe that the issuance of an order will assist in carrying out the purpose of this chapter, the Secretary shall provide due notice of and opportunity for a hearing upon a proposed order. Such hearing may be requested and a proposal for an order submitted by any organization or interested person affected by the provisions of this chapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4605, 4611, 4613 of this title.
-

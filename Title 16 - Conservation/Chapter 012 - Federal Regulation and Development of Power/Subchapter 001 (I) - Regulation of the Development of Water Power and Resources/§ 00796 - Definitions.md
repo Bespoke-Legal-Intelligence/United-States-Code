@@ -26,7 +26,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(12) “project works” means the physical structures of a project;
 
-&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum of the following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribed in said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
+&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum of the following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribedin said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
 
 &emsp;(14) “Commission” and “Commissioner” means the Federal Power Commission, and a member thereof, respectively;
 
@@ -96,7 +96,7 @@ Transmitting utility.—The term “transmitting utility” means any electric u
 
 &emsp;(24)
 
-Wholesale transmission services.—The term “wholesale transmission services”means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>2</sup>
+Wholesale transmission services.—The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>2</sup>
 
 &emsp;(25)
 
@@ -145,10 +145,6 @@ Federal Power Commission terminated and functions, personnel, property, funds, e
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 807, 824a–3, 1133, 2708 of this title; title 15 section 79z–5a; title 26 section 168; title 30 section 1141; title 42 sections 7429, 7651d, 8259; title 49 section 60101.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

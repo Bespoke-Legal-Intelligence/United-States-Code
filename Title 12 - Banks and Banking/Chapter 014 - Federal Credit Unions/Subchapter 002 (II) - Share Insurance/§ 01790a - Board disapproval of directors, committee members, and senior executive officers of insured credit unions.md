@@ -20,7 +20,7 @@ An insured credit union may not add any individual to the board of directors or 
 
 #### (2) No effect on disapproval authority of Board
 
-&emsp;Such waivers shall not affect the authority of the Board to issue notices of disapproval ofsuch additions or employment of such individuals within 30 days after each such waiver.
+&emsp;Such waivers shall not affect the authority of the Board to issue notices of disapproval of such additions or employment of such individuals within 30 days after each such waiver.
 
 #### (d) Additional information
 
@@ -43,8 +43,4 @@ The Board shall prescribe by regulation a definition for the terms “troubled c
 #### Codification
 
 Section 914(b) of Pub. L. 101–73, which directed that this section be added to title II of “the Federal Credit Union Insurance Act (12 U.S.C. 1781 et seq.)” was executed by adding this section to the Federal Credit Union Act, which comprises this chapter, as the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4806 of this title.
 

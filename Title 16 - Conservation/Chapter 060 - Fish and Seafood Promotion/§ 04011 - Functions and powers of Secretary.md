@@ -22,7 +22,3 @@ The Secretary may provide, on a reimbursable or other basis, such administrative
 
 (Pub. L. 99–659, title II, §212, Nov. 14, 1986, 100 Stat. 3726.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4010, 4013 of this title.
-

@@ -28,7 +28,3 @@ This section corrects a typographical error in section 1741 of title 28, U.S.C.
 
 1949—Act May 24, 1949, corrected spelling of “admissible”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 1204, 4222.
-

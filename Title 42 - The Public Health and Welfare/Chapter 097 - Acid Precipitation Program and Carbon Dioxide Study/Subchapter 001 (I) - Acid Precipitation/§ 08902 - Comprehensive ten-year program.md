@@ -12,15 +12,11 @@ There is hereby established a comprehensive ten-year program to carry out the pr
 
 #### (b) Research management consortium; membership, responsibilities, etc.
 
-The four National Laboratories (referred to in subsection (a)(2) of this section) shall constitute a research management consortium having the responsibilities described in section 8903(b)(13) of this title as well as the general responsibilities required by their representation on the Task Force. In carrying out these responsibilities the consortium shall report to, and act pursuant to direction from, the joint chairmen of the Task Force.
+The four National Laboratories (referred to in subsection (a)(2) of this section) shall constitute a research management consortium having the responsibilities described in section 8903(b)(13) of this title as well as the general responsibilities required by their representation on the TaskForce. In carrying out these responsibilities the consortium shall report to, and act pursuant to direction from, the joint chairmen of the Task Force.
 
 #### (c) Director of research program
 
 The Administrator of the National Oceanic and Atmospheric Administration shall serve as the director of the research program established by this subchapter.
 
 (Pub. L. 96–294, title VII, §703, June 30, 1980, 94 Stat. 771.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8905 of this title.
 

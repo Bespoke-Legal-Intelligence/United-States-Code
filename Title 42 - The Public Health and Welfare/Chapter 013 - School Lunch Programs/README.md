@@ -5,7 +5,14 @@
 | [1751\.](%C2%A7%2001751%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
 | [1752\.](%C2%A7%2001752%20-%20Authorization%20of%20appropriations%3B%20%E2%80%9CSecretary%E2%80%9D%20defined.md) | Authorization of appropriations; “Secretary” defined. |
 | [1753\.](%C2%A7%2001753%20-%20Apportionments%20to%20States.md) | Apportionments to States. |
-| [1754\.](%C2%A7%2001754%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20VIII%2C%20%C2%A7805%28a%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20527.md) | Repealed. |
+| [1754\.](%C2%A7%2001754%20-%20Nutrition%20promotion.md) | Nutrition promotion. |
+| (a) | In general. |
+| (b) | Total amount for each fiscal year. |
+| (c) | Payments to States. |
+| (d) | Use of payments. |
+| (e) | Documentation. |
+| (f) | Reallocation. |
+| (g) | Authorization of appropriations. |
 | [1755\.](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md) | Direct expenditures for agricultural commodities and other foods. |
 | (a) | Administrative expenses; nutritional education; pilot projects; cash-in-lieu of commodities study; refusal of commodities and receipt of other commodities available to the State in lieu of the refused commodities. |
 | (b) | Delivery of commodities. |
@@ -26,14 +33,14 @@
 | (f) | Increase in meal reimbursement. |
 | (g) | In advance or as reimbursement. |
 | [1758\.](%C2%A7%2001758%20-%20Program%20requirements.md) | Program requirements. |
-| (a) | Nutritional standards; medical and special dietary needs of individual students; compliance assistance; fluid milk; acceptance of offered foods. |
-| (b) | Income eligibility guidelines for free and reduced price school lunches; duty of Secretary; time to prescribe; relationship to other poverty guidelines; revision; publication; application, verification and approval; use or disclosure of eligibility information; maximum reduced price; nondiscrimination or identification of recipients. |
+| (a) | Nutritional requirements. |
+| (b) | Eligibility. |
 | (c) | Operation on nonprofit basis; donation of agricultural commodities. |
 | (d) | Social Security numbers and other documentation required as condition of eligibility. |
 | (e) | Limitation on meal contracting. |
-| (f) | Nutritional requirements. |
+| (f) | Adherence to Dietary Guidelines. |
 | (g) | Justification of production records; paperwork reduction. |
-| (h) | Food safety inspections. |
+| (h) | Food safety. |
 | (i) | Single permanent agreement between State agency and school food authority; common claims form. |
 | (j) | Purchases of locally produced foods. |
 | [1759\.](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md) | Direct disbursement to schools by Secretary. |
@@ -57,12 +64,11 @@
 | (j) | Reimbursement for final claims. |
 | (k) | Expedited rulemaking. |
 | (<i>l</i>) | Waiver of statutory and regulatory requirements. |
-| (m) | Food and nutrition projects. |
+| (m) | rocurement training. |
 | (n) | Buy American. |
 | (<i>o</i>) | Procurement contracts. |
-| (p) | Grant for demonstration project. |
 | [1761\.](%C2%A7%2001761%20-%20Summer%20food%20service%20programs%20for%20children%20in%20service%20institutions.md) | Summer food service programs for children in service institutions. |
-| (a) | Assistance to States; definitions; facilities to be used; eligible service institutions; order of priority in participation; assistance to rural area eligible service institutions to participate in the programs; reimbursement of camps, limitations, local, municipal and county institutions to be run by government; eligible private nonprofit organizations. |
+| (a) | Assistance to States; definitions; eligible service institutions; priorities in participation; limitations on reimbursement; nonprofit organizations; rural areas. |
 | (b) | Service institutions. |
 | (c) | Payments for meals served during May through September; exceptions for continuous school calendars or non-school sites; National Youth Sports Program. |
 | (d) | Advance program payments to States for monthly meal service; letters of credit, forwarding to States; determination of amount; valid claims, receipt. |
@@ -81,13 +87,14 @@
 | (q) | Authorization of appropriations. |
 | [1762\.](%C2%A7%2001762%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20III%2C%20%C2%A7308%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20915.md) | Repealed. |
 | [1762a.](%C2%A7%2001762a%20-%20Commodity%20distribution%20program.md) | Commodity distribution program. |
-| (a) | Applicable period; use of funds for purchase of agricultural commodities and products for donation. |
+| (a) | Use of funds for purchase of agricultural commodities and products for donation. |
 | (b) | Nutrition quality and content information. |
 | (c) | Authorization of appropriations for purchase of products or for cash payments in lieu of donations. |
 | (d) | Assistance procedures; cost and benefits, review; technical assistance; report to Congress; food quality standards contracting procedures. |
 | (e) | Consultation with school representatives. |
 | (f) | Commodity only schools. |
 | (g) | Extension of alternative means of assistance. |
+| (h) | Notice of irradiated food products. |
 | 1763, 1764. Repealed. |  |
 | [1765\.](%C2%A7%2001765%20-%20Election%20to%20receive%20cash%20payments.md) | Election to receive cash payments. |
 | [1766\.](%C2%A7%2001766%20-%20Child%20and%20adult%20care%20food%20program.md) | Child and adult care food program. |
@@ -99,14 +106,14 @@
 | (f) | State disbursements to institutions. |
 | (g) | Meals served by participating institutions; compliance assistance. |
 | (h) | Donation of agricultural commodities by Secretary; measurement of value; annual readjustment of assistance; cash in lieu of commodities; Department of Defense child care feeding program. |
-| (i) | Availability of money for audits. |
-| (j) | Standard form agreement regulations. |
+| (i) | Audits. |
+| (j) | Agreements. |
 | (k) | Training and technical assistance. |
 | (<i>l</i>) | Non-diminishment of State and local funds. |
 | (m) | Accounts and records. |
 | (n) | Authorization of appropriations. |
 | (<i>o</i>) | Participation of older persons and chronically impaired disabled persons. |
-| (p) | Demonstration projects for qualification under this section of private for-profit organizations providing nonresidential day care services. |
+| (p) | Rural area eligibility determination for day care homes. |
 | (q) | Management support. |
 | (r) | Program for at-risk school children. |
 | (s) | Information concerning the special supplemental nutrition program for women, infants, and children. |
@@ -123,8 +130,12 @@
 | (c) | Alternative counting and claiming procedures. |
 | (d) | Fortified fluid milk. |
 | (e) | Breakfast pilot projects. |
-| (f) | Summer food pilot projects. |
-| (g) | Fruit and vegetable pilot program. |
+| (f) | Simplified summer food programs. |
+| (g) | Fresh fruit and vegetable program. |
+| (h) | Summer food service residential camp eligibility. |
+| (i) | Access to local foods and school gardens. |
+| (j) | Year-round services for eligible entities. |
+| (k) | Free lunch and breakfast eligibility. |
 | [1769a.](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md) | Repealed. |
 | [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
@@ -138,6 +149,8 @@
 | (c) | Duties of food service management institute. |
 | (d) | Coordination. |
 | (e) | Authorization of appropriations. |
+| (f) | Administrative training and technical assistance material. |
+| (g) | Federal administrative support. |
 | [1769c.](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md) | Compliance and accountability. |
 | (a) | Unified accountability system. |
 | (b) | Functions of system. |
@@ -161,12 +174,11 @@
 | (a) | Definitions. |
 | (b) | Activities. |
 | (c) | Authorization of appropriations. |
+| [1769i.](%C2%A7%2001769i%20-%20Program%20evaluation.md) | Program evaluation. |
+| (a) | Performance assessments. |
+| (b) | Certification improvements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m, 9859c of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–22, 1070a–24, 1070a–26, 6313, 6537; title 26 section 1397E; title 31 section 3803; title 40 section 113; title 48 section 1666.
 
 
 ---
@@ -176,7 +188,7 @@ This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 17
 - [&sect; 01751 - Congressional declaration of policy](%C2%A7%2001751%20-%20Congressional%20declaration%20of%20policy.md)
 - [&sect; 01752 - Authorization of appropriations; &#8220;Secretary&#8221; defined](%C2%A7%2001752%20-%20Authorization%20of%20appropriations%3B%20%E2%80%9CSecretary%E2%80%9D%20defined.md)
 - [&sect; 01753 - Apportionments to States](%C2%A7%2001753%20-%20Apportionments%20to%20States.md)
-- [&sect; 01754 - Repealed. Pub. L. 97&#8211;35, title VIII, &sect;805(a), Aug. 13, 1981, 95 Stat. 527](%C2%A7%2001754%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20VIII%2C%20%C2%A7805%28a%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20527.md)
+- [&sect; 01754 - Nutrition promotion](%C2%A7%2001754%20-%20Nutrition%20promotion.md)
 - [&sect; 01755 - Direct expenditures for agricultural commodities and other foods](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md)
 - [&sect; 01756 - Payments to States](%C2%A7%2001756%20-%20Payments%20to%20States.md)
 - [&sect; 01757 - State disbursement to schools](%C2%A7%2001757%20-%20State%20disbursement%20to%20schools.md)
@@ -203,3 +215,4 @@ This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 17
 - [&sect; 01769f - Duties of Secretary relating to nonprocurement debarment](%C2%A7%2001769f%20-%20Duties%20of%20Secretary%20relating%20to%20nonprocurement%20debarment.md)
 - [&sect; 01769g - Information clearinghouse](%C2%A7%2001769g%20-%20Information%20clearinghouse.md)
 - [&sect; 01769h - Accommodation of the special dietary needs of individuals with disabilities](%C2%A7%2001769h%20-%20Accommodation%20of%20the%20special%20dietary%20needs%20of%20individuals%20with%20disabilities.md)
+- [&sect; 01769i - Program evaluation](%C2%A7%2001769i%20-%20Program%20evaluation.md)

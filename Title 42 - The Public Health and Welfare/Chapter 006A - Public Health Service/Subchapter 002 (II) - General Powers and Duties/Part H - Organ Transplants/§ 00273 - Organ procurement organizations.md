@@ -6,8 +6,6 @@
 
 (2) The Secretary may make grants for the establishment, initial operation, consolidation, and expansion of qualified organ procurement organizations described in subsection (b) of this section.
 
-(3) The Secretary may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects designed to increase the number of organ donors.
-
 #### (b) Qualified organizations
 
 (1) A qualified organ procurement organization for which grants may be made under subsection (a) of this section is an organization which, as determined by the Secretary, will carry out the functions described in paragraph (2) <sup>1</sup> and—
@@ -46,7 +44,7 @@
 
 &emsp;&emsp;(i) is composed of—
 
-&emsp;&emsp;&emsp;(I) members who represent hospital administrators, intensive care or emergency room personnel, tissue banks, and voluntary health associations in its service area,
+&emsp;&emsp;&emsp;(I) members who represent hospital administrators, intensive care or emergencyroom personnel, tissue banks, and voluntary health associations in its service area,
 
 &emsp;&emsp;&emsp;(II) members who represent the public residing in such area,
 
@@ -62,7 +60,7 @@
 
 (2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E).<sup>1</sup>
 
-(B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the FederalRegister a final rule to establish the criteria described in subparagraph (A).
+(B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the Federal Register a final rule to establish the criteria described in subparagraph (A).
 
 (3) An organ procurement organization shall—
 
@@ -88,7 +86,11 @@
 
 &emsp;(K) assist hospitals in establishing and implementing protocols for making routine inquiries about organ donations by potential donors.
 
-(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285; Pub. L. 106–505, title VII, §701(c), Nov. 13, 2000, 114 Stat. 2347; Pub. L. 106–554, §1(a)(1) \[title II, §219(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29.)
+#### (c) Pancreata islet cell transplantation or research
+
+Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b) of this section.
+
+(July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285; Pub. L. 106–505, title VII, §701(c), Nov. 13, 2000, 114 Stat. 2347; Pub. L. 106–554, §1(a)(1) \[title II, §219(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29; Pub. L. 108–216, §9, Apr. 5, 2004, 118 Stat. 590; Pub. L. 108–362, §2, Oct. 25, 2004, 118 Stat. 1703.)
 
 #### References in Text
 
@@ -105,6 +107,10 @@ A prior section 273, act July 1, 1944, ch. 373, title III, §371, as added July 
 A prior section 371 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 960, was renumbered section 381 and classified to section 275 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–216 struck out par. (3) which read as follows: “The Secretary may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects designed to increase the number of organ donors.”
+
+Subsec. (c). Pub. L. 108–362 added subsec. (c).
 
 2000—Subsec. (b)(1)(D) to (H). Pub. L. 106–505 and Pub. L. 106–554 amended par. (1) identically, adding subpar. (D), redesignating former subpars. (D) to (G) as (E) to (H), respectively, and realigning margins of subpar. (F).
 
@@ -140,7 +146,7 @@ Subsec. (b)(2)(E). Pub. L. 100–607, §402(c)(1)(C), substituted “organs equi
 
 Subsec. (b)(2)(K). Pub. L. 100–607, §402(c)(1)(D), added subpar. (K).
 
-Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
+Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
 
 #### Effective Date of 1990 Amendment
 
@@ -166,7 +172,7 @@ Pub. L. 106–505, title VII, §701(b), Nov. 13, 2000, 114 Stat. 2346, and Pub. 
 
 &emsp;“(2) The current process for the certification and recertification of organ procurement organizations conducted by the Department of Health and Human Services has created a level of uncertainty that is interfering with the effectiveness of organ procurement organizations in raising the level of organ donation.
 
-&emsp;“(3) The General Accounting Office, the Institute of Medicine, and the Harvard School of Public Health have identified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process.
+&emsp;“(3) The General Accounting Office \[now Government Accountability Office\], the Institute of Medicine, and the Harvard School of Public Health have identified substantial limitations in the organ procurement organization certification and recertification process and have recommended changes in that process.
 
 &emsp;“(4) The limitations in the recertification process include:
 
@@ -217,10 +223,6 @@ Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, d
 #### Bone Marrow Registry Demonstration and Study
 
 Section 401 of Pub. L. 98–507 directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 274, 274b, 1320b–8 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

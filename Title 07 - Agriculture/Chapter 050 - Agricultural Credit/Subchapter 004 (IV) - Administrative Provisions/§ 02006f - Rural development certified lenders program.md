@@ -58,7 +58,7 @@
 
 &emsp;Notwithstanding any other provision of law, the Secretary may—
 
-&emsp;&emsp;(A) guarantee not more than 80 percent of any approved loan made by a preferred certified lender as described in this subsection,if the borrower meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary; and
+&emsp;&emsp;(A) guarantee not more than 80 percent of any approved loan made by a preferred certified lender as described in this subsection, if the borrower meets the eligibility requirements and such other criteria as may be applicable to loans guaranteed by the Secretary; and
 
 &emsp;&emsp;(B) permit preferred certified lenders to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to creditworthiness, the closing, monitoring, collection, and liquidation of loans, and to accept appropriate certifications, as provided in regulations issued by the Secretary, that the borrower is in compliance with all requirements of law and regulations issued by the Secretary.
 

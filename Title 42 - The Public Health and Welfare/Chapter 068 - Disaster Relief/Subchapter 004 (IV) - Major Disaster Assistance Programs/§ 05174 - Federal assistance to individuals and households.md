@@ -38,7 +38,7 @@
 
 #### (ii) Amount
 
-&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rentfor the accommodation provided plus the cost of any transportation, utility hookups, or unit installation not provided directly by the President.
+&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, or unit installation not provided directly by the President.
 
 #### (B) Direct assistance
 
@@ -48,7 +48,7 @@
 
 #### (ii) Period of assistance
 
-&emsp;&emsp;&emsp;The President may not provide direct assistance under clause (i) with respect to a major disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
+&emsp;&emsp;&emsp;The President may not provide direct assistance under clause (i) with respect to amajor disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
 
 #### (iii) Collection of rental charges
 
@@ -128,7 +128,7 @@
 
 #### (iv) Hazard and flood insurance
 
-&emsp;&emsp;&emsp;A sale of a temporary housing unit under clause (i) shall be made on the condition that the individual or household purchasing the housing unit agrees to obtain andmaintain hazard and flood insurance on the housing unit.
+&emsp;&emsp;&emsp;A sale of a temporary housing unit under clause (i) shall be made on the condition that the individual or household purchasing the housing unit agrees to obtain and maintain hazard and flood insurance on the housing unit.
 
 #### (v) Use of GSA services
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;(i) may be sold to any person; or
 
-&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
+&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing todisaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
 
 &emsp;&emsp;&emsp;&emsp;(I) to comply with the nondiscrimination provisions of section 5151 of this title; and
 
@@ -214,9 +214,5 @@ A prior section 408 of Pub. L. 93–288 was classified to section 5178 of this t
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect18 months after the date of the enactment of this Act \[Oct. 30, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5192, 5204c of this title.
+Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\].”
 

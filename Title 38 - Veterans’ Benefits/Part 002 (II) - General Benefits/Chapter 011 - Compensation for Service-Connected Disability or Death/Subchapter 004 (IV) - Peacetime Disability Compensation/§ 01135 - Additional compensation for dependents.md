@@ -1,6 +1,6 @@
 ### §1135. Additional compensation for dependents
 
-Any veteran entitled to compensation at the rates provided in section 1134 of this title, and whose disability is rated not less than 30 percent, shall be entitled to additional monthlycompensation for dependents as provided in section 1115 of this title.
+Any veteran entitled to compensation at the rates provided in section 1134 of this title, and whose disability is rated not less than 30 percent, shall be entitled to additional monthly compensation for dependents as provided in section 1115 of this title.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1123, §335; Pub. L. 92–328, title I, §108(b), June 30, 1972, 86 Stat. 396; Pub. L. 98–543, title I, §112(a), Oct. 24, 1984, 98 Stat. 2740; renumbered §1135 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

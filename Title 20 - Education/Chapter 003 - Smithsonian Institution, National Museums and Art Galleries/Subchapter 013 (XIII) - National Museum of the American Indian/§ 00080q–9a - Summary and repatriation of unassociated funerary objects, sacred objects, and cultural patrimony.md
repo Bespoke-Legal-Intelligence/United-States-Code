@@ -2,11 +2,11 @@
 
 #### (a) Summary
 
-Not later than December 31, 1996, the Secretary of the Smithsonian Institution shall provide a written summary that contains a summary of unassociated funerary objects, sacred objects, and objects of cultural patrimony (as those terms are defined in subparagraphs (B),\(C), and (D), respectively, of section 3001(3) of title 25, based upon available information held by the Smithsonian Institution. The summary required under this section shall include, at a minimum, the information required under section 3004 of title 25.
+Not later than December 31, 1996, the Secretary of the Smithsonian Institution shall provide a written summary that contains a summary of unassociated funerary objects, sacred objects, and objects of cultural patrimony (as those terms are defined in subparagraphs (B), (C), and (D), respectively, of section 3001(3) of title 25, based upon available information held by the Smithsonian Institution. The summary required under this section shall include, at a minimum, the information required under section 3004 of title 25.
 
 #### (b) Repatriation
 
-Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a) of this section, or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
+Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant tosubsection (a) of this section, or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
 
 &emsp;(1) the requesting party is the direct lineal descendant of an individual who owned the unassociated funerary object or sacred object;
 
@@ -31,8 +31,4 @@ Nothing in this section may be construed to prevent the Secretary of the Smithso
 For purposes of this section, the term “Native Hawaiian organization” has the meaning provided that term in section 3001(11) of title 25.
 
 (Pub. L. 101–185, §11A, as added Pub. L. 104–278, §4, Oct. 9, 1996, 110 Stat. 3355.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80q–9, 80q–10 of this title.
 

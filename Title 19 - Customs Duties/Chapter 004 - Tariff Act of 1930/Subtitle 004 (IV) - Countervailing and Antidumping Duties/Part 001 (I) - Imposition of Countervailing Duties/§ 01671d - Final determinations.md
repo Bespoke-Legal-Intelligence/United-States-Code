@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or nota countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 #### (2) Critical circumstances determinations
 
@@ -56,7 +56,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shallinclude a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
+In general.—If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -172,7 +172,7 @@ Subsec. (c)(5). Pub. L. 103–465, §264(b)(2), added par. (5).
 
 Subsec. (e). Pub. L. 100–418, §1333(a), added subsec. (e).
 
-1984—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the sameclass or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+1984—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 Subsec. (a)(2). Pub. L. 98–573, §605(a)(1), inserted provision after subpar. (B) that such findings may be affirmative even though the preliminary determination under section 1671b(e)(1) of this title was negative.
 
@@ -193,8 +193,4 @@ Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and a
 #### Effective Date of 1984 Amendment
 
 Amendment by section 602(a)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, and amendment by sections 605(a) and 606 of Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1516a, 1671, 1671a, 1671b, 1671c, 1671e, 1671f, 1675, 1675a, 1675b, 1676a, 1677, 1677c, 1677f, 1677f–1, 1677m of this title.
 

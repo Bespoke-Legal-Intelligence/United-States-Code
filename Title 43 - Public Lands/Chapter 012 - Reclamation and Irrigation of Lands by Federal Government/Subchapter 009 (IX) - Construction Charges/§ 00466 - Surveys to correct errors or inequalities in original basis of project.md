@@ -8,7 +8,3 @@ On each project existing prior to December 5, 1924, where, in the opinion of the
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 423g, 493, 500 of this title.
-

@@ -34,7 +34,3 @@ The Secretary may make such investigations as the Secretary considers necessary 
 
 (Pub. L. 103–190, §10, Dec. 14, 1993, 107 Stat. 2288.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6802, 6807, 6808 of this title.
-

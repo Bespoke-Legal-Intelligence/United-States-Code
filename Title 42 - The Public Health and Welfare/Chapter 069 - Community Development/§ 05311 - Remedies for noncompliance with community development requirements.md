@@ -28,7 +28,3 @@ If the Secretary finds after reasonable notice and opportunity for hearing that 
 
 (Pub. L. 93–383, title I, §111, Aug. 22, 1974, 88 Stat. 650.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5306, 5309 of this title.
-

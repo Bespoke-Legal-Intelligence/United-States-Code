@@ -2,7 +2,7 @@
 
 #### (a) Establishment; programs of research; functions of Secretary; dissemination of information
 
-There is hereby established within the Department of Commerce a Fire Research Centerwhich shall have the mission of performing and supporting research on all aspects of fire with the aim of providing scientific and technical knowledge applicable to the prevention and control of fires. The content and priorities of the research program shall be determined in consultation with the Administrator of the United States Fire Administration. In implementing this section, the Secretary is authorized to conduct, directly or through contracts or grants, a fire research program, including—
+There is hereby established within the Department of Commerce a Fire Research Center which shall have the mission of performing and supporting research on all aspects of fire with the aim of providing scientific and technical knowledge applicable to the prevention and control of fires. The content and priorities of the research program shall be determined in consultation with the Administrator of the United States Fire Administration. In implementing this section, the Secretary is authorized to conduct, directly or through contracts or grants, a fire research program, including—
 
 &emsp;(1) basic and applied fire research for the purpose of arriving at an understanding of the fundamental processes underlying all aspects of fire. Such research shall include scientific investigations of—
 
@@ -87,10 +87,6 @@ Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Com
 #### Executive Order No. 11654
 
 Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §19, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2216 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

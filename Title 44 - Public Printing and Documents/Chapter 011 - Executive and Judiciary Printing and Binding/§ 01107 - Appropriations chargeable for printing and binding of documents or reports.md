@@ -16,7 +16,3 @@ Based on 44 U.S. Code, 1964 ed., §214 (Mar. 30, 1906, No. 13, 34 Stat. 825).
 
 A proviso in the 1906 resolution, requiring annual estimates of probable costs for departmental printing is omitted as obsolete.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 717 of this title; title 22 section 3714b; title 35 section 2.
-

@@ -44,7 +44,7 @@ An entity designated by an Indian tribe as a housing entity shall be treated, fo
 
 #### (d) Effect of reviews
 
-Subject to section 4161(a) of this title, after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust theamount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.
+Subject to section 4161(a) of this title, after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust the amount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.
 
 (Pub. L. 104–330, title IV, §405, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 106–568, title X, §1003(f)(2), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, §503(e)(2), Dec. 27, 2000, 114 Stat. 2963.)
 

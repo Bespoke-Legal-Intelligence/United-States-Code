@@ -116,7 +116,7 @@ Pub. L. 108–146, §1, Dec. 3, 2003, 117 Stat. 1883, provided that: “This Act
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, §1(a), Oct. 28, 1992, 106 Stat. 3672, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Housing and Community Development Act of 1992’.”
+Pub. L. 102–550, §1(a), Oct. 28, 1992, 106 Stat. 3672, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Housing and Community Development Act of 1992’.”
 
 #### Short Title of 1988 Amendment
 
@@ -148,7 +148,7 @@ Pub. L. 95–557, §1, Oct. 31, 1978, 92 Stat. 2080, provided that: “This Act 
 
 #### Short Title of 1977 Amendment
 
-Section 1 of Pub. L. 95–128 provided that: “This Act \[enacting sections 3540 and 5318 of this title and sections 2901 to 2905 of Title 12, Banks and Banking, amending this section, sections 1437c, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1476, 1479, 1483 to 1485, 1487, 1490a, 1490c, 1490h, 3533, 4003, 4013, 4026, 4056, 4103 to 4106, 4127, 4501 to 4503, 4521, 5302 to 5308, 5313, 5403, and 5409 of this title, sections 355, 1430, 1454, 1464, 1701q, 1701x, 1701z–1, 1703, 1706e, 1709, 1709–1, 1715h, 1715k to 1715m, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–7, 1715z–9, 1715z–10, 1717, 1723a, 1723e, 1748h–1, 1748h–2, 1749bb, and 1749aaa of Title12, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 1421b, 1437d, 1490h, 4501, and 5313 of this title, and sections 1715z–1, 1723e of Title 12\] may be cited as the ‘Housing and Community Development Act of 1977’.”
+Section 1 of Pub. L. 95–128 provided that: “This Act \[enacting sections 3540 and 5318 of this title and sections 2901 to 2905 of Title 12, Banks and Banking, amending this section, sections 1437c, 1437f, 1437g, 1439, 1452b, 1471, 1472, 1476, 1479, 1483 to 1485, 1487, 1490a, 1490c, 1490h, 3533, 4003, 4013, 4026, 4056, 4103 to 4106, 4127, 4501 to 4503, 4521, 5302 to 5308, 5313, 5403, and 5409 of this title, sections 355, 1430, 1454, 1464, 1701q, 1701x, 1701z–1, 1703, 1706e, 1709, 1709–1, 1715h, 1715k to 1715m, 1715w, 1715y, 1715z, 1715z–1, 1715z–3, 1715z–7, 1715z–9, 1715z–10, 1717, 1723a, 1723e, 1748h–1, 1748h–2, 1749bb, and 1749aaa of Title 12, and section 461 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 1421b, 1437d, 1490h, 4501, and 5313 of this title, and sections 1715z–1, 1723e ofTitle 12\] may be cited as the ‘Housing and Community Development Act of 1977’.”
 
 #### Short Title
 
@@ -218,13 +218,5 @@ Section 5 of Pub. L. 100–242 provided that: “Any new spending authority (as 
 
 #### Limitation on Withholding or Conditioning of Assistance
 
-Section 817 of Pub. L. 93–383, as amended by Pub. L. 98–181, title III, §302(c), Nov. 30, 1983, 97 Stat. 1206, provided that: “Assistance provided for in this Act \[see Short Title note above\] the National Housing Act, \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1949 \[42U.S.C. 1441 et seq.\], the Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3331 of this title\], the Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 \[see Short Title notes set out under section 1701 of Title 12, Banks and Banking\], and section 17 of the United States Housing Act of 1937 \[42 U.S.C. 1437<i>o</i>\] shall not be withheld or made subject to conditions or preference by reason of the tax-exempt status of bonds or other obligations issued or to be issued to provide financing for use in connection with such assistance, except where otherwise expressly provided or authorized by law.”
-
-#### Act Referred to in Other Sections
-
-The Housing and Community Development Act of 1974 is referred to in sections 12705, 12706 of this title; title 12 sections 4707, 4712; title 25 section 1632; title 40 section 3162.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5305 of this title.
+Section 817 of Pub. L. 93–383, as amended by Pub. L. 98–181, title III, §302(c), Nov. 30, 1983, 97 Stat. 1206, provided that: “Assistance provided for in this Act \[see Short Title note above\] the National Housing Act, \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1949 \[42 U.S.C. 1441 et seq.\], the Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3331 of this title\], the Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 \[seeShort Title notes set out under section 1701 of Title 12, Banks and Banking\], and section 17 of the United States Housing Act of 1937 \[42 U.S.C. 1437<i>o</i>\] shall not be withheld or made subject to conditions or preference by reason of the tax-exempt status of bonds or other obligations issued or to be issued to provide financing for use in connection with such assistance, except where otherwise expressly provided or authorized by law.”
 

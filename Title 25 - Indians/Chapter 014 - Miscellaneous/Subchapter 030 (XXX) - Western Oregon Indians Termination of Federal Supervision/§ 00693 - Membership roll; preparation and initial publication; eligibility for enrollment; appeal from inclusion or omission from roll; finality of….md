@@ -4,7 +4,3 @@ Within ninety days after August 13, 1954, the Secretary shall publish in the Fed
 
 (Aug. 13, 1954, ch. 733, §3, 68 Stat. 724.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 694 of this title.
-

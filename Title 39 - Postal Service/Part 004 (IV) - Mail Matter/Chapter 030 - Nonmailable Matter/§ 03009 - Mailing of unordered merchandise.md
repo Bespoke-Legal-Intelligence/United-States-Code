@@ -1,6 +1,6 @@
 ### §3009. Mailing of unordered merchandise
 
-(a) Except for (1) free samples clearly and conspicuously marked as such, and (2) merchandise mailed by a charitable organization soliciting contributions, the mailing of unordered merchandise or of communications prohibited by subsection (c) of this section constitutes an unfair method of competition and an unfair trade practice in violation of section 45(a)(1) of title 15.
+(a) Except for (1) free samples clearly and conspicuously marked as such, and (2) merchandisemailed by a charitable organization soliciting contributions, the mailing of unordered merchandise or of communications prohibited by subsection (c) of this section constitutes an unfair method of competition and an unfair trade practice in violation of section 45(a)(1) of title 15.
 
 (b) Any merchandise mailed in violation of subsection (a) of this section, or within the exceptions contained therein, may be treated as a gift by the recipient, who shall have the right to retain, use, discard, or dispose of it in any manner he sees fit without any obligation whatsoever to the sender. All such merchandise shall have attached to it a clear and conspicuous statement informing the recipient that he may treat the merchandise as a gift to him and has the right to retain, use, discard, or dispose of it in any manner he sees fit without any obligation whatsoever to the sender.
 

@@ -4,7 +4,3 @@ The Secretary of the Air Force is authorized to establish a joint long-range pro
 
 (May 11, 1949, ch. 98, §1, 63 Stat. 66.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 502, 503, 504 of this title.
-

@@ -14,7 +14,7 @@ Findings.—(1) Public convenience and necessity require that Amtrak, to the ext
 
 (6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
 
-(7) The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
+(7) The Northeast Corridor is a valuable resource of the United States used by intercityand commuter rail passenger transportation and freight transportation.
 
 (8) Greater coordination between intercity and commuter rail passenger transportation is required.
 
@@ -44,7 +44,7 @@ Goals.—Amtrak shall—
 
 &emsp;(3) carry out strategies to achieve immediately maximum productivity and efficiency consistent with safe and efficient transportation;
 
-&emsp;(4) operate Amtrak trains, to the maximum extent feasible, to all station stops within 15minutes of the time established in public timetables;
+&emsp;(4) operate Amtrak trains, to the maximum extent feasible, to all station stops within 15 minutes of the time established in public timetables;
 
 &emsp;(5) develop transportation on rail corridors subsidized by States and private parties;
 
@@ -102,7 +102,7 @@ In this part, the word “Amtrak” is substituted for “National Railroad Pass
 
 In subsection (a), the words “The Congress finds that the” and “The Congress further finds that” are omitted as surplus.
 
-In subsection (a)(3), the words “greatest possible choice of” are substituted for “to the maximum extent feasible . . . the freedom to choose the mode of” to eliminate unnecessary words.
+In subsection (a)(3), the words “greatest possible choice of” are substituted for “to the maximum extent feasible . . . the freedom to choose the mode of” to eliminate unnecessary words.
 
 In subsection (c), before clause (1), the words “Amtrak shall” are substituted for “The Congress hereby establishes the following goals for Amtrak” to eliminate unnecessary words. The text of 45:501a(3) and (4) is omitted as executed. The text of 45:501a(9) is omitted as obsolete because there no longer are any technical assistance panels. In clause (2), the words “stations and other” are omitted as surplus. In clause (4), the words “for such operation” are omitted as surplus. In clause (10), the word “various” is omitted as surplus. In clause (11), the words “real property” are substituted for “real estate” for consistency in the revised title and with other titles of the Code.
 
@@ -114,7 +114,7 @@ The Amtrak Reform and Accountability Act of 1997, referred to in subsec. (d), is
 
 1997—Subsec. (c)(2). Pub. L. 105–134, §105(b), inserted “, separately or in combination,” after “and the private sector”.
 
-Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
+Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
 
 #### Amtrak Findings
 
@@ -136,7 +136,7 @@ Pub. L. 105–134, §2, Dec. 2, 1997, 111 Stat. 2571, provided that: “The Cong
 
 &emsp;“(8) Amtrak and its employees should proceed quickly with proposals to modify collective bargaining agreements to make more efficient use of manpower and to realize cost savings which are necessary to reduce Federal financial assistance;
 
-&emsp;“(9) Amtrak and intercity bus service providers should work cooperatively and develop coordinatedintermodal relationships promoting seamless transportation services which enhance travel options and increase operating efficiencies;
+&emsp;“(9) Amtrak and intercity bus service providers should work cooperatively and develop coordinated intermodal relationships promoting seamless transportation services which enhance travel options and increase operating efficiencies;
 
 &emsp;“(10) Amtrak's Strategic Business Plan calls for the establishment of a dedicated source of capital funding for Amtrak in order to ensure that Amtrak will be able to fulfill the goals of maintaining—
 
@@ -146,9 +146,17 @@ Pub. L. 105–134, §2, Dec. 2, 1997, 111 Stat. 2571, provided that: “The Cong
 
 &emsp;“(11) Federal financial assistance to cover operating losses incurred by Amtrak should be eliminated by the year 2002.”
 
+#### Fair Competitive Bidding for State-Supported Intercity Rail Service
+
+Pub. L. 108–447, div. H, title I, §150, Dec. 8, 2004, 118 Stat. 3221, provided that: “For the purpose of assisting State-supported intercity rail service, in order to demonstrate whether competition will provide higher quality rail passenger service at reasonable prices, the Secretary of Transportation, working with affected States, shall develop and implement a procedure for fair competitive bidding by Amtrak and non-Amtrak operators for State-supported routes: <i>Provided</i>, That in the event a State desires to select or selects a non-Amtrak operator for the route, the State may make an agreement with Amtrak to use facilities and equipment of, or have services provided by, Amtrak under terms agreed to by the State and Amtrak to enable the non-Amtrak operator to provide the State-supported service: <i>Provided further</i>, That if the parties cannot agree on terms, the Secretary shall, as a condition of receipt of Federal grant funds, order that the facilities and equipment be made available and the services be provided by Amtrak under reasonable terms and compensation: <i>Provided further</i>, That when prescribing reasonable compensation to Amtrak, the Secretary shall consider quality of service as a major factor when determining whether, and the extent to which, the amount of compensation shall be greater than the incremental costs of using the facilities and providing the services: <i>Provided further</i>, That the Secretary may reprogram up to $2,500,000 from the Amtrak operating grant funds for costs associated with the implementation of the fair bid procedure and demonstration of competition under this section.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–199, div. F, title I, §151, Jan. 23, 2004, 118 Stat. 303.
+
 #### Fiscal Accountability
 
-Pub. L. 105–134, title II, §§202–205, Dec. 2, 1997, 111 Stat. 2578–2582, provided that:
+Pub. L. 105–134, title II, §§202–205, Dec. 2, 1997, 111 Stat. 2578–2582, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 #### “SEC. 202. INDEPENDENT ASSESSMENT.
 
@@ -184,7 +192,7 @@ Study.—The independent assessment also shall determine whether, and to what ex
 
 &emsp;“(2)
 
-Reform.—If the independent assessment performed under this subparagraph reveals that Amtrak has performed services under contract for an amount less than the cost to Amtrak of performing such services, with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation, then Amtrak shall revise its methodology for preparation of bids to reflect its cost of performance.
+Reform.—If the independent assessment performed under this subparagraph reveals that Amtrakhas performed services under contract for an amount less than the cost to Amtrak of performing such services, with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation, then Amtrak shall revise its methodology for preparation of bids to reflect its cost of performance.
 
 “(e)
 
@@ -346,7 +354,7 @@ Action Plan.—Within 90 days after the Council makes a finding under subsection
 
 &emsp;“(1) it shall develop and submit to the Congress an action plan for a restructured and rationalized national intercity rail passenger system; and
 
-&emsp;“(2) Amtrak shall develop and submit to the Congress an action plan for the complete liquidation of Amtrak, after having the plan reviewed by the Inspector General of the Department of Transportation and the General Accounting Office for accuracy and reasonableness.
+&emsp;“(2) Amtrak shall develop and submit to the Congress an action plan for the complete liquidation of Amtrak, after having the plan reviewed by the Inspector General of the Department of Transportation and the Government Accountability Office for accuracy and reasonableness.
 
 #### “SEC. 205. SENATE PROCEDURE FOR CONSIDERATION OF RESTRUCTURING AND LIQUIDATION PLANS.
 
@@ -382,7 +390,7 @@ Motion nondebatable.—A motion to proceed to consideration of a liquidation dis
 
 Limit on consideration.—
 
-&emsp;&emsp;“(A) After no more than 20 hours of consideration of a liquidation disapproval resolution, the Senate shall proceed, without intervening action or debate (except as permitted under paragraph (9)), to vote on the final disposition thereof to the exclusion ofall amendments not then pending and to the exclusion of all motions, except a motion to reconsider or table.
+&emsp;&emsp;“(A) After no more than 20 hours of consideration of a liquidation disapproval resolution, the Senate shall proceed, without intervening action or debate (except as permitted under paragraph (9)), to vote on the final disposition thereof to the exclusion of all amendments not then pending and to the exclusion of all motions, except a motion to reconsider or table.
 
 &emsp;&emsp;“(B) The time for debate on the liquidation disapproval resolution shall be equally divided between the Majority Leader and the Minority Leader or their designees.
 

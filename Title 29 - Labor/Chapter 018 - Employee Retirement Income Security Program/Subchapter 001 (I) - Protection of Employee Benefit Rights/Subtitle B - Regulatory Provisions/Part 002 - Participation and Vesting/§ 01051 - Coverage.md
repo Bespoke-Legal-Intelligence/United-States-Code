@@ -56,7 +56,3 @@ Section 7894(c)(11)(B) of Pub. L. 101–239 provided that: “The amendment made
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically provided, see section 1461(e) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1003 of this title.
-

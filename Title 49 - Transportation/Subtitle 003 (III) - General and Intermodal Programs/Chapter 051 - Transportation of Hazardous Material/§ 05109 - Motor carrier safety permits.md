@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—A motor carrier may transport or cause to be transported by motor vehicle in commerce hazardous material only if the carrier holds a safety permit the Secretary of Transportation issues under this section authorizing the transportation and keeps a copy of the permit, or other proof of its existence, in the vehicle. The Secretary shall issue a permit if the Secretary finds the carrier is fit, willing, and able—
+Requirement.—A motor carrier may transport or cause to be transported by motor vehiclein commerce hazardous material only if the carrier holds a safety permit the Secretary of Transportation issues under this section authorizing the transportation and keeps a copy of the permit, or other proof of its existence, in the vehicle. The Secretary shall issue a permit if the Secretary finds the carrier is fit, willing, and able—
 
 &emsp;(1) to provide the transportation to be authorized by the permit;
 
@@ -111,8 +111,4 @@ In subsection (b), before clause (1), the word “all” is omitted as surplus.
 In subsection (e)(2), the word “conditions” is omitted as being included in “terms”.
 
 In subsection (h), the text of section 8(b) (words before semicolon of the Hazardous Materials Transportation Uniform Safety Act of 1990 (Public Law 101–615, 104 Stat. 3258) is omitted as obsolete.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5107 of this title.
 

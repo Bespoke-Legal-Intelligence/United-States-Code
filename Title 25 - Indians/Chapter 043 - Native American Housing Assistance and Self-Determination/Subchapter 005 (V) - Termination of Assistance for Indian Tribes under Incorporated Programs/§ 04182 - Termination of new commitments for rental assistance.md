@@ -14,7 +14,3 @@ For the date of the effectiveness of this chapter, referred to in text, as Oct. 
 
 Section effective Oct. 26, 1996, see section 508 of Pub. L. 104–330, set out as a note under section 4181 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4183 of this title.
-

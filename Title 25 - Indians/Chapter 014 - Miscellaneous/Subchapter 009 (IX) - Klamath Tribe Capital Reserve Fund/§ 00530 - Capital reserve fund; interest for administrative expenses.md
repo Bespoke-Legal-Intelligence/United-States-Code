@@ -4,7 +4,3 @@ The Secretary of the Interior shall cause to be established on the books of the 
 
 (Aug. 28, 1937, ch. 874, §1, 50 Stat. 872.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 542, 564f of this title.
-

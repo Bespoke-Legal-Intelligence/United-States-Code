@@ -24,7 +24,7 @@ Upon the expiration of the assignment of all Corps members to a health professio
 
 (B) Any hospital which is found by the Secretary, after notice and an opportunity for a hearing on the record, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under this chapter or under titles XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\].
 
-(2) For purposes of this subsection, the term “hospital” includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospitalowned or operated by an agency of the Federal Government), and any related facilities.
+(2) For purposes of this subsection, the term “hospital” includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospital owned or operated by an agency of the Federal Government), and any related facilities.
 
 (July 1, 1944, ch. 373, title III, §335, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2275; amended Pub. L. 97–35, title XXVII, §2705, Aug. 13, 1981, 95 Stat. 907; Pub. L. 101–597, title I, §106, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §306, Oct. 26, 2002, 116 Stat. 1648.)
 
@@ -43,8 +43,4 @@ Subsec. (e)(1)(A). Pub. L. 101–597, §106, substituted “authorized Corps mem
 1981—Subsec. (a)(2). Pub. L. 97–35, §2705(a), substituted provisions respecting cooperation with other health care providers, for provisions respecting direct health services programs.
 
 Subsec. (c)(4). Pub. L. 97–35, §2705(b), struck out cl. (4) relating to appropriate continuing education programs.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 233, 254h–1, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 11709 of this title.
 

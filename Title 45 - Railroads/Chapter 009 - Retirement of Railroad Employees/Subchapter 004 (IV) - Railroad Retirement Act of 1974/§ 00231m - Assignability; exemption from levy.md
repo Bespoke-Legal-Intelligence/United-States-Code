@@ -22,9 +22,5 @@ Subsec. (b)(2). Pub. L. 98–76, §419(a)(3), added par. (2).
 
 Section 419(b) of Pub. L. 98–76 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to annuity amounts payable for months beginning after the date of the enactment of this Act \[Aug. 12, 1983\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 3716.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

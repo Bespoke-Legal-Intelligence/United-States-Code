@@ -42,7 +42,3 @@ Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1
 
 Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(1)(B)\], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2736 of this title.
-

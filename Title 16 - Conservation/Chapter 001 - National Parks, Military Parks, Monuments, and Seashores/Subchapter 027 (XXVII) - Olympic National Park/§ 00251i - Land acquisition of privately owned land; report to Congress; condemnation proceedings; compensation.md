@@ -8,7 +8,3 @@ The Secretary is directed to acquire in fee all other privately owned lands adde
 
 Sections 251e to 251m of this title, referred to in text, was in the original “this Act”, meaning Pub. L. 94–578.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 251f, 251g, 251h, 251j, 251<i>l</i>, 251m of this title.
-

@@ -86,7 +86,3 @@ Pub. L. 104–237, title II, §204(b), Oct. 3, 1996, 110 Stat. 3102, provided th
 
 Effect of Exception.—The exception made by paragraph (1) shall not limit the authority of the Attorney General to impose the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act (21 U.S.C. 971).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 830, 960, 961 of this title.
-

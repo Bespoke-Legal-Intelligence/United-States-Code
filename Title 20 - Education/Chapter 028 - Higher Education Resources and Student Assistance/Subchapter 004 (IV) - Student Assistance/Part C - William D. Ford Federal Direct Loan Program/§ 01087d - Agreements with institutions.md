@@ -20,7 +20,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;&emsp;&emsp;(ii) if the institution does not have an agreement with the Secretary under subsection (b) of this section, concerning student eligibility and need, as determined under subparagraphs (A) and (B), to the Secretary as needed for the alternative origination of loans to eligible students and parents in accordance with this part;
 
-&emsp;(2) provide assurances that the institution will comply with requirements established by the Secretary relating to student loan information with respect to loans made under this part;
+&emsp;(2) provide assurances that the institution will comply with requirements established bythe Secretary relating to student loan information with respect to loans made under this part;
 
 &emsp;(3) provide that the institution accepts responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
 
@@ -28,7 +28,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;(5) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 
-&emsp;(6) provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of anyinformation necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan; and
+&emsp;(6) provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan; and
 
 &emsp;(7) include such other provisions as the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of this part.
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087b, 1087c, 1087g of this title.
 

@@ -16,7 +16,3 @@ Sections 13726 to 13726c of this title, referred to in text, was in the original
 
 This section was enacted as part of the Interstate Transportation of Dangerous Criminals Act of 2000 or Jeanna's Act, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13726, 13726a, 13726b of this title.
-

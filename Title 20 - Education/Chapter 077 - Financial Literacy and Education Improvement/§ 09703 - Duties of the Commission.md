@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) manage spending, credit, and debt, including credit card debt, effectively;
 
-&emsp;&emsp;(C) increase awareness of the availability and significance of credit reports and credit scores in obtaining credit, the importance oftheir accuracy (and how to correct inaccuracies), their effect on credit terms, and the effect common financial decisions may have on credit scores;
+&emsp;&emsp;(C) increase awareness of the availability and significance of credit reports and credit scores in obtaining credit, the importance of their accuracy (and how to correct inaccuracies), their effect on credit terms, and the effect common financial decisions may have on credit scores;
 
 &emsp;&emsp;(D) ascertain fair and favorable credit terms;
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) understand resources that ought to be easily accessible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated by unprofessional conduct of market intermediaries;
 
-&emsp;&emsp;(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution of multilingual financial literacy and education materials;
+&emsp;&emsp;(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution ofmultilingual financial literacy and education materials;
 
 &emsp;&emsp;(I) promote bringing individuals who lack basic banking services into the financial mainstream by opening and maintaining an account with a financial institution; and
 
@@ -104,7 +104,7 @@ The Commission shall actively consult with a variety of representatives from pri
 
 #### (1) In general
 
-&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issuea report, the Strategy for Assuring Financial Empowerment (“SAFE Strategy”), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
+&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment (“SAFE Strategy”), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
 
 #### (2) Contents
 
@@ -147,8 +147,4 @@ The Commission shall annually provide testimony by the Chairperson to the Commit
 #### Definitions
 
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9704 of this title.
 

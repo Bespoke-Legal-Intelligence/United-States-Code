@@ -78,7 +78,3 @@ Pub. L. 101–301, §6, May 24, 1990, 104 Stat. 209, provided that: “Notwithst
 
 Pub. L. 101–121, title I, §118, Oct. 23, 1989, 103 Stat. 722, provided that: “Notwithstanding any other provision of law, the term ‘Class II gaming’ in Public Law 100–497 \[25 U.S.C. 2701 et seq.\], for any Indian tribe located in the State of Minnesota, includes, during the period commencing on the date of enactment of this Act \[Oct. 23, 1989\] and continuing for 365 days from that date, any gaming described in section 4(7)(B)(ii) of Public Law 100–497 \[25 U.S.C. 2703(7)(B)(ii)\] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdication \[sic\] over the lands on which such gaming was operated, requested the State of Minnesota, no later than 30 days after the date of enactment of Public Law 100–497 \[Oct. 17, 1988\], to negotiate a tribal-state compact pursuant to section 11(d)(3) of Public Law 100–497 \[25 U.S.C. 2710(d)(3)\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1775b of this title; title 10 section 2323a; title 26 sections 45A, 168, 3402; title 28 sections 3701, 3704; title 31 section 5312.
-

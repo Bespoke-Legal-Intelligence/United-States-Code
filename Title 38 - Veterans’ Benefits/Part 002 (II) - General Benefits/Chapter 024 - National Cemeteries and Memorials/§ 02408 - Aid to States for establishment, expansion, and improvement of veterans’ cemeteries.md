@@ -12,9 +12,9 @@
 
 &emsp;(2) If the amount of a grant under this section is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
 
-&emsp;(3) If a State that has received a grant under this section to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made,the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
+&emsp;(3) If a State that has received a grant under this section to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
-(c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
+(c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. Inprescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
 (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
@@ -74,7 +74,7 @@ Subsec. (b)(3), (4). Pub. L. 100–322, §343(2), redesignated par. (4) as (3). 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\].”
+Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date
 

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized, in his discretion, to provide, out 
 
 (May 26, 1930, ch. 324, §6, 46 Stat. 382.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1c of this title.
-

@@ -16,7 +16,3 @@ Section 5 of act Aug. 2, 1956, provided that: “This Act \[this chapter\] shall
 
 Functions of Secretary of Commerce and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1212 of this title.
-

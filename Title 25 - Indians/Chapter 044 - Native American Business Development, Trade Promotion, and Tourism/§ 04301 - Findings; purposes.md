@@ -70,23 +70,7 @@ Pub. L. 106–464, §1, Nov. 7, 2000, 114 Stat. 2012, provided that: “This Act
 
 #### General Accounting Office Study
 
-Pub. L. 106–568, title IV, §421, Dec. 27, 2000, 114 Stat. 2906, provided that:
-
-“(a)
-
-In General.—The Comptroller General shall conduct a study and make findings and recommendations with respect to—
-
-&emsp;“(1) Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development;
-
-&emsp;“(2) the extent of use of the programs;
-
-&emsp;“(3) how effectively such programs accomplish their mission; and
-
-&emsp;“(4) ways in which the Federal Government could best provide economic development, job creation, entrepreneurship, and business development for Indian tribes and tribal members.
-
-“(b)
-
-Report.—The Comptroller General shall submit a report to Congress on the study, findings, and recommendations required by subsection (a) not later than 1 year after the date of the enactment of this Act \[Dec. 27, 2000\].”
+Pub. L. 106–568, title IV, §421, Dec. 27, 2000, 114 Stat. 2906, directed the Comptroller General to conduct a study and make findings and recommendations with respect to Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development, and to report to Congress not later than 1 year after Dec. 27, 2000.
 
 #### Indian Tribal Regulatory Reform and Business Development
 
@@ -166,7 +150,7 @@ Former indian reservations in oklahoma.—For purposes of applying section 3(d) 
 
 &emsp;&emsp;&emsp;“(i) within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
 
-&emsp;&emsp;&emsp;“(ii) recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Nov. 6, 2000\]).
+&emsp;&emsp;&emsp;“(ii) recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effecton the date of enactment of this Act \[Nov. 6, 2000\]).
 
 &emsp;“(5)
 

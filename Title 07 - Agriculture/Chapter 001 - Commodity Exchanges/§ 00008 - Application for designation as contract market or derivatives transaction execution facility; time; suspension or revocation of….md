@@ -52,7 +52,7 @@ Pub. L. 93–463, §103(a), provided for substitution of “Commission” for �
 
 Par. (a). Pub. L. 90–258, §15, amended par. (a) generally, striking out such parts both of first sentence and of proviso of last sentence as described the commission as made up of the Secretary of Agriculture, Secretary of Commerce, and Attorney General (covered in definition of “Commission” in section 2 of this title, including representation of such officials by their designees), extending grounds for suspension or revocation of designation to include violations of any provisions of this chapter or rules, regulations, or orders of the Secretary of Agriculture or commission, requiring delivery of appeal petitions to Secretary of Agriculture rather than any member of the commission, who would notify the other members, and filing of commission records of proceedings on appeal by the Secretary of Agriculture and not the commission, striking out provisions describing Secretary of Agriculture as Chairman (now found in section 2 of this title), superseding such part of proviso of seventh sentence as authorized appeals to the commission from Secretary of Agriculture's refusal of a contract market designation by provisions of first par. of this section, and striking out such other part as made decision of court on appeal from commission final and binding on the parties.
 
-1958—Pub. L. 85–791 substituted “thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings including the notice to the board of trade, a copy of the charges, the evidence, and the report and order” in third notice, and struck out “certified and” after “duly” in fourth sentence.
+1958—Pub. L. 85–791 substituted “thereupon file in the court the record in such proceedings, as provided insection 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings including the notice to the board of trade, a copy of the charges, the evidence, and the report and order” in third notice, and struck out “certified and” after “duly” in fourth sentence.
 
 #### Change of Name
 
@@ -77,10 +77,6 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–258 effective 120 days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as a note under section 2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7b, 10a, 12, 12a, 13a of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -36,7 +36,7 @@ Any officer of the United States Government carrying out functions under this ch
 
 #### (g) Reimbursement for commodities, services, and facilities
 
-In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to suchagency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except that where such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
+In the case of any commodity, service, or facility procured from any agency of the United States Government under this chapter, reimbursement or payment shall be made to such agency from funds available under this chapter. Such reimbursement or payment shall be at replacement cost, or, if required by law, at actual cost, or at any other price authorized by law and agreed to by the owning or disposing agency. The amount of any such reimbursement or payment shall be credited to current applicable appropriations, funds, or accounts from which there may be procured replacements of similar commodities, services, or facilities, except thatwhere such appropriations, funds, or accounts are not reimbursable except by reason of this subsection, and when the owning or disposing agency determines that such replacement is not necessary, any funds received in payment therefor shall be covered into the Treasury as miscellaneous receipts.
 
 #### (h) Hospitalization and medical treatment for Foreign Service local employees
 
@@ -90,7 +90,7 @@ Section 5(b) of Pub. L. 95–331 provided that: “The amendment made by paragra
 
 #### Delegation of Functions; Allocation of Funds
 
-Funds available to President under this chapter allocated to and functions of President under this section, except subsec. (d) and those functions under subsec. (f) relating to directing agencies to provide services, facilities, and commodities to officers carrying out functions under this chapter, were delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (d) of Ex.Ord. No. 12137, May 16, 1979, 44 F.R. 29203, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Funds available to President under this chapter allocated to and functions of President under this section, except subsec. (d) and those functions under subsec. (f) relating to directing agencies to provide services, facilities, and commodities to officers carrying out functions under this chapter, were delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (d) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
@@ -99,10 +99,6 @@ Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authoriti
 #### Waiver of Certain Laws by President Under Subsec. (d)
 
 For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2504, 2517 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Authority may approve grants to States and public and nonprofit entities for projects,approved in accordance with section 2009aa–8 of this title—
+The Authority may approve grants to States and public and nonprofit entities for projects, approved in accordance with section 2009aa–8 of this title—
 
 &emsp;(1) to develop the transportation infrastructure of the region for the purpose of facilitating economic development in the region (except that grants for this purpose may only be made to a State or local government);
 
@@ -43,8 +43,4 @@ The Authority may approve grants to States and public and nonprofit entities for
 #### Amendments
 
 2002—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: “Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009aa–5 of this title.
 

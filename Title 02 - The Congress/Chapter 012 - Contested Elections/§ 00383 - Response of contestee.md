@@ -2,7 +2,7 @@
 
 #### (a) Answer
 
-Any contestee upon whom a notice of contest as described in section 382 of this title shall be served, shall, within thirty days after the service thereof, serve upon contestant a written answer to such notice, admitting or denying the averments upon which contestant relies. If contestee is without knowledge or information sufficient to form a belief as to the truth of an averment, he shall so state and this shall have the effect of a denial. Such answer shall set forth affirmatively any other defenses, in law or fact, on which contestee relies. Contestee shall sign and verify such answer by oath or affirmation.
+Any contestee upon whom a notice of contest as described in section 382 of this title shall be served, shall, within thirty days after the service thereof, serve upon contestant a written answer to such notice, admitting or denying the averments upon which contestant relies. If contestee is without knowledge or information sufficient to form a belief as to the truth of an averment, he shall so state and this shall havethe effect of a denial. Such answer shall set forth affirmatively any other defenses, in law or fact, on which contestee relies. Contestee shall sign and verify such answer by oath or affirmation.
 
 #### (b) Defenses by motion prior to answer
 
@@ -25,8 +25,4 @@ If a notice of contest to which an answer is required is so vague or ambiguous t
 Service of a motion permitted under this section alters the time for serving the answer as follows, unless a different time is fixed by order of the committee: If the committee denies the motion or postpones its disposition until the hearing on the merits, the answer shall be served within ten days after notice of such action. If the committee grants a motion for a more definite statement the answer shall be served within ten days after service of the more definite statement.
 
 (Pub. L. 91–138, §4, Dec. 5, 1969, 83 Stat. 285.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 382, 386 of this title.
 

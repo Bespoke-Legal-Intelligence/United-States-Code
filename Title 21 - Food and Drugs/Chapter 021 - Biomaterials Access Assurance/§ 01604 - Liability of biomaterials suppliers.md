@@ -90,7 +90,3 @@ A biomaterials supplier may, to the extent required and permitted by any other a
 
 (Pub. L. 105–230, §5, Aug. 13, 1998, 112 Stat. 1524.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1603, 1605 of this title.
-

@@ -150,7 +150,7 @@ Subsec. (c)(2). Pub. L. 105–33, §5403(b), inserted concluding provisions.
 
 1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
 
-&emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasurybefore that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
+&emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
 
 &emsp;“(B) shall bear the same ratio to the total amount to be so transferred as the amount of wages subject to contributions under such State's unemployment compensation law during the preceding calendar year which have been reported to the State before August 1 bears to the total of wages subject to contributions under all State unemployment compensation laws during such calendar year which have been reported to the States before August 1.”
 
@@ -186,7 +186,7 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fisc
 
 1963—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl. (D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
 
-1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
+1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal yearunder section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
 
 Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
 
@@ -199,8 +199,4 @@ Section 5021(c) of Pub. L. 101–508 provided that: “The amendments made by th
 #### Effective Date of 1987 Amendment
 
 Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 503, 1321 of this title; title 26 sections 3304, 3306; title 29 section 2943; title 45 section 363.
 

@@ -90,7 +90,3 @@ Pub. L. 107–307, §1, Dec. 2, 2002, 116 Stat. 2445, provided that: “This Act
 
 Section 1 of Pub. L. 98–127 provided: “That this Act \[enacting this section and section 155A of Title 35, Patents\] may be cited as the ‘Federal Anti-Tampering Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 37, 38, 43, 113, 1111, 1153, 1347, 1993, 2119, 2332b, 2332f, 2339C, 3559, 3663A of this title; title 8 section 1324; title 49 section 30170.
-

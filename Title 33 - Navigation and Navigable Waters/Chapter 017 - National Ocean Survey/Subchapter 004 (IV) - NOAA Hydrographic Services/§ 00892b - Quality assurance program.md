@@ -62,7 +62,3 @@ After November 13, 1998, the Administrator may not—
 
 &emsp;“(C) charge a fee for such certification and use.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 892d of this title.
-

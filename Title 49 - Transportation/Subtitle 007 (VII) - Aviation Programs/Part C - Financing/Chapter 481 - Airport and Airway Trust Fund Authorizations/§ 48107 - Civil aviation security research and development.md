@@ -22,7 +22,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(d)(9); added Nov. 16, 1990,
 
 The words “to the Secretary of Transportation” are added for clarity and consistency in this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 47108, 50101, 50102, 50105 of this title.
-

@@ -10,9 +10,5 @@ No labeling or container shall be used for egg products at official plants if it
 
 (Pub. L. 91–597, §7, Dec. 29, 1970, 84 Stat. 1625.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1033, 1037 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

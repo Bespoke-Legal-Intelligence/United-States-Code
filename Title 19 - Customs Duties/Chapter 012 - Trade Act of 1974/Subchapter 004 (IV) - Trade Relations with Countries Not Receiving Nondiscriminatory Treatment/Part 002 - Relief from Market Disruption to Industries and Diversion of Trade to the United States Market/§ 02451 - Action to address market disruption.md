@@ -72,13 +72,13 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 (1) When a petition filed under subsection (b) of this section alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to the product identified in the petition, the Commission shall, not later than 45 days after the petition containing the request is filed—
 
-&emsp;(A) determine whether delay in taking action under this section would cause damage to the relevant domestic industry which would be difficult to repair; and
+&emsp;(A) determine whether delay in taking action under this section would cause damage tothe relevant domestic industry which would be difficult to repair; and
 
 &emsp;(B) if the determination under subparagraph (A) is affirmative, make a preliminary determination of whether imports of the product which is the subject of the investigation have caused or threatened to cause market disruption.
 
 > If the Commissioners voting are equally divided with respect to either of its determinations, then the determination agreed upon by either group of Commissioners may be considered by the President and the Trade Representative as the determination of the Commission.
 
-(2) On the date on which the Commission completes its determinations under paragraph (1), the Commission shall transmit a report on the determinations to the President and the Trade Representative, including the reasons for its determinations. If the determinations under paragraph (1) are affirmative, or may be considered by the President or the Trade Representative as affirmative under paragraph (1), the Commission shall include in its report its recommendations on proposed provisional measures to be taken to prevent or remedy the market disruption. Only those members of the Commission who agreed to the affirmative determinations under paragraph (1) are eligible to vote on the proposed provisional measures to prevent or remedy market disruption. Members of the Commission who did not agree to the affirmative determinations maysubmit, in the report, dissenting or separate views regarding the determination and any recommendation of provisional measures referred to in this paragraph.
+(2) On the date on which the Commission completes its determinations under paragraph (1), the Commission shall transmit a report on the determinations to the President and the Trade Representative, including the reasons for its determinations. If the determinations under paragraph (1) are affirmative, or may be considered by the President or the Trade Representative as affirmative under paragraph (1), the Commission shall include in its report its recommendations on proposed provisional measures to be taken to prevent or remedy the market disruption. Only those members of the Commission who agreed to the affirmative determinations under paragraph (1) are eligible to vote on the proposed provisional measures to prevent or remedy market disruption. Members of the Commission who did not agree to the affirmative determinations may submit, in the report, dissenting or separate views regarding the determination and any recommendation of provisional measures referred to in this paragraph.
 
 (3) If the determinations under paragraph (1) are affirmative, or may be considered by the President or the Trade Representative as affirmative under paragraph (1), the Trade Representative shall, within 10 days after receipt of the Commission's report, determine the amount or extent of provisional relief that is necessary to prevent or remedy the market disruption and shall provide a recommendation to the President on what provisional measures, if any, to take.
 
@@ -120,7 +120,7 @@ Import relief under this section shall take effect not later than 15 days after 
 
 #### (n) Modifications of relief
 
-(1) At any time after the end of the 6-month period beginning on the date on which relief under subsection (m) of this section first takes effect, the President may request that the Commission provide a report on the probable effect of the modification, reduction, or termination of the relief provided on the relevant industry. The Commission shall transmit such report to the President within 60 days of the request.
+(1) At any time after the end of the 6-month period beginning on the date on which relief under subsection (m) of this section first takeseffect, the President may request that the Commission provide a report on the probable effect of the modification, reduction, or termination of the relief provided on the relevant industry. The Commission shall transmit such report to the President within 60 days of the request.
 
 (2) The President may, after receiving a report from the Commission under paragraph (1), take such action to modify, reduce, or terminate relief that the President determines is necessary to continue to prevent or remedy the market disruption at issue.
 
@@ -130,21 +130,17 @@ Import relief under this section shall take effect not later than 15 days after 
 
 (1) Upon request of the President, or upon petition on behalf of the industry concerned filed with the Commission not earlier than the date which is 9 months, and not later than the date which is 6 months, before the date any relief provided under subsection (k) of this section is to terminate, the Commission shall investigate to determine whether action under this section continues to be necessary to prevent or remedy market disruption.
 
-(2) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall affordinterested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
+(2) The Commission shall publish notice of the commencement of any proceeding under this subsection in the Federal Register and shall, within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties and consumers an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise to be heard.
 
 (3) The Commission shall transmit to the President a report on its investigation and determination under this subsection not later than 60 days before the action under subsection (m) of this section is to terminate.
 
 (4) The President, after receiving an affirmative determination from the Commission under paragraph (3), may extend the effective period of any action under this section if the President determines that the action continues to be necessary to prevent or remedy the market disruption.
 
-(Pub. L. 93–618, title IV, §421, as added Pub. L. 106–286, div. A, title I, §103(a)(3), Oct. 10, 2000, 114 Stat. 882.)
+(Pub. L. 93–618, title IV, §421, as added Pub. L. 106–286, div. A, title I, §103(a)(3), Oct. 10, 2000, 114 Stat. 882; amended Pub. L. 108–429, title II, §2004(d)(3), Dec. 3, 2004, 118 Stat. 2592.)
 
-#### Codification
+#### Amendments
 
-This part, referred to in subsec. (b)(1), was in the original “this subtitle” which was translated as reading “this chapter”, meaning chapter 2 of title IV of Pub. L. 93–618, as added, which enacted this part, to reflect the probable intent of Congress, because title IV of Pub. L. 93–618 contains no subtitles.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2451b of this title.
+2004—Subsec. (b)(1). Pub. L. 108–429 made technical amendment to references in original act which appear in text as references to “this part”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitation on payment for advisory and assistance services
 
-(1) No person who is not a person described in subsection (b) of this section may be paid by an executive agency for services to conduct evaluations or analyses of any aspect of a proposal submitted for an acquisition unless personnel described in subsection (b) of this section with adequate training and capabilities to perform such evaluations and analyses are not readily available within the agency or another Federal agency, as determined in accordance with standards and procedures prescribed in the Federal Acquisition Regulation.
+(1) No person who is not a person described in subsection (b) of this section may be paid by an executive agency for services to conduct evaluations or analyses of any aspect of a proposal submitted for an acquisition unless personnel described in subsection (b) of this section with adequate training and capabilities to performsuch evaluations and analyses are not readily available within the agency or another Federal agency, as determined in accordance with standards and procedures prescribed in the Federal Acquisition Regulation.
 
 (2) In the administration of this subsection, the head of each executive agency shall determine in accordance with the standards and procedures set forth in the Federal Acquisition Regulation whether—
 

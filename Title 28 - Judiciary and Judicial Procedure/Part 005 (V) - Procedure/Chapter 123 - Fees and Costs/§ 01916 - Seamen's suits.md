@@ -10,7 +10,3 @@ Based on title 28, U.S.C., 1940 ed., §837 (June 12, 1917, ch. 27, §1, 40 Stat.
 
 Changes in phraseology were made.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1921 of this title.
-

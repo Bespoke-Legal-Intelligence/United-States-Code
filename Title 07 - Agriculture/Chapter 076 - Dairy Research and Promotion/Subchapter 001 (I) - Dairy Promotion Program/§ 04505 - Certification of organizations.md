@@ -6,7 +6,7 @@
 
 &emsp;(1) geographic territory covered by the organization's active membership;
 
-&emsp;(2) nature and size of the organization's active membership including the proportion ofthe total number of active milk producers represented by the organization;
+&emsp;(2) nature and size of the organization's active membership including the proportion of the total number of active milk producers represented by the organization;
 
 &emsp;(3) evidence of stability and permanency of the organization;
 
@@ -19,8 +19,4 @@
 > The primary considerations in determining the eligibility of an organization shall be whether its membership consists primarily of milk producers who produce a substantial volume of milk and whether the primary or overriding interest of the organization is in the production or processing of fluid milk and dairy products and promotion of the nutritional attributes of fluid milk and dairy products.
 
 (Pub. L. 98–180, title I, §114, Nov. 29, 1983, 97 Stat. 1140.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4502, 4503, 4504, 4533 of this title.
 

@@ -22,7 +22,3 @@ Each individual required to sign a report under this section shall be personally
 
 (Pub. L. 86–257, title III, §301, Sept. 14, 1959, 73 Stat. 530.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 464 of this title.
-

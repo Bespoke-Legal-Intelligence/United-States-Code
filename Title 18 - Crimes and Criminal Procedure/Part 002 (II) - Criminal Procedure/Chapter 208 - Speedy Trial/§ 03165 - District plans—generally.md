@@ -4,7 +4,7 @@
 
 (b) The planning and implementation process shall seek to accelerate the disposition of criminal cases in the district consistent with the time standards of this chapter and the objectives of effective law enforcement, fairness to accused persons, efficient judicial administration, and increased knowledge concerning the proper functioning of the criminal law. The process shall seek to avoid underenforcement, overenforcement and discriminatory enforcement of the law, prejudice to the prompt disposition of civil litigation, and undue pressure as well as undue delay in the trial of criminal cases.
 
-(c) The plans prepared by each district court shall be submitted for approval to a reviewing panel consisting of the members of the judicial council of the circuit and either the chief judge of the district court whose plan is being reviewed or such other active judge of that court as the chief judge of that district court may designate. If approved by the reviewing panel, the plan shall be forwarded to the Administrative Office of the United States Courts, which office shall report annually on the operation of such plans to the Judicial Conference of the United States.
+(c) The plans prepared by each district court shall be submitted for approval to a reviewing panel consisting of the members of the judicialcouncil of the circuit and either the chief judge of the district court whose plan is being reviewed or such other active judge of that court as the chief judge of that district court may designate. If approved by the reviewing panel, the plan shall be forwarded to the Administrative Office of the United States Courts, which office shall report annually on the operation of such plans to the Judicial Conference of the United States.
 
 (d) The district court may modify the plan at any time with the approval of the reviewing panel. It shall modify the plan when directed to do so by the reviewing panel or the Judicial Conference of the United States. Modifications shall be reported to the Administrative Office of the United States Courts.
 
@@ -32,9 +32,5 @@ Subsec. (e)(3). Pub. L. 96–43, §8(2), added par. (3).
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3166, 3167, 3168 of this title.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

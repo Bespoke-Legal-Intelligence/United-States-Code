@@ -2,7 +2,7 @@
 
 #### First. Disputes within jurisdiction of Mediation Board
 
-The parties, or either party, to a dispute between an employee or group of employees and acarrier may invoke the services of the Mediation Board in any of the following cases:
+The parties, or either party, to a dispute between an employee or group of employees and a carrier may invoke the services of the Mediation Board in any of the following cases:
 
 (a) A dispute concerning changes in rates of pay, rules, or working conditions not adjusted by the parties in conference.
 
@@ -16,7 +16,7 @@ If arbitration at the request of the Board shall be refused by one or both parti
 
 #### Second. Interpretation of agreement
 
-In any case in which a controversy arises over the meaning or the application of any agreement reached through mediation under the provisions of this chapter, either party to the said agreement, or both, may apply to the Mediation Board for an interpretation of the meaning or application of such agreement. The said Board shall upon receipt of such request notify the parties to the controversy, and after a hearing of both sides give its interpretation within thirty days.
+In any case in which a controversy arises over the meaning or the application of any agreement reached through mediation under the provisions of this chapter, either party to the said agreement, or both, may apply to the Mediation Board for an interpretation of the meaning orapplication of such agreement. The said Board shall upon receipt of such request notify the parties to the controversy, and after a hearing of both sides give its interpretation within thirty days.
 
 #### Third. Duties of Board with respect to arbitration of disputes; arbitrators; acknowledgment of agreement; notice to arbitrators; reconvening of arbitrators; filing contracts with Board; custody of records and documents
 
@@ -45,8 +45,4 @@ As originally enacted, par. Third (b) contained a reference to the “circuit co
 #### Amendments
 
 1934—Act June 21, 1934, amended generally par. First and par. Second, (e) and (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 156, 157, 183 of this title.
 

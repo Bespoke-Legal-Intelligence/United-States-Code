@@ -20,7 +20,7 @@ No action may be commenced—
 
 &emsp;&emsp;(A) prior to 60 days after the plaintiff has given notice of the violation (i) to the Administrator, (ii) to the State in which the violation occurs, and (iii) to any alleged violator of the standard, limitation, or order, or
 
-&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil action in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right.
+&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civilaction in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right.
 
 &emsp;(2) under subsection (a)(2) of the section prior to 60 days after the plaintiff has given notice of such action to the Administrator,
 
@@ -112,7 +112,7 @@ Pub. L. 95–95, §303(b), added par. (3).
 
 #### Effective Date of 1990 Amendment
 
-Section 707(g) of Pub. L. 101–549 provided that: “The amendment made by this subsection \[amending thissection\] shall take effect with respect to actions brought after the date 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].”
+Section 707(g) of Pub. L. 101–549 provided that: “The amendment made by this subsection \[amending this section\] shall take effect with respect to actions brought after the date 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].”
 
 #### Effective Date of 1977 Amendment
 
@@ -129,10 +129,6 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7412, 7413, 7419, 7429, 7491, 7506, 7521, 7617, 7627, 7651j of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

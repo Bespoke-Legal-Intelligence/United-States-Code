@@ -42,7 +42,3 @@ A prior section 2012 was renumbered section 4212 of this title.
 
 Another prior section 2012 was renumbered section 4103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2002, 2011 of this title.
-

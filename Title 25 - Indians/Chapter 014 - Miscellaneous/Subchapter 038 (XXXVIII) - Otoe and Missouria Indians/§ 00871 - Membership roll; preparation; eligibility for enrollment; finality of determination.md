@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized and directed to prepare a roll of th
 
 (Pub. L. 85–395, §1, May 9, 1958, 72 Stat. 105.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 872 of this title.
-

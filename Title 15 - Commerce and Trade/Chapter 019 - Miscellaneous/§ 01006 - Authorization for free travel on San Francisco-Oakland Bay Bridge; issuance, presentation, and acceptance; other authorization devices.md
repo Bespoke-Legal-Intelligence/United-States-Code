@@ -6,7 +6,3 @@
 
 (July 1, 1946, ch. 528, §2, 60 Stat. 348.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1005, 1007 of this title.
-

@@ -20,7 +20,7 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 &emsp;(1) when investors purchase, pay for, exchange, receive dividends upon, vote, refrain from voting, sell, or surrender securities issued by investment companies without adequate, accurate, and explicit information, fairly presented, concerning the character of such securities and the circumstances, policies, and financial responsibility of such companies and their management;
 
-&emsp;(2) when investment companies are organized, operated, managed, or their portfolio securities are selected, in the interest of directors, officers, investment advisers, depositors, or other affiliated persons thereof, in the interest of underwriters, brokers, or dealers, in the interest of special classes of their security holders, or in the interest of other investmentcompanies or persons engaged in other lines of business, rather than in the interest of all classes of such companies’ security holders;
+&emsp;(2) when investment companies are organized, operated, managed, or their portfolio securities are selected, in the interest of directors, officers, investment advisers, depositors, or other affiliated persons thereof, in the interest of underwriters, brokers, or dealers, in the interest of special classes of their security holders, or in the interest of other investment companies or persons engaged in other lines of business, rather than in the interest of all classes of such companies’ security holders;
 
 &emsp;(3) when investment companies issue securities containing inequitable or discriminatory provisions, or fail to protect the preferences and privileges of the holders of their outstanding securities;
 
@@ -41,8 +41,4 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–35, 80a–58 of this title.
 

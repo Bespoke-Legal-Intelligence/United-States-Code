@@ -18,7 +18,7 @@ Section 300aaa–5, act July 1, 1944, ch. 373, title XXVII, §2706, formerly tit
 
 Section 300aaa–6, act July 1, 1944, ch. 373, title XXVII, §2707, formerly title V, §509, 58 Stat. 711, as amended, which related to availability of appropriations, was renumbered section 237 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238f of this title.
 
-Section 300aaa–7, act July 1, 1944, ch. 373, title XXVII, §2708, formerly title V, §510, 58 Stat. 711, as amended, which related to wearing of uniforms, was renumbered section 238 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238g of this title.
+Section 300aaa–7, act July 1, 1944, ch. 373, title XXVII, §2708, formerly title V, §510, 58 Stat. 711, as amended, which related to wearing of uniforms, was renumbered section 238 of title II of act July 1, 1944, by Pub. L.103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238g of this title.
 
 Section 300aaa–8, act July 1, 1944, ch. 373, title XXVII, §2709, formerly title V, §511, 58 Stat. 711, as amended, which related to annual report of Surgeon General, was renumbered section 239 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238h of this title.
 
@@ -26,7 +26,7 @@ Section 300aaa–9, act July 1, 1944, ch. 373, title XXVII, §2710, formerly tit
 
 Section 300aaa–10, act July 1, 1944, ch. 373, title XXVII, §2711, formerly title V, §513, as added June 30, 1970, Pub. L. 91–296, title IV, §401(a), 84 Stat. 351, and amended, which related to evaluation of programs, was renumbered section 241 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238j of this title.
 
-Section 300aaa–11, act July 1, 1944, ch. 373, title XXVII, §2712, formerly title V, §514, as added Nov. 9, 1978, Pub. L. 95–623, §11(e), 92 Stat. 3456, and amended, which related to contract authority, was renumberedsection 242 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238k of this title.
+Section 300aaa–11, act July 1, 1944, ch. 373, title XXVII, §2712, formerly title V, §514, as added Nov. 9, 1978, Pub. L. 95–623, §11(e), 92 Stat. 3456, and amended, which related to contract authority, was renumbered section 242 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238k of this title.
 
 Section 300aaa–12, act July 1, 1944, ch. 373, title XXVII, §2713, formerly title V, §515, formerly Pub. L. 88–164, title II, §225, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326, and amended, which related to recovery by United States of base amount plus interest in certain circumstances, was renumbered section 243 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238<i>l</i> of this title.
 

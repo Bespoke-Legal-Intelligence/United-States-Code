@@ -6,7 +6,7 @@
 
 (B) Members of the MRS Commission shall be appointed not later than 30 days after December 22, 1987, from among persons who as a result of training, experience and attainments are exceptionally well qualified to evaluate the need for a monitored retrievable storage facility as a part of the Nation's nuclear waste management system.
 
-(C) The MRS Commission shall prepare a report on the need for a monitored retrievable storage facility as a part of a national nuclear waste management system that achieves the purposes of this chapter. In preparing the report under this subparagraph, the MRS Commission shall—
+(C) The MRS Commission shall prepare a report on the need for a monitored retrievable storage facility as a part of a national nuclear waste management system that achieves thepurposes of this chapter. In preparing the report under this subparagraph, the MRS Commission shall—
 
 &emsp;(i) review the status and adequacy of the Secretary's evaluation of the systems advantages and disadvantages of bringing such a facility into the national nuclear waste disposal system;
 
@@ -65,10 +65,6 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10162, 10164 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

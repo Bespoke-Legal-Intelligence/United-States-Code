@@ -276,7 +276,3 @@ Provisions of Law.—The provisions of law specified in this subsection are the 
 
 &emsp;“(2) The Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9858 et seq.\] (relating to block grants for child care).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 603 of this title.
-

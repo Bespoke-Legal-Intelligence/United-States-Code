@@ -32,7 +32,7 @@ Based on section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, an
 
 Section 582 of title 18, U.S.C., 1940 ed., and section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, were consolidated. “Except as otherwise expressly provided by law” was inserted to avoid enumeration of exceptive provisions.
 
-The proviso contained in the act of 1927 “That nothing herein contained shall apply to any offense forwhich an indictment has been heretofore found or an information instituted, or to any proceedings under any such indictment or information,” was omitted as no longer necessary.
+The proviso contained in the act of 1927 “That nothing herein contained shall apply to any offense for which an indictment has been heretofore found or an information instituted, or to any proceedings under any such indictment or information,” was omitted as no longer necessary.
 
 In the consolidation of these sections the 5-year period of limitation for violations of the Nationality Code, provided for in said section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, is reduced to 3 years. There seemed no sound basis for considering 3 years adequate in the case of heinous felonies and gross frauds against the United States but inadequate for misuse of a passport or false statement to a naturalization examiner.
 
@@ -57,8 +57,4 @@ Limitation period in connection with offenses against internal security, see sec
 #### Sections 792, 793, and 794 of This Title; Limitation Period
 
 Limitation period in connection with sections 792, 793, and 794 of this title, see note set out under section 792.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1091, 3286 of this title.
 

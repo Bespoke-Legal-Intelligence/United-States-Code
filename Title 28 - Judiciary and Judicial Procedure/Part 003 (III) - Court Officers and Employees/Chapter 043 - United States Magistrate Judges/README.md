@@ -26,10 +26,6 @@
 
 “UNITED STATES MAGISTRATE JUDGES” substituted for “UNITED STATES MAGISTRATES” in chapter heading and “magistrate judges” substituted for “magistrates” in item 633 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 375 of this title; title 48 sections 1912, 1934; title 50 sections 1842, 1861.
-
 
 ---
 

@@ -14,7 +14,3 @@ Mandatory punishment provision was rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8312; title 8 section 1101; title 38 section 6105; title 50 App. section 34.
-

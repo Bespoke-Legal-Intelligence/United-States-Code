@@ -26,7 +26,3 @@ Employer.—In this subsection, the term “employer” means any other individu
 
 (Added Pub. L. 107–273, div. C, title I, §11009(e)(2)(A), Nov. 2, 2002, 116 Stat. 1821.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 924 of this title.
-

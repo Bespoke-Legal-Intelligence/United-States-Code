@@ -54,7 +54,7 @@ There are authorized to be appropriated to the Department of Labor for the 3-yea
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
-The tort claims provisions of title 28, referred to in subsec. (c)(2)(A), are classified to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+The tort claims provisions of title 28, referred to in subsec. (c)(2)(A), are classified to section 1346(b) andchapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

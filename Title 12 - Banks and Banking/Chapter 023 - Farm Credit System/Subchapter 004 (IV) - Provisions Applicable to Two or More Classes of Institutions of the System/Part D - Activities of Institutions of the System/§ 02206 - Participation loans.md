@@ -12,7 +12,3 @@ Notwithstanding any other provisions of this chapter, the terms of any loan part
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2013, 2015, 2073, 2122 of this title.
-

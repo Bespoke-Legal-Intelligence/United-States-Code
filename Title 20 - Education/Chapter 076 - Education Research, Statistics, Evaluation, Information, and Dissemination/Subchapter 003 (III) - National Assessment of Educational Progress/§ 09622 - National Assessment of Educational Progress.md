@@ -42,7 +42,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;&emsp;(iii) may conduct State academic assessments of student achievement in grades 4, 8, and 12 as described in paragraph (2)(D); and
 
-&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis until the Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f) of this section, that such assessment produces high quality data that are valid and reliable.
+&emsp;&emsp;&emsp;(iv) shall conduct each such State assessment, in each subject area and at each grade level, on a developmental basis untilthe Commissioner for Education Statistics determines, as the result of an evaluation required by subsection (f) of this section, that such assessment produces high quality data that are valid and reliable.
 
 #### (B) Agreement
 
@@ -194,7 +194,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;&emsp;&emsp;(I) identifying the knowledge that can be measured and verified objectively using widely accepted professional assessment standards; and
 
-&emsp;&emsp;&emsp;&emsp;(II) developing achievement levels that are consistent with relevant widely accepted professional assessment standards and based on the appropriate level of subject matter knowledge for grade levels to be assessed, or the age of the students, as the case may be.
+&emsp;&emsp;&emsp;&emsp;(II) developing achievement levels that are consistent with relevant widely accepted professional assessment standards and based on the appropriate level ofsubject matter knowledge for grade levels to be assessed, or the age of the students, as the case may be.
 
 #### (B) National consensus approach
 
@@ -329,10 +329,6 @@ Pub. L. 107–279, §401(d)(1), substituted “Commissioner for Education Statis
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6312, 6491, 9621, 9624 of this title.
 
 <i><sup>1</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

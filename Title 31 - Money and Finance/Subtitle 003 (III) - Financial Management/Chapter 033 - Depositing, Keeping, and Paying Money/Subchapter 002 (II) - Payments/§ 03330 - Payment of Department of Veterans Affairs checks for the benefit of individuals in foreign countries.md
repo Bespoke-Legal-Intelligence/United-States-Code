@@ -32,7 +32,7 @@
 
 (2) Payment shall include only amounts due at the time of death under ratings or decisions existing at the time of the death.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, §13(<i>l</i>)(3), (4)(A), June 13, 1991, 105 Stat.277; Pub. L. 103–272, §4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, §13(<i>l</i>)(3), (4)(A), June 13, 1991, 105 Stat. 277; Pub. L. 103–272, §4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
 
 Historical and Revision Notes
 
@@ -83,8 +83,4 @@ Subsec. (a)(2), (3). Pub. L. 102–54, §13(<i>l</i>)(3)(B), substituted “Secr
 Subsecs. (b), (c). Pub. L. 102–54, §13(<i>l</i>)(3)(C), substituted “laws administered by the Secretary of Veterans Affairs” for “laws carried out by the Administrator”.
 
 Subsec. (d)(1)(A). Pub. L. 102–54, §13(<i>l</i>)(3)(B), substituted “Secretary of Veterans Affairs” for “Administrator”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3328, 3329 of this title; title 5 section 5514; title 38 sections 5121, 5309; title 42 section 402.
 

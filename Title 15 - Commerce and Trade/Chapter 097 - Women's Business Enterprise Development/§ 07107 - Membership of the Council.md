@@ -54,7 +54,7 @@ The Administrator, in consultation with the chairperson of the Council, shall ap
 
 #### (i) Rates of pay
 
-The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e) of this section, may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 <sup>1</sup> of title 5.
+The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e) of this section, may be paid without regard to the provisions of chapter 51 andsubchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832 <sup>1</sup> of title 5.
 
 (Pub. L. 100–533, title IV, §407, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4196; amended Pub. L. 105–135, title III, §304, Dec. 2, 1997, 111 Stat. 2609; Pub. L. 106–554, §1(a)(9) \[title VII, §702\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
 
@@ -62,7 +62,7 @@ The executive director and staff of the Council may be appointed without regard 
 
 The General Schedule, referred to in subsecs. (h) and (i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (i), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (i), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -97,6 +97,10 @@ Subsec. (c). Pub. L. 105–135, §304(3), inserted “(including both urban and 
 Subsec. (d). Pub. L. 105–135, §304(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The term of service of the members of the Council shall be 3 years.”
 
 Subsec. (f). Pub. L. 105–135, §304(5), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made.”
+
+#### Change of Name
+
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 

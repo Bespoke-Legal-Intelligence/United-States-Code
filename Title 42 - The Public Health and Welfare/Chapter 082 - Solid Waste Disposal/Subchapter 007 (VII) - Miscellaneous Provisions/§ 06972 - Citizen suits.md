@@ -62,7 +62,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 (D) No action may be commenced under subsection (a)(1)(B) of this section by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
 
-(E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practicalmatter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
+(E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
 
 (F) Whenever any action is brought under subsection (a)(1)(B) of this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
 
@@ -80,7 +80,7 @@ The court, in issuing any final order in any action brought pursuant to this sec
 
 #### (f) Other rights preserved
 
-Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (including relief against the Administrator or a State agency).
+Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of any standard or requirement relating to the management of solid waste or hazardous waste, or to seek any other relief (including relief against the Administrator or a State agency).
 
 #### (g) Transporters
 
@@ -114,11 +114,7 @@ Subsec. (e). Pub. L. 95–609, §7(p)(2), substituted “require” for “requi
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 6903 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6945 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

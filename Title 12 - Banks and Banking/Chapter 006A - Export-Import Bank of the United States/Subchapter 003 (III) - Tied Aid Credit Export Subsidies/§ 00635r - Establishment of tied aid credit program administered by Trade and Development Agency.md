@@ -48,7 +48,3 @@ Subsec. (c)(2). Pub. L. 100–418, §2204(c)(1)(B)(iii)(II), substituted “Dire
 
 Subsec. (d). Pub. L. 100–418, §2204(c)(1)(B)(iv), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator of the Agency for International Development may draw on Economic Support Funds allocated for Commodity Import Programs to finance a tied aid credit activity.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 635q, 635s of this title.
-

@@ -22,7 +22,3 @@ A prior section 523 of act July 1, 1944, was renumbered section 544 by section 6
 
 1990—Pub. L. 101–645 amended section generally, substituting present provisions for provisions which related to: in subsec. (a), general requirements; and in subsec. (b), determination of amount of non-Federal contribution.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 290cc–26 of this title.
-

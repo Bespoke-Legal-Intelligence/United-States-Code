@@ -26,13 +26,13 @@ Notwithstanding any permit which may have been granted by the State in which the
 
 &emsp;(2) for any major existing source to operate more than three months after such finding has been made with respect to it.
 
-> The Administrator may permit the continued operation of a source referred to in paragraph (2)beyond the expiration of such three-month period if such source complies with such emission limitations and compliance schedules (containing increments of progress) as may be provided by the Administrator to bring about compliance with the requirements contained in section 7410(a)(2)(D)(ii) of this title or this section as expeditiously as practicable, but in no case later than three years after the date of such finding. Nothing in the preceding sentence shall be construed to preclude any such source from being eligible for an enforcement order under section 7413(d) <sup>1</sup> of this title after the expiration of such period during which the Administrator has permitted continuous operation.
+> The Administrator may permit the continued operation of a source referred to in paragraph (2) beyond the expiration of such three-month period if such source complies with such emission limitations and compliance schedules (containing increments of progress) as may be provided by the Administrator to bring about compliance with the requirements contained in section 7410(a)(2)(D)(ii) of this title or this section as expeditiously as practicable, but in no case later than three years after the date of such finding. Nothing in the preceding sentence shall be construed to preclude any such source from being eligible for an enforcement order under section 7413(d) <sup>1</sup> of this title after the expiration of such period during which the Administrator has permitted continuous operation.
 
 (July 14, 1955, ch. 360, title I, §126, as added Pub. L. 95–95, title I, §123, Aug. 7, 1977, 91 Stat. 724; amended Pub. L. 95–190, §14(a)(39), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title I, §109(a), Nov. 15, 1990, 104 Stat. 2469.)
 
 #### References in Text
 
-Section 7413(d) of this title, referred to in subsec. (c), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
+Section 7413(d) of this title, referred to in subsec. (c), was amended generally by Pub. L. 101–549, title VII,§701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
 #### Amendments
 
@@ -47,10 +47,6 @@ Pub. L. 101–549, §109(a)(2)(B), substituted “section 7410(a)(2)(D)(ii) of t
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7410, 7607 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

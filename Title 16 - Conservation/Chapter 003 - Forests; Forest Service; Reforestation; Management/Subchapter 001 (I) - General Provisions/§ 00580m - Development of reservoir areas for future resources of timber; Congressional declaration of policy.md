@@ -4,7 +4,3 @@ It is declared to be the policy of the United States to provide that reservoir a
 
 (Pub. L. 86–717, §1, Sept. 6, 1960, 74 Stat. 817.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 580n of this title.
-

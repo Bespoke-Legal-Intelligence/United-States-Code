@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RELIEF FROM INJURY CAUSED BY IMPORT COMPETITION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3538 of this title; title 12 section 635; title 42 section 3211.
-
 
 ---
 

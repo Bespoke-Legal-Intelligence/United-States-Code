@@ -66,7 +66,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (3) Indigenous credit unions
 
-&emsp;Funds available to the Enterprise Funds may be used for technical and other assistance to support the development of indigenous credit unions in Poland and Hungary. As usedin this paragraph, the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
+&emsp;Funds available to the Enterprise Funds may be used for technical and other assistance to support the development of indigenous credit unions in Poland and Hungary. As used in this paragraph, the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
 
 &emsp;&emsp;(A) which is formed to permit individuals in the field of membership specified in such institution's charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
 
@@ -82,7 +82,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (g) Matters to be considered by Enterprise Funds
 
-In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
+In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, andthe likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
 
 #### (h) Retention of interest
 
@@ -118,7 +118,7 @@ The accounts of each Enterprise Fund shall be audited annually in accordance wit
 
 #### (n) GAO audits
 
-The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the General Accounting Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
+The financial transactions undertaken pursuant to this section by each Enterprise Fund may be audited by the Government Accountability Office in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States, so long as the Enterprise Fund is in receipt of United States Government grants.
 
 #### (<i>o</i>) Recordkeeping requirements
 
@@ -138,7 +138,7 @@ The Enterprise Funds shall ensure—
 
 Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund's operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
-(Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, \[(v)\], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, §588, Nov. 26, 1997, 111 Stat. 2438.)
+(Pub. L. 101–179, title II, §201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, \[(v)\], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, §588, Nov. 26, 1997, 111 Stat. 2438; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -148,6 +148,8 @@ The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(3), 
 
 #### Amendments
 
+2004—Subsec. (n). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 1997—Subsec. (<i>l</i>). Pub. L. 105–118, which directed the general amendment of section 201(<i>l</i>) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(<i>l</i>) of the Support for East European Democracy (SEED) Act of 1989, subsec. (<i>l</i>) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services.”
 
 1996—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end “: <i>Provided</i>, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the ‘Advisory Councils’), with which the Enterprise Fund's policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.”
@@ -155,10 +157,6 @@ The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(3), 
 #### Delegation of Functions
 
 Functions of President under this section relating to Enterprise Funds for Poland and Hungary delegated to Secretary of State by section 2 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended, set out as a note under section 5401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2295b, 5425, 5953, 7513 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

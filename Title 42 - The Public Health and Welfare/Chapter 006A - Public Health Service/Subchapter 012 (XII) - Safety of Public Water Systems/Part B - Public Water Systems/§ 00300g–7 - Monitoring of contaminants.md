@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State exercising primary enforcement responsibility for public water systems may modify the monitoring requirements for any regulated or unregulated contaminants for which monitoring is required other than microbial contaminants (or indicators thereof), disinfectants and disinfection byproducts or corrosion byproducts for an interim period toprovide that any public water system serving 10,000 persons or fewer shall not be required to conduct additional quarterly monitoring during an interim relief period for such contaminants if—
+&emsp;A State exercising primary enforcement responsibility for public water systems may modify the monitoring requirements for any regulated or unregulated contaminants for which monitoring is required other than microbial contaminants (or indicators thereof), disinfectants and disinfection byproducts or corrosion byproducts for an interim period to provide that any public water system serving 10,000 persons or fewer shall not be required to conduct additional quarterly monitoring during an interim relief period for such contaminants if—
 
 &emsp;&emsp;(A) monitoring, conducted at the beginning of the period for the contaminant concerned and certified to the State by the public water system, fails to detect the presence of the contaminant in the ground or surface water supplying the public water system; and
 
@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Each State exercising primary enforcement responsibility for public water systems under this subchapter and having an approved source water assessment program may adopt, in accordance with guidance published by the Administrator, tailored alternative monitoring requirements for public water systems in such State (as an alternative to the monitoring requirements for chemical contaminants set forth in the applicable national primary drinking water regulations) where the State concludes that (based on data available at the time of adoption concerning susceptibility, use, occurrence, or wellhead protection, or from the State's drinking water source water assessment program) such alternative monitoring would provide assurance that it complies with the Administrator's guidelines. The State program must be adequate to assure compliance with, and enforcement of, applicable national primary drinking water regulations. Alternative monitoring shall not apply to regulated microbiological contaminants (or indicators thereof), disinfectants and disinfection byproducts, or corrosion byproducts. The preceding sentence is not intended to limit other authority of the Administrator under other provisions of this subchapter to grant monitoring flexibility.
+&emsp;Each State exercising primary enforcement responsibility for public water systems under this subchapter and having an approved source water assessment program may adopt, in accordance with guidance published by the Administrator, tailored alternative monitoring requirements for public water systems in such State (as an alternative to the monitoring requirements for chemical contaminants set forth in the applicable national primary drinking water regulations) where the State concludes that (based on data available at the time of adoption concerning susceptibility,use, occurrence, or wellhead protection, or from the State's drinking water source water assessment program) such alternative monitoring would provide assurance that it complies with the Administrator's guidelines. The State program must be adequate to assure compliance with, and enforcement of, applicable national primary drinking water regulations. Alternative monitoring shall not apply to regulated microbiological contaminants (or indicators thereof), disinfectants and disinfection byproducts, or corrosion byproducts. The preceding sentence is not intended to limit other authority of the Administrator under other provisions of this subchapter to grant monitoring flexibility.
 
 #### (2) Guidelines
 
@@ -51,8 +51,4 @@ All monitoring relief granted by a State to a public water system for a regulate
 Nothing in this section shall be construed to affect the authority of the States under applicable national primary drinking water regulations to alter monitoring requirements through waivers or other existing authorities. The Administrator shall periodically review and, as appropriate, revise such authorities.
 
 (July 1, 1944, ch. 373, title XIV, §1418, as added Pub. L. 104–182, title I, §125(b), Aug. 6, 1996, 110 Stat. 1654.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300h–7, 300j–13 of this title.
 

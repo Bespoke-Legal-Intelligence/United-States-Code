@@ -30,19 +30,17 @@ In this chapter:
 
 &emsp;&emsp;The term “eligible recipient” means—
 
-&emsp;&emsp;&emsp;(i) an area described in section 3161(a) of this title;
+&emsp;&emsp;&emsp;(i) an economic development district;
 
-&emsp;&emsp;&emsp;(ii) an economic development district;
+&emsp;&emsp;&emsp;(ii) an Indian tribe;
 
-&emsp;&emsp;&emsp;(iii) an Indian tribe;
+&emsp;&emsp;&emsp;(iii) a State;
 
-&emsp;&emsp;&emsp;(iv) a State;
+&emsp;&emsp;&emsp;(iv) a city or other political subdivision of a State, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities, or a consortium of political subdivisions;
 
-&emsp;&emsp;&emsp;(v) a city or other political subdivision of a State or a consortium of political subdivisions;
+&emsp;&emsp;&emsp;(v) an institution of higher education or a consortium of institutions of higher education; or
 
-&emsp;&emsp;&emsp;(vi) an institution of higher education or a consortium of institutions of higher education; or
-
-&emsp;&emsp;&emsp;(vii) a public or private nonprofit organization or association acting in cooperation with officials of a political subdivision of a State.
+&emsp;&emsp;&emsp;(vi) a public or private nonprofit organization or association acting in cooperation with officials of a political subdivision of a State.
 
 #### (B) Training, research, and technical assistance grants
 
@@ -60,27 +58,53 @@ In this chapter:
 
 &emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-#### (8) Secretary
+#### (8) Regional Commissions
+
+&emsp;The term “Regional Commissions” means—
+
+&emsp;&emsp;(A) the Appalachian Regional Commission established under chapter 143 of title 40;
+
+&emsp;&emsp;(B) the Delta Regional Authority established under subtitle F of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa et seq.);
+
+&emsp;&emsp;(C) the Denali Commission established under the Denali Commission Act of 1998 (42U.S.C. 3121 note; 112 Stat. 2681–637 et seq.); and
+
+&emsp;&emsp;(D) the Northern Great Plains Regional Authority established under subtitle G of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009bb et seq.).
+
+#### (9) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Commerce.
 
-#### (9) State
+#### (10) State
 
 &emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-#### (10) United States
+#### (11) United States
 
 &emsp;The term “United States” means all of the States.
 
-(Pub. L. 89–136, §3, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3599.)
+#### (12) University center
+
+&emsp;The term “university center” means an institution of higher education or a consortium of institutions of higher education established as a University Center for Economic Development under section 3147(a)(2)(D) of this title.
+
+(Pub. L. 89–136, §3, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3599; amended Pub. L. 108–373, title I, §102, Oct. 27, 2004, 118 Stat. 1758.)
 
 #### References in Text
 
-For the effective date of the Economic Development Administration Reform Act of 1998, referred to in par. (3)(B), see section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of this title.
+Section 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998), referred to in par. (3)(B), means section 3173 of this title prior to its repeal by Pub. L. 105–393, §102(a). See Prior Provisions note set out under section 3173 of this title and section 105 of Pub. L. 105–393, set out as an Effective Date note under section 3121 of this title.
 
 The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§2009aa et seq.) and VII (§2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+
+The Denali Commission Act of 1998, referred to in par. (8)(C), is title III of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681-637, which is set out as a note under section 3121 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 A prior section 3122, Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, §601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, §7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, §6, Sept. 24, 1980, 94 Stat. 1174, which related to priority to be given to revitalization and development of rural areas, was transferred to section 2204b–1 of Title 7, Agriculture.
+
+#### Amendments
+
+2004—Par. (4)(A). Pub. L. 108–373, §102(a), redesignated cls. (ii) to (vii) as (i) to (vi), respectively, inserted “, including a special purpose unit of a State or local government engaged in economic or infrastructure development activities,” after “State” in cl. (iv), and struck out cl. (i) which read as follows: “an area described in section 3161(a) of this title;”.
+
+Pars. (8) to (12). Pub. L. 108–373, §102(b), added pars. (8) and (12) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 

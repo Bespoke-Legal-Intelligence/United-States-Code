@@ -92,9 +92,5 @@ An eligible entity awarded a grant to provide online advanced placement courses 
 
 (Pub. L. 89–10, title I, §1705, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1608.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6533 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

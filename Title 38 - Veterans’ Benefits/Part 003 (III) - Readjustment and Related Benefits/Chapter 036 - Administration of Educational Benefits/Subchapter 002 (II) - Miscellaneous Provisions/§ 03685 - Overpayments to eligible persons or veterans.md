@@ -42,7 +42,3 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specif
 
 Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L. 95–202, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3020, 3684, 3689 of this title.
-

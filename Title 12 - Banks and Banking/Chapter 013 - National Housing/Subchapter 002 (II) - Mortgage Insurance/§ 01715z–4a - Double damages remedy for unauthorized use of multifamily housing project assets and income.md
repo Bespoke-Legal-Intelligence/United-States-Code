@@ -2,9 +2,23 @@
 
 #### (a) Action to recover assets or income
 
-(1) The Secretary of Housing and Urban Development (referred to in this section as the “Secretary”) may request the Attorney General to bring an action in a United States district court to recover any assets or income used by any person in violation of (A) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; (B) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 1715z–22 of this title, but not reinsured under section 1715z–22 of this title; or (D) any applicable regulation. For purposes of this section, a use of assets or income in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation shall include any use for which the documentation in the books and accounts does not establish that the use was made for a reasonable operating expense or necessary repair of the project and has not been maintained in accordance with the requirements of the Secretary and in reasonable condition for proper audit.
+(1) The Secretary of Housing and Urban Development (referred to in this section as the “Secretary”) may request the Attorney General to bring an action in a United States district court to recover any assets or income used by any person in violation of (A) a regulatory agreement that applies to a multifamily project, nursing home, intermediate care facility, board and care home, assisted living facility, or hospital whose mortgage is insured or held by the Secretary under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; (B) a regulatory agreement that applies to a multifamily project whose mortgage is or, at the time of the violations, was insured or held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 1715z–22 of this title, but not reinsured under section 1715z–22 of this title; or (D) any applicable regulation. For purposes of this section, a use of assets or income in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation shall include any use for which the documentation in the books and accounts does not establish that the use was made for a reasonable operating expense or necessary repair of the property and has not been maintained in accordance with the requirements of the Secretary and in reasonable condition for proper audit.
 
-(2) For purposes of a mortgage insured or held by the Secretary under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\], under section 1701q of this title (including section 1701q of this title as it existed before November 28, 1990) and under section 1715z–22 of this title, the term “any person” shall mean any person or entity which owns a project, as identified in the regulatory agreement, including but not limited to any stockholder holding 25 percent or more interest of a corporation that owns the project; any beneficial owner under any business or trust; any officer, director, or partner of an entity owning the project; and any heir, assignee, successor in interest, or agent of any owner.
+(2) For purposes of a mortgage insured or held by the Secretary under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\], under section 1701q of this title (including section 1701q of this title as it existed before November 28, 1990) and under section 1715z–22 of this title, the term “any person” shall mean any person or entity that owns or operates a property, as identified in the regulatory agreement, including but not limited to—
+
+&emsp;(A) any stockholder holding 25 percent or more interest of a corporation that owns that property;
+
+&emsp;(B) any beneficial owner of the property under any business or trust;
+
+&emsp;(C) any officer, director, or partner of an entity owning or controlling the property;
+
+&emsp;(D) any nursing home lessee or operator;
+
+&emsp;(E) any hospital lessee or operator;
+
+&emsp;(F) any other person or entity that controls the property regardless of that person or entity's official relationship to the property; and
+
+&emsp;(G) any heir, assignee, successor in interest, or agent of any person or entity described in the preceding subparagraphs.
 
 #### (b) Initiation of proceedings and temporary relief
 
@@ -12,17 +26,17 @@ The Attorney General, upon request of the Secretary, shall have the exclusive au
 
 #### (c) Amount recoverable
 
-In any judgment favorable to the United States entered under this section, the Attorney General may recover double the value of the assets and income of the project that the court determines to have been used in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation, plus all costs relating to the action, including but not limited to reasonable attorney and auditing fees. Notwithstanding any other provision of law, the Secretary may apply the recovery, or any portion of the recovery, to the project or to the applicable insurance fund under the National Housing Act \[12 U.S.C. 1701 et seq.\] or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate.
+In any judgment favorable to the United States entered under this section, the Attorney General may recover double the value of the assets and income of the property that the court determines to have been used in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation, plus all costs relating to the action, including but not limited to reasonable attorney and auditing fees. Notwithstanding any other provision of law, the Secretary may apply the recovery, or any portion of the recovery, to the property or to the applicable insurance fund under the National Housing Act \[12 U.S.C. 1701 et seq.\] or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate.
 
 #### (d) Time limitation
 
-Notwithstanding any other statute of limitations, the Secretary may request the Attorney General to bring an action under this section at any time up to and including 6 years after the latest date that the Secretary discovers any use of project assets and income in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation.
+Notwithstanding any other statute of limitations, the Secretary may request the Attorney General to bring an action under this section at any time up to and including 6 years after the latest date that the Secretary discovers any use of a property's assets and income in violation of the regulatory agreement, or such other form of regulatory control as may be imposed by the Secretary, or any applicable regulation.
 
 #### (e) Continued availability of other remedies
 
 The remedy provided by this section is in addition to any other remedies available to the Secretary or the United States.
 
-(Pub. L. 100–242, title IV, §421, Feb. 5, 1988, 101 Stat. 1913; Pub. L. 105–65, title V, §563, Oct. 27, 1997, 111 Stat. 1419.)
+(Pub. L. 100–242, title IV, §421, Feb. 5, 1988, 101 Stat. 1913; Pub. L. 105–65, title V, §563, Oct. 27, 1997, 111 Stat. 1419; Pub. L. 108–447, div. I, title II, §220, Dec. 8, 2004, 118 Stat. 3319.)
 
 #### References in Text
 
@@ -34,13 +48,25 @@ Section was enacted as part of the Housing and Community Development Act of 1987
 
 #### Amendments
 
+2004—Subsec. (a)(1). Pub. L. 108–447, §220(3), substituted “property” for “project” in second sentence.
+
+Subsec. (a)(1)(A). Pub. L. 108–447, §220(1), inserted “, nursing home, intermediate care facility, board and care home, assisted living facility, or hospital” after “project”.
+
+Subsec. (a)(1)(B). Pub. L. 108–447, §220(2), inserted “or, at the time of the violations, was” after “whose mortgage is”.
+
+Subsec. (a)(2). Pub. L. 108–447, §220(4), substituted “that owns or operates a property, as identified in the regulatory agreement, including but not limited to—” and subpars. (A) to (G) for “which owns a project, as identified in the regulatory agreement, including but not limited to any stockholder holding 25 percent or more interest of a corporation that owns the project; any beneficial owner under any business or trust; any officer, director, or partner of an entity owning the project; and any heir, assignee, successor in interest, or agent of any owner.”
+
+Subsec. (c). Pub. L. 108–447, §220(5), substituted “property that the court determines” for “project that the court determines” and “property or to the applicable insurance fund” for “project or to the applicable insurance fund”.
+
+Subsec. (d). Pub. L. 108–447, §220(6), substituted “a property's” for “project”.
+
 1997—Subsec. (a)(1). Pub. L. 105–65, §563(1), substituted “(B) a regulatory agreement that applies to a multifamily project whose mortgage is insured or held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990); (C) a regulatory agreement or such other form of regulatory control as may be imposed by the Secretary that applies to mortgages insured or held by the Secretary under section 542 of the Housing and Community Development Act of 1992, but not reinsured under section 542 of the Housing and Community Development Act of 1992; or (D)” for “or (B)” in first sentence and inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” in second sentence.
 
 Subsec. (a)(2). Pub. L. 105–65, §563(2), inserted “under section 1701q of this title (including section 1701q of this title as it existed before November 28, 1990) and under section 542 of the Housing and Community Development Act of 1992,” after “title II of National Housing Act,”.
 
 Subsec. (b). Pub. L. 105–65, §563(3), inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement”.
 
-Subsec. (c). Pub. L. 105–65, §563(4), in first sentence, inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” and inserted before period at end of second sentence “or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701q of this title as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate”.
+Subsec. (c). Pub. L. 105–65, §563(4), in first sentence, inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement” and inserted before period at end of second sentence “or, in the case of any project for which the mortgage is held by the Secretary under section 1701q of this title (including property subject to section 1701qof this title as it existed before November 28, 1990), to the project or to the Department for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary, as appropriate”.
 
 Subsec. (d). Pub. L. 105–65, §563(5), inserted “, or such other form of regulatory control as may be imposed by the Secretary,” after “regulatory agreement”.
 

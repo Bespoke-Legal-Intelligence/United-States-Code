@@ -8,7 +8,7 @@ To carry out the purposes of this subchapter, there is established in the Depart
 
 The Corps shall be open to youth from all parts of the country of both sexes and youth of all social, economic, and racial classifications with all Corps members receiving compensation consistent with work accomplished, and with no person being employed as a member of the Corps for a term in excess of ninety days during any single year.
 
-(Pub. L. 91–378, title I, §102, formerly §2, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, §102, and amended Pub. L. 103–82, title I, §105(1)–(4), Sept. 21, 1993, 107 Stat. 848.)
+(Pub. L. 91–378, title I, §102, formerly §2, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, §102, and amended Pub. L. 103–82, title I, §105(1)–(4), Sept. 21, 1993, 107 Stat. 848.)
 
 #### Amendments
 

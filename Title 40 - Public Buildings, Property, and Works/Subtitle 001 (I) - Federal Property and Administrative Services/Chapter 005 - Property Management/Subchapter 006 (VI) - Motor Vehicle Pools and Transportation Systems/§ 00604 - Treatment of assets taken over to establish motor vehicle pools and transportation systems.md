@@ -42,7 +42,3 @@ June 30, 1949, ch. 288, title II, §211(g), (h), as added Sept. 5, 1950, ch. 849
 
 40:491(h).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 7588.
-

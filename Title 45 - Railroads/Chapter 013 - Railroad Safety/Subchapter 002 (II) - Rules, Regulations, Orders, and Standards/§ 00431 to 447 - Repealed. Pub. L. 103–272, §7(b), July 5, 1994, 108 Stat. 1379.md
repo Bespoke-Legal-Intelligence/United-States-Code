@@ -20,7 +20,7 @@ Section 439, Pub. L. 91–458, title II, §210, Oct. 16, 1970, 84 Stat. 975; Pub
 
 Section 440, Pub. L. 91–458, title II, §211, Oct. 16, 1970, 84 Stat. 976; Pub. L. 93–633, title II, §203, Jan. 3, 1975, 88 Stat. 2164; Pub. L. 94–56, §2, July 19, 1975, 89 Stat. 263; Pub. L. 96–470, title II, §209(a), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 100–342, §12, June 22, 1988, 102 Stat. 630, related to annual report by Secretary of Transportation on administration of this subchapter. See section 20116 of Title 49.
 
-Section 441, Pub. L. 91–458, title II, §212, as added Pub. L. 96–423, §10, Oct. 10, 1980, 94 Stat. 1815; amended Pub. L. 100–342, §5, June 22, 1988, 102 Stat. 627; Pub. L. 102–365,§5(b), Sept. 3, 1992, 106 Stat. 975, related to protection and rights of railroad employees. See section 20109 of Title 49.
+Section 441, Pub. L. 91–458, title II, §212, as added Pub. L. 96–423, §10, Oct. 10, 1980, 94 Stat. 1815; amended Pub. L. 100–342, §5, June 22, 1988, 102 Stat. 627; Pub. L. 102–365, §5(b), Sept. 3, 1992, 106 Stat. 975, related to protection and rights of railroad employees. See section 20109 of Title 49.
 
 A prior section 441, Pub. L. 91–458, title II, §212, Oct. 16, 1970, 84 Stat. 977; Pub. L. 93–90, §2, Aug. 14, 1973, 87 Stat. 305; Pub. L. 93–633, title II, §205, Jan. 3, 1975, 88 Stat. 2166; Pub. L. 94–56, §3, July 19, 1975, 89 Stat. 263; Pub. L. 94–348, §2(a), July 8, 1976, 90 Stat. 817; Pub. L. 95–574, §2, Nov. 2, 1978, 92 Stat. 2459, authorized appropriations to carry out this chapter, prior to repeal by Pub. L. 96–423, §2, Oct. 10, 1980, 94 Stat. 1811.
 

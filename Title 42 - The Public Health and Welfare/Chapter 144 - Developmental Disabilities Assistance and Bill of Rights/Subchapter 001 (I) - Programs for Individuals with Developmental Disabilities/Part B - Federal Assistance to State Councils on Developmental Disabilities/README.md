@@ -1,9 +1,5 @@
 Part B—Federal Assistance to State Councils on Developmental Disabilities
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 14403, 15004, 15005, 15043, 15081, 15083 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “habilitation”.</i>
 
 

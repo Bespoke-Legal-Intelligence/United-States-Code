@@ -32,7 +32,3 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993, see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 654 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Prerequisites; purposes; amounts; terms
 
-The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling safer or more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate. Any portion of the sums advanced to the borrower treated as a loan shall be secured and be repayable within twenty years in accordance with the principles and conditions set forth in this subchapter, except that a loan for less than $7,500 need be evidenced only by a promissory note. Sums made available by grant may be made subject to the conditions set forth in this subchapter for the protection of the Government with respect to contributions made on loans made by the Secretary.
+The Secretary may make a loan, grant, or combined loan and grant to an eligible very low-income applicant in order to improve or modernize a rural dwelling, to make the dwelling saferor more sanitary, or to remove hazards. The Secretary may make a loan or grant under this subsection to the applicant to cover the cost of any or all repairs, improvements, or additions such as repairing roofs, providing sanitary waste facilities, providing a convenient and sanitary water supply, repairing or providing structural supports, or making similar repairs, additions, improvements, including all preliminary and installation costs in obtaining central water and sewer service. The maximum amount of a grant, a loan, or a loan and grant shall not exceed such limitations as the Secretary determines to be appropriate. Any portion of the sums advanced to the borrower treated as a loan shall be secured and be repayable within twenty years in accordance with the principles and conditions set forth in this subchapter, except that a loan for less than $7,500 need be evidenced only by a promissory note. Sums made available by grant may be made subject to the conditions set forth in this subchapter for the protection of the Government with respect to contributions made on loans made by the Secretary.
 
 #### (b) Additional purposes
 
@@ -28,7 +28,7 @@ The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Older American Community Service Employment Act, referred to in subsec. (c)(3), is title V of Pub. L. 89–73, as added Pub. L. 94–135, title I, §113(a), Nov. 28,1975, 89 Stat. 720, and amended. Title V of Pub. L. 89–73 was amended generally by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, and is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older American Community Service Employment Act, referred to in subsec. (c)(3), is title V of Pub. L. 89–73, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and amended. Title V of Pub. L. 89–73 was amended generally by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, and is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Amendments
 
@@ -59,8 +59,4 @@ Amendment by section 101(f) \[title VIII, §405(d)(32)\] of Pub. L. 105–277 ef
 #### Community Services Administration
 
 Community Services Administration, established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519 (42 U.S.C. 9912(a)). An Office of Community Services, headed by a Director, was established in Department of Health and Human Services by section 676 of Pub. L. 97–35 (42 U.S.C. 9905).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1436a, 1471, 1477, 1479, 1483, 1490m, 4851b, 6863, 6873 of this title.
 

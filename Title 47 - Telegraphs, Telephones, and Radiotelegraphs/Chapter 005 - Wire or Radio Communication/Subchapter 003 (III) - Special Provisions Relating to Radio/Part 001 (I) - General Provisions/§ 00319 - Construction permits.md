@@ -48,7 +48,3 @@ Subsec. (c). Act July 16, 1952, §13(d), added subsec. (c).
 
 Amendment by Pub. L. 86–752 effective ninety days after Sept. 13, 1960, see section 4(d)(1) of Pub. L. 86–752, set out as a note under section 309 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 309 of this title.
-

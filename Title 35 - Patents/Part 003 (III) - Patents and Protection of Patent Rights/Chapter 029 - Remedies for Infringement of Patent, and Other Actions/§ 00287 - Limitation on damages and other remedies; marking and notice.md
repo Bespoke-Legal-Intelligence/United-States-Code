@@ -1,6 +1,6 @@
 ### §287. Limitation on damages and other remedies; marking and notice
 
-(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, excepton proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
 (b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
@@ -36,7 +36,7 @@
 
 &emsp;(ii) which is made by such person before the person's first importation, use, offer for sale, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
 
-&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
+&emsp;(iii) which includes a representation by the person making the request that such personwill promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
 
 (B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
 
@@ -46,7 +46,7 @@
 
 (B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faith belief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
 
-(C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referredto in such written notification or response unless that person, absent mitigating circumstances—
+(C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referred to in such written notification or response unless that person, absent mitigating circumstances—
 
 &emsp;(i) promptly transmits the written notification or response to the manufacturer or, if the manufacturer is not known, to the supplier, of the product purchased or to be purchased by that person; and
 
@@ -74,7 +74,7 @@
 
 &emsp;(G) the term “State” shall mean any state <sup>1</sup> or territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
+(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale,importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
 
 &emsp;(A) directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
 
@@ -129,10 +129,6 @@ Amendment by Pub. L. 103–465 effective on date that is one year after date on 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective 6 months after Aug. 23, 1988, and, subject to enumerated exceptions, applicable only with respect to products made or imported after such effective date, see section 9006 of Pub. L. 100–418, set out as a note under section 271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

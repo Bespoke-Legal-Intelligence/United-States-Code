@@ -30,7 +30,7 @@ Subsection (b) permits the trustee of the estate of an individual debtor or a co
 
 Subsection (c) sets forth a marshalling rule pertaining to tax claims against a partner and a partnership in a case under chapter 7 of title 11. To the extent that the income tax liability arose from the inclusion of undistributed earnings in the partner's taxable income, the court is required to disallow the tax claim against the partner's estate and to allow such claim against the partnership estate. No burden is placed on the taxing authority; the taxing authority should file a complete proof of claim in each case and the court will execute the marshalling. If the partnership's assets are insufficient to satisfy partnership creditors in full, then section 723(c) of title 11 will apply, notwithstanding this subsection, to allow any unsatisfied tax claims to be asserted by the partnership trustee against the estate of the partner. The marshalling rule under this subsection applies only for purposes of allowance and distribution. Thus the tax claim may be nondischargeable with respect to an individual partner.
 
-Subsection (d) requires the court to apportion any tax refund or reduction of tax between the estate of a partner and the estate of his partnership. The standard of apportionment entitles the partnership estate to receive that part of the tax refund or reduction that is attributable to losses sustained by the partnership that were deducted by the partner but for which the partner never reimbursed the partnership. The partner's estate receives any part not allocated to the partnership estate. The section applies notwithstanding section 541 oftitle 11, which includes the partner's right to a tax refund or to reduction of tax as property of the partner's estate.
+Subsection (d) requires the court to apportion any tax refund or reduction of tax between the estate of a partner and the estate of his partnership. The standardof apportionment entitles the partnership estate to receive that part of the tax refund or reduction that is attributable to losses sustained by the partnership that were deducted by the partner but for which the partner never reimbursed the partnership. The partner's estate receives any part not allocated to the partnership estate. The section applies notwithstanding section 541 of title 11, which includes the partner's right to a tax refund or to reduction of tax as property of the partner's estate.
 
 #### Amendments
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 346, 348, 723 of this title.
 

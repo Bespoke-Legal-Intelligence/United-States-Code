@@ -11,7 +11,7 @@
 | [404\.](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md) | Travel and transportation allowances: general. |
 | [404a.](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md) | Travel and transportation allowances: temporary lodging expenses. |
 | [404b.](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20lodging%20expenses%20at%20temporary%20duty%20location%20for%20members%20on%20authorized%20leave.md) | Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave. |
-| [405\.](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20United%20States%20or%20in%20Hawaii%20or%20Alaska.md) | Travel and transportation allowances: per diem while on duty outside the United States or in Hawaii or Alaska. |
+| [405\.](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md) | Travel and transportation allowances: per diem while on duty outside the continental United States. |
 | [405a.](%C2%A7%2000405a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md) | Travel and transportation allowances: departure allowances. |
 | [406\.](%C2%A7%2000406%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md) | Travel and transportation allowances: dependents; baggage and household effects. |
 | [406a.](%C2%A7%2000406a%20-%20Travel%20and%20transportation%20allowances%20authorized%20for%20travel%20performed%20under%20orders%20that%20are%20canceled%2C%20revoked%2C%20or%20modified.md) | Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified. |
@@ -66,6 +66,8 @@
 
 #### Amendments
 
+2004—Pub. L. 108–375, div. A, title VI, §605(b)(3), Oct. 28, 2004, 118 Stat. 1945, substituted “continental United States” for “United States or in Hawaii or Alaska” in item 405.
+
 2003—Pub. L. 108–136, div. A, title V, §541(b)(5)(B), title VI, §635(b), Nov. 24, 2003, 117 Stat. 1477, 1511, added item 404b and substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in item 436.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, §586(c)(2). See 1999 Amendment note below.
@@ -96,7 +98,7 @@ Pub. L. 100–26, §8(b)(1), Apr. 21, 1987, 101 Stat. 285, redesignated item 431
 
 1986—Pub. L. 99–661, div. A, title VI, §615(a)(2), Nov. 14, 1986, 100 Stat. 3880, added item 431 “Travel and transportation: members escorting certain dependents”.
 
-1985—Pub. L. 99–145, title VI, §§616(c)(2), 620(a)(2), title XIII, §§1302(b)(2), 1303(b)(7), Nov. 8, 1985, 99 Stat. 641, 643, 738, 740, substituted “allowances:” for “allowances;” in item 404 and “departure” for “evacuation” in item 405a, struck out “away from home port” after “inactivating” in item 406b, added item 411f, substituted “allowances” for “allowance” in item 425, and added item 431 “Benefits for certain members assigned to the Defense Intelligence Agency”.
+1985—Pub. L. 99–145, title VI, §§616(c)(2), 620(a)(2), title XIII, §§1302(b)(2), 1303(b)(7), Nov. 8, 1985, 99 Stat. 641, 643, 738, 740, substituted “allowances:” for “allowances;” initem 404 and “departure” for “evacuation” in item 405a, struck out “away from home port” after “inactivating” in item 406b, added item 411f, substituted “allowances” for “allowance” in item 425, and added item 431 “Benefits for certain members assigned to the Defense Intelligence Agency”.
 
 1984—Pub. L. 98–525, title VI, §§602(d)(2), 612(a)(2), Oct. 19, 1984, 98 Stat. 2536, 2539, struck out “; variable housing allowance” after “Basic allowance for quarters” in item 403, and added item 403a, and substituted “personal emergencies for certain members and dependents” for “certain emergencies for members performing temporary duty” in item 411d.
 
@@ -132,10 +134,6 @@ Pub. L. 93–170, §1(2), Nov. 29, 1973, 87 Stat. 689, substituted “overhaulin
 
 Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 907 of this title; title 10 sections 1051, 12503; title 32 section 115; title 42 section 659.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
@@ -152,7 +150,7 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 - [&sect; 00404 - Travel and transportation allowances general](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md)
 - [&sect; 00404a - Travel and transportation allowances temporary lodging expenses](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md)
 - [&sect; 00404b - Travel and transportation allowances lodging expenses at temporary duty location for members on authorized leave](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20lodging%20expenses%20at%20temporary%20duty%20location%20for%20members%20on%20authorized%20leave.md)
-- [&sect; 00405 - Travel and transportation allowances per diem while on duty outside the United States or in Hawaii or Alaska](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20United%20States%20or%20in%20Hawaii%20or%20Alaska.md)
+- [&sect; 00405 - Travel and transportation allowances per diem while on duty outside the continental United States](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md)
 - [&sect; 00405a - Travel and transportation allowances departure allowances](%C2%A7%2000405a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md)
 - [&sect; 00406 - Travel and transportation allowances dependents; baggage and household effects](%C2%A7%2000406%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md)
 - [&sect; 00406a - Travel and transportation allowances authorized for travel performed under orders that are canceled, revoked, or modified](%C2%A7%2000406a%20-%20Travel%20and%20transportation%20allowances%20authorized%20for%20travel%20performed%20under%20orders%20that%20are%20canceled%2C%20revoked%2C%20or%20modified.md)

@@ -12,7 +12,3 @@ The Legislature of Puerto Rico is empowered to impose tariff duties upon coffee 
 
 Pub. L. 98–67, title II, §214(e), Aug. 5, 1983, 97 Stat. 393, provided that: “No action pursuant to this title \[19 U.S.C. 2701 et seq.\] may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 319 of the Tariff Act of 1930 (19 U.S.C. 1319) on coffee imported into Puerto Rico.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2463 of this title.
-

@@ -8,7 +8,3 @@ The Secretary may accelerate feasibility studies authorized by law when and to t
 
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 838.
-

@@ -4,7 +4,3 @@ Any breach or violation of any of the representations and stipulations in any co
 
 (June 30, 1936, ch. 881, §2, 49 Stat. 2037.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 43a of this title; title 25 section 450j.
-

@@ -56,7 +56,7 @@ Advisory Committee.—(1) Not later than December 24, 1992, the Attorney General
 
 &emsp;(x) one individual who is qualified to represent the interests of consumers.
 
-(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x)of this paragraph and shall serve as chairman of the committee.
+(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x) of this paragraph and shall serve as chairman of the committee.
 
 (3) The committee shall make recommendations on developing and carrying out—
 
@@ -117,8 +117,4 @@ In subsection (c)(1), the words “and appoint” are omitted as unnecessary bec
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of 2-year period beginning on date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 33110, 33111 of this title.
 

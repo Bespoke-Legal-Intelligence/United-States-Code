@@ -18,7 +18,3 @@ The Secretary shall not provide funds for the operation or maintenance of a proj
 
 A prior section 1615 of Pub. L. 102–575 was renumbered section 1631 and is classified to section 390h–13 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390h–13 of this title.
-

@@ -10,7 +10,3 @@ On the Council's own initiative, or on petition to the Council by producers and 
 
 (Pub. L. 104–284, §4, Oct. 11, 1996, 110 Stat. 3371.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6402 of this title.
-

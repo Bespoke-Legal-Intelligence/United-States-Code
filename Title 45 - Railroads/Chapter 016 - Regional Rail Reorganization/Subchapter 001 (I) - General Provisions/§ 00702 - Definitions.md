@@ -28,7 +28,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(13) “profitable railroad” means a railroad which is not a railroad in reorganization. The term does not include the Corporation, the National Railroad Passenger Corporation, or a railroad leased, operated, or controlled by a railroad in reorganization in the region;
 
-&emsp;(14) “rail properties” means assets or rights owned, leased, or otherwise controlled by a railroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction withthe phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
+&emsp;(14) “rail properties” means assets or rights owned, leased, or otherwise controlled by a railroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction with the phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
 
 &emsp;(15) “railroad” means a rail carrier subject to part A of subtitle IV of title 49. The term includes the Corporation and the National Railroad Passenger Corporation;
 
@@ -82,7 +82,7 @@ Par. (7). Pub. L. 94–210, §603(c), added par. (7). Former par. (7) redesignat
 
 Par. (8). Pub. L. 94–210, §§601(g), 603(c), redesignated former par. (7) as (8). Former par. (8) redesignated (10).
 
-Pars. (9) to (11). Pub. L. 94–210, §601(g), added par. (9) and redesignated former pars. (8) and (9) as (10) and (11),respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
+Pars. (9) to (11). Pub. L. 94–210, §601(g), added par. (9) and redesignated former pars. (8) and (9) as (10) and (11), respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
 
 Par. (12). Pub. L. 94–210, §§601(g), 607(t), redesignated former par. (10) as (12), inserted “(or a person owned, leased, or otherwise controlled by a railroad)” before “which are used or useful”, and substituted “phrase” for “phase”. Former par. (12) redesignated (14).
 
@@ -123,8 +123,4 @@ See section 1341 of this title.
 #### Applicability of National Environmental Policy Act
 
 Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 741, 1112 of this title.
 

@@ -12,7 +12,7 @@ In all suits or actions (other than those arising under section 1592 of this tit
 
 #### Prior Provisions
 
-Provisions somewhat similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, T, 38 Stat. 189, the provisions of which were originally enacted in the Customs Administrative Act of June 10, 1890, ch. 407, §21, 26 Stat. 140, and reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and amended by the 1913 act. Section III of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §615, 42 Stat. 987, and was repealed by section 643 thereof. Section 615 of the 1922 act was superseded by section 615 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §III, T, 38Stat. 189, the provisions of which were originally enacted in the Customs Administrative Act of June 10, 1890, ch. 407, §21, 26 Stat. 140, and reenacted by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and amended by the 1913 act. Section III of the 1913 act was superseded by act Sept. 21, 1922, ch. 356, title IV, §615, 42 Stat. 987, and was repealed by section 643 thereof. Section 615 of the 1922 act was superseded by section 615 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -25,10 +25,6 @@ Provisions somewhat similar to those in this section were contained in act Oct. 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under section 1304 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1600, 2610 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “merchandise”.</i>
 

@@ -8,7 +8,3 @@ The Congress recognizes that general economic policies alone have been unable to
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 3102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3112, 3114 of this title.
-

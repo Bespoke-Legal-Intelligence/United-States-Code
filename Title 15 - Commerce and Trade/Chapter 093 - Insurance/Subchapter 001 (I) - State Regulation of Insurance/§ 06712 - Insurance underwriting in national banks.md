@@ -48,7 +48,3 @@ For purposes of this section, providing insurance (including reinsurance) outsid
 
 (Pub. L. 106–102, title III, §302, Nov. 12, 1999, 113 Stat. 1407.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 24a.
-

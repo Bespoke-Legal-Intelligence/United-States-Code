@@ -102,9 +102,5 @@ Transportation and travel allowances to escorts for dependents of members, see s
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of section 4 of Pub. L. 85–861, which amended this section, see section 31 of Pub. L. 85–861, set out as a note under section 2771 of Title 10, Armed Forces.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 210 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

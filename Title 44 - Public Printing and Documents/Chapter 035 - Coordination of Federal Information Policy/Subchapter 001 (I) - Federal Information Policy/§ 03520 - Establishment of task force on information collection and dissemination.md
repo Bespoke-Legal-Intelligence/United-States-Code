@@ -124,3 +124,7 @@ A prior section 3520 was renumbered section 3521 of this title.
 
 Another prior section 3520, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2825; amended Pub. L. 99–500, §101(m) \[title VIII, §820\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–340, and Pub. L. 99–591, §101(m) \[title VIII, §820\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–340, related to authorization of appropriations prior to the general amendment of this chapter by Pub. L. 104–13.
 
+#### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+

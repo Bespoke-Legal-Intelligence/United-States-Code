@@ -26,7 +26,3 @@ Pub. L. 101–514, title V, §511, Nov. 5, 1990, 104 Stat. 2098.
 
 Pub. L. 100–202, §109, Dec. 22, 1987, 101 Stat. 1329–434; Pub. L. 105–362, title XIV, §1401(d), Nov. 10, 1998, 112 Stat. 3294.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10c, 10d of this title.
-

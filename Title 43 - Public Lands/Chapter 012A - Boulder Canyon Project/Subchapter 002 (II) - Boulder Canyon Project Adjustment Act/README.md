@@ -8,10 +8,6 @@ Effective date of subchapter, see sections 618i, 620f, 620h, 620m of this title.
 
 Consolidation of Parker and Davis Dam projects as not affecting this subchapter, see note set out preceding subchapter I of this chapter.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 619a, 1551, 1552, 1597, 1600g of this title.
-
 
 ---
 

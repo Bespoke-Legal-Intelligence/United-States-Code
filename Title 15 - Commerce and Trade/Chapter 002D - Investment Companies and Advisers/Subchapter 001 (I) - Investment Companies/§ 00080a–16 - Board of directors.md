@@ -2,7 +2,7 @@
 
 #### (a) Election of directors
 
-No person shall serve as a director of a registered investment company unless elected to that office by the holders of the outstanding voting securities of such company, at an annual or a special meeting duly called for that purpose; except that vacancies occurring between such meetings may be filled in any otherwise legal manner if immediately after filling any such vacancy at least two-thirds of the directors then holding office shall have been elected to such office by the holders of the outstanding voting securities of the company at such an annual or special meeting. In the event that at any time less than a majority of the directors of such company holding office at that time were so elected by the holders of the outstanding voting securities, the board of directors or proper officer of such company shall forthwith cause to be held as promptly as possible and in any event within sixty days a meeting of such holders for the purpose of electing directors to fill any existing vacancies in the board of directors unless the Commission shall by order extend such period. The foregoing provisions of this subsection shall not apply to members of an advisory board.
+No person shall serve as a director of a registered investment company unless elected tothat office by the holders of the outstanding voting securities of such company, at an annual or a special meeting duly called for that purpose; except that vacancies occurring between such meetings may be filled in any otherwise legal manner if immediately after filling any such vacancy at least two-thirds of the directors then holding office shall have been elected to such office by the holders of the outstanding voting securities of the company at such an annual or special meeting. In the event that at any time less than a majority of the directors of such company holding office at that time were so elected by the holders of the outstanding voting securities, the board of directors or proper officer of such company shall forthwith cause to be held as promptly as possible and in any event within sixty days a meeting of such holders for the purpose of electing directors to fill any existing vacancies in the board of directors unless the Commission shall by order extend such period. The foregoing provisions of this subsection shall not apply to members of an advisory board.
 
 Nothing herein shall, however, preclude a registered investment company from dividing its directors into classes if its charter, certificate of incorporation, articles of association, by-laws, trust indenture, or other instrument or the law under which it is organized, so provides and prescribes the tenure of office of the several classes: <i>Provided</i>, That no class shall be elected for a shorter period than one year or for a longer period than five years and the term of office of at least one class shall expire each year.
 
@@ -22,7 +22,7 @@ Whenever ten or more shareholders of record who have been such for at least six 
 
 &emsp;(2) inform such applicants as to the approximate number of shareholders of record, and the approximate cost of mailing to them the proposed communication and form of request.
 
-If the trustees elect to follow the course specified in paragraph (2) of this subsection the trustees, upon the written request of such applicants, accompanied by a tender of the material to be mailed and of the reasonable expenses of mailing, shall, with reasonable promptness, mail such material to all shareholders of record at their addresses as recorded on the books, unless within five business days after such tender thetrustees shall mail to such applicants and file with the Commission, together with a copy of the material to be mailed, a written statement signed by at least a majority of the trustees to the effect that in their opinion either such material contains untrue statements of fact or omits to state facts necessary to make the statements contained therein not misleading, or would be in violation of applicable law, and specifying the basis of such opinion.
+If the trustees elect to follow the course specified in paragraph (2) of this subsection the trustees, upon the written request of such applicants, accompanied by a tender of the material to be mailed and of the reasonable expenses of mailing, shall, with reasonable promptness, mail such material to all shareholders of record at their addresses as recorded on the books, unless within five business days after such tender the trustees shall mail to such applicants and file with the Commission, together with a copy of the material to be mailed, a written statement signed by at least a majority of the trustees to the effect that in their opinion either such material contains untrue statements of fact or omits to state facts necessary to make the statements contained therein not misleading, or would be in violation of applicable law, and specifying the basis of such opinion.
 
 After opportunity for hearing upon the objections specified in the written statement so filed, the Commission may, and if demanded by the trustees or by such applicants shall, enter an order either sustaining one or more of such objections or refusing to sustain any of them. If the Commission shall enter an order refusing to sustain any of such objections, or if, after the entry of an order sustaining one or more of such objections, the Commission shall find, after notice and opportunity for hearing, that all objections so sustained have been met, and shall enter an order so declaring, the trustees shall mail copies of such material to all shareholders with reasonable promptness after the entry of such order and the renewal of such tender.
 
@@ -30,7 +30,7 @@ After opportunity for hearing upon the objections specified in the written state
 
 #### Amendments
 
-1975—Subsecs. (b), (c). Pub. L. 94–29 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “The foregoing provisions of this section” for “The provisions of subsection (a) of this section” in first sentence.
+1975—Subsecs. (b), (c). Pub. L. 94–29 added subsec. (b), redesignated former subsec. (b) as (c), and substituted“The foregoing provisions of this section” for “The provisions of subsection (a) of this section” in first sentence.
 
 #### Effective Date of 1975 Amendment
 
@@ -39,8 +39,4 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–6, 80a–13, 80a–15, 80a–18, 80a–31, 80a–58 of this title.
 

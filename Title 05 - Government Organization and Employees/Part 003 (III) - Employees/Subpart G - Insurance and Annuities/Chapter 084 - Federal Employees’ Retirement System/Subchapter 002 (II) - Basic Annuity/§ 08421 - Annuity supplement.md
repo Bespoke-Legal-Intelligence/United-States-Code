@@ -14,7 +14,7 @@
 
 &emsp;(B) a fraction, as described in paragraph (3).
 
-(2) The amount under this paragraph for an annuitant is an amount equal to the old-age insurance benefit which would be payable to such annuitant under title II of the Social Security Act (without regard to sections 203, 215(a)(7), and 215(d)(5) of such Act) upon attaining age 62 and filing application therefor, determined as if the annuitant had attained such age and filed application therefor, and were a fully insured individual (as defined in section 214(a) of such Act), onJanuary 1 of the year in which such annuitant's entitlement to any payment under this section commences, except that the reduction of such old-age insurance benefit under section 202(q) of such Act shall be the maximum applicable for an individual born in the same year as the annuitant. In computing the primary insurance amount under section 215 of such Act for purposes of this paragraph, the number of elapsed years (referred to in section 215(b)(2)(B)(iii) of such Act and used to compute the number of benefit computation years) shall not include years beginning with the year in which such annuitant's entitlement to any payment under this section commences, and—
+(2) The amount under this paragraph for an annuitant is an amount equal to the old-age insurance benefit which would be payable to such annuitant under title II of the Social Security Act (without regard to sections 203, 215(a)(7), and 215(d)(5) of such Act) upon attaining age 62 and filing application therefor, determined as if the annuitant had attained such age and filed application therefor, and were a fully insured individual (as defined in section 214(a) of such Act), on January 1 of the year in which such annuitant's entitlement to any payment under this section commences, except that the reduction of such old-age insurance benefit under section 202(q) of such Act shall be the maximum applicable for an individual born in the same year as the annuitant. In computing the primary insurance amount under section 215 of such Act for purposes of this paragraph, the number of elapsed years (referred to in section 215(b)(2)(B)(iii) of such Act and used to compute the number of benefit computation years) shall not include years beginning with the year in which such annuitant's entitlement to any payment under this section commences, and—
 
 &emsp;(A) only basic pay for service performed (if any) shall be taken into account in computing the total wages and self-employment income of the annuitant for a benefit computation year;
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8349, 8420a, 8421a, 8442 of this title; title 22 section 4071d; title 50 section 2154.
 

@@ -4,7 +4,7 @@ Section 312, acts July 31, 1950, ch. 510, §1, 64 Stat. 382; Aug. 13, 1953, ch. 
 
 Section 312a, acts July 31, 1950, ch. 510, §2, 64 Stat. 382; Aug. 13, 1953, ch. 430, §1(3), 67 Stat. 574, covered disposition of electric power produced from Eklutna project, rate and rate schedules, sale preferences, disposition of receipts, and creation of a continuing fund.
 
-Section 312b, act July 31, 1950, ch. 510, §3, 64 Stat. 383, authorized Secretary of the Interior to perform the acts necessary to carry into effect Eklutna project and otherwise set out his powers and duties in connection with project.
+Section 312b, act July 31, 1950, ch. 510, §3, 64 Stat. 383, authorized Secretary of the Interior to perform theacts necessary to carry into effect Eklutna project and otherwise set out his powers and duties in connection with project.
 
 Section 312c, act July 31, 1950, ch. 510, §4, 64 Stat. 383, authorized and directed Secretary to report on feasibility of transferring Eklutna project, upon completion, to public ownership.
 

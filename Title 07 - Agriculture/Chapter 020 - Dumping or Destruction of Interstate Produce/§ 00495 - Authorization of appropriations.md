@@ -8,7 +8,3 @@ There is authorized to be appropriated, out of any moneys in the Treasury not ot
 
 Section constitutes part of section 3 of act Mar. 3, 1927. Remainder of section 3 is classified to sections 494 and 496 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 499c, 499d, 499n of this title.
-

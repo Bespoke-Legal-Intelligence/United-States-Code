@@ -4,7 +4,3 @@ Except as provided in section 129 of this title with respect to certain toll bri
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 129 of this title.
-

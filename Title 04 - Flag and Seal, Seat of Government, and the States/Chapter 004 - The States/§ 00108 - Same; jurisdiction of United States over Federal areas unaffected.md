@@ -4,7 +4,3 @@ The provisions of sections 105–110 of this title shall not for the purposes of
 
 (July 30, 1947, ch. 389, 61 Stat. 645.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 110 of this title.
-

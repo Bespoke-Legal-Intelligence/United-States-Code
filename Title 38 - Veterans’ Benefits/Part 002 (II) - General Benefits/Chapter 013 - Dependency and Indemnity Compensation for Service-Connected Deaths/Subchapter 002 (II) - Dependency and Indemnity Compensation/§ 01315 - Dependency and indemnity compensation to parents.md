@@ -74,7 +74,7 @@
 
 #### References in Text
 
-Section 9(b) of the Veterans’ Pension Act of 1959, referred to in subsec. (f)(1)(C), is section 9(b) of Pub. L. 86–211, Aug. 29, 1959, 73 Stat. 432, which was set out as a Savings Provisions note under section 1521 of this title, and was repealed, effective Jan. 1, 1979, by section 306(b)(1) of Pub. L. 95–588, which is set out as a Savings Provisions for Persons Entitled to Pension as of December 31, 1978: Other Provisions note under section 1521 of this title.
+Section 9(b) of the Veterans’ Pension Act of 1959, referred to in subsec. (f)(1)(C), is section 9(b) of Pub. L. 86–211, Aug. 29, 1959, 73 Stat. 432, which was set out as a Savings Provisions note under section 1521 of this title, and was repealed, effective Jan. 1, 1979, by section306(b)(1) of Pub. L. 95–588, which is set out as a Savings Provisions for Persons Entitled to Pension as of December 31, 1978: Other Provisions note under section 1521 of this title.
 
 The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -120,7 +120,7 @@ Subsec. (g). Pub. L. 102–40 substituted “5312” for “3112”.
 
 Subsec. (f)(1)(G). Pub. L. 97–295, §4(10)(B), substituted “percent” for “per centum”.
 
-1980—Subsec. (f). Pub. L. 96–466 redesignated subsec. (g) as (f). Former subsec. (f), which directed the Administrator, upon ascertaining that there had been overpayments to a parent under this section, to deduct suchoverpayments (unless waived) from any future payments made to such parent under this section, was struck out.
+1980—Subsec. (f). Pub. L. 96–466 redesignated subsec. (g) as (f). Former subsec. (f), which directed the Administrator, upon ascertaining that there had been overpayments to a parent under this section, to deduct such overpayments (unless waived) from any future payments made to such parent under this section, was struck out.
 
 Subsecs. (g), (h). Pub. L. 96–466 redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
@@ -168,7 +168,7 @@ Subsec. (d)(3). Pub. L. 94–432, §301(6), substituted “$4,760” for “$4,5
 
 Subsec. (h). Pub. L. 94–432, §301(7), substituted “$74” for “$69”.
 
-1975—Subsec. (b)(1). Pub. L. 94–169, §201(2), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $123 to $133, substituted $1000 to $1200 for $1000 to $1300, $1200 to $1500 for $1300 to $1600, $1500 to $1700 for $1600 to $1800 and $1700 to $3300 for $2000 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced by 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $1800 to $2000 for which the reduction rate is 7 cents per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3,000 to $3300 the income in excess of which no compensation will be paid.
+1975—Subsec. (b)(1). Pub. L. 94–169, §201(2), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $123 to $133, substituted $1000 to $1200 for $1000 to $1300, $1200 to $1500 for $1300 to $1600, $1500 to $1700 for $1600 to $1800 and $1700 to $3300 for $2000 to $3000, the minimum and maximum income ranges for which the compensationrate will be reduced by 4, 5, 6 and 8 cents per dollar, respectively, struck out the income range of $1800 to $2000 for which the reduction rate is 7 cents per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3,000 to $3300 the income in excess of which no compensation will be paid.
 
 Subsec. (b)(2). Pub. L. 94–169, §201(1), redesignated, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, subsec. (b)(2) as (b)(4), and in subsec. (b)(4) as so redesignated, substituted “such parent has remarried” for “he has remarried”, “with such parent's spouse” for “with his spouse”, “paid to such parent” for “paid to him” and “parent and such parent's spouse” for “parent and his spouse”.
 
@@ -232,7 +232,7 @@ Subsec. (g)(1)(M). Pub. L. 91–588, §8(a), added subpar. (M).
 
 Subsec. (c). Pub. L. 90–275, §2(b), in providing new annual income limits to measure monthly compensation of two parents not living together, reenacted minimum income limit of $800 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $54 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $46, $35, $23, and $12, respectively.
 
-Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to measure monthly compensation of two parents living together, reenacted minimum combined income limit of $1,000 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $3,000, and substituted a sliding scale of payments based on one hundred dollar increments from more than $1,000 to $3,100 for payments of $56 to 11 for former sliding scale based on five hundreddollar increments from more than $1,000 to $3,000 for payments of $58, $46, $35, $23, and $12.
+Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to measure monthly compensation of two parents living together, reenacted minimum combined income limit of $1,000 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $3,000, and substituted a sliding scale of payments based on one hundred dollar increments from more than $1,000 to $3,100 for payments of $56 to 11 for former sliding scale based on five hundred dollar increments from more than $1,000 to $3,000 for payments of $58, $46, $35, $23, and $12.
 
 1966—Subsec. (b). Pub. L. 89–730, §1(a), designated existing subsection as par. (1), and in par. (1) as so designated, substituted reference to subsec. (b)(2) for subsec. (d), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income, and added par. (2).
 
@@ -307,8 +307,4 @@ Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 8
 #### Pension, Dependency, and Indemnity Compensation; Relation to Social Security Amendments of 1967
 
 Payments for balance of calendar year 1968 and calendar year 1969, calendar year 1970, and during each successive calendar year at prescribed monthly rates when payments would be less under this title as a result of increase in monthly insurance benefits provided by Social Security Amendments of 1967, see section 3 of Pub. L. 90–275, set out as a note under section 1521 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1316, 5306, 5312, 5317 of this title; title 26 section 6103; title 42 section 8624.
 

@@ -10,7 +10,3 @@ Based on title 28, U.S.C., 1940 ed., §373 (Mar. 3, 1911, ch. 231, §258, 36 Sta
 
 Changes in phraseology were made.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460 of this title.
-

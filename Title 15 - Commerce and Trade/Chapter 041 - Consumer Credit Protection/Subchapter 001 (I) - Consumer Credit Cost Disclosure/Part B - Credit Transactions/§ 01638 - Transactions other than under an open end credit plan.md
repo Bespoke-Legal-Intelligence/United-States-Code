@@ -36,7 +36,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
 
-&emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of thecredit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
+&emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
 &emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
 
@@ -52,7 +52,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
-(2) In the case of a residential mortgage transaction, as defined in section 1602(w) of this title, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title before the credit is extended, or shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which ever is earlier. If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.
+(2) In the case of a residential mortgage transaction, as defined in section 1602(w) of this title, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures requiredunder subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title before the credit is extended, or shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which ever is earlier. If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
@@ -83,8 +83,4 @@ Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1632, 1640 of this title.
 

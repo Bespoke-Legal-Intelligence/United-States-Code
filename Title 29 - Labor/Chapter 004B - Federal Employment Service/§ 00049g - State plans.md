@@ -58,7 +58,3 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 For history of transfer of functions of United States Employment Service to Secretary of Labor, see note set out under section 49 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49c–1, 2822, 2939, 2942 of this title; title 39 section 3202.
-

@@ -42,9 +42,5 @@ Subsecs. (b), (c). Pub. L. 94–460, §111(b), (c), added subsec. (b), redesigna
 
 Amendment by Pub. L. 94–460 applicable with respect to determinations of the Secretary of Health, Education, and Welfare described in subsec. (a) of this section and made after Oct. 8, 1976, see section 118 of Pub. L. 94–460, set out as a note under section 300e of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1396b of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

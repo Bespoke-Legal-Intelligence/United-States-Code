@@ -14,13 +14,9 @@ The administration, protection, and promotion of Grand Canyon National Park shal
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out inthe Appendix to Title 5, Government Organization and Employees.
 
 #### Special United States Magistrate Judge for Grand Canyon National Park
 
 Appointment by United States District Court for the District of Arizona of a special commissioner \[now United States magistrate judge\] for the Grand Canyon National Park, see Pub. L. 86–258, Sept. 14, 1959, 73 Stat. 546, as amended, formerly set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 221b of this title.
 

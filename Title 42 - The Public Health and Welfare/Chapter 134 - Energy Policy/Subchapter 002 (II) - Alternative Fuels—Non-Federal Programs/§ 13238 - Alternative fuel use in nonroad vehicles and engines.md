@@ -18,7 +18,3 @@ Upon completion of the study required pursuant to subsection (a) of this section
 
 (Pub. L. 102–486, title IV, §412, Oct. 24, 1992, 106 Stat. 2886.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13239 of this title.
-

@@ -26,7 +26,7 @@ In carrying out this subpart, the Director is authorized to make grants to, or e
 
 (2) Funds made available under a grant under paragraph (1) may not be used (either directly or by supplanting non-Federal funds) for advocating or promoting gun control, including making communications that are intended to directly or indirectly affect the passage of Federal, State, or local legislation intended to restrict or control the purchase or use of firearms.
 
-(3) Except as provided in paragraph (4), each firearm safety program that receives funding under this subsection shall provide for evaluations that shall be developed pursuant to guidelines that the Director of the National Institute of Justice of the Department of Justice, in consultation with the Director of the Bureau of Justice Assistance and recognized private entities that have expertise in firearms safety, education and training, shall establish.
+(3) Except as provided in paragraph (4), each firearm safety program that receives fundingunder this subsection shall provide for evaluations that shall be developed pursuant to guidelines that the Director of the National Institute of Justice of the Department of Justice, in consultation with the Director of the Bureau of Justice Assistance and recognized private entities that have expertise in firearms safety, education and training, shall establish.
 
 (4) With respect to a firearm safety program that receives funding under this section, the Director may waive the evaluation requirement described in paragraph (3) if the Director determines that the program—
 

@@ -100,7 +100,3 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as a note under section 1521 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1506, 1508, 1541, 1543, 5123, 5312 of this title; title 42 section 8624.
-

@@ -90,7 +90,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2) high-speed rail may have environmental advantages over certain other forms of intercity transportation;
 
-&emsp;“(3) Amtrak's Metroliner service between Washington, District of Columbia, and New York, New York,the United States premier high-speed rail service, has shown that Americans will use high-speed rail when that transportation option is available;
+&emsp;“(3) Amtrak's Metroliner service between Washington, District of Columbia, and New York, New York, the United States premier high-speed rail service, has shown that Americans will use high-speed rail when that transportation option is available;
 
 &emsp;“(4) new high-speed rail service should not receive Federal subsidies for operating and maintenance expenses;
 
@@ -107,8 +107,4 @@ Findings.—The Congress finds that—
 “(b)
 
 Purpose.—The purpose of this title \[see Short Title of 1994 Amendment note set out under section 20101 of this title\] is to encourage farsighted State, local, and private efforts in the analysis and planning for high-speed rail systems in appropriate intercity corridors.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 26104 of this title.
 

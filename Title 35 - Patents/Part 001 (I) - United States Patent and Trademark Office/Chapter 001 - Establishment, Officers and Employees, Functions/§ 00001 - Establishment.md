@@ -6,7 +6,7 @@ Establishment.—The United States Patent and Trademark Office is established as
 
 (b)
 
-Offices.—The United States Patent and Trademark Office shall maintain its principal office in the metropolitan Washington, D.C., area, for the service of process and papers andfor the purpose of carrying out its functions. The United States Patent and Trademark Office shall be deemed, for purposes of venue in civil actions, to be a resident of the district in which its principal office is located, except where jurisdiction is otherwise provided by law. The United States Patent and Trademark Office may establish satellite offices in such other places in the United States as it considers necessary and appropriate in the conduct of its business.
+Offices.—The United States Patent and Trademark Office shall maintain its principal office in the metropolitan Washington, D.C., area, for the service of process and papers and for the purpose of carrying out its functions. The United States Patent and Trademark Office shall be deemed, for purposes of venue in civil actions, to be a resident of the district in whichits principal office is located, except where jurisdiction is otherwise provided by law. The United States Patent and Trademark Office may establish satellite offices in such other places in the United States as it considers necessary and appropriate in the conduct of its business.
 
 (c)
 
@@ -41,6 +41,10 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle G, §4731\], Nov. 2
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–453, §1, Dec. 10, 2004, 118 Stat. 3596, provided that: “This Act \[amending section 103 of this title and enacting provisions set out as a note under section 103 of this title\] may be cited as the ‘Cooperative Research and Technology Enhancement (CREATE) Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 

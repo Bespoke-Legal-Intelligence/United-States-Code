@@ -50,7 +50,7 @@
 
 #### (4) Application of current standards during accreditation
 
-&emsp;A Bureau-funded school that is seeking accreditation shall remain subject to the standards issued under this section <sup>1</sup> and in effect on the day before January 8, 2002, until such timeas the school is accredited, except that if any of such standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.
+&emsp;A Bureau-funded school that is seeking accreditation shall remain subject to the standards issued under this section <sup>1</sup> and in effect on the day before January 8, 2002, until such time as the school is accredited, except that if any of such standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.
 
 #### (5) Annual report on unaccredited schools
 
@@ -220,7 +220,7 @@
 
 #### (2) Plan
 
-&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards, specific cost estimates for meeting such standards ateach school, and specific timelines for bringing each school up to the level required by such standards.
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards, specific cost estimates for meeting such standards at each school, and specific timelines for bringing each school up to the level required by such standards.
 
 #### (d) Closure or consolidation of schools
 
@@ -308,7 +308,7 @@
 
 #### (ii) No denial based on geographic proximity
 
-&emsp;&emsp;&emsp;With respect to applications described in this subparagraph, the Secretary shall give consideration to all factors described insubparagraph (B), but no such application shall be denied based primarily upon the geographic proximity of comparable public education.
+&emsp;&emsp;&emsp;With respect to applications described in this subparagraph, the Secretary shall give consideration to all factors described in subparagraph (B), but no such application shall be denied based primarily upon the geographic proximity of comparable public education.
 
 #### (B) Factors
 
@@ -362,7 +362,7 @@
 
 &emsp;&emsp;(B) provide assistance to the applicant to overcome the stated objections;
 
-&emsp;&emsp;(C) provide to the applicant a hearing on the record regarding the denial, under the same rules and regulations as apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
+&emsp;&emsp;(C) provide to the applicant a hearing on the record regarding the denial, under thesame rules and regulations as apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
 
 &emsp;&emsp;(D) provide to the applicant a notice of the applicant's appeals rights and an opportunity to appeal the decision resulting from the hearing under subparagraph (D).
 
@@ -423,10 +423,6 @@ The Indian Self-Determination and Education Assistance Act referred to in subsec
 A prior section 2001, Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, §2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, §502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, §2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, §4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, §1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, §312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2005, 2007, 2010, 2015 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,9 +10,9 @@ A wild, scenic or recreational river area eligible to be included in the system 
 
 &emsp;(1) Wild river areas—Those rivers or sections of rivers that are free of impoundments and generally inaccessible except by trail, with watersheds or shorelines essentially primitive and waters unpolluted. These represent vestiges of primitive America.
 
-&emsp;(2) Scenic river areas—Those rivers or sections of rivers that are free of impoundments,with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads.
+&emsp;(2) Scenic river areas—Those rivers or sections of rivers that are free of impoundments, with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads.
 
-&emsp;(3) Recreational river areas—Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that may have undergone some impoundment or diversion in the past.
+&emsp;(3) Recreational river areas—Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that mayhave undergone some impoundment or diversion in the past.
 
 (Pub. L. 90–542, §2, Oct. 2, 1968, 82 Stat. 906; Pub. L. 94–407, §1(1), Sept. 11, 1976, 90 Stat. 1238; Pub. L. 95–625, title VII, §761, Nov. 10, 1978, 92 Stat. 3533.)
 
@@ -25,8 +25,4 @@ The Land and Water Conservation Act of 1965, referred to in subsec. (a), probabl
 1978—Subsec. (a). Pub. L. 95–625 provided for notification of the Federal Energy Regulatory Commission and publication of any application in the Federal Register; made it an expense of the United States for administration and management of federally owned lands; treated amounts available to the States under provisions of law not as an expense of the United States; and made federally owned lands within boundaries of State rivers free of ownership or administration of State or local authority.
 
 1976—Subsec. (a). Pub. L. 94–407 inserted provision for inclusion of specified segment of New River in North Carolina.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1274, 1278, 1283 of this title.
 

@@ -8,7 +8,3 @@ In carrying out the study and investigation authorized by sections 1962d–7 to 
 
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1962d–8, 1962d–9, 1962d–11 of this title.
-

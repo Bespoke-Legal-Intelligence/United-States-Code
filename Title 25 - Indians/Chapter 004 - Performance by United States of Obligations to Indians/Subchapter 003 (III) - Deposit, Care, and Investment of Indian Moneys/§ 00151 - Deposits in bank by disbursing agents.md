@@ -18,7 +18,3 @@ Transfer of disbursement functions of all Government agencies with certain excep
 
 The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 353, 406, 564h, 697, 747 of this title.
-

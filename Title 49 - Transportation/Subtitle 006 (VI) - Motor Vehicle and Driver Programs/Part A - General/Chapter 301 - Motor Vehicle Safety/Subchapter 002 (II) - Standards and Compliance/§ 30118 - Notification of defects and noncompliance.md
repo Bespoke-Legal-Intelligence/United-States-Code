@@ -116,7 +116,3 @@ In general.—A manufacturer” for “A manufacturer”, and by adding a new pa
 
 Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800, provided that: “The amendments made to section 30118 of title 49, United States Code, by section 364 of the Department of Transportation and Related Agencies Appropriations Act, 2001 \[Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37\] are repealed and such section shall be effective as if such amending section had not been enacted.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30102, 30103, 30117, 30119, 30120, 30121, 30141, 30146, 30147, 30162, 30163, 30165, 30166, 30167 of this title.
-

@@ -10,7 +10,3 @@ When two or more agencies of the Department share a common field office, the Sec
 
 (Pub. L. 103–354, title II, §215, Oct. 13, 1994, 108 Stat. 3211.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7031 of this title.
-

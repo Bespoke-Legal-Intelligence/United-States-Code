@@ -14,7 +14,7 @@ Whenever a program or project to be undertaken by a displacing agency will resul
 
 #### (b) Displacement from dwelling; election of payments: expense and dislocation allowance
 
-Any displaced person eligible for payments under subsection (a) of this section who is displaced from a dwelling and who elects to accept the payments authorized by this subsection in lieu of the payments authorized by subsection (a) of this section may receive an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency.
+Any displaced person eligible for payments under subsection (a) of this section who is displaced from a dwelling and who elects to acceptthe payments authorized by this subsection in lieu of the payments authorized by subsection (a) of this section may receive an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency.
 
 #### (c) Displacement from business or farm operation; election of payments; minimum and maximum amounts; eligibility
 
@@ -71,8 +71,4 @@ Subsec. (d). Pub. L. 100–17, §405(d), added subsec. (d).
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4601, 4630 of this title; title 25 section 640d–14.
 

@@ -56,7 +56,3 @@ The Authority shall allocate at least 50 percent of any funds made available und
 
 (Pub. L. 87–128, title III, §382F, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–277.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2009aa–3 of this title.
-

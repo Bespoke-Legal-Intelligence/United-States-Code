@@ -52,7 +52,7 @@ In this chapter—
 
 &emsp;(9) “new line” means a line introduced into commerce after December 31, 1989.
 
-&emsp;(10) “passenger motor vehicle” includes a multipurpose passenger vehicle or light dutytruck when that vehicle or truck is rated at not more than 6,000 pounds gross vehicle weight.
+&emsp;(10) “passenger motor vehicle” includes a multipurpose passenger vehicle or light duty truck when that vehicle or truck is rated at not more than 6,000 pounds gross vehicle weight.
 
 &emsp;(11) “vehicle theft prevention standard” means a minimum performance standard for identifying major parts of new motor vehicles and major replacement parts by inscribing or affixing numbers or symbols on those parts.
 
@@ -155,8 +155,4 @@ Section 6(d) of Pub. L. 104–287 provided that the amendment made by that secti
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32101 of this title.
 

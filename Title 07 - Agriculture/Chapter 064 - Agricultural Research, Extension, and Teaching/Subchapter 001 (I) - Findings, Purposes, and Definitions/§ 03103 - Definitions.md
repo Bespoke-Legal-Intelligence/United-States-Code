@@ -224,7 +224,3 @@ Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided t
 
 &emsp;“(3) the Republic of Palau.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390, 450i, 2027, 2279, 3319, 3352, 3353, 5801, 6711, 7626, 8105 of this title.
-

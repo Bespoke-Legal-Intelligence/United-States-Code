@@ -48,7 +48,7 @@ For purposes of this section a reportable event occurs—
 
 &emsp;&emsp;(C) immediately after the distribution, the plan has nonforfeitable benefits which are not funded;
 
-&emsp;(8) when a plan merges, consolidates, or transfers its assets under section 1058 of thistitle, or when an alternative method of compliance is prescribed by the Secretary of Labor under section 1030 of this title;
+&emsp;(8) when a plan merges, consolidates, or transfers its assets under section 1058 of this title, or when an alternative method of compliance is prescribed by the Secretary of Labor under section 1030 of this title;
 
 &emsp;(9) when, as a result of an event, a person ceases to be a member of the controlled group;
 
@@ -113,10 +113,6 @@ Amendment by Pub. L. 103–465 effective for events occurring 60 days or more af
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1342, 1345, 1365 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

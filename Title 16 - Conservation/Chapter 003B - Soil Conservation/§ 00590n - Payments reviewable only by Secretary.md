@@ -14,7 +14,3 @@ The facts constituting the bases for any payment or grant or the amount thereof 
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 590g of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.
-

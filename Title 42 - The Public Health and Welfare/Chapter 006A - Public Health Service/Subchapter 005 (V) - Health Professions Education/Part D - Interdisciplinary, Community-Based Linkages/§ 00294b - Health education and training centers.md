@@ -36,9 +36,5 @@ A prior section 752 of act July 1, 1944, was classified to section 293p of this 
 
 Another prior section 752 of act July 1, 1944, was classified to section 294u of this title prior to renumbering by Pub. L. 97–35.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 294g of this title; title 20 section 1092a.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

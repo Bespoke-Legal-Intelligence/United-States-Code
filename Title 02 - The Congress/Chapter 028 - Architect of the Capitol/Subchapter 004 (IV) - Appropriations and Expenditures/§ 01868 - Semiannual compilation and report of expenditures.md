@@ -12,7 +12,7 @@ Section was classified to section 162b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
+1976—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
 
 #### Termination of Reporting Requirements
 

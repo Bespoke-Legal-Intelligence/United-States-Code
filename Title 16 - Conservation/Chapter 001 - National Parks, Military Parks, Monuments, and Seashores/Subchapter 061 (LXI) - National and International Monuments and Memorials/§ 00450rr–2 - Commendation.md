@@ -4,7 +4,3 @@ The Congress of the United States highly commends the members of the joint inter
 
 (Pub. L. 99–513, §4, Oct. 21, 1986, 100 Stat. 2083.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450rr, 450rr–1, 450rr–3, 450rr–4, 450rr–6 of this title.
-

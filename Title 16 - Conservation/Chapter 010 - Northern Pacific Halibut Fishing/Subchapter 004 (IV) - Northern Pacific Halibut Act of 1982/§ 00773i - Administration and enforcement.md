@@ -14,7 +14,7 @@ Any officer who is authorized by the Secretary, the Secretary of the department 
 
 &emsp;&emsp;(B) board, and search or inspect, any fishing vessel which is subject to this subchapter;
 
-&emsp;&emsp;(C) at reasonable times enter, and search or inspect, shoreside facilities in which fishtaken subject to this subchapter are processed, packed or held;
+&emsp;&emsp;(C) at reasonable times enter, and search or inspect, shoreside facilities in which fish taken subject to this subchapter are processed, packed or held;
 
 &emsp;&emsp;(D) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, an act prohibited by section 773e of this title;
 
@@ -28,7 +28,7 @@ Any officer who is authorized by the Secretary, the Secretary of the department 
 
 #### (c) Citation of owner or operator of offending vessel
 
-If any officer authorized to enforce this subchapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in the commission of an act prohibited by section 773e of this title, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this subchapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+If any officer authorized to enforce this subchapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in the commission of an act prohibited by section 773e of this title, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vesselin lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this subchapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 #### (d) United States district court jurisdiction
 
@@ -65,8 +65,4 @@ When requested by the appropriate authorities of Canada, officers or employees o
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 773h of this title.
 

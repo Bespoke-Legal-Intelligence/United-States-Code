@@ -68,13 +68,13 @@ Programs that receive assistance under this subchapter shall establish and strin
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of thistitle. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
 1998—Subsec. (d). Pub. L. 105–277 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Section 142(b) of the Job Training Partnership Act shall apply to the projects conducted under this subchapter as such projects were conducted under the Job Training Partnership Act.”
 
-1993—Subsec. (b)(3)(B). Pub. L. 103–82, §117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage inactivities that will supplant the hiring of employed workers.”
+1993—Subsec. (b)(3)(B). Pub. L. 103–82, §117(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “A participant in any program receiving assistance under this subchapter shall not perform any services or duties or engage in activities that will supplant the hiring of employed workers.”
 
 Subsec. (b)(3)(C)(iii). Pub. L. 103–82, §117(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “employee who is subject to a reduction in force;”.
 
@@ -85,8 +85,4 @@ Subsec. (c). Pub. L. 103–82, §402(b)(1), substituted “Corporation” for �
 Amendment by section 117 of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 Amendment by section 402(b)(1) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12525, 12526, 12544, 12561, 12583, 12632, 12636, 12653c, 12656 of this title; title 16 section 1728.
 

@@ -12,11 +12,11 @@ Status.—Amtrak—
 
 (b)
 
-Principal Office and Place of Business.—The principal office and place of businessof Amtrak are in the District of Columbia. Amtrak is qualified to do business in each State in which Amtrak carries out an activity authorized under this part. Amtrak shall accept service of process by certified mail addressed to the secretary of Amtrak at its principal office and place of business. Amtrak is a citizen only of the District of Columbia when deciding original jurisdiction of the district courts of the United States in a civil action.
+Principal Office and Place of Business.—The principal office and place of business of Amtrak are in the District of Columbia. Amtrak is qualified to do business in each State in which Amtrak carries out an activity authorized under this part. Amtrak shall accept service of process by certified mail addressed to the secretary of Amtrak at its principal office and place of business. Amtrak is a citizen only of the District of Columbia when deciding original jurisdiction of the district courts of the United States in a civil action.
 
 (c)
 
-Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, except for sections 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
+Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, except for sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
 
 (d)
 
@@ -76,13 +76,13 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 &emsp;(B) a car that does not provide for the discharge of human waste only at a servicing facility shall be removed from service after that date.
 
-(2) Section 361 of the Public Health Service Act (42 U.S.C. 264) and other laws of the United States, States, and local governments do not apply to waste disposal from rail carrier vehicles operated in intercity rail passenger transportation. The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this paragraphand may grant equitable or declaratory relief requested by Amtrak.
+(2) Section 361 of the Public Health Service Act (42 U.S.C. 264) and other laws of the United States, States, and local governments do not apply to waste disposal from rail carrier vehicles operated in intercity rail passenger transportation. The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this paragraph and may grant equitable or declaratory relief requested by Amtrak.
 
 (n)
 
 Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303.)
 
 Historical and Revision Notes
 
@@ -254,6 +254,8 @@ The District of Columbia Business Corporation Act, referred to in subsec. (e), i
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–199 inserted “11123,” after “except for sections”.
+
 1997—Subsec. (a)(1). Pub. L. 105–134, §401(1), substituted “railroad carrier under section 20102(2) and chapters 261 and 281” for “rail carrier under section 10102”.
 
 Subsec. (a)(3). Pub. L. 105–134, §415(d)(1), inserted “, and shall not be subject to title 31” after “United States Government”.
@@ -316,5 +318,5 @@ Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided tha
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 
-Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National RailroadPassenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
+Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
 

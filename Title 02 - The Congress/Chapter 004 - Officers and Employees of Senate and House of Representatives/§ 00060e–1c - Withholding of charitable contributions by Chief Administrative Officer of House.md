@@ -46,11 +46,7 @@ Section is based on section 1 of House Resolution No. 12, Ninety-fifth Congress,
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(5)(A)(i), substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–186, §204(5)(A)(i), substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
 Subsecs. (b), (d). Pub. L. 104–186, §204(5)(A)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 60e–1d of this title.
 

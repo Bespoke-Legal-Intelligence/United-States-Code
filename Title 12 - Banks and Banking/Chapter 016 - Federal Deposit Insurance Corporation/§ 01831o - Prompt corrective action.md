@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) any dividend consisting only of shares of the institution or company or rights to purchase such shares; or
 
-&emsp;&emsp;&emsp;&emsp;(II) any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agency determines is not a distribution for purposes of this section;
+&emsp;&emsp;&emsp;&emsp;(II) any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agencydetermines is not a distribution for purposes of this section;
 
 &emsp;&emsp;&emsp;(ii) a payment by an insured depository institution or company to repurchase, redeem, retire, or otherwise acquire any of its shares or other ownership interests, including any extension of credit to finance an affiliated company's acquisition of those shares or interests; or
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevantcapital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -416,7 +416,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60 days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
+&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
 
 #### (B) Exceptions
 
@@ -658,7 +658,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(A) to become adequately capitalized, to the extent that the order is based on the institution's capital level or failure to submit or implement a capital restoration plan; and
 
-&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to theextent that the order is based on subsection (g)(1) of this section.
+&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
 
 #### (<i>o</i>) Transition rules for savings associations
 
@@ -698,7 +698,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductoryprovisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
 
 Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
 
@@ -742,7 +742,7 @@ In General.—The appropriate Federal banking agency may, by order, permit an in
 
 &emsp;“(1) the institution—
 
-&emsp;&emsp;“(A) had its principal place of business within an area in which the President, pursuant to section 401of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination;
+&emsp;&emsp;“(A) had its principal place of business within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination;
 
 &emsp;&emsp;“(B) derives more than 60 percent of its total deposits from persons who normally reside within, or whose principal place of business is normally within, areas of intense devastation caused by the major disaster;
 
@@ -809,8 +809,4 @@ Restricting compensation.—Section 38(f)(4) of the Federal Deposit Insurance Ac
 &emsp;“(A) after that date of enactment, or
 
 &emsp;“(B) to evade section 38(f)(4).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 24a, 347b, 371d, 1464, 1790d, 1817, 1818, 1820, 1821, 1828, 1831f, 1831i, 1831p–1, 1831u, 1835, 1841, 1842, 4806 of this title; title 15 section 1607.
 

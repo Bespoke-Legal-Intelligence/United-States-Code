@@ -6,7 +6,7 @@ The Secretary shall, by regulation and under such conditions as to sanitary stan
 
 &emsp;(1) retail dealers with respect to poultry products sold directly to consumers in individual retail stores, if the only processing operation performed by such retail dealers is the cutting up of poultry products on the premises where such sales to consumers are made;
 
-&emsp;(2) for such period of time as the Secretary determines that it would be impracticable to provide inspection and the exemption will aidin the effective administration of this chapter, any person engaged in the processing of poultry or poultry products for commerce and the poultry or poultry products processed by such person: <i>Provided, however</i>, That no such exemption shall continue in effect on and after January 1, 1970; and
+&emsp;(2) for such period of time as the Secretary determines that it would be impracticable to provide inspection and the exemption will aid in the effective administration of this chapter, any person engaged in the processing of poultry or poultry products for commerce and the poultry or poultry products processed by such person: <i>Provided, however</i>, That no such exemption shall continue in effect on and after January 1, 1970; and
 
 &emsp;(3) persons slaughtering, processing, or otherwise handling poultry or poultry products which have been or are to be processed as required by recognized religious dietary laws, to the extent that the Secretary determines necessary to avoid conflict with such requirements while still effectuating the purposes of this chapter.
 
@@ -28,7 +28,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 > The exemptions provided for in clauses (C) and (D) above shall not apply if the poultry producer or other person engages in the current calendar year in the business of buying or selling any poultry or poultry products other than as specified in such clauses.
 
-(2) In addition to the specific exemptions provided herein, the Secretary shall, when he determines that the protection of consumers from adulterated or misbranded poultry products will not be impaired by such action, provide by regulation, consistent with subparagraph (3), for the exemption of the operation and products of small enterprises (including poultry producers), not exempted under subparagraph (1), which are engaged in any State or Territory or the District of Columbia in slaughtering and/or cutting up poultry for distribution as carcasses or parts thereof solely for distribution within such jurisdiction, from such provisions of this chapter as he deems appropriate, while still protecting the public from adulterated or misbranded products, under such conditions, including sanitary requirements, as he shall prescribe to effectuate the purposes of this chapter.
+(2) In addition to the specific exemptions provided herein, the Secretary shall, when he determines that the protection of consumers from adulterated or misbranded poultry products will not be impaired by such action, provide by regulation, consistent with subparagraph (3), for theexemption of the operation and products of small enterprises (including poultry producers), not exempted under subparagraph (1), which are engaged in any State or Territory or the District of Columbia in slaughtering and/or cutting up poultry for distribution as carcasses or parts thereof solely for distribution within such jurisdiction, from such provisions of this chapter as he deems appropriate, while still protecting the public from adulterated or misbranded products, under such conditions, including sanitary requirements, as he shall prescribe to effectuate the purposes of this chapter.
 
 (3) No exemption under subparagraph (1)(C) or (D) or subparagraph (2) shall apply to any poultry producer or other person who, in the current calendar year—
 
@@ -78,13 +78,9 @@ Amendment by Pub. L. 90–492 effective upon the expiration of sixty days after 
 
 #### Regulations
 
-Section 1016(c) of Pub. L. 102–237 provided that: “No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) of the Federal Meat Inspection Act \[21 U.S.C. 623(c)\] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act \[21 U.S.C. 464(d)\] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and food safety issues raised by the granting of each of the exemptions.”
+Section 1016(c) of Pub. L. 102–237 provided that: “No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) of the Federal Meat Inspection Act \[21 U.S.C. 623(c)\] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act \[21 U.S.C. 464(d)\] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and foodsafety issues raised by the granting of each of the exemptions.”
 
 #### Studies Concerning Grant of Future Exemptions for Poultry and Meat Food Products
 
 Section 1016(d) of Pub. L. 102–237 directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 454 of this title.
 

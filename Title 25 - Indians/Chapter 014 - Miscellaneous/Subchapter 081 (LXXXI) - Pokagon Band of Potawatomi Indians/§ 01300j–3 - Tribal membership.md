@@ -4,7 +4,3 @@ Not later than 18 months after September 21, 1994, the Band shall submit to the 
 
 (Pub. L. 103–323, §4, Sept. 21, 1994, 108 Stat. 2153.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300j–8 of this title.
-

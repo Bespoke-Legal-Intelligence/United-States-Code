@@ -11,7 +11,7 @@
 | (e) | Assignment of actions. |
 | [253\.](%C2%A7%2000253%20-%20Compromise%20and%20waiver.md) | Compromise and waiver. |
 | (a) | Compromise of certain existing claims under the Fair Labor Standards Act of 1938, the Walsh-Healey Act, or the Bacon-Davis Act; limitations. |
-| (b) | Waiver of liquidated damages under the Fair Labor Standards Act of 1938. |
+| (b) | Waiver of liquidated damages under Fair Labor Standards Act of 1938. |
 | (c) | Satisfaction. |
 | (d) | Retroactive effect of section. |
 | (e) | “Compromise” defined. |

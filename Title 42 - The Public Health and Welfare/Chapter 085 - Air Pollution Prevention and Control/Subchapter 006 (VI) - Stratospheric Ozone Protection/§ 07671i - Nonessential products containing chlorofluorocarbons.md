@@ -26,7 +26,7 @@ Effective 24 months after November 15, 1990, it shall be unlawful for any person
 
 #### (d) Other products
 
-(1) Effective January 1, 1994, it shall be unlawful for any person to sell or distribute, or offer for sale or distribution, in interstate commerce—
+(1) Effective January 1, 1994, it shall be unlawful for any person to sell or distribute, or offerfor sale or distribution, in interstate commerce—
 
 &emsp;(A) any aerosol product or other pressurized dispenser which contains a class II substance; or
 

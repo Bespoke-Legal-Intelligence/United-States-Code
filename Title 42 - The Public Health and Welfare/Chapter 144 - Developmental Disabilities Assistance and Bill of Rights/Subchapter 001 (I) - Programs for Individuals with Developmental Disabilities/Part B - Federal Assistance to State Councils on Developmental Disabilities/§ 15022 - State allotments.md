@@ -22,7 +22,7 @@
 
 #### (2) Adjustments
 
-&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the total sums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
+&emsp;The Secretary may make adjustments in the amounts of State allotments based on clauses (i), (ii), and (iii) of paragraph (1)(A) not more often than annually. The Secretary shall notify each State of any adjustment made under this paragraph and the percentage of the totalsums appropriated under section 15029 of this title that the adjusted allotment represents not later than 6 months before the beginning of the fiscal year in which such adjustment is to take effect.
 
 #### (3) Minimum allotment for appropriations less than or equal to $70,000,000
 
@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which the total amount appropriated under section 15029 of this titlefor a fiscal year is more than $70,000,000, the allotment under this section for such fiscal year—
+&emsp;&emsp;In any case in which the total amount appropriated under section 15029 of this title for a fiscal year is more than $70,000,000, the allotment under this section for such fiscal year—
 
 &emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands may not be less than $220,000; and
 
@@ -108,9 +108,5 @@ If a State plan approved in accordance with section 15024 of this title provides
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–154, §3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1,2003 and apply to allotments beginning in fiscal year 2004.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15023, 15024, 15026, 15027, 15029, 15042 of this title.
+Pub. L. 108–154, §3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2003 and apply to allotments beginning in fiscal year 2004.”
 

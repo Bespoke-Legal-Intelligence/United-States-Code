@@ -16,7 +16,7 @@ In accordance with regulations issued under this section—
 
 &emsp;(3) each person who acquires, either directly or indirectly, unprocessed timber originating from public lands in a State that is subject to an order issued by the Secretary of Commerce under section 620c(a) of this title, other than a State that is administering and enforcing a program under section 620c(d) of this title, shall report the receipt and disposition of the timber to the Secretary of Commerce, in such form as the Secretary may by rule prescribe, except that nothing in this paragraph shall be construed to hold any person responsible for reporting the disposition of any timber held by subsequent persons; and
 
-&emsp;(4) each person who transfers to another person unprocessed timber originating from public lands in a State that is subject to an order issued by the Secretary of Commerce under section 620c(a) of this title, other than a State that is administering and enforcing a program under section 620c(d) of this title, shall, before completing the transfer—
+&emsp;(4) each person who transfers to another person unprocessed timber originating from public lands in a State that is subject to an order issued by the Secretary of Commerce undersection 620c(a) of this title, other than a State that is administering and enforcing a program under section 620c(d) of this title, shall, before completing the transfer—
 
 &emsp;&emsp;(A) provide to such other person a written notice, in such form as the Secretary of Commerce may prescribe, that shall identify the public lands from which the timber originated; and
 
@@ -135,8 +135,4 @@ Subsec. (d)(1). Pub. L. 105–83, §603(2), inserted subpar. (A) designation and
 Subsec. (c)(1). Pub. L. 103–45, §3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c)(2). Pub. L. 103–45, §3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 620f of this title.
 

@@ -6,9 +6,5 @@ The President shall take immediate initiatives to invite all nuclear supplier an
 
 #### Delegation of Functions
 
-Secretary of State responsible for performing functions vested in President under this section, see section2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3223, 3281 of this title; title 42 section 2160.
+Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
 

@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 974, §9, 70 Stat. 1051.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2553.
-

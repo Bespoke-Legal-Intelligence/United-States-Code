@@ -50,7 +50,7 @@ The remedies established by the Convention and this chapter shall be in addition
 
 (Pub. L. 100–300, §4, Apr. 29, 1988, 102 Stat. 438.)
 
-#### Section Referred to in Other Sections
+#### References in Text
 
-This section is referred to in sections 11604, 11605, 11607 of this title.
+This chapter, referred to in subsecs. (f) to (h), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under section 11601 of this title and Tables.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Education debt reduction payments under the Education Debt Reduction Program shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in section 7682(a)(2) of this title.
+In General.—Education debt reduction payments under the Education Debt ReductionProgram shall consist of payments to individuals selected to participate in the program of amounts to reimburse such individuals for payments by such individuals of principal and interest on loans described in section 7682(a)(2) of this title.
 
 (b)
 
@@ -31,8 +31,4 @@ Maximum Annual Amount.—(1) Subject to paragraph (2), the amount of education d
 &emsp;“(B) $8,000 for the second year of the participant's participation in the Program; and
 
 &emsp;“(C) $10,000 for the third year of the participant's participation in the Program”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7631 of this title.
 

@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Mar. 3, 1877, ch. 106 (words after 2d semicolon in 3d par. under heading “Miscellaneous”), 19 Stat. 370.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 8 section 1363a; title 15 section 2076; title 19 section 2081; title 26 section 7608; title 42 sections 242b, 282, 285a–2, 285b–3, 299c–5, 300cc–41, 2473.
-

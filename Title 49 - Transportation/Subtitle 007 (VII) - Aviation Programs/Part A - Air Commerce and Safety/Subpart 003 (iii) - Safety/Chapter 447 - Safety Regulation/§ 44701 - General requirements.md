@@ -54,7 +54,7 @@ In general.—Notwithstanding the provisions of this chapter, the Administrator,
 
 &emsp;(2)
 
-Relinquishment and acceptance of responsibility.—The Administrator relinquishes responsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
+Relinquishment and acceptance of responsibility.—The Administrator relinquishesresponsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
 
 &emsp;(3)
 
@@ -314,7 +314,7 @@ Pub. L. 105–170, Apr. 24, 1998, 112 Stat. 47, provided that:
 
 #### “SEC. 2. MEDICAL KIT EQUIPMENT AND TRAINING.
 
-“Not later than 1 year after the date of the enactment of this Act \[Apr. 24, 1998\], the Administrator of the Federal Aviation Administration shall reevaluate regulations regarding: (1) the equipment required to be carried in medical kits of aircraft operated by air carriers; and (2) the training required of flight attendants in the use of such equipment, and, if the Administrator determines that such regulations should be modified as a result of such reevaluation, shall issue a notice of proposed rulemaking to modify such regulations.
+“Not later than 1 year after the date of the enactment of this Act \[Apr. 24, 1998\], the Administrator of the Federal Aviation Administration shall reevaluateregulations regarding: (1) the equipment required to be carried in medical kits of aircraft operated by air carriers; and (2) the training required of flight attendants in the use of such equipment, and, if the Administrator determines that such regulations should be modified as a result of such reevaluation, shall issue a notice of proposed rulemaking to modify such regulations.
 
 #### “SEC. 3. REPORTS REGARDING DEATHS ON AIRCRAFT.
 
@@ -395,8 +395,4 @@ Liability of Individuals.—An individual shall not be liable for damages in any
 &emsp;“(2) the term ‘major air carrier’ means an air carrier certificated under section 41102 of title 49, United States Code, that accounted for at least 1 percent of domestic scheduled-passenger revenues in the 12 months ending March 31 of the most recent year preceding the date of the enactment of this Act \[Apr. 24, 1998\], as reported to the Department of Transportation pursuant to part 241 of title 14 of the Code of Federal Regulations; and
 
 &emsp;“(3) the term ‘medically qualified individual’ includes any person who is licensed, certified, or otherwise qualified to provide medical care in a State, including a physician, nurse, physician assistant, paramedic, and emergency medical technician.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44704, 44711, 44717, 45302, 46310, 47531 of this title.
 

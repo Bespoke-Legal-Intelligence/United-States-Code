@@ -4,7 +4,3 @@ Two or more States may cooperate in administering and coordinating their plans a
 
 (Pub. L. 89–182, §7, Sept. 14, 1965, 79 Stat. 681.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1352, 1356, 1358, 1360 of this title.
-

@@ -8,7 +8,3 @@ The Secretary of the Interior is hereby authorized to proclaim new Indian reserv
 
 This Act, referred to in text, is act June 18, 1934, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 473, 473a, 1300i–1, 2719 of this title.
-

@@ -8,7 +8,3 @@ The Secretary may at any time convene a board of officers to review the record o
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 322, 323, 324, 327 of this title.
-

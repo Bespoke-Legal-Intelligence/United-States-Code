@@ -14,7 +14,3 @@ Section 33: That portion of the northwest quarter northwest quarter, more partic
 
 (Pub. L. 88–235, §1, Dec. 23, 1963, 77 Stat. 473.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111d, 111e of this title.
-

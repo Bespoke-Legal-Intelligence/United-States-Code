@@ -118,24 +118,24 @@
 | (c) | Treatment of certain annuities and trusts. |
 | (d) | Limitation. |
 | [37a.](%C2%A7%2000037a%20-%20Definitions.md) | Definitions. |
+| [37b.](%C2%A7%2000037b%20-%20Confirmation%20of%20antitrust%20status%20of%20graduate%20medical%20resident%20matching%20programs.md) | Confirmation of antitrust status of graduate medical resident matching programs. |
+| (a) | Findings and purposes. |
+| (b) | Application of antitrust laws to graduate medical education residency matching programs. |
+| (c) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Historical Note
 
-This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the “Expediting Act”, sections 28 and 29 of this title, and the “Hart-Scott-Rodino Antitrust Improvements Act of 1976”, comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
+This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13,14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the “Expediting Act”, sections 28 and 29 of this title, and the “Hart-Scott-Rodino Antitrust Improvements Act of 1976”, comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
 
 #### Congressional Investigation of Monopoly
 
-Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which wasauthorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee's report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
+Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee's report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
 
 #### Executive Order No. 12022
 
 Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 12052, Apr. 7, 1978, 43 F.R. 15133, which related to the National Commission for the Review of Antitrust Laws and Procedures, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
-
-#### Antitrust Acts and Laws Defined in Other Sections
-
-Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 4002, 4021, 4301, 6211 of this title; title 10 section 7430; title 12 sections 1828, 1831u, 1841, 1849; title 16 section 2602; title 17 section 109; title 28 section 1407; title 30 sections 184, 1413; title 33 section 1502; title 40 section 559; title 42 sections 5417, 5909, 6202, 8235f, 9102; title 43 sections 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 sections 10706, 41308; title 50 App. sections 1941a, 2158.
 
 
 ---
@@ -197,3 +197,4 @@ Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 
 - [&sect; 00036 - Recovery of damages, etc., for antitrust violations on claim against person based on official action directed by local government, or&#8230;](%C2%A7%2000036%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20on%20claim%20against%20person%20based%20on%20official%20action%20directed%20by%20local%20government%2C%20or%E2%80%A6.md)
 - [&sect; 00037 - Immunity from antitrust laws](%C2%A7%2000037%20-%20Immunity%20from%20antitrust%20laws.md)
 - [&sect; 00037a - Definitions](%C2%A7%2000037a%20-%20Definitions.md)
+- [&sect; 00037b - Confirmation of antitrust status of graduate medical resident matching programs](%C2%A7%2000037b%20-%20Confirmation%20of%20antitrust%20status%20of%20graduate%20medical%20resident%20matching%20programs.md)

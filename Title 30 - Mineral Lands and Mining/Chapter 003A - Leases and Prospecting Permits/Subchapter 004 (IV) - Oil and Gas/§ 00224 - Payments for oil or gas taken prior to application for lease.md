@@ -4,7 +4,3 @@ Until the permittee shall apply for lease to the one quarter of the permit area 
 
 (Feb. 25, 1920, ch. 85, §15, 41 Stat. 442.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 7421, 7435.
-

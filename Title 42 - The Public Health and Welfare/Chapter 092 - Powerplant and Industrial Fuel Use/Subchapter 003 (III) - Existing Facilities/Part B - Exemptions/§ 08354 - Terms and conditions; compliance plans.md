@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions generally
 
-Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b) of this section) shall be designed to insure that upon the expiration of such exemption, the persons and powerplantcovered by such exemption will comply with the applicable prohibitions.
+Any exemption from any prohibition under this part shall be on such terms and conditions as the Secretary determines appropriate, including terms and conditions requiring the use of effective fuel conservation measures which are practicable and consistent with the purposes of this chapter. In the case of any temporary exemption, the terms and conditions (which may include a compliance plan meeting the requirements of subsection (b) of this section) shall be designed to insure that upon the expiration of such exemption, the persons and powerplant covered by such exemption will comply with the applicable prohibitions.
 
 #### (b) Compliance plans
 
@@ -21,8 +21,4 @@ A compliance plan meets the requirements of this subsection if it is approved by
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
 For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8351 of this title.
 

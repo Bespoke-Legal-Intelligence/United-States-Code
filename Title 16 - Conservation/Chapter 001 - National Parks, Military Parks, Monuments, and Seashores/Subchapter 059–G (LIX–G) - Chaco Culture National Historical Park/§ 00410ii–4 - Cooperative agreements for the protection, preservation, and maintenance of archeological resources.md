@@ -4,7 +4,3 @@ The Secretary shall seek to enter into cooperative agreements with the owners, i
 
 (Pub. L. 96–550, title V, §505, Dec. 19, 1980, 94 Stat. 3229.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410ii–3 of this title.
-

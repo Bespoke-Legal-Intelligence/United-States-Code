@@ -4,7 +4,7 @@
 
 In addition to any other grant or contract under this chapter, the Secretary may make grants to, or enter into contracts with, Papa Ola Lokahi for—
 
-&emsp;(1) coordination, implementation, and updating (as appropriate) of the comprehensivehealth care master plan developed pursuant to section 11703 of this title;
+&emsp;(1) coordination, implementation, and updating (as appropriate) of the comprehensive health care master plan developed pursuant to section 11703 of this title;
 
 &emsp;(2) training for the persons described in section 11705(c)(1)(B) of this title;
 
@@ -39,8 +39,4 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 #### Amendments
 
 1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to assignment of personnel.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11707 of this title.
 

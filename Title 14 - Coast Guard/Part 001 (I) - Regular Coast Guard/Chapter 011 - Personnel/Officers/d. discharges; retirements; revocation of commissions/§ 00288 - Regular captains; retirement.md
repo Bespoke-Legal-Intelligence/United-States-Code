@@ -32,7 +32,3 @@ Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirem
 
 Section 3(a) of Pub. L. 88–130 excluded officers subject to retirement under this section during the fiscal year the selection board convened from being continued on active duty.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 190, 289 of this title.
-

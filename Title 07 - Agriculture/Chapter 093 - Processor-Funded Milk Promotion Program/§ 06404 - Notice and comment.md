@@ -4,7 +4,3 @@ Not later than 60 days after the Secretary receives a request for the issuance o
 
 (Pub. L. 101–624, title XIX, §1999E, Nov. 28, 1990, 104 Stat. 3916.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6405 of this title.
-

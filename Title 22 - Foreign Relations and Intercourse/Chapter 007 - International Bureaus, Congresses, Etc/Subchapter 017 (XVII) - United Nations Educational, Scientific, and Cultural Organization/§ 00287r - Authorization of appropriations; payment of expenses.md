@@ -42,7 +42,3 @@ Pub. L. 97–241, title I, §109, Aug. 24, 1982, 96 Stat. 276, provided that:
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 109(b) of Pub. L. 97–241, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 130 of House Document No. 103–7.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 272a, 280b, 280i, 280k, 287e, 290b, 1928 of this title.
-

@@ -1,10 +1,12 @@
 ### §102. Compensation of the President
 
-The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which expense allowance no accounting, other than for income tax purposes, shall be made by him. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
+The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
 
 #### Amendments
+
+2004—Pub. L. 108–199 substituted “. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President.” for “, for which expense allowance no accounting, other than for income tax purposes, shall be made by him.”
 
 1999—Pub. L. 106–58 substituted “$400,000” for “$200,000”.
 
@@ -62,13 +64,13 @@ Form and Availability of Estimates.—The estimates made under subsection (a) sh
 
 #### Presidential Transition Act of 1963
 
-Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035, provided: “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
+Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856, provided: “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
 
 #### “purpose of this act
 
 “
 
-Sec. 2. The Congress declares it to be the purpose of this Act to promote the orderly transfer of the executive power in connection with the expiration of the term of office of a President and the inauguration of a new President. The national interest requires that such transitions in the office of President be accomplished so as to assure continuity in the faithful execution of the laws and in the conduct of the affairs of the FederalGovernment, both domestic and foreign. Any disruption occasioned by the transfer of the executive power could produce results detrimental to the safety and well-being of the United States and its people. Accordingly, it is the intent of the Congress that appropriate actions be authorized and taken to avoid or minimize any disruption. In addition to the specific provisions contained in this Act directed toward that purpose, it is the intent of the Congress that all officers of the Government so conduct the affairs of the Government for which they exercise responsibility and authority as (1) to be mindful of problems occasioned by transitions in the office of President, (2) to take appropriate lawful steps to avoid or minimize disruptions that might be occasioned by the transfer of the executive power, and (3) otherwise to promote orderly transitions in the office of President.
+Sec. 2. The Congress declares it to be the purpose of this Act to promote the orderly transfer of the executive power in connection with the expiration of the term of office of a President and the inauguration of a new President. The national interest requires that such transitions in the office of President be accomplished so as to assure continuity in the faithful execution of the laws and in the conduct of the affairs of the Federal Government, both domestic and foreign. Any disruption occasioned by the transfer of the executive power could produce results detrimental to the safety and well-being of the United States and its people. Accordingly, it is the intent of the Congress that appropriate actions be authorized and taken to avoid or minimize any disruption. In addition to the specific provisions contained in this Act directed toward that purpose, it is the intent of the Congress that all officers of the Government so conduct the affairs of the Government for which they exercise responsibility and authority as (1) to be mindful of problems occasioned by transitions in the office of President, (2) to take appropriate lawful steps to avoid or minimize disruptions that might be occasioned by the transfer of the executive power, and (3) otherwise to promote orderly transitions in the office of President.
 
 #### “services and facilities authorized to be provided to presidents-elect and vice-presidents-elect
 
@@ -100,11 +102,13 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;&emsp;“(II) are department or agency experts from the Office of Management and Budget or an Office of Inspector General of a department or agency; or
 
-&emsp;&emsp;“(III) are relevant staff from the General Accounting Office.
+&emsp;&emsp;“(III) are relevant staff from the Government Accountability Office.
 
 &emsp;“(iii) Activities under this paragraph may include training or orientation in records management to comply with section 2203 of title 44, United States Code, including training on the separation of Presidential records and personal records to comply with subsection (b) of that section.
 
 &emsp;“(iv) Activities under this paragraph may include training or orientation in human resources management and performance-based management.
+
+&emsp;“(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of military force. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
 &emsp;“(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect intends to nominate as department heads or appoint to key positions in the Executive Office of the President.
 
@@ -124,11 +128,15 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 “(c) The terms ‘President-elect’ and ‘Vice-President-elect’ as used in this Act shall mean such persons as are the apparent successful candidates for the office of President and Vice President, respectively, as ascertained by the Administrator following the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
 
-“(d) Each President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him in connection with his preparations for the assumption of official duties as President, and such mail matter shall be transmitted as penalty mail as provided in title 39, United States Code, section 4152 \[now section 3202 of title 39\]. Each Vice-President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him under his written autograph signature in connection with his preparations for the assumption of official duties as Vice President.
+“(d) Each President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him in connection with his preparations for the assumption of official duties as President, and such mail matter shall be transmitted as penalty mail as provided in title 39, United States Code, section 4152 \[now section 3202 of title 39\]. Each Vice-President-elect shallbe entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him under his written autograph signature in connection with his preparations for the assumption of official duties as Vice President.
 
 “(e) Each President-elect and Vice-President-elect may designate to the Administrator an assistant authorized to make on his behalf such designations or findings of necessity as may be required in connection with the services and facilities to be provided under this Act. Not more than 10 per centum of the total expenditures under this Act for any President-elect or Vice-President-elect may be made upon the basis of a certificate by him or the assistant designated by him pursuant to this section that such expenditures are classified and are essential to the national security, and that they accord with the provisions of subsections (a), (b), and (d) of this section.
 
-“(f) In the case where the President-elect is the incumbent President or in the case where the Vice-President-elect is the incumbent Vice President, there shall be no expenditures of funds for the provision of services and facilities to such incumbent under this Act, and any funds appropriated for such purposes shall be returned to the general funds of the Treasury.
+“(f)(1) The President-elect should submit to the Federal Bureau of Investigation or other appropriate agency and then, upon taking effect and designation, to the agency designated by the President under section 115(b) of the National Intelligence Reform Act of 2004 \[probably should be section 3001(c) of Pub. L. 108–458, 50 U.S.C. 435b(c)\], the names of candidates for high level national security positions through the level of undersecretary of cabinet departments as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+
+“(2) The responsible agency or agencies shall undertake and complete as expeditiously as possible the background investigations necessary to provide appropriate security clearances to the individuals who are candidates described under paragraph (1) before the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
+
+“(g) In the case where the President-elect is the incumbent President or in the case where the Vice-President-elect is the incumbent Vice President, there shall be no expenditures of funds for the provision of services and facilities to such incumbent under this Act, and any funds appropriated for such purposes shall be returned to the general funds of the Treasury.
 
 #### “services and facilities authorized to be provided to former presidents and former vice presidents
 
@@ -174,6 +182,8 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 “(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
 
+\[Pub. L. 108–458, title VII, §7601(d), Dec. 17, 2004, 118 Stat. 3858, provided that: “Notwithstanding section 351 \[Pub. L. 108–458 does not contain a section 351\], this section \[enacting provisions set out as a note under section 435b of Title 50, War and National Defense, and amending section 3 of Pub. L. 88–277, set out above\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Dec. 17, 2004\].”\]
+
 \[Pub. L. 100–398, §2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) of this section \[renumbering and amending section 6 of Pub. L. 88–277, set out above\] shall be effective upon enactment \[Aug. 17, 1988\], except that the amendment made by paragraph (7) of such subsection \[enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above\] shall take effect on October 1, 1989.”\]
 
 \[Pub. L. 94–499, §3, Oct. 14, 1976, 90 Stat. 2380, provided that amendment of section 5 of Pub. L. 88–277 \[set out above\] by section 1 of Pub. L. 94–499, respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.\]
@@ -184,7 +194,11 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
-Provisions prohibiting expenditure of funds made available for official expenses for any other purpose, requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552, and providing that none of the funds made available for official expenses shall be considered as taxable to the President were contained in the following appropriation acts:
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552 were contained in the following appropriation acts:
+
+Pub. L. 108–447, div. H, title III, Dec. 8, 2004, 118 Stat. 3246.
+
+Pub. L. 108–199, div. F, title III, Jan. 23, 2004, 118 Stat. 321.
 
 Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 442.
 
@@ -236,11 +250,11 @@ Pub. L. 96–74, title III, Sept. 29, 1979, 93 Stat. 563.
 
 #### Former Presidents; Allowance; Selection, Compensation, and Status of Office Staff; Office Space; Widow's Allowance, Termination; “Former President” Defined
 
-Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, §124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, §224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, §7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, §6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, §1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, §6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, §531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, §523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, §409(a), Oct. 10, 1997, 111 Stat. 1299, provided that:
+Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, §124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, §224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, §7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, §6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, §1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, §6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, §531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, §523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, §409(a), Oct. 10, 1997, 111 Stat. 1299; Pub. L. 108–447, div. H, title V, §526, Dec. 8, 2004, 118 Stat. 3271, provided that:
 
 “(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 
-“(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 of title 5, United States Code.
+“(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 of title 5, United States Code. Amounts provided for ‘Allowances and Office Staff for Former Presidents’ may be used to pay fees of an independent contractor who is not a member of the staff of the office of a former President for the review of Presidential records of a former President in connection with the transfer of such records to the National Archives and Records Administration or a Presidential Library without regard to the limitation on staff compensation set forth herein.
 
 “(c) The Administrator of General Services shall furnish for each former President suitable office space appropriately furnished and equipped, as determined by the Administrator, at such place within the United States as the former President shall specify.
 
@@ -275,8 +289,4 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 #### Former President Eisenhower; Allowance; Compensation of Office Staff; Widow's Pension
 
 Allowance to former President Eisenhower as precluding entitlement to pay of General of the Army, compensation of office staff to former President to be reduced by pay of military assistants to the General of the Army, and benefits of widow of former President unaffected by restoration of military status, see Appointment of General of the Army note under former sections 1691 to 1697 of Title 50, Appendix, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1091; title 20 section 1018; title 31 section 3524; title 38 section 7437; title 49 section 106.
 

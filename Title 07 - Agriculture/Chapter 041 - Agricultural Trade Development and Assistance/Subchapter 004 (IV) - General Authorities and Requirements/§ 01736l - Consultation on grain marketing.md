@@ -6,7 +6,7 @@ Congress encourages the Secretary of Agriculture, in coordination with other app
 
 #### Codification
 
-Section was enacted as part of the Agriculture and Food Act of 1981, and not as part of the Agricultural Trade Development and Assistance Act of 1954 which comprises this chapter.
+Section was enacted as part of the Agriculture and Food Act of 1981, and not as part of the AgriculturalTrade Development and Assistance Act of 1954 which comprises this chapter.
 
 #### Effective Date
 

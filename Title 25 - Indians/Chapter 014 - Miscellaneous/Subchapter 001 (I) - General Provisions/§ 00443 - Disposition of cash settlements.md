@@ -12,7 +12,3 @@ Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfa
 
 Funds in the revolving fund authorized by these Acts, and certain other sums, to be administered after Apr. 12, 1974, as a single Indian Revolving Loan Fund, see section 1461 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1461 of this title.
-

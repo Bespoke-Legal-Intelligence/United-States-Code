@@ -26,7 +26,3 @@ The Commission shall report to the Congress and to the Office of Management and 
 
 Section effective Jan. 1, 1988, see section 5429 of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 3712 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3712 of this title.
-

@@ -34,7 +34,7 @@
 
 #### (b) Conspicuous statement; label statement format; outdoor billboard statement format
 
-(1) Each label statement required by paragraph (1) of subsection (a) of this section shall be located in the place label statements were placed on cigarette packages as of October 12, 1984. The phrase “Surgeon General's Warning” shall appear in capital letters and the size of all other letters in the label shall be the same as the size of such letters as of October 12, 1984. All the letters in the label shall appear in conspicuous and legible type in contrast by typography, layout, or color with all other printed material on the package.
+(1) Each label statement required by paragraph (1) of subsection (a) of this section shall be located in the place label statements were placed on cigarette packages as of October 12,1984. The phrase “Surgeon General's Warning” shall appear in capital letters and the size of all other letters in the label shall be the same as the size of such letters as of October 12, 1984. All the letters in the label shall appear in conspicuous and legible type in contrast by typography, layout, or color with all other printed material on the package.
 
 (2) The format of each label statement required by paragraph (2) of subsection (a) of this section shall be the format required for label statements in cigarette advertising as of October 12, 1984, except that the phrase “Surgeon General's Warning” shall appear in capital letters, the area of the rectangle enclosing the label shall be 50 per centum larger in size with a corresponding increase in the size of the type in the label, the width of the rule forming the border around the label shall be twice that in effect on October 12, 1984, and the label may be placed at a distance from the outer edge of the advertisement which is one-half the distance permitted on October 12, 1984. Each label statement shall appear in conspicuous and legible type in contrast by typography, layout, or color with all other printed material in the advertisement.
 
@@ -78,7 +78,7 @@ Section 11(c) of Pub. L. 99–92 provided that:
 
 “(1) The amendments made by subsection (a) \[probably refers to undesignated par. preceding subsec. (b), amending this section\] shall take effect October 12, 1985, except that—
 
-&emsp;“(A) on and after the date of the enactment of this Act \[Aug. 16, 1985\] a manufacturer or importer of cigarettes may apply to the Federal Trade Commission to have the label rotation specified in section 4(c)(2) of the Federal Cigarette Labeling and Advertising Act \[subsec. (c)(2) of this section\], as amended by subsection (a), apply to its brand styles of cigarettes and the Commission may take action on such an application, and
+&emsp;“(A) on and after the date of the enactment of this Act \[Aug. 16, 1985\] a manufacturer or importer of cigarettes may apply to the Federal Trade Commission to have the label rotation specified in section 4(c)(2) of the Federal Cigarette Labeling and Advertising Act \[subsec. (c)(2) of this section\], as amendedby subsection (a), apply to its brand styles of cigarettes and the Commission may take action on such an application, and
 
 &emsp;“(B) a manufacturer or importer of cigarettes may elect to have the amendments apply at an earlier date or dates selected by the manufacturer or importer.
 
@@ -91,8 +91,4 @@ Section 4(b) of Pub. L. 98–474 provided that: “The amendment made by subsect
 #### Effective Date of 1970 Amendment
 
 Section 3 of Pub. L. 91–222 provided in part that: “Section 4 of the amendment made by this Act \[amending this section\] shall take effect on the first day of the seventh calendar month which begins after the date of the enactment of this Act \[Apr. 1, 1970\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1334, 1336 of this title; title 19 section 1681a.
 

@@ -24,11 +24,11 @@ The Congress finds and declares that—
 
 (Pub. L. 101–630, title III, §302, Nov. 28, 1990, 104 Stat. 4532.)
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–278, §1, July 22, 2004, 118 Stat. 868, provided that: “This Act \[enacting section 3115a of this title\] may be cited as the ‘Tribal Forest Protection Act of 2004’.”
+
 #### Short Title
 
 Section 301 of title III of Pub. L. 101–630 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Indian Forest Resources Management Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3108 of this title.
 

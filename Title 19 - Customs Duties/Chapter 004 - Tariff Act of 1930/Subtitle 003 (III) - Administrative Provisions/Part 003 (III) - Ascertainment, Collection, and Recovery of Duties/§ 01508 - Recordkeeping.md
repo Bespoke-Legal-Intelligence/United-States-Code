@@ -66,7 +66,7 @@ Any—
 
 &emsp;&emsp;&emsp;&emsp;(II) learns of the existence of such a Certificate for the article;
 
-&emsp;&emsp;&nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II),must disclose the occurrence to the Customs Service.
+&emsp;&emsp;&nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
 
 #### (iii) Action on claim
 
@@ -182,7 +182,7 @@ Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as a
 
 Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe.” See Construction of 1993 Amendment note below.
 
-Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
+Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) readas follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
 
@@ -209,8 +209,4 @@ Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by s
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 81c, 1311, 1312, 1313, 1509, 1520, 1553a, 1562, 1592 of this title.
 

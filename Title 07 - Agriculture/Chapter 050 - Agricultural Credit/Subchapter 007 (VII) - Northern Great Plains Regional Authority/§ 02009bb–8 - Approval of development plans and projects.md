@@ -26,7 +26,3 @@ On certification by a State member of the Authority of an application for a gran
 
 (Pub. L. 87–128, title III, §383I, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 386.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009bb–1, 2009bb–2, 2009bb–3 of this title.
-

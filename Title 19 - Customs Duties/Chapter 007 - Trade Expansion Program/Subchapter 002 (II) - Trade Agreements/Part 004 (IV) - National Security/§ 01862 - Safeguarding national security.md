@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on decrease or elimination of duties or other import restrictions if such reduction or elimination would threaten to impair national security
 
-No action shall be taken pursuant to section 1821(a) of this title or pursuant to section 1351 ofthis title to decrease or eliminate the duty or other import restrictions on any article if the President determines that such reduction or elimination would threaten to impair the national security.
+No action shall be taken pursuant to section 1821(a) of this title or pursuant to section 1351 of this title to decrease or eliminate the duty or other import restrictions on any article if the President determines that such reduction or elimination would threaten to impair the national security.
 
 #### (b) Investigations by Secretary of Commerce to determine effects on national security of imports of articles; consultation with Secretary of Defense and other officials; hearings; assessment of defense requirements; report to President; publication in Federal Register; promulgation of regulations
 
@@ -178,6 +178,8 @@ IN WITNESS WHEREOF, I have hereunto set my hand this 22nd day of December, in th
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+\[The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
+
 #### Ex. Ord. No. 11703. Assigning Policy Development and Directing Functions Respecting Oil Import Control Program
 
 Ex. Ord. No. 11703, Feb. 7, 1973, 38 F.R. 3579, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, provided:
@@ -204,27 +206,9 @@ Sec. 6. So much of the personnel, property, records, and unexpended balances of 
 
 Ex. Ord. No. 11743, Oct. 23, 1973, 38 F.R. 29459, formerly set out as a note under this section, which related to the continuation of the Oil Policy Committee, was superseded by Ex. Ord. No. 11775, Mar. 26, 1974, 39 F.R. 11415.
 
-#### Ex. Ord. No. 12538. Imports of Refined Petroleum Products From Libya
+#### Executive Order No. 12538
 
-Ex. Ord. No. 12538, Nov. 15, 1985, 50 F.R. 47527, provided:
-
-By the authority vested in me as President by the Constitution and laws of the United States, including Section 504 of the International Security and Development Cooperation Act of 1985 (Public Law 99–83) \[22 U.S.C. 2349aa–8\], and considering that the Libyan government actively pursues terrorism as an instrument of state policy and that Libya has developed significant capability to export petroleum products and thereby circumvent the prohibition imposed by Proclamation No. 4907 of March 10, 1982 \[amending Proc. No. 3279 formerly set out above\] and retained in Proclamation No. 5141 of December 22, 1983 \[set out above\] on the importation of Libyan crude oil it is ordered as follows:
-
-Section 1. (a) No petroleum product refined in Libya (except petroleum product loaded aboard maritime vessels at any time prior to two days after the effective date of this Executive Order) may be imported into the United States, its territories or possessions.
-
-(b) For the purposes of this Executive Order, the prohibition on importation of petroleum products refined in Libya shall apply to petroleum products which are currently classifiable under Item Numbers: 475.05; 475.10; 475.15; 475.25; 475.30; 475.35; 475.45; 475.65; 475.70 of the Tariff Schedules of the United States (19 U.S.C. 1202).
-
-Sec. 2. The Secretary of the Treasury may issue such rulings and instructions, or, following consultation with the Secretaries of State and Energy, such regulations as he deems necessary to implement this Order.
-
-Sec. 3. This Order shall be effective immediately.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-\[The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1339, 2137, 2463, 2703, 3203 of this title; title 50 App. sections 2077, 2152.
+Ex. Ord. No. 12538, Nov. 15, 1985, 50 F.R. 47527, which related to imports of refined petroleum products from Libya, was revoked by Ex. Ord. No. 13357, Sept. 20, 2004, 69 F.R. 56665, set out as a note under section 1701 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> So in original. There are two subsecs. designated (d). Second subsec. (d) probably should be designated (e).</i>
 

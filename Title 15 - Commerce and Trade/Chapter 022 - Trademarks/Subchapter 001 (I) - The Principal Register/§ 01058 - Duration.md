@@ -34,7 +34,7 @@ The Director shall notify any owner who files 1 of the affidavits required by th
 
 #### (f) Designation of resident for service of process and notices
 
-If the registrant is not domiciled in the United States, the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+If the registrant is not domiciled in the United States, the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person acopy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 (July 5, 1946, ch. 540, title I, §8, 60 Stat. 431; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §105, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(3), Nov. 2, 2002, 116 Stat. 1906.)
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of theTrademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
+Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
@@ -101,10 +101,6 @@ Pub. L. 105–330, title I, §102, Oct. 30, 1998, 112 Stat. 3064, provided that:
 #### Pending Applications
 
 Act July 5, 1946, ch. 540, title XI, §51, as added Nov. 16, 1988, Pub. L. 100–667, title I, §135, 102 Stat. 3948, provided that: “All certificates of registration based upon applications for registration pending in the Patent and Trademark Office on the effective date of the Trademark Law Revision Act of 1988 \[see Effective Date of 1988 Amendment note set out under section 1051 of this title\] shall remain in force for a period of 10 years.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1059 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
 

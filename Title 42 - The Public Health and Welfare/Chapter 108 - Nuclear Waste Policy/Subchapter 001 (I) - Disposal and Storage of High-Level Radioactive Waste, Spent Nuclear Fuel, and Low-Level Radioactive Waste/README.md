@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—DISPOSAL AND STORAGE OF HIGH-LEVEL RADIOACTIVE WASTE, SPENT NUCLEAR FUEL, AND LOW-LEVEL RADIOACTIVE WASTE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 10222, 10225 of this title.
-
 
 ---
 

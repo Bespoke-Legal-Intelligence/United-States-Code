@@ -52,7 +52,3 @@ Amendment by Pub. L. 103–252 effective Oct. 1, 1994, see section 314 of Pub. L
 
 Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8621 of this title.
-

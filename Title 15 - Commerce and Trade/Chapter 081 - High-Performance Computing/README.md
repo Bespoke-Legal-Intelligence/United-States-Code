@@ -70,6 +70,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—DEPARTMENT OF ENERGY HIGH-END COMPUTING REVITALIZATION
+
+|  |  |
+| :--- | ---: |
+| [5541\.](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/%C2%A7%2005541%20-%20Definitions.md) | Definitions. |
+| [5542\.](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/%C2%A7%2005542%20-%20Department%20of%20Energy%20high-end%20computing%20research%20and%20development%20program.md) | Department of Energy high-end computing research and development program. |
+| (a) | In general. |
+| (b) | Program. |
+| (c) | Leadership systems facilities. |
+| (d) | High-End Software Development Center. |
+| [5543\.](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/%C2%A7%2005543%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -80,3 +94,4 @@
 - [&sect; 05503 - Definitions](%C2%A7%2005503%20-%20Definitions.md)
 - [Subchapter 001 (I) - High-Performance Computing and the National Research and Education Network](Subchapter%20001%20%28I%29%20-%20High-Performance%20Computing%20and%20the%20National%20Research%20and%20Education%20Network/README.md)
 - [Subchapter 002 (II) - Agency Activities](Subchapter%20002%20%28II%29%20-%20Agency%20Activities/README.md)
+- [Subchapter 003 (III) - Department of Energy High-End Computing Revitalization](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/README.md)

@@ -50,7 +50,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(C) at the time of closing, potable water, sanitary sewage disposal, and electricity have been extended to the lot or the unit of local government is obligated to install such facilities within one hundred and eighty days, and, for subdivisions which do not have a central water or sewage disposal system, rather than installation of water or sewer facilities, there must be assurances that an adequate potable water supply is available year-round and that the lot is approved for the installation of a septic tank;
 
-&emsp;&emsp;(D) the contract of sale requires delivery of a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant which warrants that the grantor has not conveyed the lot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him) to the purchaser within one hundred and eighty days after the signing of the sales contract;
+&emsp;&emsp;(D) the contract of sale requires delivery of a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant which warrants that the grantor has not conveyed thelot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him) to the purchaser within one hundred and eighty days after the signing of the sales contract;
 
 &emsp;&emsp;(E) at the time of closing, a title insurance binder or a title opinion reflecting the condition of the title shall be in existence and issued or presented to the purchaser or lessee showing that, subject only to such exceptions as may be approved in writing by the purchaser or lessee at the time of closing, marketable title to the lot is vested in the seller or lessor;
 
@@ -86,7 +86,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;&emsp;(A) the principal residence of the purchaser or lessee is within the same standard metropolitan statistical area, as defined by the Office of Management and Budget, as the lot purchased or leased;
 
-&emsp;&emsp;(B) the lot is free and clear of liens (such as mortgages, deeds of trust, tax liens, mechanics liens, or judgments) at the time of the signing of the contract or agreement and until a deed is delivered to the purchaser or the lease expires. As used in this subparagraph, the term “liens” does not include (i) United States land patents and similar Federal grants or reservations, (ii) property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, (iii) taxes and assessments imposed by a State, by any other public body having authority to assess and tax property, or by a property owners’ association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, or (iv) other interests described in regulations prescribed by the Secretary;
+&emsp;&emsp;(B) the lot is free and clear of liens (such as mortgages, deeds of trust, tax liens, mechanics liens, or judgments) at the time of the signing of the contract or agreement and until a deed is delivered to the purchaser or the lease expires. As used in this subparagraph, the term “liens” does not include (i) United States land patents and similar Federal grants or reservations, (ii) property reservations which land developers commonly convey or dedicate to local bodies or public utilities for the purpose of bringing public services to the land being developed, (iii) taxes and assessments imposed by a State, by any other public body having authorityto assess and tax property, or by a property owners’ association, which, under applicable State or local law, constitute liens on the property before they are due and payable or beneficial property restrictions which would be enforceable by other lot owners or lessees in the subdivision, or (iv) other interests described in regulations prescribed by the Secretary;
 
 &emsp;&emsp;(C) the purchaser or lessee (or spouse thereof) has made a personal on-the-lot inspection of the lot to be purchased or leased;
 
@@ -129,8 +129,4 @@ Subsecs. (b), (c). Pub. L. 95–557, §907(b)(1), (2), added subsec. (b) and red
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–153 effective on effective date of regulations implementing such amendment, but in no case later than six months following Dec. 21, 1979, except that subsec. (b)(7) shall be effective on Dec. 21, 1979, see section 410 of Pub. L. 96–153, set out as a note under section 1701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1703, 1708 of this title.
 

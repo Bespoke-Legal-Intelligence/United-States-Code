@@ -54,9 +54,5 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 Amendment by Pub. L. 99–195 applicable only to tolls and other receipts of the Commission deposited in the Treasury on or after Dec. 23, 1985, see section 2 of Pub. L. 99–195, set out as a note under section 3712 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3721, 3751 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

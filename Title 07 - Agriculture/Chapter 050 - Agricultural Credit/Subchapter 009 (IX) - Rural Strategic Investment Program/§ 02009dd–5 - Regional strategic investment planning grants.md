@@ -52,7 +52,3 @@ The total amount of a planning grant made to a Regional Board shall not exceed $
 
 (Pub. L. 87–128, title III, §385F, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 407.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2009dd–1, 2009dd–2, 2009dd–4 of this title.
-

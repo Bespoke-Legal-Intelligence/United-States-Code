@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 R.S. §1753 (less last 16 words).
 
-The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
+The words “civil service in the executive branch” are substituted for “civil service of the United States” toconfirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -64,43 +64,7 @@ Policy.—It shall be the policy of the United States Government to—
 
 #### Temporary Measures To Facilitate Reemployment of Certain Displaced Federal Employees
 
-Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, provided that:
-
-“(a)
-
-Definitions.—For the purpose of this section—
-
-&emsp;“(1) the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United States Code), excluding the General Accounting Office and the Department of Defense; and
-
-&emsp;“(2) the term ‘displaced employee’ means any individual who is—
-
-&emsp;&emsp;“(A) an employee of the Department of Defense who has been given specific notice that such employee is to be separated due to a reduction in force; or
-
-&emsp;&emsp;“(B) a former employee of the Department of Defense who was involuntarily separated therefrom due to a reduction in force.
-
-“(b)
-
-Method of Consideration.—In accordance with regulations which the Office of Personnel Management shall prescribe, consistent with otherwise applicable provisions of law, an agency shall, in filling a vacant position for which a qualified displaced employee has applied in timely fashion, give full consideration to the application of the displaced employee before selecting any candidate from outside the agency for the position.
-
-“(c)
-
-Limitation.—A displaced employee is entitled to consideration in accordance with this section for the 24-month period beginning on the date such employee receives the specific notice referred to in subsection (a)(2)(A), except that, if the employee is separated pursuant to such notice, the right to such consideration shall continue through the end of the 24-month period beginning on the date of separation.
-
-“(d)
-
-Applicability.—(1) This section shall apply to any individual who—
-
-&emsp;“(A) became a displaced employee within the 12-month period ending immediately before the date of the enactment of this Act \[Oct. 23, 1992\]; or
-
-&emsp;“(B) becomes a displaced employee on or after the date of the enactment of this Act and before October 1, 1997.
-
-“(2) In the case of a displaced employee described in paragraph (1)(A), for purposes of computing any period of time under subsection (c), the date of the specific notice described in subsection (a)(2)(A) (or, if the employee was separated as described in subsection (a)(2)(B) before the date of enactment of this Act, the date of separation) shall be deemed to have occurred on such date of enactment.
-
-“(3) Nothing in this section shall be considered to apply with respect to any position—
-
-&emsp;“(A) which has been filled as of the date of enactment of this Act; or
-
-&emsp;“(B) which has been excepted from the competitive service because of its confidential, policy-determining, policy-making or policy-advocating character.”
+Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, directed executive agencies and the Department of Defense, in filling vacant positions, to give full consideration to the applications of certain individuals who became displaced employees before Oct. 1, 1997, before selecting any candidate from outside the agency for the position.
 
 #### National Advisory Council on the Public Service
 
@@ -168,7 +132,7 @@ Number and Appointment.—The Council shall be composed of 15 members as follows
 
 “(b)
 
-Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
+Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to aGovernment office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
 
 “(c)
 
@@ -266,11 +230,11 @@ By virtue of the authority vested in me by section 1 of the act of November 26, 
 
 Section 1. All offices and positions in the executive civil service of the United States except (1) those that are temporary, (2) those expressly excepted from the provisions of section 1 of the said act of November 26, 1940, (3) those excepted from the classified service under Schedules A and B of the Civil Service Rules, and (4) those which now have a classified status, are hereby covered into the classified civil service of the Government.
 
-Section 2. Section 1 of this order shall become effective on January 1, 1942, except that as to positions affected thereby which are vacant at any time after June30, 1941, and before January 1, 1942, it shall become effective when the vacancies first exist during such period, and appointments to such vacant positions shall be made in accordance with the Civil Service Rules as amended by section 3 of this order, unless prior express permission is given by the Office of Personnel Management for appointment without regard thereto.
+Section 2. Section 1 of this order shall become effective on January 1, 1942, except that as to positions affected thereby which are vacant at any time after June 30, 1941, and before January 1, 1942, it shall become effective when the vacancies first exist during such period, and appointments to such vacant positions shall be made in accordance with the Civil Service Rules as amended by section 3 of this order, unless prior express permission is given by the Office of Personnel Management for appointment without regard thereto.
 
 Section 3. (a) Upon consideration of the report of the Committee on Civil Service Improvement (House Document No. 118, 77th Congress) appointed by Executive Order No. 8044 of January 31, 1939, it is hereby found and determined that the regulations and procedures hereinafter prescribed in this section with respect to attorney positions in the classified civil service are required by the conditions of good administration.
 
-(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
+(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalitiesof the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
 
 (c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance with the general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
 
@@ -298,7 +262,7 @@ Section 5. Persons who on the effective date of section 1 of this order are on f
 
 Section 6. (a) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position (other than a temporary position) which is covered into the classified civil service under section 1 of this order, shall be reinstated in such position or to a position of like seniority, status, and pay in the same department or agency, and may, upon reinstatement, acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, (2) that he makes application for reinstatement within 90 days after termination of his service with the armed forces or of hospitalization continuing after discharge for a period of not more than one year, and (3) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
-(b) Any person who, in order to perform active service with the military or naval forces of the United States,has left a position in any department or agency (other than a temporary position) which is covered into the classified civil service under section 1 of this order, may, upon his applications and upon the request of the head of the same or any other department or agency, be reinstated in any position for which the Office finds he is qualified, and upon reinstatement shall acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, and (2) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
+(b) Any person who, in order to perform active service with the military or naval forces of the United States, has left a position in any department or agency (other than a temporary position) which is covered into the classified civil service under section 1 of this order, may, upon his applications and upon the request of the head of the same or any other department or agency, be reinstated in any position for which the Office finds he is qualified, and upon reinstatement shall acquire a classified civil-service status: <i>Provided</i>, (1) that he has been honorably discharged from the military or naval service, and (2) that he qualifies in such suitable noncompetitive examination as the Office may prescribe.
 
 Section 7. Executive Order No. 8044 of January 31, 1939, is hereby revoked so far as it applies to positions covered into the classified civil service by this order.
 
@@ -308,7 +272,7 @@ Ex. Ord. No. 9367, Aug. 4, 1943, 8 F.R. 11017, which prohibited, with certain ex
 
 #### Ex. Ord. No. 10577. Civil Service Rules
 
-Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10641, Oct. 26, 1955, 20 F.R. 8137; Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327 Jan. 23, 1956; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 10869, Mar. 9, 1960, 25 F.R. 2073; Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729; Ex. Ord. No. 11839, Feb. 15, 1975, 40 F.R. 7351; Ex. Ord. No. 11856, May 7, 1975, 40 F.R. 20259; Ex. Ord. No. 11887, Nov. 4, 1975, 40 F.R. 51411; Ex. Ord. No. 11935; Sept. 2, 1976, 41 F.R. 37301; Ex. Ord. No. 12021, Nov. 30, 1977, 42 F.R. 61237; Ex. Ord. No. 12043, Mar. 7, 1978, 43 F.R. 9773; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683; Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521; Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515; Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519; Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103; Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853; provided:
+Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10641, Oct. 26, 1955,20 F.R. 8137; Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327 Jan. 23, 1956; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 10869, Mar. 9, 1960, 25 F.R. 2073; Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729; Ex. Ord. No. 11839, Feb. 15, 1975, 40 F.R. 7351; Ex. Ord. No. 11856, May 7, 1975, 40 F.R. 20259; Ex. Ord. No. 11887, Nov. 4, 1975, 40 F.R. 51411; Ex. Ord. No. 11935; Sept. 2, 1976, 41 F.R. 37301; Ex. Ord. No. 12021, Nov. 30, 1977, 42 F.R. 61237; Ex. Ord. No. 12043, Mar. 7, 1978, 43 F.R. 9773; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683; Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521; Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515; Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519; Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103; Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853; provided:
 
 #### PART I—CIVIL SERVICE RULES
 
@@ -354,7 +318,7 @@ As used in these Rules:
 
 (b) In addition to the names of persons who qualify in competitive examinations, the names of persons who have lost eligibility on a career or career-conditional register because of service in the armed forces, and the names of persons who lost opportunity for certification or who have served under career or career-conditional appointment when the Office determines that they should be given certification, may also be entered at such places on appropriate registers and under such conditions as the Office may prescribe.
 
-(c) Whenever the Office of Personnel Management (1) is unable to certify a sufficient number of names to permit the appointing officer to consider three eligibles for appointment to a fourth-class postmaster position in accordance with the regular procedure, or (2) finds that a particular rate of compensation for fourth-classpostmaster positions is too low to warrant regular competitive examinations for such positions, it may authorize appointment to any such position or positions in accordance with such procedure as may be prescribed by the Office. Persons appointed under this subsection may acquire competitive status subject to satisfactory completion of a probationary period prescribed by the Office.
+(c) Whenever the Office of Personnel Management (1) is unable to certify a sufficient number of names to permit the appointing officer to consider three eligibles for appointment to a fourth-class postmaster position in accordance with the regular procedure, or (2) finds that a particular rate of compensation for fourth-class postmaster positions is too low to warrant regular competitive examinations for such positions, it may authorize appointment to any such position or positions in accordance with such procedure as may be prescribed by the Office. Persons appointed under this subsection may acquire competitive status subject to satisfactory completion of a probationary period prescribed by the Office.
 
 #### §2.2. Appointments
 
@@ -532,7 +496,7 @@ In addition to authorizing the recruitment and appointment of persons to oversea
 
 #### §8.2. Appointment of United States Citizens
 
-United States citizens may be recruited overseas for appointment to overseas positions in the competitive service without regard to the competitive requirements of the Civil Service Act. Persons so recruited who meet the qualification standards and other requirements of the Office for overseas positions may be given appointments to be known as “overseas limited appointments.” Such appointments shall be of temporary or indefinite duration, and shall not confer the right to acquire a competitive status. The Office may authorize overseas limited appointments for United States citizens recruited within the continental limits of the United States whenever it determines that it is not feasible to appoint from a civil-service register. Persons serving under appointments made pursuant to this section are hereby excluded from the operation of the Civil Service Retirement Act of May 29, 1930, as amended \[section 8301 et seq. of this title\], unless eligible for retirement benefits by continuity of service or otherwise.
+United States citizens may be recruited overseas for appointment to overseas positions in the competitive service without regard to the competitive requirements of the Civil Service Act. Persons so recruited who meet the qualification standards and other requirements of the Office for overseas positions may be given appointments to be known as “overseas limited appointments.” Such appointments shall be of temporary or indefinite duration, and shall not confer the right to acquire a competitive status. The Office may authorize overseas limited appointments for United States citizens recruited within the continental limits of theUnited States whenever it determines that it is not feasible to appoint from a civil-service register. Persons serving under appointments made pursuant to this section are hereby excluded from the operation of the Civil Service Retirement Act of May 29, 1930, as amended \[section 8301 et seq. of this title\], unless eligible for retirement benefits by continuity of service or otherwise.
 
 #### §8.3. Appointment of Persons Not Citizens of the United States
 
@@ -558,7 +522,7 @@ The Director of the Office of Personnel Management may require all Executive age
 
 For purposes of this rule—
 
-(a) “agency” means an Executive agency as defined in Rule IX, but does not include a Government corporation or the General Accounting Office; and
+(a) “agency” means an Executive agency as defined in Rule IX, but does not include a Government corporation or the General Accounting Office \[now Government Accountability Office\]; and
 
 (b) “merit system principles” means the principles for Federal personnel management that are set forth in section 2301(b) of title 5, United States Code.
 
@@ -634,7 +598,7 @@ Ex. Ord. No. 10880, June 7, 1960, 25 F.R. 5131, as amended by Ex. Ord. No. 12107
 
 #### Executive Order No. 10925
 
-Ex. Ord. No. 10925, Mar. 7, 1961, 26 F.R. 1977, as amended by Ex. Ord. No. 11114, June 24, 1963, 28 F.R. 6485; Ex.Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which established the President's Committee on Equal Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 10925, Mar. 7, 1961, 26 F.R. 1977, as amended by Ex. Ord. No. 11114, June 24, 1963, 28 F.R. 6485; Ex. Ord. No. 11162, July 28, 1964, 29 F.R. 10563, which established the President's Committee on Equal Employment Opportunity, was superseded by Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, set out as a note under section 2000e of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 11114
 
@@ -848,7 +812,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 11935, Sept. 2, 1976, 41 F.R. 37301, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America,including Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, Civil Service Rule VII (5 CFR Part 7) is hereby amended by adding thereto the following new section:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Sections 3301 and 3302 of Title 5 of the United States Code, and as President of the United States of America, Civil Service Rule VII (5 CFR Part 7) is hereby amended by adding thereto the following new section:
 
 #### “Section 7.4. Citizenship
 
@@ -862,7 +826,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Ex. Ord. No. 11955, Jan. 10, 1977, 42 F.R. 2499, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 3301 of title 5 of the United States Code \[this section\], and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3301 of title 5 of the United States Code \[this section\],and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. The appointment of a Command Pilot, Pilot or Mission Specialist candidate to a position in the Space Shuttle Astronaut Program of the National Aeronautics and Space Administration, which is listed under Schedule B of the Schedule of Excepted Positions, may be converted to career or career-conditional appointment if:
 
@@ -1024,7 +988,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
@@ -1150,7 +1114,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13318, Nov. 21, 2003, 68 F.R. 66317, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including sections 3301 and 3302 of title 5, United States Code, and in order to provide for the recruitment and selection of outstanding employees for service in public sector management, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and in order to provide for the recruitment and selection of outstanding employees for service in public sector management, it is hereby ordered as follows:
 
 Section 1. There is hereby constituted the Presidential Management Fellows Program. The purpose of the Program is to attract to the Federal service outstanding men and women from a variety of academic disciplines and career paths who have a clear interest in, and commitment to, excellence in the leadership and management of public policies and programs. Individuals selected for the Program shall be known as Presidential Management Fellows (PMFs) or Senior Presidential Management Fellows (Senior PMFs).
 
@@ -1195,8 +1159,4 @@ Sec. 7. Executive Order 12364 \[formerly set out above\] is superseded, except a
 Sec. 8. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3304, 3361 of this title; title 25 section 2a.
 

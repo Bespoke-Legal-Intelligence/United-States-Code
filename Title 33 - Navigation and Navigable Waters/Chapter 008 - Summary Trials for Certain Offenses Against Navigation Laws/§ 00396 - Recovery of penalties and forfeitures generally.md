@@ -12,7 +12,3 @@ Title 48 of the Revised Statutes, referred to in text, was in the original “th
 
 R.S. §4305 derived from act Dec. 31, 1792, ch. 1, §29, 1 Stat. 298.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 47 section 31.
-

@@ -40,9 +40,9 @@
 
 &emsp;(3) is no longer operated for the purpose for which such assistance was granted,
 
-> the Secretary shall be entitled to recover from the recipient of assistance under this chapter the facilities of such school which were established with assistance under this chapter. In order to recover such facilities the Secretary may bring an action in the district court of the United States for the district in which such facilities are situated.
+> the Secretary shall be entitled to recover from the recipient of assistance under this chapterthe facilities of such school which were established with assistance under this chapter. In order to recover such facilities the Secretary may bring an action in the district court of the United States for the district in which such facilities are situated.
 
-(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5073; amended Pub. L. 94–581, title I,§116(3), (4), title II, §210(f)(3), Oct. 21, 1976, 90 Stat. 2854, 2865; Pub. L. 97–15, June 17, 1981, 95 Stat. 99; Pub. L. 97–295, §4(95)(B), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §702(16), Oct. 28, 1986, 100 Stat. 3302; renumbered §8213 and amended Pub. L. 102–40, title IV, §402(b)(2)(B), (d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1102, §5073; amended Pub. L. 94–581, title I, §116(3), (4), title II, §210(f)(3), Oct. 21, 1976, 90 Stat. 2854, 2865; Pub. L. 97–15, June 17, 1981, 95 Stat. 99; Pub. L. 97–295, §4(95)(B), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §702(16), Oct. 28, 1986, 100 Stat. 3302; renumbered §8213 and amended Pub. L. 102–40, title IV, §402(b)(2)(B), (d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 #### Amendments
 
@@ -77,8 +77,4 @@ Subsec. (c). Pub. L. 94–581, §210(f)(3)(B), substituted “the Administrator�
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8212 of this title.
 

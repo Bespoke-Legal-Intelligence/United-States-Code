@@ -22,6 +22,10 @@
 | (a) | Requests for transfers. |
 | (b) | Authority to incur expenses. |
 | (c) | Authority to advance sums. |
+| 31a–2d. | Transfer of funds from appropriations account of the Office of the Vice President and the Offices of the Secretaries for the Majority and Minority to the Senate contingent fund. |
+| (a) | Office of the Vice President. |
+| (b) | Offices of the Secretaries for the Majority and Minority. |
+| (c) | Effective date. |
 | 31a–3. | Expense allowance for Chairmen of Majority and Minority Conference Committees of Senate; method of payment; taxability. |
 | 31a–4. | Expense allowance for Chairmen of Majority and Minority Policy Committees of Senate; method of payment; taxability. |
 | [31b.](%C2%A7%2000031b%20-%20Expense%20allowance%20of%20Speaker%20of%20House%20of%20Representatives.md) | Expense allowance of Speaker of House of Representatives. |
@@ -53,6 +57,9 @@
 | [42a.](%C2%A7%2000042a%20-%20Special%20delivery%20postage%20allowance%20for%20President%20of%20Senate.md) | Special delivery postage allowance for President of Senate. |
 | 42a–1 to 43b–1. Repealed or Omitted. |  |
 | 43b–2. | Staff expenses for House Members attending organizational caucus or conference. |
+| (a) | In general. |
+| (b) | Per diem expenses of staff person. |
+| (c) | Orientation programs for new Members. |
 | 43b–3. | Payments and reimbursements for certain House staff expenses. |
 | [43c.](%C2%A7%2000043c%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93147%2C%20%C2%A74%2C%20Aug.%2028%2C%201965%2C%2079%20Stat.%20584.md) | Repealed. |
 | [43d.](%C2%A7%2000043d%20-%20Organizational%20expenses%20of%20Senator-elect.md) | Organizational expenses of Senator-elect. |
@@ -135,6 +142,12 @@
 | [59d.](%C2%A7%2000059d%20-%20Transportation%20of%20official%20records%20and%20papers%20to%20House%20Member%27s%20district.md) | Transportation of official records and papers to House Members’ district. |
 | (a) | Payment of reasonable expenses from applicable accounts of House; rules and regulations. |
 | (b) | “Member of the House of Representatives” and “official records and papers” defined. |
+| 59d–1. | Transportation of official records and papers to a Senator's State. |
+| (a) | Payment of reasonable transportation expenses. |
+| (b) | Sending and transportation. |
+| (c) | Oversight. |
+| (d) | Official records defined. |
+| (e) | Effective date. |
 | [59e.](%C2%A7%2000059e%20-%20Official%20mail%20of%20persons%20entitled%20to%20use%20congressional%20frank.md) | Official mail of persons entitled to use congressional frank. |
 | (a) | Congressional committee regulations for expenditure of appropriations for official mail. |
 | (b) | Postmaster General functions. |
@@ -170,6 +183,7 @@
 - [&sect; 00031a&#8211;2a - Transfer of funds from representation allowance of Majority and Minority Leaders of Senate to expense allowance; availability&#8230;](%C2%A7%2000031a%E2%80%932a%20-%20Transfer%20of%20funds%20from%20representation%20allowance%20of%20Majority%20and%20Minority%20Leaders%20of%20Senate%20to%20expense%20allowance%3B%20availability%E2%80%A6.md)
 - [&sect; 00031a&#8211;2b - Transfer of funds from appropriations account of Majority and Minority Leaders of Senate to appropriations account, Miscellaneous&#8230;](%C2%A7%2000031a%E2%80%932b%20-%20Transfer%20of%20funds%20from%20appropriations%20account%20of%20Majority%20and%20Minority%20Leaders%20of%20Senate%20to%20appropriations%20account%2C%20Miscellaneous%E2%80%A6.md)
 - [&sect; 00031a&#8211;2c - Transfer of funds from appropriations account of Majority and Minority Whips of Senate to appropriations account, Miscellaneous&#8230;](%C2%A7%2000031a%E2%80%932c%20-%20Transfer%20of%20funds%20from%20appropriations%20account%20of%20Majority%20and%20Minority%20Whips%20of%20Senate%20to%20appropriations%20account%2C%20Miscellaneous%E2%80%A6.md)
+- [&sect; 00031a&#8211;2d - Transfer of funds from appropriations account of the Office of the Vice President and the Offices of the Secretaries for the&#8230;](%C2%A7%2000031a%E2%80%932d%20-%20Transfer%20of%20funds%20from%20appropriations%20account%20of%20the%20Office%20of%20the%20Vice%20President%20and%20the%20Offices%20of%20the%20Secretaries%20for%20the%E2%80%A6.md)
 - [&sect; 00031a&#8211;3 - Expense allowance for Chairmen of Majority and Minority Conference Committees of Senate; method of payment; taxability](%C2%A7%2000031a%E2%80%933%20-%20Expense%20allowance%20for%20Chairmen%20of%20Majority%20and%20Minority%20Conference%20Committees%20of%20Senate%3B%20method%20of%20payment%3B%20taxability.md)
 - [&sect; 00031a&#8211;4 - Expense allowance for Chairmen of Majority and Minority Policy Committees of Senate; method of payment; taxability](%C2%A7%2000031a%E2%80%934%20-%20Expense%20allowance%20for%20Chairmen%20of%20Majority%20and%20Minority%20Policy%20Committees%20of%20Senate%3B%20method%20of%20payment%3B%20taxability.md)
 - [&sect; 00031b - Expense allowance of Speaker of House of Representatives](%C2%A7%2000031b%20-%20Expense%20allowance%20of%20Speaker%20of%20House%20of%20Representatives.md)
@@ -255,6 +269,7 @@
 - [&sect; 00059b - Purchase of office equipment or furnishings by Senators](%C2%A7%2000059b%20-%20Purchase%20of%20office%20equipment%20or%20furnishings%20by%20Senators.md)
 - [&sect; 00059c - Transferred](%C2%A7%2000059c%20-%20Transferred.md)
 - [&sect; 00059d - Transportation of official records and papers to House Member's district](%C2%A7%2000059d%20-%20Transportation%20of%20official%20records%20and%20papers%20to%20House%20Member%27s%20district.md)
+- [&sect; 00059d&#8211;1 - Transportation of official records and papers to a Senator's State](%C2%A7%2000059d%E2%80%931%20-%20Transportation%20of%20official%20records%20and%20papers%20to%20a%20Senator%27s%20State.md)
 - [&sect; 00059e - Official mail of persons entitled to use congressional frank](%C2%A7%2000059e%20-%20Official%20mail%20of%20persons%20entitled%20to%20use%20congressional%20frank.md)
 - [&sect; 00059f - Mass mailings by Senate offices; quarterly statements; publication of summary tabulations](%C2%A7%2000059f%20-%20Mass%20mailings%20by%20Senate%20offices%3B%20quarterly%20statements%3B%20publication%20of%20summary%20tabulations.md)
 - [&sect; 00059g - Mass mailing of information by Senators under frank; quarterly registration with Secretary of Senate](%C2%A7%2000059g%20-%20Mass%20mailing%20of%20information%20by%20Senators%20under%20frank%3B%20quarterly%20registration%20with%20Secretary%20of%20Senate.md)

@@ -1,6 +1,6 @@
 ### §§899 to 906. Repealed. Pub. L. 97–300, title I, §184(a)(1), Oct. 13, 1982, 96 Stat. 1357
 
-Section 899, Pub. L. 93–203, title IV, §421, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1979, set out Congressional statement of purpose for youth community conservation and improvement projects.
+Section 899, Pub. L. 93–203, title IV, §421, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1979, set outCongressional statement of purpose for youth community conservation and improvement projects.
 
 Provisions similar to those comprising this section were contained in former section 893 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

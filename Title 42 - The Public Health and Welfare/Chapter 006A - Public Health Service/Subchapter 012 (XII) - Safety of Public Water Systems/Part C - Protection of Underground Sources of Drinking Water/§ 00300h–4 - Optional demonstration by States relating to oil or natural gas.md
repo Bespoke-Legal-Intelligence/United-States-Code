@@ -28,7 +28,3 @@ If the Administrator revises or amends any requirement of a regulation under sec
 
 1986—Subsec. (a)(1). Pub. L. 99–339 inserted “or natural gas storage operations, or” after “production”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300h–2, 300j–2 of this title.
-

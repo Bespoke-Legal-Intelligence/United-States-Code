@@ -28,7 +28,3 @@
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2840.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6361, 6364, 6366 of this title.
-

@@ -98,7 +98,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §601(d)(3); added Nov. 9, 1977, Pub. L. 95–163, §15(a)(2), 91 Stat. 1283.
 
-In subsection (a), the words “Except with respect to aircraft described in paragraph (2) of this subsectionand except as provided in paragraph (3) of this subsection” are omitted as surplus. The words “minimum standards pursuant to this section shall include a requirement that”, the text of 49 App.:1421(d)(1)(A), and the words “after three years and six months following such date” are omitted as executed.
+In subsection (a), the words “Except with respect to aircraft described in paragraph (2) of this subsection and except as provided in paragraph (3) of this subsection” are omitted as surplus. The words “minimum standards pursuant to this section shall include a requirement that”, the text of 49 App.:1421(d)(1)(A), and the words “after three years and six months following such date” are omitted as executed.
 
 In subsection (b), the word “used” is substituted for “engaged” for consistency. In clause (3), the word “training” is substituted for “local flight” for consistency. In clause (4), the words “chemicals and other” are omitted as surplus. In clause (5), the word “purposes” is omitted as surplus.
 
@@ -117,8 +117,4 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Regulations
 
 Pub. L. 106–181, title V, §501(b), Apr. 5, 2000, 114 Stat. 132, provided that: “The Secretary \[of Transportation\] shall issue regulations to carry out section 44712(c) of title 49, United States Code, as amended by this section, not later than January 1, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44701, 44711, 45302, 46310, 47531 of this title.
 

@@ -132,7 +132,7 @@ Subject to the requirements of this subsection, the Administrator may provide pe
 
 #### (g) Volunteer status
 
-The Administrator may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from theEnvironmental Protection Agency, as volunteers in the performance of the functions authorized herein, in the manner provided for under this section.
+The Administrator may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Environmental Protection Agency, as volunteers in the performance of the functions authorized herein, in the manner provided for under this section.
 
 #### (h) Audits and petition of Attorney General for equitable relief
 
@@ -169,8 +169,4 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5502, 5510 of this title.
 

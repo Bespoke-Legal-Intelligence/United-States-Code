@@ -72,7 +72,7 @@ As used in subsection (b)(2) of this section—
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(6). Pub. L. 105–89 added par. (6).
+1997—Subsec. (b)(6). Pub. L. 105–89 added par. (6).
 
 #### Effective Date of 1997 Amendment
 

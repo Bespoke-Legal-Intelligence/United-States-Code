@@ -54,7 +54,3 @@ Treatment of transportation by principal.—Transportation exempt from jurisdict
 
 Provisions similar to those in this section were contained in section 10523 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13504, 13908 of this title.
-

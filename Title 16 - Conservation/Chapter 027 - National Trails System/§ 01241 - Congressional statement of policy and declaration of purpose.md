@@ -24,6 +24,12 @@ Subsec. (c). Pub. L. 98–11, §202(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 95–625, §551(3), substituted “, scenic and historic” for “and scenic”.
 
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–424, §2(a), Nov. 30, 2004, 118 Stat. 2403, provided that: “This Act \[enacting provisions set out as a note under section 1244 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending provisions listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title\] may be cited as the ‘Lincoln County Conservation, Recreation, and Development Act of 2004’.”
+
+Pub. L. 108–342, §1, Oct. 18, 2004, 118 Stat. 1370, provided that: “This Act \[amending section 1244 of this title\] may be cited as the ‘El Camino Real de los Tejas National Historic Trail Act’.”
+
 #### Short Title of 2002 Amendments
 
 Pub. L. 107–338, §1, Dec. 16, 2002, 116 Stat. 2886, provided that: “This Act \[amending section 1244 of this title and enacting provisions set out as a note under section 1244 of this title\] may be cited as the ‘Metacomet-Monadnock-Mattabesett Trail Study Act of 2002’.”

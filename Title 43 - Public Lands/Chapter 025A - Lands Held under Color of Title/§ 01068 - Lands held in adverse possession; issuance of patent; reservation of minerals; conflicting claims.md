@@ -6,13 +6,9 @@ The Secretary of the Interior (a) shall, whenever it shall be shown to his satis
 
 #### References in Text
 
-The leasing and mineral land laws, referred to in text, probably mean the mineral leasing laws which are classified generally to Title 30, Mineral Lands and Mining.
+The leasing and mineral land laws, referred to in text, probably mean the mineral leasing laws which areclassified generally to Title 30, Mineral Lands and Mining.
 
 #### Amendments
 
 1953—Act July 28, 1953, provided for mandatory issuance of land patents to certain adverse possessors and broadened discretionary power of Secretary to issue patents to parties who have paid taxes on certain public lands since Jan. 1, 1901.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title.
 

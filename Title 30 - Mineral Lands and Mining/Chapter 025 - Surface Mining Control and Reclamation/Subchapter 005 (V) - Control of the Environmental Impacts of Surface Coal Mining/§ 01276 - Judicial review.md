@@ -30,7 +30,3 @@ Action of the State regulatory authority pursuant to an approved State program s
 
 (Pub. L. 95–87, title V, §526, Aug. 3, 1977, 91 Stat. 512.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1264, 1268, 1275 of this title.
-

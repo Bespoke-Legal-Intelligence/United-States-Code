@@ -28,6 +28,7 @@
 | [<b>225.</b>](Chapter%20225%20-%20Verdict/README.md) | <b>Verdict</b> | <b>3531</b> |
 | [<b>227.</b>](Chapter%20227%20-%20Sentences/README.md) | <b>Sentences</b> | <b>3551</b> |
 | [<b>228.</b>](Chapter%20228%20-%20Death%20Sentence/README.md) | <b>Death sentence</b> | <b>3591</b> |
+| [<b>228A.</b>](Chapter%20228A%20-%20Post-Conviction%20DNA%20Testing/README.md) | <b>Post-conviction DNA testing</b> | <b>3600</b> |
 | [<b>229.</b>](Chapter%20229%20-%20Postsentence%20Administration/README.md) | <b>Post-Sentence Administration </b><b><sup>2</sup></b> | <b>3601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,11 +40,13 @@
 | [<b>232A.</b>](Chapter%20232A%20-%20Special%20Forfeiture%20of%20Collateral%20Profits%20of%20Crime/README.md) | <b>Special forfeiture of collateral profits of crime</b> | <b>3681</b> |
 | [<b>233.</b>](Chapter%20233%20-%20Contempts/README.md) | <b>Contempts</b> | <b>3691</b> |
 | [<b>235.</b>](Chapter%20235%20-%20Appeal/README.md) | <b>Appeal</b> | <b>3731</b> |
-| <b>\[237.</b> | <b>Repealed.\]</b> |  |
+| [<b>237.</b>](Chapter%20237%20-%20Crime%20Victims%E2%80%99%20Rights/README.md) | <b>Crime victims’ rights</b> | <b>3771</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–405, title I, §102(b), title IV, §411(a)(2), Oct. 30, 2004, 118 Stat. 2264, 2284, added items for chapters 228A and 237.
 
 2000—Pub. L. 106–523, §2(b), Nov. 22, 2000, 114 Stat. 2492, added item for chapter 212.
 
@@ -73,10 +76,6 @@ Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984,
 
 “United States magistrate judges” substituted for “United States magistrates” in item for chapter 219 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 48 sections 1424–4, 1614, 1821.
-
 
 ---
 
@@ -103,10 +102,11 @@ This part is referred to in title 48 sections 1424–4, 1614, 1821.
 - [Chapter 225 - Verdict](Chapter%20225%20-%20Verdict/README.md)
 - [Chapter 227 - Sentences](Chapter%20227%20-%20Sentences/README.md)
 - [Chapter 228 - Death Sentence](Chapter%20228%20-%20Death%20Sentence/README.md)
+- [Chapter 228A - Post-Conviction DNA Testing](Chapter%20228A%20-%20Post-Conviction%20DNA%20Testing/README.md)
 - [Chapter 229 - Postsentence Administration](Chapter%20229%20-%20Postsentence%20Administration/README.md)
 - [Chapter 231 - Repealed](Chapter%20231%20-%20Repealed/README.md)
 - [Chapter 232 - Miscellaneous Sentencing Provisions](Chapter%20232%20-%20Miscellaneous%20Sentencing%20Provisions/README.md)
 - [Chapter 232A - Special Forfeiture of Collateral Profits of Crime](Chapter%20232A%20-%20Special%20Forfeiture%20of%20Collateral%20Profits%20of%20Crime/README.md)
 - [Chapter 233 - Contempts](Chapter%20233%20-%20Contempts/README.md)
 - [Chapter 235 - Appeal](Chapter%20235%20-%20Appeal/README.md)
-- [Chapter 237 - Repealed](Chapter%20237%20-%20Repealed/README.md)
+- [Chapter 237 - Crime Victims&#8217; Rights](Chapter%20237%20-%20Crime%20Victims%E2%80%99%20Rights/README.md)

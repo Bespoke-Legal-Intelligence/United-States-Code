@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) one-half of the remainder not reserved under subsection (a) of this section according to the ratio between the school-aged population of each State and the school-aged population of all the States; and
 
-&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each State received under section 6334 of this title for the preceding year and the sum of such amounts received by all the States.
+&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each Statereceived under section 6334 of this title for the preceding year and the sum of such amounts received by all the States.
 
 #### (2) Minimum
 
@@ -67,10 +67,6 @@ Section 4111 as such section was in effect the day preceding January 8, 2002, re
 #### Prior Provisions
 
 A prior section 7111, Pub. L. 89–10, title IV, §4011 \[4111\], as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3674, related to reservations and allotments, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7112, 7113, 7117 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

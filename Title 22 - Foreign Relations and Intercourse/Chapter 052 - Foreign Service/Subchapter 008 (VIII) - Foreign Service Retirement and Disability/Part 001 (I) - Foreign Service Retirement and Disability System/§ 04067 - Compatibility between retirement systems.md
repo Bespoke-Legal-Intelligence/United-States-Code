@@ -134,7 +134,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 “(A) each period of military or naval service performed before January 1, 1957, and
 
-“(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this chapter is based, only if a deposit (with interest if any is required) is made with respect to that period, as provided in section 805(e) \[22 U.S.C. 4045(e)\].
+“(B) each period of military or naval service performed after December 31, 1956, and before the separation on which the entitlement to annuity under this chapter is based, only if a deposit (with interest if anyis required) is made with respect to that period, as provided in section 805(e) \[22 U.S.C. 4045(e)\].
 
 “(3) The service of an individual who first became a participant on or after the date of this Order with credit under section 816 \[22 U.S.C. 4056\] for civilian service performed prior to October 1982, shall include credit for each period of military or naval service performed before the date of the separation on which the entitlement to an annuity under this chapter is based, subject, in the case of military or naval service performed after December 1956, to section 816(j) \[22 U.S.C. 4056(j)\], as deemed to be added by this Order.
 
@@ -241,8 +241,4 @@ Sec. 3. <i>Central Intelligence Agency Retirement and Disability System.</i>
 Sec. 4. <i>Judicial Review</i>. This order is not intended to create, nor does it create any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4069–1 of this title.
 

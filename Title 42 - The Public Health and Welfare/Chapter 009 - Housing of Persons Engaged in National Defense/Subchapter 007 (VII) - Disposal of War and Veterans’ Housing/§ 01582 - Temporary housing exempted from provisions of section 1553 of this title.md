@@ -24,9 +24,5 @@ Section 1575 of this title, referred to in subsec. (a), has been omitted from th
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1584 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,3 @@ Suits by the United States to vacate and annul any patent to lands erroneously i
 
 (Mar. 2, 1896, ch. 39, §1, 29 Stat. 42.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 903 of this title.
-

@@ -22,7 +22,3 @@ The United States shall cooperate directly or through appropriate international 
 
 Section 103(c) of Pub. L. 101–627 provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1992.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1811 of this title.
-

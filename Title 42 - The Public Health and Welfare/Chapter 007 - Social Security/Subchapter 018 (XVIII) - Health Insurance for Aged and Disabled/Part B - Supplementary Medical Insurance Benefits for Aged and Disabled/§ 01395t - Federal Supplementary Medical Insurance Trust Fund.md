@@ -6,7 +6,7 @@ There is hereby created on the books of the Treasury of the United States a trus
 
 #### (b) Board of Trustees; composition; meetings; duties
 
-With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only forthe remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
+With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
 
 &emsp;(1) Hold the Trust Fund;
 
@@ -36,11 +36,11 @@ There shall be transferred periodically (but not less often than once each fisca
 
 #### (g) Payments from Trust Fund of amounts provided for by this part or with respect to administrative expenses
 
-The Managing Trustee shall pay from time to time from the Trust Fund such amounts as theSecretary of Health and Human Services certifies are necessary to make the payments provided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title. The payments provided for under part D of this subchapter, other than under section 1395w–141(k)(2) of this title, shall be made from the Medicare Prescription Drug Account in the Trust Fund. The payments provided for under section 1395w–141(k)(2) of this title shall be made from the Transitional Assistance Account in the Trust Fund.
+The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to make the payments provided for by this part, and the payments with respect to administrative expenses in accordance with section 401(g)(1) of this title. The payments provided for under part D of this subchapter, other than under section 1395w–141(k)(2) of this title, shall be made from the Medicare Prescription Drug Account in the Trust Fund. The payments provided for under section 1395w–141(k)(2) of this title shall be made from the Transitional Assistance Account in the Trust Fund.
 
 #### (h) Payments from Trust Fund of costs incurred by Director of Office of Personnel Management
 
-The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to pay the costs incurred by the Director of the Office of Personnel Management in making deductions pursuant to section 1395s(d) of this title or pursuant to section 1395w–113(c)(1) or 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund). During each fiscal year, or after the close of such fiscal year, the Director of the Office of Personnel Management shall certify to the Secretary the amount of the costs the Director incurred in making such deductions, and such certified amount shall be the basis for the amount of such costs certified by the Secretary to the Managing Trustee.
+The Managing Trustee shall pay from time to time from the Trust Fund such amounts as the Secretary of Health and Human Services certifies are necessary to pay the costs incurred by the Director of the Office of Personnel Management in making deductions pursuant to section 1395s(d) of this title or pursuant to section 1395w–113(c)(1) or 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription DrugAccount in the Trust Fund). During each fiscal year, or after the close of such fiscal year, the Director of the Office of Personnel Management shall certify to the Secretary the amount of the costs the Director incurred in making such deductions, and such certified amount shall be the basis for the amount of such costs certified by the Secretary to the Managing Trustee.
 
 #### (i) Payments from Trust Fund of costs incurred by Railroad Retirement Board
 
@@ -78,7 +78,7 @@ Subsec. (i). Pub. L. 108–173, §101(e)(3)(C)(iv), inserted “and pursuant to 
 
 1988—Subsec. (a). Pub. L. 100–360, §212(b)(2), inserted three sentences at end providing for transfer of supplemental catastrophic coverage premiums into the Federal Supplementary Medical Insurance Trust Fund.
 
-Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlierof the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
+Subsec. (b). Pub. L. 100–647 inserted after first sentence “A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term.”
 
 Pub. L. 100–360, §212(c)(4), inserted after sixth sentence “Such report shall also identify (and treat separately) those receipts and outlays in the Trust Fund which are also receipts and outlays in the Medicare Catastrophic Coverage Account created under section 1395t–2 of this title.”
 
@@ -144,10 +144,6 @@ Amendment by section 132(e) of Pub. L. 92–603 applicable with respect to gifts
 
 Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable to premiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (b)(2) of this section are listed in item 7 on page 143), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
-
 #### Disposal of Funds in Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 
 Section 102(c) of Pub. L. 101–234 provided that: “Any balance in the Federal Hospital Insurance Catastrophic Coverage Reserve Fund (created under section 1817A(a) of the Social Security Act \[former section 1395i–1a(a) of this title\], as inserted by section 112(a) of MCCA \[Pub. L. 100–360\]) as of January 1, 1990, shall be transferred into the Federal Supplementary Medical Insurance Trust Fund and any amounts payable due to overpayments into such Trust Fund shall be payable from the Federal Supplementary Medical Insurance Trust Fund.”
@@ -155,10 +151,6 @@ Section 102(c) of Pub. L. 101–234 provided that: “Any balance in the Federal
 #### Due Date for 1983 Report on Operation and Status of Trust Fund
 
 Notwithstanding subsec. (b)(2) of this section, the annual report of the Board of Trustees of the Trust Fund required for calendar year 1983 under this section may be filed at any time not later than forty-five days after Apr. 20, 1983, see section 154(d) of Pub. L. 98–21, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 910, 1320a–7a, 1320b–12, 1395b–1, 1395w–116, 1395w–141, 1395gg, 1395vv, 1395yy, 1395ggg, 1396m, 1396u–3 of this title.
 
 <i><sup>1</sup></i><i> So in original. See 2003 Amendment note below.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—LOWER COLORADO RIVER BASIN DEVELOPMENT FUND
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 618a of this title.
-
 
 ---
 

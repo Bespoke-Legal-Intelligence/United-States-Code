@@ -33,10 +33,6 @@
 
 1973—Pub. L. 93–191, §§1(b), 4(b), 12(b), Dec. 18, 1973, 87 Stat. 741, 742, 746, substituted “Franked mail transmitted by the Vice President, Members of Congress, and congressional officials” for “Official correspondence of Vice President and Members of Congress” in item 3210, substituted “President, surviving spouse of former President” for “Presidents” in item 3214, and added item 3219.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3684 of this title.
-
 
 ---
 

@@ -26,7 +26,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (d) Reallotments
 
-The amount of any allotment to a State under this section for any fiscal year that the State certifies to the Secretary will not be required for carrying out the State plan under section 629b of this title shall be available for reallotment using the allotment methodology specified in this section. Any amount so reallotted to a State is deemed part of the allotment of the State under the preceding provisions of this section.
+The amount of any allotment to a State under this section for any fiscal year that the State certifies to the Secretary will not be requiredfor carrying out the State plan under section 629b of this title shall be available for reallotment using the allotment methodology specified in this section. Any amount so reallotted to a State is deemed part of the allotment of the State under the preceding provisions of this section.
 
 (Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §§103, 106(a)(2), Jan. 17, 2002, 115 Stat. 2415, 2417.)
 
@@ -47,8 +47,4 @@ Subsec. (d). Pub. L. 107–133, §103, added subsec. (d).
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as a note under section 629 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 629b, 629d, 629f, 629g of this title.
 

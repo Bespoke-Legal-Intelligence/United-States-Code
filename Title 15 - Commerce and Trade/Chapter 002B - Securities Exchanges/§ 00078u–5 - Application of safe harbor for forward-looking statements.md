@@ -76,7 +76,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 #### (2) Oral forward-looking statements
 
-&emsp;In the case of an oral forward-looking statement made by an issuer that is subject to the reporting requirements of section 78m(a) of this title or section 78<i>o</i>(d) of this title, or by a person acting on behalf of such issuer, the requirement set forth in paragraph (1)(A) shall be deemed to be satisfied—
+&emsp;In the case of an oral forward-looking statement made by an issuer that is subject to thereporting requirements of section 78m(a) of this title or section 78<i>o</i>(d) of this title, or by a person acting on behalf of such issuer, the requirement set forth in paragraph (1)(A) shall be deemed to be satisfied—
 
 &emsp;&emsp;(A) if the oral forward-looking statement is accompanied by a cautionary statement—
 
@@ -158,7 +158,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Other terms
 
-&emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
+&emsp;The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity”and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
 (June 6, 1934, ch. 404, title I, §21E, as added Pub. L. 104–67, title I, §102(b), Dec. 22, 1995, 109 Stat. 753.)
 

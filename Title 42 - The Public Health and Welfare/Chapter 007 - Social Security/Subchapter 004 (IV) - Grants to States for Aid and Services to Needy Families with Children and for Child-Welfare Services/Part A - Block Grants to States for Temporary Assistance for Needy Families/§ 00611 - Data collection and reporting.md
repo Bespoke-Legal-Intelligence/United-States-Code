@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(xii) Information necessary to calculate participation rates under section 607 of this title.
 
-&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including the amount of and reason for any reduction of assistance (including sanctions).
+&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including theamount of and reason for any reduction of assistance (including sanctions).
 
 &emsp;&emsp;&emsp;(xiv) Any amount of unearned income received by any member of the family.
 
@@ -140,7 +140,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;(4) the trends in employment and earnings of needy families with minor children living at home.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[titleVIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284.)
 
 #### References in Text
 
@@ -193,10 +193,6 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 609, 612 of this title.
 
 <i><sup>1</sup></i><i> So in original. The second parenthesis probably should not appear.</i>
 

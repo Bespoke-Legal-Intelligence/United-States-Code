@@ -24,7 +24,3 @@ Amendment by Pub. L. 107–90 effective Jan. 1, 2002, see section 103(j) of Pub.
 
 Amendment by Pub. L. 97–35 effective Jan. 1, 1975, see section 1129(b)(2) of Pub. L. 97–35, set out as a note under section 231 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 231f of this title; title 42 section 402.
-

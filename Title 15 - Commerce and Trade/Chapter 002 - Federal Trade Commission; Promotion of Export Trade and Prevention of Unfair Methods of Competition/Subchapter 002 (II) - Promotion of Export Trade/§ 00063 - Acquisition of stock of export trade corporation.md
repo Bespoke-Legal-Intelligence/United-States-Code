@@ -4,7 +4,3 @@ Nothing contained in section 18 of this title shall be construed to forbid the a
 
 (Apr. 10, 1918, ch. 50, §3, 40 Stat. 517.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 65 of this title.
-

@@ -18,7 +18,3 @@ The information contained in or filed with any statement of record shall be made
 
 (Pub. L. 90–448, title XIV, §1405, Aug. 1, 1968, 82 Stat. 592.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1703, 1708 of this title.
-

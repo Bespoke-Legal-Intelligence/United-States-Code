@@ -52,9 +52,5 @@ For delegation of certain functions of the President under this section, see Mem
 
 Authority of President under this section delegated to Secretary of Defense by section 2 of Memorandum of President of the United States, Dec. 30, 1992, 58 F.R. 3193, set out as a note under section 5852 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5856 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

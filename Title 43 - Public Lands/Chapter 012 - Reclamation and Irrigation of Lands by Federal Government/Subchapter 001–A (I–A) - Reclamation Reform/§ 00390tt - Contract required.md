@@ -10,7 +10,3 @@ The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, c
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 390cc, 2212, 2213 of this title.
-

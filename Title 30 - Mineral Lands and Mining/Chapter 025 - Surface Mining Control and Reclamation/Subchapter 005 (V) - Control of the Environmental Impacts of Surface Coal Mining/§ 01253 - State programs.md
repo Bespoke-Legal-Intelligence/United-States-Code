@@ -8,7 +8,7 @@ Each State in which there are or may be conducted surface coal mining operations
 
 &emsp;(2) a State law which provides sanctions for violations of State laws, regulations, or conditions of permits concerning surface coal mining and reclamation operations, which sanctions shall meet the minimum requirements of this chapter, including civil and criminal actions, forfeiture of bonds, suspensions, revocations, and withholding of permits, and the issuance of cease-and-desist orders by the State regulatory authority or its inspectors;
 
-&emsp;(3) a State regulatory authority with sufficient administrative and technical personnel,and sufficient funding to enable the State to regulate surface coal mining and reclamation operations in accordance with the requirements of this chapter;
+&emsp;(3) a State regulatory authority with sufficient administrative and technical personnel, and sufficient funding to enable the State to regulate surface coal mining and reclamation operations in accordance with the requirements of this chapter;
 
 &emsp;(4) a State law which provides for the effective implementations,<sup>1</sup> maintenance, and enforcement of a permit system, meeting the requirements of this subchapter for the regulations <sup>1</sup> of surface coal mining and reclamation operations for coal on lands within the State;
 
@@ -38,7 +38,7 @@ If the Secretary disapproves any proposed State program in whole or in part, he 
 
 #### (d) Inability of State to take action
 
-For the purposes of this section and section 1254 of this title, the inability of a State to take any action the purpose of which is to prepare, submit or enforce a State program, or any portion thereof, because the action is enjoined by the issuance of an injunction by any court of competent jurisdiction shall not result in a loss of eligibility for financial assistance under subchapters IV and VII of this chapter or in the imposition of a Federal program. Regulation of the surface coal mining and reclamation operations covered or to be covered by the State program subject to the injunction shall be conducted by the State pursuant to section 1252 of this title, until such time as the injunction terminates or for one year, whichever is shorter, at which time the requirements of this section and section 1254 of this title shall again be fully applicable.
+For the purposes of this section and section 1254 of this title, the inability of a State to takeany action the purpose of which is to prepare, submit or enforce a State program, or any portion thereof, because the action is enjoined by the issuance of an injunction by any court of competent jurisdiction shall not result in a loss of eligibility for financial assistance under subchapters IV and VII of this chapter or in the imposition of a Federal program. Regulation of the surface coal mining and reclamation operations covered or to be covered by the State program subject to the injunction shall be conducted by the State pursuant to section 1252 of this title, until such time as the injunction terminates or for one year, whichever is shorter, at which time the requirements of this section and section 1254 of this title shall again be fully applicable.
 
 (Pub. L. 95–87, title V, §503, Aug. 3, 1977, 91 Stat. 470.)
 
@@ -47,10 +47,6 @@ For the purposes of this section and section 1254 of this title, the inability o
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1231, 1232, 1235, 1252, 1254, 1256, 1268, 1271, 1272, 1291, 1292, 1300, 1309 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

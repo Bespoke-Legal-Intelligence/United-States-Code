@@ -24,7 +24,7 @@
 
 (1) Data and information provided to the Secretary pursuant to subsection (a) of this section shall be processed, analyzed, and interpreted by the Secretary for purposes of carrying out his duties under this subchapter.
 
-(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves in areas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
+(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves inareas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
 
 #### (c) Confidentiality of information; regulations
 
@@ -38,7 +38,7 @@ The Secretary shall prescribe regulations to (1) assure that the confidentiality
 
 &emsp;(B)(i) the summary of data prepared by the Secretary pursuant to subsection (b)(2) of this section, and (ii) any other processed, analyzed, or interpreted data prepared by the Secretary pursuant to subsection (b)(1) of this section, unless the Secretary determines that transmittal of such data prepared pursuant to subsection (b)(1) of this section would unduly damage the competitive position of the lessee or permittee who provided the Secretary with the information which the Secretary had processed, analyzed, or interpreted; and
 
-&emsp;(C) any relevant information received by the Secretary pursuant to subsection (a) of thissection, subject to any applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
+&emsp;(C) any relevant information received by the Secretary pursuant to subsection (a) of this section, subject to any applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
 
 (2) Notwithstanding the provisions of any regulation required pursuant to the second sentence of subsection (c) of this section, the Governor of any affected State may designate an appropriate State official to inspect, at a regional location which the Secretary shall designate, any privileged information received by the Secretary regarding any activity adjacent to such State, except that no such inspection shall take place prior to the sale of a lease covering the area in which such activity was conducted. Knowledge obtained by such State during such inspection shall be subject to applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
 
@@ -69,8 +69,4 @@ Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 732, provided that: “Notwit
 #### Payment of Costs of Reproducing Data and Information Provided to Secretary
 
 Pub. L. 99–190, §101(d) \[title I, §100\], Dec. 19, 1985, 99 Stat. 1224, 1232, provided: “That notwithstanding any other provision of law, when in fiscal year 1986 and thereafter any permittee provides data and information to the Secretary pursuant to section 1352(a)(1)(C)(iii) of title 43, United States Code, the Secretary shall pay only the reasonable cost of reproducing such data and information.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1337, 1345 of this title; title 42 section 6508.
 

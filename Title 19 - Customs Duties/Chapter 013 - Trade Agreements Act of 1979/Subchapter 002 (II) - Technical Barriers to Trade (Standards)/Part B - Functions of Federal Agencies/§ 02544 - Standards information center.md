@@ -54,7 +54,3 @@ Amendment by section 351(d) of Pub. L. 103–465 effective on the date on which 
 
 Amendment by section 431(a) of Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2575a, 2576a of this title.
-

@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 95–105, §106(a)(2), substituted “to carry out” for �
 
 Pub. L. 103–236, title I, §134, Apr. 30, 1994, 108 Stat. 396, as amended by Pub. L. 103–415, §1(z), Oct. 25, 1994, 108 Stat. 4302, provided that: “Whenever the Department of State enters into lease-purchase agreements involving property in foreign countries pursuant to section 1 of the Foreign Service Buildings Act, 1926 (22 U.S.C. 292), the Department shall account for such transactions in accordance with fiscal year obligations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 292a of this title.
-

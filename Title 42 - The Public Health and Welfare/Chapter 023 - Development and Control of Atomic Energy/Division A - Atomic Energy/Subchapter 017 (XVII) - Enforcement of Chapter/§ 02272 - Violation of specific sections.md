@@ -1,14 +1,18 @@
 ### §2272. Violation of specific sections
 
-Whoever willfully violates, attempts to violate, or conspires to violate, any provision of sections <sup>1</sup> 2077, 2122, or 2131 of this title, or whoever unlawfully interferes, attempts to interfere, or conspires to interfere with any recapture or entry under section 2138 of this title, shall, upon conviction thereof, be punished by afine of not more than $10,000 or by imprisonment for not more than ten years, or both, except that whoever commits such an offense with intent to injure the United States or with intent to secure an advantage to any foreign nation shall, upon conviction thereof, be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $20,000 or both.
+(a) Whoever willfully violates, attempts to violate, or conspires to violate, any provision of sections <sup>1</sup> 2077 or 2131 of this title, or whoever unlawfully interferes, attempts to interfere, or conspires to interfere with any recapture or entry under section 2138 of this title, shall, upon conviction thereof, be punished by a fine of not more than $10,000 or by imprisonment for not more than ten years, or both, except that whoever commits such an offense with intent to injure the United States or with intent to secure an advantage to any foreign nation shall, upon conviction thereof, be punished by imprisonment for life, or by imprisonment for any term of years or a fine of not more than $20,000 or both.
 
-(Aug. 1, 1946, ch. 724, title I, §222, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §§2, 3(a), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(b) Any person who violates, or attempts or conspires to violate, section 2122 of this titleshall be fined not more than $2,000,000 and sentenced to a term of imprisonment not less than 25 years or to imprisonment for life. Any person who, in the course of a violation of section 2122 of this title, uses, attempts or conspires to use, or possesses and threatens to use, any atomic weapon shall be fined not more than $2,000,000 and imprisoned for not less than 30 years or imprisoned for life. If the death of another results from a person's violation of section 2122 of this title, the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
+
+(Aug. 1, 1946, ch. 724, title I, §222, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §§2, 3(a), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 108–458, title VI, §6904(b), Dec. 17, 2004, 118 Stat. 3771.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1816(a), (b) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+
+2004—Pub. L. 108–458 designated existing provisions as subsec. (a), struck out “, 2122,” after “2077”, and added subsec. (b).
 
 1969—Pub. L. 91–161 increased maximum term of imprisonment from five years to ten years for willful violation, or attempted violation of enumerated sections, and struck out applicability of death penalty for violation of same offenses committed with intent to injure the United States, or secure an advantage to any foreign nation.
 
@@ -19,10 +23,6 @@ Section 7 of Pub. L. 91–161 provided that: “The amendments contained in sect
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8312; title 22 section 2778; title 38 section 6105.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

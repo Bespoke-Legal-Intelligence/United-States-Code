@@ -64,7 +64,7 @@ Condition on receipt of credit.—To receive a credit under paragraph (1) for a 
 
 &emsp;&emsp;(C)
 
-Transportation capital expenditures defined.—In subparagraph (B), the term “non-Federal transportation capital expenditures” includes any payments madeby the State for issuance of transportation-related bonds.
+Transportation capital expenditures defined.—In subparagraph (B), the term “non-Federal transportation capital expenditures” includes any payments made by the State for issuance of transportation-related bonds.
 
 &emsp;(3)
 
@@ -88,7 +88,7 @@ Use of Federal Land Management Agency Funds.—Notwithstanding any other provisi
 
 (<i>l</i>)
 
-Use of Federal Lands Highways Program Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the Federal lands highways program under section 204 may be used to pay the non-Federal share of the cost of any project that is funded under section 104 and that provides access to or within Federal or Indian lands.
+Use of Federal Lands Highways Program Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated tocarry out the Federal lands highways program under section 204 may be used to pay the non-Federal share of the cost of any project that is funded under section 104 and that provides access to or within Federal or Indian lands.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848.)
 
@@ -136,7 +136,7 @@ Subsecs. (f) to (h). Pub. L. 102–240, §1021(b)(2), redesignated subsecs. (g) 
 
 Subsec. (i). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i). Former subsec. (i) redesignated (h).
 
-Subsecs. (j) to (m). Pub. L. 102–240, §1021(b)(1), struck out subsec. (j) which related to Federal share of project financed under section 307(c) of this title, subsec. (k) which related to Federal share of projects under sections 143 and 155 of this title and projects for priority primary routes under section 147 of this title, subsec. (<i>l</i>) which related to Federal share of projects to reconstruct, resurface, restore and rehabilitate highways which incurred substantial use as result of transportation activities to meet national energy requirements,and subsec. (m) which related to Federal share of Great River Road projects under section 148 of this title.
+Subsecs. (j) to (m). Pub. L. 102–240, §1021(b)(1), struck out subsec. (j) which related to Federal share of project financed under section 307(c) of this title, subsec. (k) which related to Federal share of projects under sections 143 and 155 of this title and projects for priority primary routes under section 147 of this title, subsec. (<i>l</i>) which related to Federal share of projects to reconstruct, resurface, restore and rehabilitate highways which incurred substantial use as result of transportation activities to meet national energy requirements, and subsec. (m) which related to Federal share of Great River Road projects under section 148 of this title.
 
 Subsec. (n). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i).
 
@@ -204,7 +204,7 @@ Subsec. (h). Pub. L. 86–70, §21(d)(4), repealed subsec. (h) which related to 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, andprovisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -331,10 +331,6 @@ Pub. L. 91–258, title II, §208(g), May 21, 1970, 84 Stat. 252, which added su
 #### Percentage of Funds Contributed by Alaska
 
 Section 21(d)(4) of Pub. L. 86–70, which repealed subsec. (h) of this section, provided in part that the provisions of subsec. (h) relating to the percentage of funds to be contributed by Alaska shall continue to apply to funds apportioned to Alaska for fiscal year 1960 and prior fiscal years.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 104, 107, 122, 125, 130, 133, 142, 147, 148, 206, 217 of this title; title 42 section 3338; title 49 section 5339.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “such highway”.</i>
 

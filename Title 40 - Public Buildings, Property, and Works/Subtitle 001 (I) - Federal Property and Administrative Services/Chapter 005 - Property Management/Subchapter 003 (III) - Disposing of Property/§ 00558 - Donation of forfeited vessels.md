@@ -70,7 +70,3 @@ Pub. L. 99–640, §13(a)–(c), Nov. 10, 1986, 100 Stat. 3551.
 
 In subsection (b), the words “all of” are inserted for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 111 of this title; title 46 sections 2101, 3305.
-

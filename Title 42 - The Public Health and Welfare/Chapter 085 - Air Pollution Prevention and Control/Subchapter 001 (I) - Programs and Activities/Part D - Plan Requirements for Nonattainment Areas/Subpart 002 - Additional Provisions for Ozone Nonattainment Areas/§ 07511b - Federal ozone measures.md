@@ -144,7 +144,7 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 #### (A) In general
 
-&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated bya United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the United States, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
+&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated by a United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the United States, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
 
 #### (B) Applicability
 
@@ -201,10 +201,6 @@ Information.—As soon as practicable after the date of the enactment of this Ac
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7607 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

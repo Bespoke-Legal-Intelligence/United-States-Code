@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—RURAL DEVELOPMENT AND SMALL FARM RESEARCH AND EDUCATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 917 of this title.
-
 
 ---
 

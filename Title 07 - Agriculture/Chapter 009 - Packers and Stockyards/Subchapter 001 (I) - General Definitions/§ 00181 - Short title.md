@@ -14,7 +14,7 @@ Pub. L. 106–472, title III, §312(a)-(d), Nov. 9, 2000, 114 Stat. 2076, 2077, 
 
 “(a)
 
-Implementation of General Accounting Office Recommendations.—Not later than 1 year after the date of the enactment of this Act \[Nov. 9, 2000\], the Secretary of Agriculture shall implement the recommendations contained in the report issued by the General Accounting Office entitled ‘Packers and Stockyards Programs: Actions Needed to Improve Investigations of Competitive Practices’, GAO/RCED–00–242, dated September 21, 2000.
+Implementation of General Accounting Office \[now Government Accountability Office\] Recommendations.—Not later than 1 year after the date of the enactment of this Act \[Nov. 9, 2000\], the Secretary of Agriculture shall implement the recommendations contained in the report issued by the General Accounting Office \[now Government Accountability Office\] entitled ‘Packers and Stockyards Programs: Actions Needed to Improve Investigations of Competitive Practices’, GAO/RCED–00–242, dated September 21, 2000.
 
 “(b)
 

@@ -1,6 +1,6 @@
 ### §3787. Subpoena power; employment of hearing officers; authority to hold hearings
 
-The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to section 3344 of title 5, as shall be necessary to carry out their respective powers and duties under this chapter. The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, and receive evidence at any place in the United States they respectively may designate.
+The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau ofJustice Statistics may appoint such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to section 3344 of title 5, as shall be necessary to carry out their respective powers and duties under this chapter. The Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, and receive evidence at any place in the United States they respectively may designate.
 
 (Pub. L. 90–351, title I, §806, as added Pub. L. 98–473, title II, §609B(g), Oct. 12, 1984, 98 Stat. 2094.)
 
@@ -15,8 +15,4 @@ Provisions similar to this section were contained in part in section 3788 of thi
 #### Effective Date
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 3711 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5672 of this title.
 

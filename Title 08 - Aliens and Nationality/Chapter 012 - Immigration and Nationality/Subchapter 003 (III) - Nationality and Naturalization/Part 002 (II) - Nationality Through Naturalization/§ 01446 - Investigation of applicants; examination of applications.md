@@ -2,11 +2,11 @@
 
 #### (a) Waiver
 
-Before a person may be naturalized, an employee of the Service, or of the United States designated by the Attorney General, shall conduct a personal investigation of the person applying for naturalization in the vicinity or vicinities in which such person has maintained his actual place of abode and in the vicinity or vicinities in which such person has been employedor has engaged in business or work for at least five years immediately preceding the filing of his application for naturalization. The Attorney General may, in his discretion, waive a personal investigation in an individual case or in such cases or classes of cases as may be designated by him.
+Before a person may be naturalized, an employee of the Service, or of the United States designated by the Attorney General, shall conduct a personal investigation of the person applying for naturalization in the vicinity or vicinities in which such person has maintained his actual place of abode and in the vicinity or vicinities in which such person has been employed or has engaged in business or work for at least five years immediately preceding the filing of his application for naturalization. The Attorney General may, in his discretion, waive a personal investigation in an individual case or in such cases or classes of cases as may be designated by him.
 
 #### (b) Conduct of examinations; authority of designees; record
 
-The Attorney General shall designate employees of the Service to conduct examinations upon applications for naturalization. For such purposes any such employee so designated is authorized to take testimony concerning any matter touching or in any way affecting the admissibility of any applicant for naturalization, to administer oaths, including the oath of the applicant for naturalization, and to require by subpena the attendance and testimony of witnesses, including applicant, before such employee so designated and the production of relevant books, papers, and documents, and to that end may invoke the aid of any district court of the United States; and any such court may, in the event of neglect or refusal to respond to a subpena issued by any such employee so designated or refusal to testify before such employee so designated issue an order requiring such person to appear before such employee so designated, produce relevant books, papers, and documents if demanded, and testify; and any failure to obey such order of the court may be punished by the court as a contempt thereof. The record of the examination authorized by this subsection shall be admissible as evidence in any hearing conducted by an immigration officer under section 1447(a) of this title. Any such employee shall, at the examination, inform the applicant of the remedies available to the applicant under section 1447 of this title.
+The Attorney General shall designate employees of the Service to conduct examinations upon applications for naturalization. For such purposes any such employee so designated is authorized to take testimony concerning any matter touching or in any way affecting the admissibility of any applicant for naturalization, to administer oaths, including the oath of the applicant for naturalization, and to require by subpena the attendance and testimony of witnesses, including applicant, before such employee so designated and the production of relevant books,papers, and documents, and to that end may invoke the aid of any district court of the United States; and any such court may, in the event of neglect or refusal to respond to a subpena issued by any such employee so designated or refusal to testify before such employee so designated issue an order requiring such person to appear before such employee so designated, produce relevant books, papers, and documents if demanded, and testify; and any failure to obey such order of the court may be punished by the court as a contempt thereof. The record of the examination authorized by this subsection shall be admissible as evidence in any hearing conducted by an immigration officer under section 1447(a) of this title. Any such employee shall, at the examination, inform the applicant of the remedies available to the applicant under section 1447 of this title.
 
 #### (c) Transmittal of record of examination
 
@@ -48,7 +48,7 @@ Subsec. (f)(2). Pub. L. 100–525, §9(bb), struck out before period at end “,
 
 1981—Subsec. (b). Pub. L. 97–116, §15(c)(1), struck out “and the oaths of petitioner's witnesses to the petition for naturalization” after “oath of the petitioner for naturalization”.
 
-Subsec. (f). Pub. L. 97–116, §15(c)(2), (3), redesignated subsec. (i) as (f) and struck out former subsec. (f) which required affidavits of at least two credible witnesses,citizens of the United States, concerning the residency and the good moral character, etc., of the petitioner.
+Subsec. (f). Pub. L. 97–116, §15(c)(2), (3), redesignated subsec. (i) as (f) and struck out former subsec. (f) which required affidavits of at least two credible witnesses, citizens of the United States, concerning the residency and the good moral character, etc., of the petitioner.
 
 Subsec. (g). Pub. L. 97–116, §15(c)(2), struck out subsec. (g) which related to proof of residence at the hearing on the petition.
 
@@ -66,13 +66,9 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Criminal Background Checks
 
 Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “That during fiscal year 1998 and each fiscal year thereafter, none of the funds appropriated or otherwise made available to the Immigration and Naturalization Service shall be used to complete adjudication of an application for naturalization unless the Immigration and Naturalization Service has received confirmation from the Federal Bureau of Investigation that a full criminal background check has been completed, except for those exempted by regulation as of January 1, 1997”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1447 of this title.
 

@@ -34,7 +34,3 @@ This section \[section 40\] inserts “Air Force,” in section 1715 of title 18
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 922 of this title; title 19 section 1583; title 39 section 3001.
-

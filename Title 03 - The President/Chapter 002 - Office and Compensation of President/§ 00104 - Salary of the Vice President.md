@@ -38,7 +38,7 @@ Section 101 of Pub. L. 101–356 provided that the amendment made by that sectio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990,see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1989 Amendment
 
@@ -66,9 +66,11 @@ Amendment by act Jan. 19, 1949, effective noon, Jan. 20, 1949, see section 3 of 
 
 #### Salary Increases
 
-2004—Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2004.
+2005—Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2005.
 
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for the adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5.
+2004—Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for the adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5.
+
+Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for the adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of Title 5.
 
 2003—Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, which provided for the adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
 
@@ -112,7 +114,7 @@ Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustmen
 
 1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for the adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1983, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 
-Maximum rate payable after Dec. 17, 1982, increased from $79,125 to $91,000, see Pub. L. 97–377, title I,§129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
+Maximum rate payable after Dec. 17, 1982, increased from $79,125 to $91,000, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5.
 
@@ -139,8 +141,4 @@ Pub. L. 95–66, §1(1), July 11, 1977, 91 Stat. 270, set out as a note under se
 1976—Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, which provided for the adjustment of pay rates effective Oct. 1, 1976, was superseded by Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, formerly set out as a note under section 5332 of Title 5.
 
 1975—Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, which provided for the adjustment of pay rates effective Oct. 1, 1975, was superseded by Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, formerly set out as a note under section 5332 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 5307, 9502, 9503, 9505, 9902, 9903; title 22 section 7622; title 35 section 3.
 

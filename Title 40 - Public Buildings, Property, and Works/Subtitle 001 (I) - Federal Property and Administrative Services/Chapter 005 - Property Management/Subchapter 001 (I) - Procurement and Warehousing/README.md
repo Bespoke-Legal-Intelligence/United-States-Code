@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PROCUREMENT AND WAREHOUSING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 124 of this title.
-
 
 ---
 

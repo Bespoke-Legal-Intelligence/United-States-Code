@@ -36,7 +36,7 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### (4) Certain adverse information
 
-&emsp;A consumer reporting agency shall not prepare or furnish an investigative consumer report on a consumer that contains information that is adverse to the interest of the consumer and that is obtained through a personal interview with a neighbor, friend, or associate of the consumer or with another person with whom the consumer is acquainted or who has knowledge of such item of information, unless—
+&emsp;A consumer reporting agency shall not prepare or furnish an investigative consumer report on a consumer that contains information that is adverse to the interest of the consumer and that is obtained through a personal interview with a neighbor, friend, or associate of the consumer or with another person withwhom the consumer is acquainted or who has knowledge of such item of information, unless—
 
 &emsp;&emsp;(A) the agency has followed reasonable procedures to obtain confirmation of the information, from an additional source that has independent and direct knowledge of the information; or
 

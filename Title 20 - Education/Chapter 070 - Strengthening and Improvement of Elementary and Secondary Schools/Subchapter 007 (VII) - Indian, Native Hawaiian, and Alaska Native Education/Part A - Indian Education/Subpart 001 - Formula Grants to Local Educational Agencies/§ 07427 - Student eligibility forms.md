@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall require that, as part of an application for a grant under this subpart, eachapplicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b) of this section.
+The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b) of this section.
 
 #### (b) Forms
 
@@ -48,7 +48,7 @@ For purposes of determining whether a child is eligible to be counted for the pu
 
 #### (A) Review
 
-&emsp;&emsp;For each fiscal year, in order to provide such information as is necessary to carry out the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
+&emsp;&emsp;For each fiscal year, in order to provide such information as is necessary to carryout the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
 
 #### (B) Exception
 
@@ -78,7 +78,7 @@ Notwithstanding any other provision of this section, in calculating the amount o
 
 For purposes of determining the number of children to be counted in calculating the amount of a local educational agency's grant under this subpart (other than in the case described in subsection (g)(1) of this section), the local educational agency shall—
 
-&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date orperiod occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title; and
+&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title; and
 
 &emsp;(2) determine that each such child was enrolled, and receiving a free public education, in a school of the agency on that date or during that period, as the case may be.
 
@@ -91,8 +91,4 @@ The Indian Elementary and Secondary School Assistance Act, referred to in subsec
 #### Prior Provisions
 
 A prior section 7427, Pub. L. 89–10, title VII, §7117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to intensified instruction for limited English proficient students, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7423 of this title.
 

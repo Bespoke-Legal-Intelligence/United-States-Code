@@ -14,7 +14,7 @@ Architectural and engineering services.—The term “architectural and engineer
 
 &emsp;&emsp;(B) professional services of an architectural or engineering nature performed by contract that are associated with research, planning, development, design, construction, alteration, or repair of real property; and
 
-&emsp;&emsp;(C) other professional services of an architectural or engineering nature, or incidental services, which members of the architectural and engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
+&emsp;&emsp;(C) other professional services of an architectural or engineering nature, or incidental services, which members of the architecturaland engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
 
 &emsp;(3)
 
@@ -39,8 +39,4 @@ Historical and Revision Notes
 June 30, 1949, ch. 288, title IX, §901, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278; Pub. L. 100–656, title VII, §742, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 100–679, §8, Nov. 17, 1988, 102 Stat. 4068.
 
 In clause (1), the words “Secretary, Administrator, or” are omitted as unnecessary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 1105; title 41 section 253m.
 

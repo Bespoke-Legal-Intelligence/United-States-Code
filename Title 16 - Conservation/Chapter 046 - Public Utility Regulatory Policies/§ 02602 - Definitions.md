@@ -74,7 +74,3 @@ This section was not enacted as part of title I of Pub. L. 95–617 which compri
 
 1992—Pars. (19) to (21). Pub. L. 102–486 added pars. (19) to (21).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 796, 2627 of this title; title 42 sections 2296b–7, 6807, 6807a, 7276c.
-

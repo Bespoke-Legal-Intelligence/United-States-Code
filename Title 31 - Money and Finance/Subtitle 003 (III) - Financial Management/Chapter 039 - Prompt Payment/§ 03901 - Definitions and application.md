@@ -12,7 +12,7 @@
 
 &emsp;(3) “proper invoice” is an invoice containing or accompanied by substantiating documentation the Director of the Office of Management and Budget may require by regulation and the head of the appropriate agency may require by regulation or contract.
 
-&emsp;(4) for the purposes of determining a payment due date and the date upon which anylate payment interest penalty shall begin to accrue, the head of the agency is deemed to receive an invoice—
+&emsp;(4) for the purposes of determining a payment due date and the date upon which any late payment interest penalty shall begin to accrue, the head of the agency is deemed to receive an invoice—
 
 &emsp;&emsp;(A) on the later of—
 
@@ -46,7 +46,7 @@
 
 (5) Except as provided in section 3904 of this title, this chapter does not require an interest penalty on a payment that is not made because of a dispute between the head of an agency and a business concern over the amount of payment or compliance with the contract. A claim related to the dispute, and any interest payable for the period during which the dispute is being resolved, is subject to the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, §2(a)–(c)(1), Oct. 17, 1988, 102 Stat. 2455; Pub. L. 105–277, div. A, §101(c) \[title I, §162(a)\], Oct. 21, 1998, 112 Stat. 2681–121, 2681–148; Pub. L. 105–362, title XIII, §1301(c)(2)(A), Nov. 10, 1998, 112 Stat. 3293.)
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2474; amended Pub. L. 100–496, §2(a)–(c)(1),Oct. 17, 1988, 102 Stat. 2455; Pub. L. 105–277, div. A, §101(c) \[title I, §162(a)\], Oct. 21, 1998, 112 Stat. 2681–121, 2681–148; Pub. L. 105–362, title XIII, §1301(c)(2)(A), Nov. 10, 1998, 112 Stat. 3293.)
 
 Historical and Revision Notes
 
@@ -99,8 +99,4 @@ Amendment by section 2(a), (b) of Pub. L. 100–496 applicable to payments under
 #### Short Title of 1988 Amendment
 
 Section 1 of Pub. L. 100–496 provided that: “This Act \[enacting section 3905 of this title, amending this section, sections 3902 to 3904 and 3906 of this title, section 644 of Title 15, Commerce and Trade, and section 410 of Title 39, Postal Service, renumbering sections 3905 and 3906 of this title as 3906 and 3907, respectively, enacting provisions set out as notes under sections 3902, 3903, and 3906 of this title, and repealing provisions set out as a note under section 3903 of this title\] may be cited as the ‘Prompt Payment Act Amendments of 1988’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3903 of this title.
 

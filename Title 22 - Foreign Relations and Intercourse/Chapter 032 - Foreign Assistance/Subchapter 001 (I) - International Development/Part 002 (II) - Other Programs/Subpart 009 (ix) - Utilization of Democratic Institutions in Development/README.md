@@ -1,9 +1,5 @@
 subpart ix—utilization of democratic institutions in development
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 290h of this title.
-
 
 ---
 

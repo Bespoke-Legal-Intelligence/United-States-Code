@@ -134,7 +134,3 @@ Sec. 8. This order is intended only to improve the internal management of the ex
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3362 of this title.
-

@@ -8,7 +8,3 @@ No yearly renewable term insurance or United States Government life insurance sh
 
 1991—Pub. L. 102–83 renumbered section 754 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1947 of this title.
-

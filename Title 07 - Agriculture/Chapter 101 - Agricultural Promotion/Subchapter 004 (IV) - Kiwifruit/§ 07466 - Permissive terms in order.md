@@ -22,7 +22,3 @@ The order may authorize the Board to use, with the approval of the Secretary, fu
 
 (Pub. L. 104–127, title V, §557, Apr. 4, 1996, 110 Stat. 1070.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7465 of this title.
-

@@ -20,7 +20,7 @@ As used in this subpart—
 
 &emsp;&emsp;(2) does not include a branch, however organized, of a bank or other financial institution that is organized under the laws of a country in which the Corporation does not operate.
 
-(Pub. L. 87–195, pt. I, §238, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 815;amended Pub. L. 92–226, pt. I, §104(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 97–65, §7, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 99–204, §17(a), Dec. 23, 1985, 99 Stat. 1676; Pub. L. 102–549, title I, §106, Oct. 28, 1992, 106 Stat. 3653; Pub. L. 108–158, §§4(b), 5(b), Dec. 3, 2003, 117 Stat. 1950.)
+(Pub. L. 87–195, pt. I, §238, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 815; amended Pub. L. 92–226, pt. I, §104(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 97–65, §7, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 99–204, §17(a), Dec. 23, 1985, 99 Stat. 1676; Pub. L. 102–549, title I, §106, Oct. 28, 1992, 106 Stat. 3653; Pub. L. 108–158, §§4(b), 5(b), Dec. 3, 2003, 117 Stat. 1950.)
 
 #### References in Text
 
@@ -45,10 +45,6 @@ Subsec. (g). Pub. L. 108–158, §5(b)(2), (3), added subsec. (g).
 1981—Subsec. (a). Pub. L. 97–65 substituted “contribution or commitment of funds” for “contribution of funds”.
 
 1972—Subsec. (c). Pub. L. 92–226 struck out “required by law to be” after “share capital,” in first proviso.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2182, 2186 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,9 +26,5 @@ Act Apr. 11, 1956, which enacted this chapter, is popularly known as the “Colo
 
 #### Purpose of 1968 Amendment
 
-Section 501(a) of Pub. L. 90–537 provided that the amendment of this section and section 620a of this title by such section 501(a) were made in order to provide for the construction, operation, and maintenance of the Animas-La Plata Federal reclamation project, Colorado-New Mexico; the Dolores, Dallas Creek, West Divide, and San Miguel Federal reclamation projects, Colorado; and the Central Utah project (Uintah Unit), Utah, as participating projects under the Colorado River Storage Project Act, and to provide for the completion of planning reports on other participating projects.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 620b, 620c, 1595 of this title.
+Section 501(a) of Pub. L. 90–537 provided that the amendment of this section and section 620a of this titleby such section 501(a) were made in order to provide for the construction, operation, and maintenance of the Animas-La Plata Federal reclamation project, Colorado-New Mexico; the Dolores, Dallas Creek, West Divide, and San Miguel Federal reclamation projects, Colorado; and the Central Utah project (Uintah Unit), Utah, as participating projects under the Colorado River Storage Project Act, and to provide for the completion of planning reports on other participating projects.
 

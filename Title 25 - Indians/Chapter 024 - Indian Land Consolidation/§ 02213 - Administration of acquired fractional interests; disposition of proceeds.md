@@ -4,51 +4,63 @@
 
 Subject to the conditions described in subsection (b)(1) of this section, an Indian tribe receiving a fractional interest under section 2212 of this title may, as a tenant in common with the other owners of the trust or restricted lands, lease the interest, sell the resources, consent to the granting of rights-of-way, or engage in any other transaction affecting the trust or restricted land authorized by law.
 
-#### (b) Conditions
+#### (b) Application of revenue from acquired interests to land consolidation program
 
 #### (1) In general
 
-&emsp;The conditions described in this paragraph are as follows:
+&emsp;The Secretary shall have a lien on any revenue accruing to an interest described in subsection (a) of this section until the Secretary provides for the removal of the lien under paragraph (3), (4), or (5).
 
-&emsp;&emsp;(A) Until the purchase price paid by the Secretary for an interest referred to in subsection (a) of this section has been recovered, or until the Secretary makes any of the findings under paragraph (2)(A), any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interest shall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary.
+#### (2) Requirements
 
-&emsp;&emsp;(B) Subject to subparagraph (C), the Secretary shall deposit any revenue derived under subparagraph (A) into the Acquisition Fund created under section 2215 of this title.
+#### (A) In general
 
-&emsp;&emsp;(C) The Secretary shall deposit any revenue that is paid under subparagraph (A) that is in excess of the purchase price of the fractional interest involved to the credit of the Indian tribe that receives the fractional interest under section 2212 of this title and the tribe shall have access to such funds in the same manner as other funds paid to the Secretary for the use of lands held in trust for the tribe.
+&emsp;&emsp;Until the Secretary removes a lien from an interest in land under paragraph (1)—
 
-&emsp;&emsp;(D) Notwithstanding any other provision of law, including section 476 of this title, with respect to any interest acquired by the Secretary under section 2212 of this title, the Secretary may approve a transaction covered under this section on behalf of a tribe until—
+&emsp;&emsp;&emsp;(i) any lease, resource sale contract, right-of-way, or other document evidencing a transaction affecting the interest shall contain a clause providing that all revenue derived from the interest shall be paid to the Secretary; and
 
-&emsp;&emsp;&emsp;(i) the Secretary makes any of the findings under paragraph (2)(A); or
+&emsp;&emsp;&emsp;(ii) any revenue derived from any interest acquired by the Secretary in accordance with section 2212 of this title shall be deposited in the fund created under section 2215 of this title.
 
-&emsp;&emsp;&emsp;(ii) an amount equal to the purchase price of that interest has been paid into the Acquisition Fund created under section 2215 of this title.
+#### (B) Approval of transactions
 
-#### (2) Exception
+&emsp;&emsp;Notwithstanding section 476 of this title, or any other provision of law, until the Secretary removes a lien from an interest in land under paragraph (1), the Secretary may approve a transaction covered under this section on behalf of an Indian tribe.
 
-&emsp;Paragraph (1)(A) shall not apply to any revenue derived from an interest in a parcel of land acquired by the Secretary under section 2212 of this title after—
+#### (3) Removal of liens after findings
 
-&emsp;&emsp;(A) the Secretary makes a finding that—
+&emsp;The Secretary may remove a lien referred to in paragraph (1) if the Secretary makes a finding that—
 
-&emsp;&emsp;&emsp;(i) the costs of administering the interest will equal or exceed the projected revenues for the parcel involved;
+&emsp;&emsp;(A) the costs of administering the interest from which revenue accrues under the lien will equal or exceed the projected revenues for the parcel of land involved;
 
-&emsp;&emsp;&emsp;(ii) in the discretion of the Secretary, it will take an unreasonable period of time for the parcel to generate revenue that equals the purchase price paid for the interest; or
+&emsp;&emsp;(B) in the discretion of the Secretary, it will take an unreasonable period of time for the parcel of land to generate revenue that equals the purchase price paid for the interest; or
 
-&emsp;&emsp;&emsp;(iii) a subsequent decrease in the value of land or commodities associated with the land make it likely that the interest will be unable to generate revenue that equals the purchase price paid for the interest in a reasonable time; or
+&emsp;&emsp;(C) a subsequent decrease in the value of land or commodities associated with the parcel of land make it likely that the interest will be unable to generate revenue that equals the purchase price paid for the interest in a reasonable time.
 
-&emsp;&emsp;(B) an amount equal to the purchase price of that interest in land has been paid into the Acquisition Fund created under section 2215 of this title.
+#### (4) Removal of liens upon payment into the acquisition fund
+
+&emsp;The Secretary shall remove a lien referred to in paragraph (1) upon payment of an amount equal to the purchase price of that interest in land into the Acquisition Fund created under section 2215 <sup>1</sup> of this title, except where the tribe with jurisdiction over such interest in land authorizes the Secretary to continue the lien in order to generate additional acquisition funds.
+
+#### (5) Other removal of liens
+
+&emsp;The Secretary may, in consultation with tribal governments and other entities described in section 2212(b)(3) of this title, periodically remove liens referred to in paragraph (1) from interests in land acquired by the Secretary.
 
 #### (c) Tribe not treated as party to lease; no effect on tribal sovereignty, immunity
 
 #### (1) In general
 
-&emsp;Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
+&emsp;Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease oragreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
 
 #### (2) Application of lease
 
 &emsp;The lease or agreement described in paragraph (1) shall apply to the portion of the undivided interest in allotted land described in such paragraph (including entitlement of the Indian tribe to payment under the lease or agreement), and the Indian tribe shall not be treated as being a party to the lease or agreement. Nothing in this section (or in the lease or agreement) shall be construed to affect the sovereignty of the Indian tribe.
 
-(Pub. L. 97–459, title II, §214, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2000.)
+(Pub. L. 97–459, title II, §214, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2000; amended Pub. L. 108–374, §6(a)(6), Oct. 27, 2004, 118 Stat. 1801.)
 
-#### Section Referred to in Other Sections
+#### References in Text
 
-This section is referred to in section 2212 of this title.
+Section 2215 of this title, referred to in the original in subsec. (b)(4), probably should have been “section 216”, meaning section 216 of Pub. L. 97–459, which is classified to section 2215 of this title and relates to the establishment of an Acquisition Fund. Pub. L. 97–459 does not contain a section 2215.
+
+#### Amendments
+
+2004—Subsec. (b). Pub. L. 108–374 added subsec. (b) and struck out heading and text of former subsec. (b) which related to conditions applicable to the administration by Indian tribes of acquired fractional interests in trust or restricted lands.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

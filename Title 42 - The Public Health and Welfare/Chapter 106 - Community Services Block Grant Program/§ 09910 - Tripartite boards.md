@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B)(i) not fewer than 1/3 of the members are persons chosen in accordance with democratic selection procedures adequate to assure that these members are representative of low-income individuals and families in the neighborhood served; and
 
-&emsp;&emsp;(ii) each representative of low-income individuals and families selected to represent a specific neighborhood within a community under clause (i) resides in the neighborhood represented by the member; and
+&emsp;&emsp;(ii) each representative of low-income individuals and families selected to represent a specific neighborhood within a communityunder clause (i) resides in the neighborhood represented by the member; and
 
 &emsp;&emsp;(C) the remainder of the members are officials or members of business, industry, labor, religious, law enforcement, education, or other major groups and interests in the community served.
 
@@ -47,8 +47,4 @@ A prior section 9910b, Pub. L. 99–425, title IV, §408, Sept. 30, 1986, 100 St
 A prior section 9910c, Pub. L. 97–35, title VI, §682, as added Pub. L. 103–252, title II, §205(2), May 18, 1994, 108 Stat. 655; amended Pub. L. 105–244, title I, §102(a)(13)(I), Oct. 7, 1998, 112 Stat. 1621, related to national or regional programs designed to provide instructional activities for low-income youth, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 A prior section 9910d, Pub. L. 100–485, title V, §505, Oct. 13, 1988, 102 Stat. 2404, as amended, which related to demonstration partnership agreements addressing needs of poor, was transferred to section 9926 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3026, 9812a, 9902, 9909, 9920 of this title.
 

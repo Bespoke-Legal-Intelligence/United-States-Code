@@ -100,7 +100,7 @@ Subsec. (c)(1). Pub. L. 104–235, §104(3)(A), designated existing provisions a
 
 Subsec. (c)(1)(A). Pub. L. 104–235, §104(3)(B), redesignated par. (1) as (1)(A) and realigned margin.
 
-Subsec. (c)(1)(B). Pub. L. 104–235, §104(3)(B), (C), redesignated par. (2) as (1)(B), realigned margin, and substituted “involved with child abuse and neglect and mechanisms for the sharing of such information among other Federal agencies and clearinghouses” for “that is represented on the task force”.
+Subsec. (c)(1)(B). Pub. L. 104–235, §104(3)(B), (C), redesignated par. (2) as (1)(B), realigned margin, and substituted “involved with child abuse and neglect andmechanisms for the sharing of such information among other Federal agencies and clearinghouses” for “that is represented on the task force”.
 
 Subsec. (c)(1)(C). Pub. L. 104–235, §104(3)(B), (C), redesignated par. (3) as (1)(C), realigned margin, and substituted “Federal, State, regional, and local child welfare data systems which shall include—
 
@@ -134,5 +134,5 @@ Subsec. (b)(3). Pub. L. 101–126, §6, added par. (3).
 
 Pub. L. 98–457, §104(b), struck out subsec. (b) which authorized appropriations for fiscal years ending Sept. 30, 1978, Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981, respectively, for purpose of making grants and entering into contracts for programs and projects designed to prevent, identify, and treat sexual abuse of children.
 
-1978—Pub. L. 95–266 designated existing provisions as subsec. (a), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, through fiscalyear ending Sept. 30, 1981, and provisions setting forth funding requirements for child abuse and neglect programs and projects, and added subsec. (b).
+1978—Pub. L. 95–266 designated existing provisions as subsec. (a), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1981, and provisions setting forth funding requirements for child abuse and neglect programs and projects, and added subsec. (b).
 

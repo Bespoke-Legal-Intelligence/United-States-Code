@@ -4,7 +4,3 @@ The seaward boundary of each original coastal State is approved and confirmed as
 
 (May 22, 1953, ch. 65, title II, §4, 67 Stat. 31.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1301 of this title.
-

@@ -34,7 +34,3 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title IV, §404G, as added Pub. L. 107–280, §4, Nov. 6, 2002, 116 Stat. 1990.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 283h of this title.
-

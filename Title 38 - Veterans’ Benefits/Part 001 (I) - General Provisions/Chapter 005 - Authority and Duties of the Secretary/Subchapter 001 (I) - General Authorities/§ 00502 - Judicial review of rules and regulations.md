@@ -10,7 +10,3 @@ Prior section 502 was renumbered section 1502 of this title.
 
 Provisions similar to those in this section were contained in section 223(c) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 511 of this title.
-

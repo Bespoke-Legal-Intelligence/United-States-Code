@@ -4,7 +4,3 @@ The Secretary shall review the five-year plan and each annual program submitted 
 
 (Pub. L. 89–182, §6, Sept. 14, 1965, 79 Stat. 681.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1357 of this title.
-

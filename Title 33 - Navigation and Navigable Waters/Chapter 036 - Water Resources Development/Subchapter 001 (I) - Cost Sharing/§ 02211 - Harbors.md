@@ -82,7 +82,7 @@ Subsec. (a)(3). Pub. L. 104–303, §201(a)(2), inserted “and” after “righ
 
 Subsec. (a)(5). Pub. L. 104–303, §201(a)(3), added par. (5).
 
-Subsec. (b). Pub. L. 104–303, §201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
+Subsec. (b). Pub. L. 104–303, §201(b), designated existing provisions as par. (1), inserted heading, realignedmargins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
 
 Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
 
@@ -136,13 +136,9 @@ Section 201(g) of Pub. L. 104–303 provided that: “Nothing in this section \[
 
 &emsp;“(2) any confined dredged material disposal facility for which the invitation for bids for construction was issued before the date of the enactment of this Act \[Oct. 12, 1996\]; and
 
-&emsp;“(3) expanding any confined dredged material disposal facility constructed under section 123 of theRiver and Harbor Act of 1970 (33 U.S.C. 1293a) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
+&emsp;“(3) expanding any confined dredged material disposal facility constructed under section 123 of the River and Harbor Act of 1970 (33 U.S.C. 1293a) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
 
 #### Dredged Material Disposal Areas Study
 
 Section 216 of Pub. L. 102–580 directed Secretary to conduct a study on the need for changes in Federal law and policy with respect to dredged material disposal areas for construction and maintenance of harbors and inland harbors by Secretary and, not later than 18 months after Oct. 31, 1992, to transmit to Congress a report on the results of the study, together with recommendations of the Secretary.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2213, 2215, 2232, 2236 of this title.
 

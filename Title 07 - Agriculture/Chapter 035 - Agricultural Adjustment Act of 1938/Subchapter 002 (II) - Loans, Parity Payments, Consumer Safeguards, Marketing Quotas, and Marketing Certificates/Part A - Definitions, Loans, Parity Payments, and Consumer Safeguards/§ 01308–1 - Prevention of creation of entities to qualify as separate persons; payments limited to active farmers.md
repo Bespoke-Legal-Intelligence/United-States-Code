@@ -14,7 +14,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (3) Notification by entities
 
-&emsp;To facilitate administration of this subsection, each entity receiving such payments as a separate person shall notify each individual or other entity that acquires or holds a substantial beneficial interest in it of the requirements and limitations under this subsection. Each such entity receiving payments shall provide to the Secretary of Agriculture, at such times and in such manner as prescribed by the Secretary, the name and social security number of each individual, or the name and taxpayer identification number of each entity, that holds or acquires a substantial beneficial interest.
+&emsp;To facilitate administration of this subsection, each entity receiving such payments as a separate person shall notify each individual or other entity that acquires or holds asubstantial beneficial interest in it of the requirements and limitations under this subsection. Each such entity receiving payments shall provide to the Secretary of Agriculture, at such times and in such manner as prescribed by the Secretary, the name and social security number of each individual, or the name and taxpayer identification number of each entity, that holds or acquires a substantial beneficial interest.
 
 #### (4) Notification of interest
 
@@ -76,7 +76,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) Landowners
 
-&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation if the landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
+&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation ifthe landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
 
 #### (B) Family members
 
@@ -92,7 +92,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) Landlords
 
-&emsp;&emsp;A landlord contributing land to the farming operation if the landlord receives cashrent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for such use of the land.
+&emsp;&emsp;A landlord contributing land to the farming operation if the landlord receives cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for such use of the land.
 
 #### (B) Other persons
 
@@ -147,10 +147,6 @@ Section 1302 of Pub. L. 100–203 provided that the amendment made by that secti
 #### Effective Date
 
 Section 1301(a) of Pub. L. 100–203 provided that this section is effective beginning with 1989 crops.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1308, 1308–2, 1308–4, 7215, 7996 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

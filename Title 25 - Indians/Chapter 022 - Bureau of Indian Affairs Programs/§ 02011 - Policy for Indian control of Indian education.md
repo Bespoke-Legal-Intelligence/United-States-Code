@@ -22,7 +22,7 @@ It shall be the policy of the United States acting through the Secretary, in car
 
 &emsp;&emsp;&emsp;(i) to present issues (including proposals regarding changes in current practices or programs) that will be considered for future action by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) to participate and discuss the options presented, or to present alternatives, with the views and concerns of the interested parties given effect unless the Secretary determines, from information available from or presented by the interested parties during one or more of the discussions and deliberations, that there is a substantial reason for another course of action.
+&emsp;&emsp;&emsp;(ii) to participate and discuss the options presented, or to present alternatives, withthe views and concerns of the interested parties given effect unless the Secretary determines, from information available from or presented by the interested parties during one or more of the discussions and deliberations, that there is a substantial reason for another course of action.
 
 #### (C) Explanation by Secretary
 
@@ -38,9 +38,5 @@ This Act, referred to in subsec. (b)(1), means Pub. L. 95–561, Nov. 1, 1978, 9
 
 A prior section 2011, Pub. L. 95–561, title XI, §1131, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4001, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 107–110.
 
-Another prior section 2011, Pub. L. 95–561, title XI, §1131, Nov. 1, 1978, 92 Stat. 2322; 1978 Reorg. Plan No. 2,§102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–511, title V, §507(b), Oct. 19, 1984, 98 Stat. 2396; Pub. L. 100–297, title V, §§5112(a), (b)(1), 5114, 5115, Apr. 28, 1988, 102 Stat. 377, 378, 380; Pub. L. 100–427, §9(a)–(c), Sept. 9, 1988, 102 Stat. 1606, related to education personnel, prior to the general amendment of this chapter by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 472a, 2001, 2008 of this title.
+Another prior section 2011, Pub. L. 95–561, title XI, §1131, Nov. 1, 1978, 92 Stat. 2322; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 98–511, title V, §507(b), Oct. 19, 1984, 98 Stat. 2396; Pub. L. 100–297, title V, §§5112(a), (b)(1), 5114, 5115, Apr. 28, 1988, 102 Stat. 377, 378, 380; Pub. L. 100–427, §9(a)–(c), Sept. 9, 1988, 102 Stat. 1606, related to education personnel, prior to the general amendment of this chapter by Pub. L. 103–382.
 

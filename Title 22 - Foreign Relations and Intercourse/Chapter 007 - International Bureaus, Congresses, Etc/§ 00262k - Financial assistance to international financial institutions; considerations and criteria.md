@@ -2,11 +2,11 @@
 
 #### (a) Congressional declaration of intent
 
-United States active participation in international financial institution activity is based on our national objective of furthering the economic and social development of the nations of the world, in particular the developing nations. The attainment of this national objective is most effectively realized through a world economic and financial system which is both free and stable. Therefore, it is the intent of the United States Congress that United States financial assistance to the international financial institutions should be primarily directed to those projects that would not generate excess commodity supplies in world markets, displace private investment initiatives or foster departures from a market-oriented economy.
+United States active participation in international financial institution activity is based on our national objective of furthering the economic and social development of the nations of the world, in particular the developing nations. The attainment of this national objective is most effectively realized through a world economic and financial system which is both free and stable. Therefore, it is the intent of the United States Congress that United States financial assistance to the international financial institutions should be primarily directed tothose projects that would not generate excess commodity supplies in world markets, displace private investment initiatives or foster departures from a market-oriented economy.
 
 #### (b) Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization
 
-The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industrysectors and international commodity markets in order to—
+The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
 
 &emsp;(1) minimize any projected adverse impacts on such sector or markets of making such loans, credits, or utilization of resources; and
 
@@ -30,7 +30,7 @@ The international financial institutions referred to in subsections (a) and (b) 
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (c)(2) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.
 
 #### Copper Mining, Smelting, and Refining
 

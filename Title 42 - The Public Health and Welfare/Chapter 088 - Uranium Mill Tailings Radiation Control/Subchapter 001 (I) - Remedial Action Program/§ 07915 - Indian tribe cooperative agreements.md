@@ -18,7 +18,3 @@ When the Secretary with the concurrence of the Commission determines removal of 
 
 (Pub. L. 95–604, title I, §105, Nov. 8, 1978, 92 Stat. 3028.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7913 of this title.
-

@@ -16,7 +16,3 @@ Notwithstanding the exemption set forth in section 80a–6(f) of this title, sec
 
 1996—Subsec. (b)(1). Pub. L. 104–290 inserted “and capital structure” after “portfolio”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 80a–2, 80a–6, 80a–53, 80a–60, 80b–2 of this title.
-

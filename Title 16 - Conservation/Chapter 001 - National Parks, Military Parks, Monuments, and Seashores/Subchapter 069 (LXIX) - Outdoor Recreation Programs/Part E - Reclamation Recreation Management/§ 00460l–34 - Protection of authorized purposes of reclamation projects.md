@@ -12,7 +12,3 @@ This part, referred to in text, was in the original “this title”, meaning ti
 
 The Federal Water Project Recreation Act, referred to in subsec. (b), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–12 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>l</i>–33 of this title.
-

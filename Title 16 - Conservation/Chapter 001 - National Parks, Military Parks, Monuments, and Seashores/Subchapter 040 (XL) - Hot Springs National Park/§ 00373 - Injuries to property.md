@@ -4,7 +4,3 @@ Any person who shall, within the tract mentioned in section 372 of this title, c
 
 (Apr. 20, 1904, ch. 1400, §3, 33 Stat. 187.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 372 of this title.
-

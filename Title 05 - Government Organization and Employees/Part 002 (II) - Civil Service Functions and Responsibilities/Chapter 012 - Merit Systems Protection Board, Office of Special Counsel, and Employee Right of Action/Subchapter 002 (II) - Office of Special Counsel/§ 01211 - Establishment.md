@@ -20,7 +20,3 @@ Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 
 
 Section 8(c) of Pub. L. 101–12 provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 4324; title 49 section 40122.
-

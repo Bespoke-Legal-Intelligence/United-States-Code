@@ -24,7 +24,7 @@ Requirements for Advances.—An advance shall not be made under subsection (a) f
 
 &emsp;(2) the project conforms to an overall state, local, or regional plan approved by a competent state, local, or regional authority; and
 
-&emsp;(3) the public agency or Indian tribe formally contracts with the Federal Government to complete the plan preparation promptly and to repay part or all of the advance when due.
+&emsp;(3) the public agency or Indian tribe formally contracts with the Federal Governmentto complete the plan preparation promptly and to repay part or all of the advance when due.
 
 (e)
 
@@ -53,8 +53,4 @@ In subsection (a), the words “section 3324(a) and (b) of title 31” are subst
 In subsection (c), the words “in any way” are omitted as unnecessary.
 
 In subsection (e), the word “rules” is omitted as being included in “regulations”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 5153.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—FOREIGN SECURITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 25 section 646.
-
 
 ---
 

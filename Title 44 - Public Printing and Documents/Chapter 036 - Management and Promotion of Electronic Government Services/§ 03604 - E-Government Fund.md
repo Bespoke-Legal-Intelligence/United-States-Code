@@ -108,7 +108,7 @@
 
 Section 204 of the E-Government Act of 2002, referred to in subsec. (d), is section 204 of Pub. L. 107–347, which is set out in a note under section 3501 of this title.
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 3601, 3602, 3605, 3606 of this title.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

@@ -34,7 +34,3 @@ An application under subsection (a) of this section shall—
 
 (Pub. L. 103–322, title XX, §200207, Sept. 13, 1994, 108 Stat. 2059.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14113 of this title.
-

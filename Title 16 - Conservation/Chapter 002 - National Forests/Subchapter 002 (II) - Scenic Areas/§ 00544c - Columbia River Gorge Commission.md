@@ -40,7 +40,3 @@ The Commission shall establish voluntary technical and citizen advisory committe
 
 (Pub. L. 99–663, §5, Nov. 17, 1986, 100 Stat. 4277.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 544 to 544b, 544d to 544i, 544<i>l</i> to 544p of this title.
-

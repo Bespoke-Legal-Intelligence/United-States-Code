@@ -1,6 +1,6 @@
 ### §331. Mutilation, diminution, and falsification of coins
 
-Whoever fraudulently alters, defaces, mutilates, impairs, diminishes, falsifies, scales, or lightens any of the coins coined at the mints of the United States, or any foreign coins which are by law made current or are in actual use or circulation as money within the United States; or
+Whoever fraudulently alters, defaces, mutilates, impairs, diminishes, falsifies, scales, or lightens any of the coins coined at the mints of the United States, or any foreign coins whichare by law made current or are in actual use or circulation as money within the United States; or
 
 Whoever fraudulently possesses, passes, utters, publishes, or sells, or attempts to pass, utter, publish, or sell, or brings into the United States, any such coin, knowing the same to be altered, defaced, mutilated, impaired, diminished, falsified, scaled, or lightened—
 
@@ -23,8 +23,4 @@ Changes were also made in phraseology.
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
 1951—Act July 16, 1951, made section applicable to minor coins (5-cent and 1-cent pieces), and to fraudulent alteration of coins.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 492 of this title.
 

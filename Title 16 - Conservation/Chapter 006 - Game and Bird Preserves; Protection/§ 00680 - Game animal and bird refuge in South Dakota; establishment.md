@@ -4,7 +4,3 @@ Subject to valid rights and entries initiated under the public land laws, prior 
 
 (June 7, 1924, ch. 326, §1, 43 Stat. 634.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 681 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OILSEEDS, NUTS, AND KERNELS; FATS, OILS, AND GREASES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 225 of this title.
-
 
 ---
 

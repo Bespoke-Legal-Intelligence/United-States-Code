@@ -10,9 +10,5 @@
 
 1954—Subsec. (b). Act Sept. 3, 1954, substituted “personnel of any branch of the Armed Forces of the United States” for “Army or Navy personnel”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 110 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “purchasers”.</i>
 

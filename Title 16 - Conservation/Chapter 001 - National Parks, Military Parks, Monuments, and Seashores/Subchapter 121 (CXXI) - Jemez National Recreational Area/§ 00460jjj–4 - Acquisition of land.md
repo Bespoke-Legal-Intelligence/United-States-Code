@@ -8,7 +8,7 @@ Land and interests in land within the boundaries of the recreation area that are
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may acquire land and interests in land within the boundaries of the recreation area by donation, purchase with donated or appropriated funds, or exchange.
+&emsp;Subject to paragraph (2), the Secretary may acquire land and interests in land within theboundaries of the recreation area by donation, purchase with donated or appropriated funds, or exchange.
 
 #### (2) Limitation
 

@@ -44,7 +44,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) an alternative diploma or certificate for students with disabilities for whom such alternative diploma or certificate is appropriate;
 
-&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years of postsecondary education (if appropriate); and
+&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years ofpostsecondary education (if appropriate); and
 
 &emsp;&emsp;&emsp;(iii) a skill certificate; and
 
@@ -122,7 +122,7 @@ As used in this chapter:
 
 #### (15) Related services
 
-&emsp;The term “related services” includes the types of services described in section 1401(a)(17) <sup>1</sup> of this title.
+&emsp;The term “related services” includes the types of services described in section 1401 of this title.
 
 #### (16) Rural community with low population density
 
@@ -134,7 +134,7 @@ As used in this chapter:
 
 #### (18) School site mentor
 
-&emsp;The term “school site mentor” means a professional employed at a school who is designated as the advocate for a particular student, and who works in consultation with classroom teachers, counselors, related services personnel, and the employer of the student to design and monitor the progress of the School-to-Work Opportunities program of the student.
+&emsp;The term “school site mentor” means a professional employed at a school who is designated as the advocate for a particular student, and who works in consultation withclassroom teachers, counselors, related services personnel, and the employer of the student to design and monitor the progress of the School-to-Work Opportunities program of the student.
 
 #### (19) School-to-Work Opportunities program
 
@@ -162,13 +162,13 @@ As used in this chapter:
 
 #### (24) State educational agency
 
-&emsp;The term “State educational agency” means the officer or agency primarily responsible forthe State supervision of public elementary and secondary schools.
+&emsp;The term “State educational agency” means the officer or agency primarily responsible for the State supervision of public elementary and secondary schools.
 
 #### (25) Workplace mentor
 
 &emsp;The term “workplace mentor” means an employee or other individual, approved by the employer at a workplace, who possesses the skills and knowledge to be mastered by a student, and who instructs the student, critiques the performance of the student, challenges the student to perform well, and works in consultation with classroom teachers and the employer of the student.
 
-(Pub. L. 103–239, §4, May 4, 1994, 108 Stat. 572; Pub. L. 103–382, title III, §394(j)(1), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(c)(1), Oct. 7, 1998, 112 Stat. 1622.)
+(Pub. L. 103–239, §4, May 4, 1994, 108 Stat. 572; Pub. L. 103–382, title III, §394(j)(1), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(c)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 108–446, title III, §305(f), Dec. 3, 2004, 118 Stat. 2805.)
 
 #### References in Text
 
@@ -178,13 +178,13 @@ The Higher Education Act of 1965, referred to in pars. (11)(B)(viii) and (12), i
 
 The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 1401(a)(17) of this title, referred to in par. (15), was in the original a reference to section 602(a)(17) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “related services”.
-
 The Job Training Partnership Act, referred to in pars. (6), (11)(B)(xiii), and (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part B of title IV of the Act was classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor, and sections 4 and 102 of the Act were classified to sections 1503 and 1512, respectively, of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
 #### Amendments
+
+2004—Par. (15). Pub. L. 108–446 substituted “section 1401” for “section 1401(a)(17)”.
 
 1998—Par. (11)(B)(viii). Pub. L. 105–244, §102(c)(1)(A), substituted “section 102(b)” for “section 481(b)”.
 

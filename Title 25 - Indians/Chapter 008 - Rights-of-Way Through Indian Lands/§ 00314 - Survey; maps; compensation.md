@@ -6,7 +6,3 @@ When proceedings are commenced in court as aforesaid, the railroad company shall
 
 (Mar. 2, 1899, ch. 374, §3, 30 Stat. 991; Feb. 28, 1902, ch. 134, §23, 32 Stat. 50.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 316, 317, 318, 322 of this title.
-

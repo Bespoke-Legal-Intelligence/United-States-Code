@@ -40,7 +40,3 @@ Pub. L. 104–121, §241(a)(1)(A), which directed the insertion of “, or publ
 
 Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29, 1996, but inapplicable to interpretative rules for which a notice of proposed rulemaking was published prior to Mar. 29, 1996, see section 245 of Pub. L. 104–121, set out as a note under section 601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 604, 605, 606, 607, 608, 609, 801 of this title; title 42 section 1302.
-

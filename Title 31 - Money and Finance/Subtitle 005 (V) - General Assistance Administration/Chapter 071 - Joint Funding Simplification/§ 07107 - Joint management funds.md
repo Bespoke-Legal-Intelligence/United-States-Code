@@ -8,7 +8,7 @@
 
 &emsp;(2) provide that the agency administering a fund is responsible and accountable by program and appropriation for the amounts provided for the purposes of each account in the fund; and
 
-&emsp;(3) include procedures for returning, subject to fiscal year limitations, an excess amount toparticipating executive agencies under the applicable appropriation. An excess amount of an expired appropriation lapses from the fund.
+&emsp;(3) include procedures for returning, subject to fiscal year limitations, an excess amount to participating executive agencies under the applicable appropriation. An excess amount of an expired appropriation lapses from the fund.
 
 (c) For each project financed through an account in a joint management fund, a recipient of an amount from the fund shall keep records prescribed by the head of the executive agency responsible for administering the fund. The records shall include—
 
@@ -69,8 +69,4 @@ In subsection (c), before clause (1), the words “established pursuant to this 
 In subsection (d), the word “Records” is substituted for “books, documents, papers, and records”, and the words “shall be made available . . . for inspection and audit” are substituted for “shall have access for the purpose of audit and examination to”, to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. The word “related” is substituted for “that are pertinent”, and the words “an amount” are substituted for the word “money”, for consistency. The words “of the United States”, and “or any of their duly authorized representatives” are omitted as unnecessary.
 
 In subsection (e), the word “For” is substituted for “in the case of” to eliminate unnecessary words. The words “proportional shares” are substituted for “federal share ratios” for clarity.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7108 of this title.
 

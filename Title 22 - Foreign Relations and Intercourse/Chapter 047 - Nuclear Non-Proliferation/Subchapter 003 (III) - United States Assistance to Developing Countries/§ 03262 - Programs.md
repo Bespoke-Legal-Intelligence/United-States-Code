@@ -24,7 +24,7 @@ For the purposes of carrying out this section, there is authorized to be appropr
 
 #### (e) Coordination with related United States activities abroad
 
-Under the direction of the President, the Secretary of State shall ensure the coordination ofthe activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2),<sup>1</sup> and 2151q <sup>1</sup> of this title.
+Under the direction of the President, the Secretary of State shall ensure the coordination of the activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2),<sup>1</sup> and 2151q <sup>1</sup> of this title.
 
 (Pub. L. 95–242, title V, §502, Mar. 10, 1978, 92 Stat. 149.)
 

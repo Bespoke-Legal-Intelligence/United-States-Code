@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—COMPREHENSIVE SERVICE PROGRAMS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2042, 2065 of this title.
-
 
 ---
 

@@ -8,9 +8,5 @@ Any town site set apart or established prior to June 27, 1906, by proclamation o
 
 Sections 711 and 712 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 564, 565, 568 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

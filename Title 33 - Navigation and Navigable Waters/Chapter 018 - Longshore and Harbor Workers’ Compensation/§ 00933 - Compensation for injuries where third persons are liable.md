@@ -2,7 +2,7 @@
 
 #### (a) Election of remedies
 
-If on account of a disability or death for which compensation is payable under this chapter theperson entitled to such compensation determines that some person other than the employer or a person or persons in his employ is liable in damages, he need not elect whether to receive such compensation or to recover damages against such third person.
+If on account of a disability or death for which compensation is payable under this chapter the person entitled to such compensation determines that some person other than the employer or a person or persons in his employ is liable in damages, he need not elect whether to receive such compensation or to recover damages against such third person.
 
 #### (b) Acceptance of compensation operating as assignment
 
@@ -18,7 +18,7 @@ Such employer on account of such assignment may either institute proceedings for
 
 #### (e) Recoveries by assignee
 
-Any amount recovered by such employer on account of such assignment, whether or not as the result of a compromise, shall be distributed as follows:
+Any amount recovered by such employer on account of such assignment, whether or not asthe result of a compromise, shall be distributed as follows:
 
 &emsp;(1) The employer shall retain an amount equal to—
 
@@ -101,8 +101,4 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 905, 907 of this title; title 30 section 932.
 

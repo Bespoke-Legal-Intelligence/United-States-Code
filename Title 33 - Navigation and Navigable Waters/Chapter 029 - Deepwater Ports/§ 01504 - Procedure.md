@@ -6,7 +6,7 @@ The Secretary shall, as soon as practicable after January 3, 1975, and after con
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
-The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
+The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation andpreconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
 #### (c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption
 
@@ -26,7 +26,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 &emsp;(F) with respect to construction in phases, a detailed description of each phase, including anticipated dates of completion for each of the specific components thereof;
 
-&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines whichwill store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
 &emsp;(H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
@@ -46,7 +46,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 (2) As used in this section, “application area” means any reasonable geographical area within which a deepwater port may be constructed and operated. Such application area shall not exceed a circular zone, the center of which is the principal point of loading and unloading at the port, and the radius of which is the distance from such point to the high water mark of the nearest adjacent coastal State.
 
-(3) The Secretary shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of a deepwater port within the designated application area. Persons intending to file applications for such license shall submit a notice of intent to file an application with the Secretary not later than 60 days after the publication of notice pursuant to subsection (c) of this section and shall submit the completed application no later than 90 days after publication of such notice. The Secretary shall publish notice of any such application received in accordance with subsection (c) of this section. No application for a license for the ownership, construction, and operation of a deepwater port within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until the application pending with respect to such application area have been denied pursuant to this chapter.
+(3) The Secretary shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of a deepwater port within the designated application area. Persons intending to file applications for such license shall submit a notice of intent to file an application with the Secretary not later than 60 days after the publication of notice pursuant to subsection (c) of this section and shall submit thecompleted application no later than 90 days after publication of such notice. The Secretary shall publish notice of any such application received in accordance with subsection (c) of this section. No application for a license for the ownership, construction, and operation of a deepwater port within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until the application pending with respect to such application area have been denied pursuant to this chapter.
 
 (4) This subsection shall not apply to deepwater ports for natural gas.
 
@@ -58,7 +58,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 #### (f) NEPA compliance
 
-For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42U.S.C. 4332) \[42 U.S.C. 4321 et seq.\]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
+For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4332) \[42 U.S.C. 4321 et seq.\]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
 
 #### (g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings
 
@@ -98,7 +98,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -129,8 +129,4 @@ Interim final rule.—The Secretary may issue an interim final rule as a tempora
 “(3)
 
 Final rules.—As soon as practicable after the date of the enactment of this Act, the Secretary of Transportation shall issue additional final rules that, in the discretion of the Secretary, are determined to be necessary under the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) for the application and issuance of licenses for a deepwater port for natural gas.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1503, 1505, 1508, 1509, 1513 of this title.
 

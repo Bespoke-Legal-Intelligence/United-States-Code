@@ -16,7 +16,7 @@
 
 #### (A) Trust land status pursuant to regulations
 
-&emsp;&emsp;The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d) <sup>1</sup> of this title, and deposited into trust fund accounts pursuant to subsection (a) of this section, together with any interest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in section 465 of this title and in accordance with the Secretary's trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
+&emsp;&emsp;The funds appropriated and allocated to the Indian Nations pursuant to section 1779c(c) and (d) <sup>1</sup> of this title, and deposited into trust fund accounts pursuant to subsection (a) of this section, together with anyinterest earned thereon, may be used for the acquisition of land by the Indian Nations. The Secretary may accept such lands into trust for the beneficiary Indian Nation pursuant to the authority provided in section 465 of this title and in accordance with the Secretary's trust land acquisition regulations at part 151 of title 25, Code of Federal Regulations, in effect at the time of the acquisition, except for those acquisitions covered by paragraph (1)(B).
 
 #### (B) Required trust land status
 
@@ -59,10 +59,6 @@
 Section 1779c(c) and (d) of this title, referred to in subsec. (b)(1)(A), was in the original “sections 205(c) and (d)” and was translated as reading “section 605(c) and (d)”, meaning section 605(c) and (d) of Pub. L. 107–331, to reflect the probable intent of Congress.
 
 The River and Harbor Act of 1946, as amended by the Flood Control Act of 1948 and the Flood Control Act of 1950, referred to in subsec. (b)(4), probably means the act July 24, 1946, ch. 596, 60 Stat. 641, known as the Flood Control Act of 1946, as amended by act June 30, 1948, ch. 771, title II, 62 Stat. 1175, and act May 17, 1950, ch. 188, title II, 64 Stat. 170. For complete classification of these acts to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1779c, 1779f of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

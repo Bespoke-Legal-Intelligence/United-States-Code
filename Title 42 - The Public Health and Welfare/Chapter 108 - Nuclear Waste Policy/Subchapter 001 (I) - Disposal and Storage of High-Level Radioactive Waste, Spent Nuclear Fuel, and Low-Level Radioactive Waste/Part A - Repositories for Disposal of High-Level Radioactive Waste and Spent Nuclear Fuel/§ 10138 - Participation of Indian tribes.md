@@ -56,10 +56,6 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 1987—Subsec. (b)(5)(iv). Pub. L. 100–202 and Pub. L. 100–203 amended par. (5) identically, adding cl. (iv).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10121, 10135, 10137, 10161, 10166, 10169, 10173a, 10222, 10243 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be designated “(5)(A)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>

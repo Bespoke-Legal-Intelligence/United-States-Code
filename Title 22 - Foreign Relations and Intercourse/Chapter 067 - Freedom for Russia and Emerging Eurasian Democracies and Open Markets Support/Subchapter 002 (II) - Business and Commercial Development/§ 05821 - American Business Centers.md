@@ -48,13 +48,9 @@ To the maximum extent possible, and consistent with the particular purposes of t
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Delegation of Functions
 
 Functions of President under subsec. (a) delegated to Secretary of State except that functions of President under this section, insofar as relating to determinations and directives, delegated to Coordinator, see sections 2(b) and 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5813 of this title; title 15 section 4729.
 

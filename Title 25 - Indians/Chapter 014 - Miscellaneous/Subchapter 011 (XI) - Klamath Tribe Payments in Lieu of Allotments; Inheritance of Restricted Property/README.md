@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—KLAMATH TRIBE: PAYMENTS IN LIEU OF ALLOTMENTS; INHERITANCE OF RESTRICTED PROPERTY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 542 of this title.
-
 
 ---
 

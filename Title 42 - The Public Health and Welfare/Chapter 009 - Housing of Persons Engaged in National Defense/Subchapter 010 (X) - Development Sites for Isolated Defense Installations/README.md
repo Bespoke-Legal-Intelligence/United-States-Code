@@ -4,10 +4,6 @@
 
 For expiration of authority of Housing and Home Administrator to act under this subchapter, see section 1591c of this title.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1592d, 1592f of this title.
-
 
 ---
 

@@ -8,7 +8,3 @@ Within 180 days of October 24, 1992, the Secretary shall issue regulations gover
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2296a of this title.
-

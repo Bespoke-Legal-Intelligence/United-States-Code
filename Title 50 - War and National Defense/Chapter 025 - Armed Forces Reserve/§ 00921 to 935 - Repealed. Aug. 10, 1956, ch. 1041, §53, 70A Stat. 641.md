@@ -10,7 +10,7 @@ Section 924, act July 9, 1952, ch. 608, pt. II, §204, 66 Stat. 483, provided fo
 
 Section 925, acts July 9, 1952, ch. 608, pt. II, §205, 66 Stat. 483; Aug. 9, 1955, ch. 665, §2(a), 69 Stat. 598, prescribed composition and maximum strength of Ready Reserve. See section 10142 of Title 10. Act Aug. 9, 1955, ch. 665, §2(a), 69 Stat. 598 was repealed by Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.
 
-Section 926, act July 9, 1952, ch. 608, pt. II, §206, 66 Stat. 483, related to Standby Reserve, its composition,and for ordering units to active duty. See sections 10151 and 12306 of Title 10.
+Section 926, act July 9, 1952, ch. 608, pt. II, §206, 66 Stat. 483, related to Standby Reserve, its composition, and for ordering units to active duty. See sections 10151 and 12306 of Title 10.
 
 Section 927, act July 9, 1952, ch. 608, pt. II, §207, 66 Stat. 483, related to Retired Reserve, its composition, establishment of reserve retired lists, ordering members into active duty. See sections 1376, 10154, and 12307 of Title 10.
 

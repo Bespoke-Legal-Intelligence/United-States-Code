@@ -16,7 +16,7 @@ To be eligible for assistance under this part, an applicant shall propose to est
 
 &emsp;(6) to provide a written transitional living plan to each youth based on an assessment of such youth's needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 
-&emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Investment Act of 1998), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
+&emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Investment Act of 1998), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to helpintegrate and coordinate such services for youths;
 
 &emsp;(8) to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
 

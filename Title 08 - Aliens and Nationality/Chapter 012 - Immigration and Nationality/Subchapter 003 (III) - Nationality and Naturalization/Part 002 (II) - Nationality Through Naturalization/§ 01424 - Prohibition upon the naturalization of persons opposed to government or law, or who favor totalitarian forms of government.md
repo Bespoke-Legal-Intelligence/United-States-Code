@@ -6,7 +6,7 @@
 
 &emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
 
-&emsp;(3) who, although not within any of the other provisions of this section, advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, either through its own utterances or through any written or printed publications issued or published by or with the permission or consent of or under authority of such organization or paid for by the funds of such organization; or
+&emsp;(3) who, although not within any of the other provisions of this section, advocates the economic, international, and governmentaldoctrines of world communism or the establishment in the United States of a totalitarian dictatorship, or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, either through its own utterances or through any written or printed publications issued or published by or with the permission or consent of or under authority of such organization or paid for by the funds of such organization; or
 
 &emsp;(4) who advocates or teaches or who is a member of or affiliated with any organization that advocates or teaches (A) the overthrow by force or violence or other unconstitutional means of the Government of the United States or of all forms of law; or (B) the duty, necessity, or propriety of the unlawful assaulting or killing of any officer or officers (either of specific individuals or of officers generally) of the Government of the United States or of any other organized government because of his or their official character; or (C) the unlawful damage, injury, or destruction of property; or (D) sabotage; or
 
@@ -44,11 +44,15 @@ Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of act
 
 1994—Subsec. (a)(2). Pub. L. 103–416 substituted “or” for “and” before “(F)”.
 
-1991—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless ofwhether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
+1991—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
 
 1990—Subsec. (c). Pub. L. 101–649 substituted “application” for “petition” wherever appearing.
 
 1988—Subsec. (a)(2)(D). Pub. L. 100–525 substituted “party of” for “party or”.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1994 Amendment
 
@@ -61,8 +65,4 @@ Section effective 180 days after June 27, 1952, see section 407 of act June 27, 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1427, 1435, 1451 of this title.
 

@@ -10,7 +10,7 @@ Form of Notice.—If a notice appears on the copies, it shall consist of the fol
 
 &emsp;(1) the symbol G6�AF (the letter C in a circle), or the word “Copyright”, or the abbreviation “Copr.”; and
 
-&emsp;(2) the year of first publication of the work; in the case of compilations, or derivativeworks incorporating previously published material, the year date of first publication of the compilation or derivative work is sufficient. The year date may be omitted where a pictorial, graphic, or sculptural work, with accompanying text matter, if any, is reproduced in or on greeting cards, postcards, stationery, jewelry, dolls, toys, or any useful articles; and
+&emsp;(2) the year of first publication of the work; in the case of compilations, or derivative works incorporating previously published material, the year date of first publication of the compilation or derivative work is sufficient. The year date may be omitted where a pictorial, graphic, or sculptural work, with accompanying text matter, if any, is reproduced in or on greeting cards, postcards, stationery, jewelry, dolls, toys, or any useful articles; and
 
 &emsp;(3) the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner.
 
@@ -50,7 +50,7 @@ Subsections (a) of both section 401 and section 402 require that a notice be use
 
 Subsection (b) of section 401, which sets out the form of notice to appear on visually-perceptible copies, retains the basic elements of the notice under the present law: the word “Copyright”, the abbreviation “Copr.”, or the symbol “G6�AF”; the year of first publication; and the name of the copyright owner. The year of publication, which is still significant in computing the term and determining the status of a work, is required for all categories of copyrightable works. Clause (2) of subsection (b) makes clear that, in the case of a derivative work or compilation, it is not necessary to list the dates of publication of all preexisting material incorporated in the work; however, as noted below in connection with section 409, the application for registration covering a compilation or derivative work must identify “any preexisting work or works that it is based on or incorporates.” Clause (3) establishes that a recognizable abbreviation or a generally known alternative designation may be used instead of the full name of the copyright owner.
 
-By providing simply that the notice “shall be affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright,” subsection (c) follows the flexible approach of the Universal Copyright Convention. The further provision empowering the Register of Copyrights to set forth in regulations a list of examples of “specific methods of affixation and positions of the notice on various types of works that will satisfy this requirement” will offer substantial guidance and avoid a good deal of uncertainty. A notice placed or affixed in accordance with the regulations would clearly meet the requirements but, since the Register's specifications are not to “be considered exhaustive,” a notice placed or affixed in some other way might also comply with the law if itwere found to “give reasonable notice” of the copyright claim.
+By providing simply that the notice “shall be affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright,” subsection (c) follows the flexible approach of the Universal Copyright Convention. The further provision empowering the Register of Copyrights to set forth in regulations a list of examples of “specific methods of affixation and positions of the notice on various types of works that will satisfy this requirement” will offer substantial guidance and avoid a good deal of uncertainty. A notice placed or affixed in accordance with the regulations would clearly meet the requirements but, since the Register's specifications are not to “be considered exhaustive,” a notice placed or affixed in some other way might also comply with the law if it were found to “give reasonable notice” of the copyright claim.
 
 #### Amendments
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 #### Compliance With Predecessor Notice Provisions; Copies Distributed After Dec. 31, 1977
 
 Section 108 of Pub. L. 94–553 provided that: “The notice provisions of sections 401 through 403 of title 17 as amended by the first section of this Act \[sections 401 through 403 of this title\] apply to all copies or phonorecords publicly distributed on or after January 1, 1978. However, in the case of a work published before January 1, 1978, compliance with the notice provisions of title 17 either as it existed on December 31, 1977, or as amended by the first section of this Act, is adequate with respect to copies publicly distributed after December 31, 1977.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403, 404, 405 of this title.
 

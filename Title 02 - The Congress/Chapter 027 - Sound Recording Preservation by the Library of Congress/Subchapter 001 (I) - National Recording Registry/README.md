@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—NATIONAL RECORDING REGISTRY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1724 of this title.
-
 
 ---
 

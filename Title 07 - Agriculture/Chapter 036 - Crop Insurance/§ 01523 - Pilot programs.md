@@ -194,7 +194,3 @@
 
 Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, set out as an Effective Date of 2000 Amendment note under section 1501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1507, 1508, 1516 of this title.
-

@@ -94,7 +94,3 @@ Ex. Ord. No. 10471, July 17, 1953, 18 F.R. 4231, as amended by Ex. Ord. No. 1229
 
 2\. This order shall be effective as of July 5, 1953.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title; title 22 section 4083.
-

@@ -114,7 +114,3 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 
 Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2802 of this title.
-

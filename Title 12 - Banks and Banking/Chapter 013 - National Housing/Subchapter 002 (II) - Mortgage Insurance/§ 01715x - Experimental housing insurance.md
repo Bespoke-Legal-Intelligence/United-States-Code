@@ -16,7 +16,7 @@ The Secretary may enter into such contracts, agreements, and financial undertaki
 
 #### (d) Investigations and analysis of data; publication and distribution of reports
 
-The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use ofthe data and information to be acquired as a result of this section.
+The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use of the data and information to be acquired as a result of this section.
 
 #### (e) Entitlement to insurance benefits
 
@@ -57,8 +57,4 @@ Subsec. (e). Pub. L. 88–560, §118(c), substituted provision for entitlement t
 Subsec. (f). Pub. L. 88–560, §§105(c)(1), 118(c), (d), added to subsec. (g), redesignated (f), provision that “If the insurance payment is made in cash, there shall be added to such payment an amount equivalent to the interest which the debentures would have earned, computed to a date to be established pursuant to regulations issued by the Commissioner”, deleted former provisions of subsec. (f) which related to entitlement to insurance benefits provided in section 1713(g) of this title, now covered by subsec. (e) of this section, and redesignated former subsec. (g) as (f), substituting in first sentence “subsection (e)” for “subsections (e) and (f)”, respectively.
 
 Subsecs. (g), (h). Pub. L. 88–560, §118(d), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1701z, 1713, 1715c, 1715o, 1715q, 1715r, 1715z–3, 1735c of this title.
 

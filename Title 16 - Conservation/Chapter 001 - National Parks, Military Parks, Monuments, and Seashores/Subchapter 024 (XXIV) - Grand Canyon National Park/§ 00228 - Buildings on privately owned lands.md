@@ -4,7 +4,3 @@ Where privately owned lands within the said park lie within three hundred feet o
 
 (Feb. 26, 1919, ch. 44, §8, 40 Stat. 1178.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 221b of this title.
-

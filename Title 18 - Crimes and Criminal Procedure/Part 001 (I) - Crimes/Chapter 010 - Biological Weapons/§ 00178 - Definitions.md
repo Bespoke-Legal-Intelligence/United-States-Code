@@ -36,7 +36,7 @@ Par. (2). Pub. L. 107–188, §231(c)(4)(B), in introductory provisions substitu
 
 Par. (4). Pub. L. 107–188, §231(c)(4)(C), substituted “recombinant or synthesized molecule,” for “recombinant molecule, or biological product that may be engineered as a result of biotechnology,”.
 
-1996—Par. (1). Pub. L. 104–132, §511(b)(3)(A), substituted “infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component of any such microorganism, virus, infectious substance, or biological product” for “or infectious substance” in introductory provisions.
+1996—Par. (1). Pub. L. 104–132, §511(b)(3)(A), substituted “infectious substance, or biological product that may be engineered as a result of biotechnology, or any naturally occurring or bioengineered component ofany such microorganism, virus, infectious substance, or biological product” for “or infectious substance” in introductory provisions.
 
 Par. (2). Pub. L. 104–132, §511(b)(3)(B)(i), (ii), in introductory provisions, inserted “the toxic material of plants, animals, microorganisms, viruses, fungi, or infectious substances, or a recombinant molecule” after “means” and substituted “production, including—” for “production—”.
 
@@ -47,8 +47,4 @@ Par. (2)(B). Pub. L. 104–132, §511(b)(3)(B)(iv), inserted “or biological pr
 Par. (4). Pub. L. 104–132, §511(b)(3)(C), inserted “, or molecule, including a recombinant molecule, or biological product that may be engineered as a result of biotechnology,” after “organism”.
 
 Par. (5). Pub. L. 104–132, §721(h), added par. (5).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1993, 2332a, 2332f of this title; title 7 section 8401; title 42 section 262a.
 

@@ -4,7 +4,3 @@ In administering Vicksburg National Military Park, the Secretary shall interpret
 
 (Pub. L. 101–442, title I, §103, Oct. 18, 1990, 104 Stat. 1020.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430h–6, 430h–9 of this title.
-

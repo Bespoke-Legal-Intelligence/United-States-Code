@@ -14,7 +14,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(ii) the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, or any Executive agency or unit thereof which is designated by the President and the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
-&emsp;&emsp;(iii) the General Accounting Office;
+&emsp;&emsp;(iii) the Government Accountability Office;
 
 &emsp;(2) “employee” means an individual employed in or under an agency, but does not include—
 
@@ -36,7 +36,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) “unacceptable performance” means performance of an employee which fails to meet established performance standards in one or more critical elements of such employee's position.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 440; Pub. L. 91–375, §6(c)(8), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title II, §203(a), Oct. 13, 1978, 92 Stat. 1131; Pub. L. 100–325, §2(f), May 30, 1988, 102 Stat. 581; Pub. L. 101–474, §5(e), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–510, div. A, title XII, §1206(e), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(e), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 440; Pub. L. 91–375, §6(c)(8), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–454, title II, §203(a), Oct. 13, 1978, 92 Stat. 1131; Pub. L. 100–325, §2(f), May 30, 1988, 102 Stat. 581; Pub. L. 101–474, §5(e), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–510, div. A, title XII, §1206(e), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 102–54, §13(b)(2), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(e), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -82,6 +82,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2004—Par. (1)(iii). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
 2003—Par. (1)(ii) Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Par. (1)(ii). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
@@ -113,8 +115,4 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 559, 1305 of this title.
 

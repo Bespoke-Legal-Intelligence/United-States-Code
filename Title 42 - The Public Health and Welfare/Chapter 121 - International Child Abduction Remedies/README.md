@@ -25,6 +25,7 @@
 | (c) | Regulatory authority. |
 | (d) | Obtaining information from Parent Locator Service. |
 | (e) | Grant authority. |
+| (f) | Limited liability of private entities acting under the direction of the United States Central Authority. |
 | [11607\.](%C2%A7%2011607%20-%20Costs%20and%20fees.md) | Costs and fees. |
 | (a) | Administrative costs. |
 | (b) | Costs incurred in civil actions. |

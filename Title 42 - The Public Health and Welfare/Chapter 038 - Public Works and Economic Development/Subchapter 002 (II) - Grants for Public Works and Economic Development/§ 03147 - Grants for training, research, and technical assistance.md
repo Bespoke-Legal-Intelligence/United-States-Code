@@ -20,13 +20,17 @@
 
 &emsp;&emsp;(E) establishment of business outreach centers;
 
-&emsp;&emsp;(F) studies evaluating the needs of, and development potential for, economic growth of areas that the Secretary determines have substantial need for the assistance; and
+&emsp;&emsp;(F) studies evaluating the needs of, and development potential for, economic growth of areas that the Secretary determines have substantial need for the assistance;
 
-&emsp;&emsp;(G) other activities determined by the Secretary to be appropriate.
+&emsp;&emsp;(G) studies that evaluate the effectiveness of coordinating projects funded under this chapter with projects funded under other Acts;
 
-#### (3) Reduction or waiver of non-Federal share
+&emsp;&emsp;(H) assessment, marketing, and establishment of business clusters; and
 
-&emsp;In the case of a project assisted under this section, the Secretary may reduce or waive the non-Federal share, without regard to section 3144 or 3145 of this title, if the Secretary finds that the project is not feasible without, and merits, such a reduction or waiver.
+&emsp;&emsp;(I) other activities determined by the Secretary to be appropriate.
+
+#### (3) Cooperation requirement
+
+&emsp;In the case of a project assisted under this section that is national or regional in scope, the Secretary may waive the provision in section 3122(4)(A)(vi) of this title requiring a nonprofit organization or association to act in cooperation with officials of a political subdivision of a State.
 
 #### (b) Methods of provision of assistance
 
@@ -38,9 +42,11 @@ In providing research and technical assistance under this section, the Secretary
 
 &emsp;(3) employ private individuals, partnerships, businesses, corporations, or appropriate institutions under contracts entered into for that purpose.
 
-(Pub. L. 89–136, title II, §207, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3604.)
+(Pub. L. 89–136, title II, §207, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3604; amended Pub. L. 108–373, title II, §205, Oct. 27, 2004, 118 Stat. 1761.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 3122, 3211 of this title.
+2004—Subsec. (a)(2)(G) to (I). Pub. L. 108–373, §205(a), added subpars. (G) and (H) and redesignated former subpar. (G) as (I).
+
+Subsec. (a)(3). Pub. L. 108–373, §205(b), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “In the case of a project assisted under this section, the Secretary may reduce or waive the non-Federal share, without regard to section 3144 or 3145 of this title, if the Secretary finds that the project is not feasible without, and merits, such a reduction or waiver.”
 

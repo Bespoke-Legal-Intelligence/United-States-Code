@@ -82,7 +82,3 @@ A designation of an organization as the Demilitarization Enterprise Fund under s
 
 For delegation of certain authorities and duties of the President under this section to Secretary of Defense, see Memorandum of President of the United States, Jan. 29, 1994, 59 F.R. 5929, set out as a note under section 5952 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5954 of this title.
-

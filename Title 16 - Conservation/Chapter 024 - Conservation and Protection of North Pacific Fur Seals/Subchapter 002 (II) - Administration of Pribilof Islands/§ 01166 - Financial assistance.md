@@ -96,15 +96,11 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 2000—Pub. L. 106–562 amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 
-Pub. L. 106–554 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) containing provisions establishing the Pribilof IslandsTrust for the benefit of natives of the Pribilof Islands and relating to the Trust's administration, funding, distributions, trust instrument, taxation, interest and proceeds, appropriations, and annual report to Congress.
+Pub. L. 106–554 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) containing provisions establishing the Pribilof Islands Trust for the benefit of natives of the Pribilof Islands and relating to the Trust's administration, funding, distributions, trust instrument, taxation, interest and proceeds, appropriations, and annual report to Congress.
 
 1990—Subsec. (e)(3). Pub. L. 101–512 added par. (3).
 
 1988—Subsec. (e)(1). Pub. L. 100–711 authorized appropriations for fiscal years 1989 and 1990 to fund the Saint Paul Island Trust, and authorized appropriations for fiscal year 1990 to fund the Saint George Trust.
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1165 of this title.
 

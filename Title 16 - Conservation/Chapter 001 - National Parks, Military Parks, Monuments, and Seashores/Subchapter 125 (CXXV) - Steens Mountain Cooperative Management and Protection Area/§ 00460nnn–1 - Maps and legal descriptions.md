@@ -18,7 +18,7 @@ As soon as practicable after October 30, 2000, the Secretary shall prepare and s
 
 #### (b) Legal effect and correction
 
-The maps and legal descriptions referred to in subsection (a) of this section shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such maps and legal descriptions.
+The maps and legal descriptions referred to in subsection (a) of this section shall have thesame force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such maps and legal descriptions.
 
 #### (c) Public availability
 

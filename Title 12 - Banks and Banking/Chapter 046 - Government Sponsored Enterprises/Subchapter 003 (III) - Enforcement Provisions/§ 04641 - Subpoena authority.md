@@ -26,7 +26,3 @@ Witnesses subpoenaed under this section shall be paid the same fees and mileage 
 
 (Pub. L. 102–550, title XIII, §1379B, Oct. 28, 1992, 106 Stat. 3994.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4517 of this title.
-

@@ -26,7 +26,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (2) Limitation
 
-&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contract under this subchapter, paragraph (1) shall apply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
+&emsp;In the case of an award to an entity of a grant, cooperative agreement, or contractunder this subchapter, paragraph (1) shall apply only to the extent not inconsistent with any other provision of this subchapter that relates to the period during which payments may be made under the award.
 
 #### (e) Peer review regarding certain programs
 
@@ -36,7 +36,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (2) Composition
 
-&emsp;Each peer review group under this subsection shall be composed principally of individuals who are not officers or employees ofthe Federal Government. In providing for the establishment of peer review groups and procedures, the Secretary shall, except as otherwise provided, ensure sex, racial, ethnic, and geographic representation among the membership of such groups.
+&emsp;Each peer review group under this subsection shall be composed principally of individuals who are not officers or employees of the Federal Government. In providing for the establishment of peer review groups and procedures, the Secretary shall, except as otherwise provided, ensure sex, racial, ethnic, and geographic representation among the membership of such groups.
 
 #### (3) Administration
 

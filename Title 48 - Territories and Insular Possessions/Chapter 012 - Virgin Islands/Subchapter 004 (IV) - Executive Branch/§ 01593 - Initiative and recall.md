@@ -6,7 +6,7 @@ The people of the Virgin Islands shall have the rights of initiative and recall 
 
 #### (b) Initiative
 
-(1) An initiative may enact, amend, or repeal any law, except that an initiative shall not be used to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
+(1) An initiative may enact, amend, or repeal any law, except that an initiative shall not beused to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
 
 (2) An initiative that proposes a reduction of taxes shall also provide for an equivalent reduction of expenditures or an equivalent increase in revenues from other sources.
 
@@ -18,7 +18,7 @@ The people of the Virgin Islands shall have the rights of initiative and recall 
 
 (6) After the ballot title has been written, proponents of the initiative proposal shall have a maximum of 180 days to circulate the petition. Petitions containing signatures equal to at least 10 percent of the voters of each legislative district or 41 percent of all voters of the Virgin Islands must be submitted to the Supervisor of Elections. The Supervisor shall have 15 days to determine that the minimum number of valid signatures are contained in the petition and he shall forward the certified proposal to the legislature which must accept or reject the measure within 30 days. If approved, the initiative shall take effect in accordance with its terms. If the legislature does not approve, the initiative shall be submitted to the voters at the next general election, unless the legislature approves a special election for this purpose. The legislature may submit its own version of the initiative to the voters. Should both measures be approved by the voters, the measure receiving the higher number of votes shall prevail. The voters shall have a clear alternative of rejecting either version or the entire proposition.
 
-(7) An initiative submitted to the voters shall take effect if the initiative is approved by a majority of persons voting and if a majority of thevoters of the Virgin Islands vote on the initiative. An initiative may not be vetoed by the Governor, and when approved by the voters, may not be amended or repealed by the legislature during the 3-year period after its approval unless the legislature acts by a two-thirds majority.
+(7) An initiative submitted to the voters shall take effect if the initiative is approved by a majority of persons voting and if a majority of the voters of the Virgin Islands vote on the initiative. An initiative may not be vetoed by the Governor, and when approved by the voters, may not be amended or repealed by the legislature during the 3-year period after its approval unless the legislature acts by a two-thirds majority.
 
 (8) The legislature may provide the manner in which petitions shall be circulated, filed, certified, and the ballot question shall be submitted to the voters.
 
@@ -58,5 +58,5 @@ As used in this section, the term—
 
 #### Effective Date of 1968 Amendment
 
-Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
+Amendment of provisions of section necessary to authorize the holding of an election for Governor andLieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
 

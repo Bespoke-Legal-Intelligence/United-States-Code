@@ -24,7 +24,3 @@ An employer (other than an employer described in subsection (a), (b), or (c) of 
 
 (Pub. L. 100–347, §9, June 27, 1988, 102 Stat. 652.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2007 of this title.
-

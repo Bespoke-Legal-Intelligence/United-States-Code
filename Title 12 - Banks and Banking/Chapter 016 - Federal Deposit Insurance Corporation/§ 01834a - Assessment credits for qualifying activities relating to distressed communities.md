@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) Loans or financing provided in connection with activities assisted by the Administrator of the Small Business Administration or any small business investment company and investments in small business investment companies.
 
-&emsp;&emsp;(C) Loans or financing provided in connection with any neighborhood housing serviceprogram assisted under the Neighborhood Reinvestment Corporation Act \[42 U.S.C. 8101 et seq.\].
+&emsp;&emsp;(C) Loans or financing provided in connection with any neighborhood housing service program assisted under the Neighborhood Reinvestment Corporation Act \[42 U.S.C. 8101 et seq.\].
 
 &emsp;&emsp;(D) Loans or financing provided in connection with any activities assisted under the community development block grant program under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
 
@@ -126,7 +126,7 @@
 
 #### (i) Providing information
 
-&emsp;&emsp;&emsp;At the request of any insured depository institution, the appropriate Federal banking agency shall provide to the institutionappropriate information to assist the institution to identify and designate a qualified distressed community.
+&emsp;&emsp;&emsp;At the request of any insured depository institution, the appropriate Federal banking agency shall provide to the institution appropriate information to assist the institution to identify and designate a qualified distressed community.
 
 #### (ii) Period for disapproval
 
@@ -192,7 +192,7 @@
 
 #### (C) Continuation of service
 
-&emsp;&emsp;Each appointed member may continue to serve after the expiration of the period to which such member was appointed until a successor has been appointed.
+&emsp;&emsp;Each appointed member may continue to serve after the expiration of the period towhich such member was appointed until a successor has been appointed.
 
 #### (4) Chairperson
 
@@ -282,7 +282,7 @@ No community development financial institution may receive a community enterpris
 
 #### (2) Qualifying investments
 
-&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligible under this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
+&emsp;If the amount of funds appropriated for purposes of carrying out this section for any fiscal year are insufficient to award the amount of assessment credits for which insured depository institutions have applied and are eligibleunder this section, the Board shall, in awarding community enterprise assessment credits for qualifying activities under subsection (a)(2)(C) of this section for any semiannual period for which such appropriation is available, determine which institutions shall receive an award based on the leverage ratio between the dollar amount of the activities that form the basis for the institution's application and the amount of the assessment credit calculated in accordance with this section for such activities.
 
 #### (i) Determination of amount of assessment credit
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 &emsp;The term “affiliate” has the same meaning as in section 1841 of this title.
 
-(Pub. L. 102–242, title II, §233, Dec. 19, 1991, 105 Stat. 2311; Pub. L. 102–550, title IX, §931(c)–(e), title XVI, §§1604(b)(2), 1605(a)(7), Oct. 28, 1992, 106 Stat. 3888, 3889, 4083, 4086; Pub. L. 102–558, title III, §§303(b)(2), (9), 305, Oct. 28, 1992, 106 Stat.4224, 4226; Pub. L. 103–325, title I, §114(c), Sept. 23, 1994, 108 Stat. 2181.)
+(Pub. L. 102–242, title II, §233, Dec. 19, 1991, 105 Stat. 2311; Pub. L. 102–550, title IX, §931(c)–(e), title XVI, §§1604(b)(2), 1605(a)(7), Oct. 28, 1992, 106 Stat. 3888, 3889, 4083, 4086; Pub. L. 102–558, title III, §§303(b)(2), (9), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–325, title I, §114(c), Sept. 23, 1994, 108 Stat. 2181.)
 
 #### References in Text
 
@@ -401,10 +401,6 @@ Amendment by section 303(b)(2) of Pub. L. 102–558 deemed to have become effect
 Section 303(b)(9) of Pub. L. 102–558 provided that the amendment made by that section is effective on the effective date of the amendment made by section 302(e)(4) of Pub. L. 102–242 \[see section 302(g) of Pub. L. 102–242, set out as a note under section 1817 of this title\].
 
 Section 1605(a)(7) of Pub. L. 102–550, which provided effective date provisions for the amendment made by that section, was repealed, effective Oct. 28, 1992, by section 305 of Pub. L. 102–558, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1834b, 4713 of this title; title 42 section 5318a.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

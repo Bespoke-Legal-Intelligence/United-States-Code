@@ -10,7 +10,3 @@ For the purpose of carrying out subparts 2 and 3 of this part, there are authori
 
 (Pub. L. 89–10, title VII, §7152, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7423, 7451 of this title.
-

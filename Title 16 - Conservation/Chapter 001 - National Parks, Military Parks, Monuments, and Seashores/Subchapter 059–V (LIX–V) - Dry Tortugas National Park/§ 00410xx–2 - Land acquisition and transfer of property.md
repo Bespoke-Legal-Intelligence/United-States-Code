@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within the boundaries of the park the Secretary may acquire lands and interests in land by donation or exchange. For the purposes of acquiring property by exchange with the State of Florida, the Secretary may, notwithstanding any other provision of law, exchange those Federal lands which were deleted from the park by the boundary modifications enacted by section 201 of the Act of June 28, 1980 (Public Law 96–287), and which are directly adjacent to lands owned by the State of Florida outside of the park, for lands owned by the State of Florida within the park boundary.
+Within the boundaries of the park the Secretary may acquire lands and interests in landby donation or exchange. For the purposes of acquiring property by exchange with the State of Florida, the Secretary may, notwithstanding any other provision of law, exchange those Federal lands which were deleted from the park by the boundary modifications enacted by section 201 of the Act of June 28, 1980 (Public Law 96–287), and which are directly adjacent to lands owned by the State of Florida outside of the park, for lands owned by the State of Florida within the park boundary.
 
 #### (b) United States Coast Guard lands
 
@@ -10,7 +10,7 @@ When all or any substantial portion of lands under the administration of the Uni
 
 #### (c) Administrative site
 
-The Secretary is authorized to lease or to acquire, by purchase, donation, or exchange, andto operate incidental administrative and support facilities in Key West, Florida, for park administration and to further the purposes of this subchapter.
+The Secretary is authorized to lease or to acquire, by purchase, donation, or exchange, and to operate incidental administrative and support facilities in Key West, Florida, for park administration and to further the purposes of this subchapter.
 
 (Pub. L. 102–525, title II, §203, Oct. 26, 1992, 106 Stat. 3440.)
 

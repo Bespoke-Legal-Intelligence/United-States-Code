@@ -46,9 +46,5 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 #### Study of Utility Distribution Transformers; Report to Congress
 
-Section 124(c) of Pub. L. 102–486 provided that: “The Secretary shall evaluate the practicability, cost-effectiveness, and potential energy savings of replacing, or upgrading components of, existing utility distribution transformers during routine maintenance and, not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], report the findings of such evaluation to the Congress with recommendations on how such energy savings, if any, could be achieved.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6295 of this title.
+Section 124(c) of Pub. L. 102–486 provided that: “The Secretary shall evaluate the practicability, cost-effectiveness, and potential energy savings of replacing, or upgrading components of, existing utility distribution transformers during routine maintenance and, notlater than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], report the findings of such evaluation to the Congress with recommendations on how such energy savings, if any, could be achieved.”
 

@@ -76,6 +76,174 @@ Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated for
 
 Subsec. (b). Pub. L. 97–292, §2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
 
+#### Reviews of Criminal Records of Applicants for Private Security Officer Employment
+
+Pub. L. 108–458, title VI, §6402, Dec. 17, 2004, 118 Stat. 3755, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘Private Security Officer Employment Authorization Act of 2004’.
+
+“(b)
+
+Findings.—Congress finds that—
+
+&emsp;“(1) employment of private security officers in the United States is growing rapidly;
+
+&emsp;“(2) private security officers function as an adjunct to, but not a replacement for, public law enforcement by helping to reduce and prevent crime;
+
+&emsp;“(3) such private security officers protect individuals, property, and proprietary information, and provide protection to such diverse operations as banks, hospitals, research and development centers, manufacturing facilities, defense and aerospace contractors, high technology businesses, nuclear power plants, chemical companies, oil and gas refineries, airports, communication facilities and operations, office complexes, schools, residential properties, apartment complexes, gated communities, and others;
+
+&emsp;“(4) sworn law enforcement officers provide significant services to the citizens of the United States in its public areas, and are supplemented by private security officers;
+
+&emsp;“(5) the threat of additional terrorist attacks requires cooperation between public and private sectors and demands professional, reliable, and responsible security officers for the protection of people, facilities, and institutions;
+
+&emsp;“(6) the trend in the Nation toward growth in such security services has accelerated rapidly;
+
+&emsp;“(7) such growth makes available more public sector law enforcement officers to combat serious and violent crimes, including terrorism;
+
+&emsp;“(8) the American public deserves the employment of qualified, well-trained private security personnel as an adjunct to sworn law enforcement officers; and
+
+&emsp;“(9) private security officers and applicants for private security officer positions should be thoroughly screened and trained.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Employee.—The term ‘employee’ includes both a current employee and an applicant for employment as a private security officer.
+
+&emsp;“(2)
+
+Authorized employer.—The term ‘authorized employer’ means any person that—
+
+&emsp;&emsp;“(A) employs private security officers; and
+
+&emsp;&emsp;“(B) is authorized by regulations promulgated by the Attorney General to request a criminal history record information search of an employee through a State identification bureau pursuant to this section.
+
+&emsp;“(3)
+
+Private security officer.—The term ‘private security officer’—
+
+&emsp;&emsp;“(A) means an individual other than an employee of a Federal, State, or local government, whose primary duty is to perform security services, full or part time, for consideration, whether armed or unarmed and in uniform or plain clothes (except for services excluded from coverage under this Act \[this section\] if the Attorney General determines by regulation that such exclusion would serve the public interest); but
+
+&emsp;&emsp;“(B) does not include—
+
+&emsp;&emsp;&emsp;“(i) employees whose duties are primarily internal audit or credit functions;
+
+&emsp;&emsp;&emsp;“(ii) employees of electronic security system companies acting as technicians or monitors; or
+
+&emsp;&emsp;&emsp;“(iii) employees whose duties primarily involve the secure movement of prisoners.
+
+&emsp;“(4)
+
+Security services.—The term ‘security services’ means acts to protect people or property as defined by regulations promulgated by the Attorney General.
+
+&emsp;“(5)
+
+State identification bureau.—The term ‘State identification bureau’ means the State entity designated by the Attorney General for the submission and receipt of criminal history record information.
+
+“(d)
+
+Criminal History Record Information Search.—
+
+&emsp;“(1)
+
+In general.—
+
+&emsp;&emsp;“(A)
+
+Submission of fingerprints.—An authorized employer may submit to the State identification bureau of a participating State, fingerprints or other means of positive identification, as determined by the Attorney General, of an employee of such employer for purposes of a criminal history record information search pursuant to this Act \[this section\].
+
+&emsp;&emsp;“(B)
+
+Employee rights.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Permission.—An authorized employer shall obtain written consent from an employee to submit to the State identification bureau of the participating State the request to search the criminal history record information of the employee under this Act \[this section\].
+
+&emsp;&emsp;&emsp;“(ii)
+
+Access.—An authorized employer shall provide to the employee confidential access to any information relating to the employee received by the authorized employer pursuant to this Act \[this section\].
+
+&emsp;&emsp;“(C)
+
+Providing information to the state identification bureau.—Upon receipt of a request for a criminal history record information search from an authorized employer pursuant to this Act \[this section\], submitted through the State identification bureau of a participating State, the Attorney General shall—
+
+&emsp;&emsp;&emsp;“(i) search the appropriate records of the Criminal Justice Information Services Division of the Federal Bureau of Investigation; and
+
+&emsp;&emsp;&emsp;“(ii) promptly provide any resulting identification and criminal history record information to the submitting State identification bureau requesting the information.
+
+&emsp;&emsp;“(D)
+
+Use of information.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Upon receipt of the criminal history record information from the Attorney General by the State identification bureau, the information shall be used only as provided in clause (ii).
+
+&emsp;&emsp;&emsp;“(ii)
+
+Terms.—In the case of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
+
+&emsp;&emsp;&emsp;“(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
+
+&emsp;&emsp;&emsp;“(bb) charged with a criminal felony for which there has been no resolution during the preceding 365 days; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a participating State that has State standards for qualification to be a private security officer, the State shall use the information received pursuant to this Act \[this section\] in applying the State standards and shall only notify the employer of the results of the application of the State standards.
+
+&emsp;&emsp;“(E)
+
+Frequency of requests.—An authorized employer may request a criminal history record information search for an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
+
+&emsp;“(2)
+
+Regulations.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the Attorney General shall issue such final or interim final regulations as may be necessary to carry out this Act \[this section\], including—
+
+&emsp;&emsp;“(A) measures relating to the security, confidentiality, accuracy, use, submission, dissemination, destruction of information and audits, and record keeping;
+
+&emsp;&emsp;“(B) standards for qualification as an authorized employer; and
+
+&emsp;&emsp;“(C) the imposition of reasonable fees necessary for conducting the background checks.
+
+&emsp;“(3)
+
+Criminal penalties for use of information.—Whoever knowingly and intentionally uses any information obtained pursuant to this Act \[this section\] other than for the purpose of determining the suitability of an individual for employment as a private security officer shall be fined under title 18, United States Code, or imprisoned for not more than 2 years, or both.
+
+&emsp;“(4)
+
+User fees.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Director of the Federal Bureau of Investigation may—
+
+&emsp;&emsp;&emsp;“(i) collect fees to process background checks provided for by this Act \[this section\]; and
+
+&emsp;&emsp;&emsp;“(ii) establish such fees at a level to include an additional amount to defray expenses for the automation of fingerprint identification and criminal justice information services and associated costs.
+
+&emsp;&emsp;“(B)
+
+Limitations.—Any fee collected under this subsection—
+
+&emsp;&emsp;&emsp;“(i) shall, consistent with Public Law 101–515 \[see Tables for classification\] and Public Law 104–99 \[see Tables for classification\], be credited to the appropriation to be used for salaries and other expenses incurred through providing the services described in such Public Laws and in subparagraph (A);
+
+&emsp;&emsp;&emsp;“(ii) shall be available for expenditure only to pay the costs of such activities and services; and
+
+&emsp;&emsp;&emsp;“(iii) shall remain available until expended.
+
+&emsp;&emsp;“(C)
+
+State costs.—Nothing in this Act \[this section\] shall be construed as restricting the right of a State to assess a reasonable fee on an authorized employer for the costs to the State of administering this Act \[this section\].
+
+&emsp;“(5)
+
+State opt out.—A State may decline to participate in the background check system authorized by this Act \[this section\] by enacting a law or issuing an order by the Governor (if consistent with State law) providing that the State is declining to participate pursuant to this subsection.”
+
 #### Criminal Background Checks for Applicants for Employment in Nursing Facilities and Home Health Care Agencies
 
 Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73, provided that:
@@ -214,7 +382,7 @@ Distribution of data.—The Attorney General shall distribute data received purs
 
 “(d)
 
-Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
+Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section andmay appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
 “(e)
 

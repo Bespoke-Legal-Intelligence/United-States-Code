@@ -4,7 +4,7 @@
 
 Except as provided in subsections (d) and (e) of this section and in section 9613(h) of this title (relating to timing of judicial review), any person may commence a civil action on his own behalf—
 
-&emsp;(1) against any person (including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any standard, regulation, condition, requirement, or order which has become effective pursuantto this chapter (including any provision of an agreement under section 9620 of this title, relating to Federal facilities); or
+&emsp;(1) against any person (including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any standard, regulation, condition, requirement, or order which has become effective pursuant to this chapter (including any provision of an agreement under section 9620 of this title, relating to Federal facilities); or
 
 &emsp;(2) against the President or any other officer of the United States (including the Administrator of the Environmental Protection Agency and the Administrator of the ATSDR) where there is alleged a failure of the President or of such other officer to perform any act or duty under this chapter, including an act or duty under section 9620 of this title (relating to Federal facilities), which is not discretionary with the President or such other officer.
 
@@ -69,8 +69,4 @@ The terms used in this section shall have the same meanings as when used in subc
 The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9613 of this title.
 

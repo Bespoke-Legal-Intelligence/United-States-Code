@@ -46,7 +46,3 @@ Act May 3, 1945, ch. 106, title I, §101, 59 Stat. 122, provided in part: “Sec
 
 Similar provisions were contained in acts June 26, 1943, ch. 145, title I, §101, 57 Stat. 184; June 27, 1944, ch. 286, title I, §101, 58 Stat. 375.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1406a.
-

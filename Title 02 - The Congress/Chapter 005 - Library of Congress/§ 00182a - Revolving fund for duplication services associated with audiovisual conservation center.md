@@ -46,7 +46,7 @@ Sections 182a to 182d of this title, referred to in subsec. (a), was in the orig
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–68 struck out “audio and video” before “duplication” in section catchline and in subsec. (a).
+2001—Pub. L. 107–68 struck out “audio and video” before “duplication” in section catchline and in subsec. (a).
 
 #### Effective Date
 

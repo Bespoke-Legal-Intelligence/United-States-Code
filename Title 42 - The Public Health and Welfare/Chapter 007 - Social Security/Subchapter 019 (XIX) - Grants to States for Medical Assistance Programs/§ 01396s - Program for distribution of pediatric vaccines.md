@@ -92,7 +92,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B)(i) Subject to clause (ii), the provider will comply with the schedule, regarding the appropriate periodicity, dosage, and contraindications applicable to pediatric vaccines, that is established and periodically reviewed and, as appropriate, revised by the advisory committee referred to in subsection (e) of this section, except in such cases as, in the provider's medical judgment subject to accepted medical practice, such compliance is medically inappropriate.
 
-&emsp;&emsp;(ii) The provider will provide pediatric vaccines in compliance with applicable State law, including any such law relating to any religious or other exemption.
+&emsp;&emsp;(ii) The provider will provide pediatric vaccines in compliance with applicableState law, including any such law relating to any religious or other exemption.
 
 &emsp;&emsp;(C)(i) In administering a qualified pediatric vaccine to a vaccine-eligible child, the provider will not impose a charge for the cost of the vaccine. A program-registered provider is not required under this section to administer such a vaccine to each child for whom an immunization with the vaccine is sought from the provider.
 
@@ -134,7 +134,7 @@ For purposes of this section:
 
 #### (C) Negotiation of discounted price for new vaccines
 
-&emsp;&emsp;With respect to contracts entered into for a pediatric vaccine not described in subparagraph (B), the price for the purchase of suchvaccine shall be a discounted price negotiated by the Secretary that may be established without regard to such subparagraph.
+&emsp;&emsp;With respect to contracts entered into for a pediatric vaccine not described in subparagraph (B), the price for the purchase of such vaccine shall be a discounted price negotiated by the Secretary that may be established without regard to such subparagraph.
 
 #### (4) Quantities and terms of delivery
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the Secretary shall provide, consistent with paragraph (6), for the purchase and delivery on behalf of States (and tribes and tribal organizations) of quantities of pediatric vaccines for federally vaccine-eligible children; and
 
-&emsp;&emsp;(B) each State, at the option of the State, shall be permitted to obtain additional quantities of pediatric vaccines (subject to amounts specified to the Secretary by the State in advance of negotiations) through purchasing the vaccines from the manufacturers at the applicable price negotiated by the Secretary consistent with paragraph (3), if (i) the State agrees that the vaccines will be used to provide immunizations only for children who are not federally vaccine-eligible children and (ii) the State provides to the Secretary such information (at a time and manner specified by the Secretary, including in advance of negotiations under paragraph (1)) as the Secretary determines to be necessary, to provide for quantities of pediatric vaccines for the State to purchase pursuant to this subsection and to determine annually the percentage of the vaccine market that is purchased pursuant to this section and this subparagraph.
+&emsp;&emsp;(B) each State, at the option of the State, shall be permitted to obtain additional quantities of pediatric vaccines (subject to amounts specified to the Secretary by the State in advance of negotiations) through purchasing the vaccines from the manufacturers at the applicable price negotiated by the Secretary consistent with paragraph (3), if (i) the State agrees that the vaccines will be used to provide immunizations only for children who are not federally vaccine-eligible children and (ii) the State provides to the Secretary such information (at a time and manner specified by the Secretary, including in advance of negotiations under paragraph (1)) as the Secretary determines to be necessary, to provide for quantities ofpediatric vaccines for the State to purchase pursuant to this subsection and to determine annually the percentage of the vaccine market that is purchased pursuant to this section and this subparagraph.
 
 > &emsp;The Secretary shall enter into the initial negotiations under the preceding sentence not later than 180 days after August 10, 1993.
 
@@ -209,10 +209,6 @@ A prior section 1396s, act Aug. 14, 1935, ch. 531, title XIX, §1928, formerly �
 #### Effective Date
 
 Section applicable to payments under State plans approved under this subchapter for calendar quarters beginning on or after Oct. 1, 1994, see section 13631(i) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1396a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300gg, 1396a, 1396b, 1396d of this title; title 26 sections 35, 9801; title 29 sections 1169, 1181, 2918.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -110,7 +110,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (v) “Group health plan” defined
 
-&emsp;&emsp;&emsp;In this subparagraph, and subparagraph (C), the term “group health plan” has the meaning given such term in section5000(b)(1) of the Internal Revenue Code of 1986, without regard to section 5000(d) of such Code.
+&emsp;&emsp;&emsp;In this subparagraph, and subparagraph (C), the term “group health plan” has themeaning given such term in section 5000(b)(1) of the Internal Revenue Code of 1986, without regard to section 5000(d) of such Code.
 
 #### (B) Disabled individuals in large group health plans
 
@@ -1253,10 +1253,6 @@ Section 2152(b) of Pub. L. 97–35 directed the Secretary of Health and Human Se
 #### Report to Congressional Committees on Implementation of Certification Requirements Relating to Modification of Health Benefits Plan or Program; Failure To Submit Report
 
 Section 4(b) of Pub. L. 93–480 provided that the Civil Service Commission and the Secretary of Health, Education, and Welfare submit a report on or before Mar. 1, 1975, on the steps which have been taken, and the steps which are planned, to enable the Secretary to make the determination and certification referred to in former subsec. (c) of this section and that if such report is not submitted by Mar. 1, 1975, the date specified in former subsec. (c) shall be deemed to be July 1, 1975, rather than Jan. 1, 1976.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7a, 1320c, 1320c–3, 1320c–7, 1320c–8, 1395h, 1395<i>l</i>, 1395m, 1395p, 1395r, 1395u, 1395w–22, 1395w–102, 1395x, 1395cc, 1395ff, 1395gg, 1395kk–1, 1395<i>oo</i>, 1395pp, 1395ss, 1395ww, 1395ddd, 1395eee, 1395ggg, 1396b of this title; title 10 section 1095; title 26 sections 5000, 6103; title 45 section 231f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

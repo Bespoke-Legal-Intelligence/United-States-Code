@@ -4,7 +4,3 @@ For the purposes of sections 567a to 567c of this title, there is authorized to 
 
 (Aug. 29, 1935, ch. 808, §3, 49 Stat. 965.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 567a, 567b of this title.
-

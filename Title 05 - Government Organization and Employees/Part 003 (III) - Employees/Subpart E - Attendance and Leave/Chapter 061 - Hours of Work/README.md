@@ -40,10 +40,6 @@
 
 1972—Pub. L. 92–392, §7(b), Aug. 19, 1972, 86 Stat. 573, struck out item 6102 “Eight-hour day; 40-hour work week; wage-board employees”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 5371 of this title.
-
 
 ---
 

@@ -92,19 +92,33 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Commodity Credit Corporation shall make available to carry out this subsection not less than $10,000,000 for each fiscal year.
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iii), the Commodity Credit Corporation shall make available to carry out this subsection not less than $10,000,000 for each fiscal year.
 
 #### (ii) Exception
 
 &emsp;&emsp;&emsp;For each of fiscal years 2003 through 2007, the Commodity Credit Corporation shall make available to carry out this subsection $20,000,000.
 
-(Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263.)
+#### (iii) Certain uses
+
+&emsp;&emsp;&emsp;Of the amounts made available to carry out this subsection for each of fiscal years 2004 through 2007 the Commodity Credit Corporation shall use not less than—
+
+&emsp;&emsp;&emsp;&emsp;(I) $14,000,000 to carry out subparagraphs (A), (B), and (C) of paragraph (2) through the Natural Resources Conservation Service;
+
+&emsp;&emsp;&emsp;&emsp;(II) $1,000,000 to provide organic certification cost share assistance through the Agricultural Marketing Service; and
+
+&emsp;&emsp;&emsp;&emsp;(III) $5,000,000 to conduct activities to carry out subparagraph (F) of paragraph (2) through the Risk Management Agency.
+
+(Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263; Pub. L. 108–199, div. A, title VII, §769, Jan. 23, 2004, 118 Stat. 40.)
 
 #### References in Text
 
 Section 1308(5) of this title, referred to in subsec. (b)(3), was redesignated section 1308(e) by Pub. L. 107–171, title I, §1603(b)(1), May 13, 2002, 116 Stat. 214.
 
 #### Amendments
+
+2004—Subsec. (b)(4)(B)(i). Pub. L. 108–199, §769(1), substituted “clauses (ii) and (iii)” for “clause (ii)”.
+
+Subsec. (b)(4)(B)(iii). Pub. L. 108–199, §769(2), added cl. (iii).
 
 2002—Subsec. (b). Pub. L. 107–171 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 

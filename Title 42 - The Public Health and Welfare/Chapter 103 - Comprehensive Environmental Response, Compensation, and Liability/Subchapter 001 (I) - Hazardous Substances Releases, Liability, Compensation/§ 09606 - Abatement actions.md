@@ -40,9 +40,5 @@ Subsec. (b)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986
 
 Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6924, 6939b, 6972, 7412, 9607, 9613, 9614, 9617, 9618, 9619, 9620, 9621, 9622, 9624, 9628 of this title; title 26 section 4662.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

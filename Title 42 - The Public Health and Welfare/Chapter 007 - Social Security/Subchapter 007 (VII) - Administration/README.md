@@ -4,10 +4,6 @@
 
 1950—Act Aug. 28, 1950, ch. 809, title III, pt. 6, §361(f), 64 Stat. 558, substituted “ADMINISTRATION” for “SOCIAL SECURITY BOARD” as subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1301 of this title.
-
 
 ---
 

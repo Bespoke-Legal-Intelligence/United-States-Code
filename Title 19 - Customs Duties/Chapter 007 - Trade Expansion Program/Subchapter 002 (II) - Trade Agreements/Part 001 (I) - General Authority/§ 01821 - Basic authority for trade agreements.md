@@ -26,7 +26,3 @@ Pub. L. 90–234, §2(b)(2), Dec. 30, 1967, 81 Stat. 752, provided that: “The 
 
 Duty-free treatment pursuant to this chapter of dicyandiamide in item 425.40 and limestone when imported for use in manufacture of cement in item 513.34 of the Tariff Schedules of the United States, by provision for non-application of subsec. (b)(1) of this section, see section 1823 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1823, 1862, 1981, 2135, 3105 of this title.
-

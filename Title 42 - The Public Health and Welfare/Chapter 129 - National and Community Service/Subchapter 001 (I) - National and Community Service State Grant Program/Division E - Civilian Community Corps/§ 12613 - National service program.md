@@ -32,7 +32,7 @@ Section was formerly classified to section 12653b of this title prior to renumbe
 
 #### Prior Provisions
 
-A prior section 12613, Pub. L. 101–610, title I, §162, Nov. 16, 1990, 104 Stat. 3158, related to training programin skills to be employed in Peace Corps or VISTA, prior to repeal by Pub. L. 103–82, §104(a).
+A prior section 12613, Pub. L. 101–610, title I, §162, Nov. 16, 1990, 104 Stat. 3158, related to training program in skills to be employed in Peace Corps or VISTA, prior to repeal by Pub. L. 103–82, §104(a).
 
 #### Amendments
 
@@ -41,8 +41,4 @@ A prior section 12613, Pub. L. 101–610, title I, §162, Nov. 16, 1990, 104 Sta
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12653c of this title.
 

@@ -14,7 +14,3 @@ There are authorized to be appropriated for purposes of making reimbursements un
 
 1986—Pub. L. 99–375 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2905, 2907 of this title.
-

@@ -26,7 +26,7 @@ The Institute, acting through the Board, may—
 
 &emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
 
-&emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as “Spark M. Matsunaga Scholars”.
+&emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision ofscholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as “Spark M. Matsunaga Scholars”.
 
 #### (c) Annual award of Spark M. Matsunaga Medal of Peace
 
@@ -44,7 +44,7 @@ The Institute, acting through the Board, may—
 
 #### (d) Description of extension and outreach activities
 
-The Institute may undertake extension and outreach activities under this chapter by making grants and entering into contracts with institutions of postsecondary, community, secondary, and elementary education (including combinations of such institutions), with public andprivate educational, training, or research institutions (including the American Federation of Labor-the Congress of Industrial Organizations) and libraries, and with public departments and agencies (including State and territorial departments of education and of commerce). No grant may be made to an institution unless it is a nonprofit or official public institution, and at least one-fourth of the Institute's annual appropriations shall be paid to such nonprofit and official public institutions. A grant or contract may be made to—
+The Institute may undertake extension and outreach activities under this chapter by making grants and entering into contracts with institutions of postsecondary, community, secondary, and elementary education (including combinations of such institutions), with public and private educational, training, or research institutions (including the American Federation of Labor-the Congress of Industrial Organizations) and libraries, and with public departments and agencies (including State and territorial departments of education and of commerce). No grant may be made to an institution unless it is a nonprofit or official public institution, and at least one-fourth of the Institute's annual appropriations shall be paid to such nonprofit and official public institutions. A grant or contract may be made to—
 
 &emsp;(1) initiate, strengthen, and support basic and applied research on international peace and conflict resolution;
 
@@ -146,6 +146,8 @@ Subsecs. (c) to (<i>o</i>). Pub. L. 101–520, §319(a)(2), (3), added subsec. (
 
 #### Change of Name
 
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives and Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1998 Amendment
@@ -163,8 +165,4 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Transfer of Functions
 
 United States Arms Control and Disarmament Agency abolished and functions transferred to Secretary of State, see sections 6511 and 6512 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4606 of this title.
 

@@ -38,7 +38,3 @@ In paragraph (2)(A), the term “disabled veterans” is substituted for “pref
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 3304, 3314, 3315, 3320 of this title; title 22 section 1438; title 49 section 40122.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—OIL POLLUTION RESEARCH AND DEVELOPMENT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2712 of this title.
-
 
 ---
 

@@ -40,7 +40,7 @@
 
 #### (A) MA enrollment requirement
 
-&emsp;&emsp;For the reference month (as defined under section 1395w–27a(f)(4)(B) of this title) with respect to 2010, at least 25 percent of the total number of MA eligible individuals who reside in the MSA were enrolled in an MAlocal plan described in section 1395w–21(a)(2)(A)(i) of this title.
+&emsp;&emsp;For the reference month (as defined under section 1395w–27a(f)(4)(B) of this title) with respect to 2010, at least 25 percent of the total number of MA eligible individuals who reside in the MSA were enrolled in an MA local plan described in section 1395w–21(a)(2)(A)(i) of this title.
 
 #### (B) 2 plan requirement
 
@@ -259,8 +259,4 @@ Section 1395w–23(a)(1)(A)(iv) of this title, referred to in subsec. (e)(5)(B),
 #### No Change in Medicare's Defined Benefit Package
 
 Pub. L. 108–173, title II, §241(c), Dec. 8, 2003, 117 Stat. 2221, provided that: “Nothing in this part \[probably should be this section, enacting this section and amending sections 1395r, 1395w, and 1395w–23 of this title\] (or the amendments made by this part) shall be construed as changing the entitlement to defined benefits under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395r, 1395w, 1395w–23 of this title.
 

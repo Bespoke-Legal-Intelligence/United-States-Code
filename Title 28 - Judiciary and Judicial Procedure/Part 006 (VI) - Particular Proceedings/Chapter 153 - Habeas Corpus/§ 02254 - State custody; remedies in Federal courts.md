@@ -78,13 +78,9 @@ Subsecs. (h), (i). Pub. L. 104–132, §104(5), added subsecs. (h) and (i).
 
 1966—Pub. L. 89–711 substituted “Federal courts” for “State Courts” in section catchline, added subsec. (a), designated existing paragraphs as subsecs. (b) and (c), and added subsecs. (d) to (f).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2244, 2261, 2262, 2263, 2264, 2266 of this title; title 18 section 3006A; title 21 section 848.
-
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings for United States District Courts
 
-Pub. L. 94–426, §1, Sept. 28, 1976, 90 Stat. 1334, provided: “That the rules governing section 2254 cases in the United States district courts and the rules governing section 2255 proceedings for the United States district courts, as proposed by the United States Supreme Court, which were delayed by the Act entitled ‘An Act to delay the effective date of certain proposed amendments to the Federal Rules of Criminal Procedure and certain other rules promulgated by the United States Supreme Court’ (Public Law 94–349), are approved with the amendments set forth in section 2 of this Act and shall take effect as so amended, with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
+For approval and effective date of rules governing petitions under section 2254 and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note under section 2074 of this title.
 
 #### Postponement of Effective Date of Proposed Rules Governing Proceedings Under Sections 2254 and 2255 of this Title
 
@@ -92,29 +88,29 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 22, 2002)</i>
+#### (<i>Effective February 1, 1977, as amended to January 3, 2005)</i>
 
 Rule
 
 1\.
 
-Scope of rules.
+Scope.
 
 2\.
 
-Petition.
+The Petition.
 
 3\.
 
-Filing petition.
+Filing the Petition; Inmate Filing.
 
 4\.
 
-Preliminary consideration by judge.
+Preliminary Review; Serving the Petition and Order.
 
 5\.
 
-Answer; contents.
+The Answer and the Reply.
 
 6\.
 
@@ -122,49 +118,51 @@ Discovery.
 
 7\.
 
-Expansion of record.
+Expanding the Record.
 
 8\.
 
-Evidentiary hearing.
+Evidentiary Hearing.
 
 9\.
 
-Delayed or successive petitions.
+Second or Successive Petitions.
 
 10\.
 
-Powers of magistrates.
+Powers of a Magistrate Judge.
 
 11\.
 
-Federal Rules of Civil Procedure; extent of applicability.
+Applicability of the Federal Rules of Civil Procedure.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### APPENDIX OF FORMS
 
-Model form for use in applications for habeas corpus under 28 U.S.C. §2254.
-
-Model form for use in 28 U.S.C. §2254 cases involving a Rule 9 issue.
+Petition Under 28 U.S.C. §2254 for Writ of Habeas Corpus By a Person in State Custody.
 
 #### Effective Date of Rules; Effective Date of 1975 Amendment
 
-Rules governing Section 2254 cases, and the amendments thereto by Pub. L. 94–426, Sept. 28, 1976, 90 Stat. 1334, effective with respect to petitions under section 2254 of this title and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note above.
+Rules governing Section 2254 cases, and the amendments thereto by Pub. L. 94–426, Sept. 28, 1976, 90 Stat.1334, effective with respect to petitions under section 2254 of this title and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note under section 2074 of this title.
 
-### Rule 1. Scope of Rules
+### Rule 1. Scope
 
 (a)
 
-Applicable to cases involving custody pursuant to a judgment of a state court. These rules govern the procedure in the United States district courts on applications under 28 U.S.C. §2254:
+Cases Involving a Petition under 28
 
-&emsp;(1) by a person in custody pursuant to a judgment of a state court, for a determination that such custody is in violation of the Constitution, laws, or treaties of the United States; and
+U.S.C. §2254. These rules govern a petition for a writ of habeas corpus filed in a United States district court under 28 U.S.C. §2254 by:
 
-&emsp;(2) by a person in custody pursuant to a judgment of either a state or a federal court, who makes application for a determination that custody to which he may be subject in the future under a judgment of a state court will be in violation of the Constitution, laws, or treaties of the United States.
+&emsp;(1) a person in custody under a state-court judgment who seeks a determination that the custody violates the Constitution, laws, or treaties of the United States; and
+
+&emsp;(2) a person in custody under a state-court or federal-court judgment who seeks a determination that future custody under a state-court judgment would violate the Constitution, laws, or treaties of the United States.
 
 (b)
 
-Other situations. In applications for habeas corpus in cases not covered by subdivision (a), these rules may be applied at the discretion of the United States district court.
+Other Cases. The district court may apply any or all of these rules to a habeas corpus petition not covered by Rule 1(a).
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -190,7 +188,7 @@ The courts are not unanimous in dealing with the above situations, and the bound
 
 <i>Hammond v. Lenfest</i>, 398 F.2d 705 (2d Cir. 1968), reviewed prior “custody” doctrine and reaffirmed a generalized flexible approach to the issue. In speaking about 28 U.S.C. §2241, the first section in the habeas corpus statutes, the court said:
 
-&emsp;While the language of the Act indicates that a writ of habeas corpus is appropriate only when a petitioner is “in custody,” \* \* \* the Act “does not attempt to mark the boundaries of ‘custody’ nor in any way other than by use of that word attempt to limit the situations in which the writ can be used.” \* \* \* And, recent Supreme Court decisions have made clear that “\[i\]t \[habeas corpus\] is not now and never has been a static, narrow, formalistic remedy; its scope has grown to achieve its grand purpose—the protection of individuals against erosion of their right to be free from wrongful restraints upon their liberty.”\* \* \* “\[B\]esides physical imprisonment, there are other restraints on a man's liberty, restraints not shared by the public generally, which have been thought sufficient in the English-speaking world to support the issuance of habeas corpus.”
+&emsp;While the language of the Act indicates that a writ of habeas corpus is appropriate only when a petitioner is “in custody,” \* \* \* the Act “does not attempt to mark the boundaries of ‘custody’ nor in any way other than by use of that word attempt to limit the situations in which the writ can be used.” \* \* \* And, recent Supreme Court decisions have made clear that “\[i\]t \[habeas corpus\] is not now and never has been a static, narrow, formalistic remedy; its scope has grown to achieve its grand purpose—the protection of individuals against erosion of their right to be free from wrongful restraints upon their liberty.” \* \* \* “\[B\]esides physical imprisonment, there are other restraints on a man's liberty, restraints not shared by the public generally, which have been thought sufficient in the English-speaking world to support the issuance of habeas corpus.”
 
 #### 398 F.2d at 710–711
 
@@ -200,29 +198,45 @@ It is, however, the view of the Advisory Committee that claims of improper condi
 
 The distinction between duration of confinement and conditions of confinement may be difficult to draw. Compare <i>Preiser v. Rodriguez</i>, 411 U.S. 475 (1973), with <i>Clutchette v. Procunier</i>, 497 F.2d 809 (9th Cir. 1974), modified, 510 F.2d 613 (1975).
 
-### Rule 2. Petition
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 1 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+<i>Changes Made After Publication and Comments</i>. In response to at least one commentator on the published rules, the Committee modified Rule 1(b) to reflect the point that if the court was considering a habeas petition not covered by §2254, the court could apply some or all of the rules.
+
+### Rule 2. The Petition
 
 (a)
 
-Applicants in present custody. If the applicant is presently in custody pursuant to the state judgment in question, the application shall be in the form of a petition for a writ of habeas corpus in which the state officer having custody of the applicant shall be named as respondent.
+Current Custody; Naming the Respondent. If the petitioner is currently in custody under a state-court judgment, the petition must name as respondent the state officer who has custody.
 
 (b)
 
-Applicants subject to future custody. If the applicant is not presently in custody pursuant to the state judgment against which he seeks relief but may be subject to such custody in the future, the application shall be in the form of a petition for a writ of habeas corpus with an added prayer for appropriate relief against the judgment which he seeks to attack. In such a case the officer having present custody of the applicant and the attorney general of the state in which the judgment which he seeks to attack was entered shall each be named as respondents.
+Future Custody; Naming the Respondents and Specifying the Judgment. If the petitioner is not yet in custody—but may be subject to future custody—under the state-court judgment being contested, the petition must name as respondents both the officer who has current custody and the attorney general of the state where the judgment was entered. The petition must ask for relief from the state-court judgment being contested.
 
 (c)
 
-Form of petition. The petition shall be in substantially the form annexed to these rules, except that any district court may by local rule require that petitions filed with it shall be in a form prescribed by the local rule. Blank petitions in the prescribed form shall be made available without charge by the clerk of the district court to applicants upon their request. It shall specify all the grounds for relief which are available to the petitioner and of which he has or by the exercise of reasonable diligence should have knowledge and shall set forth in summary form the facts supporting each of the grounds thus specified. It shall also state the relief requested. The petition shall be typewritten or legibly handwritten and shall be signed under penalty of perjury by the petitioner.
+Form. The petition must:
+
+&emsp;(1) specify all the grounds for relief available to the petitioner;
+
+&emsp;(2) state the facts supporting each ground;
+
+&emsp;(3) state the relief requested;
+
+&emsp;(4) be printed, typewritten, or legibly handwritten; and
+
+&emsp;(5) be signed under penalty of perjury by the petitioner or by a person authorized to sign it for the petitioner under 28 U.S.C. §2242.
 
 (d)
 
-Petition to be directed to judgments of one court only. A petition shall be limited to the assertion of a claim for relief against the judgment or judgments of a single state court (sitting in a county or other appropriate political subdivision). If a petitioner desires to attack the validity of the judgments of two or more state courts under which he is in custody or may be subject to future custody, as the case may be, he shall do so by separate petitions.
+Standard Form. The petition must substantially follow either the form appended to these rules or a form prescribed by a local district-court rule. The clerk must make forms available to petitioners without charge.
 
 (e)
 
-Return of insufficient petition. If a petition received by the clerk of a district court does not substantially comply with the requirements of rule 2 or rule 3, it may be returned to the petitioner, if a judge of the court so directs, together with a statement of the reason for its return. The clerk shall retain a copy of the petition.
+Separate Petitions for Judgments of Separate Courts. A petitioner who seeks relief from judgments of more than one state court must file a separate petition covering the judgment or judgments of each court.
 
-(As amended Pub. L. 94–426, §2(1), (2), Sept. 28, 1976, 90 Stat. 1334; Apr. 28, 1982, eff. Aug. 1, 1982.)
+(As amended Pub. L. 94–426, §2(1), (2), Sept. 28, 1976, 90 Stat. 1334; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -240,7 +254,7 @@ Since the concept of “custody” requisite to the consideration of a petition 
 
 (3) The applicant is in custody in any other manner differing from (1) and (2) above due to the effects of the state action he seeks relief from. The named respondent should be the attorney general of the state wherein such action was taken.
 
-(4) The applicant is in jail, prison, or other actual physical restraint but is attacking a state action which will cause him to be kept in custody in the future rather than the government action under which he is presently confined. The named respondents shall be the state or federal officer who has official custody of himat the time the petition is filed and the attorney general of the state whose action subjects the petitioner to future custody.
+(4) The applicant is in jail, prison, or other actual physical restraint but is attacking a state action which will cause him to be kept in custody in the future rather than the government action under which he is presently confined. The named respondents shall be the state or federal officer who has official custody of him at the time the petition is filed and the attorney general of the state whose action subjects the petitioner to future custody.
 
 (5) The applicant is in custody, although not physically restrained, and is attacking a state action which will result in his future custody rather than the government action out of which his present custody arises. The named respondent(s) shall be the attorney general of the state whose action subjects the petitioner to future custody, as well as the government officer who has present official custody of the petitioner if there is such an officer and his identity is ascertainable.
 
@@ -248,7 +262,7 @@ In any of the above situations the judge may require or allow the petitioner to 
 
 As seen in rule 1 and paragraphs (4) and (5) above, these rules contemplate that a petitioner currently in federal custody will be permitted to apply for habeas relief from a state restraint which is to go into effect in the future. There has been disagreement in the courts as to whether they have jurisdiction of the habeas application under these circumstances (compare <i>Piper v. United States</i>, 306 F.Supp. 1259 (D.Conn. 1969), with <i>United States ex rel. Meadows v. New York</i>, 426 F.2d 1176 (2d Cir. 1970), cert. denied, 401 U.S. 941 (1971)). This rule seeks to make clear that they do have such jurisdiction.
 
-Subdivision (c) provides that unless a district court requires otherwise by local rule, the petition must be in the form annexed to these rules. Having a standard prescribed form has several advantages. In the past, petitions have frequently contained mere conclusions of law, unsupported by any facts. Since it is the relationship of the facts to the claim asserted that is important, these petitions were obviously deficient. In addition, lengthy and often illegible petitions, arranged in no logical order, were submitted to judges who have had to spend hours deciphering them. For example, in <i>Passic v. Michigan</i>, 98 F.Supp. 1015, 1016 (E.D.Mich. 1951), the court dismissed a petition for habeas corpus, describing it as “two thousand pages of irrational, prolix and redundant pleadings \* \* \*.”
+Subdivision (c) provides that unless a district court requires otherwise by local rule, the petition must be in the form annexed to these rules. Having a standard prescribed form has several advantages. In the past, petitions have frequently contained mere conclusions of law, unsupported by any facts. Since it is the relationship of the facts to the claim asserted that is important, these petitions were obviously deficient. In addition, lengthy and often illegible petitions, arranged in no logical order, were submitted to judges who have had to spend hours deciphering them. For example, in<i>Passic v. Michigan</i>, 98 F.Supp. 1015, 1016 (E.D.Mich. 1951), the court dismissed a petition for habeas corpus, describing it as “two thousand pages of irrational, prolix and redundant pleadings \* \* \*.”
 
 Administrative convenience, of benefit to both the court and the petitioner, results from the use of a prescribed form. Judge Hubert L. Will briefly described the experience with the use of a standard form in the Northern District of Illinois:
 
@@ -278,27 +292,55 @@ Subdivision (d) provides that a single petition may assert a claim only against 
 
 Subdivision (e) allows the clerk to return an insufficient petition to the petitioner, and it must be returned if the clerk is so directed by a judge of the court. Any failure to comply with the requirements of rule 2 or 3 is grounds for insufficiency. In situations where there may be arguable noncompliance with another rule, such as rule 9, the judge, not the clerk, must make the decision. If the petition is returned it must be accompanied by a statement of the reason for its return. No petitioner should be left to speculate as to why or in what manner his petition failed to conform to these rules.
 
-Subdivision (e) also provides that the clerk shall retain one copy of the insufficient petition. If the prisoner files another petition, the clerk will be in a better position to determine the sufficiency of the new petition. If the new petition is insufficient, comparison with the prior petition may indicate whether the prisoner has failed to understand the clerk's prior explanation for its insufficiency, so that the clerk can make another, hopefully successful, attempt at transmittingthis information to the petitioner. If the petitioner insists that the original petition was in compliance with the rules, a copy of the original petition is available for the consideration of the judge. It is probably better practice to make a photocopy of a petition which can be corrected by the petitioner, thus saving the petitioner the task of completing an additional copy.
+Subdivision (e) also provides that the clerk shall retain one copy of the insufficient petition. If the prisoner files another petition, the clerk will be in a better position to determine the sufficiency of the new petition. If the new petition is insufficient, comparison with the prior petition may indicate whether the prisoner has failed to understand the clerk's prior explanation for its insufficiency, so that the clerk can make another, hopefully successful, attempt at transmitting this information to the petitioner. If the petitioner insists that the original petition was in compliance with the rules, a copy of the original petition is available for the consideration of the judge. It is probably better practice to make a photocopy of a petition which can be corrected by the petitioner, thus saving the petitioner the task of completing an additional copy.
 
 #### 1982 Amendment
 
 Subdivision (c). The amendment takes into account 28 U.S.C. §1746, enacted after adoption of the §2254 rules. Section 1746 provides that in lieu of an affidavit an unsworn statement may be given under penalty of perjury in substantially the following form if executed within the United States, its territories, possessions or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date). (Signature).” The statute is “intended to encompass prisoner litigation,” and the statutory alternative is especially appropriate in such cases because a notary might not be readily available. <i>Carter v. Clark</i>, 616 F.2d 228 (5th Cir. 1980). The §2254 forms have been revised accordingly.
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 2 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
+
+Revised Rule 2(c)(5) has been amended by removing the requirement that the petition be signed personally by the petitioner. As reflected in 28 U.S.C. §2242, an application for habeas corpus relief may be filed by the person who is seeking relief, or by someone acting on behalf of that person. <i>See, e.g., Whitmore v. Arkansas</i>, 495U.S. 149 (1990) (discussion of requisites for “next friend” standing in petition for habeas corpus). Thus, under the, \[sic\] amended rule the petition may be signed by petitioner personally or by someone acting on behalf of the petitioner, assuming that the person is authorized to do so, for example, an attorney for the petitioner. The Committee envisions that the courts will apply third-party, or “next-friend,” standing analysis in deciding whether the signer was actually authorized to sign the petition on behalf of the petitioner.
+
+The language in new Rule 2(d) has been changed to reflect that a petitioner must substantially follow the standard form, which is appended to the rules, or a form provided by the court. The current rule, Rule 2(c), seems to indicate a preference for the standard “national” form. Under the amended rule, there is no stated preference. The Committee understood that current practice in some courts is that if the petitioner first files a petition using the national form, the courts may then ask the petitioner to supplement it with the local form.
+
+Current Rule 2(e), which provided for returning an insufficient petition, has been deleted. The Committee believed that the approach in Federal Rule of Civil Procedure 5(e) was more appropriate for dealing with petitions that do not conform to the form requirements of the rule. That Rule provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214, the petitioner suffered no penalty, other than delay, if the petition was deemed insufficient. Now that a one-year statute of limitations applies to petitions filed under §2254, <i>see</i> 28 U.S.C. §2244(d)(1), the court's dismissal of a petition because it is not in proper form may pose a significant penalty for a petitioner, who may not be able to file another petition within the one-year limitations period. Now, under revised Rule 3(b), the clerk is required to file a petition, even though it may otherwise fail to comply with the provisions in revised Rule 2(c). The Committee believed that the better procedure was to accept the defective petition and require the petitioner to submit a corrected petition that conforms to Rule 2(c).
+
+<i>Changes Made After Publication and Comments</i>. The Committee changed Rule 2(c)(2) to read “state the facts” rather then \[sic\] “briefly summarize the facts.” As one commentator noted, the current language may actually mislead the petitioner and is also redundant. The Committee modified Rule 2(c)(5) to emphasize that any person, other than the petitioner, who signs the petition must be authorized to do so; the revised rule now specifically cites §2242. The Note was changed to reflect that point.
+
+Rule 2(c)(4) was modified to account for those cases where the petitioner prints the petition on a computer word-processing program.
+
+#### Amendments by Public Law
 
 1976—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
 
 Subd. (e). Pub. L. 94–426, §2(2), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a petition for noncompliance without a judge so directing.
 
-### Rule 3. Filing Petition
+### Rule 3. Filing the Petition; Inmate Filing
 
 (a)
 
-Place of filing; copies; filing fee. A petition shall be filed in the office of the clerk of the district court. It shall be accompanied by two conformed copies thereof. It shall also be accompanied by the filing fee prescribed by law unless the petitioner applies for and is given leave to prosecute the petition in forma pauperis. If the petitioner desires to prosecute the petition in forma pauperis, he shall file the affidavit required by 28 U.S.C. §1915. In all such cases the petition shall also be accompanied by a certificate of the warden or other appropriate officer of the institution in which the petitioner is confined as to the amount of money or securities on deposit to the petitioner's credit in any account in the institution, which certificate may be considered by the court in acting upon his application for leave to proceed in forma pauperis.
+Where to File; Copies; Filing Fee. An original and two copies of the petition must be filed with the clerk and must be accompanied by:
+
+&emsp;(1) the applicable filing fee, or
+
+&emsp;(2) a motion for leave to proceed in forma pauperis, the affidavit required by 28 U.S.C. §1915, and a certificate from the warden or other appropriate officer of the place of confinement showing the amount of money or securities that the petitioner has in any account in the institution.
 
 (b)
 
-Filing and service. Upon receipt of the petition and the filing fee, or an order granting leave to the petitioner to proceed in forma pauperis, and having ascertained that the petition appears on its face to comply with rules 2 and 3, the clerk of the district court shall file the petition and enter it on the docket in his office. The filing of the petition shall not require the respondent to answer the petition or otherwise move with respect to it unless so ordered by the court.
+Filing. The clerk must file the petition and enter it on the docket.
+
+(c)
+
+Time to File. The time for filing a petition is governed by 28 U.S.C. §2244(d).
+
+(d)
+
+Inmate Filing. A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -320,9 +362,25 @@ The certificate will verify the amount of funds credited to the petitioner in an
 
 Subdivision (b) details the clerk's duties with regard to filing the petition. If the petition does not appear on its face to comply with the requirements of rules 2 and 3, it may be returned in accordance with rule 2(e). If it appears to comply, it must be filed and entered on the docket in the clerk's office. However, under this subdivision the respondent is not required to answer or otherwise move with respect to the petition unless so ordered by the court.
 
-### Rule 4. Preliminary Consideration by Judge
+#### Committee Notes on Rules—2004 Amendment
 
-The original petition shall be presented promptly to a judge of the district court in accordance with the procedure of the court for the assignment of its business. The petition shall be examined promptly by the judge to whom it isassigned. If it plainly appears from the face of the petition and any exhibits annexed to it that the petitioner is not entitled to relief in the district court, the judge shall make an order for its summary dismissal and cause the petitioner to be notified. Otherwise the judge shall order the respondent to file an answer or other pleading within the period of time fixed by the court or to take such other action as the judge deems appropriate. In every case a copy of the petition and any order shall be served by certified mail on the respondent and the attorney general of the state involved.
+The language of Rule 3 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended except as described below.
+
+The last sentence of current Rule 3(b), dealing with an answer being filed by the respondent, has been moved to revised Rule 5(a).
+
+Revised Rule 3(b) is new and is intended to parallel Federal Rule of Civil Procedure 5(e), which provides that the clerk may not refuse to accept a filing solely for the reason that it fails to comply with these rules or local rules. Before the adoption of a one-year statute of limitations in the Antiterrorism and Effective Death Penalty Act of 1996, 110 Stat. 1214, the petitioner suffered no penalty, other than delay, if the petition was deemed insufficient. That Act, however, added a one-year statute of limitations to petitions filed under §2254, <i>see</i> 28 U.S.C. §2244(d)(1). Thus, a court's dismissal of a defective petition may pose a significant penalty for a petitioner who may not be able to file a corrected petition within the one-year limitations period. The Committee believed that the better procedure was to accept the defective petition and require the petitioner to submit a corrected petition that conforms to Rule 2. Thus, revised Rule 3(b) requires the clerk to file a petition, even though it may otherwise fail to comply with Rule 2. The rule, however, is not limited to those instances where the petition is defective only in form; the clerk would also be required, for example, to file the petition even though it lacked the requisite filing fee or an <i>in forma pauperis</i> form.
+
+Revised Rule 3(c), which sets out a specific reference to 28 U.S.C. §2244(d), is new and has been added to put petitioners on notice that a one-year statute of limitations applies to petitions filed under these Rules. Although the rule does not address the issue, every circuit that has addressed the issue has taken the position that equitable tolling of the statute of limitations is available in appropriate circumstances. <i>See, e.g., Smith v. McGinnis</i>, 208 F.3d 13, 17–18 (2d Cir. 2000); <i>Miller v. New Jersey State Department of Corrections</i>, 145 F.3d 616, 618–19 (3d Cir. 1998); <i>Harris v. Hutchinson</i>, 209 F.3d 325, 330 (4th Cir. 2000). The Supreme Court has not addressed the question directly. <i>See Duncan v. Walker</i>, 533 U.S. 167, 181 (2001) (“We . . . have no occasion to address the question that Justice Stevens raises concerning the availability of equitable tolling.”).
+
+Rule 3(d) is new and provides guidance on determining whether a petition from an inmate is considered to have been filed in a timely fashion. The new provision parallels Federal Rule of Appellate Procedure 25(a)(2)(C).
+
+<i>Changes Made After Publication and Comments</i>. The Committee Note was changed to reflect that the clerk must file a petition, even in those instances where the necessary filing fee or in forma pauperis form is not attached. The Note also includes new language concerning the equitable tolling of the statute of limitations.
+
+### Rule 4. Preliminary Review; Serving the Petition and Order
+
+The clerk must promptly forward the petition to a judge under the court's assignment procedure, and the judge must promptly examine it. If it plainly appears from the petition and any attached exhibits that the petitioner is not entitled to relief in the district court, the judge must dismiss the petition and direct the clerk to notify the petitioner. If the petition is not dismissed, the judge must order the respondent to file an answer, motion, or other response within a fixed time, or to take other action the judge may order. In every case, the clerk must serve a copy of the petition and any order on the respondent and on the attorney general or other appropriate officer of the state involved.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -332,15 +390,51 @@ Rule 4 outlines the options available to the court after the petition is properl
 
 It has been suggested that an answer should be required in every habeas proceeding, taking into account the usual petitioner's lack of legal expertise and the important functions served by the return. See Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1178 (1970). However, under §2243 it is the duty of the court to screen out frivolous applications and eliminate the burden that would be placed on the respondent by ordering an unnecessary answer. <i>Allen v. Perini</i>, 424 F.2d 134, 141 (6th Cir. 1970). In addition, “notice” pleading is not sufficient, for the petition is expected to state facts that point to a “real possibility of constitutional error.” See <i>Aubut v. State of Maine</i>, 431 F.2d 688, 689 (1st Cir. 1970).
 
-In the event an answer is ordered under rule 4, the court is accorded greater flexibility than under §2243 in determining within what time period an answer must be made. Under §2243, the respondent must make a return within three days after being so ordered, with additional time of up to forty days allowed under the Federal Rules of Civil Procedure, Rule 81(a)(2), for good cause. In view of the widespread state of work overload in prosecutors’ offices (see, <i>e.g., Allen</i>, 424 F.2d at 141), additional time is granted in some jurisdictions as a matter of course. Rule 4, which contains no fixed time requirement, gives the court the discretion to take into account various factors such as the respondent's workload and the availability of transcripts before determining a time within which an answer must be made.
+In the event an answer is ordered under rule 4, the court is accorded greater flexibility than under §2243 in determining within what time period an answer must be made. Under §2243, the respondent must make a return within three days after being so ordered, with additional time of up to forty days allowed under the Federal Rules of Civil Procedure, Rule 81(a)(2), for good cause. In view of the widespread state of work overload in prosecutors’ offices (see, <i>e.g., Allen</i>, 424 F.2d at 141),additional time is granted in some jurisdictions as a matter of course. Rule 4, which contains no fixed time requirement, gives the court the discretion to take into account various factors such as the respondent's workload and the availability of transcripts before determining a time within which an answer must be made.
 
 Rule 4 authorizes the judge to “take such other action as the judge deems appropriate.” This is designed to afford the judge flexibility in a case where either dismissal or an order to answer may be inappropriate. For example, the judge may want to authorize the respondent to make a motion to dismiss based upon information furnished by respondent, which may show that petitioner's claims have already been decided on the merits in a federal court; that petitioner has failed to exhaust state remedies; that the petitioner is not in custody within the meaning of 28 U.S.C. §2254; or that a decision in the matter is pending in state court. In these situations, a dismissal may be called for on procedural grounds, which may avoid burdening the respondent with the necessity of filing an answer on the substantive merits of the petition. In other situations, the judge may want to consider a motion from respondent to make the petition more certain. Or the judge may want to dismiss some allegations in the petition, requiring the respondent to answer only those claims which appear to have some arguable merit.
 
 Rule 4 requires that a copy of the petition and any order be served by certified mail on the respondent and the attorney general of the state involved. See 28 U.S.C. §2252. Presently, the respondent often does not receive a copy of the petition unless the court directs an answer under 28 U.S.C. §2243. Although the attorney general is served, he is not required to answer if it is more appropriate for some other agency to do so. Although the rule does not specifically so provide, it is assumed that copies of the court orders to respondent will be mailed to petitioner by the court.
 
-### Rule 5. Answer; Contents
+#### Committee Notes on Rules—2004 Amendment
 
-The answer shall respond to the allegations of the petition. In addition it shall state whether the petitioner has exhausted his state remedies including any post-conviction remedies available to him under the statutes or procedural rules of the state and including also his right of appeal both from the judgment of conviction and from any adverse judgment or order in the post-conviction proceeding. The answer shall indicate what transcripts (of pretrial, trial, sentencing, and post-conviction proceedings) are available, when they can be furnished, and also what proceedings have been recorded and not transcribed. There shall be attached to the answer such portions of the transcripts as the answering party deems relevant. The court on its own motion or upon request of the petitioner may order that further portions of the existing transcripts be furnished or that certain portions of the non-transcribed proceedings be transcribed and furnished. If a transcript is neither available nor procurable, a narrative summary of the evidence may be submitted. If the petitioner appealed from the judgment of conviction or from an adverse judgment or order in a post-conviction proceeding, a copy of the petitioner's brief on appeal and of the opinion of the appellate court, if any, shall also be filed by the respondent with the answer.
+The language of Rule 4 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
+
+The amended rule reflects that the response to a habeas petition may be a motion.
+
+The requirement that in every case the clerk must serve a copy of the petition on the respondent by certified mail has been deleted. In addition, the current requirement that the petition be sent to the Attorney General of the state has been modified to reflect practice in some jurisdictions that the appropriate state official may be someone other than the Attorney General, for example, the officer in charge of a local confinement facility. This comports with a similar provision in 28 U.S.C. §2252, which addresses notice of habeas corpus proceedings to the state's attorney general or other appropriate officer of the state.
+
+<i>Changes Made After Publication and Comments</i>. The Rule was modified slightly to reflect the view of some commentators that it is common practice in some districts for the government to file a pre-answer motion to dismiss. The Committee agreed with that recommendation and changed the word “pleading” in the rule to “response.” It also made several minor changes to the Committee Note.
+
+### Rule 5. The Answer and the Reply
+
+(a)
+
+When Required. The respondent is not required to answer the petition unless a judge so orders.
+
+(b)
+
+Contents: Addressing the Allegations; Stating a Bar. The answer must address the allegations in the petition. In addition, it must state whether any claim in the petition is barred by a failure to exhaust state remedies, a procedural bar, non-retroactivity, or a statute of limitations.
+
+(c)
+
+Contents: Transcripts. The answer must also indicate what transcripts (of pretrial, trial, sentencing, or post-conviction proceedings) are available, when they can be furnished, and what proceedings have been recorded but not transcribed. The respondent must attach to the answer parts of the transcript that the respondent considers relevant. The judge may order that the respondent furnish other parts of existing transcripts or that parts of untranscribed recordings be transcribed and furnished. If a transcript cannot be obtained, the respondent may submit a narrative summary of the evidence.
+
+(d)
+
+Contents: Briefs on Appeal and Opinions. The respondent must also file with the answer a copy of:
+
+&emsp;(1) any brief that the petitioner submitted in an appellate court contesting the conviction or sentence, or contesting an adverse judgment or order in a post-conviction proceeding;
+
+&emsp;(2) any brief that the prosecution submitted in an appellate court relating to the conviction or sentence; and
+
+&emsp;(3) the opinions and dispositive orders of the appellate court relating to the conviction or the sentence.
+
+(e)
+
+Reply. The petitioner may submit a reply to the respondent's answer or other pleading within a time fixed by the judge.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -350,11 +444,11 @@ Rule 5 details the contents of the “answer”. (This is a change in terminolog
 
 &emsp;Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1083, 1178 (1970).
 
-The answer must respond to the allegations of the petition. While some districts require this by local rule (see, <i>e.g</i>., E.D.N.C.R. 17(B)), under 28 U.S.C. §2243 little specificity is demanded. As a result, courts occasionally receive answers which contain only a statement certifying the true cause of detention, or a series of delaying motions such as motions to dismiss. The requirement of the proposed rule that the “answer shallrespond to the allegations of the petition” is intended to ensure that a responsive pleading will be filed and thus the functions of the answer fully served.
+The answer must respond to the allegations of the petition. While some districts require this by local rule (see, <i>e.g</i>., E.D.N.C.R. 17(B)), under 28 U.S.C. §2243 little specificity is demanded. As a result, courts occasionally receive answers which contain only a statement certifying the true cause of detention, or a series of delaying motions such as motions to dismiss. The requirement of the proposed rule that the “answer shall respond to the allegations of the petition” is intended to ensure that a responsive pleading will be filed and thus the functions of the answer fully served.
 
 The answer must also state whether the petitioner has exhausted his state remedies. This is a prerequisite to eligibility for the writ under 28 U.S.C. §2254(b) and applies to every ground the petitioner raises. Most form petitions now in use contain questions requiring information relevant to whether the petitioner has exhausted his remedies. However, the exhaustion requirement is often not understood by the unrepresented petitioner. The attorney general has both the legal expertise and access to the record and thus is in a much better position to inform the court on the matter of exhaustion of state remedies. An alleged failure to exhaust state remedies as to any ground in the petition may be raised by a motion by the attorney general, thus avoiding the necessity of a formal answer as to that ground.
 
-The rule requires the answer to indicate what transcripts are available, when they can be furnished, and also what proceedings have been recorded and not transcribed. This will serve to inform the court and petitioner as to what factual allegations can be checked against the actual transcripts. The transcripts include pretrial transcripts relating, for example, to pretrial motions to suppress; transcripts of the trial or guilty plea proceeding; and transcripts of any post-conviction proceedings which may have taken place. The respondent is required to furnish those portions of the transcripts which he believes relevant. The court may order the furnishing of additional portions of the transcripts upon the request of petitioner or upon the court's own motion.
+The rule requires the answer to indicate what transcripts are available, when they can be furnished, andalso what proceedings have been recorded and not transcribed. This will serve to inform the court and petitioner as to what factual allegations can be checked against the actual transcripts. The transcripts include pretrial transcripts relating, for example, to pretrial motions to suppress; transcripts of the trial or guilty plea proceeding; and transcripts of any post-conviction proceedings which may have taken place. The respondent is required to furnish those portions of the transcripts which he believes relevant. The court may order the furnishing of additional portions of the transcripts upon the request of petitioner or upon the court's own motion.
 
 Where transcripts are unavailable, the rule provides that a narrative summary of the evidence may be submitted.
 
@@ -368,19 +462,39 @@ In actual practice, the traverse tends to be a mere pro forma refutation of the 
 
 Rule 5 does not indicate who the answer is to be served upon, but it necessarily implies that it will be mailed to the petitioner (or to his attorney if he has one). The number of copies of the answer required is left to the court's discretion. Although the rule requires only a copy of petitioner's brief on appeal, respondent is free also to file a copy of respondent's brief. In practice, courts have found it helpful to have a copy of respondent's brief.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 5 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as described below.
+
+Revised Rule 5(a), which provides that the respondent is not required to file an answer to the petition, unless a judge so orders, is taken from current Rule 3(b). The revised rule does not address the practice in some districts, where the respondent files a pre-answer motion to dismiss the petition. But revised Rule 4 permits that practice and reflects the view that if the court does not dismiss the petition, it may require (or permit) the respondent to file a motion.
+
+Rule 5(b) has been amended to require that the answer address not only failure to exhaust state remedies, but also procedural bars, non-retroactivity, and any statute of limitations. Although the latter three matters are not addressed in the current rule, the Committee intends no substantive change with the additional new language. <i>See, e.g.</i>, 28 U.S.C. §2254(b)(3). Instead, the Committee believes that the explicit mention of those issues in the rule conforms to current case law and statutory provisions. <i>See, e.g.</i>, 28 U.S.C. §2244(d)(1).
+
+Revised Rule 5(d) includes new material. First, Rule 5(d)(2), requires a respondent—assuming an answer is filed—to provide the court with a copy of any brief submitted by the prosecution to the appellate court. And Rule 5(d)(3) now provides that the respondent also file copies of any opinions and dispositive orders of the appellate court concerning the conviction or sentence. These provisions are intended to ensure that the court is provided with additional information that may assist it in resolving the issues raised, or not raised, in the petition.
+
+Finally, revised Rule 5(e) adopts the practice in some jurisdictions of giving the petitioner an opportunity to file a reply to the respondent's answer. Rather than using terms such as “traverse,” <i>see</i> 28 U.S.C. §2248, to identify the petitioner's response to the answer, the rule uses the more general term “reply.” The Rule prescribes that the court set the time for such responses and in lieu of setting specific time limits in each case, the court may decide to include such time limits in its local rules.
+
+<i>Changes Made After Publication and Comments</i>. Rule 5(a) was modified to read that the government is not required to “respond” to the petition unless the court so orders; the term “respond” was used because it leaves open the possibility that the government's first response (as it is in some districts) is in the form of a pre-answer motion to dismiss the petition. The Note has been changed to reflect the fact that although the rule itself does not reflect that particular motion, it is used in some districts and refers the reader to Rule 4.
+
+The Committee also deleted the reference to “affirmative defenses,” because the Committee believed that the term was a misnomer in the context of habeas petitions. The Note was also changed to reflect that there has been a potential substantive change from the current rule, to the extent that the published rule now requires that the answer address procedural bars and any statute of limitations. The Note states that the Committee believes the new language reflects current law.
+
+The Note was modified to address the use of the term “traverse.” One commentator noted that that is the term that is commonly used but that it does not appear in the rule itself.
+
 ### Rule 6. Discovery
 
 (a)
 
-Leave of court required. A party shall be entitled to invoke the processes of discovery available under the Federal Rules of Civil Procedure if, and to the extent that, the judge in the exercise of his discretion and for good cause shown grants leave to do so, but not otherwise. If necessary for effective utilization of discovery procedures, counsel shall be appointed by the judge for a petitioner who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g).
+Leave of Court Required. A judge may, for good cause, authorize a party to conduct discovery under the Federal Rules of Civil Procedure and may limit the extent of discovery. If necessary for effective discovery, the judge must appoint an attorney for a petitioner who qualifies to have counsel appointed under 18 U.S.C. §3006A.
 
 (b)
 
-Requests for discovery. Requests for discovery shall be accompanied by a statement of the interrogatories or requests for admission and a list of the documents, if any, sought to be produced.
+Requesting Discovery. A party requesting discovery must provide reasons for the request. The request must also include any proposed interrogatories and requests for admission, and must specify any requested documents.
 
 (c)
 
-Expenses. If the respondent is granted leave to take the deposition of the petitioner or any other person the judge may as a condition of taking it direct that the respondent pay the expenses of travel and subsistence and fees of counsel for the petitioner to attend the taking of the deposition.
+Deposition Expenses. If the respondent is granted leave to take a deposition, the judge may require the respondent to pay the travel expenses, subsistence expenses, and fees of the petitioner's attorney to attend the deposition.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -420,29 +534,35 @@ This rule contains very little specificity as to what types and methods of disco
 
 Subdivision (b) provides for judicial consideration of all matters subject to discovery. A statement of the interrogatories, or requests for admission sought to be answered, and a list of any documents sought to be produced, must accompany a request for discovery. This is to advise the judge of the necessity for discovery and enable him to make certain that the inquiry is relevant and appropriately narrow.
 
-Subdivision (c) refers to the situation where the respondent is granted leave to take the deposition of the petitioner or any other person. In such a case the judge may direct the respondent to pay the expenses and fees of counsel for the petitioner to attend the taking of the deposition, as a condition granting the respondent such leave. While the judge is not required to impose this condition subdivision (c) will give the court the means to do so. Such a provision affords some protection to the indigent petitioner who may be prejudiced by his inability to have counsel, often court-appointed, present at the taking of a deposition. It is recognized that under 18 U.S.C. §3006A(g), court-appointed counsel in a §2254 proceeding is entitled to receive up to $250 and reimbursement for expenses reasonably incurred. (Compare Fed.R. Crim.P. 15(c).) Typically, however, this does not adequately reimburse counsel if he must attend the taking of depositions or be involved in other pre-hearing proceedings. Subdivision (c) is intended to provide additional funds, if necessary, to be paid by the state government (respondent) to petitioner's counsel.
+Subdivision (c) refers to the situation where the respondent is granted leave to take the deposition of the petitioner or any other person. In such a case the judge may direct the respondent to pay the expenses and fees of counsel for the petitioner to attend the taking of the deposition, as a condition granting the respondent such leave. While the judge is not required to impose this condition subdivision (c) will give the court the means to do so. Such a provision affords some protection to the indigent petitioner who may be prejudiced by his inability to have counsel, often court-appointed, present at the taking of a deposition. It is recognized that under 18 U.S.C. §3006A(g), court-appointed counsel in a §2254 proceeding is entitled to receive up to $250 and reimbursement for expenses reasonably incurred. (Compare Fed.R. Crim.P. 15(c).) Typically, however,this does not adequately reimburse counsel if he must attend the taking of depositions or be involved in other pre-hearing proceedings. Subdivision (c) is intended to provide additional funds, if necessary, to be paid by the state government (respondent) to petitioner's counsel.
 
 Although the rule does not specifically so provide, it is assumed that a petitioner who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g) and is granted leave to take a deposition will be allowed witness costs. This will include recording and transcription of the witness's statement. Such costs are payable pursuant to 28 U.S.C. §1825. See Opinion of Comptroller General, February 28, 1974.
 
 Subdivision (c) specifically recognizes the right of the respondent to take the deposition of the petitioner. Although the petitioner could not be called to testify against his will in a criminal trial, it is felt the nature of the habeas proceeding, along with the safeguards accorded by the Fifth Amendment and the presence of counsel, justify this provision. See 83 Harv.L.Rev. 1038, 1183–84 (1970).
 
-### Rule 7. Expansion of Record
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 6 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+Although current Rule 6(b) contains no requirement that the parties provide reasons for the requested discovery, the revised rule does so and also includes a requirement that the request be accompanied by any proposed interrogatories and requests for admission, and must specify any requested documents. The Committee believes that the revised rule makes explicit what has been implicit in current practice.
+
+<i>Changes Made After Publication and Comments</i>. Rule 6(b) was modified to require that discovery requests be supported by reasons, to assist the court in deciding what, if any, discovery should take place. The Committee believed that the change made explicit what has been implicit in current practice.
+
+### Rule 7. Expanding the Record
 
 (a)
 
-Direction for expansion. If the petition is not dismissed summarily the judge may direct that the record be expanded by the parties by the inclusion of additional materials relevant to the determination of the merits of the petition.
+In General. If the petition is not dismissed, the judge may direct the parties to expand the record by submitting additional materials relating to the petition. The judge may require that these materials be authenticated.
 
 (b)
 
-Materials to be added. The expanded record may include, without limitation, letters predating the filing of the petition in the district court, documents, exhibits, and answers under oath, if so directed, to written interrogatories propounded by the judge. Affidavits may be submitted and considered as a part of the record.
+Types of Materials. The materials that may be required include letters predating the filing of the petition, documents, exhibits, and answers under oath to written interrogatories propounded by the judge. Affidavits may also be submitted and considered as part of the record.
 
 (c)
 
-Submission to opposing party. In any case in which an expanded record is directed, copies of the letters, documents, exhibits, and affidavits proposed to be included shall be submitted to the party against whom they are to be offered, and he shall be afforded an opportunity to admit or deny their correctness.
+Review by the Opposing Party. The judge must give the party against whom the additional materials are offered an opportunity to admit or deny their correctness.
 
-(d)
-
-Authentication. The court may require the authentication of any material under subdivision (b) or (c).
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -464,29 +584,31 @@ Under subdivision (c) all materials proposed to be included in the record must b
 
 Under subdivision (d) the judge can require authentication if he believes it desirable to do so.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 7 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as noted below.
+
+Revised Rule 7(a) is not intended to restrict the court's authority to expand the record through means other than requiring the parties themselves to provide the information. Further, the rule has been changed to remove the reference to the “merits” of the petition in the recognition that a court may wish to expand the record in order to assist it in deciding an issue other than the merits of the petition.
+
+The language in current Rule 7(d), which deals with authentication of materials in the expanded record, has been moved to revised Rule 7(a).
+
+<i>Changes Made After Publication and Comments</i>. The Committee modified Rule 7(a) by removing the reference to the “merits” of the petition. One commentator had commented that the court might wish to expand the record for purposes other than the merits of the case. The Committee agreed to the change and also changed the rule to reflect that someone other than a party may authenticate the materials.
+
 ### Rule 8. Evidentiary Hearing
 
 (a)
 
-Determination by court. If the petition is not dismissed at a previous stage in the proceeding, the judge, after the answer and the transcript and record of state court proceedings are filed, shall, upon a review of those proceedings and of the expanded record, if any, determine whether an evidentiary hearing is required. If it appears that an evidentiary hearing is not required, the judge shall make such disposition of the petition as justice shall require.
+Determining Whether to Hold a Hearing. If the petition is not dismissed, the judge must review the answer, any transcripts and records of state-court proceedings, and any materials submitted under Rule 7 to determine whether an evidentiary hearing is warranted.
 
 (b)
 
-Function of the magistrate.
-
-&emsp;(1) When designated to do so in accordance with 28 U.S.C. §636(b), a magistrate may conduct hearings, including evidentiary hearings, on the petition, and submit to a judge of the court proposed findings of fact and recommendations for disposition.
-
-&emsp;(2) The magistrate shall file proposed findings and recommendations with the court and a copy shall forthwith be mailed to all parties.
-
-&emsp;(3) Within ten days after being served with a copy, any party may serve and file written objections to such proposed findings and recommendations as provided by rules of court.
-
-&emsp;(4) A judge of the court shall make a de novo determination of those portions of the report or specified proposed findings or recommendations to which objection is made. A judge of the court may accept, reject, or modify in whole or in part any findings or recommendations made by the magistrate.
+Reference to a Magistrate Judge. A judge may, under 28 U.S.C. §636(b), refer the petition to a magistrate judge to conduct hearings and to file proposed findings of fact and recommendations for disposition. When they are filed, the clerk must promptly serve copies of the proposed findings and recommendations on all parties. Within 10 days after being served, a party may file objections as provided by local court rule. The judge must determine de novo any proposed finding or recommendation to which objection is made. The judge may accept, reject, or modify any proposed finding or recommendation.
 
 (c)
 
-Appointment of counsel; time for hearing. If an evidentiary hearing is required the judge shall appoint counsel for a petitioner who qualifies for the appointment of counsel under 18 U.S.C. §3006A(g) and the hearing shall be conducted as promptly as practicable, having regard for the need of counsel for both parties for adequate time for investigation and preparation. These rules do not limit the appointment of counsel under 18 U.S.C. §3006A at any stage of the case if the interest of justice so requires.
+Appointing Counsel; Time of Hearing. If an evidentiary hearing is warranted, the judge must appoint an attorney to represent a petitioner who qualifies to have counsel appointed under 18 U.S.C. §3006A. The judge must conduct the hearing as soon as practicable after giving the attorneys adequate time to investigate and prepare. These rules do not limit the appointment of counsel under §3006A at any stage of the proceeding.
 
-(As amended Pub. L. 94–426, §2(5), Sept. 28, 1976, 90 Stat. 1334; Pub. L. 94–577, §2(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2730, 2731.)
+(As amended Pub. L. 94–426, §2(5), Sept. 28, 1976, 90 Stat. 1334; Pub. L. 94–577, §2(a)(1), (b)(1), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -542,9 +664,19 @@ While the rule does not make specific provision for a prehearing conference, the
 
 > See also Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1188 (1970).
 
-The rule does not contain a specific provision on the subpoenaing of witnesses. It is left to local practice to determine the method for doing this. The implementation of 28 U.S.C. §1825 on the payment of witness feesis dealt with in an opinion of the Comptroller General, February 28, 1974.
+The rule does not contain a specific provision on the subpoenaing of witnesses. It is left to local practice to determine the method for doing this. The implementation of 28 U.S.C. §1825 on the payment of witness fees is dealt with in an opinion of the Comptroller General, February 28, 1974.
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 8 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+Rule 8(a) is not intended to supersede the restrictions on evidentiary hearings contained in 28 U.S.C. §2254(e)(2).
+
+The requirement in current Rule 8(b)(2) that a copy of the magistrate judge's findings must be promptly mailed to all parties has been changed in revised Rule 8(b) to require that copies of those findings be served on all parties. As used in this rule, “service” means service consistent with Federal Rule of Civil Procedure 5(b), which allows mailing the copies.
+
+<i>Changes Made After Publication and Comments</i>. The Committee changed the Committee Note to reflect the view that the amendments to Rule 8 were not intended to supercede the restrictions on evidentiary hearings contained in §2254(e)(2).
+
+#### Amendments by Public Law
 
 1976—Subd. (b). Pub. L. 94–577, §2(a)(1), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
@@ -556,23 +688,17 @@ Pub. L. 94–426 provided that these rules not limit the appointment of counsel 
 
 Section 2(c) of Pub. L. 94–577 provided that: “The amendments made by this section \[amending subdivs. (b) and (c) of this rule and Rule 8(b), (c) of the Rules Governing Proceedings Under Section 2255 of this title\] shall take effect with respect to petitions under section 2254 and motions under section 2255 of title 28 of the United States Code filed on or after February 1, 1977.”
 
-### Rule 9. Delayed or Successive Petitions
+### Rule 9. Second or Successive Petitions
 
-(a)
+Before presenting a second or successive petition, the petitioner must obtain an order from the appropriate court of appeals authorizing the district court to consider the petition as required by 28 U.S.C. §2244(b)(3) and (4).
 
-Delayed petitions. A petition may be dismissed if it appears that the state of which the respondent is an officer has been prejudiced in its ability to respond to the petition by delay in its filing unless the petitioner shows that it is based on grounds of which he could not have had knowledge by the exercise of reasonable diligence before the circumstances prejudicial to the state occurred.
-
-(b)
-
-Successive petitions. A second or successive petition may be dismissed if the judge finds that it fails to allege new or different grounds for relief and the prior determination was on the merits or, if new and different grounds are alleged, the judge finds that the failure of the petitioner to assert those grounds in a prior petition constituted an abuse of the writ.
-
-(As amended Pub. L. 94–426, §2(7), (8), Sept. 28, 1976, 90 Stat. 1335.)
+(As amended Pub. L. 94–426, §2(7), (8), Sept. 28, 1976, 90 Stat. 1335; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
 This rule is intended to minimize abuse of the writ of habeas corpus by limiting the right to assert stale claims and to file multiple petitions. Subdivision (a) deals with the delayed petition. Subdivision (b) deals with the second or successive petition.
 
-Subdivision (a) provides that a petition attacking the judgment of a state court may be dismissed on the grounds of delay if the petitioner knew or should have known of the existence of the grounds he is presently asserting in the petition and the delay has resulted in the state being prejudiced in its ability to respond to the petition. If the delay is more than five years after the judgment of conviction, prejudice is presumed, although this presumption is rebuttable by the petitioner. Otherwise, the state has the burden of showing such prejudice.
+Subdivision (a) provides that a petition attacking the judgment of a state court may be dismissed on thegrounds of delay if the petitioner knew or should have known of the existence of the grounds he is presently asserting in the petition and the delay has resulted in the state being prejudiced in its ability to respond to the petition. If the delay is more than five years after the judgment of conviction, prejudice is presumed, although this presumption is rebuttable by the petitioner. Otherwise, the state has the burden of showing such prejudice.
 
 The assertion of stale claims is a problem which is not likely to decrease in frequency. Following the decisions in <i>Jones v. Cunningham</i>, 371 U.S. 236 (1963), and <i>Benson v. California</i>, 328 F.2d 159 (9th Cir. 1964), the concept of custody expanded greatly, lengthening the time period during which a habeas corpus petition may be filed. The petitioner who is not unconditionally discharged may be on parole or probation for many years. He may at some date, perhaps ten or fifteen years after conviction, decide to challenge the state court judgment. The grounds most often troublesome to the courts are ineffective counsel, denial of right of appeal, plea of guilty unlawfully induced, use of a coerced confession, and illegally constituted jury. The latter four grounds are often interlocked with the allegation of ineffective counsel. When they are asserted after the passage of many years, both the attorney for the defendant and the state have difficulty in ascertaining what the facts are. It often develops that the defense attorney has little or no recollection as to what took place and that many of the participants in the trial are dead or their whereabouts unknown. The court reporter's notes may have been lost or destroyed, thus eliminating any exact record of what transpired. If the case was decided on a guilty plea, even if the record is intact, it may not satisfactorily reveal the extent of the defense attorney's efforts in behalf of the petitioner. As a consequence, there is obvious difficulty in investigating petitioner's allegations.
 
@@ -658,17 +784,29 @@ If it appears to the court after examining the petition and answer (where approp
 
 > Use of the recommended form will contribute to an orderly handling of habeas petitions and will contribute to the ability of the court to distinguish the excusable from the inexcusable delay or failure to assert a ground for relief in a prior petition.
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 9 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended, except as noted below.
+
+First, current Rule 9(a) has been deleted as unnecessary in light of the applicable one-year statute of limitations for §2254 petitions, added as part of the Antiterrorism and Effective Death Penalty Act of 1996, 28 U.S.C. §2244(d).
+
+Second, current Rule 9(b), now Rule 9, has been changed to also reflect provisions in the Antiterrorism and Effective Death Penalty Act of 1996, 28 U.S.C.§2244(b)(3) and (4), which now require a petitioner to obtain approval from the appropriate court of appeals before filing a second or successive petition.
+
+Finally, the title of Rule 9 has been changed to reflect the fact that the only topic now addressed in the rules is that of second or successive petitions.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 9.
+
+#### Amendments by Public Law
 
 1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
 Subd. (b). Pub. L. 94–426, §2(8), substituted “constituted an abuse of the writ” for “is not excusable”.
 
-### Rule 10. Powers of Magistrates
+### Rule 10. Powers of a Magistrate Judge
 
-The duties imposed upon the judge of the district court by these rules may be performed by a United States magistrate pursuant to 28 U.S.C. §636.
+A magistrate judge may perform the duties of a district judge under these rules, as authorized under 28 U.S.C. §636.
 
-(As amended Pub. L. 94–426, §2(11), Sept. 28, 1976, 90 Stat. 1335; Apr. 30, 1979, eff. Aug. 1, 1979.)
+(As amended Pub. L. 94–426, §2(11), Sept. 28, 1976, 90 Stat. 1335; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
@@ -692,23 +830,27 @@ This amendment conforms the rule to subsequently enacted legislation clarifying 
 
 The reference to particular rules is stricken, as under §636(b)(1)(A) a judge may designate a magistrate to perform duties under other rules as well (e.g., order that further transcripts be furnished under rule 5; appoint counsel under rule 8). The reference to “established standards and criteria” is stricken, as §636(4) requires each district court to “establish rules pursuant to which the magistrates shall discharge their duties.” The exception with respect to a rule 4 order dismissing a petition is stricken, as that limitation appears in §636(b)(1)(B) and is thereby applicable to certain other actions under these rules as well (e.g., determination of a need for an evidentiary hearing under rule 8; dismissal of a delayed or successive petition under rule 9).
 
-#### Amendments
+#### Committee Notes on Rules—2004 Amendment
 
-1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria forthe performance of such duties” after “rule of the district court”.
+The language of Rule 10 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
 
-#### Change of Name
+<i>Changes Made After Publication and Comments</i>. The Committee restyled the proposed rule.
 
-Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+#### Amendments by Public Law
 
-### Rule 11. Federal Rules of Civil Procedure; Extent of Applicability
+1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties” after “rule of the district court”.
 
-The Federal Rules of Civil Procedure, to the extent that they are not inconsistent with these rules, may be applied, when appropriate, to petitions filed under these rules.
+### Rule 11. Applicability of the Federal Rules of Civil Procedure
+
+The Federal Rules of Civil Procedure, to the extent that they are not inconsistent with any statutory provisions or these rules, may be applied to a proceeding under these rules.
+
+(As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
 Habeas corpus proceedings are characterized as civil in nature. See <i>e.g., Fisher v. Baker</i>, 203 U.S. 174, 181 (1906). However, under Fed.R.Civ.P. 81(a)(2), the applicability of the civil rules to habeas corpus actions has been limited, although the various courts which have considered this problem have had difficulty in setting out the boundaries of this limitation. See <i>Harris v. Nelson</i>, 394 U.S. 286 (1969) at 289, footnote 1. Rule 11 is intended to conform with the Supreme Court's approach in the <i>Harris</i> case. There the court was dealing with the petitioner's contention that Civil Rule 33 granting the right to discovery via written interrogatories is wholly applicable to habeas corpus proceedings. The court held:
 
-> &emsp;We agree with the Ninth Circuit that Rule 33 of the Federal Rules of Civil Procedure is not applicable to habeas corpus proceedings and that 28 U.S.C. §2246 does not authorize interrogatories except in limited circumstances not applicable to this case; but we conclude that, in appropriate circumstances, a district court, confronted by a petition for habeas corpus which establishes a prima facie case for relief, may use or authorize the use of suitable discovery procedures, including interrogatories, reasonably fashioned to elicit facts necessary to help the court to “dispose of the matter as law and justice require” 28 U.S.C. §2243.
+> &emsp;We agree with the Ninth Circuit that Rule 33 of the Federal Rules of Civil Procedure is not applicable to habeas corpus proceedings and that 28 U.S.C. §2246 does not authorize interrogatories except in limited circumstances not applicable to this case; but we conclude that, in appropriate circumstances, a district court, confronted by a petition for habeas corpuswhich establishes a prima facie case for relief, may use or authorize the use of suitable discovery procedures, including interrogatories, reasonably fashioned to elicit facts necessary to help the court to “dispose of the matter as law and justice require” 28 U.S.C. §2243.
 
 #### 394 U.S. at 290
 
@@ -730,431 +872,19 @@ Rule 6 of these proposed rules deals specifically with the issue of discovery in
 
 Rule 11 permits application of the civil rules only when it would be appropriate to do so. Illustrative of an inappropriate application is that rejected by the Supreme Court in <i>Pitchess v. Davis</i>, 95 S.Ct. 1748 (1975), holding that Fed.R.Civ.P. 60(b) should not be applied in a habeas case when it would have the effect of altering the statutory exhaustion requirement of 28 U.S.C. §2254.
 
+#### Committee Notes on Rules—2004 Amendment
+
+The language of Rule 11 has been amended as part of general restyling of the rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic and no substantive change is intended.
+
+<i>Changes Made After Publication and Comments</i>. The Committee made no changes to Rule 11.
+
+#### References in Text
+
+The Federal Rules of Civil Procedure, referred to in heading and text, are set out in the Appendix to this title.
+
 #### APPENDIX OF FORMS
 
-#### MODEL FORM FOR USE IN APPLICATIONS FOR HABEAS CORPUS UNDER 28 U.S.C. §2254
-
-> Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> Prison number \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> Place of confinement \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> United States District Court \_\_\_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_
-
-> Case No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> (To be supplied by Clerk of U.S. District Court)
-
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, PETITIONER
-
-> (Full name)
-
-#### v.
-
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, RESPONDENT
-
-> (Name of Warden, Superintendent, Jailor, or authorized person having custody of petitioner)
-
-#### and
-
-> THE ATTORNEY GENERAL OF THE STATE OF \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, ADDITIONAL RESPONDENT.
-
-(If petitioner is attacking a judgment which imposed a sentence to be served in the <i>future</i>, petitioner must fill in the name of the state where the judgment was entered. If petitioner has a sentence to be served in the <i>future</i> under a federal judgment which he wishes to attack, he should file a motion under 28 U.S.C. §2255, in the federal court which entered the judgment.)
-
-#### PETITION FOR WRIT OF HABEAS CORPUS BY A PERSON IN STATE CUSTODY
-
-#### Instructions—Read Carefully
-
-(1) This petition must be legibly handwritten or typewritten, and signed by the petitioner under penalty of perjury. Any false statement of a material fact may serve as the basis for prosecution and conviction for perjury. All questions must be answered concisely in the proper space on the form.
-
-(2) Additional pages are not permitted except with respect to the <i>facts</i> which you rely upon to support your grounds for relief. No citation of authorities need be furnished. If briefs or arguments are submitted, they should be submitted in the form of a separate memorandum.
-
-(3) Upon receipt of a fee of $5 your petition will be filed if it is in proper order.
-
-(4) If you do not have the necessary filing fee, you may request permission to proceed <i>in forma pauperis</i>, in which event you must execute the declaration on the last page, setting forth information establishing your inability to prepay the fees and costs or give security therefor. If you wish to proceed <i>in forma pauperis</i>, you must have an authorized officerat the penal institution complete the certificate as to the amount of money and securities on deposit to your credit in any account in the institution. If your prison account exceeds $\_\_\_\_\_\_, you must pay the filing fee as required by the rule of the district court.
-
-(5) Only judgments entered by one court may be challenged in a single petition. If you seek to challenge judgments entered by different courts either in the same state or in different states, you must file separate petitions as to each court.
-
-(6) Your attention is directed to the fact that you must include all grounds for relief and all facts supporting such grounds for relief in the petition you file seeking relief from any judgment of conviction.
-
-(7) When the petition is fully completed, <i>the original and two copies</i> must be mailed to the Clerk of the United States District Court whose address is \_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(8) Petitions which do not conform to these instructions will be returned with a notation as to the deficiency.
-
-#### PETITION
-
-1\. Name and location of court which entered the judgment of conviction under attack\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-2\. Date of judgment of conviction \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-3\. Length of sentence \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-4\. Nature of offense involved (all counts) \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-5\. What was your plea? (Check one)
-
-&emsp;&emsp;(a) Not guilty ☐
-
-&emsp;&emsp;(b) Guilty ☐
-
-&emsp;&emsp;(c) Nolo contendere ☐
-
-&nbsp;&nbsp;If you entered a guilty plea to one count or indictment, and a not guilty plea to another count or indictment, give details:
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-6\. Kind of trial: (Check one)
-
-&emsp;&emsp;(a) Jury ☐
-
-&emsp;&emsp;(b) Judge only ☐
-
-7\. Did you testify at the trial?
-
-&emsp;Yes ☐ No ☐
-
-8\. Did you appeal from the judgment of conviction?
-
-&emsp;Yes ☐ No ☐
-
-9\. If you did appeal, answer the following:
-
-&emsp;&emsp;(a) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&emsp;&emsp;(b) Result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&emsp;&emsp;(c) Date of result \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-10\. Other than a direct appeal from the judgment of conviction and sentence, have you previously filed any petitions, applications, or motions with respect to this judgment in any court, state or federal?
-
-&emsp;Yes ☐ No ☐
-
-11\. If your answer to 10 was “yes,” give the following information:
-
-&nbsp;&nbsp;&nbsp;(a)
-
-(1) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(2) Nature of proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(3) Grounds raised \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(4) Did you receive an evidentiary hearing on    your petition, application or motion?
-
-&nbsp;&nbsp;&nbsp;&nbsp;Yes ☐ No ☐
-
-(5) Result\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(6) Date of result\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;(b)
-
-As to any second petition, application or motion give the same information:
-
-(1) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(2) Nature of proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(3) Grounds raised \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(4) Did you receive an evidentiary hearing on
-
-&nbsp;&nbsp;&nbsp;your petition, application or motion?
-
-&nbsp;&nbsp;Yes ☐ No ☐
-
-(5) Result\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(6) Date of result\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;(c)
-
-As to any third petition, application or motion, give the same information:
-
-(1) Name of court \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(2) Nature of proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(3) Grounds raised \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(4) Did you receive an evidentiary hearing on    your petition, application or motion?
-
-&nbsp;&nbsp;Yes ☐ No ☐
-
-(5) Result\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(6) Date of result\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;(d)
-
-Did you appeal to the highest state court having jurisdiction the result of action taken on any petition, application or motion?
-
-(1) First petition, etc.    Yes ☐ No ☐
-
-(2) Second petition, etc.  Yes ☐ No ☐
-
-(3) Third petition, etc.  Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;(e)
-
-If you did <i>not</i> appeal from the adverse action on any petition, application or motion, explain briefly why you did not:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-12\. State <i>concisely</i> every ground on which you claim that you are being held unlawfully. Summarize <i>briefly</i> the <i>facts</i> supporting each ground. If necessary, you may attach pages stating additional grounds and <i>facts</i> supporting same.
-
-&emsp;&emsp;Caution: In order to proceed in the federal court, you must ordinarily first exhaust your state court remedies as to each ground on which you request action by the federal court. If you fail to set forth all grounds in this petition, you may be barred from presenting additional grounds at a later date.
-
-&emsp;&emsp;For your information, the following is a list of the most frequently raised grounds for relief in habeas corpus proceedings. Each statement preceded by a letter constitutes a separate ground for possible relief. You may raise any grounds which you may have other than those listed if you have exhausted your state court remedies with respect to them. However, <i>you should raise in this petition all available grounds</i> (relating to this conviction) on which you base your allegations that you are being held in custody unlawfully.
-
-&emsp;&emsp;Do not check any of these listed grounds. If you select one or more of these grounds for relief, you must allege facts. The petition will be returned to you if you merely check (a) through (j) or any one of these grounds.
-
-&nbsp;(a) Conviction obtained by plea of guilty which was unlawfully induced or not made voluntarily with understanding of the nature of the charge and the consequences of the plea.
-
-&nbsp;(b) Conviction obtained by use of coerced confession.
-
-&nbsp;(c) Conviction obtained by use of evidence gained pursuant to an unconstitutional search and seizure.
-
-&nbsp;(d) Conviction obtained by use of evidence obtained pursuant to an unlawful arrest.
-
-&nbsp;(e) Conviction obtained by a violation of the privilege against self-incrimination.
-
-&nbsp;(f) Conviction obtained by the unconstitutional failure of the prosecution to disclose to the defendant evidence favorable to the defendant.
-
-&nbsp;(g) Conviction obtained by a violation of the protection against double jeopardy.
-
-&nbsp;(h) Conviction obtained by action of a grand or petit jury which was unconstitutionally selected and impaneled.
-
-&nbsp;(i) Denial of effective assistance of counsel.
-
-&nbsp;(j) Denial of right of appeal.
-
-> &nbsp;&nbsp;A. Ground one: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;B. Ground two: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;C. Ground three: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;D. Ground four: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;&nbsp;Supporting FACTS (tell your story <i>briefly</i> without citing cases or law): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-13\. If any of the grounds listed in 12A, B, C, and D were not previously presented in any other court, state or federal, state <i>briefly</i> what grounds were not so presented, and give your reasons for not presenting them:
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-14\. Do you have any petition or appeal now pending in any court, either state or federal, as to the judgment under attack?
-
-&emsp;Yes ☐ No ☐
-
-15\. Give the name and address, if known, of each attorney who represented you in the following stages of the judgment attacked herein:
-
-> &nbsp;&nbsp;&nbsp;(a)   At   preliminary   hearing \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;(b)   At   arraignment   and   plea \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;(c)   At   trial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;(d)   At   sentencing \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;(e)   On appeal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;(f)   In   any  post-conviction   proceeding \_\_\_\_\_\_\_\_
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;&nbsp;&nbsp;(g)
-
-On appeal from any adverse ruling in a postconviction proceeding \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-16\. Were you sentenced on more than one count of an indictment, or on more than one indictment, in the same court and at the same time?
-
-&emsp;Yes ☐ No ☐
-
-17\. Do you have any future sentence to serve after you complete the sentence imposed by the judgment under attack?
-
-&emsp;Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;(a)
-
-If so, give name and location of court which imposed sentence to be served in the future:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;&nbsp;&nbsp;(b)
-
-And give date and length of sentence to be served in the future:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&nbsp;&nbsp;&nbsp;(c)
-
-Have you filed, or do you contemplate filing, any petition attacking the judgment which imposed the sentence to be served in the future?
-
-&nbsp;
-
-&nbsp;&nbsp;Yes ☐ No ☐
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Wherefore, petitioner prays that the Court grant petitioner relief to which he may be entitled in this proceeding.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Signature of Attorney (if any)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(date)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Signature of Petitioner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Image not captured: 2254p1.gif][Image not captured: 2254p2.gif][Image not captured: 2254p3.gif][Image not captured: 2254p4.gif][Image not captured: 2254p5.gif][Image not captured: 2254p6.gif][Image not captured: 2254p7.gif][Image not captured: 2254p8.gif][Image not captured: 2254p9.gif][Image not captured: 2254p10.gif][Image not captured: 2254p11.gif][Image not captured: 2254p12.gif][Image not captured: 2254p13.gif][Image not captured: 2254p14.gif][Image not captured: 2254p15.gif]gs,d80[Image not captured: 2254p16.gif]
 
 #### IN FORMA PAUPERIS DECLARATION
 
@@ -1280,119 +1010,7 @@ Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-> (As amended Apr. 28, 1982, eff. Aug. 1, 1982.)
+> (As amended Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
 
-#### MODEL FORM FOR USE IN 28 U.S.C. §2254 CASES INVOLVING A RULE 9 ISSUE
-
-#### Form No. 9
-
-#### United States District Court,
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#### Case No. ————
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, PETITIONER
-
-#### v.
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, RESPONDENT
-
-#### and
-
-#### \_\_\_\_\_\_\_\_\_\_\_\_, ADDITIONAL RESPONDENT
-
-#### Petitioner's Response as to Why His Petition Should Not Be Barred Under Rule 9
-
-#### Explanation and Instructions—Read Carefully
-
-> <b>(I) Rule 9. Delayed or successive petitions.</b>
-
-<b>(a) Delayed petitions</b>. A petition may be dismissed if it appears that the state of which the respondent is an officer has been prejudiced in its ability to respond to the petition by delay in its filing unless the petitioner shows that it is based on grounds of which he could not have had knowledge by the exercise of reasonable diligence before the circumstances prejudicial to the state occurred.
-
-<b>(b) Successive petitions</b>. A second or successive petition may be dismissed if the judge finds that it fails to allege new or different grounds for relief and the prior determination was on the merits or, if new and different grounds are alleged, the judge finds that the failure of the petitioner to assert those grounds in a prior petition constituted an abuse of the writ.
-
-(II) Your petition for habeas corpus has been found to be subject to dismissal under rule 9( ) for the following reason(s):
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(III) This form has been sent so that you may explain why your petition contains the defect(s) noted in (II) above. It is required that you fill out this form and send it back to the court within \_\_\_\_\_\_\_\_ days. Failure to do so will result in the automatic dismissal of your petition.
-
-(IV) When you have fully completed this form, the original and two copies must be mailed to the Clerk of the United States District Court whose address is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-(V) This response must be legibly handwritten or typewritten, and signed by the petitioner, under penalty of perjury. Any false statement of a material fact may serve as the basis for prosecution and conviction for perjury. All questions must be answered concisely in the proper space on the form.
-
-(VI) Additional pages are not permitted except with respect to the <i>facts</i> which you rely upon in item 4 or 5 in the response. Any citation of authorities should be kept to an absolute minimum and is only appropriate if there has been a change in the law since the judgment you are attacking was rendered.
-
-(VII) Respond to 4 <i>or</i> 5 below, not to both, unless (II) above indicates that you must answer both sections.
-
-#### RESPONSE
-
-1\. Have you had the assistance of an attorney, other law-trained personnel, or writ writers since the conviction your petition is attacking was entered?
-
-&emsp;Yes ☐ No ☐
-
-2\. If you checked “yes” above, specify as precisely as you can the period(s) of time during which you received such assistance, up to and including the present.
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-3\. Describe the nature of the assistance, including the names of those who rendered it to you.
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-4\. If your petition is in jeopardy because of delay prejudicial to the state under rule 9(a), explain why you feel the delay has not been prejudicial and/or why the delay is excusable under the terms of 9(a). This should be done by relying upon FACTS, not your opinions or conclusions.
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-5\. If your petition is in jeopardy under rule 9(b) because it asserts the same grounds as a previous petition, explain why you feel it deserves a reconsideration. If its fault under rule 9(b) is that it asserts new grounds which should have been included in a priorpetition, explain why you are raising these grounds now rather than previously. Your explanation should rely on FACTS, not your opinions or conclusions.
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-&emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
-
-I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_.
-
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(date)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Signature of Petitioner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-> (As amended Apr. 28, 1982, eff. Aug. 1, 1982.)
+<i>Changes Made After Publication and Comments—Forms Accompanying Rules Governing §2254 and §2255 Proceedings</i>. Responding to a number of comments from the public, the Committee deleted from both sets of official forms the list of possible grounds of relief. The Committee made additional minor style corrections to the forms.
 

@@ -12,7 +12,3 @@ Section is comprised of a part of section 25 of act Dec. 23, 1913, as amended, w
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 1a.
-

@@ -42,7 +42,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;(i) control of such company was acquired from a person (other than a person of a foreign country) by a person of a foreign country; or
 
-&emsp;&emsp;&emsp;(ii) in conjunction with a person of a foreign country, such company informed the Federal Reserve Bank of New York of the intention of such person to acquire control of such company.
+&emsp;&emsp;&emsp;(ii) in conjunction with a person of a foreign country, such company informed theFederal Reserve Bank of New York of the intention of such person to acquire control of such company.
 
 #### (c) Exception for countries having or negotiating bilateral agreements with United States
 
@@ -61,8 +61,4 @@ For purposes of this section, a person is a “person of a foreign country” if
 This section shall take effect 12 months after August 23, 1988.
 
 (Pub. L. 100–418, title III, §3502, Aug. 23, 1988, 102 Stat. 1386.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2500.
 

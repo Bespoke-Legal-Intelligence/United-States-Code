@@ -26,7 +26,7 @@ The Secretary shall provide each owner who submits notice of intent to extend th
 
 #### (c) Availability to tenants
 
-The Secretary shall make any information provided to the owner under subsections (a) and (b) of this section available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
+The Secretary shall make any information provided to the owner under subsections (a) and\(b) of this section available to the tenants of the housing, together with other information relating to the rights and opportunities of the tenants.
 
 #### (d) Second notice of intent
 
@@ -49,8 +49,4 @@ The Secretary shall make any information provided to the owner under subsections
 1992—Subsec. (b)(4). Pub. L. 102–550, §317(a)(2), substituted “exceed” for “exceeds”.
 
 Subsec. (d)(3). Pub. L. 102–550, §303, added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4105, 4107, 4110, 4111 of this title.
 

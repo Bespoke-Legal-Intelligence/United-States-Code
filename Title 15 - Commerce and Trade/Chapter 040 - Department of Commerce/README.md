@@ -39,6 +39,7 @@
 | (c) | Functions of Office; duties of Director. |
 | [1512\.](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md) | Powers and duties of Department. |
 | [1513\.](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md) | Duties and powers vested in Department. |
+| [1513a.](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md) | Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification. |
 | [1514\.](%C2%A7%2001514%20-%20Basic%20authority%20for%20performance%20of%20certain%20functions%20and%20activities%20of%20Department.md) | Basic authority for performance of certain functions and activities of Department. |
 | [1515\.](%C2%A7%2001515%20-%20Records%2C%20etc.%2C%20of%20bureaus%20transferred%20to%20Department%20of%20Commerce.md) | Records, etc., of bureaus transferred to Department of Commerce. |
 | [1516\.](%C2%A7%2001516%20-%20Statistical%20information.md) | Statistical information. |
@@ -82,6 +83,14 @@
 | (d) | “Nondiscretionary assistance program” defined. |
 | [1540\.](%C2%A7%2001540%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [1541\.](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md) | Administrative Law Judges. |
+| [1542\.](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md) | Establishment of the Ernest F. Hollings Scholarship Program. |
+| (a) | Establishment. |
+| (b) | Purposes. |
+| (c) | Award. |
+| (d) | Eligibility. |
+| (e) | Distribution of funds. |
+| (f) | Funding. |
+| (g) | Scholarship repayment requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -112,6 +121,7 @@
 - [&sect; 01511e - Office of Space Commercialization](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md)
 - [&sect; 01512 - Powers and duties of Department](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md)
 - [&sect; 01513 - Duties and powers vested in Department](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md)
+- [&sect; 01513a - Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md)
 - [&sect; 01514 - Basic authority for performance of certain functions and activities of Department](%C2%A7%2001514%20-%20Basic%20authority%20for%20performance%20of%20certain%20functions%20and%20activities%20of%20Department.md)
 - [&sect; 01515 - Records, etc., of bureaus transferred to Department of Commerce](%C2%A7%2001515%20-%20Records%2C%20etc.%2C%20of%20bureaus%20transferred%20to%20Department%20of%20Commerce.md)
 - [&sect; 01516 - Statistical information](%C2%A7%2001516%20-%20Statistical%20information.md)
@@ -143,3 +153,4 @@
 - [&sect; 01539 - Financial assistance](%C2%A7%2001539%20-%20Financial%20assistance.md)
 - [&sect; 01540 - Cooperative agreements](%C2%A7%2001540%20-%20Cooperative%20agreements.md)
 - [&sect; 01541 - Administrative Law Judges](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md)
+- [&sect; 01542 - Establishment of the Ernest F. Hollings Scholarship Program](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md)

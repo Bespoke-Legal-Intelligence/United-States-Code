@@ -52,7 +52,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 In the case of an attorney general of a State alleging a violation that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce any requirement of this chapter relating to misbranded or banned hazardous substances. The procedural requirements of section 2073 of this title shall apply to any such action.
 
-(Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121.)
+(Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat.1304, 1305; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121.)
 
 #### Amendments
 
@@ -67,8 +67,4 @@ Subsec. (d). Pub. L. 101–608, §118(a), added subsec. (d).
 #### Transfer of Functions
 
 “Commission” substituted for “Secretary” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1263 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)(1) A justice or judge of the United States as defined by section 451 of title 28 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund. Basic pay does not include an annuity or salary received by a justice or judge who has retired under section 371(a) or (b) or section 372(a) of title 28, United States Code.
 
-(2) An election may be made under paragraph (1) only during a period provided under section 8432(b) for individuals subject to this chapter.
+(2) An election may be made under paragraph (1) as provided under section 8432(b) for individuals subject to this chapter.
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of this subchapter and subchapter VII shall apply with respect to justices and judges making contributions to the Thrift Savings Fund.
 
@@ -18,13 +18,15 @@
 
 (7) Notwithstanding paragraphs (4) and (5), if any justice or judge retires under subsection (a) or (b) of section 371 or section 372(a) of title 28, or resigns without having met the age and service requirements set forth under section 371(c) of title 28, and such justice's or judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–654, title IV, §401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, §2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, §9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–361, §2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233.)
+(Added Pub. L. 100–654, title IV, §401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, §2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, §9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–361, §2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(4), Dec. 21, 2004, 118 Stat. 3892.)
 
 #### Codification
 
 Another section 8440a was renumbered section 8440b of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–469 substituted “as” for “only during a period”.
 
 2000—Subsec. (a)(2). Pub. L. 106–361 substituted “this chapter” for “chapter 84 of this title: <i>Provided, however</i>, That a justice or judge may make the first such election within 60 days of the effective date of this section”.
 
@@ -65,8 +67,4 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 Amendment by section 3(b)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or as of such earlier date as Executive Director may by regulation prescribe, see section 3(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 Amendment by section 6(b)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8432 of this title.
 

@@ -34,7 +34,7 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 &emsp;&emsp;(C) to provide, as appropriate, Bank financing for programs of structural adjustment that will facilitate development of a productive economic base and greater attainment of basic human needs objectives over the longer term; and
 
-&emsp;(5) United States representatives to the Fund and the Bank shall request the Fund andthe Bank to provide periodic analyses of the effects of economic adjustment programs supported by Fund or Bank financing on jobs, investment, real income per capita, income distribution, and social programs such as health, housing, and education.
+&emsp;(5) United States representatives to the Fund and the Bank shall request the Fund and the Bank to provide periodic analyses of the effects of economic adjustment programs supported by Fund or Bank financing on jobs, investment, real income per capita, income distribution, and social programs such as health, housing, and education.
 
 (July 31, 1945, ch. 339, §33, as added Pub. L. 96–389, §2(a), Oct. 7, 1980, 94 Stat. 1551; amended Pub. L. 101–240, title V, §541(d)(1), Dec. 19, 1989, 103 Stat. 2518.)
 

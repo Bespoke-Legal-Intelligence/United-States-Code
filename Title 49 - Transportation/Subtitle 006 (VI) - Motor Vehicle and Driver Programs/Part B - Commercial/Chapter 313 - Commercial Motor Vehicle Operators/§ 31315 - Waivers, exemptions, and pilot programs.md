@@ -142,7 +142,3 @@ The date of enactment of this section, referred to in subsec. (b)(3), probably m
 
 For provisions making amendment by section 4007 of Pub. L. 105–178 inapplicable to or otherwise not affecting waiver, exemption, or pilot program in effect the day before June 9, 1998, under this chapter or section 31136(e) of this title, see section 4007(d) of Pub. L. 105–178, set out as a note under section 31136 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 31136 of this title.
-

@@ -4,7 +4,3 @@ There is hereby authorized to be appropriated $81,500,000 for the fiscal year be
 
 (Pub. L. 96–420, §14, Oct. 10, 1980, 94 Stat. 1797.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1724 of this title.
-

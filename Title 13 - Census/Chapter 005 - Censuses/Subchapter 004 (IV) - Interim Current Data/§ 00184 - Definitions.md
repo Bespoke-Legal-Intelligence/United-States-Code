@@ -12,7 +12,3 @@ For purposes of this subchapter—
 
 Section effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 16 of this title.
-

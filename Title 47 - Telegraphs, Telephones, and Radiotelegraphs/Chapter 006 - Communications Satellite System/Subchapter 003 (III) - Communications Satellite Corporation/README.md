@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—COMMUNICATIONS SATELLITE CORPORATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 332, 702, 721, 769, 901 of this title.
-
 
 ---
 

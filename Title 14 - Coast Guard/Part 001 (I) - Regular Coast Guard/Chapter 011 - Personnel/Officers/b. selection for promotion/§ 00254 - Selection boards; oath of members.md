@@ -4,7 +4,3 @@ Each member of a selection board shall swear that he will, without prejudice or 
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 289, 290 of this title.
-

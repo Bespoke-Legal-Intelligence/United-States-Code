@@ -130,7 +130,7 @@ In subsection (a)(2)(B), the words “the duration thereof and such other” are
 
 In subsection (a)(2)(C), the words “issued for aircraft, aircraft engines, or propellers” and “all of” are omitted as surplus. The word “specification” is substituted for “determination” for clarity.
 
-In subsection (b), the word “satisfactorily” is omitted as surplus. The words “shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate” are substituted for “shall make such inspection and may require such tests of any aircraft, aircraft engine, propeller, or appliance manufactured under a production certificate as may be necessary to assure manufacture of each unit in conformity with the type certificate or any amendment or modification thereof” to eliminate unnecessary words. The words “the duration thereof and such other . . . conditions, and limitations” are omitted as surplus.
+In subsection (b), the word “satisfactorily” is omitted as surplus. The words “shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate” are substituted for “shall make such inspection and may require such tests of any aircraft, aircraft engine, propeller, or appliance manufactured under a production certificate as may be necessary to assure manufacture of each unit in conformity with the type certificate or any amendmentor modification thereof” to eliminate unnecessary words. The words “the duration thereof and such other . . . conditions, and limitations” are omitted as surplus.
 
 In subsection (c)(1), the words “may apply to” are substituted for “may file with . . . an application” to eliminate unnecessary words. The words “in accordance with regulations prescribed by the Secretary of Transportation” are omitted because of 49:322(a). The words “the duration of such certificate, the type of service for which the aircraft may be used, and such other . . . conditions, and limitations” are omitted as surplus.
 
@@ -142,7 +142,7 @@ The date of enactment of this subsection, referred to in subsec. (e)(1), is the 
 
 #### Amendments
 
-2003—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: “ Type certificates, production certificates, and airworthiness certificates”.
+2003—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
 
 Subsec. (a)(3). Pub. L. 108–176, §811, added par. (3).
 
@@ -161,8 +161,4 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 #### Plan for Development and Oversight of System for Certification of Design Organizations
 
 Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that: “Not later than 4 years after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under section 44701(a) of title 49, United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 44110, 44701, 44711, 44715, 45302, 46310, 47531 of this title.
 

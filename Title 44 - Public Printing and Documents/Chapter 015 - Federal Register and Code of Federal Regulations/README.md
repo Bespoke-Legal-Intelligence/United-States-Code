@@ -24,10 +24,6 @@
 
 Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 sections 77sss, 80a–38.
-
 
 ---
 

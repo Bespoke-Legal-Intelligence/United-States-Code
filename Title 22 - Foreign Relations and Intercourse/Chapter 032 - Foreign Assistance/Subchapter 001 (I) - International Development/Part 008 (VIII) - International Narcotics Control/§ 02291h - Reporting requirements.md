@@ -12,7 +12,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(C) taken legal and law enforcement measures to prevent and punish public corruption, especially by senior government officials, that facilitates the production, processing, or shipment of narcotic and psychotropic drugs and other controlled substances, or that discourages the investigation or prosecution of such acts.
 
-&emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuit of its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
+&emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuitof its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
 
 &emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
@@ -38,7 +38,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(B) which countries have established a procedure by which such records may be made available to United States law enforcement authorities; and
 
-&emsp;&emsp;(C) which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establisha system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
+&emsp;&emsp;(C) which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establish a system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
 
 &emsp;(7) In addition, for those countries identified pursuant to paragraph (3)(D) the following:
 
@@ -104,7 +104,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 #### References in Text
 
-Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably meanssection 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which is set out as a note under section 1902 of Title 46, Appendix, Shipping.
+Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably means section 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which is set out as a note under section 1902 of Title 46, Appendix, Shipping.
 
 #### Prior Provisions
 
@@ -134,7 +134,7 @@ Subsec. (d). Pub. L. 103–447, §101(f)(1)(D), redesignated subsec. (d) as (c).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -145,8 +145,4 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Statutory References to Annual Reports, Certifications, and Definitions
 
 Section 6(a) of Pub. L. 102–583 provided that after Sept. 30, 1994, any reference in any provision of law to section 2291h or 2291j of this title would be deemed a reference to the corresponding provision of section 2291i or 2291k of this title, respectively, unless the context required otherwise; any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(e) or (i) of this title be deemed a reference to section 2291h or 2291(e) of this title, respectively; and that any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(h) of this title be deemed, as of Oct. 1, 1992, to be a reference to section 2291j of this title, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2291, 2291c, 2291j, 2291j–1 of this title; title 19 sections 2492, 2494.
 

@@ -32,10 +32,6 @@ Pub. L. 105–298, title II, §203(b), Oct. 27, 1998, 112 Stat. 2833, added item
 
 1990—Pub. L. 101–553, §2(a)(3), Nov. 15, 1990, 104 Stat. 2750, added item 511.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 104A, 115, 912 of this title.
-
 
 ---
 

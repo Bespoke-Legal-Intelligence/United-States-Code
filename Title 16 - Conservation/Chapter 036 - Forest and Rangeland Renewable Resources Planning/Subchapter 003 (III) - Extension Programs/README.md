@@ -2,11 +2,7 @@
 
 #### Termination of Subchapter
 
-<i>For termination of subchapter by section 8 of Pub. L. 95–306, see Effective and Termination Dates note set out under section 1671 of this title.</i>
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 582a of this title; title 7 section 3332.
+<i>For termination of subchapter by section 8 of Pub. L. 95–306, see Effective and Termination</i><i>Dates note set out under section 1671 of this title.</i>
 
 <i><sup>1</sup></i><i> So in original.</i>
 

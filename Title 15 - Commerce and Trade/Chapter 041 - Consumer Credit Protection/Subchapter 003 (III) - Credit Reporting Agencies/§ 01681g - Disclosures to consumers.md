@@ -6,7 +6,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (1) All information in the consumer's file at the time of the request, except that—
 
-&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identityof the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
 &emsp;(B) nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
 
@@ -82,7 +82,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 &emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
 
-&emsp;&emsp;(C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriatephone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
+&emsp;&emsp;(C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
 
 &emsp;&emsp;(D) a statement that the consumer may have additional rights under State law, and that the consumer may wish to contact a State or local consumer protection agency or a State attorney general (or the equivalent thereof) to learn of those rights; and
 
@@ -194,7 +194,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (11) Definition of victim
 
-&emsp;For purposes of this subsection, the term “victim” means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
+&emsp;For purposes of this subsection, the term “victim” means a consumer whose means of identification or financial information hasbeen used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
 
 #### (12) Effective date
 
@@ -280,7 +280,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (9) Use of enquiries as a key factor
 
-&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
+&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be includedin the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
 
 #### (g) Disclosure of credit scores by certain mortgage lenders
 
@@ -318,7 +318,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (D) Notice to home loan applicants
 
-&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephonenumber of each consumer reporting agency providing a credit score that was used:
+&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephone number of each consumer reporting agency providing a credit score that was used:
 
 “notice to the home loan applicant
 
@@ -354,7 +354,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (ii) Limit on liability
 
-&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
+&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that informationor for the omission of any information within the report provided by the consumer reporting agency.
 
 #### (G) Person defined as excluding enterprise
 
@@ -445,10 +445,6 @@ Simplified disclosure.—Not later than 90 days after the date of enactment of t
 “(3)
 
 Goals.—The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1681b, 1681c, 1681c–1, 1681d, 1681h, 1681j, 1681t of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

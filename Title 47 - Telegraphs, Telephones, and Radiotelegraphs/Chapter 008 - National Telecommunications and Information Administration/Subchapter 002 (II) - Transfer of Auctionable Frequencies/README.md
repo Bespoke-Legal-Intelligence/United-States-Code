@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 309 of this title.
-
 
 ---
 
@@ -16,3 +12,4 @@ This subchapter is referred to in section 309 of this title.
 - [&sect; 00925 - Distribution of frequencies by Commission](%C2%A7%2000925%20-%20Distribution%20of%20frequencies%20by%20Commission.md)
 - [&sect; 00926 - Authority to recover reassigned frequencies](%C2%A7%2000926%20-%20Authority%20to%20recover%20reassigned%20frequencies.md)
 - [&sect; 00927 - Existing allocation and transfer authority retained](%C2%A7%2000927%20-%20Existing%20allocation%20and%20transfer%20authority%20retained.md)
+- [&sect; 00928 - Spectrum Relocation Fund](%C2%A7%2000928%20-%20Spectrum%20Relocation%20Fund.md)

@@ -20,7 +20,7 @@ Real estate.—The Administrator may acquire, by purchase, condemnation, or othe
 
 &emsp;(2)
 
-Ground rent.—The Administrator may pay ground rent for buildings owned by the Federal Government or occupied by federal agencies, and pay the rent in advance if required by law or if the Administrator determines that advance payment is in the public interest.
+Ground rent.—The Administrator may pay ground rent for buildings owned by theFederal Government or occupied by federal agencies, and pay the rent in advance if required by law or if the Administrator determines that advance payment is in the public interest.
 
 &emsp;(3)
 
@@ -100,7 +100,7 @@ Utilities for Defense Industrial Reserve and Surplus Property.—The Administrat
 
 Obtaining Payments.—The Administrator may—
 
-&emsp;(1) obtain payments, through advances or otherwise, for services, space, quarters, maintenance, repair, or other facilities furnished, on a reimbursable basis, to a federal agency, amixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia; and
+&emsp;(1) obtain payments, through advances or otherwise, for services, space, quarters, maintenance, repair, or other facilities furnished, on a reimbursable basis, to a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia; and
 
 &emsp;(2) credit the payments to the applicable appropriation of the Administration.
 
@@ -162,7 +162,7 @@ In subsection (g)(1), the words “mixed-ownership Government corporation” are
 
 Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
 
-Subsec. (b). Pub. L. 107–296, §1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for“; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
+Subsec. (b). Pub. L. 107–296, §1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for “; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
 
 #### Effective Date of 2002 Amendment
 
@@ -201,8 +201,4 @@ This memorandum is not intended to create any right, benefit or trust responsibi
 This memorandum shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 584, 592, 3306 of this title; title 22 section 3712a.
 

@@ -2,7 +2,7 @@
 
 #### (a) Special policemen: functions and powers; regulations: promulgation and enforcement
 
-(1) The Director may authorize Agency personnel within the United States to perform the same functions as special policemen of the General Services Administration perform under section 1315(a) and (b) <sup>1</sup> of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+(1) The Director may authorize Agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
 &emsp;(A) within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
 
@@ -20,27 +20,41 @@
 
 #### (b) Penalties for violations of regulations
 
-The Director is authorized to establish penalties for violations of the rules or regulations promulgated by the Director under subsection (a) of this section. Such penalties shall not exceed those specified in section 1315(g) <sup>1</sup> of title 40.
+The Director is authorized to establish penalties for violations of the rules or regulations promulgated by the Director under subsection (a) of this section. Such penalties shall not exceed those specified in section 1315(c)(2) of title 40.
 
 #### (c) Identification
 
 Agency personnel designated by the Director under subsection (a) of this section shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) of this section refers.
 
-(June 20, 1949, ch. 227, §15, as added Pub. L. 98–473, title I, §140, Oct. 12, 1984, 98 Stat. 1973, as added Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301; amended Pub. L. 105–107, title IV, §404, Nov. 20, 1997, 111 Stat. 2260; Pub. L. 107–306, title VIII, §841(d), Nov. 27, 2002, 116 Stat. 2432.)
+#### (d) Protection of certain CIA personnel from tort liability
 
-#### References in Text
+(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a) of this section, or designated by the Director under section 403f(a)(4) of this title to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tortliability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
 
-Section 1315 of title 40, referred to in subsecs. (a)(1) and (b), was amended generally by Pub. L. 107–296, title XVII, §1706(b)(1), Nov. 25, 2002, 116 Stat. 2316, and as so amended, the provisions relating to functions and powers of special policemen and penalties which were contained in subsecs. (a), (b), and (g) have been revised and moved within the section.
+&emsp;(A) protect an individual in the presence of such Agency personnel from a crime of violence;
+
+&emsp;(B) provide immediate assistance to an individual who has suffered or who is threatened with bodily harm; or
+
+&emsp;(C) prevent the escape of any individual whom such Agency personnel reasonably believe to have committed a crime of violence in the presence of such Agency personnel.
+
+(2) Paragraph (1) shall not affect the authorities of the Attorney General under section 2679 of title 28.
+
+(3) In this subsection, the term “crime of violence” has the meaning given that term in section 16 of title 18.
+
+(June 20, 1949, ch. 227, §15, as added Pub. L. 98–473, title I, §140, Oct. 12, 1984, 98 Stat. 1973, as added Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301; amended Pub. L. 105–107, title IV, §404, Nov. 20, 1997, 111 Stat. 2260; Pub. L. 107–306, title VIII, §841(d), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(b)(3), title IV, §402, Dec. 13, 2003, 117 Stat. 2630, 2631.)
 
 #### Codification
-
-In subsec. (a)(1), “section 1315(a) and (b) of title 40” substituted for “the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ (40 U.S.C. 318)”, and in subsec. (b), “section 1315(g) of title 40” substituted for “the fourth section of the Act referred to in subsection (a) of this section (40 U.S.C. 318c)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 Provisions of this section were also enacted by the Intelligence Authorization Act for fiscal year 1985, Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–177, §377(b)(3)(A), substituted “officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40,” for “special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policeman for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ (40 U.S.C. 318),”.
+
+Subsec. (b). Pub. L. 108–177, §377(b)(3)(B), substituted “section 1315(c)(2) of title 40” for “the fourth section of the Act referred to in subsection (a) of this section (40 U.S.C. 318c)”.
+
+Subsec. (d). Pub. L. 108–177, §402, added subsec. (d).
 
 2002—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: “Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency.”
 
@@ -50,11 +64,5 @@ Subsec. (a)(2) to (5). Pub. L. 105–107, §404(3), added pars. (2) to (5).
 
 #### Designation of Headquarters Compound of Central Intelligence Agency as the George Bush Center for Intelligence
 
-Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference to the George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 403–1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403a, 403e, 403f of this title; title 10 section 444.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Reference to the headquarters compound of the Central Intelligence Agency deemed to be a reference to the George Bush Center for Intelligence, see section 309 of Pub. L. 105–272, set out as a note under section 403–4 of this title.
 

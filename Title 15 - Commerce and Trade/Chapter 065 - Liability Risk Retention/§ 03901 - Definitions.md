@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) purchases such insurance only for its group members and only to cover their similar or related liability exposure, as described in subparagraph (C);
 
-&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
+&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related,similar, or common business, trade, product, services, premises, or operations; and
 
 &emsp;&emsp;(D) is domiciled in any State;
 
@@ -120,7 +120,7 @@ Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of th
 
 Rule Regarding Pollution Liability.—
 
-&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of anyperson to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
+&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of any person to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
 
 #### Short Title of 1986 Amendment
 

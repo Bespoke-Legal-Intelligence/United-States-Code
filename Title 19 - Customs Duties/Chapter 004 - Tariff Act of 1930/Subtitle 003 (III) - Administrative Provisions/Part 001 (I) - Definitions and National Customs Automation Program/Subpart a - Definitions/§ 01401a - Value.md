@@ -16,7 +16,7 @@
 
 &emsp;(F) The value provided for under subsection (f) of this section, if the value referred to in subparagraph (E) cannot be determined.
 
-(2) If the value referred to in paragraph (1)(C) cannot be determined with respect to imported merchandise, the merchandise shall be appraised on the basis of the computed value provided for under paragraph (1)(E), rather than the deductive value provided for under paragraph (1)(D), if the importer makes a request to that effect to the customs officer concerned within such time as the Secretary shall prescribe. If the computed value of the merchandise cannot subsequently be determined, the merchandise may not be appraised on the basis of the value referred to in paragraph (1)(F) unless the deductive value of the merchandise cannot be determined under paragraph (1)(D).
+(2) If the value referred to in paragraph (1)(C) cannot be determined with respect to imported merchandise, the merchandise shall be appraised on the basis of the computed value provided for under paragraph (1)(E), rather than the deductive value provided for under paragraph (1)(D), if the importer makes a request to that effect to the customs officer concerned within such time as the Secretary shall prescribe. If the computedvalue of the merchandise cannot subsequently be determined, the merchandise may not be appraised on the basis of the value referred to in paragraph (1)(F) unless the deductive value of the merchandise cannot be determined under paragraph (1)(D).
 
 (3) Upon written request therefor by the importer of merchandise, and subject to provisions of law regarding the disclosure of information, the customs officer concerned shall provide the importer with a written explanation of how the value of that merchandise was determined under this section.
 
@@ -126,7 +126,7 @@
 
 &emsp;(i) the deduction made for profits and general expenses shall be based upon the importer's profits and general expenses, unless such profits and general expenses are inconsistent with those reflected in sales in the United States of imported merchandise of the same class or kind, in which case the deduction shall be based on the usual profit and general expenses reflected in such sales, as determined from sufficient information; and
 
-&emsp;(ii) any State or local tax imposed on the importer with respect to the sale of imported merchandise shall be treated as a general expense.
+&emsp;(ii) any State or local tax imposed on the importer with respect to the sale of importedmerchandise shall be treated as a general expense.
 
 (C) The price determined under paragraph (2) shall be increased (but only to the extent that such costs are not otherwise included) by an amount equal to the packing costs incurred by the importer or the buyer, as the case may be, with respect to the merchandise concerned.
 
@@ -204,7 +204,7 @@
 
 &emsp;(E) which financial statements should be prepared.
 
-> The applicability of a particular set of generally accepted accounting principles will depend upon the basis on which the value of the merchandise is sought to be established.
+> The applicability of a particular set of generally accepted accounting principles will depend uponthe basis on which the value of the merchandise is sought to be established.
 
 #### (h) Definitions
 
@@ -358,7 +358,7 @@ Definition.—For purposes of this section, the term ‘rubber footwear’ means
 
 #### Effective Date
 
-Section 8 of act Aug. 2, 1956, provided that: “This Act \[enacting this section and provisions set out in notes under this section and sections 2, 160, 1351, and 1402 of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and sections 372 and 711 of former Title 31, Money and Finance, and repealing sections 12 to 18, 21 to 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title\] shall be effective on and after the day following the date of its enactment \[Aug. 2, 1956\], except that section 2 \[enacting this section and provisions set out in note under section 1351 of this title, and amending sections 1001, 1336, and 1402 of this title\] shall be effective only as to articles entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the publication of the final list provided for in section 6(a) of this Act \[set out in note under section 1402 of this title\], and section 3 \[amending section 372 of former Title 31\] shall be effective as to entries filed on or after the thirtieth day following the date of enactment of this Act \[Aug. 2, 1956\].”
+Section 8 of act Aug. 2, 1956, provided that: “This Act \[enacting this section and provisions set out in notes under this section and sections 2, 160, 1351, and 1402 of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and sections 372 and 711 of former Title 31, Money and Finance, and repealing sections 12 to 18, 21 to 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title\] shall be effective on and after the day following the date of its enactment \[Aug. 2, 1956\], except that section 2 \[enacting this section and provisions set out in note under section 1351 of this title, and amending sections 1001, 1336, and 1402 of this title\] shall be effective only as to articles entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the publication of the final list provided for in section 6(a) of this Act \[set out in note under section 1402 of this title\], and section 3 \[amending section 372 of formerTitle 31\] shall be effective as to entries filed on or after the thirtieth day following the date of enactment of this Act \[Aug. 2, 1956\].”
 
 #### Presidential Report to Congress on Operation of Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade Over 2-Year Period
 
@@ -373,8 +373,4 @@ Section 6 of act Aug. 2, 1956, provided that:
 “As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
 
 “(b) The final list published in accordance with the provisions of subsection (a), together with explanatory data, shall be transmitted promptly to the chairmen of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58c, 1332, 1351, 1500, 2112, 2481 of this title; title 26 sections 904, 927, 943, 993.
 

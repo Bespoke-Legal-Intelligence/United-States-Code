@@ -8,10 +8,6 @@ Pub. L. 105–244, title III, §301(a)(3), Oct. 7, 1998, 112 Stat. 1636, redesig
 
 A prior part D, consisting of sections 1066 to 1069, 1069b to 1069d, and 1069f, was redesignated part F (§1068 et seq.) of this subchapter by Pub. L. 105–244, title III, §301(a)(1), Oct. 7, 1998, 112 Stat. 1636.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1068, 1068b, 1068d, 1068h, 1070a of this title.
-
 
 ---
 

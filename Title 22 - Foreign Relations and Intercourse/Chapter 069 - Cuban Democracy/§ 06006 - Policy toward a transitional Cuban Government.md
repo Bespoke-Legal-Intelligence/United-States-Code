@@ -20,7 +20,3 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in te
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6005 of this title.
-

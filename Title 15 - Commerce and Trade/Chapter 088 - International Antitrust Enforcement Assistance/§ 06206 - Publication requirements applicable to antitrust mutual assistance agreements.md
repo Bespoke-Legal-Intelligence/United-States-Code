@@ -34,7 +34,3 @@ An antitrust mutual assistance agreement, or an agreement that makes an amendmen
 
 (Pub. L. 103–438, §7, Nov. 2, 1994, 108 Stat. 4600.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6208 of this title.
-

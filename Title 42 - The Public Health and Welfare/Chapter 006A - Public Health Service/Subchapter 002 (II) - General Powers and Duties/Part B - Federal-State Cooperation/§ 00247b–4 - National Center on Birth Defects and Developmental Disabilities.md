@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) to conduct research on and to promote the prevention of such defects and disabilities, and secondary health conditions among individuals with disabilities; and
 
-&emsp;&emsp;(E) to support a National Spina Bifida Program to prevent and reduce suffering fromthe Nation's most common permanently disabling birth defect.
+&emsp;&emsp;(E) to support a National Spina Bifida Program to prevent and reduce suffering from the Nation's most common permanently disabling birth defect.
 
 #### (3) Folic acid
 
@@ -82,7 +82,7 @@ The provisions of this section shall be subject to the requirements of section 5
 
 #### (e) Advisory committee
 
-Notwithstanding any other provision of law, the members of the advisory committee appointed by the Director of the National Center for Environmental Health that have expertise in birth defects, developmental disabilities, and disabilities and health shall be transferred toand shall advise the National Center on Birth Defects and Developmental Disabilities effective on December 3, 2003.
+Notwithstanding any other provision of law, the members of the advisory committee appointed by the Director of the National Center for Environmental Health that have expertise in birth defects, developmental disabilities, and disabilities and health shall be transferred to and shall advise the National Center on Birth Defects and Developmental Disabilities effective on December 3, 2003.
 
 #### (f) Authorization of appropriations
 
@@ -108,7 +108,7 @@ Subsec. (d)(5) to (7). Pub. L. 108–154, §2(3)(C)–(E), added pars. (5) and (
 
 Subsec. (e). Pub. L. 108–154, §2(5), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 108–154, §2(6) substituted “such sums as may be necessary for each of fiscal years 2003 through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
+Subsec. (f). Pub. L. 108–154, §2(6) substituted “such sums as may be necessary for each of fiscal years 2003through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
 
 2000—Pub. L. 106–310, §611(1), substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
 
@@ -123,6 +123,8 @@ Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted “subsection (a)(2)(A)
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Congressional Findings
 

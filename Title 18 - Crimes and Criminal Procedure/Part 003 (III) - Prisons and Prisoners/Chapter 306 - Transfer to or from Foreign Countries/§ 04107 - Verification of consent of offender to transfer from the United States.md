@@ -2,7 +2,7 @@
 
 (a) Prior to the transfer of an offender from the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof shall be verified by a United States magistrate judge or a judge as defined in section 451 of title 28, United States Code.
 
-(b) The verifying officer shall inquire of the offender whether he understands and agrees thatthe transfer will be subject to the following conditions:
+(b) The verifying officer shall inquire of the offender whether he understands and agrees that the transfer will be subject to the following conditions:
 
 &emsp;(1) only the appropriate courts in the United States may modify or set aside the conviction or sentence, and any proceedings seeking such action may only be brought in such courts;
 
@@ -23,8 +23,4 @@
 #### Change of Name
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4109 of this title; title 28 section 636.
 

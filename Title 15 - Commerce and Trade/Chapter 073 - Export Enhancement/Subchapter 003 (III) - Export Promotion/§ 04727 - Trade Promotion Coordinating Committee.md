@@ -44,7 +44,7 @@ To carry out subsection (b) of this section, the TPCC shall develop and implemen
 
 &emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
 
-&emsp;(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
+&emsp;(6) reflect the recommendations of the United States National Tourism Organizationto the degree considered appropriate by the TPCC.
 
 #### (d) Membership
 
@@ -203,10 +203,6 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 Sec. 6. <i>Report</i>. The chairperson of the TPCC, with the approval of the President, shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to section 5 of this order, the implementation of such a plan, and any revisions to the plan.
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4727a, 4728, 4729 of this title; title 12 section 635.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,3 @@ The purpose of the Program shall be—
 
 (Pub. L. 107–252, title V, §501, Oct. 29, 2002, 116 Stat. 1717.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 15522 of this title.
-

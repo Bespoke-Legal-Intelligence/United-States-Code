@@ -16,7 +16,7 @@ The Federal Property and Administrative Services Act of 1949, as amended, referr
 
 #### Amendments
 
-1957—Pub. L. 85–201 struck out “to citizens of the United States” after “is authorized to lease” and “to American citizens” after “or to dispose of such lands” in first sentence of first paragraph, before first proviso.
+1957—Pub. L. 85–201 struck out “to citizens of the United States” after “is authorized to lease” and “toAmerican citizens” after “or to dispose of such lands” in first sentence of first paragraph, before first proviso.
 
 1951—Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, in text before first proviso of first paragraph.
 

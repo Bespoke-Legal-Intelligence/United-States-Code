@@ -14,11 +14,11 @@ In general.—Except as provided in paragraphs (2) and (3), not less than 25 per
 
 &emsp;&emsp;(A) the non-Federal portion of the publicly financed costs may be derived from contributions in kind; and
 
-&emsp;&emsp;(B) matching contributions from a State or unit of local government may not be derived, directly or indirectly, from Federal funds, but the use by the State or unit of local government of proceeds from the sale of bonds to provide the matching contribution is not considered to be a contribution derived directly or indirectly from Federal funds, without regard to the Federal income tax treatment of interest paid on those bonds or the Federal income tax treatment of those bonds.
+&emsp;&emsp;(B) matching contributions from a State or unit of local government may not be derived, directly or indirectly, from Federal funds, but the use by the State or unit of local government of proceeds from the sale of bonds to provide the matching contribution is not considered to be a contribution derived directly or indirectly from Federal funds, without regard to the Federal incometax treatment of interest paid on those bonds or the Federal income tax treatment of those bonds.
 
 &emsp;(2)
 
-Bonus for 25-percent increase in usage.—Except as provided in paragraph (3), if, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 25 percent or more, then only 10 percent of the publicly financed costs associated with the marketingplan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
+Bonus for 25-percent increase in usage.—Except as provided in paragraph (3), if, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 25 percent or more, then only 10 percent of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
 
 &emsp;(3)
 

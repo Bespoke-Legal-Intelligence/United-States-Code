@@ -76,7 +76,7 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 #### (4) Cohorts of loans
 
-&emsp;In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans.When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis.
+&emsp;In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans. When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis.
 
 #### (g) Prerequisites for assistance
 
@@ -100,15 +100,11 @@ The Secretary shall, before granting assistance under this section, require the 
 
 &emsp;(2) will, consistent with its capital resources, maintain its capital program, equipment, facilities, and operations on a continuing basis; and
 
-&emsp;(3) will not make any discretionary dividend payments that unreasonably conflict with the purposes stated in subsection (b) of this section.
+&emsp;(3) will not make any discretionary dividend payments that unreasonably conflict with thepurposes stated in subsection (b) of this section.
 
 (Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473.)
 
 #### Prior Provisions
 
 A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, §803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 823 of this title.
 

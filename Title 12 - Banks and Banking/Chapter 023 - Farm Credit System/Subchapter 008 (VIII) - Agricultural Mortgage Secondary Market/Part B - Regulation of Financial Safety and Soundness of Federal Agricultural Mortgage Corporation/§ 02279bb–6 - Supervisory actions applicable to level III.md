@@ -64,7 +64,3 @@ This section shall take effect on January 1, 1992.
 
 (Pub. L. 92–181, title VIII, §8.37, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1876.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2279bb–4, 2279bb–5, 2279cc of this title.
-

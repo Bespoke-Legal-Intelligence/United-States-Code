@@ -12,7 +12,3 @@ The Warren Act of February 21, 1911, referred to in text, is act Feb. 21, 1911, 
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 493, 500 of this title.
-

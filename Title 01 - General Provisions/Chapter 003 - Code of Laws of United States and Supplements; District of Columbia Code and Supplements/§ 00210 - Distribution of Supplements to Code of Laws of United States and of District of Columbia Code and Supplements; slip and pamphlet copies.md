@@ -8,7 +8,3 @@ Copies of the Code of Laws relating to the District of Columbia, and of the supp
 
 Distribution of Statutes at Large, see section 728 of Title 44, Public Printing and Documents.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 211 of this title.
-

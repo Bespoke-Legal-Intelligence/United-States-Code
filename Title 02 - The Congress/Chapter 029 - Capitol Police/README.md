@@ -47,6 +47,11 @@
 |  |  |
 | :--- | ---: |
 | [1921\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001921%20-%20Repealed.%20Pub.%20L.%20108%E2%80%937%2C%20div.%20H%2C%20title%20I%2C%20%C2%A71018%28h%29%282%29%2C%20Feb.%2020%2C%202003%2C%20117%20Stat.%20369.md) | Repealed. |
+| [1921a.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001921a%20-%20Sole%20and%20exclusive%20authority%20of%20Board%20and%20Chief%20to%20determine%20rates%20of%20pay.md) | Sole and exclusive authority of Board and Chief to determine rates of pay. |
+| (a) | In general. |
+| (b) | No review or appeal permitted. |
+| (c) | Rule of construction. |
+| (d) | Effective date. |
 | [1922\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001922%20-%20Unified%20payroll%20administration.md) | Unified payroll administration. |
 | [1923\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001923%20-%20Unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system.md) | Unified schedules of rates of basic pay and leave system. |
 | (a) | Rates of basic pay. |
@@ -162,6 +167,31 @@
 | (e) | Approval. |
 | (f) | Regulations. |
 | (g) | Effective date. |
+| [1975\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001975%20-%20Overseas%20travel.md) | Overseas travel. |
+| (a) | Definition. |
+| (b) | In general. |
+| (c) | Law enforcement functions. |
+| (d) | Reimbursement. |
+| (e) | Amounts received. |
+| (f) | Effective date. |
+| [1976\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001976%20-%20Acceptance%20of%20donations%20of%20animals.md) | Acceptance of donations of animals. |
+| (a) | In general. |
+| (b) | Effective date. |
+| [1977\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001977%20-%20Settlement%20and%20payment%20of%20tort%20claims.md) | Settlement and payment of tort claims. |
+| (a) | Federal Tort Claims Act. |
+| (b) | Claims of employees of Capitol Police. |
+| (c) | Rule of construction. |
+| (d) | Effective date. |
+| [1978\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001978%20-%20Deployment%20outside%20of%20jurisdiction.md) | Deployment outside of jurisdiction. |
+| (a) | Requirements for prior notice and approval. |
+| (b) | Exception for certain services. |
+| (c) | Effective date. |
+| [1979\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001979%20-%20Release%20of%20security%20information.md) | Release of security information. |
+| (a) | Definition. |
+| (b) | Authority of Board to determine conditions of release. |
+| (c) | Rule of construction. |
+| (d) | Regulations. |
+| (e) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

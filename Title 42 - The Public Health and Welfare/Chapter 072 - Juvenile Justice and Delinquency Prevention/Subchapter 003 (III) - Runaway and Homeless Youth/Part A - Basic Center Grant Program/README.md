@@ -14,10 +14,6 @@ Runaway and Homeless Youth Grant Program” for “
 
 Grants Program”.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5714–24, 5715, 5731a, 5732, 5732a, 5751 of this title.
-
 
 ---
 

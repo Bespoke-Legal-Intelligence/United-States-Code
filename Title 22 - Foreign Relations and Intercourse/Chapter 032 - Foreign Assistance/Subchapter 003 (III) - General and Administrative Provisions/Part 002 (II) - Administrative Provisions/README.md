@@ -1,9 +1,5 @@
 Part II—Administrative Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 7516 of this title.
-
 
 ---
 
@@ -24,11 +20,12 @@ This part is referred to in section 7516 of this title.
 - [&sect; 02391 - Missions and staffs abroad](%C2%A7%2002391%20-%20Missions%20and%20staffs%20abroad.md)
 - [&sect; 02392 - Government agencies](%C2%A7%2002392%20-%20Government%20agencies.md)
 - [&sect; 02393 - Waiver of certain laws](%C2%A7%2002393%20-%20Waiver%20of%20certain%20laws.md)
-- [&sect; 02393a - Requests by General Accounting Office and Congressional committees for documents and materials](%C2%A7%2002393a%20-%20Requests%20by%20General%20Accounting%20Office%20and%20Congressional%20committees%20for%20documents%20and%20materials.md)
+- [&sect; 02393a - Requests by Government Accountability Office and Congressional committees for documents and materials](%C2%A7%2002393a%20-%20Requests%20by%20Government%20Accountability%20Office%20and%20Congressional%20committees%20for%20documents%20and%20materials.md)
 - [&sect; 02394 - Reports and information; definitions](%C2%A7%2002394%20-%20Reports%20and%20information%3B%20definitions.md)
 - [&sect; 02394&#8211;1 - Notification of program changes](%C2%A7%2002394%E2%80%931%20-%20Notification%20of%20program%20changes.md)
 - [&sect; 02394&#8211;1a - Classification of reports](%C2%A7%2002394%E2%80%931a%20-%20Classification%20of%20reports.md)
 - [&sect; 02394a - Extortion and illegal payments to officials of foreign countries receiving international security assistance](%C2%A7%2002394a%20-%20Extortion%20and%20illegal%20payments%20to%20officials%20of%20foreign%20countries%20receiving%20international%20security%20assistance.md)
+- [&sect; 02394b - HELP Commission](%C2%A7%2002394b%20-%20HELP%20Commission.md)
 - [&sect; 02395 - General authorities](%C2%A7%2002395%20-%20General%20authorities.md)
 - [&sect; 02395a - International agreements concerning debt relief; transmittal to Congressional committees](%C2%A7%2002395a%20-%20International%20agreements%20concerning%20debt%20relief%3B%20transmittal%20to%20Congressional%20committees.md)
 - [&sect; 02396 - Availability of funds](%C2%A7%2002396%20-%20Availability%20of%20funds.md)

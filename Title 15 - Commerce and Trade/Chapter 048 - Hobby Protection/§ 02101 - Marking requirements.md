@@ -30,7 +30,3 @@ Section 8 of Pub. L. 93–167 provided that: “This Act \[enacting this chapter
 
 Section 1 of Pub. L. 93–167 provided: “That this Act \[enacting this chapter\] may be cited as the ‘Hobby Protection Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2102, 2104 of this title.
-

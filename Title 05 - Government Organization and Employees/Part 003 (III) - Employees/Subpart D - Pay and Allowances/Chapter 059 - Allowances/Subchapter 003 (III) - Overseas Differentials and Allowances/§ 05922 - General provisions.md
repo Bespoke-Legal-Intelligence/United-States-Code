@@ -82,9 +82,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Delegation of Functions
 
-Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 1474; title 26 section 912.
+Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961,26 F.R. 217, set out as a note under section 5921 of this title.
 

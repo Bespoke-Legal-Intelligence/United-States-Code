@@ -2,7 +2,7 @@
 
 #### (a) Costs to be borne by owner of retail outlet
 
-The regulations under this chapter applicable to vapor recovery with respect to mobile source fuels at retail outlets of such fuels shall provide that the cost of procurement and installation of such vapor recovery shall be borne by the owner of such outlet (as determined under such regulations). Except as provided in subsection (b) of this section, such regulations shall provide that no lease of a retail outlet by the owner thereof which is entered into or renewed after August 7, 1977, may provide for a payment by the lessee ofthe cost of procurement and installation of vapor recovery equipment. Such regulations shall also provide that the cost of procurement and installation of vapor recovery equipment may be recovered by the owner of such outlet by means of price increases in the cost of any product sold by such owner, notwithstanding any provision of law.
+The regulations under this chapter applicable to vapor recovery with respect to mobile source fuels at retail outlets of such fuels shall provide that the cost of procurement and installation of such vapor recovery shall be borne by the owner of such outlet (as determined under such regulations). Except as provided in subsection (b) of this section, such regulations shall provide that no lease of a retail outlet by the owner thereof which is entered into or renewed after August 7, 1977, may provide for a payment by the lessee of the cost of procurement and installation of vapor recovery equipment. Such regulations shall also provide that the cost of procurement and installation of vapor recovery equipment may be recovered by the owner of such outlet by means of price increases in the cost of any product sold by such owner, notwithstanding any provision of law.
 
 #### (b) Payment by lessee
 
@@ -23,8 +23,4 @@ A prior section 323 of act July 14, 1955, was classified to section 7623 of this
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7413, 7625a of this title.
 

@@ -20,7 +20,7 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 #### Prior Provisions
 
-A prior section 2471, Pub. L. 85–568, title II, §201, July 29, 1958, 72 Stat. 427; Pub. L. 87–26, §1, Apr. 25, 1961, 75 Stat. 46; Pub. L. 87–367, title II, §207, Oct. 4, 1961, 75Stat. 792; Pub. L. 87–584, §7, Aug. 14, 1962, 76 Stat. 385; Pub. L. 88–426, title III, §§305(13)(A), 306(c), Aug. 14, 1964, 78 Stat. 423, 428; Pub. L. 91–406, Sept. 23, 1970, 84 Stat. 855, which related to the establishment, membership, duties, and personnel of the National Aeronautics and Space Council, was omitted from the Code, because the Council, including the office of Executive Secretary of the Council, together with the functions of the Council, was abolished by section 3(a)(4) of Reorg. Plan No. 1 of 1973, 38 F.R. 9579, 87 Stat. 1089, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+A prior section 2471, Pub. L. 85–568, title II, §201, July 29, 1958, 72 Stat. 427; Pub. L. 87–26, §1, Apr. 25, 1961, 75 Stat. 46; Pub. L. 87–367, title II, §207, Oct. 4, 1961, 75 Stat. 792; Pub. L. 87–584, §7, Aug. 14, 1962, 76 Stat. 385; Pub. L. 88–426, title III, §§305(13)(A), 306(c), Aug. 14, 1964, 78 Stat. 423, 428; Pub. L. 91–406, Sept. 23, 1970, 84 Stat. 855, which related to the establishment, membership, duties, and personnel of the National Aeronautics and Space Council, was omitted from the Code, because the Council, including the office of Executive Secretary of the Council, together with the functions of the Council, was abolished by section 3(a)(4) of Reorg. Plan No. 1 of 1973, 38 F.R. 9579, 87 Stat. 1089, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### National Space Council Authorization
 
@@ -100,5 +100,5 @@ Pub. L. 101–328, §3(a), July 8, 1990, 104 Stat. 308, provided that: “Not mo
 
 Pub. L. 101–328, §4, July 8, 1990, 104 Stat. 308, provided that: “The National Space Council may, for purposes of carrying out its functions, employ experts and consultants in accordance with section 3109 of title 5, United States Code, and may compensate individuals so employed for each day they are involved in a business of the National Space Council (including traveltime) at rates not in excess of the daily equivalent of the maximum rate of pay for grade GS–18 as provided pursuant to section 5332 of title 5, United States Code.”
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 

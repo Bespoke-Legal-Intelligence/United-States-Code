@@ -14,7 +14,7 @@
 
 #### (c) Cooperation with Congress
 
-The Secretary is authorized and directed to cooperate with the Congress and its appropriate committees, subcommittees, and staff in supplying data and any other information, and personnel and services, required by the Congress in any study, examination, or report by the Congress relating to pension benefit plans established or maintained by States or their political subdivisions.
+The Secretary is authorized and directed to cooperate with the Congress and its appropriate committees, subcommittees, and staff in supplying data and any other information, and personnel and services, required by the Congress in any study, examination, or report by the Congressrelating to pension benefit plans established or maintained by States or their political subdivisions.
 
 (Pub. L. 93–406, title I, §513, Sept. 2, 1974, 88 Stat. 896.)
 
@@ -29,8 +29,4 @@ Subsec. (b) of this section, which required the Secretary to submit annually a r
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1142 of this title.
 

@@ -40,11 +40,11 @@
 
 (4) A veteran who is furnished care by the Secretary in a hospital or domiciliary facility in Alaska or Hawaii may be furnished nursing home care at the expense of the United States under this subsection even if such hospital or domiciliary facility is not under the direct jurisdiction of the Secretary.
 
-(b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, tothe extent possible, be made available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+(b) No veteran may be transferred or admitted to any institution for nursing home care under this section, unless such institution is determined by the Secretary to meet such standards as the Secretary may prescribe. The standards prescribed and any report of inspection of institutions furnishing care to veterans under this section made by or for the Secretary shall, to the extent possible, be made available to all Federal, State, and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
 (c)(1)(A) In furnishing nursing home care, adult day health care, or other extended care services under this section, the Secretary may enter into agreements for furnishing such care or services with—
 
-&emsp;(i) in the case of the medicare program, a provider of services that has entered into a provider agreement under section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a)); and
+&emsp;(i) in the case of the medicare program, a provider of services that has entered into aprovider agreement under section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a)); and
 
 &emsp;(ii) in the case of the medicaid program, a provider participating under a State plan under title XIX of such Act (42 U.S.C. 1396 et seq.).
 
@@ -90,7 +90,7 @@ Prior section 1720 was renumbered section 3520 of this title.
 
 Subsec. (f)(1)(B). Pub. L. 108–170, §105(b), inserted “or agreement” after “contract” in two places.
 
-1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
+1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
 
 &emsp;“(i) references to ‘nursing home care’ in subsections (a) through (d) of this section shall be deemed to be references to ‘adult day health care’; and
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 98–160, §103(a)(1), added subsec. (f).
 
 Subsec. (c). Pub. L. 97–295, §4(19)(B), inserted “(41 U.S.C. 351(b)(1))” after “the Service Contract Act of 1965” and substituted “(29 U.S.C. 206(b))” for “, as amended,”.
 
-1976—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
+1976—Subsec. (a). Pub. L. 94–581, §§106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum”for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
 
 Subsec. (b). Pub. L. 94–581, §210(a)(7), substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
 
@@ -207,8 +207,4 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 Section 111(b), (c) of Pub. L. 100–322 directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
 
 Section 103(b), (c) of Pub. L. 98–160, which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by Pub. L. 100–322, title I, §111(d), May 20, 1988, 102 Stat. 499.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1703, 1710B, 1724, 1741, 1742, 2303, 8105, 8134 of this title; title 42 section 300dd–21.
 

@@ -42,7 +42,3 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 T. 4 N., R. 73 W., section 9, northwest quarter southwest quarter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 192c of this title.
-

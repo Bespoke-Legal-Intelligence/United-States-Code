@@ -40,7 +40,7 @@ Except as provided in subsection (d) of this section, the Presidential actions r
 
 &emsp;(14) Prohibiting any United States financial institution from making loans or providing credits totaling more than $10,000,000 in any 12-month period to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
 
-&emsp;(15) Prohibiting the United States Government from procuring, or entering into any contract for the procurement of, any goods or services from the foreign government, entities, or officials found or determined by thePresident to be responsible for violations under section 6441 or 6442 of this title.
+&emsp;(15) Prohibiting the United States Government from procuring, or entering into any contract for the procurement of, any goods or services from the foreign government, entities, or officials found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
 
 #### (b) Commensurate action
 
@@ -63,8 +63,4 @@ The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub
 The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6402, 6441, 6442, 6443, 6444, 6447, 6448 of this title.
 

@@ -16,7 +16,7 @@ The following requirements shall apply to programs under this chapter:
 
 &emsp;&emsp;(A) when any other individual is on temporary layoff, with the clear possibility of recall, from the same or any substantially equivalent job with the participating employer; or
 
-&emsp;&emsp;(B) when the employer has terminated the employment of any regular employee or otherwise reduced the workforce of the employer with the intention of filling the vacancy so created with the student.
+&emsp;&emsp;(B) when the employer has terminated the employment of any regular employee orotherwise reduced the workforce of the employer with the intention of filling the vacancy so created with the student.
 
 #### (4) Workplaces
 

@@ -8,7 +8,3 @@ There are authorized to be appropriated to carry out this subpart $10,000,000 fo
 
 Another section 411 of Pub. L. 105–244 amended section 1071 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070f–1 of this title.
-

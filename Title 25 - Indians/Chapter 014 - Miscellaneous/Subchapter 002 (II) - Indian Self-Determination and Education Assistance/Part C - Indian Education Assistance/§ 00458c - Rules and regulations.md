@@ -12,7 +12,7 @@
 
 #### (b) Revision and amendment
 
-The Secretary is authorized to revise and amend any rules or regulations promulgated pursuant to subsection (a) of this section: <i>Provided</i>, That prior to any revision or amendmentto such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
+The Secretary is authorized to revise and amend any rules or regulations promulgated pursuant to subsection (a) of this section: <i>Provided</i>, That prior to any revision or amendment to such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
 
 (Pub. L. 93–638, title II, §207, Jan. 4, 1975, 88 Stat. 2216.)
 

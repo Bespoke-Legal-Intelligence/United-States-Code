@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—AUTHORITY TO PROVIDE PREFERENCES FOR ELDERLY RESIDENTS AND UNITS FOR DISABLED RESIDENTS IN CERTAIN SECTION 8 ASSISTED HOUSING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1437f of this title.
-
 
 ---
 

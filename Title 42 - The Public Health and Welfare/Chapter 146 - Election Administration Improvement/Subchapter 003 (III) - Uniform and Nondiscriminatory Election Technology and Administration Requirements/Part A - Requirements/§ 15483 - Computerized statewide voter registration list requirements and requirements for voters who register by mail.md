@@ -146,7 +146,7 @@
 
 &emsp;Paragraph (1) shall not apply in the case of a person—
 
-&emsp;&emsp;(A) who registers to vote by mail under section 6 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–4) and submits as part of such registration either—
+&emsp;&emsp;(A) who registers to vote by mail under section 6 of the National Voter RegistrationAct of 1993 (42 U.S.C. 1973gg–4) and submits as part of such registration either—
 
 &emsp;&emsp;&emsp;(i) a copy of a current and valid photo identification; or
 
@@ -229,8 +229,4 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. 
 #### Codification
 
 Section is comprised of section 303 of Pub. L. 107–252. Subsec. (a)(5)(C) of section 303 of Pub. L. 107–252 amended section 405 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15361, 15384, 15482, 15501, 15511, 15545 of this title.
 

@@ -38,7 +38,3 @@ The Trade and Intercourse Act of 1790, Act of July 22, 1790 (ch. 33, sec. 4, 1 S
 
 In subsec. (a), “October 18, 1983” substituted for “the date of enactment of this Act”, meaning the date of approval of Pub. L. 98–134.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1754, 1760 of this title.
-

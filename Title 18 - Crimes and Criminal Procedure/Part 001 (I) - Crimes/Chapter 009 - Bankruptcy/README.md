@@ -18,10 +18,6 @@
 
 1978—Pub. L. 95–598, title III, §314(b)(2), (d)(3), (e)(3), (f)(3), Nov. 6, 1978, 92 Stat. 2677, substituted in item 151 “Definition” for “Definitions”; struck from item 153 “, receiver” after “trustee” and from item 154 “referees and other” before “officers”; and substituted in item 155 “cases under title 11 and receiverships” for “bankruptcy proceedings”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 3057 of this title.
-
 
 ---
 

@@ -20,7 +20,3 @@ Section 221(a) of the Soviet Nuclear Threat Reduction Act of 1991, referred to i
 
 Section is comprised of section 506 of Pub. L. 102–511. Subsec. (a) of this section directed the amendment of section 221 of Pub. L. 102–228 which is set out as a note under section 2551 of this title and subsec. (b) of this section directed the amendment of sections 108 and 109 of Pub. L. 102–229 which are not classified to the Code. Because of amendments by section 1421(a)(2)(B), (3) and (b) of Pub. L. 102–484, div. A, title XIV, Oct. 23, 1992, 106 Stat. 2565, to section 221 of Pub. L. 102–228 and sections 108 and 109 of Pub. L. 102–229, the amendments directed by subsecs. (a) and (b) of this section did not take effect pursuant to subsec. (c) of this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5853, 5858 of this title.
-

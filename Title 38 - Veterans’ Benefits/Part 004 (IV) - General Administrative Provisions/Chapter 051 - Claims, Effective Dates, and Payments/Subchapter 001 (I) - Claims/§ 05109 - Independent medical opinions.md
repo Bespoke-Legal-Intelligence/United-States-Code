@@ -22,7 +22,3 @@ Subsecs. (b), (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary
 
 Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as a note under section 7251 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5701 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IX–B—MORTGAGE INSURANCE FOR GROUP PRACTICE FACILITIES AND MEDICAL PRACTICE FACILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 24, 1702, 1715c, 1715n, 1715r, 1731a, 1735f–8 of this title.
-
 
 ---
 

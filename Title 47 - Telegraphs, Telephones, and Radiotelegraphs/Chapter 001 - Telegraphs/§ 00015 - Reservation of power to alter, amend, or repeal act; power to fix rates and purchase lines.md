@@ -14,9 +14,5 @@ The Communications Act of 1934, as amended, referred to in text, is act June 19,
 
 1954—Act Sept. 3, 1954, corrected references and struck out obsolete material.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12, 601 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,3 @@ Each local emergency planning committee shall annually publish a notice in local
 
 (Pub. L. 99–499, title III, §324, Oct. 17, 1986, 100 Stat. 1752.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11001, 11021, 11022, 11023, 11046 of this title.
-

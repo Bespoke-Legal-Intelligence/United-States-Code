@@ -18,7 +18,7 @@ Section 122 of title 13, U.S.C., 1952 ed., which related to quinquennial censuse
 
 In subsection (a), “Departmental Service” was substituted for “District of Columbia”, since the Bureau of the Census now has its headquarters in Maryland, and not in the District of Columbia.
 
-In this section, a reference to the Bureau of the Census was changed to a reference to the Department of Commerce, and references to the Director of the Censuswere changed in all but one case to references to the Secretary (of Commerce) to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. The provision of section 203 of title 13, U.S.C., 1952 ed., that appointments under the particular provisions thereof that have been carried into subsection (a) of this revised section should be made upon the recommendation of the Director of the Census, have been omitted from such subsection (a) for the same reason. Further, words “or to whatever other officer is designated by the Secretary to take the census provided for in sections 141 and 142 of this title” were inserted after “Director of the Census” in par. (1) of subsection (a), to conform with such 1950 Reorganization Plan.
+In this section, a reference to the Bureau of the Census was changed to a reference to the Department of Commerce, and references to the Director of the Census were changed in all but one case to references to the Secretary (of Commerce) to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. The provision of section 203 of title 13, U.S.C., 1952 ed., that appointments under the particular provisions thereof that have been carried into subsection (a) of this revised section should be made upon the recommendation of the Director of the Census, have been omitted from such subsection (a) for the same reason. Further, words “or to whatever other officer is designated by the Secretary to take the census provided for in sections 141 and 142 of this title” were inserted after “Director of the Census” in par. (1) of subsection (a), to conform with such 1950 Reorganization Plan.
 
 The first paragraph of section 203 of title 13, U.S.C., 1952 ed., which provided for the employment of two assistant directors for each decennial census period, was omitted as obsolete and superseded, in view of section 122 of such title, which made such section 203 applicable to the quinquennial censuses of manufactures and other businesses, and to surveys (see subchapter IV of chapter 5 of this title), thus rendering such first paragraph ineffective and meaningless. See also section 121(b) of title 13, U.S.C., 1952 ed.
 
@@ -34,7 +34,7 @@ The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949
 
 The civil service laws, referred to in subsec. (a), are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5.
 
-Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
+Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L.89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
 
 #### Amendments
 
@@ -56,9 +56,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Temporary Positions Relating to Decennial Censuses
 
-Pub. L. 106–553, §1(a)(2) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2762, 2762A–78, provided that: “None of the funds provided in this or any previous Act, or hereinafter made available to the Department of Commerce, shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses authorized by section 8501 of title 5, United States Code, for services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the decennial censuses of population.”
+Pub. L. 108–447, div. B, title II, §205, Dec. 8, 2004, 118 Stat. 2883, provided that: “Hereafter, none of the funds made available by this or any other Act for the Department of Commerce shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses authorized by section 8501 of title 5, United States Code, for services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the decennial censuses of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2762, 2762A–78.
 
 Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §204\], Nov. 29, 1999, 113 Stat. 1535, 1501A–31.
 
@@ -109,8 +111,4 @@ Pub. L. 97–454, §3, Jan. 12, 1983, 96 Stat. 2494, provided that: “Not later
 &emsp;“(3) the practice applicable to the appointment of such temporary staff in performing such work;
 
 &emsp;“(4) the requirements and penalties under such title applicable to temporary staff performing such work, together with safeguards to ensure that such temporary staff will observe the limitations imposed in section 9 of such title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title; title 5 sections 5102, 5533; title 22 section 3144.
 

@@ -44,7 +44,3 @@ The Board of Trustees shall determine the priority of the programs to be carried
 
 (Pub. L. 100–458, title I, §115, Oct. 1, 1988, 102 Stat. 2173.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1108, 1151 of this title.
-

@@ -18,7 +18,7 @@ For purposes of this chapter, the term “qualified alien” means an alien who,
 
 &emsp;(5) an alien whose deportation is being withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208),
 
-&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980; <sup>1</sup> or
+&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980; <sup>1</sup> or
 
 &emsp;(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).
 
@@ -111,10 +111,6 @@ Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 e
 Amendment by section 308(g)(8)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 501 of Pub. L. 104–208 effective Sept. 30, 1996, see section 591 of Pub. L. 104–208, set out as a note under section 1101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1367, 1611, 1612, 1613, 1615, 1621, 1622 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

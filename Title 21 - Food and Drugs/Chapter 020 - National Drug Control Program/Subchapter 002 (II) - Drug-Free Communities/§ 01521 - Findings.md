@@ -28,7 +28,7 @@ Congress finds the following:
 
 Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: “Congress makes the following findings:
 
-&emsp;“(1) In the next 15 years, the youth population in the United States will grow by 21 percent, adding6,500,000 youth to the population of the United States. Even if drug use rates remain constant, there will be a huge surge in drug-related problems, such as academic failure, drug-related violence, and HIV incidence, simply due to this population increase.
+&emsp;“(1) In the next 15 years, the youth population in the United States will grow by 21 percent, adding 6,500,000 youth to the population of the United States. Even if drug use rates remain constant, there will be a huge surge in drug-related problems, such as academic failure, drug-related violence, and HIV incidence, simply due to this population increase.
 
 &emsp;“(2) According to the 1994–1996 National Household Survey, 60 percent of students age 12 to 17 who frequently cut classes and who reported delinquent behavior in the past 6 months used marijuana 52 days or more in the previous year.
 

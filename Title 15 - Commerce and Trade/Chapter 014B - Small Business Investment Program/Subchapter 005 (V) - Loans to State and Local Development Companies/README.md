@@ -1,9 +1,5 @@
 ### SUBCHAPTER V—LOANS TO STATE AND LOCAL DEVELOPMENT COMPANIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 633, 636 of this title.
-
 
 ---
 

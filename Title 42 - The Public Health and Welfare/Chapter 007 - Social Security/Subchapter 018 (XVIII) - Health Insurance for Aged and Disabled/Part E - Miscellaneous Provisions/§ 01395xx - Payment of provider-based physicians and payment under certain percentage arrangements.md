@@ -16,7 +16,7 @@
 
 #### (b) Prohibition of recognition of payments under certain percentage agreements
 
-(1) Except as provided in paragraph (2), in the case of a provider of services which is paid underthis subchapter on a reasonable cost basis, or other basis related to costs that are reasonable, and which has entered into a contract for the purpose of having services furnished for or on behalf of it, the Secretary may not include any cost incurred by the provider under the contract if the amount payable under the contract by the provider for that cost is determined on the basis of a percentage (or other proportion) of the provider's charges, revenues, or claim for reimbursement.
+(1) Except as provided in paragraph (2), in the case of a provider of services which is paid under this subchapter on a reasonable cost basis, or other basis related to costs that are reasonable, and which has entered into a contract for the purpose of having services furnished for or onbehalf of it, the Secretary may not include any cost incurred by the provider under the contract if the amount payable under the contract by the provider for that cost is determined on the basis of a percentage (or other proportion) of the provider's charges, revenues, or claim for reimbursement.
 
 (2) Paragraph (1) shall not apply—
 
@@ -51,8 +51,4 @@ Section 109(c)(1), (2) of Pub. L. 97–248 provided that:
 #### Effective Date of Regulations
 
 Section 108(b), formerly §108(c), of Pub. L. 97–248, as redesignated by Pub. L. 97–448, title III, §309(a)(3), Jan. 12, 1983, 96 Stat. 2408, provided that: “The Secretary of Health and Human Services shall first promulgate regulations to carry out section 1887(a) of the Social Security Act \[subsec. (a) of this section\] not later than October 1, 1982. Such regulations shall become effective on October 1, 1982, and shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act \[this subchapter\] to a hospital or skilled nursing facility resulting from such regulations shall be imposed only in proportion to the part of the period which occurs after September 30, 1982.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395m, 1395x of this title.
 

@@ -38,7 +38,7 @@ In General.—
 
 &emsp;“(1)
 
-Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income SecurityAct of 1974 (29 U.S.C. 1381 et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
+Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
 
 &emsp;“(2)
 
@@ -55,8 +55,4 @@ Special Rule for Certain Binding Agreements.—In the case of an employer who, o
 #### Applicability to Certain Employers Withdrawn Before Sept. 26, 1980, From Multiemployer Plan Covering Employees in Seagoing Industry; Effective Date, Coverage, Etc.
 
 Section 108(c)(4) of Pub. L. 96–364 provided that: “In the case of an employer who withdrew before the date of enactment of this Act \[Sept. 26, 1980\] from a multiemployer plan covering employees in the seagoing industry (as determined by the corporation), sections 4201 through 4219 of the Employee Retirement Income Security Act of 1974, as added by this Act, \[section 1381 through 1399 of this title\], are effective as of May 3, 1979. For the purpose of applying section 4217 \[section 1397 of this title\] for purposes of the preceding sentence, the date ‘May 2, 1979,’ shall be substituted for ‘April 28, 1980,’ and the date ‘May 3, 1979’ shall be substituted for ‘April 29, 1980’. For purposes of this paragraph, terms which are used in title IV of the Employee Retirement Income Security Act of 1974 \[this subchapter\], or in regulations prescribed under that title, and which are used in the preceding sentence have the same meaning as when used in that Act \[see Short Title note set out under sections 1001 of this title\] or those regulations. For purposes of this paragraph, the term ‘employer’ includes only a substantial employer covering employees in the seagoing industry (as so determined) in connection with ports on the West Coast of the United States, but does not include an employer who withdrew from a plan because of a change in the collective bargaining representative.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1415, 1422 of this title.
 

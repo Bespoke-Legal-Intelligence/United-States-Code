@@ -18,7 +18,3 @@ Changes were made in phraseology.
 
 1980—Pub. L. 96–349 substituted judicial authorization to require attorneys to satisfy excess costs, expenses, and attorneys’ fees reasonably incurred because of multiplication of proceedings for such prior authority to impose liability for increased costs based on multiplication of proceedings.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2503 of this title; title 19 section 1516a.
-

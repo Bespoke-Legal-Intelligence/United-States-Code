@@ -1,6 +1,6 @@
 ### §5122. Payment to depositors
 
-(a) The Secretary of the Treasury shall determine the fineness, weight, and value of each deposit and bar under section 5121 of this title. The value and the amount of charges under subsection (b) of this section shall be based on thefineness and weight of the bullion. The Secretary shall give the depositor a statement of the charges and the net amount of the deposit to be paid in money or bars of the same species of bullion as that deposited.
+(a) The Secretary of the Treasury shall determine the fineness, weight, and value of each deposit and bar under section 5121 of this title. The value and the amount of charges under subsection (b) of this section shall be based on the fineness and weight of the bullion. The Secretary shall give the depositor a statement of the charges and the net amount of the deposit to be paid in money or bars of the same species of bullion as that deposited.
 
 (b) The Secretary shall impose a charge equal to the average cost of material, labor, waste, and use of machinery of a United States mint or assay office for—
 
@@ -68,13 +68,9 @@ R.S. §3545; June 19, 1878, ch. 329, §1(last par. 1st sentence words before 1st
 
 In subsection (a), the words “Secretary of the Treasury” are substituted for “he” in 31:273(last sentence) because of the source provisions restated in section 321 of the revised title. The words “fineness, weight, and value of each deposit and bar” and “The value and the amount of charges . . . shall be based on the fineness and weight of the bullion” are substituted for “From the report of the assayer and the weight of the bullion” for clarity and because of the restatement. The words “or deductions, if any” are omitted as being included in “charges”. The word “money” is substituted for “in coins” for clarity. The text of 31:331 and 334 is omitted as unnecessary because of the restatement. The text of 31:273(last sentence words after 7th comma) is omitted because of the source provisions restated in section 321 of the revised title.
 
-In subsection (b), the words “Secretary shall impose a charge” are substituted for “shall be fixed, from time to time, by the director, with the concurrence of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “for toughening when metals are contained in it which render it unfit for coinage” are omitted as obsolete because the Secretary of the Treasury has authority to mint coins containing silver only under section 5112(e) of the revised title and the Secretary holds sufficient silver to mint those coins. See Sen. Rept. No. 91–1084 (1970).
+In subsection (b), the words “Secretary shall impose a charge” are substituted for “shall be fixed, from time to time, by the director, with the concurrence of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. Thewords “for toughening when metals are contained in it which render it unfit for coinage” are omitted as obsolete because the Secretary of the Treasury has authority to mint coins containing silver only under section 5112(e) of the revised title and the Secretary holds sufficient silver to mint those coins. See Sen. Rept. No. 91–1084 (1970).
 
 In subsection (c), the words “person designated by the depositor” are substituted for “his order” for clarity. The words “an unavoidable delay in determining the value of a deposit” are substituted for “delay in manipulating a refractory deposit, or for any other unavoidable cause” in 31:357 for clarity.
 
 In subsection (d), the words “the Secretary to pay depositors” are substituted for “the several mints and assay offices of the United States to make returns to depositors” because of the source provisions restated in section 321(c) of the revised title. The words “when the state of the Treasury will admit thereof” are omitted as surplus. The words “under such rules and regulations as may be prescribed by the said Secretary” are omitted as unnecessary because of section 321(b) of the revised title. The text of 31:358(last sentence) is omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5132 of this title.
 

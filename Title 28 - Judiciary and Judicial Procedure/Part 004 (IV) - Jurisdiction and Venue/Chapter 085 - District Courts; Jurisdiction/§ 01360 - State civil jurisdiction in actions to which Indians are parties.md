@@ -13,7 +13,7 @@
 | Oregon | All Indian country within the State, except the Warm Springs Reservation. |
 | Wisconsin | All Indian country within the State. |
 
-(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall confer jurisdiction upon the State to adjudicate, in probate proceedings or otherwise, the ownership or right to possession of such property or any interest therein.
+(b) Nothing in this section shall authorize the alienation, encumbrance, or taxation of any realor personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall confer jurisdiction upon the State to adjudicate, in probate proceedings or otherwise, the ownership or right to possession of such property or any interest therein.
 
 (c) Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
@@ -21,7 +21,7 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted“within the State” for “within the Territory” in item relating to Alaska.
+1984—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted “within the State” for “within the Territory” in item relating to Alaska.
 
 1978—Subsec. (a). Pub. L. 95–598 directed the amendment of subsec. (a) by substituting in the item relating to Alaska “within the State” for “within the Territory”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
@@ -46,8 +46,4 @@ Section 6 of act Aug. 15, 1953, provided that: “Notwithstanding the provisions
 Act Aug. 15, 1953, ch. 505, §7, 67 Stat. 590, which gave consent of the United States to any other State not having jurisdiction with respect to criminal offenses or civil causes of action, or with respect to both, as provided for in this section and section 1162 of Title 18, Crimes and Criminal Procedure, to assume jurisdiction at such time and in such manner as the people of the State shall, by legislative action, obligate and bind the State to assumption thereof, was repealed by section 403(b) of Pub. L. 90–284, title IV, Apr. 11, 1968, 82 Stat. 79, such repeal not to affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
 Retrocession of jurisdiction by State acquired by State pursuant to section 7 of Act Aug. 15, 1953, prior to its repeal, see section 1323 of Title 25, Indians.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 25 sections 566e, 711e, 713f, 714e, 715d, 1300b–15, 1300f, 1300i–1, 1323, 1747, 1772d, 1918.
 

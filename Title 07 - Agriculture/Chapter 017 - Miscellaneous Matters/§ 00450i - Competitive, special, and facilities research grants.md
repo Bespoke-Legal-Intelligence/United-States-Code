@@ -40,7 +40,7 @@ Types of Grants.—In addition to making research grants under paragraph (1), th
 
 &emsp;(D) Grants may be awarded to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching. The Secretary shall use not less than 25 percent, and not more than 40 percent, of the funds made available for grants under this subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences.
 
-&emsp;(E) Grants may be awarded to single investigators or coinvestigators who are beginning their research careers and do not have an extensive research publication record. To be eligible for a grant under this subparagraph, an individual shall be within 5 years of the individual's initial career track position.
+&emsp;(E) Grants may be awarded to single investigators or coinvestigators who are beginningtheir research careers and do not have an extensive research publication record. To be eligible for a grant under this subparagraph, an individual shall be within 5 years of the individual's initial career track position.
 
 &emsp;(F) Grants may be awarded to ensure that the faculty of small and mid-sized institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants.
 
@@ -248,7 +248,7 @@ Act of October 10, 1962, referred to in subsecs. (c)(1)(B) and (d)(1), (3), is P
 
 Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), referred to in subsec. (d)(1), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in subsec. (d)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in subsec. (d)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the AgriculturalCollege Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
@@ -393,10 +393,6 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136w–7, 2209b, 3311, 3315, 3319, 5924, 5925, 5925a, 5925b, 7621 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 The Secretary of Education shall not defer action or order action deferred on any application by a local educational agency for funds authorized to be appropriated by this Act, by the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\], by the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), or by the Cooperative Research Act \[20 U.S.C. 331 et seq.\], on the basis of alleged noncompliance with the provisions of this subchapter for more than sixty days after notice is given to such local agency of such deferral unless such local agency is given the opportunity for a hearing as provided in section 2000d–1 of this title, such hearing to be held within sixty days of such notice, unless the time for such hearing is extended by mutual consent of such local agency and the Secretary, and such deferral shall not continue for more than thirty days after the close of any such hearing unless there has been an express finding on the record of such hearing that such local educational agency has failed to comply with the provisions of this subchapter: <i>Provided</i>, That, for the purpose of determining whether a local educational agency is in compliance with this subchapter, compliance by such agency with a final order or judgment of a Federal court for the desegregation of the school or school system operated by such agency shall be deemed to be compliance with this subchapter, insofar as the matters covered in the order or judgment are concerned.
 
-(Pub. L. 89–750, title I, §182, Nov. 3, 1966, 80 Stat. 1209; Pub. L. 90–247, title I, §112, Jan. 2, 1968, 81 Stat. 787; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–382, title III, §392(b)(1), Oct. 20, 1994, 108 Stat. 4026.)
+(Pub. L. 89–750, title I, §182, Nov. 3, 1966, 80 Stat. 1209; Pub. L. 90–247, title I, §112, Jan. 2, 1968, 81Stat. 787; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–382, title III, §392(b)(1), Oct. 20, 1994, 108 Stat. 4026.)
 
 #### References in Text
 
@@ -31,10 +31,6 @@ Section 191 of Pub. L. 89–750 provided that: “The provisions of this title \
 #### Transfer of Functions
 
 “Secretary of Education” and “Secretary” substituted in text for “Commissioner of Education” and “Commissioner”, respectively, pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education of Department of Health, Education, and Welfare to Secretary of Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2000d–6 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

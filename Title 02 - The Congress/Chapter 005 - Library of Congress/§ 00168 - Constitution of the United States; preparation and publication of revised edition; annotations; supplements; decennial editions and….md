@@ -12,7 +12,3 @@ The Librarian of Congress shall have prepared—
 
 (Pub. L. 91–589, §1, Dec. 24, 1970, 84 Stat. 1586.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 168b, 168d of this title.
-

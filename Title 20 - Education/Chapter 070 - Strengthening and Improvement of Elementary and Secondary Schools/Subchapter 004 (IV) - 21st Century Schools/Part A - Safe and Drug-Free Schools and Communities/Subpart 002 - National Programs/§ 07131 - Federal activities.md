@@ -6,7 +6,7 @@ From funds made available to carry out this subpart under section 7103(2) of thi
 
 &emsp;(1) the development and demonstration of innovative strategies for the training of school personnel, parents, and members of the community for drug and violence prevention activities based on State and local needs;
 
-&emsp;(2) the development, demonstration, scientifically based evaluation, and dissemination of innovative and high quality drug and violence prevention programs and activities, based on State and local needs, which may include—
+&emsp;(2) the development, demonstration, scientifically based evaluation, and dissemination ofinnovative and high quality drug and violence prevention programs and activities, based on State and local needs, which may include—
 
 &emsp;&emsp;(A) alternative education models, either established within a school or separate and apart from an existing school, that are designed to promote drug and violence prevention, reduce disruptive behavior, reduce the need for repeat suspensions and expulsions, enable students to meet challenging State academic standards, and enable students to return to the regular classroom as soon as possible;
 

@@ -1,6 +1,6 @@
 ### §1902. Premium rates and policy values
 
-Premium rates for insurance shall be the net rates based upon the American Experience Tableof Mortality and interest at the rate of 3 per centum per annum. All cash, loan, paid-up, and extended values, and all other calculations in connection with insurance, shall be based upon said American Experience Table of Mortality and interest at the rate of 3 per centum per annum.
+Premium rates for insurance shall be the net rates based upon the American Experience Table of Mortality and interest at the rate of 3 per centum per annum. All cash, loan, paid-up, and extended values, and all other calculations in connection with insurance, shall be based upon said American Experience Table of Mortality and interest at the rate of 3 per centum per annum.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, §702; renumbered §1902, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
@@ -13,8 +13,4 @@ Another prior section 1902, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, rela
 #### Amendments
 
 1991—Pub. L. 102–83 renumbered section 702 of this title as this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1926, 1927, 1929 of this title.
 

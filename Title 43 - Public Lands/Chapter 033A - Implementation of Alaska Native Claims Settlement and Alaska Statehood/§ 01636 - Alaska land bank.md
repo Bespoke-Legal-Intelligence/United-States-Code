@@ -16,7 +16,7 @@ Each agreement referred to in subsection (a) of this section shall have an initi
 
 &emsp;(2) Lands subject to the agreement shall be managed by the owner in a manner compatible with the management plan, if any, for the adjoining Federal or State lands, and with the requirements of this subsection. If lands subject to the agreement do not adjoin either Federal or State lands, they shall be managed in a manner compatible with the management plan, if any, of Federal or State lands which would be directly affected by the use of such private lands. If no such plan has been adopted, or if the use of such private lands would not directly affect either Federal or State lands, the owner shall manage such lands in accordance with the provisions in paragraph (1) of this subsection. Except as provided in (3) <sup>1</sup> of this subsection, nothing in this section or the management plan of any Federal or State agency shall be construed to require a private landowner to grant public access on or across his lands.
 
-&emsp;(3) If the surface landowner so consents, such lands may be made available for local or other recreational use: <i>Provided</i>, That the refusal of a private landowner to permit the uses referred to in this subsection shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
+&emsp;(3) If the surface landowner so consents, such lands may be made available for local or otherrecreational use: <i>Provided</i>, That the refusal of a private landowner to permit the uses referred to in this subsection shall not be grounds for the refusal of the Secretary or the State to enter into an agreement with the landowner under this section.
 
 &emsp;(4) Appropriate Federal and/or State agency heads shall have reasonable access to such privately owned land for purposes relating to the administration of the adjoining Federal or State lands, and to carry out their obligations under the agreement.
 
@@ -138,7 +138,7 @@ Exclusions, Reattachment of Exemptions.—(A) The exemptions listed in paragraph
 
 Tax Recapture Upon Subdivision Plat Recordation.—(A) Upon the recordation with an appropriate government authority of an approved subdivision plat submitted by, or on behalf of, a Native individual, Native Corporation, or Settlement Trust with respect to land described in paragraph (1), such individual, corporation, or trust shall pay in accordance with this paragraph all State and local property taxes on the smallest practicable tract integrally related to the subdivision project that would have been incurred by the individual, corporation, or trust on such land (excluding the value of subsurface resources and timber) in the absence of the exemption described in paragraph (1)(A)(ii) during the thirty months prior to the date of the recordation of the plat.
 
-(B) State and local property taxes specified in subparagraph (A) of this paragraph (together with interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year periodcommencing on the date six months after the date of recordation of the subdivision plat.
+(B) State and local property taxes specified in subparagraph (A) of this paragraph (together with interest at the rate of 5 per centum per annum commencing on the date of recordation of the subdivision plat) shall be paid in equal semi-annual installments over a two-year period commencing on the date six months after the date of recordation of the subdivision plat.
 
 (C) At least thirty days prior to final approval of a plat of the type described in subparagraph (A), the government entity with jurisdiction over the plat shall notify the submitting individual, corporation, or trust of the estimated tax liability that would be incurred as a result of the recordation of the plat at the time of final approval.
 
@@ -195,10 +195,6 @@ Pub. L. 100–241, §11(1), substituted “subsection (d)(1) of this section” 
 Subsec. (e). Pub. L. 100–241, §11(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of section 21(e) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1620(e)\] shall apply to all lands which are subject to an agreement under this section so long as the parties to the agreement are in compliance therewith.”
 
 Subsec. (g). Pub. L. 100–241, §11(4), added subsec. (g).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1629b, 1629d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)”.</i>
 

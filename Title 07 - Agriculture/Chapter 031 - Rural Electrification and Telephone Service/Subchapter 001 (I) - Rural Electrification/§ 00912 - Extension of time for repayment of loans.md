@@ -34,7 +34,3 @@
 
 Section 6(a) of 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 912a of this title.
-

@@ -14,7 +14,7 @@ Presentence Examination and Report by Psychiatric or Psychological Examiners.—
 
 (d)
 
-Disclosure of Presentence Reports.—The court shall assure that a report filed pursuant to this section is disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days prior tothe date set for sentencing, unless this minimum period is waived by the defendant. The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.
+Disclosure of Presentence Reports.—The court shall assure that a report filed pursuant to this section is disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days prior to the date set for sentencing, unless this minimum period is waived by the defendant. The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1988; amended Pub. L. 99–646, §7(a), Nov. 10, 1986, 100 Stat. 3593; Pub. L. 101–647, title XXXVI, §3625, Nov. 29, 1990, 104 Stat. 4965.)
 
@@ -53,8 +53,4 @@ Compiling and Report.—The United States Sentencing Commission shall—
 &emsp;“(1) compile and analyze any information contained in documentation described in subsection (a) relating to the use of encryption or scrambling technology to facilitate or conceal criminal conduct; and
 
 &emsp;“(2) based on the information compiled and analyzed under paragraph (1), annually report to the Congress on the nature and extent of the use of encryption or scrambling technology to facilitate or conceal criminal conduct.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3672, 4106A of this title.
 

@@ -18,7 +18,3 @@ Another prior section 3509, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, rela
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 242k.
-

@@ -22,7 +22,3 @@ The Attorney General shall notify a dependent applying for assistance under this
 
 (Pub. L. 90–351, title I, §1213, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3115.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3796d–3 of this title.
-

@@ -6,7 +6,7 @@ Unless a request for an accelerated disposition of a protest is filed in accorda
 
 #### (b) Request for accelerated disposition of protest
 
-A request for accelerated disposition of a protest filed in accordance with section 1514 of this title may be mailed by certified or registered mail to the appropriate customs officer any time after ninety days following the filing of such protest. For purposes of section 1581 of title 28, a protest which has not been allowed or denied in whole or in part within thirty days following the date of mailing by certified or registered mail of a request for accelerated disposition shall be deemed denied on the thirtieth day following mailing of such request.
+A request for accelerated disposition of a protest filed in accordance with section 1514 of this title may be mailed by certified or registered mail to the appropriate customs officer any time concurrent with or following the filing of such protest. For purposes of section 1581 of title 28, a protest which has not been allowed or denied in whole or in part within thirty days following the date of mailing by certified or registered mail of a request for accelerated disposition shall be deemed denied on the thirtieth day following mailing of such request.
 
 #### (c) Request for set aside of denial of further review
 
@@ -16,7 +16,7 @@ If a protesting party believes that an application for further review was errone
 
 If a protest is timely and properly filed, but is denied contrary to proper instructions, the Customs Service may on its own initiative, or pursuant to a written request by the protesting party filed with the appropriate port director within 90 days after the date of the protest denial, void the denial of the protest.
 
-(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171.)
+(June 17, 1930, ch. 497, title IV, §515, 46 Stat. 734; Pub. L. 91–271, title II, §208, June 2, 1970, 84 Stat. 285; Pub. L. 96–39, title X, §1001(b)(2), July 26, 1979, 93 Stat. 304; Pub. L. 96–417, title VI, §606, Oct. 10, 1980, 94 Stat. 1745; Pub. L. 103–182, title VI, §617, Dec. 8, 1993, 107 Stat. 2179; Pub. L. 104–295, §3(a)(11), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title II, §2407, June 25, 1999, 113 Stat. 171; Pub. L. 108–429, title II, §2104, Dec. 3, 2004, 118 Stat. 2598.)
 
 #### Prior Provisions
 
@@ -26,7 +26,9 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
+2004—Subsec. (b). Pub. L. 108–429 substituted “concurrent with or” for “after ninety days” in first sentence.
+
+1999—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an applicationfor further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
 
 1996—Subsec. (d). Pub. L. 104–295 substituted “port director” for “district director”.
 
@@ -37,6 +39,10 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 1979—Subsec. (a). Pub. L. 96–39 required that notice of denial include a statement of reasons for denial, as well as a statement informing protesting party of his right to file a civil action contesting denial of a protest under section 1514 of this title.
 
 1970—Pub. L. 91–271 designating existing provisions as subsec. (a), substituted provisions authorizing review by appropriate customs officer for provisions authorizing review by collector and revised such review procedures, and added subsec. (b).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–429 applicable to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 2108 of Pub. L. 108–429, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -63,8 +69,4 @@ Functions of Secretary of the Treasury under this section insofar as they relate
 #### Review of Protests in Import Surcharge Cases
 
 Pub. L. 93–618, title VI, §611, Jan. 3, 1975, 88 Stat. 2075, provided that: “Notwithstanding the provisions of section 515(a) of the Tariff Act of 1930 (19 U.S.C. 1515(a)), in the case of any protest under section 514 of such Act \[section 1514 of this title\] involving the imposition of an import surcharge in the form of a supplemental duty pursuant to Presidential Proclamation 4074, dated August 17, 1971 \[set out as a note preceding section 1202 of this title\], the time for review and allowing or denying the protest shall not expire until five years from the date the protest was filed in accordance with such section 514 \[section 1514 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1514 of this title; title 28 sections 1581, 2631, 2632, 2635, 2636, 2637, 2638, 2639, 2640, 2644.
 

@@ -97,10 +97,6 @@
 
 1990—Pub. L. 101–366, title II, §205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7324, 7431 of this title.
-
 
 ---
 

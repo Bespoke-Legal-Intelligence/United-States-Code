@@ -2,7 +2,7 @@
 
 #### (a) Frequencies; compliance with regulations; stations on vessels
 
-Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to eachclass by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
+Radio stations belonging to and operated by the United States shall not be subject to the provisions of sections 301 and 303 of this title. All such Government stations shall use such frequencies as shall be assigned to each or to each class by the President. All such stations, except stations on board naval and other Government vessels while at sea or beyond the limits of the continental United States, when transmitting any radio communication or signal other than a communication or signal relating to Government business, shall conform to such rules and regulations designed to prevent interference with other radio stations and the rights of others as the Commission may prescribe.
 
 #### (b) Call letters
 
@@ -62,7 +62,7 @@ There is hereby established in the Executive Office of the President the Office 
 
 #### Sec. 5. Abolition of Office
 
-That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished.The Director of the Office of Emergency Preparedness shall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
+That office of Assistant Director of the Office of Emergency Preparedness held by the Director of Telecommunications Management under Executive Order No. 10995 of February 16, 1962, as amended, is abolished. The Director of the Office of Emergency Preparedness shall make such provisions as he may deem to be necessary with respect to winding up any outstanding affairs of the office abolished by the foregoing provisions of this section.
 
 #### Sec. 6. Incidental Transfers
 
@@ -96,7 +96,7 @@ The new Office of Telecommunications Policy would play three essential roles:
 
 3\. Finally, the new Office would enable the executive branch to speak with a clearer vote and to act as a more effective partner in discussions of communications policy with both the Congress and the Federal Communications Commission. This action would take away none of the prerogatives or functions assigned to the Federal Communications Commission by the Congress. It is my hope, however, that the new Office and the Federal Communications Commission would cooperate in achieving certain reforms in telecommunications policy, especially in their procedures for allocating portions of the radio spectrum for government and civilian use. Our current procedures must be more flexible if they are to deal adequately with problems such as the worsening spectrum shortage.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) oftitle 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
 
 The reorganization provided for in this plan make necessary the appointment and compensation of new officers, as specified in sections 3(a) and 3(b) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 
@@ -172,7 +172,7 @@ Construction of Radio Stations
 
 Communications Satellite System
 
-2–301. Certain functions relating to the communications satellite system were transferred to the Secretary of Commerce. Those functions were delegated or assigned to the Director of the Office of Telecommunications Policy by Executive Order No. 11191, as amended by Executive Order No. 11556. The functions include authority vested in the President by Section 201(a) of the Communications Satellite Act of 1962 (76 Stat. 421, 47 U.S.C. 721(a)). These functions are specifically set forth in the following provisions of this Section.
+2–301. Certain functions relating to the communications satellite system were transferred to the Secretary of Commerce. Those functions were delegated or assigned to the Director of the Office of Telecommunications Policy by Executive Order No. 11191, as amended by Executive Order No. 11556. The functions include authority vested in the President by Section 201(a) of the Communications Satellite Act of 1962 (76 Stat. 421, 47U.S.C. 721(a)). These functions are specifically set forth in the following provisions of this Section.
 
 (a) Aid in the planning and development of the commercial communications satellite system and aid in the execution of a national program for the operation of such a system.
 
@@ -367,8 +367,4 @@ General
 (b) In carrying out the functions in this Order, the Secretary of Commerce shall coordinate activities as appropriate with the Federal Communications Commission and make appropriate recommendations to it as the regulator of the private sector. Nothing in this Order reassigns any function vested by law in the Federal Communications Commission.
 
 6–304. This Order shall be effective March 26, 1978.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 923 of this title; title 14 section 829; title 22 section 1465bb.
 

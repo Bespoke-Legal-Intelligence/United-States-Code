@@ -44,7 +44,3 @@ Another prior section 293a, act July 1, 1944, ch. 373, title VII, §721, as adde
 
 A prior section 737 of act July 1, 1944, was classified to section 294j of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 293d of this title.
-

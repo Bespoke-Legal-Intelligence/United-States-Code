@@ -22,7 +22,3 @@ A prior section 1320c–1, act Aug. 14, 1935, ch. 531, title XI, §1152, as adde
 
 Section 9353(b)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts entered into or renewed on or after January 1, 1987.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320c–2, 1320c–3, 1396a, 1396b of this title.
-

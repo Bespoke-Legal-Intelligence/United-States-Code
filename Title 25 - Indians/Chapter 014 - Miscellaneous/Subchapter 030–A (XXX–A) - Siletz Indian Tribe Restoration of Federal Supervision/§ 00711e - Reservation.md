@@ -6,7 +6,7 @@ Any reservation for the tribe shall be established by an Act of Congress enacted
 
 #### (b) Plan; negotiation with tribe; approval by tribal officials; submittal to Congress
 
-Inasmuch as the reservation of the tribe has been terminated, the Secretary shall negotiate with the tribe, or with representatives of the tribe chosen by the tribe, concerning the establishment of a reservation for the tribe and shall, in accordance with subsections (c) and (d) of this section and within two years after November 18, 1977, develop a plan for the establishment of a reservation for the tribe. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 711d of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
+Inasmuch as the reservation of the tribe has been terminated, the Secretary shall negotiatewith the tribe, or with representatives of the tribe chosen by the tribe, concerning the establishment of a reservation for the tribe and shall, in accordance with subsections (c) and (d) of this section and within two years after November 18, 1977, develop a plan for the establishment of a reservation for the tribe. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 711d of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
 
 #### (c) Notification and consultation
 

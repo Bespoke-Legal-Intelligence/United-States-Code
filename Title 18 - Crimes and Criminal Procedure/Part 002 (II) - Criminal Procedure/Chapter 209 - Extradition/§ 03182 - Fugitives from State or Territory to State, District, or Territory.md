@@ -20,7 +20,3 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 inserted comma after “District” in section catchline and in two places in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3194, 5001 of this title.
-

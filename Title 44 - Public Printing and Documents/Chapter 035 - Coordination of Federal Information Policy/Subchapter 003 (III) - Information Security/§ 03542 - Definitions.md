@@ -38,7 +38,3 @@ Additional Definitions.—As used in this subchapter:
 
 (Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2947.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 278g–3; title 40 section 11331.
-

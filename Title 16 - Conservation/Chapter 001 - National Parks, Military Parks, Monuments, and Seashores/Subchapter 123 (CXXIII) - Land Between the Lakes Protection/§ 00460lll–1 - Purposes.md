@@ -14,7 +14,3 @@ The purposes of this subchapter are—
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §503\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–311.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>lll</i>–25 of this title.
-

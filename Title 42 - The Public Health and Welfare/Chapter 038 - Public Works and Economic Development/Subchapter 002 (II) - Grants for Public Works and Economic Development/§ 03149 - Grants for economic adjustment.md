@@ -24,27 +24,63 @@ Assistance under this section may include assistance provided for activities ide
 
 &emsp;(2) disasters or emergencies, in areas with respect to which a major disaster or emergency has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), for post-disaster economic recovery;
 
-&emsp;(3) international trade, for help in economic restructuring of the communities; or
+&emsp;(3) international trade, for help in economic restructuring of the communities;
 
-&emsp;(4) fishery failures, in areas with respect to which a determination that there is a commercial fishery failure has been made under section 1861a(a) of title 16.
+&emsp;(4) fishery failures, in areas with respect to which a determination that there is a commercial fishery failure has been made under section 1861a(a) of title 16; or
 
-#### (d) Direct expenditure or redistribution by recipient
+&emsp;(5) the loss of manufacturing jobs, for reinvesting in and diversifying the economies of the communities.
+
+#### (d) Special provisions relating to revolving loan fund grants
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an eligible recipient of a grant under this section may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
+&emsp;The Secretary shall promulgate regulations to maintain the proper operation and financial integrity of revolving loan funds established by recipients with assistance under this section.
 
-#### (2) Limitation
+#### (2) Efficient administration
 
-&emsp;Under paragraph (1), an eligible recipient may not provide any grant to a private for-profit entity.
+&emsp;The Secretary may—
 
-(Pub. L. 89–136, title II, §209, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3605.)
+&emsp;&emsp;(A) at the request of a grantee, amend and consolidate grant agreements governing revolving loan funds to provide flexibility with respect to lending areas and borrower criteria;
+
+&emsp;&emsp;(B) assign or transfer assets of a revolving loan fund to third party for the purpose of liquidation, and the third party may retainassets of the fund to defray costs related to liquidation; and
+
+&emsp;&emsp;(C) take such actions as are appropriate to enable revolving loan fund operators to sell or securitize loans (except that the actions may not include issuance of a Federal guaranty by the Secretary).
+
+#### (3) Treatment of actions
+
+&emsp;An action taken by the Secretary under this subsection with respect to a revolving loan fund shall not constitute a new obligation if all grant funds associated with the original grant award have been disbursed to the recipient.
+
+#### (4) Preservation of securities laws
+
+#### (A) Not treated as exempted securities
+
+&emsp;&emsp;No securities issued pursuant to paragraph (2)(C) shall be treated as exempted securities for purposes of the Securities Act of 1933 (15 U.S.C. 77a et seq.) or the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), unless exempted by rule or regulation of the Securities and Exchange Commission.
+
+#### (B) Preservation
+
+&emsp;&emsp;Except as provided in subparagraph (A), no provision of this subsection or any regulation promulgated by the Secretary under this subsection supersedes or otherwise affects the application of the securities laws (as the term is defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))) or the rules, regulations, or orders of the Securities and Exchange Commission or a self-regulatory organization under that Commission.
+
+(Pub. L. 89–136, title II, §209, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3605; amended Pub. L. 108–373, title II, §207, Oct. 27, 2004, 118 Stat. 1762.)
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-#### Section Referred to in Other Sections
+The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-This section is referred to in sections 3161, 3162, 3232, 3233, 5154 of this title; title 40 section 14507.
+The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+#### Amendments
+
+2004—Subsec. (c)(5). Pub. L. 108–373, §207(a), added par. (5).
+
+Subsec. (d). Pub. L. 108–373, §207(b), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
+
+“(1)
+
+In general.—Subject to paragraph (2), an eligible recipient of a grant under this section may directly expend the grant funds or may redistribute the funds to public and private entities in the form of a grant, loan, loan guarantee, payment to reduce interest on a loan guarantee, or other appropriate assistance.
+
+“(2)
+
+Limitation.—Under paragraph (1), an eligible recipient may not provide any grant to a private for-profit entity.”
 

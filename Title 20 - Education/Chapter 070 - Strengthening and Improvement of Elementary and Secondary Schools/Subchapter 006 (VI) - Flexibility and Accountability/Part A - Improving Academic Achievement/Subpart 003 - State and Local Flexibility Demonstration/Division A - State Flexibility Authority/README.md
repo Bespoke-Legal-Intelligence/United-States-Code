@@ -1,9 +1,5 @@
 ### Division A—State Flexibility Authority
 
-#### Division Referred to in Other Sections
-
-This division is referred to in section 7321 of this title.
-
 
 ---
 

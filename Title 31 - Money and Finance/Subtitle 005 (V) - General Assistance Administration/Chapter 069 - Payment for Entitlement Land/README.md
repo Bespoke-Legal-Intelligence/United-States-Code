@@ -16,10 +16,6 @@
 
 1994—Pub. L. 103–272, §4(f)(1)(U)(i), July 5, 1994, 108 Stat. 1362, added item 6907.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 16 sections 460<i>lll</i>–13, 544<i>l</i>, 698u–4; title 25 section 640d–10; title 43 section 1457a.
-
 
 ---
 

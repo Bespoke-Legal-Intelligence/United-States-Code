@@ -44,7 +44,3 @@ Section 27 of Pub. L. 94–582, as amended by Pub. L. 95–113, title XVI, §§1
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 79, 79a, 86, 87e, 87f–2, 87j of this title.
-

@@ -4,7 +4,3 @@ Such leases may be made only by the individual Indian owner of the land or by th
 
 (Aug. 9, 1946, ch. 929, §2, 60 Stat. 962.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403b of this title.
-

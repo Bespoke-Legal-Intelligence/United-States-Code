@@ -70,7 +70,3 @@ In General.—Not later than January 1, 1997, the Secretary of Health and Human 
 
 Report.—Not later than June 30, 1998, and annually thereafter, the Secretary shall report to the Congress with respect to the progress that has been made in meeting the goals described in paragraphs (1) and (2) of subsection (a).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 603 of this title.
-

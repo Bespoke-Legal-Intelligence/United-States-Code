@@ -76,7 +76,7 @@ Notices of Intent To Enforce a Restored Copyright.—
 
 &emsp;(1)
 
-Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically requirein regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
+Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
 
 &emsp;(ii) If a work in which copyright is restored has no formal title, it shall be described in the notice of intent in detail sufficient to identify it.
 
@@ -108,7 +108,7 @@ Immunity From Warranty and Related Liability.—
 
 &emsp;(1)
 
-In general.—Any person who warrants, promises, or guarantees that a work does not violate an exclusive right granted in section 106 shall not be liable for legal, equitable, arbitral, or administrative relief if the warranty, promise, or guarantee is breached by virtue of the restoration of copyright under this section, if such warranty, promise, or guarantee is made before January 1, 1995.
+In general.—Any person who warrants, promises, or guarantees that a work does not violate an exclusive right granted in section 106 shall not be liable for legal, equitable, arbitral, or administrative relief if the warranty,promise, or guarantee is breached by virtue of the restoration of copyright under this section, if such warranty, promise, or guarantee is made before January 1, 1995.
 
 &emsp;(2)
 
@@ -240,7 +240,7 @@ Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted “of which” be
 
 Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
 
-1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
 
 &emsp;“(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
@@ -275,8 +275,4 @@ Section effective on the date the North American Free Trade Agreement enters int
 #### Uruguay Round Agreements: Entry Into Force
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of Title 19, Customs Duties, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of Title 19.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 109 of this title.
 

@@ -20,7 +20,3 @@ This section permits the court, after notice and a hearing, to remove a trustee 
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 703, 1104 of this title.
-

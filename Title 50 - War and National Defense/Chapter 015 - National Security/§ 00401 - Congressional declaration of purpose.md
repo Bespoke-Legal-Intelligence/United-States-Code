@@ -14,6 +14,120 @@ This legislation, referred to in text, means act July 26, 1947, ch. 343, 61 Stat
 
 1949—Act Aug. 10, 1949, provided that the military departments shall be separately administered but be under the direction of the Secretary of Defense, and that there shall not be a single Chief of Staff over the armed forces nor an armed forces general staff.
 
+#### Change of Name
+
+Pub. L. 108–458, title I, §1081, Dec. 17, 2004, 118 Stat. 3696, provided that:
+
+“(a)
+
+Director of Central Intelligence as Head of Intelligence Community.—Any reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the Director of National Intelligence.
+
+“(b)
+
+Director of Central Intelligence as Head of CIA.—Any reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the Director of the Central Intelligence Agency.
+
+“(c)
+
+Community Management Staff.—Any reference to the Community Management Staff in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the staff of the Office of the Director of National Intelligence.”
+
+#### Effective Date of 2004 Amendments; Transition Provisions
+
+Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, provided that:
+
+#### “SEC. 1091. TRANSFER OF COMMUNITY MANAGEMENT STAFF.
+
+“(a)
+
+Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
+
+“(b)
+
+Administration.—The Director of National Intelligence shall administer the Community Management Staff after the date of the enactment of this Act \[Dec. 17, 2004\] as a component of the Office of the Director of National Intelligence under section 103 of the National Security Act of 1947 \[50 U.S.C. 403–3\], as amended by section 1011(a) of this Act.
+
+#### “SEC. 1092. TRANSFER OF TERRORIST THREAT INTEGRATION CENTER.
+
+“(a)
+
+Transfer.—There shall be transferred to the National Counterterrorism Center the Terrorist Threat Integration Center (TTIC) or its successor entity, including all functions and activities discharged by the Terrorist Threat Integration Center or its successor entity as of the date of the enactment of this Act \[Dec. 17, 2004\].
+
+“(b)
+
+Administration.—The Director of the National Counterterrorism Center shall administer the Terrorist Threat Integration Center after the date of the enactment of this Act \[Dec. 17, 2004\] as a component of the Directorate of Intelligence of the National Counterterrorism Center under section 119(i) of the National Security Act of 1947 \[50 U.S.C. 404<i>o</i>(i)\], as added by section 1021(a) \[1021\] of this Act.
+
+#### “SEC. 1093. TERMINATION OF POSITIONS OF ASSISTANT DIRECTORS OF CENTRAL INTELLIGENCE.
+
+“(a)
+
+Termination.—The positions referred to in subsection (b) are hereby abolished.
+
+“(b)
+
+Covered Positions.—The positions referred to in this subsection are as follows:
+
+&emsp;“(1) The Assistant Director of Central Intelligence for Collection.
+
+&emsp;“(2) The Assistant Director of Central Intelligence for Analysis and Production.
+
+&emsp;“(3) The Assistant Director of Central Intelligence for Administration.
+
+#### “SEC. 1094. IMPLEMENTATION PLAN.
+
+“The President shall transmit to Congress a plan for the implementation of this title \[see Short Title of 2004 Amendment note below\] and the amendments made by this title. The plan shall address, at a minimum, the following:
+
+&emsp;“(1) The transfer of personnel, assets, and obligations to the Director of National Intelligence pursuant to this title.
+
+&emsp;“(2) Any consolidation, reorganization, or streamlining of activities transferred to the Director of National Intelligence pursuant to this title.
+
+&emsp;“(3) The establishment of offices within the Office of the Director of National Intelligence to implement the duties and responsibilities of the Director of National Intelligence as described in this title.
+
+&emsp;“(4) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations to be transferred to the Director of National Intelligence.
+
+&emsp;“(5) Recommendations for additional legislative or administrative action as the President considers appropriate.
+
+#### “SEC. 1095. DIRECTOR OF NATIONAL INTELLIGENCE REPORT ON IMPLEMENTATION OF INTELLIGENCE COMMUNITY REFORM.
+
+“(a)
+
+Report.—Not later than one year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress made in the implementation of this title \[see Short Title of 2004 Amendment note below\], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate.
+
+“(b)
+
+Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means—
+
+&emsp;“(1) the Select Committee on Intelligence of the Senate; and
+
+&emsp;“(2) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+#### “SEC. 1096. TRANSITIONAL AUTHORITIES.
+
+“(a)
+
+In General.—Upon the request of the Director of National Intelligence, the head of any executive agency may, on a reimbursable basis, provide services or detail personnel to the Director of National Intelligence.
+
+“(b)
+
+Transfer of Personnel.—In addition to any other authorities available under law for such purposes, in the fiscal year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence—
+
+&emsp;“(1) is authorized within the Office of the Director of National Intelligence 500 new personnel billets; and
+
+&emsp;“(2) with the approval of the Director of the Office of Management and Budget, may detail not more than 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years.
+
+#### “SEC. 1097. EFFECTIVE DATES.
+
+“(a)
+
+In General.—Except as otherwise expressly provided in this Act \[see Short Title of 2004 Amendment note below\], this title \[see Short Title of 2004 Amendment note below\] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act \[Dec. 17, 2004\].
+
+“(b)
+
+Specific Effective Dates.—(1)(A) Not later than 60 days after the date of the appointment of the first Director of National Intelligence, the Director of National Intelligence shall first appoint individuals to positions within the Office of the Director of National Intelligence.
+
+“(B) Subparagraph (A) shall not apply with respect to the Principal Deputy Director of National Intelligence.
+
+“(2) Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see above\], the President shall transmit to Congress the implementation plan required by section 1094.
+
+“(3) Not later than one year after the date of the enactment of this Act \[Dec. 17, 2004\], the Director of National Intelligence shall prescribe regulations, policies, procedures, standards, and guidelines required under section 102A of the National Security Act of 1947 \[50 U.S.C. 403–1\], as amended by section 1011(a) of this Act.”
+
 #### Effective Date
 
 Section 310 of act July 26, 1947, provided:
@@ -21,6 +135,12 @@ Section 310 of act July 26, 1947, provided:
 “(a) The first sentence of section 202(a) \[section 171a of former Title 5, Executive Departments and Government Officers and Employees\] and sections 1, 2, 307, 308, 309, and 310 \[section 171 note of former Title 5, section 361 of this title, and sections 171m and 171n of former Title 5\] shall take effect immediately upon the enactment of this Act \[July 26, 1947\].
 
 “(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
+
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–458, §1(a), Dec. 17, 2004, 118 Stat. 3638, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Intelligence Reform and Terrorism Prevention Act of 2004’.”
+
+Pub. L. 108–458, title I, §1001, Dec. 17, 2004, 118 Stat. 3643, provided that: “This title \[enacting sections 402–1, 403, 403–1, 403–1a to 403–1c, 403–3, 403–3a to 403–3f, 403–4, 403–4a, 403–4b, 404<i>o</i>, 404<i>o</i>–1, 404<i>o</i>–2, 441g–1, and 441g–2 of this title, section 8K of the Inspector General Act set out in the Appendix to Title 5, Government Organization and Employees, and section 485 of Title 6, Domestic Security, amending sections 401a, 402, 402a to 402c, 403–5, 403–5b, 403–6, 403a, 403b, 403g, 403n, 403p, 403q, 403t, 403u, 404e, 404g to 404i, 404i–1, 404j to 404<i>l</i>, 404n, 404n–1, 404n–2, 405, 413, 413a, 413b, 414, 415a, 415a–1, 423, 431, 432, 432a, 432b, 441g, 442a, 1802 to 1805, 1822 to 1824, 1842, 2001, and 2011 of this title, sections 5312, 5313, 5315, 7323, and 7342 of Title 5, section 105 of the Ethics in Government Act set out in the Appendix to Title 5, section 9 of the Classified Information Procedures Act set out in the Appendix to Title 18, Crimes and Criminal Procedure, and section 113 of Title 40, Public Buildings, Property, and Works, repealing sections 403, 403–1, 403–3, 403–4, and 404f of this title, enacting provisions set out as notes under this section, sections 403, 403–1, 403–1a, and 403–4b of this title, and section 601 of Title 5, and amending provisions set out as notes under sections 403, 403–3, 403–4, 435, and 441g of this title, section 4124 of Title 18, and section 519 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘National Security Intelligence Reform Act of 2004’.”
 
 #### Short Title of 2002 Amendment
 
@@ -36,7 +156,7 @@ Pub. L. 103–359, title VIII, §801, Oct. 14, 1994, 108 Stat. 3434, provided th
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–496, title VII, §701, Oct. 24, 1992, 106 Stat. 3188, provided that: “This title \[enacting sections 401aand 403–3 to 403–6 of this title, amending sections 402, 403, 404, and 404a of this title, and repealing section 403–1 of this title\] may be cited as the ‘Intelligence Organization Act of 1992’.”
+Pub. L. 102–496, title VII, §701, Oct. 24, 1992, 106 Stat. 3188, provided that: “This title \[enacting sections 401a and 403–3 to 403–6 of this title, amending sections 402, 403, 404, and 404a of this title, and repealing section 403–1 of this title\] may be cited as the ‘Intelligence Organization Act of 1992’.”
 
 #### Short Title of 1984 Amendment
 
@@ -103,515 +223,63 @@ Sections of National Security Act of 1947, which were classified to former Title
 | 626b | 8013\. |
 | 626c | 743, 8062. |
 
-#### Savings Provision
+#### Savings Provisions
+
+Pub. L. 108–487, title VIII, §803, Dec. 23, 2004, 118 Stat. 3962, provided that:
+
+“(a)
+
+Head of Intelligence Community.—(1) During the period beginning on the date of the enactment of this Act \[Dec. 23, 2004\] and ending on the date of the appointment of the Director of National Intelligence \[Apr. 21, 2005\] under section 102 of the National Security Act of 1947, as amended by section 1011(a) of the National Security Intelligence Reform Act of 2004 \[50 U.S.C. 403\], the Director of Central Intelligence may, acting as the head of the intelligence community, discharge the functions and authorities provided in this Act, and the amendments made by this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], to the Director of National Intelligence.
+
+“(2) During the period referred to in paragraph (1) any reference in this Act or the amendments made by this Act to the Director of National Intelligence shall be considered to be a reference to the Director of Central Intelligence, as the head of the intelligence community.
+
+“(3) Upon the appointment of an individual as Director of National Intelligence under section 102 of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the intelligence community shall be deemed to be a reference to the Director of National Intelligence.
+
+“(b)
+
+Head of Central Intelligence Agency.—(1) During the period beginning on the date of the enactment of this Act \[Dec. 23, 2004\] and ending on the date of the appointment of the Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as amended by section 1011(a) of the National Security Intelligence Reform Act of 2004 \[50 U.S.C. 403–4a\], the Director of Central Intelligence may, acting as the head of the Central Intelligence Agency, discharge the functions and authorities provided in this Act, and the amendments made by this Act, to the Director of the Central Intelligence Agency.
+
+“(2) Upon the appointment of an individual as Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the Central Intelligence Agency shall be deemed to be a reference to the Director of the Central Intelligence Agency.”
 
 Section 12(g) of act Aug. 10, 1949, provided: “All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Short Title of 1949 Amendment note above\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force.”
 
 #### Separability
 
+Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\], or an amendment made by this Act, or the application of such provision to any person or circumstance is held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other those to which such provision is held invalid shall not be affected thereby.”
+
 Section 309 of act July 26, 1947, provided: “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
 \[Section 310(a) of act July 26, 1947, set out as an Effective Date note above, provided that section 309 of act July 26, 1947, is effective July 26, 1947.\]
 
+#### Construction of References to Director of Central Intelligence
+
+Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: “Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference to the Director of Central Intelligence as head of the intelligence community.”
+
+#### Incorporation of Reporting Requirements
+
+Pub. L. 108–177, title I, §106, Dec. 13, 2003, 117 Stat. 2604, provided that:
+
+“(a)
+
+In General.—Each requirement to submit a report to the congressional intelligence committees that is included in the joint explanatory statement to accompany the conference report on the bill H.R. 2417 of the One Hundred Eighth Congress \[enacted as Pub. L. 108–177\], or in the classified annex to this Act, is hereby incorporated into this Act, and is hereby made a requirement in law.
+
+“(b)
+
+Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means—
+
+&emsp;“(1) the Select Committee on Intelligence of the Senate; and
+
+&emsp;“(2) the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+Similar provisions were contained in Pub. L. 107–306, title I, §108, Nov. 27, 2002, 116 Stat. 2388.
+
 #### National Commission for Review of Research and Development Programs of the United States Intelligence Community
 
-Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, provided that:
-
-#### “SEC. 1001. FINDINGS.
-
-“Congress makes the following findings:
-
-&emsp;“(1) Research and development efforts under the purview of the intelligence community are vitally important to the national security of the United States.
-
-&emsp;“(2) The intelligence community must operate in a dynamic, highly-challenging environment, characterized by rapid technological growth, against a growing number of hostile, technically-sophisticated threats.Research and development programs under the purview of the intelligence community are critical to ensuring that intelligence agencies, and their personnel, are provided with important technological capabilities to detect, characterize, assess, and ultimately counter the full range of threats to the national security of the United States.
-
-&emsp;“(3) There is a need to review the full range of current research and development programs under the purview of the intelligence community, evaluate such programs against the scientific and technological fields judged to be of most importance, and articulate program and resource priorities for future research and development activities to ensure a unified and coherent research and development program across the entire intelligence community.
-
-#### “SEC. 1002. NATIONAL COMMISSION FOR THE REVIEW OF THE RESEARCH AND DEVELOPMENT PROGRAMS OF THE UNITED STATES INTELLIGENCE COMMUNITY.
-
-“(a)
-
-Establishment.—There is established a commission to be known as the ‘National Commission for the Review of the Research and Development Programs of the United States Intelligence Community’ (in this title referred to as the ‘Commission’).
-
-“(b)
-
-Composition.—The Commission shall be composed of 12 members, as follows:
-
-&emsp;“(1) The Deputy Director of Central Intelligence for Community Management.
-
-&emsp;“(2) A senior intelligence official of the Office of the Secretary of Defense, as designated by the Secretary of Defense.
-
-&emsp;“(3) Three members appointed by the majority leader of the Senate, in consultation with the Chairman of the Select Committee on Intelligence of the Senate, one from Members of the Senate and two from private life.
-
-&emsp;“(4) Two members appointed by the minority leader of the Senate, in consultation with the Vice Chairman of the Select Committee on Intelligence of the Senate, one from Members of the Senate and one from private life.
-
-&emsp;“(5) Three members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and two from private life.
-
-&emsp;“(6) Two members appointed by the minority leader of the House of Representatives, in consultation with the ranking member of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and one from private life.
-
-“(c)
-
-Membership.—(1) The individuals appointed from private life as members of the Commission shall be individuals who are nationally recognized for expertise, knowledge, or experience in—
-
-&emsp;“(A) research and development programs;
-
-&emsp;“(B) technology discovery and insertion;
-
-&emsp;“(C) use of intelligence information by national policymakers and military leaders; or
-
-&emsp;“(D) the implementation, funding, or oversight of the national security policies of the United States.
-
-“(2) An official who appoints members of the Commission may not appoint an individual as a member of the Commission if, in the judgment of the official, such individual possesses any personal or financial interest in the discharge of any of the duties of the Commission.
-
-“(3) All members of the Commission appointed from private life shall possess an appropriate security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
-
-“(d)
-
-Co-Chairs.—(1) The Commission shall have two co-chairs, selected from among the members of the Commission.
-
-“(2) One co-chair of the Commission shall be a member of the Democratic Party, and one co-chair shall be a member of the Republican Party.
-
-“(3) The individuals who serve as the co-chairs of the Commission shall be jointly agreed upon by the President, the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives.
-
-“(e)
-
-Appointment; Initial Meeting.—(1) Members of the Commission shall be appointed not later than 45 days after the date of the enactment of this Act \[Nov. 27, 2002\].
-
-“(2) The Commission shall hold its initial meeting on the date that is 60 days after the date of the enactment of this Act.
-
-“(f)
-
-Meetings; Quorum; Vacancies.—(1) After its initial meeting, the Commission shall meet upon the call of the co-chairs of the Commission.
-
-“(2) Six members of the Commission shall constitute a quorum for purposes of conducting business, except that two members of the Commission shall constitute a quorum for purposes of receiving testimony.
-
-“(3) Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
-
-“(4) If vacancies in the Commission occur on any day after 45 days after the date of the enactment of this Act \[Nov. 27, 2002\], a quorum shall consist of a majority of the members of the Commission as of such day.
-
-“(g)
-
-Actions of Commission.—(1) The Commission shall act by resolution agreed to by a majority of the members of the Commission voting and present.
-
-“(2) The Commission may establish panels composed of less than the full membership of the Commission for purposes of carrying out the duties of the Commission under this title. The actions of any such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
-
-“(3) Any member, agent, or staff of the Commission may, if authorized by the co-chairs of the Commission, take any action which the Commission is authorized to take pursuant to this title.
-
-“(h)
-
-Duties.—The duties of the Commission shall be—
-
-&emsp;“(1) to conduct, until not later than the date on which the Commission submits the report under section 1007(a), the review described in subsection (i); and
-
-&emsp;“(2) to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on the results of the review.
-
-“(i)
-
-Review.—The Commission shall review the status of research and development programs and activities within the intelligence community, including—
-
-&emsp;“(1) an assessment of the advisability of modifying the scope of research and development for purposes of such programs and activities;
-
-&emsp;“(2) a review of the particular individual research and development activities under such programs;
-
-&emsp;“(3) an evaluation of the current allocation of resources for research and development, including whether the allocation of such resources for that purpose should be modified;
-
-&emsp;“(4) an identification of the scientific and technological fields judged to be of most importance to the intelligence community;
-
-&emsp;“(5) an evaluation of the relationship between the research and development programs and activities of the intelligence community and the research and development programs and activities of other departments and agencies of the Federal Government; and
-
-&emsp;“(6) an evaluation of the relationship between the research and development programs and activities of the intelligence community and the research and development programs and activities of the private sector.
-
-#### “SEC. 1003. POWERS OF COMMISSION.
-
-“(a)
-
-In General.—(1) The Commission or, on the authorization of the Commission, any subcommittee ormember thereof, may, for the purpose of carrying out the provisions of this title—
-
-&emsp;“(A) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
-
-&emsp;“(B) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member considers necessary.
-
-“(2) Subpoenas may be issued under subparagraph (1)(B) under the signature of the co-chairs of the Commission, and may be served by any person designated by such co-chairs.
-
-“(3) The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of a witness to comply with any subpoena or to testify when summoned under authority of this section.
-
-“(b)
-
-Contracting.—The Commission may, to such extent and in such amounts as are provided in advance in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this title.
-
-“(c)
-
-Information From Federal Agencies.—The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this title. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the co-chairs of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
-
-“(d)
-
-Assistance From Federal Agencies.—(1) The Director of Central Intelligence shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, staff, facilities, and other support services as are necessary for the performance of the Commission's duties under this title.
-
-“(2) The Secretary of Defense may provide the Commission, on a nonreimbursable basis, with such administrative services, staff, and other support services as the Commission may request.
-
-“(3) In addition to the assistance set forth in paragraphs (1) and (2), other departments and agencies of the United States may provide the Commission such services, funds, facilities, staff, and other support as such departments and agencies consider advisable and as may be authorized by law.
-
-“(4) The Commission shall receive the full and timely cooperation of any official, department, or agency of the United States Government whose assistance is necessary for the fulfillment of the duties of the Commission under this title, including the provision of full and current briefings and analyses.
-
-“(e)
-
-Prohibition on Withholding Information.—No department or agency of the Government may withhold information from the Commission on the grounds that providing the information to the Commission would constitute the unauthorized disclosure of classified information or information relating to intelligence sources or methods.
-
-“(f)
-
-Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as the departments and agencies of the United States.
-
-“(g)
-
-Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this title.
-
-#### “SEC. 1004. STAFF OF COMMISSION.
-
-“(a)
-
-In General.—(1) The co-chairs of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
-
-“(2) Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
-
-“(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
-
-“(b)
-
-Consultant Services.—(1) The Commission may procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
-
-“(2) All experts and consultants employed by the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
-
-#### “SEC. 1005. COMPENSATION AND TRAVEL EXPENSES.
-
-“(a)
-
-Compensation.—(1) Except as provided in paragraph (2), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission under this title.
-
-“(2) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Commission.
-
-“(b)
-
-Travel Expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5, United States Code.
-
-#### “SEC. 1006. TREATMENT OF INFORMATION RELATING TO NATIONAL SECURITY.
-
-“(a)
-
-In General.—(1) The Director of Central Intelligence shall assume responsibility for the handling and disposition of any information related to the national security of the United States that is received, considered, or used by the Commission under this title.
-
-“(2) Any information related to the national security of the United States that is provided to the Commission by a congressional intelligence committee may not be further provided or released without the approval of the chairman of such committee.
-
-“(b)
-
-Access After Termination of Commission.—Notwithstanding any other provision of law, after the termination of the Commission under section 1007, only the Members and designated staff of the congressional intelligence committees, the Director of Central Intelligence (and the designees of the Director), and such other officials of the executive branch as the President may designate shall have access to information related to the national security of the United States that is received, considered, or used by the Commission.
-
-#### “SEC. 1007. FINAL REPORT; TERMINATION.
-
-“(a)
-
-Final Report.—Not later than September 1, 2003, the Commission shall submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report as required by section 1002(h)(2).
-
-“(b)
-
-Termination.—(1) The Commission, and all the authorities of this title, shall terminate at the end of the 120-day period beginning on the date on which the final report under subsection (a) is transmitted to the congressional intelligence committees.
-
-“(2) The Commission may use the 120-day period referred to in paragraph (1) for the purposes of concluding its activities, including providing testimony to Congress concerning the final report referred to in that paragraph and disseminating the report.
-
-#### “SEC. 1008. ASSESSMENTS OF FINAL REPORT.
-
-“Not later than 60 days after receipt of the final report under section 1007(a), the Director of Central Intelligence and the Secretary of Defense shall each submit to the congressional intelligence committees an assessment by the Director or the Secretary, as the case may be, of the final report. Each assessment shall include such comments on the findings and recommendations contained in the final report as the Director or Secretary, as the case may be, considers appropriate.
-
-#### “SEC. 1009. INAPPLICABILITY OF CERTAIN ADMINISTRATIVE PROVISIONS.
-
-“(a)
-
-Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this title.
-
-“(b)
-
-Freedom of Information Act.—The provisions of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), shall not apply to the activities, records, and proceedings of the Commission under this title.
-
-#### “SEC. 1010. FUNDING.
-
-“(a)
-
-Transfer From the Community Management Account.—Of the amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Intelligence Technology Innovation Center of the Community Management Account, the Deputy Director of Central Intelligence for Community Management shall transfer to the Director of Central Intelligence $2,000,000 for purposes of the activities of the Commission under this title.
-
-“(b)
-
-Availability in General.—The Director of Central Intelligence shall make available to the Commission, from the amount transferred to the Director under subsection (a), such amounts as the Commission may require for purposes of the activities of the Commission under this title.
-
-“(c)
-
-Duration of Availability.—Amounts made available to the Commission under subsection (b) shall remain available until expended.
-
-#### “ SEC. 1011. DEFINITIONS.
-
-“In this title:
-
-&emsp;“(1)
-
-Congressional intelligence committees.—The term ‘congressional intelligence committees’ means—
-
-&emsp;&emsp;“(A) the Select Committee on Intelligence of the Senate; and
-
-&emsp;&emsp;“(B) the Permanent Select Committee on Intelligence of the House of Representatives.
-
-&emsp;“(2)
-
-Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).”
+Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, as amended by Pub. L. 108–177, title III, §315(a), Dec. 13, 2003, 117 Stat. 2610, established the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community to review the status of research and development programs and activities within the intelligence community, directed the Commission to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on such review not later than Sept. 1, 2004, provided that the Commission was to terminate at the end of the 120-day period beginning on the date on which the final report was transmitted to the congressional intelligence committees, and directed the Director of Central Intelligence and the Secretary of Defense to each submit to the congressional intelligence committees an assessment of the final report not later than 60 days after receipt.
 
 #### National Commission for the Review of the National Reconnaissance Office
 
-Pub. L. 106–120, title VII, Dec. 3, 1999, 113 Stat. 1620, provided that:
-
-#### “SEC. 701. FINDINGS.
-
-“Congress makes the following findings:
-
-&emsp;“(1) Imagery and signals intelligence satellites are vitally important to the security of the Nation.
-
-&emsp;“(2) The National Reconnaissance Office (in this title referred to as the ‘NRO’) and its predecessor organizations have helped protect and defend the United States for more than 30 years.
-
-&emsp;“(3) The end of the Cold War and the enormous growth in usage of information technology have changed the environment in which the intelligence community must operate. At the same time, the intelligence community has undergone significant changes in response to dynamic developments in strategy and in budgetary matters. The acquisition and maintenance of satellite systems are essential to providing timely intelligence to national policymakers and achieving information superiority for military leaders.
-
-&emsp;“(4) There is a need to evaluate the roles and mission, organizational structure, technical skills, contractor relationships, use of commercial imagery, acquisition of launch vehicles, launch services, and launch infrastructure, mission assurance, acquisition authorities, and relationship to other agencies and departments of the Federal Government of the NRO in order to assure continuing success in satellite reconnaissance in the new millennium.
-
-#### “SEC. 702. NATIONAL COMMISSION FOR THE REVIEW OF THE NATIONAL RECONNAISSANCE OFFICE.
-
-“(a)
-
-Establishment.—There is established a commission to be known as the ‘National Commission for the Review of the National Reconnaissance Office’ (in this title referred to as the ‘Commission’).
-
-“(b)
-
-Composition.—The Commission shall be composed of 11 members, as follows:
-
-&emsp;“(1) The Deputy Director of Central Intelligence for Community Management.
-
-&emsp;“(2) Three members appointed by the Majority Leader of the Senate, in consultation with the Chairman of the Select Committee on Intelligence of the Senate, one from Members of the Senate and two from private life.
-
-&emsp;“(3) Two members appointed by the Minority Leader of the Senate, in consultation with the Vice Chairman of the Select Committee on Intelligence of the Senate, one from Members of the Senate and one from private life.
-
-&emsp;“(4) Three members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and two from private life.
-
-&emsp;“(5) Two members appointed by the Minority Leader of the House of Representatives, in consultation with the ranking member of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and one from private life.
-
-> The Director of the National Reconnaissance Office shall be an ex officio member of the Commission.
-
-“(c)
-
-Membership.—(1) The individuals appointed as members of the Commission shall be individuals who are nationally recognized for expertise, knowledge, or experience in—
-
-&emsp;“(A) technical intelligence collection systems and methods;
-
-&emsp;“(B) research and development programs;
-
-&emsp;“(C) acquisition management;
-
-&emsp;“(D) use of intelligence information by national policymakers and military leaders; or
-
-&emsp;“(E) the implementation, funding, or oversight of the national security policies of the United States.
-
-“(2) An official who appoints members of the Commission may not appoint an individual as a member of the Commission if, in the judgment of the official, such individual possesses any personal or financial interest in the discharge of any of the duties of the Commission.
-
-“(3) All members of the Commission appointed from private life shall possess an appropriate security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
-
-“(d)
-
-Co-Chairs.—(1) The Commission shall have two co-chairs, selected from among the members of the Commission.
-
-“(2) One co-chair of the Commission shall be a member of the Democratic Party, and one co-chair shall be a member of the Republican Party.
-
-“(3) The individuals who serve as the co-chairs of the Commission shall be jointly agreed upon by the President, the Majority Leader of the Senate, the Minority Leader of the Senate, and Speaker of the House of Representatives, and the Minority Leader of the House of Representatives.
-
-“(e)
-
-Appointment; Initial Meeting.—(1) Members of the Commission shall be appointed not later than 45 days after the date of the enactment of this Act \[Dec. 3, 1999\].
-
-“(2) The Commission shall hold its initial meeting on the date that is 60 days after the date of the enactment of this Act.
-
-“(f)
-
-Meetings; Quorum; Vacancies.—(1) After its initial meeting, the Commission shall meet upon the call of the co-chairs of the Commission.
-
-“(2) Six members of the Commission shall constitute a quorum for purposes of conducting business, except that two members of the Commission shall constitute a quorum for purposes of receiving testimony.
-
-“(3) Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
-
-“(4) If vacancies in the Commission occur on any day after 45 days after the date of the enactment of this Act, a quorum shall consist of a majority of the members of the Commission as of such day.
-
-“(g)
-
-Actions of Commission.—(1) The Commission shall act by resolution agreed to by a majority of the members of the Commission voting and present.
-
-“(2) The Commission may establish panels composed of less than the full membership of the Commission for purposes of carrying out the duties of the Commission under this title. The actions of any such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
-
-“(3) Any member, agent, or staff of the Commission may, if authorized by the co-chairs of the Commission, take any action which the Commission is authorized to take pursuant to this title.
-
-#### “SEC. 703. DUTIES OF COMMISSION.
-
-“(a)
-
-In General.—The duties of the Commission shall be—
-
-&emsp;“(1) to conduct, until not later than the date on which the Commission submits the report under section 708(a), the review described in subsection (b); and
-
-&emsp;“(2) to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on the results of the review.
-
-“(b)
-
-Review.—The Commission shall review the current organization, practices, and authorities of the NRO, in particular with respect to—
-
-&emsp;“(1) roles and mission;
-
-&emsp;“(2) organizational structure;
-
-&emsp;“(3) technical skills;
-
-&emsp;“(4) contractor relationships;
-
-&emsp;“(5) use of commercial imagery;
-
-&emsp;“(6) acquisition of launch vehicles, launch services, and launch infrastructure, and mission assurance;
-
-&emsp;“(7) acquisition authorities; and
-
-&emsp;“(8) relationships with other agencies and departments of the Federal Government.
-
-#### “SEC. 704. POWERS OF COMMISSION.
-
-“(a)
-
-In General.—(1) The Commission or, on the authorization of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out the provisions of this title—
-
-&emsp;“(A) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
-
-&emsp;“(B) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents,
-
-> as the Commission or such designated subcommittee or designated member considers necessary.
-
-“(2) Subpoenas may be issued under paragraph (1)(B) under the signature of the co-chairs of the Commission, and may be served by any person designated by such co-chairs.
-
-“(3) The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of a witness to comply with any subpoena or to testify when summoned under authority of this section.
-
-“(b)
-
-Contracting.—The Commission may, to such extent and in such amounts as are provided in advance in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this title.
-
-“(c)
-
-Information from Federal Agencies.—The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this title. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the co-chairs of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
-
-“(d)
-
-Assistance from Federal Agencies.—(1) The Director of Central Intelligence shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, staff, facilities, and other support services as are necessary for the performance of the Commission's duties under this title.
-
-“(2) The Secretary of Defense may provide the Commission, on a nonreimbursable basis, with such administrative services, staff, and other support services as the Commission may request.
-
-“(3) In addition to the assistance set forth in paragraphs (1) and (2), other departments and agencies of the United States may provide the Commission such services, funds, facilities, staff, and other support as such departments and agencies consider advisable and as may be authorized by law.
-
-“(4) The Commission shall receive the full and timely cooperation of any official, department, or agency of the United States Government whose assistance is necessary for the fulfillment of the duties of the Commission under this title, including the provision of full and current briefings and analyses.
-
-“(e)
-
-Prohibition on Withholding Information.—No department or agency of the Government may withhold information from the Commission on the grounds that providing the information to the Commission would constitute the unauthorized disclosure of classified information or information relating to intelligence sources or methods.
-
-“(f)
-
-Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as the departments and agencies of the United States.
-
-“(g)
-
-Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this title.
-
-#### “SEC. 705. STAFF OF COMMISSION.
-
-“(a)
-
-In General.—(1) The co-chairs of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III or \[of\] chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
-
-“(2) Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
-
-“(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
-
-“(b)
-
-Consultant Services.—(1) The Commission may procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
-
-“(2) All experts and consultants employed by the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
-
-#### “SEC. 706. COMPENSATION AND TRAVEL EXPENSES.
-
-“(a)
-
-Compensation.—(1) Except as provided in paragraph (2), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission under this title.
-
-“(2) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Commission.
-
-“(b)
-
-Travel Expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
-
-#### “SEC. 707. TREATMENT OF INFORMATION RELATING TO NATIONAL SECURITY.
-
-“(a)
-
-In General.—(1) The Director of Central Intelligence shall assume responsibility for the handling and disposition of any information related to the national security of the United States that is received, considered, or used by the Commission under this title.
-
-“(2) Any information related to the national security of the United States that is provided to the Commission by a congressional intelligence committee may not be further provided or released without the approval of the chairman of such committee.
-
-“(b)
-
-Access after Termination of Commission.—Notwithstanding any other provision of law, after the termination of the Commission under section 708, only the Members and designated staff of the congressional intelligence committees, the Director of Central Intelligence and the designees of the Director, and such other officials of the executive branch as the President may designate shall have access to information related to the national security of the United States that is received, considered, or used by the Commission.
-
-#### “SEC. 708. FINAL REPORT; TERMINATION.
-
-“(a)
-
-Final Report.—Not later than November 1, 2000, the Commission shall submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report as required by section 703(a).
-
-“(b)
-
-Termination.—(1) The Commission, and all the authorities of this title, shall terminate at the end of the 120-day period beginning on the date on which the final report under subsection (a) is transmitted to the congressional intelligence committees.
-
-“(2) The Commission may use the 120-day period referred to in paragraph (1) for the purposes of concluding its activities, including providing testimony to committees of Congress concerning the final report referred to in that paragraph and disseminating the report.
-
-#### “SEC. 709. ASSESSMENTS OF FINAL REPORT.
-
-“Not later than 60 days after receipt of the final report under section 708(a), the Director of Central Intelligence and the Secretary of Defense shall each submit to the congressional intelligence committees an assessment by the Director or the Secretary, as the case may be, of the final report. Each assessment shall include such comments on the findings and recommendations contained in the final report as the Director or Secretary, as the case may be, considers appropriate.
-
-#### “SEC. 710. INAPPLICABILITY OF CERTAIN ADMINISTRATIVE PROVISIONS.
-
-“(a)
-
-Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this title.
-
-“(b)
-
-Freedom of Information Act.—The provisions of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), shall not apply to the activities, records, and proceedings of the Commission under this title.
-
-#### “SEC. 711. FUNDING.
-
-“(a)
-
-Transfer from NRO.—Of the amounts authorized to be appropriated by this Act \[see Tables for classification\] for the National Reconnaissance Office, the Director of the National Reconnaissance Office shall transfer to the Director of Central Intelligence $5,000,000 for purposes of the activities of the Commission under this title.
-
-“(b)
-
-Availability In General.—The Director of Central Intelligence shall make available to the Commission, from the amount transferred to the Director under subsection (a), such amounts as the Commission may require for purposes of the activities of the Commission under this title.
-
-“(c)
-
-Duration of Availability.—Amounts made available to the Commission under subsection (b) shall remain available until expended.
-
-#### “SEC. 712. CONGRESSIONAL INTELLIGENCE COMMITTEES DEFINED.
-
-“In this title, the term ‘congressional intelligence committees’ means the following:
-
-&emsp;“(1) The Select Committee on Intelligence of the Senate.
-
-&emsp;“(2) The Permanent Select Committee on Intelligence of the House of Representatives.”
+Pub. L. 106–120, title VII, Dec. 3, 1999, 113 Stat. 1620, established the National Commission for the Review of the National Reconnaissance Office to review the current organization, practices, and authorities of the National Reconnaissance Office, directed the Commission to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on such review not later than Nov. 1, 2000, provided that the Commission would terminate at the end of the 120-day period beginning on the date on which the final report was transmitted to the congressional intelligence committees, and directed the Director of Central Intelligence and the Secretary of Defense to each submit to the congressional intelligence committees an assessment of the final report not later than 60 days after receipt.
 
 #### Commission on Roles and Capabilities of United States Intelligence Community
 
@@ -761,7 +429,7 @@ Experts and Consultants.—Subject to such rules as may be prescribed by the Com
 
 “(e)
 
-Staff of Federal Agencies.—Upon request of the Commission, the head of any Federal agency maydetail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
+Staff of Federal Agencies.—Upon request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
 
 #### “SEC. 8. POWERS OF COMMISSION
 
@@ -791,7 +459,7 @@ Administrative Support Services.—The Administrator of General Services shall p
 
 #### “SEC. 9. INITIAL FUNDING OF COMMISSION.
 
-“If funds are not otherwise available for the necessary expenses of the Commission for fiscal year 1991, the Secretary of Defense shall make available to the Commission, from funds available to the Secretary for the fiscal year concerned, such funds as the Commission requires. When funds are specifically appropriated for the expenses of the Commission, the Commission shall reimburse the Secretary from such funds for any funds provided to it under the preceding sentence.”
+“If funds are not otherwise available for the necessary expenses of the Commission for fiscal year 1991,the Secretary of Defense shall make available to the Commission, from funds available to the Secretary for the fiscal year concerned, such funds as the Commission requires. When funds are specifically appropriated for the expenses of the Commission, the Commission shall reimburse the Secretary from such funds for any funds provided to it under the preceding sentence.”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -863,7 +531,7 @@ Pursuant to Paragraph 2 of Executive Order 10431, the following regulations are 
 
 #### Executive Order No. 11905
 
-Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R. 25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869, which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
+Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R.25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869, which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
 
 #### Executive Order No. 12036
 
@@ -871,7 +539,7 @@ Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, as amended by Ex. Ord. No. 1213
 
 #### Ex. Ord. No. 12333. United States Intelligence Activities
 
-Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077, provided:
+Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077; Ex. Ord. No. 13355, §§2, 3, 6, Aug. 27, 2004, 69 F.R. 53593, provided:
 
 TABLE OF CONTENTS
 
@@ -1022,7 +690,7 @@ Purpose and Effect
 
 Revocation
 
-Timely and accurate information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to the national security of the United States. All reasonable and lawful means must be used to ensure that the United States will receive the best intelligence available. For that purpose, by virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the National Security Act of 1947, as amended \[see Short Title note above\], and as President of the United States of America, in order to provide for the effective conduct of United States intelligence activities and the protection of constitutional rights, it is hereby ordered as follows:
+Timely and accurate information about the activities, capabilities, plans, and intentions of foreign powers, organizations, and persons, and their agents, is essential to the national security of the United States. All reasonable and lawful means must be used to ensure that the United States will receive the best intelligence available. For that purpose, by virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the National Security Act of 1947, as amended (Act) \[see Short Title note above\], and as President of the United States of America, in order to provide for the effective conduct of United States intelligence activities and the protection of constitutional rights, it is hereby ordered as follows:
 
 #### PART 1—GOALS, DIRECTION, DUTIES AND RESPONSIBILITIES WITH RESPECT TO THE NATIONAL INTELLIGENCE EFFORT
 
@@ -1060,7 +728,7 @@ National Foreign Intelligence Advisory Groups
 
 (3) Interagency exchanges of foreign intelligence information;
 
-(4) Arrangements with foreign governments on intelligence matters;
+(4) Arrangements with foreign governments and organizations on intelligence matters;
 
 (5) Protection of intelligence sources and methods;
 
@@ -1076,7 +744,7 @@ The Intelligence Community
 
 The agencies within the Intelligence Community shall, in accordance with applicable United States law and with the other provisions of this Order, conduct intelligence activities necessary for the conduct of foreign relations and the protection of the national security of the United States, including:
 
-(a) Collection of information needed by the President, the National Security Council, the Secretaries of State and Defense, and other Executive Branch officials for the performance of their duties and responsibilities;
+(a) Collection of information needed by the President and, in the performance of Executive functions, the Vice President,, \[sic\] the National Security Council, the Secretaries of State and Defense, and other Executive Branch officials for the performance of their duties and responsibilities;
 
 (b) Production and dissemination of intelligence;
 
@@ -1094,9 +762,13 @@ Director of Central Intelligence
 
 In order to discharge the duties and responsibilities prescribed by law, the Director of Central Intelligence shall be responsible directly to the President and the NSC and shall:
 
-(a) Act as the primary adviser to the President and the NSC on national foreign intelligence and provide the President and other officials in the Executive Branch with national foreign intelligence;
+(a)(1) Act as the principal adviser to the President for intelligence matters related to the national security;
 
-(b) Develop such objectives and guidance for the Intelligence Community as will enhance capabilities for responding to expected future needs for national foreign intelligence;
+(2) Act as the principal adviser to the National Security Council and Homeland Security Council for intelligence matters related to the national security; and
+
+(b)(1) Develop such objectives and guidance for the Intelligence Community necessary, in the Director's judgment, to ensure timely and effective collection, processing, analysis, and dissemination of intelligence, of whatever nature and from whatever source derived, concerning current and potential threats to the security of the United States and its interests, and to ensure that the National Foreign Intelligence Program (NFIP) is structured adequately to achieve these requirements; and
+
+(2) Working with the Intelligence Community, ensure that United States intelligence collection activities are integrated in: (i) collecting against enduring and emerging national security intelligence issues; (ii) maximizing the value to the national security; and (iii) ensuring that all collected data is available to the maximum extent practicable for integration, analysis, and dissemination to those who can act on, add value to, or otherwise apply it to mission needs.
 
 (c) Promote the development and maintenance of services of common concern by designated intelligence organizations on behalf of the Intelligence Community;
 
@@ -1106,7 +778,17 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 (f) Participate in the development of procedures approved by the Attorney General governing criminal narcotics intelligence activities abroad to ensure that these activities are consistent with foreign intelligence programs;
 
-(g) Ensure the establishment by the Intelligence Community of common security and access standards for managing and handling foreign intelligence systems, information, and products;
+(g)(1) Establish common security and access standards for managing and handling intelligence systems, information, and products, with special emphasis on facilitating:
+
+(A) the fullest and most prompt sharing of information practicable, assigning the highest priority to detecting, preventing, preempting, and disrupting terrorist threats against our homeland, our people, our allies, and our interests; and
+
+(B) the establishment of interface standards for an interoperable information sharing enterprise that facilitates the automated sharing of intelligence information among agencies within the Intelligence Community.
+
+(2)(A) Establish, operate, and direct national centers with respect to matters determined by the President for purposes of this subparagraph to be of the highest national security priority, with the functions of analysis and planning (including planning for diplomatic, financial, military, intelligence, homeland security, and law enforcement activities, and integration of such activities among departments and agencies) relating to such matters.
+
+(B) The countering of terrorism within the United States, or against citizens of the United States, our allies, and our interests abroad, is hereby determined to be a matter of the highest national security priority for purposes of subparagraph (2)(A) of this subsection.
+
+(3) Ensure that appropriate agencies and departments have access to and receive all-source intelligence support needed to perform independent, alternative analysis.
 
 (h) Ensure that programs are developed which protect intelligence sources, methods, and analytical procedures;
 
@@ -1118,13 +800,29 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 (<i>l</i>) Ensure the timely exploitation and dissemination of data gathered by national foreign intelligence collection means, and ensure that the resulting intelligence is disseminated immediately to appropriate government entities and military commands;
 
-(m) Establish mechanisms which translate national foreign intelligence objectives and priorities approved by the NSC into specific guidance for the Intelligence Community, resolve conflicts in tasking priority, provide to departments and agencies having information collection capabilities that are not part of the National Foreign Intelligence Program advisory tasking concerning collection of national foreign intelligence, and provide for the development of plans and arrangements for transfer of required collection tasking authority to the Secretary of Defense when directed by the President;
+(m)(1) Establish policies, procedures, and mechanisms that translate intelligence objectives and priorities approved by the President into specific guidance for the Intelligence Community.
 
-(n) Develop, with the advice of the program managers and departments and agencies concerned, the consolidated National Foreign Intelligence Program budget, and present it to the President and the Congress;
+(2) In accordance with objectives and priorities approved by the President, establish collection requirements for the Intelligence Community, determine collection priorities, manage collection tasking, and resolve conflicts in the tasking of national collection assets (except when otherwise directed by the President or when the Secretary of Defense exercises collection tasking authority under plans and arrangements approved by the Secretary of Defense and the Director) of the Intelligence Community.
 
-(<i>o</i>) Review and approve all requests for reprogramming National Foreign Intelligence Program funds, in accordance with guidelines established by the Office of Management and Budget;
+(3) Provide advisory tasking concerning collection of intelligence information to elements of the United States Government that have information collection capabilities and are not organizations within the Intelligence Community.
 
-(p) Monitor National Foreign Intelligence Program implementation, and, as necessary, conduct program and performance audits and evaluations;
+(4) The responsibilities in subsections 1.5(m)(2) and (3) apply, to the maximum extent consistent with applicable law, whether information is to be collected inside or outside the United States.
+
+(n)(1) Develop, determine, and present with the advice of the heads of departments or agencies that havean organization within the Intelligence Community, the annual consolidated NFIP budget. The Director shall be responsible for developing an integrated and balanced national intelligence program that is directly responsive to the national security threats facing the United States. The Director shall submit such budget (accompanied by dissenting views, if any, of the head of a department or agency that has an organization within the Intelligence Community) to the President for approval; and
+
+(2) Participate in the development by the Secretary of Defense of the annual budgets for the Joint Military Intelligence Program (JMIP) and the Tactical Intelligence and Related Activities (TIARA) Program.
+
+(<i>o</i>)(1) Transfer, consistent with applicable law and with the approval of the Director of the Office of Management and Budget, funds from an appropriation for the NFIP to another appropriation for the NFIP or to another NFIP component;
+
+(2) Review, and approve or disapprove, consistent with applicable law, any proposal to: (i) reprogram funds within an appropriation for the NFIP; (ii) transfer funds from an appropriation for the NFIP to an appropriation that is not for the NFIP within the Intelligence Community; or (iii) transfer funds from an appropriation that is not for the NFIP within the Intelligence Community to an appropriation for the NFIP; and
+
+(3) Monitor and consult with the Secretary of Defense on reprogrammings or transfers of funds within, into, or out of, appropriations for the JMIP and the TIARA Program.
+
+(p)(1) Monitor implementation and execution of the NFIP budget by the heads of departments or agencies that have an organization within the Intelligence Community, including, as necessary, by conducting program and performance audits and evaluations;
+
+(2) Monitor implementation of the JMIP and the TIARA Program and advise the Secretary of Defense thereon; and
+
+(3) After consultation with the heads of relevant departments, report periodically, and not less often than semiannually, to the President on the effectiveness of implementation of the NFIP Program by organizations within the Intelligence Community, for which purpose the heads of departments and agencies shall ensure that the Director has access to programmatic, execution, and other appropriate information.
 
 (q) Together with the Secretary of Defense, ensure that there is no unnecessary overlap between national foreign intelligence programs and Department of Defense intelligence programs consistent with the requirement to develop competitive analysis, and provide to and obtain from the Secretary of Defense all information necessary for this purpose;
 
@@ -1136,7 +834,15 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 Duties and Responsibilities of the Heads of Executive Branch Departments and Agencies
 
-(a) The heads of all Executive Branch departments and agencies shall, in accordance with law and relevant procedures approved by the Attorney General under this Order, give the Director of Central Intelligence access to all information relevant to the national intelligence needs of the United States, and shall give due consideration to the requests from the Director of Central Intelligence for appropriate support for Intelligence Community activities.
+(a) The heads of all departments and agencies shall:
+
+(1) Unless the Director provides otherwise, give the Director access to all foreign intelligence, counterintelligence, and national intelligence, as defined in the Act, that is relevant to transnational terrorist threats and weapons of mass destruction proliferation threats, including such relevant intelligence derived from activities of the FBI, DHS, and any other department or agency, and all other information that is related to the national security or that otherwise is required for the performance of the Director's duties, except such information that is prohibited by law, by the President, or by the Attorney General acting under this order at the direction of the President from being provided to the Director. The Attorney General shall agree to procedures with the Director pursuant to section 3(5)(B) of the Act \[50 U.S.C. 401a(5)(B)\] no later than 90 days after the issuance of this order that ensure the Director receives all such information;
+
+(2) support the Director in developing the NFIP;
+
+(3) ensure that any intelligence and operational systems and architectures of their departments and agencies are consistent with national intelligence requirements set by the Director and all applicable information sharing and security guidelines, and information privacy requirements; and
+
+(4) provide, to the extent permitted by law, subject to the availability of appropriations, and not inconsistent with the mission of the department or agency, such further support to the Director as the Director may request, after consultation with the head of the department or agency, for the performance of the Director's functions.
 
 (b) The heads of departments and agencies involved in the National Foreign Intelligence Program shall ensure timely development and submission to the Director of Central Intelligence by the program managers and heads of component activities of proposed national programs and budgets in the format designated by the Director of Central Intelligence, and shall also ensure that the Director of Central Intelligence is provided, in a timely and responsive manner, all information necessary to perform the Director's program and budget responsibilities.
 
@@ -1152,7 +858,7 @@ The heads of departments and agencies with organizations in the Intelligence Com
 
 (b) In any case involving serious or continuing breaches of security, recommend to the Attorney General that the case be referred to the FBI for further investigation;
 
-(c) Furnish the Director of Central Intelligence and the NSC, in accordance with applicable law and procedures approved by the Attorney General under this Order, the information required for the performance of their respective duties;
+(c) Furnish the NSC, in accordance with applicable law and procedures approved by the Attorney General under this Order, the information required for the performance of its duties;
 
 (d) Report to the Intelligence Oversight Board, and keep the Director of Central Intelligence appropriately informed, concerning any intelligence activities of their organizations that they have reason to believe may be unlawful or contrary to Executive order or Presidential directive;
 
@@ -1176,7 +882,7 @@ All duties and responsibilities of the CIA shall be related to the intelligence 
 
 (b) Collect, produce and disseminate intelligence on foreign aspects of narcotics production and trafficking;
 
-(c) Conduct counterintelligence activities outside the United States and, without assuming or performing any internal security functions, conduct counterintelligence activities within the United States in coordination with the FBI as required by procedures agreed upon \[by\] the Director of Central Intelligence and the Attorney General;
+(c) Conduct counterintelligence activities outside the United States and, without assuming or performing any internal security functions, conduct counterintelligence activities within the United States in coordination with the FBI as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
 
 (d) Coordinate counterintelligence activities and the collection of information not otherwise obtainable when conducted outside the United States by other departments and agencies;
 
@@ -1188,7 +894,7 @@ All duties and responsibilities of the CIA shall be related to the intelligence 
 
 (h) Protect the security of its installations, activities, information, property, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the CIA as are necessary; and
 
-(i) Conduct such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (a) and \[sic\] through (h) above, including procurement and essential cover and proprietary arrangements.
+(i) Conduct such administrative and technical support activities within and outside the United States as are necessary to perform the functions described in sections (a) through (h) above, including procurement and essential cover and proprietary arrangements.
 
 #### 1\.9
 
@@ -1208,9 +914,9 @@ The Secretary of State shall:
 
 #### 1\.10
 
-The Department of the Treasury
+The Department of the Treasury and the Department of Homeland Security.
 
-The Secretary of the Treasury shall:
+The Secretary of the Treasury, with respect to subsections (a), (b), and (c), and the Secretary of Homeland Security with respect to subsection (d), shall:
 
 (a) Overtly collect foreign financial and monetary information;
 
@@ -1218,7 +924,7 @@ The Secretary of the Treasury shall:
 
 (c) Produce and disseminate foreign intelligence relating to United States economic policy as required for the execution of the Secretary's responsibilities; and
 
-(d) Conduct, through the United States Secret Service, activities to determine the existence and capability of surveillance equipment being used against the President of the United States, the Executive Office of the President, and, as authorized by the Secretary of the Treasury or the President, other Secret Service protectees and United States officials. No information shall be acquired intentionally through such activities except to protect against such surveillance, and those activities shall be conducted pursuant to procedures agreed upon by the Secretary of the Treasury and the Attorney General.
+(d) Conduct, through the United States Secret Service, activities to determine the existence and capability of surveillance equipment being used against the President or the Vice President of the United States, the Executive Office of the President, and, as authorized by the Secretary of Homeland Security or the President, other Secret Service protectees and United States officials. No information shall be acquired intentionally through such activities except to protect against such surveillance, and those activities shall be conducted pursuant to procedures agreed upon by the Secretary of Homeland Security and the Attorney General.
 
 #### 1\.11
 
@@ -1388,7 +1094,7 @@ In addition, agencies within the Intelligence Community may disseminate informat
 
 Collection Techniques
 
-Agencies within the Intelligence Community shall use the least intrusive collection techniques feasiblewithin the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
+Agencies within the Intelligence Community shall use the least intrusive collection techniques feasible within the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
 
 (a) The CIA to engage in electronic surveillance within the United States except for the purpose of training, testing, or conducting countermeasures to hostile electronic surveillance;
 
@@ -1472,7 +1178,7 @@ No agency of the Intelligence Community shall participate in or request any pers
 
 Congressional Oversight
 
-The duties and responsibilities of the Director of Central Intelligence and the heads of other departments, agencies, and entities engaged in intelligence activities to cooperate with the Congress in the conduct of its responsibilities for oversight of intelligence activities shall be as provided in title 50, United States Code, section 413. The requirements of section 662 of the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2422), and section 501 of the National Security Act of 1947, as amended (50 U.S.C. 413), shall apply to all special activities as defined in this Order.
+The duties and responsibilities of the Director of Central Intelligence and the heads of other departments, agencies, and entities engaged in intelligence activities to cooperate with the Congress in the conduct of its responsibilities for oversight of intelligence activities shall be implemented in accordance with applicable law, including title V of the Act \[50 U.S.C. 413 et seq.\]. The requirements of applicable law, including title V of the Act, shall apply to all special activities as defined in this Order.
 
 #### 3\.2
 
@@ -1494,7 +1200,7 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 (a) <i>Counterintelligence</i> means information gathered and activities conducted to protect against espionage, other intelligence activities, sabotage, or assassinations conducted for or on behalf of foreign powers, organizations or persons, or international terrorist activities, but not including personnel, physical, document or communications security programs.
 
-(b) <i>Electronic surveillance</i> means acquisition of a nonpublic communication by electronic means without the consent of a person who is a party to an electronic communication or, in the case of a nonelectronic communication, without the consent of a person who is visably \[sic\] present at the place of communication, but not including the use of radio direction-finding equipment solely to determine the location of a transmitter.
+(b) <i>Electronic surveillance</i> means acquisition of a nonpublic communication by electronic means without the consent of a person who is a party to an electronic communication or, in the case of a nonelectronic communication, without the consent of a person who is visibly present at the place of communication, but not including the use of radio direction-finding equipment solely to determine the location of a transmitter.
 
 (c) <i>Employee</i> means a person employed by, assigned to or acting for an agency within the Intelligence Community.
 
@@ -1502,7 +1208,7 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 (e) <i>Intelligence activities</i> means all activities that agencies within the Intelligence Community are authorized to conduct pursuant to this Order.
 
-(f) <i>Intelligence Community</i> and <i>agencies within the Intelligence Community</i> refer to the following agencies or organizations:
+(f) <i>Intelligence Community</i> and <i>agencies within the Intelligence Community, or organizations within the Intelligence Community</i> refer to the following agencies or organizations:
 
 (1) The Central Intelligence Agency (CIA);
 
@@ -1516,9 +1222,11 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 (6) The intelligence elements of the Army, Navy, Air Force, and Marine Corps, the Federal Bureau of Investigation (FBI), the Department of the Treasury, and the Department of Energy;
 
-(7) The staff elements of the Director of Central Intelligence; and
+(7) The staff elements of the Director of Central Intelligence;
 
-(8) Those elements of the Department of Homeland Security that are supervised by the Department's Under Secretary for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, with the exception of those functions that involve no analysis of foreign intelligence information.
+(8) The intelligence elements of the Coast Guard and those elements of the Department of Homeland Security that are supervised by the Department's Under Secretary for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, with the exception of those functions that involve no analysis of foreign intelligence information; and
+
+(9) National Geospatial-Intelligence Agency\[.\]
 
 (g) <i>The National Foreign Intelligence Program</i> includes the programs listed below, but its composition shall be subject to review by the National Security Council and modification by the President:
 
@@ -1556,7 +1264,7 @@ Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 1270
 
 #### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
 
-Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, as amended by Ex. Ord. No. 13070, Dec. 15, 1997, 62 F.R. 66493, provided:
+Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, as amended by Ex. Ord. No. 13070, Dec. 15, 1997, 62 F.R. 66493; Ex. Ord. No. 13301, May 14, 2003, 68 F.R. 26981, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the security of the United States by improving the quality and effectiveness of intelligence available to the United States, and to assure the legality of activities of the Intelligence Community, it is ordered as follows:
 
@@ -1572,7 +1280,7 @@ Sec. 1.4. The PFIAB shall consider and recommend appropriate action with respect
 
 #### PART II. OVERSIGHT OF INTELLIGENCE ACTIVITIES
 
-Sec. 2.1. The Intelligence Oversight Board (IOB) is hereby established as a standing committee of the PFIAB. The IOB shall consist of no more than four members designated by the President from among the membership of the PFIAB. The Chairman of the PFIAB may also serve as the Chairman or a member of the IOB if so designated by the President. The IOB shall utilize such full-time staff and consultants as authorized by the Chairman of the IOB with the concurrence of the Chairman of the PFIAB.
+Sec. 2.1. The Intelligence Oversight Board (IOB) is hereby established as a standing committee of the PFIAB. The IOB shall consist of no more than five members designated by the President from among the membership of the PFIAB. The Chairman of the PFIAB may also serve as the Chairman or a member of the IOB if so designated by the President. The IOB shall utilize such full-time staff and consultants as authorized bythe Chairman of the IOB with the concurrence of the Chairman of the PFIAB.
 
 Sec. 2.2. The IOB shall:
 
@@ -1597,14 +1305,4 @@ Sec. 3.1. Information made available to the PFIAB, or members of the PFIAB actin
 Sec. 3.2. Members of the PFIAB shall serve without compensation but may receive transportation expenses and per diem allowance as authorized by law. Staff and consultants to the PFIAB shall receive pay and allowances as authorized by the President.
 
 Sec. 3.3. Executive Order No. 12334 of December 4, 1981, as amended, and Executive Order No. 12537 of October 28, 1985, as amended \[50 U.S.C. 403 note\], are revoked.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Act Referred to in Other Sections
-
-The National Security Act of 1947 is referred to in sections 47e, 402c of this title; section 469 of Appendix to this title; title 6 section 121; title 21 sections 1704, 1903.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 113, 125, 155.
 

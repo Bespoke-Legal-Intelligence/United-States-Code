@@ -12,7 +12,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 #### (2) Computation
 
-&emsp;The annuity payable under paragraph (1) shall be computed in accordance with section 2031(a) of this title, except that the computation of the annuity of the participant under such section shall be at least the smaller of (A) 40 percent of the participant's high-3 average pay, or (B) the sum obtained under such section after increasing the participant'slength of service by the difference between the participant's age at the time of death and age 60.
+&emsp;The annuity payable under paragraph (1) shall be computed in accordance with section 2031(a) of this title, except that the computation of the annuity of the participant under such section shall be at least the smaller of (A) 40 percent of the participant's high-3 average pay, or (B) the sum obtained under such section after increasing the participant's length of service by the difference between the participant's age at the time of death and age 60.
 
 #### (3) Limitation
 
@@ -42,7 +42,7 @@ If a participant dies and no claim for an annuity is payable under this subchapt
 
 #### (3) “Former spouse” defined
 
-&emsp;For purposes of this subsection, the term “former spouse” includes any former wife or husband of a participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
+&emsp;For purposes of this subsection, the term “former spouse” includes any former wife orhusband of a participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
 
 (Pub. L. 88–643, title II, §232, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3223; amended Pub. L. 103–178, title II, §202(a)(9), Dec. 3, 1993, 107 Stat. 2026.)
 
@@ -57,8 +57,4 @@ A prior section 232 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048;
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 403n, 403s, 2002, 2031 of this title.
 

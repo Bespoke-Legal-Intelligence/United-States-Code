@@ -48,7 +48,7 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service andpublished by it in Federal Register, see section 16(a), formerly section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 16(a), formerly section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1966 Amendment
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–174 effective upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11(a) of Pub. L. 89–174 set out as an Effective Date note under section 3531 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 871.
 

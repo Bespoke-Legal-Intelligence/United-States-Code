@@ -18,7 +18,7 @@ As used in this subchapter:
 
 &emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
-&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2003:
+&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003:
 
 &emsp;&emsp;(i) 69–8083–0–7–401 (Federal-Aid Highways).
 
@@ -28,7 +28,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iv) 69–8016–0–7–401 (Operations and Research NHTSA).
 
-&emsp;(C) The term “mass transit category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2003 or for which appropriations are provided pursuant to authorizations contained in those Acts (except that appropriations provided pursuant to section 5338(h) of title 49, as amended by the Transportation Equity Act for the 21st Century, shall not be included in this category):
+&emsp;(C) The term “mass transit category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003 or for which appropriations are provided pursuant to authorizations contained in those Acts (except that appropriations provided pursuant to section 5338(h) of title 49, as amended by the Transportation Equity Act for the 21st Century, shall not be included in this category):
 
 &emsp;&emsp;(i) 69–8191–0–7–401 (Mass Transit Capital Fund).
 
@@ -136,7 +136,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160.)
 
 #### Termination of Section
 
@@ -149,6 +149,8 @@ House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(A), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
 The Transportation Equity Act for the 21st Century, referred to in subsec. (c)(4)(B), (C), (D)(ii), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. Section 8103 of the Act is set out as a note under section 901 of this title. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of Title 23, Highways, and Tables.
+
+The Surface Transportation Extension Act of 2004, Part V, referred to in subsec. (c)(4)(B), (C), is Pub. L. 108–310, Sept. 20, 2004, 118 Stat. 1144. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 101 of Title 23, Highways, and Tables.
 
 The Surface Transportation Extension Act of 2003, referred to in subsec. (c)(4)(B), (C), is Pub. L. 108–88, Sept. 30, 2003, 117 Stat. 1110. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of Title 23, Highways, and Tables.
 
@@ -168,17 +170,23 @@ Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(4)(B). Pub. L. 108–88, §10(c)(1), inserted “and the Surface Transportation Extension Act of 2003” after “Century”.
+2004—Subsec. (c)(4)(B). Pub. L. 108–310, §10(c)(1), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “Century”.
+
+Subsec. (c)(4)(C). Pub. L. 108–310, §10(c)(2)(A), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “provided in the Transportation Equity Act for the 21st Century”.
+
+Pub. L. 108–310, §10(c)(2)(B), which directed the substitution of “those Acts” for “that Act”, could not be executed because the words “that Act” did not appear subsequent to amendment by Pub. L. 108–88. See 2003 Amendment note below.
+
+2003—Subsec. (c)(4)(B). Pub. L. 108–88, §10(c)(1), inserted “and the Surface Transportation Extension Act of 2003” after “Century”.
 
 Subsec. (c)(4)(C). Pub. L. 108–88, §10(c)(2), inserted “and the Surface Transportation Extension Act of 2003” after “Century” the first place it appears and substituted “those Acts” for “that Act”.
 
-<b>2000</b>—Subsec. (c)(4)(E) to (K). Pub. L. 106–291 added subpars. (E) to (K).
+2000—Subsec. (c)(4)(E) to (K). Pub. L. 106–291 added subpars. (E) to (K).
 
-<b>1998</b>—Subsec. (c)(4). Pub. L. 105–178, §8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+1998—Subsec. (c)(4). Pub. L. 105–178, §8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
 Subsec. (c)(4)(C). Pub. L. 105–178, §8101(f), as added by Pub. L. 105–206, §9013(b), in introductory provisions, substituted “Century or” for “Century and” and “as amended by the Transportation Equity Act for the 21st Century” for “as amended by this section”, and inserted concluding provisions.
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §§10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
+1997—Subsec. (a). Pub. L. 105–33, §§10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
 
 Subsec. (b). Pub. L. 105–33, §10202(a), substituted present text for former text which read as follows: “This subchapter provides for the enforcement of the deficit reduction assumed in House Concurrent Resolution 310 (101st Congress, second session) and the applicable deficit targets for fiscal years 1991 through 1995. Enforcement, as necessary, is to be implemented through sequestration—
 
@@ -226,7 +234,7 @@ Subsec. (c)(20). Pub. L. 105–33, §10202(b)(6), struck out par. (20) which rea
 
 Subsec. (c)(21). Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19).
 
-<b>1990</b>—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
+1990—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
 
 #### Effective Date of 1998 Amendment
 
@@ -294,7 +302,7 @@ Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of th
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
-Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
+Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or PublicLaw 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
 
 #### Waivers and Suspensions in the Senate
 
@@ -330,7 +338,7 @@ Section 213 of Pub. L. 100–119 provided that: “This Act and the amendments m
 
 Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
-&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of thatHouse to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
@@ -463,14 +471,6 @@ Sec. 4. <i>Implementation</i>. The Secretary of the Treasury and the Director of
 Sec. 5. <i>Effective Date</i>. This order shall take effect upon enactment of the Omnibus Budget Reconciliation Act of 1993 \[Aug. 10, 1993\].
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Act Referred to in Other Sections
-
-The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 643, 691c of this title; title 7 section 1446; title 10 section 2814; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 33 section 2736; title 38 section 113; title 39 section 2009a; title 42 sections 1382, 8621, 11303, 14211; title 48 section 1469a–1.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 633, 661a of this title; title 45 section 821; title 50 App. section 1989b–9.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

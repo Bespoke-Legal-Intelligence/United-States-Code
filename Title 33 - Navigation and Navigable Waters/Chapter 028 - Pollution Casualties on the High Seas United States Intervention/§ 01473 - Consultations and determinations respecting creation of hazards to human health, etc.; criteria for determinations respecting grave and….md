@@ -14,7 +14,3 @@
 
 For effective date of amendment by Pub. L. 95–302, see section 2 of Pub. L. 95–302, set out as a note under section 1487 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1471, 1479 of this title.
-

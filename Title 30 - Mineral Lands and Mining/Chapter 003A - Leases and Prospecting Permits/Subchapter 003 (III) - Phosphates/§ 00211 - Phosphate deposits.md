@@ -20,7 +20,3 @@ Any phosphate permit issued under this section may be extended by the Secretary 
 
 1948—Act June 3, 1948, included provision limiting amount of land in lease.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 213, 214 of this title; title 10 sections 7421, 7435.
-

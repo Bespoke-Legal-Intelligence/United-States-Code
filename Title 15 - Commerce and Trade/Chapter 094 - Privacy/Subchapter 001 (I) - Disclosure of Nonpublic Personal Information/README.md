@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—DISCLOSURE OF NONPUBLIC PERSONAL INFORMATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1681g of this title.
-
 
 ---
 

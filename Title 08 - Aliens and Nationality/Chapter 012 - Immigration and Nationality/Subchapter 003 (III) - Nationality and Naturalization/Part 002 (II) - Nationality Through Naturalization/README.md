@@ -1,9 +1,5 @@
 Part II—Nationality Through Naturalization
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1631 of this title.
-
 
 ---
 

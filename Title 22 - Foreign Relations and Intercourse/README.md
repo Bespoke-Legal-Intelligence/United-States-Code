@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 2003 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 2004 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -18,7 +18,7 @@
 | [<b>11.</b>](Chapter%20011%20-%20Foreign%20Agents%20and%20Propaganda/README.md) | <b>Foreign Agents and Propaganda</b> | <b>601</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Claims%20Commissions/README.md) | <b>Claims Commissions \[Omitted\]</b> | <b>661</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Service%20Courts%20of%20Friendly%20Foreign%20Forces/README.md) | <b>Service Courts of Friendly Foreign Forces</b> | <b>701</b> |
-| [<b>14.</b>](Chapter%20014%20-%20Foreign%20Service/README.md) | <b>Foreign Service \[Repealed, Omitted, or Transferred\]</b> | <b>801</b> |
+| [<b>14.</b>](Chapter%20014%20-%20Foreign%20Service/README.md) | <b>Foreign Service \[Repealed or Transferred\]</b> | <b>801</b> |
 | [<b>14A.</b>](Chapter%20014A%20-%20Foreign%20Service%20Information%20Officers%20Corps/README.md) | <b>Foreign Service Information Officers Corps \[Repealed\]</b> | <b>1221</b> |
 | [<b>15.</b>](Chapter%20015%20-%20The%20Republic%20of%20the%20Philippines/README.md) | <b>The Republic of the Philippines</b> | <b>1251</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Greek%20and%20Turkish%20Assistance/README.md) | <b>Greek and Turkish Assistance \[Repealed\]</b> | <b>1401</b> |
@@ -99,6 +99,8 @@
 | [<b>81.</b>](Chapter%20081%20-%20International%20Criminal%20Court/README.md) | <b>International Criminal Court</b> | <b>7401</b> |
 | [<b>82.</b>](Chapter%20082%20-%20Afghanistan%20Freedom/README.md) | <b>Afghanistan Freedom Support</b> | <b>7501</b> |
 | [<b>83.</b>](Chapter%20083%20-%20United%20States%20Leadership%20Against%20HIV-AIDS%2C%20Tuberculosis%2C%20and%20Malaria/README.md) | <b>United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria</b> | <b>7601</b> |
+| [<b>84.</b>](Chapter%20084%20-%20Millennium%20Challenge/README.md) | <b>Millennium Challenge</b> | <b>7701</b> |
+| [<b>85.</b>](Chapter%20085%20-%20North%20Korean%20Human%20Rights/README.md) | <b>North Korean Human Rights</b> | <b>7801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -201,3 +203,5 @@
 - [Chapter 081 - International Criminal Court](Chapter%20081%20-%20International%20Criminal%20Court/README.md)
 - [Chapter 082 - Afghanistan Freedom](Chapter%20082%20-%20Afghanistan%20Freedom/README.md)
 - [Chapter 083 - United States Leadership Against HIV-AIDS, Tuberculosis, and Malaria](Chapter%20083%20-%20United%20States%20Leadership%20Against%20HIV-AIDS%2C%20Tuberculosis%2C%20and%20Malaria/README.md)
+- [Chapter 084 - Millennium Challenge](Chapter%20084%20-%20Millennium%20Challenge/README.md)
+- [Chapter 085 - North Korean Human Rights](Chapter%20085%20-%20North%20Korean%20Human%20Rights/README.md)

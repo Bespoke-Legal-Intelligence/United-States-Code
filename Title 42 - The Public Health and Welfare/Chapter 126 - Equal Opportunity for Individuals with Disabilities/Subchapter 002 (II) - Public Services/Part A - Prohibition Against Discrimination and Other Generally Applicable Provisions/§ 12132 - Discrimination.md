@@ -4,7 +4,3 @@ Subject to the provisions of this subchapter, no qualified individual with a dis
 
 (Pub. L. 101–336, title II, §202, July 26, 1990, 104 Stat. 337.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12133, 12142, 12143, 12144, 12146, 12147, 12148, 12162, 12209 of this title; title 2 section 1331; title 3 section 421.
-

@@ -4,7 +4,3 @@ If any part of this chapter is adjudged unconstitutional by the courts, and such
 
 (Mar. 4, 1927, ch. 509, §50 formerly §49, 44 Stat. 1446; renumbered §50, Pub. L. 92–576, §19, Oct. 27, 1972, 86 Stat. 1263.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 30 section 932.
-

@@ -72,7 +72,3 @@
 
 Prior section 316 was renumbered section 1116 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 8103 of this title.
-

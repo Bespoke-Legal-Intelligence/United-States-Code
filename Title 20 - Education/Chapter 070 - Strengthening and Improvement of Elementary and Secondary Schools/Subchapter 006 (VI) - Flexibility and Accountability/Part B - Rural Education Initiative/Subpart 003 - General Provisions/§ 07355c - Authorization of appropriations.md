@@ -4,7 +4,3 @@ There are authorized to be appropriated to carry out this part $300,000,000 for 
 
 (Pub. L. 89–10, title VI, §6234, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1897.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7351 of this title.
-

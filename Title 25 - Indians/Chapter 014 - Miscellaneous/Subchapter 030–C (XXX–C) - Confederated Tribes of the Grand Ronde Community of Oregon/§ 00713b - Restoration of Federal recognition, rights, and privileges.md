@@ -32,15 +32,11 @@ No hunting, fishing, or trapping rights of any nature of the tribe or of any mem
 
 #### (e) Effect on property rights and other obligations
 
-Except as otherwise specifically provided in this subchapter, no provision contained in thissubchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.
+Except as otherwise specifically provided in this subchapter, no provision contained in this subchapter shall alter any property right or obligation, any contractual right or obligation, or any obligation for taxes already levied.
 
 (Pub. L. 98–165, §4, Nov. 22, 1983, 97 Stat. 1064.)
 
 #### References in Text
 
 Act approved August 13, 1954, referred to in subsecs. (a) and (b), is act Aug. 13, 1954, ch. 733, 68 Stat. 724, which is classified generally to subchapter XXX (§691 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 713a of this title.
 

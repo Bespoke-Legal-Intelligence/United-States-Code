@@ -26,7 +26,3 @@ This is a criminal provision. The first two paragraphs of the corresponding sect
 
 Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 157 of this title.
-

@@ -1,9 +1,5 @@
 subpart c—wetlands reserve program
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 3830, 3835a, 3838a, 3841, 3843 of this title; title 7 section 6962.
-
 
 ---
 

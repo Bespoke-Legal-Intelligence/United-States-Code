@@ -8,7 +8,3 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 
 1988—Pub. L. 100–301 inserted “and the Addition” in two places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698f, 698g, 698h, 698i, 698m of this title.
-

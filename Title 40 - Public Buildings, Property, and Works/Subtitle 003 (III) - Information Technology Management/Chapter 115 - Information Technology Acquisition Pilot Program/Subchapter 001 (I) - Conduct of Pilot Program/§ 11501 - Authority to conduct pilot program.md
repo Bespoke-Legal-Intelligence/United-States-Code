@@ -10,7 +10,7 @@ Purpose.—In consultation with the Administrator for the Office of Information 
 
 &emsp;(2)
 
-Multiagency, multi-activity conduct of each program.—Except as otherwise provided in this chapter, the pilot program conducted under this chapter shall be carried out in not more than two procuring activities in each of the executive agencies that are designated by the Administrator for Federal Procurement Policy in accordance with this chapter to carry out the pilot program. With the approval of the Administrator for Federal Procurement Policy, the head of each designated executive agency shall select the procuring activities of the executive agency that are to participate in the test and shall designate a procurement testing official who shall be responsible for the conduct and evaluation of the pilot program within the executive agency.
+Multiagency, multi-activity conduct of each program.—Except as otherwise provided in this chapter, the pilot program conducted under this chapter shall be carried out in not more than two procuring activities in each of the executive agencies that are designated by the Administrator for Federal Procurement Policy in accordance with this chapter to carry out the pilot program. With the approval of the Administrator for Federal Procurement Policy, the head of each designated executive agency shall select the procuring activities of the executive agency that are to participate inthe test and shall designate a procurement testing official who shall be responsible for the conduct and evaluation of the pilot program within the executive agency.
 
 (b)
 
@@ -87,10 +87,6 @@ Subsec. (c)(1). Pub. L. 107–314, §825(b)(2)(A)(v), and Pub. L. 107–347, §2
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11502 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

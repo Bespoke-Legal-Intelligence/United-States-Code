@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 300x of this title, an application for a grant under such section for afiscal year in accordance with this section if, subject to subsection (b) of this section—
+For purposes of section 300x of this title, an application for a grant under such section for a fiscal year in accordance with this section if, subject to subsection (b) of this section—
 
 &emsp;(1) the plan is received by the Secretary not later than September 1 of the fiscal year prior to the fiscal year for which a State is seeking funds, and the report from the previous fiscal year as required under section 300x–51 of this title is received by December 1 of the fiscal year of the grant;
 
@@ -39,10 +39,6 @@ A prior section 1917 of act July 1, 1944, was classified to section 300x–5 of 
 2000—Subsec. (a)(1). Pub. L. 106–310, §3204(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary as being the date after which applications for such a grant will not be considered (in any case in which the Secretary specifies such a date);”.
 
 Subsec. (b). Pub. L. 106–310, §3204(e), substituted “except Puerto Rico” for “whose allotment under section 300x of this title for the fiscal year is the amount specified in section 300x–7(c)(2)(B) of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

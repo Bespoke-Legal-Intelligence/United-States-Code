@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Pub. L. 86–249, §2, Sept. 9, 1959, 73 Stat. 479.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 450ss–6.
-

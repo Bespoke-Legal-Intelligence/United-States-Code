@@ -46,7 +46,3 @@ Pub. L. 98–473, title II, §1212, Oct. 12, 1984, 98 Stat. 2165, provided that:
 
 “(b) Subsection (a) shall apply with respect to checks issued for months after the ninth month after the date of the enactment of this Act \[Oct. 12, 1984\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 912, 1395ff of this title.
-

@@ -8,7 +8,7 @@
 
 &emsp;(B) with respect to a food's advertising which the Secretary determines causes the food to be so misbranded,
 
-> the Secretary shall, in accordance with paragraph (2), notify in writing the Federal Trade Commission of the action the Secretary proposes to take respecting such food or advertising.
+> the Secretary shall, in accordance with paragraph (2), notify in writing the Federal TradeCommission of the action the Secretary proposes to take respecting such food or advertising.
 
 (2) The notice required by paragraph (1) shall—
 

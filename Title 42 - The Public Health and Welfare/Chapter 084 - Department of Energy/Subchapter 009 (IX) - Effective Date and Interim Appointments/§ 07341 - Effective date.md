@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Executive Order No. 12009
 
-Ex. Ord. No. 12009, Sept. 13, 1977, 42 F.R. 46267, which prescribed Oct. 1, 1977, as the effective date of this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12009, Sept. 13, 1977, 42 F.R. 46267, which prescribed Oct. 1, 1977, as the effective date of thischapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

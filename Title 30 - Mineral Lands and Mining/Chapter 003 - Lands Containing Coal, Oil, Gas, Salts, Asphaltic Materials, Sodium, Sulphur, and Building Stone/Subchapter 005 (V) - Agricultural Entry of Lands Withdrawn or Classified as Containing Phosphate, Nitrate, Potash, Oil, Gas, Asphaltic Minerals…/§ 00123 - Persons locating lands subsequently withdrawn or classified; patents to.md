@@ -8,7 +8,3 @@ Any person who has, in good faith, located, selected, entered, or purchased, or 
 
 Patents for lands in North Platte Reclamation Project not to contain reservations of minerals in certain cases, see section 125 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 121, 122, 124, 125 of this title.
-

@@ -16,7 +16,3 @@ It shall be unlawful for any person to—
 
 1986—Par. (1)(D). Pub. L. 99–519 added cl. (D).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2615, 2616 of this title.
-

@@ -24,7 +24,7 @@ There are authorized to be appropriated to carry out part E of this subchapter, 
 
 No funds appropriated to carry out the purposes of this subchapter may be used for any bio-medical or behavior control experimentation on individuals or any research involving such experimentation. For the purpose of this subsection, the term “behavior control” refers to experimentation or research employing methods which involve a substantial risk of physical or psychological harm to the individual subject and which are intended to modify or alter criminal and other anti-social behavior, including aversive conditioning therapy, drug therapy or chemotherapy (except as part of routine clinical care), physical therapy of mental disorders, electroconvulsive therapy, or physical punishment. The term does not apply to a limited class of programs generally recognized as involving no such risk, including methadone maintenance and certain alcohol treatment programs, psychological counseling, parent training, behavior contracting, survival skills training, restitution, or community service, if safeguards are established for the informed consent of subjects (including parents or guardians of minors).
 
-(Pub. L. 93–415, title II, §299, formerly §261, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 94–273, §32(b), Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–503, title I, §130(a), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §6(b), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §§2(a), 15, Dec. 8, 1980, 94 Stat. 2750, 2760; Pub. L. 98–473, title II, §640, Oct. 12, 1984, 98 Stat. 2121; renumbered §291 and amended Pub. L. 100–690, title VII, §§7265, 7266(3), Nov. 18, 1988, 102 Stat. 4448, 4449; Pub. L. 101–204, title X, §§1001(e)(1), 1002, Dec. 7, 1989, 103 Stat. 1827; renumbered §299 and amended Pub. L. 102–586, §2(i)(1)(B), (j), Nov. 4, 1992, 106 Stat. 5006, 5016; Pub. L. 107–273, div. C, title II, §12213, Nov. 2, 2002, 116 Stat. 1891.)
+(Pub. L. 93–415, title II, §299, formerly §261, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 94–273, §32(b), Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–503, title I,§130(a), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §6(b), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §§2(a), 15, Dec. 8, 1980, 94 Stat. 2750, 2760; Pub. L. 98–473, title II, §640, Oct. 12, 1984, 98 Stat. 2121; renumbered §291 and amended Pub. L. 100–690, title VII, §§7265, 7266(3), Nov. 18, 1988, 102 Stat. 4448, 4449; Pub. L. 101–204, title X, §§1001(e)(1), 1002, Dec. 7, 1989, 103 Stat. 1827; renumbered §299 and amended Pub. L. 102–586, §2(i)(1)(B), (j), Nov. 4, 1992, 106 Stat. 5006, 5016; Pub. L. 107–273, div. C, title II, §12213, Nov. 2, 2002, 116 Stat. 1891.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 98–473, amended subsec. (c) generally. Prior to amendment
 
 Subsec. (d). Pub. L. 98–473, in amending section generally, added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–509, §2(a), substituted provisions authorizing appropriations of $200,000,000 foreach of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
+1980—Subsec. (a). Pub. L. 96–509, §2(a), substituted provisions authorizing appropriations of $200,000,000 for each of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
 
 Subsec. (c). Pub. L. 96–509, §15, added subsec. (c).
 
@@ -87,8 +87,4 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3796ee–10, 5633 of this title.
 

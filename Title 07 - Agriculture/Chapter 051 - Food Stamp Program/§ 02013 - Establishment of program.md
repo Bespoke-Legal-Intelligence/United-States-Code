@@ -42,7 +42,3 @@ Section 1505(b) of Pub. L. 99–198 provided that:
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2012, 2014, 4004a, 7509 of this title; title 8 section 1615; title 37 section 402a.
-

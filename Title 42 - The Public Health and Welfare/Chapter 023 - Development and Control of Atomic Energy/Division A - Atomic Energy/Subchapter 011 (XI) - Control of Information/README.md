@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—CONTROL OF INFORMATION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5817 of this title; title 22 section 3203.
-
 
 ---
 

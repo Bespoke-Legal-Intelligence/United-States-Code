@@ -8,7 +8,3 @@ The registrar may, in order to ascertain if the affairs of a China Trade Act cor
 
 United States Court for China, referred to in text, has been abolished. See Codification note set out under section 142 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 144 of this title.
-

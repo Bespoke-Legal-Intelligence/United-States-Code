@@ -20,7 +20,7 @@
 
 (5)(A) Whenever CABO Model Energy Code, 1992,<sup>1</sup> (or any successor of such code) is revised, the Secretary shall, not later than 12 months after such revision, determine whether such revision would improve energy efficiency in residential buildings. The Secretary shall publish notice of such determination in the Federal Register.
 
-(B) If the Secretary makes an affirmative determination under subparagraph (A), each Stateshall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed the revised code for which the Secretary made such determination.
+(B) If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed the revised code for which the Secretary made such determination.
 
 (C) Paragraphs (2), (3), and (4) shall apply to any determination made under subparagraph (B).
 
@@ -53,10 +53,6 @@ The Secretary shall provide technical assistance to States to implement the requ
 #### Prior Provisions
 
 A prior section 6833, Pub. L. 94–385, title III, §304, Aug. 14, 1976, 90 Stat. 1146; Pub. L. 95–91, title III, §§301(a), 304(a), title VII, §§703, 707, 709(e)(1), Aug. 4, 1977, 91 Stat. 577, 580, 606, 608; Pub. L. 96–399, title III, §326(a)–(c), Oct. 8, 1980, 94 Stat. 1649; Pub. L. 97–35, title X, §1041(a), (c), Aug. 13, 1981, 95 Stat. 621; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, related to development and promulgation of energy conservation voluntary performance standards for new commercial and residential buildings, prior to repeal by Pub. L. 102–486, title I, §101(a)(2), Oct. 24, 1992, 106 Stat. 2783.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7154, 8235 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

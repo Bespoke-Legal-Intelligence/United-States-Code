@@ -1,9 +1,5 @@
 ### SUBCHAPTER XI—POLICY AND ADMINISTRATIVE PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5905 of this title.
-
 
 ---
 

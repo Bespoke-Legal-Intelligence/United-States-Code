@@ -8,7 +8,3 @@ For the purpose of providing breeding places and for the protection and administ
 
 Areas comprising the Quachita National Wildlife Preserve, formerly known as the Muddy Creek Refuge, were designated by Proclamations of Mar. 8, 1935 (49 Stat. 3439), and Oct. 29, 1938 (53 Stat. 2495).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 693a of this title.
-

@@ -4,7 +4,3 @@ Before any contract is let or work begun for the construction of any reclamation
 
 (Aug. 13, 1914, ch. 247, §12, 38 Stat. 689.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 475 of this title.
-

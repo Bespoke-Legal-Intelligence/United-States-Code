@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man's activities;
 
-&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminishedbelow that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
+&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, andareas of similar significance for each species of marine mammal from the adverse effect of man's actions;
 
 &emsp;(3) there is inadequate knowledge of the ecology and population dynamics of such marine mammals and of the factors which bear upon their ability to reproduce themselves successfully;
 
@@ -74,7 +74,7 @@ Pub. L. 105–42, §2, Aug. 15, 1997, 111 Stat. 1122, provided that:
 
 Purposes.—The purposes of this Act \[see Short Title of 1997 Amendment note above\] are—
 
-&emsp;“(1) to give effect to the Declaration of Panama, signed October 4, 1995, by the Governments of Belize,Colombia, Costa Rica, Ecuador, France, Honduras, Mexico, Panama, Spain, the United States of America, Vanuatu, and Venezuela, including the establishment of the International Dolphin Conservation Program, relating to the protection of dolphins and other species, and the conservation and management of tuna in the eastern tropical Pacific Ocean;
+&emsp;“(1) to give effect to the Declaration of Panama, signed October 4, 1995, by the Governments of Belize, Colombia, Costa Rica, Ecuador, France, Honduras, Mexico, Panama, Spain, the United States of America, Vanuatu, and Venezuela, including the establishment of the International Dolphin Conservation Program, relating to the protection of dolphins and other species, and the conservation and management of tuna in the eastern tropical Pacific Ocean;
 
 &emsp;“(2) to recognize that nations fishing for tuna in the eastern tropical Pacific Ocean have achieved significant reductions in dolphin mortality associated with that fishery; and
 
@@ -127,8 +127,4 @@ Pub. L. 95–426, title VI, §602, Oct. 7, 1978, 92 Stat. 985, provided that: �
 &emsp;“(3) to cooperate in establishing an international cetacean commission to advance understanding of cetacean life and to insure the effective conservation and protection of cetaceans on a global scale; and
 
 &emsp;“(4) to adopt comprehensive marine mammal protection legislation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1371, 1372, 1373 of this title.
 

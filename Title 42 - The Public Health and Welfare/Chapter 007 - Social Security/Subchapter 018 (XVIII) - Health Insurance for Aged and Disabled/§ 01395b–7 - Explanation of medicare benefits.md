@@ -12,7 +12,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (1) In general
 
-&emsp;An individual may submit a written request to any physician, provider, supplier, or anyother person (including an organization, agency, or other entity) for an itemized statement for any item or service provided to such individual by such person with respect to which payment has been made under this subchapter.
+&emsp;An individual may submit a written request to any physician, provider, supplier, or any other person (including an organization, agency, or other entity) for an itemized statement for any item or service provided to such individual by such person with respect to which payment has been made under this subchapter.
 
 #### (2) 30-day period to furnish statement
 
@@ -71,8 +71,4 @@ In General.—The Secretary \[of Health and Human Services\] shall provide that 
 “(b)
 
 Effective Date.—Subsection (a) shall apply to notices provided during calendar quarters beginning more than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395b–2, 1395w–104 of this title.
 

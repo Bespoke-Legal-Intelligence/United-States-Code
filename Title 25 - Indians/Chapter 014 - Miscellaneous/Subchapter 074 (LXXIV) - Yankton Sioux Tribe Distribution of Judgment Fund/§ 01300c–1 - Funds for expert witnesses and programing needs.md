@@ -8,7 +8,3 @@ The Secretary of the Interior shall withhold from distribution a sum not to exce
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300c–3 of this title.
-

@@ -58,9 +58,5 @@ Section 4 of Pub. L. 95–575 provided:
 
 Section 5 of Pub. L. 95–575 provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of chapter 114 of title 18, United States Code, added by the first section of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

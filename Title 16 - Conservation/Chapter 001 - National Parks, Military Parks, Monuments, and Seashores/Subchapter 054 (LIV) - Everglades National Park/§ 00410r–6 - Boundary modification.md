@@ -2,7 +2,23 @@
 
 #### (a) Area included
 
-The park boundary is hereby modified to include approximately 107,600 acres as generally depicted on the map entitled “Boundary Map, Everglades National Park Addition, Dade County, Florida”, numbered 160–20,013B and dated September 1989. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+#### (1) In general
+
+&emsp;The park boundary is hereby modified to include approximately 107,600 acres as generally depicted on the map entitled “Boundary Map, Everglades National Park Addition, Dade County, Florida”, numbered 160–20,013B and dated September 1989.
+
+#### (2) Availability of map
+
+&emsp;The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+
+#### (3) Acquisition of additional land
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may acquire from 1 or more willing sellers not more than 10 acres of land located outside the boundary of the park and adjacent to or near the East Everglades area of the park for the development of administrative, housing, maintenance, or other park purposes.
+
+#### (B) Administration; applicable law
+
+&emsp;&emsp;On acquisition of the land under subparagraph (A), the land shall be administered as part of the park in accordance with the laws (including regulations) applicable to the park.
 
 #### (b) Boundary adjustment
 
@@ -32,13 +48,75 @@ In exercising the authority to acquire property under sections 410r–5 to 410r�
 
 Upon the request of the Governor of the State of Florida, the Secretary is authorized to provide technical assistance and personnel to assist in the acquisition of lands and waters within the Kissimmee River/Lake Okeechobee/Everglades Hydrologic Basin, including the Big Cypress Swamp, through the provision of Federal land acquisition personnel, practices, and procedures. The State of Florida shall reimburse the Secretary for such assistance in such amounts and at such time as agreed upon by the Secretary and the State. Notwithstanding any other provision of law, reimbursement received by the Secretary for such assistance shall be retained by the Secretary and shall be available without further appropriation for purposes of carrying out any authorized activity of the Secretary within the boundaries of the park.
 
-(Pub. L. 101–229, title I, §102, Dec. 13, 1989, 103 Stat. 1947.)
+#### (h) Land exchanges
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Administrator
+
+&emsp;&emsp;The term “Administrator” means the Administrator of General Services.
+
+#### (B) County
+
+&emsp;&emsp;The term “County” means Miami-Dade County, Florida.
+
+#### (C) County land
+
+&emsp;&emsp;The term “County land” means the 2 parcels of land owned by the County totaling approximately 152.93 acres that are designated as “Tract 605–01” and “Tract 605–03”.
+
+#### (D) District
+
+&emsp;&emsp;The term “District” means the South Florida Water Management District.
+
+#### (E) District land
+
+&emsp;&emsp;The term “District land” means the approximately 1,054 acres of District land located in the Southern Glades Wildlife and Environmental Area and identified on the map as “South Florida Water Management District Exchange Lands”.
+
+#### (F) General Services Administration land
+
+&emsp;&emsp;The term “General Services Administration land” means the approximately 595.28 acres of land designated as “Site Alpha” that is declared by the Department of the Navy to be excess land.
+
+#### (G) Map
+
+&emsp;&emsp;The term “map” means the map entitled “Boundary Modification for C–111 Project, Everglades National Park”, numbered 160/80,007A, and dated May 18, 2004.
+
+#### (H) National Park Service land
+
+&emsp;&emsp;The term “National Park Service land” means the approximately 1,054 acres of land located in the Rocky Glades area of the park and identified on the map as “NPS Exchange Lands”.
+
+#### (2) Exchange of General Services Administration land and County land
+
+&emsp;The Administrator shall convey to the County fee title to the General Services Administration land in exchange for the conveyance by the County to the Secretary of fee title to the County land.
+
+#### (3) Exchange of National Park Service land and District land
+
+#### (A) In general
+
+&emsp;&emsp;As soon as practicable after the completion of the exchange under paragraph (2), the Secretary shall convey to the District fee title to the National Park Service land in exchange for fee title to the District land.
+
+#### (B) Use of National Park Service land
+
+&emsp;&emsp;The National Park Service land conveyed to the District shall be used by the District for the purposes of the C–111 project, including restoration of the Everglades natural system.
+
+#### (C) Boundary adjustment
+
+&emsp;&emsp;On completion of the land exchange under subparagraph (A), the Secretary shall modify the boundary of the park to reflect the exchange of the National Park Service land and the District land.
+
+#### (4) Availability of map
+
+&emsp;The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+(Pub. L. 101–229, title I, §102, Dec. 13, 1989, 103 Stat. 1947; Pub. L. 108–483, §1, Dec. 23, 2004, 118 Stat. 3919.)
 
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 410r–5, 410r–7, 410r–8 of this title.
+2004—Subsec. (a). Pub. L. 108–483, §1(1), designated first sentence as par. (1), designated second sentence as par. (2), inserted par. headings, and added par. (3).
+
+Subsec. (h). Pub. L. 108–483, §1(2), added subsec. (h).
 

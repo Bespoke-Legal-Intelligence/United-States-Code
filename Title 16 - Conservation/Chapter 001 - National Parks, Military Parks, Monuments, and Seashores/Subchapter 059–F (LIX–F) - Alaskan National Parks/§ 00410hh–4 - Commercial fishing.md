@@ -1,6 +1,6 @@
 ### §410hh–4. Commercial fishing
 
-With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Forelands area of Wrangell-Saint Elias National Preserve and the Dry Bay area of Glacier Bay National Preserve, the Secretary may take no action to restrict unreasonably the exercise of valid commercial fishing rights or privileges obtained pursuant to existing law, including the use of public lands for campsites, cabins, motorized vehicles, and aircraft landings on existing airstrips, directly incident to the exercise of such rights or privileges except that this prohibition shall not apply to activities which the Secretary, after conducting a public hearing in the affected locality, finds constitute a significant expansionof the use of park lands beyond the level of such use during 1979.
+With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Forelands area of Wrangell-Saint Elias National Preserve and the Dry Bay area of Glacier Bay National Preserve, the Secretary may take no action to restrict unreasonably the exercise of valid commercial fishing rights or privileges obtained pursuant to existing law, including the use of public lands for campsites, cabins, motorized vehicles, and aircraft landings on existing airstrips, directly incident to the exercise of such rights or privileges except that this prohibition shall not apply to activities which the Secretary, after conducting a public hearing in the affected locality, finds constitute a significant expansion of the use of park lands beyond the level of such use during 1979.
 
 (Pub. L. 96–487, title II, §205, Dec. 2, 1980, 94 Stat. 2384.)
 
@@ -96,7 +96,7 @@ General.—
 
 &emsp;“(4) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant to paragraph (2), no fishing shall be allowed in the East Arm of Glacier Bay Proper (East Arm) north of a line drawn from Point Caroline, through the southern end of Garforth Island to the east side of Muir Inlet, except that trolling for king salmon during the period from October 1 through April 30 shall be allowed south of a line drawn across Muir Inlet at the southernmost point of Adams Inlet.
 
-&emsp;“(5) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant toparagraph (2), no fishing shall be allowed in Geikie Inlet.
+&emsp;“(5) With respect to the individuals engaging in commercial fishing in Glacier Bay Proper pursuant to paragraph (2), no fishing shall be allowed in Geikie Inlet.
 
 “(b)
 

@@ -4,7 +4,3 @@ The Association shall be subject to the supervision and oversight of the NAIC.
 
 (Pub. L. 106–102, title III, §324, Nov. 12, 1999, 113 Stat. 1424.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6762 of this title.
-

@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 #### (8) Person
 
-&emsp;The term “person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, publiccorporation, or any other legal or commercial entity.
+&emsp;The term “person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation, or any other legal or commercial entity.
 
 #### (9) Record
 
@@ -59,8 +59,4 @@ For purposes of this subchapter:
 &emsp;&emsp;(B) the sale, lease, exchange, or other disposition of any interest in real property, or any combination thereof.
 
 (Pub. L. 106–229, title I, §106, June 30, 2000, 114 Stat. 472.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7021, 7031 of this title; title 18 section 2725.
 

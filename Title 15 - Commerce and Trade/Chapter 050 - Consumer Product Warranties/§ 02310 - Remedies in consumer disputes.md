@@ -62,7 +62,3 @@ For purposes of this section, only the warrantor actually making a written affir
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsecs. (a)(3) and (e), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2304 of this title.
-

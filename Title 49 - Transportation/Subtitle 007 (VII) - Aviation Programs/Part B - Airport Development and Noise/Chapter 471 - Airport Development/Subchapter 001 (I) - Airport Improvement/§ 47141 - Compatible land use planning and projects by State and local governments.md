@@ -16,7 +16,7 @@ Eligibility.—In order to receive a grant under this section, a State or unit o
 
 &emsp;(2) enter into an agreement with the airport owner or operator that the development of the land use compatibility plan will be done cooperatively; and
 
-&emsp;(3) provide written assurance to the Secretary that it will achieve, to the maximum extent possible, compatible land uses consistent with Federal land use compatibility criteria under section 47502(3) and that those compatible land uses will be maintained.
+&emsp;(3) provide written assurance to the Secretary that it will achieve, to the maximumextent possible, compatible land uses consistent with Federal land use compatibility criteria under section 47502(3) and that those compatible land uses will be maintained.
 
 (c)
 

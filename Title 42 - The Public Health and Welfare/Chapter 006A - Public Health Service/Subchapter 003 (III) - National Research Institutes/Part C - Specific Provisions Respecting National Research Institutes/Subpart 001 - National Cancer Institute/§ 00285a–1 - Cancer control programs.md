@@ -22,7 +22,3 @@ The Director of the Institute shall establish and support demonstration, educati
 
 (July 1, 1944, ch. 373, title IV, §412, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 832.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 285a–6, 285a–7, 285a–8 of this title.
-

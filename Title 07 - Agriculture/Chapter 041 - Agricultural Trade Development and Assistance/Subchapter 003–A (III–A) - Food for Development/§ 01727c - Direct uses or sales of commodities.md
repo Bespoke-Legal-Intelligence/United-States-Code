@@ -34,7 +34,3 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1727d, 1727e of this title.
-

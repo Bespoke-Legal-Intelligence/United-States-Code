@@ -8,7 +8,3 @@ A book or document not having to do with the ordinary business transactions of t
 
 Based on 44 U.S. Code, 1964 ed., §219a (Mar. 3, 1905, ch. 1484, §1, 33 Stat. 1249).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3714b; title 35 section 2.
-

@@ -34,7 +34,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (B) Use of Federal employees
 
-&emsp;&emsp;At the request of the Trust, the employees of any Federal agency may be provided for implementation of sections 698v to 698v–10 of this title. Such employees detailed to the Trust for more than 30 days shall be provided on a reimbursable basis.
+&emsp;&emsp;At the request of the Trust, the employees of any Federal agency may be provided forimplementation of sections 698v to 698v–10 of this title. Such employees detailed to the Trust for more than 30 days shall be provided on a reimbursable basis.
 
 #### (e) Government Corporation
 
@@ -58,7 +58,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (f) Taxes
 
-The Trust and all properties administered by the Trust shall be exempt from all taxes andspecial assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
+The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
 
 #### (g) Donations
 
@@ -98,15 +98,11 @@ The Trust shall require that all holders of leases from, or parties in contract 
 
 #### (m) Name and insignia
 
-The Trust shall have the sole and exclusive right to use the words “Valles Caldera Trust”, and any seal, emblem, or other insignia adopted by the Board of Trustees. Without express written authority of the Trust, no person may use the words “Valles Caldera Trust” as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
+The Trust shall have the sole and exclusive right to use the words “Valles Caldera Trust”, and any seal, emblem, or other insignia adopted by the Board of Trustees. Without express written authority of the Trust, no person may use the words “Valles Caldera Trust” as the name under which that person shall do or purport to do business, for the purpose of trade, or by wayof advertisement, or in any manner that may falsely suggest any connection with the Trust.
 
 (Pub. L. 106–248, title I, §106, July 25, 2000, 114 Stat. 603.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 698v, 698v–1, 698v–3, 698v–6, 698v–7, 698v–8, 698v–9, 698v–10 of this title.
 

@@ -1,9 +1,5 @@
 ### Division A—Troops-to-Teachers Program
 
-#### Division Referred to in Other Sections
-
-This division is referred to in section 6691 of this title.
-
 
 ---
 

@@ -46,7 +46,7 @@ Coordination of Nondiscrimination Provisions
 
 (c) Section 504 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794).
 
-(d) Any other provision of Federal statutory law which provides, in whole or in part, that no person in the United States shall, on the ground of race, color, national origin, handicap, religion, or sex, be excludedfrom participation in, be denied the benefits of, or be subject to discrimination under any program or activity receiving Federal financial assistance.
+(d) Any other provision of Federal statutory law which provides, in whole or in part, that no person in the United States shall, on the ground of race, color, national origin, handicap, religion, or sex, be excluded from participation in, be denied the benefits of, or be subject to discrimination under any program or activity receiving Federal financial assistance.
 
 1–202. In furtherance of the Attorney General's responsibility for the coordination of the implementation and enforcement of the nondiscrimination provisions of laws covered by this Order, the Attorney General shall review the existing and proposed rules, regulations, and orders of general applicability of the Executive agencies in order to identify those which are inadequate, unclear or unnecessarily inconsistent.
 
@@ -88,7 +88,7 @@ Agency Implementation
 
 General Provisions
 
-1–501. Executive Order No. 11764 is revoked. The present regulations of the Attorney General relating to the coordination of enforcement of Title VI of the Civil Rights Act of 1964 \[this subchapter\] shall continue in effect until revoked or modified (28 CFR 42.401 to 42.415).
+1–501. Executive Order No. 11764 is revoked. The present regulations of the Attorney General relating tothe coordination of enforcement of Title VI of the Civil Rights Act of 1964 \[this subchapter\] shall continue in effect until revoked or modified (28 CFR 42.401 to 42.415).
 
 1–502. Executive Order No. 11914 is revoked. The present regulations of the Secretary of Health and Human Services relating to the coordination of the implementation of Section 504 of the Rehabilitation Act of 1973, as amended \[29 U.S.C. 794\], shall be deemed to have been issued by the Attorney General pursuant to this Order and shall continue in effect until revoked or modified by the Attorney General.
 
@@ -125,8 +125,4 @@ Sec. 5. <i>Judicial Review.</i>
 This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers or employees, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2000d–2, 2000d–5, 9821, 9849, 10406 of this title; title 20 section 7905; title 39 section 410.
 

@@ -24,7 +24,3 @@ Changes were made in phraseology and arrangement.
 
 1972—Subsec. (a). Pub. L. 92–331 substituted “September 1, September 15, October 1, October 15, November 1, November 15, December 1, December 15, January 1, January 15, February 1,” for “August 16, September 1, September 16, October 1, October 18, November 1, November 14, December 1, December 13, January 16,” and “September 1” for “August 16”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2276.
-

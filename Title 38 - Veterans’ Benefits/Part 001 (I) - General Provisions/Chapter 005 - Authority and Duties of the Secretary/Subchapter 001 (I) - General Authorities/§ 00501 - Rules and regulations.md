@@ -14,7 +14,7 @@
 
 (c) In applying section 552(a)(1) of title 5 to the Department, the Secretary shall ensure that subparagraphs (C), (D), and (E) of that section are complied with, particularly with respect to opinions and interpretations of the General Counsel.
 
-(d) The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of thatsection, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
+(d) The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of that section, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 386.)
 
@@ -23,8 +23,4 @@
 Prior section 501 was renumbered section 1501 of this title.
 
 Provisions similar to those in this section were contained in sections 210(c)(1) and 223(a), (b) of this title prior to repeal by Pub. L. 102–83, §2(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title.
 

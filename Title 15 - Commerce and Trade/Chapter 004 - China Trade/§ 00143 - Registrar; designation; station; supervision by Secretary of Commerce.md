@@ -6,11 +6,7 @@ The Secretary of Commerce may authorize such Foreign Service officer as Secretar
 
 #### Transfer of Functions
 
-Secretary of Commerce may authorize such Foreign Service officer as Secretary of State shall make available to perform duties of China Trade Act Registrarunder direction of Secretary of Commerce to conform to 1939 Reorg. Plan No. II, set out in the Appendix to Title 5, Government Organization and Employees.
+Secretary of Commerce may authorize such Foreign Service officer as Secretary of State shall make available to perform duties of China Trade Act Registrar under direction of Secretary of Commerce to conform to 1939 Reorg. Plan No. II, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Responsibilities of Secretary of Commerce with regard to China Trade Act Registrar are exercised by Deputy Assistant Secretary for International Commerce in Domestic and International Business Administration of the Department of Commerce, with the power of redelegation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 142 of this title; title 18 section 6001.
 

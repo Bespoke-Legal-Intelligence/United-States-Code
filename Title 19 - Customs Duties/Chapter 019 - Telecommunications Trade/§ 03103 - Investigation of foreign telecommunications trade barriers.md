@@ -28,15 +28,11 @@ In identifying priority foreign countries under subsection (a) of this section, 
 
 > if information available to the Trade Representative indicates that such action is appropriate.
 
-(2) The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of anyidentification of any foreign country as a priority foreign country.
+(2) The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of any identification of any foreign country as a priority foreign country.
 
 #### (d) Report to Congress
 
 By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) of this section is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
 
 (Pub. L. 100–418, title I, §1374, Aug. 23, 1988, 102 Stat. 1217.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3104, 3105, 3108 of this title.
 

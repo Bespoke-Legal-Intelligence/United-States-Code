@@ -28,7 +28,3 @@ Subsec. (a)(2). Pub. L. 101–637, §9, inserted “by deposit in the Asbestos T
 
 Subsec. (b). Pub. L. 101–637, §14(b)(11), inserted heading.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4019, 4022 of this title.
-

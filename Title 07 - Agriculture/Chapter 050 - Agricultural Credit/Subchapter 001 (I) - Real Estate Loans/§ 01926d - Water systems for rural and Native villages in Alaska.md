@@ -38,7 +38,3 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 Subsec. (d). Pub. L. 105–277 substituted “$20,000,000” for “$15,000,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 917, 1926c of this title.
-

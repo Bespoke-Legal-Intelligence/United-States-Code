@@ -4,7 +4,3 @@ The said schedules of rates and charges for transmission, the said schedules of 
 
 (Pub. L. 93–454, §10, Oct. 18, 1974, 88 Stat. 1378.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 839e of this title.
-

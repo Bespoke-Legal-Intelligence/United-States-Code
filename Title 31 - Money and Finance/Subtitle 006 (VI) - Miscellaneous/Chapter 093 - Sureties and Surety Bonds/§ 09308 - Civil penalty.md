@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 The section is substituted for 6:13 for clarity and consistency.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9307 of this title; title 5 section 8478; title 12 section 1766; title 29 sections 502, 1112, 1363.
-

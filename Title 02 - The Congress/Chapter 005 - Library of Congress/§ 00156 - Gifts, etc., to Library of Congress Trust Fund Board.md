@@ -8,7 +8,3 @@ The Board is authorized to accept, receive, hold, and administer such gifts, beq
 
 Section is comprised of first par. of section 2 of act Mar. 3, 1925. Second, third, and fourth pars. of section 2 are classified to sections 157, 158, and 158a of this title, respectively.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 158a, 160 of this title.
-

@@ -8,7 +8,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2007, c
 
 #### (1) Eligible producers
 
-&emsp;To be eligible to participate in the conservation security program (other than to receive technical assistance under section 3838c(g) of this title for the development of conservation security contracts), a producer shall—
+&emsp;To be eligible to participate in the conservation security program (other than to receivetechnical assistance under section 3838c(g) of this title for the development of conservation security contracts), a producer shall—
 
 &emsp;&emsp;(A) develop and submit to the Secretary, and obtain the approval of the Secretary of, a conservation security plan that meets the requirements of subsection (c)(1) of this section; and
 
@@ -58,7 +58,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2007, c
 
 #### (2) Resource planning
 
-&emsp;The Secretary may assist producers that enter into conservation security contracts indeveloping a comprehensive, long-term strategy for improving and maintaining all natural resources of the agricultural operation of the producer.
+&emsp;The Secretary may assist producers that enter into conservation security contracts in developing a comprehensive, long-term strategy for improving and maintaining all natural resources of the agricultural operation of the producer.
 
 #### (d) Conservation contracts and practices
 
@@ -206,7 +206,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2007, c
 
 #### (ii) Participation in other programs
 
-&emsp;&emsp;&emsp;If appropriate payment reductions and other adjustments (as determined by the Secretary) are made to the conservation security contract of a producer, the producer may—
+&emsp;&emsp;&emsp;If appropriate payment reductions and other adjustments (as determined by theSecretary) are made to the conservation security contract of a producer, the producer may—
 
 &emsp;&emsp;&emsp;&emsp;(I) simultaneously participate in—
 
@@ -259,8 +259,4 @@ The Secretary shall include in the conservation security contract a provision, a
 #### Prior Provisions
 
 A prior section 3838a, Pub. L. 99–198, title XII, §1238A, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, defined terms for purposes of this part, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3838 of this title.
 

@@ -12,7 +12,7 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 “(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940 the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
-“Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading ‘In the case of food:’, of the Food and Drugs Act of June 30, 1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
+“Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading ‘In the case of food:’, of the Food and Drugs Act of June 30,1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
 
 “(b) The provisions of such Act of June 30, 1906, as amended, \[sections 1 to 5, 7 to 15, and 372a of this title\] to the extent that they impose, or authorize the imposition of, any requirement imposed by section 403(k) of the Federal Food, Drug, and Cosmetic Act \[section 343(k) of this title\], shall remain in force until January 1, 1940.
 
@@ -29,6 +29,14 @@ Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this 
 #### Hazardous Substances
 
 Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
+
+#### Short Title of 2004 Amendments
+
+Pub. L. 108–282, title I, §101, Aug. 2, 2004, 118 Stat. 891, provided that: “This title \[enacting sections 360ccc to 360ccc–2 of this title, amending sections 321, 331, 352, 353, 354, and 360b of this title, enacting provisions set out as notes under sections 360ccc and 393 of this title, and amending provisions set out as a note under section 360b of this title\] may be cited as the ‘Minor Use and Minor Species Animal Health Act of 2004’.”
+
+Pub. L. 108–282, title II, §201, Aug. 2, 2004, 118 Stat. 905, provided that: “This title \[enacting section 374a of this title and section 242r of Title 42, The Public Health and Welfare, amending sections 321, 343, and 343–1 of this title, and enacting provisions set out as notes under sections 321 and 343 of this title and sections 243 and 300d–2 of Title 42\] may be cited as the ‘Food Allergen Labeling and Consumer Protection Act of 2004’.”
+
+Pub. L. 108–214, §1, Apr. 1, 2004, 118 Stat. 572, provided that: “This Act \[amending sections 331, 352, 360, 360e, 374, 379i, and 379j of this title and provisions set out as notes under sections 352, 360<i>l</i>, and 379j of this title\] may be cited as the ‘Medical Devices Technical Corrections Act’.”
 
 #### Short Title of 2003 Amendments
 
@@ -48,9 +56,9 @@ Pub. L. 107–109, §1, Jan. 4, 2002, 115 Stat. 1408, provided that: “This Act
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: “This section \[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may be cited as the ‘Medicine Equity and Drug Safety Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: “This section \[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may becited as the ‘Medicine Equity and Drug Safety Act of 2000’.”
 
-Pub. L. 106–387, §1(a) \[title VII, §746(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: “This section\[amending section 381 of this title and enacting provisions set out as a note under section 381 of this title\] may be cited as the ‘Prescription Drug Import Fairness Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title VII, §746(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: “This section \[amending section 381 of this title and enacting provisions set out as a note under section 381 of this title\] may be cited as the ‘Prescription Drug Import Fairness Act of 2000’.”
 
 #### Short Title of 1998 Amendment
 

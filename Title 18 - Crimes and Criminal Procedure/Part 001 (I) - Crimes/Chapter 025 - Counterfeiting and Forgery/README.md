@@ -78,10 +78,6 @@ Pub. L. 98–473, title II, §1105(b), Oct. 12, 1984, 98 Stat. 2145, added secon
 
 1951—Act July 16, 1951, ch. 226, §5(c), 65 Stat. 122, struck out “; publisher's illustrations excepted” in item 489.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3.
-
 
 ---
 

@@ -34,7 +34,3 @@ The Secretary—
 
 A prior section 7 of Pub. L. 92–402 was renumbered section 8 and is classified to section 1220d of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1220a of this title.
-

@@ -24,7 +24,7 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 
 #### (1) Damages
 
-&emsp;Except as provided in paragraphs (3) and (4), an action for damages under this Act shall bebarred unless the action is brought within 3 years after—
+&emsp;Except as provided in paragraphs (3) and (4), an action for damages under this Act shall be barred unless the action is brought within 3 years after—
 
 &emsp;&emsp;(A) the date on which the loss and the connection of the loss with the discharge in question are reasonably discoverable with the exercise of due care, or
 
@@ -59,8 +59,4 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2709 of this title.
 

@@ -16,7 +16,3 @@ The purposes of this chapter are to—
 
 (Pub. L. 100–147, title II, §203, Oct. 30, 1987, 101 Stat. 869.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2486c, 2486d of this title.
-

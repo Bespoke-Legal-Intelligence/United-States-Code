@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Jan. 3, 1975, Pub. L. 93–633, §110(b), 88 Stat. 2161; restated Nov. 16, 1990, Pub. L. 101–615, §12(b), 104 Stat. 3259.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5102, 5122, 5711 of this title.
-

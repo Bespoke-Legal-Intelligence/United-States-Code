@@ -90,7 +90,3 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 262d, 2151n, 2304 of this title; title 8 section 1182; title 50 section 402.
-

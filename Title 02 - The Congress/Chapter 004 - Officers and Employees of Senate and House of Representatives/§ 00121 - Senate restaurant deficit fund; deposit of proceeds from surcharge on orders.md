@@ -6,13 +6,9 @@ The Committee on Rules and Administration of the United States Senate is authori
 
 #### Amendments
 
-<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
+1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee on Rules”.
 
 #### Effective Date of 1946 Amendment
 
 Section 142 of act Aug. 2, 1946, provided that the amendment made by that act is effective Jan. 2, 1947.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5363.
 

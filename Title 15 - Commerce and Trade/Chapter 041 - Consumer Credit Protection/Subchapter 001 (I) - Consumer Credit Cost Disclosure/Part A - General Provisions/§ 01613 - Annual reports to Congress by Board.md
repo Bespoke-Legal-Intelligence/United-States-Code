@@ -14,7 +14,3 @@ Each year the Board shall make a report to the Congress concerning the administr
 
 Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 247.
-

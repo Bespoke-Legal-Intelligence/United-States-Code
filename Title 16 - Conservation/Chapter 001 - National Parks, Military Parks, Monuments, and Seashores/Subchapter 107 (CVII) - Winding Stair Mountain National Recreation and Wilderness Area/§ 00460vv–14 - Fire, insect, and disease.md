@@ -4,7 +4,3 @@ Nothing in this subchapter shall preclude the Secretary of Agriculture from carr
 
 (Pub. L. 100–499, §16, Oct. 18, 1988, 102 Stat. 2498.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460vv–7 of this title.
-

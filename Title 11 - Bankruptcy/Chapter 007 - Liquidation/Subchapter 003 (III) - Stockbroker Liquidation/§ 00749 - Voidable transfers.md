@@ -20,7 +20,3 @@ Section 749 indicates that if the trustee avoids a transfer, property recovered 
 
 1982—Pub. L. 97–222 substituted “(a) Except as otherwise provided in this section, any” for “Any”, and “but” for “except”, inserted “such property”, substituted “or 549” for “549, or 724(a)”, and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 106 of this title.
-

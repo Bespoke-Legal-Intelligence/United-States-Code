@@ -36,7 +36,3 @@ An electric powerplant has the capability to use coal or another alternate fuel 
 
 &emsp;“(2) no new electric powerplant may be constructed without the capability to use coal or any other alternate fuel as a primary energy source.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8321, 8323 of this title.
-

@@ -6,7 +6,7 @@ Meats and meat food products shall be exempt from the provisions of this chapter
 
 #### (b) Laws unaffected
 
-Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of section 351 of Public Health Service Act \[42 U.S.C. 262\] (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833) \[21 U.S.C. 151 et seq.\]; the Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch.10), the Filled Milk Act of March 4, 1923 \[21 U.S.C. 61 et seq.\]; or the Import Milk Act of February 15, 1927 \[21 U.S.C. 141 et seq.\].
+Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of section 351 of Public Health Service Act \[42 U.S.C. 262\] (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833) \[21 U.S.C. 151 et seq.\]; the Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), the Filled Milk Act of March 4, 1923 \[21 U.S.C. 61 et seq.\]; or the Import Milk Act of February 15, 1927 \[21 U.S.C. 141 et seq.\].
 
 (June 25, 1938, ch. 675, §902(b), (c), 52 Stat. 1059; Pub. L. 90–399, §107, July 13, 1968, 82 Stat. 353.)
 
@@ -37,8 +37,4 @@ Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar mont
 #### Availability of Appropriations
 
 Section 902(d) of act June 25, 1938, provided that: “In order to carry out the provisions of this Act which take effect \[see section 902(a) of act June 25, 1938, set out as an Effective Date note under section 301 of this title\] prior to the repeal of the Food and Drugs Act of June 30, 1906, as amended \[sections 1 to 15 of this title\], appropriations available for the enforcement of such Act of June 30, 1906, are also authorized to be made available to carry out such provisions.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 679 of this title.
 

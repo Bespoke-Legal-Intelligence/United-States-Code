@@ -22,7 +22,7 @@
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States in any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition of suchperson under such subsection, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under such subsection (a) of this section.
+&emsp;The district court of the United States in any district in which the person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition of such person under such subsection, if a complaint for that purpose is filed not later than 20 days after the date of the entry of a ruling by the Secretary under such subsection (a) of this section.
 
 #### (2) Process
 
@@ -45,8 +45,4 @@
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6307, 6308 of this title.
 

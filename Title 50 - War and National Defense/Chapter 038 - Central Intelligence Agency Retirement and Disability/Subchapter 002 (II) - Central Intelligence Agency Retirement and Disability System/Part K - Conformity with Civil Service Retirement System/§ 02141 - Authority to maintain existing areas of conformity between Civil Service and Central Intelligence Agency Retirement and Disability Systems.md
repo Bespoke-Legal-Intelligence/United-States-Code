@@ -52,3 +52,7 @@ Sec. 2. Nothing contained in this order is intended to create, nor does it creat
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Applicability of Federal Physicians Comparability Allowance Amendments of 2000
+
+The Director of Central Intelligence to issue regulations to reflect application of sections 3(a) and 3(b) of Pub. L. 106–571, amending sections 8331 and 8339 of Title 5, Government Organization and Employees, to the Central Intelligence Agency Retirement and Disability System, see Ex. Ord. No. 13297, §3(b), Apr. 23, 2003, 68 F.R. 22566, set out as a note under section 4067 of Title 22, Foreign Relations and Intercourse.
+

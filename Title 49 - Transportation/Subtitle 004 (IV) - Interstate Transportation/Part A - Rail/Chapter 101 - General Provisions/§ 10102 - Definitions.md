@@ -28,7 +28,7 @@ In this part—
 
 &emsp;&emsp;(A) a locomotive, car, vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, by rail, regardless of ownership or an agreement concerning use; and
 
-&emsp;&emsp;(B) services related to that movement, including receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, and interchange of passengers and property; and
+&emsp;&emsp;(B) services related to that movement, including receipt, delivery, elevation, transferin transit, refrigeration, icing, ventilation, storage, handling, and interchange of passengers and property; and
 
 &emsp;(10) “United States” means the States of the United States and the District of Columbia.
 
@@ -117,8 +117,4 @@ Section 10386, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to report
 Section 10387, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to budget requests and estimates of Office of Rail Public Counsel.
 
 Section 10388, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358; Pub. L. 96–73, title III, §301, Sept. 29, 1979, 93 Stat. 557, authorized appropriations for Office of Rail Public Counsel for fiscal year ending Sept. 30, 1980.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 501 of this title; title 45 section 1344.
 

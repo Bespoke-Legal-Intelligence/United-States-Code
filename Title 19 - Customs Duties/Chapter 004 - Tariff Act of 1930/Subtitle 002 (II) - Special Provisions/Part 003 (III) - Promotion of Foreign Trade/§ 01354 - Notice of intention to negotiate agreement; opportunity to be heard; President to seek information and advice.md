@@ -22,7 +22,3 @@ National Military Establishment changed to Department of Defense by act Aug. 10,
 
 Act Sept. 26, 1949, §2, repealed act June 26, 1948, ch. 678, §3(c), 62 Stat. 1054, formerly cited as a credit to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1304, 1360, 1366 of this title.
-

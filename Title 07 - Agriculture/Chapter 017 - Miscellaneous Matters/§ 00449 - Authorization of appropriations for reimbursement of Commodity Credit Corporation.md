@@ -4,7 +4,3 @@ There are authorized to be appropriated such sums as may be necessary to reimbur
 
 (Pub. L. 87–152, §3, Aug. 17, 1961, 75 Stat. 389.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 447, 448 of this title.
-

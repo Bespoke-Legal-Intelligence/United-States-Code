@@ -80,7 +80,3 @@ Subsec. (d). Pub. L. 99–646, §55(f)(3), inserted “of this title” after �
 
 Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2516, 3156 of this title; title 8 section 1535; title 28 section 994; title 42 section 10601.
-

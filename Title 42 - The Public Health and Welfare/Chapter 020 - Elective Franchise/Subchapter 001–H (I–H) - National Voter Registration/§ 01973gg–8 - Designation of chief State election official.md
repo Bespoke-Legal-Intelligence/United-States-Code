@@ -4,7 +4,3 @@ Each State shall designate a State officer or employee as the chief State electi
 
 (Pub. L. 103–31, §10, May 20, 1993, 107 Stat. 87.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973gg–6, 15403 of this title.
-

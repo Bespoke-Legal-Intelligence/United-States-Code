@@ -42,7 +42,3 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Section effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as a note under section 3381 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3382 of this title.
-

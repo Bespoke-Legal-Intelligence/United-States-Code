@@ -4,7 +4,3 @@ The authorities provided in this part apply to any procurement of property or se
 
 (Pub. L. 107–296, title VIII, §852, Nov. 25, 2002, 116 Stat. 2235.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423, 424, 425, 426 of this title.
-

@@ -12,7 +12,7 @@ In accordance with section 1471c(a) of this title, the Secretary shall make one 
 
 &emsp;&emsp;(B) with respect to such assistance provided for any other livestock emergency, 50 percent of the average market price in the county or area involved, as determined by the Secretary.
 
-&emsp;(3) Reimbursement of any transportation and handling expenses incurred, not to exceed 50 percent of such expenses, by a producer in connection with feed grain donations or sales under paragraphs (1) and (2).
+&emsp;(3) Reimbursement of any transportation and handling expenses incurred, not to exceed 50 percent of such expenses, by a producer inconnection with feed grain donations or sales under paragraphs (1) and (2).
 
 &emsp;(4) Reimbursement of not to exceed 50 percent of the cost of feed purchased by a producer for the producer's livestock during the duration of the livestock emergency.
 
@@ -109,8 +109,4 @@ Funding.—(1) The Secretary shall use the funds, facilities, and authorities of
 “(2) Not more than $50,000,000 of the funds of the Commodity Credit Corporation may be expended under paragraph (1).
 
 “(3) To ensure the equitable award of funds under agreements under this section, as limited under paragraph (2), the Secretary may prorate, and adopt procedures to facilitate proration of, funds made available under this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1471b, 1471c, 1471e of this title.
 

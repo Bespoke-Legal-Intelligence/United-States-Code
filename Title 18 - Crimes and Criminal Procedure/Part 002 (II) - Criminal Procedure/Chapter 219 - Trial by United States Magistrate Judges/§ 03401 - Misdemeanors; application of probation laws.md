@@ -46,7 +46,7 @@ Subsecs. (h), (i). Pub. L. 102–572, §103(2), added subsecs. (h) and (i).
 
 1984—Subsecs. (g), (h). Pub. L. 98–473, §223(j)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to powers of magistrate in case involving youthful offender. Former subsec. (g), as amended by Pub. L. 100–690, read as follows: “The magistrate may, in a case involving a youth offender in which consent to trial before a magistrate has been filed under subsection (b) of this section, impose sentence and exercise the other powers granted to the district court under chapter 402 of this title, except that—
 
-&emsp;“(1) the magistrate may not sentence the youth offender to the custody of the Attorney General pursuant to such chapter for a period in excess of 1 year for conviction of a misdemeanor or 6 months for conviction of a petty offense;
+&emsp;“(1) the magistrate may not sentence the youth offender to the custody of the Attorney General pursuant to such chapter for a period in excess of 1 year forconviction of a misdemeanor or 6 months for conviction of a petty offense;
 
 &emsp;“(2) such youth offender shall be released conditionally under supervision no later than 3 months before the expiration of the term imposed by the magistrate, and shall be discharged unconditionally on or before the expiration of the maximum sentence imposed; and
 
@@ -99,8 +99,4 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of Title 28, Judiciary and Judicial Procedure, and preceding former section 21 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5032 of this title; title 7 section 1011; title 16 sections 460d, 460<i>l</i>–6a, 551, 670j, 1338; title 28 sections 636, 1915; title 43 sections 373b, 1733; title 48 sections 1912, 1934.
 

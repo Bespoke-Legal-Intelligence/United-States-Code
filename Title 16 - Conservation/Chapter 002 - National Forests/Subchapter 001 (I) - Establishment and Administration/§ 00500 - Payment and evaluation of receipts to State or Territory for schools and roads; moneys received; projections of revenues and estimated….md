@@ -1,6 +1,6 @@
 ### §500. Payment and evaluation of receipts to State or Territory for schools and roads; moneys received; projections of revenues and estimated payments
 
-On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributiveshare to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term “moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
+On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term“moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
 (May 23, 1908, ch. 192, 35 Stat. 260; Mar. 1, 1911, ch. 186, §13, 36 Stat. 963; June 30, 1914, ch. 131, 38 Stat. 441; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737; Apr. 24, 1950, ch. 97, §17(b), 64 Stat. 87; Pub. L. 94–588, §16, Oct. 22, 1976, 90 Stat. 2961.)
 
@@ -64,7 +64,7 @@ Reporting Requirement.—Not later than March 1, 2002, the Secretary of Agricult
 
 “(d)
 
-Additional Eligible County Election.—Notwithstanding section 102(b)(2) of such Act \[set out in a note below\], if the revision pursuant to subsection (b) of the table referred to in subsection (a) results in a reduced full payment amount for an eligible county that elected under section 102(b) of such Act to receive the full payment amount, the eligible county shall have a 90-day period, beginning on the date the revised table is first available to the public, during which to reconsider and change its election. The eligible county shall notify the Secretary of Agriculture of any change in itselection before the end of such period. If an eligible county elects under this subsection to receive the 25-percent payment in place of the full payment amount, the election shall be effective for 1 year.
+Additional Eligible County Election.—Notwithstanding section 102(b)(2) of such Act \[set out in a note below\], if the revision pursuant to subsection (b) of the table referred to in subsection (a) results in a reduced full payment amount for an eligible county that elected under section 102(b) of such Act to receive the full payment amount, the eligible county shall have a 90-day period, beginning on the date the revised table is first available to the public, during which to reconsider and change its election. The eligible county shall notify the Secretary of Agriculture of any change in its election before the end of such period. If an eligible county elects under this subsection to receive the 25-percent payment in place of the full payment amount, the election shall be effective for 1 year.
 
 “(e)
 
@@ -150,7 +150,7 @@ Federal lands.—The term ‘Federal lands’ means—
 
 &emsp;&emsp;“(A) lands within the National Forest System, as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)) exclusive of the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012 \[7 U.S.C. 1000 et seq.\]); and
 
-&emsp;&emsp;“(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant lands as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-sitelands valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; \[former\] 43 U.S.C. 1181c), for permanent forest production.
+&emsp;&emsp;“(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant lands as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site lands valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; \[former\] 43 U.S.C. 1181c), for permanent forest production.
 
 &emsp;“(2)
 
@@ -158,7 +158,7 @@ Eligibility period.—The term ‘eligibility period’ means fiscal year 1986 t
 
 &emsp;“(3)
 
-Eligible county.—The term ‘eligible county’ means a county that received 50-percent payments for one or more fiscal years of the eligibility period or a county that received a portion of an eligible State's 25-percent payments for one or more fiscal years of the eligibility period. The term includes a county established after the date of the enactment of this Act \[Oct. 30, 2000\] so long as the county includes all or a portion of a county described in the preceding sentence.
+Eligible county.—The term ‘eligible county’ means a county that received 50-percent payments for one or more fiscal years of the eligibility periodor a county that received a portion of an eligible State's 25-percent payments for one or more fiscal years of the eligibility period. The term includes a county established after the date of the enactment of this Act \[Oct. 30, 2000\] so long as the county includes all or a portion of a county described in the preceding sentence.
 
 &emsp;“(4)
 
@@ -280,11 +280,11 @@ Election.—
 
 &emsp;&emsp;“(A)
 
-In general.—An eligible county shall notify the Secretary of Agriculture of its election under this subsection not later than September 30 of each fiscal year. If the eligible county fails to make an election by that date, the county is deemed to haveelected to expend 85 percent of the funds to be received under this section in the same manner in which the 25-percent payments are required to be expended, and shall remit the balance to the Treasury of the United States in accordance with section 402(b).
+In general.—An eligible county shall notify the Secretary of Agriculture of its election under this subsection not later than September 30 of each fiscal year. If the eligible county fails to make an election by that date, the county is deemed to have elected to expend 85 percent of the funds to be received under this section in the same manner in which the 25-percent payments are required to be expended, and shall remit the balance to the Treasury of the United States in accordance with section 402(b).
 
 &emsp;&emsp;“(B)
 
-Counties with minor distributions.—Notwithstanding any adjustment made pursuant to section 101(b) in the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to subsection (c)(1), the eligible county may elect to expend all such funds in accordance with subsection (c)(2).
+Counties with minor distributions.—Notwithstanding any adjustment made pursuant tosection 101(b) in the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to subsection (c)(1), the eligible county may elect to expend all such funds in accordance with subsection (c)(2).
 
 “(e)
 
@@ -526,7 +526,7 @@ Annual percentages.—Under the pilot program, the Secretary concerned shall ens
 
 &emsp;&emsp;“(C)
 
-Inclusion in pilot program.—The decision whether to use separate contracts to implement a project involving the sale of merchantable material shall be made by the Secretary concerned after the approval of the project under this title.
+Inclusion in pilot program.—The decision whether to use separate contracts to implement a project involving the sale of merchantable materialshall be made by the Secretary concerned after the approval of the project under this title.
 
 &emsp;&emsp;“(D)
 
@@ -666,7 +666,7 @@ Chairperson.—A majority on each resource advisory committee shall select the c
 
 Approval Procedures.—(1) Subject to paragraph (2), each resource advisory committee shall establish procedures for proposing projects to the Secretary concerned under this title. A quorum must be present to constitute an official meeting of the committee.
 
-“(2) A project may be proposed by a resource advisory committee to the Secretary concerned under section203(a), if it has been approved by a majority of members of the committee from each of the three categories in subsection (d)(2).
+“(2) A project may be proposed by a resource advisory committee to the Secretary concerned under section 203(a), if it has been approved by a majority of members of the committee from each of the three categories in subsection (d)(2).
 
 “(f)
 
@@ -840,7 +840,7 @@ Deposit of Revenues and Other Funds.—All revenues generated from projects purs
 
 #### Advisory Committee on Forest Counties Payments
 
-Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, provided that:
+Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, as amended by Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that:
 
 “(a)
 
@@ -898,7 +898,7 @@ Members.—The Advisory Committee shall be composed of the following members:
 
 &emsp;&emsp;“(D) Two members who are elected members of the governing branches of eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
-&emsp;&emsp;“(E) Two members who are elected members of school boards for, superintendents from, or teachers employed by, school districts in eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committeesof jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
+&emsp;&emsp;“(E) Two members who are elected members of school boards for, superintendents from, or teachers employed by, school districts in eligible counties; one such member to be appointed by the President pro tempore of the Senate (in consultation with the chairmen and ranking members of the committees of jurisdiction of the Senate) and one such member to be appointed by the Speaker of the House of Representatives (in consultation with the chairmen and ranking members of the committees of jurisdiction of the House of Representatives) within 60 days of the date of the enactment of this Act \[Oct. 11, 2000\].
 
 &emsp;“(3)
 
@@ -982,11 +982,13 @@ Federal Advisory Committee Act Requirements.—The provisions of the Federal Adv
 
 “(e)
 
-Termination of Advisory Committee.—The Advisory Committee shall terminate three years after the date of the enactment of this Act \[Oct. 11, 2000\].
+Termination of Advisory Committee.—The Advisory Committee shall terminate on September 30, 2007.
 
 “(f)
 
 Funding Source.—At the request of the Executive Director of the Advisory Committee, the Secretary of Agriculture shall provide funds from any account available to the Secretary, not to exceed $200,000 in fiscal year 2001, for the work of the Advisory Committee necessary to meet the requirements of this section.”
+
+\[Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that the amendment made by section 1 to section 320 of Pub. L. 106–291, set out above, is effective as of Oct. 11, 2003.\]
 
 #### Sharing of Forest Service Timber Sale Receipts
 
@@ -999,8 +1001,4 @@ Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1401, provided: “That not
 Similar provisions were contained in the following appropriations act:
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1402.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 90d, 253, 460p–2, 460bbb–10, 460<i>lll</i>–12, 472a, 508b, 535a, 544<i>l</i>, 577g, 577g–1, 580k, 698v–4, 1683 of this title; title 7 section 6617; title 31 section 6903.
 

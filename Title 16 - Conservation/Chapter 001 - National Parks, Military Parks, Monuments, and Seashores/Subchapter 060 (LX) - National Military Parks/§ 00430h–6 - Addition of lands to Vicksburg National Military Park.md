@@ -18,7 +18,3 @@ Upon acquisition of the properties referred to in subsections (a) and (b) of thi
 
 (Pub. L. 101–442, title I, §101, Oct. 18, 1990, 104 Stat. 1019.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430h–9 of this title.
-

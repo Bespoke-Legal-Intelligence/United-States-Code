@@ -38,7 +38,3 @@
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, except that amendment of pars. (a)(2)(A) and (a)(3) effective upon the expiration of sixty days after Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 454, 461 of this title.
-

@@ -70,7 +70,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (7)(A) Any civil investigative demand may be served by any Commission investigator at any place within the territorial jurisdiction of any court of the United States.
 
-(B) Any such demand or any enforcement petition filed under this section may be served uponany person who is not found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign nation.
+(B) Any such demand or any enforcement petition filed under this section may be served upon any person who is not found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign nation.
 
 (C) To the extent that the courts of the United States have authority to assert jurisdiction over such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this section by such person that such district court would have if such person were personally within the jurisdiction of such district court.
 
@@ -104,7 +104,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (D)(i) Any person compelled to appear under a civil investigative demand for oral testimony pursuant to this section may be accompanied, represented, and advised by an attorney. The attorney may advise such person, in confidence, either upon the request of such person or upon the initiative of the attorney, with respect to any question asked of such person.
 
-(ii) Such person or attorney may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds ofany constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not himself or through his attorney otherwise interrupt the oral examination. If such person refuses to answer any question, the Commission may petition the district court of the United States pursuant to this section for an order compelling such person to answer such question.
+(ii) Such person or attorney may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not himself or through his attorney otherwise interrupt the oral examination. If such person refuses to answer any question, the Commission may petition the district court of the United States pursuant to this section for an order compelling such person to answer such question.
 
 (iii) If such person refuses to answer any question on grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of section 6004 of title 18.
 
@@ -128,7 +128,7 @@ Whenever any person fails to comply with any civil investigative demand duly ser
 
 #### (f) Petition for order modifying or setting aside demand
 
-(1) Not later than 20 days after the service of any civil investigative demand upon any person under subsection (c) of this section, or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding 20 days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any Commission investigator named in the demand, such person may file with the Commission a petition for an order by the Commission modifying or setting aside the demand.
+(1) Not later than 20 days after the service of any civil investigative demand upon any person under subsection (c) of this section, or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding 20 days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any Commission investigator named in the demand, such person may file with the Commission a petitionfor an order by the Commission modifying or setting aside the demand.
 
 (2) The time permitted for compliance with the demand in whole or in part, as deemed proper and ordered by the Commission, shall not run during the pendency of such petition at the Commission, except that such person shall comply with any portions of the demand not sought to be modified or set aside. Such petition shall specify each ground upon which the petitioner relies in seeking such relief, and may be based upon any failure of the demand to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of such person.
 
@@ -142,7 +142,7 @@ Whenever any petition is filed in any district court of the United States under 
 
 #### (i) Commission authority to issue subpoenas or make demand for information
 
-Notwithstanding any other provision of law, the Commission shall have no authority to issue a subpoena or make a demand for information,under authority of this subchapter or any other provision of law, unless such subpoena or demand for information is signed by a Commissioner acting pursuant to a Commission resolution. The Commission shall not delegate the power conferred by this section to sign subpoenas or demands for information to any other person.
+Notwithstanding any other provision of law, the Commission shall have no authority to issue a subpoena or make a demand for information, under authority of this subchapter or any other provision of law, unless such subpoena or demand for information is signed by a Commissioner acting pursuant to a Commission resolution. The Commission shall not delegate the power conferred by this section to sign subpoenas or demands for information to any other person.
 
 #### (j) Applicability of this section
 
@@ -191,8 +191,4 @@ Amendment by Pub. L. 103–312 applicable only with respect to compulsory proces
 #### Effective Date
 
 Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 57b–2 of this title; title 44 section 3518.
 

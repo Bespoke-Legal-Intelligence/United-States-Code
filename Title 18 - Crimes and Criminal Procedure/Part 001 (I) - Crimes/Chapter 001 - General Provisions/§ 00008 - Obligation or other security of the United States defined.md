@@ -1,6 +1,6 @@
 ### §8. Obligation or other security of the United States defined
 
-The term “obligation or other security of the United States” includes all bonds, certificates ofindebtedness, national bank currency, Federal Reserve notes, Federal Reserve bank notes, coupons, United States notes, Treasury notes, gold certificates, silver certificates, fractional notes, certificates of deposit, bills, checks, or drafts for money, drawn by or upon authorized officers of the United States, stamps and other representatives of value, of whatever denomination, issued under any Act of Congress, and canceled United States stamps.
+The term “obligation or other security of the United States” includes all bonds, certificates of indebtedness, national bank currency, Federal Reserve notes, Federal Reserve bank notes, coupons, United States notes, Treasury notes, gold certificates, silver certificates, fractional notes, certificates of deposit, bills, checks, or drafts for money, drawn by or upon authorized officers of the United States, stamps and other representatives of value, of whatever denomination, issued under any Act of Congress, and canceled United States stamps.
 
 (June 25, 1948, ch. 645, 62 Stat. 685.)
 
@@ -13,8 +13,4 @@ The terms of this section were general enough to justify its inclusion in this c
 Words “Federal Reserve notes, Federal Reserve bank notes” were inserted before “coupons” because such notes have almost supplanted national bank currency.
 
 Minor changes were made in phraseology.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2024; title 49 section 80302.
 

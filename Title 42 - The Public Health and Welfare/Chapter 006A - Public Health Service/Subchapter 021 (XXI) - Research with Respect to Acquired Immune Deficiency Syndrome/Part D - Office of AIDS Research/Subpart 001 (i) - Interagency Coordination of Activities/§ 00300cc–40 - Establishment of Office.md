@@ -24,7 +24,3 @@ There is established within the National Institutes of Health an office to be kn
 
 (July 1, 1944, ch. 373, title XXIII, §2351, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 192.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300cc–40b of this title.
-

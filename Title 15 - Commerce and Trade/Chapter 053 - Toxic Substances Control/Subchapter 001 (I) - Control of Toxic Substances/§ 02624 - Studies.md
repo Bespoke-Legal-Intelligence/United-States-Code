@@ -2,7 +2,7 @@
 
 #### (a) Indemnification study
 
-The Administrator shall conduct a study of all Federal laws administered by the Administratorfor the purpose of determining whether and under what conditions, if any, indemnification should be accorded any person as a result of any action taken by the Administrator under any such law. The study shall—
+The Administrator shall conduct a study of all Federal laws administered by the Administrator for the purpose of determining whether and under what conditions, if any, indemnification should be accorded any person as a result of any action taken by the Administrator under any such law. The study shall—
 
 &emsp;(1) include an estimate of the probable cost of any indemnification programs which may be recommended;
 
@@ -23,6 +23,8 @@ The Council on Environmental Quality, in consultation with the Administrator, th
 The effective date of enactment of this chapter, referred to in subsecs. (a)(3) and (b), probably means January 1, 1977, the effective date of the chapter prescribed by sec. 31 of Pub. L. 94–469, which is set out as a note under section 2601 of this title, rather than October 11, 1976, the date of enactment.
 
 #### Change of Name
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

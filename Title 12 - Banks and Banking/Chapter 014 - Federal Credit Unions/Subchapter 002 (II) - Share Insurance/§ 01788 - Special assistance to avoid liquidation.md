@@ -50,7 +50,3 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1783, 1787, 1790d of this title.
-

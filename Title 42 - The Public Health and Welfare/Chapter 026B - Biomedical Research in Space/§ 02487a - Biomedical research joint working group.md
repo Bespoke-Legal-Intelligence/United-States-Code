@@ -22,7 +22,3 @@ The working group shall organize annual symposia on biomedical research describe
 
 Administrator means Administrator of the National Aeronautics and Space Administration, see section 102(f) of Pub. L. 102–588, 106 Stat. 5110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2487b, 2487c of this title.
-

@@ -34,7 +34,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (B) Advanced television
 
-&emsp;&emsp;At such time as the Commission prescribes modifications of the standards for television broadcast signals, the Commission shall initiate a proceeding to establish any changes in the signal carriage requirements of cable television systems necessary to ensure cable carriage of such broadcast signals of local commercial television stations which have been changed to conform with such modified standards.
+&emsp;&emsp;At such time as the Commission prescribes modifications of the standards for television broadcast signals, the Commission shall initiate a proceeding to establish any changes in the signal carriage requirements of cable television systems necessary to ensure cable carriage of such broadcast signals of localcommercial television stations which have been changed to conform with such modified standards.
 
 #### (5) Duplication not required
 
@@ -84,7 +84,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (1) Complaints by broadcast stations
 
-&emsp;Whenever a local commercial television station believes that a cable operator has failed to meet its obligations under this section, such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section. The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section. A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission. Such complaint shall allege the manner in which such cable operator has failed to meet its obligations and the basis for such allegations.
+&emsp;Whenever a local commercial television station believes that a cable operator has failed to meet its obligations under this section,such station shall notify the operator, in writing, of the alleged failure and identify its reasons for believing that the cable operator is obligated to carry the signal of such station or has otherwise failed to comply with the channel positioning or repositioning or other requirements of this section. The cable operator shall, within 30 days of such written notification, respond in writing to such notification and either commence to carry the signal of such station in accordance with the terms requested or state its reasons for believing that it is not obligated to carry such signal or is in compliance with the channel positioning and repositioning and other requirements of this section. A local commercial television station that is denied carriage or channel positioning or repositioning in accordance with this section by a cable operator may obtain review of such denial by filing a complaint with the Commission. Such complaint shall allege the manner in which such cable operator has failed to meet its obligations and the basis for such allegations.
 
 #### (2) Opportunity to respond
 
@@ -92,7 +92,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed, the Commission shall determine whether the cable operator has met its obligations under this section. If the Commission determines that the cable operator has failed to meet such obligations, the Commission shall order the cable operator to reposition thecomplaining station or, in the case of an obligation to carry a station, to commence carriage of the station and to continue such carriage for at least 12 months. If the Commission determines that the cable operator has fully met the requirements of this section, it shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed, the Commission shall determine whether the cable operator has met its obligations under this section. If the Commission determines that the cable operator has failed to meet such obligations, the Commission shall order the cable operator to reposition the complaining station or, in the case of an obligation to carry a station, to commence carriage of the station and to continue such carriage for at least 12 months. If the Commission determines that the cable operator has fully met the requirements of this section, it shall dismiss the complaint.
 
 #### (e) Input selector switch rules abolished
 
@@ -193,8 +193,4 @@ Section 301(d)(2) of Pub. L. 104–104 provided that: “The amendment made by p
 &emsp;“(A) any request pending under section 614(h)(1)(C) of the Communications Act of 1934 (47 U.S.C. 534(h)(1)(C)) on the date of enactment of this Act \[Feb. 8, 1996\]; and
 
 &emsp;“(B) any request filed under that section after that date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 325, 336, 338, 535, 543, 555, 573 of this title.
 

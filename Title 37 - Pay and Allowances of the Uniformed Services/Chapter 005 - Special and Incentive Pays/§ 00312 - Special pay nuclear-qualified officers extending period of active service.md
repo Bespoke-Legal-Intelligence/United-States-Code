@@ -10,7 +10,7 @@
 
 > may, upon the acceptance by the Secretary or his designee of the written agreement, in addition to all other compensation to which he is entitled, be paid a sum of money not to exceed $25,000 for each year of the active-service agreement. The Secretary of the Navy shall determine annually the necessity for continuance of the special pay and the rate of special pay per year for such active-service agreements accepted within each 12-month period. Upon acceptance of the agreement by the Secretary or his designee, the total amount payable shall be paid in equal annual installments over the length of the contract, commencing at the expiration of any existing period of obligated active service. The Secretary (or his designee) may accept an active service agreement under this section not more than one year in advance of the end of an officer's existing period of obligated active service under such an agreement. In such a case, the amount of the special pay may be paid commencing with the date of acceptance of the agreement, with the number of installments being equal to the number of years covered by the contract plus one.
 
-(b) Pursuant to regulations prescribed by the Secretary of the Navy and subject to such exceptions as may be prescribed in those regulations, refunds, on a pro rata basis, of sums paid pursuant to this section may be required if the officer having received the payment fails to completethe full period of active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants which he agreed to serve.
+(b) Pursuant to regulations prescribed by the Secretary of the Navy and subject to such exceptions as may be prescribed in those regulations, refunds, on a pro rata basis, of sums paid pursuant to this section may be required if the officer having received the payment fails to complete the full period of active duty in connection with supervision, operation, and maintenance of naval nuclear propulsion plants which he agreed to serve.
 
 (c) Nothing in this section shall alter or modify the obligation of a regular officer to perform active service at the pleasure of the President. Completion of the additional period of active service under this section shall in no way obligate the President to accept a resignation submitted by a regular officer.
 
@@ -18,11 +18,13 @@
 
 (2) This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-(e) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2004, execute the required written agreement to remain in active service.
+(e) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2005, execute the required written agreement to remain in active service.
 
-(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(a), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(a), Nov. 24, 2003, 117 Stat. 1501.)
+(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, titleVI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(a), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(a), Oct. 28, 2004, 118 Stat. 1947.)
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (e). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 
@@ -123,8 +125,4 @@ Section 4 of Pub. L. 94–356 provided that: “Notwithstanding any other provis
 &emsp;“(1) as of the last day of the first year of that obligated service, to cancel that active service agreement in exchange for a new active service agreement in accordance with section 312 of title 37, as amended by this Act; or
 
 &emsp;“(2) as of the last day of any year, other than the last year, of that obligated service, to cancel that active service agreement in exchange for eligibility for the annual bonus authorized by section 312c of title 37, as added by this Act, and an agreement to remain on active duty for a period of time equal to the period of obligated service remaining under that active service agreement”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 312c of this title.
 

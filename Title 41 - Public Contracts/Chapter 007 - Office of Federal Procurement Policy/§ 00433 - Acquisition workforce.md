@@ -70,7 +70,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (2) Relationship to requirements applicable to defense acquisition workforce
 
-&emsp;The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable to those established for the same or equivalentpositions pursuant to chapter 87 of title 10 with appropriate modifications.
+&emsp;The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable to those established for the same or equivalent positions pursuant to chapter 87 of title 10 with appropriate modifications.
 
 #### (3) Approval of requirements
 
@@ -142,7 +142,7 @@ Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, pro
 
 “(a)
 
-Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))\[)\] are shortage category positions in order to use the authorities in thosesections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
+Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 oftitle 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))\[)\] are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
 
 “(b)
 
@@ -171,8 +171,4 @@ Pub. L. 108–136, div. A, title XIV, §1414, Nov. 24, 2003, 117 Stat. 1666, pro
 &emsp;“(4) develop scopes of work; and
 
 &emsp;“(5) award and administer contracts for such services.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 405 of this title.
 

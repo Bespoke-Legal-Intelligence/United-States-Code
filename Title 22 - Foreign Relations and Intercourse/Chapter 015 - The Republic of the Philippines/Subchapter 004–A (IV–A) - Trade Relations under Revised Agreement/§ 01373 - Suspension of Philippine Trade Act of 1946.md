@@ -6,13 +6,13 @@ The Philippine Trade Act of 1946 \[22 U.S.C. 1251 et seq.\] (except section 506(
 
 #### References in Text
 
-The Philippine Trade Act of 1946, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter were omitted from the Code. For complete classification of this Actto the Code, see Short Title note set out under section 1354 of this title and Tables.
+The Philippine Trade Act of 1946, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1354 of this title and Tables.
 
 The revised agreement, referred to in text, was set out as a note under section 1371 of this title.
 
 #### Effective Date
 
-Section 301(b) of title III of act Aug. 1, 1955, provided that: “The provisions of this title \[enacting sections 1373 to 1379 of this title and amending section 734 of Title 48, Territories and Insular Possessions\] shall take effect on January 1, 1956, but only if the President of the United States has made the proclamation referred to in subsection (a) \[section 1379 of this title\].”
+Section 301(b) of title III of act Aug. 1, 1955, provided that: “The provisions of this title \[enacting sections1373 to 1379 of this title and amending section 734 of Title 48, Territories and Insular Possessions\] shall take effect on January 1, 1956, but only if the President of the United States has made the proclamation referred to in subsection (a) \[section 1379 of this title\].”
 
 #### Short Title
 

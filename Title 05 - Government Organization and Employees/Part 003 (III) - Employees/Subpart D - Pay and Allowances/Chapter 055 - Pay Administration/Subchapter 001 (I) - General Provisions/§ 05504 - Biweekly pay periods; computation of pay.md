@@ -134,7 +134,3 @@ Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended b
 
 \[Section 2 of Pub. L. 98–117 provided that: “The amendment made by this Act \[enacting par. (4) of this note\] shall be effective as of October 1, 1983.”\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5332, 5505, 5545b of this title; title 2 sections 142e, 142f, 142g, 142<i>l</i>, 1844, 1845; title 38 section 7423.
-

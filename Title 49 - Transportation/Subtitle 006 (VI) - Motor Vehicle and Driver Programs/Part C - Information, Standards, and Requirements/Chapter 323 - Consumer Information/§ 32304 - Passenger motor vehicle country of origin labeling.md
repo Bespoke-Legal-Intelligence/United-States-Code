@@ -74,7 +74,7 @@ Definitions.—In this section—
 
 (b)
 
-Manufacturer Requirement.—(1) Each manufacturer of a new passenger motor vehicle manufactured after September 30, 1994, and distributed in commerce for sale in the United States, shall establish each year for each model year and cause to be attached in a prominentplace on each of those vehicles, at least one label. The label shall contain the following information:
+Manufacturer Requirement.—(1) Each manufacturer of a new passenger motor vehicle manufactured after September 30, 1994, and distributed in commerce for sale in the United States, shall establish each year for each model year and cause to be attached in a prominent place on each of those vehicles, at least one label. The label shall contain the following information:
 
 &emsp;(A) the percentage (by value) of passenger motor vehicle equipment of United States/Canadian origin installed on vehicles in the carline to which that vehicle belongs, identified by the words “U.S./Canadian content”.
 
@@ -98,7 +98,7 @@ Value Added Determination.—If a manufacturer or allied supplier requests infor
 
 &emsp;(1) The manufacturer or allied supplier shall make the same value added determinations as would be made by the outside supplier, that is, whether 70 percent or more of the value of equipment is added in the United States and/or Canada.
 
-&emsp;(2) The manufacturer or allied supplier shall consider the amount of value added and the location in which the value was added for all of the stages that the outside supplier would be required to consider.
+&emsp;(2) The manufacturer or allied supplier shall consider the amount of value added and the location in which the value was added for all ofthe stages that the outside supplier would be required to consider.
 
 &emsp;(3) The manufacturer or allied supplier may determine that the value added in the United States and/or Canada is 70 percent or more only if it has a good faith basis to make that determination.
 
@@ -251,8 +251,4 @@ Subsec. (a)(14). Pub. L. 103–429, §6(30), inserted “the Northern Mariana Is
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 32309 of this title.
 

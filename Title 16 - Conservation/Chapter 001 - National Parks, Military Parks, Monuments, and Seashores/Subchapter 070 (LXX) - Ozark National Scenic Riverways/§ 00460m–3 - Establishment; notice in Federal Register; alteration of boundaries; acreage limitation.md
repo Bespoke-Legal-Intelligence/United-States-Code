@@ -4,7 +4,3 @@ When the Secretary determines that lands and waters, or interests therein, have 
 
 (Pub. L. 88–492, §4, Aug. 27, 1964, 78 Stat. 609.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460m–1 of this title.
-

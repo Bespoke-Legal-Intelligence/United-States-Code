@@ -76,9 +76,5 @@ The Administrator of the General Services Administration shall provide to the Co
 
 (Pub. L. 96–430, title II, §203, Oct. 10, 1980, 94 Stat. 1847.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3701 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of subsection (a) of this section”.</i>
 

@@ -10,7 +10,7 @@ The Comptroller General, or any of the duly authorized representatives of the Co
 
 #### (b) Chief Financial Officer
 
-The Chief Financial Officer of the Corporation shall have access to, and the right to examineand copy, any books, documents, papers, records, and other recorded information in any form—
+The Chief Financial Officer of the Corporation shall have access to, and the right to examine and copy, any books, documents, papers, records, and other recorded information in any form—
 
 &emsp;(1) within the possession or control of the Corporation or any State or local government, Indian tribe, or public or private nonprofit organization receiving assistance directly or indirectly under this chapter; and
 

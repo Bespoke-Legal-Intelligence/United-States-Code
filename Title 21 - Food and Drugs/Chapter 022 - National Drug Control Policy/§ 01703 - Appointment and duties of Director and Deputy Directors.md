@@ -34,7 +34,7 @@ The Director—
 
 &emsp;(2) shall promulgate the National Drug Control Strategy under section 1705(a) of this title and each report under section 1705(b) of this title in accordance with section 1705 of this title;
 
-&emsp;(3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Program agency heads with respect to implementation of Federal counter-drug programs;
+&emsp;(3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Programagency heads with respect to implementation of Federal counter-drug programs;
 
 &emsp;(4) shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of Federal departments and agencies engaged in drug enforcement, and changes in the allocation of personnel to and within those departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
 
@@ -82,7 +82,7 @@ The Director—
 
 &emsp;(15) shall ensure that drug prevention and drug treatment research and information is effectively disseminated by National Drug Control Program agencies to State and local governments and nongovernmental entities involved in demand reduction by—
 
-&emsp;&emsp;(A) encouraging formal consultation between any such agency that conducts or sponsors research, and any such agency thatdisseminates information in developing research and information product development agendas;
+&emsp;&emsp;(A) encouraging formal consultation between any such agency that conducts or sponsors research, and any such agency that disseminates information in developing research and information product development agendas;
 
 &emsp;&emsp;(B) encouraging such agencies (as appropriate) to develop and implement dissemination plans that specifically target State and local governments and nongovernmental entities involved in demand reduction; and
 
@@ -94,7 +94,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
+&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to theOffice of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
 
 #### (B) Submission of drug control budget requests
 
@@ -152,7 +152,7 @@ The Director—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the time a National Drug Control Program agency submits its budget request to the Office of Management andBudget, the head of the National Drug Control Program agency shall submit a copy of the budget request to the Director.
+&emsp;&emsp;&emsp;At the time a National Drug Control Program agency submits its budget request to the Office of Management and Budget, the head of the National Drug Control Program agency shall submit a copy of the budget request to the Director.
 
 #### (ii) Certification
 
@@ -176,7 +176,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogramming or transfer request with respect to any amount of appropriated funds in an amount exceeding $5,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director.
+&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogrammingor transfer request with respect to any amount of appropriated funds in an amount exceeding $5,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director.
 
 #### (B) Appeal
 
@@ -246,7 +246,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (C) Aggregate amount
 
-&emsp;&emsp;The aggregate amount paid during any fiscal year to an employee detailed to the Office as basic pay, awards, bonuses, and other compensation shall not exceed the annual rate payable at the end of such fiscal year for positions at level III of the Executive Schedule.
+&emsp;&emsp;The aggregate amount paid during any fiscal year to an employee detailed to the Office as basic pay, awards, bonuses, and other compensation shall not exceed the annual rate payable at the end of such fiscal yearfor positions at level III of the Executive Schedule.
 
 #### (3) Maximum number of detailees
 
@@ -280,7 +280,7 @@ The provisions of this section shall not apply to the National Foreign Intellige
 
 #### (h) Construction
 
-Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 and 414 of title 50 or any other law.
+Nothing in this chapter shall be construed as derogating the authorities and responsibilities of the Director of Central Intelligence contained in sections 403–4 <sup>2</sup> and 414 of title 50 or any other law.
 
 (Pub. L. 105–277, div. C, title VII, §704, Oct. 21, 1998, 112 Stat. 2681–672.)
 
@@ -294,9 +294,15 @@ Levels III and IV of the Executive Schedule, referred to in subsecs. (d)(4) and 
 
 This chapter, referred to in subsec. (h), was in the original “this Act” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
+Section 403–4 of title 50, referred to in subsec. (h), was repealed and a new section 403–4 was enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660.
+
 #### Codification
 
 In subsec. (b)(8)(A), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Report on Streamlining Federal Prevention and Treatment Efforts
 
@@ -308,7 +314,7 @@ Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, as amended by Ex. Ord. No. 130
 
 The Office of National Drug Control Policy has the lead responsibility within the Executive Office of the President to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United Statesof America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
 
 Section 1.
 
@@ -342,9 +348,7 @@ Goals, Direction, Duties and Responsibilities with Respect to the National Drug 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1702, 1705, 1706, 1707, 1710 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “activities that”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

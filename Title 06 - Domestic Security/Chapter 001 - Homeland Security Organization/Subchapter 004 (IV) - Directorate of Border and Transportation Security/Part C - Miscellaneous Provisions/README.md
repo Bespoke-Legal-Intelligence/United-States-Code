@@ -1,9 +1,5 @@
 Part C—Miscellaneous Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 202 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 

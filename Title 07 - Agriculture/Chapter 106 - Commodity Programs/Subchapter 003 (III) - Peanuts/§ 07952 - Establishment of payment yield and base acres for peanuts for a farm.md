@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine, for each historic peanut producer, the average yield for peanuts on each farm on which the historic peanut producer planted peanuts for harvest for the 1998 through 2001 crop years, excluding any crop year in which the producer did not plant or was prevented from planting peanuts.
+&emsp;&emsp;The Secretary shall determine, for each historic peanut producer, the average yieldfor peanuts on each farm on which the historic peanut producer planted peanuts for harvest for the 1998 through 2001 crop years, excluding any crop year in which the producer did not plant or was prevented from planting peanuts.
 
 #### (B) Assigned yields
 
@@ -133,8 +133,4 @@ The owner of a farm may reduce, at any time, the base acres for peanuts assigned
 This subchapter, referred to in subsecs. (c) and (d), was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7911, 7951, 7953, 7954, 7955 of this title.
 

@@ -16,7 +16,3 @@ Upon enactment of legislation to implement an agreement to site a repository neg
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10247 of this title.
-

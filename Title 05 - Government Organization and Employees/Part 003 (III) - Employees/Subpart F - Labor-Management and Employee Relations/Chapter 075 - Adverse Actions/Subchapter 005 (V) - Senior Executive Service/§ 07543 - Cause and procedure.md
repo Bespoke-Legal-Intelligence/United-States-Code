@@ -34,7 +34,3 @@ Amendment by Pub. L. 98–615 effective Nov. 8, 1984, see section 307 of Pub. L.
 
 Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and conditions, see section 1704(e) of Pub. L. 97–35, set out as an Effective Date note under section 3595 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3151, 3393 of this title; title 10 section 1606; title 31 section 733.
-

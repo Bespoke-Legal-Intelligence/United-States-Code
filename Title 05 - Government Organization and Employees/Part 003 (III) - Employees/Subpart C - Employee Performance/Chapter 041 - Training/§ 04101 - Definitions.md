@@ -90,7 +90,3 @@ For transfer of Environmental Science Services Administration to National Oceani
 
 Functions of President under subsec. (6)(B) of this section delegated to head of each agency concerned, see section 402 of Ex. Ord. No. 11348, Apr. 20, 1967, 32 F.R. 6335, set out as a note under section 4103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5379 of this title; title 7 section 5922.
-

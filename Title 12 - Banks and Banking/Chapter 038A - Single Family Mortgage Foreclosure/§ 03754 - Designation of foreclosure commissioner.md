@@ -32,7 +32,3 @@ The foreclosure commissioner, if a natural person, shall be a resident of the St
 
 Section is based on section 805 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3756 of this title.
-

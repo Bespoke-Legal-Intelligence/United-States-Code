@@ -102,7 +102,3 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 346, 348, 361, 364, 365, 504, 507, 557, 726, 901, 922, 1114, 1205, 1226, 1228, 1326 of this title; title 26 section 1398.
-

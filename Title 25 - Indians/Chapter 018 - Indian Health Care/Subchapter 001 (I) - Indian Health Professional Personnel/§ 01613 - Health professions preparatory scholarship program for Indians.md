@@ -58,7 +58,3 @@ Subsecs. (d), (e). Pub. L. 100–713, §102(a), added subsecs. (d) and (e) and s
 
 Subsec. (d). Pub. L. 96–537, §3(b)(2), substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriations of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1603 of this title.
-

@@ -12,7 +12,3 @@ For a period of not more than fifteen years after August 4, 1955, or, in the cas
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2311, 2326, 2348, 2364, 2365, 2366 of this title.
-

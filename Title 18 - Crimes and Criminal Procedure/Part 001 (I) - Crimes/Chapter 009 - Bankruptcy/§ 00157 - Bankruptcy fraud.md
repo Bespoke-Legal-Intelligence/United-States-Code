@@ -16,7 +16,3 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
 Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of Title 11.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1961 of this title.
-

@@ -14,7 +14,3 @@ If an employer notifies the Secretary that he intends to contest a citation issu
 
 (Pub. L. 91–596, §10, Dec. 29, 1970, 84 Stat. 1601.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 660, 666, 667 of this title; title 2 section 1341; title 3 section 425.
-

@@ -46,7 +46,3 @@ On the transfer of administrative jurisdiction under section 460<i>lll</i>–41 
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §511\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–312.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460<i>lll</i>–25 of this title.
-

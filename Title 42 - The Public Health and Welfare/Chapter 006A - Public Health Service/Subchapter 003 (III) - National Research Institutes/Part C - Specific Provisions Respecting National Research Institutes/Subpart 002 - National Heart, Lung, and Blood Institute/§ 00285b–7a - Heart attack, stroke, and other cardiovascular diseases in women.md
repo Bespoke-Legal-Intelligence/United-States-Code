@@ -24,7 +24,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(6) Studies to gain a better understanding of methods of preventing cardiovascular diseases in women, including applications of effective methods for the control of blood pressure, lipids, and obesity.
 
-&emsp;(7) Information and education programs for patients and health care providers on risk factors associated with heart attack, stroke, and other cardiovascular diseases in women, and on the importance of the prevention or controlof such risk factors and timely referral with appropriate diagnosis and treatment. Such programs shall include information and education on health-related behaviors that can improve such important risk factors as smoking, obesity, high blood cholesterol, and lack of exercise.
+&emsp;(7) Information and education programs for patients and health care providers on risk factors associated with heart attack, stroke, and other cardiovascular diseases in women, and on the importance of the prevention or control of such risk factors and timely referral with appropriate diagnosis and treatment. Such programs shall include information and education on health-related behaviors that can improve such important risk factors as smoking, obesity, high blood cholesterol, and lack of exercise.
 
 #### (d) Authorization of appropriations
 

@@ -16,7 +16,3 @@ Funds awarded to an eligible partnership under this subpart shall be used to—
 
 Another section 411 of Pub. L. 105–244 amended section 1071 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1070f–1 of this title.
-

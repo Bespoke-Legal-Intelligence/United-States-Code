@@ -28,7 +28,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) enforcing compliance with the existing Arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes; and
 
-&emsp;&emsp;(B) facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectivelyrestricting the use of tied aid and partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial purposes;
+&emsp;&emsp;(B) facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectively restricting the use of tied aid and partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial purposes;
 
 > &emsp;and such program should be used aggressively for such purposes.
 
@@ -304,7 +304,7 @@ Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this
 
 Subsec. (e)(1). Pub. L. 101–513, §562(d)(1), substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
 
-1989—Subsec. (a)(5). Pub. L. 101–240, §101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
+1989—Subsec. (a)(5). Pub. L. 101–240, §101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), andconcluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
 
 Subsec. (b)(1). Pub. L. 101–240, §101(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
 
@@ -333,8 +333,4 @@ Section 3302(a) of Pub. L. 100–418 provided that: “The Congress finds that�
 &emsp;“(3) in such cases, the United States could continue to lose export sales in connection with the aggressive, and in some cases, unfair, tied aid practices of such countries; and
 
 &emsp;“(4) in such cases, the Export-Import Bank of the United States should continue to use the Tied Aid Credit Fund established by section 15(c) \[now 10(c)\] of the Export-Import Bank Act of 1945 \[12 U.S.C. 635i–3(c)\] to discourage the use of such predatory financing practices.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 635 of this title.
 

@@ -10,7 +10,7 @@ In order to accomplish the objectives of this section, the Administrator, in con
 
 #### (c) Utilization of small business concerns in implementing program
 
-To encourage and develop the capacity of small business concerns, to utilize this important segment of our economy, and to permit rapid increases in employment opportunities in local communities, grantees are directed to utilize small business contractors or concerns in connection with the program established by this section, and shall, to the extent practicable, divide the project to allow more than one small business concern to perform the work under the project.
+To encourage and develop the capacity of small business concerns, to utilize this important segment of our economy, and to permit rapid increases in employment opportunities in local communities, grantees are directed to utilize small business contractors or concerns in connection with the program established by thissection, and shall, to the extent practicable, divide the project to allow more than one small business concern to perform the work under the project.
 
 #### (d) Cooperation of Federal agencies; technical services
 

@@ -6,7 +6,7 @@ For purposes of carrying out this chapter, there are authorized to be appropriat
 
 #### (b) Eldercare Locator Service
 
-There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2</sup> of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2</sup> of this title (relating to the National Eldercare Locator Service)such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 #### (c) Pension counseling and information programs
 
@@ -29,8 +29,4 @@ Subsecs. (b), (c). Pub. L. 106–501, §205(2), added subsecs. (b) and (c) and s
 &emsp;“(2) such additional sums as may be necessary for each such fiscal year to enable the Assistant Secretary to provide for not fewer than 300 full-time employees (or the equivalent thereof) in the Administration on Aging.”
 
 1993—Subsec. (b)(2). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3020e–1 of this title.
 

@@ -24,7 +24,3 @@ The Administrator of General Services shall include, in each report submitted un
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8256 of this title.
-

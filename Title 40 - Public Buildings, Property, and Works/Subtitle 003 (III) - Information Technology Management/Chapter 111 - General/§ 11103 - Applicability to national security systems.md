@@ -76,7 +76,3 @@ Pub. L. 104–106, div. E, title LI, §§5141, 5142, Feb. 10, 1996, 110 Stat. 68
 
 40:1451(b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2223; title 29 section 794d; title 44 section 3502.
-

@@ -6,7 +6,7 @@
 
 #### (A) Operators
 
-&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency,an area vocational education school or residential vocational school, or a private organization, for the operation of each Job Corps center.
+&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency, an area vocational education school or residential vocational school, or a private organization, for the operation of each Job Corps center.
 
 #### (B) Providers
 
@@ -65,8 +65,4 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1697 of this title prior to repeal by Pub. L. 105–220.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2882, 2898 of this title.
 

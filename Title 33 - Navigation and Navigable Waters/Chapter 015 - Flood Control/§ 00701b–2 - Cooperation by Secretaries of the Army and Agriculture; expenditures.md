@@ -20,7 +20,3 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Functions of all officers, agencies and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–4, 701c–1, 701f–1, 701j, 702a–12 of this title.
-

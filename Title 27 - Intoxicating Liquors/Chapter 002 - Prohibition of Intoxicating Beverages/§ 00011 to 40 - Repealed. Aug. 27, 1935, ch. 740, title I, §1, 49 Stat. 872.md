@@ -10,7 +10,7 @@ Section 14, act Oct. 28, 1919, ch. 85, title II, §5, 41 Stat. 309, authorized c
 
 Section 15, act Nov. 23, 1921, ch. 134, §2, 42 Stat. 222, authorized commissioner to order a change of formula of preparations used as a beverage or for intoxicating liquor purposes where sale or use of such preparations was substantially increased in community by reason of its use as a beverage or for intoxicating beverage purposes.
 
-Section 16, act Oct. 28, 1919, ch. 85, title II, §6, 41 Stat. 310, required that any person manufacturing, selling,purchasing, transporting, or prescribing any liquor, except liquor purchased and used for medicinal purposes when prescribed by a physician, liquor purchased and used in a bona fide hospital or sanitarium for treatment of alcoholism, and wine manufactured, etc., for sacramental or religious purposes, first obtain a permit from commissioner.
+Section 16, act Oct. 28, 1919, ch. 85, title II, §6, 41 Stat. 310, required that any person manufacturing, selling, purchasing, transporting, or prescribing any liquor, except liquor purchased and used for medicinal purposeswhen prescribed by a physician, liquor purchased and used in a bona fide hospital or sanitarium for treatment of alcoholism, and wine manufactured, etc., for sacramental or religious purposes, first obtain a permit from commissioner.
 
 Section 17, act Oct. 28, 1919, ch. 85, title II, §7, 41 Stat. 311, authorized no one but a physician holding a permit to prescribe liquor to issue any prescription for liquor, required every such physician to keep a record of every prescription issued, and required pharmacist filling each prescription issued to indorse upon it over his own signature “canceled”.
 

@@ -2,7 +2,7 @@
 
 (a) The trustee shall answer all margin calls with respect to a specifically identifiable commodity contract of a customer until such time as the trustee returns or transfers such commodity contract, but the trustee may not make a margin payment that has the effect of a distribution to such customer of more than that to which such customer is entitled under subsection (h) or (i) of this section.
 
-(b) The trustee shall prevent any open commodity contract from remaining open after thelast day of trading in such commodity contract, or into the first day on which notice of intent to deliver on such commodity contract may be tendered, whichever occurs first. With respect to any commodity contract that has remained open after the last day of trading in such commodity contract or with respect to which delivery must be made or accepted under the rules of the contract market on which such commodity contract was made, the trustee may operate the business of the debtor for the purpose of—
+(b) The trustee shall prevent any open commodity contract from remaining open after the last day of trading in such commodity contract, or into the first day on which notice of intent to deliver on such commodity contract may be tendered, whichever occurs first. With respect to any commodity contract that has remained open after the last day of trading in such commodity contract or with respect to which delivery must be made or accepted under the rules of the contract market on which such commodity contract was made, the trustee may operate the business of the debtor for the purpose of—
 
 &emsp;(1) accepting or making tender of notice of intent to deliver the physical commodity underlying such commodity contract;
 
@@ -12,7 +12,7 @@
 
 (c) The trustee shall return promptly to a customer any specifically identifiable security, property, or commodity contract to which such customer is entitled, or shall transfer, on such customer's behalf, such security, property, or commodity contract to a commodity broker that is not a debtor under this title, subject to such rules or regulations as the Commission may prescribe, to the extent that the value of such security, property, or commodity contract does not exceed the amount to which such customer would be entitled under subsection (h) or (i) of this section if such security, property, or commodity contract were not returned or transferred under this subsection.
 
-(d) If the value of a specifically identifiable security, property, or commodity contract exceeds the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such customer to whom such security, property, or commodity contract is specifically identified may deposit cash with the trustee equal to the difference between the value of such security, property, or commodity contract and such amount, and the trustee then shall—
+(d) If the value of a specifically identifiable security, property, or commodity contract exceedsthe amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such customer to whom such security, property, or commodity contract is specifically identified may deposit cash with the trustee equal to the difference between the value of such security, property, or commodity contract and such amount, and the trustee then shall—
 
 &emsp;(1) return promptly such security, property, or commodity contract to such customer; or
 
@@ -88,7 +88,7 @@ Section 767 sets forth the procedures to be followed by the trustee. It should b
 
 The initial duty of the trustee is to endeavor to transfer to another commodity broker or brokers all identified customer accounts together with the customer property margining such accounts, to the extent the trustee deems appropriate. Although it is preferable for all such accounts to be transferred, exigencies may dictate a partial transfer. The requirement that the value of the accounts and property transferred not exceed the customer's distribution share may necessitate a slight delay until the trustee can submit to the court, for its disapproval, an estimate of each customer's distribution share pursuant to section 768.
 
-Subsection (c) \[enacted as section 766(e)\] provides that contemporaneously with the estimate of the distribution share and the transfer of identified customer accounts and property, subsection (c) provides that the trustee should make arrangements for the liquidation of all commodity contracts maintained by the debtor that are not identifiable to specific customers. These contracts would, of course, include all such contracts held in the debtor's proprietory account.
+Subsection (c) \[enacted as section 766(e)\] provides that contemporaneously with the estimate of the distribution share and the transfer of identified customer accounts and property, subsection (c) provides that the trustee should make arrangements for the liquidationof all commodity contracts maintained by the debtor that are not identifiable to specific customers. These contracts would, of course, include all such contracts held in the debtor's proprietory account.
 
 At approximately the same time, the trustee should notify each customer of the debtor's bankruptcy and instruct each customer immediately to submit a claim including any claim to a specifically identifiable security or other property, and advise the trustee as to the desired disposition of commodity contracts carried by the debtor for the customer.
 
@@ -120,7 +120,7 @@ Subsection (c) \[of section 765 (enacted as section 766(e))\] sets forth the gen
 
 Section 766(a) \[enacted as section 766(g)\] indicates that the trustee may distribute securities or other property only under section 768. This does not preclude a distribution of cash under section 767(a) or distribution of any excess customer property under section 767(c) to the general estate.
 
-Subsection (b) \[enacted as section 766(f)\] indicates that the trustee shall liquidate all securities and other property that is not specifically identifiable property as soon as practicable after the commencement of the case and in accordance with good market practice. If securities are restricted or trading has been suspended, the trustee will have to make an exempt sale or file a registration statement. In the event of a private placement, a customer is not entitled to “bid in” his net equity claim. To do so would enable him to receive a greater percentage recovery than other customers.
+Subsection (b) \[enacted as section 766(f)\] indicates that the trustee shall liquidate all securities and otherproperty that is not specifically identifiable property as soon as practicable after the commencement of the case and in accordance with good market practice. If securities are restricted or trading has been suspended, the trustee will have to make an exempt sale or file a registration statement. In the event of a private placement, a customer is not entitled to “bid in” his net equity claim. To do so would enable him to receive a greater percentage recovery than other customers.
 
 Section 767(a) \[enacted as section 766(h)\] provides for the trustee to distribute customer property pro rata according to customers’ net equity claims. The court will determine an equitable portion of customer property to pay administrative expenses. Paragraphs (2) and (3) indicate that the return of specifically identifiable property constitutes a distribution of net equity.
 
@@ -145,8 +145,4 @@ Subsec. (h). Pub. L. 97–222, §19(d), inserted provision that notwithstanding 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 365, 702, 761, 765 of this title; title 7 section 24.
 

@@ -46,7 +46,3 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 Section 1012(h) of Pub. L. 102–237 provided that: “This section and the amendments made by this section \[amending this section and sections 1037, 1041, 1042, 1046, and 1052 of this title and enacting provisions set out as a note under section 1031 of this title\] shall become effective 12 months after the Secretary of Agriculture promulgates final regulations implementing this section and the amendments.” \[Final regulations were promulgated Aug. 20, 1998, effective Aug. 27, 1999. See 63 F.R. 45663.\]
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1043, 1046, 1052 of this title.
-

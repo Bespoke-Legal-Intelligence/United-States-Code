@@ -24,7 +24,3 @@ July 1, 1941, ch. 267, 55 Stat. 423.
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as affecting the distribution of livestock grazing revenues to local governments under this section, see section 701(j) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 472a, 499, 508b of this title.
-

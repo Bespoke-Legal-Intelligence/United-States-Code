@@ -1,9 +1,5 @@
 ### SUBCHAPTER VII—ENERGY SAVINGS PERFORMANCE CONTRACTS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 8251, 8253, 8256, 8257, 8258 of this title.
-
 
 ---
 

@@ -48,7 +48,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (D) The Secretary shall publish separately, on an annual basis, all properties identified as being suitable for use to assist the homeless, but reported to be unavailable, and the reasons such properties were unavailable.
 
-(2)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the Interagency Council on the Homeless. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
+(2)(A) No later than 15 days after the last day of the 45-day period provided for under subsection (b)(1) of this section, the Secretary shall transmit a copy of the list of available properties published under paragraph (1)(A)(ii) to the United States Interagency Council on Homelessness. The Council shall immediately distribute to all State and regional homeless coordinators area-relevant portions of the list.
 
 (B) The Secretary, the Administrator, and the Secretary of Health and Human Services shall make such efforts as are necessary to ensure the widest possible dissemination of the information on such list.
 
@@ -76,7 +76,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 60-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) of this section with respect to that written notice of intent.
 
-(3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the Interagency Council on the Homeless.
+(3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness.
 
 (4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A) of this section.
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;(5) the term “Secretary” means the Secretary of Housing and Urban Development, except as otherwise provided.
 
-(Pub. L. 100–77, title V, §501, July 22, 1987, 101 Stat. 509; Pub. L. 100–628, title V, §501, Nov. 7, 1988, 102 Stat. 3240; Pub. L. 101–645, title IV, §401(a), Nov. 29, 1990, 104 Stat. 4719; Pub. L. 102–484, div. B, title XXVIII, §2824, Oct. 23, 1992, 106 Stat. 2608; Pub. L. 103–421, §2(d), Oct. 25, 1994, 108 Stat. 4352.)
+(Pub. L. 100–77, title V, §501, July 22, 1987, 101 Stat. 509; Pub. L. 100–628, title V, §501, Nov. 7, 1988, 102 Stat. 3240; Pub. L. 101–645, title IV, §401(a), Nov. 29, 1990, 104 Stat. 4719; Pub. L. 102–484, div. B, title XXVIII, §2824, Oct. 23, 1992, 106 Stat. 2608; Pub. L. 103–421, §2(d), Oct. 25, 1994, 108 Stat. 4352; Pub. L. 108–199, div. G, title II, §216(4), Jan. 23, 2004, 118 Stat. 394.)
 
 #### References in Text
 
@@ -145,6 +145,8 @@ Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act
 In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))”, in subsecs.(b)(2)(A)(ii) and (f)(1), “section 550(a)–(d) of title 40” substituted for “paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))”, in subsecs. (d)(4)(A) and (f)(3)(A), “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)”, in subsec. (f)(3)(A), “section 550 of title 40” substituted for “section 203(k) of such Act”, meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), “section 550 of title 40” substituted for “section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))”, and, in subsec. (i)(2), “section 102 of title 40” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2004—Subsecs. (c)(2)(A), (d)(3). Pub. L. 108–199 substituted “United States Interagency Council on Homelessness” for “Interagency Council on the Homeless”.
 
 1994—Subsecs. (h), (i). Pub. L. 103–421 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -168,7 +170,7 @@ Subsec. (b)(2). Pub. L. 100–628, §501(3)(B), inserted before period at end �
 
 Subsec. (d). Pub. L. 100–628, §501(4)(A), struck out “by lease” after “property” in heading.
 
-Subsec. (d)(1). Pub. L. 100–628, §501(4)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Federal buildings or property may be madeavailable under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government.”
+Subsec. (d)(1). Pub. L. 100–628, §501(4)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Federal buildings or property may be made available under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government.”
 
 Subsec. (d)(2). Pub. L. 100–628, §501(4)(C), substituted “With respect to property identified under subsection (a) which has been designated as surplus property,” for “To permit leases of surplus Federal buildings and other real property under this section,”.
 
@@ -203,8 +205,4 @@ Report.—The Secretary of Housing and Urban Development shall submit to the Con
 #### Unutilized and Underutilized Property for Purposes of 1990 Amendment
 
 Section 401(c) of Pub. L. 101–645, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “For purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411) (as amended by this Act) the terms ‘unutilized’ and ‘underutilized’ when used to describe property have the same meaning such terms had before the date of the enactment of this Act \[Nov. 29, 1990\] under such section 501.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2878; title 20 section 7713; title 38 section 8162.
 

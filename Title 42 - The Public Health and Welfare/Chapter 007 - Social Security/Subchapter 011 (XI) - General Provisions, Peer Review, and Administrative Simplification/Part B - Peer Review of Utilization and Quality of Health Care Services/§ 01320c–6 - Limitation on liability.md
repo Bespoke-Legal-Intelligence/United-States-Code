@@ -34,7 +34,3 @@ A prior section 1320c–6, act Aug. 14, 1935, ch. 531, title XI, §1157, as adde
 
 1990—Subsec. (b). Pub. L. 101–508 inserted “organization having a contract with the Secretary under this part and no” after “No”, struck out “by him” after “the performance”, and substituted “due care was exercised in the performance of such duty, function, or activity” for “he has exercised due care”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1320a–7c, 1320c–9, 1395cc–2, 1395rr, 1395ddd of this title.
-

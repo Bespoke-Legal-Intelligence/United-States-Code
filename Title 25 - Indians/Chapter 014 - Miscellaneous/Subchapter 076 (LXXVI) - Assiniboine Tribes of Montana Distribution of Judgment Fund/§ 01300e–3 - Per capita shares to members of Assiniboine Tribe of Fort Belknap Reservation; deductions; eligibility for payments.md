@@ -10,7 +10,3 @@ Act of March 18, 1972, referred to in text, is act Mar. 18, 1972, Pub. L. 92–2
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1300e–4 of this title.
-

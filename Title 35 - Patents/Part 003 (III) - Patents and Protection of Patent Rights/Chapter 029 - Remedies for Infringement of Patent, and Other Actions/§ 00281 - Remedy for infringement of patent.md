@@ -10,7 +10,3 @@ Based on Title 35, U.S.C., 1946 ed., §§67 and 70, part (R.S. 4919; R.S. 4921, 
 
 The corresponding two sections of existing law are divided among sections 281, 283, 284, 285, 286 and 289 with some changes in language. Section 281 serves as an introduction or preamble to the following sections, the modern term civil action is used, there would be, of course, a right to a jury trial when no injunction is sought.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 157, 287 of this title.
-

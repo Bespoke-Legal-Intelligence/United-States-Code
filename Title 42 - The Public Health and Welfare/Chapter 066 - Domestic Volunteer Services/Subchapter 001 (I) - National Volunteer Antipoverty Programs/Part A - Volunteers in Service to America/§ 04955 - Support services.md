@@ -8,11 +8,11 @@
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
-(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In theevent of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
+(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
 
 #### (b) Description of allowances and support services; determination of allowance; adjustments; methodology
 
-(1) The Director shall also provide volunteers such living, travel (including travel to and from places of training and to and from locations to which volunteers are assigned during periods of service) and leave allowances, and such housing, supplies, equipment, subsistence, clothing, health and dental care, transportation, supervision, pre-service training and where appropriate in-service training, technical assistance, and such other support as the Director deems necessary and appropriate to carry out the purpose and provisions of this part, and shall insure that each such volunteer has available such allowances and support as will enable the volunteer to carry out the purpose and provisions of this part and to effectively perform the work to which such volunteer is assigned.
+(1) The Director shall also provide volunteers such living, travel (including travel to and fromplaces of training and to and from locations to which volunteers are assigned during periods of service) and leave allowances, and such housing, supplies, equipment, subsistence, clothing, health and dental care, transportation, supervision, pre-service training and where appropriate in-service training, technical assistance, and such other support as the Director deems necessary and appropriate to carry out the purpose and provisions of this part, and shall insure that each such volunteer has available such allowances and support as will enable the volunteer to carry out the purpose and provisions of this part and to effectively perform the work to which such volunteer is assigned.
 
 (2) The Director shall set the subsistence allowance for volunteers under paragraph (1) for each fiscal year so that—
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 #### Additional Appropriations Authorization
 
 Section 5(b) of Pub. L. 94–130, as amended by Pub. L. 96–143, §17, Dec. 13, 1979, 93 Stat. 1082, provided that: “There are authorized to be appropriated, in addition to the sums authorized to be appropriated pursuant to section 501 of such Act \[section 5081 of this title\], such additional sums as may be necessary to carry out the amendments made by subsection (a) of this section \[amending this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4973, 4992, 5081, 12594, 12595, 12653c, 12655<i>l</i> of this title.
 

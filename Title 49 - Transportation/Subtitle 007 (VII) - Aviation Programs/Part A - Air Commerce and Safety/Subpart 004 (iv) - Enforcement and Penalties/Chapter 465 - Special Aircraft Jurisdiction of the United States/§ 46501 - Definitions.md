@@ -26,7 +26,7 @@ In this chapter—
 
 &emsp;&emsp;(E) any other aircraft leased without crew to a lessee whose principal place of business is in the United States or, if the lessee does not have a principal place of business, whose permanent residence is in the United States.
 
-&emsp;(3) an individual commits an offense (as defined in the Convention for the Suppression of Unlawful Seizure of Aircraft) when the individual, when on an aircraft in flight—
+&emsp;(3) an individual commits an offense (as defined in the Convention for the Suppression ofUnlawful Seizure of Aircraft) when the individual, when on an aircraft in flight—
 
 &emsp;&emsp;(A) by any form of intimidation, unlawfully seizes, exercises control of, or attempts to seize or exercise control of, the aircraft; or
 
@@ -67,8 +67,4 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(n)(2), (4); added Aug. 5, 1
 In clause (2), before subclause (A), the words “any of the following” are substituted for “includes” for clarity. In subclause (B), the words “armed forces” are substituted for “national defense forces” because of 10:101. In subclause (D)(i), the word “place” is substituted for “point” for consistency in the revised title. The word “actually” is omitted as surplus. In subclause (D)(ii), the words “on which an individual commits” are substituted for “having . . . committed aboard” for clarity. In subclause (D)(iii), the words “against which an individual commits” are substituted for “regarding which an offense . . . is committed” for clarity. The words “(Montreal, September 23, 1971)” are omitted as surplus. In subclause (E), the words “the lessee does not have a principal place of business” are substituted for “none” for clarity.
 
 In clause (3), the words “by force or threat thereof, or . . . other” are omitted as surplus.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 31, 112, 831, 878, 1116, 1201, 2318, 2340.
 

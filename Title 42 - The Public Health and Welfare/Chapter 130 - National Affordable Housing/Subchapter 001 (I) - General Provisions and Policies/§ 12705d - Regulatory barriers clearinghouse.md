@@ -56,7 +56,3 @@ Subsec. (b)(3). Pub. L. 106–569, §103(2), added par. (3).
 
 Subsecs. (c), (d). Pub. L. 106–569, §103(3), added subsecs. (c) and (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12705a, 12705b, 12705c of this title.
-

@@ -1,6 +1,6 @@
 ### §1447. Place of entry and unlading
 
-It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof ofany vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
+It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
 
 (June 17, 1930, ch. 497, title IV, §447, 46 Stat. 714; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §649(a), Dec. 8, 1993, 107 Stat. 2208.)
 
@@ -31,8 +31,4 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs personnel, referred to in text, were under Department of the Treasury.
 
 “Commissioner of Customs” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1449 of this title.
 

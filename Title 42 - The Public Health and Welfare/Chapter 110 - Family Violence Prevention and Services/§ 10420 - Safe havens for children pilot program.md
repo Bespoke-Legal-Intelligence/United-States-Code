@@ -12,7 +12,7 @@ In awarding grants under subsection (a) of this section, the Attorney General sh
 
 &emsp;(2) the extent to which the proposed supervised visitation programs and services serve underserved populations (as defined in section 3796gg–2 of this title);
 
-&emsp;(3) with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local community served, including the State or tribal domestic violence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
+&emsp;(3) with respect to an applicant for a contract or cooperative agreement, the extent to which the applicant demonstrates cooperation and collaboration with nonprofit, nongovernmental entities in the local communityserved, including the State or tribal domestic violence coalition, State or tribal sexual assault coalition, local shelters, and programs for domestic violence and sexual assault victims; and
 
 &emsp;(4) the extent to which the applicant demonstrates coordination and collaboration with State and local court systems, including mechanisms for communication and referral.
 
@@ -60,7 +60,7 @@ There is authorized to be appropriated to carry out this section $15,000,000 for
 
 #### (f) Allotment for Indian tribes
 
-Not less than 5 percent of the total amount made available for each fiscal year to carry outthis section shall be available for grants to Indian tribal governments.
+Not less than 5 percent of the total amount made available for each fiscal year to carry out this section shall be available for grants to Indian tribal governments.
 
 (Pub. L. 106–386, div. B, title III, §1301, Oct. 28, 2000, 114 Stat. 1509.)
 

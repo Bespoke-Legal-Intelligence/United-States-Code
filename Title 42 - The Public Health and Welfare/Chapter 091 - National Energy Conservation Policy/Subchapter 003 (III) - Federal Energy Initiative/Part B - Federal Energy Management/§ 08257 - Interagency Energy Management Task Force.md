@@ -30,7 +30,3 @@ The Task Force shall meet when the Secretary requests, but not less often than t
 
 1988—Pub. L. 100–615 amended section generally, substituting provisions relating to creation of an Interagency Energy Management Task Force for provisions relating to energy audits and retrofitting of existing Federal buildings.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8256, 8258b, 8262 of this title.
-

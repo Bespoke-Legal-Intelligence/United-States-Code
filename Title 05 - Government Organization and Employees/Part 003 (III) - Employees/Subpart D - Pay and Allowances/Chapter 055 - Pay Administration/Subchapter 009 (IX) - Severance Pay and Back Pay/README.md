@@ -4,10 +4,6 @@
 
 1967—Pub. L. 90–83, §1(34)(A), Sept. 11, 1967, 81 Stat. 201, inserted “SEVERANCE PAY AND” before “BACK PAY” in subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5520a of this title; title 10 section 2494; title 22 section 3664.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
 
 

@@ -4,7 +4,3 @@ The area comprising that particular land and water depicted on the map identifie
 
 (Pub. L. 89–668, §2, Oct. 15, 1966, 80 Stat. 922.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460s–7 of this title.
-

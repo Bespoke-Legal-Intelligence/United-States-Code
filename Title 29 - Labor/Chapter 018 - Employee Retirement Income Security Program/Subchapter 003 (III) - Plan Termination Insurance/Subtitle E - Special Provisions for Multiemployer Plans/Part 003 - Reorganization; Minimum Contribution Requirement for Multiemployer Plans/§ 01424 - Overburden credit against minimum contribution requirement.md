@@ -80,9 +80,5 @@ Notwithstanding any other provision of this section, if 2 or more multiemployer 
 
 Section 1322a(c)(2) of this title, referred to in subsec. (e)(4), was repealed and former section 1322a(c)(3) was redesignated section 1322a(c)(2) by Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1202, 1422, 1423, 1461 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

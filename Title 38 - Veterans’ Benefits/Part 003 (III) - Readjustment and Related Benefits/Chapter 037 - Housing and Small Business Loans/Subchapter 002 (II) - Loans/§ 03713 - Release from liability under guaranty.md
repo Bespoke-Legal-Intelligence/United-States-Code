@@ -6,7 +6,7 @@
 
 (c) This section shall apply only to loans for which commitments are made before March 1, 1988.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1817; Pub. L. 92–328, title II, §204, June 30, 1972, 86 Stat. 397; Pub. L. 94–324, §7(18), (19), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, §303(f), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–198, §10(a)(2), Dec. 21, 1987, 101 Stat. 1323; renumbered §1813 and amended Pub. L. 100–322, title IV, §415(b)(2), May 20, 1988, 102 Stat. 550; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3713 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(e)(15), Nov. 2, 1994, 108 Stat. 4686.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1817; Pub. L. 92–328, title II, §204, June 30, 1972, 86 Stat. 397; Pub. L. 94–324, §7(18), (19), June 30, 1976, 90 Stat. 722; Pub. L. 97–72, title III, §303(f), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–198, §10(a)(2), Dec. 21, 1987, 101 Stat. 1323; renumbered §1813 and amended Pub. L. 100–322, title IV, §415(b)(2), May 20, 1988, 102 Stat. 550; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3713 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105Stat. 406; Pub. L. 103–446, title XII, §1201(e)(15), Nov. 2, 1994, 108 Stat. 4686.)
 
 #### Amendments
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 94–324 effective June 30, 1976, see section 9(a) of Pub. 
 #### Effective Date of 1972 Amendment
 
 Section 301(c) of Pub. L. 92–328 provided that: “Sections 201 through 206 of this Act \[amending this section and sections 210, 1820 \[now 3720\], 3102 \[now 5302\], and 3503 \[now 6103\] of this title, and enacting provisions set out as a note under section 5302 of this title\] shall take effect upon the date of enactment of this Act \[June 30, 1972\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3726 of this title.
 

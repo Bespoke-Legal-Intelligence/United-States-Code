@@ -4,7 +4,3 @@ The Secretary, after consultation with the Secretary of State, by regulation sha
 
 (Pub. L. 92–587, title II, §201, Oct. 27, 1972, 86 Stat. 1297.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2092 of this title.
-

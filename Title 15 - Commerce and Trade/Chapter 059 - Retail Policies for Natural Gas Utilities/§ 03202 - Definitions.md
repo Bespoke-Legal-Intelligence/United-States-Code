@@ -32,7 +32,3 @@ For purposes of this chapter—
 
 The definitions in section 2602 of Title 16, Conservation, apply to this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 2603; title 42 section 6807a.
-

@@ -46,7 +46,3 @@ Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 1990—Subsec. (a)(1)(C), (D). Pub. L. 101–508 added subpars. (C) and (D).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1349, 1350, 1351 of this title; title 2 section 60a–2; title 5 section 5306; title 8 section 1363a; title 16 sections 1i, 450ss–4, 698v–4, 754c; title 19 section 2081; title 20 section 1225; title 22 sections 277d–3, 1461b, 2295b, 5857; title 26 section 7608; title 33 section 891d; title 40 section 585; title 42 sections 2204, 2204a, 2210, 2295, 2394, 3549, 9619; title 43 section 377b; title 49 sections 40110, 40111, 40112; title 50 sections 403f, 2611.
-

@@ -16,7 +16,3 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 8, 1959, §24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, §77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 412 of this title.
-

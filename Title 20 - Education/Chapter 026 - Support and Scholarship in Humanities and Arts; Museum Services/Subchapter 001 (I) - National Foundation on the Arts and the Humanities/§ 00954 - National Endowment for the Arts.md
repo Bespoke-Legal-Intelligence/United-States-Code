@@ -34,7 +34,7 @@ The Chairperson, with the advice of the National Council on the Arts, is authori
 
 &emsp;(10) other relevant projects, including surveys, research, planning, and publications relating to the purposes of this subsection.
 
-> In the case of publications under paragraph (10) of this subsection such publications may be supported without regard for the provisions of section 501 of title 44 only if the Chairperson consults with the Joint Committee on Printing of the Congress and the Chairperson submits to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a report justifying any exemption from such section 501. Any loans made by the Chairperson underthis subsection shall be made in accordance with terms and conditions approved by the Secretary of the Treasury. In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented.
+> In the case of publications under paragraph (10) of this subsection such publications may be supported without regard for the provisions of section 501 of title 44 only if the Chairperson consults with the Joint Committee on Printing of the Congress and the Chairperson submits to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a report justifying any exemption from such section 501. Any loans made by the Chairperson under this subsection shall be made in accordance with terms and conditions approved by the Secretary of the Treasury. In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented.
 
 #### (d) Application for payment; regulations and procedures
 
@@ -42,7 +42,7 @@ No payment shall be made under this section except upon application therefor whi
 
 &emsp;(1) artistic excellence and artistic merit are the criteria by which applications are judged, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public; and
 
-&emsp;(2) applications are consistent with the purposes of this section. Such regulations and procedures shall clearly indicate that obscenity is without artistic merit, is not protected speech, and shall not be funded. Projects, productions, workshops, and programs that are determined to be obscene are prohibited from receiving financial assistance under this subchapter from the National Endowment for the Arts.
+&emsp;(2) applications are consistent with the purposes of this section. Such regulations andprocedures shall clearly indicate that obscenity is without artistic merit, is not protected speech, and shall not be funded. Projects, productions, workshops, and programs that are determined to be obscene are prohibited from receiving financial assistance under this subchapter from the National Endowment for the Arts.
 
 > The disapproval or approval of an application by the Chairperson shall not be construed to mean, and shall not be considered as evidence that, the project, production, workshop, or program for which the applicant requested financial assistance is or is not obscene.
 
@@ -82,7 +82,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > No application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
-(3) Of the sums available to carry out this subsection for any fiscal year, each State which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriatedare insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
+(3) Of the sums available to carry out this subsection for any fiscal year, each State which has a plan approved by the Chairperson shall be allotted at least $200,000. If the sums appropriated are insufficient to make the allotments under the preceding sentence in full, such sums shall be allotted among such States in equal amounts. In any case where the sums available to carry out this subsection for any fiscal year are in excess of the amount required to make the allotments under the first sentence of this paragraph—
 
 &emsp;(A) the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any fiscal year shall be available only to the Chairperson for making grants under this subsection to States and regional groups, and
 
@@ -90,7 +90,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > but in no event shall any State be allotted less than $200,000.
 
-(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year.
+(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect onthe first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year.
 
 (B) Any amount allotted to a State under the first sentence of paragraph (3) for any fiscal year which is not obligated by the State prior to 60 days prior to the end of the fiscal year for which such sums are appropriated shall be available for making grants to regional groups.
 
@@ -148,7 +148,7 @@ It shall be a condition of the receipt of financial assistance provided under th
 
 #### (j) Regulations for distribution of financial assistance in installments; implementation
 
-The Chairperson shall issue regulations to provide for the distribution of financial assistanceto recipients in installments except in those cases where the Chairperson determines that installments are not practicable. In implementing any such installments, the Chairperson shall ensure that—
+The Chairperson shall issue regulations to provide for the distribution of financial assistance to recipients in installments except in those cases where the Chairperson determines that installments are not practicable. In implementing any such installments, the Chairperson shall ensure that—
 
 &emsp;(1) not more than two-thirds of such assistance may be provided at the time such application is approved; and
 
@@ -184,7 +184,7 @@ The Chairperson shall correlate the programs of the National Endowment for the A
 
 (1) The Chairperson of the National Endowment for the Arts, with the advice of the National Council on the Arts, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of contracts with, or grants-in-aid to, public agencies and private nonprofit organizations, on a national, State, or local level, for the purpose of strengthening quality by—
 
-&emsp;(A) enabling cultural organizations and institutions to increase the levels of continuingsupport and to increase the range of contributors to the programs of such organizations or institutions;
+&emsp;(A) enabling cultural organizations and institutions to increase the levels of continuing support and to increase the range of contributors to the programs of such organizations or institutions;
 
 &emsp;(B) providing administrative and management improvements for cultural organizations and institutions, particularly in the field of long-range financial planning;
 
@@ -240,7 +240,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out 
 
 #### Codification
 
-In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Subsec. (c)(5). Pub. L. 101–512, §318 \[title I, §103(a)(3)\], inserted “e
 
 Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\], added pars. (8) and (9) and redesignated former par. (8) as (10).
 
-Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon applicationtherefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
 
 Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -340,7 +340,7 @@ Subsec. (<i>l</i>). Pub. L. 94–462, §301(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
-1973—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
+1973—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projectsand productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
 
 Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 
@@ -375,6 +375,8 @@ Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted “of exceptional talent�
 1967—Subsec. (d). Pub. L. 90–83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
 
 #### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
@@ -419,8 +421,4 @@ Report Required.—Not later than October 1, 1992, the Comptroller General shall
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
 Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 952, 955, 959, 960 of this title.
 

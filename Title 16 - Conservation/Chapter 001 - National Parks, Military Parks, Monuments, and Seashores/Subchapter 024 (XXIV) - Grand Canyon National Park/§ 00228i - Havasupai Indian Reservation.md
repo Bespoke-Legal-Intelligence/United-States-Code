@@ -16,7 +16,7 @@ The lands held in trust pursuant to this section shall be included in the Havasu
 
 &emsp;(4) a study shall be made by the Secretary, in consultation with the Havasupai Tribal Council, to develop a plan for the use of this land by the tribe which shall include the selection of areas which may be used for residential, educational, and other community purposes for members of the tribe and which shall not be inconsistent with, or detract from, park uses and values; <i>Provided further</i>, That before being implemented by the Secretary, such plan shall be made available through his offices for public review and comment, shall be subject to public hearings, and shall be transmitted, together with a complete transcript of the hearings, at least 90 days prior to implementation, to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives; and <i>Provided further</i>, That any subsequent revisions of this plan shall be subject to the same procedures as set forth in this paragraph;
 
-&emsp;(5) no commercial timber production, no commercial mining or mineral production, and no commercial or industrial development shall be permitted on such lands: <i>Provided further</i>, That the Secretary may authorize the establishment of such tribal small business enterprises as he deems advisable to meet the needs of the tribe which are in accordance with theplan provided in paragraph (4) of this subsection;
+&emsp;(5) no commercial timber production, no commercial mining or mineral production, and no commercial or industrial development shall be permitted on such lands: <i>Provided further</i>, That the Secretary may authorize the establishment of such tribal small business enterprises as he deems advisable to meet the needs of the tribe which are in accordance with the plan provided in paragraph (4) of this subsection;
 
 &emsp;(6) nonmembers of the tribe shall be permitted to have access across such lands at locations established by the Secretary in consultation with the Tribal Council in order to visit adjacent parklands, and with the consent of the tribe, may be permitted (i) to enter and temporarily utilize lands within the reservation in accordance with the approved land use plan described in paragraph (4) of this subsection for recreation purposes or (ii) to purchase licenses from the tribe to hunt on reservation lands subject to limitations and regulations imposed by the Secretary of the Interior; and
 
@@ -51,8 +51,4 @@ Provision of subsec. (f) of this section, which repealed section 3 of act of Feb
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a to 228h, 228j of this title.
 

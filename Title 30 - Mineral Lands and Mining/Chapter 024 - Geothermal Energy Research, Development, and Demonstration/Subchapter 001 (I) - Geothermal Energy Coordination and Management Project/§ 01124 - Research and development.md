@@ -28,7 +28,3 @@
 
 (Pub. L. 93–410, title I, §104, Sept. 3, 1974, 88 Stat. 1083.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1126 of this title.
-

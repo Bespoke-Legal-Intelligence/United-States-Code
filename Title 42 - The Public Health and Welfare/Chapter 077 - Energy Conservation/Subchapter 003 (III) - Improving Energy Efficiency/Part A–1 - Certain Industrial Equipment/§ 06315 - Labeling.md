@@ -20,7 +20,7 @@ A rule prescribed in accordance with this section shall include such requirement
 
 #### (d) Labeling rules applicable to electric motors
 
-Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for electric motors under section 6314 of this title, the Secretary shall prescribe labeling rules under this section applicable to electric motors taking into consideration NEMA Standards Publication MG1–1987. Such rules shall provide that the labeling of any electric motor manufactured after the 12-month period beginning on the date the Secretary prescribes such labeling rules, shall—
+Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for electric motors undersection 6314 of this title, the Secretary shall prescribe labeling rules under this section applicable to electric motors taking into consideration NEMA Standards Publication MG1–1987. Such rules shall provide that the labeling of any electric motor manufactured after the 12-month period beginning on the date the Secretary prescribes such labeling rules, shall—
 
 &emsp;(1) indicate the energy efficiency of the motor on the permanent nameplate attached to such motor;
 
@@ -30,7 +30,7 @@ Subject to subsection (h) of this section, not later than 12 months after the Se
 
 #### (e) Labeling rules for air conditioning and heating equipment
 
-Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanksunder section 6314 of this title, the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
+Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under section 6314 of this title, the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
 
 &emsp;(1) indicate the energy efficiency of the equipment on the permanent nameplate attached to such equipment or other nearby permanent marking;
 
@@ -78,7 +78,7 @@ Until such time as labeling rules under this section take effect with respect to
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
 
@@ -87,8 +87,4 @@ The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1
 Subsec. (c). Pub. L. 102–486, §122(c)(2), substituted “shall include” for “may include”.
 
 Subsecs. (d) to (k). Pub. L. 102–486, §122(c)(3), (4), added subsecs. (d) and (e) and redesignated former subsecs. (d) to (i) as (f) to (k), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6316 of this title.
 

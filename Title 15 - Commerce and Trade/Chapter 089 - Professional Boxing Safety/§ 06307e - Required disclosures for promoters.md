@@ -34,7 +34,3 @@ A promoter shall make information required to be disclosed under this section av
 
 A prior section 13 of Pub. L. 104–272 was renumbered section 21 and is classified to section 6312 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6307g, 6309 of this title.
-

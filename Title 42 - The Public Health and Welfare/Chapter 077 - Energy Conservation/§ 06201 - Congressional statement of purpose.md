@@ -28,7 +28,7 @@ This chapter, referred to in introductory clause, was in the original “this Ac
 
 2000—Par. (1). Pub. L. 106–469, §102(1), struck out “standby” after “grant specific” and “, subject to congressional review, to impose rationing, to reduce demand for energy through the implementation of energy conservation plans, and” after “the President”.
 
-Par. (3). Pub. L. 106–469, §102(2), struck out par. (3) which read as follows: “to increase the supply of fossilfuels in the United States, through price incentives and production requirements;”.
+Par. (3). Pub. L. 106–469, §102(2), struck out par. (3) which read as follows: “to increase the supply of fossil fuels in the United States, through price incentives and production requirements;”.
 
 Par. (6). Pub. L. 106–469, §102(2), struck out par. (6) which read as follows: “to reduce the demand for petroleum products and natural gas through programs designed to provide greater availability and use of this Nation's abundant coal resources;”.
 
@@ -250,7 +250,7 @@ Requirement of majority of retail marketers.—Except as provided in subsection 
 
 &emsp;“(6)
 
-Certification of volumes.—Each person voting in the referendum shall certify to the independentauditing firm the volume of oilheat, No. 1 distillate, or No. 2 dyed distillate represented by the vote of the person.
+Certification of volumes.—Each person voting in the referendum shall certify to the independent auditing firm the volume of oilheat, No. 1 distillate, or No. 2 dyed distillate represented by the vote of the person.
 
 &emsp;“(7)
 
@@ -364,7 +364,7 @@ In General.—
 
 Programs, projects; contracts and other agreements.—The Alliance—
 
-&emsp;&emsp;“(A) shall develop programs and projects and enter into contracts or other agreements with other persons and entities for implementing this title, including programs—
+&emsp;&emsp;“(A) shall develop programs and projects and enter into contracts or other agreements withother persons and entities for implementing this title, including programs—
 
 &emsp;&emsp;&emsp;“(i) to enhance consumer and employee safety and training;
 
@@ -400,7 +400,7 @@ In general.—Research, development, and demonstration activities under paragrap
 
 &emsp;&emsp;&emsp;“(ii)
 
-Excluded activities.—Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds may be providedfor improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
+Excluded activities.—Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds may be provided for improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
 
 “(b)
 
@@ -740,7 +740,7 @@ Judicial Review.—
 
 &emsp;“(1)
 
-In general.—A public utility filing a complaint under this section, the Alliance, a qualifiedState association undertaking the consumer education activity with respect to which a complaint under this section is made, or any person aggrieved by a violation of subsection (a) may seek appropriate relief in United States district court.
+In general.—A public utility filing a complaint under this section, the Alliance, a qualified State association undertaking the consumer education activity with respect to which a complaint under this section is made, or any person aggrieved by a violation of subsection (a) may seek appropriate relief in United States district court.
 
 &emsp;“(2)
 
@@ -800,7 +800,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 
 (c) Section 254(a) of the Energy Policy and Conservation Act (89 Stat. 899, 42 U.S.C. 6274(a)), including the receipt of petitions under section 254(a)(3)(B); <i>provided that</i>, the authority under section 254(a) may be exercised only after consultation with the Secretary of State;
 
-(d) Section 254(b) of the Energy Policy and Conservation Act (89 Stat. 900, 42 U.S.C. 6274(b)); <i>provided that</i>, in determining whether the transmittal of data would prejudice competition or violate the antitrust laws, theSecretary shall consult with the Attorney General, and in determining whether the transmittal of data would be inconsistent with national security interests, he shall consult with the Secretaries of State and Defense, and the heads of such other agencies as he deems appropriate;
+(d) Section 254(b) of the Energy Policy and Conservation Act (89 Stat. 900, 42 U.S.C. 6274(b)); <i>provided that</i>, in determining whether the transmittal of data would prejudice competition or violate the antitrust laws, the Secretary shall consult with the Attorney General, and in determining whether the transmittal of data would be inconsistent with national security interests, he shall consult with the Secretaries of State and Defense, and the heads of such other agencies as he deems appropriate;
 
 (e) Section 523(a)(2)(A) of the Energy Policy and Conservation Act (89 Stat. 962, 42 U.S.C. 6393(a)(2)(A)), but only to the extent applicable to other functions delegated or assigned by this Order to the Secretary of Energy.
 
@@ -828,7 +828,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (2) The plans submitted shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with over 30,000 gross square feet of space owned and maintained by Executive agencies. Further, the second annual report submitted under subsection (g)(2) of this Section shall, to the maximum extent practicable, include the results of preliminary energy audits of all existing buildings with more than 5,000 but not more than 30,000 gross square feet of space. The purpose of such preliminary energy audits shall be to identify the type, size, energy use level and major energy using systems of existing Federal buildings.
 
-(3) The Secretary shall evaluate agency plans relative to the guidelines established pursuant to subsection (d) for such plans and relative to the cost estimating method established pursuant to subsection (c). Plans determined to be deficient by the Secretary will be returned to the submitting agency head for revision and resubmission within 60 days.
+(3) The Secretary shall evaluate agency plans relative to the guidelines established pursuant to subsection (d) for such plans and relative to the cost estimatingmethod established pursuant to subsection (c). Plans determined to be deficient by the Secretary will be returned to the submitting agency head for revision and resubmission within 60 days.
 
 (4) The head of any Executive agency submitting a plan, should he disagree with the Secretary's determination with respect to that plan, may appeal to the Director of the Office of Management and Budget for resolution of the disagreement.
 

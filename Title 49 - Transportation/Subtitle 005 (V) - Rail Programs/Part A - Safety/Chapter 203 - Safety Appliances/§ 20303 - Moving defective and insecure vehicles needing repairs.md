@@ -50,7 +50,3 @@ In subsection (b), the words “A vehicle . . . may be moved under this sectio
 
 In subsection (c), the word “hauling” is omitted for consistency in this section. The word “proceeding” is substituted for “remedial action” for consistency in the revised title and to ensure that administrative, as well as court proceedings, are included. The words “to recover damages” are added for clarity. The words “arising from” are substituted for “caused . . . by reason of or in connection with” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 20302 of this title.
-

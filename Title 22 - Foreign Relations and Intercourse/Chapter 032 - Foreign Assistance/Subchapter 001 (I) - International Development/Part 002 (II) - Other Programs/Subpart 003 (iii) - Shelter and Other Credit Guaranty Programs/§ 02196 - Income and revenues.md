@@ -10,7 +10,3 @@ In order to carry out the purposes of the Corporation, all revenues and income t
 
 (Pub. L. 87–195, pt. I, §236, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 814.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2182a, 2195, 2198 of this title.
-

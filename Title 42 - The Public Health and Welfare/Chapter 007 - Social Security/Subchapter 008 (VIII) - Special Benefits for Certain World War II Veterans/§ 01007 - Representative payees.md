@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Commissioner of Social Security determines that the interest of any qualified individual under this subchapter would be served thereby, payment of the qualified individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) of this section have been met (in this section referred to as the qualified individual's “representative payee”). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, 405(j) of this title, or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this subchapter would be served thereby, to the qualified individual.
+If the Commissioner of Social Security determines that the interest of any qualified individual under this subchapter would be served thereby, payment of the qualified individual's benefit under this subchapter may be made, regardless of the legal competency or incompetency of the qualified individual, either directly to the qualified individual, or for his or her use and benefit, to another person (the meaning of which term, for purposes of this section, includes an organization) with respect to whom the requirements of subsection (b) of this section have been met (in this section referred to as the qualified individual's “representative payee”). If the Commissioner of Social Security determines that a representative payee has misused any benefit paid to the representative payee pursuant to this section, 405(j) of this title, or section 1383(a)(2) of this title, the Commissioner of Social Security shall promptly revoke the person's designation as the qualified individual's representative payee under this subsection, and shall make payment to an alternative representative payee or, if the interest of the qualified individual under this subchapter would be served thereby, to the qualified individual.
 
 #### (b) Examination of fitness of prospective representative payee
 
@@ -18,9 +18,21 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(B) in the case of a person who has a social security account number issued for purposes of the program under subchapter II of this chapter or an employer identification number issued for purposes of the Internal Revenue Code of 1986, verify the number;
 
-&emsp;(C) determine whether the person has been convicted of a violation of section 408, 1011, or 1383a of this title; and
+&emsp;(C) determine whether the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;(D) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
+&emsp;(D) obtain information concerning whether such person has been convicted of any other offense under Federal or State law which resulted in imprisonment for more than 1 year;
+
+&emsp;(E) obtain information concerning whether such person is a person described in section 1004(a)(2) of this title; and
+
+&emsp;(F) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
+
+(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifyinginformation as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
+
+&emsp;(A) such person is described in section 1004(a)(2) of this title,
+
+&emsp;(B) such person has information that is necessary for the officer to conduct the officer's official duties, and
+
+&emsp;(C) the location or apprehension of such person is within the officer's official duties.
 
 #### (c) Requirement for maintaining lists of undesirable payees
 
@@ -38,9 +50,13 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 &emsp;&emsp;(A) the person has been convicted of a violation of section 408, 1011, or 1383a of this title;
 
-&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively; or
+&emsp;&emsp;(B) except as provided in paragraph (2), payment of benefits to the person in the capacity of representative payee has been revoked or terminated under this section, section 405(j) of this title, or section 1383(a)(2)(A)(ii) <sup>1</sup> of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or subchapter XVI of this chapter, respectively;
 
-&emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration.
+&emsp;&emsp;(C) except as provided in paragraph (2)(B), the person is a creditor of the qualified individual and provides the qualified individual with goods or services for consideration;
+
+&emsp;&emsp;(D) such person has previously been convicted as described in subsection (b)(2)(D) of this section, unless the Commissioner determines that such payment would be appropriate notwithstanding such conviction; or
+
+&emsp;&emsp;(E) such person is a person described in section 1004(a)(2) of this title.
 
 #### (2) Exemptions
 
@@ -116,7 +132,11 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 &emsp;Notwithstanding paragraph (1), the Commissioner of Social Security may require a report at any time from any person receiving payments on behalf of a qualified individual, if the Commissioner of Social Security has reason to believe that the person receiving the payments is misusing the payments.
 
-#### (3) Maintaining lists of payees
+#### (3) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
+
+&emsp;In any case in which the person described in paragraph (1) or (2) receiving benefit payments on behalf of a qualified individual fails to submit a report required by the Commissioner of Social Security under paragraph (1) or (2), the Commissioner may, after furnishing notice to such person and the qualified individual, require that such person appear in person at a United States Government facility designated by the Social Security Administration as serving the area in which the qualified individual resides in order to receive such benefit payments.
+
+#### (4) Maintaining lists of payees
 
 &emsp;The Commissioner of Social Security shall maintain lists which shall be updated periodically of—
 
@@ -124,27 +144,103 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 &emsp;&emsp;(B) the name, address, and social security account number of each individual for whom each representative payee is reported to be providing services as representative payee pursuant to this section, section 405(j) of this title, or section 1383(a)(2) of this title.
 
-#### (4) Maintaining lists of agencies
+#### (5) Maintaining lists of agencies
 
 &emsp;The Commissioner of Social Security shall maintain lists, which shall be updated periodically, of public agencies and community-based nonprofit social service agencies which are qualified to serve as representative payees pursuant to this section and which are located in the jurisdiction in which any qualified individual resides.
 
 #### (i) Restitution
 
-In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee,the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. In any case in which a representative payee that—
 
-(Aug. 14, 1935, ch. 531, title VIII, §807, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1846.)
+&emsp;(A) is not an individual; or
+
+&emsp;(B) is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter II of this chapter, subchapter XVI of this chapter, or any combination of such subchapters;
+
+> misuses all or part of an individual's benefit paid to such representative payee, the Commissioner of Social Security shall pay to the beneficiary or the beneficiary's alternative representative payee an amount equal to the amount of such benefit so misused. The provisions of this paragraph are subject to the limitations of subsection (<i>l</i>)(2) of this section. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+
+#### (j) Misuse of benefits
+
+For purposes of this subchapter, misuse of benefits by a representative payee occurs in any case in which the representative payee receives payment under this subchapter for the use and benefit of another person under this subchapter and converts such payment, or any part thereof, to a use other than for the use and benefit of such person. The Commissioner of Social Security may prescribe by regulation the meaning of the term “use and benefit” for purposes of this subsection.
+
+#### (k) Periodic onsite review
+
+#### (1) In general
+
+&emsp;In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner may provide for the periodic onsite review of any person or agency that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter II of this chapter or subchapter XVI of this chapter) to another individual pursuant to the appointment of such person or agency as a representative payee under this section, section 405(j) of this title, or section 1383(a)(2) of this title in any case in which—
+
+&emsp;&emsp;(A) the representative payee is a person who serves in that capacity with respect to 15 or more such individuals; or
+
+&emsp;&emsp;(B) the representative payee is an agency that serves in that capacity with respect to 50 or more such individuals.
+
+#### (2) Report
+
+&emsp;Within 120 days after the end of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of periodic onsite reviews conducted during the fiscal year pursuant to paragraph (1) and of any other reviews of representative payees conducted during such fiscal year in connection with benefits under this subchapter. Each such report shall describe in detail all problems identified in such reviews and any corrective action taken or planned to be taken to correct such problems, and shall include—
+
+&emsp;&emsp;(A) the number of such reviews;
+
+&emsp;&emsp;(B) the results of such reviews;
+
+&emsp;&emsp;(C) the number of cases in which the representative payee was changed and why;
+
+&emsp;&emsp;(D) the number of cases involving the exercise of expedited, targeted oversight of the representative payee by the Commissioner conducted upon receipt of an allegation of misuse of funds, failure to pay a vendor, or a similar irregularity;
+
+&emsp;&emsp;(E) the number of cases discovered in which there was a misuse of funds;
+
+&emsp;&emsp;(F) how any such cases of misuse of funds were dealt with by the Commissioner;
+
+&emsp;&emsp;(G) the final disposition of such cases of misuse of funds, including any criminal penalties imposed; and
+
+&emsp;&emsp;(H) such other information as the Commissioner deems appropriate.
+
+#### (<i>l</i>) Liability for misused amounts
+
+#### (1) In general
+
+&emsp;If the Commissioner of Social Security or a court of competent jurisdiction determines that a representative payee that is not a Federal, State, or local government agency has misused all or part of a qualified individual's benefit that was paid to such representative payee under this section, the representative payee shall be liable for the amount misused, and such amount (to the extent not repaid by the representative payee) shall be treated as an overpayment of benefits under this subchapter to the representative payee for all purposes of this chapter and related laws pertaining to the recovery of such overpayments. Subject to paragraph (2), upon recovering all or any part of such amount, the Commissioner shall make payment of an amount equal to the recovered amount to such qualified individual or such qualified individual's alternative representative payee.
+
+#### (2) Limitation
+
+&emsp;The total of the amount paid to such individual or such individual's alternative representative payee under paragraph (1) and the amount paid under subsection (i) of this section may not exceed the total benefit amount misused by the representative payee with respect to such individual.
+
+(Aug. 14, 1935, ch. 531, title VIII, §807, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1846; amended Pub. L. 108–203, title I, §§101(b), 102(b)(2), 103(b), 105(b), 106(b), Mar. 2, 2004, 118 Stat. 495, 499, 501, 504, 506.)
 
 #### References in Text
 
-The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B), (3), is classified generally to Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
 For prior provisions, see note set out under section 1001 of this title.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 405, 1008, 1011, 1383 of this title.
+2004—Subsec. (a). Pub. L. 108–203, §101(b)(3), substituted “for his or her use and benefit” for “for his or her benefit”.
+
+Subsec. (b)(2)(D) to (F). Pub. L. 108–203, §103(b)(1), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+
+Subsec. (b)(3). Pub. L. 108–203, §103(b)(2), added par. (3).
+
+Subsec. (d)(1)(D), (E). Pub. L. 108–203, §103(b)(3), added subpars. (D) and (E).
+
+Subsec. (h)(3) to (5). Pub. L. 108–203, §106(b), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (i). Pub. L. 108–203, §101(b)(1), inserted second and third sentences.
+
+Subsec. (j). Pub. L. 108–203, §101(b)(2), added subsec. (j).
+
+Subsec. (k). Pub. L. 108–203, §102(b)(2), added subsec. (k).
+
+Subsec. (<i>l</i>). Pub. L. 108–203, §105(b), added subsec. (<i>l</i>).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 101(b) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+
+Amendment by section 103(b) of Pub. L. 108–203 effective on the first day of the thirteenth month beginning after Mar. 2, 2004, see section 103(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+
+Amendment by section 105(b) of Pub. L. 108–203 applicable to benefit misuse by a representative payee in any case with respect to which the Commissioner of Social Security or a court of competent jurisdiction makes the determination of misuse after 180 days after Mar. 2, 2004, see section 105(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+
+Amendment by section 106(b) of Pub. L. 108–203 effective 180 days after Mar. 2, 2004, see section 106(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1383(a)(2)(A)(iii)”.</i>
 

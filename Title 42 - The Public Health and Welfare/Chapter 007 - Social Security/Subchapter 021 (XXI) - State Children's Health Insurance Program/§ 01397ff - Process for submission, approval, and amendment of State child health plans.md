@@ -78,7 +78,3 @@ An approved State child health plan shall continue in effect unless and until th
 
 (Aug. 14, 1935, ch. 531, title XXI, §2106, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 563.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1397aa, 1397jj of this title.
-

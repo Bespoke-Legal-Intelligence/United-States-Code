@@ -50,7 +50,3 @@ The employer may require that the eligible employee obtain subsequent recertific
 
 (Pub. L. 103–3, title I, §103, Feb. 5, 1993, 107 Stat. 11.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2612 of this title; title 2 section 1312; title 3 section 412.
-

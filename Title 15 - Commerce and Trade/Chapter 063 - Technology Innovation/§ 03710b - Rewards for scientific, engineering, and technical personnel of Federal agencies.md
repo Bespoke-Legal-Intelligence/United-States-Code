@@ -12,9 +12,5 @@ The head of each Federal agency that is making expenditures at a rate of more th
 
 1988—Par. (1). Pub. L. 100–519 inserted “computer software,” after “inventions, innovations,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3714 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

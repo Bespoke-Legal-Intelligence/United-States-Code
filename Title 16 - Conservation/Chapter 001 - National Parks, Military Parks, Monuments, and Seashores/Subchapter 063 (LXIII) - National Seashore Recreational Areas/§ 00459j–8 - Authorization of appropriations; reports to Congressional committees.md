@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of lands and interests in lands
 
-There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 459j to 459j–8 of this title, but not more than $7,941,000 for the acquisition of lands and interests in lands. In order to avoid excessive costs resulting from delays in the acquisition program, the Secretary shall make every reasonable effort to promptly acquire the privately owned lands within the seashore. Until all such lands are acquired, he shall report, in writing on June 30 of each year to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, the following information:
+There are hereby authorized to be appropriated such sums as may be necessary to carryout the purposes of sections 459j to 459j–8 of this title, but not more than $7,941,000 for the acquisition of lands and interests in lands. In order to avoid excessive costs resulting from delays in the acquisition program, the Secretary shall make every reasonable effort to promptly acquire the privately owned lands within the seashore. Until all such lands are acquired, he shall report, in writing on June 30 of each year to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, the following information:
 
 &emsp;(1) the amount of land acquired during the current fiscal year and the amount expended therefor;
 
@@ -12,7 +12,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### (b) Development of essential public facilities
 
-For the development of essential public facilities there are authorized to be appropriated $2.6million in addition to the sums previously appropriated.
+For the development of essential public facilities there are authorized to be appropriated $2.6 million in addition to the sums previously appropriated.
 
 (Pub. L. 93–626, §9, Jan. 3, 1975, 88 Stat. 2125; Pub. L. 100–564, §2, Oct. 31, 1988, 102 Stat. 2831; Pub. L. 103–437, §6(m), Nov. 2, 1994, 108 Stat. 4586.)
 
@@ -33,8 +33,4 @@ Subsec. (b). Pub. L. 103–437, §6(m)(2), struck out at end “Within three yea
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 459j–1, 459j–2, 459j–4, 459j–5, 459j–6 of this title.
 

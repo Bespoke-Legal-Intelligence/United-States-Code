@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—GENERAL PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7413 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “part D of subchapter I of this chapter”.</i>
 
 

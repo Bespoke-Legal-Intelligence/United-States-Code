@@ -1,9 +1,5 @@
 Part A—Retired and Senior Volunteer Program
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5000, 5011, 5021, 5025, 5027, 5028, 5061, 5082, 12651e of this title.
-
 
 ---
 

@@ -4,13 +4,13 @@
 
 (b) Not less than 90 per centum of the funds made available to carry out the provisions of this subchapter (other than sections 2991b(d), 2991b–1, 2991b–3, 2991c of this title, subsection (e) <sup>1</sup> of this section, and any other provision of this subchapter for which there is an express authorization of appropriations) for a fiscal year shall be expended to carry out section 2991b(a) of this title for such fiscal year.
 
-(c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001, and 2002, for the purpose of carrying out the provisions of section 2991b(d) of this title.
+(c) There is authorized to be appropriated $8,000,000 for each of fiscal years 1999, 2000, 2001,and 2002, for the purpose of carrying out the provisions of section 2991b(d) of this title.
 
 (d)(1) For fiscal year 1994, there are authorized to be appropriated such sums as may be necessary for the purpose of—
 
 &emsp;(A) establishing demonstration projects to conduct research related to Native American studies and Indian policy development; and
 
-&emsp;(B) continuing the development of a detailed plan, based in part on the results of theprojects, for the establishment of a National Center for Native American Studies and Indian Policy Development.
+&emsp;(B) continuing the development of a detailed plan, based in part on the results of the projects, for the establishment of a National Center for Native American Studies and Indian Policy Development.
 
 (2) Such a plan shall be delivered to the Congress not later than 30 days after September 30, 1992.
 

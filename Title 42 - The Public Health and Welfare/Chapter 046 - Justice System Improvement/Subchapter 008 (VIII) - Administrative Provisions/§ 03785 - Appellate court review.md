@@ -34,7 +34,3 @@ Subsec. (b). Pub. L. 98–473, §609B(d)(4), inserted “the Office of Juvenile 
 
 Amendment by section 609B(d) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3789d, 5633 of this title.
-

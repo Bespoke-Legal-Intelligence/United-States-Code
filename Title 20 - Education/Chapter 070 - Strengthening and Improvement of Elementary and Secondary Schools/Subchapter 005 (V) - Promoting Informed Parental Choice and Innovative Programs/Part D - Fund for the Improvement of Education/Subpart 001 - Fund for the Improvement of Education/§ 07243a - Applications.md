@@ -18,7 +18,3 @@ The Secretary shall use a peer review process in reviewing applications for awar
 
 (Pub. L. 89–10, title V, §5412, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1812.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7243b of this title.
-

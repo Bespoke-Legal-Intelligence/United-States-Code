@@ -22,7 +22,7 @@ In making his inspections and investigations under this chapter the Secretary ma
 
 #### (d) Obtaining of information
 
-Any information obtained by the Secretary, the Secretary of Health and Human Services, or a State agency under this chapter shall be obtained with a minimum burden upon employers,especially those operating small businesses. Unnecessary duplication of efforts in obtaining information shall be reduced to the maximum extent feasible.
+Any information obtained by the Secretary, the Secretary of Health and Human Services, or a State agency under this chapter shall be obtained with a minimum burden upon employers, especially those operating small businesses. Unnecessary duplication of efforts in obtaining information shall be reduced to the maximum extent feasible.
 
 #### (e) Employer and authorized employee representatives to accompany Secretary or his authorized representative on inspection of workplace; consultation with employees where no authorized employee representative is present
 
@@ -53,8 +53,4 @@ The Secretary shall not use the results of enforcement activities, such as the n
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (c), (d), and (g) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 667, 669, 670, 673 of this title; title 2 section 1341; title 3 section 425.
 

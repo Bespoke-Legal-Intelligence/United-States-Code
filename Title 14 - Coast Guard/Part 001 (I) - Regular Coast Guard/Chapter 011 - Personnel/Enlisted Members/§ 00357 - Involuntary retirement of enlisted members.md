@@ -44,9 +44,9 @@
 
 (h) An enlisted member, who has completed twenty years of service and who the Commandant has involuntarily retired under this section, shall receive retired pay.
 
-(i) An enlisted member voluntarily or involuntarily retired after twenty years of service whowas cited for extraordinary heroism in the line of duty shall be entitled to an increase in retired pay. The retired pay shall be increased by 10 percent of—
+(i) An enlisted member voluntarily or involuntarily retired after twenty years of service who was cited for extraordinary heroism in the line of duty shall be entitled to an increase in retired pay. The retired pay shall be increased by 10 percent of—
 
-&emsp;(1) the active-duty pay and permanent additions thereto of the grade or rating with which retired when the member's retired pay is computed under section 423(a) of this title; or
+&emsp;(1) the active-duty pay and permanent additions thereto of the grade or rating with whichretired when the member's retired pay is computed under section 423(a) of this title; or
 
 &emsp;(2) the member's retired pay base under section 1407 of title 10, when a member's retired pay is computed under section 423(b) of this title.
 
@@ -87,8 +87,4 @@ Act June 3, 1948, ch. 394, 62 Stat. 302, provided: “That those enlisted men of
 #### Enlisted Men in Service on September 6, 1963
 
 Section 2 of Pub. L. 88–114 provided that: “The amendment made by subsection (1) of section 1 of this Act \[amending this section\] does not apply to any enlisted man in service on the effective date of this Act \[Sept. 6, 1963\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 362 of this title.
 

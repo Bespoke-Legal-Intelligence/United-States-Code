@@ -44,7 +44,3 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 31 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 798 of this title.
-

@@ -24,9 +24,5 @@ Language was inserted in the first paragraph of this section limiting it to proj
 
 The definitions in section 371 of this title apply to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 371, 417, 475, 500, 511 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

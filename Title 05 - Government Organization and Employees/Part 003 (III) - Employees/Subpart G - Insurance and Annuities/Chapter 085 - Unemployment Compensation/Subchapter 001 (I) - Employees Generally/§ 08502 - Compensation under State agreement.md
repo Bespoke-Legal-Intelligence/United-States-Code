@@ -48,7 +48,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends 5 U.S.C. 8502 to eliminate certain provisions that are now obsolete. The obsolete provisions were based on section 542(b)(1)(A) of the act of September 13, 1960, 74 Stat. 985, that amended section 1502(b) of the Social Security Act effective January 1, 1961, but only in the case of weeks of unemployment beginning before January 1, 1966. Any existing rights are preserved by section 7 of this bill.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8507, 8523 of this title.
-

@@ -8,7 +8,3 @@ For purposes of section 12132 of this title and section 794 of title 29, it shal
 
 Section effective 18 months after July 26, 1990, see section 231(a) of Pub. L. 101–336, set out as a note under section 12141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12150, 12209 of this title; title 2 section 1331.
-

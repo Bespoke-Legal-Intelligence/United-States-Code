@@ -18,7 +18,7 @@ The restrictions required by subsection (a) of this section shall be applied wit
 
 #### (c) Waivers
 
-The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
+The Secretary, after consultation with the Director of Central Intelligence and the Directorof the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
 #### (d) Repealed. Pub. L. 103–236, title I, §139(3), Apr. 30, 1994, 108 Stat. 397
 
@@ -41,6 +41,10 @@ For purposes of this section—
 #### Amendments
 
 1994—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: “The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.”
+
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date
 

@@ -4,9 +4,5 @@ Nothing in sections 57, 58, and 60 to 65 of this title shall be construed as rep
 
 (June 2, 1920, ch. 218, §5, 41 Stat. 732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 63, 65 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “plant”.</i>
 

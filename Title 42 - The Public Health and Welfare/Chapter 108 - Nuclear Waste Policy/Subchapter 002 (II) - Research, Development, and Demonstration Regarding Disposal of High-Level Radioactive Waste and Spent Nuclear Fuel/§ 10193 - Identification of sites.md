@@ -10,7 +10,7 @@ Not later than 6 months after January 7, 1983, and notwithstanding the failure o
 
 &emsp;(A) an evaluation by the Secretary as to whether such site is suitable for siting research under the guidelines established under subsection (a) of this section;
 
-&emsp;(B) an evaluation by the Secretary of the effects of the siting research activities at such site on the public health and safety and the environment;
+&emsp;(B) an evaluation by the Secretary of the effects of the siting research activities at suchsite on the public health and safety and the environment;
 
 &emsp;(C) a reasonable comparative evaluation by the Secretary of such site with other sites and locations that have been considered;
 
@@ -25,8 +25,4 @@ Not later than 6 months after January 7, 1983, and notwithstanding the failure o
 #### Change of Name
 
 “United States Geological Survey” substituted for “Geological Survey” in subsec. (a) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10194, 10195, 10199 of this title.
 

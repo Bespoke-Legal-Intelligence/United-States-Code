@@ -78,7 +78,3 @@ Sept. 21, 1950, ch. 975, title II, §205(a), as added Nov. 8, 1978, Pub. L. 95�
 
 In subsection (b)(2), the words “or person” are added for clarity and consistency in the section. The words “all available remedies” are substituted for “its remedies” for consistency with subsection (b)(1) of this section. The words “within the applicable national governing body” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 220529 of this title.
-

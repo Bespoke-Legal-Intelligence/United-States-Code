@@ -18,7 +18,3 @@ Based on 44 U.S. Code, 1964 ed., §373 (July 7, 1943, ch. 192, §8, 57 Stat. 382
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3105 of this title.
-

@@ -1,9 +1,5 @@
 subpart 3—additional provisions for carbon monoxide nonattainment areas
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7418, 7626 of this title; title 23 section 104; title 49 section 5308.
-
 
 ---
 

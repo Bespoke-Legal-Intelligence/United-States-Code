@@ -28,7 +28,7 @@ A prior section 60g–2, based on House Resolution No. 416, Eighty-ninth Congres
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(7)(A), substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
+1996—Subsec. (a). Pub. L. 104–186, §204(7)(A), substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
 Subsec. (b). Pub. L. 104–186, §204(6), substituted “Chief Administrative Officer” for “Clerk”.
 

@@ -114,7 +114,7 @@ Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
 1978—Pub. L. 95–422 substituted “except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title” for “except section 2210 of this title”, struck out “and” after “September 30, 1977”, and inserted provision authorizing appropriation of not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979.
 
-1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept.30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
+1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
 
 #### Transfer of Functions
 
@@ -127,10 +127,6 @@ Functions of National Fire Prevention and Control Administration \[now United St
 #### Arson Prevention Grants; Termination of Appropriations
 
 Section 8 of Pub. L. 103–254 provided that: “Notwithstanding any other provision of this Act \[see Short Title of 1994 Amendment note set out under section 2201 of this title\], no funds are authorized to be appropriated for any fiscal year after fiscal year 1996 for carrying out the programs for which funds are authorized by this Act, or the amendments made by this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2206 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

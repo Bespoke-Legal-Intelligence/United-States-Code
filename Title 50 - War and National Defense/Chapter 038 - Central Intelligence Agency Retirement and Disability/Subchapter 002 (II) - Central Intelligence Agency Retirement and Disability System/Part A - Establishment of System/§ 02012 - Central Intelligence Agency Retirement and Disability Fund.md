@@ -12,7 +12,3 @@ The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, re
 
 A prior section 202 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043, related to establishment and maintenance of the Central Intelligence Agency Retirement and Disability Fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 403j of this title.
-

@@ -24,7 +24,7 @@ The Corporation may support service programs intended to be carried out between 
 
 #### (d) Community-based agencies
 
-The Corporation may provide training and technical assistance and other assistance to service sponsors and other community-based agencies that provide volunteer placements in order to improve the ability of such agencies to use participants and other volunteers in a manner that results in high-quality service and a positive service experience for the participants and volunteers.
+The Corporation may provide training and technical assistance and other assistance toservice sponsors and other community-based agencies that provide volunteer placements in order to improve the ability of such agencies to use participants and other volunteers in a manner that results in high-quality service and a positive service experience for the participants and volunteers.
 
 #### (e) Improve ability to apply for assistance
 
@@ -141,8 +141,4 @@ Amendment by section 405(p)(2) of Pub. L. 103–82 effective Apr. 4, 1994, see s
 #### Effective Date
 
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12511 of this title.
 

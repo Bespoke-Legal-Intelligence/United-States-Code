@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LOANS, PARITY PAYMENTS, CONSUMER SAFEGUARDS, MARKETING QUOTAS, AND MARKETING CERTIFICATES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1428 of this title.
-
 
 ---
 

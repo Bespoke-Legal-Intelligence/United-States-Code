@@ -154,7 +154,7 @@ In subsection (c)(1), the words “Subject to paragraph (2) of this subsection�
 
 In subsection (c)(2), the words “If an amendment increases the standard . . . or decreases the standard” are substituted for “except that any amendment that has the effect of increasing . . . a standard . . ., or of decreasing . . . a standard” to eliminate unnecessary words. The words “For purposes of considering any modification which is submitted to the Congress under paragraph (4)” are omitted as surplus. The words “are deemed to be” are substituted for “shall be lengthened to” for clarity and consistency.
 
-In subsection (d)(1), before clause (A), the words “Except as provided in paragraph (3) of this subsection” are added because of the restatement. The words “in the model year 2 years before” are substituted for “in the second model year preceding” for clarity. The words “The Secretary may exempt a manufacturer only if the Secretary” are substituted for “Such exemption may only be granted if the Secretary” and “The Secretary may not issue exemptions with respect to a model year unless he” to eliminate unnecessary words. The words “each such standard shall be set at a level which” are omitted as surplus.
+In subsection (d)(1), before clause (A), the words “Except as provided in paragraph (3) of this subsection” areadded because of the restatement. The words “in the model year 2 years before” are substituted for “in the second model year preceding” for clarity. The words “The Secretary may exempt a manufacturer only if the Secretary” are substituted for “Such exemption may only be granted if the Secretary” and “The Secretary may not issue exemptions with respect to a model year unless he” to eliminate unnecessary words. The words “each such standard shall be set at a level which” are omitted as surplus.
 
 In subsection (d)(3), before clause (A), the words “Notwithstanding paragraph (1) of this subsection” are substituted for “Notwithstanding any provision of law authorizing exemptions from energy conservation requirements for manufacturers of fewer than 10,000 motor vehicles” to eliminate unnecessary words. In clause (B), the word “compliance” is substituted for “conformity” for consistency with chapter 301 of the revised title. The words “prescribed under chapter 301 of this title” are substituted for “Federal” for consistency in the revised title.
 
@@ -171,8 +171,4 @@ In subsection (i), the words “his responsibilities under” are omitted as sur
 In subsection (j), the reference to 15:2002(d) and the words “or any modification of” are omitted because 15:2002(d) is omitted from the revised title as executed.
 
 In subsection (j)(1), the words “to prescribe or amend” are substituted for “to establish, reduce, or amend” to eliminate unnecessary words. The words “adverse impact” are substituted for “level” for clarity and consistency. The words “those comments” are substituted for “unaccommodated comments” for clarity.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32901, 32903, 32904, 32907, 32909, 32911, 32912, 32917 of this title.
 

@@ -52,7 +52,3 @@ Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance o
 
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of subsections (5), (6), (7), (8), and (9) of this section, except for the amendment to subsection (6) by section 2 of the act. See note set out under section 601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 608c, 608e–1, 616, 672, 673, 855, 1392 of this title.
-

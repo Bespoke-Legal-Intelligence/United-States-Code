@@ -62,7 +62,3 @@ An organic plan shall not include any production or handling practices that are 
 
 (Pub. L. 101–624, title XXI, §2114, Nov. 28, 1990, 104 Stat. 3943.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6506 of this title.
-

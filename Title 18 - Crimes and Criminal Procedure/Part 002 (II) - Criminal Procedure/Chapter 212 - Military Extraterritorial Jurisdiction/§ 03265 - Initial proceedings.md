@@ -30,7 +30,3 @@
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1), are set out in the Appendix to this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3264, 3266 of this title.
-

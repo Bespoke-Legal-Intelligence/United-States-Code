@@ -14,7 +14,3 @@ If funds appropriated under section 7241 of this title are in excess of the amou
 
 (Pub. L. 89–10, title V, §5603, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1867.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7283c, 7283d, 7283g of this title.
-

@@ -28,7 +28,7 @@ Specific requirements.—
 
 &emsp;&emsp;(A)
 
-Evidence of federal registration; proof of insurance; payment of fees.—Under the standards of the Secretary implementing the single State registration system described in paragraph (1) of this subsection, only a State acting in its capacityas registration State under such single State system may require a motor carrier registered by the Secretary under this part—
+Evidence of federal registration; proof of insurance; payment of fees.—Under the standards of the Secretary implementing the single State registration system described in paragraph (1) of this subsection, only a State acting in its capacity as registration State under such single State system may require a motor carrier registered by the Secretary under this part—
 
 &emsp;&emsp;&emsp;(i) to file and maintain evidence of such Federal registration;
 
@@ -71,8 +71,4 @@ Limitation on participation by states.—Only a State which, as of January 1, 19
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11506 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13908 of this title.
 

@@ -1,9 +1,5 @@
 Part C—Definitions; Miscellaneous Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 300gg–23, 300gg–62 of this title.
-
 
 ---
 

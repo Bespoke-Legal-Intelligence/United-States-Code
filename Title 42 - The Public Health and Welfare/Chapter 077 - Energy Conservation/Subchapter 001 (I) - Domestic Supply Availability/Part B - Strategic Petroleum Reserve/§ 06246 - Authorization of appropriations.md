@@ -24,7 +24,3 @@ There are authorized to be appropriated such sums as may be necessary to impleme
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as a note under section 6240 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6247b of this title.
-

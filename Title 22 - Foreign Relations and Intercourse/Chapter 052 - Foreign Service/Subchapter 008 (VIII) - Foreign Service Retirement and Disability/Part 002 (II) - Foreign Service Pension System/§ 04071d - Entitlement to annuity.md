@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(i) a member of the Service,
 
-&emsp;&emsp;(ii) an employee of the Central Intelligence Agency entitled to retirement credit under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 etseq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b)), or
+&emsp;&emsp;(ii) an employee of the Central Intelligence Agency entitled to retirement credit under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b)), or
 
 &emsp;&emsp;(iii) a participant as a Member of Congress, a congressional employee, law enforcement officer, firefighter, or air traffic controller in the Civil Service Retirement System under subchapter III of chapter 83, title 5, or in the Federal Employees’ Retirement System under chapter 84 of title 5; and
 
@@ -95,10 +95,6 @@ Amendment by Pub. L. 105–277 effective Oct. 21, 1998, except that amendment ma
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L. 99–556, set out as a note under section 4046 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4009, 4053 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

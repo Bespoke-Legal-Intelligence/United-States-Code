@@ -18,6 +18,146 @@ Functions of President respecting certain facilities constructed and maintained 
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
 
+#### Findings
+
+Pub. L. 108–458, title VII, §7101, Dec. 17, 2004, 118 Stat. 3775, provided that: “Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;“(1) Long-term success in the war on terrorism demands the use of all elements of national power, including diplomacy, military action, intelligence, covert action, law enforcement, economic policy, foreign aid, public diplomacy, and homeland defense.
+
+&emsp;“(2) To win the war on terrorism, the United States must assign to economic and diplomatic capabilities the same strategic priority that is assigned to military capabilities.
+
+&emsp;“(3) The legislative and executive branches of the Government of the United States must commit to robust, long-term investments in all of the tools necessary for the foreign policy of the United States to successfully accomplish the goals of the United States.
+
+&emsp;“(4) The investments referred to in paragraph (3) will require increased funding to United States foreign affairs programs in general, and to priority areas as described in this title \[see Tables for classification\] in particular.”
+
+#### Comprehensive Coalition Strategy for Fighting Terrorism
+
+Pub. L. 108–458, title VII, §7117, Dec. 17, 2004, 118 Stat. 3799, provided that:
+
+“(a)
+
+Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
+
+&emsp;“(1) Almost every aspect of the counterterrorism strategy of the United States relies on international cooperation.
+
+&emsp;“(2) Since September 11, 2001, the number and scope of United States Government contacts with foreign governments concerning counterterrorism have expanded significantly, but such contacts have often been ad hoc and not integrated as a comprehensive and unified approach to counterterrorism.
+
+“(b)
+
+In General.—The Secretary of State is authorized in consultation with relevant United States Government agencies, to negotiate on a bilateral or multilateral basis, as appropriate, international agreements under which parties to an agreement work in partnership to address and interdict acts of international terrorism.
+
+“(c)
+
+International Contact Group on Counterterrorism.—
+
+&emsp;“(1)
+
+Sense of congress.—It is the sense of Congress that the President—
+
+&emsp;&emsp;“(A) should seek to engage the leaders of the governments of other countries in a process of advancing beyond separate and uncoordinated national counterterrorism strategies to develop with those other governments a comprehensive multilateral strategy to fight terrorism; and
+
+&emsp;&emsp;“(B) to that end, should seek to establish an international counterterrorism policy contact group with the leaders of governments providing leadership in global counterterrorism efforts and governments of countries with sizable Muslim populations, to be used as a ready and flexible international means for discussing and coordinating the development of important counterterrorism policies by the participating governments.
+
+&emsp;“(2)
+
+Authority.—The President is authorized to establish an international counterterrorism policy contact group with the leaders of governments referred to in paragraph (1) for the following purposes:
+
+&emsp;&emsp;“(A) To meet annually, or more frequently as the President determines appropriate, to develop in common with such other governments important policies and a strategy that address the various components of international prosecution of the war on terrorism, including policies and a strategy that address military issues, law enforcement, the collection, analysis, and dissemination of intelligence, issues relating to interdiction of travel by terrorists, counterterrorism-related customs issues, financial issues, and issues relating to terrorist sanctuaries.
+
+&emsp;&emsp;“(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues thatcan contribute to strengthening stability and security in the Middle East.”
+
+#### International Agreements To Track and Curtail Terrorist Travel Through the Use of Fraudulently Obtained Documents
+
+Pub. L. 108–458, title VII, §7204, Dec. 17, 2004, 118 Stat. 3814, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) International terrorists travel across international borders to raise funds, recruit members, train for operations, escape capture, communicate, and plan and carry out attacks.
+
+&emsp;“(2) The international terrorists who planned and carried out the attack on the World Trade Center on February 26, 1993, the attack on the embassies of the United States in Kenya and Tanzania on August 7, 1998, the attack on the USS Cole on October 12, 2000, and the attack on the World Trade Center and the Pentagon on September 11, 2001, traveled across international borders to plan and carry out these attacks.
+
+&emsp;“(3) The international terrorists who planned other attacks on the United States, including the plot to bomb New York City landmarks in 1993, the plot to bomb the New York City subway in 1997, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled across international borders to plan and carry out these attacks.
+
+&emsp;“(4) Many of the international terrorists who planned and carried out large-scale attacks against foreign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
+
+&emsp;“(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bomb New York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
+
+&emsp;“(6) Two of the September 11, 2001, hijackers were carrying passports that had been manipulated in a fraudulent manner.
+
+&emsp;“(7) The National Commission on Terrorist Attacks Upon the United States, (commonly referred to as the 9/11 Commission), stated that ‘Targeting travel is at least as powerful a weapon against terrorists as targeting their money.’.
+
+“(b)
+
+International Agreements To Track and Curtail Terrorist Travel.—
+
+&emsp;“(1)
+
+International agreement on lost, stolen, or falsified documents.—The President should lead efforts to track and curtail the travel of terrorists by supporting the drafting, adoption, and implementation of international agreements, and relevant United Nations Security Council resolutions to track and stop international travel by terrorists and other criminals through the use of lost, stolen, or falsified documents to augment United Nations and other international anti-terrorism efforts.
+
+&emsp;“(2)
+
+Contents of international agreement.—The President should seek, as appropriate, the adoption or full implementation of effective international measures to—
+
+&emsp;&emsp;“(A) share information on lost, stolen, and fraudulent passports and other travel documents for the purposes of preventing the undetected travel of persons using such passports and other travel documents that were obtained improperly;
+
+&emsp;&emsp;“(B) establish and implement a real-time verification system of passports and other travel documents with issuing authorities;
+
+&emsp;&emsp;“(C) share with officials at ports of entry in any such country information relating to lost, stolen, and fraudulent passports and other travel documents;
+
+&emsp;&emsp;“(D) encourage countries—
+
+&emsp;&emsp;&emsp;“(i) to criminalize—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the falsification or counterfeiting of travel documents or breeder documents for any purpose;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the use or attempted use of false documents to obtain a visa or cross a border for any purpose;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the possession of tools or implements used to falsify or counterfeit such documents;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) the trafficking in false or stolen travel documents and breeder documents for any purpose;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) the facilitation of travel by a terrorist; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VI) attempts to commit, including conspiracies to commit, the crimes specified in subclauses (I) through (V);
+
+&emsp;&emsp;&emsp;“(ii) to impose significant penalties to appropriately punish violations and effectively deter the crimes specified in clause (i); and
+
+&emsp;&emsp;&emsp;“(iii) to limit the issuance of citizenship papers, passports, identification documents, and similar documents to persons—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) whose identity is proven to the issuing authority;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) who have a bona fide entitlement to or need for such documents; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) who are not issued such documents principally on account of a disproportional payment made by them or on their behalf to the issuing authority;
+
+&emsp;&emsp;“(E) provide technical assistance to countries to help them fully implement such measures; and
+
+&emsp;&emsp;“(F) permit immigration and border officials—
+
+&emsp;&emsp;&emsp;“(i) to confiscate a lost, stolen, or falsified passport at ports of entry;
+
+&emsp;&emsp;&emsp;“(ii) to permit the traveler to return to the sending country without being in possession of the lost, stolen, or falsified passport; and
+
+&emsp;&emsp;&emsp;“(iii) to detain and investigate such traveler upon the return of the traveler to the sending country.
+
+&emsp;“(3)
+
+International civil aviation organization.—The United States shall lead efforts to track and curtail the travel of terrorists by supporting efforts at the International Civil Aviation Organization to continue to strengthen the security features of passports and other travel documents.
+
+“(c)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2004\], and at least annually thereafter, the President shall submit to the appropriate congressional committees a report on progress toward achieving the goals described in subsection (b).
+
+&emsp;“(2)
+
+Termination.—Paragraph (1) shall cease to be effective when the President certifies to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate that the goals described in subsection (b) have been fully achieved.”
+
 #### East Timor Transition to Independence
 
 Pub. L. 107–228, div. A, title VI, subtitle C, Sept. 30, 2002, 116 Stat. 1399, provided that:
@@ -36,7 +176,7 @@ Authority.—The President, acting through the Administrator of the United State
 
 &emsp;“(2) promote the development of an independent news media;
 
-&emsp;“(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor's health care infrastructure,educational programs, and programs strengthening the role of women in society;
+&emsp;“(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor's health care infrastructure, educational programs, and programs strengthening the role of women in society;
 
 &emsp;“(4) promote reconciliation, conflict resolution, and prevention of further conflict with respect to East Timor, including establishing accountability for past gross human rights violations;
 
@@ -414,6 +554,8 @@ Tribunal.—The term ‘Tribunal’ means the International Criminal Tribunal fo
 
 Role of Human Rights Organizations and Government Agencies.—In carrying out this section, the Secretary of State, the Administrator of the Agency for International Development, and the executive directors of the international financial institutions shall consult with representatives of human rights organizations and all government agencies with relevant information to help prevent publicly indicted war criminals from benefiting from any financial or technical assistance or grants provided to any country or entity described in subsection (e).”
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §566(e), (g), (j), (k)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–107 to 1501A–109.
@@ -588,11 +730,11 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary ofState, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
-Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination thatsuch closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
+Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
 
 #### Closure of Mission in Antigua and Barbuda Not in United States Interests
 
@@ -662,7 +804,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress re
 
 &emsp;“(3) instructions to meet with indigenous human rights monitoring groups knowledgeable about the practice of torture for the purpose of gathering information about such practice; and
 
-&emsp;“(4) instructions to express concern in individual cases of torture brought to the attention of a UnitedStates diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
+&emsp;“(4) instructions to express concern in individual cases of torture brought to the attention of a United States diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
 
 “(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
 

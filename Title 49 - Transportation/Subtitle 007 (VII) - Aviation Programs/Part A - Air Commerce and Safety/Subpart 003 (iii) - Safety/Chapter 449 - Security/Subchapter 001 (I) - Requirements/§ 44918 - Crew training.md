@@ -122,7 +122,3 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 44940 of this title.
-

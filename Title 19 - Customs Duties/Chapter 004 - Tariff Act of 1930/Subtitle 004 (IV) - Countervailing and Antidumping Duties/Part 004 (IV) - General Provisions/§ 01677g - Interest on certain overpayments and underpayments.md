@@ -32,9 +32,5 @@ Subsec. (b). Pub. L. 98–573 amended subsec. (b) generally, substituting provis
 
 Amendment by Pub. L. 98–573 applicable with respect to merchandise that is unliquidated on or after Nov. 4, 1984, see section 626(b)(4) of Pub. L. 98–573, set out as a note under section 1671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1671f, 1673f, 3556 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

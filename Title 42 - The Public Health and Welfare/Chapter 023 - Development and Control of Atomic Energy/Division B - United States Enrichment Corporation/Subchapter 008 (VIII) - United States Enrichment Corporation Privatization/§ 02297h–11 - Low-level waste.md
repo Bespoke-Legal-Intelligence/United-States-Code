@@ -12,6 +12,8 @@
 
 (3) In the event depleted uranium were ultimately determined to be low-level radioactive waste, the generator shall reimburse the Secretary for the disposal of depleted uranium pursuant to paragraph (1) in an amount equal to the Secretary's costs, including a pro rata share of any capital costs.
 
+(4) In the event that a licensee requests the Secretary to accept for disposal depleted uranium pursuant to this subsection, the Secretary shall be required to take title to and possession of such depleted uranium at an existing DUF6 storage facility.
+
 #### (b) Agreements with other persons
 
 The generator may also enter into agreements for the disposal of low-level radioactive waste subject to subsection (a) of this section with any person other than the Secretary that is authorized by applicable laws and regulations to dispose of such wastes.
@@ -20,9 +22,13 @@ The generator may also enter into agreements for the disposal of low-level radio
 
 Notwithstanding any other provision of law, no State or interstate compact shall be liable for the treatment, storage, or disposal of any low-level radioactive waste (including mixed waste) attributable to the operation, decontamination, and decommissioning of any uranium enrichment facility.
 
-(Pub. L. 104–134, title III, §3113, Apr. 26, 1996, 110 Stat. 1321–347.)
+(Pub. L. 104–134, title III, §3113, Apr. 26, 1996, 110 Stat. 1321–347; Pub. L. 108–447, div. C, title III, §311, Dec. 8, 2004, 118 Stat. 2959.)
 
 #### Codification
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+2004—Subsec. (a)(4). Pub. L. 108–447, §311, which directed the addition of par. (4) to subsec. (a) of section 3113 of Public Law 102–486 (42 U.S.C. 2297h–11), was executed by adding par. (4) to subsec. (a) of this section, which is section 3113 of Pub. L. 104–134, to reflect the probable intent of Congress.
 

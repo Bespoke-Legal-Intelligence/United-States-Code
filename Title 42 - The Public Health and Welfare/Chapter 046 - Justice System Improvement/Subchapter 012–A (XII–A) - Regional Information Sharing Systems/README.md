@@ -30,10 +30,6 @@ Section 3796r, Pub. L. 90–351, title I, §1311, as added Pub. L. 99–570, tit
 
 Section 3796s, Pub. L. 90–351, title I, §1312, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–46, provided for a limitation on use of discretionary grant funds.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3782, 3783, 3793 of this title.
-
 
 ---
 

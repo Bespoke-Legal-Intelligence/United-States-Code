@@ -4,7 +4,3 @@ Where any Federal lands within the Grand Canyon National Park, as enlarged by se
 
 (Pub. L. 93–620, §7, Jan. 3, 1975, 88 Stat. 2091.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 227, 228a to 228e, 228g to 228i, 228j of this title.
-

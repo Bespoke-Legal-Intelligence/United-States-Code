@@ -16,7 +16,7 @@
 
 #### (3) Eligibility
 
-&emsp;To be eligible to participate in the administrative review process for an authorized hazardous fuel reduction project under paragraph (1), a person shall submit to the Secretary, during scoping or the public comment period for the draft environmental analysis for the project, specific written comments that relate to the proposed action.
+&emsp;To be eligible to participate in the administrative review process for an authorized hazardous fuel reduction project under paragraph (1), a person shall submit to the Secretary, during scoping or the public comment period for the draft environmental analysis for theproject, specific written comments that relate to the proposed action.
 
 #### (4) Effective date
 

@@ -30,7 +30,3 @@ Functions of President under this section delegated to the United States Trade R
 
 Authority of President to perform certain functions in order to fulfill consultation and layover requirements set forth in this section delegated to United States Trade Representative by Memorandum of President of the United States, Sept. 29, 1995, 60 F.R. 52061, set out as a note under section 3313 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3521, 3601, 3803 of this title.
-

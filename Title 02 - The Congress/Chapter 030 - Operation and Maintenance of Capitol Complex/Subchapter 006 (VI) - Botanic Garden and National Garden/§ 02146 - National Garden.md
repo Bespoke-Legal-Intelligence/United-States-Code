@@ -42,11 +42,11 @@ Section was classified to section 216c of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(2), (3). Pub. L. 105–275 added par. (2) and redesignated former par. (2) as (3).
+1998—Subsec. (b)(2), (3). Pub. L. 105–275 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1995</b>—Subsec. (a)(1). Pub. L. 104–53 substituted “plants” for “plans”.
+1995—Subsec. (a)(1). Pub. L. 104–53 substituted “plants” for “plans”.
 
-<b>1991</b>—Pub. L. 102–229 amended section generally. Prior to amendment, section read as follows: “The Architect of the Capitol, subject to the direction of the Joint Committee on the Library, is authorized to—
+1991—Pub. L. 102–229 amended section generally. Prior to amendment, section read as follows: “The Architect of the Capitol, subject to the direction of the Joint Committee on the Library, is authorized to—
 
 &emsp;“(1) construct a National Garden demonstrating the diversity of plants, including the rose, our national flower, to be located between Maryland and Independence Avenues, S.W., and extending from the United States Botanic Garden Conservatory to Third Street, S.W., in the District of Columbia; and
 
@@ -54,7 +54,7 @@ Section was classified to section 216c of former Title 40, prior to the enactmen
 
 #### Funds Available for Constructing, Equipping, and Maintaining National Garden
 
-Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, §201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, §1(a)(2) \[title III,§312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 107–68, title I, §135, Nov. 12, 2001, 115 Stat. 583, provided that:
+Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, §201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, §1(a)(2) \[title III, §312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 107–68, title I, §135, Nov. 12, 2001, 115 Stat. 583, provided that:
 
 “(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c) \[now 2 U.S.C. 2146\], not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
 

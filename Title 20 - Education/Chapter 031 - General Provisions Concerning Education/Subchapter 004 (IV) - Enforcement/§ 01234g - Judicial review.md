@@ -6,7 +6,7 @@ Any recipient of funds under an applicable program that would be adversely affec
 
 #### (b) Petition for review; filing of record
 
-A recipient that desires judicial review of an action described in subsection (a) of this sectionshall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in section 2112 of title 28.
+A recipient that desires judicial review of an action described in subsection (a) of this section shall, within 60 days of that action, file with the United States Court of Appeals for the circuit in which that recipient is located, a petition for review of such action. A copy of the petition shall be transmitted by the clerk of the court to the Secretary. The Secretary shall file in the court the record of the proceedings on which the action was based, as provided in section 2112 of title 28.
 
 #### (c) Findings of fact
 
@@ -25,8 +25,4 @@ The court shall have jurisdiction to affirm the action of the Office or the Secr
 #### Effective Date
 
 Section effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1234 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1234a, 1234h, 7223h of this title.
 

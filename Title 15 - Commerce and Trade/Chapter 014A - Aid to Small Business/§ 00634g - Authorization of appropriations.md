@@ -8,7 +8,3 @@ There are authorized to be appropriated not to exceed $1,000,000 to carry out th
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 634d, 634e of this title.
-

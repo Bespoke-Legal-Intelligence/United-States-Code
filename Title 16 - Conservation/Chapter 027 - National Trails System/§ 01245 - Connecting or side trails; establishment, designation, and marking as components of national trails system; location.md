@@ -10,7 +10,3 @@ Connecting or side trails within park, forest, and other recreation areas admini
 
 1978—Pub. L. 95–625 substituted “, national scenic or national historic” for “or national scenic,” and “, national scenic, or national historic” for “or scenic”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1242 of this title.
-

@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the wastetreatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -62,7 +62,7 @@
 
 #### (1) Deadline
 
-&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program,as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
+&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
 
 #### (2) Procedure for disapproval
 
@@ -88,7 +88,7 @@ If a State fails to submit a management program under subsection (b) of this sec
 
 #### (f) Technical assistance for States
 
-Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
+Upon request of a State, the Administrator may provide technical assistance to such Statein developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
 
 #### (g) Interstate management conference
 
@@ -132,7 +132,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (6) Availability for obligation
 
-&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by the end of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
+&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by theend of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
 
 #### (7) Limitation on use of funds
 
@@ -182,7 +182,7 @@ There is authorized to be appropriated to carry out subsections (h) and (i) of t
 
 #### (k) Consistency of other programs and projects with management programs
 
-The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
+The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirementsand definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
 #### (<i>l</i>) Collection of information
 
@@ -192,9 +192,7 @@ The Administrator shall collect and make available, through publications and oth
 
 #### (1) Annual reports
 
-&emsp;Not later than January 1, 1988, and each January 1 thereafter, the Administrator shall transmit to the Committee on Public Works
-
-and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report for the preceding fiscal year on the activities and programs implemented under this section and the progress made in reducing pollution in the navigable waters resulting from nonpoint sources and improving the quality of such waters.
+&emsp;Not later than January 1, 1988, and each January 1 thereafter, the Administrator shall transmit to the Committee on Public Works and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report for the preceding fiscal year on the activities and programs implemented under this section and the progress made in reducing pollution in the navigable waters resulting from nonpoint sources and improving the quality of such waters.
 
 #### (2) Final report
 
@@ -241,8 +239,4 @@ Committee on Public Works and Transportation of House of Representatives treated
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1268, 1270, 1281, 1285, 1314, 1330, 1377, 1381, 1383, 1386, 1414b of this title; title 16 section 1455b; title 42 section 300j–3c.
 

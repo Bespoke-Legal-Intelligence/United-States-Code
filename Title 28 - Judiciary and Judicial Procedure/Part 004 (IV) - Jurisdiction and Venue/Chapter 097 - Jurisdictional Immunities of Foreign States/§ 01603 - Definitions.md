@@ -20,7 +20,3 @@ For purposes of this chapter—
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1330, 1332, 1369, 1391, 1441, 1610 of this title; title 12 section 635; title 15 section 15; title 22 sections 2295b, 6003, 6023.
-

@@ -22,7 +22,3 @@ There is Federal jurisdiction over an offense under this section if the person c
 
 (Pub. L. 95–511, title I, §109, Oct. 25, 1978, 92 Stat. 1796.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1810 of this title.
-

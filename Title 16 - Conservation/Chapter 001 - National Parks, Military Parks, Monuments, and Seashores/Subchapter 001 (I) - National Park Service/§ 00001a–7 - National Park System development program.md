@@ -4,7 +4,7 @@
 
 #### (b) General management plans; preparation and revision by Director of National Park Service; list to Congress; contents
 
-General management plans for the preservation and use of each unit of the National ParkSystem, including areas within the national capital area, shall be prepared and revised in a timely manner by the Director of the National Park Service. On January 1 of each year, the Secretary shall submit to the Congress a list indicating the current status of completion or revision of general management plans for each unit of the National Park System. General management plans for each unit shall include, but not be limited to:
+General management plans for the preservation and use of each unit of the National Park System, including areas within the national capital area, shall be prepared and revised in a timely manner by the Director of the National Park Service. On January 1 of each year, the Secretary shall submit to the Congress a list indicating the current status of completion or revision of general management plans for each unit of the National Park System. General management plans for each unit shall include, but not be limited to:
 
 &emsp;(1) measures for the preservation of the area's resources;
 
@@ -33,8 +33,4 @@ Subsec. (c). Pub. L. 95–625, §604(4), substituted “or of five years or more
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting to Congress, on January 1 each year, a list indicating the current status of general management plans, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 110 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284h, 410ff–3, 410gg–4, 410ii–5, 410<i>oo</i>–3, 410qq–2, 410ww–2, 410yy–5, 410ddd, 410ggg–1 of this title.
 

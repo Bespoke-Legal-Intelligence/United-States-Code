@@ -16,7 +16,7 @@
 
 &emsp;(B) provide by purchase or lease law enforcement equipment and technical assistance to the Government of American Samoa to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse laws.
 
-(3) There are authorized to be appropriated $350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and HumanServices to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
+(3) There are authorized to be appropriated $350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
 (4) The Secretary of the Treasury in consultation with the Secretary of the Interior shall provide the Government of American Samoa with a vessel to be used in the enforcement of narcotics and other laws. There are authorized to be appropriated $500,000 for this purpose.
 
@@ -68,7 +68,7 @@
 
 (3)(A) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, upon request of the Government of the Virgin Islands, shall provide appropriate training, technical assistance and equipment to the Government of the United States Virgin Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse law.
 
-(B) There are authorized to be appropriated such sums as may be necessary to carry out subparagraph (A). Funds appropriated under thissubparagraph shall remain available until expended.
+(B) There are authorized to be appropriated such sums as may be necessary to carry out subparagraph (A). Funds appropriated under this subparagraph shall remain available until expended.
 
 (4) To assist in the prosecution of the violation of the narcotics laws of the United States, the Attorney General of the United States shall assign the necessary personnel to serve in the office of the United States Attorney for the Virgin Islands appointed pursuant to section 1617 of this title.
 
@@ -80,7 +80,7 @@
 
 (2) There are authorized to be appropriated $500,000 for fiscal year 1989 and annually thereafter for grants to the Government of Palau to be expended in accordance with a plan to be approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education, State, and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title.
 
-(3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau in cooperation with law enforcement agencies of Palau.
+(3) To the extent not prohibited under the Constitution of Palau, upon written request of the President of Palau, the Drug Enforcement Administration, the Federal Bureau of Investigation, the Secret Service, the Immigration and Naturalization Service, and the Customs Service are authorized to investigate any United States criminal laws which are applicable in Palau incooperation with law enforcement agencies of Palau.
 
 (Pub. L. 99–570, title V, §5004, Oct. 27, 1986, 100 Stat. 3207–155; Pub. L. 100–690, title IX, §§9302–9305, 9306(b), 9307, Nov. 18, 1988, 102 Stat. 4536–4538.)
 
@@ -144,9 +144,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1494 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

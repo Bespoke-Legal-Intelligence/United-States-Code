@@ -16,7 +16,3 @@ In section 5534a, the words “A member of a uniformed service who has performed
 
 Section effective Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as an Effective Date of 1967 Amendment note under section 5102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 3664.
-

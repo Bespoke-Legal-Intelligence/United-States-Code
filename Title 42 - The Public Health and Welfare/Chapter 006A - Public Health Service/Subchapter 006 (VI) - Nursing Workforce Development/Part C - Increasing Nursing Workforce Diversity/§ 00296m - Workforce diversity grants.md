@@ -30,7 +30,3 @@ A prior section 296m, act July 1, 1944, ch. 373, title VIII, §822, as added Pub
 
 A prior section 821 of act July 1, 1944, was classified to section 296<i>l</i> of this title prior to repeal by Pub. L. 105–392.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 297q of this title.
-

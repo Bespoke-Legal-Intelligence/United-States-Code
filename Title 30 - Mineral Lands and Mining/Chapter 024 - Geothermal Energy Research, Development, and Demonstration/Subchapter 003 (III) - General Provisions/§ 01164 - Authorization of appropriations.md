@@ -14,9 +14,5 @@ In addition to sums authorized to be appropriated by subsection (b) of this sect
 
 (Pub. L. 93–410, title III, §304, Sept. 3, 1974, 88 Stat. 1089.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1144 of this title.
-
 &nbsp;
 

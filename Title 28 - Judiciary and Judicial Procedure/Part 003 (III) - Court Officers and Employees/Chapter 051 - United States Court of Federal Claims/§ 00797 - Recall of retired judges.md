@@ -46,7 +46,3 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 374, 375 of this title.
-

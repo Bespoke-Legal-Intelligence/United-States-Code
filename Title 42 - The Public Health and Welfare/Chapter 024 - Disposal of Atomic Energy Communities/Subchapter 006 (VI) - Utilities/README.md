@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—UTILITIES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2312, 2342 of this title.
-
 
 ---
 

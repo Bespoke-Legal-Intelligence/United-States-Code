@@ -78,13 +78,9 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Self-Defense in Accordance With International Law
 
 Section 10 of Pub. L. 101–222 provided that: “The use by any government of armed force in the exercise of individual or collective self-defense in accordance with applicable international agreements and customary international law shall not be considered an act of international terrorism for purposes of the amendments made by this Act \[see Short Title of 1989 Amendment note, set out under section 2151 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 262p–4q, 262p–8, 2152c, 2349aa, 2349aa–10, 2349bb–1, 2349bb–4, 2377, 2378, 2398, 2753, 7205, 7533 of this title; title 8 section 1735; title 18 section 175b; title 28 section 1605.
 

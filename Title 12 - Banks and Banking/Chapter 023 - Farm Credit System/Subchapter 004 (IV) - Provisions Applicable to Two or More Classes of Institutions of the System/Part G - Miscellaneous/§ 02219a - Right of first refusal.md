@@ -24,7 +24,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (4) Permissive sale
 
-&emsp;An institution of the System receiving an offer from the previous owner to purchase theproperty at a price less than the appraised value may accept such offer and sell the property to the previous owner. Notice shall be provided to the previous owner of the acceptance or rejection of such offer within 15 days after the receipt of such offer.
+&emsp;An institution of the System receiving an offer from the previous owner to purchase the property at a price less than the appraised value may accept such offer and sell the property to the previous owner. Notice shall be provided to the previous owner of the acceptance or rejection of such offer within 15 days after the receipt of such offer.
 
 #### (5) Rejection of offer of previous owner
 
@@ -66,7 +66,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (4) Permissive lease
 
-&emsp;An institution of the System receiving an offer from the previous owner to lease the property at a rate that is less than the appraised rental value of the property may accept such offer and lease the property to the previous owner.
+&emsp;An institution of the System receiving an offer from the previous owner to lease theproperty at a rate that is less than the appraised rental value of the property may accept such offer and lease the property to the previous owner.
 
 #### (5) Notice to previous owner
 
@@ -141,8 +141,4 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 #### Effective Date
 
 Section effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as an Effective Date of 1985 Amendment note under section 2001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2202a, 2279aa–9 of this title.
 

@@ -6,9 +6,5 @@ The Librarian of Congress is authorized and directed to prepare biennially an in
 
 #### Amendments
 
-<b>1929</b>—Act Feb. 28, 1929, repealed provision that the Librarian of Congress report biennially to Congress an index and digest of State legislation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 164a, 165 of this title.
+1929—Act Feb. 28, 1929, repealed provision that the Librarian of Congress report biennially to Congress an index and digest of State legislation.
 

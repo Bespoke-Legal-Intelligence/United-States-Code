@@ -16,3 +16,5 @@ Part C—Treatment, Coordination, and Forfeiture of Compensation and Benefits
 - [&sect; 07385h - Certain claims not affected by awards of damages](%C2%A7%2007385h%20-%20Certain%20claims%20not%20affected%20by%20awards%20of%20damages.md)
 - [&sect; 07385i - Forfeiture of benefits by convicted felons](%C2%A7%2007385i%20-%20Forfeiture%20of%20benefits%20by%20convicted%20felons.md)
 - [&sect; 07385j - Coordination with other Federal radiation compensation laws](%C2%A7%2007385j%20-%20Coordination%20with%20other%20Federal%20radiation%20compensation%20laws.md)
+- [&sect; 07385j&#8211;1 - Social Security earnings information](%C2%A7%2007385j%E2%80%931%20-%20Social%20Security%20earnings%20information.md)
+- [&sect; 07385j&#8211;2 - Recovery and waiver of overpayments](%C2%A7%2007385j%E2%80%932%20-%20Recovery%20and%20waiver%20of%20overpayments.md)

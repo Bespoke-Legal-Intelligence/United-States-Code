@@ -18,7 +18,3 @@ Notice.—A notice to a motor carrier, freight forwarder, or broker shall be ser
 
 Provisions similar to those in this section were contained in section 10329 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13906 of this title.
-

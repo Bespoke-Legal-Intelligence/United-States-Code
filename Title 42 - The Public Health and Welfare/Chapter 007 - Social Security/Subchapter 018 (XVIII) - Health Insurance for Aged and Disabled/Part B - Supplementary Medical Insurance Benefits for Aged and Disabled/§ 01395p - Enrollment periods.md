@@ -64,7 +64,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 &emsp;(C) has not terminated enrollment under this section at any time at which the individual is not enrolled in such a group health plan by reason of the individual's (or individual's spouse's) current employment status,
 
-> there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, has enrolled (or has been deemed to have enrolled) in the medical insurance program established under this part during the individual's initial enrollment period, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during any subsequent special enrollment period under this subsection during which the individual was not enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has not terminated enrollment under this section at any time at which the individual is not enrolled in such a large group health plan by reason of the individual's current employment status (or the current employment status of a family member of the individual), there shall be a special enrollment period described in paragraph (3)(B).
+> there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, has enrolled (or has been deemed to have enrolled) in the medical insurance program established under this part during the individual's initial enrollment period, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during any subsequent special enrollment period under this subsection during which the individual was not enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has not terminated enrollment under this section at any time at which the individual is not enrolled in such alarge group health plan by reason of the individual's current employment status (or the current employment status of a family member of the individual), there shall be a special enrollment period described in paragraph (3)(B).
 
 (3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
@@ -118,7 +118,7 @@ Subsec. (i)(3)(A). Pub. L. 103–432, §151(c)(2)(D), inserted “status” afte
 
 Pub. L. 103–432, §147(f)(1)(A), substituted “including each month during any part of which the individual is enrolled” for “beginning with the first day of the first month in which the individual is no longer enrolled” and “ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled” for “and ending seven months later”.
 
-Subsec. (i)(3)(B). Pub. L. 103–432, §151(c)(2)(B), substituted “in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)” for “as an active individual in a large group health plan (as such terms are defined in section 1395y(b)(1)(B)(iv) of this title)”.
+Subsec. (i)(3)(B). Pub. L. 103–432, §151(c)(2)(B), substituted “in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iv) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual)” for “as an active individual in a largegroup health plan (as such terms are defined in section 1395y(b)(1)(B)(iv) of this title)”.
 
 Pub. L. 103–432, §147(f)(1)(A), substituted “including each month during any part of which the individual is enrolled” for “beginning with the first day of the first month in which the individual is no longer enrolled” and “ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled” for “and ending seven months later”.
 
@@ -264,7 +264,7 @@ Coverage period.—In the case of an individual who enrolls during the special e
 
 #### Extension Through March 31, 1968 of 1967 General Enrollment Period
 
-Pub. L. 90–97, §1, Sept. 30, 1967, 81 Stat. 249, extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967, for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[this part\] and of terminating such enrollment as provided in section 1395q(b)(1) of this title, through Mar. 31, 1968.
+Pub. L. 90–97, §1, Sept. 30, 1967, 81 Stat. 249, extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967,for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[this part\] and of terminating such enrollment as provided in section 1395q(b)(1) of this title, through Mar. 31, 1968.
 
 #### Enrollment Before Oct. 1, 1966, of Eligible Individuals Failing for Good Cause To Enroll Before June 1, 1966; Commencement of Coverage Period
 
@@ -275,8 +275,4 @@ Section 102(b) of Pub. L. 89–97, as amended by section 3(c) of Pub. L. 89–38
 &emsp;“(2) it is shown to the satisfaction of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] that there was good cause for such failure to enroll before June 1, 1966,
 
 > such individual may enroll pursuant to this subsection at any time before October 1, 1966. The determination of what constitutes good cause for purposes of the preceding sentence shall be made in accordance with regulations of the Secretary. In the case of any individual who enrolls pursuant to this subsection, the coverage period (within the meaning of section 1838 of the Social Security Act \[section 1395q of this title\]) shall begin on the first day of the 6th month after the month in which he enrolls.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 426, 1395i–2, 1395i–2a, 1395q, 1395r, 1395v, 1395w–101, 1395gg of this title; title 25 section 1644.
 

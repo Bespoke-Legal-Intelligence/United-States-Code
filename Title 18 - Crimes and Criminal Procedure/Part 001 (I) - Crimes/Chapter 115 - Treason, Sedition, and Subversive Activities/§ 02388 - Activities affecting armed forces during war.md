@@ -34,7 +34,3 @@ Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 
 
 Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1717 of this title; title 5 section 8312; title 38 section 6105; title 50 App. sections 19, 34.
-

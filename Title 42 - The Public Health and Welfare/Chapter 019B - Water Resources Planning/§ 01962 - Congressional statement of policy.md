@@ -1,6 +1,6 @@
 ### §1962. Congressional statement of policy
 
-In order to meet the rapidly expanding demands for water throughout the Nation, it is hereby declared to be the policy of the Congress to encourage the conservation, development, and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprisewith the cooperation of all affected Federal agencies, States, local governments, individuals, corporations, business enterprises, and others concerned.
+In order to meet the rapidly expanding demands for water throughout the Nation, it is hereby declared to be the policy of the Congress to encourage the conservation, development, and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprise with the cooperation of all affected Federal agencies, States, local governments, individuals, corporations, business enterprises, and others concerned.
 
 (Pub. L. 89–80, §2, July 22, 1965, 79 Stat. 244.)
 
@@ -47,8 +47,4 @@ Sec. 3. When such report, proposal, or plan is thereafter submitted to the Congr
 Sec. 4. Executive Order No. 12113, as amended, is revoked.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1962b–3 of this title.
 

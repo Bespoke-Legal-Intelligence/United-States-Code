@@ -34,9 +34,5 @@ Sections 300m–2 and 300m–3 of this title, referred to in subsec. (c)(2)(B), 
 
 Section 300<i>o–</i>2 of this title, referred to in subsec. (c)(2)(B), was repealed by Pub. L. 96–79, title II, §202(a), Oct. 4, 1979, 93 Stat. 632.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6371e of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,3 @@ The purposes of sections 469<i>l</i> to 469<i>l</i>–2 of this title are the fo
 
 (Pub. L. 105–203, §2, July 21, 1998, 112 Stat. 678.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 469<i>l</i>–1, 469<i>l</i>–2 of this title.
-

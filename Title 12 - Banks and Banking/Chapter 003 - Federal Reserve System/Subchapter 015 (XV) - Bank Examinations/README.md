@@ -1,9 +1,5 @@
 ### SUBCHAPTER XV—BANK EXAMINATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 10, 181 of this title.
-
 
 ---
 

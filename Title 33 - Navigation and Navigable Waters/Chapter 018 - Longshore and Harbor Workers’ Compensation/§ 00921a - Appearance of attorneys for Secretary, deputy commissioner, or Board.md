@@ -20,7 +20,3 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 941 of this title.
-

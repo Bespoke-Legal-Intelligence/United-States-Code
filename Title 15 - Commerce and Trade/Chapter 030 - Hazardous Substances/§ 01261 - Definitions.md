@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(E) Any solder which has a lead content in excess of 0.2 percent.
 
-&emsp;(2) The term “hazardous substance” shall not apply to pesticides subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], nor to foods, drugs and cosmetics subject to the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], nor to substances intended for use as fuels when stored in containers and used in the heating, cooking, or refrigeration system of a house, nor to tobacco and tobacco products, but such term shall apply to any article which is not itself a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazardous substance within the meaning of paragraph (1) of this subsection by reason of bearing or containing such a pesticide.
+&emsp;(2) The term “hazardous substance” shall not apply to pesticides subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], nor to foods, drugs and cosmetics subject to the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], nor to substances intended for use as fuels when stored in containers and used in the heating, cooking, or refrigeration system of a house, nor to tobacco and tobacco products, but such term shall apply to any article which is not itself a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazardous substance within themeaning of paragraph (1) of this subsection by reason of bearing or containing such a pesticide.
 
 &emsp;(3) The term “hazardous substance” shall not include any source material, special nuclear material, or byproduct material as defined in the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and regulations issued pursuant thereto by the Atomic Energy Commission.
 
@@ -54,9 +54,9 @@ For the purposes of this chapter—
 
 (<i>o</i>) The term “immediate container” does not include package liners.
 
-(p) The term “misbranded hazardous substance” means a hazardous substance (including a toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted) intended, or packaged in a form suitable, for use in the household or by children, if the packagingor labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance, except as otherwise provided by or pursuant to section 1262 of this title, fails to bear a label—
+(p) The term “misbranded hazardous substance” means a hazardous substance (including a toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted) intended, or packaged in a form suitable, for use in the household or by children, if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance, except as otherwise provided by or pursuant to section 1262 of this title, fails to bear a label—
 
-&emsp;(1) which states conspicuously (A) the name and place of business of the manufacturer, packer, distributor or seller; (B) the common or usual name or the chemical name (if there be no common or usual name) of the hazardous substance or of each component which contributes substantially to its hazard, unless the Commission by regulation permits or requires the use of a recognized generic name; (C) the signal word “DANGER” on substances which are extremely flammable, corrosive, or highly toxic; (D) the signal word “WARNING” or “CAUTION” on all other hazardous substances; (E) an affirmative statement of the principal hazard or hazards, such as “Flammable”, “Combustible”, “Vapor Harmful”, “Causes Burns”, “Absorbed Through Skin”, or similar wording descriptive of the hazard; (F) precautionary measures describing the action to be followed or avoided, except when modified by regulation of the Commission pursuant to section 1262 of this title; (G) instruction, when necessary or appropriate, for first-aid treatment; (H) the word “poison” for any hazardous substance which is defined as “highly toxic” by subsection (h) of this section; (I) instructions for handling and storage of packages which require special care in handling or storage; and (J) the statement (i) “Keep out of the reach of children” or its practical equivalent, or, (ii) if the article is intended for use by children and is not a banned hazardous substance, adequate directions for the protection of children from the hazard, and
+&emsp;(1) which states conspicuously (A) the name and place of business of the manufacturer, packer, distributor or seller; (B) the common or usual name or the chemical name (if there be no common or usual name) of the hazardous substance or of each component which contributes substantially to its hazard, unless the Commission by regulation permits or requires the use of a recognized generic name; (C) the signal word “DANGER” on substances which are extremely flammable, corrosive, or highlytoxic; (D) the signal word “WARNING” or “CAUTION” on all other hazardous substances; (E) an affirmative statement of the principal hazard or hazards, such as “Flammable”, “Combustible”, “Vapor Harmful”, “Causes Burns”, “Absorbed Through Skin”, or similar wording descriptive of the hazard; (F) precautionary measures describing the action to be followed or avoided, except when modified by regulation of the Commission pursuant to section 1262 of this title; (G) instruction, when necessary or appropriate, for first-aid treatment; (H) the word “poison” for any hazardous substance which is defined as “highly toxic” by subsection (h) of this section; (I) instructions for handling and storage of packages which require special care in handling or storage; and (J) the statement (i) “Keep out of the reach of children” or its practical equivalent, or, (ii) if the article is intended for use by children and is not a banned hazardous substance, adequate directions for the protection of children from the hazard, and
 
 &emsp;(2) on which any statements required under subparagraph (1) of this paragraph are located prominently and are in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21,1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
+(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21,1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establish
 
 #### Effective Date of 1969 Amendment
 
-Section 5 of Pub. L. 91–113 provided that: “The amendments made by this Act \[see Short Title of 1969Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
+Section 5 of Pub. L. 91–113 provided that: “The amendments made by this Act \[see Short Title of 1969 Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
 
 #### Effective Date
 
@@ -144,7 +144,7 @@ Pub. L. 86–613, §17, formerly §16, July 12, 1960, 74 Stat. 380, renumbered P
 
 &emsp;“(a) prior to the expiration of the sixth calendar month after the month in which this Act is enacted \[July 1960\], or
 
-&emsp;“(b) prior to the expiration of such additional period or periods, ending not more than eighteen months after the month of enactment of this Act \[July 1960\], as the Secretary may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period or periods: <i>Provided</i>, That the Secretary may limit the application of such additional period or periods to violations related to specified provisions of this Act, or to specified kinds of hazardous substances or packages thereof.”
+&emsp;“(b) prior to the expiration of such additional period or periods, ending not more than eighteenmonths after the month of enactment of this Act \[July 1960\], as the Secretary may prescribe on the basis of a finding that conditions exist which necessitate the prescribing of such additional period or periods: <i>Provided</i>, That the Secretary may limit the application of such additional period or periods to violations related to specified provisions of this Act, or to specified kinds of hazardous substances or packages thereof.”
 
 #### Short Title of 1994 Amendment
 
@@ -213,8 +213,4 @@ Pub. L. 103–267, title I, §101(b), June 16, 1994, 108 Stat. 725, provided tha
 > shall be considered a banned hazardous substance under section 2(q) of the Federal Hazardous Substances Act (15 U.S.C. 1261(q)).”
 
 \[Section 101(b) of Pub. L. 103–267, set out above, effective Jan. 1, 1995, see section 101(d) of Pub. L. 103–267, set out as an Effective Date note under section 1278 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1262, 1275, 1276, 1278, 1471, 2080 of this title.
 

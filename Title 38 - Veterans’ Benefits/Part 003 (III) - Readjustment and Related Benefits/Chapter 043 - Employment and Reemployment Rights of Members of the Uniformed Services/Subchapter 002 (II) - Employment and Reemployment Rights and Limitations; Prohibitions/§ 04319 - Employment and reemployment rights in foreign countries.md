@@ -22,7 +22,3 @@ Exemption.—Notwithstanding any other provision of this subchapter, an employer
 
 Section applicable only with respect to causes of action arising after Nov. 11, 1998, see section 212(c) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 4303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4303 of this title.
-

@@ -10,7 +10,7 @@ No plan issued under this chapter shall be effective unless the Secretary determ
 
 #### (c) Amendments
 
-The failure of potato producers and importers to approve an amendment to any plan issuedunder this chapter shall not be deemed to invalidate such plan.
+The failure of potato producers and importers to approve an amendment to any plan issued under this chapter shall not be deemed to invalidate such plan.
 
 #### (d) Penalties for disclosure of confidential information, ballots and reports
 
@@ -33,8 +33,4 @@ Subsec. (d). Pub. L. 101–624, §1944(4), inserted “, or any importer or the
 #### Construction of 1982 Referendum on Amendments to Plan
 
 Pub. L. 98–171, §2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: “The failure of potato producers in December 1982 to approve amendments to the plan issued under this title \[probably means title III of Pub. L. 91–670 which is classified to this chapter\] shall not be deemed to invalidate the plan.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2617 of this title.
 

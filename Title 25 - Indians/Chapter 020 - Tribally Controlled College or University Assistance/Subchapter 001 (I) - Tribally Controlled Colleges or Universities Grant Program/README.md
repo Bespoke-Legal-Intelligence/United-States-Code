@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—TRIBALLY CONTROLLED COLLEGES OR UNIVERSITIES GRANT PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1851 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be section “1001(a)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “(5)”.</i>

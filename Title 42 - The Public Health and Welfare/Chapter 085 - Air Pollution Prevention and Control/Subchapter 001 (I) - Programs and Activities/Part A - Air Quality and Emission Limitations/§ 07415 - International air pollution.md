@@ -46,7 +46,7 @@ Subsec. (k). Pub. L. 91–604, §4(b)(3), (10), substituted provisions relating 
 
 1967—Subsec. (b). Pub. L. 90–148 substituted reference to subsec. (c), (h), or (k) of this section for reference to subsec. (g) of this section.
 
-Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from three weeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 90–148 added subsec. (c), redesignated former subsec. (c) as (d), inserted in par. (2) provisions for the delivery prior to the conference of a Federal report to agencies and interested parties covering matters before the conference, raised from threeweeks to thirty days the required notice of the conference, and inserted provisions for notice by newspapers, presentation of views on the Federal report, and transcript of proceedings. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 90–148 redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f) and amended.
 
@@ -95,8 +95,4 @@ Pub. L. 95–426, title VI, §612, Oct. 7, 1978, 92 Stat. 990, provided that:
 “(b) It is the sense of the Congress that the President should make every effort to negotiate a cooperative agreement with the Government of Canada aimed at preserving the mutual airshed of the United States and Canada so as to protect and enhance air resources and insure the attainment and maintenance of air quality protective of public health and welfare.
 
 “(c) It is further the sense of the Congress that the President, through the Secretary of State working in concert with interested Federal agencies and the affected States, should take whatever diplomatic actions appear necessary to reduce or eliminate any undesirable impact upon the United States and Canada resulting from air pollution from any source.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7410 of this title.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) a description of high-quality student academic assessments, if any, that are in addition to the academic assessments described in the State plan under section 6311(b)(3) of this title, that the local educational agency and schools served under this part will use—
 
-&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievementstandards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
+&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievement standards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
 
 &emsp;&emsp;&emsp;(ii) to assist in diagnosis, teaching, and learning in the classroom in ways that best enable low-achieving children served under this part to meet State student achievement academic standards and do well in the local curriculum;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(L) ensure, through incentives for voluntary transfers, the provision of professional development, recruitment programs, or other effective strategies, that low-income students and minority students are not taught at higher rates than other students by unqualified, out-of-field, or inexperienced teachers;
 
-&emsp;&emsp;(M) use the results of the student academic assessments required under section 6311(b)(3) of this title, and other measures or indicators available to the agency, to review annually the progress of each school served by the agency and receiving funds under this part to determine whether all of the schools are making the progress necessary to ensure that all students will meet the State's proficient level of achievement on the State academic assessments described in section 6311(b)(3) of this title within 12 years from the end of the 2001–2002 school year;
+&emsp;&emsp;(M) use the results of the student academic assessments required under section 6311(b)(3) of this title, and other measures orindicators available to the agency, to review annually the progress of each school served by the agency and receiving funds under this part to determine whether all of the schools are making the progress necessary to ensure that all students will meet the State's proficient level of achievement on the State academic assessments described in section 6311(b)(3) of this title within 12 years from the end of the 2001–2002 school year;
 
 &emsp;&emsp;(N) ensure that the results from the academic assessments required under section 6311(b)(3) of this title will be provided to parents and teachers as soon as is practicably possible after the test is taken, in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand; and
 
@@ -188,7 +188,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (B) Separate notification
 
-&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for anyfiscal year for which part A <sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
+&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for any fiscal year for which part A <sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
 
 #### (2) Notice
 
@@ -225,10 +225,6 @@ A prior section 6312, Pub. L. 89–10, title I, §1112, as added Pub. L. 103–3
 #### Amendments
 
 2002—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6311, 6313, 6316, 6318, 6319 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of subchapter III of this chapter”.</i>
 

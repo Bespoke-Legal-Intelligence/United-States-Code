@@ -22,7 +22,3 @@ The facilities and the services authorized by the Act of June 6, 1933 (29 U.S.C.
 
 The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1854 of this title.
-

@@ -36,7 +36,3 @@ The specific solar energy technologies to be addressed or dealt with in the prog
 
 (Pub. L. 93–473, §6, Oct. 26, 1974, 88 Stat. 1433.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5556 of this title.
-

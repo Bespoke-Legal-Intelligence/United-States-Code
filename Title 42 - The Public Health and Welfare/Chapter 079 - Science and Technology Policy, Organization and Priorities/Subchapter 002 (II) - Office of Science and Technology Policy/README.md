@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OFFICE OF SCIENCE AND TECHNOLOGY POLICY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6632, 6671 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An order issued by the Secretary under section 6203(a) of this title shall contain the terms andconditions described in this section and, except as provided in section 6205 of this title, no other terms or conditions.
+An order issued by the Secretary under section 6203(a) of this title shall contain the terms and conditions described in this section and, except as provided in section 6205 of this title, no other terms or conditions.
 
 #### (b) Lime Board
 
@@ -104,7 +104,7 @@ Such order shall provide for periodic budgets and plans as follows:
 
 #### (2) Plans
 
-&emsp;Each budget shall include a plan for research, promotion, and consumer informationregarding limes. A plan under this paragraph shall take effect on the approval of the Secretary. The Board may enter into contracts and agreements, with the approval of the Secretary, for—
+&emsp;Each budget shall include a plan for research, promotion, and consumer information regarding limes. A plan under this paragraph shall take effect on the approval of the Secretary. The Board may enter into contracts and agreements, with the approval of the Secretary, for—
 
 &emsp;&emsp;(A) the development and carrying out of such plan; and
 
@@ -202,7 +202,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 &emsp;&emsp;(A) to maintain and make available for inspection by the employees of the Board and the Secretary such books and records as may be required by the order; and
 
-&emsp;&emsp;(B) to file, at the times, in the manner, and having the content prescribed by theorder, reports regarding the collection, payment, or remittance of such assessments.
+&emsp;&emsp;(B) to file, at the times, in the manner, and having the content prescribed by the order, reports regarding the collection, payment, or remittance of such assessments.
 
 #### (i) Confidentiality
 
@@ -243,8 +243,4 @@ Subsec. (b)(4)(C). Pub. L. 103–194, §4(b)(4), substituted “3” for “4”
 Subsec. (d)(5). Pub. L. 103–194, §4(c), substituted “200,000” for “35,000”, wherever appearing.
 
 1991—Subsec. (e)(1)(B). Pub. L. 102–237 substituted “Government employees” for “government employees”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6202, 6205, 6209 of this title.
 

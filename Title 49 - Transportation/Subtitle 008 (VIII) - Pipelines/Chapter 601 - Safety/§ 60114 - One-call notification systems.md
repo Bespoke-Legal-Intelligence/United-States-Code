@@ -114,7 +114,3 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Pub. L. 107–355, §17, Dec. 17, 2002, 116 Stat. 3008, provided that: “Within 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Secretary of Transportation shall, in conjunction with the Federal Communications Commission, facility operators, excavators, and one-call notification system operators, provide for the establishment of a 3-digit nationwide toll-free telephone number system to be used by State one-call notification systems.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 60105, 60122, 60123 of this title.
-

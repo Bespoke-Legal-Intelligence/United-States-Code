@@ -24,7 +24,3 @@ This Act, referred to in subsec. (a), is Pub. L. 103–465, Dec. 8, 1994, 108 St
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3522, 3523 of this title.
-

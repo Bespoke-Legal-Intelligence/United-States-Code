@@ -44,7 +44,3 @@ For the 2002 crop year only, if the calculation of base acres under section 7911
 
 (Pub. L. 107–171, title I, §1106, May 13, 2002, 116 Stat. 153.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7915 of this title.
-

@@ -1,9 +1,5 @@
 subpart 2—national programs
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 7103, 7111 of this title.
-
 
 ---
 

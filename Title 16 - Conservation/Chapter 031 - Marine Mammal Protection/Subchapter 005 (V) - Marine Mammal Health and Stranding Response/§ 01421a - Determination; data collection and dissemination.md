@@ -30,7 +30,7 @@ The Secretary shall make information collected under this section available to s
 
 Section 3003(b) of Pub. L. 102–587 provided that: “The Secretary of Commerce shall—
 
-&emsp;“(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act,and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
+&emsp;“(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act, and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
 
 &emsp;&emsp;“(A) develop and implement objective criteria to determine at what point a marine mammal undergoing rehabilitation is returnable to the wild; and
 
@@ -41,8 +41,4 @@ Section 3003(b) of Pub. L. 102–587 provided that: “The Secretary of Commerce
 &emsp;&emsp;“(A) in proposed form by not later than 18 months after the date of enactment of this Act; and
 
 &emsp;&emsp;“(B) in final form by not later than 24 months after the date of enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1374 of this title.
 

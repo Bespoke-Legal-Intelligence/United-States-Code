@@ -8,7 +8,3 @@ The authority conferred by this chapter shall apply to any function vested in th
 
 For similar provisions contained in prior law, and saving clause in connection therewith, see note preceding section 301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 1537.
-

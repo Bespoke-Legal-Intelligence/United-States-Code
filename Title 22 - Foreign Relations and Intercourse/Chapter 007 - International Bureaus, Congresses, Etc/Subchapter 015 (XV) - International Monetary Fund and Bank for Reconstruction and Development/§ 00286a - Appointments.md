@@ -6,7 +6,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (b) Alternates; term of office
 
-The President, by and with the advice and consent of the Senate, shall appoint an alternate for the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) of this section for the governor and executive directors.
+The President, by and with the advice and consent of the Senate, shall appoint an alternatefor the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) of this section for the governor and executive directors.
 
 #### (c) Governor to serve as councillor; alternates and associates
 
@@ -39,8 +39,4 @@ Section 9 of Pub. L. 94–564 provided that: “The amendments made by sections 
 #### Levels of Fund Salaries and Minimization of Travel Costs
 
 Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: “The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 282a, 284a, 290k–1, 290<i>o</i>–1 of this title.
 

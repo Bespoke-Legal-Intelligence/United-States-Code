@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to preserve and protect for the education, inspiration, and enjoyment of present and future generations an outstanding example of a near-virgin southern hardwood forest situated in the Congaree River floodplain in Richland County, South Carolina, there is established the Congaree National Park (hereinafter referred to as the “park”). The park shall consist of the area within the boundary as generally depicted on the map entitled “Congaree Swamp National Monument”, numbered CS–80, 001–B, and dated August 1976 (generally known as the Beidler Tract), which shall be on file and available for public inspection in the offices of theNational Park Service, Department of the Interior. Following reasonable notice in writing to the Committees on Interior and Insular Affairs of the Senate and House of Representatives of his intention to do so, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may make minor revisions of the boundary of the park by publication of a revised map or other boundary description in the Federal Register.
+In order to preserve and protect for the education, inspiration, and enjoyment of present and future generations an outstanding example of a near-virgin southern hardwood forest situated in the Congaree River floodplain in Richland County, South Carolina, there is established the Congaree National Park (hereinafter referred to as the “park”). The park shall consist of the area within the boundary as generally depicted on the map entitled “Congaree Swamp National Monument”, numbered CS–80, 001–B, and dated August 1976 (generally known as the Beidler Tract), which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Following reasonable notice in writing to the Committees on Interior and Insular Affairs of the Senate and House of Representatives of his intention to do so, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may make minor revisions of the boundary of the park by publication of a revised map or other boundary description in the Federal Register.
 
 #### (b) Additional land
 
@@ -36,21 +36,31 @@ In addition to the lands described in subsection (a), the park shall consist of 
 
 &emsp;&emsp;(A) affects the use of private land adjacent to the park;
 
-&emsp;&emsp;(B) preempts the authority of the State with respect to the regulation of hunting, fishing, boating, and wildlife management on private land or water outside the boundaries of the park; or
+&emsp;&emsp;(B) preempts the authority of the State with respect to the regulation of hunting, fishing, boating, and wildlife management on private land or water outside the boundaries of the park;
 
-&emsp;&emsp;(C) negatively affects the economic development of the areas surrounding the park.
+&emsp;&emsp;(C) shall negatively affect the economic development of the areas surrounding the park; or
+
+&emsp;&emsp;(D) affects the classification of the park under section 7472 of title 42.
 
 #### (d) Acreage limitation
 
 The total acreage of the park shall not exceed 26,776 acres.
 
-(Pub. L. 94–545, §1, Oct. 18, 1976, 90 Stat. 2517; Pub. L. 100–524, §5, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, §§135, 148, Nov. 10, 2003, 117 Stat. 1270, 1281.)
+(Pub. L. 94–545, §1, Oct. 18, 1976, 90 Stat. 2517; Pub. L. 100–524, §5, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, §§135, 148, Nov. 10, 2003, 117 Stat. 1270, 1281; Pub. L. 108–199, div. H, §139(a), Jan. 23, 2004, 118 Stat. 442.)
 
 #### References in Text
 
 Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classified to this subchapter. For complete classification of Pub. L. 94–545 to the Code, see Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(6). Pub. L. 108–199, §139(a), added par. (6) and struck out former par. (6) which read: “Nothing in this section—
+
+&emsp;“(A) affects the use of private land adjacent to the park;
+
+&emsp;“(B) preempts the authority of the State with respect to the regulation of hunting, fishing, boating, and wildlife management on private land or water outside the boundaries of the park; or
+
+&emsp;“(C) negatively affects the economic development of the areas surrounding the park.”
 
 2003—Subsec. (b). Pub. L. 108–108, §148(1), struck out last sentence which read “The total acreage of the monument including lands described in subsection (a) and this subsection shall not exceed 22,200 acres.”
 
@@ -71,8 +81,4 @@ Committee on Interior and Insular Affairs of House of Representatives changed to
 #### Short Title of 1988 Amendment
 
 Pub. L. 100–524, §1, Oct. 24, 1988, 102 Stat. 2606, provided that: “This Act \[enacting section 191a of Title 30, Mineral Lands and Mining, amending this section and section 410jjj–4 of this title, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Congaree Swamp National Monument Expansion and Wilderness Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410jjj–4 of this title.
 

@@ -20,7 +20,7 @@
 
 (4) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (2) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.
 
-(d)(1) Subject to paragraph (3) <sup>1</sup> and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter.
+(d)(1) Subject to paragraph (2) and subsections (a) and (c) of section 8435 of this title, an employee or Member may change an election previously made under this subchapter.
 
 (2) A former employee or Member may not change an election under this section on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member.
 
@@ -56,13 +56,15 @@
 
 (5) A withdrawal may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, §3(1), Dec. 21, 2004, 118 Stat. 3893.)
 
 #### References in Text
 
 Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2004—Subsec. (d)(1). Pub. L. 108–469 substituted “paragraph (2)” for “paragraph (3)”.
 
 1999—Subsecs. (g)(1), (h)(3). Pub. L. 106–65 struck out “under section 8432(a) of this title” after “by the employee or Member”.
 
@@ -90,7 +92,7 @@ Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(B)\]\], re
 
 Subsec. (d)(3). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(B)\]\], redesignated par. (3) as (2).
 
-Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or”.
+Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Directorprescribes, one of the options available under subsection (b), or”.
 
 Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “701/2” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
 
@@ -190,15 +192,9 @@ Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second electio
 
 #### Regulations
 
-Section 6(b)(4) of Pub. L. 101–335 provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shallbe carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
+Section 6(b)(4) of Pub. L. 101–335 provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 
 #### Invalidity of Certain Prior Elections
 
 Section 101(f) \[title VI, §659 \[title II, §203(b)\]\] of Pub. L. 104–208 provided that: “Any election made under section 8433(b)(2) of title 5, United States Code (as in effect before the effective date of this title \[Sept. 30, 1996\]), with respect to an annuity which has not commenced before the implementation date of this title as provided by regulation by the Executive Director in accordance with section 207 of this title \[5 U.S.C. 5545a note\], shall be invalid.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8351, 8434, 8432b, 8435, 8436, 8437, 8440a, 8440b, 8440c, 8440d of this title; title 22 section 4071j; title 50 section 2154.
-
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
 

@@ -50,9 +50,5 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 Section 1103 of this title, referred to in subsec. (c)(1), was in the original “section 4”, and was translated as reading “section 1004”, meaning section 1004 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 4 and section 1004 relates to approval of loan guarantees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1103, 1104 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

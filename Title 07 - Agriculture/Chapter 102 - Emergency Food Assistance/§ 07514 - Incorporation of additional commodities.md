@@ -16,11 +16,7 @@ Section 7501 of this title, referred to in subsec. (a), was subsequently amended
 
 #### Effective Date
 
-Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7512 of this title.
+Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as anEffective Date of 1988 Amendment note under section 2012 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

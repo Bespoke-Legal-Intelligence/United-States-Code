@@ -43,10 +43,6 @@
 
 Pub. L. 103–305, title III, §308(b), Aug. 23, 1994, 108 Stat. 1594, added item 47509.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 47108 of this title.
-
 
 ---
 

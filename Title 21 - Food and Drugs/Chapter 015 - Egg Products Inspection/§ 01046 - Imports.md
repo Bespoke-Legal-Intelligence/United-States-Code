@@ -32,7 +32,3 @@ The importation of any article contrary to this section is prohibited.
 
 Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1037, 1054 of this title.
-

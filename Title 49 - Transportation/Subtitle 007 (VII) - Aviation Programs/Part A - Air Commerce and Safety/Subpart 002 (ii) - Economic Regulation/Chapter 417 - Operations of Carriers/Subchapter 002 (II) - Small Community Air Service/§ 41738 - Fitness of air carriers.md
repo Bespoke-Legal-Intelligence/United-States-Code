@@ -26,7 +26,3 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(e)(1); added Oct. 24, 1978,
 
 In this section, before clause (1), the words “air transportation to a place” are substituted for “service to a point” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title. In clauses (1) and (2), the words “service or transportation” are substituted for “such service” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41110 of this title.
-

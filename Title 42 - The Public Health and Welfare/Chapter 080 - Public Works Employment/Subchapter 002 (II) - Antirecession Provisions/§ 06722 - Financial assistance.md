@@ -34,7 +34,3 @@ Subsec. (c). Pub. L. 95–30, §602(b), substituted “five successive calendar 
 
 1976—Subsec. (d)(1). Pub. L. 94–447 substituted “6 percent, or” for “6 percent, and”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6723, 6736 of this title.
-

@@ -32,7 +32,7 @@ Section 10 of Pub. L. 91–375 provided that:
 
 “(e) \[<i>Appropriation Provisions Inapplicable</i>\] Agreements made pursuant to this section and expenditures made under such agreements shall not be subject to the provisions of section 3679 of the Revised Statutes, as amended (31 U.S.C. 665) \[sections 1341, 1342, and 1349–1351, subchapter II and chapter 15 of Title 31, Money and Finance\].
 
-“(f) \[<i>References to Title 39</i>\] For the purposes of this section, references to title 39 and sections of title 39 are references to title 39, United States Code, as enacted by section 2 of this Act.”
+“(f) \[<i>References to Title 39</i>\] For the purposes of this section, references to title 39 and sections of title 39 arereferences to title 39, United States Code, as enacted by section 2 of this Act.”
 
 \[Provisions of section 10 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.\]
 

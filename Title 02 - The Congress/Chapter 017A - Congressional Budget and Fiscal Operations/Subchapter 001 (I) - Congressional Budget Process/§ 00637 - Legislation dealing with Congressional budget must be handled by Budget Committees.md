@@ -10,15 +10,11 @@ Section was formerly classified to section 1327 of Title 31 prior to the general
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–508 substituted “bill, resolution, amendment, motion, or conference report” for “bill or resolution, and no amendment to any bill or resolution”.
+1990—Pub. L. 101–508 substituted “bill, resolution, amendment, motion, or conference report” for “bill or resolution, and no amendment to any bill or resolution”.
 
-<b>1985</b>—Pub. L. 99–177 reenacted section without change.
+1985—Pub. L. 99–177 reenacted section without change.
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 907c of this title.
 

@@ -18,7 +18,7 @@ In order to encourage the commercial production of electric and hybrid vehicles,
 
 #### (c) Maximum amount of loan guarantee
 
-Any guarantee under this section shall apply only to so much of the principal amount of theloan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
+Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
 
 #### (d) Terms and conditions of guarantee
 
@@ -36,7 +36,7 @@ Loan guarantees under this section shall be on such terms and conditions as the 
 
 #### (e) Maximum guarantee per loan; maximum of aggregate guarantees; Electric and Hybrid Vehicle Development Fund; establishment, funding, etc.
 
-(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order to carry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+(1) The amount of the guarantee of any loan shall not exceed $3,000,000, unless the Secretary of Energy finds that a higher guarantee level for specific loan guarantees is necessary in order tocarry out the purposes of this chapter. If the Secretary of Energy makes such finding, he shall immediately report that finding to the Speaker of the House of Representatives, the President of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (2) The aggregate amount of guarantees outstanding under this section at any one time shall not exceed $60,000,000.
 
@@ -54,7 +54,7 @@ As used in this section, the term “qualified borrower” means any partnership
 
 #### (g) Payment of principal and interest; default; recovery of losses
 
-(1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges whichbecome due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
+(1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges which become due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
 
 &emsp;(A) that the borrower is unable to meet principal and interest charges, that it is in the public interest to permit the borrower to continue to pursue the purposes of the project, and that the probable net cost to the Federal Government in paying such principal will be less than that which would result in the event of a default; and
 
@@ -99,8 +99,4 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 #### Transfer of Functions
 
 “Secretary of Energy” substituted for “Administrator” in subsecs. (b), (d), (e)(1), (f), and (i) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2473.
 

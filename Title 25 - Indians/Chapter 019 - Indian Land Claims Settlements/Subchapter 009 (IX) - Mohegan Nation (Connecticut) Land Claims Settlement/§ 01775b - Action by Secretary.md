@@ -70,7 +70,7 @@ Subject to subsection (g) of this section, any transfer of lands or natural reso
 
 #### (1) Aboriginal interests
 
-&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest, or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
+&emsp;Nothing in this section may be construed to extinguish any aboriginal right, title, interest,or claim to lands or natural resources, to the extent that such right, title, interest, or claim is an excepted interest, as defined under section 1(a) of the State Agreement.
 
 #### (2) Personal claims
 
@@ -83,8 +83,4 @@ Subject to subsection (g) of this section, any transfer of lands or natural reso
 The Indian Gaming Regulatory Act, referred to in subsec. (a)(1), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Trade and Intercourse Act of 1790, referred to in subsecs. (c)(2)(B) and (d)(2), is act July 22, 1790, ch. 33, 1 Stat. 137, which is not classified to the Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1775g of this title.
 

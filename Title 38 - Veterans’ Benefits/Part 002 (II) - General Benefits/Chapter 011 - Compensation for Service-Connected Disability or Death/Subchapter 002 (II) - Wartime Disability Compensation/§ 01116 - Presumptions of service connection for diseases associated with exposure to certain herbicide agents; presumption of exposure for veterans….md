@@ -60,7 +60,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 2001—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
-Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which theveteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
 Subsec. (a)(2)(H). Pub. L. 107–103, §201(b), added subpar. (H).
 
@@ -68,7 +68,7 @@ Subsec. (a)(3), (4). Pub. L. 107–103, §201(c)(1)(B), redesignated par. (4) as
 
 Subsec. (e). Pub. L. 107–103, §201(d)(1), substituted “on September 30, 2015” for “10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991”.
 
-Subsec. (f). Pub. L. 107–103, §201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or deathresulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
+Subsec. (f). Pub. L. 107–103, §201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
 
 2000—Subsec. (a)(2)(F). Pub. L. 106–419 inserted “of disability” after “to a degree”.
 
@@ -408,7 +408,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 “(d)
 
-OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved under subsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
+OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved undersubsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
 
 “(2)(A) The Director shall submit to the appropriate committees of the Congress, at each of the times specified in subparagraph (B), a report on the Director's monitoring of the conduct of the study pursuant to paragraph (1).
 
@@ -422,7 +422,7 @@ OTA Monitoring of Compliance.—(1) In order to ensure compliance with the proto
 
 “(e)
 
-Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submittedunder subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
+Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submitted under subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
 
 “(f)
 
@@ -461,8 +461,4 @@ Definitions.—For the purposes of this section:
 #### Agent Orange Study; Report to Congressional Committees
 
 Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, §401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, §8(a), Oct. 24, 1984, 98 Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1103, 1113 of this title.
 

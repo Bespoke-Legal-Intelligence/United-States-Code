@@ -108,7 +108,3 @@ In subsection (d)(1), the words “as determined by the Secretary of the departm
 
 In subsection (d)(2), the words “decide not to act” are substituted for “in any case . . . waive any right or privilege conferred or reserved” to eliminate unnecessary words.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 47302 of this title.
-

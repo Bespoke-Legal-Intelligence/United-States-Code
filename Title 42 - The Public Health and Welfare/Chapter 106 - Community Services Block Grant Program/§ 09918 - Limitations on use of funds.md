@@ -38,7 +38,7 @@
 
 #### (2) Action of Secretary
 
-&emsp;Whenever the Secretary determines that a State that has received a payment under this chapter has failed to comply with paragraph (1) or an applicable regulation, the Secretary shall notify the chief executive officer of the State and shall request that the officer secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to—
+&emsp;Whenever the Secretary determines that a State that has received a payment under this chapter has failed to comply with paragraph (1) or an applicable regulation, the Secretary shall notify the chief executive officer of theState and shall request that the officer secure compliance. If within a reasonable period of time, not to exceed 60 days, the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to—
 
 &emsp;&emsp;(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 
@@ -54,13 +54,9 @@
 
 #### References in Text
 
-The Age Discrimination Act of 1975, referred to in subsec. (c)(1), (2)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classifiedgenerally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (c)(1), (2)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (c)(1), (2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9903 of this title.
 

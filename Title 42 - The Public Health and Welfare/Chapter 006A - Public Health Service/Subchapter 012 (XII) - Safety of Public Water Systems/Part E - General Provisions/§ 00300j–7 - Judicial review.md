@@ -28,9 +28,5 @@ Subsec. (a)(2). Pub. L. 104–182, §113(c)(1), substituted “any other final a
 
 1986—Subsec. (a)(1). Pub. L. 99–339, §303(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “action of the Administrator in promulgating any national primary drinking water regulation under section 300g–1 of this title, any regulation under section 300g–2(b)(1) of this title, any regulation under section 300g–3(c) of this title, any regulation for State underground injection control programs under section 300h of this title, or any general regulation for the administration of this subchapter may be filed only in the United States Court of Appeals for the District of Columbia Circuit; and”.
 
-Subsec. (a)(2). Pub. L. 99–339, §303(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:“action of the Administrator in promulgating any other regulation under this subchapter, issuing any order under this subchapter, or making any determination under this subchapter may be filed only in the United States court of appeals for the appropriate circuit.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 300g–1, 300h–2, 300j–8 of this title.
+Subsec. (a)(2). Pub. L. 99–339, §303(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “action of the Administrator in promulgating any other regulation under this subchapter, issuing any order under this subchapter, or making any determination under this subchapter may be filed only in the United States court of appeals for the appropriate circuit.”
 

@@ -52,7 +52,3 @@ For provisions relating to application of subsec. (f) of this section to certain
 
 For provisions relating to deferred payment of lump-sum credit for certain individuals electing alternative forms of annuities, see notes set out under section 8343a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8348, 8424 of this title.
-

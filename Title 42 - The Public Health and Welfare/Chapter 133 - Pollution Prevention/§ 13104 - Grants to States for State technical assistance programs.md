@@ -28,9 +28,5 @@ States receiving grants under this section shall make information generated unde
 
 (Pub. L. 101–508, title VI, §6605, Nov. 5, 1990, 104 Stat. 1388–323.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13105, 13109 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “businesses”.</i>
 

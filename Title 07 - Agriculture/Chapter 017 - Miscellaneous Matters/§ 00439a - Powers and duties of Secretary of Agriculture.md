@@ -14,7 +14,3 @@ In carrying out the purposes of sections 439 to 439e of this title the Secretary
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 439b, 439c, 439e of this title.
-

@@ -4,7 +4,3 @@ No action contesting a decision of the Secretary involving any oil and gas lease
 
 (Feb. 25, 1920, ch. 85, §42, as added Pub. L. 86–705, §5, Sept. 2, 1960, 74 Stat. 790.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1724 of this title.
-

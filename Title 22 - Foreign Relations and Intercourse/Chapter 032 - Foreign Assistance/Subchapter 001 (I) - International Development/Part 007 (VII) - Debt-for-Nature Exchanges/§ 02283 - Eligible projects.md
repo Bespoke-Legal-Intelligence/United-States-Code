@@ -30,7 +30,3 @@
 
 Another section 463 of Pub. L. 87–195 is classified to section 2273 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2281 of this title.
-

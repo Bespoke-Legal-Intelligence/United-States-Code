@@ -42,6 +42,40 @@ Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: “This Act \[a
 
 Section 1 of Pub. L. 95–454 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Civil Service Reform Act of 1978’.”
 
+#### Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates
+
+Pub. L. 108–458, title VIII, §8403(b), Dec. 17, 2004, 118 Stat. 3870, provided that:
+
+“(1)
+
+Definition.—In this section, the term ‘major party’ has the meaning given that term under section 9002(6) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(6)\].
+
+“(2)
+
+Transmittal.—
+
+&emsp;“(A)
+
+In general.—Not later than 15 days after the date on which a major party nominates a candidate for President, the Office of Personnel Management shall transmit an electronic record to that candidate on Presidentially appointed positions.
+
+&emsp;“(B)
+
+Other candidates.—After making transmittals under subparagraph (A), the Office of Personnel Management may transmit an electronic record on Presidentially appointed positions to any other candidate for President.
+
+“(3)
+
+Content.—The record transmitted under this subsection shall provide—
+
+&emsp;“(A) all positions which are appointed by the President, including the title and description of the duties of each position;
+
+&emsp;“(B) the name of each person holding a position described under subparagraph (A);
+
+&emsp;“(C) any vacancy in the positions described under subparagraph (A), and the period of time any such position has been vacant;
+
+&emsp;“(D) the date on which an appointment made after the applicable Presidential election for any position described under subparagraph (A) is necessary to ensure effective operation of the Government; and
+
+&emsp;“(E) any other information that the Office of Personnel Management determines is useful in making appointments.”
+
 #### Transfer to Office of Personnel Management of Personnel Investigative Functions and Related Personnel of the Department of Defense
 
 Pub. L. 108–136, div. A, title IX, §906, Nov. 24, 2003, 117 Stat. 1561, provided that:
@@ -118,13 +152,13 @@ Offset of Administrative Costs.—Each such agency or employing entity that offe
 
 “(c)
 
-Reports.—(1) The Office shall submit a report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
+Reports.—(1) The Office shall submit a report to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate no later than March 31, 2004, specifying the administrative costs associated with the Governmentwide program (referred to in subsection (b)) for fiscal year 2003, as well as the projected administrative costs of such program for each of the 5 fiscal years thereafter.
 
 “(2) At the end of each of the first 3 calendar years in which an agency or other employing entity offers a flexible spending account option under this section, such agency or entity shall submit a report to the Office of Management and Budget showing the amount of its employment tax savings in such year which are attributable to such option, net of administrative fees paid under subsection (b).”
 
 #### Combined Federal Campaign Brochure List and General Designation Option for International Agencies
 
-Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list andoption: <i>Provided</i>, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign.”
+Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: <i>Provided</i>, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign.”
 
 #### Report on Productivity of Federal Workforce; Deadline
 
@@ -142,7 +176,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(C) Notwithstanding any requirement referred to in subparagraph (A) or (B), for purposes of any Combined Federal Campaign—
 
-&emsp;“(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
+&emsp;“(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in acase brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
 
 &emsp;“(ii) The Federal Employee Education and Assistance Fund,
 
@@ -224,7 +258,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 “(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributor indicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
 
-“(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combined Federal campaign organization code numbers corresponding to each such agency and group.
+“(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combinedFederal campaign organization code numbers corresponding to each such agency and group.
 
 “(B) The requirement under subparagraph (A) relating to the inclusion of program descriptions may, at the discretion of a local Federal coordinating committee, be waived for a local campaign in any year if, in the immediately preceding campaign year, contributions received through the local campaign totalled less than $100,000.
 
@@ -262,7 +296,7 @@ Section 3 of Pub. L. 95–454 provided that: “It is the policy of the United S
 
 &emsp;“(9) the training program of the Government should include retraining of employees for positions in other agencies to avoid separations during reductions in force and the loss to the Government of the knowledge and experience that these employees possess; and
 
-&emsp;“(10) the right of Federal employees to organize, bargain collectively, and participate through labor organizations in decisions which affect them, withfull regard for the public interest and the effective conduct of public business, should be specifically recognized in statute.”
+&emsp;“(10) the right of Federal employees to organize, bargain collectively, and participate through labor organizations in decisions which affect them, with full regard for the public interest and the effective conduct of public business, should be specifically recognized in statute.”
 
 #### Savings Provision
 
@@ -332,7 +366,7 @@ The Director may delegate, from time to time, to the head of any agency employin
 
 #### Sec. 201. Merit Systems Protection Board
 
-(a) The United States Civil Service Commission is hereby redesignated the Merit Systems ProtectionBoard. The Commissioners of the United States Civil Service Commission are hereby redesignated as members of the Merit Systems Protection Board (the “Board”).
+(a) The United States Civil Service Commission is hereby redesignated the Merit Systems Protection Board. The Commissioners of the United States Civil Service Commission are hereby redesignated as members of the Merit Systems Protection Board (the “Board”).
 
 (b) The Chairman of the Board shall be its chief executive and administrative officer. The position of Executive Director, established by 5 U.S.C. 1103(d), is hereby abolished.
 
@@ -430,7 +464,7 @@ Unless and until modified, revised, or revoked, all policies, regulations, and p
 
 #### Sec. 307. Savings Provision
 
-All matters which relate to the functions transferred by Section 304 of this Plan, and which are pending on the effective date of the establishment of the Authority before the Federal Labor Relations Council, the Vice Chairman of the Civil Service Commission, or the Assistant Secretary of Labor for Labor-Management Relations shall continue before the Authority under such rules and procedures as the Authority shall prescribe. All such matters pending on the effective date of the establishment of the Authority before the Panel, shall continue before the Panel under such rules and procedures as the Panel shall prescribe.
+All matters which relate to the functions transferred by Section 304 of this Plan, and which are pending onthe effective date of the establishment of the Authority before the Federal Labor Relations Council, the Vice Chairman of the Civil Service Commission, or the Assistant Secretary of Labor for Labor-Management Relations shall continue before the Authority under such rules and procedures as the Authority shall prescribe. All such matters pending on the effective date of the establishment of the Authority before the Panel, shall continue before the Panel under such rules and procedures as the Panel shall prescribe.
 
 #### PART IV. GENERAL PROVISIONS
 
@@ -468,7 +502,7 @@ The positive personnel management tasks of the government—such as training, pr
 
 The adjudication and prosecution responsibilities of the Civil Service Commission will be performed by the Merit Systems Protection Board. The Board will be headed by a bipartisan panel of three members appointed to six-year, staggered terms. This Board would be the first independent and institutionally impartial Federal agency solely for the protection of Federal employees.
 
-The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abusesand merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegal acts—the so-called “whistleblowers.” The Council would be appointed by the President and confirmed by the Senate.
+The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegal acts—the so-called “whistleblowers.” The Council would be appointed by the President and confirmed by the Senate.
 
 #### federal labor relations authority
 
@@ -480,7 +514,7 @@ The cost of replacing the Civil Service Commission can be paid by our present re
 
 Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
-I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
+I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed,more productive and more efficient Federal Government.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -748,7 +782,7 @@ by substituting for Rule V—Regulations, Investigations, and Enforcement, a new
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability,the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutional jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 

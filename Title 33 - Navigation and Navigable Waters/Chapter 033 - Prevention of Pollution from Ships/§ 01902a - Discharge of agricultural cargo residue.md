@@ -1,6 +1,6 @@
 ### §1902a. Discharge of agricultural cargo residue
 
-Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of holdwashings shall be governed exclusively by the provisions of the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.) that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
+Notwithstanding any other provision of law, the discharge from a vessel of any agricultural cargo residue material in the form of hold washings shall be governed exclusively by the provisions of the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.) that implement Annex V to the International Convention for the Prevention of Pollution from Ships.
 
 (Pub. L. 107–295, title II, §204, Nov. 25, 2002, 116 Stat. 2094.)
 

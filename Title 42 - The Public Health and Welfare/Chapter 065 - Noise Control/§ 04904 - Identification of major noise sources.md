@@ -20,7 +20,3 @@ Any report (or revision thereof) under subsection (b)(1) of this section identif
 
 (Pub. L. 92–574, §5, Oct. 27, 1972, 86 Stat. 1236.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4905 of this title.
-

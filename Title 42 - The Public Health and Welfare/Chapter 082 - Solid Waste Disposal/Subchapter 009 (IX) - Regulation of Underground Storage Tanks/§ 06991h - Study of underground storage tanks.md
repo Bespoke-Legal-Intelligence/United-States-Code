@@ -36,9 +36,5 @@ Upon completion of the studies authorized by this section, the Administrator sha
 
 Section 6916(g) of this title, referred to in subsec. (f)(3), probably means section 6916(f) of this title which authorizes appropriations for this subchapter. There is no subsec. (g) of section 6916.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6991d of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

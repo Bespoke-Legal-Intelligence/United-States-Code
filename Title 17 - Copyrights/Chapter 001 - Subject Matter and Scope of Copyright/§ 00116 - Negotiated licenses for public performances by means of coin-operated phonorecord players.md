@@ -14,11 +14,11 @@ Authority for negotiations.—Any owners of copyright in works to which this sec
 
 &emsp;(2)
 
-Arbitration.—Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).
+Chapter 8 proceeding.—Parties not subject to such a negotiation may have the terms and rates and the division of fees described in paragraph (1) determined in a proceeding in accordance with the provisions of chapter 8.
 
 (c)
 
-License Agreements Superior to Copyright Arbitration Royalty Panel Determinations.—License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by a copyright arbitration royalty panel.
+License Agreements Superior to Determinations by Copyright Royalty Judges.—License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by the Copyright Royalty Judges.
 
 (d)
 
@@ -40,15 +40,19 @@ Definitions.—As used in this section, the following terms mean the following:
 
 &emsp;&emsp;(B) has the power to make a coin-operated phonorecord player available for placement in an establishment for purposes of public performance; or
 
-&emsp;&emsp;(C) has the power to exercise primary control over the selection of the musical worksmade available for public performance on a coin-operated phonorecord player.
+&emsp;&emsp;(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
 
-(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, §5, Nov. 13, 1997, 111 Stat. 1531.)
+(Added Pub. L. 100–568, §4(a)(4), Oct. 31, 1988, 102 Stat. 2855, §116A; renumbered §116 and amended Pub. L. 103–198, §3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, §5, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 108–419, §5(e), Nov. 30, 2004, 118 Stat. 2365.)
 
 #### Prior Provisions
 
 A prior section 116, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2562; Pub. L. 100–568, §4(b)(1), Oct. 31, 1988, 102 Stat. 2857, related to scope of exclusive rights in nondramatic musical works and compulsory licenses for public performances by means of coin-operated phonorecord players, prior to repeal by Pub. L. 103–198, §3(a), Dec. 17, 1993, 107 Stat. 2309.
 
 #### Amendments
+
+2004—Subsec. (b)(2). Pub. L. 108–419, §5(e)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).”
+
+Subsec. (c). Pub. L. 108–419, §5(e)(2), substituted “Determinations by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panel Determinations” in heading and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel” in text.
 
 1997—Subsec. (b)(2). Pub. L. 105–80, §5(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -66,11 +70,11 @@ Subsec. (c). Pub. L. 103–198, §3(b)(1)(B), (D), redesignated subsec. (d) as (
 
 Subsecs. (d) to (g). Pub. L. 103–198, §3(b)(1)(B), (E), redesignated subsec. (d) as (c) and struck out subsecs. (e) to (g) which provided, in subsec. (e), for a schedule for negotiation of licenses, in subsec. (f), for a suspension of various ratemaking activities by the Copyright Royalty Tribunal, and in subsec. (g), for transition provisions and retention of Copyright Royalty Tribunal jurisdiction.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
+
 #### Effective Date
 
 Section effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions as in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 501, 511, 801, 802, 803 of this title; title 18 section 2319.
 

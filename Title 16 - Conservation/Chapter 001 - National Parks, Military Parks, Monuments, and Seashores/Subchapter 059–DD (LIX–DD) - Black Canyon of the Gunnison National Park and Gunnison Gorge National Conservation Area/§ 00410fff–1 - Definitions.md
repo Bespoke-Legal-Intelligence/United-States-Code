@@ -20,7 +20,3 @@ In this subchapter:
 
 (Pub. L. 106–76, §3, Oct. 21, 1999, 113 Stat. 1127.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410fff–2 of this title.
-

@@ -4,7 +4,3 @@ It shall be unlawful for any person, partnership, association, or corporation en
 
 (Feb. 21, 1905, ch. 720, §1, 33 Stat. 732.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 292, 293 of this title.
-

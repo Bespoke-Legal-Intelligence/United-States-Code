@@ -118,7 +118,7 @@ In clause (3), the text of 45:502(5)(A) and the words “on and after October 1,
 
 In clauses (4) and (10), the words “authority, corporation, or other” are omitted as surplus.
 
-In clause (4), the words “and includes the Metropolitan Transportation Authority, the Connecticut Department of Transportation, the Maryland Department of Transportation the Southeastern Pennsylvania Transportation Authority, the New Jersey Transit Corporation, the Massachusetts Bay Transportation Authority, the Port Authority Trans-Hudson Corporation, any successor agencies, and any entity created by one or more such agencies for the purpose of operating” are omitted as surplus.
+In clause (4), the words “and includes the Metropolitan Transportation Authority, the Connecticut Department of Transportation, the Maryland Department ofTransportation the Southeastern Pennsylvania Transportation Authority, the New Jersey Transit Corporation, the Massachusetts Bay Transportation Authority, the Port Authority Trans-Hudson Corporation, any successor agencies, and any entity created by one or more such agencies for the purpose of operating” are omitted as surplus.
 
 In clause (5), the words “whether within or across the geographical boundaries of a State” are omitted as surplus.
 
@@ -139,10 +139,6 @@ Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and ins
 Pars. (8) to (10). Pub. L. 105–134, §407(2), redesignated pars. (8) to (10) as (7) to (9), respectively.
 
 Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follows: “ ‘route and service criteria’ means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 12131.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -64,7 +64,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
 
-&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
+&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or ina zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
 
 &emsp;&emsp;(A) when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or
 
@@ -95,8 +95,4 @@ Provisions similar to those in this section were contained in section 10526 of t
 #### Abolition of Interstate Commerce Commission
 
 Interstate Commerce Commission abolished by section 101 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13507, 13508, 13908 of this title.
 

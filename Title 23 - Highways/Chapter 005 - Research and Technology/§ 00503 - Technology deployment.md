@@ -82,7 +82,7 @@ Goals.—The goals of the program shall include—
 
 &emsp;&emsp;(E) the development of cost-effective and innovative techniques to separate vehicle and pedestrian traffic from railroad traffic;
 
-&emsp;&emsp;(F) the development of highway bridges and structures that will withstand naturaldisasters, including alternative processes for the seismic retrofit of bridges; and
+&emsp;&emsp;(F) the development of highway bridges and structures that will withstand natural disasters, including alternative processes for the seismic retrofit of bridges; and
 
 &emsp;&emsp;(G) the development of new nondestructive bridge evaluation technologies and techniques.
 
@@ -119,8 +119,4 @@ The date of enactment of this section, referred to in subsec. (a)(3)(A), (6), (8
 #### Prior Provisions
 
 A prior section 503, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to administration of highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 49 section 5505.
 

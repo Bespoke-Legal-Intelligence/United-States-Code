@@ -4,7 +4,3 @@ The term “labor”, as used in the third sentence of section 28 of this title,
 
 (Pub. L. 85–876, §1, Sept. 2, 1958, 72 Stat. 1701.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 28–2 of this title; title 16 section 460mm–1; title 43 section 1744.
-

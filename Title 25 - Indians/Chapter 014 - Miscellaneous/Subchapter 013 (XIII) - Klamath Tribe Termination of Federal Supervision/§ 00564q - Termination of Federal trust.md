@@ -10,7 +10,3 @@ Nothing in this subchapter shall affect the status of the members of the tribe a
 
 (Aug. 13, 1954, ch. 732, §18, 68 Stat. 722.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 564<i>l</i>, 564m, 564r, 564w of this title.
-

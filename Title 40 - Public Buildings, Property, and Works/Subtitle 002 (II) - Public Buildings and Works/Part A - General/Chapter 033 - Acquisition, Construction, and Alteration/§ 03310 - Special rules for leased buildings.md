@@ -30,7 +30,3 @@ Historical and Revision Notes
 
 Pub. L. 86–249, §20, as added Pub. L. 100–678, §5, Nov. 17, 1988, 102 Stat. 4050.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 450ss–6.
-

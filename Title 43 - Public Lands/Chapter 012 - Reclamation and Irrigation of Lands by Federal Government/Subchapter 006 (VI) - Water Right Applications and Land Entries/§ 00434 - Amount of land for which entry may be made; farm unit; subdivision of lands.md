@@ -20,7 +20,3 @@ Section is comprised of a part of section 3 of act June 17, 1902, and section 1 
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 451h of this title.
-

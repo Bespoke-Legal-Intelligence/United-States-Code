@@ -96,7 +96,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;&emsp;(i) the Secretary has determined that the concessioner has operated satisfactorily during the term of the contract (including any extension thereof); and
 
-&emsp;&emsp;(ii) the concessioner has submitted a responsive proposal for a proposed new concessions contract which satisfies the minimum requirements established by the Secretary pursuant to paragraph (4).
+&emsp;&emsp;(ii) the concessioner has submitted a responsive proposal for a proposed new concessions contract which satisfies the minimumrequirements established by the Secretary pursuant to paragraph (4).
 
 #### (9) New or additional services
 
@@ -104,7 +104,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 #### (10) Secretarial authority
 
-&emsp;Nothing in this subchapter shall be construed as limiting the authority of the Secretary to determine whether to issue a concessions contract or to establish its terms andconditions in furtherance of the policies expressed in this subchapter.
+&emsp;Nothing in this subchapter shall be construed as limiting the authority of the Secretary to determine whether to issue a concessions contract or to establish its terms and conditions in furtherance of the policies expressed in this subchapter.
 
 #### (11) Exceptions
 

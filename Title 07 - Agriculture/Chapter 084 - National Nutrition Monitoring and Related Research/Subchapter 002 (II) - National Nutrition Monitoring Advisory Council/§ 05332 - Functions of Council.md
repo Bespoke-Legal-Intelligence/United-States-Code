@@ -16,7 +16,3 @@ The Council shall—
 
 (Pub. L. 101–445, title II, §202, Oct. 22, 1990, 104 Stat. 1042.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5312 of this title.
-

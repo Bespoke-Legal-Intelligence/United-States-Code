@@ -14,7 +14,7 @@ Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the Preside
 
 #### Executive Order No. 12900
 
-Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans anddirected the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, set out below.
+Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, set out below.
 
 #### Ex. Ord. No. 13230. President's Advisory Commission on Educational Excellence for Hispanic Americans
 
@@ -46,7 +46,7 @@ Sec. 4. Executive branch departments and agencies, to the extent permitted by la
 
 (d) the measurable impact resulting from these efforts and levels of participation. The Department of Education's report also shall describe the overall condition of Hispanic American education and such other aspects of the educational status of Hispanic Americans, as the Secretary considers appropriate.
 
-Sec. 5. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App), may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Department of Education in accordance with the guidelines that have been issued by the Administrator of General Services.
+Sec. 5. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App), may apply to the Commission, any functions of the President under that Act,except that of reporting to the Congress, shall be performed by the Department of Education in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 Sec. 6. (a) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 

@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an alien with permanent resident status on a conditional basis under subsection (a) of this section, if the Attorney General determines, before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence, that—
+&emsp;In the case of an alien with permanent resident status on a conditional basis under subsection (a) of this section, if the Attorney General determines, before the second anniversary of the alien's obtaining the status oflawful admission for permanent residence, that—
 
 &emsp;&emsp;(A) the qualifying marriage—
 
@@ -64,7 +64,7 @@
 
 #### (B) Hearing in removal proceeding
 
-&emsp;&emsp;In any removal proceeding with respect to an alien whose permanent resident status is terminated under subparagraph (A), the burden of proof shall be on the alien to establishcompliance with the conditions of paragraphs (1)(A) and (1)(B).
+&emsp;&emsp;In any removal proceeding with respect to an alien whose permanent resident status is terminated under subparagraph (A), the burden of proof shall be on the alien to establish compliance with the conditions of paragraphs (1)(A) and (1)(B).
 
 #### (3) Determination after petition and interview
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) extreme hardship would result if such alien is removed,
 
-&emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1), or
+&emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, butthe qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1), or
 
 &emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1).
 
@@ -243,10 +243,6 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1186b, 1227, 1228, 1255, 1367 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

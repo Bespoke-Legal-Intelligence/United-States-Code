@@ -150,7 +150,7 @@ The purposes of this Compact are to—
 
 &emsp;(4) provide for the establishment of a Council to monitor III System operations and to prescribe system rules and procedures for the effective and proper operation of the III System for noncriminal justice purposes; and
 
-&emsp;(5) require the FBI and each Party State to adhere to III System standards concerning record dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
+&emsp;(5) require the FBI and each Party State to adhere to III System standards concerningrecord dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
 
 ### ARTICLE III—RESPONSIBILITIES OF COMPACT PARTIES
 
@@ -216,7 +216,7 @@ To the extent authorized by section 552a of title 5, United States Code (commonl
 
 #### (b) Criminal justice agencies and other governmental or nongovernmental agencies
 
-The FBI, to the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the AttorneyGeneral, that authorizes national indices checks.
+The FBI, to the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General, that authorizes national indices checks.
 
 #### (c) Procedures
 
@@ -304,7 +304,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (1) In general
 
-&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of the Council, respectively. Both the Chairman and Vice Chairman of the Council—
+&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of theCouncil, respectively. Both the Chairman and Vice Chairman of the Council—
 
 &emsp;&emsp;(A) shall be a Compact officer, unless there is no Compact officer on the Council who is willing to serve, in which case the Chairman may be an at-large member; and
 
@@ -370,7 +370,7 @@ Any renunciation of this Compact by a Party State shall—
 
 ### ARTICLE X—SEVERABILITY
 
-The provisions of this Compact shall be severable, and if any phrase, clause, sentence, or provision of this Compact is declared to be contrary to the constitution of any participating State, or to the Constitution of the United States, or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this Compact and the applicability thereof to any government, agency, person, or circumstance shall notbe affected thereby. If a portion of this Compact is held contrary to the constitution of any Party State, all other portions of this Compact shall remain in full force and effect as to the remaining Party States and in full force and effect as to the Party State affected, as to all other provisions.
+The provisions of this Compact shall be severable, and if any phrase, clause, sentence, or provision of this Compact is declared to be contrary to the constitution of any participating State, or to the Constitution of the United States, or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this Compact and the applicability thereof to any government, agency, person, or circumstance shall not be affected thereby. If a portion of this Compact is held contrary to the constitution of any Party State, all other portions of this Compact shall remain in full force and effect as to the remaining Party States and in full force and effect as to the Party State affected, as to all other provisions.
 
 ### ARTICLE XI—ADJUDICATION OF DISPUTES
 
@@ -405,8 +405,4 @@ The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579,
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109, as amended. For complete classification of this Act to the Code, see Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14612, 14613 of this title.
 

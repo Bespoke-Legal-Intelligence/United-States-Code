@@ -64,7 +64,3 @@
 
 (Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1224.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2265 of this title.
-

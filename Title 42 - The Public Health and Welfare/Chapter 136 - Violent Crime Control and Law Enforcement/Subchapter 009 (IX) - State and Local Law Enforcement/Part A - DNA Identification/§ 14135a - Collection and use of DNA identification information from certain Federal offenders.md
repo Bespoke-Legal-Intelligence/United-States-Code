@@ -42,29 +42,15 @@ In this section:
 
 #### (d) Qualifying Federal offenses
 
-(1) The offenses that shall be treated for purposes of this section as qualifying Federal offenses are the following offenses under title 18, as determined by the Attorney General:
+The offenses that shall be treated for purposes of this section as qualifying Federal offenses are the following offenses, as determined by the Attorney General:
 
-&emsp;(A) Murder (as described in section 1111 of such title), voluntary manslaughter (as described in section 1112 of such title), or other offense relating to homicide (as described in chapter 51 of such title, sections 1113, 1114, 1116, 1118, 1119, 1120, and 1121).
+&emsp;(1) Any felony.
 
-&emsp;(B) An offense relating to sexual abuse (as described in chapter 109A of such title, sections 2241 through 2245), to sexual exploitation or other abuse of children (as described in chapter 110 of such title, sections 2251 through 2252), or to transportation for illegal sexual activity (as described in chapter 117 of such title, sections 2421, 2422, 2423, and 2425).
+&emsp;(2) Any offense under chapter 109A of title 18.
 
-&emsp;(C) An offense relating to peonage and slavery (as described in chapter 77 of such title).
+&emsp;(3) Any crime of violence (as that term is defined in section 16 of title 18).
 
-&emsp;(D) Kidnapping (as defined in section 3559(c)(2)(E) of such title).
-
-&emsp;(E) An offense involving robbery or burglary (as described in chapter 103 of such title, sections 2111 through 2114, 2116, and 2118 through 2119).
-
-&emsp;(F) Any violation of section 1153 involving murder, manslaughter, kidnapping, maiming,a felony offense relating to sexual abuse (as described in chapter 109A), incest, arson, burglary, or robbery.
-
-&emsp;(G) Any attempt or conspiracy to commit any of the above offenses.
-
-(2) In addition to the offenses described in paragraph (1), the following offenses shall be treated for purposes of this section as qualifying Federal offenses, as determined by the Attorney General:
-
-&emsp;(A) Any offense listed in section 2332b(g)(5)(B) of title 18.
-
-&emsp;(B) Any crime of violence (as defined in section 16 of title 18).
-
-&emsp;(C) Any attempt or conspiracy to commit any of the above offenses.
+&emsp;(4) Any attempt or conspiracy to commit any of the offenses in paragraphs (1) through (3).
 
 #### (e) Regulations
 
@@ -80,7 +66,7 @@ In this section:
 
 Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
-(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115 Stat. 364.)
+(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115Stat. 364; Pub. L. 108–405, title II, §203(b), Oct. 30, 2004, 118 Stat. 2270.)
 
 #### Codification
 
@@ -88,9 +74,7 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 #### Amendments
 
+2004—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally, substituting pars. (1) to (4) for former pars. (1) and (2) with multiple subpars. listing specific offenses.
+
 2001—Subsec. (d)(2). Pub. L. 107–56 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The initial determination of qualifying Federal offenses shall be made not later than 120 days after December 19, 2000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14132, 14135c, 14135e of this title; title 10 section 1565; title 18 sections 3563, 3583, 4209.
 

@@ -2,7 +2,7 @@
 
 The Secretary of State is authorized to—
 
-&emsp;(a) obtain insurance on official motor vehicles operated by the Department of State in foreign countries, and pay the expenses incident thereto;
+&emsp;(a) obtain insurance on official motor vehicles operated by the Department of State inforeign countries, and pay the expenses incident thereto;
 
 &emsp;(b) rent tie lines and teletype equipment;
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 #### Effective Date of 1978 Amendment
 
 Section 108(b) of Pub. L. 95–426 provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 1978.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2701 of this title.
 

@@ -4,10 +4,6 @@
 
 1991—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8222 of this title.
-
 
 ---
 

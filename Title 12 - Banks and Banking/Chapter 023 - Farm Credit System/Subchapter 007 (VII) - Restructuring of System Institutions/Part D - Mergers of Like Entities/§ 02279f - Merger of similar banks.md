@@ -44,7 +44,7 @@ Sections 2279a–2 and 2279a–3 of this title shall apply to banks merged under
 
 &emsp;Notwithstanding paragraph (2), the bylaws of the merged bank may, with the approval of the Farm Credit Administration, provide for a different number of directors to be selected in a different manner, except that the bylaws shall provide for at least one outside director.
 
-(Pub. L. 92–181, title VII, §7.12, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1652; amended Pub. L. 100–399, title IV, §408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
+(Pub. L. 92–181, title VII, §7.12, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1652;amended Pub. L. 100–399, title IV, §408(q), (r), Aug. 17, 1988, 102 Stat. 1002, 1003.)
 
 #### Amendments
 
@@ -55,8 +55,4 @@ Subsec. (c)(2)(B). Pub. L. 100–399, §408(r), substituted “directors” for 
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279c–2 of this title.
 

@@ -26,7 +26,3 @@ The definition of “security” in section 77b(a)(1) of this title does not inc
 
 Sections 206B and 206C of the Gramm-Leach-Bliley Act, referred to in text, are sections 206B and 206C of Pub. L. 106–102 which are set out in a note under section 78c of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 77q of this title.
-

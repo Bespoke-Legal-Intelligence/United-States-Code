@@ -30,11 +30,11 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 &emsp;In conducting investigations and hearings under this subsection—
 
-&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated,
+&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable accessto examine evidence of any person or entity being investigated,
 
 &emsp;&emsp;(B) administrative law judges, may, if necessary, compel by subpoena the attendance of witnesses and the production of evidence at any designated place or hearing, and
 
-&emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior tothe filing of a complaint in a case under paragraph (2).
+&emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior to the filing of a complaint in a case under paragraph (2).
 
 > &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
@@ -82,7 +82,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 (1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f) of this section) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
 
-(2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
+(2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfullyprepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
 
 #### (f) Falsely make
 
@@ -145,8 +145,4 @@ Section applicable to persons or entities that have committed violations on or a
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1182, 1227, 1330 of this title.
 

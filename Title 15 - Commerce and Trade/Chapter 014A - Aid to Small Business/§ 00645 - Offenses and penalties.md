@@ -86,9 +86,5 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 636, 637, 657a, 687 of this title; title 12 section 1833a.
-
 <i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with par. (1).</i>
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those rules relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(2) For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_\_\_\_\_\_, 19  , and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural <sup>1</sup> Environmental Policy Act of 1969.”; the blank space therein shall be filled with the date on which the President submits his decision to the House of Representatives and the Senate; or (B) a joint resolution described in subsection (g) of this section.
+(2) For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_\_\_\_\_\_, 19  , and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural <sup>1</sup> Environmental Policy Act of 1969.”; the blank space therein shall be filled with the date on which the President submits his decision tothe House of Representatives and the Senate; or (B) a joint resolution described in subsection (g) of this section.
 
 (3) A resolution once introduced with respect to a Presidential decision on an Alaska natural gas transportation system shall be referred to one or more committees (and all resolutions with respect to the same Presidential decision on an Alaska natural gas transportation system shall be referred to the same committee or committees) by the President of the Senate or the Speaker of the House of Representatives, as the case may be.
 
@@ -52,7 +52,7 @@ Within 20 days of the transmittal of the President's decision to the Congress un
 
 #### (g) Waiver; submittal to Congress
 
-(1) At any time after a decision designating a transportation system is submitted to the Congress pursuant to this section, if the President finds that any provision of law applicable to actions to be taken under subsection (a) or (c) of section 719g of this title require waiver in order to permit expeditious construction and initial operation of the approved transportation system, the President may submit such proposed waiver to both Houses of Congress.
+(1) At any time after a decision designating a transportation system is submitted to the Congress pursuant to this section, if the President finds that any provision of law applicable to actions to be taken under subsection (a) or (c) of section 719g of this title require waiver in order to permit expeditious construction and initialoperation of the approved transportation system, the President may submit such proposed waiver to both Houses of Congress.
 
 (2) Such provision shall be waived with respect to actions to be taken under subsection (a) or (c) of section 719g of this title upon enactment of a joint resolution pursuant to the procedures specified in subsections (c) and (d) of this section (other than subsection (d)(2) thereof) within the first period of 60 calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such proposal.
 
@@ -68,7 +68,7 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (d)(2) an
 
 #### Transfer of Functions
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
@@ -79,10 +79,6 @@ Pub. L. 97–93, Dec. 15, 1981, 95 Stat. 1204, provided: “That the House of Re
 #### Congressional Approval of Presidential Decision on Alaska Natural Gas Transportation System
 
 Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on September 22, 1977, and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural \[National\] Environmental Policy Act of 1969 \[section 4321 et seq. of Title 42, The Public Health and Welfare\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 719b, 719c, 719d, 719e, 719g, 719h of this title; title 16 sections 3166, 3233; title 43 section 2008.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “National”.</i>
 

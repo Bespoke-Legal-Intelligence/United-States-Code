@@ -24,13 +24,13 @@ In carrying out its purposes, the Foundation shall—
 
 &emsp;(1) promote and support joint research and development projects for peaceful purposes between scientists and engineers in the United States and independent states of the former Soviet Union on subjects of mutual interest; and
 
-&emsp;(2) seek to establish joint nondefense industrial research, development, and demonstration activities through private sector linkages which may involve participation by scientistsand engineers in the university or academic sectors, and which shall include some contribution from industrial participants.
+&emsp;(2) seek to establish joint nondefense industrial research, development, and demonstration activities through private sector linkages which may involve participation by scientists and engineers in the university or academic sectors, and which shall include some contribution from industrial participants.
 
 #### (d) Funding
 
 #### (1) Use of certain Department of Defense funds
 
-&emsp;(A) To the extent funds appropriated to carry out subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993 \[22 U.S.C. 5931\] (relating to joint research and development programs with the independent states of the former Soviet Union) are otherwise available for such purpose, such funds may be made available to the Director for use by the Director in establishing the endowment of the Foundation and otherwise carrying out this section.
+&emsp;(A) To the extent funds appropriated to carry out subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993 \[22 U.S.C. 5931\] (relating to joint research and development programs with theindependent states of the former Soviet Union) are otherwise available for such purpose, such funds may be made available to the Director for use by the Director in establishing the endowment of the Foundation and otherwise carrying out this section.
 
 &emsp;(B) For each fiscal year after fiscal year 1993, not more than 50 percent of the funds made available to the Foundation by the United States Government may be funds appropriated in the national defense budget function (function 050).
 
@@ -59,8 +59,4 @@ In carrying out its purposes, the Foundation shall—
 #### References in Text
 
 Subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (d)(1), is subtitle E of title XIV of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2566, which is classified generally to subchapter IV (§5931) of chapter 68 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5931 of this title.
 

@@ -46,7 +46,3 @@ Section 633(a)(2) of the Foreign Service Act of 1946, referred to in subsec. (e)
 
 In subsecs. (d) and (e), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4152 of this title.
-

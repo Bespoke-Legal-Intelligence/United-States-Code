@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—OTHER AUTOMOBILE FUEL PURCHASE MEASURES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8541 of this title.
-
 
 ---
 

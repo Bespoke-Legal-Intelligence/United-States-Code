@@ -2,7 +2,7 @@
 
 (a)
 
-Board of Directors.—(1) The board of directors is the governing body of the corporation. Between meetings of the corporation, the board is responsible for the general policies and program of the corporation. The board is responsible for the control of all funds of the corporation.
+Board of Directors.—(1) The board of directors is the governing body of the corporation. Between meetings of the corporation, the boardis responsible for the general policies and program of the corporation. The board is responsible for the control of all funds of the corporation.
 
 (2) The selection of directors and their term of office are as provided in the bylaws.
 

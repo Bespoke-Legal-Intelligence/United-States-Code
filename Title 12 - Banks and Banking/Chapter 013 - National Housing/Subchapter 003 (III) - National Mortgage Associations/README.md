@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—NATIONAL MORTGAGE ASSOCIATIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1422b, 1702, 1705, 4541, 4562, 4564, 4566, 4603, 4631, 4636 of this title; title 26 section 162.
-
 
 ---
 

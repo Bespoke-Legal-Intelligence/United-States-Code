@@ -1,9 +1,5 @@
 subpart 1—program development and enhancement
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6821, 6932, 6934, 6935 of this title.
-
 
 ---
 

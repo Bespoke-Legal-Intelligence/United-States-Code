@@ -22,15 +22,11 @@ Section 471 of this title, referred to in subsec. (a), was repealed by Pub. L. 9
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
 #### Land Conveyances Involving Joliet Army Ammunition Plant, Illinois
 
 Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended by Pub. L. 106–65, div. B, title XXVIII, §2842, Oct. 5, 1999, 113 Stat. 863, provided that title XXIX could be cited as the “Illinois Land Conservation Act of 1995” and provided for conversion of Joliet Army Ammunition Plant to Midewin National Tallgrass Prairie, Illinois, to be managed by the Secretary of Agriculture as part of National Forest System, and for conveyance of certain real property at the Arsenal for a national cemetery, a Will County, Illinois, landfill, and industrial parks to replace all or a part of lost economic activity, with provisions prohibiting construction of title XXIX to restrict or lessen degree of cleanup required to be carried out under environmental laws, and provisions authorizing retention of real property used for environmental cleanup by Secretary of the Army until transfer occurs.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460hhh, 5207, 6502 of this title; title 42 section 8401.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

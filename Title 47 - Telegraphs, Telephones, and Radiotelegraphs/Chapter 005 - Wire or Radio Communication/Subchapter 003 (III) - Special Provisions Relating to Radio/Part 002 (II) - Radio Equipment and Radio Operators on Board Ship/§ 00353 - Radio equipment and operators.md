@@ -42,5 +42,5 @@ Section effective May 20, 1937, unless deferred by the Commission, see section 1
 
 #### Approval of Operators by Secretary of Navy During War
 
-Act Dec. 17, 1941, ch. 588, 55 Stat. 808, as amended June 28, 1943, ch. 174, 57 Stat. 244; June 13, 1945, ch. 190, 59 Stat. 259; 1946 Reorg. Plan No. 3, §101, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, prohibiting employment of radio operators who were disapproved by the Secretary of the Navy during World War II, was repealed by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
+Act Dec. 17, 1941, ch. 588, 55 Stat. 808, as amended June 28, 1943, ch. 174, 57 Stat. 244; June 13, 1945, ch. 190,59 Stat. 259; 1946 Reorg. Plan No. 3, §101, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, prohibiting employment of radio operators who were disapproved by the Secretary of the Navy during World War II, was repealed by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
 

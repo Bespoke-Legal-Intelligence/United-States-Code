@@ -24,6 +24,10 @@ Another prior section 208 of Pub. L. 99–371 was classified to section 4358 of 
 
 Subsec. (b). Pub. L. 103–73, §204(g)(2), struck out “the provisions of” after “inconsistent with”.
 
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.

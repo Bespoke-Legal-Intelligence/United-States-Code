@@ -64,7 +64,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (2) Separate violations
 
-&emsp;Each day during which the person fails to obey an order described in paragraph (1) shall be considered as a separate violation of the order.
+&emsp;Each day during which the person fails to obey an order described in paragraph (1) shallbe considered as a separate violation of the order.
 
 #### (f) Failure to pay a penalty
 
@@ -81,8 +81,4 @@ A civil action brought under subsection (a) of this section shall be referred to
 The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
 (Pub. L. 106–387, §1(a) \[title XII, §1208\], Oct. 28, 2000, 114 Stat. 1549, 1549A–93.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7806, 7808 of this title.
 

@@ -54,7 +54,3 @@ The Universal Copyright Convention, referred to in subsec. (b)(5), is set out un
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2434, 2436 of this title; title 22 section 6901.
-

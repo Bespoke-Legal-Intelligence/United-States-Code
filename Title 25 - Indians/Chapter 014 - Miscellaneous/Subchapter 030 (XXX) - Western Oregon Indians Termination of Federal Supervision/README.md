@@ -1,9 +1,5 @@
 ### SUBCHAPTER XXX—WESTERN OREGON INDIANS: TERMINATION OF FEDERAL SUPERVISION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 711a, 712a, 713b, 714a, 715a of this title.
-
 
 ---
 

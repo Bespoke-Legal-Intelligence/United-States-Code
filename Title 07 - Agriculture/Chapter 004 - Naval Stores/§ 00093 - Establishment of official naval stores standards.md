@@ -8,7 +8,3 @@ The standards herein made and authorized to be made shall be known as the “Off
 
 (Mar. 3, 1923, ch. 217, §3, 42 Stat. 1435.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 98 of this title.
-

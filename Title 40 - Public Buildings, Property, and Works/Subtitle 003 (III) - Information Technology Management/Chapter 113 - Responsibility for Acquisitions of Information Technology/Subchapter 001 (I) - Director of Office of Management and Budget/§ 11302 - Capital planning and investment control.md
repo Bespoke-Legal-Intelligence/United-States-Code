@@ -6,7 +6,7 @@ Federal Information Technology.—The Director of the Office of Management and B
 
 (b)
 
-Use of Information Technology in Federal Programs.—The Director shall promote and improve the acquisition, use, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
+Use of Information Technology in Federal Programs.—The Director shall promote and improve the acquisition, use, security, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
 (c)
 
@@ -14,7 +14,7 @@ Use of Budget Process.—
 
 &emsp;(1)
 
-Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks associated with the investments.
+Analyzing, tracking, and evaluating capital investments.—As part of the budget process, the Director shall develop a process for analyzing, tracking, and evaluating the risks, including information security risks, and results of all major capital investments made by an executive agency for information systems. The process shall cover the life of each system and shall include explicit criteria for analyzing the projected and actual costs, benefits, and risks, including information security risks, associated with the investments.
 
 &emsp;(2)
 
@@ -52,7 +52,7 @@ Informing Congress.—The Director shall keep Congress fully informed on the ext
 
 Coordination of Policy Development and Review.—The Director shall coordinate with the Office of Federal Procurement Policy the development and review by the Administrator of the Office of Information and Regulatory Affairs of policy associated with federal acquisition of information technology.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1237; Pub. L. 108–458, title VIII, §8401(1), (2), Dec. 17, 2004, 118 Stat. 3869.)
 
 Historical and Revision Notes
 
@@ -69,6 +69,12 @@ Historical and Revision Notes
 40:1412.
 
 Pub. L. 104–106, div. E, title LI, §5112, Feb. 10, 1996, 110 Stat. 680.
+
+#### Amendments
+
+2004—Subsec. (b). Pub. L. 108–458, §8401(1), inserted “security,” after “use,”.
+
+Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
 
 #### Appropriate Use of Requirements Regarding Experience and Education of Contractor Personnel in the Procurement of Information Technology Services
 
@@ -103,8 +109,4 @@ Definitions.—In this section:
 &emsp;“(2) The term ‘information technology’ has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
 
 &emsp;“(3) The term ‘performance-based’, with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11103 of this title.
 

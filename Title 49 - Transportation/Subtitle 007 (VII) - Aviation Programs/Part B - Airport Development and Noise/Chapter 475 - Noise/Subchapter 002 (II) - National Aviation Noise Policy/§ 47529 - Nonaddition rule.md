@@ -44,7 +44,3 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–508, §9309, 104 Stat. 1388–384; Oct. 31, 1992, Pub. L. 102–581, §136(b), 106 Stat. 4889.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 47530, 47531, 47532 of this title.
-

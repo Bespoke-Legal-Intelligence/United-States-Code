@@ -38,7 +38,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–217, §3(c)(3)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+2002—Subsec. (a). Pub. L. 107–217, §3(c)(3)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949”and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 Subsec. (c)(2). Pub. L. 107–217, §3(c)(3)(B), substituted “sections 541–555 of title 40” for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)”.
 

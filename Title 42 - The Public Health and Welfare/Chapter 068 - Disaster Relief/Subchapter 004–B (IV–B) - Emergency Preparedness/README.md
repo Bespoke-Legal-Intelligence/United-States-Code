@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV–B—EMERGENCY PREPAREDNESS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 7 section 1427a; title 50 App. section 2152.
-
 
 ---
 

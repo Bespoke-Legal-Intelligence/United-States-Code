@@ -28,10 +28,6 @@
 
 2000—Pub. L. 106–181, title VII, §713(c), Apr. 5, 2000, 114 Stat. 161, added item 44516.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 106, 46316 of this title.
-
 
 ---
 

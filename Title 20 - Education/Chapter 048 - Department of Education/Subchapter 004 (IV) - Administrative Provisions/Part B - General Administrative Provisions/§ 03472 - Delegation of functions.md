@@ -4,7 +4,3 @@ Except as otherwise provided in this chapter, the Secretary may delegate any fun
 
 (Pub. L. 96–88, title IV, §412, Oct. 17, 1979, 93 Stat. 684.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3413, 3417, 9513 of this title.
-

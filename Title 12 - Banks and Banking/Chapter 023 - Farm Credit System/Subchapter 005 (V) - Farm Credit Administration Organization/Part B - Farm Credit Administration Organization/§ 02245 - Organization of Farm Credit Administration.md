@@ -2,7 +2,7 @@
 
 #### (a) Policies of Board
 
-The Chairman of the Farm Credit Administration Board, in carrying out the powers and duties vested in the Chairman by this chapter, and Acts supplementary thereto, shall be governedby policies of the Board and by such regulatory decisions, findings, and determinations as the Board may by law be authorized to make.
+The Chairman of the Farm Credit Administration Board, in carrying out the powers and duties vested in the Chairman by this chapter, and Acts supplementary thereto, shall be governed by policies of the Board and by such regulatory decisions, findings, and determinations as the Board may by law be authorized to make.
 
 #### (b) Appointments
 
@@ -40,7 +40,7 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title.
 
-(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
+(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23,1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
 
 #### References in Text
 
@@ -79,8 +79,4 @@ Section 702(b) of Pub. L. 100–399 provided that section 805(x) of Pub. L. 100�
 #### Interim Implementation of 1985 Amendment
 
 For provisions authorizing interim implementation by Governor of Farm Credit Administration of amendments to this section by Pub. L. 99–205, see section 402 of Pub. L. 99–205, set out as a note under section 2241 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2242 of this title.
 

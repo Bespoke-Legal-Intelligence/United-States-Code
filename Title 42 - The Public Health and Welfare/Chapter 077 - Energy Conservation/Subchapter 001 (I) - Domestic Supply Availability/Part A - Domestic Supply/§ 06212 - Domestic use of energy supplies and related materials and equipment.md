@@ -58,7 +58,3 @@ Subsec. (f) of this section, which required the President to submit quarterly re
 
 Amendment by Pub. L. 96–72 effective upon expiration of Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which Congress by concurrent resolution or President by proclamation designated, see section 2418 of the Appendix to Title 50, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6271, 6393 of this title; title 15 section 719j.
-

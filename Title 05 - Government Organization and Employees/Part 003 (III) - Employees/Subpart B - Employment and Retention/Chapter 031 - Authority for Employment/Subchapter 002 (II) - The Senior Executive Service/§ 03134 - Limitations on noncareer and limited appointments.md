@@ -32,7 +32,3 @@ The date of enactment of the Civil Service Reform Act of 1978, referred to in su
 
 Level IV or V of the Executive Schedule, referred to in subsec. (d)(2)(B), are set out in sections 5315 and 5316 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 3461; title 38 section 709.
-

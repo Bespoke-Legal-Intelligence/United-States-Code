@@ -26,7 +26,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 (4)
 
-Relationship to other laws.—Assistance made available under this subsection and sections 2151b–2, 2151b–3, and 2151b–4 of this title, and assistance made available under part IV of subchapter II of this chapter to carry out the purposes of this subsection and the provisions cited in this paragraph, may be made available notwithstanding any other provision of law thatrestricts assistance to foreign countries, except for the provisions of this subsection, the provisions of law cited in this paragraph, subsection (f) of this section, section 2394–1 of this title, and provisions of law that limit assistance to organizations that support or participate in a program of coercive abortion or involuntary sterilization included under the Child Survival and Health Programs Fund heading in the Consolidated Appropriations Resolution, 2003 (Public Law 108–7).
+Relationship to other laws.—Assistance made available under this subsection and sections 2151b–2, 2151b–3, and 2151b–4 of this title, and assistance made available under part IV of subchapter II of this chapter to carry out the purposes of this subsection and the provisions cited in this paragraph, may be made available notwithstanding any other provision of law that restricts assistance to foreign countries, except for the provisions of this subsection, the provisions of law cited in this paragraph, subsection (f) of this section, section 2394–1 of this title, and provisions of law that limit assistance to organizations that support or participate in a program of coercive abortion or involuntary sterilization included under the Child Survival and Health Programs Fund heading in the Consolidated Appropriations Resolution, 2003 (Public Law 108–7).
 
 #### (d) Administration of assistance
 
@@ -76,7 +76,7 @@ This chapter, referred to in subsec. (e)(1), was in the original “this Act”,
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to excludesuch parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 99–83, §303, in amending subsec. (g) generally, substitu
 
 1981—Subsec. (f)(3). Pub. L. 97–113, §302(b), added par. (3).
 
-Subsec. (g). Pub. L. 97–113, §302(a), substituted provision authorizing appropriations of $211,000,000 and $133,405,000 to carry out subsecs. (b) and (c) for fiscal years 1982 and 1983 for provision authorizing $238,000,000 and $145,300,000 to carry out such subsections for fiscal year 1981 and provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 and 1983 only for the United Nations Fund for Population Activities for provision making minimum of $3,000,000 available in fiscal year 1981 only to support the World Health Organization's Special Program of Research, Development and Research Training in Human Reproduction.
+Subsec. (g). Pub. L. 97–113, §302(a), substituted provision authorizing appropriations of $211,000,000 and $133,405,000 to carry out subsecs. (b) and (c) for fiscal years 1982 and 1983 for provision authorizing $238,000,000 and $145,300,000 to carry out such subsections for fiscal year 1981 and provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 and 1983 only for the United Nations Fund for Population Activities for provision making minimum of $3,000,000 available in fiscal year 1981 only to supportthe World Health Organization's Special Program of Research, Development and Research Training in Human Reproduction.
 
 1980—Subsec. (b). Pub. L. 96–533, §302(a), made provision for information and services relating to and supporting natural family planning methods.
 
@@ -189,8 +189,4 @@ Pub. L. 106–264, title II, §202, Aug. 19, 2000, 114 Stat. 758, provided that:
 #### Progress Report on Implementation of Immunization and Oral Rehydration Promotion Programs
 
 Section 305(b) of Pub. L. 99–83 provided that: “Each annual report required by section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\] shall describe the progress achieved during the preceding fiscal year in carrying out section 104(c)(3) of such Act \[22 U.S.C. 2151b(c)(3)\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1727c, 1727e, 2151a, 2151b–2, 2151b–3, 2151b–4, 2151d, 2151q, 2151u, 2293, 5453, 7631, 7632, 7633 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after July 26, 1990, the Attorney General, in consultation with the Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this chapter, and other Federal agencies, in understanding the responsibility of such entities and agencies under this chapter.
+&emsp;Not later than 180 days after July 26, 1990, the Attorney General, in consultation withthe Chair of the Equal Employment Opportunity Commission, the Secretary of Transportation, the Chair of the Architectural and Transportation Barriers Compliance Board, and the Chairman of the Federal Communications Commission, shall develop a plan to assist entities covered under this chapter, and other Federal agencies, in understanding the responsibility of such entities and agencies under this chapter.
 
 #### (2) Publication of plan
 
@@ -67,10 +67,6 @@ An employer, public accommodation, or other entity covered under this chapter sh
 #### References in Text
 
 Title IV, referred to in subsec. (c)(2)(D), (3), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted section 225 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and amended sections 152, 221, and 611 of Title 47.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 29 section 762.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

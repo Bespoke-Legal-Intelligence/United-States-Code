@@ -1,9 +1,5 @@
 Part C—American Indian Vocational Rehabilitation Services
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 721, 724, 725, 730, 2841 of this title.
-
 
 ---
 

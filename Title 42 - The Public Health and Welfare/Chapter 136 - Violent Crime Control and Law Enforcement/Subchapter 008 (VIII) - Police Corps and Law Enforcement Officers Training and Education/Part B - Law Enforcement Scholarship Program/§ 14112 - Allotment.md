@@ -8,7 +8,3 @@ From amounts appropriated under section 14119 of this title, the Director shall 
 
 (Pub. L. 103–322, title XX, §200203, Sept. 13, 1994, 108 Stat. 2058.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14113, 14116 of this title.
-

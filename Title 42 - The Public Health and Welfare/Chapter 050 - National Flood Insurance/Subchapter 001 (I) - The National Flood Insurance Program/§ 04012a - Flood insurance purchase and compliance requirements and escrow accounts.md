@@ -18,7 +18,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall implement procedures reasonably designed to ensure that, for any loan that is—
 
-&emsp;&emsp;(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Director as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
+&emsp;&emsp;(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during theterm of the loan, by the Director as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
 
 &emsp;&emsp;(B) purchased by such entity,
 
@@ -56,7 +56,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance underthe National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -184,7 +184,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;&emsp;(A) is made pursuant to the making, increasing, extending, or renewing of the loan that is initiated by the borrower;
 
-&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>2</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-riskzones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>2</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
+&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>2</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>2</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
 
 &emsp;&emsp;(C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2) of this section.
 
@@ -229,10 +229,6 @@ Amendment by section 582(c) of Pub. L. 103–325 applicable to disasters declare
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4104a, 4104d of this title; title 12 section 4521.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

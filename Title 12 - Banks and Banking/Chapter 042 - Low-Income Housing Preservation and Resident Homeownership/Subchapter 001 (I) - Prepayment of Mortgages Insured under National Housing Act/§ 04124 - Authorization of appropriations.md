@@ -22,7 +22,3 @@ General.—There are authorized to be appropriated for assistance and incentives
 
 Grants.—Of the amounts made available under subsection (a) of this section, not more than $100,000,000 for each of fiscal years 1991 and 1992 shall be available for grants under section 4111(d)(2) of this title, subject to approval in appropriations Acts.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4111, 4113, 4147 of this title.
-

@@ -1,6 +1,6 @@
 ### §8503. Compensation absent State agreement
 
-(a) In the case of a Federal employee whose Federal service and Federal wages are assigned under section 8504 of this title to a State which does not have an agreement with the Secretary of Labor, the Secretary, under regulations prescribed by him, shall, on the filing by the Federal employee of a claim for compensation under this subsection, pay compensation to him in the same amount, on the same terms, and subject to the same conditions as would be paid to him under the unemployment compensation law of the State if his Federal service and Federal wages had been included as employment and wages under that State law. However, if the Federal employee, without regard to his Federal service and Federal wages, has employment or wages sufficient to qualify for compensation during the benefit year under that State law, then payments of compensation under this subsection may be made only on the basis of his Federal service and Federal wages.
+(a) In the case of a Federal employee whose Federal service and Federal wages are assigned under section 8504 of this title to a State which does not have an agreement with the Secretary of Labor, the Secretary, under regulations prescribed by him, shall, on the filing by the Federal employee of a claim for compensation under this subsection, pay compensation to him in the same amount, on the same terms, and subject tothe same conditions as would be paid to him under the unemployment compensation law of the State if his Federal service and Federal wages had been included as employment and wages under that State law. However, if the Federal employee, without regard to his Federal service and Federal wages, has employment or wages sufficient to qualify for compensation during the benefit year under that State law, then payments of compensation under this subsection may be made only on the basis of his Federal service and Federal wages.
 
 (b) A Federal employee whose claim for compensation under subsection (a) of this section is denied is entitled to a fair hearing under regulations prescribed by the Secretary. A final determination by the Secretary with respect to entitlement to compensation under this section is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
 
@@ -61,8 +61,4 @@ Subsec. (d). Pub. L. 94–566, §116(e)(2)(A), struck out subsec. (d) which auth
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–566 applicable with respect to benefit years beginning on or after later of Oct. 1, 1976, or first day of first week for which compensation becomes payable under an unemployment compensation law of Virgin Islands which is approved by Secretary of Labor under section 3304(a) of Title 26, Internal Revenue Code, see section 116(f)(3) of Pub. L. 94–566, set out as a note under section 3304 of Title 26.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8507, 8523 of this title.
 

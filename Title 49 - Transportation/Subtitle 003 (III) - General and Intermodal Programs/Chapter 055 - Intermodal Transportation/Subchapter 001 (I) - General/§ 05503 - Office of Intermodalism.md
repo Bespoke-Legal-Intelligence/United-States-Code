@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.
+Establishment.—There is established in the Research and Innovative Technology Administration an Office of Intermodalism.
 
 (b)
 
@@ -28,7 +28,7 @@ Technical Assistance.—The Director shall provide technical assistance to State
 
 Administrative and Clerical Support.—The Director shall provide administrative and clerical support to the Intermodal Transportation Advisory Board.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,8 @@ Dec. 18, 1991, Pub. L. 102–240, §5002(c), 105 Stat. 2158.
 Section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d)(1), is section 6009(b) of Pub. L. 102–240, which is set out as a note under section 508 of Title 23, Highways.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.”
 
 1998—Subsecs. (d) to (g). Pub. L. 105–178 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows:
 

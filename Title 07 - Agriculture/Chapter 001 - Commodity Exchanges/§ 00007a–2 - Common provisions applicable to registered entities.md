@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;A contract market or derivatives transaction execution facility may comply withany applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.
+&emsp;A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.
 
 #### (2) Responsibility
 
@@ -79,10 +79,6 @@ Consistent with this chapter, each designated contract market and registered der
 #### Amendments
 
 2000—Subsec. (f). Pub. L. 106–554, §1(a)(5) \[title II, §251(h)\], added subsec. (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7b–1, 13a, 25 of this title; title 15 section 78s.
 
 <i><sup>1</sup></i><i> So in original. Reference to section 7a–1(d)(2) probably should be a reference to section 7a–1(c)(2).</i>
 

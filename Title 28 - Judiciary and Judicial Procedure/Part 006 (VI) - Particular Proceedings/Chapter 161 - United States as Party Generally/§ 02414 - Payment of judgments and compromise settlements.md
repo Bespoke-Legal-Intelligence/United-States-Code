@@ -1,6 +1,6 @@
 ### §2414. Payment of judgments and compromise settlements
 
-Except as provided by the Contract Disputes Act of 1978, payment of final judgments rendered by a district court or the Court of International Trade against the United States shall be made on settlements by the Secretary of the Treasury. Payment of final judgments rendered by a State or foreign court or tribunal against the United States, or against its agencies or officials upon obligations or liabilities of the United States, shall be made on settlements by the Secretary of the Treasury after certification by the Attorney General that it is in the interest of the United States to pay the same.
+Except as provided by the Contract Disputes Act of 1978, payment of final judgments rendered by a district court or the Court of International Trade against the United States shall be made on settlements by the Secretary of the Treasury. Payment of final judgments rendered by a State or foreign court or tribunal against the United States, or against its agencies or officials upon obligations or liabilities of the United States, shall be made on settlements by the Secretary of the Treasury after certification by theAttorney General that it is in the interest of the United States to pay the same.
 
 Whenever the Attorney General determines that no appeal shall be taken from a judgment or that no further review will be sought from a decision affirming the same, he shall so certify and the judgment shall be deemed final.
 
@@ -39,8 +39,4 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2412 of this title; title 7 section 136m; title 16 sections 79g, 460bb–2; title 25 section 1778c; title 31 section 1304.
 

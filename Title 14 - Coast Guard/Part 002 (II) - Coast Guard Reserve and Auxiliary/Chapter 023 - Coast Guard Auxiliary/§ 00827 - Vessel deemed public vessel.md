@@ -14,7 +14,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1996—Pub. L. 104–324 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Any motorboat or yacht, while assigned to authorized Coast Guard duty shall be deemed to be a public vessel of the United States, and within the meaning of section 646 of this title shall be deemed to be a vessel of the Coast Guard.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 46 section 2110.
-

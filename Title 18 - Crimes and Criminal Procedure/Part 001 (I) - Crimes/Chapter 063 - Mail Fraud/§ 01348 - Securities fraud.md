@@ -10,7 +10,3 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 (Added Pub. L. 107–204, title VIII, §807(a), July 30, 2002, 116 Stat. 804.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1514A of this title.
-

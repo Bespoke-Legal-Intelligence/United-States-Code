@@ -40,7 +40,7 @@ Except as provided in this section, a risk retention group shall be exempt from 
 
 &emsp;&emsp;&emsp;(ii) the commissioner of the jurisdiction in which the group is chartered has not begun or has refused to initiate an examination of the group.
 
-&emsp;&emsp;(H) Comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (G).
+&emsp;&emsp;(H) Comply with a lawful order issued in a delinquency proceeding commenced by theState insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (G).
 
 #### (c) Application of exemptions
 

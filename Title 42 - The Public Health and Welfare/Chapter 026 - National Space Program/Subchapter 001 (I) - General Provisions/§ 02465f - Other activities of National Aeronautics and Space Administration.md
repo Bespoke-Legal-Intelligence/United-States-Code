@@ -16,7 +16,3 @@ Section was enacted as part of the National Aeronautics and Space Administration
 
 1998—Pub. L. 105–303 struck out subsec. (a) designation and heading and struck out heading and text of subsec. (b) which related to report of the Administrator.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2465c of this title.
-

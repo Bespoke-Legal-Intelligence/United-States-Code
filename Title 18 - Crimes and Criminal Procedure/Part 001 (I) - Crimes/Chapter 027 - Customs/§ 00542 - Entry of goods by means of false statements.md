@@ -46,7 +46,3 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act June 30, 1955, set out as a note under section 1401 of Title 19, Customs Duties.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 1956 of this title; title 31 section 9703.
-

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Each State motor vehicle driver's license application (including any renewal application) submitted to the appropriate State motor vehicle authority under State law shall serve as an application for voter registration with respect to elections for Federal office unless the applicant fails to sign the voter registration application.
+(1) Each State motor vehicle driver's license application (including any renewal application)submitted to the appropriate State motor vehicle authority under State law shall serve as an application for voter registration with respect to elections for Federal office unless the applicant fails to sign the voter registration application.
 
 (2) An application for voter registration submitted under paragraph (1) shall be considered as updating any previous voter registration by the applicant.
 
@@ -44,7 +44,7 @@ No information relating to the failure of an applicant for a State motor vehicle
 
 #### (d) Change of address
 
-Any change of address form submitted in accordance with State law for purposes of a State motor vehicle driver's license shall serve as notification of change of address for voter registration with respect to elections for Federal officefor the registrant involved unless the registrant states on the form that the change of address is not for voter registration purposes.
+Any change of address form submitted in accordance with State law for purposes of a State motor vehicle driver's license shall serve as notification of change of address for voter registration with respect to elections for Federal office for the registrant involved unless the registrant states on the form that the change of address is not for voter registration purposes.
 
 #### (e) Transmittal deadline
 
@@ -53,8 +53,4 @@ Any change of address form submitted in accordance with State law for purposes o
 (2) If a registration application is accepted within 5 days before the last day for registration to vote in an election, the application shall be transmitted to the appropriate State election official not later than 5 days after the date of acceptance.
 
 (Pub. L. 103–31, §5, May 20, 1993, 107 Stat. 78.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1973gg–2, 1973gg–6 of this title.
 

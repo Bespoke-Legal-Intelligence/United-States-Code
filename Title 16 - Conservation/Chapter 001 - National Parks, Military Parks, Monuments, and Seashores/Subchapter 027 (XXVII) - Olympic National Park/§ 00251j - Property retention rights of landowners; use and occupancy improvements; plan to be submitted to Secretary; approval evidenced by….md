@@ -4,9 +4,5 @@ Notwithstanding the provisions of section 251i of this title, any noncorporate o
 
 (Pub. L. 94–578, title III, §320(g), Oct. 21, 1976, 90 Stat. 2741.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 251f, 251g, 251h, 251i, 251<i>l</i>, 251m of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

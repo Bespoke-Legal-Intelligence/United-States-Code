@@ -2,7 +2,7 @@
 
 #### (a) Congressional finding of importance of participation by private and voluntary organizations
 
-The Congress finds that the participation of rural and urban poor people in their countries’ development can be assisted and accelerated in an effective manner through an increase in activities planned and carried out by private and voluntary organizations and cooperatives. Such organizations and cooperatives, embodying the American spirit of self-help and assistance to others to improve their lives and incomes, constitute an important means of mobilizing private American financial and human resources to benefit poor people in developing countries. The Congress declares that it is in the interest of the United States that such organizations and cooperatives expand their overseas development efforts without compromising their private and independent nature. The Congress further declares that the financial resources of such organizations and cooperatives should be supplemented by the contribution of public funds for the purpose of undertaking development activities in accordance with the principles set forthin section 2151–1 of this title and, if necessary and determined on a case-by-case basis, for the purpose of sharing the cost of developing programs related to such activities. The Congress urges the Administrator of the agency primarily responsible for administering subchapter I of this chapter, in implementing programs authorized under subchapter I of this chapter, to draw on the resource of private and voluntary organizations and cooperatives to plan and carry out development activities and to establish simplified procedures for the development and approval of programs to be carried out by such private and voluntary organizations and cooperatives as have demonstrated a capacity to undertake effective development activities.
+The Congress finds that the participation of rural and urban poor people in their countries’development can be assisted and accelerated in an effective manner through an increase in activities planned and carried out by private and voluntary organizations and cooperatives. Such organizations and cooperatives, embodying the American spirit of self-help and assistance to others to improve their lives and incomes, constitute an important means of mobilizing private American financial and human resources to benefit poor people in developing countries. The Congress declares that it is in the interest of the United States that such organizations and cooperatives expand their overseas development efforts without compromising their private and independent nature. The Congress further declares that the financial resources of such organizations and cooperatives should be supplemented by the contribution of public funds for the purpose of undertaking development activities in accordance with the principles set forth in section 2151–1 of this title and, if necessary and determined on a case-by-case basis, for the purpose of sharing the cost of developing programs related to such activities. The Congress urges the Administrator of the agency primarily responsible for administering subchapter I of this chapter, in implementing programs authorized under subchapter I of this chapter, to draw on the resource of private and voluntary organizations and cooperatives to plan and carry out development activities and to establish simplified procedures for the development and approval of programs to be carried out by such private and voluntary organizations and cooperatives as have demonstrated a capacity to undertake effective development activities.
 
 #### (b) Payment of transportation charges on shipments by American National Red Cross and United States voluntary agencies
 
@@ -30,7 +30,7 @@ For each of the fiscal years 1986 through 1989, funds in an amount not less than
 
 The Congress recognizes that, in addition to their role in social and economic development, cooperatives provide an opportunity for people to participate directly in democratic decisionmaking. Therefore, assistance under this part shall be provided to rural and urban cooperatives which offer large numbers of low- and middle-income people in developing countries an opportunity to participate directly in democratic decisionmaking. Such assistance shall be designed to encourage the adoption of self-help, private sector cooperative techniques and practices which have been successful in the United States.
 
-(Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941; amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III, §§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.)
+(Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941;amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III, §§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.)
 
 #### References in Text
 
@@ -86,9 +86,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Private and Volunteer Organizations
 
-Pub. L. 108–7, div. E, title V, §502(a), Feb. 20, 2003, 117 Stat. 180, provided that: “None of the funds appropriated or otherwise made available by this Act \[div. E of Pub. L. 108–7, see Tables for classification\] for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the United States Agency for International Development, after informing the Committees on Appropriations, may, on a case-by-case basis, waive the restriction contained in this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency.”
+Pub. L. 108–199, div. D, title V, §502, Jan. 23, 2004, 118 Stat. 166, provided that: “None of the funds appropriated or otherwise made available by this Act \[div. D of Pub. L. 108–199, see Tables for classification\] for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the United States Agency for International Development, after informing the Committees on Appropriations, may, on a case-by-case basis, waive the restriction contained in this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. E, title V, §502(a), Feb. 20, 2003, 117 Stat. 180.
 
 Pub. L. 107–115, title V, §502(a), Jan. 10, 2002, 115 Stat. 2139.
 
@@ -123,6 +125,16 @@ Pub. L. 99–500, §101(f) \[title II\], Oct. 18, 1986, 100 Stat. 1783–213, 17
 Pub. L. 99–190, §101(i) \[title II\], Dec. 19, 1985, 99 Stat. 1291, 1296.
 
 Pub. L. 98–473, title I, §101(1) \[title II\], Oct. 12, 1984, 98 Stat. 1884, 1889; repealed by Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.
+
+#### Shipment of Humanitarian Assistance
+
+Pub. L. 108–199, div. D, title V, §534(f), Jan. 23, 2004, 118 Stat. 182, provided that: “During fiscal year 2004 and each fiscal year thereafter, of the amounts made available by the United States Agency for International Development to carry out the provisions of section 123(b) of the Foreign Assistance Act of 1961 \[this section\], funds may be made available to nongovernmental organizations for administrative costs necessary to implement a program to obtain available donated space on commercial ships for the shipment of humanitarian assistance overseas.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. E, title V, §534(g), Feb. 20, 2003, 117 Stat. 194.
+
+Pub. L. 107–206, title I, §602, Aug. 2, 2002, 116 Stat. 859.
 
 #### Study and Report Concerning Use of Private and Voluntary Organizations, Cooperatives, and Private Sector
 

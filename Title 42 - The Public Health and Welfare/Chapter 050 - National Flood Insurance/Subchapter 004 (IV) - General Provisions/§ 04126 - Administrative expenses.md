@@ -8,7 +8,3 @@ Any administrative expenses which may be sustained by the Federal Government in 
 
 1990—Pub. L. 101–508 substituted “and floodplain management programs authorized under this chapter may be paid with amounts from the National Flood Insurance Fund (as provided under section 4017(a)(4) of this title), subject to approval in appropriations Acts” for “program authorized under this chapter may be paid out of appropriated funds”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4127 of this title.
-

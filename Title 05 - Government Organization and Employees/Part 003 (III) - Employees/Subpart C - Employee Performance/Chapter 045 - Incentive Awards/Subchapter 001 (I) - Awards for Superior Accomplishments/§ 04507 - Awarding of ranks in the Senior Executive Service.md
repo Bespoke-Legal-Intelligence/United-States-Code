@@ -22,7 +22,7 @@
 
 (2) Receipt by a career appointee of the rank of Distinguished Executive entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under section 5382 of this title or any award paid under section 5384 of this title.
 
-(Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, §101(h) \[title VI, §631(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+(Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div.A, §101(h) \[title VI, §631(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 #### Amendments
 
@@ -37,8 +37,4 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §631(c)\], Oct. 21, 1998, 112 S
 #### Effective Date
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3151, 4507a, 5384 of this title; title 10 section 1606; title 22 section 3965; title 31 section 733; title 38 sections 7404, 7425.
 

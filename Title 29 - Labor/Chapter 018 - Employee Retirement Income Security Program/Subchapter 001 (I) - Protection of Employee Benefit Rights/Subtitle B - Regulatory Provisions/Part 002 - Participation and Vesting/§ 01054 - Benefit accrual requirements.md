@@ -64,7 +64,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3) of this se
 
 > The preceding provisions of this clause shall apply in accordance with regulations of the Secretary of the Treasury. Such regulations may provide for the application of the preceding provisions of this clause, in the case of any such employee, with respect to any period of time within a plan year.
 
-(iv) Clause (i) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
+(iv) Clause (i) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of section 414(q) of title 26) to the extent provided in regulationsprescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
 (v) A plan shall not be treated as failing to meet the requirements of clause (i) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals.
 
@@ -114,7 +114,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;(iii) interest on the sum of the amounts determined under clauses (i) and (ii) compounded annually—
 
-&emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) of this section applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
+&emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year for the period beginning with the 1st planyear to which subsection (a)(2) of this section applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
 &emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
@@ -138,7 +138,7 @@ Notwithstanding section 1053(b)(1) of this title, for purposes of determining th
 
 #### (e) Opportunity to repay full amount of distributions which have been reduced through disregarded employee service
 
-For purposes of determining the employee's accrued benefit, the plan shall not disregard service as provided in subsection (d) of this section unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) of this section with, in the case of a defined benefitplan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section and provides that upon such repayment the employee's accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
+For purposes of determining the employee's accrued benefit, the plan shall not disregard service as provided in subsection (d) of this section unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) of this section with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section and provides that upon such repayment the employee's accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
 
 &emsp;(1) received such a distribution in any plan year to which this section applies which distribution was less than the present value of his accrued benefit,
 
@@ -162,7 +162,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) eliminating an optional form of benefit,
 
-> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
+> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminatesbenefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
 
 (3) For purposes of this subsection, any—
 
@@ -272,7 +272,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22,1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52.)
 
 #### Amendment of Section
 
@@ -300,7 +300,7 @@ Subsec. (h). Pub. L. 107–16, §§659(b), 901, temporarily amended subsec. (h) 
 
 &emsp;“(C) each employee organization representing participants in the plan,
 
-> except that such notice shall instead be provided to a person designated, in writing, to receive such notice on behalf of any person referred to in subparagraph (A), (B), or (C).
+> except that such notice shall instead be provided to a person designated, in writing, to receive such notice onbehalf of any person referred to in subparagraph (A), (B), or (C).
 
 “(2) A plan is described in this paragraph if such plan is—
 
@@ -348,7 +348,7 @@ Subsec. (h). Pub. L. 101–239, §7862(b)(1)(A), made technical correction to di
 
 Subsec. (h)(2). Pub. L. 101–239, §7862(b)(2), adjusted left-hand margin of introductory provisions to full measure.
 
-1987—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted “120 percent of the Federal mid-term rate\(as in effect under section 1274 of title 26 for the 1st month of a plan year)” for “5 percent per annum”.
+1987—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted “120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year)” for “5 percent per annum”.
 
 Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time” in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
 
@@ -382,7 +382,7 @@ Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as pa
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to whichsuch amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -458,7 +458,7 @@ Amendment by section 301(a)(2) of Pub. L. 98–397 not applicable to the termina
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each toissue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
@@ -477,8 +477,4 @@ Section 7881(m)(3) of Pub. L. 101–239 provided that:“If—
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 For provisions directing that if any amendments made by Pub. L. 99–509 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1002, 1053, 1056, 1057, 1060, 1061, 1322, 1425, 1426, 1441 of this title.
 

@@ -40,15 +40,11 @@ Except as provided in section 1228 of this title, the Secretary may, subject to 
 
 1990—Subsec. (b)(1). Pub. L. 101–380, §4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
 
-Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not morethan $100,000, or imprisoned for not more than ten years, or both.”
+Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
 
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1911 of this title; title 14 section 91.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “willful”.</i>
 

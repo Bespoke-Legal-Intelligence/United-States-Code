@@ -34,7 +34,7 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (3) Vacancy
 
-&emsp;A vacancy in the position of Director which occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established in paragraph (1) and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
+&emsp;A vacancy in the position of Director which occurs before the expiration of the term forwhich a Director was appointed shall be filled in the manner established in paragraph (1) and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
 
 #### (4) Service after end of term
 
@@ -141,8 +141,4 @@ By the authority vested in me as President of the United States by the Constitut
 This memorandum shall be published in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1 of this title; title 31 section 309.
 

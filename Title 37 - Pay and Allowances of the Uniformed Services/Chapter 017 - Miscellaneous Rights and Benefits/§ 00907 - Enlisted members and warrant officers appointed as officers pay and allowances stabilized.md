@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) subject to subsection (e), allowances under chapter 7 of this title; and
 
-&emsp;(2) the rates of pay and allowances of a grade which an officer formerly held are those towhich the officer would have been entitled had he remained in that grade and continued to receive the increases in pay and allowances authorized for that grade, as otherwise provided in this title.
+&emsp;(2) the rates of pay and allowances of a grade which an officer formerly held are those to which the officer would have been entitled had he remained in that grade and continued to receive the increases in pay and allowances authorized for that grade, as otherwise provided in this title.
 
 (d) In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under section 301 of this title, special pay for diving duty under section 304 of this title, for hardship duty under section 305 of this title, and for sea duty under section 305a of this title, and proficiency pay under section 307 of this title may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.
 
@@ -38,7 +38,7 @@
 
 1991—Subsec. (c)(1). Pub. L. 102–25 struck out “of this section” after “subsection (d)” in subpar. (A) and after “subsection (e)” in subpar. (B).
 
-1980—Pub. L. 96–343 substituted “and warrant officers appointed as officers:” for “appointed as officers;” in section catchline, and, in generally revising section, struck out provision for temporary appointment of enlisted members as officers, provided for pay and allowances for warrant officers who accept appointment as commissioned officers, and specified what pay and allowances include and what rates and allowances of a grade which an officer formerly held are for purposes of this section.
+1980—Pub. L. 96–343 substituted “and warrant officers appointed as officers:” for “appointed as officers;” insection catchline, and, in generally revising section, struck out provision for temporary appointment of enlisted members as officers, provided for pay and allowances for warrant officers who accept appointment as commissioned officers, and specified what pay and allowances include and what rates and allowances of a grade which an officer formerly held are for purposes of this section.
 
 #### Effective Date of 1980 Amendment
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—NUCLEAR REGULATORY COMMISSION; NUCLEAR WHISTLEBLOWER PROTECTION
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5876, 10134, 10243 of this title.
-
 
 ---
 

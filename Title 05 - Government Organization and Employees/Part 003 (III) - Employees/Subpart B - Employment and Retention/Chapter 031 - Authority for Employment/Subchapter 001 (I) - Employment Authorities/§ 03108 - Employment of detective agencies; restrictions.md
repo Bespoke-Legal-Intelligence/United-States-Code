@@ -1,6 +1,6 @@
 ### §3108. Employment of detective agencies; restrictions
 
-An individual employed by the Pinkerton Detective Agency, or similar organization, maynot be employed by the Government of the United States or the government of the District of Columbia.
+An individual employed by the Pinkerton Detective Agency, or similar organization, may not be employed by the Government of the United States or the government of the District of Columbia.
 
 (Pub. L. 89– 554, Sept. 6, 1966, 80 Stat. 416.)
 

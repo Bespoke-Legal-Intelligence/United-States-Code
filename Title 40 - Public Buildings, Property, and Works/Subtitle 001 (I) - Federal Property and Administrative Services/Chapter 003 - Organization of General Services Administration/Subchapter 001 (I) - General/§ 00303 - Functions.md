@@ -18,7 +18,7 @@ Transfer of functions.—Subject to paragraph (2), the functions of the Administ
 
 &emsp;(2)
 
-Functions not transferred.—The functions of the Administrator of General Services do not include functions retained in the Department of the Treasury under section 102(c) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380).
+Functions not transferred.—The functions of the Administrator of General Servicesdo not include functions retained in the Department of the Treasury under section 102(c) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380).
 
 (b)
 

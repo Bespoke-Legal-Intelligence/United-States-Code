@@ -138,7 +138,3 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under section 9858 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9858j of this title.
-

@@ -1,9 +1,5 @@
 Part D—Prevention and Intervention Programs for Children and Youth Who Are Neglected, Delinquent, or At-Risk
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 5891b, 6302, 6303, 6304, 6362, 6381a, 6603, 7801 of this title.
-
 
 ---
 

@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to accep
 
 #### (f) Zoning laws and ordinances; consultation and assistance with local government or intergovernmental organization in establishment; objectives; technical aid
 
-The Secretary may, on his own initiative, or at the request of any local government (or intergovernmental organization) having jurisdiction over land located within or adjacent to the park, assist and consult with the appropriate officers and employees of such local government (or intergovernmental organization) in establishing zoning laws or ordinances which will assist in achieving the purposes of this subchapter. In providing assistance pursuant to this subsection, the Secretary shall endeavor to obtain provisions in such zoning laws or ordinances which—
+The Secretary may, on his own initiative, or at the request of any local government (or intergovernmental organization) having jurisdiction over land located within or adjacent to the park, assist and consult with the appropriate officers and employees of such local government (or intergovernmental organization) in establishing zoning laws or ordinances which will assist inachieving the purposes of this subchapter. In providing assistance pursuant to this subsection, the Secretary shall endeavor to obtain provisions in such zoning laws or ordinances which—
 
 &emsp;(1) have the effect of prohibiting the commercial and industrial use (other than a use for commercial farms and orchards) of all real property adjacent to the park;
 
@@ -47,8 +47,4 @@ The Secretary may, on his own initiative, or at the request of any local governm
 #### Appropriations for Roads
 
 Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 996, as amended by Pub. L. 106–291, title I, §149(b), Oct. 11, 2000, 114 Stat. 956, provided in part that: “appropriations for maintenance and improvement of roads within the boundary of the Cuyahoga Valley National Park shall be available for such purposes without regard to whether title to such road rights-of-way is in the United States”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 460ff–5 of this title.
 

@@ -18,7 +18,3 @@ Subsec. (c). Pub. L. 102–378, §2(44)(E)(ii), substituted “5544(a) or 5546(a
 
 1991—Subsec. (a). Pub. L. 102–40 substituted “section 7453(e)” for “section 4107(e)(5)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6121, 6130 of this title.
-

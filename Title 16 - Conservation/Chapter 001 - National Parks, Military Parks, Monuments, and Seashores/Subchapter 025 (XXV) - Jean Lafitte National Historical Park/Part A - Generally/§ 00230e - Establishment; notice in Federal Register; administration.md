@@ -8,9 +8,5 @@ The Secretary shall establish the park by publication of a notice to that effect
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 230c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

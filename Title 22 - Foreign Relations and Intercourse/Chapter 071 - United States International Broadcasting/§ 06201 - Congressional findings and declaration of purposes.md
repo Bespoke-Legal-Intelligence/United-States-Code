@@ -18,15 +18,11 @@ The Congress makes the following findings and declarations:
 
 This chapter, referred to in par. (3), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
 
-#### Short Title
+#### Short Title of 2002 Amendment
 
 Pub. L. 107–148, §1, Mar. 11, 2002, 116 Stat. 64, provided that: “This Act \[enacting section 6215 of this title\] may be cited as the ‘Radio Free Afghanistan Act’.”
 
 #### Short Title
 
 Section 301 of title III of Pub. L. 103–236 provided that: “This title \[enacting this chapter, amending sections 1465b, 1465c, and 2873 of this title and section 5315 of Title 5, Government Organization and Employees, and repealing sections 1463, 2871 to 2877, and 2878 to 2883 of this title and provisions set out as a note under section 2871 of this title\] may be cited as the ‘United States International Broadcasting Act of 1994’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6211 of this title.
 

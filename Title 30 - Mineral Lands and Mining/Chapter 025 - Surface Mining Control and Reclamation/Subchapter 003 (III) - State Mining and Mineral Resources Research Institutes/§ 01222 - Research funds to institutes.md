@@ -30,7 +30,7 @@ No funds made available under this section shall be applied to the acquisition b
 
 #### Codification
 
-Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and notas part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
 #### Prior Provisions
 
@@ -41,8 +41,4 @@ A prior section 1222, Pub. L. 95–87, title III, §302, Aug. 3, 1977, 91 Stat. 
 1996—Subsec. (a). Pub. L. 104–312 inserted at end “There is authorized to be appropriated to the Secretary not more than $1,800,000 for each of the fiscal years after fiscal year 1996 to be made available by the Secretary to an institute or institutes experienced in investigating the continental shelf regions of the United States, the deep seabed and near shore environments of islands, and the Arctic and cold water regions as a source for nonfuel minerals. Such funds are to be used by the institute or institutes to assist in developing domestic technological capabilities required for the location of, and the efficient and environmentally sound recovery of, minerals (other than oil and gas) from the Nation's shallow and deep seabed.”
 
 1988—Subsec. (a). Pub. L. 100–483, in introductory provisions, substituted “not more than $15,000,000 for each of the fiscal years ending September 30, 1990, through September 30, 1994” for “$10,000,000 for the fiscal year ending September 30, 1985. This amount shall be increased by $1,000,000 for each fiscal year thereafter for four additional years” and “an institute or to institutes participating in a generic mineral technology center” for “institutes”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1223, 1226 of this title.
 

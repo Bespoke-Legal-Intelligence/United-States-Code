@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—PAYMENTS TO STATES FOR ELECTION ADMINISTRATION IMPROVEMENTS AND REPLACEMENT OF PUNCH CARD AND LEVER VOTING MACHINES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 15404, 15545 of this title.
-
 
 ---
 

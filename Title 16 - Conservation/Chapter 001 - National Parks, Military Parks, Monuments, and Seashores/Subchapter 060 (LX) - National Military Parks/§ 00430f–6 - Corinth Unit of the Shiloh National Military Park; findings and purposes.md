@@ -62,7 +62,3 @@ The purposes of sections 430f–6 to 430f–12 of this title are—
 
 Pub. L. 106–271, §1, Sept. 22, 2000, 114 Stat. 792, provided that: “This Act \[enacting this section and sections 430f–7 to 430f–12 of this title\] may be cited as the ‘Corinth Battlefield Preservation Act of 2000’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 430f–7, 430f–10, 430f–11, 430f–12 of this title.
-

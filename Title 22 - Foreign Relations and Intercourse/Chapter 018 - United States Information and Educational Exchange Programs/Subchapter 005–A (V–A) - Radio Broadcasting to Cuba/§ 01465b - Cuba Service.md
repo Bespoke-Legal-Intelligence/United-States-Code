@@ -26,9 +26,5 @@ Pub. L. 105–277, §1324(3), which directed the substitution of “the Broadcas
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1465f of this title.
-
 <i><sup>1</sup></i><i> So in original. There is no Board of the International Broadcasting Bureau.</i>
 

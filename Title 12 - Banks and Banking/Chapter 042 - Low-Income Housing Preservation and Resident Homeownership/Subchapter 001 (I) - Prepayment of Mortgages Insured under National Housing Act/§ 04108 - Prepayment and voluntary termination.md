@@ -38,7 +38,3 @@ If the Secretary determines a plan of action to prepay a mortgage or terminate a
 
 1992—Subsecs. (b), (c). Pub. L. 102–550 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4106, 4107 of this title.
-

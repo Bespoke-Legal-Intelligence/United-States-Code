@@ -2,7 +2,7 @@
 
 #### (a) General authorization
 
-The Secretary shall carry out a program, in accordance with this part, to improve the academic quality, institutional management, and fiscal stability of eligible institutions, in order to increase their self-sufficiency and strengthen their capacity to make a substantial contribution to the higher education resources of the Nation.
+The Secretary shall carry out a program, in accordance with this part, to improve the academic quality, institutional management, andfiscal stability of eligible institutions, in order to increase their self-sufficiency and strengthen their capacity to make a substantial contribution to the higher education resources of the Nation.
 
 #### (b) Grants awarded; special consideration
 
@@ -82,7 +82,7 @@ Section 1068 of this title, referred to in subsec. (b)(1), was in the original a
 
 #### Prior Provisions
 
-A prior section 1057, Pub. L. 89–329, title III, §311, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1391, enumerated purposes and established grant authority for program to strengthen eligible institutions, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1057, Pub. L. 89–329, title III, §311, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1391, enumerated purposes and established grant authority for program to strengthen eligible institutions, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 #### Amendments
 
@@ -99,10 +99,6 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1068, 1068b, 1068c of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

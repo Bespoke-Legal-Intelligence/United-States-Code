@@ -16,7 +16,3 @@ References to “the Field Surveying Service” changed to “such agency as the
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 760, 762, 763 of this title.
-

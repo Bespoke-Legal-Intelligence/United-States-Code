@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PROTECTION OF PROPERTY RIGHTS OF UNITED STATES NATIONALS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6023, 6091 of this title.
-
 <i><sup>1</sup></i><i> So in original. No subsec. (b) or (c) has been enacted.</i>
 
 

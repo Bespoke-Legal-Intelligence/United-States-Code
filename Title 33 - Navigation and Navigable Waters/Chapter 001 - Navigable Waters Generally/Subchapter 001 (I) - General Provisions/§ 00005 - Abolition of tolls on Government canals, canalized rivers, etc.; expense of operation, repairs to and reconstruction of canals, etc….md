@@ -16,7 +16,7 @@
 
 &emsp;(3) property taxes on vessels or watercraft, other than vessels or watercraft that are primarily engaged in foreign commerce if those taxes are permissible under the United States Constitution.
 
-(July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, §829(a), Dec. 12, 2003, 117 Stat. 2597.)
+(July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, titleII, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, §829(a), Dec. 12, 2003, 117 Stat. 2597.)
 
 #### Codification
 

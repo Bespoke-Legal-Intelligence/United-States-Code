@@ -1,6 +1,6 @@
 ### §1562. Special provisions relating to pension
 
-(a) The Secretary shall pay monthly to each person whose name has been entered on theArmy, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under section 1560 of this title.
+(a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under section 1560 of this title.
 
 (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -8,7 +8,7 @@
 
 (d) If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
 
-(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
+(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthlyspecial pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
 
 (f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
 
@@ -136,7 +136,7 @@ Prior sections 1695 to 1698 were repealed, effective Oct. 1, 1980, by Pub. L. 96
 
 Section 1695, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80, set forth purpose of former subchapter VI relating to a predischarge education program and defined “eligible person” for purposes of subchapter VI of chapter 34.
 
-Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, §102(5), title III, §307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, §102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §203(c), Jan. 2, 1975, 88 Stat. 1958;Pub. L. 94–502, title II, §§201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, §102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
+Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, §102(5), title III, §307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, §102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §203(c), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, §102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
 
 Section 1697, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
 
@@ -199,8 +199,4 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1560, 1561 of this title; title 26 sections 140, 6334.
 

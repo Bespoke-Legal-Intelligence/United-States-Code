@@ -80,7 +80,3 @@ Selection of School for Program.—If the Secretary conducts the pilot program, 
 
 Report.—Not later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary shall submit to Congress a report on the results of the program. The report shall include the recommendation of the Secretary with respect to the extent to which other schools of the defense dependents’ education system should be operated by private contractors.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 927 of this title; title 10 section 2164.
-

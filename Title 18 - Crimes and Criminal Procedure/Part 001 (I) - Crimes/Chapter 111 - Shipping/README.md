@@ -27,10 +27,6 @@
 
 1990—Pub. L. 101–647, title XXXV, §3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 35, 2516 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

@@ -20,9 +20,5 @@ Frequency allocations made pursuant to this section by the Federal Communication
 
 #### References in Text
 
-The Communications Act of 1934, referred to in subsecs. (a) and (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally tochapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5611, 5622, 5651, 5652 of this title.
+The Communications Act of 1934, referred to in subsecs. (a) and (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 

@@ -1,9 +1,5 @@
 Subtitle D—Liability
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 1305, 1461 of this title.
-
 
 ---
 

@@ -32,9 +32,5 @@ Section effective June 30, 1937, see section 1 of act June 20, 1936, set out as 
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this subchapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 706 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 718g, 4406 of this title; title 43 section 1474c.
+For transfer of certain enforcement functions of Secretary or other official in Department of the Interior under this subchapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see Transfer of Functions note set out under section 706 of this title.
 

@@ -16,11 +16,15 @@ Except as otherwise specified in this section and notwithstanding any other prov
 
 #### (d) Naval Nuclear Propulsion Executive Order
 
-As used in this section, the Naval Nuclear Propulsion Executive Order is Executive Order No. 12344, dated February 1, 1982 (42 U.S.C. 7158 note) (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 42 U.S.C. 7158 note)).
+As used in this section, the Naval Nuclear Propulsion Executive Order is Executive Order No. 12344, dated February 1, 1982 (42 U.S.C. 7158 note) <sup>1</sup> (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 42 U.S.C. 7158 note)).<sup>1</sup>
 
 (Pub. L. 106–65, div. C, title XXXII, §3216, Oct. 5, 1999, 113 Stat. 959.)
 
-#### Section Referred to in Other Sections
+#### References in Text
 
-This section is referred to in sections 2402, 2410 of this title.
+Executive Order No. 12344, referred to in subsec. (d), is set out as a note under section 2511 of this title.
+
+Section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525), referred to in subsec. (d), was formerly set out as a note under section 7158 of Title 42, The Public Health and Welfare, and was renumbered section 4101 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(d)(2), Nov. 24, 2003, 117 Stat. 1757. Section 4101 of Pub. L. 107–314 is classified to section 2511 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

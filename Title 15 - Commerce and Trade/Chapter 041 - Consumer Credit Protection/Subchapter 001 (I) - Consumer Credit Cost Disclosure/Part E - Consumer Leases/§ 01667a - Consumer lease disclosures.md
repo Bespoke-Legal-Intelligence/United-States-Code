@@ -20,15 +20,11 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 &emsp;(9) The number, amount, and due dates or periods of payments under the lease and the total amount of such periodic payments;
 
-&emsp;(10) Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property atthe inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
+&emsp;(10) Where the lease provides that the lessee shall be liable for the anticipated fair market value of the property on expiration of the lease, the fair market value of the property at the inception of the lease, the aggregate cost of the lease on expiration, and the differential between them; and
 
-&emsp;(11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penalty or other charge for delinquency, default, late payments, or early termination.
+&emsp;(11) A statement of the conditions under which the lessee or lessor may terminate the lease prior to the end of the term and the amount or method of determining any penaltyor other charge for delinquency, default, late payments, or early termination.
 
 > The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Board may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
 (Pub. L. 90–321, title I, §182, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 258.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1667d of this title.
 

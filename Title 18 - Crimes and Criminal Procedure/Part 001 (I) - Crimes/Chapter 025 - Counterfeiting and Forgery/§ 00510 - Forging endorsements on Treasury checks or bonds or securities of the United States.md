@@ -28,7 +28,3 @@ Subsec. (c). Pub. L. 103–322, §330016(1)(H), substituted “fined under this 
 
 1990—Subsec. (a). Pub. L. 101–647 inserted semicolon after “or signature” in par. (2) and moved provisions beginning with “shall be fined” flush with left margin.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 981, 982, 3056 of this title.
-

@@ -54,9 +54,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date of 1991 Amendment
 
-Section 251(b)(3) of Pub. L. 102–242 provided that: “Paragraph (2) of section 213(a) of the Federal CreditUnion Act \[12 U.S.C. 1790b(a)(2)\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act \[Dec. 19, 1991\], the 2-year period referred to in section 213(b) of such Act shall be deemed to begin on such date of enactment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 5328.
+Section 251(b)(3) of Pub. L. 102–242 provided that: “Paragraph (2) of section 213(a) of the Federal Credit Union Act \[12 U.S.C. 1790b(a)(2)\] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act \[Dec. 19, 1991\], the 2-year period referred to in section 213(b) of such Act shall be deemed to begin on such date of enactment.”
 

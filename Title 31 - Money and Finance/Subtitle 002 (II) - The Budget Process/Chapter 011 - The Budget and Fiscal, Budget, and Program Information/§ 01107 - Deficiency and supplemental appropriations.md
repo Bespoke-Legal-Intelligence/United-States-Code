@@ -20,7 +20,3 @@ June 10, 1921, ch. 18, §203, 42 Stat. 21; restated Sept. 12, 1950, ch. 946, §1
 
 In the section, the words “reach an aggregate which” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1104 of this title.
-

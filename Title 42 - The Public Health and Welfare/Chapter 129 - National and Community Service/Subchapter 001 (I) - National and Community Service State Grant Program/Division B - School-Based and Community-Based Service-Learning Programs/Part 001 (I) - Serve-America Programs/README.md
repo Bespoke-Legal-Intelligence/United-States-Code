@@ -1,9 +1,5 @@
 Part I—Serve-America Programs
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 12572, 12573 of this title.
-
 
 ---
 

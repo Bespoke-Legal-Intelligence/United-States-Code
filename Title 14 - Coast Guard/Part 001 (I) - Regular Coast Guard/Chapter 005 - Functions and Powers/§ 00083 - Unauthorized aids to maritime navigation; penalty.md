@@ -18,7 +18,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 84 of this title; title 16 section 470w–7.
-

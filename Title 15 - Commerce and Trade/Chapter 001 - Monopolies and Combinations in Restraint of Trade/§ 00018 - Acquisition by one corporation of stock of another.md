@@ -50,7 +50,3 @@ Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 S
 
 Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, see section 1601 et seq. of Title 46, Appendix, Shipping.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18a, 21, 26, 63 of this title.
-

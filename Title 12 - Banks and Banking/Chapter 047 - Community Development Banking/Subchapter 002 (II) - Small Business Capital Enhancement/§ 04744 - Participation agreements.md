@@ -10,7 +10,3 @@ Upon entering into the participation agreement with the participating State, the
 
 (Pub. L. 103–325, title II, §254, Sept. 23, 1994, 108 Stat. 2207.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4742, 4743 of this title.
-

@@ -14,9 +14,9 @@
 
 (c) Upon a certification by the Attorney General that the defendant was acting in the scope of such person's employment in or for the Administration at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. After removal the United States shall have available all defenses to which it would have been entitled if the action had originally been commenced against the United States. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merits that the employee whose act or omission gave rise to the suit was not acting within the scope of such person's office or employment, the case shall be remanded to the State court.
 
-(d) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect.
+(d) The Attorney General may compromise or settle any claim asserted in such civil action orproceeding in the manner provided in section 2677 of title 28, and with the same effect.
 
-(e) The Secretary may, to the extent the Secretary considers appropriate, hold harmless orprovide liability insurance for any person to whom the immunity provisions of this section apply (as described in subsection (a)), for damage for personal injury or death, or for property damage, negligently caused by such person while furnishing medical care or treatment (including the conduct of clinical studies or investigations) in the exercise of such person's duties in or for the Administration, if such person is assigned to a foreign country, detailed to State or political division thereof, or is acting under any other circumstances which would preclude the remedies of an injured third person against the United States, provided by sections 1346(b) and 2672 of title 28, for such damage or injury.
+(e) The Secretary may, to the extent the Secretary considers appropriate, hold harmless or provide liability insurance for any person to whom the immunity provisions of this section apply (as described in subsection (a)), for damage for personal injury or death, or for property damage, negligently caused by such person while furnishing medical care or treatment (including the conduct of clinical studies or investigations) in the exercise of such person's duties in or for the Administration, if such person is assigned to a foreign country, detailed to State or political division thereof, or is acting under any other circumstances which would preclude the remedies of an injured third person against the United States, provided by sections 1346(b) and 2672 of title 28, for such damage or injury.
 
 (f) The exception provided in section 2680(h) of title 28 shall not apply to any claim arising out of a negligent or wrongful act or omission of any person described in subsection (a) in furnishing medical care or treatment (including medical care or treatment furnished in the course of a clinical study or investigation) while in the exercise of such person's duties in or for the Administration.
 
@@ -31,8 +31,4 @@ Subsec. (a)(2). Pub. L. 108–170, §302(e)(2), substituted “health” for “
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–170, title III, §302(h), Dec. 6, 2003, 117 Stat. 2058, provided that: “The amendments made by this section \[amending this section and sections 7401 to 7404, 7409, and 7421 of this title\] shall take effect at the end of the 180–day period beginning on the date of the enactment of this Act \[Dec. 6, 2003\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 515, 1712, 7364A of this title.
 

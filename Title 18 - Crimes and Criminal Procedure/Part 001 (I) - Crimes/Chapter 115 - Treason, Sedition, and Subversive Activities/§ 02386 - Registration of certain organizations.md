@@ -102,7 +102,3 @@ Words “upon conviction” which preceded “be subject” were omitted as surp
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in penultimate par. and for “fined not more than $2,000” in last par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 612; title 50 App. section 34.
-

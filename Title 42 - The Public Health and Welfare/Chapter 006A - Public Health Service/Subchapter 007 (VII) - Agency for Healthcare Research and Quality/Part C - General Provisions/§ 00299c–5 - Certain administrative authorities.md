@@ -26,7 +26,7 @@ The Director, in carrying out this subchapter, may make grants to public and non
 
 #### (1) Department of Health and Human Services
 
-&emsp;The Director, in carrying out this subchapter, may utilize personnel and equipment,facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, and provide technical assistance and advice.
+&emsp;The Director, in carrying out this subchapter, may utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, and provide technical assistance and advice.
 
 #### (2) Other agencies
 
@@ -46,7 +46,7 @@ The Secretary, in carrying out this subchapter, may secure, from time to time an
 
 #### (A) In general
 
-&emsp;&emsp;Experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
+&emsp;&emsp;Experts and consultants whose services are obtained under paragraph (1) shall be paid orreimbursed for their expenses associated with traveling to and from their assignment location in accordance with sections 5724, 5724a(a), 5724a(c), and 5726(c) of title 5.
 
 #### (B) Limitation
 

@@ -2,7 +2,7 @@
 
 (a) A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part must begin a civil action to recover charges for transportation or service provided by the carrier within 3 years after the claim accrues.
 
-(b) A person must begin a civil action to recover overcharges under section 11704(b) of this title within 3 years after the claim accrues, whether or not a complaint is filed under section 11704(c)(1).
+(b) A person must begin a civil action to recover overcharges under section 11704(b) of thistitle within 3 years after the claim accrues, whether or not a complaint is filed under section 11704(c)(1).
 
 (c) A person must file a complaint with the Board to recover damages under section 11704(b) of this title within 2 years after the claim accrues.
 
@@ -27,8 +27,4 @@
 Provisions similar to those in this section were contained in section 11706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 11705, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451; Pub. L. 99–521, §12(b), Oct. 22, 1986, 100 Stat. 2998, related to rights and remedies of persons injured by certain carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11704, 14704, and 15904 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10743 of this title.
 

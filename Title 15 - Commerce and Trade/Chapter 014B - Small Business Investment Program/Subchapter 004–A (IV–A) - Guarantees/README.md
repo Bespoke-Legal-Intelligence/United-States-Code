@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV–A—GUARANTEES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 633, 636, 637 of this title.
-
 
 ---
 

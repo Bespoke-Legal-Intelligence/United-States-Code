@@ -40,7 +40,7 @@ All moneys received by the House Recording Studio from Members of the House of R
 
 (2) The Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall, subject to the approval of the committees mentioned in subsection (c) of this section, determine the assignment of existing studio facilities to the Senate and the House of Representatives, and also the existing equipment, materials and supplies to be transferred to the respective studios. The evaluation of equipment, materials and supplies transferred to each studio shall be on the basis of market value. Any other equipment, materials and supplies determined to be obsolete or not needed for the operation of the respective studio shall be disposed of to the best interest of the Government and the proceeds thereof deposited in the Joint Senate and House Recording Facility Revolving Fund.
 
-(3) Accounts receivable, which on the effective date of liquidation, are due from Members and committees of the Senate shall be transferred tothe Senate Studio, and those due from Members and committees of the House of Representatives shall be transferred to the House Studio.
+(3) Accounts receivable, which on the effective date of liquidation, are due from Members and committees of the Senate shall be transferred to the Senate Studio, and those due from Members and committees of the House of Representatives shall be transferred to the House Studio.
 
 (4) A sufficient reserve shall be set aside from the Joint Senate and House Recording Facility Revolving Fund to liquidate any outstanding accounts payable.
 
@@ -60,7 +60,7 @@ The Joint Recording Facility positions and salaries established pursuant to the 
 
 #### (m) Repeals
 
-Effective with the completion of the transfer provided for by subsection (i) of this section the joint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
+Effective with the completion of the transfer provided for by subsection (i) of this section thejoint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
 
 #### (n) Repealed. Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205
 
@@ -72,21 +72,25 @@ Such sums as may be necessary to carry out the provisions of this section are au
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (c), (d), (f). Pub. L. 104–186, §204(68)(A), substituted “Chief Administrative Officer” for “Clerk”.
+1996—Subsecs. (c), (d), (f). Pub. L. 104–186, §204(68)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (g). Pub. L. 104–186, §204(68)(B), struck out “within the contingent fund of the House of Representatives” before “for the House Recording Studio”.
 
 Subsec. (h). Pub. L. 104–186, §204(68)(A), substituted “Chief Administrative Officer” for “Clerk” in two places.
 
-<b>1990</b>—Subsec. (g). Pub. L. 101–520, §7(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “There is also established in the Treasury of the United States, a revolving fund within the contingent fund of the Senate for the Senate Recording and Photographic Studios for the purposes of administering the duties of that studio.”
+1990—Subsec. (g). Pub. L. 101–520, §7(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “There is also established in the Treasury of the United States, a revolving fund within the contingent fund of the Senate for the Senate Recording and Photographic Studios for the purposes of administering the duties of that studio.”
 
 Subsec. (h). Pub. L. 101–520, §7(c), amended second sentence generally. Prior to amendment, second sentence read as follows: “All moneys received by the Senate Recording and Photographic Studios for disk, film, or tape recordings or from any other source, shall be deposited in the revolving fund established for the Senate Recording and Photographic Studios by subsection (g) of this section; moneys in such fund shall be available for disbursement therefrom upon vouchers signed and approved by the Sergeant at Arms for the care, maintenance, operation, and other expenses of the Senate Recording and Photographic Studios.”
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–257 inserted reference to Secretary of Senate and Sergeant at Arms of Senate.
+1982—Subsec. (b). Pub. L. 97–257 inserted reference to Secretary of Senate and Sergeant at Arms of Senate.
 
-<b>1972</b>—Subsec. (n). Pub. L. 92–310 repealed subsec. (n) which required Directors of House and Senate Recording Studios to give bonds in sum of $20,000 each.
+1972—Subsec. (n). Pub. L. 92–310 repealed subsec. (n) which required Directors of House and Senate Recording Studios to give bonds in sum of $20,000 each.
 
-<b>1964</b>—Subsec. (f). Pub. L. 88–652 struck out “and fix the compensation of” after “to appoint”.
+1964—Subsec. (f). Pub. L. 88–652 struck out “and fix the compensation of” after “to appoint”.
+
+#### Change of Name
+
+General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
 #### Effective Date of 1990 Amendment
 

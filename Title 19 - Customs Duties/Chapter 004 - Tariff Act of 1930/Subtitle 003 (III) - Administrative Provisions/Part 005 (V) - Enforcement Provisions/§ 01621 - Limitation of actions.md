@@ -30,13 +30,9 @@ Provisions substantially similar to those in this section, except that the perio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date thatis 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1978 Amendment
 
 Effective date of amendment by Pub. L. 95–410 for alleged violation of section 1592 of this title arising out of gross negligence or negligence committed on or after Oct. 3, 1978, or before such date without commencement of proceedings except where barred by provisions of this section in effect prior to such date, see section 110(f)(2) of Pub. L. 95–410, set out as a note under section 1592 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1641 of this title.
 

@@ -34,7 +34,3 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Pub. L. 103–272 substituted “Secretary of Transportation” for “Secretary of the Treasury” in concluding provisions.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8173 of this title.
-

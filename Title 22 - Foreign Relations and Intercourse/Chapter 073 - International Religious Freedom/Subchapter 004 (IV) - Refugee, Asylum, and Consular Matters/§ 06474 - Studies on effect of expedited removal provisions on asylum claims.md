@@ -40,7 +40,3 @@
 
 (Pub. L. 105–292, title VI, §605, Oct. 27, 1998, 112 Stat. 2814.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6435a of this title.
-

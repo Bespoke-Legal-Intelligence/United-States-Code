@@ -8,7 +8,3 @@ During the period beginning on January 1, 1986, and ending 30 days after receipt
 
 (Pub. L. 99–198, title XVI, §1615, Dec. 23, 1985, 99 Stat. 1609.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4805 of this title.
-

@@ -12,7 +12,3 @@ Section was formerly classified to section 488a of Title 31 prior to the general
 
 1974—Pub. L. 93–318 struck out “under the provisions of section 711 of title 18” after “relating to ‘Smokey Bear’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 580p, 580p–3 of this title.
-

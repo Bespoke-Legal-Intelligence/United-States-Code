@@ -152,10 +152,6 @@ Continuation of Actions Against Officers.—No suit, action, or other proceeding
 
 Preservation of Penalties, etc.—The transfer of functions under this Act shall not release or extinguish any penalty, forfeiture, liability, prosecution, investigation, or right to initiate a future investigation or prosecution involving any function transferred by this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 922, 923, 924 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>

@@ -218,10 +218,6 @@ Section 1 of Pub. L. 104–141 provided that: “The Congress finds the followin
 
 &emsp;“(4) The survival of these schools will contribute to the improved health status of disadvantaged persons, and of all Americans.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1068h of this title; title 42 section 5197h.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a colon.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “subparagraphs (A) to (R) of subsection (e)(1) of this section”.</i>

@@ -36,7 +36,3 @@ The National Science Foundation is designated as the lead agency responsible for
 
 (Pub. L. 98–373, title I, §107, July 31, 1984, 98 Stat. 1246.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4102, 4103 of this title.
-

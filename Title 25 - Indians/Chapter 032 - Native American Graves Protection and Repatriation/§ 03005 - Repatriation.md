@@ -32,17 +32,13 @@ Any Federal agency or museum shall share what information it does possess regard
 
 #### (e) Competing claims
 
-Where there are multiple requests for repatriation of any cultural item and, after complying with the requirements of this chapter, the Federal agency or museum cannot clearly determine which requesting party is the most appropriate claimant, the agency or museum may retain such item until the requesting parties agree upon its disposition or the dispute is otherwise resolved pursuant to the provisions of this chapter or by a court of competent jurisdiction.
+Where there are multiple requests for repatriation of any cultural item and, after complyingwith the requirements of this chapter, the Federal agency or museum cannot clearly determine which requesting party is the most appropriate claimant, the agency or museum may retain such item until the requesting parties agree upon its disposition or the dispute is otherwise resolved pursuant to the provisions of this chapter or by a court of competent jurisdiction.
 
 #### (f) Museum obligation
 
 Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state <sup>1</sup> law that are inconsistent with the provisions of this chapter.
 
 (Pub. L. 101–601, §7, Nov. 16, 1990, 104 Stat. 3054.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3001, 3006 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

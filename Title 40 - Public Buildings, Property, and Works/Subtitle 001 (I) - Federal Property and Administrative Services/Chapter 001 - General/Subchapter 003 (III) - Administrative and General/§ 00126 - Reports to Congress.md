@@ -22,7 +22,3 @@ June 30, 1949, ch. 288, title II, §212, formerly §210, 63 Stat. 393; renumbere
 
 The words “in January of each year and” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See, also, page 174 of House Document No. 103–7.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 545 of this title; title 49 section 40110.
-

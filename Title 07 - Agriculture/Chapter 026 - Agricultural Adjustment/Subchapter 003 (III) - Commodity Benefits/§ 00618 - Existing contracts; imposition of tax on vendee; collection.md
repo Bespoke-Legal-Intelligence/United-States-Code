@@ -18,7 +18,3 @@ Functions of all officers of Department of the Treasury, and functions of all ag
 
 Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 673 of this title.
-

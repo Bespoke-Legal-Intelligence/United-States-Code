@@ -32,7 +32,7 @@
 
 #### (i) Appeal rights
 
-&emsp;&emsp;&emsp;No initial determination may be reconsidered or appealed under subsection (b) ofthis section unless the fiscal intermediary or carrier has made a redetermination of that initial determination under this paragraph.
+&emsp;&emsp;&emsp;No initial determination may be reconsidered or appealed under subsection (b) of this section unless the fiscal intermediary or carrier has made a redetermination of that initial determination under this paragraph.
 
 #### (ii) Decisionmaker
 
@@ -106,7 +106,7 @@
 
 #### (iii) Prohibition on payment for representation
 
-&emsp;&emsp;&emsp;If a person furnishes services or items to an individual and represents the individualunder this section, the person may not impose any financial liability on such individual in connection with such representation.
+&emsp;&emsp;&emsp;If a person furnishes services or items to an individual and represents the individual under this section, the person may not impose any financial liability on such individual in connection with such representation.
 
 #### (iv) Requirements for representatives of a beneficiary
 
@@ -172,7 +172,7 @@
 
 #### (B) Prompt determinations
 
-&emsp;&emsp;If, after or coincident with appropriately filing a request for an administrative hearing, the appellant requests a determination by the appropriate review entity that theDepartmental Appeals Board does not have the authority to decide the question of law or regulations relevant to the matters in controversy and that there is no material issue of fact in dispute, and if such request is accompanied by the documents and materials as the appropriate review entity shall require for purposes of making such determination, such review entity shall make a determination on the request in writing within 60 days after the date such review entity receives the request and such accompanying documents and materials. Such a determination by such review entity shall be considered a final decision and not subject to review by the Secretary.
+&emsp;&emsp;If, after or coincident with appropriately filing a request for an administrative hearing, the appellant requests a determination by the appropriate review entity that the Departmental Appeals Board does not have the authority to decide the question of law or regulations relevant to the matters in controversy and that there is no material issue of fact in dispute, and if such request is accompanied by the documents and materials as the appropriate review entity shall require for purposes of making such determination, such review entity shall make a determination on the request in writing within 60 days after the date such review entity receives the request and such accompanying documents and materials. Such a determination by such review entity shall be considered a final decision and not subject to review by the Secretary.
 
 #### (C) Access to judicial review
 
@@ -232,7 +232,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The qualified independent contractor shall review initial determinations. Where an initial determination is made with respect to whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title), such review shall include consideration of the facts and circumstances of the initial determination by a panel of physicians or other appropriate health care professionalsand any decisions with respect to the reconsideration shall be based on applicable information, including clinical experience (including the medical records of the individual involved) and medical, technical, and scientific evidence.
+&emsp;&emsp;&emsp;The qualified independent contractor shall review initial determinations. Where an initial determination is made with respect to whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title), such review shall include consideration of the facts and circumstances of the initial determination by a panel of physicians or other appropriate health care professionals and any decisions with respect to the reconsideration shall be based on applicable information, including clinical experience (including the medical records of the individual involved) and medical, technical, and scientific evidence.
 
 #### (ii) Effect of national and local coverage determinations
 
@@ -246,7 +246,7 @@
 
 #### (III) Absence of national or local coverage determination
 
-&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coverage determination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
+&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coveragedetermination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
 
 #### (C) Deadlines for decisions
 
@@ -284,7 +284,7 @@
 
 #### (E) Explanation of decision
 
-&emsp;&emsp;Any decision with respect to a reconsideration of a qualified independent contractor shall be in writing, be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate) and shall include <sup>1</sup> a detailed explanation of the decision as well as a discussion of the pertinent facts and applicable regulations applied in making such decision, and <sup>2</sup> a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section <sup>3</sup> and <sup>3</sup> in the case of a determination of whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A)of this title) <sup>3</sup> an explanation of the medical and scientific rationale for the decision.
+&emsp;&emsp;Any decision with respect to a reconsideration of a qualified independent contractor shall be in writing, be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate) and shall include <sup>1</sup> a detailed explanation of the decision as well as a discussion of the pertinent facts and applicable regulations applied in making such decision, and <sup>2</sup> a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section <sup>3</sup> and <sup>3</sup> in the case of a determination of whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title) <sup>3</sup> an explanation of the medical and scientific rationale for the decision.
 
 #### (F) Notice requirements
 
@@ -500,7 +500,7 @@
 
 #### (C) Explanation of determination
 
-&emsp;&emsp;When issuing a determination under subparagraph (A), the Secretary shall include an explanation of the basis for the determination. An action taken under subparagraph (A) (other than clause (iv)) is deemed to be a national coverage determination for purposes of review under paragraph (1)(A).
+&emsp;&emsp;When issuing a determination under subparagraph (A), the Secretary shall include an explanation of the basis for the determination. An action taken under subparagraph (A) (other than clause (iv)) is deemedto be a national coverage determination for purposes of review under paragraph (1)(A).
 
 #### (5) Standing
 
@@ -622,7 +622,7 @@
 
 #### (B) Accompanying documentation
 
-&emsp;&emsp;The Secretary may require that the request be accompanied by a description of the physicians’ service, supporting documentation relating to the medical necessity for the physicians’ service, and any other appropriate documentation. In the case of a request submitted by an eligible requester whois described in paragraph (1)(B)(ii), the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
+&emsp;&emsp;The Secretary may require that the request be accompanied by a description of the physicians’ service, supporting documentation relating to the medical necessity for the physicians’ service, and any other appropriate documentation. In the case of a request submitted by an eligible requester who is described in paragraph (1)(B)(ii), the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
 
 #### (4) Response to request
 
@@ -688,7 +688,7 @@
 
 &emsp;Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in section 1395x(d) of this title), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a),940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426.)
 
 #### References in Text
 
@@ -732,7 +732,7 @@ Subsec. (c)(3)(K). Pub. L. 108–173, §933(d)(1)(B), added subpar. (K).
 
 Subsec. (c)(4). Pub. L. 108–173, §933(d)(3), substituted “a sufficient number of qualified independent contractors (but not fewer than 4 such contractors) to conduct reconsiderations consistent with the timeframes applicable under this subsection” for “not fewer than 12 qualified independent contractors under this subsection”.
 
-Subsec. (d). Pub. L. 108–173, §933(c)(3)(A), inserted “; notice” after “ Secretary” in heading.
+Subsec. (d). Pub. L. 108–173, §933(c)(3)(A), inserted “; notice” after “Secretary” in heading.
 
 Subsec. (d)(4). Pub. L. 108–173, §933(c)(3)(B), added par. (4).
 
@@ -916,7 +916,9 @@ Access to administrative law judges.—The feasibility of—
 
 Independence of administrative law judges.—The steps that should be taken to ensure the independence of administrative law judges consistent with the requirements of subsection (b)(2).
 
-&emsp;&emsp;“(I) Geographic distribution.—The steps that should be taken to provide for an appropriate geographic distribution of administrative law judges throughout the United States to carry out subsection (b)(3).
+&emsp;&emsp;“(I)
+
+Geographic distribution.—The steps that should be taken to provide for an appropriate geographic distribution of administrative law judges throughout the United States to carry out subsection (b)(3).
 
 &emsp;&emsp;“(J)
 
@@ -1015,10 +1017,6 @@ Study and Report on Use of Telephone Hearings.—
 &emsp;“(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act \[Dec. 22, 1987\].
 
 &emsp;“(2) The studies under paragraph (1) shall focus on whether telephone hearings allow for a full and fair evidentiary hearing, in general, or with respect to any particular category of claims and shall examine the possible improvements to the hearing process (such as cost-effectiveness, convenience to the claimant, and reduction in time under the process) resulting from the use of such hearings as compared to the adoption of other changes to the process (such as expansions in staff and resources).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1395b–8, 1395i–5, 1395<i>l</i>, 1395m, 1395u, 1395x, 1395w–3, 1395w–3a, 1395w–3b, 1395w–4, 1395w–22, 1395y, 1395cc, 1395kk–1, 1395mm, 1395pp, 1395rr, 1395ww, 1395yy, 1395ddd, 1395fff of this title; title 45 section 231f.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—OUTER CONTINENTAL SHELF LANDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 156, 1842, 1863, 1864, 1866 of this title; title 16 sections 460<i>l–</i>5; 470h, 471i, 1456; title 29 sections 213, 402, 630, 653, 1002; title 30 sections 1702, 1721, 1721a; title 33 sections 941, 1321, 1503, 2701; title 41 section 357; title 42 sections 2000e, 7627, 9611, 13211.
-
 
 ---
 

@@ -20,11 +20,7 @@ Neither the Attorney General nor the Commission may disclose in violation of an 
 
 #### (c) Required disclosure of notice received
 
-If the Attorney General or the Commission receives a notice described in section 6211(2)(H) ofthis title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
+If the Attorney General or the Commission receives a notice described in section 6211(2)(H) of this title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
 
 (Pub. L. 103–438, §8, Nov. 2, 1994, 108 Stat. 4601.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6201, 6202, 6208, 6211 of this title.
 

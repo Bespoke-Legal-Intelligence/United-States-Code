@@ -50,9 +50,11 @@
 
 &emsp;&emsp;(XI) the Office of Investigative Programs of the United States Customs Service;
 
-&emsp;&emsp;(XII) the Office of Law Enforcement of the Bureau of Alcohol, Tobacco, and Firearms; or
+&emsp;&emsp;(XII) the Office of Law Enforcement of the Bureau of Alcohol, Tobacco, and Firearms;
 
 &emsp;&emsp;(XIII) the National Geospatial-Intelligence Agency; or
+
+&emsp;&emsp;(XIV) the Office of the Director of National Intelligence; or
 
 &emsp;(ii) a person employed in a position described under section 3132(a)(4), 5372, 5372a, or 5372b of title 5, United States Code.
 
@@ -62,7 +64,7 @@
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–136, div. A, title IX, §921(g),Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–458, title I, §1079(a), Dec. 17, 2004, 118 Stat. 3695.)
 
 #### References in Text
 
@@ -70,9 +72,11 @@ The date of enactment of the Hatch Act Reform Amendments of 1993, referred to in
 
 #### Prior Provisions
 
-A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agencyfrom requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agency from requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Amendments
+
+2004—Subsec. (b)(2)(B)(i)(XIV). Pub. L. 108–458 added subcl. (XIV).
 
 2003—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -83,6 +87,10 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 1996—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
 1994—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -99,8 +107,4 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7325, 7326 of this title; title 18 sections 602, 603.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There are authorized to be appropriated for fiscal years 2002, 2003, 2004, and 2005 such sums as may be necessary to carry out chapter 449 and related aviation security activities under this title. Any amounts appropriated pursuant to this section for fiscal year 2002 shall remain available until expended.
+In General.—There are authorized to be appropriated for fiscal years 2002, 2003, 2004, 2005, and 2006 such sums as may be necessary to carry out chapter 449 and related aviation security activities under this title. Any amounts appropriated pursuant to this section for fiscal year 2002 shall remain available until expended.
 
 (b)
 
@@ -16,5 +16,9 @@ Grants for Aircraft Security.—There is authorized to be appropriated $500,000,
 
 &emsp;(4) provide for the use of other innovative technologies to enhance aircraft security.
 
-(Added Pub. L. 107–71, title I, §118(c)(1), Nov. 19, 2001, 115 Stat. 627.)
+(Added Pub. L. 107–71, title I, §118(c)(1), Nov. 19, 2001, 115 Stat. 627; amended Pub. L. 108–458, title IV, §4029, Dec. 17, 2004, 118 Stat. 3727.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–458 substituted “2005, and 2006” for “and 2005”.
 

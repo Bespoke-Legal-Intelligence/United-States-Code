@@ -26,7 +26,3 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2181, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former section 1507 of this title applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under section 3100 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3104 of this title.
-

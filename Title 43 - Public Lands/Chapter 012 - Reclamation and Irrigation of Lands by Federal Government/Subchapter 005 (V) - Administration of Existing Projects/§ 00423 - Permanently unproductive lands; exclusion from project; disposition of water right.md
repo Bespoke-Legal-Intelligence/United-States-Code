@@ -8,7 +8,3 @@ All lands found by the classification made under the supervision of the Board of
 
 Section 10 of act Aug. 13, 1953, ch. 428, 67 Stat. 568, provided in part that: “Nothing contained in this Act \[enacting sections 451 to 451k of this title\] shall be held to repeal, supersede, or supplement the provisions for exchange and matters related thereto contained in the Act of May 25, 1926 (44 Stat. 636), as amended and supplemented \[sections 423 to 423g and 610 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 423b, 423d, 423f, 424, 424b, 424c, 424d of this title.
-

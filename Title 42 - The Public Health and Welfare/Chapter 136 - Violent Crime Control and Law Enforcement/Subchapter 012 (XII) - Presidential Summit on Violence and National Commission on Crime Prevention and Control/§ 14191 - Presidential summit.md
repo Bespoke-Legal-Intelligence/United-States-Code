@@ -4,7 +4,3 @@ Congress calls on the President to convene a national summit on violence in Amer
 
 (Pub. L. 103–322, title XXVII, §270001, Sept. 13, 1994, 108 Stat. 2089.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14198 of this title.
-

@@ -10,15 +10,11 @@ The Secretary is authorized to suspend immediately upon notice any permit issued
 
 #### (c) Inspection of permit-holding establishments
 
-Any officer or employee duly designated by the Secretary shall have access to any factory or establishment, the operator of which holds apermit from the Secretary, for the purpose of ascertaining whether or not the conditions of the permit are being complied with, and denial of access for such inspection shall be ground for suspension of the permit until such access is freely given by the operator.
+Any officer or employee duly designated by the Secretary shall have access to any factory or establishment, the operator of which holds a permit from the Secretary, for the purpose of ascertaining whether or not the conditions of the permit are being complied with, and denial of access for such inspection shall be ground for suspension of the permit until such access is freely given by the operator.
 
 (June 25, 1938, ch. 675, §404, 52 Stat. 1048.)
 
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 331, 333, 334, 371 of this title.
 

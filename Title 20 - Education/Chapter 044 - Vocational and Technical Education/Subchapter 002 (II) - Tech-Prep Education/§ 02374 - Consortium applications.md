@@ -36,7 +36,3 @@ In awarding grants under this subchapter, the eligible agency shall ensure an eq
 
 Provisions similar to this section were contained in section 2394c of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2376 of this title.
-

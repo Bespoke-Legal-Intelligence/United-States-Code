@@ -34,6 +34,10 @@ The Congress makes the following declarations:
 
 This chapter, referred to in subsec. (b), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–370, §1, Oct. 25, 2004, 118 Stat. 1750, provided that: “This Act \[amending section 11606 of this title\] may be cited as the ‘Prevention of Child Abduction Partnership Act’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 100–300 provided that: “This Act \[enacting this chapter and amending section 663 of this title\] may be cited as the ‘International Child Abduction Remedies Act’.”

@@ -6,7 +6,7 @@ Not later than 120 days after October 24, 1992, each Inspector General created t
 
 &emsp;(1) identify agency compliance activities to meet the requirements of section 543 of the National Energy Conservation Policy Act (42 U.S.C. 8253) and any other matters relevant to implementing the goals of such Act; and
 
-&emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assess the accuracy and reliability of energy consumption and energy cost figures required under such section.
+&emsp;(2) determine if the agency has the internal accounting mechanisms necessary to assessthe accuracy and reliability of energy consumption and energy cost figures required under such section.
 
 #### (b) President's Council on Integrity and Efficiency report to Congress
 
@@ -33,6 +33,8 @@ This subtitle, referred to in subsec. (c), is subtitle F (§§151–168), of tit
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

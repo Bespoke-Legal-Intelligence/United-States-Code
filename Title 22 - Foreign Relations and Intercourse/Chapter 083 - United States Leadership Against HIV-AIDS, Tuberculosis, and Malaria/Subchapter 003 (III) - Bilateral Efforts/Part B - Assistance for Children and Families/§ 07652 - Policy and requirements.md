@@ -16,7 +16,3 @@ The 5-year United States Government strategy required by section 7611 of this ti
 
 (Pub. L. 108–25, title III, §312, May 27, 2003, 117 Stat. 741.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7653 of this title.
-

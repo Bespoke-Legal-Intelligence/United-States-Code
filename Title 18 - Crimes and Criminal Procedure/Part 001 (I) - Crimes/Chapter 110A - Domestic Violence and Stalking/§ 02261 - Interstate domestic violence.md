@@ -44,7 +44,3 @@ Causing the crossing of a state line.—A person who causes a spouse or intimate
 
 1996—Subsec. (b). Pub. L. 104–201 inserted “or section 2261A” after “this section” in introductory provisions and substituted “victim” for “offender's spouse or intimate partner” in pars. (1) to (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2261A of this title.
-

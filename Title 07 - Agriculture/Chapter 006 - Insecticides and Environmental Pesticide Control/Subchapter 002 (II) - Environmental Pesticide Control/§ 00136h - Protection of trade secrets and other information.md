@@ -6,7 +6,7 @@ In submitting data required by this subchapter, the applicant may (1) clearly ma
 
 #### (b) Disclosure
 
-Notwithstanding any other provision of this subchapter and subject to the limitations in subsections (d) and (e) of this section, the Administrator shall not make public information which in the Administrator's judgment contains or relates to trade secrets or commercial or financial information obtained from a person and privileged or confidential, except that, when necessary to carry out the provisions of this subchapter, information relating to formulas of products acquired by authorization of this subchapter may be revealed to any Federal agencyconsulted and may be revealed at a public hearing or in findings of fact issued by the Administrator.
+Notwithstanding any other provision of this subchapter and subject to the limitations in subsections (d) and (e) of this section, the Administrator shall not make public information which in the Administrator's judgment contains or relates to trade secrets or commercial or financial information obtained from a person and privileged or confidential, except that, when necessary to carry out the provisions of this subchapter, information relating to formulas of products acquired by authorization of this subchapter may be revealed to any Federal agency consulted and may be revealed at a public hearing or in findings of fact issued by the Administrator.
 
 #### (c) Disputes
 
@@ -40,7 +40,7 @@ Information otherwise protected from disclosure to the public under subsection (
 
 (1) Any officer or employee of the United States or former officer or employee of the United States who, by virtue of such employment or official position, has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (b) of this section, and who, knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be fined not more than $10,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 shall not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this subchapter. Nothing in this subchapter shall preempt any civil remedy under State or Federal law for wrongful disclosure of trade secrets.
 
-(2) For the purposes of this section, any contractor with the United States who is furnished information as authorized by subsection (e) of this section, or any employee of any such contractor, shall be considered to be an employee of the United States.
+(2) For the purposes of this section, any contractor with the United States who is furnished information as authorized by subsection (e) ofthis section, or any employee of any such contractor, shall be considered to be an employee of the United States.
 
 #### (g) Disclosure to foreign and multinational pesticide producers
 
@@ -83,8 +83,4 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### Effective Date
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136a, 136e of this title; title 21 section 346a.
 

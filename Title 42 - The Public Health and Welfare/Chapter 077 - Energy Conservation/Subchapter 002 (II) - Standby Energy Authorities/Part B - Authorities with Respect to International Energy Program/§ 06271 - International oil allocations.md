@@ -46,9 +46,5 @@ Section 753 of title 15, referred to in subsec. (c), was omitted from the Code p
 
 1982—Subsec. (e). Pub. L. 97–229 added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6395 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

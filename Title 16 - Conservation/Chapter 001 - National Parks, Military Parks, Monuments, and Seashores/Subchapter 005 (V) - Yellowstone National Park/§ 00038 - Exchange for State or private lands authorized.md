@@ -8,7 +8,3 @@ The Secretary of Agriculture is authorized in his discretion to accept, on behal
 
 Functions of Secretary of the Interior under this section, with respect to exchanges of lands held in private or State ownership for national forest lands or timber in Montana, transferred to Secretary of Agriculture, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a note under section 2201 of Title 7, Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 37, 39, 40 of this title.
-

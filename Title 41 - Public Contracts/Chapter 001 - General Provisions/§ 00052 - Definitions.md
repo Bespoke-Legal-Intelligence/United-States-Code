@@ -36,7 +36,3 @@ As used in sections 51 to 58 of this title:
 
 Amendment by Pub. L. 99–634 effective with respect to conduct described in section 53 of this title which occurs on or after Nov. 7, 1986, see section 3(a) of Pub. L. 99–634, set out as a note under section 51 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 51 of this title.
-

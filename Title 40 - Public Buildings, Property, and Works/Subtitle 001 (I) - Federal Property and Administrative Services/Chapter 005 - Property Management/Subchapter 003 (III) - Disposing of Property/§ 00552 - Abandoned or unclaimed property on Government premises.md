@@ -30,10 +30,6 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §203(m), formerly §203(<i>l</i>), 63 Stat. 388; redesignated §203(m), Aug. 1, 1955, ch. 442, 69 Stat. 430.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “</i>
 
 Property.—The”.

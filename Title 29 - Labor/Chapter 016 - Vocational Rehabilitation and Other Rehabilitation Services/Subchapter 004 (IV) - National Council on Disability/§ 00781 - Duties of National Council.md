@@ -28,7 +28,7 @@ The National Council shall—
 
 &emsp;(9) provide to the Congress on a continuing basis advice, recommendations, legislative proposals, and any additional information that the National Council or the Congress deems appropriate; and
 
-&emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts andthe impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
+&emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
 
 #### (b) Annual reports
 
@@ -42,11 +42,11 @@ The National Council shall—
 
 (1) Not later than December 31, 1999, the Council shall prepare a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
 
-(2) In preparing the report, the Council shall obtain input from the National Institute on Disability and Rehabilitation Research and the Association of Tech Act Projects, and from targeted individuals, as defined in section 3002 of this title.
+(2) In preparing the report, the Council shall obtain input from the National Institute on Disability and Rehabilitation Research and the Association of Tech Act Projects, and from targeted individuals and entities, as defined in section 3002 of this title.
 
 (3) The Council shall submit the report, along with such recommendations as the Council determines to be appropriate, to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
 
-(Pub. L. 93–112, title IV, §401, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, §202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737.)
+(Pub. L. 93–112, title IV, §401, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1199; amended Pub. L. 105–394, title II, §202, Nov. 13, 1998, 112 Stat. 3653; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–364, §3(b)(2), Oct. 25, 2004, 118 Stat. 1737.)
 
 #### References in Text
 
@@ -62,9 +62,15 @@ Another prior section 781, Pub. L. 93–112, title IV, §401, Sept. 26, 1973, 87
 
 #### Amendments
 
+2004—Subsec. (c)(2). Pub. L. 108–364 substituted “targeted individuals and entities” for “targeted individuals”.
+
 2000—Subsec. (a)(5)(A). Pub. L. 106–402, which directed substitution of “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”, was executed by making the substitution for “Developmental Disabilities Assistance and Bill of Rights Act” to reflect the probable intent of Congress.
 
 1998—Subsec. (c). Pub. L. 105–394 added subsec. (c).
+
+#### Change of Name
+
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Reporting Requirements
 

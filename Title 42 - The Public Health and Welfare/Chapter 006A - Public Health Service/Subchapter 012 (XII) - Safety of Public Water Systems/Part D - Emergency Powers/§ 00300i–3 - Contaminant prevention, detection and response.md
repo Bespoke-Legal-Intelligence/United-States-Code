@@ -26,7 +26,3 @@ For the authorization of appropriations to carry out this section, see section 3
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300i–4 of this title.
-

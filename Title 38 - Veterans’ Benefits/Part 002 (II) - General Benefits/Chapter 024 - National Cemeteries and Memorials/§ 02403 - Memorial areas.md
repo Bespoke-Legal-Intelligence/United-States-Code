@@ -12,7 +12,7 @@
 
 &emsp;(5) whose remains were cremated and the ashes scattered without interment of any portion of the ashes.
 
-(b) Under regulations prescribed by the Secretary, group memorials may be placed to honor the memory of groups of individuals referred to in subsection (a), and appropriate memorial headstones and markers may be placed to honor the memory of individuals referred to in subsection (a) and section 2306(b) of this title.
+(b) Under regulations prescribed by the Secretary, group memorials may be placed to honor the memory of groups of individuals referred toin subsection (a), and appropriate memorial headstones and markers may be placed to honor the memory of individuals referred to in subsection (a) and section 2306(b) of this title.
 
 (c) All national and other veterans’ cemeteries under the control of the National Cemetery Administration shall be considered national shrines as a tribute to our gallant dead and, notwithstanding the provisions of any other law, the Secretary is hereby authorized to permit appropriate officials to fly the flag of the United States of America at such cemeteries twenty-four hours each day.
 
@@ -39,8 +39,4 @@ Subsec. (c). Pub. L. 105–368, §403(c)(6), substituted “under the control of
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, on, or after Oct. 17, 1981, see section 701(b)(6) of Pub. L. 97–66, set out as a note under section 1114 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2306, 2411 of this title.
 

@@ -48,7 +48,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(B) Debate in the Senate on any fishery agreement resolution and on all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of any debatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
+&emsp;(C) Debate in the Senate on any debatable motion or appeal in connection with any fishery agreement resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover of the motion or appeal and the manager of the resolution, except that if the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. The majority leader and the minority leader, or either of them, may allot additional time to any Senator during the consideration of anydebatable motion or appeal, from time under their control with respect to the applicable fishery agreement resolution.
 
 &emsp;(D) A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
@@ -100,7 +100,7 @@ Pub. L. 100–629, §5, Nov. 7, 1988, 102 Stat. 3287, provided that:
 
 “(a)
 
-In General.—The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the UnitedStates representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988.
+In General.—The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988.
 
 “(b)
 
@@ -174,7 +174,7 @@ Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 32
 
 #### Extension of International Fishery Agreements
 
-Pub. L. 100–66, §1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
+Pub. L. 100–66, §1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the UnitedStates and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
 
 Pub. L. 98–364, title I, §106, July 17, 1984, 98 Stat. 442, provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in section 2(a)(7) of Pub. L. 95–6, formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
 
@@ -223,8 +223,4 @@ Pub. L. 95–6, §2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, �
 #### Reciprocal Fisheries Agreement Between United States and Canada
 
 Pub. L. 95–6, §5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1821, 1822, 1824, 1857 of this title.
 

@@ -10,7 +10,3 @@ Any party aggrieved by an order of the Board under this chapter may obtain a rev
 
 1958—Pub. L. 85–791 substituted, in second sentence, “transmitted to the Board by the clerk of the court, and thereupon the Board shall file in the court the record made before the Board, as provided in section 2112 of title 28” for “served upon the Board, and thereupon the Board shall certify and file in the court a transcript of the record made before the Board”, and in third sentence, “such petition” for “the transcript”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1844, 1850 of this title.
-

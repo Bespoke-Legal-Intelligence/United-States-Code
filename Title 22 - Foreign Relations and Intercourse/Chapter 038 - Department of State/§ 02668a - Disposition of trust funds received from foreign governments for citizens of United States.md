@@ -10,9 +10,5 @@ Each of the trust funds covered into the Treasury as aforesaid is appropriated f
 
 #### Codification
 
-Section was formerly classified to section 547 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2710 of this title; title 20 section 225.
+Section was formerly classified to section 547 of Title 31 prior to the general revision and enactment of Title31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 

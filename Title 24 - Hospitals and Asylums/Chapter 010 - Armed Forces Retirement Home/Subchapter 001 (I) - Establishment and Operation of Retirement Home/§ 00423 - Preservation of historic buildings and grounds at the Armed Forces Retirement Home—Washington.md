@@ -26,5 +26,5 @@ Amounts received as a grant under subsection (b) of this section shall be deposi
 
 Subsec. (a)(1). Pub. L. 107–107, §1410(a)(4)(A), substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen's Home”.
 
-Subsec. (b). Pub. L. 107–107, §§1404(b)(5), 1410(a)(4)(A), substituted “Chief Operating Officer” for “Chairman of the Retirement Home Board” and substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen's Home” in two places.
+Subsec. (b). Pub. L. 107–107, §§1404(b)(5), 1410(a)(4)(A), substituted “Chief Operating Officer” for “Chairman of the Retirement Home Board” and substituted “ArmedForces Retirement Home—Washington” for “United States Soldiers’ and Airmen's Home” in two places.
 

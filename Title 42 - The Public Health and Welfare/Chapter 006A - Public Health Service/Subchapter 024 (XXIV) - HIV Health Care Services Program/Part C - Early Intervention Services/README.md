@@ -1,9 +1,5 @@
 Part C—Early Intervention Services
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 300ff–12, 300ff–101 of this title.
-
 
 ---
 

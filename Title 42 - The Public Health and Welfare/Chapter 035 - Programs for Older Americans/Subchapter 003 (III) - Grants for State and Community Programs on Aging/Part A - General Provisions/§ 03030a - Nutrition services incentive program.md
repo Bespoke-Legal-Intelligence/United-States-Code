@@ -6,7 +6,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (b) Allotment and provision and payment
 
-(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all subchapter X grantees underall such plans and applications approved for such preceding fiscal year.
+(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all subchapter X grantees under all such plans and applications approved for such preceding fiscal year.
 
 (2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X of this chapter for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the subchapter X grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the subchapter X grantee in the fiscal year for which the application was approved.
 
@@ -108,7 +108,7 @@ Subsec. (c)(1)(A). Pub. L. 99–269, §3(b), amended subpar. (A) generally. Prio
 
 Subsec. (d). Pub. L. 99–269, §4, added subsec. (d).
 
-1984—Subsec. (a)(4). Pub. L. 98–459, §310(a)(1), (2), substituted “subsection (c) of this section” for “subsection (d) of this section” and “Consumer Price Index for All Urban Consumers” for “Consumer Price Index”.
+1984—Subsec. (a)(4). Pub. L. 98–459, §310(a)(1), (2), substituted “subsection (c) of this section” for “subsection\(d) of this section” and “Consumer Price Index for All Urban Consumers” for “Consumer Price Index”.
 
 Subsec. (c). Pub. L. 98–459, §310(b)(1), which directed the amendment of this section by redesignating subsec. (d)(1) as (c)(1), was executed by redesignating subsec. (d) as (c) to reflect the probable intent of Congress.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1986 Amendment
 
-Section 5 of Pub. L. 99–269 provided that: “This Act and the amendments made by this Act \[amending this section and enacting provisions set out as notes underthis section and section 3001 of this title\] shall take effect on October 1, 1985.”
+Section 5 of Pub. L. 99–269 provided that: “This Act and the amendments made by this Act \[amending this section and enacting provisions set out as notes under this section and section 3001 of this title\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1984 Amendment
 
@@ -147,8 +147,4 @@ Pub. L. 104–37, title IV, Oct. 21, 1995, 109 Stat. 324, provided in part: “T
 #### Authorization of Appropriations
 
 Pub. L. 99–269, §3(a), Apr. 1, 1986, 100 Stat. 78, authorized appropriations for fiscal year 1985 in order to provide reimbursement at the level of 56.76 cents per meal during fiscal year 1985 determined under subsec. (a)(4) of this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1762a, 3030g–22 of this title; title 7 section 1431e.
 

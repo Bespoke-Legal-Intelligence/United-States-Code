@@ -34,11 +34,17 @@ Entitlement While Spouse Entitled to Basic Pay.—A member married to another me
 
 (e)
 
-Temporary Increase in Authorized Amount of Allowance.—For the period beginning on October 1, 2003, and ending on December 31, 2004, the monthly allowance authorized by subsection (a)(1) shall be increased to $250.
+Temporary Increase in Authorized Amount of Allowance.—For the period beginning on October 1, 2003, and ending on December 31, 2005, the monthly allowance authorized by subsection (a)(1) shall be increased to $250.
 
-(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 3, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, §1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504.)
+(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 3, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, §1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, §623(b), Oct. 28, 2004, 118 Stat. 1955.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–375, div. A, title VI, §623(b)(2), Oct. 28, 2004, 118 Stat. 1955, provided that, effective Jan. 1, 2006, subsection (a)(1) of this section is amended by substituting “$250” for “$100” and subsection (e) of this section is repealed.</i>
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–375, §623(b)(1), substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (a)(1). Pub. L. 108–11, §1316(b), (c), as amended by Pub. L. 108–136, §618(d)(2), temporarily substituted “$250” for “$100”. See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -98,6 +104,10 @@ Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
 Pub. L. 91–529 inserted provisions authorizing payment of an allowance under this subsection even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management or control, which he is likely to share with them as a common household when his duty assignment permits.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title VI, §623(b)(2), Oct. 28, 2004, 118 Stat. 1955, provided that the amendments made by section 623(b)(2) are effective Jan. 1, 2006.
+
 #### Effective and Termination Dates of 2003 Amendments
 
 Pub. L. 108–136, div. A, title VI, §618(d)(2), Nov. 24, 2003, 117 Stat. 1504, provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
@@ -136,7 +146,7 @@ Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a
 
 #### Savings Provision
 
-Section 618(b) of Pub. L. 99–661 provided that: “Notwithstanding the amendments made by subsection (a) \[amending this section\], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at theexpense of the United States under section 406 of title 37, United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) \[now (4)\] of such section, as added by subsection (a).”
+Section 618(b) of Pub. L. 99–661 provided that: “Notwithstanding the amendments made by subsection (a) \[amending this section\], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under section 406 of title 37, United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) \[now (4)\] of such section, as added by subsection (a).”
 
 #### Rates of Pay for Fiscal Year 2004
 

@@ -4,7 +4,3 @@ The Secretary shall not issue such quitclaim deeds or patents to any State, howe
 
 (Aug. 13, 1954, ch. 727, §2, 68 Stat. 703.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 641d of this title.
-

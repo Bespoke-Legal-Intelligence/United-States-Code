@@ -11,10 +11,6 @@
 
 1968—Pub. L. 90–284, title I, §104(a), Apr. 11, 1968, 82 Stat. 75, added chapter 102 and items 2101 and 2102.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 2516 of this title.
-
 
 ---
 

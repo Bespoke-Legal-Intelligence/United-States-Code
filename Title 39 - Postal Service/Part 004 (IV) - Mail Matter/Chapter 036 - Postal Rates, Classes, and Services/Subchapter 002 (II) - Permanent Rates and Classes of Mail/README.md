@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—PERMANENT RATES AND CLASSES OF MAIL
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3642, 3662, 3681, 3682 of this title.
-
 
 ---
 

@@ -18,7 +18,3 @@ Reference in section 208 of title 13, U.S.C., 1952 ed., to the offense, herein d
 
 Changes were made in phraseology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 307 of this title.
-

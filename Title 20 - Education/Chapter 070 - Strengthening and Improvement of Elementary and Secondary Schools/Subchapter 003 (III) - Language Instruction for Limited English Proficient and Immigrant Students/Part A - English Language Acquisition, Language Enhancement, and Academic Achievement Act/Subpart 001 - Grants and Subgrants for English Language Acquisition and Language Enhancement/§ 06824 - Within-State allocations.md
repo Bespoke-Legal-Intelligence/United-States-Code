@@ -30,7 +30,3 @@ A State educational agency receiving a grant under this subpart for a fiscal yea
 
 A prior section 3114 of Pub. L. 89–10 was classified to section 6814 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6821, 6822, 6823, 6825, 6826 of this title.
-

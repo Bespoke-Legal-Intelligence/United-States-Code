@@ -24,7 +24,3 @@ Each State educational agency receiving funds under this subpart shall develop, 
 
 (Pub. L. 89–10, title I, §1240, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1566.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6381b, 6381c, 6381g of this title.
-

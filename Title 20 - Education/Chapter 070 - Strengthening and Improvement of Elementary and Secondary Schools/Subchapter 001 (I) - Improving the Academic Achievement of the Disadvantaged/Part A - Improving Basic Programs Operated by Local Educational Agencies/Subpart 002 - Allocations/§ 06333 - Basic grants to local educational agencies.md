@@ -50,7 +50,7 @@
 
 #### (B) Direct allocations
 
-&emsp;&emsp;In any State in which a large number of local educational agencies overlap county boundaries, or for which the State believes it has data that would better target fundsthan allocating them by county, the State educational agency may apply to the Secretary for authority to make the allocations under this subpart for a particular fiscal year directly to local educational agencies without regard to counties.
+&emsp;&emsp;In any State in which a large number of local educational agencies overlap county boundaries, or for which the State believes it has data that would better target funds than allocating them by county, the State educational agency may apply to the Secretary for authority to make the allocations under this subpart for a particular fiscal year directly to local educational agencies without regard to counties.
 
 #### (C) Allocations to local educational agencies
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;For each fiscal year, the grant that the Commonwealth of Puerto Rico shall be eligible to receive under this section shall be the amount determined by multiplying the number of children counted under subsection (c) of this section for the Commonwealth of Puerto Rico by the product of—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Rico is of the lowest average per-pupil expenditure of any of the 50 States; and
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), the percentage that the average per-pupil expenditure in the Commonwealth of Puerto Ricois of the lowest average per-pupil expenditure of any of the 50 States; and
 
 &emsp;&emsp;&emsp;(ii) 32 percent of the average per-pupil expenditure in the United States.
 
@@ -128,7 +128,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (A) In general
 
-&emsp;&emsp;In fiscal year 2002 and each subsequent fiscal year, the Secretary shall use updated data on the number of children, aged 5 to 17, inclusive, from families below the poverty level for counties or local educational agencies, published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that the use of the updated population data would be inappropriate or unreliable. If appropriate and reliable data are not available annually, theSecretary shall use data which are updated every 2 years.
+&emsp;&emsp;In fiscal year 2002 and each subsequent fiscal year, the Secretary shall use updated data on the number of children, aged 5 to 17, inclusive, from families below the poverty level for counties or local educational agencies, published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that the use of the updated population data would be inappropriate or unreliable. If appropriate and reliable data are not available annually, the Secretary shall use data which are updated every 2 years.
 
 #### (B) Inappropriate or unreliable data
 
@@ -173,8 +173,4 @@ The Social Security Act, referred to in subsec. (c)(4)(A), is act Aug. 14, 1935,
 #### Prior Provisions
 
 A prior section 6333, Pub. L. 89–10, title I, §1124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3564; amended Pub. L. 104–193, title I, §110(j)(2), Aug. 22, 1996, 110 Stat. 2172, related to basic grants to local educational agencies, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1070a–24, 2351, 6316, 6332, 6334, 6335, 6337, 6338, 6362, 6364, 6368, 6512, 6534, 6537, 9602 of this title.
 

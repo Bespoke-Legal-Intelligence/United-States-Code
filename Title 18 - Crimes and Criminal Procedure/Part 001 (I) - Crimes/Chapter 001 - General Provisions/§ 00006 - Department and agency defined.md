@@ -18,7 +18,3 @@ The phrase “corporation in which the United States has a proprietary interest�
 
 Section 1 of Title 5, referred to in text, was repealed by Pub. L. 89–554, §8, Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 101 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 1821.
-

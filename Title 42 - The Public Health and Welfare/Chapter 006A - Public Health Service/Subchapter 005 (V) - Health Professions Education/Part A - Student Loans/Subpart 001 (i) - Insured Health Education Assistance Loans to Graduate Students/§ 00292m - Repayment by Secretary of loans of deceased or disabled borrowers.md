@@ -4,7 +4,3 @@ If a borrower who has received a loan dies or becomes permanently and totally di
 
 (July 1, 1944, ch. 373, title VII, §714, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2008.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 292b of this title.
-

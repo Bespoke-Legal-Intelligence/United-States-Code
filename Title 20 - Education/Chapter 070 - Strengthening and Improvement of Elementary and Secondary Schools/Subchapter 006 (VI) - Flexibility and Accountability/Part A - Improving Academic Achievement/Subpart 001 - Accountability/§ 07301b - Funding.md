@@ -50,7 +50,3 @@ Section 7302, Pub. L. 89–10, title VI, §6002, as added Pub. L. 103–382, tit
 
 Section 7303, Pub. L. 89–10, title VI, §6003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, defined “effective schools programs”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6311 of this title.
-

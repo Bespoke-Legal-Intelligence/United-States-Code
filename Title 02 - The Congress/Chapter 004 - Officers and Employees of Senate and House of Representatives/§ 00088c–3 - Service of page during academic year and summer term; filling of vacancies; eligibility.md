@@ -12,7 +12,7 @@
 
 &emsp;(B) shall not have begun the twelfth grade.
 
-(b)(1) An unforeseen vacancy occurring in a page position during an academic year may befilled, except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester.
+(b)(1) An unforeseen vacancy occurring in a page position during an academic year may be filled, except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester.
 
 (2) An individual who has served as a congressional page at any time during each of any three semesters or terms, as the case may be, shall not be eligible to serve as a page.
 
@@ -24,7 +24,7 @@ Section is based on section 3 of House Resolution No. 234, Ninety-eighth Congres
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–186, §204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
+1996—Subsec. (a)(1)(B). Pub. L. 104–186, §204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
 
 Subsec. (b)(1). Pub. L. 104–186, §204(40)(D), substituted “except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester” for “but no appointment to fill that vacancy shall be for a period of less than two months”.
 
@@ -33,8 +33,4 @@ Subsec. (b)(2). Pub. L. 104–186, §204(40)(E), substituted “semesters or ter
 #### Effective Date
 
 Section effective June 29, 1983, except that subsecs. (a)(1)(A) and (b)(2) applicable to terms beginning after Nov. 30, 1983, see note set out under section 88c–2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 88c–4 of this title.
 

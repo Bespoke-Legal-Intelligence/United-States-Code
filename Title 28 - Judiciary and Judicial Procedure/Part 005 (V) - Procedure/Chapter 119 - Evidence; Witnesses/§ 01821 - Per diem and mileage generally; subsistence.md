@@ -6,7 +6,7 @@
 
 (b) A witness shall be paid an attendance fee of $40 per day for each day's attendance. A witness shall also be paid the attendance fee for the time necessarily occupied in going to and returning from the place of attendance at the beginning and end of such attendance or at any time during such attendance.
 
-(c)(1) A witness who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarily traveled to and from such witness's residence by the shortest practical route in going to and returning from the place of attendance. Such awitness shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished.
+(c)(1) A witness who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarily traveled to and from such witness's residence by the shortest practical route in going to and returning from the place of attendance. Such a witness shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished.
 
 (2) A travel allowance equal to the mileage allowance which the Administrator of General Services has prescribed, pursuant to section 5704 of title 5, for official travel of employees of the Federal Government shall be paid to each witness who travels by privately owned vehicle. Computation of mileage under this paragraph shall be made on the basis of a uniformed table of distances adopted by the Administrator of General Services.
 
@@ -18,7 +18,7 @@
 
 (2) A subsistence allowance for a witness shall be paid in an amount not to exceed the maximum per diem allowance prescribed by the Administrator of General Services, pursuant to section 5702(a) of title 5, for official travel in the area of attendance by employees of the Federal Government.
 
-(3) A subsistence allowance for a witness attending in an area designated by the Administrator of General Services as a high-cost area shall be paid in an amount not to exceed the maximum actual subsistence allowance prescribed by the Administrator, pursuant to section 5702(c)(B) <sup>1</sup> of title 5, for official travel in such area by employees of the Federal Government.
+(3) A subsistence allowance for a witness attending in an area designated by the Administrator of General Services as a high-cost area shall be paid in an amount not to exceed the maximum actual subsistence allowance prescribed by the Administrator, pursuant to section 5702(c)(B) <sup>1</sup> of title 5, for official travel insuch area by employees of the Federal Government.
 
 (4) When a witness is detained pursuant to section 3144 of title 18 for want of security for his appearance, he shall be entitled for each day of detention when not in attendance at court, in addition to his subsistence, to the daily attendance fee provided by subsection (b) of this section.
 
@@ -113,10 +113,6 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 102–140, title I, §110, Oct. 28, 1991, 105 Stat. 795.
 
 Pub. L. 102–27, title II, §102, Apr. 10, 1991, 105 Stat. 136.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 530C, 604, 2503 of this title; title 12 section 3761; title 38 section 7253; title 42 sections 15202, 15606.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

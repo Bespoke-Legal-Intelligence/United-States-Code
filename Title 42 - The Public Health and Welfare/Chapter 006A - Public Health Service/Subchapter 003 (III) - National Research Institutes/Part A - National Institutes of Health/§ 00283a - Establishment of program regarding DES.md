@@ -22,7 +22,7 @@ After consultation with the Office of Research on Women's Health, the Director o
 
 #### (d) Exposure to DES in utero
 
-For purposes of this section, an individual shall be considered to have been exposed to DESin utero if, during the pregnancy that resulted in the birth of such individual, DES was (on or after January 1, 1938) administered to the biological mother of the individual.
+For purposes of this section, an individual shall be considered to have been exposed to DES in utero if, during the pregnancy that resulted in the birth of such individual, DES was (on or after January 1, 1938) administered to the biological mother of the individual.
 
 #### (e) Authorization of appropriations
 
@@ -33,8 +33,4 @@ In addition to any other authorization of appropriations available for the purpo
 #### Amendments
 
 1998—Subsec. (e). Pub. L. 105–340 substituted “2003” for “1996”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300u–9 of this title.
 

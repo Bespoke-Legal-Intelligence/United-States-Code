@@ -56,7 +56,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
-&emsp;(10) the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in a system of records from a source agency for use in a matching program;
+&emsp;(10) the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in asystem of records from a source agency for use in a matching program;
 
 &emsp;(11) the term “source agency” means any agency which discloses records contained in a system of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
 
@@ -86,7 +86,7 @@ Conditions of Disclosure.—No agency shall disclose any record which is contain
 
 &emsp;(9) to either House of Congress, or, to the extent of matter within its jurisdiction, any committee or subcommittee thereof, any joint committee of Congress or subcommittee of any such joint committee;
 
-&emsp;(10) to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the General Accounting Office;
+&emsp;(10) to the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the Government Accountability Office;
 
 &emsp;(11) pursuant to the order of a court of competent jurisdiction; or
 
@@ -122,7 +122,7 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;&emsp;(i) make any correction of any portion thereof which the individual believes is not accurate, relevant, timely, or complete; or
 
-&emsp;&emsp;&emsp;(ii) inform the individual of its refusal to amend the record in accordance with his request, the reason for the refusal, the procedures established by the agency for the individual to request a review of that refusal by the head of the agency or an officer designated by the head of the agency, and the name and business address of that official;
+&emsp;&emsp;&emsp;(ii) inform the individual of its refusal to amend the record in accordance with hisrequest, the reason for the refusal, the procedures established by the agency for the individual to request a review of that refusal by the head of the agency or an officer designated by the head of the agency, and the name and business address of that official;
 
 &emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
@@ -178,7 +178,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;(9) establish rules of conduct for persons involved in the design, development, operation, or maintenance of any system of records, or in maintaining any record, and instruct each such person with respect to such rules and the requirements of this section, including any other rules and procedures adopted pursuant to this section and the penalties for noncompliance;
 
-&emsp;(10) establish appropriate administrative, technical, and physical safeguards to insure the security and confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained;
+&emsp;(10) establish appropriate administrative, technical, and physical safeguards to insure the security and confidentiality of records andto protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained;
 
 &emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of this subsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
 
@@ -214,7 +214,7 @@ Civil Remedies.—Whenever any agency
 
 > the individual may bring a civil action against the agency, and the district courts of the United States shall have jurisdiction in the matters under the provisions of this subsection.
 
-(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual'srecord in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
+(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -228,7 +228,7 @@ Civil Remedies.—Whenever any agency
 
 &emsp;(B) the costs of the action together with reasonable attorney fees as determined by the court.
 
-(5) An action to enforce any liability created under this section may be brought in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, without regard to the amount in controversy, within two years from the date on which the cause of action arises, except that where an agency has materially and willfully misrepresented any information required under this section to be disclosed to an individual and the information so misrepresented is material to establishment of the liability of the agency to the individual under this section, the action may be brought at any time within two years after discovery by the individual of the misrepresentation. Nothing in this section shall be construed to authorize any civil action by reason of any injury sustained as the result of a disclosure of a record prior to September 27, 1975.
+(5) An action to enforce any liability created under this section may be brought in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, without regard to the amount in controversy, within two years from the date on which the cause of action arises, except that where an agency has materially and willfullymisrepresented any information required under this section to be disclosed to an individual and the information so misrepresented is material to establishment of the liability of the agency to the individual under this section, the action may be brought at any time within two years after discovery by the individual of the misrepresentation. Nothing in this section shall be construed to authorize any civil action by reason of any injury sustained as the result of a disclosure of a record prior to September 27, 1975.
 
 (h)
 
@@ -438,7 +438,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 (B) The Board may waive the requirements of subparagraph (A) of this paragraph if it determines in writing, in accordance with guidelines prescribed by the Director of the Office of Management and Budget, that a cost-benefit analysis is not required.
 
-(C) A cost-benefit analysis shall not be required under subparagraph (A) prior to the initial approval of a written agreement for a matching program that is specifically required by statute. Any subsequent written agreement for such a program shall not be approved by theData Integrity Board unless the agency has submitted a cost-benefit analysis of the program as conducted under the preceding approval of such agreement.
+(C) A cost-benefit analysis shall not be required under subparagraph (A) prior to the initial approval of a written agreement for a matching program that is specifically required by statute. Any subsequent written agreement for such a program shall not be approved by the Data Integrity Board unless the agency has submitted a cost-benefit analysis of the program as conducted under the preceding approval of such agreement.
 
 (5)(A) If a matching agreement is disapproved by a Data Integrity Board, any party to such agreement may appeal the disapproval to the Director of the Office of Management and Budget. Timely notice of the filing of such an appeal shall be provided by the Director of the Office of Management and Budget to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
 
@@ -464,7 +464,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975,89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -485,6 +485,8 @@ For classification of the Privacy Act of 1974, referred to in subsec. (s)(4), se
 Section 552a of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2244 of Title 7, Agriculture.
 
 #### Amendments
+
+2004—Subsec. (b)(10). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1999—Subsec. (a)(8)(B)(viii). Pub. L. 106–170 added cl. (viii).
 
@@ -540,11 +542,13 @@ Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or
 
 Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of thissection during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
@@ -624,9 +628,117 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (s) 
 
 Functions of Director of Office of Management and Budget under this section delegated to Administrator for Office of Information and Regulatory Affairs by section 3 of Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2825, set out as a note under section 3503 of Title 44, Public Printing and Documents.
 
+#### Privacy and Data Protection Policies and Procedures
+
+Pub. L. 108–447, div. H, title V, §522, Dec. 8, 2004, 118 Stat. 3268, provided that:
+
+“(a)
+
+Privacy Officer.—Each agency shall have a Chief Privacy Officer to assume primary responsibility for privacy and data protection policy, including—
+
+&emsp;“(1) assuring that the use of technologies sustain, and do not erode, privacy protections relating to the use, collection, and disclosure of information in an identifiable form;
+
+&emsp;“(2) assuring that technologies used to collect, use, store, and disclose information in identifiable form allow for continuous auditing of compliance with stated privacy policies and practices governing the collection, use and distribution of information in the operation of the program;
+
+&emsp;“(3) assuring that personal information contained in Privacy Act systems of records is handled in full compliance with fair information practices as defined in the Privacy Act of 1974 \[see Short Title of 1974 Amendment note, set out above\];
+
+&emsp;“(4) evaluating legislative and regulatory proposals involving collection, use, and disclosure of personal information by the Federal Government;
+
+&emsp;“(5) conducting a privacy impact assessment of proposed rules of the Department on the privacy of information in an identifiable form, including the type of personally identifiable information collected and the number of people affected;
+
+&emsp;“(6) preparing a report to Congress on an annual basis on activities of the Department that affect privacy, including complaints of privacy violations, implementation of section 552a of title 5, 11 \[sic\] United States Code, internal controls, and other relevant matters;
+
+&emsp;“(7) ensuring that the Department protects information in an identifiable form and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction;
+
+&emsp;“(8) training and educating employees on privacy and data protection policies to promote awareness of and compliance with established privacy and data protection policies; and
+
+&emsp;“(9) ensuring compliance with the Departments established privacy and data protection policies.
+
+“(b)
+
+Establishing Privacy and Data Protection Procedures and Policies.—
+
+&emsp;“(1) \[sic\]
+
+In general.—Within 12 months of enactment of this Act \[Dec. 8, 2004\], each agency shall establish and implement comprehensive privacy and data protection procedures governing the agency's collection, use, sharing, disclosure, transfer, storage and security of information in an identifiable form relating to the agency employees and the public. Such procedures shall be consistent with legal and regulatory guidance, including OMB regulations, the Privacy Act of 1974, and section 208 of the E-Government Act of 2002 \[section 208 of Pub. L. 107–347, set out in a note under section 3501 of Title 44, Public Printing and Documents\].
+
+“(c)
+
+Recording.—Each agency shall prepare a written report of its use of information in an identifiable form, along with its privacy and data protection policies and procedures and record it with the Inspector General of the agency to serve as a benchmark for the agency. Each report shall be signed by the agency privacy officer to verify that the agency intends to comply with the procedures in the report. By signing the report the privacy officer also verifies that the agency is only using information in identifiable form as detailed in the report.
+
+“(d)
+
+Independent, Third-Party Review.—
+
+&emsp;“(1)
+
+In general.—At least every 2 years, each agency shall have performed an independent, third party review of the use of information in identifiable form as the privacy and data protection procedures of the agency to—
+
+&emsp;&emsp;“(A) determine the accuracy of the description of the use of information in identifiable form;
+
+&emsp;&emsp;“(B) determine the effectiveness of the privacy and data protection procedures;
+
+&emsp;&emsp;“(C) ensure compliance with the stated privacy and data protection policies of the agency and applicable laws and regulations; and
+
+&emsp;&emsp;“(D) ensure that all technologies used to collect, use, store, and disclose information in identifiable form allow for continuous auditing of compliance with stated privacy policies and practices governing the collection, use and distribution of information in the operation of the program.
+
+&emsp;“(2)
+
+Purposes.—The purposes of reviews under this subsection are to—
+
+&emsp;&emsp;“(A) ensure the agency's description of the use of information in an identifiable form is accurate and accounts for the agency's current technology and its processing of information in an identifiable form;
+
+&emsp;&emsp;“(B) measure actual privacy and data protection practices against the agency's recorded privacy and data protection procedures;
+
+&emsp;&emsp;“(C) ensure compliance and consistency with both online and offline stated privacy and data protection policies; and
+
+&emsp;&emsp;“(D) provide agencies with ongoing awareness and recommendations regarding privacy and data protection procedures.
+
+&emsp;“(3)
+
+Requirements of review.—The Inspector General of each agency shall contract with an independent, third party that is a recognized leader in privacy consulting, privacy technology, data collection and data use management, and global privacy issues, to—
+
+&emsp;&emsp;“(A) evaluate the agency's use of information in identifiable form;
+
+&emsp;&emsp;“(B) evaluate the privacy and data protection procedures of the agency; and
+
+&emsp;&emsp;“(C) recommend strategies and specific steps to improve privacy and data protection management.
+
+&emsp;“(4)
+
+Content.—Each review under this subsection shall include—
+
+&emsp;&emsp;“(A) a review of the agency's technology, practices and procedures with regard to the collection, use, sharing, disclosure, transfer and storage of information in identifiable form;
+
+&emsp;&emsp;“(B) a review of the agency's stated privacy and data protection procedures with regard to the collection, use, sharing, disclosure, transfer, and security of personal information in identifiable form relating to agency employees and the public;
+
+&emsp;&emsp;“(C) a detailed analysis of agency intranet, network and Websites for privacy vulnerabilities, including—
+
+&emsp;&emsp;&emsp;“(i) noncompliance with stated practices, procedures and policies; and
+
+&emsp;&emsp;&emsp;“(ii) risks for inadvertent release of information in an identifiable form from the website of the agency; and
+
+&emsp;&emsp;“(D) a review of agency compliance with this Act \[div. H of Pub. L. 108–447, see Tables for classification\].
+
+“(e)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Upon completion of a review, the Inspector General of an agency shall submit to the head of that agency a detailed report on the review, including recommendations for improvements or enhancements to management of information in identifiable form, and the privacy and data protection procedures of the agency.
+
+&emsp;“(2)
+
+Internet availability.—Each agency shall make each independent third party review, and each report of the Inspector General relating to that review available to the public.
+
+“(f)
+
+Definition.—In this section, the definition of ‘identifiable form’ is consistent with Public Law 107–347, the E-Government Act of 2002 \[see Tables for classification\], and means any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means.”
+
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 
-Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
+Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office ofManagement and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
 
 #### Limitation on Application of Verification Requirement
 
@@ -682,7 +794,7 @@ Section 2 of Pub. L. 93–579 provided that:
 
 &emsp;“(2) permit an individual to prevent records pertaining to him obtained by such agencies for a particular purpose from being used or made available for another purpose without his consent;
 
-&emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, tohave a copy made of all or any portion thereof, and to correct or amend such records;
+&emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, to have a copy made of all or any portion thereof, and to correct or amend such records;
 
 &emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequate safeguards are provided to prevent misuse of such information;
 
@@ -719,10 +831,6 @@ Section 9 of Pub. L. 93–579, as amended by Pub. L. 94–394, Sept. 3, 1976, 90
 #### Classified National Security Information
 
 For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 12958, §3.7, Apr. 17, 1995, 60 F.R. 19835, set out as a note under section 435 of Title 50, War and National Defense.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 6 section 142; title 7 sections 2204b, 2279b, 7035; title 10 sections 1102, 1506, 1588, 1596b; title 12 section 1715z; title 14 section 645; title 15 section 7215; title 16 sections 410cc–35, 1536; title 18 section 2707; title 19 section 1631; title 20 sections 1080a, 1090, 9514, 9573, 9622; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 310, 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 1395cc–2, 3544, 7385i, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506, 3538, 3549, 3602; title 46 sections 7702, 9303; title 49 section 30305; title 50 sections 432, 432a, 432b; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

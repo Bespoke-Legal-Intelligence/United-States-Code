@@ -110,7 +110,3 @@ This chapter, referred to in subsec. (c)(7)(A), was in the original “this Act�
 
 1984—Subsec. (c)(1)(C)(iii). Pub. L. 98–369 substituted “September 26, 1980” for “April 29, 1980”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1381, 1386, 1391, 1396, 1401, 1403, 1415 of this title.
-

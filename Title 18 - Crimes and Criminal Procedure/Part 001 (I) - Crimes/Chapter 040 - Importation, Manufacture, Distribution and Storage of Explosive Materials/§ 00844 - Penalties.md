@@ -36,7 +36,7 @@
 
 &emsp;(A) the possession of ammunition (as that term is defined in regulations issued pursuant to this chapter) in an airport that is subject to the regulatory authority of the Federal Aviation Administration if such ammunition is either in checked baggage or in a closed container; or
 
-&emsp;(B) the possession of an explosive in an airport if the packaging and transportation of such explosive is exempt from, or subject to and in accordance with, regulations of the Research and Special Projects Administration for the handling of hazardous materials pursuant to chapter 51 of title 49.
+&emsp;(B) the possession of an explosive in an airport if the packaging and transportation of such explosive is exempt from, or subject to and in accordance with, regulations of the Pipeline and Hazardous Materials Safety Administration for the handling of hazardous materials pursuant to chapter 51 of title 49.
 
 (h) Whoever—
 
@@ -44,7 +44,7 @@
 
 &emsp;(2) carries an explosive during the commission of any felony which may be prosecuted in a court of the United States,
 
-> including a felony which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device shall, in addition to the punishment provided for such felony, be sentenced to imprisonment for 10 years. In the case of a second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for 20 years. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the felony in which the explosive was used or carried.
+> including a felony which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device shall, in addition to the punishment provided for suchfelony, be sentenced to imprisonment for 10 years. In the case of a second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for 20 years. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the felony in which the explosive was used or carried.
 
 (i) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other real or personal property used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall also be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
@@ -72,7 +72,7 @@ In general.—A holder of a license or permit who knows that explosive materials
 
 Penalty.—A holder of a license or permit who does not report a theft in accordance with paragraph (1), shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, §2(b), Aug. 17, 1999, 113 Stat. 399; Pub. L. 107–296, title XI, §§1112(e)(3), 1125, 1127, Nov. 25, 2002, 116 Stat. 2276, 2285.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, §2(b), Aug. 17, 1999, 113 Stat. 399; Pub. L. 107–296, title XI, §§1112(e)(3), 1125, 1127, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 108–426, §2(c)(6), Nov. 30, 2004, 118 Stat. 2424.)
 
 #### References in Text
 
@@ -81,6 +81,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(1), is set out as 
 Section 5845(a) of that Code, referred to in subsec. (c)(1), is section 5845(a) of Title 26.
 
 #### Amendments
+
+2004—Subsec. (g)(2)(B). Pub. L. 108–426 substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
 2002—Subsec. (c)(2), (3). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
@@ -96,7 +98,7 @@ Subsec. (j). Pub. L. 106–54, §2(b)(2), inserted “and section 842(p)” afte
 
 Subsec. (e). Pub. L. 104–132, §§708(a)(1), 724, substituted “interstate or foreign commerce, or in or affecting interstate or foreign commerce,” for “commerce” and “10” for “five”.
 
-Subsec. (f). Pub. L. 104–132, §708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
+Subsec. (f). Pub. L. 104–132, §708(a)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned, possessed, or used by, or leased to, the United States, any department or agency thereof, or any institution or organization receiving Federal financial assistance shall be imprisoned for not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.”
 
 Subsec. (h). Pub. L. 104–132, §708(a)(3), in concluding provisions, substituted “10 years” and “20 years” for “5 years but not more than 15 years” and “10 years but not more than 25 years”, respectively.
 
@@ -179,10 +181,6 @@ Section 320917(b) of Pub. L. 103–322 provided that: “The amendment made by s
 #### Effective Date
 
 Subsecs. (a) to (c) of this section effective 120 days after Oct. 15, 1970, and subsecs. (d) to (j) of this section effective on Oct. 15, 1970, see section 1105(a), (b), set out as a note under section 841 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 841, 842, 845, 846, 981, 982, 1956, 2332b, 2332f, 2339, 2339A, 2516, 3295, 3592, 5032 of this title; title 8 section 1101.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Attorney General”.</i>
 

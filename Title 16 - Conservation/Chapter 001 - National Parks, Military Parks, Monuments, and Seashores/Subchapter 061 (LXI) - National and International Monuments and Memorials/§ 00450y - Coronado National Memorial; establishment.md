@@ -16,7 +16,3 @@ Monument and boundaries established by Presidential Proc. No. 2995, Nov. 5, 1952
 
 c18.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 450y–1, 450y–2, 450y–3, 450y–5 of this title.
-

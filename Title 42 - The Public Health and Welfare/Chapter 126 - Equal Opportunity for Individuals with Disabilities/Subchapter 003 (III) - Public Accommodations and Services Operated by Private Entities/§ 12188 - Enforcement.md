@@ -76,9 +76,5 @@ Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 1
 
 For provisions directing that, except for any civil action brought for a violation of section 12183 of this title, no civil action shall be brought for any act or omission described in section 12182 of this title which occurs (1) during the first six months after the effective date of this subchapter, against businesses that employ 25 or fewer employees and have gross receipts of $1,000,000 or less, and (2) during the first year after the effective date, against businesses that employ 10 or fewer employees and have gross receipts of $500,000 or less, see section 310(b) of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12203 of this title; title 2 section 1331; title 3 section 421.
-
 <i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
 

@@ -14,5 +14,5 @@
 
 #### Prior Provisions
 
-A prior section 562, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619, related to appointment of deputy marshals and clerical assistants, prior to repeal by Pub. L. 100–690, §7608(a)(1). See section 561(f) of this title.
+A prior section 562, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619, related to appointment of deputymarshals and clerical assistants, prior to repeal by Pub. L. 100–690, §7608(a)(1). See section 561(f) of this title.
 

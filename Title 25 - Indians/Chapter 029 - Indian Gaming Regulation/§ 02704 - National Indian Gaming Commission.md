@@ -62,7 +62,3 @@ The Commission shall meet at the call of the Chairman or a majority of its membe
 
 (Pub. L. 100–497, §5, Oct. 17, 1988, 102 Stat. 2469.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2703 of this title.
-

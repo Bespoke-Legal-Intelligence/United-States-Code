@@ -8,7 +8,3 @@ At any time on or after November 12, 2001, the United States Capitol Police may 
 
 Section was classified to section 206d of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1972 of this title.
-

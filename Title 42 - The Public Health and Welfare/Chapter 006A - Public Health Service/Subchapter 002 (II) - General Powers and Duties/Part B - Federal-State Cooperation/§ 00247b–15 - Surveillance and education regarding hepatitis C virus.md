@@ -12,7 +12,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(4) To develop and disseminate public information and education programs for the detection and control of HCV infection, with priority given to high risk populations as determined by the Secretary.
 
-&emsp;(5) To improve the education, training, and skills of health professionals in the detection and control of HCV infection, with prioritygiven to pediatricians and other primary care physicians, and obstetricians and gynecologists.
+&emsp;(5) To improve the education, training, and skills of health professionals in the detection and control of HCV infection, with priority given to pediatricians and other primary care physicians, and obstetricians and gynecologists.
 
 #### (b) Laboratory procedures
 

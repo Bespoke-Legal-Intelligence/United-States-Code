@@ -32,7 +32,7 @@
 
 (2) The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
 
-(3)(A)(i) The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraph referred to as “EPSCoR”) as part of the Department of Energy's University and Science Education Programs.
+(3)(A)(i) The Director of the Office of Science shall operate an Experimental Program to Stimulate Competitive Research (in this paragraphreferred to as “EPSCoR”) as part of the Department of Energy's University and Science Education Programs.
 
 (ii) The objectives of EPSCoR shall be—
 
@@ -83,8 +83,4 @@ There are authorized to be appropriated to the Secretary for Supporting Research
 #### Amendments
 
 1998—Subsec. (b)(3)(A)(i). Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13504 of this title.
 

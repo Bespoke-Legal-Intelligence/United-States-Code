@@ -20,7 +20,7 @@ Any State that desires to receive assistance under this part shall submit to the
 
 #### (b) Statewide summary
 
-The statewide summary referred to in subsection (a)(2) of this section shall be submitted annually to the Secretary and shall be derived from the evaluation information submitted by local educational agencies to the State educational agency under section 7215b(b)(8) of this title. The State educational agency shall determine the format and content of such summary and may include in the summary statistical measures, such as the number of students served by each type of innovative assistance program described in section 7215 of this title and the number of teachers trained.
+The statewide summary referred to in subsection (a)(2) of this section shall be submitted annually to the Secretary and shall be derived from the evaluation information submitted by local educational agencies to the State educational agency under section 7215b(b)(8) of this title. The State educational agency shall determine the format and content of such summaryand may include in the summary statistical measures, such as the number of students served by each type of innovative assistance program described in section 7215 of this title and the number of teachers trained.
 
 #### (c) Period of application
 

@@ -82,7 +82,3 @@ Sec. 6. This Order shall be effective as of October 1, 1977, the effective date 
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7159, 7174 of this title; title 15 section 3418; title 16 section 824a–4.
-

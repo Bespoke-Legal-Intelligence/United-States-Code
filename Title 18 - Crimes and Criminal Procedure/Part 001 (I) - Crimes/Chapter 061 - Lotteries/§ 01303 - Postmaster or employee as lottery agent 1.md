@@ -18,9 +18,5 @@ Based on title 18 U.S.C., 1940 ed., §337 (Mar. 4, 1909, ch. 321, §214, 35 Stat
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established thereby by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1307 of this title; title 25 section 2720; title 39 section 3005.
-
 <i><sup>1</sup></i><i> Section catchline was not amended to conform to change made in the text by Pub. L. 91–375.</i>
 

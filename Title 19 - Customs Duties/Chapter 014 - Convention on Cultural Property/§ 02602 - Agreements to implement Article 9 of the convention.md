@@ -110,7 +110,7 @@ If any request described in subsection (a) of this section is made by a State Pa
 
 #### (3) Information relating to committee recommendations
 
-&emsp;If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which containsthe reasons why such agreement was not entered into.
+&emsp;If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which contains the reasons why such agreement was not entered into.
 
 (Pub. L. 97–446, title III, §303, Jan. 12, 1983, 96 Stat. 2352.)
 
@@ -165,10 +165,6 @@ Sec. 3. <i>Department of the Treasury \[The Department of Homeland Security\]</i
 Sec. 4. <i>Enforcement in Territories and Other Areas</i>. The Secretary of the Interior is designated to carry out the enforcement functions in section 314 \[19 U.S.C. 2613\].
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2603, 2604, 2605 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “exchange”.</i>
 

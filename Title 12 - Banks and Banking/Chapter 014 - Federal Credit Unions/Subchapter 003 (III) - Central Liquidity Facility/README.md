@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1757 of this title; title 26 section 501.
-
 <i><sup>1</sup></i><i> So in original. The word “is” probably should not appear.</i>
 
 

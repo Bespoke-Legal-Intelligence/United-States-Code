@@ -42,7 +42,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(D) how funds will be used to improve or develop new vocational and technical education courses;
 
-&emsp;(2) describes how comprehensive professional development (including initial teacher preparation) for vocational and technical, academic, guidance, and administrative personnel will be provided;
+&emsp;(2) describes how comprehensive professional development (including initial teacher preparation) for vocational and technical, academic,guidance, and administrative personnel will be provided;
 
 &emsp;(3) describes how the eligible agency will actively involve parents, teachers, local businesses (including small- and medium-sized businesses), and labor organizations in the planning, development, implementation, and evaluation of such vocational and technical education programs;
 
@@ -92,7 +92,7 @@ The State plan shall include information that—
 
 &emsp;(19) describes how funds will be used effectively to link secondary and postsecondary education;
 
-&emsp;(20) describes how the eligible agency will ensure that the data reported to the eligible agency from local educational agencies and eligible institutions under this subchapter andthe data the eligible agency reports to the Secretary are complete, accurate, and reliable; and
+&emsp;(20) describes how the eligible agency will ensure that the data reported to the eligible agency from local educational agencies and eligible institutions under this subchapter and the data the eligible agency reports to the Secretary are complete, accurate, and reliable; and
 
 &emsp;(21) contains the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts.
 
@@ -135,8 +135,4 @@ Provisions similar to this section were contained in section 2323 of this title,
 A prior section 2342, Pub. L. 88–210, title II, §235, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Another prior section 2342, Pub. L. 88–210, title II, §252, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2323, 2343, 2354 of this title.
 

@@ -40,7 +40,3 @@ Offenses.—A person who—
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3294 of this title.
-

@@ -82,7 +82,3 @@
 
 (Pub. L. 104–127, title V, §537, Apr. 4, 1996, 110 Stat. 1058.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7445 of this title.
-

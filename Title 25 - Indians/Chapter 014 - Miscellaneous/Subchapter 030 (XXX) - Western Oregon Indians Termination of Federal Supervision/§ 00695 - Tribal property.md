@@ -18,7 +18,3 @@ When approving or disapproving the selection of trustees in accordance with the 
 
 (Aug. 13, 1954, ch. 733, §5, 68 Stat. 725.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 694 of this title.
-

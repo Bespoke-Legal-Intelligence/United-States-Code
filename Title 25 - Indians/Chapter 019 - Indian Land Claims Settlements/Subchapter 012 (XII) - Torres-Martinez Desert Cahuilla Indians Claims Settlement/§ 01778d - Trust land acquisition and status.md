@@ -50,7 +50,7 @@ All lands acquired by the Tribe under subsection (a) of this section shall—
 
 &emsp;(1) be subject to all valid water rights existing at the time of tribal acquisition, including (but not limited to) all rights under any permit or license issued under the laws of the State of California to commence an appropriation of water, to appropriate water, or to increase the amount of water appropriated;
 
-&emsp;(2) be subject to the paramount rights of any person who at any time recharges or storeswater in a ground water basin to recapture or recover the recharged or stored water or to authorize others to recapture or recover the recharged or stored water; and
+&emsp;(2) be subject to the paramount rights of any person who at any time recharges or stores water in a ground water basin to recapture or recover the recharged or stored water or to authorize others to recapture or recover the recharged or stored water; and
 
 &emsp;(3) continue to enjoy all valid water rights appurtenant to the land existing immediately prior to the time of tribal acquisition.
 

@@ -8,7 +8,7 @@
 
 #### (b) Programing and budgeting procedures
 
-In order to make sure that a dollar spent on military assistance to foreign countries is asnecessary as a dollar spent for the United States military establishment, the President shall establish procedures for programing and budgeting so that programs of military assistance come into direct competition for financial support with other activities and programs of the Department of Defense.
+In order to make sure that a dollar spent on military assistance to foreign countries is as necessary as a dollar spent for the United States military establishment, the President shall establish procedures for programing and budgeting so that programs of military assistance come into direct competition for financial support with other activities and programs of the Department of Defense.
 
 (Pub. L. 87–195, pt. II, §504, Sept. 4, 1961, 75 Stat. 436; Pub. L. 88–205, pt. II, §202(a), Dec. 16, 1963, 77 Stat. 384; Pub. L. 88–633, pt. II, §201(b), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(b), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. II, §201(a), Sept. 19, 1966, 80 Stat. 802; Pub. L. 90–137, pt. II, §201(c), Nov. 14, 1967, 81 Stat. 455; Pub. L. 90–554, pt. II, §201(a), Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. II, §201, Dec. 30, 1969, 83 Stat. 819; Pub. L. 92–226, pt. II, §201(a), Feb. 7, 1972, 86 Stat. 25; Pub. L. 93–189, §12(b)(2), Dec. 17, 1973, 87 Stat. 721; Pub. L. 93–559, §10, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–329, title I, §101, June 30, 1976, 90 Stat. 729; Pub. L. 95–23, Apr. 30, 1977, 91 Stat. 54; Pub. L. 95–92, §5(a), Aug. 4, 1977, 91 Stat. 614; Pub. L. 95–384, §7(a), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(a), Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title I, §112(b), Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §110(a), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §103, Aug. 8, 1985, 99 Stat. 195.)
 
@@ -46,7 +46,7 @@ Subsec. (a)(5) to (8). Pub. L. 95–92 struck out pars. (5) to (8) which provide
 
 1969—Subsec. (a). Pub. L. 91–175 substituted “$350,000,000 for the fiscal year 1970, and $350,000,000 for the fiscal year 1971” for “$375,000,000 for the fiscal year 1969,” and inserted provisions cost-sharing expenses of United States participation in the military headquarters and related agencies program.
 
-1968—Subsec. (a). Pub. L. 90–554 substituted “1969” and “$375,000,000” for “1968” and “$510,000,000”, respectively, struck out provisions which made $24,100,000 of authorization available for fiscal year 1968, for cost-sharing expenses, and which prohibited other availablefunds from being used for cost-sharing expenses, and prohibited use of appropriated funds for weapons systems expenditures without Presidential determination of importance to national security and report to Congress, respectively.
+1968—Subsec. (a). Pub. L. 90–554 substituted “1969” and “$375,000,000” for “1968” and “$510,000,000”, respectively, struck out provisions which made $24,100,000 of authorization available for fiscal year 1968, for cost-sharing expenses, and which prohibited other available funds from being used for cost-sharing expenses, and prohibited use of appropriated funds for weapons systems expenditures without Presidential determination of importance to national security and report to Congress, respectively.
 
 1967—Subsec. (a). Pub. L. 90–137 substituted provisions authorizing appropriation of $510,000,000 for fiscal year 1968 for provisions authorizing appropriation of $875,000,000 for fiscal year 1967 in addition to such amounts as may be otherwise authorized to support Vietnamese forces and other free world forces in Vietnam, made $24,100,000 of such authorization available for fiscal year 1968 for cost-sharing expenses, and prohibited other available funds from being used for such cost-sharing expenses.
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2321i, 2321j of this title.
 

@@ -44,7 +44,3 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4304, 4353 of this title.
-

@@ -6,7 +6,7 @@ Within 6 months after January 14, 1983, the Secretary and the Governor of Alaska
 
 #### (b) Inspection, etc., of rail properties and records; terms and conditions; restrictions
 
-During the period from January 14, 1983, until the date of transfer, the State shall have the right to inspect, analyze, photograph, photocopy and otherwise evaluate all of the rail properties of the Alaska Railroad and all records related to the rail properties of the Alaska Railroad maintained by any agency of the United States under conditions established by the Secretary to protect the confidentiality of proprietary business data, personnel records, and other information, the public disclosure of which is prohibited by law. During that period, the Secretary and the Alaska Railroad shall not, without the consent of the State and only in conformity with applicable law and the Memorandum of Understanding referred to in section 1205(b)(3) of this title—
+During the period from January 14, 1983, until the date of transfer, the State shall have theright to inspect, analyze, photograph, photocopy and otherwise evaluate all of the rail properties of the Alaska Railroad and all records related to the rail properties of the Alaska Railroad maintained by any agency of the United States under conditions established by the Secretary to protect the confidentiality of proprietary business data, personnel records, and other information, the public disclosure of which is prohibited by law. During that period, the Secretary and the Alaska Railroad shall not, without the consent of the State and only in conformity with applicable law and the Memorandum of Understanding referred to in section 1205(b)(3) of this title—
 
 &emsp;(1) make or incur any obligation to make any individual capital expenditure of money from the Alaska Railroad Revolving Fund in excess of $300,000;
 
@@ -43,10 +43,6 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 
 See section 1341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 712, 1203, 1205, 1210, 1212 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -54,6 +54,8 @@ The Chairman of the Commission shall be appointed by the President, by and with 
 
 #### Change of Name
 
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(2) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1988 Amendment
@@ -66,7 +68,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Appointment of Initial Members
 
-Section 302(a) of Pub. L. 95–622 directed President to initially appoint members to President's Commissionfor the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research (established under the amendment made by section 301) \[enacting this subchapter\] not later than 90 days after Nov. 9, 1978.
+Section 302(a) of Pub. L. 95–622 directed President to initially appoint members to President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research (established under the amendment made by section 301) \[enacting this subchapter\] not later than 90 days after Nov. 9, 1978.
 
 #### Executive Order No. 12184
 

@@ -60,9 +60,5 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 Pub. L. 106–531, §5(a)(2), Nov. 22, 2000, 114 Stat. 2539, provided that: “Notwithstanding subsection (a) of section 1116 of title 31, United States Code (as amended by paragraph (1) of this subsection), an agency head may submit a report under such subsection not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1115, 1117, 1118, 1119, 3516 of this title; title 23 section 508; title 40 section 11315; title 41 section 414; title 44 sections 3534, 3544; title 49 section 44501.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ In the event of the termination of a credit union's status as an insured credit 
 
 #### (d) Continuation of insurance for one year; approval of conversion of status; procedure subsequent to approval; reduction of premium charges
 
-(1) After the termination of the insured status of any credit union as provided under subsection (a)(1) or (b) of this section, insurance of its member accounts to the extent that they were insured on the effective date of such termination, less any amounts thereafter withdrawn which reduce the accounts below the amount covered by insurance on the effective date of such termination, shall continue for a period of one year, but no shares issued by the credit union or deposits made after the date of such termination shall be insured by the Board. The credit union shall continue to maintain its deposit with and pay premiums to the Board during such period as in the case of an insured credit union and the Board shall have the right to examine such credit union from time to time during the period during which such insurance continues. Such credit union shall, in all other respects, be subject to the duties and obligations of an insured credit union for the period of one year from the date of such termination. In the event that such credit union shall be closed for liquidation within such period of one year, the Board shall have the same powers and rights with respect to such credit union as in the case of an insured credit union. Notwithstanding the above, when an insured credit union's insured status is terminated and the credit union subsequently obtains comparable insurance coverage from another source, insurance of its accounts by the fund may cease immediately upon the effective date of such comparable coverage by mutual consent of the credit union and the Board.
+(1) After the termination of the insured status of any credit union as provided under subsection (a)(1) or (b) of this section, insurance of its member accounts to the extent that they were insured on the effective date of such termination, less any amounts thereafter withdrawn which reduce the accounts below the amount covered by insurance on the effective date of such termination, shall continue for a period of one year, but no shares issued by the credit union or deposits made after the date of such termination shall be insured by the Board. The credit union shall continue to maintain its deposit with and pay premiums to the Board during such period as in the case of an insured credit union and the Board shall have the right to examine such credit union from time to time during the period during which such insurance continues. Such credit union shall, in all other respects, be subject to the duties and obligationsof an insured credit union for the period of one year from the date of such termination. In the event that such credit union shall be closed for liquidation within such period of one year, the Board shall have the same powers and rights with respect to such credit union as in the case of an insured credit union. Notwithstanding the above, when an insured credit union's insured status is terminated and the credit union subsequently obtains comparable insurance coverage from another source, insurance of its accounts by the fund may cease immediately upon the effective date of such comparable coverage by mutual consent of the credit union and the Board.
 
 (2) No credit union shall convert from status as an insured credit union under this chapter as provided under subsection (a)(2) of this section until the proposition for such conversion has been approved by a majority of all the directors of the credit union, and by affirmative vote of a majority of the members of the credit union who vote on the proposition in a vote in which at least 20 per centum of the total membership of the credit union participates. Following approval by the directors, written notice of the proposition and of the date set for the membership vote shall be delivered in person to each member, or mailed to each member at the address for such member appearing on the records of the credit union, not more than thirty nor less than seven days prior to such date. The membership shall be given the opportunity to vote by mail ballot. If the proposition is approved by the membership, prompt and reasonable notice of insurance conversion shall be given to all members.
 
@@ -186,7 +186,7 @@ Prohibition of certain specific activities.—Any person subject to an order iss
 
 &emsp;(D) vote for a director, or serve or act as an institution-affiliated party.
 
-(6) Within ten days after any director, officer, committee member, or other person has been suspended from office and/or prohibited from participation in the conduct of the affairs of an insured credit union under paragraph (3) of this subsection, such director, officer, committee member, or other person may apply to the United States district court for the judicial district in which the principal office of the credit union is located, or the United States District Court for the District of Columbia, for a stay of such suspension and/or prohibition pending the completion of the administrative proceedings pursuant to the notice served upon such director, officer, committee member, or other person under paragraph (1) or (2) of this subsection, and such court shall have jurisdiction to stay such suspension and/or prohibition.
+(6) Within ten days after any director, officer, committee member, or other person has been suspended from office and/or prohibited from participation in the conduct of the affairs of an insured credit union under paragraph (3) of this subsection, such director, officer, committee member, or other person may apply to the United States district court for the judicial district in which the principal office of the credit union is located, or the United States District Court for the District of Columbia, for a stay ofsuch suspension and/or prohibition pending the completion of the administrative proceedings pursuant to the notice served upon such director, officer, committee member, or other person under paragraph (1) or (2) of this subsection, and such court shall have jurisdiction to stay such suspension and/or prohibition.
 
 (7)
 
@@ -264,7 +264,7 @@ Applicability.—This paragraph shall only apply to a person who is an individua
 
 &emsp;(G) the credit union is critically undercapitalized, as defined in section 1790d of this title.
 
-(2)(A) Except as provided in subparagraph (C), in the case of a State-chartered insured credit union, the authority conferred by paragraph (1) shall not be exercised without the written approval of the State official having jurisdiction over the State-chartered credit union that the grounds specified for such exercise exist.
+(2)(A) Except as provided in subparagraph (C), in the case of a State-chartered insured creditunion, the authority conferred by paragraph (1) shall not be exercised without the written approval of the State official having jurisdiction over the State-chartered credit union that the grounds specified for such exercise exist.
 
 (B) If such approval has not been received by the Board within 30 days of receipt of notice by the State that the Board has determined such grounds exist, and the Board has responded in writing to the State's written reasons, if any, for withholding approval, then the Board may proceed without State approval only by a unanimous vote of the Board.
 
@@ -332,7 +332,7 @@ In general.—If a judgment of conviction or an agreement to enter a pretrial di
 
 &emsp;&emsp;(ii)
 
-Required for certain offenses—In the case of a judgment of conviction or agreement against an institution-affiliated party in connection with a violation described in subparagraph (A)(ii), the Board shall issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the credit union without the prior written consent of the Board.
+Required for certain offenses—In the case of a judgment of conviction or agreement against an institution-affiliated party in connection with a violation described in subparagraph (A)(ii), the Board shall issue and serve upon such party anorder removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the credit union without the prior written consent of the Board.
 
 &emsp;(D)
 
@@ -352,13 +352,13 @@ Effective period.—Any notice of suspension or order of removal issued under th
 
 (2) If at any time, because of the suspension of one or more directors pursuant to this section, there shall be on the board of directors of a Federal credit union less than a quorum of directors not so suspended, all powers and functions vested in or exercisable by such board shall vest in and be exercisable by the director or directors on the board not so suspended, until such time as there shall be a quorum of the board of directors. In the event all of the directors of a Federal credit union are suspended pursuant to this section, the Board shall appoint persons to serve temporarily as directors in their place and stead pending the termination of such suspensions, or until such time as those who have been suspended cease to be directors of the credit union and their respective successors have been elected by the members at an annual or special meeting and have taken office. Directors appointed temporarily by the Board shall, within thirty days following their appointment, call a special meeting for the election of new directors, unless during the thirty-day period (A) the regular annual meeting is scheduled, or (B) the suspensions giving rise to the appointment of temporary directors are terminated.
 
-(3) Within thirty days from service of any notice of suspension or order of removal issued pursuant to paragraph (1) of this subsection, the institution-affiliated party concerned may request in writing an opportunity to appear before the Board to show that the continued service to or participation in the conduct of the affairs of the credit union by such party does not, or is not likely to, pose a threat to the interests of the credit union's members or threaten to impair public confidence in the credit union. Upon receipt of any such request, the Board shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of such party) and place at which such party may appear, personally or through counsel, before the Board or its designee to submit written materials (or, at the discretion of the Board, oral testimony) and oral argument. Within sixty days of such hearing, the Board shall notify such party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the credit union will be continued, terminated or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the credit union will be rescinded orotherwise modified. Such notification shall contain a statement of the basis for the Board's decision, if adverse to such party. The Board is authorized to prescribe such rules as may be necessary to effectuate the purposes of this subsection.
+(3) Within thirty days from service of any notice of suspension or order of removal issued pursuant to paragraph (1) of this subsection, the institution-affiliated party concerned may request in writing an opportunity to appear before the Board to show that the continued service to or participation in the conduct of the affairs of the credit union by such party does not, or is not likely to, pose a threat to the interests of the credit union's members or threaten to impair public confidence in the credit union. Upon receipt of any such request, the Board shall fix a time (not more than thirty days after receipt of such request, unless extended at the request of such party) and place at which such party may appear, personally or through counsel, before the Board or its designee to submit written materials (or, at the discretion of the Board, oral testimony) and oral argument. Within sixty days of such hearing, the Board shall notify such party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the credit union will be continued, terminated or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the credit union will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for the Board's decision, if adverse to such party. The Board is authorized to prescribe such rules as may be necessary to effectuate the purposes of this subsection.
 
 #### (j) Jurisdiction of hearing; procedure; judicial review
 
 (1) Any hearing provided for in this section (other than the hearing provided for in subsection (i)(3) of this section) shall be held in the Federal judicial district or in the territory in which the principal office of the credit union is located, unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. After such hearing, and within ninety days after the Board has notified the parties that the case has been submitted to it for final decision, it shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this section. Judicial review of any such order shall be exclusively as provided in this subsection (j). Unless a petition for review is timely filed in a court of appeals of the United States, as provided in paragraph (2) of this subsection, and thereafter until the record in the proceeding has been filed as so provided, the Board may at any time, upon such notice and in such manner as it may deem proper, modify, terminate, or set aside any such order. Upon such filing of the record, the Board may modify, terminate, or set aside any such order with permission of the court.
 
-(2) Any party to any proceeding under paragraph (1) may obtain a review of any order served pursuant to paragraph (1) of this subsection (other than an order issued with the consent of the credit union or the institution-affiliated party concerned or an order issued under subsection (i)(1) of this section) by filing in the court of appeals of the United States for the circuit in which the principal office of the credit union is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the Board be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Board, and thereupon the Board shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall, except as provided in the last sentence of said paragraph (1), be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Board. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
+(2) Any party to any proceeding under paragraph (1) may obtain a review of any order served pursuant to paragraph (1) of this subsection (other than an order issued with the consent of the credit union or the institution-affiliated party concerned or an order issued under subsection (i)(1) of this section) by filing in the court of appeals of the United States for the circuit in which the principal office of the credit union is located, or in the United States Court of Appeals for the District of Columbia Circuit, within thirty days after the date of service of such order, a written petition praying that the order of the Board be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Board, and thereupon the Board shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall, except as provided in the last sentence of said paragraph (1), be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, theorder of the Board. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
 
 (3) The commencement of proceedings for judicial review under paragraph (2) of this subsection shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Board.
 
@@ -676,7 +676,7 @@ For purposes of this chapter, the term “institution-affiliated party” means�
 
 &emsp;&emsp;&emsp;(i) any payment made pursuant to a retirement plan which is qualified (or is intended to be qualified) under section 401 of title 26 or other nondiscriminatory retirement or severance benefit plan;
 
-&emsp;&emsp;&emsp;(ii) any payment made pursuant to a bona fide deferred compensation plan or arrangement which the Board determines, by regulation or order, to be permissible; or
+&emsp;&emsp;&emsp;(ii) any payment made pursuant to a bona fide deferred compensation plan or arrangement which the Board determines,by regulation or order, to be permissible; or
 
 &emsp;&emsp;&emsp;(iii) any payment made by reason of the death or disability of an institution-affiliated party.
 
@@ -808,7 +808,59 @@ For purposes of this chapter, the term “institution-affiliated party” means�
 
 &emsp;This subsection shall not apply to a successor to the interests of, or a person who acquires, an insured credit union that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
-(June 26, 1934, ch. 750, title II, §206, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, §728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, §307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, §502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§132, 141(a)(8), title IV, §§424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, §2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, §1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §509(a), title VII, §§709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, §1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, §411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, §301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931.)
+#### (w) One-year restrictions on Federal examiners of insured credit unions
+
+#### (1) In general
+
+&emsp;In addition to other applicable restrictions set forth in title 18, the penalties set forth in paragraph (5) of this subsection shall apply to any person who—
+
+&emsp;&emsp;(A) was an officer or employee (including any special Government employee) of the Administration;
+
+&emsp;&emsp;(B) served 2 or more months during the final 12 months of his or her employment with the Administration as the senior examiner (or a functionally equivalent position) of an insured credit union with continuing, broad responsibility for the examination (or inspection) of that insured credit union on behalf of the Administration; and
+
+&emsp;&emsp;(C) within 1 year after the termination date of his or her service or employment with the Administration, knowingly accepts compensation as an employee, officer, director, or consultant from such insured credit union.
+
+#### (2) Rule of construction
+
+&emsp;For purposes of this subsection, a person shall be deemed to act as a consultant for an insured credit union only if such person directly works on matters for, or on behalf of, such insured credit union.
+
+#### (3) Regulations
+
+#### (A) In general
+
+&emsp;&emsp;The Board shall prescribe rules or regulations to administer and carry out this subsection, including rules, regulations, or guidelines to define the scope of persons referred to in paragraph (1)(B).
+
+#### (B) Consultation
+
+&emsp;&emsp;In prescribing rules or regulations under this paragraph, the Board shall, to the extent it deems necessary, consult with the Federal banking agencies (as defined in section 1813 of this title) on regulations issued by such agencies in carrying out section 1820(k) of this title.
+
+#### (4) Waiver
+
+&emsp;The Board may grant a waiver, on a case by case basis, of the restriction imposed by this subsection to any officer or employee (including any special Government employee) of the Administration if the Chairman certifies in writing that granting the waiver would not affect the integrity of the supervisory program of the Administration.
+
+#### (5) Penalties
+
+#### (A) In general
+
+&emsp;&emsp;In addition to any other administrative, civil, or criminal remedy or penalty that may otherwise apply, whenever the Board determines that a person subject to paragraph (1) has become associated, in the manner described in paragraph (1)(C), with an insured credit union, the Board shall impose upon such person one or more of the following penalties:
+
+#### (i) Industry-wide prohibition order
+
+&emsp;&emsp;&emsp;The Board shall serve a written notice or order in accordance with and subject to the provisions of subsection (g)(4) of this section for written notices or orders under paragraph (1) or (2) of subsection (g) of this section, upon such person of the intention of the Board—
+
+&emsp;&emsp;&emsp;&emsp;(I) to remove such person from office or to prohibit such person from further participation in the conduct of the affairs of the insured credit union for a period of up to 5 years; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any insured credit union for a period of up to 5 years.
+
+#### (ii) Civil monetary penalty
+
+&emsp;&emsp;&emsp;The Board may, in an administrative proceeding or civil action in an appropriate United States district court, impose on such person a civil monetary penalty of not more than $250,000. Any administrative proceeding under this clause shall be conducted in accordance with subsection (k) of this section. In lieu of an action by the Board under this clause, the Attorney General of the United States may bring a civil action under this clause in the appropriate United States district court.
+
+#### (B) Scope of prohibition order
+
+&emsp;&emsp;Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) of this section in the same manner and to the same extent as a person subject to an order issued under subsection (g) of this section.
+
+(June 26, 1934, ch. 750, title II, §206, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, §728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, §307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, §502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§132, 141(a)(8), title IV, §§424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, §2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, §1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §509(a), title VII, §§709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, §1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, §411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, §301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931; Pub. L. 108–458, title VI, §6303(c), Dec. 17, 2004, 118 Stat. 3753.)
 
 #### References in Text
 
@@ -819,6 +871,8 @@ Section 1818(b)(8) of this title, referred to in subsec. (g)(7)(A)(ii), was rede
 The Farm Credit Act of 1971, referred to in subsec. (g)(7)(A)(iv), (D)(ii), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 #### Amendments
+
+2004—Subsec. (w). Pub. L. 108–458 added subsec. (w).
 
 1998—Subsec. (h)(1). Pub. L. 105–219, §301(g)(2), inserted “or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union)” after “appoint itself” in introductory provisions.
 
@@ -962,7 +1016,7 @@ Subsec. (<i>l</i>). Pub. L. 97–320, §132(a)(1), (e), redesignated former subs
 
 Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Pub. L. 97–320, §427(c)(2), which directed substitution of reference to subsec. (g)(5) for subsec. (g)(3) in subsec. (k), was executed to subsec. (<i>l</i>) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (<i>l</i>) by section 132(a)(1) of Pub. L. 97–320.
+Pub. L. 97–320, §427(c)(2), which directed substitution of reference to subsec. (g)(5) for subsec. (g)(3) in subsec.\(k), was executed to subsec. (<i>l</i>) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (<i>l</i>) by section 132(a)(1) of Pub. L. 97–320.
 
 Subsec. (m). Pub. L. 97–320, §132(a)(1), (f), redesignated former subsec. (<i>l</i>) as (m) and substituted “subjection (j)” for “subsection (i)” after “paragraph (2) of” and “subsection (i)” for “subsection (h)” after “an order issued under”. Former subsec. (m) redesignated (n).
 
@@ -1002,6 +1056,10 @@ Subsec. (d). Pub. L. 93–383, §728(c), designated existing provisions as par. 
 
 Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–458, title VI, §6303(d), Dec. 17, 2004, 118 Stat. 3754, provided that: “Notwithstanding any other effective date established pursuant to this Act \[see Tables for classification\], subsection (a) shall become effective on the date of enactment of this Act \[Dec. 17, 2004\], and the amendments made by subsections (b) and (c) \[amending this section and section 1820 of this title\] shall become effective at the end of the 12-month period beginning on the date of enactment of this Act \[Dec. 17, 2004\], whether or not final regulations are issued in accordance with the amendments made by this section \[amending this section and section 1820 of this title\] as of that date of enactment.”
+
 #### Effective Date of 1992 Amendment
 
 Section 1501(c) of Pub. L. 102–550 provided that: “The amendments made by this section \[amending this section and section 1821 of this title\] shall take effect on December 20, 1992.”
@@ -1029,10 +1087,6 @@ No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under
 No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
 Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1759, 1772d, 1782, 1784, 1787, 3349, 3420 of this title; title 11 section 101; title 15 section 57a; title 31 sections 3121, 9110; title 42 section 669a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -66,10 +66,6 @@ Section 101(c) of Pub. L. 92–558, as amended by Pub. L. 93–313, June 8, 1974
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669b–1, 669c, 669e, 1535, 4404, 4405, 4407, 4411 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1) of subsection (b)”.</i>
 
 <i><sup>2</sup></i><i> So in original. Section 669c of this title does not contain a subsec. (e).</i>

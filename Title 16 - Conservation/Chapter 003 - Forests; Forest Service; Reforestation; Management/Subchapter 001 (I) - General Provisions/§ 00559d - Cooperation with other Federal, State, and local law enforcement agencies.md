@@ -4,7 +4,7 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 &emsp;(1) the Forest Service shall cooperate with any other Federal law enforcement agency having primary investigative jurisdiction over the offense committed;
 
-&emsp;(2) the Secretary may authorize the Forest Service to cooperate with the law enforcement officials of any Federal agency, State, or political subdivision in the investigation of violations of and enforcement of section 401 of the Controlled Substances Act (21 U.S.C. 841), other laws and regulations relating to marijuana and other controlled substances, and State drug control laws or ordinances for offenses committed within the National Forest System or which affect the administration of the National Forest System.<sup>1</sup>
+&emsp;(2) the Secretary may authorize the Forest Service to cooperate with the law enforcement officials of any Federal agency, State, or political subdivision in the investigation of violations of and enforcement of section 401 of the Controlled Substances Act (21 U.S.C. 841), other laws and regulations relating to marijuana and other controlled substances, andState drug control laws or ordinances for offenses committed within the National Forest System or which affect the administration of the National Forest System.<sup>1</sup>
 
 &emsp;(3) the Forest Service shall cooperate with the Attorney General in carrying out the seizure and forfeiture provisions of section 511 of the Controlled Substances Act (21 U.S.C. 881) for violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] relating to offenses committed within the National Forest System, or which affect the administration of the National Forest System;
 
@@ -23,10 +23,6 @@ The Controlled Substances Act, referred to in pars. (3) and (5), is title II of 
 1988—Par. (2). Pub. L. 100–690, §6254(c)(2), substituted “for offenses committed within the National Forest System or which affect the administration of the National Forest System” for “, within the boundaries of the National Forest System”.
 
 Pars. (3) to (5). Pub. L. 100–690, §6254(c)(3), added pars. (3) to (5).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>lll</i>–12, 559b, 559c of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -54,9 +54,5 @@ Section 604(c) of Pub. L. 98–164 provided that: “The amendments made by this
 
 Any new spending authority provided by amendment by section 173(a)(2) of Pub. L. 100–204 effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 173(c) of Pub. L. 100–204, set out as a note under section 2707 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4307 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,3 @@ Based on 44 U.S. Code, 1964 ed., §375 (July 7, 1943, ch. 192, §10, 57 Stat. 38
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3105 of this title.
-

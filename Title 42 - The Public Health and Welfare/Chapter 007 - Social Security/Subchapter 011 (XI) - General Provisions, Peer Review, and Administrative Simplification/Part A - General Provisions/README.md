@@ -1,9 +1,5 @@
 Part A—General Provisions
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 1395w–22, 1395mm, 1396a of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “needs”.</i>
 
 
@@ -55,6 +51,7 @@ This part is referred to in sections 1395w–22, 1395mm, 1396a of this title.
 - [&sect; 01320a&#8211;7f - Coordination of medicare and medicaid surety bond provisions](%C2%A7%2001320a%E2%80%937f%20-%20Coordination%20of%20medicare%20and%20medicaid%20surety%20bond%20provisions.md)
 - [&sect; 01320a&#8211;8 - Civil monetary penalties and assessments for subchapters II, VIII and XVI](%C2%A7%2001320a%E2%80%938%20-%20Civil%20monetary%20penalties%20and%20assessments%20for%20subchapters%20II%2C%20VIII%20and%20XVI.md)
 - [&sect; 01320a&#8211;8a - Administrative procedure for imposing penalties for false or misleading statements](%C2%A7%2001320a%E2%80%938a%20-%20Administrative%20procedure%20for%20imposing%20penalties%20for%20false%20or%20misleading%20statements.md)
+- [&sect; 01320a&#8211;8b - Attempts to interfere with administration of this chapter](%C2%A7%2001320a%E2%80%938b%20-%20Attempts%20to%20interfere%20with%20administration%20of%20this%20chapter.md)
 - [&sect; 01320a&#8211;9 - Demonstration projects](%C2%A7%2001320a%E2%80%939%20-%20Demonstration%20projects.md)
 - [&sect; 01320a&#8211;10 - Effect of failure to carry out State plan](%C2%A7%2001320a%E2%80%9310%20-%20Effect%20of%20failure%20to%20carry%20out%20State%20plan.md)
 - [&sect; 01320b - Repealed. Pub. L. 93&#8211;647, &sect;3(e)(1), Jan. 4, 1975, 88 Stat. 2349](%C2%A7%2001320b%20-%20Repealed.%20Pub.%20L.%2093%E2%80%93647%2C%20%C2%A73%28e%29%281%29%2C%20Jan.%204%2C%201975%2C%2088%20Stat.%202349.md)
@@ -67,15 +64,15 @@ This part is referred to in sections 1395w–22, 1395mm, 1396a of this title.
 - [&sect; 01320b&#8211;7 - Income and eligibility verification system](%C2%A7%2001320b%E2%80%937%20-%20Income%20and%20eligibility%20verification%20system.md)
 - [&sect; 01320b&#8211;8 - Hospital protocols for organ procurement and standards for organ procurement agencies](%C2%A7%2001320b%E2%80%938%20-%20Hospital%20protocols%20for%20organ%20procurement%20and%20standards%20for%20organ%20procurement%20agencies.md)
 - [&sect; 01320b&#8211;9 - National Commission on Children](%C2%A7%2001320b%E2%80%939%20-%20National%20Commission%20on%20Children.md)
-- [&sect; 01320b&#8211;10 - Prohibition of misuse of symbols, emblems, or names in reference to Social Security or Medicare](%C2%A7%2001320b%E2%80%9310%20-%20Prohibition%20of%20misuse%20of%20symbols%2C%20emblems%2C%20or%20names%20in%20reference%20to%20Social%20Security%20or%20Medicare.md)
+- [&sect; 01320b&#8211;10 - Prohibitions relating to references to Social Security or Medicare](%C2%A7%2001320b%E2%80%9310%20-%20Prohibitions%20relating%20to%20references%20to%20Social%20Security%20or%20Medicare.md)
 - [&sect; 01320b&#8211;11 - Blood donor locator service](%C2%A7%2001320b%E2%80%9311%20-%20Blood%20donor%20locator%20service.md)
 - [&sect; 01320b&#8211;12 - Research on outcomes of health care services and procedures](%C2%A7%2001320b%E2%80%9312%20-%20Research%20on%20outcomes%20of%20health%20care%20services%20and%20procedures.md)
 - [&sect; 01320b&#8211;13 - Social security account statements](%C2%A7%2001320b%E2%80%9313%20-%20Social%20security%20account%20statements.md)
 - [&sect; 01320b&#8211;14 - Outreach efforts to increase awareness of the availability of medicare cost-sharing and subsidies for low-income individuals under&#8230;](%C2%A7%2001320b%E2%80%9314%20-%20Outreach%20efforts%20to%20increase%20awareness%20of%20the%20availability%20of%20medicare%20cost-sharing%20and%20subsidies%20for%20low-income%20individuals%20under%E2%80%A6.md)
 - [&sect; 01320b&#8211;15 - Protection of social security and medicare trust funds](%C2%A7%2001320b%E2%80%9315%20-%20Protection%20of%20social%20security%20and%20medicare%20trust%20funds.md)
 - [&sect; 01320b&#8211;16 - Public disclosure of certain information on hospital financial interest and referral patterns](%C2%A7%2001320b%E2%80%9316%20-%20Public%20disclosure%20of%20certain%20information%20on%20hospital%20financial%20interest%20and%20referral%20patterns.md)
-- [&sect; 01320b&#8211;17 - Recovery of SSI overpayments from other benefits](%C2%A7%2001320b%E2%80%9317%20-%20Recovery%20of%20SSI%20overpayments%20from%20other%20benefits.md)
-- [&sect; 01320b&#8211;18 - Recovery of social security benefit overpayments from subchapter VIII benefits](%C2%A7%2001320b%E2%80%9318%20-%20Recovery%20of%20social%20security%20benefit%20overpayments%20from%20subchapter%20VIII%20benefits.md)
+- [&sect; 01320b&#8211;17 - Cross-program recovery of overpayments from benefits](%C2%A7%2001320b%E2%80%9317%20-%20Cross-program%20recovery%20of%20overpayments%20from%20benefits.md)
+- [&sect; 01320b&#8211;18 - Repealed. Pub. L. 108&#8211;203, title II, &sect;210(b)(3), Mar. 2, 2004, 118 Stat. 517](%C2%A7%2001320b%E2%80%9318%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93203%2C%20title%20II%2C%20%C2%A7210%28b%29%283%29%2C%20Mar.%202%2C%202004%2C%20118%20Stat.%20517.md)
 - [&sect; 01320b&#8211;19 - The Ticket to Work and Self-Sufficiency Program](%C2%A7%2001320b%E2%80%9319%20-%20The%20Ticket%20to%20Work%20and%20Self-Sufficiency%20Program.md)
 - [&sect; 01320b&#8211;20 - Work incentives outreach program](%C2%A7%2001320b%E2%80%9320%20-%20Work%20incentives%20outreach%20program.md)
 - [&sect; 01320b&#8211;21 - State grants for work incentives assistance to disabled beneficiaries](%C2%A7%2001320b%E2%80%9321%20-%20State%20grants%20for%20work%20incentives%20assistance%20to%20disabled%20beneficiaries.md)

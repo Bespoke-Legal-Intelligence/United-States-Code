@@ -4,7 +4,3 @@ The process contained in this subchapter shall apply to all public lands within 
 
 (Pub. L. 96–487, title XV, §1501, Dec. 2, 1980, 94 Stat. 2549.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3232 of this title.
-

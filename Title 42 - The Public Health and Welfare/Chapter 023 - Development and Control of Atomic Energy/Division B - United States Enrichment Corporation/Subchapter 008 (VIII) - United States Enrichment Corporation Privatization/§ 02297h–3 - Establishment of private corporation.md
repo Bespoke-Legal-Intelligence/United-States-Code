@@ -30,7 +30,3 @@ In the event that the privatization does not occur, the Corporation will provide
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2297h, 2297h–2 of this title.
-

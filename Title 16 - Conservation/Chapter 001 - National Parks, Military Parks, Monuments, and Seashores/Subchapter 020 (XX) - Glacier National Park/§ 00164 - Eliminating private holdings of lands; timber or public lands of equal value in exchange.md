@@ -8,7 +8,3 @@ The Secretary of the Interior, for the purpose of eliminating private holdings w
 
 Section is based on section 1 of act Mar. 3, 1917, and section 1 of act Feb. 23, 1923; subdivision (1) being from the former and subdivision (2) being from the latter act. Of the language preceding subdivision (1), that portion from the beginning of the section to the word “and” was common to both of the sections aforesaid, while the remaining portion was derived from section 1 of act Mar. 3, 1917.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 165, 166 of this title.
-

@@ -4,7 +4,3 @@ The Secretary of the Interior is authorized to grant permission, upon compliance
 
 (Mar. 3, 1901, ch. 832, §4, 31 Stat. 1084.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 322 of this title.
-

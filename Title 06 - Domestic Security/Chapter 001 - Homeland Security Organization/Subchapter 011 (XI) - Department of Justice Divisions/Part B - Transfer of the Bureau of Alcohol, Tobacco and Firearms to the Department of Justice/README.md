@@ -1,9 +1,5 @@
 Part B—Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 552a of this title.
-
 
 ---
 

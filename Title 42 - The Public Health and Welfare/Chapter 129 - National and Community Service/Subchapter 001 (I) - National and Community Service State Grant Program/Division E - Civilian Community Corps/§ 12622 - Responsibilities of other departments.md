@@ -20,7 +20,7 @@
 
 #### (A) List of recommended personnel
 
-&emsp;&emsp;Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established under paragraph (1) shall develop a list of individuals to be recommended for appointment in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
+&emsp;&emsp;Upon the establishment of the Program, the Secretary of Defense, in consultation with the liaison office established underparagraph (1) shall develop a list of individuals to be recommended for appointment in the permanent cadre of Corps personnel. Such personnel shall be selected from among members and former members of the Armed Forces referred to in section 12611(3) of this title who are commissioned officers, noncommissioned officers, former commissioned officers, or former noncommissioned officers.
 
 #### (B) Recommendations regarding grade and pay
 
@@ -32,7 +32,7 @@
 
 #### (3) Facilities
 
-&emsp;Upon the establishment of the Program, the Secretary of Defense shall identify militaryinstallations and other facilities of the Department of Defense and, in consultation with the adjutant generals of the State National Guards, National Guard facilities that may be used, in whole or in part, by the Civilian Community Corps for training or housing Corps members. The Secretary of Defense shall carry out this paragraph in consultation with the liaison office established under paragraph (1).
+&emsp;Upon the establishment of the Program, the Secretary of Defense shall identify military installations and other facilities of the Department of Defense and, in consultation with the adjutant generals of the State National Guards, National Guard facilities that may be used, in whole or in part, by the Civilian Community Corps for training or housing Corps members. The Secretary of Defense shall carry out this paragraph in consultation with the liaison office established under paragraph (1).
 
 #### (4) Information regarding Corps
 
@@ -67,8 +67,4 @@ Subsec. (a)(2)(C). Pub. L. 103–82, §402(b)(2), substituted “Corporation” 
 Amendment by section 104(b), (e)(2)(G) of Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 
 Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see section 406(a) of Pub. L. 103–82, set out as a note under section 5061 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12615, 12616, 12619, 12621 of this title.
 

@@ -68,7 +68,3 @@ Pub. L. 103–233, §103(g)(2), added subsec. (g).
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1709, 1715z–3, 1715z–7, 1715z–11a, 1715z–12, 1715z–13, 1735f–20 of this title.
-

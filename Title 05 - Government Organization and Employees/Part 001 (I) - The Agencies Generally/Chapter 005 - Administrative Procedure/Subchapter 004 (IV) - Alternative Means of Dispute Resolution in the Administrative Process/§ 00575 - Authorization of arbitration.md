@@ -1,6 +1,6 @@
 ### §575. Authorization of arbitration
 
-(a)(1) Arbitration may be used as an alternative means of dispute resolution whenever allparties consent. Consent may be obtained either before or after an issue in controversy has arisen. A party may agree to—
+(a)(1) Arbitration may be used as an alternative means of dispute resolution whenever all parties consent. Consent may be obtained either before or after an issue in controversy has arisen. A party may agree to—
 
 &emsp;(A) submit only certain issues in controversy to arbitration; or
 

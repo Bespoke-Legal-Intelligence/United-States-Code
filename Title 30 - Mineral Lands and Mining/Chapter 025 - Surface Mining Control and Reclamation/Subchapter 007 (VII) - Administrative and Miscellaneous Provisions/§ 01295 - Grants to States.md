@@ -18,7 +18,3 @@ If, in accordance with section 1273(d) of this title, a State elects to regulate
 
 (Pub. L. 95–87, title VII, §705, Aug. 3, 1977, 91 Stat. 520.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1302 of this title.
-

@@ -6,5 +6,5 @@ For the purpose of this chapter the Secretary, acting through the United States 
 
 #### Transfer of Functions
 
-See note set out under section 1 of this title.
+For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.
 

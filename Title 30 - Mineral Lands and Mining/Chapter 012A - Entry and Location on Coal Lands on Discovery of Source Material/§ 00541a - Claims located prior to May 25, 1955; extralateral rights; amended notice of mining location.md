@@ -14,7 +14,3 @@ For definition of “mineral leasing laws”, referred to in text, see section 5
 
 Act June 29, 1956, ch. 478, 70 Stat. 438, as amended by Pub. L. 85–68, June 29, 1957, 71 Stat. 226, provided for extension of time for period commencing July 1, 1955, to 12 o'clock noon July 1, 1958, during which labor must be performed, or improvements made pursuant to section 28 of this title, or any unpatented mining claim validated under this section and for extension of time for period commencing July 1, 1956, to 12 o'clock noon July 1, 1958, during which labor must be performed, or improvements made pursuant to section 28 of this title, on any other unpatented mining claim subject to this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 541b of this title.
-

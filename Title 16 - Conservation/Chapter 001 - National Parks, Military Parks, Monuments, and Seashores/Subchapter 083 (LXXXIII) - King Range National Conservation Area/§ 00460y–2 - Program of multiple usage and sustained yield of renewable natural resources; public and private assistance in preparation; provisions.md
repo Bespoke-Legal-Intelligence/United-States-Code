@@ -4,7 +4,3 @@ The Secretary shall use public and private assistance as he may require, for the
 
 (Pub. L. 91–476, §3, Oct. 21, 1970, 84 Stat. 1068.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460y, 460y–3 of this title.
-

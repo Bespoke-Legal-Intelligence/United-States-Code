@@ -12,7 +12,3 @@ Section was not enacted as part of the Submarine Cable Act which comprises this 
 
 For delegation of functions vested in President by this section to Federal Communications Commission, see note set out under section 34 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 38, 39 of this title.
-

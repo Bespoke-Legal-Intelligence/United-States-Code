@@ -14,7 +14,3 @@ The Secretary is authorized to conduct surveys, investigations, and research rel
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 590g, 590m of this title; title 7 sections 1388, 1391, 1392; title 12 section 1150a.
-

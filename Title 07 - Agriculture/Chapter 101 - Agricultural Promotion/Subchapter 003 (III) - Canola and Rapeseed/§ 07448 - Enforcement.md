@@ -60,7 +60,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (e) Failure to obey cease-and-desist orders
 
-Any person who fails to obey a cease-and-desist order issued under this section after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicialreview under the procedures specified in subsections (c) and (d) of this section, of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of the cease-and-desist order.
+Any person who fails to obey a cease-and-desist order issued under this section after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of the cease-and-desist order.
 
 #### (f) Failure to pay penalties
 
@@ -71,8 +71,4 @@ If a person fails to pay an assessment of a civil penalty under this section aft
 The remedies provided in this subchapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
 (Pub. L. 104–127, title V, §539, Apr. 4, 1996, 110 Stat. 1061.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7447, 7449 of this title.
 

@@ -4,7 +4,3 @@ For the purposes of sections 40a and 40b of this title, the Secretary of the Tre
 
 (June 4, 1948, ch. 417, §3, 62 Stat. 339.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40a, 40b of this title.
-

@@ -42,7 +42,3 @@ Section 251(a), referred to in par. (3), is section 251(a) of Pub. L. 105–185.
 
 Pub. L. 105–185, §1(a), June 23, 1998, 112 Stat. 523, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Agricultural Research, Extension, and Education Reform Act of 1998’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2279 of this title.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—REMEDIAL ACTION PROGRAM
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2022, 7942 of this title.
-
 
 ---
 

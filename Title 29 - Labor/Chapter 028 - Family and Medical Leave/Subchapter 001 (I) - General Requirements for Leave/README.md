@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2632, 2654 of this title; title 42 section 12631.
-
 
 ---
 

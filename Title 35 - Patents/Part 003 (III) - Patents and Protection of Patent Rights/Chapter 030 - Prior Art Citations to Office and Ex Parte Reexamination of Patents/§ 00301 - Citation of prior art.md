@@ -8,7 +8,3 @@ Any person at any time may cite to the Office in writing prior art consisting of
 
 Chapter effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 303, 305, 311 of this title.
-

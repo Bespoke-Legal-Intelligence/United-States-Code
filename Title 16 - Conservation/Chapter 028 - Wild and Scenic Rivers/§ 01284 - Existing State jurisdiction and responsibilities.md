@@ -14,7 +14,7 @@ Designation of any stream or portion thereof as a national wild, scenic or recre
 
 #### (d) State jurisdiction over included streams
 
-The jurisdiction of the States over waters of any stream included in a national wild, scenic or recreational river area shall be unaffected bythis chapter to the extent that such jurisdiction may be exercised without impairing the purposes of this chapter or its administration.
+The jurisdiction of the States over waters of any stream included in a national wild, scenic or recreational river area shall be unaffected by this chapter to the extent that such jurisdiction may be exercised without impairing the purposes of this chapter or its administration.
 
 #### (e) Interstate compacts
 

@@ -42,7 +42,3 @@ Subsec. (c). Pub. L. 108–81, §203(2), substituted “3.5 percent” for “3 
 
 Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L. 108–81, set out as a note under section 9101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9108, 9131, 9133, 9141 of this title.
-

@@ -22,7 +22,7 @@ Section 5(b)(1) of the Atomic Energy Act, as amended, referred to in text, was f
 
 #### Amendments
 
-1970—Pub. L. 91–581 redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include“Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
+1970—Pub. L. 91–581 redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
 
 #### Transfer of Functions
 

@@ -36,9 +36,5 @@ Subsec. (c). Pub. L. 97–361 redesignated subsec. (b) as (c), and amended it to
 
 Subsec. (d). Pub. L. 97–361 added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460x–6, 460x–10 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “may”.</i>
 

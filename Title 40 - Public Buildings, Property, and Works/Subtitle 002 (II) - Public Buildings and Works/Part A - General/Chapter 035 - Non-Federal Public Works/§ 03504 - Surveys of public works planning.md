@@ -20,7 +20,3 @@ Historical and Revision Notes
 
 Aug. 2, 1954, ch. 649, title VII, §702(f), as added Pub. L. 86–372, title VIII, §801, Sept. 23, 1959, 73 Stat. 686; Pub. L. 88–560, title VI, §602(d), Sept. 2, 1964, 78 Stat. 799; Pub. L. 90–19, §10(a) (related to 40:462), May 25, 1967, 81 Stat. 22.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 5153.
-

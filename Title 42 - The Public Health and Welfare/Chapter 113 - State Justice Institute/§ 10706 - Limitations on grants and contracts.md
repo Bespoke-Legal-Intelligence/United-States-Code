@@ -42,7 +42,3 @@ This chapter, referred to in text, was in the original “this title”, except 
 
 &emsp;“(B) the application for refunding has been finally denied in accordance with section 10708 of this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10712 of this title.
-

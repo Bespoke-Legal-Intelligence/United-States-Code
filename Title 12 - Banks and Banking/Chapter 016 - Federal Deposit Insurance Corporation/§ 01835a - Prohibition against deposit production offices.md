@@ -12,7 +12,7 @@ Regulations issued under subsection (a) of this section shall include guidelines
 
 #### (1) Limitation
 
-&emsp;Regulations issued under subsection (a) of this section shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank's level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency's sampling of the bank's loan files during an examination or such data as is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
+&emsp;Regulations issued under subsection (a) of this section shall require that, beginning no earlier than 1 year after establishment or acquisition of an interstate branch or branches in a host State by an out-of-State bank, if the appropriate Federal banking agency for the out-of-State bank determines that the bank's level of lending in the host State relative to the deposits from the host State (as reasonably determinable from available information including the agency's sampling of the bank's loan files during an examination or such dataas is otherwise available) is less than half the average of total loans in the host State relative to total deposits from the host State (as determinable from relevant sources) for all banks the home State of which is such State—
 
 &emsp;&emsp;(A) the appropriate Federal banking agency for the out-of-State bank shall review the loan portfolio of the bank and determine whether the bank is reasonably helping to meet the credit needs of the communities served by the bank in the host State; and
 
@@ -30,7 +30,7 @@ Regulations issued under subsection (a) of this section shall include guidelines
 
 &emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
 
-&emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have ahigher concentration of commercial or credit card lending, trust services, or other specialized activities;
+&emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;
 
 &emsp;&emsp;(D) the ratings received by the out-of-State bank under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\];
 
@@ -90,7 +90,7 @@ The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is tit
 
 #### Codification
 
-Section was enacted as part of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+Section was enacted as part of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994,and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
 

@@ -194,10 +194,6 @@ Sec. 4. \[Submittal of proposed constitutions to governors and President\] The c
 
 Sec. 5. \[Transmittal to Congress and submittal to voters\] Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress. The constitution, in each case, shall be deemed to have been approved by the Congress within sixty legislative days (not interrupted by an adjournment sine die of the Congress) after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, by joint resolution. As so approved or modified, the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) \[Oct. 21, 1976\]. Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1469a–1, 1645 of this title.
-
 
 ---
 

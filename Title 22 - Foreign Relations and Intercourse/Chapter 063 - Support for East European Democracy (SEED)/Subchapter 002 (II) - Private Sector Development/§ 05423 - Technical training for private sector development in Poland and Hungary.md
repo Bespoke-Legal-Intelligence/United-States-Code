@@ -40,7 +40,3 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub.
 
 Section 1107 of the Food Security Act of 1985, referred to in subsec. (e), is section 1107 of Pub. L. 99–198, which is set out as a note under section 1736 of Title 7, Agriculture.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5424, 5425 of this title.
-

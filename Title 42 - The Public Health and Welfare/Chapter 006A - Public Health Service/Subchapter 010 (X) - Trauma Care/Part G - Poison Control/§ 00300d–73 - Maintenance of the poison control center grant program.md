@@ -52,7 +52,7 @@ A poison control center, in utilizing the proceeds of a grant under this section
 
 #### (g) Matching requirement
 
-The Secretary may impose a matching requirement with respect to amounts provided under a grant under this section if the Secretary determines appropriate.
+The Secretary may impose a matching requirement with respect to amounts providedunder a grant under this section if the Secretary determines appropriate.
 
 #### (h) Authorization of appropriations
 

@@ -112,7 +112,3 @@ Another prior section 299c, act July 1, 1944, ch. 373, title IX, §903, as added
 
 2003—Subsec. (c)(3)(A). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 299c–7 of this title.
-

@@ -54,7 +54,3 @@ The State process of development of a mitigation plan under this section shall�
 
 (Pub. L. 93–288, title III, §322, as added Pub. L. 106–390, title I, §104(a), Oct. 30, 2000, 114 Stat. 1558.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5133, 5170c of this title.
-

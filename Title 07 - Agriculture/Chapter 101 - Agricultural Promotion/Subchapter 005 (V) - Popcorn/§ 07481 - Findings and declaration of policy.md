@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) the cooperative development, financing, and implementation of a coordinated program of popcorn promotion, research, consumer information, and industry information is necessary to maintain and expand markets for popcorn; and
 
-&emsp;(6) popcorn moves in interstate and foreign commerce, and popcorn that does not move in those channels of commerce directly burdens or affects interstate commerce in popcorn.
+&emsp;(6) popcorn moves in interstate and foreign commerce, and popcorn that does not move inthose channels of commerce directly burdens or affects interstate commerce in popcorn.
 
 #### (b) Policy
 
@@ -47,8 +47,4 @@ This subchapter treats processors equitably. Nothing in this subchapter—
 &emsp;(2) provides for the control of production or otherwise limits the right of any individual processor to produce popcorn.
 
 (Pub. L. 104–127, title V, §572, Apr. 4, 1996, 110 Stat. 1074.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7483 of this title.
 

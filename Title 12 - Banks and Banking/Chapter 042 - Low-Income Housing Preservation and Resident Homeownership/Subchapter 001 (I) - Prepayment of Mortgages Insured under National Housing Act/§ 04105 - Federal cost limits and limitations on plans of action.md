@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) file a plan of action under section 4107 of this title to receive incentives under section 4109 of this title if the owner agrees to accept incentives under such sections in an amount that shall not exceed the Federal cost limit;
 
-&emsp;&emsp;(B) file a second notice of intent under section 4106(d) of this title indicating an intention to transfer the housing under section4110 of this title and take actions pursuant to such section if the owner agrees to transfer the housing at a price that shall not exceed the Federal cost limit; or
+&emsp;&emsp;(B) file a second notice of intent under section 4106(d) of this title indicating an intention to transfer the housing under section 4110 of this title and take actions pursuant to such section if the owner agrees to transfer the housing at a price that shall not exceed the Federal cost limit; or
 
 &emsp;&emsp;(C) file a second notice of intent under section 4106(d) of this title indicating an intention to prepay the mortgage or voluntarily terminate the insurance, subject to the mandatory sale provisions under section 4111 of this title.
 
@@ -39,8 +39,4 @@
 #### Amendments
 
 1992—Subsec. (a)(2). Pub. L. 102–550 made technical amendment to reference to section 1437f(c)(1) of title 42 to reflect correction of corresponding provision of original act.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4104, 4106, 4109, 4110, 4119 of this title.
 

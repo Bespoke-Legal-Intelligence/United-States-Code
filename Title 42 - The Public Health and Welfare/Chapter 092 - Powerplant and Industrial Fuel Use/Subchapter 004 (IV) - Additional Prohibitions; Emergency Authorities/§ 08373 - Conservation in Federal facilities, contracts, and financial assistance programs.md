@@ -56,7 +56,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Ex. Ord. No. 12185, Dec. 17, 1979, 44 F.R. 75093, provided:
 
-By the authority vested in me as President of the United States of America by Section 403(b) of the Powerplant and Industrial Fuel Use Act of 1978 (92 Stat. 3318; Public Law 95–620) \[42 U.S.C. 8373(b)\] and Section 301 of Title 3 of the United States Code, in order to encourage additional conservation of petroleum and natural gas by recipients of Federal financial assistance, it is hereby ordered as follows:
+By the authority vested in me as President of the United States of America by Section 403(b) of the Powerplant and Industrial Fuel Use Act of 1978 (92 Stat. 3318; Public Law 95–620) \[42 U.S.C. 8373(b)\] and Section301 of Title 3 of the United States Code, in order to encourage additional conservation of petroleum and natural gas by recipients of Federal financial assistance, it is hereby ordered as follows:
 
 1–101. Each Federal agency, as that term is defined in Section 103(a)(25) of the Powerplant and Industrial Fuel Use Act of 1978 (92 Stat. 3297) \[42 U.S.C. 8302(a)(25)\], shall effectuate through its financial assistance programs the purposes of that Act relating to the conservation of petroleum and natural gas.
 

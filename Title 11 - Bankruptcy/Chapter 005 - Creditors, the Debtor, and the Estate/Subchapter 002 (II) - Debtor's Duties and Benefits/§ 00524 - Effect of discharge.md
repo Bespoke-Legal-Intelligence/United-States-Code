@@ -42,7 +42,7 @@
 
 &emsp;(5) the provisions of subsection (d) of this section have been complied with; and
 
-&emsp;(6)(A) in a case concerning an individual who was not represented by an attorney during the course of negotiating an agreement under this subsection, the court approves such agreement as—
+&emsp;(6)(A) in a case concerning an individual who was not represented by an attorney during thecourse of negotiating an agreement under this subsection, the court approves such agreement as—
 
 &emsp;&emsp;(i) not imposing an undue hardship on the debtor or a dependent of the debtor; and
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(bb) a separate class or classes of the claimants whose claims are to be addressed by a trust described in clause (i) is established and votes, by at least 75 percent of those voting, in favor of the plan; and
 
-&emsp;&emsp;(V) subject to subsection (h), pursuant to court orders or otherwise, the trust will operate through mechanisms such as structured, periodic, or supplemental payments, pro rata distributions, matrices, or periodic review of estimates of the numbers and values of present claims and future demands, or other comparable mechanisms, that providereasonable assurance that the trust will value, and be in a financial position to pay, present claims and future demands that involve similar claims in substantially the same manner.
+&emsp;&emsp;(V) subject to subsection (h), pursuant to court orders or otherwise, the trust will operate through mechanisms such as structured, periodic, or supplemental payments, pro rata distributions, matrices, or periodic review of estimates of the numbers and values of present claims and future demands, or other comparable mechanisms, that provide reasonable assurance that the trust will value, and be in a financial position to pay, present claims and future demands that involve similar claims in substantially the same manner.
 
 (3)(A) If the requirements of paragraph (2)(B) are met and the order confirming the plan of reorganization was issued or affirmed by the district court that has jurisdiction over the reorganization case, then after the time for appeal of the order that issues or affirms the plan—
 
@@ -168,7 +168,7 @@
 
 &emsp;(C) pursuant to the plan, is to be paid by a trust described in paragraph (2)(B)(i).
 
-(6) Paragraph (3)(A)(i) does not bar an action taken by or at the direction of an appellate court on appeal of an injunction issued under paragraph (1) or of the order of confirmation that relates to the injunction.
+(6) Paragraph (3)(A)(i) does not bar an action taken by or at the direction of an appellatecourt on appeal of an injunction issued under paragraph (1) or of the order of confirmation that relates to the injunction.
 
 (7) This subsection does not affect the operation of section 1144 or the power of the district court to refer a proceeding under section 157 of title 28 or any reference of a proceeding made prior to the date of the enactment of this subsection.
 
@@ -281,10 +281,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Construction
 
 Section 111(b) of Pub. L. 103–394 provided that: “Nothing in subsection (a), or in the amendments made by subsection (a) \[amending this section\], shall be construed to modify, impair, or supersede any other authority the court has to issue injunctions in connection with an order confirming a plan of reorganization.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 108, 341, 521, 901 of this title; title 26 section 7433.
 
 <i><sup>1</sup></i><i> See 1986 and 1994 Amendment notes below.</i>
 

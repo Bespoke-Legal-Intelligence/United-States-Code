@@ -38,7 +38,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 &emsp;&emsp;(A) be made for a term not exceeding 30 years;
 
-&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under section 404 <sup>2</sup> and servicecharges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, which may not exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
+&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under section 404 <sup>2</sup> and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, which may not exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
 
 &emsp;&emsp;(C) involve a principal obligation not exceeding—
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (2) Civil money penalties for intentional violations
 
-&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has intentionally failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, or to exercise proper credit or underwriting judgment, the Secretary may impose a civil money penalty on such lender or holder in the manner and amount provided under section 536 of the National Housing Act \[12 U.S.C. 1735f–14\] with respect to mortgagees and lenders under such Act.
+&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has intentionally failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, or to exercise proper credit or underwriting judgment, the Secretary may impose a civil money penalty onsuch lender or holder in the manner and amount provided under section 536 of the National Housing Act \[12 U.S.C. 1735f–14\] with respect to mortgagees and lenders under such Act.
 
 #### (3) Payment on loans made in good faith
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;In the event of default by the borrower on a loan guaranteed under this section, theholder of the guarantee certificate shall provide written notice of the default to the Secretary. Upon providing such notice, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
+&emsp;&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate shall provide written notice of the default to the Secretary. Upon providing such notice, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
 
 #### (i) Foreclosure
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (4) Investment
 
-&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required to carry out this section may be invested in obligations of the United States.
+&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required to carry out thissection may be invested in obligations of the United States.
 
 #### (5) Limitation on commitments to guarantee loans and mortgages
 
@@ -166,7 +166,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Limitations on costs of guarantees
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscalyear only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
 
 #### (C) Limitation on outstanding aggregate principal amount
 
@@ -337,10 +337,6 @@ Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out fo
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1721 of this title; title 25 section 4112.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “3702(d)”.</i>
 

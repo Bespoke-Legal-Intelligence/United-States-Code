@@ -4,7 +4,3 @@ The Secretary shall annually report to the Congress on the activities of the Fis
 
 (Pub. L. 104–43, title II, §212, as added Pub. L. 105–384, title II, §201(c), Nov. 13, 1998, 112 Stat. 3452.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5612 of this title.
-

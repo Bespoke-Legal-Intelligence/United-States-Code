@@ -68,7 +68,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rateappropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Income protection allowance
 
@@ -261,8 +261,4 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1087nn, 1087rr, 1087ss of this title.
 

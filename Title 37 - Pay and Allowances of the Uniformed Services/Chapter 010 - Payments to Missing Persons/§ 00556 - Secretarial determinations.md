@@ -26,7 +26,7 @@
 
 (e) When the account of a member has been charged or debited with an allotment paid under this chapter, the amount so charged or debited shall be recredited to the account of the member if the Secretary concerned, or his designee, determines that the payment was induced by fraud or misrepresentation to which the member was not a party.
 
-(f) Except an allotment for an unearned insurance premium, an allotment paid from pay and allowances of a member for the period he is entitled to pay and allowances under section 552 of this title may not be collected from the allottee as an overpayment when it was caused by delay in receiving evidence of death. An allotment payment for a period after the end of entitlement to pay and allowances under this chapter,or otherwise, which was caused by delay in receiving evidence of death, may not be collected from the allottee or charged against the pay of the deceased member.
+(f) Except an allotment for an unearned insurance premium, an allotment paid from pay and allowances of a member for the period he is entitled to pay and allowances under section 552 of this title may not be collected from the allottee as an overpayment when it was caused by delay in receiving evidence of death. An allotment payment for a period after the end of entitlement to pay and allowances under this chapter, or otherwise, which was caused by delay in receiving evidence of death, may not be collected from the allottee or charged against the pay of the deceased member.
 
 (g) The Secretary concerned, or his designee, may waive the recovery of an erroneous payment or overpayment of an allotment to a dependent if he considers recovery is against equity and good conscience.
 
@@ -115,8 +115,4 @@ In subsection (h), the first sentence is substituted for 50 App. U.S.C. 1009(b) 
 Subsec. (b). Pub. L. 104–106, §569(c)(4)(B), inserted “, in a case to which section 555 of this title applies,” after “When the Secretary concerned”.
 
 Subsec. (h). Pub. L. 104–106, §569(c)(4)(C), substituted “determining pay” for “determining status” and inserted “in a case to which section 555 of this title applies” after “designee, under this section”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 559 of this title; title 10 section 701; title 26 sections 2, 692; title 38 sections 3501, 3701, 4101, 4215.
 

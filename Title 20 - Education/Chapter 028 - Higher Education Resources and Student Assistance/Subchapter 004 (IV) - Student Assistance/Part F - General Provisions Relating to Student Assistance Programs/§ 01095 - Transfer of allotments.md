@@ -22,7 +22,3 @@ Amendment by Pub. L. 102–325 to this section, relating to transfers of allotme
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2753.
-

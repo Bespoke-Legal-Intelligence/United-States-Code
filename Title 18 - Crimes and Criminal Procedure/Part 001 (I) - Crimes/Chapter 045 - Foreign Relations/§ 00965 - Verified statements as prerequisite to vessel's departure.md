@@ -32,15 +32,11 @@ Minor changes of phraseology were made.
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91),” for “sections 91, 92, and 94 of Title 46”, “deliver to the Customs Service” for “deliver to thecollector of customs for the district wherein such vessel is then located”, and “the Customs Service like” for “the collector like”.
+1993—Subsec. (a). Pub. L. 103–182 substituted “section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91),” for “sections 91, 92, and 94 of Title 46”, “deliver to the Customs Service” for “deliver to the collector of customs for the district wherein such vessel is then located”, and “the Customs Service like” for “the collector like”.
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950. eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 966 of this title; title 22 section 465.
 

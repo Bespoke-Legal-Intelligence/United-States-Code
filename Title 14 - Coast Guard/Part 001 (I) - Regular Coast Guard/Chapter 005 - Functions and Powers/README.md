@@ -19,10 +19,13 @@
 | [95\.](%C2%A7%2000095%20-%20Special%20agents%20of%20the%20Coast%20Guard%20Investigative%20Service%20law%20enforcement%20authority.md) | Special agents of the Coast Guard Investigative Service law enforcement authority. |
 | [96\.](%C2%A7%2000096%20-%20Prohibition%20on%20overhaul%2C%20repair%2C%20and%20maintenance%20of%20Coast%20Guard%20vessels%20in%20foreign%20shipyards.md) | Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards. |
 | [97\.](%C2%A7%2000097%20-%20Procurement%20of%20buoy%20chain.md) | Procurement of buoy chain. |
+| [98\.](%C2%A7%2000098%20-%20National%20Coast%20Guard%20Museum.md) | National Coast Guard Museum. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–293, title II, §213(b), Aug. 9, 2004, 118 Stat. 1037, added item 98.
 
 1998—Pub. L. 105–383, title II, §205(b), Nov. 13, 1998, 112 Stat. 3416, added item 95 and struck out former item 95 “Civilian agents authorized to carry firearms”.
 
@@ -62,3 +65,4 @@
 - [&sect; 00095 - Special agents of the Coast Guard Investigative Service law enforcement authority](%C2%A7%2000095%20-%20Special%20agents%20of%20the%20Coast%20Guard%20Investigative%20Service%20law%20enforcement%20authority.md)
 - [&sect; 00096 - Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards](%C2%A7%2000096%20-%20Prohibition%20on%20overhaul%2C%20repair%2C%20and%20maintenance%20of%20Coast%20Guard%20vessels%20in%20foreign%20shipyards.md)
 - [&sect; 00097 - Procurement of buoy chain](%C2%A7%2000097%20-%20Procurement%20of%20buoy%20chain.md)
+- [&sect; 00098 - National Coast Guard Museum](%C2%A7%2000098%20-%20National%20Coast%20Guard%20Museum.md)

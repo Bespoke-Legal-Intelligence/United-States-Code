@@ -18,7 +18,3 @@ Whenever the Secretary after reasonable notice and opportunity for hearing to an
 
 (Pub. L. 94–163, title III, §400E, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3252.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6372e of this title.
-

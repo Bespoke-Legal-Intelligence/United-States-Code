@@ -32,7 +32,3 @@ A reference publication referred to in subsection (a)(1)(B) of this section is a
 
 <i>For termination of section by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates note set out under section 360aaa of this title.</i>
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 360aaa of this title.
-

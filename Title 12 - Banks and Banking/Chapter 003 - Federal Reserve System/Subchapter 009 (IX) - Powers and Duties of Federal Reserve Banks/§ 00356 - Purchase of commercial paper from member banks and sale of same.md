@@ -8,7 +8,3 @@ Every Federal reserve bank shall have power to purchase from member banks and to
 
 Section is comprised of subsec. (c) of section 14 of act Dec. 23, 1913. For classification to this title of remainder of section 14, see Codification note under section 353 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 412 of this title.
-

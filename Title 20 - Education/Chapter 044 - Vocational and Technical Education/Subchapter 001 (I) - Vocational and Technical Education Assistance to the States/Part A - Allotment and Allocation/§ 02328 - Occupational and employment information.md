@@ -94,7 +94,3 @@ Section 2335b, Pub. L. 88–210, title II, §223, as added Pub. L. 101–392, ti
 
 Section 2336, Pub. L. 88–210, title II, §225, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2307, 2324 of this title.
-

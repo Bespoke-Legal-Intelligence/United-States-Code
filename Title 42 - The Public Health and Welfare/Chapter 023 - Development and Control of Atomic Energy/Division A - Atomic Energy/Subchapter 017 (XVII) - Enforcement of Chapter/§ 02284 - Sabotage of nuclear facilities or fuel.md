@@ -32,7 +32,3 @@ Subsec. (b). Pub. L. 107–56, §§810(f)(1), (3), 811(h)(2), struck out “or a
 
 1983—Pub. L. 97–415 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 sections 2332b, 2339, 2339A, 2516.
-

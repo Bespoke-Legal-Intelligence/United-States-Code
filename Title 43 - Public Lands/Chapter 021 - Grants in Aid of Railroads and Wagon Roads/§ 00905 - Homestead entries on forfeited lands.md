@@ -10,7 +10,3 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Office of Commissioner of General Land Office abolished and functions transferred to Secretary of the Interior, or that officer as he may designate, by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100. See note set out under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 904, 906, 907 of this title.
-

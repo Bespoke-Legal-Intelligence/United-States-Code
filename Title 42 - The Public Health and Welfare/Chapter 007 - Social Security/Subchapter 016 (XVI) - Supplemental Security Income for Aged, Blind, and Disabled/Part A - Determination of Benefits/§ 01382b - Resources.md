@@ -8,7 +8,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(2)(A) household goods, personal effects, and an automobile, to the extent that their total value does not exceed such amount as the Commissioner of Social Security determines to be reasonable; and
 
-&emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size or value as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
+&emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size orvalue as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
 
 &emsp;(3) other property which is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion, as determined in accordance with and subject to limitations prescribed by the Commissioner of Social Security, except that the Commissioner of Social Security shall not establish a limitation on property (including the tools of a tradesperson and the machinery and livestock of a farmer) that is used in a trade or business or by such individual as an employee;
 
@@ -18,7 +18,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term “assistance” includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
 
-&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 6 months following the month in which such amount is received (or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989), and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
+&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
@@ -26,21 +26,29 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
-&emsp;(11) for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
+&emsp;(11) for the 9-month period beginning after the month in which received—
 
-&emsp;(12) any account, including accrued interest or other earnings thereon, established and maintained in accordance with section 1383(a)(2)(F) of this title; and
+&emsp;&emsp;(A) notwithstanding section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, any refund of Federal income taxes made to such individual (or such spouse) under section 24 of the Internal Revenue Code of 1986 (relating to child tax credit) by reason of subsection (d) thereof; and
+
+&emsp;&emsp;(B) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
+
+&emsp;(12) any account, including accrued interest or other earnings thereon, established and maintained in accordance with section 1383(a)(2)(F) of this title;
 
 &emsp;(13) any gift to, or for the benefit of, an individual who has not attained 18 years of age and who has a life-threatening condition, from an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code—
 
 &emsp;&emsp;(A) in the case of an in-kind gift, if the gift is not converted to cash; or
 
-&emsp;&emsp;(B) in the case of a cash gift, only to the extent that the total amount excluded fromthe resources of the individual pursuant to this paragraph in the calendar year in which the gift is made does not exceed $2,000.
+&emsp;&emsp;(B) in the case of a cash gift, only to the extent that the total amount excluded from the resources of the individual pursuant to this paragraph in the calendar year in which the gift is made does not exceed $2,000;
+
+&emsp;(14) for the 9-month period beginning after the month in which received, any amount received by such individual (or spouse) or any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter as restitution for benefits under this subchapter, subchapter II of this chapter, or subchapter VIII of this chapter that a representative payee of such individual (or spouse) or such other person under section 405(j), 1007, or 1383(a)(2) of this title has misused; and
+
+&emsp;(15) for the 9-month period beginning after the month in which received, any grant, scholarship, fellowship, or gift (or portion of a gift) used to pay the cost of tuition and fees at any educational (including technical or vocational education) institution.
 
 > In determining the resources of an individual (or eligible spouse) an insurance policy shall be taken into account only to the extent of its cash surrender value; except that if the total face value of all life insurance policies on any person is $1,500 or less, no part of the value of any such policy shall be taken into account.
 
 #### (b) Disposition of resources; grounds for exemption from disposition requirements
 
-(1) The Commissioner of Social Security shall prescribe the period or periods of time within which, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they would not have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
+(1) The Commissioner of Social Security shall prescribe the period or periods of time withinwhich, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they would not have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
 
 (2) Notwithstanding the provisions of paragraph (1), the Commissioner of Social Security shall not require the disposition of any real property for so long as it cannot be sold because (A) it is jointly owned (and its sale would cause undue hardship, due to loss of housing, for the other owner or owners), (B) its sale is barred by a legal impediment, or (C) as determined under regulations issued by the Commissioner of Social Security, the owner's reasonable efforts to sell it have been unsuccessful.
 
@@ -136,7 +144,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 #### (e) Trusts
 
-(1) In determining the resources of an individual, paragraph (3) shall apply to a trust (otherthan a trust described in paragraph (5)) established by the individual.
+(1) In determining the resources of an individual, paragraph (3) shall apply to a trust (other than a trust described in paragraph (5)) established by the individual.
 
 (2)(A) For purposes of this subsection, an individual shall be considered to have established a trust if any assets of the individual (or of the individual's spouse) are transferred to the trust other than by will.
 
@@ -180,7 +188,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;&emsp;(III) a person or entity (including a court) acting at the direction of, or on the request of, the individual or spouse.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834.)
+(Aug. 14, 1935, ch. 531, title XVI, §1613, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1470; amended Pub. L. 94–569, §5, Oct. 20, 1976, 90 Stat. 2700; Pub. L. 95–171, §9(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 96–611, §5(a), Dec. 28, 1980, 94 Stat. 3567; Pub. L. 97–248, title I, §185(a), (b), Sept. 3, 1982, 96 Stat. 406; Pub. L. 98–369, div. B, title VI, §§2614, 2663(g)(5), July 18, 1984, 98 Stat. 1132, 1168; Pub. L. 100–203, title IX, §§9103(a), 9104(a), 9105(a), 9114(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–304; Pub. L. 100–360, title III, §303(c)(1), July 1, 1988, 102 Stat. 762; Pub. L. 100–647, title VIII, §8103(b), Nov. 10, 1988, 102 Stat. 3795; Pub. L. 101–239, title VIII, §§8013(b), 8014(a), Dec. 19, 1989, 103 Stat. 2465; Pub. L. 101–508, title V, §§5031(b), 5035(b), title XI, §11115(b)(2), Nov. 5, 1990, 104 Stat. 1388–224, 1388–225, 1388–414; Pub. L. 103–296, title I, §107(a)(4), title III, §321(h)(2), Aug. 15, 1994, 108 Stat. 1478, 1544; Pub. L. 104–193, title II, §213(b), Aug. 22, 1996, 110 Stat. 2195; Pub. L. 105–306, §7(b), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–169, title II, §§205(a), 206(a), Dec. 14, 1999, 113 Stat. 1833, 1834; Pub. L. 108–203, title I, §101(c)(2), title IV, §§431(a), (b), 435(b), Mar. 2, 2004, 118 Stat. 496, 539, 540.)
 
 #### References in Text
 
@@ -188,9 +196,19 @@ The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
+Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (a)(11)(A), is section 203 of Pub. L. 107–16, which is set out as a note under section 24 of Title 26, Internal Revenue Code.
+
 Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(7). Pub. L. 108–203, §431(a), substituted “limited to the first 9 months” for “limited to the first 6 months” and struck out “(or to the first 9 months following such month with respect to any amount so received during the period beginning October 1, 1987, and ending September 30, 1989)” after “month in which such amount is received”.
+
+Subsec. (a)(11). Pub. L. 108–203, §431(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “for the month of receipt and the following month, any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);”.
+
+Subsec. (a)(14). Pub. L. 108–203, §101(c)(2), added par. (14).
+
+Subsec. (a)(15). Pub. L. 108–203, §435(b), added par. (15).
 
 1999—Subsec. (c). Pub. L. 106–169, §206(a)(1), struck out “Notification of medicaid policy restricting eligibility of institutionalized individuals for benefits based on” before “Disposal” in subsec. heading.
 
@@ -256,6 +274,14 @@ Subsec. (d). Pub. L. 97–248, §185(b), added subsec. (d).
 
 1976—Subsec. (a)(1). Pub. L. 94–569 struck out “, to the extent that its value does not exceed such amount as the Secretary determines to be reasonable” after “the home (including the land that appertains thereto)”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 101(c)(2) of Pub. L. 108–203 applicable to any case of benefit misuse by a representative payee with respect to which the Commissioner of Social Security makes the determination of misuse on or after Jan. 1, 1995, see section 101(d) of Pub. L. 108–203, set out as a note under section 405 of this title.
+
+Pub. L. 108–203, title IV, §431(c), Mar. 2, 2004, 118 Stat. 539, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall apply to amounts described in paragraph (7) of section 1613(a) of the Social Security Act \[subsec. (a)(7) of this section\] and refunds of Federal income taxes described in paragraph (11) of such section, that are received by an eligible individual or eligible spouse on or after such date.”
+
+Amendment by section 435(b) of Pub. L. 108–203 applicable to benefits payable for months that begin more than 90 days after Mar. 2, 2004, see section 435(c) of Pub. L. 108–203, set out as a note under section 1382a of this title.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 205(a) of Pub. L. 106–169 effective Jan. 1, 2000, and applicable to trusts established on or after such date, see section 205(d) of Pub. L. 106–169, set out as a note under section 1382a of this title.
@@ -294,7 +320,7 @@ Section 8014(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 Amendment by Pub. L. 100–647 effective as though included in section 162 of Housing and Community Development Act of 1987, Pub. L. 100–242, at the time of its enactment, on Feb. 5, 1988, see section 8103(c) of Pub. L. 100–647, set out as a note under section 1382a of this title.
 
-Amendment by Pub. L. 100–360 applicable to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out suchamendment have been promulgated by such date, see section 303(g)(3) of Pub. L. 100–360, set out as a note under section 1396r–5 of this title.
+Amendment by Pub. L. 100–360 applicable to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendment have been promulgated by such date, see section 303(g)(3) of Pub. L. 100–360, set out as a note under section 1396r–5 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -335,8 +361,4 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 #### Puerto Rico, Guam, and Virgin Islands
 
 Enactment of provisions of Pub. L. 92–603, eff. Jan. 1, 1974, not applicable to Puerto Rico, Guam, and the Virgin Islands, see section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1382, 1382a, 1382j, 1395w–114, 1396a, 1396d, 1396p, 1396r–5, 1437a of this title; title 25 section 4103.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Pictorial Representations Permitted.—The copyright in an architectural work that has been constructed does not include the right to prevent the making, distributing, or public display of pictures, paintings, photographs, or other pictorial representations of the work, if the building in which the work is embodied is located in or ordinarily visible from a public place.
+Pictorial Representations Permitted.—The copyright in an architectural work that has been constructed does not include the right to prevent the making, distributing, or public display of pictures, paintings, photographs, orother pictorial representations of the work, if the building in which the work is embodied is located in or ordinarily visible from a public place.
 
 (b)
 
@@ -13,8 +13,4 @@ Alterations to and Destruction of Buildings.—Notwithstanding the provisions of
 #### Effective Date
 
 Section applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as an Effective Date of 1990 Amendment note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 501, 511 of this title; title 18 section 2319.
 

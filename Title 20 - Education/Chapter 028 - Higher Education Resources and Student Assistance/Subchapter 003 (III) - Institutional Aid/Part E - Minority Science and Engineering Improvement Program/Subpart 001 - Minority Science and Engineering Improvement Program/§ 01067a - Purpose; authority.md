@@ -12,7 +12,7 @@ The Secretary shall, in accordance with the provisions of this subpart, carry ou
 
 #### References in Text
 
-Section 3444(a)(1) of this title, referred to in subsec. (a), was in the original a reference to section 304(a)(1) of the Department of Education Organization Act of 1979. Sections 304 and 305 of that Act were renumbered as sections 303 and 304, respectively, by Pub. L. 103–382,title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929, and are classified to sections 3444 and 3445, respectively, of this title.
+Section 3444(a)(1) of this title, referred to in subsec. (a), was in the original a reference to section 304(a)(1) of the Department of Education Organization Act of 1979. Sections 304 and 305 of that Act were renumbered as sections 303 and 304, respectively, by Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929, and are classified to sections 3444 and 3445, respectively, of this title.
 
 #### Codification
 
@@ -29,10 +29,6 @@ A prior section 351 of Pub. L. 89–329 was renumbered section 391 and is classi
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1067h of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER IV—GENERAL PROVISIONS AFFECTING SUBCHAPTERS II TO VII
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1522, 1524, 1581, 1582, 1584, 1585, 1586, 1588, 1589, 1589b, 1590 of this title; title 12 sections 1715m, 1745.
-
 
 ---
 

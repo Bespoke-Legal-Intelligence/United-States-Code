@@ -6,11 +6,11 @@
 
 &emsp;Subject to paragraph (3), if the opposition personal funds amount with respect to a candidate for election to the office of Representative in, or Delegate or Resident Commissioner to, the Congress exceeds $350,000—
 
-&emsp;&emsp;(A) the limit under subsection (a)(1)(A) of this section with respect to the candidate shall be tripled;
+&emsp;&emsp;(A) the limit under subsection (a)(1)(A) <sup>1</sup> with respect to the candidate shall be tripled;
 
-&emsp;&emsp;(B) the limit under subsection (a)(3) of this section shall not apply with respect to any contribution made with respect to the candidate if the contribution is made under the increased limit allowed under subparagraph (A) during a period in which the candidate may accept such a contribution; and
+&emsp;&emsp;(B) the limit under subsection (a)(3) <sup>1</sup> shall not apply with respect to any contribution made with respect to the candidate if the contribution is made under the increased limit allowed under subparagraph (A) during a period in which the candidate may accept such a contribution; and
 
-&emsp;&emsp;(C) the limits under subsection (d) of this section with respect to any expenditure by a State or national committee of a political party on behalf of the candidate shall not apply.
+&emsp;&emsp;(C) the limits under subsection (d) <sup>1</sup> with respect to any expenditure by a State or national committee of a political party on behalf of the candidate shall not apply.
 
 #### (2) Determination of opposition personal funds amount
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determinedon June 30 and December 31 of the year preceding the year in which a general election is held.
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
 
 #### (3) Time to accept contributions under increased limit
 
@@ -112,11 +112,13 @@
 
 (Pub. L. 92–225, title III, §315A, as added Pub. L. 107–155, title III, §319(a), Mar. 27, 2002, 116 Stat. 109.)
 
+#### References in Text
+
+Subsections (a)(1)(A), (3), and (d), referred to in subsec. (a)(1), probably mean subsections (a)(1)(A), (3), and (d) of section 441a of this title.
+
 #### Effective Date
 
 Section effective Nov. 6, 2002, but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 431, 441a of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,5 +1,5 @@
 
-44 U.S.C.<br>United States Code, 2003 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+44 U.S.C.<br>United States Code, 2004 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 44—PUBLIC PRINTING AND DOCUMENTS
 
@@ -1448,10 +1448,6 @@ Section 2(f) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: �
 Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303, repealed title V of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added by act Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified to sections 392 to 401 of title 44 prior to the enactment into positive law of Title 44, Public Printing and Documents, by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238. Section 3 of Pub. L. 90–620 repealed various laws and parts of laws, including section 6(d), but not title V.
 
 Section 3 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before October 22, 1968, and except as provided by section 2 of Pub. L. 90–620.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 30 section 1809; title 40 section 113.
 
 
 ---

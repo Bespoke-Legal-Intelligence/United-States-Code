@@ -2,7 +2,7 @@
 
 #### (a) Patent Compensation Board
 
-The Commission shall designate a Patent Compensation Board to consider applications under this section. The members of the Board shall receive a per diem compensation for each day spent in meetings or conferences, and all members shall receive their necessary traveling or other expenses while engaged in the work of the Board. The members of the Board may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except in so far as such sections may prohibit any such member from receiving compensation in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
+The Commission shall designate a Patent Compensation Board to consider applications under this section. The members of the Boardshall receive a per diem compensation for each day spent in meetings or conferences, and all members shall receive their necessary traveling or other expenses while engaged in the work of the Board. The members of the Board may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except in so far as such sections may prohibit any such member from receiving compensation in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
 
 #### (b) Eligibility
 
@@ -10,7 +10,7 @@ The Commission shall designate a Patent Compensation Board to consider applicati
 
 (2) Any person seeking to obtain the just compensation provided in section 2181 of this title shall make application therefor to the Commission in accordance with such procedures as the Commission may by regulation establish.
 
-(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, anaward. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
+(3) Any person making any invention or discovery useful in the production or utilization of special nuclear material or atomic energy, who is not entitled to compensation or a royalty therefor under this chapter and who has complied with the provisions of section 2181(c) of this title may make application to the Commission for, and the Commission may grant, an award. The Commission may also, after consultation with the General Advisory Committee, and with the approval of the President, grant an award for any especially meritorious contribution to the development, use, or control of atomic energy.
 
 #### (c) Standards
 
@@ -59,10 +59,6 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Modification of Executive Order No. 11477
 
 Ex. Ord. No. 11477, Aug. 7, 1969, 34 F.R. 12937, set out as a note above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2183, 2184, 2239, 2297h–12, 5814 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

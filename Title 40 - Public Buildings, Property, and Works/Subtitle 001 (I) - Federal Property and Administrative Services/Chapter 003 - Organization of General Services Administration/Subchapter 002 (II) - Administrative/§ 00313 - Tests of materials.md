@@ -56,7 +56,3 @@ June 30, 1949, ch. 288, title I, §109(g) (1st–3d sentences), as added Sept. 5
 
 In subsection (b), the word “contemplated” is omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 111, 321 of this title.
-

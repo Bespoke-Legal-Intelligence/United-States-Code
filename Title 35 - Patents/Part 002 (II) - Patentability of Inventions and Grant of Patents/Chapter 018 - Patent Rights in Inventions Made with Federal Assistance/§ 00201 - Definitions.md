@@ -38,9 +38,5 @@ Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to i
 
 Subsec. (e). Pub. L. 98–620, §501(2), inserted “: <i>Provided</i>, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance” after “agreement”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 2113; title 49 section 309.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,3 @@ R.S. §5590 derived from acts Aug. 10, 1846, ch. 178, §2, 9 Stat. 102; Feb. 5, 
 
 Section 2 of Pub. L. 97–199 provided that: “The amendment made by the first section \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1982.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 67 of this title; title 31 section 1305.
-

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—PAY FOR THE SENIOR EXECUTIVE SERVICE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5402, 5948 of this title; title 2 sections 60c–5, 1805, 1849; title 38 section 7425.
-
 
 ---
 

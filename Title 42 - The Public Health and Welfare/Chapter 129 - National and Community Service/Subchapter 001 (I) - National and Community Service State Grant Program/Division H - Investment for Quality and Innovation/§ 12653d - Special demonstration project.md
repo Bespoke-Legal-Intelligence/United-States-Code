@@ -2,7 +2,7 @@
 
 #### (a) Special demonstration project for the Yukon-Kuskokwim delta of Alaska
 
-The President may award grants to, and enter into contracts with, organizations to carry out programs that address significant human needs in the Yukon-Kuskokwim delta region of Alaska.
+The President may award grants to, and enter into contracts with, organizations to carry outprograms that address significant human needs in the Yukon-Kuskokwim delta region of Alaska.
 
 #### (b) Application
 
@@ -53,8 +53,4 @@ Section 12653m, Pub. L. 101–610, title I, §195M, as added Pub. L. 102–484, 
 Section 12653n, Pub. L. 101–610, title I, §195N, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which limited funding for Corps programs, was renumbered section 165 of Pub. L. 101–610 and transferred to section 12625 of this title.
 
 Section 12653<i>o</i>, Pub. L. 101–610, title I, §195O, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which defined terms used in former part H of this subchapter, was renumbered section 166 of Pub. L. 101–610 and transferred to section 12626 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12511 of this title.
 

@@ -22,7 +22,7 @@
 
 &emsp;(H) other measures likely to reduce costs and improve rail transportation.
 
-(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11904 of this title. When appropriate, the designated officeror employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
+(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11904 of this title. When appropriate, the designated officer or employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
 
 (d)(1) When requested by a rail carrier, the Secretary may hold conferences on and mediate disputes resulting from a proposed unification or coordination project. The Secretary may invite to a conference—
 
@@ -82,7 +82,7 @@ In subsection (b), the words “In order” are omitted as surplus. The words �
 
 In subsection (c)(1), the words “as are deemed” are omitted as unnecessary.
 
-In subsection (c)(2), the words “and the study described in section 901 of the Railroad Revitalization and Regulatory Reform Act of 1976” and “or such section 901” are omitted as executed. The word “nature” is omitted as covered by “kind”. The word “When” is substituted for “to the extent” for consistency. The word “necessary” is omitted as being included in “appropriate”. A cross-reference to section 203(c) of the Regional Rail Reorganization Act of 1973 is included even though the law is unclear because section 1149 of the Omnibus Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 675) amended section 203 to repeal the powers referred to in the source provisions. No position is taken as to whether the powers described in section 203(c) are still in existence.
+In subsection (c)(2), the words “and the study described in section 901 of the Railroad Revitalization and Regulatory Reform Act of 1976” and “or such section 901” are omitted as executed. The word “nature” is omitted as covered by “kind”. The word “When” is substituted for “to the extent” for consistency. The word “necessary” is omitted as being included in “appropriate”. A cross-reference to section 203(c) of the Regional Rail Reorganization Act of 1973 is included eventhough the law is unclear because section 1149 of the Omnibus Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 675) amended section 203 to repeal the powers referred to in the source provisions. No position is taken as to whether the powers described in section 203(c) are still in existence.
 
 In subsection (d)(1)(A), the word “appropriate” is omitted as surplus.
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 701 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 306, 11324 of this title; title 45 section 903.
 

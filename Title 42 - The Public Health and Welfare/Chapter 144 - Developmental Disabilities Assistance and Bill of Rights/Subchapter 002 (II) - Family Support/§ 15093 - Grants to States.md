@@ -48,7 +48,3 @@ To the extent practicable, the Secretary shall award grants to States under this
 
 (Pub. L. 106–402, title II, §204, Oct. 30, 2000, 114 Stat. 1730.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15095, 15096 of this title.
-

@@ -78,7 +78,3 @@ Amendment by Pub. L. 91–34 effective at beginning of first pay period which co
 
 Rate of basic pay not to be reduced by reason of enactment of Pub. L. 91–34, which amended this section, see section 3(b) of Pub. L. 91–34, set out as a note under section 5365 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5115 of this title.
-

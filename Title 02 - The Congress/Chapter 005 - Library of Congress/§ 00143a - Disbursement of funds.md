@@ -10,7 +10,7 @@ Sections 444, 911(9), 911(11), and 941 of the Foreign Service Act of 1946, refer
 
 #### Codification
 
-Section is based on section 203 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.
+Section is based on section 203 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980,and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.
 
 #### Prior Provisions
 

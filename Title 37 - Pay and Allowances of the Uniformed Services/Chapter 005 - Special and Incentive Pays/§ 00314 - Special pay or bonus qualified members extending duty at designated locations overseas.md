@@ -68,7 +68,3 @@ Section 641(b) of Pub. L. 99–145 provided that: “The amendment made by subse
 
 Section 5(c)(1) of Pub. L. 96–579 provided: “Section 314 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month following the month in which this section is enacted \[Dec. 1980\] and shall apply to periods of extended duty overseas beginning before, on, or after such date, but no payment may be made under such section for any month before the first day of the first month following the month in which this section is enacted.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 411g of this title; title 10 section 705.
-

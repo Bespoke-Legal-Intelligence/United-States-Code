@@ -19,10 +19,6 @@
 
 1988—Pub. L. 100–690, title VII, §7069, Nov. 18, 1988, 102 Stat. 4405, substituted “forfeiture” for “Forfeiture” in items 981 and 982.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1594, 3663 of this title; title 8 section 1324; title 31 section 5352.
-
 
 ---
 

@@ -18,7 +18,3 @@ The court rendering a judgment for the plaintiff in a proceeding brought under s
 
 (Pub. L. 91–646, title III, §304, Jan. 2, 1971, 84 Stat. 1906.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4655 of this title.
-

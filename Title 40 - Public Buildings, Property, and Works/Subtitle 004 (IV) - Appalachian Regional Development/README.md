@@ -9,10 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in title 33 section 1257; title 42 sections 1396b, 3174, 5153.
-
 
 ---
 

@@ -14,7 +14,3 @@ R.S. §2328 derived from act May 10, 1872, ch. 152, §9, 17 Stat. 94.
 
 Provision of this section respecting prosecution of applications for patents for mining claims in General Land Office, pending May 10, 1872, was omitted from the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 29, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732.
-

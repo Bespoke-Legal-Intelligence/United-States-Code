@@ -20,7 +20,7 @@ The term “upstream subsidy” means any countervailable subsidy, other than an
 
 #### (2) Adjustments
 
-&emsp;If the administering authority has determined in a previous proceeding that a countervailable subsidy is paid or bestowed on the input product that is used for comparison under paragraph (1), the administering authority may (A) where appropriate, adjust the price that the manufacturer or producer of merchandise which is the subject of such proceeding would otherwise pay for the product to reflect the effects of the countervailable subsidy, or (B) select in lieu of that price a price from another source.
+&emsp;If the administering authority has determined in a previous proceeding that a countervailable subsidy is paid or bestowed on the input product that is used for comparison under paragraph (1), the administering authority may (A) where appropriate, adjust theprice that the manufacturer or producer of merchandise which is the subject of such proceeding would otherwise pay for the product to reflect the effects of the countervailable subsidy, or (B) select in lieu of that price a price from another source.
 
 #### (c) Inclusion of amount of countervailable subsidy
 
@@ -57,10 +57,6 @@ Section effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1671 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection (a)(2) of this section,”.</i>
 

@@ -1,6 +1,6 @@
 ### §49b. Mining laws relating to placer claims extended to Alaska
 
-The general mining laws of the United States so far as they are applicable to placer-mining claims, as prior to May 4, 1934, extended to the Territory of Alaska, are declared to be in full force and effect in said Territory: <i>Provided</i>, Thatnothing herein shall be held to change or affect the rights acquired by locators or owners of placer-mining claims prior to May 4, 1934, located in said Territory under act August 1, 1912 (37 Stat. 242, 243) and amendatory act March 3, 1925 (43 Stat. 1118).
+The general mining laws of the United States so far as they are applicable to placer-mining claims, as prior to May 4, 1934, extended to the Territory of Alaska, are declared to be in full force and effect in said Territory: <i>Provided</i>, That nothing herein shall be held to change or affect the rights acquired by locators or owners of placer-mining claims prior to May 4, 1934, located in said Territory under act August 1, 1912 (37 Stat. 242, 243) and amendatory act March 3, 1925 (43 Stat. 1118).
 
 (May 4, 1934, ch. 211, §2, 48 Stat. 663.)
 
@@ -19,8 +19,4 @@ Section 3 of act May 4, 1934, provided that: “This Act \[enacting this section
 #### Admission of Alaska as State
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 460mm–1.
 

@@ -90,7 +90,3 @@ The district of columbia and its environs.—The term ‘the District of Columbi
 
 Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8905 of this title.
-

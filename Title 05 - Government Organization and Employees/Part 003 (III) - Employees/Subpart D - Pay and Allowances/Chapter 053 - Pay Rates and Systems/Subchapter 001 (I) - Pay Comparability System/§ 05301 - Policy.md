@@ -10,7 +10,7 @@ It is the policy of Congress that Federal pay fixing for employees under the Gen
 
 &emsp;(4) any existing pay disparities between Federal and non-Federal employees should be completely eliminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, §2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L. 96–465, title II, §2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, §2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L.96–465, title II, §2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429.)
 
 Historical and Revision Notes
 
@@ -70,7 +70,7 @@ Generally.—Except as otherwise provided in this Act, this Act and the amendmen
 
 “(b)
 
-Special Rule.—The first calendar year in which comparability payments under section 5304 of title 5,United States Code (as amended by this Act), are paid shall be the calendar year beginning on January 1, 1994.”
+Special Rule.—The first calendar year in which comparability payments under section 5304 of title 5, United States Code (as amended by this Act), are paid shall be the calendar year beginning on January 1, 1994.”
 
 #### Effective Date of 1980 Amendment
 
@@ -98,7 +98,7 @@ Rules of Construction.—(1) Except as otherwise expressly provided, any referen
 
 “(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to ‘this Act’ (or to any title, section, or other designated provision of ‘this Act’), and any reference made in any provision of law outside of this Act to the ‘Treasury, Postal Service and General Government Appropriations Act, 1991’ \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA.”
 
-Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
+Section 529 \[title III, §306\] of Pub. L. 101–509 provided that: “Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to ‘this Act’ \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\]shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\].”
 
 #### Short Title
 
@@ -128,7 +128,7 @@ Establishment.—The Office of Personnel Management shall establish a Pay-for-Pe
 
 Membership.—The members of the Committee shall be—
 
-&emsp;“(1) a Chairman, who shall be appointed by the Director of the Office of Personnel Management on the basis of the appointee's education, training, and experience as an expert in compensation practices, and after consultation with the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives, respectively;
+&emsp;“(1) a Chairman, who shall be appointed by the Director of the Office of Personnel Management on the basis of the appointee's education, training, and experience as an expert in compensation practices, and after consultation with the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Post Office and Civil Service of the House of Representatives, respectively;
 
 &emsp;“(2) an employee of the Office of Personnel Management, designated by the Director of such Office;
 
@@ -220,13 +220,5 @@ Sec. 8. <i>Executive Assignment System</i>. (a) Civil Service Rule 9 (5 CFR Part
 
 Sec. 9. <i>Effective Dates</i>. (a) Except as otherwise provided by Public Law 101–509, the provisions of subchapter I of chapter 53 of title 5, United States Code, as amended by section 101 of FEPCA \[this subchapter\], and the provisions of sections 1 through 4 of this order shall take effect on February 3, 1991.
 
-(b) Except as otherwise provided by Public Law 101–509, the remaining provisions of FEPCA and of thisorder shall take effect on May 4, 1991, except that the Office of Personnel Management may establish an earlier effective date, but not earlier than February 3, 1991, for any such provisions with respect to which the Office determines an earlier effective date is appropriate. \[For effective dates of certain provisions of FEPCA as established by the Office of Personnel Management, see notices and rules issued by the Office of Personnel Management and published in the Federal Register at 56 F.R. 6212, 11059, 12833, 20339, and 20343.\]
-
-#### Act Referred to in Other Sections
-
-The Federal Pay Comparability Act of 1970 is referred to in title 19 sections 2075, 2171.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 31 section 732; title 42 section 12651f.
+(b) Except as otherwise provided by Public Law 101–509, the remaining provisions of FEPCA and of this order shall take effect on May 4, 1991, except that the Office of Personnel Management may establish an earlier effective date, but not earlier than February 3, 1991, for any such provisions with respect to which the Office determines an earlier effective date is appropriate. \[For effective dates of certain provisions of FEPCA as established by the Office of Personnel Management, see notices and rules issued by the Office of Personnel Management and published in the Federal Register at 56 F.R. 6212, 11059, 12833, 20339, and 20343.\]
 

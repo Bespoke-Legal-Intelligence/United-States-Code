@@ -8,7 +8,7 @@ Design of Process.—In fulfilling the responsibilities assigned under section 3
 
 Content of Process.—The process of an executive agency shall—
 
-&emsp;(1) provide for the selection of information technology investments to be made by the executive agency, the management of those investments, and the evaluation of the results of those investments;
+&emsp;(1) provide for the selection of investments in information technology (including information security needs) to be made by the executive agency, the management of those investments, and the evaluation of the results of those investments;
 
 &emsp;(2) be integrated with the processes for making budget, financial, and program management decisions in the executive agency;
 
@@ -20,7 +20,7 @@ Content of Process.—The process of an executive agency shall—
 
 &emsp;(6) provide the means for senior management personnel of the executive agency to obtain timely information regarding the progress of an investment in an information system, including a system of milestones for measuring progress, on an independently verifiable basis, in terms of cost, capability of the system to meet specified requirements, timeliness, and quality.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1239.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1239; Pub. L. 108–458, title VIII, §8401(3), Dec. 17, 2004, 118 Stat. 3869.)
 
 Historical and Revision Notes
 
@@ -38,7 +38,7 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LI, §5122, Feb. 10, 1996, 110 Stat. 683.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 11103 of this title; title 10 section 2225.
+2004—Subsec. (b)(1). Pub. L. 108–458 substituted “investments in information technology (including information security needs)” for “information technology investments”.
 

@@ -20,7 +20,7 @@ Orders Prohibiting Individuals From Performing Safety-Sensitive Functions.—If 
 
 (d)
 
-Regulations Requiring Reporting of Remedial Actions.—(1) The Secretary shall prescribe regulations to require that a railroad carrier notified by the Secretary that imposition ofa civil penalty will be recommended for a failure to comply with this part, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions, shall report to the Secretary, not later than the 30th day after the end of the month in which the notification is received—
+Regulations Requiring Reporting of Remedial Actions.—(1) The Secretary shall prescribe regulations to require that a railroad carrier notified by the Secretary that imposition of a civil penalty will be recommended for a failure to comply with this part, chapter 51 or 57 of this title, or a regulation prescribed or order issued under any of those provisions, shall report to the Secretary, not later than the 30th day after the end of the month in which the notification is received—
 
 &emsp;(A) actions taken to remedy the failure; or
 
@@ -87,8 +87,4 @@ Section 6 of the Department of Transportation Act, referred to in subsec. (c), i
 #### Amendments
 
 1994—Subsec. (c). Pub. L. 103–440 inserted “this chapter or any of the laws transferred to the jurisdiction of the Secretary of Transportation by subsection (e)(1), (2), and (6)(A) of section 6 of the Department of Transportation Act, as in effect on June 1, 1994, or” after “individual's violation of”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 20112 of this title.
 

@@ -6,7 +6,7 @@ The Administrator shall encourage cooperative activities by the States and local
 
 #### (b) Federal cooperation
 
-The Administrator shall cooperate with and encourage cooperative activities by all Federaldepartments and agencies having functions relating to the prevention and control of air pollution, so as to assure the utilization in the Federal air pollution control program of all appropriate and available facilities and resources within the Federal Government.
+The Administrator shall cooperate with and encourage cooperative activities by all Federal departments and agencies having functions relating to the prevention and control of air pollution, so as to assure the utilization in the Federal air pollution control program of all appropriate and available facilities and resources within the Federal Government.
 
 #### (c) Consent of Congress to compacts
 

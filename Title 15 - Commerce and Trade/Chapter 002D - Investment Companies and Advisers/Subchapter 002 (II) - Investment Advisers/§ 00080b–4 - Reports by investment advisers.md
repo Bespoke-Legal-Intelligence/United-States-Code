@@ -1,6 +1,6 @@
 ### §80b–4. Reports by investment advisers
 
-Every investment adviser who makes use of the mails or of any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser (other than one specifically exempted from registration pursuant to section 80b–3(b) of this title), shall make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
+Every investment adviser who makes use of the mails or of any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser (other than one specifically exempted from registration pursuant to section 80b–3(b) of this title), shall make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic,special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
 (Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169.)
 
@@ -17,8 +17,4 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 80b–4a of this title.
 

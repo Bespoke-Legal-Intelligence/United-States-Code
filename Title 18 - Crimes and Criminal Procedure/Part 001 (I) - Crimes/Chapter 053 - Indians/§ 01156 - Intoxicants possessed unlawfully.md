@@ -4,13 +4,13 @@ Whoever, except for scientific, sacramental, medicinal or mechanical purposes, p
 
 The term “Indian country” as used in this section does not include fee-patented lands in non-Indian communities or rights-of-way through Indian reservations, and this section does not apply to such lands or rights-of-way in the absence of a treaty or statute extending the Indian liquor laws thereto.
 
-(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, §28, 63 Stat. 94; Pub. L. 103–322, titleXXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 759; May 24, 1949, ch. 139, §28, 63 Stat. 94; Pub. L. 103–322, title XXXIII, §330016(1)(G), (I), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
 #### 1948 Act
 
-Based on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, §1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, §1, 40 Stat. 563; June 30, 1919, ch. 4, §1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, §1, 52 Stat. 696).
+Based on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, §1, 19Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, §1, 40 Stat. 563; June 30, 1919, ch. 4, §1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, §1, 52 Stat. 696).
 
 The revision of section 244 of title 25, U.S.C., 1940 ed., Indians, conforms with the effect thereon of sections 241, 244a, and 254 of said title.
 
@@ -31,8 +31,4 @@ This section \[section 28\] adds to section 1156 of title 18, U.S.C., a paragrap
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” after “first offense, be” and for “fined not more than $2,000” after “subsequent offense, be” in first par.
 
 1949—Act May 24, 1949, inserted last par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1151, 1161, 3113 of this title; title 25 section 1725.
 

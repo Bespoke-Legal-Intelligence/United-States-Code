@@ -10,7 +10,3 @@ The Council is authorized to promulgate such rules and regulations as it deems n
 
 1980—Pub. L. 96–515 inserted provision authorizing the Council to establish procedures as necessary to provide for participation by local governments in proceedings and other actions taken by the Council with respect to undertakings referred to in section 470f of this title which affect such local governments.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 470h–2 of this title; title 40 section 3303.
-

@@ -22,47 +22,63 @@
 
 #### (A) Parents
 
-&emsp;&emsp;At least 20 percent of the members shall be parents of infants or toddlers with disabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. At least one such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
+&emsp;&emsp;Not less than 20 percent of the members shall be parents of infants or toddlers with disabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
 
 #### (B) Service providers
 
-&emsp;&emsp;At least 20 percent of the members shall be public or private providers of early intervention services.
+&emsp;&emsp;Not less than 20 percent of the members shall be public or private providers of early intervention services.
 
 #### (C) State legislature
 
-&emsp;&emsp;At least one member shall be from the State legislature.
+&emsp;&emsp;Not less than 1 member shall be from the State legislature.
 
 #### (D) Personnel preparation
 
-&emsp;&emsp;At least one member shall be involved in personnel preparation.
+&emsp;&emsp;Not less than 1 member shall be involved in personnel preparation.
 
 #### (E) Agency for early intervention services
 
-&emsp;&emsp;At least one member shall be from each of the State agencies involved in the provision of, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
+&emsp;&emsp;Not less than 1 member shall be from each of the State agencies involved in the provision of, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
 
 #### (F) Agency for preschool services
 
-&emsp;&emsp;At least one member shall be from the State educational agency responsible for preschool services to children with disabilities and shall have sufficient authority to engage in policy planning and implementation on behalf of such agency.
+&emsp;&emsp;Not less than 1 member shall be from the State educational agency responsible for preschool services to children with disabilities and shall have sufficient authority to engage in policy planning and implementation on behalf of such agency.
 
-#### (G) Agency for health insurance
+#### (G) State medicaid agency
 
-&emsp;&emsp;At least one member shall be from the agency responsible for the State governance of health insurance.
+&emsp;&emsp;Not less than 1 member shall be from the agency responsible for the State medicaid program.
 
 #### (H) Head Start agency
 
-&emsp;&emsp;At least one representative from a Head Start agency or program in the State.
+&emsp;&emsp;Not less than 1 member shall be a representative from a Head Start agency or program in the State.
 
 #### (I) Child care agency
 
-&emsp;&emsp;At least one representative from a State agency responsible for child care.
+&emsp;&emsp;Not less than 1 member shall be a representative from a State agency responsible for child care.
+
+#### (J) Agency for health insurance
+
+&emsp;&emsp;Not less than 1 member shall be from the agency responsible for the State regulation of health insurance.
+
+#### (K) Office of the Coordinator of Education of Homeless Children and Youth
+
+&emsp;&emsp;Not less than 1 member shall be a representative designated by the Office of Coordinator for Education of Homeless Children and Youths.
+
+#### (L) State foster care representative
+
+&emsp;&emsp;Not less than 1 member shall be a representative from the State child welfare agency responsible for foster care.
+
+#### (M) Mental health agency
+
+&emsp;&emsp;Not less than 1 member shall be a representative from the State agency responsible for children's mental health.
 
 #### (2) Other members
 
-&emsp;The council may include other members selected by the Governor, including a representative from the Bureau of Indian Affairs, or where there is no BIA-operated or BIA-funded school, from the Indian Health Service or the tribe or tribal council.
+&emsp;The council may include other members selected by the Governor, including a representative from the Bureau of Indian Affairs (BIA), or where there is no BIA-operated or BIA-funded school, from the Indian Health Service or the tribe or tribal council.
 
 #### (c) Meetings
 
-The council shall meet at least quarterly and in such places as it deems necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
+The council shall meet, at a minimum, on a quarterly basis, and in such places as the council determines necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
 
 #### (d) Management authority
 
@@ -74,7 +90,7 @@ Subject to the approval of the Governor, the council may prepare and approve a b
 
 &emsp;The council shall—
 
-&emsp;&emsp;(A) advise and assist the lead agency designated or established under section1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
+&emsp;&emsp;(A) advise and assist the lead agency designated or established under section 1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
 
 &emsp;&emsp;(B) advise and assist the lead agency in the preparation of applications and amendments thereto;
 
@@ -88,15 +104,13 @@ Subject to the approval of the Governor, the council may prepare and approve a b
 
 #### (f) Conflict of interest
 
-No member of the council shall cast a vote on any matter that would provide direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
+No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
 
-(Pub. L. 91–230, title VI, §641, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 116.)
+(Pub. L. 91–230, title VI, §641, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2758.)
 
 #### Prior Provisions
 
-A prior section 1441, Pub. L. 91–230, title VI, §641, Apr. 13, 1970, 84 Stat. 185; Pub. L. 95–49, §4, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §§3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §312, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 100–630, title I, §105(b), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title V, §501, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–421, title II, §203, Oct. 16, 1992, 106 Stat. 2165, related to grants, contracts, and cooperative agreements for research and related activities, attention deficit disorder centers, and model demonstration programs, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
+A prior section 1441, Pub. L. 91–230, title VI, §641, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 116, related to State interagency coordinating councils, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1411, 1432, 1435 of this title.
+Another prior section 1441, Pub. L. 91–230, title VI, §641, Apr. 13, 1970, 84 Stat. 185; Pub. L. 95–49, §4, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §§3(b), 12, Dec. 2, 1983, 97 Stat. 1358, 1372; Pub. L. 99–457, title III, §312, Oct. 8, 1986, 100 Stat. 1169; Pub. L. 100–630, title I, §105(b), Nov. 7, 1988, 102 Stat. 3299; Pub. L. 101–476, title V, §501, Oct. 30, 1990, 104 Stat. 1135; Pub. L. 102–421, title II, §203, Oct. 16, 1992, 106 Stat. 2165, related to grants, contracts, and cooperative agreements for research and related activities, attention deficit disorder centers, and model demonstration programs, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 

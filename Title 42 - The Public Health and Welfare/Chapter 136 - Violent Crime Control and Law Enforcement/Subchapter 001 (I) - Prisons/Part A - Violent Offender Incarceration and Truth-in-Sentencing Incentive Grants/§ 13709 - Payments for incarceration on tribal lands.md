@@ -22,7 +22,3 @@ To be eligible to receive a grant under this section, an Indian tribe shall subm
 
 A prior section 13709, Pub. L. 103–322, title II, §20109, Sept. 13, 1994, 108 Stat. 1818, authorized appropriations to carry out this part prior to the general amendment of this part by Pub. L. 104–134.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13708, 14214 of this title.
-

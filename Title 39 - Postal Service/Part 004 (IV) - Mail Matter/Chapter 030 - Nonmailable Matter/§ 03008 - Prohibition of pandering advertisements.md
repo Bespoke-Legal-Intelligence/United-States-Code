@@ -24,7 +24,3 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 748.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3011 of this title; title 18 section 1737.
-

@@ -66,7 +66,3 @@ Another prior section 222 of Pub. L. 89–329 was classified to section 1032 of 
 
 Another prior section 222 of Pub. L. 89–329 was classified to section 1033 of this title, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1043 of this title.
-

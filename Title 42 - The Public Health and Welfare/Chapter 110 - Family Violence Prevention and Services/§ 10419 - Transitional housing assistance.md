@@ -48,7 +48,7 @@ Assistance provided under this section may include—
 
 #### (2) Report to Congress
 
-&emsp;The Secretary shall annually prepare and submit to the Committee on the Judiciary ofthe House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in reports submitted under paragraph (1).
+&emsp;The Secretary shall annually prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in reports submitted under paragraph (1).
 
 #### (e) Evaluation, monitoring, and administration
 

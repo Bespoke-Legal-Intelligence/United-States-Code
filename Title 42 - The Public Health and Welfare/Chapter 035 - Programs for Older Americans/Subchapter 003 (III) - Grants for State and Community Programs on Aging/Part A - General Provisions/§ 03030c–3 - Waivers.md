@@ -22,7 +22,7 @@ The provisions of this subchapter that may be waived under this section are—
 
 &emsp;(3) any State plan requirement described in section 3027(a) of this title if granting the waiver will promote innovations or improve service delivery and will not diminish services already provided under this chapter;
 
-&emsp;(4) any restriction under paragraph (5) of section 3028(b) of this title, on the amount that may be transferred between programs carried out under part B of this subchapter and part C of this subchapter; and
+&emsp;(4) any restriction under paragraph (5) of section 3028(b) of this title, on the amountthat may be transferred between programs carried out under part B of this subchapter and part C of this subchapter; and
 
 &emsp;(5) the requirement of section 3029(c) of this title that certain amounts of a State allotment be used for the provision of services, with respect to a State that reduces expenditures under the State plan of the State (but only to the extent that the non-Federal share of the expenditures is not reduced below any minimum specified in section 3024(d) of this title or any other provision of this subchapter).
 
@@ -39,8 +39,4 @@ With respect to each waiver granted under this section, not later than 1 year af
 #### Codification
 
 Pub. L. 106–501, §310, which directed the addition of this section at the end of Part A of title III (42 U.S.C. 3021 et seq.), was executed by adding this section at the end of Part A of title III of the Older Americans Act of 1965 to reflect the probable intent of Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3027 of this title.
 

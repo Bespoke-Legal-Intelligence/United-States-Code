@@ -1,5 +1,5 @@
 
-23 U.S.C.<br>United States Code, 2003 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
+23 U.S.C.<br>United States Code, 2004 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 23—HIGHWAYS
 
@@ -669,10 +669,6 @@ Section 4 of Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 921, provided that: “An
 Pub. L. 104–59, title III, §357(a), Nov. 28, 1995, 109 Stat. 625, provided that: “The Secretary \[of Transportation\] shall, by March 31, 1997, prepare and submit to Congress a draft legislative proposal of necessary technical and conforming amendments to title 23, United States Code, and related laws.”
 
 Pub. L. 102–240, title I, §1066, Dec. 18, 1991, 105 Stat. 2006, provided that the Secretary of Transportation was to have prepared, by Oct. 1, 1993, a proposed recodification of title 23, United States Code, and related laws for submission to Congress for consideration, prior to repeal by Pub. L. 104–59, title III, §357(b), Nov. 28, 1995, 109 Stat. 625.
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 16 section 3172; title 25 section 4305; title 40 sections 1304, 14501, 14507; title 42 sections 7506, 7509; title 49 sections 5303, 5304, 5305, 5306, 5334, 22301, 31102.
 
 
 ---

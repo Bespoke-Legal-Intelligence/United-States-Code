@@ -1,9 +1,5 @@
 ### SUBCHAPTER II—LOW-INCOME HOME ENERGY ASSISTANCE
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3013, 6862, 9908 of this title; title 7 section 2014; title 31 section 3803.
-
 
 ---
 

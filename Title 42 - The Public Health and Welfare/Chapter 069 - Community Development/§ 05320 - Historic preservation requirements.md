@@ -24,7 +24,7 @@ The Advisory Council on Historic Preservation shall prescribe regulations provid
 
 #### References in Text
 
-“An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended, referred to in subsec. (a)(1), probablymeans Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code see section 470(a) of Title 16 and Tables.
+“An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended, referred to in subsec. (a)(1), probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code see section 470(a) of Title 16 and Tables.
 
 “An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam”, approved June 27, 1960, as amended, referred to in subsec. (a)(2), is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act, see Tables.
 
@@ -34,9 +34,5 @@ The Advisory Council on Historic Preservation shall prescribe regulations provid
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective on effective date of regulations implementing such amendments, see section 308(c) of Pub. L. 97–35, set out as a note under section 5318 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5318 of this title.
+Amendment by Pub. L. 97–35 effective on effective date of regulations implementing such amendments,see section 308(c) of Pub. L. 97–35, set out as a note under section 5318 of this title.
 

@@ -4,7 +4,3 @@ In order to permit the observance of authorized ceremonies within the Library of
 
 (Aug. 4, 1950, ch. 561, §10, 64 Stat. 412.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 167j of this title.
-

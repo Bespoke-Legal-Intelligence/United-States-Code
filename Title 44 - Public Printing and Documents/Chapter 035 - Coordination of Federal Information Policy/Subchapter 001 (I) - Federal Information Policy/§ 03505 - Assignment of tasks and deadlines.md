@@ -2,7 +2,7 @@
 
 (a) In carrying out the functions under this subchapter, the Director shall—
 
-&emsp;(1) in consultation with agency heads, set an annual Governmentwide goal for the reduction of information collection burdens by at least 10 percent during each of fiscal years 1996 and 1997 and 5 percent during each of fiscal years 1998, 1999, 2000, and 2001, and set annual agency goals to—
+&emsp;(1) in consultation with agency heads, set an annual Governmentwide goal for the reduction of information collection burdens by at least10 percent during each of fiscal years 1996 and 1997 and 5 percent during each of fiscal years 1998, 1999, 2000, and 2001, and set annual agency goals to—
 
 &emsp;&emsp;(A) reduce information collection burdens imposed on the public that—
 
@@ -82,7 +82,7 @@ Inventory of Information Systems.—(1) The head of each agency shall develop an
 
 (4) The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 170; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–296, title X, §1005(c)(2), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(2), Dec. 17, 2002, 116 Stat. 2961.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 170; amended Pub. L. 106–398, §1 \[\[div. A\], title X,§1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–296, title X, §1005(c)(2), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(2), Dec. 17, 2002, 116 Stat. 2961.)
 
 #### Prior Provisions
 
@@ -105,10 +105,6 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3514, 3534, 3544 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

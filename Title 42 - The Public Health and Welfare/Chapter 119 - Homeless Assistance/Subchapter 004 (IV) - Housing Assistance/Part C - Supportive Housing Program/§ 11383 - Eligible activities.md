@@ -68,13 +68,9 @@ This chapter, referred to in subsec. (a)(7), was in the original “this Act”,
 
 #### Prior Provisions
 
-A prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, §833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, outlined types of assistance provided under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
+A prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV,§§441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, §833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, outlined types of assistance provided under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
 
 #### Amendments
 
 2000—Subsec. (a)(7). Pub. L. 106–377 added par. (7).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11386, 11389 of this title.
 

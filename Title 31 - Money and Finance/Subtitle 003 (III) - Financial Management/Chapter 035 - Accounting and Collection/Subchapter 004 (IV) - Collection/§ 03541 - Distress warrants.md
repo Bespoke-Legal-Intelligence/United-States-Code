@@ -60,7 +60,3 @@ In subsection (a), the words “any collector of the revenue, receiver of public
 
 In subsection (b), the words “delinquent” in 31:506(1st sentence words after 8th comma, last sentence) and “if any, which have been” in 31:507 are omitted as surplus. The words “If the Secretary intends to take and sell the property of an official that is located in a district other than where the official resides” are substituted for “Where the officer resides in a district other than that in which his estate may be, which it is intended to take and sell” in 31:506 for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3542, 3543 of this title.
-

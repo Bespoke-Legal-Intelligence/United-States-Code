@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—EXAMINATION, CERTIFICATION, AND APPOINTMENT
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 9510 of this title; title 10 section 1599c; title 16 section 3198; title 38 section 7403; title 44 section 2105.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

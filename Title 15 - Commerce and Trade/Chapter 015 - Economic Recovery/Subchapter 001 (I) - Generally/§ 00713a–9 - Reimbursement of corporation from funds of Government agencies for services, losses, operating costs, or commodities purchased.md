@@ -16,7 +16,3 @@ For exception of functions of corporations of Department of Agriculture from tra
 
 Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out as a note under section 601 of this title, abolished Reconstruction Finance Corporation.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 1641.
-

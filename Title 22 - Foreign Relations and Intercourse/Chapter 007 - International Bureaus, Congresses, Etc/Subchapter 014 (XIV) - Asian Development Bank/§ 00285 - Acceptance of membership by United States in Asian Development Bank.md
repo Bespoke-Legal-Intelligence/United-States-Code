@@ -6,7 +6,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Short Title
 
-Section 1 of Pub. L. 89–369 provided: “That this Act \[enacting this subchapter and amending section 24 of Title 12, Banks and Banking\] may be cited as the ‘Asian Development Bank Act’.”
+Section 1 of Pub. L. 89–369 provided: “That this Act \[enacting this subchapter and amending section 24 ofTitle 12, Banks and Banking\] may be cited as the ‘Asian Development Bank Act’.”
 
 #### Par Value Modification
 

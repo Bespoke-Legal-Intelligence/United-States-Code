@@ -48,7 +48,3 @@ Except as otherwise provided in subsection (d)(5) of this section, assignments u
 
 Subsec. (d). Pub. L. 107–228, §326(1), added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 1767.
-

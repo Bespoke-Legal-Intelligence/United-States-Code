@@ -54,7 +54,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;“(9) While recognizing that abuse and neglect courts in this country are already committed to the quality administration of justice, the performance of such courts would be even further enhanced by the development of models and educational opportunities that reinforce court projects that have already been developed, including models for case-flow procedures, case management, representation of children, automated interagency interfaces, and ‘best practices’ standards.
 
-&emsp;“(10) Judges, magistrates, commissioners, and other judicial officers play a central and vital role in ensuring that proceedings in our Nation's abuse and neglect courts are run efficiently and effectively. The performance of those individuals in such courts can only be further enhanced by training, seminars, and an ongoing opportunity to exchange ideas with their peers.
+&emsp;“(10) Judges, magistrates, commissioners, and other judicial officers play a central and vital role in ensuring that proceedings in our Nation's abuse andneglect courts are run efficiently and effectively. The performance of those individuals in such courts can only be further enhanced by training, seminars, and an ongoing opportunity to exchange ideas with their peers.
 
 &emsp;“(11) Volunteers who participate in court-appointed special advocate (CASA) programs play a vital role as the eyes and ears of abuse and neglect courts in proceedings conducted by, or under the supervision of, such courts and also bring increased public scrutiny of the abuse and neglect court system. The Nation's abuse and neglect courts would benefit from an expansion of this program to currently underserved communities.
 
@@ -148,7 +148,7 @@ Information required.—An application for a grant authorized under this section
 
 &emsp;&emsp;“(G) A description or identification of a proposed funding source for completion of the plan (if applicable) and maintenance of the system after the conclusion of the period for which the grant is to be awarded.
 
-&emsp;&emsp;“(H) An assurance that any contract entered into between the State court or local court and any other entity that is to provide services for the development, implementation, or maintenance of the system under the proposed plan will require the entity to agree to allow for replication of the services provided, the plan, and the system, and to refrain from asserting any proprietary interest in such services for purposes of allowing the plan and system to be replicated in another jurisdiction.
+&emsp;&emsp;“(H) An assurance that any contract entered into between the State court or local court and any other entity that is to provide services for the development, implementation, or maintenance of the system under the proposed plan will require the entity to agree to allow for replication of the servicesprovided, the plan, and the system, and to refrain from asserting any proprietary interest in such services for purposes of allowing the plan and system to be replicated in another jurisdiction.
 
 &emsp;&emsp;“(I) An assurance that the system established under the plan will provide data that allows for evaluation (at least on an annual basis) of the following information:
 
@@ -270,7 +270,7 @@ Interim reports.—Beginning 2 years after the date of enactment of this Act \[O
 
 &emsp;&emsp;“(B)
 
-Final report.—Not later than 90 days after the termination of all grants awarded under this section, the Attorney General shall submit to Congress a final report evaluating the automated data collection and case-tracking systems funded under such grants and identifying successful models of such systems that are suitable for replication in other jurisdictions. The Attorney General shall ensure that a copy of such final report is transmitted to the highest State court in each State.
+Final report.—Not later than 90 days after the termination of all grants awarded under this section, the Attorney General shall submit to Congress a final report evaluating the automated datacollection and case-tracking systems funded under such grants and identifying successful models of such systems that are suitable for replication in other jurisdictions. The Attorney General shall ensure that a copy of such final report is transmitted to the highest State court in each State.
 
 “(g)
 
@@ -432,7 +432,7 @@ Priority in Provision of Services.—The Secretary may not make a grant under su
 
 Case Plan With Respect to Foster Care.—The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or in other nonmedical residential settings away from their parents, the applicant will ensure that—
 
-&emsp;“(1) a case plan of the type described in paragraph (1) of section 475 of the Social Security Act \[section 675 of this title\] is developed for each such infant andyoung child (to the extent that such infant and young child is not otherwise covered by such a plan); and
+&emsp;“(1) a case plan of the type described in paragraph (1) of section 475 of the Social Security Act \[section 675 of this title\] is developed for each such infant and young child (to the extent that such infant and young child is not otherwise covered by such a plan); and
 
 &emsp;“(2) the program includes a case review system of the type described in paragraph (5) of such section (covering each such infant and young child who is not otherwise subject to such a system).
 
@@ -468,7 +468,7 @@ Requirement of Application.—The Secretary may not make a grant under subsectio
 
 “(f)
 
-Technical Assistance to Grantees.—The Secretary may, without charge to any grantee under subsection (a), provide technical assistance (including training) with respect to the planning, development, and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
+Technical Assistance to Grantees.—The Secretary may, without charge to any grantee under subsection (a), provide technical assistance (including training) with respect to the planning, development,and operation of projects described in such subsection. The Secretary may provide such technical assistance directly, through contracts, or through grants.
 
 “(g)
 
@@ -524,7 +524,7 @@ Study.—The Secretary shall conduct a study for the purpose of—
 
 “(b)
 
-Report.—The Secretary shall, not later than 12 months after the date of the enactment of this Act, complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
+Report.—The Secretary shall, not later than 12 months after the date of the enactment of this Act, complete the study required in subsection (a) and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, a report describing the findings made as a result of the study.
 
 #### “TITLE III—GENERAL PROVISIONS
 

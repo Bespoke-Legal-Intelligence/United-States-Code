@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) monitor the performance by each accrediting entity of its duties under section 14922 of this title and its compliance with the requirements of the Convention, this chapter, otherapplicable laws, and implementing regulations under this chapter; and
+&emsp;(1) monitor the performance by each accrediting entity of its duties under section 14922 of this title and its compliance with the requirements of the Convention, this chapter, other applicable laws, and implementing regulations under this chapter; and
 
 &emsp;(2) suspend or cancel the designation of an accrediting entity found to be substantially out of compliance with the Convention, this chapter, other applicable laws, or implementing regulations under this chapter.
 

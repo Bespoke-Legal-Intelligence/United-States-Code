@@ -66,7 +66,7 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 
 #### (2) Availability of partial payments
 
-&emsp;If, before the end of the 12-month marketing year, the Secretary estimates that counter-cyclical payments will be required under thissection for a crop year, the Secretary shall give producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) the option to receive partial payments of the counter-cyclical payment projected to be made for that crop.
+&emsp;If, before the end of the 12-month marketing year, the Secretary estimates that counter-cyclical payments will be required under this section for a crop year, the Secretary shall give producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) the option to receive partial payments of the counter-cyclical payment projected to be made for that crop.
 
 #### (3) Time for partial payments
 
@@ -157,8 +157,4 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 #### References in Text
 
 This subchapter, referred to in subsecs. (b)(1)(B), was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7951 of this title.
 

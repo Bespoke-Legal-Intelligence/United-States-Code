@@ -42,7 +42,3 @@ Amendment by section 1000(a)(9) \[title IV, §§4717(1), 4732(a)(10)(A)\] of Pub
 
 Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub. L. 97–247, set out as a note under section 41 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 41 of this title.
-

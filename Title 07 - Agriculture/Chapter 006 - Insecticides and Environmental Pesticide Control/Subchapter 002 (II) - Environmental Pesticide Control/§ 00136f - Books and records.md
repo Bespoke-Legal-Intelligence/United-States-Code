@@ -30,7 +30,3 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136g, 136j, 136<i>o</i>, 136w–1 of this title.
-

@@ -78,7 +78,3 @@ Section 3 of act Aug. 3, 1956, ch. 933, 70 Stat. 988, provided that: “Sales of
 
 Program under this subchapter to provide for sale of agricultural commodities to developing countries to be implemented by Secretary of Agriculture, see Ex. Ord. No. 12752, §1(a), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1702 of this title.
-

@@ -14,7 +14,7 @@ The method of computing and making payments under this section shall be as follo
 
 #### (c) Prohibited payments; exceptions
 
-(1) No payment may be made to a State under this part, for any fiscal year beginning after September 30, 1979, with respect to State expenditures made for (A) child day care necessary solely because of the employment, or training to prepare for employment, of a parent or other relative with whom the child involved is living, (B) foster care maintenance payments, and (C) adoption assistance payments, to the extent that the Federal payment with respect to those expenditures would exceed the total amount of the Federal payment under this part for fiscal year 1979.
+(1) No payment may be made to a State under this part, for any fiscal year beginning after September 30, 1979, with respect to State expenditures made for (A) child day care necessary solely because of the employment, or training to prepare for employment, of a parent or other relative with whom the child involved is living,\(B) foster care maintenance payments, and (C) adoption assistance payments, to the extent that the Federal payment with respect to those expenditures would exceed the total amount of the Federal payment under this part for fiscal year 1979.
 
 (2) Expenditures made by a State for any fiscal year which begins after September 30, 1979, for foster care maintenance payments shall be treated for purposes of making Federal payments under this part with respect to expenditures for child welfare services, as if such foster care maintenance payments constituted child welfare services of a type to which the limitation imposed by paragraph (1) does not apply; except that the amount payable to the State with respect to expenditures made for other child welfare services and for foster care maintenance payments during any such year shall not exceed 100 per centum of the amount of the expenditures made for child welfare services for which payment may be made under the limitation imposed by paragraph (1) as in effect without regard to this paragraph.
 
@@ -41,8 +41,4 @@ Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning 
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective with respect to calendar quarters beginning on or after Oct. 1, 1993, see section 13711(c) of Pub. L. 103–66, set out as a note under section 622 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 621, 673b of this title.
 

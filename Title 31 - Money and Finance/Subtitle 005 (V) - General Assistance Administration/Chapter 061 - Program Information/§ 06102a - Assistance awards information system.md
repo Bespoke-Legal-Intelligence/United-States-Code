@@ -54,7 +54,3 @@ Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1),
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6202, 6203 of this title.
-

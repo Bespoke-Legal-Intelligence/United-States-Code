@@ -10,7 +10,3 @@
 
 Provisions similar to those in this section were contained in section 793 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 723 of this title.
-

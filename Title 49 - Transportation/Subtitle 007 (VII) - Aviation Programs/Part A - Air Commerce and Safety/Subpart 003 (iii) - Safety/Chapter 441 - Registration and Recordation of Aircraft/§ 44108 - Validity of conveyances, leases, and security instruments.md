@@ -32,7 +32,11 @@ Nonapplication.—This section does not apply to—
 
 &emsp;(2) a lease or instrument described in section 44107(a)(2) of this title that was made before June 20, 1948.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1165.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1165; Pub. L. 108–297, §5, Aug. 9, 2004, 118 Stat. 1097.)
+
+#### Amendment of Subsection (c)(2)
+
+<i>Pub. L. 108–297, §§5, 7, Aug. 9, 2004, 118 Stat. 1097, provided that, effective Mar. 1, 2006, subsection (c)(2) of this section is amended by striking the period at the end and inserting “or the Cape Town Treaty, as applicable.”</i>
 
 Historical and Revision Notes
 
@@ -79,4 +83,8 @@ In subsection (b), before clause (1), the words “When a conveyance, lease, or 
 In subsection (c)(1), the words “conveyance, lease, or” are added for consistency in this subchapter. The words “the conveyance, lease, or instrument” are substituted for “therein”, and the words “it is presumed” are substituted for “it shall constitute presumptive evidence”, for clarity.
 
 In subsection (d)(2), the words “lease or instrument” are substituted for “instrument” for clarity and consistency in this subchapter.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–297 effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter or any legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as a note under section 44101 of this title.
 

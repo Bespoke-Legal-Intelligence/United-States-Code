@@ -26,7 +26,7 @@ A household member shall be exempt from workfare requirements imposed under this
 
 #### (c) Valuation or duration of work
 
-No operating agency shall require any participating member to work in any workfare position to the extent that such work exceeds in value the allotment to which the household is otherwise entitled or that such work, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week.
+No operating agency shall require any participating member to work in any workfare position to the extent that such work exceeds in value the allotment to which the household is otherwise entitled or that such work, when added to any other hours worked during such week by such member for compensation (in cash or inkind) in any other capacity, exceeds thirty hours a week.
 
 #### (d) Nature, conditions, and costs of work
 
@@ -78,7 +78,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
 
-“(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act\(42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
+“(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
 
 &emsp;“(i) the amount of assistance paid to such household for such month under title IV of such Act, together with the value of the food stamp allotment of such household for such month; by
 
@@ -119,8 +119,4 @@ Amendment by section 188 of Pub. L. 97–253 effective Oct. 1, 1982, see section
 #### Effective Date
 
 Section effective on earlier of Sept. 8, 1982, or date effective pursuant to section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title, which made the section effective on such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 192(b) of Pub. L. 97–253 set out as an Effective Date of 1982 Amendment note under section 2012 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2015, 2026 of this title.
 

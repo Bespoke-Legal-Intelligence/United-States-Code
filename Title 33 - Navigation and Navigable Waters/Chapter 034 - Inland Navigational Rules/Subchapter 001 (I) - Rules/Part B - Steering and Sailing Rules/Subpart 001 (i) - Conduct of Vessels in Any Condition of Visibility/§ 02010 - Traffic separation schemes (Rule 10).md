@@ -20,7 +20,7 @@ A vessel shall, so far as practicable, avoid crossing traffic lanes but if oblig
 
 #### (d) Use of inshore traffic lane
 
-(i) A vessel shall not use an inshore traffic zone when she can safely use the appropriatetraffic lane within the adjacent traffic separation scheme. However, vessels of less than twenty meters in length, sailing vessels, and vessels engaged in fishing may use the inshore traffic zone.
+(i) A vessel shall not use an inshore traffic zone when she can safely use the appropriate traffic lane within the adjacent traffic separation scheme. However, vessels of less than twenty meters in length, sailing vessels, and vessels engaged in fishing may use the inshore traffic zone.
 
 (ii) Notwithstanding subparagraph (d)(i), a vessel may use an inshore traffic zone when en route to or from a port, offshore installation or structure, pilot station, or any other place situated within the inshore traffic zone, or to avoid immediate danger.
 
@@ -62,6 +62,10 @@ A vessel restricted in her ability to maneuver when engaged in an operation for 
 
 (Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, §5206(2), Nov. 4, 1992, 106 Stat. 5074.)
 
+#### Repeal of Section
+
+<i>Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that this section is repealed effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title.</i>
+
 #### Codification
 
 Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the Inland Navigational Rules which comprise this subchapter.
@@ -69,8 +73,4 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 #### Amendments
 
 1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “Each vessel required by regulation to participate in a vessel traffic service shall comply with the applicable regulations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2004, 2013, 2018, 2019 of this title.
 

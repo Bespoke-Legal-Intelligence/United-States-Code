@@ -36,7 +36,3 @@ Any agency may prepare any statement required under subsection (a) of this secti
 
 (Pub. L. 104–4, title II, §202, Mar. 22, 1995, 109 Stat. 64.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1511, 1535, 1536, 1571 of this title; title 5 section 801.
-

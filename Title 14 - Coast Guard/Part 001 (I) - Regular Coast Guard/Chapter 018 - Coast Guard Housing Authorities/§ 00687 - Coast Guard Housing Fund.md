@@ -36,19 +36,27 @@ Limitation on Amount of Budget Authority.—The total value in budget authority 
 
 (g)
 
-Demonstration Project Authorized.—To promote efficiencies through the use of alternative procedures for expediting new housing projects, the Secretary—
+Demonstration Projects Authorized.—To promote efficiencies through the use of alternative procedures for expediting new housing projects, the Secretary—
 
-&emsp;(1) may develop and implement a demonstration project for acquisition or construction of military family housing and military unaccompanied housing on or near the Coast Guard installation at Kodiak, Alaska;
+&emsp;(1) may develop and implement demonstration projects for acquisition or construction of military family housing and military unaccompanied housing on or near the Coast Guard installation at Kodiak, Alaska, or any other Coast Guard installation in Alaska;
 
-&emsp;(2) in implementing the demonstration project, shall utilize, to the maximum extent possible, the contracting authority of the Small Business Administration's section 8(a) program;
+&emsp;(2) in implementing such a demonstration project, shall utilize, to the maximum extent possible, the contracting authority of the Small Business Administration's section 8(a) program;
 
 &emsp;(3) shall, to the maximum extent possible, acquire or construct such housing through contracts with small business concerns qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)) that have their principal place of business in the State of Alaska; and
 
-&emsp;(4) shall report to Congress by September 1 of each year on the progress of activities under the demonstration project.
+&emsp;(4) shall report to Congress by September 1 of each year on the progress of activities under such demonstration projects.
 
-(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912; amended Pub. L. 107–295, title IV, §402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912; amended Pub. L. 107–295, title IV, §402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–293, title II, §207(d), Aug. 9, 2004, 118 Stat. 1034.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–293, §207(d)(1), substituted “Projects” for “Project” in heading.
+
+Subsec. (g)(1). Pub. L. 108–293, §207(2), (3), substituted “demonstration projects” for “a demonstration project” and “Kodiak, Alaska, or any other Coast Guard installation in Alaska;” for “Kodiak, Alaska;”.
+
+Subsec. (g)(2). Pub. L. 108–293, §207(d)(4), substituted “such a demonstration project” for “the demonstration project”.
+
+Subsec. (g)(4). Pub. L. 108–293, §207(d)(5), substituted “such demonstration projects” for “the demonstration project”.
 
 2002—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -59,8 +67,4 @@ Subsec. (g). Pub. L. 107–295, §402(c), added subsec. (g).
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 682 of this title.
 

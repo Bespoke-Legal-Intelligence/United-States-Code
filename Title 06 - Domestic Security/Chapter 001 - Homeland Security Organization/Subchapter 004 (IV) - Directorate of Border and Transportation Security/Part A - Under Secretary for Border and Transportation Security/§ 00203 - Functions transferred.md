@@ -14,7 +14,3 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 (Pub. L. 107–296, title IV, §403, Nov. 25, 2002, 116 Stat. 2178.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 212, 232 of this title.
-

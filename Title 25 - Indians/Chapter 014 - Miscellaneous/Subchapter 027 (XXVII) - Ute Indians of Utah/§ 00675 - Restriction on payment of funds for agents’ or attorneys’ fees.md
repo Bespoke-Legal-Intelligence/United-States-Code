@@ -4,7 +4,3 @@ No part of the funds authorized to be expended or advanced pursuant to section 6
 
 (Aug. 12, 1953, ch. 406, §2, 67 Stat. 540.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 676a of this title.
-

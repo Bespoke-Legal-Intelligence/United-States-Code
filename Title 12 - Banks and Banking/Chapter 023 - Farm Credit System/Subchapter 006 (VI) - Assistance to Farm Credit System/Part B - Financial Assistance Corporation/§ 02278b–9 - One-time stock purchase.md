@@ -72,7 +72,3 @@ Pub. L. 101–239, title I, §1006(b), Dec. 19, 1989, 103 Stat. 2109, directed F
 
 Similar provisions were contained in Pub. L. 101–220, §7(b), Dec. 12, 1989, 103 Stat. 1881.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2278b–5 of this title.
-

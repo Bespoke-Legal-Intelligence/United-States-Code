@@ -14,7 +14,3 @@ Any amounts paid to a State under section 300ee–11(a) of this title shall rema
 
 A prior section 2514 of act July 1, 1944, was successively renumbered by subsequent acts, see section 238m of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300ee–17 of this title.
-

@@ -8,7 +8,3 @@ The Secretary, after consultation with the Commission, may enter into cooperativ
 
 (Pub. L. 102–543, §7, Oct. 27, 1992, 106 Stat. 3571.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 410yy–8 of this title.
-

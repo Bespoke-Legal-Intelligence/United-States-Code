@@ -150,7 +150,3 @@ Findings.—Congress finds that—
 
 Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section 201 of this title\] to establish a national program of cancer registries.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280e–1, 280e–3 of this title.
-

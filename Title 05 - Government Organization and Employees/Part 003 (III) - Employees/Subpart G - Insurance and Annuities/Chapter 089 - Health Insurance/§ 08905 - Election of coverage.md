@@ -58,7 +58,7 @@
 
 (B) Notification under this paragraph shall be provided by employing agencies at an appropriate point in time before each period under paragraph (1) so that employees may be aware of their rights under section 8905a of this title when making enrollment decisions during such period.
 
-(h)(1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may enroll for self and family coverage in a health benefits plan under this chapter. If such employee fails to enroll for self and family coverage in a health benefits plan that provides full benefits and services in the location in which the child resides, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self and family enrollment in the option which provides the lower level of coverage under the Service Benefit Plan.
+(h)(1) An unenrolled employee who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may enrollfor self and family coverage in a health benefits plan under this chapter. If such employee fails to enroll for self and family coverage in a health benefits plan that provides full benefits and services in the location in which the child resides, and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall enroll the employee in a self and family enrollment in the option which provides the lower level of coverage under the Service Benefit Plan.
 
 (2) An employee who is enrolled as an individual in a health benefits plan under this chapter and who is required by a court or administrative order to provide health insurance coverage for a child who meets the requirements of section 8901(5) may change to a self and family enrollment in the same or another health benefits plan under this chapter. If such employee fails to change to a self and family enrollment and the employee does not provide documentation showing that such coverage has been provided through other health insurance, the employing agency shall change the enrollment of the employee to a self and family enrollment in the plan in which the employee is enrolled if that plan provides full benefits and services in the location where the child resides. If the plan in which the employee is enrolled does not provide full benefits and services in the location in which the child resides, or, if the employee fails to change to a self and family enrollment in a plan that provides full benefits and services in the location where the child resides, the employing agency shall change the coverage of the employee to a self and family enrollment in the option which provides the lower level of coverage under the Service Benefits Plan.
 
@@ -155,10 +155,6 @@ Sec. 2. (a) Notwithstanding any other provision of law, an annuitant, as defined
 “(b) An annuitant who elects to be covered under the provisions of chapter 89 of title 5, United States Code \[this chapter\], in accordance with subsection (a) of this section, shall be entitled to the benefits under such chapter 89.
 
 “\[Sec. 4\] (b) Section 2 \[set out above\] shall take effect on the one hundred and eightieth day following the date of enactment \[Jan. 1, 1974\] or on such earlier date as the United States Civil Service Commission may prescribe.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6302 of this title; title 2 section 162b; title 28 section 179.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

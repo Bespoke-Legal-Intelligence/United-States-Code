@@ -18,9 +18,5 @@ Not later than one hundred and twenty days after the tribe <sup>1</sup> adopts 
 
 (Pub. L. 98–481, §6, Oct. 17, 1984, 98 Stat. 2252.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 714b, 714c of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -10,15 +10,15 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(1) 5 percent shall be available for grants to Indian tribal governments;
 
-&emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, and the coalition for the combined Territories of the United States, each receiving an amount equal to 1/54 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, and the coalition for the combined Territories of the UnitedStates, each receiving an amount equal to 1/54 of the total amount made available under this paragraph for each fiscal year;
 
 &emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, and the coalition for the combined Territories of the United States, each receiving an amount equal to 1/54 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(4) 1/54 shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;
+&emsp;(4) 1/54 shall be available for grants under section 3796gg(d) of this title;
 
 &emsp;(5) $600,000 shall be available for grants to applicants in each State; and
 
-&emsp;(6) the remaining funds shall be available for grants to applicants in each State in anamount that bears the same ratio to the amount of remaining funds as the population of the State bears to the population of all of the States that results from a distribution among the States on the basis of each State's population in relation to the population of all States (not including populations of Indian tribes).
+&emsp;(6) the remaining funds shall be available for grants to applicants in each State in an amount that bears the same ratio to the amount of remaining funds as the population of the State bears to the population of all of the States that results from a distribution among the States on the basis of each State's population in relation to the population of all States (not including populations of Indian tribes).
 
 #### (c) Qualification
 
@@ -106,7 +106,7 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 &emsp;&emsp;(C) a report under paragraph (1) or accompanying assessments demonstrate to the Attorney General that the program is ineffective or financially unsound.
 
-(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789.)
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276.)
 
 #### References in Text
 
@@ -114,11 +114,11 @@ This subchapter, referred to in subsecs. (c)(4), the second place it appears, an
 
 Section 3763 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 3763 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, §1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
 
-#### Codification
-
-Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
-
 #### Amendments
+
+2004—Pub. L. 108–405, §310(b), made technical amendment to directory language of Pub. L. 107–273, §402(2), which renumbered this section as section 2007 of Pub. L. 90–351.
+
+Subsec. (b)(4). Pub. L. 108–405, §310(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “1/54 shall be available for the development and operation of nonprofit tribal domestic violence and sexual assault coalitions in Indian country;”.
 
 2002—Subsec. (d)(2). Pub. L. 107–273, §402(1)(A), made technical amendment to reference in original act which appears in text as reference to section 3796gg–4 of this title.
 
@@ -137,6 +137,10 @@ Subsec. (b)(6). Pub. L. 106–386, §1103(b)(2)(A), redesignated par. (3) as (6)
 Subsec. (c)(3). Pub. L. 106–386, §1102(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “at least 25 percent of the amount granted shall be allocated, without duplication, to each of the following 3 areas: prosecution, law enforcement, and victim services; and”.
 
 Subsec. (d)(1). Pub. L. 106–386, §1102(a)(2)(C), inserted “court,” after “law enforcement,” in introductory provisions.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276, provided that amendment by section 310(b) (amending this section and sections 3796gg–2 to 3796gg–5 of this title) is effective as of Nov. 2, 2002, and as if included in Pub. L. 107–273, as enacted.
 
 #### Effective Date of 2002 Amendment
 

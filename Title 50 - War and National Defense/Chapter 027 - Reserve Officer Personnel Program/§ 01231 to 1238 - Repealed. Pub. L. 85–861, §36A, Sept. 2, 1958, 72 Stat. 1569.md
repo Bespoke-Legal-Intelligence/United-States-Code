@@ -4,7 +4,7 @@ Section 1231, act Sept. 3, 1954, ch. 1257, title III, §308, 68 Stat. 1155, prov
 
 Section 1232, act Sept. 3, 1954, ch. 1257, title III, §309, 68 Stat. 1156, provided for promotion to captain, major, and lieutenant colonel to fill vacancies. See section 14301 et seq. of Title 10.
 
-Section 1233, act Sept. 3, 1954, ch. 1257, title III, §310, 68 Stat. 1156, related to promotion to captain, major,and lieutenant colonel regardless of vacancies. See sections 12009 and 14301 et seq. of Title 10.
+Section 1233, act Sept. 3, 1954, ch. 1257, title III, §310, 68 Stat. 1156, related to promotion to captain, major, and lieutenant colonel regardless of vacancies. See sections 12009 and 14301 et seq. of Title 10.
 
 Section 1234, act Sept. 3, 1954, ch. 1257, title III, §311, 68 Stat. 1157, related to second consideration for promotion. See section 14301 et seq. of Title 10.
 

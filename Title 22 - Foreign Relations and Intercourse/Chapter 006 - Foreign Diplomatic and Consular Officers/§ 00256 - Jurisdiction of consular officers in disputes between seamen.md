@@ -8,7 +8,3 @@ Whenever it is stipulated by treaty or convention between the United States and 
 
 R.S. §4079 derived from act June 11, 1864, ch. 116, §1, 13 Stat. 121.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 257 of this title.
-

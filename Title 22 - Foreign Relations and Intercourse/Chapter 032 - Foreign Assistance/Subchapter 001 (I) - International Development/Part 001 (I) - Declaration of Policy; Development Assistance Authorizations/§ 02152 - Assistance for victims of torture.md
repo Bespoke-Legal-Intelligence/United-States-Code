@@ -66,7 +66,7 @@ Funding.—
 
 &emsp;“(1)
 
-Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 2004 and 2005 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President to carry out section 130 of such Act \[this section\] (relating to assistance for centers in foreign countries and programs for the treatment of victims of torture) $11,000,000 for fiscal year 2004 and $12,000,000 for fiscal year 2005.
+Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 2004 and 2005 pursuant to chapter 1 of part I ofthe Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President to carry out section 130 of such Act \[this section\] (relating to assistance for centers in foreign countries and programs for the treatment of victims of torture) $11,000,000 for fiscal year 2004 and $12,000,000 for fiscal year 2005.
 
 &emsp;“(2)
 
@@ -104,7 +104,7 @@ Availability of funds.—Amounts appropriated pursuant to this subsection shall 
 
 “(a)
 
-Funding.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant tochapter 3 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2221 et seq.\], there are authorized to be appropriated to the United Nations Voluntary Fund for Victims of Torture (in this section referred to as the ‘Fund’) the following amounts for the following fiscal years:
+Funding.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 3 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2221 et seq.\], there are authorized to be appropriated to the United Nations Voluntary Fund for Victims of Torture (in this section referred to as the ‘Fund’) the following amounts for the following fiscal years:
 
 &emsp;“(1)
 

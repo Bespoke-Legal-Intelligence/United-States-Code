@@ -22,7 +22,3 @@
 
 Section 501 of title V of Pub. L. 98–164 provided that: “This title \[enacting this subchapter\] may be cited as the ‘National Endowment for Democracy Act’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4412, 4413 of this title.
-

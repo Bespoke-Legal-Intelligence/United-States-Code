@@ -58,7 +58,7 @@ Definitions.—In this section—
 
 &emsp;“territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
 
-&emsp;“United States”, when used in a geographical sense, includes the Commonwealth ofPuerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+&emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
 (Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1977; amended Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300; Pub. L. 104–294, title VI, §607(p), Oct. 11, 1996, 110 Stat. 3513.)
 
@@ -75,8 +75,4 @@ Section effective Mar. 6, 1995, see section 60019(c)(1), (2)(B) of Pub. L. 103�
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1956, 2332b, 2339A, 3592 of this title.
 

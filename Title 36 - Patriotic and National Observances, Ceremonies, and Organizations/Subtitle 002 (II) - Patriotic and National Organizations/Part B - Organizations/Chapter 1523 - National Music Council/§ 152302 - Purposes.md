@@ -36,7 +36,3 @@ Before clause (1), the word “objects” is omitted as unnecessary.
 
 In clause (5), the word “considers” is substituted for “shall deem” for consistency in the revised title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 152305, 152312 of this title.
-

@@ -44,7 +44,3 @@ The Secretary may approve under subsection (a) of this section not more than 4 p
 
 (Pub. L. 95–619, title II, §262, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 746.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8235b, 8235e, 8235f, 8235g, 8235h of this title.
-

@@ -48,7 +48,7 @@ Department of Defense and Central Intelligence Agency Systems.—(1) The authori
 
 (Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2947.)
 
-#### Section Referred to in Other Sections
+#### Change of Name
 
-This section is referred to in sections 3544, 3545 of this title; title 40 section 11331.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 

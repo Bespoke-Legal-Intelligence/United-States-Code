@@ -20,7 +20,3 @@ The Commission was required to present not later than January 31, 1962, a report
 
 Coordination and development of programs relating to outdoor recreation, see sections 460<i>l</i> to 460<i>l</i>–3 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 17n of this title.
-

@@ -2,11 +2,11 @@
 
 (a)(1) In any case in which a person (or the person's dependents) has coverage under a health plan in connection with the person's position of employment, including a group health plan (as defined in section 607(1) of the Employee Retirement Income Security Act of 1974), and such person is absent from such position of employment by reason of service in the uniformed services, the plan shall provide that the person may elect to continue such coverage as provided in this subsection. The maximum period of coverage of a person and the person's dependents under such an election shall be the lesser of—
 
-&emsp;(A) the 18-month period beginning on the date on which the person's absence begins; or
+&emsp;(A) the 24-month period beginning on the date on which the person's absence begins; or
 
 &emsp;(B) the day after the date on which the person fails to apply for or return to a position of employment, as determined under section 4312(e).
 
-(2) A person who elects to continue health-plan coverage under this paragraph may be required to pay not more than 102 percent of the full premium under the plan (determined in the same manner as the applicable premium under section 4980B(f)(4) of the Internal Revenue Code of 1986) associated with such coverage for the employer's other employees, except that in the case of a person who performs service in the uniformed services for less than 31 days, such person may not be required to pay more than the employee share, if any, for such coverage.
+(2) A person who elects to continue health-plan coverage under this paragraph may be required to pay not more than 102 percent of the full premium under the plan (determined in thesame manner as the applicable premium under section 4980B(f)(4) of the Internal Revenue Code of 1986) associated with such coverage for the employer's other employees, except that in the case of a person who performs service in the uniformed services for less than 31 days, such person may not be required to pay more than the employee share, if any, for such coverage.
 
 (3) In the case of a health plan that is a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, any liability under the plan for employer contributions and benefits arising under this paragraph shall be allocated—
 
@@ -22,7 +22,7 @@
 
 (2) Paragraph (1) shall not apply to the coverage of any illness or injury determined by the Secretary of Veterans Affairs to have been incurred in, or aggravated during, performance of service in the uniformed services.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3161; amended Pub. L. 104–275, title III, §311(7), Oct. 9, 1996, 110 Stat. 3335.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3161; amended Pub. L. 104–275, title III, §311(7), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 108–454, title II, §201(a), Dec. 10, 2004, 118 Stat. 3605.)
 
 #### References in Text
 
@@ -36,7 +36,13 @@ A prior section 4317 was renumbered section 7617 of this title.
 
 #### Amendments
 
+2004—Subsec. (a)(1)(A). Pub. L. 108–454 substituted “24-month period” for “18-month period”.
+
 1996—Subsec. (a). Pub. L. 104–275 substituted “(a)(1) In” for “(a)(1)(A) Subject to paragraphs (2) and (3), in”, redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–454, title II, §201(b), Dec. 10, 2004, 118 Stat. 3606, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to elections made under section 4317 of title 38, United States Code, on or after the date of the enactment of this Act \[Dec. 10, 2004\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -45,8 +51,4 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that a person on active duty on Oct. 13, 1994, or a family member or personal representative of such person, may, after Oct. 13, 1994, elect to reinstate or continue a health plan provided in this section, and the health plan shall remain in effect for the remaining portion of the 18-month period that began on the date of such person's separation from civilian employment or the period of the person's service in the uniformed service, whichever is of lesser duration, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4316, 4319 of this title; title 2 section 1316; title 3 section 416.
 

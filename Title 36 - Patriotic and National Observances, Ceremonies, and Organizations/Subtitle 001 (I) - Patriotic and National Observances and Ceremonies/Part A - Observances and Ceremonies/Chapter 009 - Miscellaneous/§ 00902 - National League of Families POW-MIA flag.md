@@ -140,7 +140,7 @@ Display.—The flag shall be displayed—
 
 “(c)
 
-Termination of Flag Display Requirement.—Subsection (b) of this section ceases to apply when the President decides that the fullest possible accounting has been made of all members of the Armed Forces and civilian employees of the United States Governmentwho have been identified as prisoners of war or missing in action in Southeast Asia.”
+Termination of Flag Display Requirement.—Subsection (b) of this section ceases to apply when the President decides that the fullest possible accounting has been made of all members of the Armed Forces and civilian employees of the United States Government who have been identified as prisoners of war or missing in action in Southeast Asia.”
 
 #### Display on Existing Flagpole
 

@@ -2,7 +2,7 @@
 
 (a) An eligible person who enlists in a combat or combat support skill of an element (other than the Selected Reserve) of the Ready Reserve of an armed force for a term of enlistment of not less than six years, and who has not previously served in an armed force, may be paid a bonus as provided in subsection (b).
 
-(b) Eligibility for and the amount and method of payment of a bonus under this section shall be determined in accordance with regulations prescribed under subsection (g), except that the amount of such a bonus may not exceed $1,000.
+(b) Eligibility for and the amount and method of payment of a bonus under this section shall be determined in accordance with regulations prescribed under subsection (g), except that the amount of such a bonus may not exceed $3,000. A person entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
 
 (c) A bonus may not be paid under this section for a term of enlistment to any person who fails to complete satisfactorily initial active duty for training or who, upon completion of initial active duty for training, elects to serve the remainder of the term of enlistment in the Selected Reserve or in an active component of an armed force.
 
@@ -16,9 +16,11 @@
 
 (h) A bonus may not be paid under this section to any person for an enlistment after September 30, 1992.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §618(d), Oct. 28, 2004, 118 Stat. 1950.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–375 substituted “$3,000” for “$1,000” and inserted last sentence.
 
 2002—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -46,5 +48,5 @@ Section 1011(c) of Pub. L. 98–94 provided that: “The amendments made by subs
 
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 
-Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L.98–525 and Individual Ready Reserve Reenlistment Bonuses note above inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
+Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L. 98–525 and Individual Ready Reserve Reenlistment Bonuses note above inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
 

@@ -34,7 +34,3 @@ As used in this section, the term “disgorgement fund” means a fund establish
 
 Section is comprised of section 308 of Pub. L. 107–204. Subsec. (d) of section 308 of Pub. L. 107–204 amended sections 77t, 78u, 78u–1, 80a–41, and 80b–9 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77t, 78u, 78u–1, 80a–41, 80b–9 of this title.
-

@@ -1,6 +1,6 @@
 ### §§1006c to 1006e. Repealed. Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318
 
-Section 1006c, act July 22, 1937, ch. 517, title I, §16, as added Aug. 9, 1955, ch. 633, §1, 69 Stat. 553; amended Aug. 1, 1956, ch. 829, §1(h), 70 Stat. 802, provided for additional insurance of loans, mortgages and other security, lien, definitions of mortgage, insured mortgage, mortgagor and mortgagee, conversion to insured loan and rights of holder of insured note.
+Section 1006c, act July 22, 1937, ch. 517, title I, §16, as added Aug. 9, 1955, ch. 633, §1, 69 Stat. 553; amendedAug. 1, 1956, ch. 829, §1(h), 70 Stat. 802, provided for additional insurance of loans, mortgages and other security, lien, definitions of mortgage, insured mortgage, mortgagor and mortgagee, conversion to insured loan and rights of holder of insured note.
 
 Section 1006d, act July 22, 1937, ch. 517, title I, §17, as added Aug. 1, 1956, ch. 829, §1(i), 70 Stat. 802; amended Sept. 21, 1959, Pub. L. 86–332, 73 Stat. 599, related to loans for refinancing indebtedness on farms of not more than family size and restrictions and limitations thereon.
 

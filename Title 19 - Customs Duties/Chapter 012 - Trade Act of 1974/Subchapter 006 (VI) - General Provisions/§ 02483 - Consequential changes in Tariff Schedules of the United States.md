@@ -1,6 +1,6 @@
 ### §2483. Consequential changes in Tariff Schedules of the United States
 
-The President shall from time to time, as appropriate, embody in the Harmonized Tariff Schedule of the United States the substance of the relevant provisions of this chapter, and ofother Acts affecting import treatment, and actions thereunder, including removal, modification, continuance, or imposition of any rate of duty or other import restriction.
+The President shall from time to time, as appropriate, embody in the Harmonized Tariff Schedule of the United States the substance of the relevant provisions of this chapter, and of other Acts affecting import treatment, and actions thereunder, including removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
 (Pub. L. 93–618, title VI, §604, Jan. 3, 1975, 88 Stat. 2073; Pub. L. 100–418, title I, §§1213(a), 1214(j)(4), Aug. 23, 1988, 102 Stat. 1155, 1158.)
 
@@ -32,7 +32,7 @@ Proc. No. 6914, Aug. 26, 1996, 61 F.R. 45851, provided:
 
 3\. Section 404(d)(3) of the Uruguay Round Agreements Act (URAA) (19 U.S.C. 3601(d)(3)) authorizes the President to allocate the in-quota quantity of a tariff-rate quota for any agricultural product among supplying countries or customs areas and to modify any allocation as the President determines appropriate. Pursuant to section 404(d)(3) of the URAA, I have determined that it is appropriate to modify the TRQ allocations for cheeses by providing that the TRQ allocations for cheeses from Austria, Finland, and Sweden will become part of the total TRQ allocations for cheeses from the EC-15, but will be reserved for use by these countries through 1997.
 
-4\. Section 604 of the Trade Act of 1974, as amended (“Trade Act”) (19 U.S.C. 2483), authorizes the President to embody in the Harmonized Tariff Schedule of the United States (HTS) the substance of the relevant provisions of that Act, and of other Acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction. The modification of the TRQ allocations for cheeses is such an action.
+4\. Section 604 of the Trade Act of 1974, as amended (“Trade Act”) (19 U.S.C. 2483), authorizes the President to embody in the Harmonized Tariff Schedule of the United States (HTS) the substance of the relevant provisions of that Act, and of other Acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of anyrate of duty or other import restriction. The modification of the TRQ allocations for cheeses is such an action.
 
 5\. In paragraph (3) of Proclamation 6763 of December 23, 1994, I delegated my authority under section 404(d)(3) of the Trade Act \[probably means section 404(d)(3) of the URAA, 19 U.S.C. 3601(d)(3)\] to the United States Trade Representative (USTR). I have determined that it is appropriate to authorize the USTR to exercise my authority under section 604 of the Trade Act \[19 U.S.C. 2483\] to embody in the HTS the substance of any action taken by the USTR under section 404(d)(3) of the URAA.
 
@@ -53,8 +53,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Annex
 
 The Annex of Proclamation 6914, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3004 of this title.
 

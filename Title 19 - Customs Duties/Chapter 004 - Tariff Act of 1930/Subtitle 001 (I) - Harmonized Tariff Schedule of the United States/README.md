@@ -34,10 +34,6 @@ Pub. L. 100–418, title I, §1204(a), Aug. 23, 1988, 102 Stat. 1148, provided t
 
 Titles I and II of Pub. L. 87–456, May 24, 1962, 76 Stat. 72–75, as amended by Pub. L. 87–794, title II, §257(g), Oct. 11, 1962, 76 Stat. 882; Pub. L. 100–418, title I, §1213(b), Aug. 23, 1988, 102 Stat. 1155, provided for adoption of Revised Tariff Schedules of the United States and administrative and saving provisions.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in section 1336 of this title.
-
 
 ---
 

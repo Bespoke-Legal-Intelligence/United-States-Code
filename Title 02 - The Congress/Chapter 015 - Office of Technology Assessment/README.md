@@ -37,10 +37,10 @@
 | (b) | Scope of services and assistance. |
 | (c) | Services or responsibilities performed by Congressional Research Service for Congress not altered or modified; authority of Librarian to establish within Congressional Research Service additional divisions, etc. |
 | (d) | Reimbursement for services and assistance. |
-| [478\.](%C2%A7%2000478%20-%20Utilization%20of%20services%20of%20General%20Accounting%20Office.md) | Utilization of services of General Accounting Office. |
-| (a) | Authority of General Accounting Office to furnish financial and administrative services. |
+| [478\.](%C2%A7%2000478%20-%20Utilization%20of%20the%20Government%20Accountability%20Office.md) | Utilization of the Government Accountability Office. |
+| (a) | Authority of Government Accountability Office to furnish financial and administrative services. |
 | (b) | Scope of services and assistance. |
-| (c) | Services or responsibilities performed by General Accounting Office for Congress not altered or modified. |
+| (c) | Services or responsibilities performed by Government Accountability Office for Congress not altered or modified. |
 | (d) | Reimbursement for services and assistance. |
 | [479\.](%C2%A7%2000479%20-%20Coordination%20of%20activities%20with%20National%20Science%20Foundation.md) | Coordination of activities with National Science Foundation. |
 | [480\.](%C2%A7%2000480%20-%20Omitted.md) | Omitted. |
@@ -60,7 +60,7 @@
 - [&sect; 00475 - Powers of Office of Technology Assessment](%C2%A7%2000475%20-%20Powers%20of%20Office%20of%20Technology%20Assessment.md)
 - [&sect; 00476 - Technology Assessment Advisory Council](%C2%A7%2000476%20-%20Technology%20Assessment%20Advisory%20Council.md)
 - [&sect; 00477 - Utilization of services of Library of Congress](%C2%A7%2000477%20-%20Utilization%20of%20services%20of%20Library%20of%20Congress.md)
-- [&sect; 00478 - Utilization of services of General Accounting Office](%C2%A7%2000478%20-%20Utilization%20of%20services%20of%20General%20Accounting%20Office.md)
+- [&sect; 00478 - Utilization of the Government Accountability Office](%C2%A7%2000478%20-%20Utilization%20of%20the%20Government%20Accountability%20Office.md)
 - [&sect; 00479 - Coordination of activities with National Science Foundation](%C2%A7%2000479%20-%20Coordination%20of%20activities%20with%20National%20Science%20Foundation.md)
 - [&sect; 00480 - Omitted](%C2%A7%2000480%20-%20Omitted.md)
 - [&sect; 00481 - Authorization of appropriations; availability of appropriations](%C2%A7%2000481%20-%20Authorization%20of%20appropriations%3B%20availability%20of%20appropriations.md)

@@ -10,7 +10,3 @@ The Lead State Agency shall allocate funds provided under this chapter on the ba
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §812\], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9409 of this title.
-

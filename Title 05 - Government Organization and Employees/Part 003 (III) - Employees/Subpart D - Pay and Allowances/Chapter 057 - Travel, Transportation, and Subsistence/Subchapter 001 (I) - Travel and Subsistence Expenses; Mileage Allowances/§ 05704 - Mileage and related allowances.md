@@ -6,7 +6,7 @@
 
 (b) A determination that travel by a privately owned vehicle is more advantageous to the Government is not required under subsection (a) of this section when payment on a mileage basis is limited to the cost of travel by common carrier including per diem.
 
-(c) Notwithstanding the provisions of subsections (a) and (b) of this section, in any case in which an employee who is engaged on official business for the Government chooses to use a privately owned vehicle in lieu of a Government vehicle, payment on a mileage basis is limited to the cost of travel by a Government vehicle.
+(c) Notwithstanding the provisions of subsections (a) and (b) of this section, in any case in which an employee who is engaged on official business for the Government chooses to use aprivately owned vehicle in lieu of a Government vehicle, payment on a mileage basis is limited to the cost of travel by a Government vehicle.
 
 (d) In addition to the rate per mile authorized under subsection (a) of this section, the employee may be reimbursed for—
 
@@ -79,8 +79,4 @@ Subsec. (a)(3). Pub. L. 96–346, §2(3), substituted “45 cents” for “24 c
 1975—Subsec. (a). Pub. L. 94–22 struck out “or other individual performing services for the Government” after “employee”, substituted “for the Government” for “inside or outside his designated post of duty or place of service”, increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and inserted provision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
 
 Subsec. (b). Pub. L. 94–22 inserted “authorized” after “allowance”, struck out “or other individual performing service for the Government” after “employee”, and provided for reimbursement of airplane landing and tie-down fee.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5707, 5724 of this title; title 2 section 476; title 7 sections 3128, 5843; title13 sections 24, 26; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 28 section 1821; title 30 section 812; title 33 section 1320; title 37 section 404; title 38 section 111; title 42 section 2477.
 

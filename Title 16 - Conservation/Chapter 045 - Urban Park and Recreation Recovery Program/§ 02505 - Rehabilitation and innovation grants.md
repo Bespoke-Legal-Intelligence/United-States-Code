@@ -20,7 +20,3 @@ Innovation grants should be closely tied to goals, priorities, and implementatio
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2507, 2512 of this title.
-

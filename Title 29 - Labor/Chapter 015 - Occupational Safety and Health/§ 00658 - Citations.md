@@ -6,15 +6,11 @@ If, upon inspection or investigation, the Secretary or his authorized representa
 
 #### (b) Posting
 
-Each citation issued under this section, or a copy or copies thereof, shall be prominentlyposted, as prescribed in regulations issued by the Secretary, at or near each place a violation referred to in the citation occurred.
+Each citation issued under this section, or a copy or copies thereof, shall be prominently posted, as prescribed in regulations issued by the Secretary, at or near each place a violation referred to in the citation occurred.
 
 #### (c) Time for issuance
 
 No citation may be issued under this section after the expiration of six months following the occurrence of any violation.
 
 (Pub. L. 91–596, §9, Dec. 29, 1970, 84 Stat. 1601.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 659, 666, 667 of this title; title 2 section 1341; title 3 section 425.
 

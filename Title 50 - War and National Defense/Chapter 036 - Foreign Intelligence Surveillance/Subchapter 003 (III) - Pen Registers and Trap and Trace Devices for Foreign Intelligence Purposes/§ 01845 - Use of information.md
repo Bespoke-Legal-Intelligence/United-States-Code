@@ -46,7 +46,3 @@ Orders granting motions or requests under subsection (g) of this section, decisi
 
 (Pub. L. 95–511, title IV, §405, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2408.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 2712.
-

@@ -216,7 +216,7 @@ In general.—In implementing the amendment made by subsection (a) \[amending th
 
 &emsp;“(2)
 
-Interim report.—The Secretary of the Treasury shall submit a report to the Congress not later than the end of the 180-day period beginning on the date of enactment of this Act on the progress madeby the Secretary in implementing the amendment made by subsection (a).
+Interim report.—The Secretary of the Treasury shall submit a report to the Congress not later than the end of the 180-day period beginning on the date of enactment of this Act on the progress made by the Secretary in implementing the amendment made by subsection (a).
 
 &emsp;“(3)
 
@@ -229,10 +229,6 @@ Streamlined Currency Transaction Reports.—The Secretary of the Treasury shall 
 &emsp;“(1) redesign the format of reports required to be filed under section 5313(a) of title 31, United States Code, by any financial institution (as defined in section 5312(a)(2) of such title) to eliminate the need to report information which has little or no value for law enforcement purposes; and
 
 &emsp;“(2) reduce the time and effort required to prepare such report for filing by any such financial institution under such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5312, 5317, 5324, 5330, 5331 of this title; title 12 section 3420; title 26 section 6103; title 28 section 524.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

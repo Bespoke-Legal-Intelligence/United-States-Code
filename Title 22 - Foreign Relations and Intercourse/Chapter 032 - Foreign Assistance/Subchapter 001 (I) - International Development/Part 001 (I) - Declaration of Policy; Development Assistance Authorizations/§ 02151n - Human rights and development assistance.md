@@ -52,11 +52,23 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(7) wherever applicable, violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title);
 
-&emsp;(8) wherever applicable, consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987);
+&emsp;(8) wherever applicable, a description of the nature and extent of acts of anti-Semitism and anti-Semitic incitement that occur during the preceding year, including descriptions of—
 
-&emsp;(9) for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country; and
+&emsp;&emsp;(A) acts of physical violence against, or harassment of <sup>2</sup> Jewish people, and acts of violence against, or vandalism of <sup>2</sup> Jewish community institutions, including schools, synagogues, and cemeteries;
 
-&emsp;(10)(A) wherever applicable, a description of the nature and extent—
+&emsp;&emsp;(B) instances of propaganda in government and nongovernment media that attempt to justify or promote racial hatred or incite acts of violence against Jewish people;
+
+&emsp;&emsp;(C) the actions, if any, taken by the government of the country to respond to such violence and attacks or to eliminate such propaganda or incitement;
+
+&emsp;&emsp;(D) the actions taken by such government to enact and enforce laws relating to the protection of the right to religious freedom of Jewish people; and
+
+&emsp;&emsp;(E) the efforts of such government to promote anti-bias and tolerance education;
+
+&emsp;(9) wherever applicable, consolidated information regarding the commission of warcrimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987);
+
+&emsp;(10) for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country; and
+
+&emsp;(11)(A) wherever applicable, a description of the nature and extent—
 
 &emsp;&emsp;(i) of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, and the participation of such individuals in such groups; and
 
@@ -100,7 +112,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 (2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat.3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII,§701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410; Pub. L. 108–332, §6(a)(1), Oct. 16, 2004, 118 Stat. 1285.)
 
 #### References in Text
 
@@ -115,6 +127,8 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (d)(8) to (11). Pub. L. 108–332 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
 2002—Subsec. (d)(9). Pub. L. 107–228, §665(a), added par. (9).
 
@@ -184,13 +198,17 @@ Subsec. (e). Pub. L. 96–53, §106, substituted “1980” for “1979”.
 
 Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
 
-Subsec. (d). Pub. L. 95–88, §111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and theCommittee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
+Subsec. (d). Pub. L. 95–88, §111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
 
 Subsec. (e). Pub. L. 95–88, §111(b), added subsec. (e).
 
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:“The amendments made by subsections (a) and (b) \[amending this section and sections 2304 and 6412 of this title\] shall apply beginning with the first report under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) and section 102(b) of the International Religious Freedom Act of 1998 (22 U.S.C. 6312(b) \[6412(b)\]) submitted more than 180 days after the date of the enactment of this Act \[Oct. 16, 2004\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -256,9 +274,7 @@ Pub. L. 102–391, title V, §511(b), Oct. 6, 1992, 106 Stat. 1658, as amended b
 
 Section 504(b) of Pub. L. 96–53, which required Secretary of State to report by Nov. 15, 1979, foreign relations impact made by reports of human rights violations of foreign governments, was repealed by Pub. L. 97–113, title VII, §734(a)(3), Dec. 29, 1981, 95 Stat. 1560.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2151n–2, 2199, 2296d, 2347h, 2398, 2651a, 5732, 6402, 6412, 6442, 6445, 7110 of this title; title 48 section 1904.
-
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -14,7 +14,3 @@ Notwithstanding section 7543(a) of this title, any State which has plan provisio
 
 1990—Pub. L. 101–549 added sentence at end prohibiting States from limiting or prohibiting sale or manufacture of new vehicles or engines certified in California as having met California standards and from taking any actions where effect of those actions would be to create a “third vehicle”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7589 of this title.
-

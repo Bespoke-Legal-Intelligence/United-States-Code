@@ -22,7 +22,7 @@ Such information as the Secretary may determine to be necessary for purposes of 
 
 (2) The study shall address factors related to attrition and completion of the program through which the services are provided and factors within and outside the program affecting results. Appropriate comparisons shall be used to contrast the experiences of similar persons who do not obtain the services.
 
-(3) The study shall be planned to cover the period beginning on the application of individualswith disabilities for the services, through the eligibility determination and provision of services for the individuals, and a further period of not less than 2 years after the termination of services.
+(3) The study shall be planned to cover the period beginning on the application of individuals with disabilities for the services, through the eligibility determination and provision of services for the individuals, and a further period of not less than 2 years after the termination of services.
 
 #### (f) Information on exemplary practices
 
@@ -45,8 +45,4 @@ A prior section 711, Pub. L. 93–112, §12, as added Pub. L. 95–602, title I,
 A prior section 14 of Pub. L. 93–112 was renumbered section 16 and is classified to section 713 of this title.
 
 Another prior section 14 of Pub. L. 93–112 was classified to section 713 of this title prior to repeal by Pub. L. 105–220.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 705 of this title.
 

@@ -28,7 +28,7 @@ Subsec. (b)(3). Pub. L. 104–88, §307(2), substituted “Surface Transportatio
 
 1994—Subsec. (b)(3). Pub. L. 103–272 substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958”.
 
-1984—Subsec. (b)(3). Pub. L. 98–443 substituted “Secretary of Transportation if for the carriage of mail in foreign air transportation (as defined in section 101 of the Federal Aviation Act of 1958)” for “Civil Aeronautics Board”.
+1984—Subsec. (b)(3). Pub. L. 98–443 substituted “Secretary of Transportation if for the carriage of mail inforeign air transportation (as defined in section 101 of the Federal Aviation Act of 1958)” for “Civil Aeronautics Board”.
 
 1972—Subsec. (b)(2). Pub. L. 92–286 substituted “contractor or subcontractor” for “holder”.
 

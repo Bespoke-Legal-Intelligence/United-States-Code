@@ -14,7 +14,3 @@ The date of the applicability of this chapter, referred to in text, probably mea
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4114 of this title.
-

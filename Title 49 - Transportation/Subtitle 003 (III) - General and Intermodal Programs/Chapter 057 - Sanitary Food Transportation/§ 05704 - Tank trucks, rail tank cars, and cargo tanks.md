@@ -56,7 +56,3 @@ In subsection (b), the word “decides” is substituted for “determined” fo
 
 In subsection (c), before clause (1), the words “in making such arrangement” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5703, 5705, 5709 of this title.
-

@@ -36,7 +36,7 @@ The Secretary shall develop, issue, and publish in the Federal Register, not lat
 
 #### (1) In general
 
-&emsp;From funds appropriated under section 11435 of this title, the Secretary shall, directly or through grants, contracts, or cooperative agreements, periodically collect and disseminate data and information regarding—
+&emsp;From funds appropriated under section 11435 of this title, the Secretary shall, directly orthrough grants, contracts, or cooperative agreements, periodically collect and disseminate data and information regarding—
 
 &emsp;&emsp;(A) the number and location of homeless children and youths;
 
@@ -65,8 +65,4 @@ Not later than 4 years after January 8, 2002, the Secretary shall prepare and su
 A prior section 11434, Pub. L. 100–77, title VII, §724, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3964, related to Secretarial responsibilities, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11434, Pub. L. 100–77, title VII, §724, July 22, 1987, 101 Stat. 528; Pub. L. 101–645, title VI, §612(d), Nov. 29, 1990, 104 Stat. 4742, related to national responsibilities, prior to the general amendment of this part by Pub. L. 103–382.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11432 of this title.
 

@@ -1,6 +1,6 @@
 ### §5546. Pay for Sunday and holiday work
 
-(a) An employee who performs work during a regularly scheduled 8-hour period of servicewhich is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay. For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.
+(a) An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay. For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.
 
 (b) An employee who performs work on a holiday designated by Federal Statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
 
@@ -91,8 +91,4 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §624\], Oct. 21, 1998, 112 Stat
 Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 105–61, title VI, §636, Oct. 10, 1997, 111 Stat. 1316.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5541, 5547, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e.
 

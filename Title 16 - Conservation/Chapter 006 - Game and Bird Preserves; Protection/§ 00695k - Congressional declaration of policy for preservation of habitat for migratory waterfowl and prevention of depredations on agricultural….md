@@ -4,7 +4,3 @@ It is hereby declared to be the policy of the Congress to stabilize the ownershi
 
 (Pub. L. 88–567, §1, Sept. 2, 1964, 78 Stat. 850.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 695r of this title.
-

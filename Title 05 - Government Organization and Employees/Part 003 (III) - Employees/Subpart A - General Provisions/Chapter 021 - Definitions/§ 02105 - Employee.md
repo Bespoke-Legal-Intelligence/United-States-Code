@@ -1,6 +1,6 @@
 ### §2105. Employee
 
-(a) For the purpose of this title, “employee”, except as otherwise provided by this section or when specifically modified, means an officer and an individual who is—
+(a) For the purpose of this title, “employee”, except as otherwise provided by this section orwhen specifically modified, means an officer and an individual who is—
 
 &emsp;(1) appointed in the civil service by one of the following acting in an official capacity—
 
@@ -116,7 +116,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act J
 
 1997—Subsec. (b). Pub. L. 105–85 inserted “(if any)” after “Academy dairy”.
 
-1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
+1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment insuch a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
 
 1994—Subsec. (f). Pub. L. 103–424 added subsec. (f).
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 90–486 effective Jan. 1, 1968, except that no deductions 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 
@@ -211,8 +211,4 @@ Section 7202(n) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(2)
 #### Prohibition of Decrease in Basic Pay Rate of Employees of Nonappropriated Fund Instrumentalities
 
 Amendments by Pub. L. 92–392 not to decrease basic pay rate of subsec. (c) employees in service before effective date of the amendments as to such employees, see section 9(a)(2) of Pub. L. 92–392, set out as a note under section 5343 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3502, 3521, 5334, 5335, 5342, 5365, 5506, 5515, 5537, 5551, 5552, 5581, 5595, 5736, 5751, 5945, 5946, 6103, 6104, 6121, 6301, 6308, 6322, 6323, 6385, 7103, 7119, 7342, 7905, 8171, 8172, 8173, 8311, 8331, 8332, 8347, 8401, 8411, 8461, 8701, 8901, 9001 of this title; title 6 section 292; title 10 sections 975, 1587, 2494, 4595, 7582, 9594; title 18 section 202; title 19 section 2081; title 22 sections 3974, 4341, 4833, 7002; title 25 section 450i; title 26 section 7608; title 41 sections 419, 423; title 42 sections 2473e, 3374, 14614; title 49 section 44901; title 50 sections 426, 2703.
 

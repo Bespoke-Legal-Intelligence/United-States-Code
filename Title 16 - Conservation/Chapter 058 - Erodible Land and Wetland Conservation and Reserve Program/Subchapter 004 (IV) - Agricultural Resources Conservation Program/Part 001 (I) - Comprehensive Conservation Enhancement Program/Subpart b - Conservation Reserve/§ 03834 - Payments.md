@@ -108,7 +108,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (1) In general
 
-&emsp;The total amount of rental payments, including rental payments made in the form of in-kind commodities, made to a person under this subpart for any fiscal year may not exceed $50,000.
+&emsp;The total amount of rental payments, including rental payments made in the form ofin-kind commodities, made to a person under this subpart for any fiscal year may not exceed $50,000.
 
 #### (2) Regulations
 
@@ -155,8 +155,4 @@ A prior section 3834, Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Sta
 #### Conservation Research Application
 
 For provisions directing that enumerated provisions of the Food Security Act of 1985 shall apply to the conservation reserve program under this subchapter with respect to rental payments to persons under contracts entered into after Dec. 22, 1987, with certain exceptions, see section 1305(d) of Pub. L. 100–203, set out as a note under section 1308 of Title 7, Agriculture.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3801, 3831 of this title.
 

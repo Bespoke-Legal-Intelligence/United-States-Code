@@ -68,15 +68,7 @@ Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prio
 
 1984—Subsecs. (b), (c). Pub. L. 98–473, §901, added subsec. (b) and redesignated former subsec. (b) as (c).
 
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
-
 #### Effective Date of 1986 Amendment
 
 Section 1364(b) of Pub. L. 99–570 provided that: “The amendments made by sections 1355(b) and 1357(a) \[amending this section and section 5321 of this title\] shall apply with respect to violations committed after the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5321 of this title.
 

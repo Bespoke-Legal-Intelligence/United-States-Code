@@ -72,7 +72,3 @@ Section 812 of the Foreign Service Act of 1980, referred to in subsec. (c), is c
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 sections 2386, 2512.
-

@@ -6,7 +6,7 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 &emsp;(b) the development, use, and control of atomic energy shall be directed so as to promote world peace, improve the general welfare, increase the standard of living, and strengthen free competition in private enterprise.
 
-(Aug. 1, 1946, ch. 724, title I, §1, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; renumbered title I,Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §1, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

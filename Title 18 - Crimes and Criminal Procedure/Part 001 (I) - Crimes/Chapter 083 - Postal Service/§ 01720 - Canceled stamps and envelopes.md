@@ -22,7 +22,3 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in two places in last par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 492 of this title.
-

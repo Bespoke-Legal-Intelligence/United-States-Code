@@ -42,7 +42,3 @@ Pub. L. 102–40, §403(b)(3), substituted “7402” for “4105” in par. (1)
 
 1990—Pars. (1)(A), (2)(D), (5). Pub. L. 101–366 substituted “subchapters II, III, or V” for “subchapter II or III”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7603, 7612, 7622, 7672 of this title.
-

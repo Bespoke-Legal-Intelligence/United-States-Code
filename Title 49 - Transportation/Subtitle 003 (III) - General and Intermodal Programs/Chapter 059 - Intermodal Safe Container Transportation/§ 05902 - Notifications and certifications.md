@@ -130,7 +130,3 @@ Subsec. (d). Pub. L. 104–291, §204(d), added subsec. (d). Former subsec. (d) 
 
 Subsec. (e). Pub. L. 104–291, §204(d), (e), redesignated subsec. (d) as (e), added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and adjusted margin of par. (2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5903, 5904, 5905 of this title.
-

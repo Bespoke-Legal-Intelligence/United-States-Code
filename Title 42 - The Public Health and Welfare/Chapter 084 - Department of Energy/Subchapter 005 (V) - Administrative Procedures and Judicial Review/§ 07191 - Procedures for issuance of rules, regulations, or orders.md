@@ -16,7 +16,7 @@
 
 #### (c) Waiver of requirements
 
-The requirements of subsection (b) of this section may be waived where strict compliance is found by the Secretary to be likely to cause serious harm or injury to the public health, safety, or welfare, and such finding is set out in detail in such rule, regulation, or order. In the event the requirements of this section are waived, the requirements shall be satisfied within a reasonable period of time subsequent to the promulgation of such rule, regulation, or order.
+The requirements of subsection (b) of this section may be waived where strict compliance isfound by the Secretary to be likely to cause serious harm or injury to the public health, safety, or welfare, and such finding is set out in detail in such rule, regulation, or order. In the event the requirements of this section are waived, the requirements shall be satisfied within a reasonable period of time subsequent to the promulgation of such rule, regulation, or order.
 
 #### (d) Effects confined to single unit of local government, geographic area within State, or State; hearing or oral presentation
 
@@ -59,8 +59,4 @@ Subsec. (c). Pub. L. 105–28, §2(a)(2), (3), redesignated subsec. (e) as (c) a
 Subsec. (d). Pub. L. 105–28, §2(a)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Following the notice and comment period, including any oral presentation required by this subsection, the Secretary may promulgate a rule if the rule is accompanied by an explanation responding to the major comments, criticisms, and alternatives offered during the comment period.”
 
 Subsecs. (e) to (g). Pub. L. 105–28, §2(a)(2), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6239, 6250d, 7193, 7194, 8513, 9204 of this title.
 

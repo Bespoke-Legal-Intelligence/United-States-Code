@@ -12,7 +12,3 @@ Section 1302 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 37
 
 The definition in section 262p of this title applies to this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 262p of this title.
-

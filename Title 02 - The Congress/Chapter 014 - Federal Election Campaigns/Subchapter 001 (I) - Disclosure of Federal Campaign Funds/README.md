@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—DISCLOSURE OF FEDERAL CAMPAIGN FUNDS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 455 of this title.
-
 
 ---
 

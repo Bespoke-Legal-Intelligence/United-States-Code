@@ -24,7 +24,3 @@ The words “in the competitive service, an Executive agency, or the government 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2302, 3304, 3320 of this title; title 22 section 1438; title 49 section 40122.
-

@@ -73,10 +73,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 4365 of this title; title 15 section 2706; title 16 section 228g.
-
 
 ---
 

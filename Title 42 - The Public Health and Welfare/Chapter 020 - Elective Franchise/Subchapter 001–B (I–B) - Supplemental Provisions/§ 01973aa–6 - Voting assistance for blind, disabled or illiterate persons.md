@@ -8,7 +8,3 @@ Any voter who requires assistance to vote by reason of blindness, disability, or
 
 Section 5 of Pub. L. 97–205 provided that this section is effective Jan. 1, 1984.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1973ee–3 of this title.
-

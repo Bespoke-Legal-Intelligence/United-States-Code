@@ -4,7 +4,3 @@ The Cheyenne River Sioux Tribe and the Standing Rock Sioux Tribe are authorized 
 
 (July 14, 1954, ch. 472, §2, 68 Stat. 468.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 486 of this title.
-

@@ -22,7 +22,3 @@ For the purposes of this section, the term “chief executive officer of the app
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1592m, 1592<i>o</i> of this title.
-

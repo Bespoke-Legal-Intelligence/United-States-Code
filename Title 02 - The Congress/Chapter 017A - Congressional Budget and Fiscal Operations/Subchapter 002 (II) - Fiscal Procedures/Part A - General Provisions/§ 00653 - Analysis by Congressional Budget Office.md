@@ -22,7 +22,7 @@ A prior section 402 of Pub. L. 93–344 was classified to section 652 of this ti
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–4, §104(2), struck out subsection designation.
+1995—Subsec. (a). Pub. L. 104–4, §104(2), struck out subsection designation.
 
 Subsec. (a)(2). Pub. L. 104–4, §104(1)(A), (C), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “an estimate of the cost which would be incurred by State and local governments in carrying out or complying with any significant bill or resolution in the fiscal year in which it is to become effective and in each of the four fiscal years following such fiscal year, together with the basis for each such estimate;”.
 
@@ -38,9 +38,9 @@ Subsecs. (b), (c). Pub. L. 104–4, §104(3), struck out subsecs. (b) and (c) wh
 
 “(c) For purposes of subsection (a)(2) of this section, the term ‘significant bill or resolution’ is defined as any bill or resolution which in the judgment of the Director of the Congressional Budget Office is likely to result in an annual cost to State and local governments of $200,000,000 or more, or is likely to have exceptional fiscal consequences for a geographic region or a particular level of government.”
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–177 added par. (4) and substituted “estimates, comparison, and description” for “estimates and comparison” in last sentence.
+1985—Subsec. (a). Pub. L. 99–177 added par. (4) and substituted “estimates, comparison, and description” for “estimates and comparison” in last sentence.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–108, §2(a)(1)–(6), designated existing provisions as subsec. (a), added par. (2), redesignated former par. (2) as (3), in par. (3) as so redesignated, substituted “estimates” for “estimate” in two places, and substituted reference to pars. (1) and (2) for reference to par. (1), and in provision following par. (3) substituted “estimates” for “estimate”.
+1981—Subsec. (a). Pub. L. 97–108, §2(a)(1)–(6), designated existing provisions as subsec. (a), added par. (2), redesignated former par. (2) as (3), in par. (3) as so redesignated, substituted “estimates” for “estimate” in two places, and substituted reference to pars. (1) and (2) for reference to par. (1), and in provision following par. (3) substituted “estimates” for “estimate”.
 
 Subsecs. (b) and (c). Pub. L. 97–108, §2(a)(7), added subsecs. (b) and (c).
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Effective Date of 1981 Amendment
 
-Section 2(b) of Pub. L. 97–108 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
+Section 2(b) of Pub. L. 97–108 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
 
 #### Effective Date
 

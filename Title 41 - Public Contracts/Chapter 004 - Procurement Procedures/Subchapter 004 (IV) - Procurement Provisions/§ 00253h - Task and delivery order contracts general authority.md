@@ -54,7 +54,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Construction
 
-Section 1054(b) of Pub. L. 103–355 provided that: “Nothing in section 303H, 303I, 303J, or 303K of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253h, 253i, 253j, 253k\], as added by subsection (a), shall be construed as modifying or superseding, oras intended to impair or restrict, authorities or responsibilities under—
+Section 1054(b) of Pub. L. 103–355 provided that: “Nothing in section 303H, 303I, 303J, or 303K of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253h, 253i, 253j, 253k\], as added by subsection (a), shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
 &emsp;“(1) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759)); and
 
@@ -97,8 +97,4 @@ GAO Report.—Not later than one year after the date on which the regulations re
 &emsp;“(1) executive agency compliance with the regulations; and
 
 &emsp;“(2) conformance of the regulations with existing law, together with any recommendations that the Comptroller General considers appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 253i, 253j, 253k, 433 of this title; title 10 section 2382.
 

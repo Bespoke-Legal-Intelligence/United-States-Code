@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 (d) The term “miner” means any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal. Such term also includes an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent such individual was exposed to coal dust as a result of such employment.
 
-(e) The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5), and section 416(k) of title 42, who is not married. The determination of an individual's status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
+(e) The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5),<sup>1</sup> and section 416(k) of title 42, who is not married. The determination of an individual's status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
 
 (f)(1) The term “total disability” has the meaning given it by regulations of the Secretary of Health and Human Services, which were in effect on November 2, 2002, for claims under part B of this subchapter, and by regulations of the Secretary of Labor for claims under part C of this subchapter, subject to the relevant provisions of subsections (b) and (d) of section 923 of this title, except that—
 
@@ -61,6 +61,8 @@ For purposes of this subchapter—
 (Pub. L. 91–173, title IV, §402, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§1(c)(2)–(4), 3(b), 4(a), May 19, 1972, 86 Stat. 151–153; Pub. L. 95–239, §2, Mar. 1, 1978, 92 Stat. 95; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–119, title I, §104(b)(1), title II, §205(b), Dec. 29, 1981, 95 Stat. 1639, 1645; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(i)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(b)(1), Nov. 2, 2002, 116 Stat. 1925.)
 
 #### References in Text
+
+Section 416(c)(1), (2), (3), (4), or (5) of title 42, referred to in subsec. (e), was redesignated section 416(c)(1)(A), (B), (C), (D), and (E) by Pub. L. 108–203, title IV, §414(a)(2), (4), Mar. 2, 2004, 118 Stat. 529.
 
 Section 945 of this title, referred to in subsec. (f)(2)(A), (B), was repealed by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116 Stat. 1926.
 
@@ -127,10 +129,6 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 Amendment by section 3(b) of Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.
 
 Amendment by section 4(a) of Pub. L. 92–303 effective Dec. 30, 1969, see section 4(g) of Pub. L. 92–303, set out as a note under section 921 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 922, 931, 934 of this title; title 26 sections 192, 501, 9501.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

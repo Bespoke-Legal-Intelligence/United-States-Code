@@ -6,7 +6,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(1) Protection, restoration, or enhancement of the existing coastal wetlands base, or creation of new coastal wetlands.
 
-&emsp;(2) Preventing or significantly reducing threats to life and destruction of property byeliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
+&emsp;(2) Preventing or significantly reducing threats to life and destruction of property by eliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
 
 &emsp;(3) Attaining increased opportunities for public access, taking into account current and future public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
 
@@ -70,11 +70,7 @@ Subsec. (b). Pub. L. 104–150, §3, designated existing provisions as par. (1) 
 
 1992—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
 
-1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zone policies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
+1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zonepolicies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
 
 1980—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1456c, 1460, 1464 of this title.
 

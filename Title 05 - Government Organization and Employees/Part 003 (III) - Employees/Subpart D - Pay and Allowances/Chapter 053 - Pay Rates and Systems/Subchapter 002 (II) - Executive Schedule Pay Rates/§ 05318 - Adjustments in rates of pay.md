@@ -30,7 +30,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Section 704(b) of Pub. L. 101–194 provided that: “This section and the amendments made by this section\[amending this section, section 31 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
+Section 704(b) of Pub. L. 101–194 provided that: “This section and the amendments made by this section \[amending this section, section 31 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
 
 #### Salary Levels of Senior Government Officials
 
@@ -64,7 +64,7 @@ Judicial positions.—Effective the first day of the first applicable pay period
 
 “(b)
 
-Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
+Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position asof the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
 
 #### Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made
 
@@ -134,7 +134,7 @@ Pub. L. 98–51, title III, §304, July 14, 1983, 97 Stat. 279, provided that:
 
 “(b) In the case of any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, for which the maximum rate of salary or basic pay that is payable on the date of the enactment of this Act \[July 14, 1983\] is less than the maximum rate then prescribed by law, the maximum rate prescribed by law as of such date of enactment shall be reduced to the maximum rate payable as of such date.
 
-“(c) In determining the amount of the reduction under this section in the case of any Senator, the provisions of section 129, of Public Law 97–377 \[set out as anote below\] shall be applied without regard to subsection (c) of such section.”
+“(c) In determining the amount of the reduction under this section in the case of any Senator, the provisions of section 129, of Public Law 97–377 \[set out as a note below\] shall be applied without regard to subsection (c) of such section.”
 
 #### Limitation on Maximum Rate of Salary Increases for Senior Executive, Judicial, and Legislative Positions (Including Members of Congress); Services Performed After December 17, 1982; Applicability to Senators; Construction With Provisions Relating to Annual Rates of Compensation of Officers and Employees of the Senate
 
@@ -190,7 +190,7 @@ Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95
 
 Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that:
 
-“(a) Notwithstanding the provisions of section 305 of H.R. 4120 made applicable by section 101(g) of this joint resolution \[set out above\], but subject to subsection (b)of this section, nothing in section 101(g) shall (or shall be construed to) require that the rate of salary or basic pay, payable to any individual for or on account of services performed after December 31, 1981, be limited to or reduced to an amount which is less than—
+“(a) Notwithstanding the provisions of section 305 of H.R. 4120 made applicable by section 101(g) of this joint resolution \[set out above\], but subject to subsection (b) of this section, nothing in section 101(g) shall (or shall be construed to) require that the rate of salary or basic pay, payable to any individual for or on account of services performed after December 31, 1981, be limited to or reduced to an amount which is less than—
 
 &emsp;“(1) $59,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level III of the Executive Schedule under section 5314 of title 5, United States Code;
 
@@ -270,9 +270,5 @@ Pub. L. 95–66, July 11, 1977, 91 Stat. 270, provided that: “The first adjust
 
 #### Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 94–440, title II, §100, Oct. 1, 1976, 90 Stat. 1446, provided that: “No part of the funds appropriated in this Act or any other Act shall be used to pay the salary of an individual in a position or office referred to in section 225(f) of the Federal Salary Act of 1967, as amended (2 U.S.C. 356), including a Delegate to the House of Representatives, at a rate which exceeds the salary rate in effect on September 30, 1976, for such position or office except increases submitted by the President pursuant to section 225 of the Federal Salary Act of 1967.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5312, 5313, 5314, 5315, 5316 of this title.
+Pub. L. 94–440, title II, §100, Oct. 1, 1976, 90 Stat. 1446, provided that: “No part of the funds appropriated inthis Act or any other Act shall be used to pay the salary of an individual in a position or office referred to in section 225(f) of the Federal Salary Act of 1967, as amended (2 U.S.C. 356), including a Delegate to the House of Representatives, at a rate which exceeds the salary rate in effect on September 30, 1976, for such position or office except increases submitted by the President pursuant to section 225 of the Federal Salary Act of 1967.”
 

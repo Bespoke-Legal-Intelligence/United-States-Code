@@ -1,9 +1,5 @@
 ### SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8461 of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-In order to be eligible to receive a grant under this part <sup>1</sup> for any fiscal year, a State, Indiantribal, or local prosecutor, in conjunction with the chief executive officer of the jurisdiction in which the program will be placed, shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
+In order to be eligible to receive a grant under this part <sup>1</sup> for any fiscal year, a State, Indian tribal, or local prosecutor, in conjunction with the chief executive officer of the jurisdiction in which the program will be placed, shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
 
 #### (b) Requirements
 
@@ -33,10 +33,6 @@ Each applicant shall include a comprehensive plan that shall contain—
 #### References in Text
 
 This part, referred to in subsecs. (a) and (b)(3), appearing in the original is unidentifiable because subtitle Q of title III of Pub. L. 103–322 does not contain parts.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13864, 13865, 13866, 14214 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -252,7 +252,7 @@ Sec. 2. <i>Agency Responsibilities</i>. (a) The head of each Executive agency sh
 
 (5) Provision for identifying illegal drug users, including testing on a controlled and carefully monitored basis in accordance with this Order.
 
-Sec. 3. <i>Drug Testing Programs</i>. (a) The head of each Executive agency shall establish a program to test for the use of illegal drugs by employees in sensitive positions. The extent to which such employees are tested and the criteria for such testing shall be determined bythe head of each agency, based upon the nature of the agency's mission and its employees’ duties, the efficient use of agency resources, and the danger to the public health and safety or national security that could result from the failure of an employee adequately to discharge his or her position.
+Sec. 3. <i>Drug Testing Programs</i>. (a) The head of each Executive agency shall establish a program to test for the use of illegal drugs by employees in sensitive positions. The extent to which such employees are tested and the criteria for such testing shall be determined by the head of each agency, based upon the nature of the agency's mission and its employees’ duties, the efficient use of agency resources, and the danger to the public health and safety or national security that could result from the failure of an employee adequately to discharge his or her position.
 
 (b) The head of each Executive agency shall establish a program for voluntary employee drug testing.
 
@@ -320,7 +320,7 @@ Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Execut
 
 (b) For purposes of this Order, the term “agency” means an Executive agency, as defined in 5 U.S.C. 105; the Uniformed Services, as defined in 5 U.S.C. 2101(3) (but excluding the armed forces as defined by 5 U.S.C. 2101(2)); or any other employing unit or authority of the Federal government, except the United States Postal Service, the Postal Rate Commission, and employing units or authorities in the Judicial and Legislative Branches.
 
-(c) For purposes of this Order, the term “illegal drugs” means a controlled substance included in Schedule I or II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawfulunder chapter 13 of that Title. The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
+(c) For purposes of this Order, the term “illegal drugs” means a controlled substance included in Schedule I or II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawful under chapter 13 of that Title. The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
 
 (d) For purposes of this Order, the term “employee in a sensitive position” refers to:
 
@@ -341,6 +341,8 @@ Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Execut
 Sec. 8. <i>Effective Date</i>. This Order is effective immediately.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### Ex. Ord. No. 12674. Principles of Ethical Conduct for Government Officers and Employees
 
@@ -448,7 +450,7 @@ Sec. 503. <i>Definitions</i>. For purposes of this order, the term:
 
 (b) “Employee” means any officer or employee of an agency, including a special Government employee.
 
-(c) “Agency” means any executive agency as defined in 5 U.S.C. 105, including any executive department as defined in 5 U.S.C. 101, Government corporation as defined in 5 U.S.C. 103, or an independent establishment in the executive branch as defined in 5 U.S.C. 104 (other than the General Accounting Office), and the United States Postal Service and Postal Rate Commission.
+(c) “Agency” means any executive agency as defined in 5 U.S.C. 105, including any executive department as defined in 5 U.S.C. 101, Government corporation as defined in 5 U.S.C. 103, or an independent establishment in the executive branch as defined in 5 U.S.C. 104 (other than the General Accounting Office \[now Government Accountability Office\]), and the United States Postal Service and Postal Rate Commission.
 
 (d) “Head of an agency” means, in the case of an agency headed by more than one person, the chair or comparable member of such agency.
 
@@ -518,7 +520,7 @@ Sec. 6. <i>Phase-In of Implementation</i>. Implementation of the policy set fort
 
 Sec. 7. <i>Consistency with Other Laws</i>. The provisions of this order shall be implemented consistent with applicable law, including the Federal Service Labor-Management Relations Act (5 U.S.C. 7101 <i>et seq</i>.) and the National Labor Relations Act (29 U.S.C. 151 <i>et seq</i>.)\[.\] Provisions of existing collective bargaining agreements shall be honored and agencies shall consult with employee labor representatives about the implementation of this order. Nothing herein shall be construed to impair or alter the powers and duties of Federal agencies established under law. Nothing herein shall be construed to replace any agency policy currently in effect, if such policy is legally established, in writing, and consistent with the terms of this order. Agencies shall review their current policy to confirm that agency policy comports with this order, and policy found not in compliance shall be revised to comply with the terms of this order.
 
-Sec. 8. <i>Cause of Action</i>. This order does not create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person or affect in any way the liability of the executive branch under the Federal Tort Claims Act \[28 U.S.C. 2671 et seq.\].
+Sec. 8. <i>Cause of Action</i>. This order does not create any right to administrative or judicial review, or any other right or benefit, substantive or procedural, enforceableby a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person or affect in any way the liability of the executive branch under the Federal Tort Claims Act \[28 U.S.C. 2671 et seq.\].
 
 Sec. 9. <i>Construction</i>. Nothing in this order shall limit an agency head from establishing more protective policies on smoking in the Federal workplace for employees and members of the public visiting or using Federal facilities.
 

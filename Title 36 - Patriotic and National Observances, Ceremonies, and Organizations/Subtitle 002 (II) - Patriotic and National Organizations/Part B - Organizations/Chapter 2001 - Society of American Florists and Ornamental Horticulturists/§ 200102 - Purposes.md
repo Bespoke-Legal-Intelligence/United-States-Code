@@ -22,7 +22,3 @@ Mar. 3, 1901, ch. 876, §1 (1st sentence words beginning with “for the educati
 
 The words “The purposes of the corporation are” are added for consistency in the revised title. The words “to promote” are added for clarity. The words “in all their branches” are omitted as unnecessary.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 200104 of this title.
-

@@ -10,13 +10,9 @@ The Secretary is authorized to provide for the acquisition, construction, and ma
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under sections 532 to 538 of this title to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 533 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under sections 532 to 538 of this title to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see Transfer of Functions note set out under section 533 of this title.
 
 #### Financing of Forest Development Roads
 
 Financing of forest development roads authorized by cl. (2) of this section deemed “budget authority” and “budget outlays” as defined in section 621(a) of Title 2, The Congress, and effective for purpose specified in section 651(a) of Title 2, see section 1608 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 533, 534, 535a, 536, 1608 of this title.
 

@@ -48,7 +48,3 @@ Amendment by Pub. L. 93–416 applicable to case where injury or death occurred 
 
 Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8101, 8143 of this title; title 18 section 1921; title 42 sections 239d, 5055.
-

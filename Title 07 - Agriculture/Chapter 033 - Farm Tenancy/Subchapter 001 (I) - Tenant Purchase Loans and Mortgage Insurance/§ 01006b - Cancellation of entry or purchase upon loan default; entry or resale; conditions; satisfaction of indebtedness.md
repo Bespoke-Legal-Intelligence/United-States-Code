@@ -12,9 +12,5 @@ Section 1017 of this title, referred to in text, was repealed by Pub. L. 87–12
 
 Section was not enacted as part of the Bankhead-Jones Farm Tenant Act, which constitutes a major part of this chapter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 451f.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

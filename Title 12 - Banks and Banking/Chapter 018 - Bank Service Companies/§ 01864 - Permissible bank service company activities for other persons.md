@@ -8,7 +8,7 @@ A bank service company may provide to any person any service authorized by this 
 
 Except with the prior approval of the Board under section 1865(b) of this title in accordance with subsection (f) of this section—
 
-&emsp;(1) a bank service company shall not perform the services authorized by this section in any State other than that State in which its shareholders or members are located; and
+&emsp;(1) a bank service company shall not perform the services authorized by this section in anyState other than that State in which its shareholders or members are located; and
 
 &emsp;(2) all insured bank shareholders or members of a bank service company shall be located in the same State.
 
@@ -22,7 +22,7 @@ A bank service company in which a national bank is a shareholder or member shall
 
 #### (e) Performance where State bank and national bank are shareholders or members
 
-A bank service company that has both national bank and State bank shareholders or members shall perform only those services thatmay lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate <sup>1</sup> and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.
+A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate <sup>1</sup> and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.
 
 #### (f) Geographic location
 
@@ -53,10 +53,6 @@ Subsec. (f). Pub. L. 104–208, §2613(e)(1), substituted “company” for “c
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1863, 1865 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “operates”.</i>
 

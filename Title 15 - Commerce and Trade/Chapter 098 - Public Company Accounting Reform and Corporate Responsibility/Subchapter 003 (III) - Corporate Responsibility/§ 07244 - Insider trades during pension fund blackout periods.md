@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) from any purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
+&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) fromany purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
 
 #### (B) Actions to recover profits
 
@@ -56,7 +56,7 @@
 
 &emsp;If any amendment made by this subsection requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after the effective date of this section, if—
 
-&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effectand before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
+&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effect and before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
 
 &emsp;&emsp;(B) such plan amendment applies retroactively to the period after such amendment made by this subsection takes effect and before such first plan year.
 
@@ -72,9 +72,5 @@ For amendments made by this subsection and this section, referred to in subsecs.
 
 #### Codification
 
-Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amended section 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>l</i> of this title.
+Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amendedsection 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
 

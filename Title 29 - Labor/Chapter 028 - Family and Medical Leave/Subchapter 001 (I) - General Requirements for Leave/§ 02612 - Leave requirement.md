@@ -64,7 +64,7 @@ Except as provided in subsection (d) of this section, leave granted under subsec
 
 &emsp;&emsp;(A) shall make a reasonable effort to schedule the treatment so as not to disrupt unduly the operations of the employer, subject to the approval of the health care provider of the employee or the health care provider of the son, daughter, spouse, or parent of the employee, as appropriate; and
 
-&emsp;&emsp;(B) shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intention to take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
+&emsp;&emsp;(B) shall provide the employer with not less than 30 days’ notice, before the date the leave is to begin, of the employee's intentionto take leave under such subparagraph, except that if the date of the treatment requires leave to begin in less than 30 days, the employee shall provide such notice as is practicable.
 
 #### (f) Spouses employed by same employer
 
@@ -75,8 +75,4 @@ In any case in which a husband and wife entitled to leave under subsection (a) o
 &emsp;(2) to care for a sick parent under subparagraph (C) of such subsection.
 
 (Pub. L. 103–3, title I, §102, Feb. 5, 1993, 107 Stat. 9.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2611, 2613, 2614, 2618 of this title; title 2 section 1312; title 3 section 412.
 

@@ -70,7 +70,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 &emsp;(B) ground floor units in other buildings consisting of 4 or more units.
 
-(8) Nothing in this subchapter shall be construed to invalidate or limit any law of a State or political subdivision of a State, or other jurisdiction in which this subchapter shall be effective, that requires dwellings to be designed and constructed in a manner that affords handicapped persons greater access than is required by this subchapter.
+(8) Nothing in this subchapter shall be construed to invalidate or limit any law of a Stateor political subdivision of a State, or other jurisdiction in which this subchapter shall be effective, that requires dwellings to be designed and constructed in a manner that affords handicapped persons greater access than is required by this subchapter.
 
 (9) Nothing in this subsection requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.
 
@@ -93,10 +93,6 @@ Subsec. (f)(3)(A). Pub. L. 100–430, §15, which directed the substitution of �
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3602, 3603, 3617 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -34,7 +34,7 @@ Opportunity to withhold information.—Before making any information concerning 
 
 &emsp;(3)
 
-Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide suchwritten notification to each individual who becomes an airman after such date of enactment.
+Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
 
 (d)
 
@@ -102,7 +102,7 @@ FAA records.—From the Administrator of the Federal Aviation Administration, re
 
 Air carrier and other records.—From any air carrier or other person (except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces) that has employed the individual as a pilot of a civil or public aircraft at any time during the 5-year period preceding the date of the employment application of the individual, or from the trustee in bankruptcy for such air carrier or person—
 
-&emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by an air carrier\(other than records relating to flight time, duty time, or rest time) under regulations set forth in—
+&emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by an air carrier (other than records relating to flight time, duty time, or rest time) under regulations set forth in—
 
 &emsp;&emsp;&emsp;&emsp;(I) section 121.683 of title 14, Code of Federal Regulations;
 
@@ -184,7 +184,7 @@ Right of pilot to review certain records.—Notwithstanding any other provision 
 
 &emsp;(11)
 
-Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of therecords, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;(12)
 
@@ -380,6 +380,32 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Improved Pilot Licenses
+
+Pub. L. 108–458, title IV, §4022, Dec. 17, 2004, 118 Stat. 3723, provided that:
+
+“(a)
+
+In General.—Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Administrator of the Federal Aviation Administration shall begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
+
+“(b)
+
+Requirements.—Improved pilots licenses issued under subsection (a) shall—
+
+&emsp;“(1) be resistant to tampering, alteration, and counterfeiting;
+
+&emsp;“(2) include a photograph of the individual to whom the license is issued; and
+
+&emsp;“(3) be capable of accommodating a digital photograph, a biometric identifier, or any other unique identifier that the Administrator considers necessary.
+
+“(c)
+
+Tampering.—To the extent practical, the Administrator shall develop methods to determine or reveal whether any component or security feature of a license issued under subsection (a) has been tampered, altered, or counterfeited.
+
+“(d)
+
+Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent feasible in order to minimize the burdens on pilots.”
+
 #### Crediting of Law Enforcement Flight Time
 
 Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
@@ -387,8 +413,4 @@ Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In dete
 &emsp;“(1) identifiable by category and class; and
 
 &emsp;“(2) used in law enforcement activities.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1133, 44701, 44709, 44710, 44711, 44724, 45302, 46310, 47531 of this title.
 

@@ -1,9 +1,5 @@
 ### SUBCHAPTER VIII—ADMINISTRATIVE PROVISIONS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 3722, 3732, 3796ee–7, 13757 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “officers,”.</i>
 
 

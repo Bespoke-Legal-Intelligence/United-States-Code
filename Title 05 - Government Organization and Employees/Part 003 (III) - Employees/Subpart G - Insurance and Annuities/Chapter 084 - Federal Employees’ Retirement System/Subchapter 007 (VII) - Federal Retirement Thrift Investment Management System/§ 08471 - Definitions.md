@@ -18,7 +18,3 @@ For the purposes of this subchapter—
 
 Subchapter VII effective June 6, 1986, see section 702(b)(1) of Pub. L. 99–335, set out as a note under section 8401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8438 of this title; title 39 section 1005.
-

@@ -12,7 +12,7 @@ Section was classified to section 210a of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–179 substituted “United States Secret Service Uniformed Division” for “Executive Protective Service” wherever appearing.
+1977—Pub. L. 95–179 substituted “United States Secret Service Uniformed Division” for “Executive Protective Service” wherever appearing.
 
 #### Transfer of Functions
 

@@ -36,7 +36,7 @@ Stage 3 aircraft required.—An exemption may not be granted under this section 
 
 &emsp;(2)
 
-General exemptions.—The exemptions granted under subsections (a) and (b) may notbe for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.
+General exemptions.—The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.
 
 &emsp;(3)
 
@@ -92,7 +92,7 @@ Deadline for comments.—All comments with respect to any request for an exempti
 
 “(3)
 
-Deadline for final decision.—Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).”
+Deadline for final decision.—Not later than the 90th day following the date of the enactment of thisAct, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).”
 
 Subsec. (f). Pub. L. 108–176, §426(a), added subsec. (f).
 
@@ -123,8 +123,4 @@ Landings and Takeoffs.—The Administrator of the Federal Aviation Administratio
 “(c)
 
 Report.—If the President suspends the security plan developed under subsection (a), the President shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the reasons for the suspension not later than 30 days following the first day of the suspension. The report may be submitted in classified form.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41714, 41715, 49104 of this title.
 

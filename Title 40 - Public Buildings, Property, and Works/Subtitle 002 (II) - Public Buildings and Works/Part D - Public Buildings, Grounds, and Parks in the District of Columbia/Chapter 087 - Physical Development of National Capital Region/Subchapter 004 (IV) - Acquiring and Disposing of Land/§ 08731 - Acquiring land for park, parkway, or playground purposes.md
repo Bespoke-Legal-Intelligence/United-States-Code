@@ -82,7 +82,3 @@ In subsection (c)(2), the words “in Maryland or Virginia” are substituted fo
 
 Section 1 of the Act of December 23, 1963, referred to in subsec. (b)(2), is section 1 of Pub. L. 88–241, Dec. 23, 1963, 77 Stat. 478, which enacted general and permanent laws relating to judiciary and judicial procedure in the District of Columbia, and which is not classified to the Code.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8737 of this title.
-

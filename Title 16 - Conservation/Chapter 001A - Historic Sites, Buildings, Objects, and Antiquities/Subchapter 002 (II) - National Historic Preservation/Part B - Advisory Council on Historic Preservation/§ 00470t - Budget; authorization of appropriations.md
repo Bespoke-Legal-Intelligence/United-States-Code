@@ -14,11 +14,11 @@ Whenever the Council submits any budget estimate or request to the President or 
 
 2000—Subsec. (a). Pub. L. 106–208 substituted “2005” for “2000”.
 
-1996—Subsec. (a). Pub. L. 104–333 amended last sentence generally. Prior to amendment, last sentenceread as follows: “There are authorized to be appropriated for purposes of this part not to exceed $5,000,000 for each of the fiscal years 1993 through 1996.”
+1996—Subsec. (a). Pub. L. 104–333 amended last sentence generally. Prior to amendment, last sentence read as follows: “There are authorized to be appropriated for purposes of this part not to exceed $5,000,000 for each of the fiscal years 1993 through 1996.”
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-1992—Subsec. (a). Pub. L. 102–575 substituted provision authorizing appropriations for purposes of this part of not to exceed $5,000,000 for each of fiscal years 1993 through 1996 for provision authorizing appropriations of not to exceed $2,500,000 in each fiscal year 1990 through 1994.
+1992—Subsec. (a). Pub. L. 102–575 substituted provision authorizing appropriations for purposes of this part of not to exceed $5,000,000 for each of fiscal years1993 through 1996 for provision authorizing appropriations of not to exceed $2,500,000 in each fiscal year 1990 through 1994.
 
 1989—Subsec. (a). Pub. L. 101–70 substituted provision authorizing appropriations of not to exceed $2,500,000 in each fiscal year 1990 through 1994 for provision authorizing appropriations, to carry out provisions of this part, of not more than $2,500,000 for each of the fiscal years 1985 through 1989.
 
@@ -39,8 +39,4 @@ Committee on Natural Resources of House of Representatives treated as referring 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 3303.
 

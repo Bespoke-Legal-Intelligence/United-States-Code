@@ -8,7 +8,3 @@ Upon recommendation of the Secretary of Agriculture, the Secretary of the Interi
 
 “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 678a of this title.
-

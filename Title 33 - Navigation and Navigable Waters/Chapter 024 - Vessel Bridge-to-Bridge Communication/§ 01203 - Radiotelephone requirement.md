@@ -40,7 +40,3 @@ Pub. L. 101–380, title IV, §4118, Aug. 18, 1990, 104 Stat. 523, provided that
 
 &emsp;“(2) engage in radio communications on designated frequencies with the Coast Guard, and such other vessels and stations as may be specified by the Secretary.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 46 section 14305.
-

@@ -18,13 +18,9 @@ With respect to any sales transaction, any discount from the regular price offer
 
 #### Termination Date of 1976 Amendment
 
-Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, §1501, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 97–25, title II, §201, July 27, 1981, 95 Stat. 44, provided that: “The amendments made by paragraph (1) \[amending this section\] shall cease to be effective on February 27, 1984.”
+Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, §1501, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 97–25, title II, §201, July 27, 1981, 95 Stat. 44, provided that: “The amendments made by paragraph (1)\[amending this section\] shall cease to be effective on February 27, 1984.”
 
 #### Nullification of Board Rules and Regulations Under Subsection (b) of This Section in Effect on July 26, 1981
 
 Section 103 of Pub. L. 97–25 provided that: “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act \[subsec. (b) of this section\], as such section was in effect on the day before the date of enactment of this Act \[July 27, 1981\], is null and void.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1607, 1666j of this title.
 

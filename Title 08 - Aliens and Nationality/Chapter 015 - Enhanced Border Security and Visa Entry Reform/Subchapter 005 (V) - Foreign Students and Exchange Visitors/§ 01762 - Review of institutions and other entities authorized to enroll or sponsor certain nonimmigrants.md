@@ -32,7 +32,3 @@ Material failure of an institution or other entity to comply with the recordkeep
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 7410.
-

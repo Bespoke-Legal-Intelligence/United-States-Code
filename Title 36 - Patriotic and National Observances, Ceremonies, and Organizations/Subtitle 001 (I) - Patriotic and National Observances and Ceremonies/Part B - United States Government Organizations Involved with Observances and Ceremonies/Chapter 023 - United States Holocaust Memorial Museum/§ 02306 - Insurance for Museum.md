@@ -8,7 +8,3 @@ The Museum shall maintain insurance on the memorial museum to cover such risks, 
 
 A prior section 2306, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1279, related to audits of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2301 of this title.
-

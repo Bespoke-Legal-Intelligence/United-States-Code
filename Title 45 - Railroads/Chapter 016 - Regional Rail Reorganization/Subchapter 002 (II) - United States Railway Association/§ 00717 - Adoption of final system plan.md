@@ -50,7 +50,3 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 See section 1341 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 702, 716, 719, 721 of this title.
-

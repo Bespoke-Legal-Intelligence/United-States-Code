@@ -29,10 +29,6 @@ Pub. L. 107–56, title II, §§212(a)(2), (b)(2), 224, Oct. 26, 2001, 115 Stat.
 
 Pub. L. 100–618, §2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and redesignated former item 2710 as 2711.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2511, 3103a of this title; title 47 sections 551, 1008.
-
 
 ---
 

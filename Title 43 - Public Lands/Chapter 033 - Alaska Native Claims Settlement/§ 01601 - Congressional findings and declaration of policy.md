@@ -24,6 +24,10 @@ Section 7434 of title 10, referred to in subsec. (e), was repealed by Pub. L. 10
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
+#### Short Title of 2004 Amendment
+
+Pub. L. 108–452, §1(a), Dec. 10, 2004, 118 Stat. 3575, provided that: “This Act \[amending sections 1611, 1613, 1617, 1621, 1629g, and 1635 of this title, enacting provisions set out as notes under sections 852, 1602, 1611, 1617, and 1635 of this title, and amending provisions set out as notes under section 852 of this title and preceding section 21 of Title 48, Territories and Insular Possessions\] may be cited as the ‘Alaska Land Transfer Acceleration Act’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–283, §1, Oct. 6, 2000, 114 Stat. 867, provided that: “This Act \[enacting section 1629h of this title and provisions set out as a note under section 1629h of this title\] may be cited as the ‘Kake Tribal Corporation Land Transfer Act’.”
@@ -66,7 +70,7 @@ Pub. L. 100–241, §2, Feb. 3, 1988, 101 Stat. 1788, provided that: “The Cong
 
 &emsp;“(4) Natives have differing opinions as to whether the Native Corporation, as originally structured by the Alaska Native Claims Settlement Act, is well adapted to the reality of life in Native villages and to the continuation of traditional Native cultural values;
 
-&emsp;“(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each Native Corporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
+&emsp;“(5) to ensure the continued success of the settlement and to guarantee Natives continued participation in decisions affecting their rights and property, the Alaska Native Claims Settlement Act must be amended to enable the shareholders of each NativeCorporation to structure the further implementation of the settlement in light of their particular circumstances and needs;
 
 &emsp;“(6) among other things, the shareholders of each Native Corporation must be permitted to decide—
 

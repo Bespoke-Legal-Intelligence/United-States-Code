@@ -14,7 +14,3 @@ There is authorized to be appropriated for the purposes of sections 309 and 309a
 
 1961—Pub. L. 87–273 increased appropriation to $7,500,000 and amount available for administrative purposes to $1,000,000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 13e of this title.
-

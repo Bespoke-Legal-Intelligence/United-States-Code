@@ -36,7 +36,7 @@ Each eligible applicant receiving a grant under this section shall use the grant
 
 #### (e) Service requirements
 
-The Secretary shall establish such requirements as the Secretary finds necessary to ensure that recipients of scholarships under this section who complete teacher education programs subsequently teach in a high-need local educational agency, for a period of time equivalent to the period for which the recipients receive scholarship assistance, or repay the amount of the scholarship. The Secretary shall use any such repayments to carry out additional activities under this section.
+The Secretary shall establish such requirements as the Secretary finds necessary to ensure that recipients of scholarships under this section who complete teacher education programs subsequently teach in a high-need localeducational agency, for a period of time equivalent to the period for which the recipients receive scholarship assistance, or repay the amount of the scholarship. The Secretary shall use any such repayments to carry out additional activities under this section.
 
 (Pub. L. 89–329, title II, §204, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1627; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080.)
 
@@ -51,8 +51,4 @@ A prior section 1024, Pub. L. 89–329, title II, §204, Nov. 8, 1965, 79 Stat. 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1022, 1023, 1025, 1030 of this title.
 

@@ -14,7 +14,3 @@ From appropriations authorized under section 15066(a)(1) of this title and reser
 
 (Pub. L. 106–402, title I, §151, Oct. 30, 2000, 114 Stat. 1719.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 15062, 15063, 15064 of this title.
-

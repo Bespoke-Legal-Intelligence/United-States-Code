@@ -24,7 +24,3 @@ Section 20 of act June 25, 1948, provided that the amendment made by that act is
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 686 of this title.
-

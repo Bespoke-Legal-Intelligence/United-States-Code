@@ -8,7 +8,3 @@ The Secretary of Commerce may issue regulations which may be made applicable to 
 
 1984—Pub. L. 98–620 amended section generally. Prior to amendment, section read as follows: “The Office of Federal Procurement Policy, after receiving recommendations of the Office of Science and Technology Policy, may issue regulations which may be made applicable to Federal agencies implementing the provisions of sections 202 through 204 of this chapter and the Office of Federal Procurement Policy shall establish standard funding agreement provisions required under this chapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 203 of this title.
-

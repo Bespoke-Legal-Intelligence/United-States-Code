@@ -18,11 +18,7 @@ The supplemental program may be offered to eligible plans on such terms and cond
 
 #### (e) Arrangements by corporation with private insurers for implementation of program; election of coverage by participating plans with private insurers
 
-The corporation may enter into arrangements with private insurers to carry out in whole or in part the program authorized by this section and may require plans which elect coverage under the program to elect coverage by those private insurers.
+The corporation may enter into arrangements with private insurers to carry out in whole or inpart the program authorized by this section and may require plans which elect coverage under the program to elect coverage by those private insurers.
 
 (Pub. L. 93–406, title IV, §4222, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1240.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1082, 1305, 1306, 1403 of this title; title 26 section 412.
 

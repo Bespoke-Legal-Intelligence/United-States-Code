@@ -16,7 +16,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (b) Investment of Trust
 
-It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated to the Trust. Except as otherwise expressly provided in instruments concerning a gift, bequest, devise, or other donation andagreed to by the Corporation, such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the market price. Any obligation acquired by the Trust may be sold by the Secretary at the market price.
+It shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated to the Trust. Except as otherwise expressly provided in instruments concerning a gift, bequest, devise, or other donation and agreed to by the Corporation, such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the market price. Any obligation acquired by the Trust may be sold by the Secretary at the market price.
 
 #### (c) Expenditures from Trust
 
@@ -49,8 +49,4 @@ A prior section 145 of Pub. L. 101–610 was classified to section 12575 of this
 #### Effective Date
 
 Division effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 1701 of Title 16, Conservation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12571, 12581, 12605 of this title.
 

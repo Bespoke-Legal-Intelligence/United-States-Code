@@ -4,7 +4,3 @@ The Secretary of Transportation shall within one year after August 18, 1990, ins
 
 (Pub. L. 101–380, title V, §5003, Aug. 18, 1990, 104 Stat. 553.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2736 of this title.
-

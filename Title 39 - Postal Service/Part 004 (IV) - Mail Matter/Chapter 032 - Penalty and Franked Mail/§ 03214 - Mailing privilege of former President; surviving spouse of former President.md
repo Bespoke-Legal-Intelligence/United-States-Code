@@ -28,7 +28,3 @@ Section 6(c) of Pub. L. 103–123 provided that: “The amendments made by subse
 
 Amendment by Pub. L. 93–191 effective Dec. 27, 1972, see section 14 of Pub. L. 93–191, set out as a note under section 3210 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3201, 3216 of this title.
-

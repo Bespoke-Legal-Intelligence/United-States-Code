@@ -4,7 +4,3 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 (Pub. L. 107–238, §5, Oct. 11, 2002, 116 Stat. 1487.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 430h–12 of this title.
-

@@ -14,7 +14,3 @@ This section shall not apply to districts which operate and maintain project fac
 
 (Pub. L. 97–293, title II, §208, Oct. 12, 1982, 96 Stat. 1267.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390ee of this title.
-

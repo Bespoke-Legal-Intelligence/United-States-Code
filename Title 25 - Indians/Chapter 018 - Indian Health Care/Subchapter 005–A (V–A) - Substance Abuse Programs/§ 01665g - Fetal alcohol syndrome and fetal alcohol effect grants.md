@@ -2,7 +2,7 @@
 
 #### (a) Award; use; review criteria
 
-(1) The Secretary may make grants to Indian tribes and tribal organizations to establish fetalalcohol syndrome and fetal alcohol effect programs as provided in this section for the purposes of meeting the health status objectives specified in section 1602(b) of this title.
+(1) The Secretary may make grants to Indian tribes and tribal organizations to establish fetal alcohol syndrome and fetal alcohol effect programs as provided in this section for the purposes of meeting the health status objectives specified in section 1602(b) of this title.
 
 (2) Grants made pursuant to this section shall be used to—
 
@@ -34,7 +34,7 @@ The Secretary, acting through the Service, shall—
 
 #### (c) Task force
 
-The Secretary shall establish a task force to be known as the FAS/FAE Task Force to advise the Secretary in carrying out subsection (b) of this section. Such task force shall be composed of representatives from the National Institute on Drug Abuse, the National Institute on Alcohol and Alcoholism, the Office of Substance Abuse Prevention, the National Institute of Mental Health, the Service, the Office of Minority Health of the Department of Health and Human Services, the Administration for Native Americans, the Bureau of Indian Affairs, Indian tribes, tribal organizations, urban Indian communities, and Indian FAS/FAE experts.
+The Secretary shall establish a task force to be known as the FAS/FAE Task Force to advisethe Secretary in carrying out subsection (b) of this section. Such task force shall be composed of representatives from the National Institute on Drug Abuse, the National Institute on Alcohol and Alcoholism, the Office of Substance Abuse Prevention, the National Institute of Mental Health, the Service, the Office of Minority Health of the Department of Health and Human Services, the Administration for Native Americans, the Bureau of Indian Affairs, Indian tribes, tribal organizations, urban Indian communities, and Indian FAS/FAE experts.
 
 #### (d) Cooperative projects; research projects
 
@@ -65,8 +65,4 @@ The Secretary, acting through the Substance Abuse and Mental Health Services Adm
 (2) Ten percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian organizations funded under subchapter IV of this chapter.
 
 (Pub. L. 94–437, title VII, §708, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4578.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1665m, 1671 of this title.
 

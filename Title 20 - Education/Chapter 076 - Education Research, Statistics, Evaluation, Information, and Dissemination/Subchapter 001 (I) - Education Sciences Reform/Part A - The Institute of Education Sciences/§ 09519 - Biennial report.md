@@ -12,7 +12,3 @@ The Director shall, on a biennial basis, transmit to the President, the Board, a
 
 (Pub. L. 107–279, title I, §119, Nov. 5, 2002, 116 Stat. 1953.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9533, 9543, 9562, 9563 of this title.
-

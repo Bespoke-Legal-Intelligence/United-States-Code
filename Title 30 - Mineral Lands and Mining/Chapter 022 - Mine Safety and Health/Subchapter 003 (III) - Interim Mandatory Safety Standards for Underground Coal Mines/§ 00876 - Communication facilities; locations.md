@@ -4,7 +4,3 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 (Pub. L. 91–173, title III, §316, Dec. 30, 1969, 83 Stat. 787.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 861 of this title.
-

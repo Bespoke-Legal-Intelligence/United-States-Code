@@ -60,7 +60,3 @@ Manner, scope, etc., of payments by Secretary in lieu of payments of monthly con
 
 For provisions of section 408(b) of Pub. L. 94–502 directing that “Department of Defense” be substituted for “Veterans’ Administration” in subsec. (b) of this section, effective Jan. 1, 1982, if new enrollments after Dec. 31, 1981, in the educational assistance program provided by this chapter are authorized after application of section 408(a) of Pub. L. 94–502, see section 408 of Pub. L. 94–502, set out as a note under section 3221 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3015, 3018A, 3018B, 3018C, 3035, 3223, 3243 of this title.
-

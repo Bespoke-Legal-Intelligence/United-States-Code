@@ -16,7 +16,7 @@ For purposes of sections 2021b to 2021j of this title:
 
 #### (3) Commercial nuclear power reactor
 
-&emsp;The term “commercial nuclear power reactor” means any unit of a civilian light-water moderated utilization facility required to be licensed under section 2133 or 2134(b) of this title.
+&emsp;The term “commercial nuclear power reactor” means any unit of a civilian light-watermoderated utilization facility required to be licensed under section 2133 or 2134(b) of this title.
 
 #### (4) Compact
 
@@ -85,8 +85,4 @@ Section 101 of title I of Pub. L. 99–240 provided that: “This Title \[enacti
 Section 1 of Pub. L. 96–573, as added by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842, provided that: “This Act \[enacting sections 2021b to 2021j of this title\] may be cited as the ‘Low-Level Radioactive Waste Policy Act’.”
 
 A prior section 1 of Pub. L. 96–573 which provided that Pub. L. 96–573 \[enacting former sections 2021b to 2021d of this title\] could be cited as the “Low-Level Radioactive Waste Policy Act” was repealed by Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2021d, 2021e, 2021f, 2021g, 2023, 2297h of this title.
 

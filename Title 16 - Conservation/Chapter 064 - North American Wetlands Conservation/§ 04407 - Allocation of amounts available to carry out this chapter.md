@@ -34,7 +34,3 @@ Subsec. (b). Pub. L. 107–308, §7, substituted heading for former heading, sub
 
 1994—Subsec. (b). Pub. L. 103–375 inserted at end “In the case of a project carried out in Mexico, the non-Federal share of the United States contribution to the costs of the project may include cash contributions from non-United States sources that are used to pay costs of the project.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 669b, 3955, 4403, 4404, 4405, 4406 of this title.
-

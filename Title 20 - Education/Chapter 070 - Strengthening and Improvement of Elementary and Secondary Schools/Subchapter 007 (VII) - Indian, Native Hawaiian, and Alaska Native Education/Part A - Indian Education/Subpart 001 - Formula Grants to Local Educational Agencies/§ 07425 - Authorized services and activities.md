@@ -18,7 +18,7 @@ The services and activities referred to in subsection (a) of this section may in
 
 &emsp;(2) early childhood and family programs that emphasize school readiness;
 
-&emsp;(3) enrichment programs that focus on problem solving and cognitive skills development and directly support the attainment of challenging State academic content and student academic achievement standards;
+&emsp;(3) enrichment programs that focus on problem solving and cognitive skills developmentand directly support the attainment of challenging State academic content and student academic achievement standards;
 
 &emsp;(4) integrated educational services in combination with other programs that meet the needs of Indian children and their families;
 
@@ -52,13 +52,9 @@ Not more than 5 percent of the funds provided to a grantee under this subpart fo
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(5), is Pub.L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(5), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 7425, Pub. L. 89–10, title VII, §7115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3722, related to systemwide improvement grants, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6913 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7424 of this title.
 

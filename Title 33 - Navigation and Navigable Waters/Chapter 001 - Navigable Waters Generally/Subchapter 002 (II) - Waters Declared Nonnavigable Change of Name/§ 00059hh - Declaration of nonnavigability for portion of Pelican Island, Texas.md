@@ -46,7 +46,7 @@ The fair market value of the land to be conveyed pursuant to subsections (a) and
 
 #### (f) Survey and study
 
-The 605-acre parcel and the 564-acre parcel shall be surveyed and further legally described prior to conveyance. Not later than 60 days following October 28, 1993, if he deems it necessary, the Secretary of the Army shall complete a review of the applicability of section 1344 of this title to the said parcels.
+The 605-acre parcel and the 564-acre parcel shall be surveyed and further legally described prior to conveyance. Not later than 60 days following October 28, 1993, if he deems it necessary,the Secretary of the Army shall complete a review of the applicability of section 1344 of this title to the said parcels.
 
 (Pub. L. 103–126, title I, §108, Oct. 28, 1993, 107 Stat. 1320; Pub. L. 106–53, title V, §585, Aug. 17, 1999, 113 Stat. 377.)
 

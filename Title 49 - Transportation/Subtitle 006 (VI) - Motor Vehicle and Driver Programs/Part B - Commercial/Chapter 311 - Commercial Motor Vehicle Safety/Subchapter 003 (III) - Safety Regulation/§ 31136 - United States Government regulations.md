@@ -42,7 +42,7 @@ Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) Th
 
 &emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
 
-(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+(2) If a person was authorized to operate a commercial motor vehicle in a municipality orcommercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
 
 &emsp;(A) paragraph (1) of this subsection;
 
@@ -154,7 +154,7 @@ Exemptions.—
 
 &emsp;“(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies and is during the planting and harvesting seasons within such State, as determined by the State.
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by theSecretary under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies and is during the planting and harvesting seasons within such State, as determined by the State.
 
 &emsp;“(2)
 
@@ -178,7 +178,7 @@ Preemption.—Nothing contained in this section shall require the preemption of 
 
 “(c)
 
-Review by the Secretary.—The Secretary may conduct a rulemaking proceeding to determine whethergranting any exemption provided by subsection (a) (other than paragraph (2)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
+Review by the Secretary.—The Secretary may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (2)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
 
 “(d)
 
@@ -273,8 +273,4 @@ Review by Secretary.—Within 90 days after the completion of the pilot program,
 “(f)
 
 Definition.—In this section, the term ‘7 or 8 consecutive days’ has the meaning such term has under section 345 of this Act \[set out above\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 31132, 31141, 31142, 31146, 31315, 31502 of this title.
 

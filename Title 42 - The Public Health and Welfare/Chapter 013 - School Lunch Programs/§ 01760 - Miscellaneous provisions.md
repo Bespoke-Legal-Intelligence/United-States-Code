@@ -24,7 +24,7 @@ Child.—
 
 In general.—The term “child” includes an individual, regardless of age, who—
 
-&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulations prescribed by the Secretary, to have one or more disabilities; and
+&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulationsprescribed by the Secretary, to have one or more disabilities; and
 
 &emsp;&emsp;&emsp;(ii) is attending any institution, as defined in section 1766(a) of this title, or any nonresidential public or nonprofit private school of high school grade or under, for the purpose of participating in a school program established for individuals with disabilities.
 
@@ -34,19 +34,31 @@ Relationship to child and adult care food program.—No institution that is not 
 
 &emsp;(2) “Commodity only schools” means schools that do not participate in the school lunch program under this chapter, but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
 
-&emsp;(3) “School” means (A) any public or nonprofit private school of high school grade or under, and (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor). For purposes of this paragraph, the term “nonprofit”, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
-
-&emsp;(4) “School year” means the annual period from July 1 through June 30.
-
-&emsp;(5) “Secretary” means the Secretary of Agriculture.
-
-&emsp;(6) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
-
-&emsp;(7) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
-
-&emsp;(8)
+&emsp;(3)
 
 Disability.—The term “disability” has the meaning given the term in the Rehabilitation Act of 1973 for purposes of title II of that Act (29 U.S.C 760 et seq.).
+
+&emsp;(4)
+
+Local educational agency.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “local educational agency” has the meaning given the term in section 7801 of title 20.
+
+&emsp;&emsp;(B)
+
+Inclusion.—The term “local educational agency” includes, in the case of a private nonprofit school, an appropriate entity determined by the Secretary.
+
+&emsp;(5) “School” means (A) any public or nonprofit private school of high school grade or under, and (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor). For purposes of this paragraph, the term “nonprofit”, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
+
+&emsp;(6) “School year” means the annual period from July 1 through June 30.
+
+&emsp;(7) “Secretary” means the Secretary of Agriculture.
+
+&emsp;(8) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
+
+&emsp;(9) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 
 #### (e) Value of assistance as income or resources under Federal or State laws
 
@@ -70,11 +82,11 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (j) Reimbursement for final claims
 
-(1) Except as provided in paragraph (2), the Secretary may provide reimbursements for final claims for service of meals, supplements, and milk submitted to State agencies by eligibleschools, summer camps, family day care homes, institutions, and service institutions only if—
+(1) Except as provided in paragraph (2), the Secretary may provide reimbursements for final claims for service of meals, supplements, and milk submitted to State agencies by eligible schools, summer camps, family day care homes, institutions, and service institutions only if—
 
 &emsp;(A) the claims have been submitted to the State agencies not later than 60 days after the last day of the month for which the reimbursement is claimed; and
 
-&emsp;(B) the final program operations report for the month is submitted to the Secretary not later than 90 days after the last day of the month.
+&emsp;(B) the final program operations report for the month is submitted to the Secretary notlater than 90 days after the last day of the month.
 
 (2) The Secretary may waive the requirements of paragraph (1) at the discretion of the Secretary.
 
@@ -154,7 +166,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;&emsp;(vi) the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
 
-(5) The Secretary shall periodically review the performance of any State or eligible service provider for which the Secretary has granted a waiver under this subsection and shall terminate the waiver if the performance of the State or service provider has been inadequate to justify a continuation of the waiver. The Secretary shall terminate the waiver if, after periodic review, the Secretary determines that the waiverhas resulted in an increase in the overall cost of the program to the Federal Government and the increase has not been paid for in accordance with paragraph (1)(A)(iii).
+(5) The Secretary shall periodically review the performance of any State or eligible service provider for which the Secretary has granted a waiver under this subsection and shall terminate the waiver if the performance of the State or service provider has been inadequate to justify a continuation of the waiver. The Secretary shall terminate the waiver if, after periodic review, the Secretary determines that the waiver has resulted in an increase in the overall cost of the program to the Federal Government and the increase has not been paid for in accordance with paragraph (1)(A)(iii).
 
 (6) The Secretary shall annually submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report—
 
@@ -174,29 +186,23 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(C) a family or group day care home sponsoring organization described in section 1766 of this title.
 
-#### (m) Food and nutrition projects
+#### (m) Procurement training
 
-(1) The Secretary, acting through the Administrator of the Food and Nutrition Service or through the Extension Service, shall award on an annual basis grants to a private nonprofit organization or educational institution in each of 3 States to create, operate, and demonstrate food and nutrition projects that are fully integrated with elementary school curricula.
+#### (1) In general
 
-(2) Each organization or institution referred to in paragraph (1) shall be selected by the Secretary and shall—
+&emsp;Subject to the availability of funds made available under paragraph (4), the Secretary shall provide technical assistance and training to States, State agencies, schools, and school food authorities in the procurement of goods and services for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)).
 
-&emsp;(A) assist local schools and educators in offering food and nutrition education that integrates math, science, and verbal skills in the elementary grades;
+#### (2) Buy American training
 
-&emsp;(B) assist local schools and educators in teaching agricultural practices through practical applications, like gardening;
+&emsp;Activities carried out under paragraph (1) shall include technical assistance and training to ensure compliance with subsection (n) of this section.
 
-&emsp;(C) create community service learning opportunities or educational programs;
+#### (3) Procuring safe foods
 
-&emsp;(D) be experienced in assisting in the creation of curriculum-based models in elementary schools;
+&emsp;Activities carried out under paragraph (1) shall include technical assistance and training on procuring safe foods, including the use of model specifications for procuring safe foods.
 
-&emsp;(E) be sponsored by an organization or institution, or be an organization or institution, that provides information, or conducts other educational efforts, concerning the success and productivity of American agriculture and the importance of the free enterprise system to the quality of life in the United States; and
+#### (4) Authorization of appropriations
 
-&emsp;(F) be able to provide model curricula, examples, advice, and guidance to schools, community groups, States, and local organizations regarding means of carrying out similar projects.
-
-(3) Subject to the availability of appropriations to carry out this subsection, the Secretary shall make grants to each of the 3 private organizations or institutions selected under this subsection in amounts of not less than $100,000, nor more than $200,000, for each of fiscal years 1995 through 2003.
-
-(4) The Secretary shall establish fair and reasonable auditing procedures regarding the expenditure of funds under this subsection.
-
-(5) There are authorized to be appropriated to carry out this subsection such sums as are necessary for each of fiscal years 1995 through 2003.
+&emsp;There is authorized to be appropriated to carry out this subsection $1,000,000 for each of fiscal years 2005 through 2009, to remain available until expended.
 
 #### (n) Buy American
 
@@ -234,53 +240,13 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
 
-#### (p) Grant for demonstration project
-
-#### (1) Use of funds for WIC demonstration project
-
-#### (A) In general
-
-&emsp;&emsp;The Secretary shall make grants of funds under this subsection to a State—
-
-&emsp;&emsp;&emsp;(i) for purposes that include carrying out the demonstration project under section 17(r) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(r)); and
-
-&emsp;&emsp;&emsp;(ii) for the purpose described in clause (i), in amounts not to exceed $10,000 for each fiscal year for each site in the State.
-
-#### (B) Apportionment
-
-&emsp;&emsp;A State that receives a grant under subparagraph (A) shall apportion the funds received to ensure that each site in the State receives not more than $10,000 for any fiscal year.
-
-#### (2) Evaluations of demonstration project
-
-&emsp;The Secretary shall conduct an evaluation of the demonstration project and grant program for identification and enrollment efforts funded under this subsection that include a determination of—
-
-&emsp;&emsp;(A) the number of children enrolled as a result of the enactment of this subsection;
-
-&emsp;&emsp;(B) the income levels of the families of enrolled children;
-
-&emsp;&emsp;(C) the cost of identification and enrollment assistance services provided under the project or grant program;
-
-&emsp;&emsp;(D) the effect on the caseloads of local agencies that carry out the special supplemental nutrition program for woman, infants, and children established under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786); and
-
-&emsp;&emsp;(E) such other factors as the Secretary determines to be appropriate.
-
-#### (3) Funding
-
-#### (A) In general
-
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary to carry out this subsection $1,000,000 for the period of fiscal years 2001 through 2004, to remain available until expended but not later than September 30, 2004.
-
-#### (B) Receipt and acceptance
-
-&emsp;&emsp;The Secretary shall be entitled to receive the funds and shall accept the funds provided under subparagraph (A), without further appropriation.
-
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780.)
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(8), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i), (<i>l</i>)(1)(A), (4)(G), and (<i>o</i>), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i), (<i>l</i>)(1)(A), (4)(G), (m)(1), and (<i>o</i>), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
@@ -299,6 +265,14 @@ The Individuals with Disabilities Education Act, referred to in subsec. (<i>l</i
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2004—Subsec. (d)(3) to (9). Pub. L. 108–265, §108(b), redesignated par. (8) as (3), added par. (4), and redesignated former pars. (3) to (7) as (5) to (9), respectively.
+
+Subsec. (m). Pub. L. 108–265, §115, added subsec. (m).
+
+Pub. L. 108–265, §114, struck out subsec. (m), which related to grants for food and nutrition projects for each of fiscal years 1995 through 2003.
+
+Subsec. (p). Pub. L. 108–265, §203(i)(2), struck out subsec. (p), which authorized grants for carrying out the demonstration project under section 1786(r) of this title and directed the Secretary to conduct an evaluation of such project and grant program.
 
 2002—Subsec. (n)(4). Pub. L. 107–171 added par. (4).
 
@@ -420,7 +394,7 @@ Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by P
 
 1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
-Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose average yearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
+Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose averageyearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
 Pub. L. 99–661, §4205(a)(1), substituted “$2,000” for “$1,500”.
 
@@ -523,8 +497,4 @@ Amendment by act July 12, 1952, effective only with respect to funds appropriate
 #### Study of Cost Accounting Requirements
 
 Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1766, 1766a, 1786 of this title.
 

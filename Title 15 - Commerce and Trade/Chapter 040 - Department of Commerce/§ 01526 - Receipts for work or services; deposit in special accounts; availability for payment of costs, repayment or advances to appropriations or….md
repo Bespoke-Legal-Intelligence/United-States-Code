@@ -8,7 +8,3 @@ All payments for work or services performed or to be performed under this Act sh
 
 This Act, referred to in text, means Pub. L. 91–412, which enacted sections 1525 to 1527, amended section 1153, and repealed sections 189, 189a, 192, 192a, 1153a, and 1520 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1527a of this title.
-

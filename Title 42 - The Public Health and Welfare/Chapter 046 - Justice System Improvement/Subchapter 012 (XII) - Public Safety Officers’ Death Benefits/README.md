@@ -1,9 +1,5 @@
 ### SUBCHAPTER XII—PUBLIC SAFETY OFFICERS’ DEATH BENEFITS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 3793 of this title.
-
 
 ---
 

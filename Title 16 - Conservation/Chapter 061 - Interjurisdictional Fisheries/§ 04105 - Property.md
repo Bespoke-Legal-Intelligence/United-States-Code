@@ -6,7 +6,7 @@ All work, including the furnishing of labor and materials, needed to complete an
 
 #### (b) Title
 
-Title to all property, real and personal, acquired for the purposes of completing anyproject approved by the Secretary vests in the State.
+Title to all property, real and personal, acquired for the purposes of completing any project approved by the Secretary vests in the State.
 
 #### (c) Disposal
 

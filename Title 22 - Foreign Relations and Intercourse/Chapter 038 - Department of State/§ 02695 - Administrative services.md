@@ -32,7 +32,3 @@ Amendment by section 1335(<i>l</i>)(1) of Pub. L. 105–277 effective Oct. 1, 19
 
 Section 111(b) of Pub. L. 95–426 provided that: “The amendment made by this section \[enacting this section\] shall take effect on October 1, 1978.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3924 of this title.
-

@@ -2,11 +2,11 @@
 
 #### (a) Profits; damages and costs; attorney fees
 
-When a violation of any right of the registrant of a mark registered in the Patent and Trademark Office, a violation under section 1125(a) or (d) of this title, or a willful violation under section 1125(c) of this title, shall have been established in any civil action arising under this chapter, the plaintiff shall be entitled, subject to the provisions of sections 1111 and 1114 of this title, and subject to the principles of equity, to recover (1) defendant's profits, (2) any damages sustained by the plaintiff, and (3) the costs of the action. The court shall assess such profits and damages or cause the same to be assessed under its direction. In assessing profits the plaintiff shall be required to prove defendant's sales only; defendant must prove all elements of cost or deduction claimed. In assessing damages the court may enter judgment, according to the circumstances of the case, for any sum above the amount found as actual damages, not exceeding three times such amount. If the court shall find that the amount of the recovery based on profits is either inadequate or excessive the court may in its discretion enter judgment for such sum as the court shall find to be just, according to the circumstances of the case. Such sum in either of the above circumstances shall constitute compensation and not a penalty. The court in exceptional cases may award reasonable attorney fees to the prevailing party.
+When a violation of any right of the registrant of a mark registered in the Patent and Trademark Office, a violation under section 1125(a) or (d) of this title, or a willful violation under section 1125(c) of this title, shall have been established in any civil action arising under this chapter, the plaintiff shall be entitled, subject to the provisions of sections 1111 and 1114 of this title, and subject to the principles of equity, to recover (1) defendant's profits, (2) any damages sustained by the plaintiff, and (3) the costs of the action. The court shall assess such profits and damages or cause the same to be assessed under its direction. In assessing profits the plaintiff shall be required to prove defendant's sales only; defendant must prove all elements of cost or deduction claimed. In assessing damagesthe court may enter judgment, according to the circumstances of the case, for any sum above the amount found as actual damages, not exceeding three times such amount. If the court shall find that the amount of the recovery based on profits is either inadequate or excessive the court may in its discretion enter judgment for such sum as the court shall find to be just, according to the circumstances of the case. Such sum in either of the above circumstances shall constitute compensation and not a penalty. The court in exceptional cases may award reasonable attorney fees to the prevailing party.
 
 #### (b) Treble damages for use of counterfeit mark
 
-In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonableattorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.
+In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.
 
 #### (c) Statutory damages for use of counterfeit marks
 
@@ -20,13 +20,19 @@ In a case involving the use of a counterfeit mark (as defined in section 1116(d)
 
 In a case involving a violation of section 1125(d)(1) of this title, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits, an award of statutory damages in the amount of not less than $1,000 and not more than $100,000 per domain name, as the court considers just.
 
-(July 5, 1946, ch. 540, title VI, §35, 60 Stat. 439; Pub. L. 87–772, §19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, §1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, §13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908.)
+#### (e) Rebuttable presumption of willful violation
+
+In the case of a violation referred to in this section, it shall be a rebuttable presumption that the violation is willful for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the violation. Nothing in this subsection limits what may be considered a willful violation under this section.
+
+(July 5, 1946, ch. 540, title VI, §35, 60 Stat. 439; Pub. L. 87–772, §19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, §1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, §13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, §202, Dec. 23, 2004, 118 Stat. 3916.)
 
 #### Prior Provisions
 
 Acts Feb. 20, 1905, ch. 592, §§16, 19, 33 Stat. 728, 729; Mar. 19, 1920, ch. 104, §4, 41 Stat. 534.
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–482 added subsec. (e).
 
 2002—Subsec. (a). Pub. L. 107–273, §13207(a), substituted “a violation under section 1125(a) or (d) of this title,” for “a violation under section 1125(a), (c), or (d) of this title,”.
 
@@ -54,7 +60,7 @@ Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Off
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as anote under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act.”
 
 #### Effective Date of 1988 Amendment
 
@@ -70,11 +76,23 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
+#### Construction of 2004 Amendment
+
+Pub. L. 108–482, title II, §205, Dec. 23, 2004, 118 Stat. 3917, provided that:
+
+“(a)
+
+Free Speech and Press.—Nothing in this title \[see Short Title of 2004 Amendment note set out under section 1051 of this title\] shall enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names.
+
+“(b)
+
+Discretion of Courts in Determining Relief.—Nothing in this title shall restrict the discretion of a court in determining damages or other relief to be assessed against a person found liable for the infringement of intellectual property rights.
+
+“(c)
+
+Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this title shall be construed to limit the discretion of a court to determine the appropriate term of imprisonment for an offense under applicable law.”
+
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1122, 1125 of this title.
 

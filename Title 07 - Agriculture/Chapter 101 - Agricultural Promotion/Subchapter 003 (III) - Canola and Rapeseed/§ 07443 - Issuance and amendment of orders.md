@@ -24,7 +24,3 @@ The Secretary may amend an order issued under this section.
 
 (Pub. L. 104–127, title V, §534, Apr. 4, 1996, 110 Stat. 1050.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7442, 7445, 7446 of this title.
-

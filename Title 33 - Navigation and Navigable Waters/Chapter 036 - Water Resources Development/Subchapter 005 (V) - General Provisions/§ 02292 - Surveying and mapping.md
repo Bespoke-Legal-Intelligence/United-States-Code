@@ -1,6 +1,6 @@
 ### §2292. Surveying and mapping
 
-Any surveying or mapping services to be performed in connection with a water resources project which is or has been authorized to be undertaken by the Secretary shall be procured in accordance with title IX of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+Any surveying or mapping services to be performed in connection with a water resourcesproject which is or has been authorized to be undertaken by the Secretary shall be procured in accordance with title IX of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 (Pub. L. 99–662, title IX, §918, Nov. 17, 1986, 100 Stat. 4192.)
 

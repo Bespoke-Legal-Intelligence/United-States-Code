@@ -28,7 +28,3 @@ As used in this part:
 
 (Pub. L. 103–322, title III, §31131, Sept. 13, 1994, 108 Stat. 1887.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14214 of this title.
-

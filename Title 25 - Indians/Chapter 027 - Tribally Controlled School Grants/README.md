@@ -52,10 +52,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 2001, 2008, 2018, 2021, 3207 of this title; title 20 sections 6316, 7221c, 7423.
-
 
 ---
 

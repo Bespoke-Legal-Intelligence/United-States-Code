@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-The Secretary shall establish an advisory council for the Oregon Dunes National Recreation Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management and development of the recreation area. The members of the advisory council, who shall not exceed fifteen in number, shall serve for individual staggered terms of three years each and shall be appointed by the Secretary as follows:
+The Secretary shall establish an advisory council for the Oregon Dunes National Recreation Area, and shall consult on a periodic and regular basis with such council with respect tomatters relating to management and development of the recreation area. The members of the advisory council, who shall not exceed fifteen in number, shall serve for individual staggered terms of three years each and shall be appointed by the Secretary as follows:
 
 &emsp;(i) a member to represent each county in which a portion of the recreation area is located, each such appointee to be designated by the respective governing body of the county involved;
 

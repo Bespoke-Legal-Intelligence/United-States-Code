@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 105–85, §2908(2), added heading and text of subsec. (b) 
 
 > or to do both.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 670f of this title.
-

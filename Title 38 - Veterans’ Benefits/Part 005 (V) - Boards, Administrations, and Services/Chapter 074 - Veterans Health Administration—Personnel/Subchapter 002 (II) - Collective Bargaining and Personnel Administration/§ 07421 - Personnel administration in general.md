@@ -46,7 +46,3 @@ Existing Collective-Bargaining Arrangements.—Any determination under chapter 7
 
 Pending Cases.—With respect to cases pending on the date of the enactment of this Act \[May 7, 1991\], or those cases which are brought before the establishment of either an administrative grievance procedure pursuant to section 7463 of title 38, United States Code (as added by the amendments made by this title), or a negotiated grievance procedure established under a collective bargaining agreement, such cases shall proceed in the same manner as they would have if this Act \[see Tables for classification\] had not been enacted.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7422, 7423 of this title.
-

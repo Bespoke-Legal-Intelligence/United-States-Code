@@ -46,7 +46,3 @@ For the purpose of this section, the term “disposable pay” means that part o
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1078–3 of this title.
-

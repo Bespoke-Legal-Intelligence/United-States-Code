@@ -26,7 +26,3 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under section 18 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 18a, 18b, 18d of this title.
-

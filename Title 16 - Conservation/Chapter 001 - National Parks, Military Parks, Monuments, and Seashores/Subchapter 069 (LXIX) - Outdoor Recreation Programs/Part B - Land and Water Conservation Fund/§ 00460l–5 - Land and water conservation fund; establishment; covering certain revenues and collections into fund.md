@@ -72,7 +72,7 @@ Pub. L. 90–401, §1(b), July 15, 1968, 82 Stat. 354, relating to admission and
 
 Ex. Ord. No. 11200, Feb. 26, 1965, 30 F.R. 2645, provided:
 
-WHEREAS it is desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and it is desirable for all levels of government and private interests to take prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people; and
+WHEREAS it is desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and it is desirable for alllevels of government and private interests to take prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people; and
 
 WHEREAS these resources are to a considerable extent located on lands administered by the Federal Government through the National Park Service, the Bureau of Land Management, the Bureau of Sport Fisheries and Wildlife, the Bureau of Reclamation, the Forest Service, the Corps of Engineers, the Tennessee Valley Authority and the United States Section of the International Boundary and Water Commission (United States and Mexico); and
 
@@ -139,8 +139,4 @@ Sec. 7. <i>Review of contracts</i>. The officials described in Section 1(b) of t
 Sec. 8. <i>Regulations</i>. The Secretary of the Interior is authorized to issue such regulations as may be necessary to carry out his functions under this Order.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 460<i>l</i>–7, 460<i>l</i>–10, 460nnn–122, 1248, 2508 of this title.
 

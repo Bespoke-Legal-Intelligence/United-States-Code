@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(J) evaluate annually the effectiveness and outcomes of the counseling services and activities assisted under this section;
 
-&emsp;&emsp;(K) ensure a team approach to school counseling in the schools served by the local educational agency by working toward ratios recommended by the American School Health Association of one school counselor to 250 students, one school social worker to 800 students, and one school psychologist to 1,000 students; and
+&emsp;&emsp;(K) ensure a team approach to school counseling in the schools served by the local educational agency by working toward ratios recommended by the American School Health Association of one school counselorto 250 students, one school social worker to 800 students, and one school psychologist to 1,000 students; and
 
 &emsp;&emsp;(L) ensure that school counselors, school psychologists, other qualified psychologists, school social workers, or child and adolescent psychiatrists paid from funds made available under this section spend a majority of their time counseling students or in other activities directly related to the counseling process.
 
@@ -154,7 +154,7 @@ Not later than 2 years after assistance is made available to local educational a
 
 #### (1) Amount equals or exceeds $40,000,000
 
-&emsp;If the amount of funds made available by the Secretary for this subpart equals or exceeds$40,000,000, the Secretary shall award not less than $40,000,000 in grants to local educational agencies to enable the agencies to establish or expand counseling programs in elementary schools.
+&emsp;If the amount of funds made available by the Secretary for this subpart equals or exceeds $40,000,000, the Secretary shall award not less than $40,000,000 in grants to local educational agencies to enable the agencies to establish or expand counseling programs in elementary schools.
 
 #### (2) Amount less than $40,000,000
 

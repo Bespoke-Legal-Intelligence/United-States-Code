@@ -18,7 +18,3 @@ The Secretary may make a grant under section 300x–21 of this title only if the
 
 A prior section 1929 of act July 1, 1944, was classified to section 300y–8 of this title prior to repeal by Pub. L. 99–280.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300x–32 of this title.
-

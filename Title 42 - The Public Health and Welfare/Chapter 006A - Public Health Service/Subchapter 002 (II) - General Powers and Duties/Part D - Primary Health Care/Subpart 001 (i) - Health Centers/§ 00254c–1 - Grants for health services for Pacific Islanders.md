@@ -26,7 +26,7 @@ Grants or contracts made or entered into under subsection (a) of this section sh
 
 &emsp;&emsp;(F) providing innovative health professions training initiatives (including scholarships) targeted toward ensuring that residents of the Pacific Basin attend and graduate from recognized health professional programs;
 
-&emsp;(4) to improve the quality of health services, including laboratory, x-ray, and pharmacy,provided in ambulatory and inpatient settings through quality assurance, standard setting, and other culturally appropriate means;
+&emsp;(4) to improve the quality of health services, including laboratory, x-ray, and pharmacy, provided in ambulatory and inpatient settings through quality assurance, standard setting, and other culturally appropriate means;
 
 &emsp;(5) to improve facility and equipment repair and maintenance systems;
 

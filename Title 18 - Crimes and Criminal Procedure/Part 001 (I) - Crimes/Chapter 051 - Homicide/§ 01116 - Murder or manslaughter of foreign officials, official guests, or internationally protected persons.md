@@ -26,7 +26,7 @@
 
 &emsp;(7) “National of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(c) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) thevictim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
+(c) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
 
 (d) In the course of enforcement of this section and any other sections prohibiting a conspiracy or attempt to violate this section, the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
@@ -61,8 +61,4 @@ Subsec. (b). Pub. L. 94–467 designated existing provision, relating to definit
 Subsec. (c). Pub. L. 94–467 substituted provision permitting the United States to exercise jurisdiction over an offense if the victim is an internationally protected person and the alleged offender is present within the United States for provision which defined “foreign government”, “international organization”, “family”, and “official guest”.
 
 Subsec. (d). Pub. L. 94–467 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 112, 878, 970, 1117, 1201, 1956, 2332b, 2332f, 2333, 2339A, 2339C, 3592 of this title; title 8 section 1182; title 42 section 14135a.
 

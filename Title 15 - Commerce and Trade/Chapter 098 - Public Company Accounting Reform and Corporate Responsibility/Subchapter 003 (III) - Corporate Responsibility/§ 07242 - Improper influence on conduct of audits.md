@@ -22,7 +22,3 @@ The Commission shall—
 
 (Pub. L. 107–204, title III, §303, July 30, 2002, 116 Stat. 778.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 78<i>l</i> of this title.
-

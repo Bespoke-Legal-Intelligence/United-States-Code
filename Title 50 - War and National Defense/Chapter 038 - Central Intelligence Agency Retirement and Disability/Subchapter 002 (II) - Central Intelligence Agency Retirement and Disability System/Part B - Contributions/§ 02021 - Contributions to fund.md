@@ -22,7 +22,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (1) Accrual of interest
 
-&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
+&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2)of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
 
 #### (2) Use of amounts withheld after 35 years of service
 
@@ -74,7 +74,7 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
-1993—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of theDirector, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
+1993—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
 
 #### Effective Date of 1993 Amendment
 
@@ -92,7 +92,7 @@ Agency contributions.—Notwithstanding section 211(a)(2) of the Central Intelli
 
 “(2)
 
-Individual deductions, withholdings, and deposits.—Notwithstanding section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2000, the percentage deducted and withheld from the basic pay of an employee participating in the Central Intelligence Agency Retirement and Disability System shall be as follows:
+Individual deductions, withholdings, and deposits.—Notwithstanding section 211(a)(1) of the Central Intelligence Agency Retirement Act (50 U.S.C. 2021(a)(1)) beginning on January 1, 1999, through December 31, 2000, the percentage deducted and withheld from the basic pay of an employee participating in theCentral Intelligence Agency Retirement and Disability System shall be as follows:
 
 &nbsp;
 
@@ -100,8 +100,4 @@ Individual deductions, withholdings, and deposits.—Notwithstanding section 211
 | :--- | :---: | ---: |
 | &nbsp; | 7\.25 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.4 | January 1, 2000, to December 31, 2000.” |
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2031, 2091, 2111 of this title.
 

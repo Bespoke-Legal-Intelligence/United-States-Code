@@ -46,7 +46,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
-&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
+&emsp;&emsp;&emsp;(ii) good-faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or such country is otherwise taking steps to discharge its obligations under internationallaw with respect to such citizen, corporation, partnership, or association, or
 
 &emsp;&emsp;&emsp;(iii) a dispute involving such citizen, corporation, partnership, or association, over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum, and
 
@@ -201,10 +201,6 @@ Bolivia, Proc. No. 6456, July 2, 1992, 57 F.R. 30097.
 Colombia, Proc. No. 6455, July 2, 1992, 57 F.R. 30069.
 
 Peru, Proc. No. 6585, Aug. 11, 1993, 58 F.R. 43239.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2411, 3203 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,7 +38,7 @@
 
 #### (B) Reimbursement
 
-&emsp;&emsp;If any funds provided by a private entity are used to carry out a project under this subsection, the Secretary may reimburse the private entity over a period of time agreed to by the parties to the agreement through the payment of subsequent user fees. Such fees may include the payment of a disposal or tipping fee for placement of suitable dredged material at the facility.
+&emsp;&emsp;If any funds provided by a private entity are used to carry out a project under this subsection, the Secretary may reimburse theprivate entity over a period of time agreed to by the parties to the agreement through the payment of subsequent user fees. Such fees may include the payment of a disposal or tipping fee for placement of suitable dredged material at the facility.
 
 #### (C) Amount of fees
 

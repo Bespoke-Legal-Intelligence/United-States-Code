@@ -20,7 +20,3 @@ Section 112 of the Internal Revenue Code, referred to in subsec. (a), is classif
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6129 of this title.
-

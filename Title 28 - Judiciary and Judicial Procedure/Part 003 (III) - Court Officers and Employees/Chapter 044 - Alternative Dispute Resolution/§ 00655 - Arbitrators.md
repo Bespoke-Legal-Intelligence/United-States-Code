@@ -28,7 +28,3 @@ Immunity.—All individuals serving as arbitrators in an alternative dispute res
 
 1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitrators for provisions relating to trial de novo.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 651, 652 of this title.
-

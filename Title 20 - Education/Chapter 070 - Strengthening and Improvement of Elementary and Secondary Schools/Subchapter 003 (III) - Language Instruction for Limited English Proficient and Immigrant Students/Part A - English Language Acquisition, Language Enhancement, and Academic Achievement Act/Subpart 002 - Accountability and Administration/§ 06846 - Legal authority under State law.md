@@ -6,9 +6,5 @@ Nothing in this part shall be construed to negate or supersede State law, or the
 
 #### Prior Provisions
 
-A prior section 6846, Pub. L. 89–10, title III, §3136, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3648, related to national challenge grants for technology in education, prior to the general amendment of this subchapter by Pub. L. 107–110.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6825, 6826 of this title.
+A prior section 6846, Pub. L. 89–10, title III, §3136, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3648, related to national challenge grants for technology in education, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

@@ -2,11 +2,17 @@
 
 There are authorized to be appropriated to the Secretary of Transportation for the activities of the Office of the Associate Administrator for Commercial Space Transportation—
 
-&emsp;(1) $12,607,000 for fiscal year 2001; and
+&emsp;(1) $11,941,000 for fiscal year 2005;
 
-&emsp;(2) $16,478,000 for fiscal year 2002.
+&emsp;(2) $12,299,000 for fiscal year 2006;
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1343; Pub. L. 105–303, title I, §102(b), Oct. 28, 1998, 112 Stat. 2851; Pub. L. 106–405, §3(a), Nov. 1, 2000, 114 Stat. 1752.)
+&emsp;(3) $12,668,000 for fiscal year 2007;
+
+&emsp;(4) $13,048,000 for fiscal year 2008; and
+
+&emsp;(5) $13,440,000 for fiscal year 2009.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1343; Pub. L. 105–303, title I, §102(b), Oct. 28, 1998, 112 Stat. 2851; Pub. L. 106–405, §3(a), Nov. 1, 2000, 114 Stat. 1752; Pub. L. 108–360, title III, §301, Oct. 25, 2004, 118 Stat. 1680.)
 
 Historical and Revision Notes
 
@@ -29,6 +35,12 @@ In this section, the amendment by section 211 of the National Aeronautics and Sp
 As to the applicability of section 219 of the Act (Pub. L. 102–588, 106 Stat. 5118) to amounts authorized by this section for fiscal year 1993, see section 6(b) of the bill.
 
 #### Amendments
+
+2004—Pars. (1) to (5). Pub. L. 108–360 added pars. (1) to (5) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) $12,607,000 for fiscal year 2001; and
+
+“(2) $16,478,000 for fiscal year 2002.”
 
 2000—Pub. L. 106–405 amended section catchline and text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Secretary of Transportation for the activities of the Office of the Associate Administrator for Commercial Space Transportation—
 

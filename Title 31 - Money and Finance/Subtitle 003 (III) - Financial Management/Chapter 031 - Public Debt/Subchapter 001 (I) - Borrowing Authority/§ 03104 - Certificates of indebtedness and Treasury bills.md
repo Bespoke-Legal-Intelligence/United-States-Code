@@ -40,7 +40,3 @@ In subsection (b), the words “terms and” after “upon such” are omitted a
 
 In subsection (c), the words “account of” are omitted as surplus.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3108, 3121, 3129 of this title; title 10 sections 4357, 6975, 9356; title 12 section 221.
-

@@ -16,7 +16,7 @@
 
 #### (3) Amount of penalty for controlling person
 
-&emsp;The amount of the penalty which may be imposed on any person who, at the time of the violation, directly or indirectly controlled the person who committed such violation, shall be determined by the court in light of the facts and circumstances, but shall not exceed the greater of $1,000,000, or three times the amount of the profit gained or loss avoided as a result of such controlled person's violation. If such controlled person's violation was a violation by communication, the profit gained or loss avoided as a result of the violation shall, for purposes of this paragraph only, be deemed to be limited to the profit gained or loss avoided by the person or persons to whom the controlled person directed such communication.
+&emsp;The amount of the penalty which may be imposed on any person who, at the time of theviolation, directly or indirectly controlled the person who committed such violation, shall be determined by the court in light of the facts and circumstances, but shall not exceed the greater of $1,000,000, or three times the amount of the profit gained or loss avoided as a result of such controlled person's violation. If such controlled person's violation was a violation by communication, the profit gained or loss avoided as a result of the violation shall, for purposes of this paragraph only, be deemed to be limited to the profit gained or loss avoided by the person or persons to whom the controlled person directed such communication.
 
 #### (b) Limitations on liability
 
@@ -60,7 +60,7 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 #### (e) Authority to award bounties to informants
 
-Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid fromamounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
+Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
 
 #### (f) Definition
 
@@ -111,8 +111,4 @@ Section 2 of Pub. L. 100–704 provided that: “The Congress finds that—
 #### Commission Recommendations for Additional Civil Penalty Authority Required
 
 Section 3(c) of Pub. L. 100–704 provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act \[Nov. 19, 1988\], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 \[15 U.S.C. 78u–1\] (as added by this section).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 77t, 78j, 78u of this title.
 

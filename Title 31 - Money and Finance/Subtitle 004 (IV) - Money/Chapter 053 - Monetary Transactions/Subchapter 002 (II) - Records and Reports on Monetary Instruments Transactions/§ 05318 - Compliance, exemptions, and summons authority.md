@@ -156,7 +156,7 @@ In general.—In requiring reports under paragraph (1) of suspicious transaction
 
 &emsp;&emsp;(B)
 
-Duty of designee.—The officer or agency of the United States designated by the Secretary of the Treasury pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+Duty of designee.—The officer or agency of the United States designated by the Secretary of the Treasury pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement, supervisory agency, orUnited States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 &emsp;&emsp;(C)
 
@@ -232,15 +232,15 @@ Minimum standards for private banking accounts.—If a private banking account i
 
 &emsp;&emsp;(A) to ascertain the identity of the nominal and beneficial owners of, and the source of funds deposited into, such account as needed to guard against money laundering and report any suspicious transactions under subsection (g); and
 
-&emsp;&emsp;(B) to conduct enhanced scrutiny of any such account that is requested or maintained by, or on behalf of, a senior foreign political figure, or any immediate family member or close associate of a senior foreign political figure that is reasonably designed to detect and report transactions that may involve the proceeds of foreign corruption.
+&emsp;&emsp;(B) to conduct enhanced scrutiny of any such account that is requested or maintained by, or on behalf of, a senior foreign political figure, or any immediate family member or close associate of a senior foreign political figure, that is reasonably designed to detect and report transactions that may involve the proceeds of foreign corruption.
 
 &emsp;(4)
 
-Definition.—For purposes of this subsection, the following definitions shall apply:
+Definitions.—For purposes of this subsection, the following definitions shall apply:
 
 &emsp;&emsp;(A)
 
-Offshore banking license.—The term “offshore banking license” means a license to conduct banking activities which, as a condition of the license, prohibits the licensed entity from conducting banking activities with the citizens of, or with thelocal currency of, the country which issued the license.
+Offshore banking license.—The term “offshore banking license” means a license to conduct banking activities which, as a condition of the license, prohibits the licensed entity from conducting banking activities with the citizens of, or with the local currency of, the country which issued the license.
 
 &emsp;&emsp;(B)
 
@@ -304,7 +304,7 @@ Appropriate federal banking agency.—The term “appropriate Federal banking ag
 
 &emsp;&emsp;(B)
 
-Incorporated term.—The term “correspondent account” has the same meaning as in section 5318A(f)(1)(B).
+Incorporated term.—The term “correspondent account” has the same meaning as in section 5318A(e)(1)(B).
 
 &emsp;(2) 120-
 
@@ -332,7 +332,7 @@ Acceptance of service.—
 
 &emsp;&emsp;&emsp;(i)
 
-Maintaining records in the united states.—Any covered financial institution which maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
+Maintaining records in the united states.—Any covered financial institutionwhich maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -396,7 +396,59 @@ Effective date.—Final regulations prescribed under this subsection shall take 
 
 Applicability of Rules.—Any rules promulgated pursuant to the authority contained in section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b) shall apply, in addition to any other financial institution to which such rules apply, to any person that engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012.)
+(n)
+
+Reporting of Certain Cross-Border Transmittals of Funds.—
+
+&emsp;(1)
+
+In general.—Subject to paragraphs (3) and (4), the Secretary shall prescribe regulations requiring such financial institutions as the Secretary determines to be appropriate to report to the Financial Crimes Enforcement Network certain cross-border electronic transmittals of funds, if the Secretary determines that reporting of such transmittals is reasonably necessary to conduct the efforts of the Secretary against money laundering and terrorist financing.
+
+&emsp;(2)
+
+Limitation on reporting requirements.—Information required to be reported by the regulations prescribed under paragraph (1) shall not exceed the information requiredto be retained by the reporting financial institution pursuant to section 21 of the Federal Deposit Insurance Act and the regulations promulgated thereunder, unless—
+
+&emsp;&emsp;(A) the Board of Governors of the Federal Reserve System and the Secretary jointly determine that a particular item or items of information are not currently required to be retained under such section or such regulations; and
+
+&emsp;&emsp;(B) the Secretary determines, after consultation with the Board of Governors of the Federal Reserve System, that the reporting of such information is reasonably necessary to conduct the efforts of the Secretary to identify cross-border money laundering and terrorist financing.
+
+&emsp;(3)
+
+Form and manner of reports.—In prescribing the regulations required under paragraph (1), the Secretary shall, subject to paragraph (2), determine the appropriate form, manner, content, and frequency of filing of the required reports.
+
+&emsp;(4)
+
+Feasibility report.—
+
+&emsp;&emsp;(A)
+
+In general.—Before prescribing the regulations required under paragraph (1), and as soon as is practicable after the date of enactment of the National Intelligence Reform Act of 2004, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that—
+
+&emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
+
+&emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
+
+&emsp;&emsp;&emsp;(iii) identifies the technology necessary for the Financial Crimes Enforcement Network to receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing; and
+
+&emsp;&emsp;&emsp;(iv) discusses the information security protections required by the exercise of the Secretary's authority under this subsection.
+
+&emsp;&emsp;(B)
+
+Consultation.—In reporting the feasibility report under subparagraph (A), the Secretary may consult with the Bank Secrecy Act Advisory Group established by the Secretary, and any other group considered by the Secretary to be relevant.
+
+&emsp;(5)
+
+Regulations.—
+
+&emsp;&emsp;(A)
+
+In general.—Subject to subparagraph (B), the regulations required by paragraph (1) shall be prescribed in final form by the Secretary, in consultation with the Board of Governors of the Federal Reserve System, before the end of the 3-year period beginning on the date of enactment of the National Intelligence Reform Act of 2004.
+
+&emsp;&emsp;(B)
+
+Technological feasibility.—No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748.)
 
 Historical and Revision Notes
 
@@ -416,15 +468,15 @@ Oct. 26, 1970, Pub. L. 91–508, §§205(a), (b)(1st sentence), 206, 84 Stat. 11
 
 31:1055.
 
-In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words“duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
+In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
 
 #### References in Text
 
-Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (<i>l</i>), is classified to section 1829b of Title 12, Banks and Banking.
+Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (b)(1), (m), and (n)(2), is classified to section 1829b of Title 12, Banks and Banking.
 
 Section 411 of the National Housing Act, referred to in subsec. (b)(1), which was classified to section 1730d of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2 (§§121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
+Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2\(§§121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
 
 Subsection (a)(5), referred to in subsec. (f), was redesignated subsection (a)(6) by section 410(a)(2) of Pub. L. 103–325.
 
@@ -436,11 +488,21 @@ Section 4(k) of the Bank Holding Company Act of 1956, referred to in subsec. (<i
 
 The date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001, referred to in subsec. (<i>l</i>)(6), is the date of enactment of title III of Pub. L. 107–56, which was approved Oct. 26, 2001.
 
-#### Codification
+The date of enactment of the National Intelligence Reform Act of 2004, referred to in subsec. (n)(4)(A), (5)(A), probably means the date of enactment of the National Security Intelligence Reform Act of 2004, title I of Pub. L. 108–458, which was approved Dec. 17, 2004.
 
-Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
+For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see section 1564 of Pub. L. 102–550, which is set out as a note under section 5311 of this title.
 
 #### Amendments
+
+2004—Subsec. (h)(3). Pub. L. 108–458, §6202(h), made technical correction to directory language of Pub. L. 107–56, §325. See 2001 Amendment note below.
+
+Subsec. (i)(3)(B). Pub. L. 108–458, §6203(c)(1), inserted comma before “that is reasonably designed”.
+
+Subsec. (i)(4). Pub. L. 108–458, §6203(c)(2), substituted “Definitions” for “Definition” in heading.
+
+Subsec. (k)(1)(B). Pub. L. 108–458, §6203(d), substituted “section 5318A(e)(1)(B)” for “section 5318A(f)(1)(B)”.
+
+Subsec. (n). Pub. L. 108–458, §6302, added subsec. (n).
 
 2003—Subsecs. (<i>l</i>), (m). Pub. L. 108–159 redesignated subsec. (<i>l</i>), relating to applicability of rules, as (m).
 
@@ -476,7 +538,7 @@ In general.—In order to guard against money laundering through financial insti
 
 Regulations.—The Secretary may prescribe minimum standards for programs established under paragraph (1).”
 
-Subsec. (h)(3). Pub. L. 107–56, §325, which directed amendment of subsec. (h) of this section, “as amended by section 202 of this title”, by adding par. (3), was executed by adding par. (3) to subsec. (h) of this section, as amended by section 352 of title III of Pub. L. 107–56, to reflect the probable intent of Congress.
+Subsec. (h)(3). Pub. L. 107–56, §325, as amended by Pub. L. 108–458, §6202(h), added par. (3).
 
 Subsec. (i). Pub. L. 107–56, §312(a), added subsec. (i).
 
@@ -518,13 +580,15 @@ Subsecs. (b) to (e). Pub. L. 99–570, §1356(a)(6), added subsecs. (b) to (e).
 
 Subsec. (f). Pub. L. 99–570, §1356(b), added subsec. (f).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by sections 6202(h) and 6203(c), (d) of Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
+
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
 
-#### Effective and Termination Dates of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
 
@@ -586,7 +650,7 @@ Section 404 of Pub. L. 103–325 provided that:
 
 “(a)
 
-Enhanced Training, Examinations, and Referrals by Banking Agencies.—Before the end of the 6-month period beginning on the date of enactment of this Act \[Sept. 23, 1994\], each appropriate Federal banking agency shall, in consultation with the Secretary ofthe Treasury and other appropriate law enforcement agencies—
+Enhanced Training, Examinations, and Referrals by Banking Agencies.—Before the end of the 6-month period beginning on the date of enactment of this Act \[Sept. 23, 1994\], each appropriate Federal banking agency shall, in consultation with the Secretary of the Treasury and other appropriate law enforcement agencies—
 
 &emsp;“(1) review and enhance training and examination procedures to improve the identification of money laundering schemes involving depository institutions; and
 
@@ -603,10 +667,6 @@ Report to Congress.—The Financial Institutions Examination Council shall submi
 “(d)
 
 Definition.—For purposes of this section, the term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5313, 5318A, 5321, 5322 of this title; title 15 section 1681m; title 18 section 981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

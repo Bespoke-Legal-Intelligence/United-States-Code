@@ -16,5 +16,5 @@ The provisions of Public Laws 9 and 73, referred to in text, are not classified 
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1522 of this title.
 
-Functions of Federal Works Administrator relating to defense housing consolidated with other agenciesinto National Housing Agency during World War II by Ex. Ord. No. 9070.
+Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
 

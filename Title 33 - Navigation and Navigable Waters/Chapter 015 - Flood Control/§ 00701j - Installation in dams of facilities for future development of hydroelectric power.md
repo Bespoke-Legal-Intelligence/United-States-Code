@@ -22,7 +22,3 @@ For transfer of functions of Federal Power Commission, with certain reservations
 
 Similar provisions with reference to dams authorized in such acts were contained in acts Aug. 18, 1941, ch. 377, §3, 55 Stat. 639; Dec. 22, 1944, ch. 665, §10, 58 Stat. 891; July 24, 1946, ch. 596, §10, 60 Stat. 643.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 701b–4, 701c–1, 701f–1 of this title.
-

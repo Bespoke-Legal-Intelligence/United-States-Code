@@ -22,7 +22,3 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 649 of this title.
-

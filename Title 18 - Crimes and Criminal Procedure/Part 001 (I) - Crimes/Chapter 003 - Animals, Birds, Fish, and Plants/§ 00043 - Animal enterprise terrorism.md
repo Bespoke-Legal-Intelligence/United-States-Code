@@ -80,7 +80,7 @@ Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
 #### Short Title
 
-Section 1 of Pub. L. 102–346 provided that: “This Act \[enacting this section and provisions set out below\]may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
+Section 1 of Pub. L. 102–346 provided that: “This Act \[enacting this section and provisions set out below\] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises
 

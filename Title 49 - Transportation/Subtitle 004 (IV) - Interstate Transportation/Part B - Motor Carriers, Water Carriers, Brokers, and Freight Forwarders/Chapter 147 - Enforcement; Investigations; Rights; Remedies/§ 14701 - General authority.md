@@ -6,7 +6,7 @@ Investigations.—The Secretary or the Board, as applicable, may begin an invest
 
 (b)
 
-Complaints.—A person, including a governmental authority, may file with the Secretary or Board, as applicable, a complaint about a violation of this part by a carrier providing, or broker for, transportation or service subject to jurisdiction under this part or a foreign motor carrier or foreign motor private carrier providing transportation registered under section 13902 of this title. The complaint muststate the facts that are the subject of the violation. The Secretary or Board, as applicable, may dismiss a complaint that it determines does not state reasonable grounds for investigation and action.
+Complaints.—A person, including a governmental authority, may file with the Secretary or Board, as applicable, a complaint about a violation of this part by a carrier providing, or broker for, transportation or service subject to jurisdiction under this part or a foreign motor carrier or foreign motor private carrier providing transportation registered under section 13902 of this title. The complaint must state the facts that are the subject of the violation. The Secretary or Board, as applicable, may dismiss a complaint that it determines does not state reasonable grounds for investigation and action.
 
 (c)
 
@@ -21,8 +21,4 @@ Provisions similar to those in this section were contained in section 11701 of t
 #### Effective Date
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 13905, 14704 of this title.
 

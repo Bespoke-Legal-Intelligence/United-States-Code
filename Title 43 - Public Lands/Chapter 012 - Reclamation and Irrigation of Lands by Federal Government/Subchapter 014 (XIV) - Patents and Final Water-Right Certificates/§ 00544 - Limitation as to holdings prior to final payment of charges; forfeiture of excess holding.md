@@ -20,7 +20,3 @@ Section comprises part of section 3 of act Aug. 9, 1912. Remainder of section 3 
 
 For provisions authorizing the Secretary of the Interior to amend existing contracts under the Federal reclamation laws to conform to the provisions of this section, see section 3 of act July 11, 1956, set out as a note under section 423e of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 451h of this title.
-

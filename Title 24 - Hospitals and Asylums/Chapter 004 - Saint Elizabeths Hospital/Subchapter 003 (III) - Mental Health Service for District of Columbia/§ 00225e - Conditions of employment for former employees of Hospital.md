@@ -16,7 +16,7 @@ Each individual accepting employment without a break in service with the Distric
 
 &emsp;(6) be entitled to the same health and life insurance benefits as are available to District employees in the applicable service;
 
-&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be coveredby the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government <sup>1</sup> employees; and
+&emsp;(7) if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to thesame extent that such retirement system covers District Government <sup>1</sup> employees; and
 
 &emsp;(8) if employed by the Federal Government on or after January 1, 1984, be subject to the retirement system applicable to District government employees pursuant to title XXVI, Retirement, of the District of Columbia Government Comprehensive Merit Personnel Act of 1978.
 
